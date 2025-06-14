@@ -11,6 +11,8 @@ import org.springframework.security.crypto.password.PasswordEncoder;
 import org.springframework.security.web.SecurityFilterChain;
 import org.springframework.security.web.util.matcher.AntPathRequestMatcher;
 import org.springframework.security.authentication.AuthenticationManager;
+import org.springframework.security.config.http.SessionCreationPolicy; // ADD THIS
+import org.springframework.http.HttpMethod; // ADD THIS
 
 import com.pokemarket.service.CustomUserDetailsService;
 
@@ -26,30 +28,22 @@ public class SecurityConfig {
   return new BCryptPasswordEncoder();
  }
 
- @Bean
- public SecurityFilterChain securityFilterChain(HttpSecurity http) throws Exception {
-     http.csrf(csrf -> csrf.disable()).cors(cors -> cors.configurationSource(corsConfigurationSource()))
-    .authorizeHttpRequests(requests -> requests
-            .requestMatchers(org.springframework.http.HttpMethod.OPTIONS, "/**").permitAll()
-        .requestMatchers("/api/**").permitAll()
-    )
-    .formLogin(login -> login
-        .loginPage("/login")
-        .loginProcessingUrl("/login")
-        .defaultSuccessUrl("/home", true)
-        .permitAll()
-    )
-    .logout(logout -> logout
-        .invalidateHttpSession(true)
-        .clearAuthentication(true)
-        .logoutRequestMatcher(new AntPathRequestMatcher("/logout", "GET"))
-        .logoutSuccessUrl("/login?logout")
-        .permitAll()
-    );
+    @Bean
+    public SecurityFilterChain securityFilterChain(HttpSecurity http) throws Exception {
+        http.csrf(csrf -> csrf.disable())
+                .cors(cors -> cors.configurationSource(corsConfigurationSource()))
+                .sessionManagement(session -> session
+                        .sessionCreationPolicy(SessionCreationPolicy.IF_REQUIRED) // Changed from STATELESS
+                )
+                .authorizeHttpRequests(requests -> requests
+                        .requestMatchers(HttpMethod.OPTIONS, "/**").permitAll()
+                        .requestMatchers("/api/login", "/api/register").permitAll()
+                        .requestMatchers("/api/**").authenticated() // Now this will work properly
+                        .anyRequest().permitAll()
+                );
 
-  return http.build();
-
- }
+        return http.build();
+    }
     @Bean
     public org.springframework.web.cors.CorsConfigurationSource corsConfigurationSource() {
         var configuration = new org.springframework.web.cors.CorsConfiguration();

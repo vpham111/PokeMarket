@@ -28,14 +28,12 @@ export default function Page() {
 
         if (data.status === "success") {
             router.push('/')
-        }
-        else if (data.message === "Email Does Not Exist") {
+        } else if (data.message === "Email Does Not Exist") {
             setError("Email Does Not Exist")
-        }
-        else if (data.message === "User not found") {
-            setError("Email Not Found");
-        } else {
+        } else if (data.message === "Incorrect Password") {
             setError("Incorrect Password");
+        } else {
+            setError(data.message || "Login failed");
         }
     }
 

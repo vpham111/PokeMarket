@@ -26,6 +26,7 @@ public class User {
     @Column(nullable = false)
     private String password;
 
+    @Column(name = "joinedat")
     private LocalDate joinedAt;
 
     @Column(columnDefinition = "TEXT")
