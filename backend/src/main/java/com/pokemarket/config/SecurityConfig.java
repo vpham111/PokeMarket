@@ -28,12 +28,10 @@ public class SecurityConfig {
 
  @Bean
  public SecurityFilterChain securityFilterChain(HttpSecurity http) throws Exception {
-     http.csrf(csrf -> csrf.disable())
+     http.csrf(csrf -> csrf.disable()).cors(cors -> cors.configurationSource(corsConfigurationSource()))
     .authorizeHttpRequests(requests -> requests
-        .requestMatchers("/register").permitAll()
-        .requestMatchers("/login").permitAll()
-        .requestMatchers("/home").permitAll()
-        .anyRequest().authenticated()
+            .requestMatchers(org.springframework.http.HttpMethod.OPTIONS, "/**").permitAll()
+        .requestMatchers("/api/**").permitAll()
     )
     .formLogin(login -> login
         .loginPage("/login")
@@ -52,6 +50,18 @@ public class SecurityConfig {
   return http.build();
 
  }
+    @Bean
+    public org.springframework.web.cors.CorsConfigurationSource corsConfigurationSource() {
+        var configuration = new org.springframework.web.cors.CorsConfiguration();
+        configuration.setAllowedOrigins(java.util.List.of("http://localhost:3000"));  // Next.js dev server
+        configuration.setAllowedMethods(java.util.List.of("GET", "POST", "PUT", "DELETE", "OPTIONS"));
+        configuration.setAllowCredentials(true);
+        configuration.setAllowedHeaders(java.util.List.of("*"));
+
+        var source = new org.springframework.web.cors.UrlBasedCorsConfigurationSource();
+        source.registerCorsConfiguration("/**", configuration);
+        return source;
+    }
 
 @Bean
 public AuthenticationManager authManager(HttpSecurity http) throws Exception {

@@ -46,6 +46,7 @@ public class UserServiceImpl implements UserService {
         userDto.getBio(),
         userDto.getJoinedAt() != null ? userDto.getJoinedAt() : LocalDate.now()
     );
+  user.setId(UUID.randomUUID());
   return userRepository.save(user);
  }
 
