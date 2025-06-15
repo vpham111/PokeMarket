@@ -19,7 +19,7 @@ CREATE TABLE Users (
     lastname VARCHAR NOT NULL,
     email VARCHAR NOT NULL,
     password VARCHAR NOT NULL,
-    joinedAt DATE,
+    joined_at DATE,
     bio TEXT
 );
 
@@ -30,7 +30,7 @@ CREATE TABLE Listings (
     sellerId UUID references Users(id),
     price DECIMAL NOT NULL ,
     quantity INT,
-    createdAt timestamp,
+    created_at timestamp,
     status listingStatus
 );
 
@@ -39,8 +39,8 @@ CREATE TABLE Transaction (
     id UUID PRIMARY KEY ,
     buyerId UUID references Users(id),
     listingId UUID references Listings(id),
-    salePrice DECIMAL,
+    sale_price DECIMAL,
     quantity INT,
     status transactionStatus,
-    purchaseDate TIMESTAMP
+    purchase_date TIMESTAMP
 );
