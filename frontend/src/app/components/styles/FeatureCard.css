@@ -1,0 +1,42 @@
+.featureCont {
+    display: flex;
+    background: #5E5DF0;
+    border-radius: 10px;
+    box-shadow: #5E5DF0 0 4px 12px rgba(0, 0, 0, 0.1); /* match the size you'll use on hover */
+    box-sizing: border-box;
+    color: #FFFFFF;
+    cursor: pointer;
+    font-family: Inter,Helvetica,"Apple Color Emoji","Segoe UI Emoji",NotoColorEmoji,"Noto Color Emoji","Segoe UI Symbol","Android Emoji",EmojiSymbols,-apple-system,system-ui,"Segoe UI",Roboto,"Helvetica Neue","Noto Sans",sans-serif;
+    line-height: 24px;
+    opacity: 1;
+    outline: 0 solid transparent;
+    padding: 8px 18px;
+    user-select: none;
+    -webkit-user-select: none;
+    touch-action: manipulation;
+    width: 200px;
+    word-break: break-word;
+    border: 0;
+
+}
+
+.featureContInner {
+    transition: transform 0.2s ease, box-shadow 0.2s ease;
+}
+
+.featureCont:hover .featureContInner {
+    transform: scale(1.05);
+    box-shadow: #5E5DF0 0 8px 24px rgba(0, 0, 0, 0.2);
+}
+
+
+.fName {
+    font-size: 0.875rem;
+    font-weight: 700;
+}
+.fDescription {
+    font-size: 0.75rem;
+}
+.fSymbol {
+    font-size: 2rem;
+}

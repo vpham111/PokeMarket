@@ -1,46 +1,48 @@
 
 CREATE TABLE Set (
-    id UUID PRIMARY KEY,
+    id UUID PRIMARY KEY DEFAULT uuid_generate_v4(),
     name VARCHAR(100) NOT NULL,
+    language VARCHAR(15),
     release_date DATE
 );
 
 CREATE TABLE Card (
-    id UUID PRIMARY KEY,
-    name VARCHAR,
+    id UUID PRIMARY KEY DEFAULT uuid_generate_v4(),
+    name VARCHAR(100),
     setId UUID REFERENCES Set(id),
     rarity VARCHAR (50),
-    card_number VARCHAR(20)
+    card_number VARCHAR(20),
+    language VARCHAR(15)
 );
 
 CREATE TABLE Users (
-    id UUID PRIMARY KEY,
-    firstname VARCHAR NOT NULL,
-    lastname VARCHAR NOT NULL,
-    email VARCHAR NOT NULL,
-    password VARCHAR NOT NULL,
-    joined_at DATE,
+    id UUID PRIMARY KEY DEFAULT uuid_generate_v4(),
+    firstname VARCHAR(100) NOT NULL,
+    lastname VARCHAR(100) NOT NULL,
+    email VARCHAR(255) NOT NULL UNIQUE ,
+    password VARCHAR(255) NOT NULL,
+    joinedat DATE,
     bio TEXT
 );
 
 CREATE TYPE listingStatus AS ENUM ('Active', 'Sold');
 CREATE TABLE Listings (
-    id UUID PRIMARY KEY ,
+    id UUID PRIMARY KEY DEFAULT uuid_generate_v4(),
     cardId UUID references Card(id),
     sellerId UUID references Users(id),
-    price DECIMAL NOT NULL ,
-    quantity INT,
+    price DECIMAL(10, 2) NOT NULL ,
+    quantity INT CHECK (quantity > 0),
     created_at timestamp,
-    status listingStatus
+    status listingStatus DEFAULT 'Active'
 );
 
 CREATE TYPE transactionStatus AS ENUM ('Pending', 'Completed', 'Cancelled');
 CREATE TABLE Transaction (
-    id UUID PRIMARY KEY ,
+    id UUID PRIMARY KEY DEFAULT uuid_generate_v4(),
     buyerId UUID references Users(id),
     listingId UUID references Listings(id),
-    sale_price DECIMAL,
-    quantity INT,
-    status transactionStatus,
-    purchase_date TIMESTAMP
+    sale_price DECIMAL(10, 2) NOT NULL ,
+    quantity INT CHECK (quantity > 0),
+    status transactionStatus DEFAULT 'Pending',
+    purchase_date TIMESTAMP DEFAULT now()
 );
