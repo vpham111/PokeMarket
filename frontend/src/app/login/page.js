@@ -50,7 +50,7 @@ export default function Page() {
         <>
             {login ? (
                 <div className="main">
-                    <h3>Enter your login credentials</h3>
+                    <h3 style={{color: "black"}}>Enter your login credentials</h3>
 
                     <form onSubmit={handleSubmit}>
                         <label>
@@ -79,7 +79,7 @@ export default function Page() {
                         </div>
                     )}
 
-                    <p>
+                    <p style={{color: "black"}}>
                         Not a Member?{" "}
                         <span onClick={changeMode} style={{color: "blue", cursor: "pointer"}}>
                             Join Now

@@ -1,0 +1,14 @@
+.header-box {
+    background-color: red;
+    display: block;        /* Makes the link fill the container */
+    width: 100%;          /* Ensures full width */
+    height: 100%;         /* Ensures full height */
+    text-align: center;   /* Centers the text */
+    padding: 0.2rem 0.5rem;
+}
+
+.header-box:hover {
+  background-color: blue;
+}
+
+            
