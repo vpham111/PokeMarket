@@ -1,0 +1,705 @@
+{
+  "setName": "EX Sandstorm",
+  "cards": [
+    {
+      "name": "Armaldo",
+      "set": "EX Sandstorm",
+      "img": "https://den-cards.pokellector.com/53/Armaldo.SS.1.png",
+      "rarity": "Rare",
+      "cardNum": "1/100"
+    },
+    {
+      "name": "Cacturne",
+      "set": "EX Sandstorm",
+      "img": "https://den-cards.pokellector.com/53/Cacturne.SS.2.png",
+      "rarity": "Rare",
+      "cardNum": "2/100"
+    },
+    {
+      "name": "Cradily",
+      "set": "EX Sandstorm",
+      "img": "https://den-cards.pokellector.com/53/Cradily.SS.3.png",
+      "rarity": "Rare",
+      "cardNum": "3/100"
+    },
+    {
+      "name": "Dusclops",
+      "set": "EX Sandstorm",
+      "img": "https://den-cards.pokellector.com/53/Dusclops.SS.4.png",
+      "rarity": "Rare",
+      "cardNum": "4/100"
+    },
+    {
+      "name": "Flareon",
+      "set": "EX Sandstorm",
+      "img": "https://den-cards.pokellector.com/53/Flareon.SS.5.png",
+      "rarity": "Rare",
+      "cardNum": "5/100"
+    },
+    {
+      "name": "Jolteon",
+      "set": "EX Sandstorm",
+      "img": "https://den-cards.pokellector.com/53/Jolteon.SS.6.png",
+      "rarity": "Rare",
+      "cardNum": "6/100"
+    },
+    {
+      "name": "Ludicolo",
+      "set": "EX Sandstorm",
+      "img": "https://den-cards.pokellector.com/53/Ludicolo.SS.7.png",
+      "rarity": "Rare",
+      "cardNum": "7/100"
+    },
+    {
+      "name": "Lunatone",
+      "set": "EX Sandstorm",
+      "img": "https://den-cards.pokellector.com/53/Lunatone.SS.8.png",
+      "rarity": "Rare",
+      "cardNum": "8/100"
+    },
+    {
+      "name": "Mawile",
+      "set": "EX Sandstorm",
+      "img": "https://den-cards.pokellector.com/53/Mawile.SS.9.png",
+      "rarity": "Rare",
+      "cardNum": "9/100"
+    },
+    {
+      "name": "Sableye",
+      "set": "EX Sandstorm",
+      "img": "https://den-cards.pokellector.com/53/Sableye.SS.10.png",
+      "rarity": "Rare",
+      "cardNum": "10/100"
+    },
+    {
+      "name": "Seviper",
+      "set": "EX Sandstorm",
+      "img": "https://den-cards.pokellector.com/53/Seviper.SS.11.png",
+      "rarity": "Rare",
+      "cardNum": "11/100"
+    },
+    {
+      "name": "Shiftry",
+      "set": "EX Sandstorm",
+      "img": "https://den-cards.pokellector.com/53/Shiftry.SS.12.png",
+      "rarity": "Rare",
+      "cardNum": "12/100"
+    },
+    {
+      "name": "Solrock",
+      "set": "EX Sandstorm",
+      "img": "https://den-cards.pokellector.com/53/Solrock.SS.13.png",
+      "rarity": "Rare",
+      "cardNum": "13/100"
+    },
+    {
+      "name": "Zangoose",
+      "set": "EX Sandstorm",
+      "img": "https://den-cards.pokellector.com/53/Zangoose.SS.14.png",
+      "rarity": "Rare",
+      "cardNum": "14/100"
+    },
+    {
+      "name": "Arcanine",
+      "set": "EX Sandstorm",
+      "img": "https://den-cards.pokellector.com/53/Arcanine.SS.15.png",
+      "rarity": "Rare",
+      "cardNum": "15/100"
+    },
+    {
+      "name": "Espeon",
+      "set": "EX Sandstorm",
+      "img": "https://den-cards.pokellector.com/53/Espeon.SS.16.png",
+      "rarity": "Rare",
+      "cardNum": "16/100"
+    },
+    {
+      "name": "Golduck",
+      "set": "EX Sandstorm",
+      "img": "https://den-cards.pokellector.com/53/Golduck.SS.17.png",
+      "rarity": "Rare",
+      "cardNum": "17/100"
+    },
+    {
+      "name": "Kecleon",
+      "set": "EX Sandstorm",
+      "img": "https://den-cards.pokellector.com/53/Kecleon.SS.18.png",
+      "rarity": "Rare",
+      "cardNum": "18/100"
+    },
+    {
+      "name": "Omastar",
+      "set": "EX Sandstorm",
+      "img": "https://den-cards.pokellector.com/53/Omastar.SS.19.png",
+      "rarity": "Rare",
+      "cardNum": "19/100"
+    },
+    {
+      "name": "Pichu",
+      "set": "EX Sandstorm",
+      "img": "https://den-cards.pokellector.com/53/Pichu.SS.20.png",
+      "rarity": "Rare",
+      "cardNum": "20/100"
+    },
+    {
+      "name": "Sandslash",
+      "set": "EX Sandstorm",
+      "img": "https://den-cards.pokellector.com/53/Sandslash.SS.21.png",
+      "rarity": "Rare",
+      "cardNum": "21/100"
+    },
+    {
+      "name": "Shiftry",
+      "set": "EX Sandstorm",
+      "img": "https://den-cards.pokellector.com/53/Shiftry.SS.22.png",
+      "rarity": "Rare",
+      "cardNum": "22/100"
+    },
+    {
+      "name": "Steelix",
+      "set": "EX Sandstorm",
+      "img": "https://den-cards.pokellector.com/53/Steelix.SS.23.png",
+      "rarity": "Rare",
+      "cardNum": "23/100"
+    },
+    {
+      "name": "Umbreon",
+      "set": "EX Sandstorm",
+      "img": "https://den-cards.pokellector.com/53/Umbreon.SS.24.png",
+      "rarity": "Rare",
+      "cardNum": "24/100"
+    },
+    {
+      "name": "Vaporeon",
+      "set": "EX Sandstorm",
+      "img": "https://den-cards.pokellector.com/53/Vaporeon.SS.25.png",
+      "rarity": "Rare",
+      "cardNum": "25/100"
+    },
+    {
+      "name": "Wobbuffet",
+      "set": "EX Sandstorm",
+      "img": "https://den-cards.pokellector.com/53/Wobbuffet.SS.26.png",
+      "rarity": "Rare",
+      "cardNum": "26/100"
+    },
+    {
+      "name": "Anorith",
+      "set": "EX Sandstorm",
+      "img": "https://den-cards.pokellector.com/53/Anorith.SS.27.png",
+      "rarity": "Uncommon",
+      "cardNum": "27/100"
+    },
+    {
+      "name": "Anorith",
+      "set": "EX Sandstorm",
+      "img": "https://den-cards.pokellector.com/53/Anorith.SS.28.png",
+      "rarity": "Uncommon",
+      "cardNum": "28/100"
+    },
+    {
+      "name": "Arbok",
+      "set": "EX Sandstorm",
+      "img": "https://den-cards.pokellector.com/53/Arbok.SS.29.png",
+      "rarity": "Uncommon",
+      "cardNum": "29/100"
+    },
+    {
+      "name": "Azumarill",
+      "set": "EX Sandstorm",
+      "img": "https://den-cards.pokellector.com/53/Azumarill.SS.30.png",
+      "rarity": "Uncommon",
+      "cardNum": "30/100"
+    },
+    {
+      "name": "Azurill",
+      "set": "EX Sandstorm",
+      "img": "https://den-cards.pokellector.com/53/Azurill.SS.31.png",
+      "rarity": "Uncommon",
+      "cardNum": "31/100"
+    },
+    {
+      "name": "Baltoy",
+      "set": "EX Sandstorm",
+      "img": "https://den-cards.pokellector.com/53/Baltoy.SS.32.png",
+      "rarity": "Uncommon",
+      "cardNum": "32/100"
+    },
+    {
+      "name": "Breloom",
+      "set": "EX Sandstorm",
+      "img": "https://den-cards.pokellector.com/53/Breloom.SS.33.png",
+      "rarity": "Uncommon",
+      "cardNum": "33/100"
+    },
+    {
+      "name": "Delcatty",
+      "set": "EX Sandstorm",
+      "img": "https://den-cards.pokellector.com/53/Delcatty.SS.34.png",
+      "rarity": "Uncommon",
+      "cardNum": "34/100"
+    },
+    {
+      "name": "Electabuzz",
+      "set": "EX Sandstorm",
+      "img": "https://den-cards.pokellector.com/53/Electabuzz.SS.35.png",
+      "rarity": "Uncommon",
+      "cardNum": "35/100"
+    },
+    {
+      "name": "Elekid",
+      "set": "EX Sandstorm",
+      "img": "https://den-cards.pokellector.com/53/Elekid.SS.36.png",
+      "rarity": "Uncommon",
+      "cardNum": "36/100"
+    },
+    {
+      "name": "Fearow",
+      "set": "EX Sandstorm",
+      "img": "https://den-cards.pokellector.com/53/Fearow.SS.37.png",
+      "rarity": "Uncommon",
+      "cardNum": "37/100"
+    },
+    {
+      "name": "Illumise",
+      "set": "EX Sandstorm",
+      "img": "https://den-cards.pokellector.com/53/Illumise.SS.38.png",
+      "rarity": "Uncommon",
+      "cardNum": "38/100"
+    },
+    {
+      "name": "Kabuto",
+      "set": "EX Sandstorm",
+      "img": "https://den-cards.pokellector.com/53/Kabuto.SS.39.png",
+      "rarity": "Uncommon",
+      "cardNum": "39/100"
+    },
+    {
+      "name": "Kirlia",
+      "set": "EX Sandstorm",
+      "img": "https://den-cards.pokellector.com/53/Kirlia.SS.40.png",
+      "rarity": "Uncommon",
+      "cardNum": "40/100"
+    },
+    {
+      "name": "Lairon",
+      "set": "EX Sandstorm",
+      "img": "https://den-cards.pokellector.com/53/Lairon.SS.41.png",
+      "rarity": "Uncommon",
+      "cardNum": "41/100"
+    },
+    {
+      "name": "Lileep",
+      "set": "EX Sandstorm",
+      "img": "https://den-cards.pokellector.com/53/Lileep.SS.42.png",
+      "rarity": "Uncommon",
+      "cardNum": "42/100"
+    },
+    {
+      "name": "Lileep",
+      "set": "EX Sandstorm",
+      "img": "https://den-cards.pokellector.com/53/Lileep.SS.43.png",
+      "rarity": "Uncommon",
+      "cardNum": "43/100"
+    },
+    {
+      "name": "Linoone",
+      "set": "EX Sandstorm",
+      "img": "https://den-cards.pokellector.com/53/Linoone.SS.44.png",
+      "rarity": "Uncommon",
+      "cardNum": "44/100"
+    },
+    {
+      "name": "Lombre",
+      "set": "EX Sandstorm",
+      "img": "https://den-cards.pokellector.com/53/Lombre.SS.45.png",
+      "rarity": "Uncommon",
+      "cardNum": "45/100"
+    },
+    {
+      "name": "Lombre",
+      "set": "EX Sandstorm",
+      "img": "https://den-cards.pokellector.com/53/Lombre.SS.46.png",
+      "rarity": "Uncommon",
+      "cardNum": "46/100"
+    },
+    {
+      "name": "Murkrow",
+      "set": "EX Sandstorm",
+      "img": "https://den-cards.pokellector.com/53/Murkrow.SS.47.png",
+      "rarity": "Uncommon",
+      "cardNum": "47/100"
+    },
+    {
+      "name": "Nuzleaf",
+      "set": "EX Sandstorm",
+      "img": "https://den-cards.pokellector.com/53/Nuzleaf.SS.48.png",
+      "rarity": "Uncommon",
+      "cardNum": "48/100"
+    },
+    {
+      "name": "Nuzleaf",
+      "set": "EX Sandstorm",
+      "img": "https://den-cards.pokellector.com/53/Nuzleaf.SS.49.png",
+      "rarity": "Uncommon",
+      "cardNum": "49/100"
+    },
+    {
+      "name": "Pelipper",
+      "set": "EX Sandstorm",
+      "img": "https://den-cards.pokellector.com/53/Pelipper.SS.50.png",
+      "rarity": "Uncommon",
+      "cardNum": "50/100"
+    },
+    {
+      "name": "Quilava",
+      "set": "EX Sandstorm",
+      "img": "https://den-cards.pokellector.com/53/Quilava.SS.51.png",
+      "rarity": "Uncommon",
+      "cardNum": "51/100"
+    },
+    {
+      "name": "Vigoroth",
+      "set": "EX Sandstorm",
+      "img": "https://den-cards.pokellector.com/53/Vigoroth.SS.52.png",
+      "rarity": "Uncommon",
+      "cardNum": "52/100"
+    },
+    {
+      "name": "Volbeat",
+      "set": "EX Sandstorm",
+      "img": "https://den-cards.pokellector.com/53/Volbeat.SS.53.png",
+      "rarity": "Uncommon",
+      "cardNum": "53/100"
+    },
+    {
+      "name": "Wynaut",
+      "set": "EX Sandstorm",
+      "img": "https://den-cards.pokellector.com/53/Wynaut.SS.54.png",
+      "rarity": "Uncommon",
+      "cardNum": "54/100"
+    },
+    {
+      "name": "Xatu",
+      "set": "EX Sandstorm",
+      "img": "https://den-cards.pokellector.com/53/Xatu.SS.55.png",
+      "rarity": "Uncommon",
+      "cardNum": "55/100"
+    },
+    {
+      "name": "Aron",
+      "set": "EX Sandstorm",
+      "img": "https://den-cards.pokellector.com/53/Aron.SS.56.png",
+      "rarity": "Common",
+      "cardNum": "56/100"
+    },
+    {
+      "name": "Cacnea",
+      "set": "EX Sandstorm",
+      "img": "https://den-cards.pokellector.com/53/Cacnea.SS.57.png",
+      "rarity": "Common",
+      "cardNum": "57/100"
+    },
+    {
+      "name": "Cacnea",
+      "set": "EX Sandstorm",
+      "img": "https://den-cards.pokellector.com/53/Cacnea.SS.58.png",
+      "rarity": "Common",
+      "cardNum": "58/100"
+    },
+    {
+      "name": "Cyndaquil",
+      "set": "EX Sandstorm",
+      "img": "https://den-cards.pokellector.com/53/Cyndaquil.SS.59.png",
+      "rarity": "Common",
+      "cardNum": "59/100"
+    },
+    {
+      "name": "Dunsparce",
+      "set": "EX Sandstorm",
+      "img": "https://den-cards.pokellector.com/53/Dunsparce.SS.60.png",
+      "rarity": "Common",
+      "cardNum": "60/100"
+    },
+    {
+      "name": "Duskull",
+      "set": "EX Sandstorm",
+      "img": "https://den-cards.pokellector.com/53/Duskull.SS.61.png",
+      "rarity": "Common",
+      "cardNum": "61/100"
+    },
+    {
+      "name": "Duskull",
+      "set": "EX Sandstorm",
+      "img": "https://den-cards.pokellector.com/53/Duskull.SS.62.png",
+      "rarity": "Common",
+      "cardNum": "62/100"
+    },
+    {
+      "name": "Eevee",
+      "set": "EX Sandstorm",
+      "img": "https://den-cards.pokellector.com/53/Eevee.SS.63.png",
+      "rarity": "Common",
+      "cardNum": "63/100"
+    },
+    {
+      "name": "Ekans",
+      "set": "EX Sandstorm",
+      "img": "https://den-cards.pokellector.com/53/Ekans.SS.64.png",
+      "rarity": "Common",
+      "cardNum": "64/100"
+    },
+    {
+      "name": "Growlithe",
+      "set": "EX Sandstorm",
+      "img": "https://den-cards.pokellector.com/53/Growlithe.SS.65.png",
+      "rarity": "Common",
+      "cardNum": "65/100"
+    },
+    {
+      "name": "Lotad",
+      "set": "EX Sandstorm",
+      "img": "https://den-cards.pokellector.com/53/Lotad.SS.66.png",
+      "rarity": "Common",
+      "cardNum": "66/100"
+    },
+    {
+      "name": "Lotad",
+      "set": "EX Sandstorm",
+      "img": "https://den-cards.pokellector.com/53/Lotad.SS.67.png",
+      "rarity": "Common",
+      "cardNum": "67/100"
+    },
+    {
+      "name": "Marill",
+      "set": "EX Sandstorm",
+      "img": "https://den-cards.pokellector.com/53/Marill.SS.68.png",
+      "rarity": "Common",
+      "cardNum": "68/100"
+    },
+    {
+      "name": "Natu",
+      "set": "EX Sandstorm",
+      "img": "https://den-cards.pokellector.com/53/Natu.SS.69.png",
+      "rarity": "Common",
+      "cardNum": "69/100"
+    },
+    {
+      "name": "Omanyte",
+      "set": "EX Sandstorm",
+      "img": "https://den-cards.pokellector.com/53/Omanyte.SS.70.png",
+      "rarity": "Common",
+      "cardNum": "70/100"
+    },
+    {
+      "name": "Onix",
+      "set": "EX Sandstorm",
+      "img": "https://den-cards.pokellector.com/53/Onix.SS.71.png",
+      "rarity": "Common",
+      "cardNum": "71/100"
+    },
+    {
+      "name": "Pikachu",
+      "set": "EX Sandstorm",
+      "img": "https://den-cards.pokellector.com/53/Pikachu.SS.72.png",
+      "rarity": "Common",
+      "cardNum": "72/100"
+    },
+    {
+      "name": "Psyduck",
+      "set": "EX Sandstorm",
+      "img": "https://den-cards.pokellector.com/53/Psyduck.SS.73.png",
+      "rarity": "Common",
+      "cardNum": "73/100"
+    },
+    {
+      "name": "Ralts",
+      "set": "EX Sandstorm",
+      "img": "https://den-cards.pokellector.com/53/Ralts.SS.74.png",
+      "rarity": "Common",
+      "cardNum": "74/100"
+    },
+    {
+      "name": "Sandshrew",
+      "set": "EX Sandstorm",
+      "img": "https://den-cards.pokellector.com/53/Sandshrew.SS.75.png",
+      "rarity": "Common",
+      "cardNum": "75/100"
+    },
+    {
+      "name": "Seedot",
+      "set": "EX Sandstorm",
+      "img": "https://den-cards.pokellector.com/53/Seedot.SS.76.png",
+      "rarity": "Common",
+      "cardNum": "76/100"
+    },
+    {
+      "name": "Seedot",
+      "set": "EX Sandstorm",
+      "img": "https://den-cards.pokellector.com/53/Seedot.SS.77.png",
+      "rarity": "Common",
+      "cardNum": "77/100"
+    },
+    {
+      "name": "Shroomish",
+      "set": "EX Sandstorm",
+      "img": "https://den-cards.pokellector.com/53/Shroomish.SS.78.png",
+      "rarity": "Common",
+      "cardNum": "78/100"
+    },
+    {
+      "name": "Skitty",
+      "set": "EX Sandstorm",
+      "img": "https://den-cards.pokellector.com/53/Skitty.SS.79.png",
+      "rarity": "Common",
+      "cardNum": "79/100"
+    },
+    {
+      "name": "Slakoth",
+      "set": "EX Sandstorm",
+      "img": "https://den-cards.pokellector.com/53/Slakoth.SS.80.png",
+      "rarity": "Common",
+      "cardNum": "80/100"
+    },
+    {
+      "name": "Spearow",
+      "set": "EX Sandstorm",
+      "img": "https://den-cards.pokellector.com/53/Spearow.SS.81.png",
+      "rarity": "Common",
+      "cardNum": "81/100"
+    },
+    {
+      "name": "Trapinch",
+      "set": "EX Sandstorm",
+      "img": "https://den-cards.pokellector.com/53/Trapinch.SS.82.png",
+      "rarity": "Common",
+      "cardNum": "82/100"
+    },
+    {
+      "name": "Wailmer",
+      "set": "EX Sandstorm",
+      "img": "https://den-cards.pokellector.com/53/Wailmer.SS.83.png",
+      "rarity": "Common",
+      "cardNum": "83/100"
+    },
+    {
+      "name": "Wingull",
+      "set": "EX Sandstorm",
+      "img": "https://den-cards.pokellector.com/53/Wingull.SS.84.png",
+      "rarity": "Common",
+      "cardNum": "84/100"
+    },
+    {
+      "name": "Zigzagoon",
+      "set": "EX Sandstorm",
+      "img": "https://den-cards.pokellector.com/53/Zigzagoon.SS.85.png",
+      "rarity": "Common",
+      "cardNum": "85/100"
+    },
+    {
+      "name": "Double Full Heal",
+      "set": "EX Sandstorm",
+      "img": "https://den-cards.pokellector.com/53/Double-Full-Heal.SS.86.png",
+      "rarity": "Uncommon",
+      "cardNum": "86/100"
+    },
+    {
+      "name": "Lanette's Net Search",
+      "set": "EX Sandstorm",
+      "img": "https://den-cards.pokellector.com/53/Lanettes-Net-Search.SS.87.png",
+      "rarity": "Uncommon",
+      "cardNum": "87/100"
+    },
+    {
+      "name": "Rare Candy",
+      "set": "EX Sandstorm",
+      "img": "https://den-cards.pokellector.com/53/Rare-Candy.SS.88.png",
+      "rarity": "Uncommon",
+      "cardNum": "88/100"
+    },
+    {
+      "name": "Wally's Training",
+      "set": "EX Sandstorm",
+      "img": "https://den-cards.pokellector.com/53/Wallys-Training.SS.89.png",
+      "rarity": "Uncommon",
+      "cardNum": "89/100"
+    },
+    {
+      "name": "Claw Fossil",
+      "set": "EX Sandstorm",
+      "img": "https://den-cards.pokellector.com/53/Claw-Fossil.SS.90.png",
+      "rarity": "Common",
+      "cardNum": "90/100"
+    },
+    {
+      "name": "Mysterious Fossil",
+      "set": "EX Sandstorm",
+      "img": "https://den-cards.pokellector.com/53/Mysterious-Fossil.SS.91.png",
+      "rarity": "Common",
+      "cardNum": "91/100"
+    },
+    {
+      "name": "Root Fossil",
+      "set": "EX Sandstorm",
+      "img": "https://den-cards.pokellector.com/53/Root-Fossil.SS.92.png",
+      "rarity": "Common",
+      "cardNum": "92/100"
+    },
+    {
+      "name": "Multi Energy",
+      "set": "EX Sandstorm",
+      "img": "https://den-cards.pokellector.com/53/Multi-Energy.SS.93.png",
+      "rarity": "Rare",
+      "cardNum": "93/100"
+    },
+    {
+      "name": "Aerodactyl EX",
+      "set": "EX Sandstorm",
+      "img": "https://den-cards.pokellector.com/53/Aerodactyl-EX.SS.94.png",
+      "rarity": "Rare",
+      "cardNum": "94/100"
+    },
+    {
+      "name": "Aggron EX",
+      "set": "EX Sandstorm",
+      "img": "https://den-cards.pokellector.com/53/Aggron-EX.SS.95.png",
+      "rarity": "Rare",
+      "cardNum": "95/100"
+    },
+    {
+      "name": "Gardevoir EX",
+      "set": "EX Sandstorm",
+      "img": "https://den-cards.pokellector.com/53/Gardevoir-EX.SS.96.png",
+      "rarity": "Rare",
+      "cardNum": "96/100"
+    },
+    {
+      "name": "Kabutops EX",
+      "set": "EX Sandstorm",
+      "img": "https://den-cards.pokellector.com/53/Kabutops-EX.SS.97.png",
+      "rarity": "Rare",
+      "cardNum": "97/100"
+    },
+    {
+      "name": "Raichu EX",
+      "set": "EX Sandstorm",
+      "img": "https://den-cards.pokellector.com/53/Raichu-EX.SS.98.png",
+      "rarity": "Rare",
+      "cardNum": "98/100"
+    },
+    {
+      "name": "Typhlosion EX",
+      "set": "EX Sandstorm",
+      "img": "https://den-cards.pokellector.com/53/Typhosion-EX.SS.99.png",
+      "rarity": "Rare",
+      "cardNum": "99/100"
+    },
+    {
+      "name": "Wailord EX",
+      "set": "EX Sandstorm",
+      "img": "https://den-cards.pokellector.com/53/Wailord-EX.SS.100.png",
+      "rarity": "Rare",
+      "cardNum": "100/100"
+    }
+  ]
+}

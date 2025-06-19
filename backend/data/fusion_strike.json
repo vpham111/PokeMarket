@@ -1,0 +1,1993 @@
+{
+  "setName": "Fusion Strike",
+  "cards": [
+    {
+      "name": "Caterpie",
+      "set": "Fusion Strike",
+      "img": "https://den-cards.pokellector.com/335/Caterpie.SWSH8.1.40673.png",
+      "rarity": "Common",
+      "cardNum": "1/264"
+    },
+    {
+      "name": "Metapod",
+      "set": "Fusion Strike",
+      "img": "https://den-cards.pokellector.com/335/Metapod.SWSH8.2.40674.png",
+      "rarity": "Common",
+      "cardNum": "2/264"
+    },
+    {
+      "name": "Butterfree",
+      "set": "Fusion Strike",
+      "img": "https://den-cards.pokellector.com/335/Butterfree.SWSH8.3.40675.png",
+      "rarity": "Rare",
+      "cardNum": "3/264"
+    },
+    {
+      "name": "Shroomish",
+      "set": "Fusion Strike",
+      "img": "https://den-cards.pokellector.com/335/Shroomish.SWSH8.4.40676.png",
+      "rarity": "Common",
+      "cardNum": "4/264"
+    },
+    {
+      "name": "Breloom",
+      "set": "Fusion Strike",
+      "img": "https://den-cards.pokellector.com/335/Breloom.SWSH8.5.40677.png",
+      "rarity": "Uncommon",
+      "cardNum": "5/264"
+    },
+    {
+      "name": "Breloom V",
+      "set": "Fusion Strike",
+      "img": "https://den-cards.pokellector.com/335/Breloom-V.SWSH8.6.40678.png",
+      "rarity": "Rare",
+      "cardNum": "6/264"
+    },
+    {
+      "name": "Pansage",
+      "set": "Fusion Strike",
+      "img": "https://den-cards.pokellector.com/335/Pansage.SWSH8.7.40679.png",
+      "rarity": "Common",
+      "cardNum": "7/264"
+    },
+    {
+      "name": "Simisage",
+      "set": "Fusion Strike",
+      "img": "https://den-cards.pokellector.com/335/Simisage.SWSH8.8.40680.png",
+      "rarity": "Uncommon",
+      "cardNum": "8/264"
+    },
+    {
+      "name": "Sewaddle",
+      "set": "Fusion Strike",
+      "img": "https://den-cards.pokellector.com/335/Sewaddle.SWSH8.9.40681.png",
+      "rarity": "Common",
+      "cardNum": "9/264"
+    },
+    {
+      "name": "Swadloon",
+      "set": "Fusion Strike",
+      "img": "https://den-cards.pokellector.com/335/Swadloon.SWSH8.10.40682.png",
+      "rarity": "Uncommon",
+      "cardNum": "10/264"
+    },
+    {
+      "name": "Leavanny",
+      "set": "Fusion Strike",
+      "img": "https://den-cards.pokellector.com/335/Leavanny.SWSH8.11.40683.png",
+      "rarity": "Rare",
+      "cardNum": "11/264"
+    },
+    {
+      "name": "Maractus",
+      "set": "Fusion Strike",
+      "img": "https://den-cards.pokellector.com/335/Maractus.SWSH8.12.40684.png",
+      "rarity": "Rare",
+      "cardNum": "12/264"
+    },
+    {
+      "name": "Shelmet",
+      "set": "Fusion Strike",
+      "img": "https://den-cards.pokellector.com/335/Shelmet.SWSH8.13.40685.png",
+      "rarity": "Common",
+      "cardNum": "13/264"
+    },
+    {
+      "name": "Accelgor",
+      "set": "Fusion Strike",
+      "img": "https://den-cards.pokellector.com/335/Accelgor.SWSH8.14.40686.png",
+      "rarity": "Rare",
+      "cardNum": "14/264"
+    },
+    {
+      "name": "Virizion",
+      "set": "Fusion Strike",
+      "img": "https://den-cards.pokellector.com/335/Virizion.SWSH8.15.40687.png",
+      "rarity": "Rare",
+      "cardNum": "15/264"
+    },
+    {
+      "name": "Phantump",
+      "set": "Fusion Strike",
+      "img": "https://den-cards.pokellector.com/335/Phantump.SWSH8.16.40688.png",
+      "rarity": "Common",
+      "cardNum": "16/264"
+    },
+    {
+      "name": "Trevenant",
+      "set": "Fusion Strike",
+      "img": "https://den-cards.pokellector.com/335/Trevenant.SWSH8.17.40689.png",
+      "rarity": "Uncommon",
+      "cardNum": "17/264"
+    },
+    {
+      "name": "Grubbin",
+      "set": "Fusion Strike",
+      "img": "https://den-cards.pokellector.com/335/Grubbin.SWSH8.18.40690.png",
+      "rarity": "Common",
+      "cardNum": "18/264"
+    },
+    {
+      "name": "Dewpider",
+      "set": "Fusion Strike",
+      "img": "https://den-cards.pokellector.com/335/Dewpider.SWSH8.19.40691.png",
+      "rarity": "Common",
+      "cardNum": "19/264"
+    },
+    {
+      "name": "Araquanid",
+      "set": "Fusion Strike",
+      "img": "https://den-cards.pokellector.com/335/Araquanid.SWSH8.20.40692.png",
+      "rarity": "Rare",
+      "cardNum": "20/264"
+    },
+    {
+      "name": "Tsareena V",
+      "set": "Fusion Strike",
+      "img": "https://den-cards.pokellector.com/335/Tsareena-V.SWSH8.21.40693.png",
+      "rarity": "Rare",
+      "cardNum": "21/264"
+    },
+    {
+      "name": "Rillaboom V",
+      "set": "Fusion Strike",
+      "img": "https://den-cards.pokellector.com/335/Rillaboom-V.SWSH8.22.40694.png",
+      "rarity": "Rare",
+      "cardNum": "22/264"
+    },
+    {
+      "name": "Rillaboom VMAX",
+      "set": "Fusion Strike",
+      "img": "https://den-cards.pokellector.com/335/Rillaboom-VMAX.SWSH8.23.40695.png",
+      "rarity": "Rare",
+      "cardNum": "23/264"
+    },
+    {
+      "name": "Gossifleur",
+      "set": "Fusion Strike",
+      "img": "https://den-cards.pokellector.com/335/Gossifleur.SWSH8.24.40696.png",
+      "rarity": "Common",
+      "cardNum": "24/264"
+    },
+    {
+      "name": "Eldegoss",
+      "set": "Fusion Strike",
+      "img": "https://den-cards.pokellector.com/335/Eldegoss.SWSH8.25.40697.png",
+      "rarity": "Uncommon",
+      "cardNum": "25/264"
+    },
+    {
+      "name": "Appletun V",
+      "set": "Fusion Strike",
+      "img": "https://den-cards.pokellector.com/335/Appletun-V.SWSH8.26.40698.png",
+      "rarity": "Rare",
+      "cardNum": "26/264"
+    },
+    {
+      "name": "Zarude",
+      "set": "Fusion Strike",
+      "img": "https://den-cards.pokellector.com/335/Zarude.SWSH8.27.40699.png",
+      "rarity": "Uncommon",
+      "cardNum": "27/264"
+    },
+    {
+      "name": "Vulpix",
+      "set": "Fusion Strike",
+      "img": "https://den-cards.pokellector.com/335/Vulpix.SWSH8.28.40700.png",
+      "rarity": "Common",
+      "cardNum": "28/264"
+    },
+    {
+      "name": "Vulpix",
+      "set": "Fusion Strike",
+      "img": "https://den-cards.pokellector.com/335/Vulpix.SWSH8.29.40701.png",
+      "rarity": "Common",
+      "cardNum": "29/264"
+    },
+    {
+      "name": "Ninetales",
+      "set": "Fusion Strike",
+      "img": "https://den-cards.pokellector.com/335/Ninetales.SWSH8.30.40702.png",
+      "rarity": "Uncommon",
+      "cardNum": "30/264"
+    },
+    {
+      "name": "Ninetales",
+      "set": "Fusion Strike",
+      "img": "https://den-cards.pokellector.com/335/Ninetales.SWSH8.31.40703.png",
+      "rarity": "Uncommon",
+      "cardNum": "31/264"
+    },
+    {
+      "name": "Growlithe",
+      "set": "Fusion Strike",
+      "img": "https://den-cards.pokellector.com/335/Growlithe.SWSH8.32.40704.png",
+      "rarity": "Common",
+      "cardNum": "32/264"
+    },
+    {
+      "name": "Arcanine",
+      "set": "Fusion Strike",
+      "img": "https://den-cards.pokellector.com/335/Arcanine.SWSH8.33.40705.png",
+      "rarity": "Rare",
+      "cardNum": "33/264"
+    },
+    {
+      "name": "Slugma",
+      "set": "Fusion Strike",
+      "img": "https://den-cards.pokellector.com/335/Slugma.SWSH8.34.40706.png",
+      "rarity": "Common",
+      "cardNum": "34/264"
+    },
+    {
+      "name": "Magcargo",
+      "set": "Fusion Strike",
+      "img": "https://den-cards.pokellector.com/335/Magcargo.SWSH8.35.40707.png",
+      "rarity": "Uncommon",
+      "cardNum": "35/264"
+    },
+    {
+      "name": "Victini",
+      "set": "Fusion Strike",
+      "img": "https://den-cards.pokellector.com/335/Victini.SWSH8.36.40708.png",
+      "rarity": "Uncommon",
+      "cardNum": "36/264"
+    },
+    {
+      "name": "Pansear",
+      "set": "Fusion Strike",
+      "img": "https://den-cards.pokellector.com/335/Pansear.SWSH8.37.40709.png",
+      "rarity": "Common",
+      "cardNum": "37/264"
+    },
+    {
+      "name": "Simisear",
+      "set": "Fusion Strike",
+      "img": "https://den-cards.pokellector.com/335/Simisear.SWSH8.38.40710.png",
+      "rarity": "Uncommon",
+      "cardNum": "38/264"
+    },
+    {
+      "name": "Chandelure V",
+      "set": "Fusion Strike",
+      "img": "https://den-cards.pokellector.com/335/Chandelure-V.SWSH8.39.40711.png",
+      "rarity": "Rare",
+      "cardNum": "39/264"
+    },
+    {
+      "name": "Chandelure VMAX",
+      "set": "Fusion Strike",
+      "img": "https://den-cards.pokellector.com/335/Chandelure-VMAX.SWSH8.40.40712.png",
+      "rarity": "Rare",
+      "cardNum": "40/264"
+    },
+    {
+      "name": "Heatmor",
+      "set": "Fusion Strike",
+      "img": "https://den-cards.pokellector.com/335/Heatmore.SWSH8.41.40713.png",
+      "rarity": "Uncommon",
+      "cardNum": "41/264"
+    },
+    {
+      "name": "Oricorio",
+      "set": "Fusion Strike",
+      "img": "https://den-cards.pokellector.com/335/Oricorio.SWSH8.42.40714.png",
+      "rarity": "Rare",
+      "cardNum": "42/264"
+    },
+    {
+      "name": "Cinderace V",
+      "set": "Fusion Strike",
+      "img": "https://den-cards.pokellector.com/335/Cinderace-V.SWSH8.43.40715.png",
+      "rarity": "Rare",
+      "cardNum": "43/264"
+    },
+    {
+      "name": "Cinderace V",
+      "set": "Fusion Strike",
+      "img": "https://den-cards.pokellector.com/335/Cinderace-V.SWSH8.44.40716.png",
+      "rarity": "Rare",
+      "cardNum": "44/264"
+    },
+    {
+      "name": "Cinderace VMAX",
+      "set": "Fusion Strike",
+      "img": "https://den-cards.pokellector.com/335/Cinderace-VMAX.SWSH8.45.40717.png",
+      "rarity": "Rare",
+      "cardNum": "45/264"
+    },
+    {
+      "name": "Sizzlipede",
+      "set": "Fusion Strike",
+      "img": "https://den-cards.pokellector.com/335/Sizzlipede.SWSH8.46.40718.png",
+      "rarity": "Common",
+      "cardNum": "46/264"
+    },
+    {
+      "name": "Sizzlipede",
+      "set": "Fusion Strike",
+      "img": "https://den-cards.pokellector.com/335/Sizzlipede.SWSH8.47.40719.png",
+      "rarity": "Common",
+      "cardNum": "47/264"
+    },
+    {
+      "name": "Centiskorch",
+      "set": "Fusion Strike",
+      "img": "https://den-cards.pokellector.com/335/Centiskorch.SWSH8.48.40720.png",
+      "rarity": "Rare",
+      "cardNum": "48/264"
+    },
+    {
+      "name": "Centiskorch",
+      "set": "Fusion Strike",
+      "img": "https://den-cards.pokellector.com/335/Centiskorch.SWSH8.49.40721.png",
+      "rarity": "Uncommon",
+      "cardNum": "49/264"
+    },
+    {
+      "name": "Shellder",
+      "set": "Fusion Strike",
+      "img": "https://den-cards.pokellector.com/335/Shellder.SWSH8.50.40722.png",
+      "rarity": "Common",
+      "cardNum": "50/264"
+    },
+    {
+      "name": "Cloyster",
+      "set": "Fusion Strike",
+      "img": "https://den-cards.pokellector.com/335/Cloyster.SWSH8.51.40723.png",
+      "rarity": "Rare",
+      "cardNum": "51/264"
+    },
+    {
+      "name": "Staryu",
+      "set": "Fusion Strike",
+      "img": "https://den-cards.pokellector.com/335/Staryu.SWSH8.52.40724.png",
+      "rarity": "Common",
+      "cardNum": "52/264"
+    },
+    {
+      "name": "Starmie",
+      "set": "Fusion Strike",
+      "img": "https://den-cards.pokellector.com/335/Starmie.SWSH8.53.40725.png",
+      "rarity": "Rare",
+      "cardNum": "53/264"
+    },
+    {
+      "name": "Lapras",
+      "set": "Fusion Strike",
+      "img": "https://den-cards.pokellector.com/335/Lapras.SWSH8.54.40726.png",
+      "rarity": "Uncommon",
+      "cardNum": "54/264"
+    },
+    {
+      "name": "Totodile",
+      "set": "Fusion Strike",
+      "img": "https://den-cards.pokellector.com/335/Totodile.SWSH8.55.40727.png",
+      "rarity": "Common",
+      "cardNum": "55/264"
+    },
+    {
+      "name": "Croconaw",
+      "set": "Fusion Strike",
+      "img": "https://den-cards.pokellector.com/335/Croconaw.SWSH8.56.40728.png",
+      "rarity": "Uncommon",
+      "cardNum": "56/264"
+    },
+    {
+      "name": "Feraligatr",
+      "set": "Fusion Strike",
+      "img": "https://den-cards.pokellector.com/335/Feraligatr.SWSH8.57.40729.png",
+      "rarity": "Rare",
+      "cardNum": "57/264"
+    },
+    {
+      "name": "Marill",
+      "set": "Fusion Strike",
+      "img": "https://den-cards.pokellector.com/335/Marill.SWSH8.58.40730.png",
+      "rarity": "Common",
+      "cardNum": "58/264"
+    },
+    {
+      "name": "Azumarill",
+      "set": "Fusion Strike",
+      "img": "https://den-cards.pokellector.com/335/Azumarill.SWSH8.59.40731.png",
+      "rarity": "Rare",
+      "cardNum": "59/264"
+    },
+    {
+      "name": "Qwilfish",
+      "set": "Fusion Strike",
+      "img": "https://den-cards.pokellector.com/335/Qwilfish.SWSH8.60.40732.png",
+      "rarity": "Common",
+      "cardNum": "60/264"
+    },
+    {
+      "name": "Mantine",
+      "set": "Fusion Strike",
+      "img": "https://den-cards.pokellector.com/335/Mantine.SWSH8.61.40733.png",
+      "rarity": "Common",
+      "cardNum": "61/264"
+    },
+    {
+      "name": "Mudkip",
+      "set": "Fusion Strike",
+      "img": "https://den-cards.pokellector.com/335/Mudkip.SWSH8.62.40734.png",
+      "rarity": "Common",
+      "cardNum": "62/264"
+    },
+    {
+      "name": "Marshtomp",
+      "set": "Fusion Strike",
+      "img": "https://den-cards.pokellector.com/335/Marshtomp.SWSH8.63.40735.png",
+      "rarity": "Uncommon",
+      "cardNum": "63/264"
+    },
+    {
+      "name": "Swampert",
+      "set": "Fusion Strike",
+      "img": "https://den-cards.pokellector.com/335/Swampert.SWSH8.64.40736.png",
+      "rarity": "Rare",
+      "cardNum": "64/264"
+    },
+    {
+      "name": "Clamperl",
+      "set": "Fusion Strike",
+      "img": "https://den-cards.pokellector.com/335/Clamperl.SWSH8.65.40737.png",
+      "rarity": "Common",
+      "cardNum": "65/264"
+    },
+    {
+      "name": "Huntail",
+      "set": "Fusion Strike",
+      "img": "https://den-cards.pokellector.com/335/Huntail.SWSH8.66.40652.png",
+      "rarity": "Rare",
+      "cardNum": "66/264"
+    },
+    {
+      "name": "Gorebyss",
+      "set": "Fusion Strike",
+      "img": "https://den-cards.pokellector.com/335/Gorebyss.SWSH8.67.40653.png",
+      "rarity": "Rare",
+      "cardNum": "67/264"
+    },
+    {
+      "name": "Panpour",
+      "set": "Fusion Strike",
+      "img": "https://den-cards.pokellector.com/335/Panpour.SWSH8.68.40738.png",
+      "rarity": "Common",
+      "cardNum": "68/264"
+    },
+    {
+      "name": "Simipour",
+      "set": "Fusion Strike",
+      "img": "https://den-cards.pokellector.com/335/Simipour.SWSH8.69.40739.png",
+      "rarity": "Uncommon",
+      "cardNum": "69/264"
+    },
+    {
+      "name": "Basculin",
+      "set": "Fusion Strike",
+      "img": "https://den-cards.pokellector.com/335/Basculin.SWSH8.70.40740.png",
+      "rarity": "Common",
+      "cardNum": "70/264"
+    },
+    {
+      "name": "Galarian Darumaka",
+      "set": "Fusion Strike",
+      "img": "https://den-cards.pokellector.com/335/Galarian-Darumaka.SWSH8.71.40741.png",
+      "rarity": "Common",
+      "cardNum": "71/264"
+    },
+    {
+      "name": "Galarian Darmanitan",
+      "set": "Fusion Strike",
+      "img": "https://den-cards.pokellector.com/335/Galarian-Darmanitan.SWSH8.72.40742.png",
+      "rarity": "Uncommon",
+      "cardNum": "72/264"
+    },
+    {
+      "name": "Greninja V",
+      "set": "Fusion Strike",
+      "img": "https://den-cards.pokellector.com/335/Greninja-V.SWSH8.73.40743.png",
+      "rarity": "Rare",
+      "cardNum": "73/264"
+    },
+    {
+      "name": "Clauncher",
+      "set": "Fusion Strike",
+      "img": "https://den-cards.pokellector.com/335/Clauncher.SWSH8.74.40744.png",
+      "rarity": "Common",
+      "cardNum": "74/264"
+    },
+    {
+      "name": "Clawitzer",
+      "set": "Fusion Strike",
+      "img": "https://den-cards.pokellector.com/335/Clawitzer.SWSH8.75.40745.png",
+      "rarity": "Uncommon",
+      "cardNum": "75/264"
+    },
+    {
+      "name": "Crabominable V",
+      "set": "Fusion Strike",
+      "img": "https://den-cards.pokellector.com/335/Crabominable-V.SWSH8.76.40746.png",
+      "rarity": "Rare",
+      "cardNum": "76/264"
+    },
+    {
+      "name": "Pyukumuku",
+      "set": "Fusion Strike",
+      "img": "https://den-cards.pokellector.com/335/Pyukumuku.SWSH8.77.40747.png",
+      "rarity": "Uncommon",
+      "cardNum": "77/264"
+    },
+    {
+      "name": "Inteleon V",
+      "set": "Fusion Strike",
+      "img": "https://den-cards.pokellector.com/335/Inteleon-V.SWSH8.78.40748.png",
+      "rarity": "Rare",
+      "cardNum": "78/264"
+    },
+    {
+      "name": "Inteleon VMAX",
+      "set": "Fusion Strike",
+      "img": "https://den-cards.pokellector.com/335/Inteleon-VMAX.SWSH8.79.40749.png",
+      "rarity": "Rare",
+      "cardNum": "79/264"
+    },
+    {
+      "name": "Chewtle",
+      "set": "Fusion Strike",
+      "img": "https://den-cards.pokellector.com/335/Chewtle.SWSH8.80.40750.png",
+      "rarity": "Common",
+      "cardNum": "80/264"
+    },
+    {
+      "name": "Drednaw",
+      "set": "Fusion Strike",
+      "img": "https://den-cards.pokellector.com/335/Drednaw.SWSH8.81.40751.png",
+      "rarity": "Uncommon",
+      "cardNum": "81/264"
+    },
+    {
+      "name": "Arrokuda",
+      "set": "Fusion Strike",
+      "img": "https://den-cards.pokellector.com/335/Arrokuda.SWSH8.82.40752.png",
+      "rarity": "Common",
+      "cardNum": "82/264"
+    },
+    {
+      "name": "Barraskewda",
+      "set": "Fusion Strike",
+      "img": "https://den-cards.pokellector.com/335/Barraskewda.SWSH8.83.40753.png",
+      "rarity": "Uncommon",
+      "cardNum": "83/264"
+    },
+    {
+      "name": "Snom",
+      "set": "Fusion Strike",
+      "img": "https://den-cards.pokellector.com/335/Snom.SWSH8.84.40754.png",
+      "rarity": "Common",
+      "cardNum": "84/264"
+    },
+    {
+      "name": "Frosmoth",
+      "set": "Fusion Strike",
+      "img": "https://den-cards.pokellector.com/335/Frosmoth.SWSH8.85.40755.png",
+      "rarity": "Uncommon",
+      "cardNum": "85/264"
+    },
+    {
+      "name": "Pikachu V",
+      "set": "Fusion Strike",
+      "img": "https://den-cards.pokellector.com/335/Pikachu-V.SWSH8.86.40756.png",
+      "rarity": "Rare",
+      "cardNum": "86/264"
+    },
+    {
+      "name": "Voltorb",
+      "set": "Fusion Strike",
+      "img": "https://den-cards.pokellector.com/335/Voltorb.SWSH8.87.40757.png",
+      "rarity": "Common",
+      "cardNum": "87/264"
+    },
+    {
+      "name": "Electrode",
+      "set": "Fusion Strike",
+      "img": "https://den-cards.pokellector.com/335/Electrode.SWSH8.88.40758.png",
+      "rarity": "Rare",
+      "cardNum": "88/264"
+    },
+    {
+      "name": "Plusle",
+      "set": "Fusion Strike",
+      "img": "https://den-cards.pokellector.com/335/Plusle.SWSH8.89.40759.png",
+      "rarity": "Common",
+      "cardNum": "89/264"
+    },
+    {
+      "name": "Minun",
+      "set": "Fusion Strike",
+      "img": "https://den-cards.pokellector.com/335/Minun.SWSH8.90.40760.png",
+      "rarity": "Common",
+      "cardNum": "90/264"
+    },
+    {
+      "name": "Shinx",
+      "set": "Fusion Strike",
+      "img": "https://den-cards.pokellector.com/335/Shinx.SWSH8.91.40761.png",
+      "rarity": "Common",
+      "cardNum": "91/264"
+    },
+    {
+      "name": "Luxio",
+      "set": "Fusion Strike",
+      "img": "https://den-cards.pokellector.com/335/Luxio.SWSH8.92.40762.png",
+      "rarity": "Uncommon",
+      "cardNum": "92/264"
+    },
+    {
+      "name": "Luxray",
+      "set": "Fusion Strike",
+      "img": "https://den-cards.pokellector.com/335/Luxray.SWSH8.93.40763.png",
+      "rarity": "Rare",
+      "cardNum": "93/264"
+    },
+    {
+      "name": "Rotom",
+      "set": "Fusion Strike",
+      "img": "https://den-cards.pokellector.com/335/Rotom.SWSH8.94.40764.png",
+      "rarity": "Common",
+      "cardNum": "94/264"
+    },
+    {
+      "name": "Tynamo",
+      "set": "Fusion Strike",
+      "img": "https://den-cards.pokellector.com/335/Tynamo.SWSH8.95.40765.png",
+      "rarity": "Common",
+      "cardNum": "95/264"
+    },
+    {
+      "name": "Eelektrik",
+      "set": "Fusion Strike",
+      "img": "https://den-cards.pokellector.com/335/Eelektrik.SWSH8.96.40766.png",
+      "rarity": "Uncommon",
+      "cardNum": "96/264"
+    },
+    {
+      "name": "Eelektross",
+      "set": "Fusion Strike",
+      "img": "https://den-cards.pokellector.com/335/Eelektross.SWSH8.97.40767.png",
+      "rarity": "Rare",
+      "cardNum": "97/264"
+    },
+    {
+      "name": "Helioptile",
+      "set": "Fusion Strike",
+      "img": "https://den-cards.pokellector.com/335/Helioptile.SWSH8.98.40768.png",
+      "rarity": "Common",
+      "cardNum": "98/264"
+    },
+    {
+      "name": "Heliolisk",
+      "set": "Fusion Strike",
+      "img": "https://den-cards.pokellector.com/335/Heliolisk.SWSH8.99.40769.png",
+      "rarity": "Uncommon",
+      "cardNum": "99/264"
+    },
+    {
+      "name": "Charjabug",
+      "set": "Fusion Strike",
+      "img": "https://den-cards.pokellector.com/335/Charjabug.SWSH8.100.40770.png",
+      "rarity": "Uncommon",
+      "cardNum": "100/264"
+    },
+    {
+      "name": "Vikavolt",
+      "set": "Fusion Strike",
+      "img": "https://den-cards.pokellector.com/335/Vikavolt.SWSH8.101.40771.png",
+      "rarity": "Rare",
+      "cardNum": "101/264"
+    },
+    {
+      "name": "Zeraora",
+      "set": "Fusion Strike",
+      "img": "https://den-cards.pokellector.com/335/Zeraora.SWSH8.102.40772.png",
+      "rarity": "Rare",
+      "cardNum": "102/264"
+    },
+    {
+      "name": "Boltund V",
+      "set": "Fusion Strike",
+      "img": "https://den-cards.pokellector.com/335/Boltund-V.SWSH8.103.40968.png",
+      "rarity": "Rare",
+      "cardNum": "103/264"
+    },
+    {
+      "name": "Boltund VMAX",
+      "set": "Fusion Strike",
+      "img": "https://den-cards.pokellector.com/335/Boltune-VMAX.SWSH8.104.40651.png",
+      "rarity": "Rare",
+      "cardNum": "104/264"
+    },
+    {
+      "name": "Toxel",
+      "set": "Fusion Strike",
+      "img": "https://den-cards.pokellector.com/335/Toxel.SWSH8.105.40775.png",
+      "rarity": "Common",
+      "cardNum": "105/264"
+    },
+    {
+      "name": "Toxel",
+      "set": "Fusion Strike",
+      "img": "https://den-cards.pokellector.com/335/Toxel.SWSH8.106.40776.png",
+      "rarity": "Common",
+      "cardNum": "106/264"
+    },
+    {
+      "name": "Toxtricity",
+      "set": "Fusion Strike",
+      "img": "https://den-cards.pokellector.com/335/Toxtricity.SWSH8.107.40777.png",
+      "rarity": "Rare",
+      "cardNum": "107/264"
+    },
+    {
+      "name": "Toxtricity",
+      "set": "Fusion Strike",
+      "img": "https://den-cards.pokellector.com/335/Toxtricity.SWSH8.108.40778.png",
+      "rarity": "Rare",
+      "cardNum": "108/264"
+    },
+    {
+      "name": "Morpeko",
+      "set": "Fusion Strike",
+      "img": "https://den-cards.pokellector.com/335/Morpeko.SWSH8.109.40773.png",
+      "rarity": "Common",
+      "cardNum": "109/264"
+    },
+    {
+      "name": "Jigglypuff",
+      "set": "Fusion Strike",
+      "img": "https://den-cards.pokellector.com/335/Jigglypuff.SWSH8.110.40779.png",
+      "rarity": "Common",
+      "cardNum": "110/264"
+    },
+    {
+      "name": "Wigglytuff",
+      "set": "Fusion Strike",
+      "img": "https://den-cards.pokellector.com/335/Wigglytuff.SWSH8.111.40780.png",
+      "rarity": "Uncommon",
+      "cardNum": "111/264"
+    },
+    {
+      "name": "Jynx",
+      "set": "Fusion Strike",
+      "img": "https://den-cards.pokellector.com/335/Jynx.SWSH8.112.40781.png",
+      "rarity": "Common",
+      "cardNum": "112/264"
+    },
+    {
+      "name": "Mew V",
+      "set": "Fusion Strike",
+      "img": "https://den-cards.pokellector.com/335/Mew-V.SWSH8.113.40782.png",
+      "rarity": "Rare",
+      "cardNum": "113/264"
+    },
+    {
+      "name": "Mew VMAX",
+      "set": "Fusion Strike",
+      "img": "https://den-cards.pokellector.com/335/Mew-VMAX.SWSH8.114.40650.png",
+      "rarity": "Rare",
+      "cardNum": "114/264"
+    },
+    {
+      "name": "Snubbull",
+      "set": "Fusion Strike",
+      "img": "https://den-cards.pokellector.com/335/Snubbull.SWSH8.115.40783.png",
+      "rarity": "Common",
+      "cardNum": "115/264"
+    },
+    {
+      "name": "Granbull",
+      "set": "Fusion Strike",
+      "img": "https://den-cards.pokellector.com/335/Granbull.SWSH8.116.40784.png",
+      "rarity": "Rare",
+      "cardNum": "116/264"
+    },
+    {
+      "name": "Galarian Corsola",
+      "set": "Fusion Strike",
+      "img": "https://den-cards.pokellector.com/335/Galarian-Corsola.SWSH8.117.40785.png",
+      "rarity": "Common",
+      "cardNum": "117/264"
+    },
+    {
+      "name": "Galarian Cursola",
+      "set": "Fusion Strike",
+      "img": "https://den-cards.pokellector.com/335/Galarian-Cursola.SWSH8.118.40786.png",
+      "rarity": "Rare",
+      "cardNum": "118/264"
+    },
+    {
+      "name": "Mawile",
+      "set": "Fusion Strike",
+      "img": "https://den-cards.pokellector.com/335/Mawile.SWSH8.119.40787.png",
+      "rarity": "Common",
+      "cardNum": "119/264"
+    },
+    {
+      "name": "Deoxys",
+      "set": "Fusion Strike",
+      "img": "https://den-cards.pokellector.com/335/Deoxys.SWSH8.120.40788.png",
+      "rarity": "Rare",
+      "cardNum": "120/264"
+    },
+    {
+      "name": "Munna",
+      "set": "Fusion Strike",
+      "img": "https://den-cards.pokellector.com/335/Munna.SWSH8.121.40789.png",
+      "rarity": "Common",
+      "cardNum": "121/264"
+    },
+    {
+      "name": "Musharna",
+      "set": "Fusion Strike",
+      "img": "https://den-cards.pokellector.com/335/Musharna.SWSH8.122.40790.png",
+      "rarity": "Uncommon",
+      "cardNum": "122/264"
+    },
+    {
+      "name": "Sigilyph",
+      "set": "Fusion Strike",
+      "img": "https://den-cards.pokellector.com/335/Sigilyph.SWSH8.123.40791.png",
+      "rarity": "Common",
+      "cardNum": "123/264"
+    },
+    {
+      "name": "Meloetta",
+      "set": "Fusion Strike",
+      "img": "https://den-cards.pokellector.com/335/Meloetta.SWSH8.124.40792.png",
+      "rarity": "Rare",
+      "cardNum": "124/264"
+    },
+    {
+      "name": "Sandygast",
+      "set": "Fusion Strike",
+      "img": "https://den-cards.pokellector.com/335/Sandygast.SWSH8.125.40793.png",
+      "rarity": "Common",
+      "cardNum": "125/264"
+    },
+    {
+      "name": "Palossand",
+      "set": "Fusion Strike",
+      "img": "https://den-cards.pokellector.com/335/Palossand.SWSH8.126.40794.png",
+      "rarity": "Rare",
+      "cardNum": "126/264"
+    },
+    {
+      "name": "Indeedee",
+      "set": "Fusion Strike",
+      "img": "https://den-cards.pokellector.com/335/Indeedee.SWSH8.127.40795.png",
+      "rarity": "Common",
+      "cardNum": "127/264"
+    },
+    {
+      "name": "Dreepy",
+      "set": "Fusion Strike",
+      "img": "https://den-cards.pokellector.com/335/Dreepy.SWSH8.128.40796.png",
+      "rarity": "Common",
+      "cardNum": "128/264"
+    },
+    {
+      "name": "Drakloak",
+      "set": "Fusion Strike",
+      "img": "https://den-cards.pokellector.com/335/Drakloak.SWSH8.129.40797.png",
+      "rarity": "Uncommon",
+      "cardNum": "129/264"
+    },
+    {
+      "name": "Dragapult",
+      "set": "Fusion Strike",
+      "img": "https://den-cards.pokellector.com/335/Dragapult.SWSH8.130.40798.png",
+      "rarity": "Rare",
+      "cardNum": "130/264"
+    },
+    {
+      "name": "Sandshrew",
+      "set": "Fusion Strike",
+      "img": "https://den-cards.pokellector.com/335/Sandshrew.SWSH8.131.40799.png",
+      "rarity": "Common",
+      "cardNum": "131/264"
+    },
+    {
+      "name": "Sandslash",
+      "set": "Fusion Strike",
+      "img": "https://den-cards.pokellector.com/335/Sandslash.SWSH8.132.40800.png",
+      "rarity": "Uncommon",
+      "cardNum": "132/264"
+    },
+    {
+      "name": "Mankey",
+      "set": "Fusion Strike",
+      "img": "https://den-cards.pokellector.com/335/Mankey.SWSH8.133.40801.png",
+      "rarity": "Common",
+      "cardNum": "133/264"
+    },
+    {
+      "name": "Primeape",
+      "set": "Fusion Strike",
+      "img": "https://den-cards.pokellector.com/335/Primeape.SWSH8.134.40802.png",
+      "rarity": "Uncommon",
+      "cardNum": "134/264"
+    },
+    {
+      "name": "Geodude",
+      "set": "Fusion Strike",
+      "img": "https://den-cards.pokellector.com/335/Geodude.SWSH8.135.40803.png",
+      "rarity": "Common",
+      "cardNum": "135/264"
+    },
+    {
+      "name": "Graveler",
+      "set": "Fusion Strike",
+      "img": "https://den-cards.pokellector.com/335/Graveler.SWSH8.136.40804.png",
+      "rarity": "Uncommon",
+      "cardNum": "136/264"
+    },
+    {
+      "name": "Golem",
+      "set": "Fusion Strike",
+      "img": "https://den-cards.pokellector.com/335/Golem.SWSH8.137.40805.png",
+      "rarity": "Rare",
+      "cardNum": "137/264"
+    },
+    {
+      "name": "Onix",
+      "set": "Fusion Strike",
+      "img": "https://den-cards.pokellector.com/335/Onix.SWSH8.138.40806.png",
+      "rarity": "Common",
+      "cardNum": "138/264"
+    },
+    {
+      "name": "Steelix",
+      "set": "Fusion Strike",
+      "img": "https://den-cards.pokellector.com/335/Steelix.SWSH8.139.40807.png",
+      "rarity": "Rare",
+      "cardNum": "139/264"
+    },
+    {
+      "name": "Gligar",
+      "set": "Fusion Strike",
+      "img": "https://den-cards.pokellector.com/335/Gligar.SWSH8.140.40808.png",
+      "rarity": "Common",
+      "cardNum": "140/264"
+    },
+    {
+      "name": "Gliscor",
+      "set": "Fusion Strike",
+      "img": "https://den-cards.pokellector.com/335/Gliscor.SWSH8.141.40809.png",
+      "rarity": "Uncommon",
+      "cardNum": "141/264"
+    },
+    {
+      "name": "Makuhita",
+      "set": "Fusion Strike",
+      "img": "https://den-cards.pokellector.com/335/Makuhita.SWSH8.142.40810.png",
+      "rarity": "Common",
+      "cardNum": "142/264"
+    },
+    {
+      "name": "Hariyama",
+      "set": "Fusion Strike",
+      "img": "https://den-cards.pokellector.com/335/Hariyama.SWSH8.143.40811.png",
+      "rarity": "Uncommon",
+      "cardNum": "143/264"
+    },
+    {
+      "name": "Baltoy",
+      "set": "Fusion Strike",
+      "img": "https://den-cards.pokellector.com/335/Baltoy.SWSH8.144.40812.png",
+      "rarity": "Common",
+      "cardNum": "144/264"
+    },
+    {
+      "name": "Claydol",
+      "set": "Fusion Strike",
+      "img": "https://den-cards.pokellector.com/335/Claydol.SWSH8.145.40813.png",
+      "rarity": "Rare",
+      "cardNum": "145/264"
+    },
+    {
+      "name": "Lucario V",
+      "set": "Fusion Strike",
+      "img": "https://den-cards.pokellector.com/335/Lucario-V.SWSH8.146.40814.png",
+      "rarity": "Rare",
+      "cardNum": "146/264"
+    },
+    {
+      "name": "Drilbur",
+      "set": "Fusion Strike",
+      "img": "https://den-cards.pokellector.com/335/Drillbur.SWSH8.147.40815.png",
+      "rarity": "Common",
+      "cardNum": "147/264"
+    },
+    {
+      "name": "Landorus",
+      "set": "Fusion Strike",
+      "img": "https://den-cards.pokellector.com/335/Landorus.SWSH8.148.40816.png",
+      "rarity": "Rare",
+      "cardNum": "148/264"
+    },
+    {
+      "name": "Pancham",
+      "set": "Fusion Strike",
+      "img": "https://den-cards.pokellector.com/335/Pancham.SWSH8.149.40817.png",
+      "rarity": "Common",
+      "cardNum": "149/264"
+    },
+    {
+      "name": "Stufful",
+      "set": "Fusion Strike",
+      "img": "https://den-cards.pokellector.com/335/Stufful.SWSH8.150.40818.png",
+      "rarity": "Common",
+      "cardNum": "150/264"
+    },
+    {
+      "name": "Bewear",
+      "set": "Fusion Strike",
+      "img": "https://den-cards.pokellector.com/335/Bewear.SWSH8.151.40819.png",
+      "rarity": "Uncommon",
+      "cardNum": "151/264"
+    },
+    {
+      "name": "Clobbopus",
+      "set": "Fusion Strike",
+      "img": "https://den-cards.pokellector.com/335/Clobbopus.SWSH8.152.40820.png",
+      "rarity": "Common",
+      "cardNum": "152/264"
+    },
+    {
+      "name": "Grapploct",
+      "set": "Fusion Strike",
+      "img": "https://den-cards.pokellector.com/335/Grapploct.SWSH8.153.40821.png",
+      "rarity": "Uncommon",
+      "cardNum": "153/264"
+    },
+    {
+      "name": "Falinks",
+      "set": "Fusion Strike",
+      "img": "https://den-cards.pokellector.com/335/Falinks.SWSH8.154.40822.png",
+      "rarity": "Uncommon",
+      "cardNum": "154/264"
+    },
+    {
+      "name": "Falinks",
+      "set": "Fusion Strike",
+      "img": "https://den-cards.pokellector.com/335/Falinks.SWSH8.155.40823.png",
+      "rarity": "Common",
+      "cardNum": "155/264"
+    },
+    {
+      "name": "Gengar V",
+      "set": "Fusion Strike",
+      "img": "https://den-cards.pokellector.com/335/Gengar-V.SWSH8.156.40824.png",
+      "rarity": "Rare",
+      "cardNum": "156/264"
+    },
+    {
+      "name": "Gengar VMAX",
+      "set": "Fusion Strike",
+      "img": "https://den-cards.pokellector.com/335/Gengar-VMAX.SWSH8.157.40825.png",
+      "rarity": "Rare",
+      "cardNum": "157/264"
+    },
+    {
+      "name": "Tyranitar V",
+      "set": "Fusion Strike",
+      "img": "https://den-cards.pokellector.com/335/Tyranitar-V.SWSH8.158.40826.png",
+      "rarity": "Rare",
+      "cardNum": "158/264"
+    },
+    {
+      "name": "Galarian Zigzagoon",
+      "set": "Fusion Strike",
+      "img": "https://den-cards.pokellector.com/335/Galarian-Zigzagoon.SWSH8.159.40827.png",
+      "rarity": "Common",
+      "cardNum": "159/264"
+    },
+    {
+      "name": "Galarian Linoone",
+      "set": "Fusion Strike",
+      "img": "https://den-cards.pokellector.com/335/Galarian-Linoone.SWSH8.160.40828.png",
+      "rarity": "Uncommon",
+      "cardNum": "160/264"
+    },
+    {
+      "name": "Galarian Obstagoon",
+      "set": "Fusion Strike",
+      "img": "https://den-cards.pokellector.com/335/Galarian-Obstagoon.SWSH8.161.40829.png",
+      "rarity": "Rare",
+      "cardNum": "161/264"
+    },
+    {
+      "name": "Carvanha",
+      "set": "Fusion Strike",
+      "img": "https://den-cards.pokellector.com/335/Carvanha.SWSH8.162.40830.png",
+      "rarity": "Common",
+      "cardNum": "162/264"
+    },
+    {
+      "name": "Sharpedo",
+      "set": "Fusion Strike",
+      "img": "https://den-cards.pokellector.com/335/Sharpedo.SWSH8.163.40831.png",
+      "rarity": "Uncommon",
+      "cardNum": "163/264"
+    },
+    {
+      "name": "Absol",
+      "set": "Fusion Strike",
+      "img": "https://den-cards.pokellector.com/335/Absol.SWSH8.164.40832.png",
+      "rarity": "Rare",
+      "cardNum": "164/264"
+    },
+    {
+      "name": "Croagunk",
+      "set": "Fusion Strike",
+      "img": "https://den-cards.pokellector.com/335/Croagunk.SWSH8.165.40833.png",
+      "rarity": "Common",
+      "cardNum": "165/264"
+    },
+    {
+      "name": "Toxicroak",
+      "set": "Fusion Strike",
+      "img": "https://den-cards.pokellector.com/335/Toxicroak.SWSH8.166.40834.png",
+      "rarity": "Rare",
+      "cardNum": "166/264"
+    },
+    {
+      "name": "Darkrai",
+      "set": "Fusion Strike",
+      "img": "https://den-cards.pokellector.com/335/Darkrai.SWSH8.167.40835.png",
+      "rarity": "Uncommon",
+      "cardNum": "167/264"
+    },
+    {
+      "name": "Trubbish",
+      "set": "Fusion Strike",
+      "img": "https://den-cards.pokellector.com/335/Trubbish.SWSH8.168.40836.png",
+      "rarity": "Common",
+      "cardNum": "168/264"
+    },
+    {
+      "name": "Garbodor",
+      "set": "Fusion Strike",
+      "img": "https://den-cards.pokellector.com/335/Garbodor.SWSH8.169.40837.png",
+      "rarity": "Uncommon",
+      "cardNum": "169/264"
+    },
+    {
+      "name": "Zorua",
+      "set": "Fusion Strike",
+      "img": "https://den-cards.pokellector.com/335/Zorua.SWSH8.170.40838.png",
+      "rarity": "Common",
+      "cardNum": "170/264"
+    },
+    {
+      "name": "Zoroark",
+      "set": "Fusion Strike",
+      "img": "https://den-cards.pokellector.com/335/Zoroark.SWSH8.171.40839.png",
+      "rarity": "Uncommon",
+      "cardNum": "171/264"
+    },
+    {
+      "name": "Vullaby",
+      "set": "Fusion Strike",
+      "img": "https://den-cards.pokellector.com/335/Vullaby.SWSH8.172.40840.png",
+      "rarity": "Common",
+      "cardNum": "172/264"
+    },
+    {
+      "name": "Mandibuzz",
+      "set": "Fusion Strike",
+      "img": "https://den-cards.pokellector.com/335/Mandibuzz.SWSH8.173.40841.png",
+      "rarity": "Uncommon",
+      "cardNum": "173/264"
+    },
+    {
+      "name": "Pangoro",
+      "set": "Fusion Strike",
+      "img": "https://den-cards.pokellector.com/335/Pangoro.SWSH8.174.40842.png",
+      "rarity": "Uncommon",
+      "cardNum": "174/264"
+    },
+    {
+      "name": "Yveltal",
+      "set": "Fusion Strike",
+      "img": "https://den-cards.pokellector.com/335/Yveltal.SWSH8.175.40843.png",
+      "rarity": "Rare",
+      "cardNum": "175/264"
+    },
+    {
+      "name": "Impidimp",
+      "set": "Fusion Strike",
+      "img": "https://den-cards.pokellector.com/335/Impidimp.SWSH8.176.40844.png",
+      "rarity": "Common",
+      "cardNum": "176/264"
+    },
+    {
+      "name": "Morgrem",
+      "set": "Fusion Strike",
+      "img": "https://den-cards.pokellector.com/335/Morgrem.SWSH8.177.40845.png",
+      "rarity": "Uncommon",
+      "cardNum": "177/264"
+    },
+    {
+      "name": "Grimmsnarl",
+      "set": "Fusion Strike",
+      "img": "https://den-cards.pokellector.com/335/Grimmsnarl.SWSH8.178.40846.png",
+      "rarity": "Rare",
+      "cardNum": "178/264"
+    },
+    {
+      "name": "Morpeko",
+      "set": "Fusion Strike",
+      "img": "https://den-cards.pokellector.com/335/Morpeko.SWSH8.179.40847.png",
+      "rarity": "Common",
+      "cardNum": "179/264"
+    },
+    {
+      "name": "Galarian Meowth",
+      "set": "Fusion Strike",
+      "img": "https://den-cards.pokellector.com/335/Galarian-Meowth.SWSH8.180.40848.png",
+      "rarity": "Common",
+      "cardNum": "180/264"
+    },
+    {
+      "name": "Galarian Perrserker",
+      "set": "Fusion Strike",
+      "img": "https://den-cards.pokellector.com/335/Galarian-Perrserker.SWSH8.181.40849.png",
+      "rarity": "Uncommon",
+      "cardNum": "181/264"
+    },
+    {
+      "name": "Skarmory",
+      "set": "Fusion Strike",
+      "img": "https://den-cards.pokellector.com/335/Skarmory.SWSH8.182.40850.png",
+      "rarity": "Common",
+      "cardNum": "182/264"
+    },
+    {
+      "name": "Excadrill",
+      "set": "Fusion Strike",
+      "img": "https://den-cards.pokellector.com/335/Excadrill.SWSH8.183.40851.png",
+      "rarity": "Uncommon",
+      "cardNum": "183/264"
+    },
+    {
+      "name": "Durant",
+      "set": "Fusion Strike",
+      "img": "https://den-cards.pokellector.com/335/Durant.SWSH8.184.40852.png",
+      "rarity": "Common",
+      "cardNum": "184/264"
+    },
+    {
+      "name": "Genesect V",
+      "set": "Fusion Strike",
+      "img": "https://den-cards.pokellector.com/335/Genesect-V.SWSH8.185.40853.png",
+      "rarity": "Rare",
+      "cardNum": "185/264"
+    },
+    {
+      "name": "Klefki",
+      "set": "Fusion Strike",
+      "img": "https://den-cards.pokellector.com/335/Klefki.SWSH8.186.40854.png",
+      "rarity": "Common",
+      "cardNum": "186/264"
+    },
+    {
+      "name": "Togedemaru",
+      "set": "Fusion Strike",
+      "img": "https://den-cards.pokellector.com/335/Togedemaru.SWSH8.187.40855.png",
+      "rarity": "Uncommon",
+      "cardNum": "187/264"
+    },
+    {
+      "name": "Meltan",
+      "set": "Fusion Strike",
+      "img": "https://den-cards.pokellector.com/335/Meltan.SWSH8.188.40856.png",
+      "rarity": "Common",
+      "cardNum": "188/264"
+    },
+    {
+      "name": "Melmetal",
+      "set": "Fusion Strike",
+      "img": "https://den-cards.pokellector.com/335/Melmetal.SWSH8.189.40857.png",
+      "rarity": "Rare",
+      "cardNum": "189/264"
+    },
+    {
+      "name": "Corviknight",
+      "set": "Fusion Strike",
+      "img": "https://den-cards.pokellector.com/335/Corviknight.SWSH8.190.40858.png",
+      "rarity": "Rare",
+      "cardNum": "190/264"
+    },
+    {
+      "name": "Cufant",
+      "set": "Fusion Strike",
+      "img": "https://den-cards.pokellector.com/335/Cufant.SWSH8.191.40859.png",
+      "rarity": "Common",
+      "cardNum": "191/264"
+    },
+    {
+      "name": "Copperajah",
+      "set": "Fusion Strike",
+      "img": "https://den-cards.pokellector.com/335/Copperajah.SWSH8.192.40860.png",
+      "rarity": "Uncommon",
+      "cardNum": "192/264"
+    },
+    {
+      "name": "Latias",
+      "set": "Fusion Strike",
+      "img": "https://den-cards.pokellector.com/335/Latias.SWSH8.193.40861.png",
+      "rarity": "Rare",
+      "cardNum": "193/264"
+    },
+    {
+      "name": "Latios",
+      "set": "Fusion Strike",
+      "img": "https://den-cards.pokellector.com/335/Latios.SWSH8.194.40862.png",
+      "rarity": "Rare",
+      "cardNum": "194/264"
+    },
+    {
+      "name": "Goomy",
+      "set": "Fusion Strike",
+      "img": "https://den-cards.pokellector.com/335/Goomy.SWSH8.195.40863.png",
+      "rarity": "Common",
+      "cardNum": "195/264"
+    },
+    {
+      "name": "Sliggoo",
+      "set": "Fusion Strike",
+      "img": "https://den-cards.pokellector.com/335/Sliggoo.SWSH8.196.40864.png",
+      "rarity": "Uncommon",
+      "cardNum": "196/264"
+    },
+    {
+      "name": "Goodra",
+      "set": "Fusion Strike",
+      "img": "https://den-cards.pokellector.com/335/Goodra.SWSH8.197.40865.png",
+      "rarity": "Rare",
+      "cardNum": "197/264"
+    },
+    {
+      "name": "Turtonator",
+      "set": "Fusion Strike",
+      "img": "https://den-cards.pokellector.com/335/Turtonator.SWSH8.198.40866.png",
+      "rarity": "Uncommon",
+      "cardNum": "198/264"
+    },
+    {
+      "name": "Meowth",
+      "set": "Fusion Strike",
+      "img": "https://den-cards.pokellector.com/335/Meowth.SWSH8.199.40867.png",
+      "rarity": "Common",
+      "cardNum": "199/264"
+    },
+    {
+      "name": "Persian",
+      "set": "Fusion Strike",
+      "img": "https://den-cards.pokellector.com/335/Persian.SWSH8.200.40868.png",
+      "rarity": "Uncommon",
+      "cardNum": "200/264"
+    },
+    {
+      "name": "Dodrio V",
+      "set": "Fusion Strike",
+      "img": "https://den-cards.pokellector.com/335/Dodrio-V.SWSH8.201.40869.png",
+      "rarity": "Rare",
+      "cardNum": "201/264"
+    },
+    {
+      "name": "Chansey",
+      "set": "Fusion Strike",
+      "img": "https://den-cards.pokellector.com/335/Chansey.SWSH8.202.40870.png",
+      "rarity": "Common",
+      "cardNum": "202/264"
+    },
+    {
+      "name": "Blissey",
+      "set": "Fusion Strike",
+      "img": "https://den-cards.pokellector.com/335/Blissey.SWSH8.203.40871.png",
+      "rarity": "Rare",
+      "cardNum": "203/264"
+    },
+    {
+      "name": "Kangaskhan",
+      "set": "Fusion Strike",
+      "img": "https://den-cards.pokellector.com/335/Kangaskhan.SWSH8.204.40872.png",
+      "rarity": "Rare",
+      "cardNum": "204/264"
+    },
+    {
+      "name": "Eevee",
+      "set": "Fusion Strike",
+      "img": "https://den-cards.pokellector.com/335/Eevee.SWSH8.205.40873.png",
+      "rarity": "Common",
+      "cardNum": "205/264"
+    },
+    {
+      "name": "Snorlax",
+      "set": "Fusion Strike",
+      "img": "https://den-cards.pokellector.com/335/Snorlax.SWSH8.206.40874.png",
+      "rarity": "Common",
+      "cardNum": "206/264"
+    },
+    {
+      "name": "Dunsparce",
+      "set": "Fusion Strike",
+      "img": "https://den-cards.pokellector.com/335/Dunsparce.SWSH8.207.40875.png",
+      "rarity": "Uncommon",
+      "cardNum": "207/264"
+    },
+    {
+      "name": "Stantler",
+      "set": "Fusion Strike",
+      "img": "https://den-cards.pokellector.com/335/Stantler.SWSH8.208.40876.png",
+      "rarity": "Uncommon",
+      "cardNum": "208/264"
+    },
+    {
+      "name": "Smeargle",
+      "set": "Fusion Strike",
+      "img": "https://den-cards.pokellector.com/335/Smeargle.SWSH8.209.40877.png",
+      "rarity": "Common",
+      "cardNum": "209/264"
+    },
+    {
+      "name": "Skitty",
+      "set": "Fusion Strike",
+      "img": "https://den-cards.pokellector.com/335/Skitty.SWSH8.210.40878.png",
+      "rarity": "Common",
+      "cardNum": "210/264"
+    },
+    {
+      "name": "Delcatty",
+      "set": "Fusion Strike",
+      "img": "https://den-cards.pokellector.com/335/Delcatty.SWSH8.211.40879.png",
+      "rarity": "Uncommon",
+      "cardNum": "211/264"
+    },
+    {
+      "name": "Buneary",
+      "set": "Fusion Strike",
+      "img": "https://den-cards.pokellector.com/335/Buneary.SWSH8.212.40880.png",
+      "rarity": "Common",
+      "cardNum": "212/264"
+    },
+    {
+      "name": "Lopunny",
+      "set": "Fusion Strike",
+      "img": "https://den-cards.pokellector.com/335/Lopunny.SWSH8.213.40881.png",
+      "rarity": "Uncommon",
+      "cardNum": "213/264"
+    },
+    {
+      "name": "Bunnelby",
+      "set": "Fusion Strike",
+      "img": "https://den-cards.pokellector.com/335/Bunnelby.SWSH8.214.40882.png",
+      "rarity": "Common",
+      "cardNum": "214/264"
+    },
+    {
+      "name": "Diggersby",
+      "set": "Fusion Strike",
+      "img": "https://den-cards.pokellector.com/335/Diggersby.SWSH8.215.40883.png",
+      "rarity": "Uncommon",
+      "cardNum": "215/264"
+    },
+    {
+      "name": "Hawlucha",
+      "set": "Fusion Strike",
+      "img": "https://den-cards.pokellector.com/335/Hawlucha.SWSH8.216.40884.png",
+      "rarity": "Uncommon",
+      "cardNum": "216/264"
+    },
+    {
+      "name": "Greedent V",
+      "set": "Fusion Strike",
+      "img": "https://den-cards.pokellector.com/335/Greedent-V.SWSH8.217.40885.png",
+      "rarity": "Rare",
+      "cardNum": "217/264"
+    },
+    {
+      "name": "Greedent VMAX",
+      "set": "Fusion Strike",
+      "img": "https://den-cards.pokellector.com/335/Greedent-VMAX.SWSH8.218.40886.png",
+      "rarity": "Rare",
+      "cardNum": "218/264"
+    },
+    {
+      "name": "Rookidee",
+      "set": "Fusion Strike",
+      "img": "https://den-cards.pokellector.com/335/Rookidee.SWSH8.219.40887.png",
+      "rarity": "Common",
+      "cardNum": "219/264"
+    },
+    {
+      "name": "Corvisquire",
+      "set": "Fusion Strike",
+      "img": "https://den-cards.pokellector.com/335/Corvisquire.SWSH8.220.40888.png",
+      "rarity": "Uncommon",
+      "cardNum": "220/264"
+    },
+    {
+      "name": "Wooloo",
+      "set": "Fusion Strike",
+      "img": "https://den-cards.pokellector.com/335/Wooloo.SWSH8.221.40889.png",
+      "rarity": "Common",
+      "cardNum": "221/264"
+    },
+    {
+      "name": "Wooloo",
+      "set": "Fusion Strike",
+      "img": "https://den-cards.pokellector.com/335/Wooloo.SWSH8.222.40890.png",
+      "rarity": "Common",
+      "cardNum": "222/264"
+    },
+    {
+      "name": "Dubwool",
+      "set": "Fusion Strike",
+      "img": "https://den-cards.pokellector.com/335/Dubwool.SWSH8.223.40891.png",
+      "rarity": "Uncommon",
+      "cardNum": "223/264"
+    },
+    {
+      "name": "Adventurer's Discovery",
+      "set": "Fusion Strike",
+      "img": "https://den-cards.pokellector.com/335/Adventurers-Discovery.SWSH8.224.40892.png",
+      "rarity": "Uncommon",
+      "cardNum": "224/264"
+    },
+    {
+      "name": "Battle VIP Pass",
+      "set": "Fusion Strike",
+      "img": "https://den-cards.pokellector.com/335/Battle-VIP-Pass.SWSH8.225.40893.png",
+      "rarity": "Uncommon",
+      "cardNum": "225/264"
+    },
+    {
+      "name": "Bug Catcher",
+      "set": "Fusion Strike",
+      "img": "https://den-cards.pokellector.com/335/Bug-Catcher.SWSH8.226.40894.png",
+      "rarity": "Uncommon",
+      "cardNum": "226/264"
+    },
+    {
+      "name": "Chili & Cilan & Cress",
+      "set": "Fusion Strike",
+      "img": "https://den-cards.pokellector.com/335/Chili-Cilan-Cress.SWSH8.227.40895.png",
+      "rarity": "Uncommon",
+      "cardNum": "227/264"
+    },
+    {
+      "name": "Cook",
+      "set": "Fusion Strike",
+      "img": "https://den-cards.pokellector.com/335/Cook.SWSH8.228.40896.png",
+      "rarity": "Uncommon",
+      "cardNum": "228/264"
+    },
+    {
+      "name": "Cram-o-matic",
+      "set": "Fusion Strike",
+      "img": "https://den-cards.pokellector.com/335/Cram-o-matic.SWSH8.229.40897.png",
+      "rarity": "Uncommon",
+      "cardNum": "229/264"
+    },
+    {
+      "name": "Cross Switcher",
+      "set": "Fusion Strike",
+      "img": "https://den-cards.pokellector.com/335/Cross-Switcher.SWSH8.230.40898.png",
+      "rarity": "Uncommon",
+      "cardNum": "230/264"
+    },
+    {
+      "name": "Crossceiver",
+      "set": "Fusion Strike",
+      "img": "https://den-cards.pokellector.com/335/Crossceiver.SWSH8.231.40899.png",
+      "rarity": "Uncommon",
+      "cardNum": "231/264"
+    },
+    {
+      "name": "Dancer",
+      "set": "Fusion Strike",
+      "img": "https://den-cards.pokellector.com/335/Dancer.SWSH8.232.40900.png",
+      "rarity": "Uncommon",
+      "cardNum": "232/264"
+    },
+    {
+      "name": "Elesa's Sparkle",
+      "set": "Fusion Strike",
+      "img": "https://den-cards.pokellector.com/335/Elesas-Sparkle.SWSH8.233.40901.png",
+      "rarity": "Uncommon",
+      "cardNum": "233/264"
+    },
+    {
+      "name": "Farewell Bell",
+      "set": "Fusion Strike",
+      "img": "https://den-cards.pokellector.com/335/Farewell-Bell.SWSH8.234.40902.png",
+      "rarity": "Uncommon",
+      "cardNum": "234/264"
+    },
+    {
+      "name": "Judge",
+      "set": "Fusion Strike",
+      "img": "https://den-cards.pokellector.com/335/Judge.SWSH8.235.40903.png",
+      "rarity": "Uncommon",
+      "cardNum": "235/264"
+    },
+    {
+      "name": "Power Tablet",
+      "set": "Fusion Strike",
+      "img": "https://den-cards.pokellector.com/335/Power-Tablet.SWSH8.236.40904.png",
+      "rarity": "Uncommon",
+      "cardNum": "236/264"
+    },
+    {
+      "name": "Quick Ball",
+      "set": "Fusion Strike",
+      "img": "https://den-cards.pokellector.com/335/Quick-Ball.SWSH8.237.40905.png",
+      "rarity": "Uncommon",
+      "cardNum": "237/264"
+    },
+    {
+      "name": "Schoolboy",
+      "set": "Fusion Strike",
+      "img": "https://den-cards.pokellector.com/335/Schoolboy.SWSH8.238.40906.png",
+      "rarity": "Uncommon",
+      "cardNum": "238/264"
+    },
+    {
+      "name": "Schoolgirl",
+      "set": "Fusion Strike",
+      "img": "https://den-cards.pokellector.com/335/Schoolgirl.SWSH8.239.40907.png",
+      "rarity": "Uncommon",
+      "cardNum": "239/264"
+    },
+    {
+      "name": "Shauna",
+      "set": "Fusion Strike",
+      "img": "https://den-cards.pokellector.com/335/Shauna.SWSH8.240.40908.png",
+      "rarity": "Uncommon",
+      "cardNum": "240/264"
+    },
+    {
+      "name": "Sidney",
+      "set": "Fusion Strike",
+      "img": "https://den-cards.pokellector.com/335/Sidney.SWSH8.241.40909.png",
+      "rarity": "Uncommon",
+      "cardNum": "241/264"
+    },
+    {
+      "name": "Skater's Park",
+      "set": "Fusion Strike",
+      "img": "https://den-cards.pokellector.com/335/Skaters-Park.SWSH8.242.40910.png",
+      "rarity": "Uncommon",
+      "cardNum": "242/264"
+    },
+    {
+      "name": "Spongy Gloves",
+      "set": "Fusion Strike",
+      "img": "https://den-cards.pokellector.com/335/Spongy-Gloves.SWSH8.243.40911.png",
+      "rarity": "Uncommon",
+      "cardNum": "243/264"
+    },
+    {
+      "name": "Fusion Strike Energy",
+      "set": "Fusion Strike",
+      "img": "https://den-cards.pokellector.com/335/Fusion-Strike-Energy.SWSH8.244.40912.png",
+      "rarity": "Uncommon",
+      "cardNum": "244/264"
+    },
+    {
+      "name": "Celebi V",
+      "set": "Fusion Strike",
+      "img": "https://den-cards.pokellector.com/335/Celebi-V.SWSH8.245.40913.png",
+      "rarity": "Rare",
+      "cardNum": "245/264"
+    },
+    {
+      "name": "Tsareena V",
+      "set": "Fusion Strike",
+      "img": "https://den-cards.pokellector.com/335/Tsareena-V.SWSH8.246.40914.png",
+      "rarity": "Rare",
+      "cardNum": "246/264"
+    },
+    {
+      "name": "Chandelure V",
+      "set": "Fusion Strike",
+      "img": "https://den-cards.pokellector.com/335/Chandelure-V.SWSH8.247.40915.png",
+      "rarity": "Rare",
+      "cardNum": "247/264"
+    },
+    {
+      "name": "Crabominable V",
+      "set": "Fusion Strike",
+      "img": "https://den-cards.pokellector.com/335/Crabominable-V.SWSH8.248.40916.png",
+      "rarity": "Rare",
+      "cardNum": "248/264"
+    },
+    {
+      "name": "Boltund V",
+      "set": "Fusion Strike",
+      "img": "https://den-cards.pokellector.com/335/Boltund-V.SWSH8.249.40917.png",
+      "rarity": "Rare",
+      "cardNum": "249/264"
+    },
+    {
+      "name": "Mew V",
+      "set": "Fusion Strike",
+      "img": "https://den-cards.pokellector.com/335/Mew-V.SWSH8.250.40918.png",
+      "rarity": "Rare",
+      "cardNum": "250/264"
+    },
+    {
+      "name": "Mew V",
+      "set": "Fusion Strike",
+      "img": "https://den-cards.pokellector.com/335/Mew-V.SWSH8.251.40919.png",
+      "rarity": "Rare",
+      "cardNum": "251/264"
+    },
+    {
+      "name": "Sandaconda V",
+      "set": "Fusion Strike",
+      "img": "https://den-cards.pokellector.com/335/Sandaconda-V.SWSH8.252.40920.png",
+      "rarity": "Rare",
+      "cardNum": "252/264"
+    },
+    {
+      "name": "Hoopa V",
+      "set": "Fusion Strike",
+      "img": "https://den-cards.pokellector.com/335/Hoopa-V.SWSH8.253.40921.png",
+      "rarity": "Rare",
+      "cardNum": "253/264"
+    },
+    {
+      "name": "Genesect V",
+      "set": "Fusion Strike",
+      "img": "https://den-cards.pokellector.com/335/Genesect-V.SWSH8.254.40922.png",
+      "rarity": "Rare",
+      "cardNum": "254/264"
+    },
+    {
+      "name": "Genesect V",
+      "set": "Fusion Strike",
+      "img": "https://den-cards.pokellector.com/335/Genesect-V.SWSH8.255.40923.png",
+      "rarity": "Rare",
+      "cardNum": "255/264"
+    },
+    {
+      "name": "Greedent V",
+      "set": "Fusion Strike",
+      "img": "https://den-cards.pokellector.com/335/Greedent-V.SWSH8.256.40924.png",
+      "rarity": "Rare",
+      "cardNum": "256/264"
+    },
+    {
+      "name": "Greedent V",
+      "set": "Fusion Strike",
+      "img": "https://den-cards.pokellector.com/335/Greedent-V.SWSH8.257.40925.png",
+      "rarity": "Rare",
+      "cardNum": "257/264"
+    },
+    {
+      "name": "Chili & Cilan & Cress",
+      "set": "Fusion Strike",
+      "img": "https://den-cards.pokellector.com/335/Chili-Cilan-Cress.SWSH8.258.40926.png",
+      "rarity": "Rare",
+      "cardNum": "258/264"
+    },
+    {
+      "name": "Dancer",
+      "set": "Fusion Strike",
+      "img": "https://den-cards.pokellector.com/335/Dancer.SWSH8.259.40927.png",
+      "rarity": "Rare",
+      "cardNum": "259/264"
+    },
+    {
+      "name": "Elesa's Sparkle",
+      "set": "Fusion Strike",
+      "img": "https://den-cards.pokellector.com/335/Elesas-Sparkle.SWSH8.260.40928.png",
+      "rarity": "Rare",
+      "cardNum": "260/264"
+    },
+    {
+      "name": "Schoolboy",
+      "set": "Fusion Strike",
+      "img": "https://den-cards.pokellector.com/335/Schoolboy.SWSH8.261.40929.png",
+      "rarity": "Rare",
+      "cardNum": "261/264"
+    },
+    {
+      "name": "Schoolgirl",
+      "set": "Fusion Strike",
+      "img": "https://den-cards.pokellector.com/335/Schoolgirl.SWSH8.262.40930.png",
+      "rarity": "Rare",
+      "cardNum": "262/264"
+    },
+    {
+      "name": "Shauna",
+      "set": "Fusion Strike",
+      "img": "https://den-cards.pokellector.com/335/Shauna.SWSH8.263.40931.png",
+      "rarity": "Rare",
+      "cardNum": "263/264"
+    },
+    {
+      "name": "Sidney",
+      "set": "Fusion Strike",
+      "img": "https://den-cards.pokellector.com/335/Sidney.SWSH8.264.40932.png",
+      "rarity": "Rare",
+      "cardNum": "264/264"
+    },
+    {
+      "name": "Chandelure VMAX",
+      "set": "Fusion Strike",
+      "img": "https://den-cards.pokellector.com/335/Chandelure-VMAX.SWSH8.265.40933.png",
+      "rarity": "Secret Rare",
+      "cardNum": "265/264"
+    },
+    {
+      "name": "Inteleon VMAX",
+      "set": "Fusion Strike",
+      "img": "https://den-cards.pokellector.com/335/Inteleon-VMAX.SWSH8.266.40934.png",
+      "rarity": "Secret Rare",
+      "cardNum": "266/264"
+    },
+    {
+      "name": "Boltund VMAX",
+      "set": "Fusion Strike",
+      "img": "https://den-cards.pokellector.com/335/Boltund-VMAX.SWSH8.267.40935.png",
+      "rarity": "Secret Rare",
+      "cardNum": "267/264"
+    },
+    {
+      "name": "Mew VMAX",
+      "set": "Fusion Strike",
+      "img": "https://den-cards.pokellector.com/335/Mew-VMAX.SWSH8.268.40936.png",
+      "rarity": "Secret Rare",
+      "cardNum": "268/264"
+    },
+    {
+      "name": "Mew VMAX",
+      "set": "Fusion Strike",
+      "img": "https://den-cards.pokellector.com/335/Mew-VMAX.SWSH8.269.40937.png",
+      "rarity": "Secret Rare",
+      "cardNum": "269/264"
+    },
+    {
+      "name": "Espeon VMAX",
+      "set": "Fusion Strike",
+      "img": "https://den-cards.pokellector.com/335/Espeon-VMAX.SWSH8.270.40938.png",
+      "rarity": "Secret Rare",
+      "cardNum": "270/264"
+    },
+    {
+      "name": "Gengar VMAX",
+      "set": "Fusion Strike",
+      "img": "https://den-cards.pokellector.com/335/Gengar-VMAX.SWSH8.271.40939.png",
+      "rarity": "Secret Rare",
+      "cardNum": "271/264"
+    },
+    {
+      "name": "Greedent VMAX",
+      "set": "Fusion Strike",
+      "img": "https://den-cards.pokellector.com/335/Greedent-VMAX.SWSH8.272.40940.png",
+      "rarity": "Secret Rare",
+      "cardNum": "272/264"
+    },
+    {
+      "name": "Chili & Cilan & Cress",
+      "set": "Fusion Strike",
+      "img": "https://den-cards.pokellector.com/335/Chili-Cilan-Cress.SWSH8.273.40941.png",
+      "rarity": "Secret Rare",
+      "cardNum": "273/264"
+    },
+    {
+      "name": "Dancer",
+      "set": "Fusion Strike",
+      "img": "https://den-cards.pokellector.com/335/Dancer.SWSH8.274.40942.png",
+      "rarity": "Secret Rare",
+      "cardNum": "274/264"
+    },
+    {
+      "name": "Elesa's Sparkle",
+      "set": "Fusion Strike",
+      "img": "https://den-cards.pokellector.com/335/Elesas-Sparkle.SWSH8.275.40943.png",
+      "rarity": "Secret Rare",
+      "cardNum": "275/264"
+    },
+    {
+      "name": "Schoolboy",
+      "set": "Fusion Strike",
+      "img": "https://den-cards.pokellector.com/335/Schoolboy.SWSH8.276.40944.png",
+      "rarity": "Secret Rare",
+      "cardNum": "276/264"
+    },
+    {
+      "name": "Schoolgirl",
+      "set": "Fusion Strike",
+      "img": "https://den-cards.pokellector.com/335/Schoolgirl.SWSH8.277.40945.png",
+      "rarity": "Secret Rare",
+      "cardNum": "277/264"
+    },
+    {
+      "name": "Shauna",
+      "set": "Fusion Strike",
+      "img": "https://den-cards.pokellector.com/335/Shauna.SWSH8.278.40946.png",
+      "rarity": "Secret Rare",
+      "cardNum": "278/264"
+    },
+    {
+      "name": "Sidney",
+      "set": "Fusion Strike",
+      "img": "https://den-cards.pokellector.com/335/Sidney.SWSH8.279.40947.png",
+      "rarity": "Secret Rare",
+      "cardNum": "279/264"
+    },
+    {
+      "name": "Flaaffy",
+      "set": "Fusion Strike",
+      "img": "https://den-cards.pokellector.com/335/Flaaffy.SWSH8.280.40948.png",
+      "rarity": "Secret Rare",
+      "cardNum": "280/264"
+    },
+    {
+      "name": "Power Tablet",
+      "set": "Fusion Strike",
+      "img": "https://den-cards.pokellector.com/335/Power-Tablet.SWSH8.281.40949.png",
+      "rarity": "Secret Rare",
+      "cardNum": "281/264"
+    },
+    {
+      "name": "Training Court",
+      "set": "Fusion Strike",
+      "img": "https://den-cards.pokellector.com/335/Training-Court.SWSH8.282.40950.png",
+      "rarity": "Secret Rare",
+      "cardNum": "282/264"
+    },
+    {
+      "name": "Grass Energy",
+      "set": "Fusion Strike",
+      "img": "https://den-cards.pokellector.com/335/Grass-Energy.SWSH8.283.40951.png",
+      "rarity": "Secret Rare",
+      "cardNum": "283/264"
+    },
+    {
+      "name": "Fire Energy",
+      "set": "Fusion Strike",
+      "img": "https://den-cards.pokellector.com/335/Fire-Energy.SWSH8.284.40952.png",
+      "rarity": "Secret Rare",
+      "cardNum": "284/264"
+    }
+  ]
+}

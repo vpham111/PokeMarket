@@ -1,0 +1,124 @@
+{
+  "setName": "POP Series 3",
+  "cards": [
+    {
+      "name": "Blastoise",
+      "set": "POP Series 3",
+      "img": "https://den-cards.pokellector.com/70/Blastoise.POP3.1.6342.png",
+      "rarity": "Rare",
+      "cardNum": "1/17"
+    },
+    {
+      "name": "Flareon",
+      "set": "POP Series 3",
+      "img": "https://den-cards.pokellector.com/70/Flareon.POP3.2.png",
+      "rarity": "Rare",
+      "cardNum": "2/17"
+    },
+    {
+      "name": "Jolteon",
+      "set": "POP Series 3",
+      "img": "https://den-cards.pokellector.com/70/Jolteon.POP3.3.png",
+      "rarity": "Rare",
+      "cardNum": "3/17"
+    },
+    {
+      "name": "Minun",
+      "set": "POP Series 3",
+      "img": "https://den-cards.pokellector.com/70/Minun.POP3.4.6345.png",
+      "rarity": "Rare",
+      "cardNum": "4/17"
+    },
+    {
+      "name": "Plusle",
+      "set": "POP Series 3",
+      "img": "https://den-cards.pokellector.com/70/Plusle.POP3.5.6346.png",
+      "rarity": "Rare",
+      "cardNum": "5/17"
+    },
+    {
+      "name": "Vaporeon",
+      "set": "POP Series 3",
+      "img": "https://den-cards.pokellector.com/70/Vaporeon.POP3.6.png",
+      "rarity": "Rare",
+      "cardNum": "6/17"
+    },
+    {
+      "name": "Combusken",
+      "set": "POP Series 3",
+      "img": "https://den-cards.pokellector.com/70/Combusken.POP3.7.6348.png",
+      "rarity": "Uncommon",
+      "cardNum": "7/17"
+    },
+    {
+      "name": "Donphan",
+      "set": "POP Series 3",
+      "img": "https://den-cards.pokellector.com/70/Donphan.POP3.8.6349.png",
+      "rarity": "Uncommon",
+      "cardNum": "8/17"
+    },
+    {
+      "name": "Forretress",
+      "set": "POP Series 3",
+      "img": "https://den-cards.pokellector.com/70/Forretress.POP3.9.6350.png",
+      "rarity": "Uncommon",
+      "cardNum": "9/17"
+    },
+    {
+      "name": "High Pressure System",
+      "set": "POP Series 3",
+      "img": "https://den-cards.pokellector.com/70/High-Pressure-System.POP3.10.6351.png",
+      "rarity": "Uncommon",
+      "cardNum": "10/17"
+    },
+    {
+      "name": "Low Pressure System",
+      "set": "POP Series 3",
+      "img": "https://den-cards.pokellector.com/70/Low-Pressure-System.POP3.11.6352.png",
+      "rarity": "Uncommon",
+      "cardNum": "11/17"
+    },
+    {
+      "name": "Ditto (Mr Mime)",
+      "set": "POP Series 3",
+      "img": "https://den-cards.pokellector.com/70/Ditto-Mr-Mime.POP3.12.6358.png",
+      "rarity": "Common",
+      "cardNum": "12/17"
+    },
+    {
+      "name": "Eevee",
+      "set": "POP Series 3",
+      "img": "https://den-cards.pokellector.com/70/Eevee.POP3.13.png",
+      "rarity": "Common",
+      "cardNum": "13/17"
+    },
+    {
+      "name": "Ivysaur",
+      "set": "POP Series 3",
+      "img": "https://den-cards.pokellector.com/70/Ivysaur.POP3.14.6354.png",
+      "rarity": "Common",
+      "cardNum": "14/17"
+    },
+    {
+      "name": "Marshtomp",
+      "set": "POP Series 3",
+      "img": "https://den-cards.pokellector.com/70/Marshtomp.POP3.15.6355.png",
+      "rarity": "Common",
+      "cardNum": "15/17"
+    },
+    {
+      "name": "Pichu Bros.",
+      "set": "POP Series 3",
+      "img": "https://den-cards.pokellector.com/70/Pichu-Bros.POP3.16.6356.png",
+      "rarity": "Common",
+      "cardNum": "16/17"
+    },
+    {
+      "name": "Ho-Oh ex",
+      "set": "POP Series 3",
+      "img": "https://den-cards.pokellector.com/70/Ho-Oh-ex.POP3.17.6357.png",
+      "rarity": "Rare",
+      "cardNum": "17/17"
+    }
+  ]
+}

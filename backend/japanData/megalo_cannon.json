@@ -1,0 +1,607 @@
+{
+  "setName": "Megalo Cannon",
+  "cards": [
+    {
+      "name": "Surskit",
+      "set": "Megalo Cannon",
+      "img": "https://den-cards.pokellector.com/29/Surskit.BW9.1.png",
+      "rarity": "Common",
+      "cardNum": "1/76"
+    },
+    {
+      "name": "Masquerain",
+      "set": "Megalo Cannon",
+      "img": "https://den-cards.pokellector.com/29/Masquerain.BW9.2.png",
+      "rarity": "Uncommon",
+      "cardNum": "2/76"
+    },
+    {
+      "name": "Lileep",
+      "set": "Megalo Cannon",
+      "img": "https://den-cards.pokellector.com/29/Lileep.BW9.3.png",
+      "rarity": "Common",
+      "cardNum": "3/76"
+    },
+    {
+      "name": "Cradily",
+      "set": "Megalo Cannon",
+      "img": "https://den-cards.pokellector.com/29/Cradily.BW9.4.png",
+      "rarity": "Uncommon",
+      "cardNum": "4/76"
+    },
+    {
+      "name": "Tropius",
+      "set": "Megalo Cannon",
+      "img": "https://den-cards.pokellector.com/29/Tropius.BW9.5.png",
+      "rarity": "Common",
+      "cardNum": "5/76"
+    },
+    {
+      "name": "Karrablast",
+      "set": "Megalo Cannon",
+      "img": "https://den-cards.pokellector.com/29/Karrablast.BW9.6.png",
+      "rarity": "Common",
+      "cardNum": "6/76"
+    },
+    {
+      "name": "Shelmet",
+      "set": "Megalo Cannon",
+      "img": "https://den-cards.pokellector.com/29/Shelmet.BW9.7.png",
+      "rarity": "Common",
+      "cardNum": "7/76"
+    },
+    {
+      "name": "Accelgor",
+      "set": "Megalo Cannon",
+      "img": "https://den-cards.pokellector.com/29/Accelgor.BW9.8.png",
+      "rarity": "Uncommon",
+      "cardNum": "8/76"
+    },
+    {
+      "name": "Virizion EX",
+      "set": "Megalo Cannon",
+      "img": "https://den-cards.pokellector.com/29/Virizion-EX.BW9.9.png",
+      "rarity": "Rare",
+      "cardNum": "9/76"
+    },
+    {
+      "name": "Genesect EX",
+      "set": "Megalo Cannon",
+      "img": "https://den-cards.pokellector.com/29/Genesect-EX.BW9.10.png",
+      "rarity": "Rare",
+      "cardNum": "10/76"
+    },
+    {
+      "name": "Larvesta",
+      "set": "Megalo Cannon",
+      "img": "https://den-cards.pokellector.com/29/Larvesta.BW9.11.png",
+      "rarity": "Common",
+      "cardNum": "11/76"
+    },
+    {
+      "name": "Volcarona",
+      "set": "Megalo Cannon",
+      "img": "https://den-cards.pokellector.com/29/Volcarona.BW9.12.png",
+      "rarity": "Rare",
+      "cardNum": "12/76"
+    },
+    {
+      "name": "Lapras",
+      "set": "Megalo Cannon",
+      "img": "https://den-cards.pokellector.com/29/Lapras.BW9.13.png",
+      "rarity": "Common",
+      "cardNum": "13/76"
+    },
+    {
+      "name": "Remoraid",
+      "set": "Megalo Cannon",
+      "img": "https://den-cards.pokellector.com/29/Remoraid.BW9.14.png",
+      "rarity": "Common",
+      "cardNum": "14/76"
+    },
+    {
+      "name": "Octillery",
+      "set": "Megalo Cannon",
+      "img": "https://den-cards.pokellector.com/29/Octillery.BW9.15.png",
+      "rarity": "Common",
+      "cardNum": "15/76"
+    },
+    {
+      "name": "Snorunt",
+      "set": "Megalo Cannon",
+      "img": "https://den-cards.pokellector.com/29/Snorunt.BW9.16.png",
+      "rarity": "Common",
+      "cardNum": "16/76"
+    },
+    {
+      "name": "Glalie",
+      "set": "Megalo Cannon",
+      "img": "https://den-cards.pokellector.com/29/Glalie.BW9.17.png",
+      "rarity": "Uncommon",
+      "cardNum": "17/76"
+    },
+    {
+      "name": "Relicanth",
+      "set": "Megalo Cannon",
+      "img": "https://den-cards.pokellector.com/29/Relicanth.BW9.18.png",
+      "rarity": "Common",
+      "cardNum": "18/76"
+    },
+    {
+      "name": "Snover",
+      "set": "Megalo Cannon",
+      "img": "https://den-cards.pokellector.com/29/Snover.BW9.19.png",
+      "rarity": "Common",
+      "cardNum": "19/76"
+    },
+    {
+      "name": "Abomasnow",
+      "set": "Megalo Cannon",
+      "img": "https://den-cards.pokellector.com/29/Abomasnow.BW9.20.png",
+      "rarity": "Common",
+      "cardNum": "20/76"
+    },
+    {
+      "name": "Tirtouga",
+      "set": "Megalo Cannon",
+      "img": "https://den-cards.pokellector.com/29/Tirtouga.BW9.21.png",
+      "rarity": "Common",
+      "cardNum": "21/76"
+    },
+    {
+      "name": "Carracosta",
+      "set": "Megalo Cannon",
+      "img": "https://den-cards.pokellector.com/29/Carracosta.BW9.22.png",
+      "rarity": "Uncommon",
+      "cardNum": "22/76"
+    },
+    {
+      "name": "Tynamo",
+      "set": "Megalo Cannon",
+      "img": "https://den-cards.pokellector.com/29/Tynamo.BW9.23.png",
+      "rarity": "Common",
+      "cardNum": "23/76"
+    },
+    {
+      "name": "Eelektrik",
+      "set": "Megalo Cannon",
+      "img": "https://den-cards.pokellector.com/29/Eelektrik.BW9.24.png",
+      "rarity": "Common",
+      "cardNum": "24/76"
+    },
+    {
+      "name": "Eelektross",
+      "set": "Megalo Cannon",
+      "img": "https://den-cards.pokellector.com/29/Eelektross.BW9.25.png",
+      "rarity": "Rare",
+      "cardNum": "25/76"
+    },
+    {
+      "name": "Drifloon",
+      "set": "Megalo Cannon",
+      "img": "https://den-cards.pokellector.com/29/Drifloon.BW9.26.png",
+      "rarity": "Common",
+      "cardNum": "26/76"
+    },
+    {
+      "name": "Drifblim",
+      "set": "Megalo Cannon",
+      "img": "https://den-cards.pokellector.com/29/Drifblim.BW9.27.png",
+      "rarity": "Uncommon",
+      "cardNum": "27/76"
+    },
+    {
+      "name": "Uxie",
+      "set": "Megalo Cannon",
+      "img": "https://den-cards.pokellector.com/29/Uxie.BW9.28.png",
+      "rarity": "Uncommon",
+      "cardNum": "28/76"
+    },
+    {
+      "name": "Mesprit",
+      "set": "Megalo Cannon",
+      "img": "https://den-cards.pokellector.com/29/Mesprit.BW9.29.png",
+      "rarity": "Rare",
+      "cardNum": "29/76"
+    },
+    {
+      "name": "Azelf",
+      "set": "Megalo Cannon",
+      "img": "https://den-cards.pokellector.com/29/Azelf.BW9.30.png",
+      "rarity": "Uncommon",
+      "cardNum": "30/76"
+    },
+    {
+      "name": "Munna",
+      "set": "Megalo Cannon",
+      "img": "https://den-cards.pokellector.com/29/Munna.BW9.31.png",
+      "rarity": "Common",
+      "cardNum": "31/76"
+    },
+    {
+      "name": "Musharna",
+      "set": "Megalo Cannon",
+      "img": "https://den-cards.pokellector.com/29/Musharna.BW9.32.png",
+      "rarity": "Common",
+      "cardNum": "32/76"
+    },
+    {
+      "name": "Sigilyph",
+      "set": "Megalo Cannon",
+      "img": "https://den-cards.pokellector.com/29/Sigilyph.BW9.33.png",
+      "rarity": "Rare",
+      "cardNum": "33/76"
+    },
+    {
+      "name": "Solosis",
+      "set": "Megalo Cannon",
+      "img": "https://den-cards.pokellector.com/29/Solosis.BW9.34.png",
+      "rarity": "Common",
+      "cardNum": "34/76"
+    },
+    {
+      "name": "Duosion",
+      "set": "Megalo Cannon",
+      "img": "https://den-cards.pokellector.com/29/Duosion.BW9.35.png",
+      "rarity": "Common",
+      "cardNum": "35/76"
+    },
+    {
+      "name": "Reuniclus",
+      "set": "Megalo Cannon",
+      "img": "https://den-cards.pokellector.com/29/Reuniclus.BW9.36.png",
+      "rarity": "Uncommon",
+      "cardNum": "36/76"
+    },
+    {
+      "name": "Golett",
+      "set": "Megalo Cannon",
+      "img": "https://den-cards.pokellector.com/29/Golett.BW9.37.png",
+      "rarity": "Common",
+      "cardNum": "37/76"
+    },
+    {
+      "name": "Golurk",
+      "set": "Megalo Cannon",
+      "img": "https://den-cards.pokellector.com/29/Golurk.BW9.38.png",
+      "rarity": "Rare",
+      "cardNum": "38/76"
+    },
+    {
+      "name": "Machop",
+      "set": "Megalo Cannon",
+      "img": "https://den-cards.pokellector.com/29/Machop.BW9.39.png",
+      "rarity": "Common",
+      "cardNum": "39/76"
+    },
+    {
+      "name": "Machoke",
+      "set": "Megalo Cannon",
+      "img": "https://den-cards.pokellector.com/29/Machoke.BW9.40.png",
+      "rarity": "Common",
+      "cardNum": "40/76"
+    },
+    {
+      "name": "Machamp",
+      "set": "Megalo Cannon",
+      "img": "https://den-cards.pokellector.com/29/Machamp.BW9.41.png",
+      "rarity": "Rare",
+      "cardNum": "41/76"
+    },
+    {
+      "name": "Throh",
+      "set": "Megalo Cannon",
+      "img": "https://den-cards.pokellector.com/29/Throh.BW9.42.png",
+      "rarity": "Common",
+      "cardNum": "42/76"
+    },
+    {
+      "name": "Sawk",
+      "set": "Megalo Cannon",
+      "img": "https://den-cards.pokellector.com/29/Sawk.BW9.43.png",
+      "rarity": "Common",
+      "cardNum": "43/76"
+    },
+    {
+      "name": "Archen",
+      "set": "Megalo Cannon",
+      "img": "https://den-cards.pokellector.com/29/Archen.BW9.44.png",
+      "rarity": "Common",
+      "cardNum": "44/76"
+    },
+    {
+      "name": "Archeops",
+      "set": "Megalo Cannon",
+      "img": "https://den-cards.pokellector.com/29/Archeops.BW9.45.png",
+      "rarity": "Rare",
+      "cardNum": "45/76"
+    },
+    {
+      "name": "Houndour",
+      "set": "Megalo Cannon",
+      "img": "https://den-cards.pokellector.com/29/Houndour.BW9.46.png",
+      "rarity": "Common",
+      "cardNum": "46/76"
+    },
+    {
+      "name": "Houndoom",
+      "set": "Megalo Cannon",
+      "img": "https://den-cards.pokellector.com/29/Houndoom.BW9.47.png",
+      "rarity": "Rare",
+      "cardNum": "47/76"
+    },
+    {
+      "name": "Aron",
+      "set": "Megalo Cannon",
+      "img": "https://den-cards.pokellector.com/29/Aron.BW9.48.png",
+      "rarity": "Common",
+      "cardNum": "48/76"
+    },
+    {
+      "name": "Lairon",
+      "set": "Megalo Cannon",
+      "img": "https://den-cards.pokellector.com/29/Lairon.BW9.49.png",
+      "rarity": "Common",
+      "cardNum": "49/76"
+    },
+    {
+      "name": "Aggron",
+      "set": "Megalo Cannon",
+      "img": "https://den-cards.pokellector.com/29/Aggron.BW9.50.png",
+      "rarity": "Uncommon",
+      "cardNum": "50/76"
+    },
+    {
+      "name": "Jirachi EX",
+      "set": "Megalo Cannon",
+      "img": "https://den-cards.pokellector.com/29/Jirachi-EX.BW9.51.png",
+      "rarity": "Rare",
+      "cardNum": "51/76"
+    },
+    {
+      "name": "Escavalier",
+      "set": "Megalo Cannon",
+      "img": "https://den-cards.pokellector.com/29/Escavalier.BW9.52.png",
+      "rarity": "Uncommon",
+      "cardNum": "52/76"
+    },
+    {
+      "name": "Dialga EX",
+      "set": "Megalo Cannon",
+      "img": "https://den-cards.pokellector.com/29/Dialga-EX.BW9.53.png",
+      "rarity": "Rare",
+      "cardNum": "53/76"
+    },
+    {
+      "name": "Palkia EX",
+      "set": "Megalo Cannon",
+      "img": "https://den-cards.pokellector.com/29/Palkia-EX.BW9.54.png",
+      "rarity": "Rare",
+      "cardNum": "54/76"
+    },
+    {
+      "name": "Axew",
+      "set": "Megalo Cannon",
+      "img": "https://den-cards.pokellector.com/29/Axew.BW9.55.png",
+      "rarity": "Common",
+      "cardNum": "55/76"
+    },
+    {
+      "name": "Fraxure",
+      "set": "Megalo Cannon",
+      "img": "https://den-cards.pokellector.com/29/Fraxure.BW9.56.png",
+      "rarity": "Common",
+      "cardNum": "56/76"
+    },
+    {
+      "name": "Haxorus",
+      "set": "Megalo Cannon",
+      "img": "https://den-cards.pokellector.com/29/Haxorus.BW9.57.png",
+      "rarity": "Rare",
+      "cardNum": "57/76"
+    },
+    {
+      "name": "Druddigon",
+      "set": "Megalo Cannon",
+      "img": "https://den-cards.pokellector.com/29/Druddigon.BW9.58.png",
+      "rarity": "Common",
+      "cardNum": "58/76"
+    },
+    {
+      "name": "Porygon",
+      "set": "Megalo Cannon",
+      "img": "https://den-cards.pokellector.com/29/Porygon.BW9.59.png",
+      "rarity": "Common",
+      "cardNum": "59/76"
+    },
+    {
+      "name": "Porygon2",
+      "set": "Megalo Cannon",
+      "img": "https://den-cards.pokellector.com/29/Porygon2.BW9.60.png",
+      "rarity": "Common",
+      "cardNum": "60/76"
+    },
+    {
+      "name": "Porygon-Z",
+      "set": "Megalo Cannon",
+      "img": "https://den-cards.pokellector.com/29/Porygon-Z.BW9.61.png",
+      "rarity": "Rare",
+      "cardNum": "61/76"
+    },
+    {
+      "name": "Teddiursa",
+      "set": "Megalo Cannon",
+      "img": "https://den-cards.pokellector.com/29/Teddiursa.BW9.62.png",
+      "rarity": "Common",
+      "cardNum": "62/76"
+    },
+    {
+      "name": "Ursaring",
+      "set": "Megalo Cannon",
+      "img": "https://den-cards.pokellector.com/29/Ursaring.BW9.63.png",
+      "rarity": "Common",
+      "cardNum": "63/76"
+    },
+    {
+      "name": "Chatot",
+      "set": "Megalo Cannon",
+      "img": "https://den-cards.pokellector.com/29/Chatot.BW9.64.png",
+      "rarity": "Common",
+      "cardNum": "64/76"
+    },
+    {
+      "name": "Root Fossil Lileep",
+      "set": "Megalo Cannon",
+      "img": "https://den-cards.pokellector.com/29/Root-Fossil-Lileep.BW9.65.png",
+      "rarity": "Uncommon",
+      "cardNum": "65/76"
+    },
+    {
+      "name": "Plume Fossil",
+      "set": "Megalo Cannon",
+      "img": "https://den-cards.pokellector.com/29/Plume-Fossil.BW9.66.png",
+      "rarity": "Uncommon",
+      "cardNum": "66/76"
+    },
+    {
+      "name": "Cover Fossil",
+      "set": "Megalo Cannon",
+      "img": "https://den-cards.pokellector.com/29/Cover-Fossil.BW9.67.png",
+      "rarity": "Uncommon",
+      "cardNum": "67/76"
+    },
+    {
+      "name": "Silver Bangle",
+      "set": "Megalo Cannon",
+      "img": "https://den-cards.pokellector.com/29/Silver-Bangle.BW9.68.png",
+      "rarity": "Uncommon",
+      "cardNum": "68/76"
+    },
+    {
+      "name": "Silver Mirror",
+      "set": "Megalo Cannon",
+      "img": "https://den-cards.pokellector.com/29/Silver-Mirror.BW9.69.png",
+      "rarity": "Uncommon",
+      "cardNum": "69/76"
+    },
+    {
+      "name": "Reversal Trigger",
+      "set": "Megalo Cannon",
+      "img": "https://den-cards.pokellector.com/29/Reversal-Trigger.BW9.70.png",
+      "rarity": "Uncommon",
+      "cardNum": "70/76"
+    },
+    {
+      "name": "Iris",
+      "set": "Megalo Cannon",
+      "img": "https://den-cards.pokellector.com/29/Iris.BW9.71.png",
+      "rarity": "Uncommon",
+      "cardNum": "71/76"
+    },
+    {
+      "name": "Caitlin",
+      "set": "Megalo Cannon",
+      "img": "https://den-cards.pokellector.com/29/Caitlin.BW9.72.png",
+      "rarity": "Uncommon",
+      "cardNum": "72/76"
+    },
+    {
+      "name": "Scoop Up Cyclone",
+      "set": "Megalo Cannon",
+      "img": "https://den-cards.pokellector.com/29/Scoop-Up-Cyclone.BW9.73.png",
+      "rarity": "Rare",
+      "cardNum": "73/76"
+    },
+    {
+      "name": "G Scope",
+      "set": "Megalo Cannon",
+      "img": "https://den-cards.pokellector.com/29/G-Scope.BW9.74.png",
+      "rarity": "Rare",
+      "cardNum": "74/76"
+    },
+    {
+      "name": "G Booster",
+      "set": "Megalo Cannon",
+      "img": "https://den-cards.pokellector.com/29/G-Booster.BW9.75.png",
+      "rarity": "Rare",
+      "cardNum": "75/76"
+    },
+    {
+      "name": "Plasma Energy",
+      "set": "Megalo Cannon",
+      "img": "https://den-cards.pokellector.com/29/Plasma-Energy.BW9.76.png",
+      "rarity": "Uncommon",
+      "cardNum": "76/76"
+    },
+    {
+      "name": "Virizion EX",
+      "set": "Megalo Cannon",
+      "img": "https://den-cards.pokellector.com/29/Virizion-EX.BW9.77.png",
+      "rarity": "Secret Rare",
+      "cardNum": "77/76"
+    },
+    {
+      "name": "Genesect EX",
+      "set": "Megalo Cannon",
+      "img": "https://den-cards.pokellector.com/29/Genesect-EX.BW9.78.png",
+      "rarity": "Secret Rare",
+      "cardNum": "78/76"
+    },
+    {
+      "name": "Jirachi EX",
+      "set": "Megalo Cannon",
+      "img": "https://den-cards.pokellector.com/29/Jirachi-EX.BW9.79.png",
+      "rarity": "Secret Rare",
+      "cardNum": "79/76"
+    },
+    {
+      "name": "Dialga EX",
+      "set": "Megalo Cannon",
+      "img": "https://den-cards.pokellector.com/29/Dialga-EX.BW9.80.png",
+      "rarity": "Secret Rare",
+      "cardNum": "80/76"
+    },
+    {
+      "name": "Palkia EX",
+      "set": "Megalo Cannon",
+      "img": "https://den-cards.pokellector.com/29/Palkia-EX.BW9.81.png",
+      "rarity": "Secret Rare",
+      "cardNum": "81/76"
+    },
+    {
+      "name": "Iris",
+      "set": "Megalo Cannon",
+      "img": "https://den-cards.pokellector.com/29/Iris.BW9.82.png",
+      "rarity": "Secret Rare",
+      "cardNum": "82/76"
+    },
+    {
+      "name": "Exeggcute",
+      "set": "Megalo Cannon",
+      "img": "https://den-cards.pokellector.com/29/Exeggcute.BW9.83.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "83/76"
+    },
+    {
+      "name": "Virizion",
+      "set": "Megalo Cannon",
+      "img": "https://den-cards.pokellector.com/29/Virizion.BW9.84.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "84/76"
+    },
+    {
+      "name": "Dusknoir",
+      "set": "Megalo Cannon",
+      "img": "https://den-cards.pokellector.com/29/Dusknoir.BW9.85.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "85/76"
+    },
+    {
+      "name": "Rare Candy",
+      "set": "Megalo Cannon",
+      "img": "https://den-cards.pokellector.com/29/Rare-Candy.BW9.86.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "86/76"
+    }
+  ]
+}

@@ -1,0 +1,642 @@
+{
+  "setName": "Single Strike Master",
+  "cards": [
+    {
+      "name": "Cacnea",
+      "set": "Single Strike Master",
+      "img": "https://den-cards.pokellector.com/306/Cacnea.S5I.1.36763.png",
+      "rarity": "Common",
+      "cardNum": "1/70"
+    },
+    {
+      "name": "Cacturne",
+      "set": "Single Strike Master",
+      "img": "https://den-cards.pokellector.com/306/Cacturne.S5I.2.36764.png",
+      "rarity": "Common",
+      "cardNum": "2/70"
+    },
+    {
+      "name": "Durant",
+      "set": "Single Strike Master",
+      "img": "https://den-cards.pokellector.com/306/Durant.S5I.3.36765.png",
+      "rarity": "Common",
+      "cardNum": "3/70"
+    },
+    {
+      "name": "Scatterbug",
+      "set": "Single Strike Master",
+      "img": "https://den-cards.pokellector.com/306/Scatterbug.S5I.4.36766.png",
+      "rarity": "Common",
+      "cardNum": "4/70"
+    },
+    {
+      "name": "Spewpa",
+      "set": "Single Strike Master",
+      "img": "https://den-cards.pokellector.com/306/Spewpa.S5I.5.36767.png",
+      "rarity": "Common",
+      "cardNum": "5/70"
+    },
+    {
+      "name": "Vivillon",
+      "set": "Single Strike Master",
+      "img": "https://den-cards.pokellector.com/306/Vivillon.S5I.6.36768.png",
+      "rarity": "Uncommon",
+      "cardNum": "6/70"
+    },
+    {
+      "name": "Flapple V",
+      "set": "Single Strike Master",
+      "img": "https://den-cards.pokellector.com/306/Flapple-V.S5I.7.36769.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "7/70"
+    },
+    {
+      "name": "Flapple VMAX",
+      "set": "Single Strike Master",
+      "img": "https://den-cards.pokellector.com/306/Flapple-VMAX.S5I.8.36770.png",
+      "rarity": "Common",
+      "cardNum": "8/70"
+    },
+    {
+      "name": "Entei",
+      "set": "Single Strike Master",
+      "img": "https://den-cards.pokellector.com/306/Entei.S5I.9.36771.png",
+      "rarity": "Rare",
+      "cardNum": "9/70"
+    },
+    {
+      "name": "Tepig",
+      "set": "Single Strike Master",
+      "img": "https://den-cards.pokellector.com/306/Tepig.S5I.10.36772.png",
+      "rarity": "Common",
+      "cardNum": "10/70"
+    },
+    {
+      "name": "Pignite",
+      "set": "Single Strike Master",
+      "img": "https://den-cards.pokellector.com/306/Pignite.S5I.11.36773.png",
+      "rarity": "Uncommon",
+      "cardNum": "11/70"
+    },
+    {
+      "name": "Emboar",
+      "set": "Single Strike Master",
+      "img": "https://den-cards.pokellector.com/306/Emboar.S5I.12.36665.png",
+      "rarity": "Rare",
+      "cardNum": "12/70"
+    },
+    {
+      "name": "Salandit",
+      "set": "Single Strike Master",
+      "img": "https://den-cards.pokellector.com/306/Salandit.S5I.13.36774.png",
+      "rarity": "Common",
+      "cardNum": "13/70"
+    },
+    {
+      "name": "Salazzle",
+      "set": "Single Strike Master",
+      "img": "https://den-cards.pokellector.com/306/Salazzle.S5I.14.36775.png",
+      "rarity": "Uncommon",
+      "cardNum": "14/70"
+    },
+    {
+      "name": "Electabuzz",
+      "set": "Single Strike Master",
+      "img": "https://den-cards.pokellector.com/306/Electabuzz.S5I.15.36776.png",
+      "rarity": "Common",
+      "cardNum": "15/70"
+    },
+    {
+      "name": "Electivire",
+      "set": "Single Strike Master",
+      "img": "https://den-cards.pokellector.com/306/Electivire.S5I.16.36777.png",
+      "rarity": "Uncommon",
+      "cardNum": "16/70"
+    },
+    {
+      "name": "Tapu Koko V",
+      "set": "Single Strike Master",
+      "img": "https://den-cards.pokellector.com/306/Tapu-Koko-V.S5I.17.36716.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "17/70"
+    },
+    {
+      "name": "Tapu Koko VMAX",
+      "set": "Single Strike Master",
+      "img": "https://den-cards.pokellector.com/306/Tapu-Koko-VMAX.S5I.18.36715.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "18/70"
+    },
+    {
+      "name": "Yamper",
+      "set": "Single Strike Master",
+      "img": "https://den-cards.pokellector.com/306/Yamper.S5I.19.36778.png",
+      "rarity": "Common",
+      "cardNum": "19/70"
+    },
+    {
+      "name": "Boltund",
+      "set": "Single Strike Master",
+      "img": "https://den-cards.pokellector.com/306/Boltund.S5I.20.36779.png",
+      "rarity": "Uncommon",
+      "cardNum": "20/70"
+    },
+    {
+      "name": "Galarian Slowpoke",
+      "set": "Single Strike Master",
+      "img": "https://den-cards.pokellector.com/306/Galarian-Slowpoke.S5I.21.36780.png",
+      "rarity": "Common",
+      "cardNum": "21/70"
+    },
+    {
+      "name": "Spoink",
+      "set": "Single Strike Master",
+      "img": "https://den-cards.pokellector.com/306/Spoink.S5I.22.36781.png",
+      "rarity": "Common",
+      "cardNum": "22/70"
+    },
+    {
+      "name": "Grumpig",
+      "set": "Single Strike Master",
+      "img": "https://den-cards.pokellector.com/306/Grumpig.S5I.23.36782.png",
+      "rarity": "Common",
+      "cardNum": "23/70"
+    },
+    {
+      "name": "Chimecho",
+      "set": "Single Strike Master",
+      "img": "https://den-cards.pokellector.com/306/Chimecho.S5I.24.36783.png",
+      "rarity": "Common",
+      "cardNum": "24/70"
+    },
+    {
+      "name": "Espurr",
+      "set": "Single Strike Master",
+      "img": "https://den-cards.pokellector.com/306/Espurr.S5I.25.36784.png",
+      "rarity": "Common",
+      "cardNum": "25/70"
+    },
+    {
+      "name": "Meowstic",
+      "set": "Single Strike Master",
+      "img": "https://den-cards.pokellector.com/306/Meowstic.S5I.26.36785.png",
+      "rarity": "Rare",
+      "cardNum": "26/70"
+    },
+    {
+      "name": "Mimikyu V",
+      "set": "Single Strike Master",
+      "img": "https://den-cards.pokellector.com/306/Mimikyu-V.S5I.27.36717.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "27/70"
+    },
+    {
+      "name": "Mankey",
+      "set": "Single Strike Master",
+      "img": "https://den-cards.pokellector.com/306/Mankey.S5I.28.36786.png",
+      "rarity": "Common",
+      "cardNum": "28/70"
+    },
+    {
+      "name": "Primeape",
+      "set": "Single Strike Master",
+      "img": "https://den-cards.pokellector.com/306/Primeape.S5I.29.36721.png",
+      "rarity": "Uncommon",
+      "cardNum": "29/70"
+    },
+    {
+      "name": "Gligar",
+      "set": "Single Strike Master",
+      "img": "https://den-cards.pokellector.com/306/Gligar.S5I.30.36787.png",
+      "rarity": "Common",
+      "cardNum": "30/70"
+    },
+    {
+      "name": "Gliscor",
+      "set": "Single Strike Master",
+      "img": "https://den-cards.pokellector.com/306/Gliscor.S5I.31.36788.png",
+      "rarity": "Common",
+      "cardNum": "31/70"
+    },
+    {
+      "name": "Rolycoly",
+      "set": "Single Strike Master",
+      "img": "https://den-cards.pokellector.com/306/Rolycoly.S5I.32.36789.png",
+      "rarity": "Common",
+      "cardNum": "32/70"
+    },
+    {
+      "name": "Carkol",
+      "set": "Single Strike Master",
+      "img": "https://den-cards.pokellector.com/306/Carkol.S5I.33.36790.png",
+      "rarity": "Uncommon",
+      "cardNum": "33/70"
+    },
+    {
+      "name": "Coalossal",
+      "set": "Single Strike Master",
+      "img": "https://den-cards.pokellector.com/306/Coalossal.S5I.34.36791.png",
+      "rarity": "Rare",
+      "cardNum": "34/70"
+    },
+    {
+      "name": "Stonjourner",
+      "set": "Single Strike Master",
+      "img": "https://den-cards.pokellector.com/306/Stonjourner.S5I.35.36792.png",
+      "rarity": "Uncommon",
+      "cardNum": "35/70"
+    },
+    {
+      "name": "Single Strike Urshifu V",
+      "set": "Single Strike Master",
+      "img": "https://den-cards.pokellector.com/306/Single-Strike-Urshifu-V.S5I.36.36663.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "36/70"
+    },
+    {
+      "name": "Single Strike Urshifu VMAX",
+      "set": "Single Strike Master",
+      "img": "https://den-cards.pokellector.com/306/Single-Strike-Urshifu-VMAX.S5I.37.36662.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "37/70"
+    },
+    {
+      "name": "Zubat",
+      "set": "Single Strike Master",
+      "img": "https://den-cards.pokellector.com/306/Zubat.S5I.38.36793.png",
+      "rarity": "Common",
+      "cardNum": "38/70"
+    },
+    {
+      "name": "Golbat",
+      "set": "Single Strike Master",
+      "img": "https://den-cards.pokellector.com/306/Golbat.S5I.39.36794.png",
+      "rarity": "Uncommon",
+      "cardNum": "39/70"
+    },
+    {
+      "name": "Crobat",
+      "set": "Single Strike Master",
+      "img": "https://den-cards.pokellector.com/306/Crobat.S5I.40.36795.png",
+      "rarity": "Rare",
+      "cardNum": "40/70"
+    },
+    {
+      "name": "Galarian Slowbro",
+      "set": "Single Strike Master",
+      "img": "https://den-cards.pokellector.com/306/Galarian-Slowbro.S5I.41.36796.png",
+      "rarity": "Uncommon",
+      "cardNum": "41/70"
+    },
+    {
+      "name": "Murkrow",
+      "set": "Single Strike Master",
+      "img": "https://den-cards.pokellector.com/306/Murkrow.S5I.42.36797.png",
+      "rarity": "Common",
+      "cardNum": "42/70"
+    },
+    {
+      "name": "Honchkrow",
+      "set": "Single Strike Master",
+      "img": "https://den-cards.pokellector.com/306/Honchkrow.S5I.43.36798.png",
+      "rarity": "Common",
+      "cardNum": "43/70"
+    },
+    {
+      "name": "Houndour",
+      "set": "Single Strike Master",
+      "img": "https://den-cards.pokellector.com/306/Houndour.S5I.44.36799.png",
+      "rarity": "Common",
+      "cardNum": "44/70"
+    },
+    {
+      "name": "Houndoom",
+      "set": "Single Strike Master",
+      "img": "https://den-cards.pokellector.com/306/Houndoom.S5I.45.36666.png",
+      "rarity": "Rare",
+      "cardNum": "45/70"
+    },
+    {
+      "name": "Tyranitar V",
+      "set": "Single Strike Master",
+      "img": "https://den-cards.pokellector.com/306/Tyranitar-V.S5I.46.36664.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "46/70"
+    },
+    {
+      "name": "Morpeko",
+      "set": "Single Strike Master",
+      "img": "https://den-cards.pokellector.com/306/Morpeko.S5I.47.36800.png",
+      "rarity": "Common",
+      "cardNum": "47/70"
+    },
+    {
+      "name": "Mawile",
+      "set": "Single Strike Master",
+      "img": "https://den-cards.pokellector.com/306/Mawile.S5I.48.36801.png",
+      "rarity": "Common",
+      "cardNum": "48/70"
+    },
+    {
+      "name": "Bronzor",
+      "set": "Single Strike Master",
+      "img": "https://den-cards.pokellector.com/306/Bronzor.S5I.49.36802.png",
+      "rarity": "Common",
+      "cardNum": "49/70"
+    },
+    {
+      "name": "Bronzong",
+      "set": "Single Strike Master",
+      "img": "https://den-cards.pokellector.com/306/Bronzong.S5I.50.36718.png",
+      "rarity": "Rare",
+      "cardNum": "50/70"
+    },
+    {
+      "name": "Honedge",
+      "set": "Single Strike Master",
+      "img": "https://den-cards.pokellector.com/306/Honedge.S5I.51.36803.png",
+      "rarity": "Common",
+      "cardNum": "51/70"
+    },
+    {
+      "name": "Doublade",
+      "set": "Single Strike Master",
+      "img": "https://den-cards.pokellector.com/306/Doublade.S5I.52.36804.png",
+      "rarity": "Common",
+      "cardNum": "52/70"
+    },
+    {
+      "name": "Aegislash",
+      "set": "Single Strike Master",
+      "img": "https://den-cards.pokellector.com/306/Aegislash.S5I.53.36805.png",
+      "rarity": "Rare",
+      "cardNum": "53/70"
+    },
+    {
+      "name": "Aegislash",
+      "set": "Single Strike Master",
+      "img": "https://den-cards.pokellector.com/306/Aegislash.S5I.54.36806.png",
+      "rarity": "Uncommon",
+      "cardNum": "54/70"
+    },
+    {
+      "name": "Spearow",
+      "set": "Single Strike Master",
+      "img": "https://den-cards.pokellector.com/306/Spearow.S5I.55.36807.png",
+      "rarity": "Common",
+      "cardNum": "55/70"
+    },
+    {
+      "name": "Fearow",
+      "set": "Single Strike Master",
+      "img": "https://den-cards.pokellector.com/306/Fearow.S5I.56.36808.png",
+      "rarity": "Common",
+      "cardNum": "56/70"
+    },
+    {
+      "name": "Lickitung",
+      "set": "Single Strike Master",
+      "img": "https://den-cards.pokellector.com/306/Lickitung.S5I.57.36809.png",
+      "rarity": "Common",
+      "cardNum": "57/70"
+    },
+    {
+      "name": "Lickilicky",
+      "set": "Single Strike Master",
+      "img": "https://den-cards.pokellector.com/306/Lickilicky.S5I.58.36810.png",
+      "rarity": "Uncommon",
+      "cardNum": "58/70"
+    },
+    {
+      "name": "Stoutland V",
+      "set": "Single Strike Master",
+      "img": "https://den-cards.pokellector.com/306/Stoutland-V.S5I.59.36811.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "59/70"
+    },
+    {
+      "name": "Drampa",
+      "set": "Single Strike Master",
+      "img": "https://den-cards.pokellector.com/306/Drampa.S5I.60.36812.png",
+      "rarity": "Uncommon",
+      "cardNum": "60/70"
+    },
+    {
+      "name": "Escape Rope",
+      "set": "Single Strike Master",
+      "img": "https://den-cards.pokellector.com/306/Escape-Rope.S5I.61.36719.png",
+      "rarity": "Uncommon",
+      "cardNum": "61/70"
+    },
+    {
+      "name": "Urn of Vitality",
+      "set": "Single Strike Master",
+      "img": "https://den-cards.pokellector.com/306/Vitality-Jar.S5I.62.36670.png",
+      "rarity": "Uncommon",
+      "cardNum": "62/70"
+    },
+    {
+      "name": "Camping Gear",
+      "set": "Single Strike Master",
+      "img": "https://den-cards.pokellector.com/306/Camping-Gear.S5I.63.36813.png",
+      "rarity": "Uncommon",
+      "cardNum": "63/70"
+    },
+    {
+      "name": "Single Strike Scroll: Raging Scroll",
+      "set": "Single Strike Master",
+      "img": "https://den-cards.pokellector.com/306/Single-Strike-Scroll-Raging-Scroll.S5I.64.36669.png",
+      "rarity": "Uncommon",
+      "cardNum": "64/70"
+    },
+    {
+      "name": "Exp. Share",
+      "set": "Single Strike Master",
+      "img": "https://den-cards.pokellector.com/306/Exp-Share.S5I.65.36814.png",
+      "rarity": "Uncommon",
+      "cardNum": "65/70"
+    },
+    {
+      "name": "Bruno",
+      "set": "Single Strike Master",
+      "img": "https://den-cards.pokellector.com/306/Bruno.S5I.66.36815.png",
+      "rarity": "Uncommon",
+      "cardNum": "66/70"
+    },
+    {
+      "name": "Phoebe",
+      "set": "Single Strike Master",
+      "img": "https://den-cards.pokellector.com/306/Phoebe.S5I.67.36720.png",
+      "rarity": "Uncommon",
+      "cardNum": "67/70"
+    },
+    {
+      "name": "Mustard Single Strike Stance",
+      "set": "Single Strike Master",
+      "img": "https://den-cards.pokellector.com/306/Mustard-Single-Strike-Stance.S5I.68.36671.png",
+      "rarity": "Uncommon",
+      "cardNum": "68/70"
+    },
+    {
+      "name": "Tower of Darkness",
+      "set": "Single Strike Master",
+      "img": "https://den-cards.pokellector.com/306/Tower-of-Darkness.S5I.69.36668.png",
+      "rarity": "Uncommon",
+      "cardNum": "69/70"
+    },
+    {
+      "name": "Single Strike Energy",
+      "set": "Single Strike Master",
+      "img": "https://den-cards.pokellector.com/306/Single-Strike-Energy.S5I.70.36667.png",
+      "rarity": "Uncommon",
+      "cardNum": "70/70"
+    },
+    {
+      "name": "Flapple V",
+      "set": "Single Strike Master",
+      "img": "https://den-cards.pokellector.com/306/Flapple-V.S5I.71.36892.png",
+      "rarity": "Secret Rare",
+      "cardNum": "71/70"
+    },
+    {
+      "name": "Tapu Koko V",
+      "set": "Single Strike Master",
+      "img": "https://den-cards.pokellector.com/306/Tapu-Koko-V.S5I.72.36893.png",
+      "rarity": "Secret Rare",
+      "cardNum": "72/70"
+    },
+    {
+      "name": "Mimikyu V",
+      "set": "Single Strike Master",
+      "img": "https://den-cards.pokellector.com/306/Mimikyu-V.S5I.73.36894.png",
+      "rarity": "Secret Rare",
+      "cardNum": "73/70"
+    },
+    {
+      "name": "Single Strike Urshifu V",
+      "set": "Single Strike Master",
+      "img": "https://den-cards.pokellector.com/306/Single-Strike-Urshifu-V.S5I.74.36895.png",
+      "rarity": "Secret Rare",
+      "cardNum": "74/70"
+    },
+    {
+      "name": "Single Strike Urshifu V",
+      "set": "Single Strike Master",
+      "img": "https://den-cards.pokellector.com/306/Single-Strike-Urshifu-V.S5I.75.36896.png",
+      "rarity": "Secret Rare",
+      "cardNum": "75/70"
+    },
+    {
+      "name": "Tyranitar V",
+      "set": "Single Strike Master",
+      "img": "https://den-cards.pokellector.com/306/Tyranitar-V.S5I.76.36897.png",
+      "rarity": "Secret Rare",
+      "cardNum": "76/70"
+    },
+    {
+      "name": "Tyranitar V",
+      "set": "Single Strike Master",
+      "img": "https://den-cards.pokellector.com/306/Tyranitar-V.S5I.77.36760.png",
+      "rarity": "Secret Rare",
+      "cardNum": "77/70"
+    },
+    {
+      "name": "Stoutland V",
+      "set": "Single Strike Master",
+      "img": "https://den-cards.pokellector.com/306/Stoutland-V.S5I.78.36898.png",
+      "rarity": "Secret Rare",
+      "cardNum": "78/70"
+    },
+    {
+      "name": "Bruno",
+      "set": "Single Strike Master",
+      "img": "https://den-cards.pokellector.com/306/Bruno.S5I.79.36899.png",
+      "rarity": "Secret Rare",
+      "cardNum": "79/70"
+    },
+    {
+      "name": "Phoebe",
+      "set": "Single Strike Master",
+      "img": "https://den-cards.pokellector.com/306/Phoebe.S5I.80.36900.png",
+      "rarity": "Secret Rare",
+      "cardNum": "80/70"
+    },
+    {
+      "name": "Mustard Single Strike Style",
+      "set": "Single Strike Master",
+      "img": "https://den-cards.pokellector.com/306/Mustard-Single-Strike-Style.S5I.81.36901.png",
+      "rarity": "Secret Rare",
+      "cardNum": "81/70"
+    },
+    {
+      "name": "Flapple VMAX",
+      "set": "Single Strike Master",
+      "img": "https://den-cards.pokellector.com/306/Flapple-VMAX.S5I.82.36902.png",
+      "rarity": "Secret Rare",
+      "cardNum": "82/70"
+    },
+    {
+      "name": "Tapu Koko VMAX",
+      "set": "Single Strike Master",
+      "img": "https://den-cards.pokellector.com/306/Tapu-Koko-VMAX.S5I.83.36903.png",
+      "rarity": "Secret Rare",
+      "cardNum": "83/70"
+    },
+    {
+      "name": "Single Strike Urshifu VMAX",
+      "set": "Single Strike Master",
+      "img": "https://den-cards.pokellector.com/306/Single-Strike-Urshifu-VMAX.S5I.84.36904.png",
+      "rarity": "Secret Rare",
+      "cardNum": "84/70"
+    },
+    {
+      "name": "Single Strike Urshifu VMAX",
+      "set": "Single Strike Master",
+      "img": "https://den-cards.pokellector.com/306/Single-Strike-Urshifu-VMAX.S5I.85.36703.png",
+      "rarity": "Secret Rare",
+      "cardNum": "85/70"
+    },
+    {
+      "name": "Bruno",
+      "set": "Single Strike Master",
+      "img": "https://den-cards.pokellector.com/306/Bruno.S5I.86.36905.png",
+      "rarity": "Secret Rare",
+      "cardNum": "86/70"
+    },
+    {
+      "name": "Phoebe",
+      "set": "Single Strike Master",
+      "img": "https://den-cards.pokellector.com/306/Phoebe.S5I.87.36906.png",
+      "rarity": "Secret Rare",
+      "cardNum": "87/70"
+    },
+    {
+      "name": "Mustard Single Strike Style",
+      "set": "Single Strike Master",
+      "img": "https://den-cards.pokellector.com/306/Mustard-Single-Strike-Style.S5I.88.36907.png",
+      "rarity": "Secret Rare",
+      "cardNum": "88/70"
+    },
+    {
+      "name": "Houndoom",
+      "set": "Single Strike Master",
+      "img": "https://den-cards.pokellector.com/306/Houndoom.S5I.89.36908.png",
+      "rarity": "Secret Rare",
+      "cardNum": "89/70"
+    },
+    {
+      "name": "Exp. Share",
+      "set": "Single Strike Master",
+      "img": "https://den-cards.pokellector.com/306/Exp-Share.S5I.90.36909.png",
+      "rarity": "Secret Rare",
+      "cardNum": "90/70"
+    },
+    {
+      "name": "Single Strike Energy",
+      "set": "Single Strike Master",
+      "img": "https://den-cards.pokellector.com/306/Single-Strike-Energy.S5I.91.36910.png",
+      "rarity": "Secret Rare",
+      "cardNum": "91/70"
+    }
+  ]
+}

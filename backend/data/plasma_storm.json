@@ -1,0 +1,971 @@
+{
+  "setName": "Plasma Storm",
+  "cards": [
+    {
+      "name": "Turtwig",
+      "set": "Plasma Storm",
+      "img": "https://den-cards.pokellector.com/26/Turtwig.PLS.1.png",
+      "rarity": "Common",
+      "cardNum": "1/135"
+    },
+    {
+      "name": "Grotle",
+      "set": "Plasma Storm",
+      "img": "https://den-cards.pokellector.com/26/Grotle.PLS.2.png",
+      "rarity": "Uncommon",
+      "cardNum": "2/135"
+    },
+    {
+      "name": "Torterra",
+      "set": "Plasma Storm",
+      "img": "https://den-cards.pokellector.com/26/Torterra.PLS.3.png",
+      "rarity": "Rare",
+      "cardNum": "3/135"
+    },
+    {
+      "name": "Combee",
+      "set": "Plasma Storm",
+      "img": "https://den-cards.pokellector.com/26/Combee.PLS.4.png",
+      "rarity": "Common",
+      "cardNum": "4/135"
+    },
+    {
+      "name": "Vespiquen",
+      "set": "Plasma Storm",
+      "img": "https://den-cards.pokellector.com/26/Vespiquen.PLS.5.png",
+      "rarity": "Rare",
+      "cardNum": "5/135"
+    },
+    {
+      "name": "Cherubi",
+      "set": "Plasma Storm",
+      "img": "https://den-cards.pokellector.com/26/Cherubi.PLS.6.png",
+      "rarity": "Common",
+      "cardNum": "6/135"
+    },
+    {
+      "name": "Cherrim",
+      "set": "Plasma Storm",
+      "img": "https://den-cards.pokellector.com/26/Cherrim.PLS.7.png",
+      "rarity": "Rare",
+      "cardNum": "7/135"
+    },
+    {
+      "name": "Sewaddle",
+      "set": "Plasma Storm",
+      "img": "https://den-cards.pokellector.com/26/Sewaddle.PLS.8.png",
+      "rarity": "Common",
+      "cardNum": "8/135"
+    },
+    {
+      "name": "Swadloon",
+      "set": "Plasma Storm",
+      "img": "https://den-cards.pokellector.com/26/Swadloon.PLS.9.png",
+      "rarity": "Uncommon",
+      "cardNum": "9/135"
+    },
+    {
+      "name": "Leavanny",
+      "set": "Plasma Storm",
+      "img": "https://den-cards.pokellector.com/26/Leavanny.PLS.10.png",
+      "rarity": "Rare",
+      "cardNum": "10/135"
+    },
+    {
+      "name": "Maractus",
+      "set": "Plasma Storm",
+      "img": "https://den-cards.pokellector.com/26/Maractus.PLS.11.png",
+      "rarity": "Uncommon",
+      "cardNum": "11/135"
+    },
+    {
+      "name": "Foongus",
+      "set": "Plasma Storm",
+      "img": "https://den-cards.pokellector.com/26/Foongus.PLS.12.png",
+      "rarity": "Common",
+      "cardNum": "12/135"
+    },
+    {
+      "name": "Amoonguss",
+      "set": "Plasma Storm",
+      "img": "https://den-cards.pokellector.com/26/Amoonguss.PLS.13.png",
+      "rarity": "Uncommon",
+      "cardNum": "13/135"
+    },
+    {
+      "name": "Moltres EX",
+      "set": "Plasma Storm",
+      "img": "https://den-cards.pokellector.com/26/Moltres-EX.PLS.14.png",
+      "rarity": "Rare",
+      "cardNum": "14/135"
+    },
+    {
+      "name": "Chimchar",
+      "set": "Plasma Storm",
+      "img": "https://den-cards.pokellector.com/26/Chimchar.PLS.15.png",
+      "rarity": "Common",
+      "cardNum": "15/135"
+    },
+    {
+      "name": "Monferno",
+      "set": "Plasma Storm",
+      "img": "https://den-cards.pokellector.com/26/Monferno.PLS.16.png",
+      "rarity": "Uncommon",
+      "cardNum": "16/135"
+    },
+    {
+      "name": "Infernape",
+      "set": "Plasma Storm",
+      "img": "https://den-cards.pokellector.com/26/Infernape.PLS.17.png",
+      "rarity": "Rare",
+      "cardNum": "17/135"
+    },
+    {
+      "name": "Victini EX",
+      "set": "Plasma Storm",
+      "img": "https://den-cards.pokellector.com/26/Victini-EX.PLS.18.png",
+      "rarity": "Rare",
+      "cardNum": "18/135"
+    },
+    {
+      "name": "Pansear",
+      "set": "Plasma Storm",
+      "img": "https://den-cards.pokellector.com/26/Pansear.PLS.19.png",
+      "rarity": "Common",
+      "cardNum": "19/135"
+    },
+    {
+      "name": "Simisear",
+      "set": "Plasma Storm",
+      "img": "https://den-cards.pokellector.com/26/Simisear.PLS.20.png",
+      "rarity": "Uncommon",
+      "cardNum": "20/135"
+    },
+    {
+      "name": "Litwick",
+      "set": "Plasma Storm",
+      "img": "https://den-cards.pokellector.com/26/Litwick.PLS.21.png",
+      "rarity": "Common",
+      "cardNum": "21/135"
+    },
+    {
+      "name": "Lampent",
+      "set": "Plasma Storm",
+      "img": "https://den-cards.pokellector.com/26/Lampent.PLS.22.png",
+      "rarity": "Uncommon",
+      "cardNum": "22/135"
+    },
+    {
+      "name": "Heatmor",
+      "set": "Plasma Storm",
+      "img": "https://den-cards.pokellector.com/26/Heatmor.PLS.23.png",
+      "rarity": "Uncommon",
+      "cardNum": "23/135"
+    },
+    {
+      "name": "Squirtle",
+      "set": "Plasma Storm",
+      "img": "https://den-cards.pokellector.com/26/Squirtle.PLS.24.png",
+      "rarity": "Common",
+      "cardNum": "24/135"
+    },
+    {
+      "name": "Articuno EX",
+      "set": "Plasma Storm",
+      "img": "https://den-cards.pokellector.com/26/Articuno-EX.PLS.25.png",
+      "rarity": "Rare",
+      "cardNum": "25/135"
+    },
+    {
+      "name": "Swinub",
+      "set": "Plasma Storm",
+      "img": "https://den-cards.pokellector.com/26/Swinub.PLS.26.png",
+      "rarity": "Common",
+      "cardNum": "26/135"
+    },
+    {
+      "name": "Piloswine",
+      "set": "Plasma Storm",
+      "img": "https://den-cards.pokellector.com/26/Piloswine.PLS.27.png",
+      "rarity": "Uncommon",
+      "cardNum": "27/135"
+    },
+    {
+      "name": "Mamoswine",
+      "set": "Plasma Storm",
+      "img": "https://den-cards.pokellector.com/26/Mamoswine.PLS.28.png",
+      "rarity": "Rare",
+      "cardNum": "28/135"
+    },
+    {
+      "name": "Lotad",
+      "set": "Plasma Storm",
+      "img": "https://den-cards.pokellector.com/26/Lotad.PLS.29.png",
+      "rarity": "Common",
+      "cardNum": "29/135"
+    },
+    {
+      "name": "Lombre",
+      "set": "Plasma Storm",
+      "img": "https://den-cards.pokellector.com/26/Lombre.PLS.30.png",
+      "rarity": "Uncommon",
+      "cardNum": "30/135"
+    },
+    {
+      "name": "Ludicolo",
+      "set": "Plasma Storm",
+      "img": "https://den-cards.pokellector.com/26/Ludicolo.PLS.31.png",
+      "rarity": "Rare",
+      "cardNum": "31/135"
+    },
+    {
+      "name": "Carvanha",
+      "set": "Plasma Storm",
+      "img": "https://den-cards.pokellector.com/26/Carvanha.PLS.32.png",
+      "rarity": "Common",
+      "cardNum": "32/135"
+    },
+    {
+      "name": "Sharpedo",
+      "set": "Plasma Storm",
+      "img": "https://den-cards.pokellector.com/26/Sharpedo.PLS.33.png",
+      "rarity": "Rare",
+      "cardNum": "33/135"
+    },
+    {
+      "name": "Manaphy",
+      "set": "Plasma Storm",
+      "img": "https://den-cards.pokellector.com/26/Manaphy.PLS.34.png",
+      "rarity": "Rare",
+      "cardNum": "34/135"
+    },
+    {
+      "name": "Vanillite",
+      "set": "Plasma Storm",
+      "img": "https://den-cards.pokellector.com/26/Vanillite.PLS.35.png",
+      "rarity": "Common",
+      "cardNum": "35/135"
+    },
+    {
+      "name": "Vanillish",
+      "set": "Plasma Storm",
+      "img": "https://den-cards.pokellector.com/26/Vanillish.PLS.36.png",
+      "rarity": "Uncommon",
+      "cardNum": "36/135"
+    },
+    {
+      "name": "Vanilluxe",
+      "set": "Plasma Storm",
+      "img": "https://den-cards.pokellector.com/26/Vanilluxe.PLS.37.png",
+      "rarity": "Rare",
+      "cardNum": "37/135"
+    },
+    {
+      "name": "Frillish",
+      "set": "Plasma Storm",
+      "img": "https://den-cards.pokellector.com/26/Frillish.PLS.38.png",
+      "rarity": "Common",
+      "cardNum": "38/135"
+    },
+    {
+      "name": "Jellicent",
+      "set": "Plasma Storm",
+      "img": "https://den-cards.pokellector.com/26/Jellicent.PLS.39.png",
+      "rarity": "Rare",
+      "cardNum": "39/135"
+    },
+    {
+      "name": "Cubchoo",
+      "set": "Plasma Storm",
+      "img": "https://den-cards.pokellector.com/26/Cubchoo.PLS.40.png",
+      "rarity": "Common",
+      "cardNum": "40/135"
+    },
+    {
+      "name": "Beartic",
+      "set": "Plasma Storm",
+      "img": "https://den-cards.pokellector.com/26/Beartic.PLS.41.png",
+      "rarity": "Rare",
+      "cardNum": "41/135"
+    },
+    {
+      "name": "Magnemite",
+      "set": "Plasma Storm",
+      "img": "https://den-cards.pokellector.com/26/Magnemite.PLS.42.png",
+      "rarity": "Common",
+      "cardNum": "42/135"
+    },
+    {
+      "name": "Magnemite",
+      "set": "Plasma Storm",
+      "img": "https://den-cards.pokellector.com/26/Magnemite.PLS.43.png",
+      "rarity": "Common",
+      "cardNum": "43/135"
+    },
+    {
+      "name": "Magneton",
+      "set": "Plasma Storm",
+      "img": "https://den-cards.pokellector.com/26/Magneton.PLS.44.png",
+      "rarity": "Uncommon",
+      "cardNum": "44/135"
+    },
+    {
+      "name": "Magneton",
+      "set": "Plasma Storm",
+      "img": "https://den-cards.pokellector.com/26/Magneton.PLS.45.png",
+      "rarity": "Uncommon",
+      "cardNum": "45/135"
+    },
+    {
+      "name": "Magnezone",
+      "set": "Plasma Storm",
+      "img": "https://den-cards.pokellector.com/26/Magnezone.PLS.46.png",
+      "rarity": "Rare",
+      "cardNum": "46/135"
+    },
+    {
+      "name": "Magnezone",
+      "set": "Plasma Storm",
+      "img": "https://den-cards.pokellector.com/26/Magnezone.PLS.47.png",
+      "rarity": "Rare",
+      "cardNum": "47/135"
+    },
+    {
+      "name": "Zapdos EX",
+      "set": "Plasma Storm",
+      "img": "https://den-cards.pokellector.com/26/Zapdos-EX.PLS.48.png",
+      "rarity": "Rare",
+      "cardNum": "48/135"
+    },
+    {
+      "name": "Rotom",
+      "set": "Plasma Storm",
+      "img": "https://den-cards.pokellector.com/26/Rotom.PLS.49.png",
+      "rarity": "Uncommon",
+      "cardNum": "49/135"
+    },
+    {
+      "name": "Joltik",
+      "set": "Plasma Storm",
+      "img": "https://den-cards.pokellector.com/26/Joltik.PLS.50.png",
+      "rarity": "Common",
+      "cardNum": "50/135"
+    },
+    {
+      "name": "Galvantula",
+      "set": "Plasma Storm",
+      "img": "https://den-cards.pokellector.com/26/Galvantula.PLS.51.png",
+      "rarity": "Uncommon",
+      "cardNum": "51/135"
+    },
+    {
+      "name": "Zubat",
+      "set": "Plasma Storm",
+      "img": "https://den-cards.pokellector.com/26/Zubat.PLS.52.png",
+      "rarity": "Common",
+      "cardNum": "52/135"
+    },
+    {
+      "name": "Zubat",
+      "set": "Plasma Storm",
+      "img": "https://den-cards.pokellector.com/26/Zubat.PLS.53.png",
+      "rarity": "Common",
+      "cardNum": "53/135"
+    },
+    {
+      "name": "Golbat",
+      "set": "Plasma Storm",
+      "img": "https://den-cards.pokellector.com/26/Golbat.PLS.54.png",
+      "rarity": "Uncommon",
+      "cardNum": "54/135"
+    },
+    {
+      "name": "Crobat",
+      "set": "Plasma Storm",
+      "img": "https://den-cards.pokellector.com/26/Crobat.PLS.55.png",
+      "rarity": "Rare",
+      "cardNum": "55/135"
+    },
+    {
+      "name": "Koffing",
+      "set": "Plasma Storm",
+      "img": "https://den-cards.pokellector.com/26/Koffing.PLS.56.png",
+      "rarity": "Uncommon",
+      "cardNum": "56/135"
+    },
+    {
+      "name": "Koffing",
+      "set": "Plasma Storm",
+      "img": "https://den-cards.pokellector.com/26/Koffing.PLS.57.png",
+      "rarity": "Common",
+      "cardNum": "57/135"
+    },
+    {
+      "name": "Weezing",
+      "set": "Plasma Storm",
+      "img": "https://den-cards.pokellector.com/26/Weezing.PLS.58.png",
+      "rarity": "Rare",
+      "cardNum": "58/135"
+    },
+    {
+      "name": "Ralts",
+      "set": "Plasma Storm",
+      "img": "https://den-cards.pokellector.com/26/Ralts.PLS.59.png",
+      "rarity": "Common",
+      "cardNum": "59/135"
+    },
+    {
+      "name": "Kirlia",
+      "set": "Plasma Storm",
+      "img": "https://den-cards.pokellector.com/26/Kirlia.PLS.60.png",
+      "rarity": "Uncommon",
+      "cardNum": "60/135"
+    },
+    {
+      "name": "Gallade",
+      "set": "Plasma Storm",
+      "img": "https://den-cards.pokellector.com/26/Gallade.PLS.61.png",
+      "rarity": "Rare",
+      "cardNum": "61/135"
+    },
+    {
+      "name": "Giratina",
+      "set": "Plasma Storm",
+      "img": "https://den-cards.pokellector.com/26/Giratina.PLS.62.png",
+      "rarity": "Rare",
+      "cardNum": "62/135"
+    },
+    {
+      "name": "Trubbish",
+      "set": "Plasma Storm",
+      "img": "https://den-cards.pokellector.com/26/Trubbish.PLS.63.png",
+      "rarity": "Uncommon",
+      "cardNum": "63/135"
+    },
+    {
+      "name": "Trubbish",
+      "set": "Plasma Storm",
+      "img": "https://den-cards.pokellector.com/26/Trubbish.PLS.64.png",
+      "rarity": "Common",
+      "cardNum": "64/135"
+    },
+    {
+      "name": "Trubbish",
+      "set": "Plasma Storm",
+      "img": "https://den-cards.pokellector.com/26/Trubbish.PLS.65.png",
+      "rarity": "Common",
+      "cardNum": "65/135"
+    },
+    {
+      "name": "Garbodor",
+      "set": "Plasma Storm",
+      "img": "https://den-cards.pokellector.com/26/Garbodor.PLS.66.png",
+      "rarity": "Rare",
+      "cardNum": "66/135"
+    },
+    {
+      "name": "Garbodor",
+      "set": "Plasma Storm",
+      "img": "https://den-cards.pokellector.com/26/Garbodor.PLS.67.png",
+      "rarity": "Rare",
+      "cardNum": "67/135"
+    },
+    {
+      "name": "Elgyem",
+      "set": "Plasma Storm",
+      "img": "https://den-cards.pokellector.com/26/Elgyem.PLS.68.png",
+      "rarity": "Common",
+      "cardNum": "68/135"
+    },
+    {
+      "name": "Elgyem",
+      "set": "Plasma Storm",
+      "img": "https://den-cards.pokellector.com/26/Elgyem.PLS.69.png",
+      "rarity": "Uncommon",
+      "cardNum": "69/135"
+    },
+    {
+      "name": "Beheeyem",
+      "set": "Plasma Storm",
+      "img": "https://den-cards.pokellector.com/26/Beheeyem.PLS.70.png",
+      "rarity": "Rare",
+      "cardNum": "70/135"
+    },
+    {
+      "name": "Phanpy",
+      "set": "Plasma Storm",
+      "img": "https://den-cards.pokellector.com/26/Phanpy.PLS.71.png",
+      "rarity": "Common",
+      "cardNum": "71/135"
+    },
+    {
+      "name": "Donphan",
+      "set": "Plasma Storm",
+      "img": "https://den-cards.pokellector.com/26/Donphan.PLS.72.png",
+      "rarity": "Uncommon",
+      "cardNum": "72/135"
+    },
+    {
+      "name": "Lunatone",
+      "set": "Plasma Storm",
+      "img": "https://den-cards.pokellector.com/26/Lunatone.PLS.73.png",
+      "rarity": "Uncommon",
+      "cardNum": "73/135"
+    },
+    {
+      "name": "Solrock",
+      "set": "Plasma Storm",
+      "img": "https://den-cards.pokellector.com/26/Solrock.PLS.74.png",
+      "rarity": "Uncommon",
+      "cardNum": "74/135"
+    },
+    {
+      "name": "Riolu",
+      "set": "Plasma Storm",
+      "img": "https://den-cards.pokellector.com/26/Riolu.PLS.75.png",
+      "rarity": "Common",
+      "cardNum": "75/135"
+    },
+    {
+      "name": "Riolu",
+      "set": "Plasma Storm",
+      "img": "https://den-cards.pokellector.com/26/Riolu.PLS.76.png",
+      "rarity": "Common",
+      "cardNum": "76/135"
+    },
+    {
+      "name": "Lucario",
+      "set": "Plasma Storm",
+      "img": "https://den-cards.pokellector.com/26/Lucario.PLS.77.png",
+      "rarity": "Uncommon",
+      "cardNum": "77/135"
+    },
+    {
+      "name": "Lucario",
+      "set": "Plasma Storm",
+      "img": "https://den-cards.pokellector.com/26/Lucario.PLS.78.png",
+      "rarity": "Rare",
+      "cardNum": "78/135"
+    },
+    {
+      "name": "Timburr",
+      "set": "Plasma Storm",
+      "img": "https://den-cards.pokellector.com/26/Timburr.PLS.79.png",
+      "rarity": "Common",
+      "cardNum": "79/135"
+    },
+    {
+      "name": "Gurdurr",
+      "set": "Plasma Storm",
+      "img": "https://den-cards.pokellector.com/26/Gurdurr.PLS.80.png",
+      "rarity": "Uncommon",
+      "cardNum": "80/135"
+    },
+    {
+      "name": "Conkeldurr",
+      "set": "Plasma Storm",
+      "img": "https://den-cards.pokellector.com/26/Conkeldurr.PLS.81.png",
+      "rarity": "Rare",
+      "cardNum": "81/135"
+    },
+    {
+      "name": "Purrloin",
+      "set": "Plasma Storm",
+      "img": "https://den-cards.pokellector.com/26/Purrloin.PLS.82.png",
+      "rarity": "Common",
+      "cardNum": "82/135"
+    },
+    {
+      "name": "Purrloin",
+      "set": "Plasma Storm",
+      "img": "https://den-cards.pokellector.com/26/Purrloin.PLS.83.png",
+      "rarity": "Common",
+      "cardNum": "83/135"
+    },
+    {
+      "name": "Liepard",
+      "set": "Plasma Storm",
+      "img": "https://den-cards.pokellector.com/26/Liepard.PLS.84.png",
+      "rarity": "Rare",
+      "cardNum": "84/135"
+    },
+    {
+      "name": "Scraggy",
+      "set": "Plasma Storm",
+      "img": "https://den-cards.pokellector.com/26/Scraggy.PLS.85.png",
+      "rarity": "Common",
+      "cardNum": "85/135"
+    },
+    {
+      "name": "Scrafty",
+      "set": "Plasma Storm",
+      "img": "https://den-cards.pokellector.com/26/Scrafty.PLS.86.png",
+      "rarity": "Rare",
+      "cardNum": "86/135"
+    },
+    {
+      "name": "Skarmory",
+      "set": "Plasma Storm",
+      "img": "https://den-cards.pokellector.com/26/Skarmory.PLS.87.png",
+      "rarity": "Rare",
+      "cardNum": "87/135"
+    },
+    {
+      "name": "Klink",
+      "set": "Plasma Storm",
+      "img": "https://den-cards.pokellector.com/26/Klink.PLS.88.png",
+      "rarity": "Common",
+      "cardNum": "88/135"
+    },
+    {
+      "name": "Klang",
+      "set": "Plasma Storm",
+      "img": "https://den-cards.pokellector.com/26/Klang.PLS.89.png",
+      "rarity": "Uncommon",
+      "cardNum": "89/135"
+    },
+    {
+      "name": "Klinklang",
+      "set": "Plasma Storm",
+      "img": "https://den-cards.pokellector.com/26/Klinklang.PLS.90.png",
+      "rarity": "Rare",
+      "cardNum": "90/135"
+    },
+    {
+      "name": "Durant",
+      "set": "Plasma Storm",
+      "img": "https://den-cards.pokellector.com/26/Durant.PLS.91.png",
+      "rarity": "Uncommon",
+      "cardNum": "91/135"
+    },
+    {
+      "name": "Durant",
+      "set": "Plasma Storm",
+      "img": "https://den-cards.pokellector.com/26/Durant.PLS.92.png",
+      "rarity": "Uncommon",
+      "cardNum": "92/135"
+    },
+    {
+      "name": "Cobalion EX",
+      "set": "Plasma Storm",
+      "img": "https://den-cards.pokellector.com/26/Cobalion-EX.PLS.93.png",
+      "rarity": "Rare",
+      "cardNum": "93/135"
+    },
+    {
+      "name": "Druddigon",
+      "set": "Plasma Storm",
+      "img": "https://den-cards.pokellector.com/26/Druddigon.PLS.94.png",
+      "rarity": "Rare",
+      "cardNum": "94/135"
+    },
+    {
+      "name": "Black Kyurem EX",
+      "set": "Plasma Storm",
+      "img": "https://den-cards.pokellector.com/26/Black-Kyurem-EX.PLS.95.png",
+      "rarity": "Rare",
+      "cardNum": "95/135"
+    },
+    {
+      "name": "White Kyurem EX",
+      "set": "Plasma Storm",
+      "img": "https://den-cards.pokellector.com/26/White-Kyurem-EX.PLS.96.png",
+      "rarity": "Rare",
+      "cardNum": "96/135"
+    },
+    {
+      "name": "Clefairy",
+      "set": "Plasma Storm",
+      "img": "https://den-cards.pokellector.com/26/Clefairy.PLS.97.png",
+      "rarity": "Common",
+      "cardNum": "97/135"
+    },
+    {
+      "name": "Clefable",
+      "set": "Plasma Storm",
+      "img": "https://den-cards.pokellector.com/26/Clefable.PLS.98.png",
+      "rarity": "Rare",
+      "cardNum": "98/135"
+    },
+    {
+      "name": "Doduo",
+      "set": "Plasma Storm",
+      "img": "https://den-cards.pokellector.com/26/Doduo.PLS.99.png",
+      "rarity": "Common",
+      "cardNum": "99/135"
+    },
+    {
+      "name": "Dodrio",
+      "set": "Plasma Storm",
+      "img": "https://den-cards.pokellector.com/26/Dodrio.PLS.100.png",
+      "rarity": "Rare",
+      "cardNum": "100/135"
+    },
+    {
+      "name": "Snorlax",
+      "set": "Plasma Storm",
+      "img": "https://den-cards.pokellector.com/26/Snorlax.PLS.101.png",
+      "rarity": "Rare",
+      "cardNum": "101/135"
+    },
+    {
+      "name": "Togepi",
+      "set": "Plasma Storm",
+      "img": "https://den-cards.pokellector.com/26/Togepi.PLS.102.png",
+      "rarity": "Common",
+      "cardNum": "102/135"
+    },
+    {
+      "name": "Togetic",
+      "set": "Plasma Storm",
+      "img": "https://den-cards.pokellector.com/26/Togetic.PLS.103.png",
+      "rarity": "Uncommon",
+      "cardNum": "103/135"
+    },
+    {
+      "name": "Togekiss",
+      "set": "Plasma Storm",
+      "img": "https://den-cards.pokellector.com/26/Togekiss.PLS.104.png",
+      "rarity": "Rare",
+      "cardNum": "104/135"
+    },
+    {
+      "name": "Whismur",
+      "set": "Plasma Storm",
+      "img": "https://den-cards.pokellector.com/26/Whismur.PLS.105.png",
+      "rarity": "Common",
+      "cardNum": "105/135"
+    },
+    {
+      "name": "Loudred",
+      "set": "Plasma Storm",
+      "img": "https://den-cards.pokellector.com/26/Loudred.PLS.106.png",
+      "rarity": "Uncommon",
+      "cardNum": "106/135"
+    },
+    {
+      "name": "Exploud",
+      "set": "Plasma Storm",
+      "img": "https://den-cards.pokellector.com/26/Exploud.PLS.107.png",
+      "rarity": "Rare",
+      "cardNum": "107/135"
+    },
+    {
+      "name": "Lugia EX",
+      "set": "Plasma Storm",
+      "img": "https://den-cards.pokellector.com/26/Lugia-EX.PST.108.png",
+      "rarity": "Rare",
+      "cardNum": "108/135"
+    },
+    {
+      "name": "Skitty",
+      "set": "Plasma Storm",
+      "img": "https://den-cards.pokellector.com/26/Skitty.PLS.109.png",
+      "rarity": "Common",
+      "cardNum": "109/135"
+    },
+    {
+      "name": "Patrat",
+      "set": "Plasma Storm",
+      "img": "https://den-cards.pokellector.com/26/Patrat.PLS.110.png",
+      "rarity": "Common",
+      "cardNum": "110/135"
+    },
+    {
+      "name": "Patrat",
+      "set": "Plasma Storm",
+      "img": "https://den-cards.pokellector.com/26/Patrat.PLS.111.png",
+      "rarity": "Common",
+      "cardNum": "111/135"
+    },
+    {
+      "name": "Watchog",
+      "set": "Plasma Storm",
+      "img": "https://den-cards.pokellector.com/26/Watchog.PLS.112.png",
+      "rarity": "Uncommon",
+      "cardNum": "112/135"
+    },
+    {
+      "name": "Watchog",
+      "set": "Plasma Storm",
+      "img": "https://den-cards.pokellector.com/26/Watchog.PLS.113.png",
+      "rarity": "Rare",
+      "cardNum": "113/135"
+    },
+    {
+      "name": "Bouffalant",
+      "set": "Plasma Storm",
+      "img": "https://den-cards.pokellector.com/26/Bouffalant.PLS.114.png",
+      "rarity": "Rare",
+      "cardNum": "114/135"
+    },
+    {
+      "name": "Rufflet",
+      "set": "Plasma Storm",
+      "img": "https://den-cards.pokellector.com/26/Rufflet.PLS.115.png",
+      "rarity": "Common",
+      "cardNum": "115/135"
+    },
+    {
+      "name": "Braviary",
+      "set": "Plasma Storm",
+      "img": "https://den-cards.pokellector.com/26/Braviary.PLS.116.png",
+      "rarity": "Rare",
+      "cardNum": "116/135"
+    },
+    {
+      "name": "Bicycle",
+      "set": "Plasma Storm",
+      "img": "https://den-cards.pokellector.com/26/Bicycle.PLS.117.png",
+      "rarity": "Uncommon",
+      "cardNum": "117/135"
+    },
+    {
+      "name": "Colress",
+      "set": "Plasma Storm",
+      "img": "https://den-cards.pokellector.com/26/Colress.PLS.118.png",
+      "rarity": "Uncommon",
+      "cardNum": "118/135"
+    },
+    {
+      "name": "Colress Machine",
+      "set": "Plasma Storm",
+      "img": "https://den-cards.pokellector.com/26/Colress-Machine.PLS.119.png",
+      "rarity": "Uncommon",
+      "cardNum": "119/135"
+    },
+    {
+      "name": "Escape Rope",
+      "set": "Plasma Storm",
+      "img": "https://den-cards.pokellector.com/26/Escape-Rope.PLS.120.png",
+      "rarity": "Uncommon",
+      "cardNum": "120/135"
+    },
+    {
+      "name": "Ether",
+      "set": "Plasma Storm",
+      "img": "https://den-cards.pokellector.com/26/Ether.PLS.121.png",
+      "rarity": "Uncommon",
+      "cardNum": "121/135"
+    },
+    {
+      "name": "Eviolite",
+      "set": "Plasma Storm",
+      "img": "https://den-cards.pokellector.com/26/Eviolite.PLS.122.png",
+      "rarity": "Uncommon",
+      "cardNum": "122/135"
+    },
+    {
+      "name": "Hypnotoxic Laser",
+      "set": "Plasma Storm",
+      "img": "https://den-cards.pokellector.com/26/Hypnotoxic-Laser.PLS.123.png",
+      "rarity": "Uncommon",
+      "cardNum": "123/135"
+    },
+    {
+      "name": "Plasma Frigate",
+      "set": "Plasma Storm",
+      "img": "https://den-cards.pokellector.com/26/Plasma-Frigate.PLS.124.png",
+      "rarity": "Uncommon",
+      "cardNum": "124/135"
+    },
+    {
+      "name": "Team Plasma Grunt",
+      "set": "Plasma Storm",
+      "img": "https://den-cards.pokellector.com/26/Team-Plasma-Grunt.PLS.125.png",
+      "rarity": "Uncommon",
+      "cardNum": "125/135"
+    },
+    {
+      "name": "Virbank City Gym",
+      "set": "Plasma Storm",
+      "img": "https://den-cards.pokellector.com/26/Virbank-City-Gym.PLS.126.png",
+      "rarity": "Uncommon",
+      "cardNum": "126/135"
+    },
+    {
+      "name": "Plasma Energy",
+      "set": "Plasma Storm",
+      "img": "https://den-cards.pokellector.com/26/Plasma-Energy.PLS.127.png",
+      "rarity": "Uncommon",
+      "cardNum": "127/135"
+    },
+    {
+      "name": "Dowsing Machine",
+      "set": "Plasma Storm",
+      "img": "https://den-cards.pokellector.com/26/Dowsing-Machine.PLS.128.png",
+      "rarity": "Rare",
+      "cardNum": "128/135"
+    },
+    {
+      "name": "Scramble Switch",
+      "set": "Plasma Storm",
+      "img": "https://den-cards.pokellector.com/26/Scramble-Switch.PLS.129.png",
+      "rarity": "Rare",
+      "cardNum": "129/135"
+    },
+    {
+      "name": "Victory Piece",
+      "set": "Plasma Storm",
+      "img": "https://den-cards.pokellector.com/26/Victory-Piece.PLS.130.png",
+      "rarity": "Rare",
+      "cardNum": "130/135"
+    },
+    {
+      "name": "Victini EX",
+      "set": "Plasma Storm",
+      "img": "https://den-cards.pokellector.com/26/Victini-EX.PLS.131.png",
+      "rarity": "Rare",
+      "cardNum": "131/135"
+    },
+    {
+      "name": "Articuno EX",
+      "set": "Plasma Storm",
+      "img": "https://den-cards.pokellector.com/26/Articuno-EX.PLS.132.png",
+      "rarity": "Rare",
+      "cardNum": "132/135"
+    },
+    {
+      "name": "Cobalion EX",
+      "set": "Plasma Storm",
+      "img": "https://den-cards.pokellector.com/26/Cobalion-EX.PLS.133.png",
+      "rarity": "Rare",
+      "cardNum": "133/135"
+    },
+    {
+      "name": "Lugia EX",
+      "set": "Plasma Storm",
+      "img": "https://den-cards.pokellector.com/26/Lugia-EX.PLS.134.png",
+      "rarity": "Rare",
+      "cardNum": "134/135"
+    },
+    {
+      "name": "Colress",
+      "set": "Plasma Storm",
+      "img": "https://den-cards.pokellector.com/26/Colress.PLS.135.png",
+      "rarity": "Rare",
+      "cardNum": "135/135"
+    },
+    {
+      "name": "Charizard",
+      "set": "Plasma Storm",
+      "img": "https://den-cards.pokellector.com/26/Charizard.PLS.136.png",
+      "rarity": "Secret Rare",
+      "cardNum": "136/135"
+    },
+    {
+      "name": "Blastoise",
+      "set": "Plasma Storm",
+      "img": "https://den-cards.pokellector.com/26/Blastoise.PLS.137.png",
+      "rarity": "Secret Rare",
+      "cardNum": "137/135"
+    },
+    {
+      "name": "Random Receiver",
+      "set": "Plasma Storm",
+      "img": "https://den-cards.pokellector.com/26/Random-Receiver.PLS.138.png",
+      "rarity": "Secret Rare",
+      "cardNum": "138/135"
+    }
+  ]
+}

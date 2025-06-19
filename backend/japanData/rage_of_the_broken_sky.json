@@ -1,0 +1,628 @@
+{
+  "setName": "Rage of the Broken Sky",
+  "cards": [
+    {
+      "name": "Chikorita",
+      "set": "Rage of the Broken Sky",
+      "img": "https://den-cards.pokellector.com/177/Chikorita.XY9.1.png",
+      "rarity": "Common",
+      "cardNum": "1/80"
+    },
+    {
+      "name": "Bayleef",
+      "set": "Rage of the Broken Sky",
+      "img": "https://den-cards.pokellector.com/177/Bayleef.XY9.2.png",
+      "rarity": "Common",
+      "cardNum": "2/80"
+    },
+    {
+      "name": "Meganium",
+      "set": "Rage of the Broken Sky",
+      "img": "https://den-cards.pokellector.com/177/Meganium.XY9.3.png",
+      "rarity": "Rare",
+      "cardNum": "3/80"
+    },
+    {
+      "name": "Seedot",
+      "set": "Rage of the Broken Sky",
+      "img": "https://den-cards.pokellector.com/177/Seedot.XY9.4.png",
+      "rarity": "Common",
+      "cardNum": "4/80"
+    },
+    {
+      "name": "Kricketot",
+      "set": "Rage of the Broken Sky",
+      "img": "https://den-cards.pokellector.com/177/Kricketot.XY9.5.png",
+      "rarity": "Common",
+      "cardNum": "5/80"
+    },
+    {
+      "name": "Kricketune",
+      "set": "Rage of the Broken Sky",
+      "img": "https://den-cards.pokellector.com/177/Kricketune.XY9.6.png",
+      "rarity": "Common",
+      "cardNum": "6/80"
+    },
+    {
+      "name": "Petilil",
+      "set": "Rage of the Broken Sky",
+      "img": "https://den-cards.pokellector.com/177/Petilil.XY9.7.png",
+      "rarity": "Common",
+      "cardNum": "7/80"
+    },
+    {
+      "name": "Lilligant",
+      "set": "Rage of the Broken Sky",
+      "img": "https://den-cards.pokellector.com/177/Lilligant.XY9.8.png",
+      "rarity": "Uncommon",
+      "cardNum": "8/80"
+    },
+    {
+      "name": "Durant",
+      "set": "Rage of the Broken Sky",
+      "img": "https://den-cards.pokellector.com/177/Durant.XY9.9.png",
+      "rarity": "Common",
+      "cardNum": "9/80"
+    },
+    {
+      "name": "Numel",
+      "set": "Rage of the Broken Sky",
+      "img": "https://den-cards.pokellector.com/177/Numel.XY9.10.png",
+      "rarity": "Common",
+      "cardNum": "10/80"
+    },
+    {
+      "name": "Camerupt",
+      "set": "Rage of the Broken Sky",
+      "img": "https://den-cards.pokellector.com/177/Camerupt.XY9.11.png",
+      "rarity": "Uncommon",
+      "cardNum": "11/80"
+    },
+    {
+      "name": "Heatmor",
+      "set": "Rage of the Broken Sky",
+      "img": "https://den-cards.pokellector.com/177/Heatmor.XY9.12.png",
+      "rarity": "Common",
+      "cardNum": "12/80"
+    },
+    {
+      "name": "Slowpoke",
+      "set": "Rage of the Broken Sky",
+      "img": "https://den-cards.pokellector.com/177/Slowpoke.XY9.13.png",
+      "rarity": "Common",
+      "cardNum": "13/80"
+    },
+    {
+      "name": "Slowbro",
+      "set": "Rage of the Broken Sky",
+      "img": "https://den-cards.pokellector.com/177/Slowbro.XY9.14.png",
+      "rarity": "Common",
+      "cardNum": "14/80"
+    },
+    {
+      "name": "Slowking",
+      "set": "Rage of the Broken Sky",
+      "img": "https://den-cards.pokellector.com/177/Slowking.XY9.15.png",
+      "rarity": "Rare",
+      "cardNum": "15/80"
+    },
+    {
+      "name": "Shellder",
+      "set": "Rage of the Broken Sky",
+      "img": "https://den-cards.pokellector.com/177/Shellder.XY9.16.png",
+      "rarity": "Common",
+      "cardNum": "16/80"
+    },
+    {
+      "name": "Cloyster",
+      "set": "Rage of the Broken Sky",
+      "img": "https://den-cards.pokellector.com/177/Cloyster.XY9.17.png",
+      "rarity": "Uncommon",
+      "cardNum": "17/80"
+    },
+    {
+      "name": "Gyarados EX",
+      "set": "Rage of the Broken Sky",
+      "img": "https://den-cards.pokellector.com/177/Gyarados-EX.XY9.18.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "18/80"
+    },
+    {
+      "name": "M Gyarados EX",
+      "set": "Rage of the Broken Sky",
+      "img": "https://den-cards.pokellector.com/177/M-Gyarados-EX.XY9.19.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "19/80"
+    },
+    {
+      "name": "Suicune",
+      "set": "Rage of the Broken Sky",
+      "img": "https://den-cards.pokellector.com/177/Suicune.XY9.20.png",
+      "rarity": "Rare",
+      "cardNum": "20/80"
+    },
+    {
+      "name": "Manaphy EX",
+      "set": "Rage of the Broken Sky",
+      "img": "https://den-cards.pokellector.com/177/Manaphy-EX.XY9.21.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "21/80"
+    },
+    {
+      "name": "Tympole",
+      "set": "Rage of the Broken Sky",
+      "img": "https://den-cards.pokellector.com/177/Tympole.XY9.22.png",
+      "rarity": "Common",
+      "cardNum": "22/80"
+    },
+    {
+      "name": "Palpitoad",
+      "set": "Rage of the Broken Sky",
+      "img": "https://den-cards.pokellector.com/177/Palpitoad.XY9.23.png",
+      "rarity": "Common",
+      "cardNum": "23/80"
+    },
+    {
+      "name": "Seismitoad",
+      "set": "Rage of the Broken Sky",
+      "img": "https://den-cards.pokellector.com/177/Seismitoad.XY9.24.png",
+      "rarity": "Uncommon",
+      "cardNum": "24/80"
+    },
+    {
+      "name": "Ducklett",
+      "set": "Rage of the Broken Sky",
+      "img": "https://den-cards.pokellector.com/177/Ducklett.XY9.25.png",
+      "rarity": "Common",
+      "cardNum": "25/80"
+    },
+    {
+      "name": "Swanna",
+      "set": "Rage of the Broken Sky",
+      "img": "https://den-cards.pokellector.com/177/Swanna.XY9.26.png",
+      "rarity": "Common",
+      "cardNum": "26/80"
+    },
+    {
+      "name": "Froakie",
+      "set": "Rage of the Broken Sky",
+      "img": "https://den-cards.pokellector.com/177/Froakie.XY9.27.png",
+      "rarity": "Common",
+      "cardNum": "27/80"
+    },
+    {
+      "name": "Frogadier",
+      "set": "Rage of the Broken Sky",
+      "img": "https://den-cards.pokellector.com/177/Frogadier.XY9.28.png",
+      "rarity": "Common",
+      "cardNum": "28/80"
+    },
+    {
+      "name": "Greninja",
+      "set": "Rage of the Broken Sky",
+      "img": "https://den-cards.pokellector.com/177/Greninja.XY9.29.png",
+      "rarity": "Rare",
+      "cardNum": "29/80"
+    },
+    {
+      "name": "Greninja BREAK",
+      "set": "Rage of the Broken Sky",
+      "img": "https://den-cards.pokellector.com/177/Greninja-BREAK.XY9.30.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "30/80"
+    },
+    {
+      "name": "Blitzle",
+      "set": "Rage of the Broken Sky",
+      "img": "https://den-cards.pokellector.com/177/Blitzle.XY9.31.png",
+      "rarity": "Common",
+      "cardNum": "31/80"
+    },
+    {
+      "name": "Zebstrika",
+      "set": "Rage of the Broken Sky",
+      "img": "https://den-cards.pokellector.com/177/Zebstrika.XY9.32.png",
+      "rarity": "Uncommon",
+      "cardNum": "32/80"
+    },
+    {
+      "name": "Drowzee",
+      "set": "Rage of the Broken Sky",
+      "img": "https://den-cards.pokellector.com/177/Drowzee.XY9.33.png",
+      "rarity": "Common",
+      "cardNum": "33/80"
+    },
+    {
+      "name": "Hypno",
+      "set": "Rage of the Broken Sky",
+      "img": "https://den-cards.pokellector.com/177/Hypno.XY9.34.png",
+      "rarity": "Uncommon",
+      "cardNum": "34/80"
+    },
+    {
+      "name": "Espeon EX",
+      "set": "Rage of the Broken Sky",
+      "img": "https://den-cards.pokellector.com/177/Espeon-EX.XY9.35.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "35/80"
+    },
+    {
+      "name": "Skorupi",
+      "set": "Rage of the Broken Sky",
+      "img": "https://den-cards.pokellector.com/177/Skorupi.XY9.36.png",
+      "rarity": "Common",
+      "cardNum": "36/80"
+    },
+    {
+      "name": "Drapion",
+      "set": "Rage of the Broken Sky",
+      "img": "https://den-cards.pokellector.com/177/Drapion.XY9.37.png",
+      "rarity": "Uncommon",
+      "cardNum": "37/80"
+    },
+    {
+      "name": "Sigilyph",
+      "set": "Rage of the Broken Sky",
+      "img": "https://den-cards.pokellector.com/177/Sigilyph.XY9.38.png",
+      "rarity": "Uncommon",
+      "cardNum": "38/80"
+    },
+    {
+      "name": "Trubbish",
+      "set": "Rage of the Broken Sky",
+      "img": "https://den-cards.pokellector.com/177/Trubbish.XY9.39.png",
+      "rarity": "Common",
+      "cardNum": "39/80"
+    },
+    {
+      "name": "Garbodor",
+      "set": "Rage of the Broken Sky",
+      "img": "https://den-cards.pokellector.com/177/Garbodor.XY9.40.png",
+      "rarity": "Rare",
+      "cardNum": "40/80"
+    },
+    {
+      "name": "Honedge",
+      "set": "Rage of the Broken Sky",
+      "img": "https://den-cards.pokellector.com/177/Honedge.XY9.41.png",
+      "rarity": "Common",
+      "cardNum": "41/80"
+    },
+    {
+      "name": "Doublade",
+      "set": "Rage of the Broken Sky",
+      "img": "https://den-cards.pokellector.com/177/Doublade.XY9.42.png",
+      "rarity": "Common",
+      "cardNum": "42/80"
+    },
+    {
+      "name": "Aegislash",
+      "set": "Rage of the Broken Sky",
+      "img": "https://den-cards.pokellector.com/177/Aegislash.XY9.43.png",
+      "rarity": "Rare",
+      "cardNum": "43/80"
+    },
+    {
+      "name": "Skrelp",
+      "set": "Rage of the Broken Sky",
+      "img": "https://den-cards.pokellector.com/177/Skrelp.XY9.44.png",
+      "rarity": "Common",
+      "cardNum": "44/80"
+    },
+    {
+      "name": "Phantump",
+      "set": "Rage of the Broken Sky",
+      "img": "https://den-cards.pokellector.com/177/Phantump.XY9.45.png",
+      "rarity": "Common",
+      "cardNum": "45/80"
+    },
+    {
+      "name": "Trevenant",
+      "set": "Rage of the Broken Sky",
+      "img": "https://den-cards.pokellector.com/177/Trevenant.XY9.46.png",
+      "rarity": "Uncommon",
+      "cardNum": "46/80"
+    },
+    {
+      "name": "Trevenant BREAK",
+      "set": "Rage of the Broken Sky",
+      "img": "https://den-cards.pokellector.com/177/Trevenant-BREAK.XY9.47.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "47/80"
+    },
+    {
+      "name": "Sudowoodo",
+      "set": "Rage of the Broken Sky",
+      "img": "https://den-cards.pokellector.com/177/Sudowoodo.XY9.48.png",
+      "rarity": "Uncommon",
+      "cardNum": "48/80"
+    },
+    {
+      "name": "Gible",
+      "set": "Rage of the Broken Sky",
+      "img": "https://den-cards.pokellector.com/177/Gible.XY9.49.png",
+      "rarity": "Common",
+      "cardNum": "49/80"
+    },
+    {
+      "name": "Gabite",
+      "set": "Rage of the Broken Sky",
+      "img": "https://den-cards.pokellector.com/177/Gabite.XY9.50.png",
+      "rarity": "Common",
+      "cardNum": "50/80"
+    },
+    {
+      "name": "Garchomp",
+      "set": "Rage of the Broken Sky",
+      "img": "https://den-cards.pokellector.com/177/Garchomp.XY9.51.png",
+      "rarity": "Rare",
+      "cardNum": "51/80"
+    },
+    {
+      "name": "Pancham",
+      "set": "Rage of the Broken Sky",
+      "img": "https://den-cards.pokellector.com/177/Pancham.XY9.52.png",
+      "rarity": "Common",
+      "cardNum": "52/80"
+    },
+    {
+      "name": "Nuzleaf",
+      "set": "Rage of the Broken Sky",
+      "img": "https://den-cards.pokellector.com/177/Nuzleaf.XY9.53.png",
+      "rarity": "Common",
+      "cardNum": "53/80"
+    },
+    {
+      "name": "Shiftry",
+      "set": "Rage of the Broken Sky",
+      "img": "https://den-cards.pokellector.com/177/Shiftry.XY9.54.png",
+      "rarity": "Uncommon",
+      "cardNum": "54/80"
+    },
+    {
+      "name": "Darkrai EX",
+      "set": "Rage of the Broken Sky",
+      "img": "https://den-cards.pokellector.com/177/Darkrai-EX.XY9.55.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "55/80"
+    },
+    {
+      "name": "Pangoro",
+      "set": "Rage of the Broken Sky",
+      "img": "https://den-cards.pokellector.com/177/Pangoro.XY9.56.png",
+      "rarity": "Uncommon",
+      "cardNum": "56/80"
+    },
+    {
+      "name": "Scizor EX",
+      "set": "Rage of the Broken Sky",
+      "img": "https://den-cards.pokellector.com/177/Scizor-EX.XY9.57.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "57/80"
+    },
+    {
+      "name": "M Scizor EX",
+      "set": "Rage of the Broken Sky",
+      "img": "https://den-cards.pokellector.com/177/M-Scizor-EX.XY9.58.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "58/80"
+    },
+    {
+      "name": "Ferroseed",
+      "set": "Rage of the Broken Sky",
+      "img": "https://den-cards.pokellector.com/177/Ferroseed.XY9.59.png",
+      "rarity": "Common",
+      "cardNum": "59/80"
+    },
+    {
+      "name": "Ferrothorn",
+      "set": "Rage of the Broken Sky",
+      "img": "https://den-cards.pokellector.com/177/Ferrothorn.XY9.60.png",
+      "rarity": "Uncommon",
+      "cardNum": "60/80"
+    },
+    {
+      "name": "Clefairy",
+      "set": "Rage of the Broken Sky",
+      "img": "https://den-cards.pokellector.com/177/Clefairy.XY9.61.png",
+      "rarity": "Common",
+      "cardNum": "61/80"
+    },
+    {
+      "name": "Clefable",
+      "set": "Rage of the Broken Sky",
+      "img": "https://den-cards.pokellector.com/177/Clefable.XY9.62.png",
+      "rarity": "Uncommon",
+      "cardNum": "62/80"
+    },
+    {
+      "name": "Dragalge",
+      "set": "Rage of the Broken Sky",
+      "img": "https://den-cards.pokellector.com/177/Dragalge.XY9.63.png",
+      "rarity": "Rare",
+      "cardNum": "63/80"
+    },
+    {
+      "name": "Rattata",
+      "set": "Rage of the Broken Sky",
+      "img": "https://den-cards.pokellector.com/177/Rattata.XY9.64.png",
+      "rarity": "Common",
+      "cardNum": "64/80"
+    },
+    {
+      "name": "Raticate",
+      "set": "Rage of the Broken Sky",
+      "img": "https://den-cards.pokellector.com/177/Raticate.XY9.65.png",
+      "rarity": "Common",
+      "cardNum": "65/80"
+    },
+    {
+      "name": "Raticate BREAK",
+      "set": "Rage of the Broken Sky",
+      "img": "https://den-cards.pokellector.com/177/Raticate-BREAK.XY9.66.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "66/80"
+    },
+    {
+      "name": "Stantler",
+      "set": "Rage of the Broken Sky",
+      "img": "https://den-cards.pokellector.com/177/Stantler.XY9.67.png",
+      "rarity": "Common",
+      "cardNum": "67/80"
+    },
+    {
+      "name": "Ho-Oh EX",
+      "set": "Rage of the Broken Sky",
+      "img": "https://den-cards.pokellector.com/177/Ho-Oh-EX.XY9.68.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "68/80"
+    },
+    {
+      "name": "Glameow",
+      "set": "Rage of the Broken Sky",
+      "img": "https://den-cards.pokellector.com/177/Glameow.XY9.69.png",
+      "rarity": "Common",
+      "cardNum": "69/80"
+    },
+    {
+      "name": "Purugly",
+      "set": "Rage of the Broken Sky",
+      "img": "https://den-cards.pokellector.com/177/Purugly.XY9.70.png",
+      "rarity": "Common",
+      "cardNum": "70/80"
+    },
+    {
+      "name": "Time Puzzle",
+      "set": "Rage of the Broken Sky",
+      "img": "https://den-cards.pokellector.com/177/Time-Puzzle.XY9.71.png",
+      "rarity": "Uncommon",
+      "cardNum": "71/80"
+    },
+    {
+      "name": "Max Elixir",
+      "set": "Rage of the Broken Sky",
+      "img": "https://den-cards.pokellector.com/177/PP-Max.XY9.72.png",
+      "rarity": "Uncommon",
+      "cardNum": "72/80"
+    },
+    {
+      "name": "Burst Balloon",
+      "set": "Rage of the Broken Sky",
+      "img": "https://den-cards.pokellector.com/177/Burst-Balloon.XY9.73.png",
+      "rarity": "Uncommon",
+      "cardNum": "73/80"
+    },
+    {
+      "name": "Fighting Spirit Belt",
+      "set": "Rage of the Broken Sky",
+      "img": "https://den-cards.pokellector.com/177/Fighting-Mawashi.XY9.74.png",
+      "rarity": "Uncommon",
+      "cardNum": "74/80"
+    },
+    {
+      "name": "Gyarados Spirit Link",
+      "set": "Rage of the Broken Sky",
+      "img": "https://den-cards.pokellector.com/177/Gyarados-Spirit-Link.XY9.75.png",
+      "rarity": "Uncommon",
+      "cardNum": "75/80"
+    },
+    {
+      "name": "Scizor Spirit Link",
+      "set": "Rage of the Broken Sky",
+      "img": "https://den-cards.pokellector.com/177/Scizor-Spirit-Link.XY9.76.png",
+      "rarity": "Uncommon",
+      "cardNum": "76/80"
+    },
+    {
+      "name": "Delinquent",
+      "set": "Rage of the Broken Sky",
+      "img": "https://den-cards.pokellector.com/177/Delinquent.XY9.77.png",
+      "rarity": "Uncommon",
+      "cardNum": "77/80"
+    },
+    {
+      "name": "Psychic's Mind Reading",
+      "set": "Rage of the Broken Sky",
+      "img": "https://den-cards.pokellector.com/177/Psychics-Mind-Reading.XY9.78.png",
+      "rarity": "Uncommon",
+      "cardNum": "78/80"
+    },
+    {
+      "name": "Reverse Valley",
+      "set": "Rage of the Broken Sky",
+      "img": "https://den-cards.pokellector.com/177/Reverse-Valley.XY9.79.png",
+      "rarity": "Uncommon",
+      "cardNum": "79/80"
+    },
+    {
+      "name": "Splash Energy",
+      "set": "Rage of the Broken Sky",
+      "img": "https://den-cards.pokellector.com/177/Splash-Energy.XY9.80.png",
+      "rarity": "Uncommon",
+      "cardNum": "80/80"
+    },
+    {
+      "name": "Gyarados EX",
+      "set": "Rage of the Broken Sky",
+      "img": "https://den-cards.pokellector.com/177/Gyarados-EX.XY9.81.png",
+      "rarity": "Secret Rare",
+      "cardNum": "81/80"
+    },
+    {
+      "name": "M Gyarados EX",
+      "set": "Rage of the Broken Sky",
+      "img": "https://den-cards.pokellector.com/177/M-Gyarados-EX.XY9.82.png",
+      "rarity": "Secret Rare",
+      "cardNum": "82/80"
+    },
+    {
+      "name": "Manaphy EX",
+      "set": "Rage of the Broken Sky",
+      "img": "https://den-cards.pokellector.com/177/Manaphy-EX.XY9.83.png",
+      "rarity": "Secret Rare",
+      "cardNum": "83/80"
+    },
+    {
+      "name": "Espeon EX",
+      "set": "Rage of the Broken Sky",
+      "img": "https://den-cards.pokellector.com/177/Espeon-EX.XY9.84.png",
+      "rarity": "Secret Rare",
+      "cardNum": "84/80"
+    },
+    {
+      "name": "Darkrai EX",
+      "set": "Rage of the Broken Sky",
+      "img": "https://den-cards.pokellector.com/177/Darkrai-EX.XY9.85.png",
+      "rarity": "Secret Rare",
+      "cardNum": "85/80"
+    },
+    {
+      "name": "Scizor EX",
+      "set": "Rage of the Broken Sky",
+      "img": "https://den-cards.pokellector.com/177/Scizor-EX.XY9.86.png",
+      "rarity": "Secret Rare",
+      "cardNum": "86/80"
+    },
+    {
+      "name": "M Scizor EX",
+      "set": "Rage of the Broken Sky",
+      "img": "https://den-cards.pokellector.com/177/M-Scizor-EX.XY9.87.png",
+      "rarity": "Secret Rare",
+      "cardNum": "87/80"
+    },
+    {
+      "name": "Ho-Oh EX",
+      "set": "Rage of the Broken Sky",
+      "img": "https://den-cards.pokellector.com/177/Ho-Oh-EX.XY9.88.png",
+      "rarity": "Secret Rare",
+      "cardNum": "88/80"
+    },
+    {
+      "name": "Gyarados EX",
+      "set": "Rage of the Broken Sky",
+      "img": "https://den-cards.pokellector.com/177/Gyarados-EX.XY9.89.png",
+      "rarity": "Secret Rare",
+      "cardNum": "89/80"
+    }
+  ]
+}

@@ -1,0 +1,824 @@
+{
+  "setName": "Alter Genesis",
+  "cards": [
+    {
+      "name": "Sunkern",
+      "set": "Alter Genesis",
+      "img": "https://den-cards.pokellector.com/281/Sunkern.SM12.1.29752.png",
+      "rarity": "Common",
+      "cardNum": "1/95"
+    },
+    {
+      "name": "Sunflora",
+      "set": "Alter Genesis",
+      "img": "https://den-cards.pokellector.com/281/Sunflora.SM12.2.29751.png",
+      "rarity": "Uncommon",
+      "cardNum": "2/95"
+    },
+    {
+      "name": "Lileep",
+      "set": "Alter Genesis",
+      "img": "https://den-cards.pokellector.com/281/Lileep.SM12.3.30051.png",
+      "rarity": "Common",
+      "cardNum": "3/95"
+    },
+    {
+      "name": "Cradily",
+      "set": "Alter Genesis",
+      "img": "https://den-cards.pokellector.com/281/Cradily.SM12.4.30052.png",
+      "rarity": "Uncommon",
+      "cardNum": "4/95"
+    },
+    {
+      "name": "Kricketot",
+      "set": "Alter Genesis",
+      "img": "https://den-cards.pokellector.com/281/Kricketot.SM12.5.30053.png",
+      "rarity": "Common",
+      "cardNum": "5/95"
+    },
+    {
+      "name": "Kricketune",
+      "set": "Alter Genesis",
+      "img": "https://den-cards.pokellector.com/281/Kricketune.SM12.6.30054.png",
+      "rarity": "Uncommon",
+      "cardNum": "6/95"
+    },
+    {
+      "name": "Rowlet",
+      "set": "Alter Genesis",
+      "img": "https://den-cards.pokellector.com/281/Rowlet.SM12.7.30055.png",
+      "rarity": "Common",
+      "cardNum": "7/95"
+    },
+    {
+      "name": "Rowlet",
+      "set": "Alter Genesis",
+      "img": "https://den-cards.pokellector.com/281/Rowlet.SM12.8.30056.png",
+      "rarity": "Common",
+      "cardNum": "8/95"
+    },
+    {
+      "name": "Dartrix",
+      "set": "Alter Genesis",
+      "img": "https://den-cards.pokellector.com/281/Dartrix.SM12.9.30057.png",
+      "rarity": "Common",
+      "cardNum": "9/95"
+    },
+    {
+      "name": "Decidueye",
+      "set": "Alter Genesis",
+      "img": "https://den-cards.pokellector.com/281/Decidueye.SM12.10.29652.png",
+      "rarity": "Rare",
+      "cardNum": "10/95"
+    },
+    {
+      "name": "Buzzwole",
+      "set": "Alter Genesis",
+      "img": "https://den-cards.pokellector.com/281/Buzzwole.SM12.11.30058.png",
+      "rarity": "Rare",
+      "cardNum": "11/95"
+    },
+    {
+      "name": "Larvesta",
+      "set": "Alter Genesis",
+      "img": "https://den-cards.pokellector.com/281/Larvesta.SM12.12.30059.png",
+      "rarity": "Common",
+      "cardNum": "12/95"
+    },
+    {
+      "name": "Volcarona GX",
+      "set": "Alter Genesis",
+      "img": "https://den-cards.pokellector.com/281/Volcarona-GX.SM12.13.29642.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "13/95"
+    },
+    {
+      "name": "Litleo",
+      "set": "Alter Genesis",
+      "img": "https://den-cards.pokellector.com/281/Litleo.SM12.14.30060.png",
+      "rarity": "Common",
+      "cardNum": "14/95"
+    },
+    {
+      "name": "Pyroar",
+      "set": "Alter Genesis",
+      "img": "https://den-cards.pokellector.com/281/Pyroar.SM12.15.30061.png",
+      "rarity": "Uncommon",
+      "cardNum": "15/95"
+    },
+    {
+      "name": "Alolan Vulpix",
+      "set": "Alter Genesis",
+      "img": "https://den-cards.pokellector.com/281/Alolan-Vulpix.SM12.16.30062.png",
+      "rarity": "Common",
+      "cardNum": "16/95"
+    },
+    {
+      "name": "Snorunt",
+      "set": "Alter Genesis",
+      "img": "https://den-cards.pokellector.com/281/Snorunt.SM12.17.30063.png",
+      "rarity": "Common",
+      "cardNum": "17/95"
+    },
+    {
+      "name": "Glalie",
+      "set": "Alter Genesis",
+      "img": "https://den-cards.pokellector.com/281/Glalie.SM12.18.30064.png",
+      "rarity": "Uncommon",
+      "cardNum": "18/95"
+    },
+    {
+      "name": "Spheal",
+      "set": "Alter Genesis",
+      "img": "https://den-cards.pokellector.com/281/Spheal.SM12.19.30065.png",
+      "rarity": "Common",
+      "cardNum": "19/95"
+    },
+    {
+      "name": "Spheal",
+      "set": "Alter Genesis",
+      "img": "https://den-cards.pokellector.com/281/Spheal.SM12.20.30066.png",
+      "rarity": "Common",
+      "cardNum": "20/95"
+    },
+    {
+      "name": "Sealeo",
+      "set": "Alter Genesis",
+      "img": "https://den-cards.pokellector.com/281/Sealeo.SM12.21.30067.png",
+      "rarity": "Common",
+      "cardNum": "21/95"
+    },
+    {
+      "name": "Walrein",
+      "set": "Alter Genesis",
+      "img": "https://den-cards.pokellector.com/281/Walrein.SM12.22.29757.png",
+      "rarity": "Uncommon",
+      "cardNum": "22/95"
+    },
+    {
+      "name": "Ducklett",
+      "set": "Alter Genesis",
+      "img": "https://den-cards.pokellector.com/281/Ducklett.SM12.23.30068.png",
+      "rarity": "Common",
+      "cardNum": "23/95"
+    },
+    {
+      "name": "Swanna",
+      "set": "Alter Genesis",
+      "img": "https://den-cards.pokellector.com/281/Swanna.SM12.24.30069.png",
+      "rarity": "Uncommon",
+      "cardNum": "24/95"
+    },
+    {
+      "name": "Black Kyurem",
+      "set": "Alter Genesis",
+      "img": "https://den-cards.pokellector.com/281/Black-Kyurem.SM12.25.30070.png",
+      "rarity": "Rare",
+      "cardNum": "25/95"
+    },
+    {
+      "name": "Chinchou",
+      "set": "Alter Genesis",
+      "img": "https://den-cards.pokellector.com/281/Chinchou.SM12.26.30071.png",
+      "rarity": "Common",
+      "cardNum": "26/95"
+    },
+    {
+      "name": "Lanturn",
+      "set": "Alter Genesis",
+      "img": "https://den-cards.pokellector.com/281/Lanturn.SM12.27.30072.png",
+      "rarity": "Uncommon",
+      "cardNum": "27/95"
+    },
+    {
+      "name": "Togedemaru",
+      "set": "Alter Genesis",
+      "img": "https://den-cards.pokellector.com/281/Togedemaru.SM12.28.30073.png",
+      "rarity": "Common",
+      "cardNum": "28/95"
+    },
+    {
+      "name": "Woobat",
+      "set": "Alter Genesis",
+      "img": "https://den-cards.pokellector.com/281/Woobat.SM12.29.30074.png",
+      "rarity": "Common",
+      "cardNum": "29/95"
+    },
+    {
+      "name": "Swoobat",
+      "set": "Alter Genesis",
+      "img": "https://den-cards.pokellector.com/281/Swoobat.SM12.30.30075.png",
+      "rarity": "Uncommon",
+      "cardNum": "30/95"
+    },
+    {
+      "name": "Golett",
+      "set": "Alter Genesis",
+      "img": "https://den-cards.pokellector.com/281/Golett.SM12.31.30076.png",
+      "rarity": "Common",
+      "cardNum": "31/95"
+    },
+    {
+      "name": "Golurk",
+      "set": "Alter Genesis",
+      "img": "https://den-cards.pokellector.com/281/Golurk.SM12.32.29755.png",
+      "rarity": "Uncommon",
+      "cardNum": "32/95"
+    },
+    {
+      "name": "Skrelp",
+      "set": "Alter Genesis",
+      "img": "https://den-cards.pokellector.com/281/Skrelp.SM12.33.30077.png",
+      "rarity": "Common",
+      "cardNum": "33/95"
+    },
+    {
+      "name": "Dragalge",
+      "set": "Alter Genesis",
+      "img": "https://den-cards.pokellector.com/281/Dragalge.SM12.34.30078.png",
+      "rarity": "Uncommon",
+      "cardNum": "34/95"
+    },
+    {
+      "name": "Oricorio GX",
+      "set": "Alter Genesis",
+      "img": "https://den-cards.pokellector.com/281/Oricorio-GX.SM12.35.29651.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "35/95"
+    },
+    {
+      "name": "Cosmog",
+      "set": "Alter Genesis",
+      "img": "https://den-cards.pokellector.com/281/Cosmog.SM12.36.30079.png",
+      "rarity": "Common",
+      "cardNum": "36/95"
+    },
+    {
+      "name": "Cosmog",
+      "set": "Alter Genesis",
+      "img": "https://den-cards.pokellector.com/281/Cosmog.SM12.37.30080.png",
+      "rarity": "Common",
+      "cardNum": "37/95"
+    },
+    {
+      "name": "Cosmoem",
+      "set": "Alter Genesis",
+      "img": "https://den-cards.pokellector.com/281/Cosmoem.SM12.38.30081.png",
+      "rarity": "Common",
+      "cardNum": "38/95"
+    },
+    {
+      "name": "Lunala",
+      "set": "Alter Genesis",
+      "img": "https://den-cards.pokellector.com/281/Lunala.SM12.39.29643.png",
+      "rarity": "Rare",
+      "cardNum": "39/95"
+    },
+    {
+      "name": "Nosepass",
+      "set": "Alter Genesis",
+      "img": "https://den-cards.pokellector.com/281/Nosepass.SM12.40.30082.png",
+      "rarity": "Common",
+      "cardNum": "40/95"
+    },
+    {
+      "name": "Trapinch",
+      "set": "Alter Genesis",
+      "img": "https://den-cards.pokellector.com/281/Trapinch.SM12.41.30083.png",
+      "rarity": "Common",
+      "cardNum": "41/95"
+    },
+    {
+      "name": "Trapinch",
+      "set": "Alter Genesis",
+      "img": "https://den-cards.pokellector.com/281/Trapinch.SM12.42.30084.png",
+      "rarity": "Common",
+      "cardNum": "42/95"
+    },
+    {
+      "name": "Vibrava",
+      "set": "Alter Genesis",
+      "img": "https://den-cards.pokellector.com/281/Vibrava.SM12.43.30085.png",
+      "rarity": "Uncommon",
+      "cardNum": "43/95"
+    },
+    {
+      "name": "Flygon GX",
+      "set": "Alter Genesis",
+      "img": "https://den-cards.pokellector.com/281/Flygon-GX.SM12.44.29753.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "44/95"
+    },
+    {
+      "name": "Anorith",
+      "set": "Alter Genesis",
+      "img": "https://den-cards.pokellector.com/281/Anorith.SM12.45.30086.png",
+      "rarity": "Common",
+      "cardNum": "45/95"
+    },
+    {
+      "name": "Armaldo",
+      "set": "Alter Genesis",
+      "img": "https://den-cards.pokellector.com/281/Armaldo.SM12.46.29644.png",
+      "rarity": "Uncommon",
+      "cardNum": "46/95"
+    },
+    {
+      "name": "Rockruff",
+      "set": "Alter Genesis",
+      "img": "https://den-cards.pokellector.com/281/Rockruff.SM12.47.30087.png",
+      "rarity": "Common",
+      "cardNum": "47/95"
+    },
+    {
+      "name": "Lycanroc",
+      "set": "Alter Genesis",
+      "img": "https://den-cards.pokellector.com/281/Lycanroc.SM12.48.30088.png",
+      "rarity": "Rare",
+      "cardNum": "48/95"
+    },
+    {
+      "name": "Sandygast",
+      "set": "Alter Genesis",
+      "img": "https://den-cards.pokellector.com/281/Sandygast.SM12.49.30089.png",
+      "rarity": "Common",
+      "cardNum": "49/95"
+    },
+    {
+      "name": "Palossand",
+      "set": "Alter Genesis",
+      "img": "https://den-cards.pokellector.com/281/Palossand.SM12.50.30090.png",
+      "rarity": "Uncommon",
+      "cardNum": "50/95"
+    },
+    {
+      "name": "Alolan Sandshrew",
+      "set": "Alter Genesis",
+      "img": "https://den-cards.pokellector.com/281/Alolan-Sandshrew.SM12.51.30091.png",
+      "rarity": "Common",
+      "cardNum": "51/95"
+    },
+    {
+      "name": "Alolan Sandslash",
+      "set": "Alter Genesis",
+      "img": "https://den-cards.pokellector.com/281/Alolan-Sandslash.SM12.52.30092.png",
+      "rarity": "Uncommon",
+      "cardNum": "52/95"
+    },
+    {
+      "name": "Mawile",
+      "set": "Alter Genesis",
+      "img": "https://den-cards.pokellector.com/281/Mawile.SM12.53.29645.png",
+      "rarity": "Uncommon",
+      "cardNum": "53/95"
+    },
+    {
+      "name": "Probopass",
+      "set": "Alter Genesis",
+      "img": "https://den-cards.pokellector.com/281/Probopass.SM12.54.30093.png",
+      "rarity": "Uncommon",
+      "cardNum": "54/95"
+    },
+    {
+      "name": "Solgaleo",
+      "set": "Alter Genesis",
+      "img": "https://den-cards.pokellector.com/281/Solgaleo.SM12.55.29649.png",
+      "rarity": "Rare",
+      "cardNum": "55/95"
+    },
+    {
+      "name": "Alolan Ninetales",
+      "set": "Alter Genesis",
+      "img": "https://den-cards.pokellector.com/281/Alolan-Ninetales.SM12.56.30094.png",
+      "rarity": "Rare",
+      "cardNum": "56/95"
+    },
+    {
+      "name": "Azurill",
+      "set": "Alter Genesis",
+      "img": "https://den-cards.pokellector.com/281/Azurill.SM12.57.29754.png",
+      "rarity": "Common",
+      "cardNum": "57/95"
+    },
+    {
+      "name": "Flabébé",
+      "set": "Alter Genesis",
+      "img": "https://den-cards.pokellector.com/281/Flabeacutebeacute.SM12.58.30095.png",
+      "rarity": "Common",
+      "cardNum": "58/95"
+    },
+    {
+      "name": "Flabébé",
+      "set": "Alter Genesis",
+      "img": "https://den-cards.pokellector.com/281/Flabeacutebeacute.SM12.59.30096.png",
+      "rarity": "Common",
+      "cardNum": "59/95"
+    },
+    {
+      "name": "Floette",
+      "set": "Alter Genesis",
+      "img": "https://den-cards.pokellector.com/281/Floette.SM12.60.30097.png",
+      "rarity": "Common",
+      "cardNum": "60/95"
+    },
+    {
+      "name": "Florges",
+      "set": "Alter Genesis",
+      "img": "https://den-cards.pokellector.com/281/Florges.SM12.61.30098.png",
+      "rarity": "Rare",
+      "cardNum": "61/95"
+    },
+    {
+      "name": "Swirlix",
+      "set": "Alter Genesis",
+      "img": "https://den-cards.pokellector.com/281/Swirlix.SM12.62.30099.png",
+      "rarity": "Common",
+      "cardNum": "62/95"
+    },
+    {
+      "name": "Slurpuff",
+      "set": "Alter Genesis",
+      "img": "https://den-cards.pokellector.com/281/Slurpuff.SM12.63.30100.png",
+      "rarity": "Uncommon",
+      "cardNum": "63/95"
+    },
+    {
+      "name": "Sylveon",
+      "set": "Alter Genesis",
+      "img": "https://den-cards.pokellector.com/281/Sylveon.SM12.64.29650.png",
+      "rarity": "Uncommon",
+      "cardNum": "64/95"
+    },
+    {
+      "name": "Arceus & Dialga & Palkia GX",
+      "set": "Alter Genesis",
+      "img": "https://den-cards.pokellector.com/281/Arceus-Dialga-Palkia-GX.SM12.65.29571.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "65/95"
+    },
+    {
+      "name": "Naganadel & Guzzlord GX",
+      "set": "Alter Genesis",
+      "img": "https://den-cards.pokellector.com/281/Naganadel-Guzzlord-GX.SM12.66.29639.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "66/95"
+    },
+    {
+      "name": "Drampa",
+      "set": "Alter Genesis",
+      "img": "https://den-cards.pokellector.com/281/Drampa.SM12.67.29636.png",
+      "rarity": "Uncommon",
+      "cardNum": "67/95"
+    },
+    {
+      "name": "Jangmo-o",
+      "set": "Alter Genesis",
+      "img": "https://den-cards.pokellector.com/281/Jangmo-o.SM12.68.30101.png",
+      "rarity": "Common",
+      "cardNum": "68/95"
+    },
+    {
+      "name": "Jangmo-o",
+      "set": "Alter Genesis",
+      "img": "https://den-cards.pokellector.com/281/Jangmo-o.SM12.69.30102.png",
+      "rarity": "Common",
+      "cardNum": "69/95"
+    },
+    {
+      "name": "Hakamo-o",
+      "set": "Alter Genesis",
+      "img": "https://den-cards.pokellector.com/281/Hakamo-o.SM12.70.30103.png",
+      "rarity": "Common",
+      "cardNum": "70/95"
+    },
+    {
+      "name": "Kommo-O",
+      "set": "Alter Genesis",
+      "img": "https://den-cards.pokellector.com/281/Kommo-O.SM12.71.29758.png",
+      "rarity": "Rare",
+      "cardNum": "71/95"
+    },
+    {
+      "name": "Ultra Necrozma",
+      "set": "Alter Genesis",
+      "img": "https://den-cards.pokellector.com/281/Ultra-Necrozma.SM12.72.29756.png",
+      "rarity": "Rare",
+      "cardNum": "72/95"
+    },
+    {
+      "name": "Mega Lopunny & Jigglypuff GX",
+      "set": "Alter Genesis",
+      "img": "https://den-cards.pokellector.com/281/Mega-Lopunny-Jigglypuff-GX.SM12.73.29638.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "73/95"
+    },
+    {
+      "name": "Eevee",
+      "set": "Alter Genesis",
+      "img": "https://den-cards.pokellector.com/281/Eevee.SM12.74.30104.png",
+      "rarity": "Common",
+      "cardNum": "74/95"
+    },
+    {
+      "name": "Aipom",
+      "set": "Alter Genesis",
+      "img": "https://den-cards.pokellector.com/281/Aipom.SM12.75.30105.png",
+      "rarity": "Common",
+      "cardNum": "75/95"
+    },
+    {
+      "name": "Ambipom",
+      "set": "Alter Genesis",
+      "img": "https://den-cards.pokellector.com/281/Ambipom.SM12.76.30106.png",
+      "rarity": "Uncommon",
+      "cardNum": "76/95"
+    },
+    {
+      "name": "Teddiursa",
+      "set": "Alter Genesis",
+      "img": "https://den-cards.pokellector.com/281/Teddiursa.SM12.77.30107.png",
+      "rarity": "Common",
+      "cardNum": "77/95"
+    },
+    {
+      "name": "Ursaring",
+      "set": "Alter Genesis",
+      "img": "https://den-cards.pokellector.com/281/Ursaring.SM12.78.30108.png",
+      "rarity": "Uncommon",
+      "cardNum": "78/95"
+    },
+    {
+      "name": "Rufflet",
+      "set": "Alter Genesis",
+      "img": "https://den-cards.pokellector.com/281/Rufflet.SM12.79.30109.png",
+      "rarity": "Common",
+      "cardNum": "79/95"
+    },
+    {
+      "name": "Braviary",
+      "set": "Alter Genesis",
+      "img": "https://den-cards.pokellector.com/281/Braviary.SM12.80.30110.png",
+      "rarity": "Uncommon",
+      "cardNum": "80/95"
+    },
+    {
+      "name": "Helioptile",
+      "set": "Alter Genesis",
+      "img": "https://den-cards.pokellector.com/281/Helioptile.SM12.81.30111.png",
+      "rarity": "Common",
+      "cardNum": "81/95"
+    },
+    {
+      "name": "Heliolisk",
+      "set": "Alter Genesis",
+      "img": "https://den-cards.pokellector.com/281/Heliolisk.SM12.82.30112.png",
+      "rarity": "Uncommon",
+      "cardNum": "82/95"
+    },
+    {
+      "name": "Tag Whistle",
+      "set": "Alter Genesis",
+      "img": "https://den-cards.pokellector.com/281/Tag-Whistle.SM12.83.29637.png",
+      "rarity": "Uncommon",
+      "cardNum": "83/95"
+    },
+    {
+      "name": "Unidentified Fossil",
+      "set": "Alter Genesis",
+      "img": "https://den-cards.pokellector.com/281/Unidentified-Fossil.SM12.84.30113.png",
+      "rarity": "Common",
+      "cardNum": "84/95"
+    },
+    {
+      "name": "Island Challenge Amulet",
+      "set": "Alter Genesis",
+      "img": "https://den-cards.pokellector.com/281/Island-Challenge-Amulet.SM12.85.29646.png",
+      "rarity": "Uncommon",
+      "cardNum": "85/95"
+    },
+    {
+      "name": "Beastite",
+      "set": "Alter Genesis",
+      "img": "https://den-cards.pokellector.com/281/Beastite.SM12.85.29648.png",
+      "rarity": "Uncommon",
+      "cardNum": "86/95"
+    },
+    {
+      "name": "Guzma & Hala",
+      "set": "Alter Genesis",
+      "img": "https://den-cards.pokellector.com/281/Guzma-Hala.SM12.87.29759.png",
+      "rarity": "Uncommon",
+      "cardNum": "87/95"
+    },
+    {
+      "name": "Cynthia & Caitlin",
+      "set": "Alter Genesis",
+      "img": "https://den-cards.pokellector.com/281/Cynthia-Caitlin.SM12.88.29641.png",
+      "rarity": "Uncommon",
+      "cardNum": "88/95"
+    },
+    {
+      "name": "Mallow & Lana",
+      "set": "Alter Genesis",
+      "img": "https://den-cards.pokellector.com/281/Mallow-Lana.SM12.89.30115.png",
+      "rarity": "Uncommon",
+      "cardNum": "89/95"
+    },
+    {
+      "name": "Red & Blue",
+      "set": "Alter Genesis",
+      "img": "https://den-cards.pokellector.com/281/Red-Blue.SM12.90.29640.png",
+      "rarity": "Uncommon",
+      "cardNum": "90/95"
+    },
+    {
+      "name": "Chaos Swell",
+      "set": "Alter Genesis",
+      "img": "https://den-cards.pokellector.com/281/Chaos-Swell.SM12.91.30116.png",
+      "rarity": "Uncommon",
+      "cardNum": "91/95"
+    },
+    {
+      "name": "Cherish Ball",
+      "set": "Alter Genesis",
+      "img": "https://den-cards.pokellector.com/281/Cherish-Ball.SM12.92.29647.png",
+      "rarity": "Rare",
+      "cardNum": "92/95"
+    },
+    {
+      "name": "Adventure Bag",
+      "set": "Alter Genesis",
+      "img": "https://den-cards.pokellector.com/281/Adventure-Bag.SM12.93.30117.png",
+      "rarity": "Common",
+      "cardNum": "93/95"
+    },
+    {
+      "name": "Pokémon Communication",
+      "set": "Alter Genesis",
+      "img": "https://den-cards.pokellector.com/281/Pokmon-Communication.SM12.94.30118.png",
+      "rarity": "Common",
+      "cardNum": "94/95"
+    },
+    {
+      "name": "Professor Elm's Lecture",
+      "set": "Alter Genesis",
+      "img": "https://den-cards.pokellector.com/281/Professor-Elms-Lecture.SM12.95.30119.png",
+      "rarity": "Common",
+      "cardNum": "95/95"
+    },
+    {
+      "name": "Volcarona GX",
+      "set": "Alter Genesis",
+      "img": "https://den-cards.pokellector.com/281/Volcarona-GX.SM12.96.30147.png",
+      "rarity": "Secret Rare",
+      "cardNum": "96/95"
+    },
+    {
+      "name": "Oricorio GX",
+      "set": "Alter Genesis",
+      "img": "https://den-cards.pokellector.com/281/Oricorio-GX.SM12.97.30148.png",
+      "rarity": "Secret Rare",
+      "cardNum": "97/95"
+    },
+    {
+      "name": "Flygon GX",
+      "set": "Alter Genesis",
+      "img": "https://den-cards.pokellector.com/281/Flygon-GX.SM12.98.30149.png",
+      "rarity": "Secret Rare",
+      "cardNum": "98/95"
+    },
+    {
+      "name": "Arceus & Dialga & Palkia GX",
+      "set": "Alter Genesis",
+      "img": "https://den-cards.pokellector.com/281/Arceus-Dialga-Palkia-GX.SM12.99.30150.png",
+      "rarity": "Secret Rare",
+      "cardNum": "99/95"
+    },
+    {
+      "name": "Arceus & Dialga & Palkia GX",
+      "set": "Alter Genesis",
+      "img": "https://den-cards.pokellector.com/281/Arceus-Dialga-Palkia-GX.SM12.100.30146.png",
+      "rarity": "Secret Rare",
+      "cardNum": "100/95"
+    },
+    {
+      "name": "Naganadel & Guzzlord GX",
+      "set": "Alter Genesis",
+      "img": "https://den-cards.pokellector.com/281/Naganadel-Guzzlord-GX.SM12.101.30151.png",
+      "rarity": "Secret Rare",
+      "cardNum": "101/95"
+    },
+    {
+      "name": "Naganadel & Guzzlord GX",
+      "set": "Alter Genesis",
+      "img": "https://den-cards.pokellector.com/281/Naganadel-Guzzlord-GX.SM12.102.30152.png",
+      "rarity": "Secret Rare",
+      "cardNum": "102/95"
+    },
+    {
+      "name": "Mega Lopunny & Jigglypuff GX",
+      "set": "Alter Genesis",
+      "img": "https://den-cards.pokellector.com/281/Mega-Lopunny-Jigglypuff-GX.SM12.103.30153.png",
+      "rarity": "Secret Rare",
+      "cardNum": "103/95"
+    },
+    {
+      "name": "Mega Lopunny & Jigglypuff GX",
+      "set": "Alter Genesis",
+      "img": "https://den-cards.pokellector.com/281/Mega-Lopunny-Jigglypuff-GX.SM12.104.30154.png",
+      "rarity": "Secret Rare",
+      "cardNum": "104/95"
+    },
+    {
+      "name": "Guzma & Hala",
+      "set": "Alter Genesis",
+      "img": "https://den-cards.pokellector.com/281/Guzma-Hala.SM12.105.30155.png",
+      "rarity": "Secret Rare",
+      "cardNum": "105/95"
+    },
+    {
+      "name": "Cynthia & Caitlin",
+      "set": "Alter Genesis",
+      "img": "https://den-cards.pokellector.com/281/Cynthia-Caitlin.SM12.106.30156.png",
+      "rarity": "Secret Rare",
+      "cardNum": "106/95"
+    },
+    {
+      "name": "Mallow & Lana",
+      "set": "Alter Genesis",
+      "img": "https://den-cards.pokellector.com/281/Cynthia-Caitlin.SM12.107.30145.png",
+      "rarity": "Secret Rare",
+      "cardNum": "107/95"
+    },
+    {
+      "name": "Red & Blue",
+      "set": "Alter Genesis",
+      "img": "https://den-cards.pokellector.com/281/Red-Blue.SM12.108.30157.png",
+      "rarity": "Secret Rare",
+      "cardNum": "108/95"
+    },
+    {
+      "name": "Volcarona GX",
+      "set": "Alter Genesis",
+      "img": "https://den-cards.pokellector.com/281/Volcarona-GX.SM12.109.30158.png",
+      "rarity": "Secret Rare",
+      "cardNum": "109/95"
+    },
+    {
+      "name": "Oricorio GX",
+      "set": "Alter Genesis",
+      "img": "https://den-cards.pokellector.com/281/Oricorio-GX.SM12.110.30159.png",
+      "rarity": "Secret Rare",
+      "cardNum": "110/95"
+    },
+    {
+      "name": "Flygon GX",
+      "set": "Alter Genesis",
+      "img": "https://den-cards.pokellector.com/281/Flygon-GX.SM12.111.30160.png",
+      "rarity": "Secret Rare",
+      "cardNum": "111/95"
+    },
+    {
+      "name": "Arceus & Dialga & Palkia GX",
+      "set": "Alter Genesis",
+      "img": "https://den-cards.pokellector.com/281/Arceus-Dialga-Palkia-GX.SM12.112.30161.png",
+      "rarity": "Secret Rare",
+      "cardNum": "112/95"
+    },
+    {
+      "name": "Naganadel & Guzzlord GX",
+      "set": "Alter Genesis",
+      "img": "https://den-cards.pokellector.com/281/Naganadel-Guzzlord-GX.SM12.113.30162.png",
+      "rarity": "Secret Rare",
+      "cardNum": "113/95"
+    },
+    {
+      "name": "Mega Lopunny & Jigglypuff GX",
+      "set": "Alter Genesis",
+      "img": "https://den-cards.pokellector.com/281/Mega-Lopunny-Jigglypuff-GX.SM12.114.30163.png",
+      "rarity": "Secret Rare",
+      "cardNum": "114/95"
+    },
+    {
+      "name": "Tag Call",
+      "set": "Alter Genesis",
+      "img": "https://den-cards.pokellector.com/281/Tag-Call.SM12.115.30164.png",
+      "rarity": "Secret Rare",
+      "cardNum": "115/95"
+    },
+    {
+      "name": "Island Challenge Amulet",
+      "set": "Alter Genesis",
+      "img": "https://den-cards.pokellector.com/281/Island-Challenge-Amulet.SM12.116.30165.png",
+      "rarity": "Secret Rare",
+      "cardNum": "116/95"
+    },
+    {
+      "name": "Giant Hearth",
+      "set": "Alter Genesis",
+      "img": "https://den-cards.pokellector.com/281/Giant-Hearth.SM12.117.30166.png",
+      "rarity": "Secret Rare",
+      "cardNum": "117/95"
+    }
+  ]
+}

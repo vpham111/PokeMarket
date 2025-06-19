@@ -1,0 +1,390 @@
+{
+  "setName": "Dragon Blade",
+  "cards": [
+    {
+      "name": "Hoppip",
+      "set": "Dragon Blade",
+      "img": "https://den-cards.pokellector.com/21/Hoppip.BW5.1.png",
+      "rarity": "Common",
+      "cardNum": "1/50"
+    },
+    {
+      "name": "Skiploom",
+      "set": "Dragon Blade",
+      "img": "https://den-cards.pokellector.com/21/Skiploom.BW5.2.png",
+      "rarity": "Common",
+      "cardNum": "2/50"
+    },
+    {
+      "name": "Jumpluff",
+      "set": "Dragon Blade",
+      "img": "https://den-cards.pokellector.com/21/Jumpluff.BW5.3.png",
+      "rarity": "Uncommon",
+      "cardNum": "3/50"
+    },
+    {
+      "name": "Nincada",
+      "set": "Dragon Blade",
+      "img": "https://den-cards.pokellector.com/21/Nincada.BW5.4.png",
+      "rarity": "Common",
+      "cardNum": "4/50"
+    },
+    {
+      "name": "Ninjask",
+      "set": "Dragon Blade",
+      "img": "https://den-cards.pokellector.com/21/Ninjask.BW5.5.png",
+      "rarity": "Uncommon",
+      "cardNum": "5/50"
+    },
+    {
+      "name": "Maractus",
+      "set": "Dragon Blade",
+      "img": "https://den-cards.pokellector.com/21/Maractus.BW5.6.png",
+      "rarity": "Common",
+      "cardNum": "6/50"
+    },
+    {
+      "name": "Magmar",
+      "set": "Dragon Blade",
+      "img": "https://den-cards.pokellector.com/21/Magmar.BW5.7.png",
+      "rarity": "Common",
+      "cardNum": "7/50"
+    },
+    {
+      "name": "Magmortar",
+      "set": "Dragon Blade",
+      "img": "https://den-cards.pokellector.com/21/Magmortar.BW5.8.png",
+      "rarity": "Uncommon",
+      "cardNum": "8/50"
+    },
+    {
+      "name": "Ho-Oh EX",
+      "set": "Dragon Blade",
+      "img": "https://den-cards.pokellector.com/21/Ho-Oh-EX.BW5.9.png",
+      "rarity": "Rare",
+      "cardNum": "9/50"
+    },
+    {
+      "name": "Feebas",
+      "set": "Dragon Blade",
+      "img": "https://den-cards.pokellector.com/21/Feebas.BW5.10.png",
+      "rarity": "Common",
+      "cardNum": "10/50"
+    },
+    {
+      "name": "Milotic",
+      "set": "Dragon Blade",
+      "img": "https://den-cards.pokellector.com/21/Milotic.BW5.11.png",
+      "rarity": "Rare",
+      "cardNum": "11/50"
+    },
+    {
+      "name": "Spheal",
+      "set": "Dragon Blade",
+      "img": "https://den-cards.pokellector.com/21/Spheal.BW5.12.png",
+      "rarity": "Common",
+      "cardNum": "12/50"
+    },
+    {
+      "name": "Sealeo",
+      "set": "Dragon Blade",
+      "img": "https://den-cards.pokellector.com/21/Sealeo.BW5.13.png",
+      "rarity": "Common",
+      "cardNum": "13/50"
+    },
+    {
+      "name": "Walrein",
+      "set": "Dragon Blade",
+      "img": "https://den-cards.pokellector.com/21/Walrein.BW5.14.png",
+      "rarity": "Uncommon",
+      "cardNum": "14/50"
+    },
+    {
+      "name": "Electrike",
+      "set": "Dragon Blade",
+      "img": "https://den-cards.pokellector.com/21/Electrike.BW5.15.png",
+      "rarity": "Common",
+      "cardNum": "15/50"
+    },
+    {
+      "name": "Manectric",
+      "set": "Dragon Blade",
+      "img": "https://den-cards.pokellector.com/21/Manectric.BW5.16.png",
+      "rarity": "Uncommon",
+      "cardNum": "16/50"
+    },
+    {
+      "name": "Emolga",
+      "set": "Dragon Blade",
+      "img": "https://den-cards.pokellector.com/21/Emolga.BW5.17.png",
+      "rarity": "Common",
+      "cardNum": "17/50"
+    },
+    {
+      "name": "Shedinja",
+      "set": "Dragon Blade",
+      "img": "https://den-cards.pokellector.com/21/Shedinja.BW5.18.png",
+      "rarity": "Uncommon",
+      "cardNum": "18/50"
+    },
+    {
+      "name": "Gothita",
+      "set": "Dragon Blade",
+      "img": "https://den-cards.pokellector.com/21/Gothita.BW5.19.png",
+      "rarity": "Common",
+      "cardNum": "19/50"
+    },
+    {
+      "name": "Gothorita",
+      "set": "Dragon Blade",
+      "img": "https://den-cards.pokellector.com/21/Gothorita.BW5.20.png",
+      "rarity": "Uncommon",
+      "cardNum": "20/50"
+    },
+    {
+      "name": "Gothitelle",
+      "set": "Dragon Blade",
+      "img": "https://den-cards.pokellector.com/21/Gothitelle.BW5.21.png",
+      "rarity": "Uncommon",
+      "cardNum": "21/50"
+    },
+    {
+      "name": "Golett",
+      "set": "Dragon Blade",
+      "img": "https://den-cards.pokellector.com/21/Golett.BW5.22.png",
+      "rarity": "Common",
+      "cardNum": "22/50"
+    },
+    {
+      "name": "Golurk",
+      "set": "Dragon Blade",
+      "img": "https://den-cards.pokellector.com/21/Golurk.BW5.23.png",
+      "rarity": "Rare",
+      "cardNum": "23/50"
+    },
+    {
+      "name": "Cubone",
+      "set": "Dragon Blade",
+      "img": "https://den-cards.pokellector.com/21/Cubone.BW5.24.png",
+      "rarity": "Common",
+      "cardNum": "24/50"
+    },
+    {
+      "name": "Marowak",
+      "set": "Dragon Blade",
+      "img": "https://den-cards.pokellector.com/21/Marowak.BW5.25.png",
+      "rarity": "Uncommon",
+      "cardNum": "25/50"
+    },
+    {
+      "name": "Nosepass",
+      "set": "Dragon Blade",
+      "img": "https://den-cards.pokellector.com/21/Nosepass.BW5.26.png",
+      "rarity": "Common",
+      "cardNum": "26/50"
+    },
+    {
+      "name": "Roggenrola",
+      "set": "Dragon Blade",
+      "img": "https://den-cards.pokellector.com/21/Roggenrola.BW5.27.png",
+      "rarity": "Common",
+      "cardNum": "27/50"
+    },
+    {
+      "name": "Boldore",
+      "set": "Dragon Blade",
+      "img": "https://den-cards.pokellector.com/21/Boldore.BW5.28.png",
+      "rarity": "Common",
+      "cardNum": "28/50"
+    },
+    {
+      "name": "Gigalith",
+      "set": "Dragon Blade",
+      "img": "https://den-cards.pokellector.com/21/Gigalith.BW5.29.png",
+      "rarity": "Rare",
+      "cardNum": "29/50"
+    },
+    {
+      "name": "Throh",
+      "set": "Dragon Blade",
+      "img": "https://den-cards.pokellector.com/21/Throh.BW5.30.png",
+      "rarity": "Common",
+      "cardNum": "30/50"
+    },
+    {
+      "name": "Sawk",
+      "set": "Dragon Blade",
+      "img": "https://den-cards.pokellector.com/21/Sawk.BW5.31.png",
+      "rarity": "Common",
+      "cardNum": "31/50"
+    },
+    {
+      "name": "Stunky",
+      "set": "Dragon Blade",
+      "img": "https://den-cards.pokellector.com/21/Stunky.BW5.32.png",
+      "rarity": "Common",
+      "cardNum": "32/50"
+    },
+    {
+      "name": "Skuntank",
+      "set": "Dragon Blade",
+      "img": "https://den-cards.pokellector.com/21/Skuntank.BW5.33.png",
+      "rarity": "Uncommon",
+      "cardNum": "33/50"
+    },
+    {
+      "name": "Registeel EX",
+      "set": "Dragon Blade",
+      "img": "https://den-cards.pokellector.com/21/Registeel-EX.BW5.34.png",
+      "rarity": "Rare",
+      "cardNum": "34/50"
+    },
+    {
+      "name": "Probopass",
+      "set": "Dragon Blade",
+      "img": "https://den-cards.pokellector.com/21/Probopass.BW5.35.png",
+      "rarity": "Uncommon",
+      "cardNum": "35/50"
+    },
+    {
+      "name": "Altaria",
+      "set": "Dragon Blade",
+      "img": "https://den-cards.pokellector.com/21/Altaria.BW5.36.png",
+      "rarity": "Rare",
+      "cardNum": "36/50"
+    },
+    {
+      "name": "Rayquaza EX",
+      "set": "Dragon Blade",
+      "img": "https://den-cards.pokellector.com/21/Rayquaza-EX.BW5.37.png",
+      "rarity": "Rare",
+      "cardNum": "37/50"
+    },
+    {
+      "name": "Gible",
+      "set": "Dragon Blade",
+      "img": "https://den-cards.pokellector.com/21/Gible.BW5.38.png",
+      "rarity": "Common",
+      "cardNum": "38/50"
+    },
+    {
+      "name": "Gabite",
+      "set": "Dragon Blade",
+      "img": "https://den-cards.pokellector.com/21/Gabite.BW5.39.png",
+      "rarity": "Uncommon",
+      "cardNum": "39/50"
+    },
+    {
+      "name": "Garchomp",
+      "set": "Dragon Blade",
+      "img": "https://den-cards.pokellector.com/21/Garchomp.BW5.40.png",
+      "rarity": "Rare",
+      "cardNum": "40/50"
+    },
+    {
+      "name": "Slakoth",
+      "set": "Dragon Blade",
+      "img": "https://den-cards.pokellector.com/21/Slakoth.BW5.41.png",
+      "rarity": "Common",
+      "cardNum": "41/50"
+    },
+    {
+      "name": "Vigoroth",
+      "set": "Dragon Blade",
+      "img": "https://den-cards.pokellector.com/21/Vigoroth.BW5.42.png",
+      "rarity": "Common",
+      "cardNum": "42/50"
+    },
+    {
+      "name": "Slaking",
+      "set": "Dragon Blade",
+      "img": "https://den-cards.pokellector.com/21/Slaking.BW5.43.png",
+      "rarity": "Rare",
+      "cardNum": "43/50"
+    },
+    {
+      "name": "Swablu",
+      "set": "Dragon Blade",
+      "img": "https://den-cards.pokellector.com/21/Swablu.BW5.44.png",
+      "rarity": "Common",
+      "cardNum": "44/50"
+    },
+    {
+      "name": "Bouffalant",
+      "set": "Dragon Blade",
+      "img": "https://den-cards.pokellector.com/21/Bouffalant.BW5.45.png",
+      "rarity": "Rare",
+      "cardNum": "45/50"
+    },
+    {
+      "name": "Rufflet",
+      "set": "Dragon Blade",
+      "img": "https://den-cards.pokellector.com/21/Rufflet.BW5.46.png",
+      "rarity": "Common",
+      "cardNum": "46/50"
+    },
+    {
+      "name": "Braviary",
+      "set": "Dragon Blade",
+      "img": "https://den-cards.pokellector.com/21/Braviary.BW5.47.png",
+      "rarity": "Uncommon",
+      "cardNum": "47/50"
+    },
+    {
+      "name": "Tool Scrapper",
+      "set": "Dragon Blade",
+      "img": "https://den-cards.pokellector.com/21/Tool-Scrapper.BW5.48.png",
+      "rarity": "Uncommon",
+      "cardNum": "48/50"
+    },
+    {
+      "name": "Giant Cape",
+      "set": "Dragon Blade",
+      "img": "https://den-cards.pokellector.com/21/Giant-Cape.BW5.49.png",
+      "rarity": "Uncommon",
+      "cardNum": "49/50"
+    },
+    {
+      "name": "Blend Energy WLFM",
+      "set": "Dragon Blade",
+      "img": "https://den-cards.pokellector.com/21/Blend-Energy-WLFM.BW5.50.png",
+      "rarity": "Uncommon",
+      "cardNum": "50/50"
+    },
+    {
+      "name": "Ho-Oh EX",
+      "set": "Dragon Blade",
+      "img": "https://den-cards.pokellector.com/21/Ho-Oh-EX.BW5.51.png",
+      "rarity": "Secret Rare",
+      "cardNum": "51/50"
+    },
+    {
+      "name": "Registeel EX",
+      "set": "Dragon Blade",
+      "img": "https://den-cards.pokellector.com/21/Registeel-EX.BW5.52.png",
+      "rarity": "Secret Rare",
+      "cardNum": "52/50"
+    },
+    {
+      "name": "Rayquaza EX",
+      "set": "Dragon Blade",
+      "img": "https://den-cards.pokellector.com/21/Rayquaza-EX.BW5.53.png",
+      "rarity": "Secret Rare",
+      "cardNum": "53/50"
+    },
+    {
+      "name": "Serperior",
+      "set": "Dragon Blade",
+      "img": "https://den-cards.pokellector.com/21/Serperior.BW5.54.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "54/50"
+    },
+    {
+      "name": "Krookodile",
+      "set": "Dragon Blade",
+      "img": "https://den-cards.pokellector.com/21/Krookodile.BW5.55.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "55/50"
+    }
+  ]
+}

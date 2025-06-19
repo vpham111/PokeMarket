@@ -1,0 +1,677 @@
+{
+  "setName": "Galactic's Conquest",
+  "cards": [
+    {
+      "name": "Wurmple",
+      "set": "Galactic's Conquest",
+      "img": "https://den-cards.pokellector.com/253/Wurmple.PT1.1.22428.png",
+      "rarity": "Common",
+      "cardNum": "1/96"
+    },
+    {
+      "name": "Silcoon",
+      "set": "Galactic's Conquest",
+      "img": "https://den-cards.pokellector.com/253/Silcoon.PT1.2.22429.png",
+      "rarity": "Common",
+      "cardNum": "2/96"
+    },
+    {
+      "name": "Beautifly",
+      "set": "Galactic's Conquest",
+      "img": "https://den-cards.pokellector.com/253/Beautifly.PT1.3.22430.png",
+      "rarity": "Rare",
+      "cardNum": "3/96"
+    },
+    {
+      "name": "Cascoon",
+      "set": "Galactic's Conquest",
+      "img": "https://den-cards.pokellector.com/253/Cascoon.PT1.4.22431.png",
+      "rarity": "Common",
+      "cardNum": "4/96"
+    },
+    {
+      "name": "Lotad",
+      "set": "Galactic's Conquest",
+      "img": "https://den-cards.pokellector.com/253/Lotad.PT1.5.22432.png",
+      "rarity": "Common",
+      "cardNum": "5/96"
+    },
+    {
+      "name": "Lotad",
+      "set": "Galactic's Conquest",
+      "img": "https://den-cards.pokellector.com/253/Lotad.PT1.6.22433.png",
+      "rarity": "Common",
+      "cardNum": "6/96"
+    },
+    {
+      "name": "Lombre",
+      "set": "Galactic's Conquest",
+      "img": "https://den-cards.pokellector.com/253/Lombre.PT1.7.22434.png",
+      "rarity": "Common",
+      "cardNum": "7/96"
+    },
+    {
+      "name": "Ludicolo",
+      "set": "Galactic's Conquest",
+      "img": "https://den-cards.pokellector.com/253/Ludicolo.PT1.8.22435.png",
+      "rarity": "Rare",
+      "cardNum": "8/96"
+    },
+    {
+      "name": "Cacnea",
+      "set": "Galactic's Conquest",
+      "img": "https://den-cards.pokellector.com/253/Cacnea.PT1.9.22436.png",
+      "rarity": "Common",
+      "cardNum": "9/96"
+    },
+    {
+      "name": "Cacturne",
+      "set": "Galactic's Conquest",
+      "img": "https://den-cards.pokellector.com/253/Cacturne.PT1.10.22437.png",
+      "rarity": "Rare",
+      "cardNum": "10/96"
+    },
+    {
+      "name": "Kricketot",
+      "set": "Galactic's Conquest",
+      "img": "https://den-cards.pokellector.com/253/Kricketot.PT1.11.22438.png",
+      "rarity": "Common",
+      "cardNum": "11/96"
+    },
+    {
+      "name": "Kricketune",
+      "set": "Galactic's Conquest",
+      "img": "https://den-cards.pokellector.com/253/Kricketune.PT1.12.22439.png",
+      "rarity": "Rare",
+      "cardNum": "12/96"
+    },
+    {
+      "name": "Carnivine",
+      "set": "Galactic's Conquest",
+      "img": "https://den-cards.pokellector.com/253/Carnivine.PT1.13.22440.png",
+      "rarity": "Rare",
+      "cardNum": "13/96"
+    },
+    {
+      "name": "Shaymin",
+      "set": "Galactic's Conquest",
+      "img": "https://den-cards.pokellector.com/253/Shaymin.PT1.14.22441.png",
+      "rarity": "Rare",
+      "cardNum": "14/96"
+    },
+    {
+      "name": "Shaymin LV.X",
+      "set": "Galactic's Conquest",
+      "img": "https://den-cards.pokellector.com/253/Shaymin-LVX.PT1.15.22442.png",
+      "rarity": "Common",
+      "cardNum": "15/96"
+    },
+    {
+      "name": "Vulpix",
+      "set": "Galactic's Conquest",
+      "img": "https://den-cards.pokellector.com/253/Vulpix.PT1.16.22443.png",
+      "rarity": "Common",
+      "cardNum": "16/96"
+    },
+    {
+      "name": "Vulpix",
+      "set": "Galactic's Conquest",
+      "img": "https://den-cards.pokellector.com/253/Vulpix.PT1.17.22444.png",
+      "rarity": "Common",
+      "cardNum": "17/96"
+    },
+    {
+      "name": "Ninetales",
+      "set": "Galactic's Conquest",
+      "img": "https://den-cards.pokellector.com/253/Ninetales.PT1.18.22445.png",
+      "rarity": "Rare",
+      "cardNum": "18/96"
+    },
+    {
+      "name": "Houndoom G",
+      "set": "Galactic's Conquest",
+      "img": "https://den-cards.pokellector.com/253/Houndoom-G.PT1.19.22446.png",
+      "rarity": "Uncommon",
+      "cardNum": "19/96"
+    },
+    {
+      "name": "Torchic",
+      "set": "Galactic's Conquest",
+      "img": "https://den-cards.pokellector.com/253/Torchic.PT1.20.22447.png",
+      "rarity": "Common",
+      "cardNum": "20/96"
+    },
+    {
+      "name": "Combusken",
+      "set": "Galactic's Conquest",
+      "img": "https://den-cards.pokellector.com/253/Combusken.PT1.21.22448.png",
+      "rarity": "Uncommon",
+      "cardNum": "21/96"
+    },
+    {
+      "name": "Blaziken",
+      "set": "Galactic's Conquest",
+      "img": "https://den-cards.pokellector.com/253/Blaziken.PT1.22.22449.png",
+      "rarity": "Rare",
+      "cardNum": "22/96"
+    },
+    {
+      "name": "Squirtle",
+      "set": "Galactic's Conquest",
+      "img": "https://den-cards.pokellector.com/253/Squirtle.PT1.23.22450.png",
+      "rarity": "Common",
+      "cardNum": "23/96"
+    },
+    {
+      "name": "Wartortle",
+      "set": "Galactic's Conquest",
+      "img": "https://den-cards.pokellector.com/253/Wartortle.PT1.24.22451.png",
+      "rarity": "Uncommon",
+      "cardNum": "24/96"
+    },
+    {
+      "name": "Blastoise",
+      "set": "Galactic's Conquest",
+      "img": "https://den-cards.pokellector.com/253/Blastoise.PT1.25.22452.png",
+      "rarity": "Rare",
+      "cardNum": "25/96"
+    },
+    {
+      "name": "Psyduck",
+      "set": "Galactic's Conquest",
+      "img": "https://den-cards.pokellector.com/253/Psyduck.PT1.26.22453.png",
+      "rarity": "Common",
+      "cardNum": "26/96"
+    },
+    {
+      "name": "Golduck",
+      "set": "Galactic's Conquest",
+      "img": "https://den-cards.pokellector.com/253/Golduck.PT1.27.22454.png",
+      "rarity": "Rare",
+      "cardNum": "27/96"
+    },
+    {
+      "name": "Gyarados G",
+      "set": "Galactic's Conquest",
+      "img": "https://den-cards.pokellector.com/253/Gyarados-G.PT1.28.22455.png",
+      "rarity": "Rare",
+      "cardNum": "28/96"
+    },
+    {
+      "name": "Remoraid",
+      "set": "Galactic's Conquest",
+      "img": "https://den-cards.pokellector.com/253/Remoraid.PT1.29.22456.png",
+      "rarity": "Common",
+      "cardNum": "29/96"
+    },
+    {
+      "name": "Octillery",
+      "set": "Galactic's Conquest",
+      "img": "https://den-cards.pokellector.com/253/Octillery.PT1.30.22457.png",
+      "rarity": "Rare",
+      "cardNum": "30/96"
+    },
+    {
+      "name": "Luvdisc",
+      "set": "Galactic's Conquest",
+      "img": "https://den-cards.pokellector.com/253/Luvdisc.PT1.31.22458.png",
+      "rarity": "Rare",
+      "cardNum": "31/96"
+    },
+    {
+      "name": "Palkia G",
+      "set": "Galactic's Conquest",
+      "img": "https://den-cards.pokellector.com/253/Palkia-G.PT1.32.22459.png",
+      "rarity": "Rare",
+      "cardNum": "32/96"
+    },
+    {
+      "name": "Palkia G LV.X",
+      "set": "Galactic's Conquest",
+      "img": "https://den-cards.pokellector.com/253/Palkia-G-LVX.PT1.33.22460.png",
+      "rarity": "Common",
+      "cardNum": "33/96"
+    },
+    {
+      "name": "Mareep",
+      "set": "Galactic's Conquest",
+      "img": "https://den-cards.pokellector.com/253/Mareep.PT1.34.22461.png",
+      "rarity": "Common",
+      "cardNum": "34/96"
+    },
+    {
+      "name": "Flaaffy",
+      "set": "Galactic's Conquest",
+      "img": "https://den-cards.pokellector.com/253/Flaaffy.PT1.35.22462.png",
+      "rarity": "Uncommon",
+      "cardNum": "35/96"
+    },
+    {
+      "name": "Ampharos",
+      "set": "Galactic's Conquest",
+      "img": "https://den-cards.pokellector.com/253/Ampharos.PT1.36.22463.png",
+      "rarity": "Rare",
+      "cardNum": "36/96"
+    },
+    {
+      "name": "Electrike",
+      "set": "Galactic's Conquest",
+      "img": "https://den-cards.pokellector.com/253/Electrike.PT1.37.22464.png",
+      "rarity": "Common",
+      "cardNum": "37/96"
+    },
+    {
+      "name": "Manectric",
+      "set": "Galactic's Conquest",
+      "img": "https://den-cards.pokellector.com/253/Manectric.PT1.38.22465.png",
+      "rarity": "Rare",
+      "cardNum": "38/96"
+    },
+    {
+      "name": "Grimer",
+      "set": "Galactic's Conquest",
+      "img": "https://den-cards.pokellector.com/253/Grimer.PT1.39.22466.png",
+      "rarity": "Common",
+      "cardNum": "39/96"
+    },
+    {
+      "name": "Muk",
+      "set": "Galactic's Conquest",
+      "img": "https://den-cards.pokellector.com/253/Muk.PT1.40.22467.png",
+      "rarity": "Rare",
+      "cardNum": "40/96"
+    },
+    {
+      "name": "Crobat G",
+      "set": "Galactic's Conquest",
+      "img": "https://den-cards.pokellector.com/253/Crobat-G.PT1.41.22468.png",
+      "rarity": "Uncommon",
+      "cardNum": "41/96"
+    },
+    {
+      "name": "Dustox",
+      "set": "Galactic's Conquest",
+      "img": "https://den-cards.pokellector.com/253/Dustox.PT1.42.22469.png",
+      "rarity": "Rare",
+      "cardNum": "42/96"
+    },
+    {
+      "name": "Ralts",
+      "set": "Galactic's Conquest",
+      "img": "https://den-cards.pokellector.com/253/Ralts.PT1.43.22470.png",
+      "rarity": "Common",
+      "cardNum": "43/96"
+    },
+    {
+      "name": "Kirlia",
+      "set": "Galactic's Conquest",
+      "img": "https://den-cards.pokellector.com/253/Kirlia.PT1.44.22471.png",
+      "rarity": "Uncommon",
+      "cardNum": "44/96"
+    },
+    {
+      "name": "Gardevoir",
+      "set": "Galactic's Conquest",
+      "img": "https://den-cards.pokellector.com/253/Gardevoir.PT1.45.22472.png",
+      "rarity": "Rare",
+      "cardNum": "45/96"
+    },
+    {
+      "name": "Seviper",
+      "set": "Galactic's Conquest",
+      "img": "https://den-cards.pokellector.com/253/Seviper.PT1.46.22473.png",
+      "rarity": "Uncommon",
+      "cardNum": "46/96"
+    },
+    {
+      "name": "Shuppet",
+      "set": "Galactic's Conquest",
+      "img": "https://den-cards.pokellector.com/253/Shuppet.PT1.47.22474.png",
+      "rarity": "Common",
+      "cardNum": "47/96"
+    },
+    {
+      "name": "Banette",
+      "set": "Galactic's Conquest",
+      "img": "https://den-cards.pokellector.com/253/Banette.PT1.48.22475.png",
+      "rarity": "Rare",
+      "cardNum": "48/96"
+    },
+    {
+      "name": "Skuntank G",
+      "set": "Galactic's Conquest",
+      "img": "https://den-cards.pokellector.com/253/Skuntank-G.PT1.49.22476.png",
+      "rarity": "Uncommon",
+      "cardNum": "49/96"
+    },
+    {
+      "name": "Toxicroak G",
+      "set": "Galactic's Conquest",
+      "img": "https://den-cards.pokellector.com/253/Toxicroak-G.PT1.50.22477.png",
+      "rarity": "Rare",
+      "cardNum": "50/96"
+    },
+    {
+      "name": "Giratina",
+      "set": "Galactic's Conquest",
+      "img": "https://den-cards.pokellector.com/253/Giratina.PT1.51.22478.png",
+      "rarity": "Rare",
+      "cardNum": "51/96"
+    },
+    {
+      "name": "Giratina LV.X",
+      "set": "Galactic's Conquest",
+      "img": "https://den-cards.pokellector.com/253/Giratina-LVX.PT1.52.22479.png",
+      "rarity": "Common",
+      "cardNum": "52/96"
+    },
+    {
+      "name": "Diglett",
+      "set": "Galactic's Conquest",
+      "img": "https://den-cards.pokellector.com/253/Diglett.PT1.53.22480.png",
+      "rarity": "Common",
+      "cardNum": "53/96"
+    },
+    {
+      "name": "Dugtrio",
+      "set": "Galactic's Conquest",
+      "img": "https://den-cards.pokellector.com/253/Dugtrio.PT1.54.22481.png",
+      "rarity": "Rare",
+      "cardNum": "54/96"
+    },
+    {
+      "name": "Cranidos",
+      "set": "Galactic's Conquest",
+      "img": "https://den-cards.pokellector.com/253/Cranidos.PT1.55.22482.png",
+      "rarity": "Uncommon",
+      "cardNum": "55/96"
+    },
+    {
+      "name": "Rampardos",
+      "set": "Galactic's Conquest",
+      "img": "https://den-cards.pokellector.com/253/Rampardos.PT1.56.22483.png",
+      "rarity": "Rare",
+      "cardNum": "56/96"
+    },
+    {
+      "name": "Poochyena",
+      "set": "Galactic's Conquest",
+      "img": "https://den-cards.pokellector.com/253/Poochyena.PT1.57.22484.png",
+      "rarity": "Common",
+      "cardNum": "57/96"
+    },
+    {
+      "name": "Mightyena",
+      "set": "Galactic's Conquest",
+      "img": "https://den-cards.pokellector.com/253/Mightyena.PT1.58.22485.png",
+      "rarity": "Rare",
+      "cardNum": "58/96"
+    },
+    {
+      "name": "Honchkrow G",
+      "set": "Galactic's Conquest",
+      "img": "https://den-cards.pokellector.com/253/Honchkrow-G.PT1.59.22486.png",
+      "rarity": "Common",
+      "cardNum": "59/96"
+    },
+    {
+      "name": "Drapion LV.X",
+      "set": "Galactic's Conquest",
+      "img": "https://den-cards.pokellector.com/253/Drapion-LVX.PT1.60.22487.png",
+      "rarity": "Common",
+      "cardNum": "60/96"
+    },
+    {
+      "name": "Weavile G",
+      "set": "Galactic's Conquest",
+      "img": "https://den-cards.pokellector.com/253/Weavile-G.PT1.61.22488.png",
+      "rarity": "Rare",
+      "cardNum": "61/96"
+    },
+    {
+      "name": "Shieldon",
+      "set": "Galactic's Conquest",
+      "img": "https://den-cards.pokellector.com/253/Shieldon.PT1.62.22489.png",
+      "rarity": "Uncommon",
+      "cardNum": "62/96"
+    },
+    {
+      "name": "Bastiodon",
+      "set": "Galactic's Conquest",
+      "img": "https://den-cards.pokellector.com/253/Bastiodon.PT1.63.22490.png",
+      "rarity": "Rare",
+      "cardNum": "63/96"
+    },
+    {
+      "name": "Bronzong G",
+      "set": "Galactic's Conquest",
+      "img": "https://den-cards.pokellector.com/253/Bronzong-G.PT1.64.22491.png",
+      "rarity": "Common",
+      "cardNum": "64/96"
+    },
+    {
+      "name": "Dialga G",
+      "set": "Galactic's Conquest",
+      "img": "https://den-cards.pokellector.com/253/Dialga-G.PT1.65.22492.png",
+      "rarity": "Rare",
+      "cardNum": "65/96"
+    },
+    {
+      "name": "Dialga G LV.X",
+      "set": "Galactic's Conquest",
+      "img": "https://den-cards.pokellector.com/253/Dialga-G-LVX.PT1.66.22493.png",
+      "rarity": "Common",
+      "cardNum": "66/96"
+    },
+    {
+      "name": "Lickitung",
+      "set": "Galactic's Conquest",
+      "img": "https://den-cards.pokellector.com/253/Lickitung.PT1.67.22494.png",
+      "rarity": "Common",
+      "cardNum": "67/96"
+    },
+    {
+      "name": "Lickilicky",
+      "set": "Galactic's Conquest",
+      "img": "https://den-cards.pokellector.com/253/Lickilicky.PT1.68.22495.png",
+      "rarity": "Rare",
+      "cardNum": "68/96"
+    },
+    {
+      "name": "Happiny",
+      "set": "Galactic's Conquest",
+      "img": "https://den-cards.pokellector.com/253/Happiny.PT1.69.22496.png",
+      "rarity": "Common",
+      "cardNum": "69/96"
+    },
+    {
+      "name": "Chansey",
+      "set": "Galactic's Conquest",
+      "img": "https://den-cards.pokellector.com/253/Chansey.PT1.70.22497.png",
+      "rarity": "Common",
+      "cardNum": "70/96"
+    },
+    {
+      "name": "Blissey",
+      "set": "Galactic's Conquest",
+      "img": "https://den-cards.pokellector.com/253/Blissey.PT1.71.22498.png",
+      "rarity": "Rare",
+      "cardNum": "71/96"
+    },
+    {
+      "name": "Slakoth",
+      "set": "Galactic's Conquest",
+      "img": "https://den-cards.pokellector.com/253/Slakoth.PT1.72.22499.png",
+      "rarity": "Common",
+      "cardNum": "72/96"
+    },
+    {
+      "name": "Vigoroth",
+      "set": "Galactic's Conquest",
+      "img": "https://den-cards.pokellector.com/253/Vigoroth.PT1.73.22500.png",
+      "rarity": "Uncommon",
+      "cardNum": "73/96"
+    },
+    {
+      "name": "Slaking",
+      "set": "Galactic's Conquest",
+      "img": "https://den-cards.pokellector.com/253/Slaking.PT1.74.22501.png",
+      "rarity": "Rare",
+      "cardNum": "74/96"
+    },
+    {
+      "name": "Skitty",
+      "set": "Galactic's Conquest",
+      "img": "https://den-cards.pokellector.com/253/Skitty.PT1.75.22502.png",
+      "rarity": "Common",
+      "cardNum": "75/96"
+    },
+    {
+      "name": "Delcatty",
+      "set": "Galactic's Conquest",
+      "img": "https://den-cards.pokellector.com/253/Delcatty.PT1.76.22503.png",
+      "rarity": "Rare",
+      "cardNum": "76/96"
+    },
+    {
+      "name": "Swablu",
+      "set": "Galactic's Conquest",
+      "img": "https://den-cards.pokellector.com/253/Swablu.PT1.77.22504.png",
+      "rarity": "Common",
+      "cardNum": "77/96"
+    },
+    {
+      "name": "Swablu",
+      "set": "Galactic's Conquest",
+      "img": "https://den-cards.pokellector.com/253/Swablu.PT1.78.22505.png",
+      "rarity": "Common",
+      "cardNum": "78/96"
+    },
+    {
+      "name": "Altaria",
+      "set": "Galactic's Conquest",
+      "img": "https://den-cards.pokellector.com/253/Altaria.PT1.79.22506.png",
+      "rarity": "Rare",
+      "cardNum": "79/96"
+    },
+    {
+      "name": "Zangoose",
+      "set": "Galactic's Conquest",
+      "img": "https://den-cards.pokellector.com/253/Zangoose.PT1.80.22507.png",
+      "rarity": "Uncommon",
+      "cardNum": "80/96"
+    },
+    {
+      "name": "Purugly G",
+      "set": "Galactic's Conquest",
+      "img": "https://den-cards.pokellector.com/253/Purugly-G.PT1.81.22508.png",
+      "rarity": "Common",
+      "cardNum": "81/96"
+    },
+    {
+      "name": "Team Galactic's Invention G-103 Power Spray",
+      "set": "Galactic's Conquest",
+      "img": "https://den-cards.pokellector.com/253/Team-Galactics-Invention-G-103-Power-Spray.PT1.82.22509.png",
+      "rarity": "Uncommon",
+      "cardNum": "82/96"
+    },
+    {
+      "name": "Team Galactic's Invention G-105 Poké Turn",
+      "set": "Galactic's Conquest",
+      "img": "https://den-cards.pokellector.com/253/Team-Galactics-Invention-G-105-Pok-Turn.PT1.83.22510.png",
+      "rarity": "Uncommon",
+      "cardNum": "83/96"
+    },
+    {
+      "name": "Level Max",
+      "set": "Galactic's Conquest",
+      "img": "https://den-cards.pokellector.com/253/Level-Max.PT1.84.22511.png",
+      "rarity": "Uncommon",
+      "cardNum": "84/96"
+    },
+    {
+      "name": "Skull Fossil",
+      "set": "Galactic's Conquest",
+      "img": "https://den-cards.pokellector.com/253/Skull-Fossil.PT1.85.22512.png",
+      "rarity": "Uncommon",
+      "cardNum": "85/96"
+    },
+    {
+      "name": "Armor Fossil",
+      "set": "Galactic's Conquest",
+      "img": "https://den-cards.pokellector.com/253/Armor-Fossil.PT1.86.22513.png",
+      "rarity": "Uncommon",
+      "cardNum": "86/96"
+    },
+    {
+      "name": "Memory Berry",
+      "set": "Galactic's Conquest",
+      "img": "https://den-cards.pokellector.com/253/Memory-Berry.PT1.87.22514.png",
+      "rarity": "Uncommon",
+      "cardNum": "87/96"
+    },
+    {
+      "name": "Team Galactic's Invention G-101 Energy Gain",
+      "set": "Galactic's Conquest",
+      "img": "https://den-cards.pokellector.com/253/Team-Galactics-Invention-G-101-Energy-Gain.PT1.88.22515.png",
+      "rarity": "Uncommon",
+      "cardNum": "88/96"
+    },
+    {
+      "name": "Cyrus's Conspiracy",
+      "set": "Galactic's Conquest",
+      "img": "https://den-cards.pokellector.com/253/Cyruss-Conspiracy.PT1.89.22516.png",
+      "rarity": "Uncommon",
+      "cardNum": "89/96"
+    },
+    {
+      "name": "Looker's Investigation",
+      "set": "Galactic's Conquest",
+      "img": "https://den-cards.pokellector.com/253/Lookers-Investigation.PT1.90.22517.png",
+      "rarity": "Uncommon",
+      "cardNum": "90/96"
+    },
+    {
+      "name": "Galactic HQ",
+      "set": "Galactic's Conquest",
+      "img": "https://den-cards.pokellector.com/253/Galactic-HQ.PT1.91.22518.png",
+      "rarity": "Uncommon",
+      "cardNum": "91/96"
+    },
+    {
+      "name": "Broken Time-Space",
+      "set": "Galactic's Conquest",
+      "img": "https://den-cards.pokellector.com/253/Broken-Time-Space.PT1.92.22519.png",
+      "rarity": "Uncommon",
+      "cardNum": "92/96"
+    },
+    {
+      "name": "Rainbow Energy",
+      "set": "Galactic's Conquest",
+      "img": "https://den-cards.pokellector.com/253/Rainbow-Energy.PT1.93.22520.png",
+      "rarity": "Uncommon",
+      "cardNum": "93/96"
+    },
+    {
+      "name": "Scyther",
+      "set": "Galactic's Conquest",
+      "img": "https://den-cards.pokellector.com/253/Scyther.PT1.94.22521.png",
+      "rarity": "Common",
+      "cardNum": "94/96"
+    },
+    {
+      "name": "Electabuzz",
+      "set": "Galactic's Conquest",
+      "img": "https://den-cards.pokellector.com/253/Electabuzz.PT1.95.22522.png",
+      "rarity": "Common",
+      "cardNum": "95/96"
+    },
+    {
+      "name": "Hitmonchan",
+      "set": "Galactic's Conquest",
+      "img": "https://den-cards.pokellector.com/253/Hitmonchan.PT1.96.22523.png",
+      "rarity": "Common",
+      "cardNum": "96/96"
+    }
+  ]
+}

@@ -1,0 +1,992 @@
+{
+  "setName": "Ruler of the Black Flame",
+  "cards": [
+    {
+      "name": "Oddish",
+      "set": "Ruler of the Black Flame",
+      "img": "https://den-cards.pokellector.com/368/Oddish.SV3.1.48763.png",
+      "rarity": "Common",
+      "cardNum": "1/108"
+    },
+    {
+      "name": "Gloom",
+      "set": "Ruler of the Black Flame",
+      "img": "https://den-cards.pokellector.com/368/Gloom.SV3.2.48764.png",
+      "rarity": "Common",
+      "cardNum": "2/108"
+    },
+    {
+      "name": "Bellossom",
+      "set": "Ruler of the Black Flame",
+      "img": "https://den-cards.pokellector.com/368/Bellossom.SV3.3.48704.png",
+      "rarity": "Uncommon",
+      "cardNum": "3/108"
+    },
+    {
+      "name": "Scyther",
+      "set": "Ruler of the Black Flame",
+      "img": "https://den-cards.pokellector.com/368/Scyther.SV3.4.48765.png",
+      "rarity": "Common",
+      "cardNum": "4/108"
+    },
+    {
+      "name": "Shuckle",
+      "set": "Ruler of the Black Flame",
+      "img": "https://den-cards.pokellector.com/368/Shuckle.SV3.5.48766.png",
+      "rarity": "Common",
+      "cardNum": "5/108"
+    },
+    {
+      "name": "Combee",
+      "set": "Ruler of the Black Flame",
+      "img": "https://den-cards.pokellector.com/368/Combee.SV3.6.48767.png",
+      "rarity": "Common",
+      "cardNum": "6/108"
+    },
+    {
+      "name": "Phantump",
+      "set": "Ruler of the Black Flame",
+      "img": "https://den-cards.pokellector.com/368/Phantump.SV3.7.48768.png",
+      "rarity": "Common",
+      "cardNum": "7/108"
+    },
+    {
+      "name": "Trevenant",
+      "set": "Ruler of the Black Flame",
+      "img": "https://den-cards.pokellector.com/368/Trevenant.SV3.8.48769.png",
+      "rarity": "Uncommon",
+      "cardNum": "8/108"
+    },
+    {
+      "name": "Capsakid",
+      "set": "Ruler of the Black Flame",
+      "img": "https://den-cards.pokellector.com/368/Capsakid.SV3.9.48690.png",
+      "rarity": "Common",
+      "cardNum": "9/108"
+    },
+    {
+      "name": "Capsakid",
+      "set": "Ruler of the Black Flame",
+      "img": "https://den-cards.pokellector.com/368/Capsakid.SV3.10.48689.png",
+      "rarity": "Common",
+      "cardNum": "10/108"
+    },
+    {
+      "name": "Scovillain",
+      "set": "Ruler of the Black Flame",
+      "img": "https://den-cards.pokellector.com/368/Scovillain.SV3.11.48688.png",
+      "rarity": "Rare",
+      "cardNum": "11/108"
+    },
+    {
+      "name": "Charmander",
+      "set": "Ruler of the Black Flame",
+      "img": "https://den-cards.pokellector.com/368/Charmander.SV3.12.48361.png",
+      "rarity": "Common",
+      "cardNum": "12/108"
+    },
+    {
+      "name": "Charmeleon",
+      "set": "Ruler of the Black Flame",
+      "img": "https://den-cards.pokellector.com/368/Charmeleon.SV3.13.48362.png",
+      "rarity": "Uncommon",
+      "cardNum": "13/108"
+    },
+    {
+      "name": "Vulpix",
+      "set": "Ruler of the Black Flame",
+      "img": "https://den-cards.pokellector.com/368/Vulpix.SV3.14.48770.png",
+      "rarity": "Common",
+      "cardNum": "14/108"
+    },
+    {
+      "name": "Ninetales",
+      "set": "Ruler of the Black Flame",
+      "img": "https://den-cards.pokellector.com/368/Ninetales.SV3.15.48771.png",
+      "rarity": "Uncommon",
+      "cardNum": "15/108"
+    },
+    {
+      "name": "Entei",
+      "set": "Ruler of the Black Flame",
+      "img": "https://den-cards.pokellector.com/368/Entei.SV3.16.48772.png",
+      "rarity": "Rare",
+      "cardNum": "16/108"
+    },
+    {
+      "name": "Darumaka",
+      "set": "Ruler of the Black Flame",
+      "img": "https://den-cards.pokellector.com/368/Darumaka.SV3.17.48773.png",
+      "rarity": "Common",
+      "cardNum": "17/108"
+    },
+    {
+      "name": "Darmanitan",
+      "set": "Ruler of the Black Flame",
+      "img": "https://den-cards.pokellector.com/368/Darmanitan.SV3.18.48774.png",
+      "rarity": "Uncommon",
+      "cardNum": "18/108"
+    },
+    {
+      "name": "Heatmor",
+      "set": "Ruler of the Black Flame",
+      "img": "https://den-cards.pokellector.com/368/Heatmor.SV3.19.48775.png",
+      "rarity": "Common",
+      "cardNum": "19/108"
+    },
+    {
+      "name": "Eiscue ex",
+      "set": "Ruler of the Black Flame",
+      "img": "https://den-cards.pokellector.com/368/Eiscue-ex.SV3.20.48357.png",
+      "rarity": "Double Rare",
+      "cardNum": "20/108"
+    },
+    {
+      "name": "Carvanha",
+      "set": "Ruler of the Black Flame",
+      "img": "https://den-cards.pokellector.com/368/Carvanha.SV3.21.48776.png",
+      "rarity": "Common",
+      "cardNum": "21/108"
+    },
+    {
+      "name": "Sharpedo",
+      "set": "Ruler of the Black Flame",
+      "img": "https://den-cards.pokellector.com/368/Sharpedo.SV3.22.48777.png",
+      "rarity": "Uncommon",
+      "cardNum": "22/108"
+    },
+    {
+      "name": "Tympole",
+      "set": "Ruler of the Black Flame",
+      "img": "https://den-cards.pokellector.com/368/Tympole.SV3.23.48778.png",
+      "rarity": "Common",
+      "cardNum": "23/108"
+    },
+    {
+      "name": "Palpitoad",
+      "set": "Ruler of the Black Flame",
+      "img": "https://den-cards.pokellector.com/368/Palpitoad.SV3.24.48779.png",
+      "rarity": "Common",
+      "cardNum": "24/108"
+    },
+    {
+      "name": "Seismitoad",
+      "set": "Ruler of the Black Flame",
+      "img": "https://den-cards.pokellector.com/368/Seismitoad.SV3.25.48780.png",
+      "rarity": "Uncommon",
+      "cardNum": "25/108"
+    },
+    {
+      "name": "Cubchoo",
+      "set": "Ruler of the Black Flame",
+      "img": "https://den-cards.pokellector.com/368/Cubchoo.SV3.26.48781.png",
+      "rarity": "Common",
+      "cardNum": "26/108"
+    },
+    {
+      "name": "Beartic",
+      "set": "Ruler of the Black Flame",
+      "img": "https://den-cards.pokellector.com/368/Beartic.SV3.27.48782.png",
+      "rarity": "Uncommon",
+      "cardNum": "27/108"
+    },
+    {
+      "name": "Cryogonal",
+      "set": "Ruler of the Black Flame",
+      "img": "https://den-cards.pokellector.com/368/Cryogonal.SV3.28.48783.png",
+      "rarity": "Common",
+      "cardNum": "28/108"
+    },
+    {
+      "name": "Finizen",
+      "set": "Ruler of the Black Flame",
+      "img": "https://den-cards.pokellector.com/368/Finizen.SV3.29.48367.png",
+      "rarity": "Common",
+      "cardNum": "29/108"
+    },
+    {
+      "name": "Finizen",
+      "set": "Ruler of the Black Flame",
+      "img": "https://den-cards.pokellector.com/368/Finizen.SV3.30.48368.png",
+      "rarity": "Common",
+      "cardNum": "30/108"
+    },
+    {
+      "name": "Palafin",
+      "set": "Ruler of the Black Flame",
+      "img": "https://den-cards.pokellector.com/368/Palafin.SV3.31.48369.png",
+      "rarity": "Rare",
+      "cardNum": "31/108"
+    },
+    {
+      "name": "Tyranitar ex",
+      "set": "Ruler of the Black Flame",
+      "img": "https://den-cards.pokellector.com/368/Tyranitar-ex.SV3.32.48356.png",
+      "rarity": "Double Rare",
+      "cardNum": "32/108"
+    },
+    {
+      "name": "Tynamo",
+      "set": "Ruler of the Black Flame",
+      "img": "https://den-cards.pokellector.com/368/Tynamo.SV3.33.48784.png",
+      "rarity": "Common",
+      "cardNum": "33/108"
+    },
+    {
+      "name": "Eelektrik",
+      "set": "Ruler of the Black Flame",
+      "img": "https://den-cards.pokellector.com/368/Eelektrik.SV3.34.48785.png",
+      "rarity": "Common",
+      "cardNum": "34/108"
+    },
+    {
+      "name": "Eelektross",
+      "set": "Ruler of the Black Flame",
+      "img": "https://den-cards.pokellector.com/368/Eelektross.SV3.35.48786.png",
+      "rarity": "Uncommon",
+      "cardNum": "35/108"
+    },
+    {
+      "name": "Thundurus",
+      "set": "Ruler of the Black Flame",
+      "img": "https://den-cards.pokellector.com/368/Thundurus.SV3.36.48787.png",
+      "rarity": "Rare",
+      "cardNum": "36/108"
+    },
+    {
+      "name": "Toxel",
+      "set": "Ruler of the Black Flame",
+      "img": "https://den-cards.pokellector.com/368/Toxel.SV3.37.48692.png",
+      "rarity": "Common",
+      "cardNum": "37/108"
+    },
+    {
+      "name": "Toxtricity",
+      "set": "Ruler of the Black Flame",
+      "img": "https://den-cards.pokellector.com/368/Toxtricity.SV3.38.48691.png",
+      "rarity": "Rare",
+      "cardNum": "38/108"
+    },
+    {
+      "name": "Tadbulb",
+      "set": "Ruler of the Black Flame",
+      "img": "https://den-cards.pokellector.com/368/Tadbulb.SV3.39.48788.png",
+      "rarity": "Common",
+      "cardNum": "39/108"
+    },
+    {
+      "name": "Tadbulb",
+      "set": "Ruler of the Black Flame",
+      "img": "https://den-cards.pokellector.com/368/Tadbulb.SV3.40.48789.png",
+      "rarity": "Common",
+      "cardNum": "40/108"
+    },
+    {
+      "name": "Bellibolt",
+      "set": "Ruler of the Black Flame",
+      "img": "https://den-cards.pokellector.com/368/Bellibolt.SV3.41.48790.png",
+      "rarity": "Uncommon",
+      "cardNum": "41/108"
+    },
+    {
+      "name": "Cleffa",
+      "set": "Ruler of the Black Flame",
+      "img": "https://den-cards.pokellector.com/368/Cleffa.SV3.42.48365.png",
+      "rarity": "Common",
+      "cardNum": "42/108"
+    },
+    {
+      "name": "Togepi",
+      "set": "Ruler of the Black Flame",
+      "img": "https://den-cards.pokellector.com/368/Togepi.SV3.43.48696.png",
+      "rarity": "Common",
+      "cardNum": "43/108"
+    },
+    {
+      "name": "Togetic",
+      "set": "Ruler of the Black Flame",
+      "img": "https://den-cards.pokellector.com/368/Togetic.SV3.44.48695.png",
+      "rarity": "Common",
+      "cardNum": "44/108"
+    },
+    {
+      "name": "Togekiss",
+      "set": "Ruler of the Black Flame",
+      "img": "https://den-cards.pokellector.com/368/Togekiss.SV3.45.48694.png",
+      "rarity": "Rare",
+      "cardNum": "45/108"
+    },
+    {
+      "name": "Espeon",
+      "set": "Ruler of the Black Flame",
+      "img": "https://den-cards.pokellector.com/368/Espeon.SV3.46.48677.png",
+      "rarity": "Uncommon",
+      "cardNum": "46/108"
+    },
+    {
+      "name": "Lunatone",
+      "set": "Ruler of the Black Flame",
+      "img": "https://den-cards.pokellector.com/368/Lunatone.SV3.47.48791.png",
+      "rarity": "Uncommon",
+      "cardNum": "47/108"
+    },
+    {
+      "name": "Solrock",
+      "set": "Ruler of the Black Flame",
+      "img": "https://den-cards.pokellector.com/368/Solrock.SV3.48.48792.png",
+      "rarity": "Uncommon",
+      "cardNum": "48/108"
+    },
+    {
+      "name": "Baltoy",
+      "set": "Ruler of the Black Flame",
+      "img": "https://den-cards.pokellector.com/368/Baltoy.SV3.49.48793.png",
+      "rarity": "Common",
+      "cardNum": "49/108"
+    },
+    {
+      "name": "Claydol",
+      "set": "Ruler of the Black Flame",
+      "img": "https://den-cards.pokellector.com/368/Claydol.SV3.50.48794.png",
+      "rarity": "Rare",
+      "cardNum": "50/108"
+    },
+    {
+      "name": "Vespiquen ex",
+      "set": "Ruler of the Black Flame",
+      "img": "https://den-cards.pokellector.com/368/Vespiquen-ex.SV3.51.48795.png",
+      "rarity": "Double Rare",
+      "cardNum": "51/108"
+    },
+    {
+      "name": "Greavard",
+      "set": "Ruler of the Black Flame",
+      "img": "https://den-cards.pokellector.com/368/Greavard.SV3.52.48796.png",
+      "rarity": "Common",
+      "cardNum": "52/108"
+    },
+    {
+      "name": "Greavard",
+      "set": "Ruler of the Black Flame",
+      "img": "https://den-cards.pokellector.com/368/Greavard.SV3.53.48797.png",
+      "rarity": "Common",
+      "cardNum": "53/108"
+    },
+    {
+      "name": "Houndstone",
+      "set": "Ruler of the Black Flame",
+      "img": "https://den-cards.pokellector.com/368/Houndstone.SV3.54.48798.png",
+      "rarity": "Uncommon",
+      "cardNum": "54/108"
+    },
+    {
+      "name": "Larvitar",
+      "set": "Ruler of the Black Flame",
+      "img": "https://den-cards.pokellector.com/368/Larvitar.SV3.55.48363.png",
+      "rarity": "Common",
+      "cardNum": "55/108"
+    },
+    {
+      "name": "Pupitar",
+      "set": "Ruler of the Black Flame",
+      "img": "https://den-cards.pokellector.com/368/Pupitar.SV3.56.48364.png",
+      "rarity": "Common",
+      "cardNum": "56/108"
+    },
+    {
+      "name": "Nosepass",
+      "set": "Ruler of the Black Flame",
+      "img": "https://den-cards.pokellector.com/368/Nosepass.SV3.57.48799.png",
+      "rarity": "Common",
+      "cardNum": "57/108"
+    },
+    {
+      "name": "Bonsly",
+      "set": "Ruler of the Black Flame",
+      "img": "https://den-cards.pokellector.com/368/Bonsly.SV3.58.48800.png",
+      "rarity": "Common",
+      "cardNum": "58/108"
+    },
+    {
+      "name": "Stunfisk",
+      "set": "Ruler of the Black Flame",
+      "img": "https://den-cards.pokellector.com/368/Stunfisk.SV3.59.48801.png",
+      "rarity": "Uncommon",
+      "cardNum": "59/108"
+    },
+    {
+      "name": "Diggersby",
+      "set": "Ruler of the Black Flame",
+      "img": "https://den-cards.pokellector.com/368/Diggersby.SV3.60.48802.png",
+      "rarity": "Common",
+      "cardNum": "60/108"
+    },
+    {
+      "name": "Rockruff",
+      "set": "Ruler of the Black Flame",
+      "img": "https://den-cards.pokellector.com/368/Rockruff.SV3.61.48803.png",
+      "rarity": "Common",
+      "cardNum": "61/108"
+    },
+    {
+      "name": "Lycanroc",
+      "set": "Ruler of the Black Flame",
+      "img": "https://den-cards.pokellector.com/368/Lycanroc.SV3.62.48804.png",
+      "rarity": "Uncommon",
+      "cardNum": "62/108"
+    },
+    {
+      "name": "Glimmet",
+      "set": "Ruler of the Black Flame",
+      "img": "https://den-cards.pokellector.com/368/Glimmet.SV3.63.48684.png",
+      "rarity": "Common",
+      "cardNum": "63/108"
+    },
+    {
+      "name": "Glimmet",
+      "set": "Ruler of the Black Flame",
+      "img": "https://den-cards.pokellector.com/368/Glimmet.SV3.64.48683.png",
+      "rarity": "Common",
+      "cardNum": "64/108"
+    },
+    {
+      "name": "Glimmora ex",
+      "set": "Ruler of the Black Flame",
+      "img": "https://den-cards.pokellector.com/368/Glimmora-ex.SV3.65.48682.png",
+      "rarity": "Double Rare",
+      "cardNum": "65/108"
+    },
+    {
+      "name": "Charizard ex",
+      "set": "Ruler of the Black Flame",
+      "img": "https://den-cards.pokellector.com/368/Charizard-ex.SV3.66.48355.png",
+      "rarity": "Double Rare",
+      "cardNum": "66/108"
+    },
+    {
+      "name": "Paldean Wooper",
+      "set": "Ruler of the Black Flame",
+      "img": "https://den-cards.pokellector.com/368/Paldean-Wooper.SV3.67.48805.png",
+      "rarity": "Common",
+      "cardNum": "67/108"
+    },
+    {
+      "name": "Paldean Wooper",
+      "set": "Ruler of the Black Flame",
+      "img": "https://den-cards.pokellector.com/368/Paldean-Wooper.SV3.68.48806.png",
+      "rarity": "Common",
+      "cardNum": "68/108"
+    },
+    {
+      "name": "Paldean Clodsire",
+      "set": "Ruler of the Black Flame",
+      "img": "https://den-cards.pokellector.com/368/Paldean-Clodsire.SV3.69.48807.png",
+      "rarity": "Uncommon",
+      "cardNum": "69/108"
+    },
+    {
+      "name": "Umbreon",
+      "set": "Ruler of the Black Flame",
+      "img": "https://den-cards.pokellector.com/368/Umbreon.SV3.70.48676.png",
+      "rarity": "Uncommon",
+      "cardNum": "70/108"
+    },
+    {
+      "name": "Houndour",
+      "set": "Ruler of the Black Flame",
+      "img": "https://den-cards.pokellector.com/368/Houndour.SV3.71.48674.png",
+      "rarity": "Common",
+      "cardNum": "71/108"
+    },
+    {
+      "name": "Hondour",
+      "set": "Ruler of the Black Flame",
+      "img": "https://den-cards.pokellector.com/368/Hondour.SV3.72.48675.png",
+      "rarity": "Uncommon",
+      "cardNum": "72/108"
+    },
+    {
+      "name": "Absol ex",
+      "set": "Ruler of the Black Flame",
+      "img": "https://den-cards.pokellector.com/368/Absol-ex.SV3.73.48647.png",
+      "rarity": "Double Rare",
+      "cardNum": "73/108"
+    },
+    {
+      "name": "Darkrai",
+      "set": "Ruler of the Black Flame",
+      "img": "https://den-cards.pokellector.com/368/Darkrai.SV3.74.48808.png",
+      "rarity": "Rare",
+      "cardNum": "74/108"
+    },
+    {
+      "name": "Inkay",
+      "set": "Ruler of the Black Flame",
+      "img": "https://den-cards.pokellector.com/368/Inkay.SV3.75.48809.png",
+      "rarity": "Common",
+      "cardNum": "75/108"
+    },
+    {
+      "name": "Malamar",
+      "set": "Ruler of the Black Flame",
+      "img": "https://den-cards.pokellector.com/368/Malamar.SV3.76.48810.png",
+      "rarity": "Uncommon",
+      "cardNum": "76/108"
+    },
+    {
+      "name": "Scizor",
+      "set": "Ruler of the Black Flame",
+      "img": "https://den-cards.pokellector.com/368/Scizor.SV3.77.48358.png",
+      "rarity": "Rare",
+      "cardNum": "77/108"
+    },
+    {
+      "name": "Mawile",
+      "set": "Ruler of the Black Flame",
+      "img": "https://den-cards.pokellector.com/368/Mawile.SV3.78.48366.png",
+      "rarity": "Uncommon",
+      "cardNum": "78/108"
+    },
+    {
+      "name": "Probopass",
+      "set": "Ruler of the Black Flame",
+      "img": "https://den-cards.pokellector.com/368/Probopass.SV3.79.48811.png",
+      "rarity": "Common",
+      "cardNum": "79/108"
+    },
+    {
+      "name": "Pawniard",
+      "set": "Ruler of the Black Flame",
+      "img": "https://den-cards.pokellector.com/368/Pawniard.SV3.80.48643.png",
+      "rarity": "Common",
+      "cardNum": "80/108"
+    },
+    {
+      "name": "Bisharp",
+      "set": "Ruler of the Black Flame",
+      "img": "https://den-cards.pokellector.com/368/Bisharp.SV3.81.48644.png",
+      "rarity": "Common",
+      "cardNum": "81/108"
+    },
+    {
+      "name": "Kingambit",
+      "set": "Ruler of the Black Flame",
+      "img": "https://den-cards.pokellector.com/368/Kingambit.SV3.82.48645.png",
+      "rarity": "Uncommon",
+      "cardNum": "82/108"
+    },
+    {
+      "name": "Varoom",
+      "set": "Ruler of the Black Flame",
+      "img": "https://den-cards.pokellector.com/368/Varoom.SV3.83.48687.png",
+      "rarity": "Common",
+      "cardNum": "83/108"
+    },
+    {
+      "name": "Varoom",
+      "set": "Ruler of the Black Flame",
+      "img": "https://den-cards.pokellector.com/368/Varoom.SV3.84.48686.png",
+      "rarity": "Common",
+      "cardNum": "84/108"
+    },
+    {
+      "name": "Revavroom ex",
+      "set": "Ruler of the Black Flame",
+      "img": "https://den-cards.pokellector.com/368/Revavroom-ex.SV3.85.48685.png",
+      "rarity": "Double Rare",
+      "cardNum": "85/108"
+    },
+    {
+      "name": "Altaria",
+      "set": "Ruler of the Black Flame",
+      "img": "https://den-cards.pokellector.com/368/Altaria.SV3.86.48812.png",
+      "rarity": "Uncommon",
+      "cardNum": "86/108"
+    },
+    {
+      "name": "Pidgey",
+      "set": "Ruler of the Black Flame",
+      "img": "https://den-cards.pokellector.com/368/Pidgey.SV3.87.48681.png",
+      "rarity": "Common",
+      "cardNum": "87/108"
+    },
+    {
+      "name": "Pidgeotto",
+      "set": "Ruler of the Black Flame",
+      "img": "https://den-cards.pokellector.com/368/Pidgeotto.SV3.88.48680.png",
+      "rarity": "Common",
+      "cardNum": "88/108"
+    },
+    {
+      "name": "Pidgeot ex",
+      "set": "Ruler of the Black Flame",
+      "img": "https://den-cards.pokellector.com/368/Pidgeot-ex.SV3.89.48679.png",
+      "rarity": "Double Rare",
+      "cardNum": "89/108"
+    },
+    {
+      "name": "Kangaskhan",
+      "set": "Ruler of the Black Flame",
+      "img": "https://den-cards.pokellector.com/368/Kangaskhan.SV3.90.48813.png",
+      "rarity": "Uncommon",
+      "cardNum": "90/108"
+    },
+    {
+      "name": "Eevee",
+      "set": "Ruler of the Black Flame",
+      "img": "https://den-cards.pokellector.com/368/Eevee.SV3.91.48678.png",
+      "rarity": "Common",
+      "cardNum": "91/108"
+    },
+    {
+      "name": "Zigzagoon",
+      "set": "Ruler of the Black Flame",
+      "img": "https://den-cards.pokellector.com/368/Zigzagoon.SV3.92.48814.png",
+      "rarity": "Common",
+      "cardNum": "92/108"
+    },
+    {
+      "name": "Linoone",
+      "set": "Ruler of the Black Flame",
+      "img": "https://den-cards.pokellector.com/368/Linoone.SV3.93.48815.png",
+      "rarity": "Common",
+      "cardNum": "93/108"
+    },
+    {
+      "name": "Swablu",
+      "set": "Ruler of the Black Flame",
+      "img": "https://den-cards.pokellector.com/368/Swablu.SV3.94.48816.png",
+      "rarity": "Common",
+      "cardNum": "94/108"
+    },
+    {
+      "name": "Bunnelby",
+      "set": "Ruler of the Black Flame",
+      "img": "https://den-cards.pokellector.com/368/Bunnelby.SV3.95.48817.png",
+      "rarity": "Common",
+      "cardNum": "95/108"
+    },
+    {
+      "name": "Lechonk",
+      "set": "Ruler of the Black Flame",
+      "img": "https://den-cards.pokellector.com/368/Lechonk.SV3.96.48818.png",
+      "rarity": "Common",
+      "cardNum": "96/108"
+    },
+    {
+      "name": "Lechonk",
+      "set": "Ruler of the Black Flame",
+      "img": "https://den-cards.pokellector.com/368/Lechonk.SV3.97.48819.png",
+      "rarity": "Common",
+      "cardNum": "97/108"
+    },
+    {
+      "name": "Oinkologne",
+      "set": "Ruler of the Black Flame",
+      "img": "https://den-cards.pokellector.com/368/Oinkologne.SV3.98.48693.png",
+      "rarity": "Uncommon",
+      "cardNum": "98/108"
+    },
+    {
+      "name": "Flamigo",
+      "set": "Ruler of the Black Flame",
+      "img": "https://den-cards.pokellector.com/368/Flamigo.SV3.99.48820.png",
+      "rarity": "Uncommon",
+      "cardNum": "99/108"
+    },
+    {
+      "name": "Encouragement Letter",
+      "set": "Ruler of the Black Flame",
+      "img": "https://den-cards.pokellector.com/368/Encouragement-Letter.SV3.100.48360.png",
+      "rarity": "Uncommon",
+      "cardNum": "100/108"
+    },
+    {
+      "name": "Patrol Cap",
+      "set": "Ruler of the Black Flame",
+      "img": "https://den-cards.pokellector.com/368/Patrol-Cap.SV3.101.48821.png",
+      "rarity": "Uncommon",
+      "cardNum": "101/108"
+    },
+    {
+      "name": "Revenge Punch",
+      "set": "Ruler of the Black Flame",
+      "img": "https://den-cards.pokellector.com/368/Revenge-Punch.SV3.102.48646.png",
+      "rarity": "Uncommon",
+      "cardNum": "102/108"
+    },
+    {
+      "name": "Geeta",
+      "set": "Ruler of the Black Flame",
+      "img": "https://den-cards.pokellector.com/368/Geeta.SV3.103.48698.png",
+      "rarity": "Rare",
+      "cardNum": "103/108"
+    },
+    {
+      "name": "Ortega",
+      "set": "Ruler of the Black Flame",
+      "img": "https://den-cards.pokellector.com/368/Ortega.SV3.104.48697.png",
+      "rarity": "Uncommon",
+      "cardNum": "104/108"
+    },
+    {
+      "name": "Poppy",
+      "set": "Ruler of the Black Flame",
+      "img": "https://den-cards.pokellector.com/368/Poppy.SV3.105.48359.png",
+      "rarity": "Uncommon",
+      "cardNum": "105/108"
+    },
+    {
+      "name": "Ryme",
+      "set": "Ruler of the Black Flame",
+      "img": "https://den-cards.pokellector.com/368/Ryme.SV3.106.48822.png",
+      "rarity": "Uncommon",
+      "cardNum": "106/108"
+    },
+    {
+      "name": "Town Store",
+      "set": "Ruler of the Black Flame",
+      "img": "https://den-cards.pokellector.com/368/Town-Store.SV3.107.48664.png",
+      "rarity": "Uncommon",
+      "cardNum": "107/108"
+    },
+    {
+      "name": "Pokemon League Headquarters",
+      "set": "Ruler of the Black Flame",
+      "img": "https://den-cards.pokellector.com/368/Pokemon-League-Headquarters.SV3.108.48699.png",
+      "rarity": "Rare",
+      "cardNum": "108/108"
+    },
+    {
+      "name": "Gloom",
+      "set": "Ruler of the Black Flame",
+      "img": "https://den-cards.pokellector.com/368/Gloom.SV3.109.48732.png",
+      "rarity": "Art Rare",
+      "cardNum": "109/108"
+    },
+    {
+      "name": "Ninetales",
+      "set": "Ruler of the Black Flame",
+      "img": "https://den-cards.pokellector.com/368/Ninetales.SV3.110.48733.png",
+      "rarity": "Art Rare",
+      "cardNum": "110/108"
+    },
+    {
+      "name": "Palafin",
+      "set": "Ruler of the Black Flame",
+      "img": "https://den-cards.pokellector.com/368/Palafin.SV3.111.48734.png",
+      "rarity": "Art Rare",
+      "cardNum": "111/108"
+    },
+    {
+      "name": "Bellibolt",
+      "set": "Ruler of the Black Flame",
+      "img": "https://den-cards.pokellector.com/368/Bellibolt.SV3.112.48735.png",
+      "rarity": "Art Rare",
+      "cardNum": "112/108"
+    },
+    {
+      "name": "Cleffa",
+      "set": "Ruler of the Black Flame",
+      "img": "https://den-cards.pokellector.com/368/Cleffa.SV3.113.48736.png",
+      "rarity": "Art Rare",
+      "cardNum": "113/108"
+    },
+    {
+      "name": "Larvitar",
+      "set": "Ruler of the Black Flame",
+      "img": "https://den-cards.pokellector.com/368/Larvitar.SV3.114.48737.png",
+      "rarity": "Art Rare",
+      "cardNum": "114/108"
+    },
+    {
+      "name": "Houndour",
+      "set": "Ruler of the Black Flame",
+      "img": "https://den-cards.pokellector.com/368/Houndour.SV3.115.48673.png",
+      "rarity": "Art Rare",
+      "cardNum": "115/108"
+    },
+    {
+      "name": "Scizor",
+      "set": "Ruler of the Black Flame",
+      "img": "https://den-cards.pokellector.com/368/Scizor.SV3.116.48738.png",
+      "rarity": "Art Rare",
+      "cardNum": "116/108"
+    },
+    {
+      "name": "Varoom",
+      "set": "Ruler of the Black Flame",
+      "img": "https://den-cards.pokellector.com/368/Varoom.SV3.117.48739.png",
+      "rarity": "Art Rare",
+      "cardNum": "117/108"
+    },
+    {
+      "name": "Pidgey",
+      "set": "Ruler of the Black Flame",
+      "img": "https://den-cards.pokellector.com/368/Pidgey.SV3.118.48740.png",
+      "rarity": "Art Rare",
+      "cardNum": "118/108"
+    },
+    {
+      "name": "Pidgeotto",
+      "set": "Ruler of the Black Flame",
+      "img": "https://den-cards.pokellector.com/368/Pidgeotto.SV3.119.48741.png",
+      "rarity": "Art Rare",
+      "cardNum": "119/108"
+    },
+    {
+      "name": "Lechonk",
+      "set": "Ruler of the Black Flame",
+      "img": "https://den-cards.pokellector.com/368/Lechonk.SV3.120.48742.png",
+      "rarity": "Art Rare",
+      "cardNum": "120/108"
+    },
+    {
+      "name": "Eiscue ex",
+      "set": "Ruler of the Black Flame",
+      "img": "https://den-cards.pokellector.com/368/Eiscue-ex.SV3.123.48743.png",
+      "rarity": "Super Rare",
+      "cardNum": "121/108"
+    },
+    {
+      "name": "Tyranitar ex",
+      "set": "Ruler of the Black Flame",
+      "img": "https://den-cards.pokellector.com/368/Tyranitar-ex.SV3.122.48744.png",
+      "rarity": "Super Rare",
+      "cardNum": "122/108"
+    },
+    {
+      "name": "Vespiquen ex",
+      "set": "Ruler of the Black Flame",
+      "img": "https://den-cards.pokellector.com/368/Vespiquen-ex.SV3.123.48745.png",
+      "rarity": "Super Rare",
+      "cardNum": "123/108"
+    },
+    {
+      "name": "Glimmora ex",
+      "set": "Ruler of the Black Flame",
+      "img": "https://den-cards.pokellector.com/368/Glimmora-ex.SV3.124.48746.png",
+      "rarity": "Super Rare",
+      "cardNum": "124/108"
+    },
+    {
+      "name": "Charizard ex",
+      "set": "Ruler of the Black Flame",
+      "img": "https://den-cards.pokellector.com/368/Charizard-ex.SV3.125.48747.png",
+      "rarity": "Super Rare",
+      "cardNum": "125/108"
+    },
+    {
+      "name": "Absol ex",
+      "set": "Ruler of the Black Flame",
+      "img": "https://den-cards.pokellector.com/368/Absol-ex.SV3.126.48748.png",
+      "rarity": "Super Rare",
+      "cardNum": "126/108"
+    },
+    {
+      "name": "Revavroom  ex",
+      "set": "Ruler of the Black Flame",
+      "img": "https://den-cards.pokellector.com/368/Revavroom-ex.SV3.127.48749.png",
+      "rarity": "Super Rare",
+      "cardNum": "127/108"
+    },
+    {
+      "name": "Pidgeot ex",
+      "set": "Ruler of the Black Flame",
+      "img": "https://den-cards.pokellector.com/368/Pidgeot-ex.SV3.128.48750.png",
+      "rarity": "Super Rare",
+      "cardNum": "128/108"
+    },
+    {
+      "name": "Geeta",
+      "set": "Ruler of the Black Flame",
+      "img": "https://den-cards.pokellector.com/368/Geeta.SV3.129.48751.png",
+      "rarity": "Super Rare",
+      "cardNum": "129/108"
+    },
+    {
+      "name": "Ortega",
+      "set": "Ruler of the Black Flame",
+      "img": "https://den-cards.pokellector.com/368/Ortega.SV3.130.48752.png",
+      "rarity": "Super Rare",
+      "cardNum": "130/108"
+    },
+    {
+      "name": "Poppy",
+      "set": "Ruler of the Black Flame",
+      "img": "https://den-cards.pokellector.com/368/Poppy.SV3.131.48753.png",
+      "rarity": "Super Rare",
+      "cardNum": "131/108"
+    },
+    {
+      "name": "Ryme",
+      "set": "Ruler of the Black Flame",
+      "img": "https://den-cards.pokellector.com/368/Ryme.SV3.132.48754.png",
+      "rarity": "Super Rare",
+      "cardNum": "132/108"
+    },
+    {
+      "name": "Eiscue ex",
+      "set": "Ruler of the Black Flame",
+      "img": "https://den-cards.pokellector.com/368/Eiscue-ex.SV3.133.48755.png",
+      "rarity": "Special Art Rare",
+      "cardNum": "133/108"
+    },
+    {
+      "name": "Charizard ex",
+      "set": "Ruler of the Black Flame",
+      "img": "https://den-cards.pokellector.com/368/Charizard-ex.SV3.134.48756.png",
+      "rarity": "Special Art Rare",
+      "cardNum": "134/108"
+    },
+    {
+      "name": "Revavroom ex",
+      "set": "Ruler of the Black Flame",
+      "img": "https://den-cards.pokellector.com/368/Revavroom-ex.SV3.135.48757.png",
+      "rarity": "Special Art Rare",
+      "cardNum": "135/108"
+    },
+    {
+      "name": "Pidgeot ex",
+      "set": "Ruler of the Black Flame",
+      "img": "https://den-cards.pokellector.com/368/Pidgeot-ex.SV3.136.48758.png",
+      "rarity": "Special Art Rare",
+      "cardNum": "136/108"
+    },
+    {
+      "name": "Geeta",
+      "set": "Ruler of the Black Flame",
+      "img": "https://den-cards.pokellector.com/368/Geeta.SV3.137.48759.png",
+      "rarity": "Special Art Rare",
+      "cardNum": "137/108"
+    },
+    {
+      "name": "Poppy",
+      "set": "Ruler of the Black Flame",
+      "img": "https://den-cards.pokellector.com/368/Poppy.SV3.138.48760.png",
+      "rarity": "Special Art Rare",
+      "cardNum": "138/108"
+    },
+    {
+      "name": "Charizard ex",
+      "set": "Ruler of the Black Flame",
+      "img": "https://den-cards.pokellector.com/368/Charizard-ex.SV3.139.48761.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "139/108"
+    },
+    {
+      "name": "Bowltown",
+      "set": "Ruler of the Black Flame",
+      "img": "https://den-cards.pokellector.com/368/Bowltown.SV3.140.48762.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "140/108"
+    },
+    {
+      "name": "Basic Fire Energy",
+      "set": "Ruler of the Black Flame",
+      "img": "https://den-cards.pokellector.com/368/Basic-Fire-Energy.SV3.141.48823.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "141/108"
+    }
+  ]
+}

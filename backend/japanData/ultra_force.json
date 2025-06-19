@@ -1,0 +1,446 @@
+{
+  "setName": "Ultra Force",
+  "cards": [
+    {
+      "name": "Turtwig",
+      "set": "Ultra Force",
+      "img": "https://den-cards.pokellector.com/238/Turtwig.SM5+.1.20071.png",
+      "rarity": "Common",
+      "cardNum": "1/50"
+    },
+    {
+      "name": "Grotle",
+      "set": "Ultra Force",
+      "img": "https://den-cards.pokellector.com/238/Grotle.SM5+.2.20072.png",
+      "rarity": "Common",
+      "cardNum": "2/50"
+    },
+    {
+      "name": "Snover",
+      "set": "Ultra Force",
+      "img": "https://den-cards.pokellector.com/238/Snover.SM5+.3.20073.png",
+      "rarity": "Common",
+      "cardNum": "3/50"
+    },
+    {
+      "name": "Abomasnow",
+      "set": "Ultra Force",
+      "img": "https://den-cards.pokellector.com/238/Abomasnow.SM5+.4.20042.png",
+      "rarity": "Common",
+      "cardNum": "4/50"
+    },
+    {
+      "name": "Chimchar",
+      "set": "Ultra Force",
+      "img": "https://den-cards.pokellector.com/238/Chimchar.SM5+.5.20074.png",
+      "rarity": "Common",
+      "cardNum": "5/50"
+    },
+    {
+      "name": "Monferno",
+      "set": "Ultra Force",
+      "img": "https://den-cards.pokellector.com/238/Monferno.SM5+.6.20075.png",
+      "rarity": "Common",
+      "cardNum": "6/50"
+    },
+    {
+      "name": "Heatran",
+      "set": "Ultra Force",
+      "img": "https://den-cards.pokellector.com/238/Heatran.SM5+.7.20076.png",
+      "rarity": "Common",
+      "cardNum": "7/50"
+    },
+    {
+      "name": "Piplup",
+      "set": "Ultra Force",
+      "img": "https://den-cards.pokellector.com/238/Piplup.SM5+.8.20077.png",
+      "rarity": "Common",
+      "cardNum": "8/50"
+    },
+    {
+      "name": "Prinplup",
+      "set": "Ultra Force",
+      "img": "https://den-cards.pokellector.com/238/Prinplup.SM5+.9.20078.png",
+      "rarity": "Common",
+      "cardNum": "9/50"
+    },
+    {
+      "name": "Palkia GX",
+      "set": "Ultra Force",
+      "img": "https://den-cards.pokellector.com/238/Palkia-GX.SM5+.10.20049.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "10/50"
+    },
+    {
+      "name": "Dewpider",
+      "set": "Ultra Force",
+      "img": "https://den-cards.pokellector.com/238/Dewpider.SM5+.11.20079.png",
+      "rarity": "Common",
+      "cardNum": "11/50"
+    },
+    {
+      "name": "Araquanid",
+      "set": "Ultra Force",
+      "img": "https://den-cards.pokellector.com/238/Araquanid.SM5+.12.20080.png",
+      "rarity": "Common",
+      "cardNum": "12/50"
+    },
+    {
+      "name": "Magnemite",
+      "set": "Ultra Force",
+      "img": "https://den-cards.pokellector.com/238/Magnemite.SM5+.13.20081.png",
+      "rarity": "Common",
+      "cardNum": "13/50"
+    },
+    {
+      "name": "Magneton",
+      "set": "Ultra Force",
+      "img": "https://den-cards.pokellector.com/238/Magneton.SM5+.14.20082.png",
+      "rarity": "Common",
+      "cardNum": "14/50"
+    },
+    {
+      "name": "Magnezone",
+      "set": "Ultra Force",
+      "img": "https://den-cards.pokellector.com/238/Magnezone.SM5+.15.20043.png",
+      "rarity": "Common",
+      "cardNum": "15/50"
+    },
+    {
+      "name": "Xurkitree",
+      "set": "Ultra Force",
+      "img": "https://den-cards.pokellector.com/238/Xurkitree.SM5+.16.20083.png",
+      "rarity": "Common",
+      "cardNum": "16/50"
+    },
+    {
+      "name": "Rotom",
+      "set": "Ultra Force",
+      "img": "https://den-cards.pokellector.com/238/Rotom.SM5+.17.20084.png",
+      "rarity": "Common",
+      "cardNum": "17/50"
+    },
+    {
+      "name": "Uxie",
+      "set": "Ultra Force",
+      "img": "https://den-cards.pokellector.com/238/Uxie.SM5+.18.20067.png",
+      "rarity": "Common",
+      "cardNum": "18/50"
+    },
+    {
+      "name": "Mesprit",
+      "set": "Ultra Force",
+      "img": "https://den-cards.pokellector.com/238/Mesprit.SM5+.19.20085.png",
+      "rarity": "Common",
+      "cardNum": "19/50"
+    },
+    {
+      "name": "Azelf",
+      "set": "Ultra Force",
+      "img": "https://den-cards.pokellector.com/238/Azelf.SM5+.20.20066.png",
+      "rarity": "Common",
+      "cardNum": "20/50"
+    },
+    {
+      "name": "Dawn Wings Necrozma",
+      "set": "Ultra Force",
+      "img": "https://den-cards.pokellector.com/238/Dawn-Wings-Necrozma.SM5+.21.20034.png",
+      "rarity": "Common",
+      "cardNum": "21/50"
+    },
+    {
+      "name": "Poipole",
+      "set": "Ultra Force",
+      "img": "https://den-cards.pokellector.com/238/Poipole.SM5+.22.20035.png",
+      "rarity": "Common",
+      "cardNum": "22/50"
+    },
+    {
+      "name": "Naganadel GX",
+      "set": "Ultra Force",
+      "img": "https://den-cards.pokellector.com/238/Naganadel-GX.SM5+.23.20036.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "23/50"
+    },
+    {
+      "name": "Torterra",
+      "set": "Ultra Force",
+      "img": "https://den-cards.pokellector.com/238/Torterra.SM5+.24.20056.png",
+      "rarity": "Common",
+      "cardNum": "24/50"
+    },
+    {
+      "name": "Infernape",
+      "set": "Ultra Force",
+      "img": "https://den-cards.pokellector.com/238/Infernape.SM5+.25.20051.png",
+      "rarity": "Common",
+      "cardNum": "25/50"
+    },
+    {
+      "name": "Gible",
+      "set": "Ultra Force",
+      "img": "https://den-cards.pokellector.com/238/Gible.SM5+.26.20086.png",
+      "rarity": "Common",
+      "cardNum": "26/50"
+    },
+    {
+      "name": "Gabite",
+      "set": "Ultra Force",
+      "img": "https://den-cards.pokellector.com/238/Gabite.SM5+.27.20087.png",
+      "rarity": "Common",
+      "cardNum": "27/50"
+    },
+    {
+      "name": "Garchomp",
+      "set": "Ultra Force",
+      "img": "https://den-cards.pokellector.com/238/Garchomp.SM5+.28.20061.png",
+      "rarity": "Common",
+      "cardNum": "28/50"
+    },
+    {
+      "name": "Riolu",
+      "set": "Ultra Force",
+      "img": "https://den-cards.pokellector.com/238/Riolu.SM5+.29.20088.png",
+      "rarity": "Common",
+      "cardNum": "29/50"
+    },
+    {
+      "name": "Lucario GX",
+      "set": "Ultra Force",
+      "img": "https://den-cards.pokellector.com/238/Lucario-GX.SM5+.30.20038.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "30/50"
+    },
+    {
+      "name": "Croagunk",
+      "set": "Ultra Force",
+      "img": "https://den-cards.pokellector.com/238/Croagunk.SM5+.31.20089.png",
+      "rarity": "Common",
+      "cardNum": "31/50"
+    },
+    {
+      "name": "Toxicroak",
+      "set": "Ultra Force",
+      "img": "https://den-cards.pokellector.com/238/Toxicroak.SM5+.32.20064.png",
+      "rarity": "Common",
+      "cardNum": "32/50"
+    },
+    {
+      "name": "Buzzwole",
+      "set": "Ultra Force",
+      "img": "https://den-cards.pokellector.com/238/Buzzwole.SM5+.33.20055.png",
+      "rarity": "Common",
+      "cardNum": "33/50"
+    },
+    {
+      "name": "Empoleon",
+      "set": "Ultra Force",
+      "img": "https://den-cards.pokellector.com/238/Empoleon.SM5+.34.20041.png",
+      "rarity": "Common",
+      "cardNum": "34/50"
+    },
+    {
+      "name": "Dialga GX",
+      "set": "Ultra Force",
+      "img": "https://den-cards.pokellector.com/238/Dialga-GX.SM5+.35.20090.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "35/50"
+    },
+    {
+      "name": "Dusk Mane Necrozma",
+      "set": "Ultra Force",
+      "img": "https://den-cards.pokellector.com/238/Dusk-Mane-Necrozma.SM5+.36.20033.png",
+      "rarity": "Common",
+      "cardNum": "36/50"
+    },
+    {
+      "name": "Arceus Prism Star",
+      "set": "Ultra Force",
+      "img": "https://den-cards.pokellector.com/238/Arceus-Prism-Star.SM5+.37.20062.png",
+      "rarity": "Prism Star",
+      "cardNum": "37/50"
+    },
+    {
+      "name": "Aqua Patch",
+      "set": "Ultra Force",
+      "img": "https://den-cards.pokellector.com/238/Aqua-Patch.SM5+.38.20050.png",
+      "rarity": "Common",
+      "cardNum": "38/50"
+    },
+    {
+      "name": "Enhanced Hammer",
+      "set": "Ultra Force",
+      "img": "https://den-cards.pokellector.com/238/Enhanced-Hammer.SM5+.39.20052.png",
+      "rarity": "Common",
+      "cardNum": "39/50"
+    },
+    {
+      "name": "Super Pokemon Recovery",
+      "set": "Ultra Force",
+      "img": "https://den-cards.pokellector.com/238/Super-Pokemon-Recovery.SM5+.40.20091.png",
+      "rarity": "Common",
+      "cardNum": "40/50"
+    },
+    {
+      "name": "Beast Ring",
+      "set": "Ultra Force",
+      "img": "https://den-cards.pokellector.com/238/Beast-Ring.SM5+.41.20054.png",
+      "rarity": "Common",
+      "cardNum": "41/50"
+    },
+    {
+      "name": "Steel Frying Pan",
+      "set": "Ultra Force",
+      "img": "https://den-cards.pokellector.com/238/Steel-Frying-Pan.SM5+.42.20053.png",
+      "rarity": "Common",
+      "cardNum": "42/50"
+    },
+    {
+      "name": "Muscle Band",
+      "set": "Ultra Force",
+      "img": "https://den-cards.pokellector.com/238/Muscle-Band.SM5+.43.20037.png",
+      "rarity": "Common",
+      "cardNum": "43/50"
+    },
+    {
+      "name": "Ultra Recon Squad",
+      "set": "Ultra Force",
+      "img": "https://den-cards.pokellector.com/238/Ultra-Recon-Squad.SM5+.44.20040.png",
+      "rarity": "Common",
+      "cardNum": "44/50"
+    },
+    {
+      "name": "Looker",
+      "set": "Ultra Force",
+      "img": "https://den-cards.pokellector.com/238/Looker.SM5+.45.20092.png",
+      "rarity": "Common",
+      "cardNum": "45/50"
+    },
+    {
+      "name": "Wake",
+      "set": "Ultra Force",
+      "img": "https://den-cards.pokellector.com/238/Wake.SM5+.46.20039.png",
+      "rarity": "Common",
+      "cardNum": "46/50"
+    },
+    {
+      "name": "Ultra Space",
+      "set": "Ultra Force",
+      "img": "https://den-cards.pokellector.com/238/Ultra-Space.SM5+.47.20057.png",
+      "rarity": "Common",
+      "cardNum": "47/50"
+    },
+    {
+      "name": "Beast Energy",
+      "set": "Ultra Force",
+      "img": "https://den-cards.pokellector.com/238/Beast-Energy.SM5+.48.20031.png",
+      "rarity": "Prism Star",
+      "cardNum": "48/50"
+    },
+    {
+      "name": "Unit Energy GFW",
+      "set": "Ultra Force",
+      "img": "https://den-cards.pokellector.com/238/Unit-Energy-GFW.SM5+.49.20093.png",
+      "rarity": "Common",
+      "cardNum": "49/50"
+    },
+    {
+      "name": "Unit Energy LPM",
+      "set": "Ultra Force",
+      "img": "https://den-cards.pokellector.com/238/Unit-Energy-LPM.SM5+.50.20094.png",
+      "rarity": "Common",
+      "cardNum": "50/50"
+    },
+    {
+      "name": "Palkia GX",
+      "set": "Ultra Force",
+      "img": "https://den-cards.pokellector.com/238/Palkia-GX.SM5+.51.20096.png",
+      "rarity": "Secret Rare",
+      "cardNum": "51/50"
+    },
+    {
+      "name": "Naganadel GX",
+      "set": "Ultra Force",
+      "img": "https://den-cards.pokellector.com/238/Naganadel-GX.SM5+.52.20101.png",
+      "rarity": "Secret Rare",
+      "cardNum": "52/50"
+    },
+    {
+      "name": "Lucario GX",
+      "set": "Ultra Force",
+      "img": "https://den-cards.pokellector.com/238/Lucario-GX.SM5+.53.20102.png",
+      "rarity": "Secret Rare",
+      "cardNum": "53/50"
+    },
+    {
+      "name": "Dialga GX",
+      "set": "Ultra Force",
+      "img": "https://den-cards.pokellector.com/238/Dialga-GX.SM5+.54.20099.png",
+      "rarity": "Secret Rare",
+      "cardNum": "54/50"
+    },
+    {
+      "name": "Ultra Recon Squad",
+      "set": "Ultra Force",
+      "img": "https://den-cards.pokellector.com/238/Ultra-Recon-Squad.SM5+.55.20063.png",
+      "rarity": "Secret Rare",
+      "cardNum": "55/50"
+    },
+    {
+      "name": "Wake",
+      "set": "Ultra Force",
+      "img": "https://den-cards.pokellector.com/238/Wake.SM5+.56.20065.png",
+      "rarity": "Secret Rare",
+      "cardNum": "56/50"
+    },
+    {
+      "name": "Palkia GX",
+      "set": "Ultra Force",
+      "img": "https://den-cards.pokellector.com/238/Palkia-GX.SM5+.57.20097.png",
+      "rarity": "Secret Rare",
+      "cardNum": "57/50"
+    },
+    {
+      "name": "Naganadel GX",
+      "set": "Ultra Force",
+      "img": "https://den-cards.pokellector.com/238/Naganadel-GX.SM5+.58.20107.png",
+      "rarity": "Secret Rare",
+      "cardNum": "58/50"
+    },
+    {
+      "name": "Lucario GX",
+      "set": "Ultra Force",
+      "img": "https://den-cards.pokellector.com/238/Lucario-GX.SM5+.59.20105.png",
+      "rarity": "Secret Rare",
+      "cardNum": "59/50"
+    },
+    {
+      "name": "Dialga GX",
+      "set": "Ultra Force",
+      "img": "https://den-cards.pokellector.com/238/Dialga-GX.SM5+.60.20100.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "60/50"
+    },
+    {
+      "name": "Energy Recycle",
+      "set": "Ultra Force",
+      "img": "https://den-cards.pokellector.com/238/Energy-Recycle.SM5+.61.20103.png",
+      "rarity": "Secret Rare",
+      "cardNum": "61/50"
+    },
+    {
+      "name": "Beast Ring",
+      "set": "Ultra Force",
+      "img": "https://den-cards.pokellector.com/238/Beast-Ring.SM5+.62.20106.png",
+      "rarity": "Secret Rare",
+      "cardNum": "62/50"
+    },
+    {
+      "name": "Steel Frying Pan",
+      "set": "Ultra Force",
+      "img": "https://den-cards.pokellector.com/238/Steel-Frying-Pan.SM5+.63.20104.png",
+      "rarity": "Secret Rare",
+      "cardNum": "63/50"
+    }
+  ]
+}

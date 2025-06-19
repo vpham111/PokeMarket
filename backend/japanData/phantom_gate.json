@@ -1,0 +1,684 @@
+{
+  "setName": "Phantom Gate",
+  "cards": [
+    {
+      "name": "Venonat",
+      "set": "Phantom Gate",
+      "img": "https://den-cards.pokellector.com/160/Venonat.XY4.1.png",
+      "rarity": "Common",
+      "cardNum": "1/88"
+    },
+    {
+      "name": "Venomoth",
+      "set": "Phantom Gate",
+      "img": "https://den-cards.pokellector.com/160/Venomoth.XY4.2.png",
+      "rarity": "Uncommon",
+      "cardNum": "2/88"
+    },
+    {
+      "name": "Yanma",
+      "set": "Phantom Gate",
+      "img": "https://den-cards.pokellector.com/160/Yanma.XY4.3.png",
+      "rarity": "Common",
+      "cardNum": "3/88"
+    },
+    {
+      "name": "Yanmega",
+      "set": "Phantom Gate",
+      "img": "https://den-cards.pokellector.com/160/Yanmega.XY4.4.png",
+      "rarity": "Uncommon",
+      "cardNum": "4/88"
+    },
+    {
+      "name": "Sewaddle",
+      "set": "Phantom Gate",
+      "img": "https://den-cards.pokellector.com/160/Sewaddle.XY4.5.png",
+      "rarity": "Common",
+      "cardNum": "5/88"
+    },
+    {
+      "name": "Swadloon",
+      "set": "Phantom Gate",
+      "img": "https://den-cards.pokellector.com/160/Swadloon.XY4.6.png",
+      "rarity": "Common",
+      "cardNum": "6/88"
+    },
+    {
+      "name": "Leavanny",
+      "set": "Phantom Gate",
+      "img": "https://den-cards.pokellector.com/160/Leavanny.XY4.7.png",
+      "rarity": "Uncommon",
+      "cardNum": "7/88"
+    },
+    {
+      "name": "Karrablast",
+      "set": "Phantom Gate",
+      "img": "https://den-cards.pokellector.com/160/Karrablast.XY4.8.png",
+      "rarity": "Common",
+      "cardNum": "8/88"
+    },
+    {
+      "name": "Fletchinder",
+      "set": "Phantom Gate",
+      "img": "https://den-cards.pokellector.com/160/Fletchinder.XY4.9.png",
+      "rarity": "Common",
+      "cardNum": "9/88"
+    },
+    {
+      "name": "Talonflame",
+      "set": "Phantom Gate",
+      "img": "https://den-cards.pokellector.com/160/Talonflame.XY4.10.png",
+      "rarity": "Uncommon",
+      "cardNum": "10/88"
+    },
+    {
+      "name": "Litleo",
+      "set": "Phantom Gate",
+      "img": "https://den-cards.pokellector.com/160/Litleo.XY4.11.png",
+      "rarity": "Common",
+      "cardNum": "11/88"
+    },
+    {
+      "name": "Pyroar",
+      "set": "Phantom Gate",
+      "img": "https://den-cards.pokellector.com/160/Pyroar.XY4.12.png",
+      "rarity": "Rare",
+      "cardNum": "12/88"
+    },
+    {
+      "name": "Krabby",
+      "set": "Phantom Gate",
+      "img": "https://den-cards.pokellector.com/160/Krabby.XY4.13.png",
+      "rarity": "Common",
+      "cardNum": "13/88"
+    },
+    {
+      "name": "Kingler",
+      "set": "Phantom Gate",
+      "img": "https://den-cards.pokellector.com/160/Kingler.XY4.14.png",
+      "rarity": "Uncommon",
+      "cardNum": "14/88"
+    },
+    {
+      "name": "Totodile",
+      "set": "Phantom Gate",
+      "img": "https://den-cards.pokellector.com/160/Totodile.XY4.15.png",
+      "rarity": "Common",
+      "cardNum": "15/88"
+    },
+    {
+      "name": "Croconaw",
+      "set": "Phantom Gate",
+      "img": "https://den-cards.pokellector.com/160/Croconaw.XY4.16.png",
+      "rarity": "Common",
+      "cardNum": "16/88"
+    },
+    {
+      "name": "Feraligatr",
+      "set": "Phantom Gate",
+      "img": "https://den-cards.pokellector.com/160/Feraligatr.XY4.17.png",
+      "rarity": "Rare",
+      "cardNum": "17/88"
+    },
+    {
+      "name": "Finneon",
+      "set": "Phantom Gate",
+      "img": "https://den-cards.pokellector.com/160/Finneon.XY4.18.png",
+      "rarity": "Common",
+      "cardNum": "18/88"
+    },
+    {
+      "name": "Lumineon",
+      "set": "Phantom Gate",
+      "img": "https://den-cards.pokellector.com/160/Lumineon.XY4.19.png",
+      "rarity": "Uncommon",
+      "cardNum": "19/88"
+    },
+    {
+      "name": "Frillish",
+      "set": "Phantom Gate",
+      "img": "https://den-cards.pokellector.com/160/Frillish.XY4.20.png",
+      "rarity": "Common",
+      "cardNum": "20/88"
+    },
+    {
+      "name": "Jellicent",
+      "set": "Phantom Gate",
+      "img": "https://den-cards.pokellector.com/160/Jellicent.XY4.21.png",
+      "rarity": "Uncommon",
+      "cardNum": "21/88"
+    },
+    {
+      "name": "Alomomola",
+      "set": "Phantom Gate",
+      "img": "https://den-cards.pokellector.com/160/Alomomola.XY4.22.png",
+      "rarity": "Common",
+      "cardNum": "22/88"
+    },
+    {
+      "name": "Manectric EX",
+      "set": "Phantom Gate",
+      "img": "https://den-cards.pokellector.com/160/Manectric-EX.XY4.23.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "23/88"
+    },
+    {
+      "name": "M Manectric EX",
+      "set": "Phantom Gate",
+      "img": "https://den-cards.pokellector.com/160/M-Manectric-EX.XY4.24.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "24/88"
+    },
+    {
+      "name": "Pachirisu",
+      "set": "Phantom Gate",
+      "img": "https://den-cards.pokellector.com/160/Pachirisu.XY4.25.png",
+      "rarity": "Uncommon",
+      "cardNum": "25/88"
+    },
+    {
+      "name": "Joltik",
+      "set": "Phantom Gate",
+      "img": "https://den-cards.pokellector.com/160/Joltik.XY4.26.png",
+      "rarity": "Common",
+      "cardNum": "26/88"
+    },
+    {
+      "name": "Galvantula",
+      "set": "Phantom Gate",
+      "img": "https://den-cards.pokellector.com/160/Galvantula.XY4.27.png",
+      "rarity": "Uncommon",
+      "cardNum": "27/88"
+    },
+    {
+      "name": "Helioptile",
+      "set": "Phantom Gate",
+      "img": "https://den-cards.pokellector.com/160/Helioptile.XY4.28.png",
+      "rarity": "Common",
+      "cardNum": "28/88"
+    },
+    {
+      "name": "Heliolisk",
+      "set": "Phantom Gate",
+      "img": "https://den-cards.pokellector.com/160/Heliolisk.XY4.29.png",
+      "rarity": "Rare",
+      "cardNum": "29/88"
+    },
+    {
+      "name": "Zubat",
+      "set": "Phantom Gate",
+      "img": "https://den-cards.pokellector.com/160/Zubat.XY4.30.png",
+      "rarity": "Common",
+      "cardNum": "30/88"
+    },
+    {
+      "name": "Golbat",
+      "set": "Phantom Gate",
+      "img": "https://den-cards.pokellector.com/160/Golbat.XY4.31.png",
+      "rarity": "Common",
+      "cardNum": "31/88"
+    },
+    {
+      "name": "Crobat",
+      "set": "Phantom Gate",
+      "img": "https://den-cards.pokellector.com/160/Crobat.XY4.32.png",
+      "rarity": "Uncommon",
+      "cardNum": "32/88"
+    },
+    {
+      "name": "Gengar EX",
+      "set": "Phantom Gate",
+      "img": "https://den-cards.pokellector.com/160/Gengar-EX.XY4.33.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "33/88"
+    },
+    {
+      "name": "M Gengar EX",
+      "set": "Phantom Gate",
+      "img": "https://den-cards.pokellector.com/160/M-Gengar-EX.XY4.34.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "34/88"
+    },
+    {
+      "name": "Wobbuffet",
+      "set": "Phantom Gate",
+      "img": "https://den-cards.pokellector.com/160/Wobbuffet.XY4.35.png",
+      "rarity": "Uncommon",
+      "cardNum": "35/88"
+    },
+    {
+      "name": "Gulpin",
+      "set": "Phantom Gate",
+      "img": "https://den-cards.pokellector.com/160/Gulpin.XY4.36.png",
+      "rarity": "Common",
+      "cardNum": "36/88"
+    },
+    {
+      "name": "Swalot",
+      "set": "Phantom Gate",
+      "img": "https://den-cards.pokellector.com/160/Swalot.XY4.37.png",
+      "rarity": "Uncommon",
+      "cardNum": "37/88"
+    },
+    {
+      "name": "Munna",
+      "set": "Phantom Gate",
+      "img": "https://den-cards.pokellector.com/160/Munna.XY4.38.png",
+      "rarity": "Common",
+      "cardNum": "38/88"
+    },
+    {
+      "name": "Musharna",
+      "set": "Phantom Gate",
+      "img": "https://den-cards.pokellector.com/160/Musharna.XY4.39.png",
+      "rarity": "Uncommon",
+      "cardNum": "39/88"
+    },
+    {
+      "name": "Litwick",
+      "set": "Phantom Gate",
+      "img": "https://den-cards.pokellector.com/160/Litwick.XY4.40.png",
+      "rarity": "Common",
+      "cardNum": "40/88"
+    },
+    {
+      "name": "Lampent",
+      "set": "Phantom Gate",
+      "img": "https://den-cards.pokellector.com/160/Lampent.XY4.41.png",
+      "rarity": "Common",
+      "cardNum": "41/88"
+    },
+    {
+      "name": "Chandelure",
+      "set": "Phantom Gate",
+      "img": "https://den-cards.pokellector.com/160/Chandelure.XY4.42.png",
+      "rarity": "Rare",
+      "cardNum": "42/88"
+    },
+    {
+      "name": "Pumpkaboo",
+      "set": "Phantom Gate",
+      "img": "https://den-cards.pokellector.com/160/Pumpkaboo.XY4.43.png",
+      "rarity": "Common",
+      "cardNum": "43/88"
+    },
+    {
+      "name": "Gourgeist",
+      "set": "Phantom Gate",
+      "img": "https://den-cards.pokellector.com/160/Gourgeist.XY4.44.png",
+      "rarity": "Rare",
+      "cardNum": "44/88"
+    },
+    {
+      "name": "Gligar",
+      "set": "Phantom Gate",
+      "img": "https://den-cards.pokellector.com/160/Gligar.XY4.45.png",
+      "rarity": "Common",
+      "cardNum": "45/88"
+    },
+    {
+      "name": "Gliscor",
+      "set": "Phantom Gate",
+      "img": "https://den-cards.pokellector.com/160/Gliscor.XY4.46.png",
+      "rarity": "Uncommon",
+      "cardNum": "46/88"
+    },
+    {
+      "name": "Roggenrola",
+      "set": "Phantom Gate",
+      "img": "https://den-cards.pokellector.com/160/Roggenrola.XY4.47.png",
+      "rarity": "Common",
+      "cardNum": "47/88"
+    },
+    {
+      "name": "Boldore",
+      "set": "Phantom Gate",
+      "img": "https://den-cards.pokellector.com/160/Boldore.XY4.48.png",
+      "rarity": "Common",
+      "cardNum": "48/88"
+    },
+    {
+      "name": "Gigalith",
+      "set": "Phantom Gate",
+      "img": "https://den-cards.pokellector.com/160/Gigalith.XY4.49.png",
+      "rarity": "Rare",
+      "cardNum": "49/88"
+    },
+    {
+      "name": "Murkrow",
+      "set": "Phantom Gate",
+      "img": "https://den-cards.pokellector.com/160/Murkrow.XY4.50.png",
+      "rarity": "Common",
+      "cardNum": "50/88"
+    },
+    {
+      "name": "Honchkrow",
+      "set": "Phantom Gate",
+      "img": "https://den-cards.pokellector.com/160/Honchkrow.XY4.51.png",
+      "rarity": "Uncommon",
+      "cardNum": "51/88"
+    },
+    {
+      "name": "Poochyena",
+      "set": "Phantom Gate",
+      "img": "https://den-cards.pokellector.com/160/Poochyena.XY4.52.png",
+      "rarity": "Common",
+      "cardNum": "52/88"
+    },
+    {
+      "name": "Mightyena",
+      "set": "Phantom Gate",
+      "img": "https://den-cards.pokellector.com/160/Mightyena.XY4.53.png",
+      "rarity": "Uncommon",
+      "cardNum": "53/88"
+    },
+    {
+      "name": "Spiritomb",
+      "set": "Phantom Gate",
+      "img": "https://den-cards.pokellector.com/160/Spiritomb.XY4.54.png",
+      "rarity": "Uncommon",
+      "cardNum": "54/88"
+    },
+    {
+      "name": "Purrloin",
+      "set": "Phantom Gate",
+      "img": "https://den-cards.pokellector.com/160/Purrloin.XY4.55.png",
+      "rarity": "Common",
+      "cardNum": "55/88"
+    },
+    {
+      "name": "Liepard",
+      "set": "Phantom Gate",
+      "img": "https://den-cards.pokellector.com/160/Liepard.XY4.56.png",
+      "rarity": "Uncommon",
+      "cardNum": "56/88"
+    },
+    {
+      "name": "Malamar EX",
+      "set": "Phantom Gate",
+      "img": "https://den-cards.pokellector.com/160/Malamar-EX.XY4.57.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "57/88"
+    },
+    {
+      "name": "Heatran",
+      "set": "Phantom Gate",
+      "img": "https://den-cards.pokellector.com/160/Heatran.XY4.58.png",
+      "rarity": "Rare",
+      "cardNum": "58/88"
+    },
+    {
+      "name": "Escavalier",
+      "set": "Phantom Gate",
+      "img": "https://den-cards.pokellector.com/160/Escavalier.XY4.59.png",
+      "rarity": "Uncommon",
+      "cardNum": "59/88"
+    },
+    {
+      "name": "Florges EX",
+      "set": "Phantom Gate",
+      "img": "https://den-cards.pokellector.com/160/Florges-EX.XY4.60.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "60/88"
+    },
+    {
+      "name": "Swirlix",
+      "set": "Phantom Gate",
+      "img": "https://den-cards.pokellector.com/160/Swirlix.XY4.61.png",
+      "rarity": "Common",
+      "cardNum": "61/88"
+    },
+    {
+      "name": "Slurpuff",
+      "set": "Phantom Gate",
+      "img": "https://den-cards.pokellector.com/160/Slurpuff.XY4.62.png",
+      "rarity": "Rare",
+      "cardNum": "62/88"
+    },
+    {
+      "name": "Deino",
+      "set": "Phantom Gate",
+      "img": "https://den-cards.pokellector.com/160/Deino.XY4.63.png",
+      "rarity": "Common",
+      "cardNum": "63/88"
+    },
+    {
+      "name": "Zweilous",
+      "set": "Phantom Gate",
+      "img": "https://den-cards.pokellector.com/160/Zweilous.XY4.64.png",
+      "rarity": "Common",
+      "cardNum": "64/88"
+    },
+    {
+      "name": "Hydreigon",
+      "set": "Phantom Gate",
+      "img": "https://den-cards.pokellector.com/160/Hydreigon.XY4.65.png",
+      "rarity": "Rare",
+      "cardNum": "65/88"
+    },
+    {
+      "name": "Spearow",
+      "set": "Phantom Gate",
+      "img": "https://den-cards.pokellector.com/160/Spearow.XY4.66.png",
+      "rarity": "Common",
+      "cardNum": "66/88"
+    },
+    {
+      "name": "Fearow",
+      "set": "Phantom Gate",
+      "img": "https://den-cards.pokellector.com/160/Fearow.XY4.67.png",
+      "rarity": "Uncommon",
+      "cardNum": "67/88"
+    },
+    {
+      "name": "Chansey",
+      "set": "Phantom Gate",
+      "img": "https://den-cards.pokellector.com/160/Chansey.XY4.68.png",
+      "rarity": "Common",
+      "cardNum": "68/88"
+    },
+    {
+      "name": "Blissey",
+      "set": "Phantom Gate",
+      "img": "https://den-cards.pokellector.com/160/Blissey.XY4.69.png",
+      "rarity": "Uncommon",
+      "cardNum": "69/88"
+    },
+    {
+      "name": "Girafarig",
+      "set": "Phantom Gate",
+      "img": "https://den-cards.pokellector.com/160/Girafarig.XY4.70.png",
+      "rarity": "Common",
+      "cardNum": "70/88"
+    },
+    {
+      "name": "Whismur",
+      "set": "Phantom Gate",
+      "img": "https://den-cards.pokellector.com/160/Whismur.XY4.71.png",
+      "rarity": "Common",
+      "cardNum": "71/88"
+    },
+    {
+      "name": "Loudred",
+      "set": "Phantom Gate",
+      "img": "https://den-cards.pokellector.com/160/Loudred.XY4.72.png",
+      "rarity": "Common",
+      "cardNum": "72/88"
+    },
+    {
+      "name": "Exploud",
+      "set": "Phantom Gate",
+      "img": "https://den-cards.pokellector.com/160/Exploud.XY4.73.png",
+      "rarity": "Uncommon",
+      "cardNum": "73/88"
+    },
+    {
+      "name": "Regigigas",
+      "set": "Phantom Gate",
+      "img": "https://den-cards.pokellector.com/160/Regigigas.XY4.74.png",
+      "rarity": "Rare",
+      "cardNum": "74/88"
+    },
+    {
+      "name": "Bunnelby",
+      "set": "Phantom Gate",
+      "img": "https://den-cards.pokellector.com/160/Bunnelby.XY4.75.png",
+      "rarity": "Common",
+      "cardNum": "75/88"
+    },
+    {
+      "name": "Diggersby",
+      "set": "Phantom Gate",
+      "img": "https://den-cards.pokellector.com/160/Diggersby.XY4.76.png",
+      "rarity": "Uncommon",
+      "cardNum": "76/88"
+    },
+    {
+      "name": "Fletchling",
+      "set": "Phantom Gate",
+      "img": "https://den-cards.pokellector.com/160/Fletchling.XY4.77.png",
+      "rarity": "Common",
+      "cardNum": "77/88"
+    },
+    {
+      "name": "Target Whistle",
+      "set": "Phantom Gate",
+      "img": "https://den-cards.pokellector.com/160/Target-Whistle.XY4.78.png",
+      "rarity": "Uncommon",
+      "cardNum": "78/88"
+    },
+    {
+      "name": "Battle Compressor",
+      "set": "Phantom Gate",
+      "img": "https://den-cards.pokellector.com/160/Battle-Compressor.XY4.79.png",
+      "rarity": "Uncommon",
+      "cardNum": "79/88"
+    },
+    {
+      "name": "Robo Substitute",
+      "set": "Phantom Gate",
+      "img": "https://den-cards.pokellector.com/160/Robo-Substitute.XY4.80.png",
+      "rarity": "Uncommon",
+      "cardNum": "80/88"
+    },
+    {
+      "name": "Manectric Spirit Link",
+      "set": "Phantom Gate",
+      "img": "https://den-cards.pokellector.com/160/Manectric-Spirit-Link.XY4.81.png",
+      "rarity": "Uncommon",
+      "cardNum": "81/88"
+    },
+    {
+      "name": "Jamming Net",
+      "set": "Phantom Gate",
+      "img": "https://den-cards.pokellector.com/160/Jamming-Net.XY4.82.png",
+      "rarity": "Rare",
+      "cardNum": "82/88"
+    },
+    {
+      "name": "Head Noiser",
+      "set": "Phantom Gate",
+      "img": "https://den-cards.pokellector.com/160/Head-Noiser.XY4.83.png",
+      "rarity": "Rare",
+      "cardNum": "83/88"
+    },
+    {
+      "name": "AZ",
+      "set": "Phantom Gate",
+      "img": "https://den-cards.pokellector.com/160/AZ.XY4.84.png",
+      "rarity": "Uncommon",
+      "cardNum": "84/88"
+    },
+    {
+      "name": "Xerosic",
+      "set": "Phantom Gate",
+      "img": "https://den-cards.pokellector.com/160/Xerosic.XY4.85.png",
+      "rarity": "Uncommon",
+      "cardNum": "85/88"
+    },
+    {
+      "name": "Lysandre's Last Resort",
+      "set": "Phantom Gate",
+      "img": "https://den-cards.pokellector.com/160/Lysandres-Last-Resort.XY4.86.png",
+      "rarity": "Uncommon",
+      "cardNum": "86/88"
+    },
+    {
+      "name": "Dimensional Ravine",
+      "set": "Phantom Gate",
+      "img": "https://den-cards.pokellector.com/160/Dimensional-Ravine.XY4.87.png",
+      "rarity": "Uncommon",
+      "cardNum": "87/88"
+    },
+    {
+      "name": "Mystery Energy",
+      "set": "Phantom Gate",
+      "img": "https://den-cards.pokellector.com/160/Mystery-Energy.XY4.88.png",
+      "rarity": "Uncommon",
+      "cardNum": "88/88"
+    },
+    {
+      "name": "Manectric EX",
+      "set": "Phantom Gate",
+      "img": "https://den-cards.pokellector.com/160/Manectric-EX.XY4.89.png",
+      "rarity": "Secret Rare",
+      "cardNum": "89/88"
+    },
+    {
+      "name": "Gengar EX",
+      "set": "Phantom Gate",
+      "img": "https://den-cards.pokellector.com/160/Gengar-EX.XY4.90.png",
+      "rarity": "Secret Rare",
+      "cardNum": "90/88"
+    },
+    {
+      "name": "Malamar EX",
+      "set": "Phantom Gate",
+      "img": "https://den-cards.pokellector.com/160/Malamar-EX.XY4.91.png",
+      "rarity": "Secret Rare",
+      "cardNum": "91/88"
+    },
+    {
+      "name": "Florges EX",
+      "set": "Phantom Gate",
+      "img": "https://den-cards.pokellector.com/160/Florges-EX.XY4.92.png",
+      "rarity": "Secret Rare",
+      "cardNum": "92/88"
+    },
+    {
+      "name": "AZ",
+      "set": "Phantom Gate",
+      "img": "https://den-cards.pokellector.com/160/AZ.XY4.93.png",
+      "rarity": "Secret Rare",
+      "cardNum": "93/88"
+    },
+    {
+      "name": "Xerosic",
+      "set": "Phantom Gate",
+      "img": "https://den-cards.pokellector.com/160/Xerosic.XY4.94.png",
+      "rarity": "Secret Rare",
+      "cardNum": "94/88"
+    },
+    {
+      "name": "Lysandre's Last Resort",
+      "set": "Phantom Gate",
+      "img": "https://den-cards.pokellector.com/160/Lysandres-Last-Resort.XY4.95.png",
+      "rarity": "Secret Rare",
+      "cardNum": "95/88"
+    },
+    {
+      "name": "M Manectric EX",
+      "set": "Phantom Gate",
+      "img": "https://den-cards.pokellector.com/160/M-Manectric-EX.XY4.96.png",
+      "rarity": "Secret Rare",
+      "cardNum": "96/88"
+    },
+    {
+      "name": "M Gengar EX",
+      "set": "Phantom Gate",
+      "img": "https://den-cards.pokellector.com/160/M-Gengar-EX.XY4.97.png",
+      "rarity": "Secret Rare",
+      "cardNum": "97/88"
+    }
+  ]
+}

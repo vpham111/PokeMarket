@@ -1,0 +1,215 @@
+{
+  "setName": "Trick or Trade 2024",
+  "cards": [
+    {
+      "name": "Phantump",
+      "set": "Twilight Masquerade",
+      "img": "https://den-cards.pokellector.com/392/Phantump.TWM.12.53169.png",
+      "rarity": "Common",
+      "cardNum": "12/167"
+    },
+    {
+      "name": "Trevenant",
+      "set": "Twilight Masquerade",
+      "img": "https://den-cards.pokellector.com/392/Trevenant.TWM.13.53170.png",
+      "rarity": "Common",
+      "cardNum": "13/167"
+    },
+    {
+      "name": "Sprigatito",
+      "set": "Paldea Evolved",
+      "img": "https://den-cards.pokellector.com/367/Sprigatito.PAL.12.47818.png",
+      "rarity": "Common",
+      "cardNum": "12/193"
+    },
+    {
+      "name": "Poltchageist",
+      "set": "Twilight Masquerade",
+      "img": "https://den-cards.pokellector.com/392/Poltchageist.TWM.21.53178.png",
+      "rarity": "Common",
+      "cardNum": "21/167"
+    },
+    {
+      "name": "Sinistcha",
+      "set": "Twilight Masquerade",
+      "img": "https://den-cards.pokellector.com/392/Sinistcha.TWM.22.53179.png",
+      "rarity": "Rare",
+      "cardNum": "22/167"
+    },
+    {
+      "name": "Teal Mask Ogerpon",
+      "set": "Twilight Masquerade",
+      "img": "https://den-cards.pokellector.com/392/Teal-Mask-Ogerpon.TWM.24.52755.png",
+      "rarity": "Rare",
+      "cardNum": "24/167"
+    },
+    {
+      "name": "Litwick",
+      "set": "Twilight Masquerade",
+      "img": "https://den-cards.pokellector.com/392/Litwick.TWM.36.53191.png",
+      "rarity": "Common",
+      "cardNum": "36/167"
+    },
+    {
+      "name": "Lampent",
+      "set": "Twilight Masquerade",
+      "img": "https://den-cards.pokellector.com/392/Lampent.TWM.37.53192.png",
+      "rarity": "Common",
+      "cardNum": "37/167"
+    },
+    {
+      "name": "Chandelure",
+      "set": "Twilight Masquerade",
+      "img": "https://den-cards.pokellector.com/392/Chandelure.TWM.38.53193.png",
+      "rarity": "Rare",
+      "cardNum": "38/167"
+    },
+    {
+      "name": "Fuecoco",
+      "set": "Paradox Rift",
+      "img": "https://den-cards.pokellector.com/377/Fuecoco.PAR.23.50312.png",
+      "rarity": "Common",
+      "cardNum": "23/182"
+    },
+    {
+      "name": "Quaxly",
+      "set": "Paldea Evolved",
+      "img": "https://den-cards.pokellector.com/367/Quaxly.PAL.50.47852.png",
+      "rarity": "Common",
+      "cardNum": "50/193"
+    },
+    {
+      "name": "Pikachu",
+      "set": "Paldean Fates",
+      "img": "https://den-cards.pokellector.com/384/Pikachu.PAF.18.51998.png",
+      "rarity": "Common",
+      "cardNum": "18/91"
+    },
+    {
+      "name": "Okidogi",
+      "set": "Twilight Masquerade",
+      "img": "https://den-cards.pokellector.com/392/Okidogi.TWM.111.53264.png",
+      "rarity": "Rare",
+      "cardNum": "111/167"
+    },
+    {
+      "name": "Pumpkaboo",
+      "set": "Paradox Rift",
+      "img": "https://den-cards.pokellector.com/377/Pumpkaboo.PAR.77.50364.png",
+      "rarity": "Common",
+      "cardNum": "77/182"
+    },
+    {
+      "name": "Gourgeist",
+      "set": "Paradox Rift",
+      "img": "https://den-cards.pokellector.com/377/Gourgeist.PAR.78.50365.png",
+      "rarity": "Uncommon",
+      "cardNum": "78/182"
+    },
+    {
+      "name": "Mimikyu",
+      "set": "Paldean Fates",
+      "img": "https://den-cards.pokellector.com/384/Mimikyu.PAF.37.52017.png",
+      "rarity": "Rare",
+      "cardNum": "37/91"
+    },
+    {
+      "name": "Greavard",
+      "set": "Paldean Fates",
+      "img": "https://den-cards.pokellector.com/384/Greavard.PAF.42.52022.png",
+      "rarity": "Common",
+      "cardNum": "42/91"
+    },
+    {
+      "name": "Houndstone",
+      "set": "Paldean Fates",
+      "img": "https://den-cards.pokellector.com/384/Houndstone.PAF.43.52023.png",
+      "rarity": "Rare",
+      "cardNum": "43/91"
+    },
+    {
+      "name": "Scream Tail",
+      "set": "Temporal Forces",
+      "img": "https://den-cards.pokellector.com/383/Scream-Tail.TEM.77.52488.png",
+      "rarity": "Uncommon",
+      "cardNum": "77/162"
+    },
+    {
+      "name": "Flutter Mane",
+      "set": "Temporal Forces",
+      "img": "https://den-cards.pokellector.com/383/Flutter-Mane.TEM.78.52489.png",
+      "rarity": "Rare",
+      "cardNum": "78/162"
+    },
+    {
+      "name": "Munkidori",
+      "set": "Twilight Masquerade",
+      "img": "https://den-cards.pokellector.com/392/Munkidori.TWM.95.53248.png",
+      "rarity": "Rare",
+      "cardNum": "95/167"
+    },
+    {
+      "name": "Fezandipiti",
+      "set": "Twilight Masquerade",
+      "img": "https://den-cards.pokellector.com/392/Fezandipiti.TWM.96.53249.png",
+      "rarity": "Rare",
+      "cardNum": "96/167"
+    },
+    {
+      "name": "Gastly",
+      "set": "Temporal Forces",
+      "img": "https://den-cards.pokellector.com/383/Gastly.TEM.102.52513.png",
+      "rarity": "Common",
+      "cardNum": "102/162"
+    },
+    {
+      "name": "Haunter",
+      "set": "Temporal Forces",
+      "img": "https://den-cards.pokellector.com/383/Haunter.TEM.103.52514.png",
+      "rarity": "Common",
+      "cardNum": "103/162"
+    },
+    {
+      "name": "Gengar",
+      "set": "Paldean Fates",
+      "img": "https://den-cards.pokellector.com/384/Gengar.PAF.57.52037.png",
+      "rarity": "Uncommon",
+      "cardNum": "57/91"
+    },
+    {
+      "name": "Umbreon",
+      "set": "Obsidian Flames",
+      "img": "https://den-cards.pokellector.com/373/Umbreon.OBF.130.48934.png",
+      "rarity": "Uncommon",
+      "cardNum": "130/197"
+    },
+    {
+      "name": "Houndour",
+      "set": "Obsidian Flames",
+      "img": "https://den-cards.pokellector.com/373/Houndour.OBF.131.48935.png",
+      "rarity": "Common",
+      "cardNum": "131/197"
+    },
+    {
+      "name": "Houndoom",
+      "set": "Obsidian Flames",
+      "img": "https://den-cards.pokellector.com/373/Houndoom.OBF.133.48937.png",
+      "rarity": "Uncommon",
+      "cardNum": "133/197"
+    },
+    {
+      "name": "Darkrai",
+      "set": "Obsidian Flames",
+      "img": "https://den-cards.pokellector.com/373/Darkrai.OBF.136.48940.png",
+      "rarity": "Rare",
+      "cardNum": "136/197"
+    },
+    {
+      "name": "Iron Jugulis",
+      "set": "Temporal Forces",
+      "img": "https://den-cards.pokellector.com/383/Iron-Jugulis.TEM.139.52550.png",
+      "rarity": "Uncommon",
+      "cardNum": "139/162"
+    }
+  ]
+}

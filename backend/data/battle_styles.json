@@ -1,0 +1,1286 @@
+{
+  "setName": "Battle Styles",
+  "cards": [
+    {
+      "name": "Bellsprout",
+      "set": "Battle Styles",
+      "img": "https://den-cards.pokellector.com/305/Bellsprout.SWSH05.1.37528.png",
+      "rarity": "Common",
+      "cardNum": "1/163"
+    },
+    {
+      "name": "Weepinbell",
+      "set": "Battle Styles",
+      "img": "https://den-cards.pokellector.com/305/Weepinbell.SWSH05.2.37529.png",
+      "rarity": "Uncommon",
+      "cardNum": "2/163"
+    },
+    {
+      "name": "Victreebel",
+      "set": "Battle Styles",
+      "img": "https://den-cards.pokellector.com/305/Victreebel.SWSH05.3.37530.png",
+      "rarity": "Rare",
+      "cardNum": "3/163"
+    },
+    {
+      "name": "Cacnea",
+      "set": "Battle Styles",
+      "img": "https://den-cards.pokellector.com/305/Cacnea.SWSH05.4.37531.png",
+      "rarity": "Common",
+      "cardNum": "4/163"
+    },
+    {
+      "name": "Cacturne",
+      "set": "Battle Styles",
+      "img": "https://den-cards.pokellector.com/305/Cacturne.SWSH05.5.37532.png",
+      "rarity": "Uncommon",
+      "cardNum": "5/163"
+    },
+    {
+      "name": "Kricketune V",
+      "set": "Battle Styles",
+      "img": "https://den-cards.pokellector.com/305/Kricketune-V.SWSH05.6.37533.png",
+      "rarity": "Rare",
+      "cardNum": "6/163"
+    },
+    {
+      "name": "Cherubi",
+      "set": "Battle Styles",
+      "img": "https://den-cards.pokellector.com/305/Cherubi.SWSH05.7.37534.png",
+      "rarity": "Common",
+      "cardNum": "7/163"
+    },
+    {
+      "name": "Cherrim",
+      "set": "Battle Styles",
+      "img": "https://den-cards.pokellector.com/305/Cherrim.SWSH05.8.37535.png",
+      "rarity": "Rare",
+      "cardNum": "8/163"
+    },
+    {
+      "name": "Carnivine",
+      "set": "Battle Styles",
+      "img": "https://den-cards.pokellector.com/305/Carnivine.SWSH05.9.37536.png",
+      "rarity": "Uncommon",
+      "cardNum": "9/163"
+    },
+    {
+      "name": "Durant",
+      "set": "Battle Styles",
+      "img": "https://den-cards.pokellector.com/305/Durant.SWSH05.10.37537.png",
+      "rarity": "Uncommon",
+      "cardNum": "10/163"
+    },
+    {
+      "name": "Scatterbug",
+      "set": "Battle Styles",
+      "img": "https://den-cards.pokellector.com/305/Scatterbug.SWSH05.11.37538.png",
+      "rarity": "Common",
+      "cardNum": "11/163"
+    },
+    {
+      "name": "Spewpa",
+      "set": "Battle Styles",
+      "img": "https://den-cards.pokellector.com/305/Spewpa.SWSH05.12.37539.png",
+      "rarity": "Uncommon",
+      "cardNum": "12/163"
+    },
+    {
+      "name": "Vivillon",
+      "set": "Battle Styles",
+      "img": "https://den-cards.pokellector.com/305/Vivillon.SWSH05.13.37540.png",
+      "rarity": "Rare",
+      "cardNum": "13/163"
+    },
+    {
+      "name": "Fomantis",
+      "set": "Battle Styles",
+      "img": "https://den-cards.pokellector.com/305/Fomantis.SWSH05.14.37541.png",
+      "rarity": "Common",
+      "cardNum": "14/163"
+    },
+    {
+      "name": "Lurantis",
+      "set": "Battle Styles",
+      "img": "https://den-cards.pokellector.com/305/Lurantis.SWSH05.15.37542.png",
+      "rarity": "Rare",
+      "cardNum": "15/163"
+    },
+    {
+      "name": "Tapu Bulu",
+      "set": "Battle Styles",
+      "img": "https://den-cards.pokellector.com/305/Tapu-Bulu.SWSH05.16.37543.png",
+      "rarity": "Rare",
+      "cardNum": "16/163"
+    },
+    {
+      "name": "Blipbug",
+      "set": "Battle Styles",
+      "img": "https://den-cards.pokellector.com/305/Blipbug.SWSH05.17.37544.png",
+      "rarity": "Common",
+      "cardNum": "17/163"
+    },
+    {
+      "name": "Flapple V",
+      "set": "Battle Styles",
+      "img": "https://den-cards.pokellector.com/305/Flapple-V.SWSH05.18.37545.png",
+      "rarity": "Rare",
+      "cardNum": "18/163"
+    },
+    {
+      "name": "Flapple VMAX",
+      "set": "Battle Styles",
+      "img": "https://den-cards.pokellector.com/305/Flapple-VMAX.SWSH05.19.37546.png",
+      "rarity": "Rare",
+      "cardNum": "19/163"
+    },
+    {
+      "name": "Entei",
+      "set": "Battle Styles",
+      "img": "https://den-cards.pokellector.com/305/Entei.SWSH05.20.37547.png",
+      "rarity": "Rare",
+      "cardNum": "20/163"
+    },
+    {
+      "name": "Victini V",
+      "set": "Battle Styles",
+      "img": "https://den-cards.pokellector.com/305/Victini-V.SWSH05.21.37548.png",
+      "rarity": "Rare",
+      "cardNum": "21/163"
+    },
+    {
+      "name": "Victini VMAX",
+      "set": "Battle Styles",
+      "img": "https://den-cards.pokellector.com/305/Victini-VMAX.SWSH05.22.37549.png",
+      "rarity": "Rare",
+      "cardNum": "22/163"
+    },
+    {
+      "name": "Tepig",
+      "set": "Battle Styles",
+      "img": "https://den-cards.pokellector.com/305/Tepig.SWSH05.23.37550.png",
+      "rarity": "Common",
+      "cardNum": "23/163"
+    },
+    {
+      "name": "Pignite",
+      "set": "Battle Styles",
+      "img": "https://den-cards.pokellector.com/305/Pignite.SWSH05.24.37551.png",
+      "rarity": "Uncommon",
+      "cardNum": "24/163"
+    },
+    {
+      "name": "Emboar",
+      "set": "Battle Styles",
+      "img": "https://den-cards.pokellector.com/305/Emboar.SS5.25.36647.png",
+      "rarity": "Rare",
+      "cardNum": "25/163"
+    },
+    {
+      "name": "Heatmor",
+      "set": "Battle Styles",
+      "img": "https://den-cards.pokellector.com/305/Heatmor.SWSH05.26.37552.png",
+      "rarity": "Uncommon",
+      "cardNum": "26/163"
+    },
+    {
+      "name": "Salandit",
+      "set": "Battle Styles",
+      "img": "https://den-cards.pokellector.com/305/Salandit.SWSH05.27.37553.png",
+      "rarity": "Common",
+      "cardNum": "27/163"
+    },
+    {
+      "name": "Salazzle",
+      "set": "Battle Styles",
+      "img": "https://den-cards.pokellector.com/305/Salazzle.SWSH05.28.37554.png",
+      "rarity": "Rare",
+      "cardNum": "28/163"
+    },
+    {
+      "name": "Sizzlipede",
+      "set": "Battle Styles",
+      "img": "https://den-cards.pokellector.com/305/Sizzlipede.SWSH05.29.37555.png",
+      "rarity": "Common",
+      "cardNum": "29/163"
+    },
+    {
+      "name": "Centiskorch",
+      "set": "Battle Styles",
+      "img": "https://den-cards.pokellector.com/305/Centiskorch.SWSH05.30.37556.png",
+      "rarity": "Rare",
+      "cardNum": "30/163"
+    },
+    {
+      "name": "Horsea",
+      "set": "Battle Styles",
+      "img": "https://den-cards.pokellector.com/305/Horsea.SWSH05.31.37557.png",
+      "rarity": "Common",
+      "cardNum": "31/163"
+    },
+    {
+      "name": "Seadra",
+      "set": "Battle Styles",
+      "img": "https://den-cards.pokellector.com/305/Seadra.SWSH05.32.37558.png",
+      "rarity": "Uncommon",
+      "cardNum": "32/163"
+    },
+    {
+      "name": "Kingdra",
+      "set": "Battle Styles",
+      "img": "https://den-cards.pokellector.com/305/Kingdra.SWSH05.33.37559.png",
+      "rarity": "Rare",
+      "cardNum": "33/163"
+    },
+    {
+      "name": "Galarian Mr. Mime",
+      "set": "Battle Styles",
+      "img": "https://den-cards.pokellector.com/305/Galarian-Mr-Mime.SWSH05.34.37560.png",
+      "rarity": "Common",
+      "cardNum": "34/163"
+    },
+    {
+      "name": "Galarian Mr. Rime",
+      "set": "Battle Styles",
+      "img": "https://den-cards.pokellector.com/305/Galarian-Mr-Rime.SWSH05.35.37561.png",
+      "rarity": "Rare",
+      "cardNum": "35/163"
+    },
+    {
+      "name": "Remoraid",
+      "set": "Battle Styles",
+      "img": "https://den-cards.pokellector.com/305/Remoraid.SWSH05.36.37562.png",
+      "rarity": "Common",
+      "cardNum": "36/163"
+    },
+    {
+      "name": "Octillery",
+      "set": "Battle Styles",
+      "img": "https://den-cards.pokellector.com/305/Octillery.SS5.37.36648.png",
+      "rarity": "Rare",
+      "cardNum": "37/163"
+    },
+    {
+      "name": "Corphish",
+      "set": "Battle Styles",
+      "img": "https://den-cards.pokellector.com/305/Corphish.SWSH05.38.37563.png",
+      "rarity": "Common",
+      "cardNum": "38/163"
+    },
+    {
+      "name": "Crawdaunt",
+      "set": "Battle Styles",
+      "img": "https://den-cards.pokellector.com/305/Crawdaunt.SWSH05.39.37564.png",
+      "rarity": "Uncommon",
+      "cardNum": "39/163"
+    },
+    {
+      "name": "Empoleon V",
+      "set": "Battle Styles",
+      "img": "https://den-cards.pokellector.com/305/Empoleon-V.SS5.40.36649.png",
+      "rarity": "Rare",
+      "cardNum": "40/163"
+    },
+    {
+      "name": "Frillish",
+      "set": "Battle Styles",
+      "img": "https://den-cards.pokellector.com/305/Frillish.SWSH05.41.37565.png",
+      "rarity": "Common",
+      "cardNum": "41/163"
+    },
+    {
+      "name": "Jellicent",
+      "set": "Battle Styles",
+      "img": "https://den-cards.pokellector.com/305/Jellicent.SWSH05.42.37566.png",
+      "rarity": "Rare",
+      "cardNum": "42/163"
+    },
+    {
+      "name": "Bruxish",
+      "set": "Battle Styles",
+      "img": "https://den-cards.pokellector.com/305/Bruxish.SWSH05.43.37567.png",
+      "rarity": "Uncommon",
+      "cardNum": "43/163"
+    },
+    {
+      "name": "Electabuzz",
+      "set": "Battle Styles",
+      "img": "https://den-cards.pokellector.com/305/Electabuzz.SWSH05.44.37568.png",
+      "rarity": "Common",
+      "cardNum": "44/163"
+    },
+    {
+      "name": "Electivire",
+      "set": "Battle Styles",
+      "img": "https://den-cards.pokellector.com/305/Electivire.SWSH05.45.37569.png",
+      "rarity": "Rare",
+      "cardNum": "45/163"
+    },
+    {
+      "name": "Shinx",
+      "set": "Battle Styles",
+      "img": "https://den-cards.pokellector.com/305/Shinx.SWSH05.46.37570.png",
+      "rarity": "Common",
+      "cardNum": "46/163"
+    },
+    {
+      "name": "Luxio",
+      "set": "Battle Styles",
+      "img": "https://den-cards.pokellector.com/305/Luxio.SWSH05.47.37571.png",
+      "rarity": "Uncommon",
+      "cardNum": "47/163"
+    },
+    {
+      "name": "Luxray",
+      "set": "Battle Styles",
+      "img": "https://den-cards.pokellector.com/305/Luxray.SWSH05.48.37572.png",
+      "rarity": "Rare",
+      "cardNum": "48/163"
+    },
+    {
+      "name": "Pachirisu",
+      "set": "Battle Styles",
+      "img": "https://den-cards.pokellector.com/305/Pachirisu.SWSH05.49.37573.png",
+      "rarity": "Common",
+      "cardNum": "49/163"
+    },
+    {
+      "name": "Tapu Koko V",
+      "set": "Battle Styles",
+      "img": "https://den-cards.pokellector.com/305/Tapu-Koko-V.SWSH05.50.37574.png",
+      "rarity": "Rare",
+      "cardNum": "50/163"
+    },
+    {
+      "name": "Tapu Koko VMAX",
+      "set": "Battle Styles",
+      "img": "https://den-cards.pokellector.com/305/Tapu-Koko-VMAX.SWSH05.51.37575.png",
+      "rarity": "Rare",
+      "cardNum": "51/163"
+    },
+    {
+      "name": "Yamper",
+      "set": "Battle Styles",
+      "img": "https://den-cards.pokellector.com/305/Yamper.SWSH05.52.37576.png",
+      "rarity": "Common",
+      "cardNum": "52/163"
+    },
+    {
+      "name": "Boltund",
+      "set": "Battle Styles",
+      "img": "https://den-cards.pokellector.com/305/Boltund.SWSH05.53.37577.png",
+      "rarity": "Rare",
+      "cardNum": "53/163"
+    },
+    {
+      "name": "Galarian Slowpoke",
+      "set": "Battle Styles",
+      "img": "https://den-cards.pokellector.com/305/Galarian-Slowpoke.SWSH05.54.37578.png",
+      "rarity": "Common",
+      "cardNum": "54/163"
+    },
+    {
+      "name": "Spoink",
+      "set": "Battle Styles",
+      "img": "https://den-cards.pokellector.com/305/Spoink.SWSH05.55.37579.png",
+      "rarity": "Common",
+      "cardNum": "55/163"
+    },
+    {
+      "name": "Grumpig",
+      "set": "Battle Styles",
+      "img": "https://den-cards.pokellector.com/305/Grumpig.SWSH05.56.37580.png",
+      "rarity": "Uncommon",
+      "cardNum": "56/163"
+    },
+    {
+      "name": "Baltoy",
+      "set": "Battle Styles",
+      "img": "https://den-cards.pokellector.com/305/Baltoy.SWSH05.57.37581.png",
+      "rarity": "Common",
+      "cardNum": "57/163"
+    },
+    {
+      "name": "Claydol",
+      "set": "Battle Styles",
+      "img": "https://den-cards.pokellector.com/305/Claydol.SWSH05.58.37582.png",
+      "rarity": "Rare",
+      "cardNum": "58/163"
+    },
+    {
+      "name": "Chimecho",
+      "set": "Battle Styles",
+      "img": "https://den-cards.pokellector.com/305/Chimecho.SWSH05.59.37583.png",
+      "rarity": "Common",
+      "cardNum": "59/163"
+    },
+    {
+      "name": "Espurr",
+      "set": "Battle Styles",
+      "img": "https://den-cards.pokellector.com/305/Espurr.SWSH05.60.37584.png",
+      "rarity": "Common",
+      "cardNum": "60/163"
+    },
+    {
+      "name": "Meowstic",
+      "set": "Battle Styles",
+      "img": "https://den-cards.pokellector.com/305/Meowstic.SWSH05.61.37585.png",
+      "rarity": "Rare",
+      "cardNum": "61/163"
+    },
+    {
+      "name": "Mimikyu V",
+      "set": "Battle Styles",
+      "img": "https://den-cards.pokellector.com/305/Mimikyu-V.SWSH05.62.37586.png",
+      "rarity": "Rare",
+      "cardNum": "62/163"
+    },
+    {
+      "name": "Necrozma V",
+      "set": "Battle Styles",
+      "img": "https://den-cards.pokellector.com/305/Necrozma-V.SWSH05.63.37587.png",
+      "rarity": "Rare",
+      "cardNum": "63/163"
+    },
+    {
+      "name": "Dottler",
+      "set": "Battle Styles",
+      "img": "https://den-cards.pokellector.com/305/Dottler.SWSH05.64.37588.png",
+      "rarity": "Uncommon",
+      "cardNum": "64/163"
+    },
+    {
+      "name": "Orbeetle",
+      "set": "Battle Styles",
+      "img": "https://den-cards.pokellector.com/305/Orbeetle.SWSH05.65.37589.png",
+      "rarity": "Rare",
+      "cardNum": "65/163"
+    },
+    {
+      "name": "Mankey",
+      "set": "Battle Styles",
+      "img": "https://den-cards.pokellector.com/305/Mankey.SWSH05.66.37590.png",
+      "rarity": "Common",
+      "cardNum": "66/163"
+    },
+    {
+      "name": "Primeape",
+      "set": "Battle Styles",
+      "img": "https://den-cards.pokellector.com/305/Primeape.SWSH05.67.37591.png",
+      "rarity": "Rare",
+      "cardNum": "67/163"
+    },
+    {
+      "name": "Onix",
+      "set": "Battle Styles",
+      "img": "https://den-cards.pokellector.com/305/Onix.SWSH05.68.37592.png",
+      "rarity": "Common",
+      "cardNum": "68/163"
+    },
+    {
+      "name": "Cubone",
+      "set": "Battle Styles",
+      "img": "https://den-cards.pokellector.com/305/Cubone.SWSH05.69.37593.png",
+      "rarity": "Common",
+      "cardNum": "69/163"
+    },
+    {
+      "name": "Marowak",
+      "set": "Battle Styles",
+      "img": "https://den-cards.pokellector.com/305/Marowak.SWSH05.70.37594.png",
+      "rarity": "Rare",
+      "cardNum": "70/163"
+    },
+    {
+      "name": "Gligar",
+      "set": "Battle Styles",
+      "img": "https://den-cards.pokellector.com/305/Gligar.SWSH05.71.37595.png",
+      "rarity": "Common",
+      "cardNum": "71/163"
+    },
+    {
+      "name": "Gliscor",
+      "set": "Battle Styles",
+      "img": "https://den-cards.pokellector.com/305/Gliscor.SWSH05.72.37596.png",
+      "rarity": "Uncommon",
+      "cardNum": "72/163"
+    },
+    {
+      "name": "Timburr",
+      "set": "Battle Styles",
+      "img": "https://den-cards.pokellector.com/305/Timburr.SWSH05.73.37597.png",
+      "rarity": "Common",
+      "cardNum": "73/163"
+    },
+    {
+      "name": "Gurdurr",
+      "set": "Battle Styles",
+      "img": "https://den-cards.pokellector.com/305/Gurdurr.SWSH05.74.37598.png",
+      "rarity": "Uncommon",
+      "cardNum": "74/163"
+    },
+    {
+      "name": "Conkeldurr",
+      "set": "Battle Styles",
+      "img": "https://den-cards.pokellector.com/305/Conkeldurr.SWSH05.75.37599.png",
+      "rarity": "Rare",
+      "cardNum": "75/163"
+    },
+    {
+      "name": "Mienfoo",
+      "set": "Battle Styles",
+      "img": "https://den-cards.pokellector.com/305/Mienfoo.SWSH05.76.37600.png",
+      "rarity": "Common",
+      "cardNum": "76/163"
+    },
+    {
+      "name": "Mienshao",
+      "set": "Battle Styles",
+      "img": "https://den-cards.pokellector.com/305/Mienshao.SS5.77.36650.png",
+      "rarity": "Rare",
+      "cardNum": "77/163"
+    },
+    {
+      "name": "Rolycoly",
+      "set": "Battle Styles",
+      "img": "https://den-cards.pokellector.com/305/Rolycoly.SWSH05.78.37601.png",
+      "rarity": "Common",
+      "cardNum": "78/163"
+    },
+    {
+      "name": "Carkol",
+      "set": "Battle Styles",
+      "img": "https://den-cards.pokellector.com/305/Carkol.SWSH05.79.37602.png",
+      "rarity": "Uncommon",
+      "cardNum": "79/163"
+    },
+    {
+      "name": "Coalossal",
+      "set": "Battle Styles",
+      "img": "https://den-cards.pokellector.com/305/Coalossal.SWSH05.80.37603.png",
+      "rarity": "Rare",
+      "cardNum": "80/163"
+    },
+    {
+      "name": "Silicobra",
+      "set": "Battle Styles",
+      "img": "https://den-cards.pokellector.com/305/Silicobra.SWSH05.81.37604.png",
+      "rarity": "Common",
+      "cardNum": "81/163"
+    },
+    {
+      "name": "Sandaconda",
+      "set": "Battle Styles",
+      "img": "https://den-cards.pokellector.com/305/Sandaconda.SWSH05.82.37605.png",
+      "rarity": "Rare",
+      "cardNum": "82/163"
+    },
+    {
+      "name": "Falinks",
+      "set": "Battle Styles",
+      "img": "https://den-cards.pokellector.com/305/Falinks.SWSH05.83.37606.png",
+      "rarity": "Rare",
+      "cardNum": "83/163"
+    },
+    {
+      "name": "Stonjourner",
+      "set": "Battle Styles",
+      "img": "https://den-cards.pokellector.com/305/Stonjourner.SWSH05.84.37607.png",
+      "rarity": "Rare",
+      "cardNum": "84/163"
+    },
+    {
+      "name": "Single Strike Urshifu V",
+      "set": "Battle Styles",
+      "img": "https://den-cards.pokellector.com/305/Single-Strike-Urshifu-V.SS5.85.36651.png",
+      "rarity": "Rare",
+      "cardNum": "85/163"
+    },
+    {
+      "name": "Single Strike Urshifu VMAX",
+      "set": "Battle Styles",
+      "img": "https://den-cards.pokellector.com/305/Single-Strike-Urshifu-VMAX.SS5.86.36652.png",
+      "rarity": "Rare",
+      "cardNum": "86/163"
+    },
+    {
+      "name": "Rapid Strike Urshifu V",
+      "set": "Battle Styles",
+      "img": "https://den-cards.pokellector.com/305/Rapid-Strike-Urshifu-V.SS5.87.36645.png",
+      "rarity": "Rare",
+      "cardNum": "87/163"
+    },
+    {
+      "name": "Rapid Strike Urshifu VMAX",
+      "set": "Battle Styles",
+      "img": "https://den-cards.pokellector.com/305/Rapid-Strike-Urshifu-VMAX.SS5.88.36653.png",
+      "rarity": "Rare",
+      "cardNum": "88/163"
+    },
+    {
+      "name": "Zubat",
+      "set": "Battle Styles",
+      "img": "https://den-cards.pokellector.com/305/Zubat.SWSH05.89.37608.png",
+      "rarity": "Common",
+      "cardNum": "89/163"
+    },
+    {
+      "name": "Golbat",
+      "set": "Battle Styles",
+      "img": "https://den-cards.pokellector.com/305/Golbat.SWSH05.90.37609.png",
+      "rarity": "Uncommon",
+      "cardNum": "90/163"
+    },
+    {
+      "name": "Crobat",
+      "set": "Battle Styles",
+      "img": "https://den-cards.pokellector.com/305/Crobat.SWSH05.91.37610.png",
+      "rarity": "Rare",
+      "cardNum": "91/163"
+    },
+    {
+      "name": "Galarian Slowbro",
+      "set": "Battle Styles",
+      "img": "https://den-cards.pokellector.com/305/Galarian-Slowbro.SWSH05.92.37611.png",
+      "rarity": "Rare",
+      "cardNum": "92/163"
+    },
+    {
+      "name": "Murkrow",
+      "set": "Battle Styles",
+      "img": "https://den-cards.pokellector.com/305/Murkrow.SWSH05.93.37612.png",
+      "rarity": "Common",
+      "cardNum": "93/163"
+    },
+    {
+      "name": "Honchkrow",
+      "set": "Battle Styles",
+      "img": "https://den-cards.pokellector.com/305/Honchkrow.SWSH05.94.37613.png",
+      "rarity": "Uncommon",
+      "cardNum": "94/163"
+    },
+    {
+      "name": "Houndour",
+      "set": "Battle Styles",
+      "img": "https://den-cards.pokellector.com/305/Houndour.SWSH05.95.37614.png",
+      "rarity": "Common",
+      "cardNum": "95/163"
+    },
+    {
+      "name": "Houndoom",
+      "set": "Battle Styles",
+      "img": "https://den-cards.pokellector.com/305/Houndoom.SS5.96.36646.png",
+      "rarity": "Rare",
+      "cardNum": "96/163"
+    },
+    {
+      "name": "Tyranitar V",
+      "set": "Battle Styles",
+      "img": "https://den-cards.pokellector.com/305/Tyranitar-V.SS5.97.36654.png",
+      "rarity": "Rare",
+      "cardNum": "97/163"
+    },
+    {
+      "name": "Morpeko",
+      "set": "Battle Styles",
+      "img": "https://den-cards.pokellector.com/305/Morpeko.SWSH05.98.37615.png",
+      "rarity": "Uncommon",
+      "cardNum": "98/163"
+    },
+    {
+      "name": "Steelix",
+      "set": "Battle Styles",
+      "img": "https://den-cards.pokellector.com/305/Steelix.SWSH05.99.37616.png",
+      "rarity": "Rare",
+      "cardNum": "99/163"
+    },
+    {
+      "name": "Mawile",
+      "set": "Battle Styles",
+      "img": "https://den-cards.pokellector.com/305/Mawile.SWSH05.100.37617.png",
+      "rarity": "Common",
+      "cardNum": "100/163"
+    },
+    {
+      "name": "Bronzor",
+      "set": "Battle Styles",
+      "img": "https://den-cards.pokellector.com/305/Bronzor.SWSH05.101.37618.png",
+      "rarity": "Common",
+      "cardNum": "101/163"
+    },
+    {
+      "name": "Bronzong",
+      "set": "Battle Styles",
+      "img": "https://den-cards.pokellector.com/305/Bronzong.SWSH05.102.37619.png",
+      "rarity": "Rare",
+      "cardNum": "102/163"
+    },
+    {
+      "name": "Pawniard",
+      "set": "Battle Styles",
+      "img": "https://den-cards.pokellector.com/305/Pawniard.SWSH05.103.37620.png",
+      "rarity": "Common",
+      "cardNum": "103/163"
+    },
+    {
+      "name": "Bisharp",
+      "set": "Battle Styles",
+      "img": "https://den-cards.pokellector.com/305/Bisharp.SWSH05.104.37621.png",
+      "rarity": "Uncommon",
+      "cardNum": "104/163"
+    },
+    {
+      "name": "Honedge",
+      "set": "Battle Styles",
+      "img": "https://den-cards.pokellector.com/305/Honedge.SWSH05.105.37622.png",
+      "rarity": "Common",
+      "cardNum": "105/163"
+    },
+    {
+      "name": "Doublade",
+      "set": "Battle Styles",
+      "img": "https://den-cards.pokellector.com/305/Doublade.SWSH05.106.37623.png",
+      "rarity": "Uncommon",
+      "cardNum": "106/163"
+    },
+    {
+      "name": "Aegislash",
+      "set": "Battle Styles",
+      "img": "https://den-cards.pokellector.com/305/Aegislash.SWSH05.107.37624.png",
+      "rarity": "Rare",
+      "cardNum": "107/163"
+    },
+    {
+      "name": "Aegislash",
+      "set": "Battle Styles",
+      "img": "https://den-cards.pokellector.com/305/Aegislash.SWSH05.108.37625.png",
+      "rarity": "Rare",
+      "cardNum": "108/163"
+    },
+    {
+      "name": "Corviknight V",
+      "set": "Battle Styles",
+      "img": "https://den-cards.pokellector.com/305/Corviknight-V.SWSH05.109.37626.png",
+      "rarity": "Rare",
+      "cardNum": "109/163"
+    },
+    {
+      "name": "Corviknight VMAX",
+      "set": "Battle Styles",
+      "img": "https://den-cards.pokellector.com/305/Corviknight-VMAX.SWSH05.110.37627.png",
+      "rarity": "Rare",
+      "cardNum": "110/163"
+    },
+    {
+      "name": "Spearow",
+      "set": "Battle Styles",
+      "img": "https://den-cards.pokellector.com/305/Spearow.SWSH05.111.37628.png",
+      "rarity": "Common",
+      "cardNum": "111/163"
+    },
+    {
+      "name": "Fearow",
+      "set": "Battle Styles",
+      "img": "https://den-cards.pokellector.com/305/Fearow.SWSH05.112.37629.png",
+      "rarity": "Uncommon",
+      "cardNum": "112/163"
+    },
+    {
+      "name": "Lickitung",
+      "set": "Battle Styles",
+      "img": "https://den-cards.pokellector.com/305/Lickitung.SWSH05.113.37630.png",
+      "rarity": "Common",
+      "cardNum": "113/163"
+    },
+    {
+      "name": "Lickilicky",
+      "set": "Battle Styles",
+      "img": "https://den-cards.pokellector.com/305/Lickilicky.SWSH05.114.37631.png",
+      "rarity": "Rare",
+      "cardNum": "114/163"
+    },
+    {
+      "name": "Glameow",
+      "set": "Battle Styles",
+      "img": "https://den-cards.pokellector.com/305/Glameow.SWSH05.115.37632.png",
+      "rarity": "Common",
+      "cardNum": "115/163"
+    },
+    {
+      "name": "Purugly",
+      "set": "Battle Styles",
+      "img": "https://den-cards.pokellector.com/305/Purugly.SWSH05.116.37633.png",
+      "rarity": "Uncommon",
+      "cardNum": "116/163"
+    },
+    {
+      "name": "Stoutland V",
+      "set": "Battle Styles",
+      "img": "https://den-cards.pokellector.com/305/Stoutland-V.SWSH05.117.37634.png",
+      "rarity": "Rare",
+      "cardNum": "117/163"
+    },
+    {
+      "name": "Bouffalant",
+      "set": "Battle Styles",
+      "img": "https://den-cards.pokellector.com/305/Bouffalant.SWSH05.118.37635.png",
+      "rarity": "Uncommon",
+      "cardNum": "118/163"
+    },
+    {
+      "name": "Drampa",
+      "set": "Battle Styles",
+      "img": "https://den-cards.pokellector.com/305/Drampa.SWSH05.119.37636.png",
+      "rarity": "Rare",
+      "cardNum": "119/163"
+    },
+    {
+      "name": "Indeedee",
+      "set": "Battle Styles",
+      "img": "https://den-cards.pokellector.com/305/Indeedee.SWSH05.120.37637.png",
+      "rarity": "Uncommon",
+      "cardNum": "120/163"
+    },
+    {
+      "name": "Bruno",
+      "set": "Battle Styles",
+      "img": "https://den-cards.pokellector.com/305/Bruno.SWSH05.121.37638.png",
+      "rarity": "Uncommon",
+      "cardNum": "121/163"
+    },
+    {
+      "name": "Camping Gear",
+      "set": "Battle Styles",
+      "img": "https://den-cards.pokellector.com/305/Camping-Gear.SWSH05.122.37639.png",
+      "rarity": "Uncommon",
+      "cardNum": "122/163"
+    },
+    {
+      "name": "Cheryl",
+      "set": "Battle Styles",
+      "img": "https://den-cards.pokellector.com/305/Cheryl.SWSH05.123.37640.png",
+      "rarity": "Uncommon",
+      "cardNum": "123/163"
+    },
+    {
+      "name": "Energy Recycler",
+      "set": "Battle Styles",
+      "img": "https://den-cards.pokellector.com/305/Energy-Recycler.SWSH05.124.37641.png",
+      "rarity": "Uncommon",
+      "cardNum": "124/163"
+    },
+    {
+      "name": "Escape Rope",
+      "set": "Battle Styles",
+      "img": "https://den-cards.pokellector.com/305/Escape-Rope.SWSH05.125.37642.png",
+      "rarity": "Uncommon",
+      "cardNum": "125/163"
+    },
+    {
+      "name": "Exp. Share",
+      "set": "Battle Styles",
+      "img": "https://den-cards.pokellector.com/305/Exp-Share.SWSH05.126.37643.png",
+      "rarity": "Uncommon",
+      "cardNum": "126/163"
+    },
+    {
+      "name": "Fan of Waves",
+      "set": "Battle Styles",
+      "img": "https://den-cards.pokellector.com/305/Fan-of-Waves.SWSH05.127.37644.png",
+      "rarity": "Uncommon",
+      "cardNum": "127/163"
+    },
+    {
+      "name": "Korrina’s Focus",
+      "set": "Battle Styles",
+      "img": "https://den-cards.pokellector.com/305/Korrinas-Focus.SWSH05.128.37645.png",
+      "rarity": "Uncommon",
+      "cardNum": "128/163"
+    },
+    {
+      "name": "Level Ball",
+      "set": "Battle Styles",
+      "img": "https://den-cards.pokellector.com/305/Level-Ball.SWSH05.129.37646.png",
+      "rarity": "Uncommon",
+      "cardNum": "129/163"
+    },
+    {
+      "name": "Phoebe",
+      "set": "Battle Styles",
+      "img": "https://den-cards.pokellector.com/305/Phoebe.SWSH05.130.37647.png",
+      "rarity": "Uncommon",
+      "cardNum": "130/163"
+    },
+    {
+      "name": "Rapid Strike Scroll of Swirls",
+      "set": "Battle Styles",
+      "img": "https://den-cards.pokellector.com/305/Rapid-Strike-Scroll-of-Swirls.SWSH05.131.37648.png",
+      "rarity": "Uncommon",
+      "cardNum": "131/163"
+    },
+    {
+      "name": "Rapid Strike Style Mustard",
+      "set": "Battle Styles",
+      "img": "https://den-cards.pokellector.com/305/Rapid-Strike-Style-Mustard.SWSH05.132.37649.png",
+      "rarity": "Uncommon",
+      "cardNum": "132/163"
+    },
+    {
+      "name": "Single Strike Scroll of Scorn",
+      "set": "Battle Styles",
+      "img": "https://den-cards.pokellector.com/305/Single-Strike-Scroll-of-Scorn.SWSH05.133.37650.png",
+      "rarity": "Uncommon",
+      "cardNum": "133/163"
+    },
+    {
+      "name": "Single Strike Style Mustard",
+      "set": "Battle Styles",
+      "img": "https://den-cards.pokellector.com/305/Single-Strike-Style-Mustard.SWSH05.134.37651.png",
+      "rarity": "Uncommon",
+      "cardNum": "134/163"
+    },
+    {
+      "name": "Sordward and Shielbert",
+      "set": "Battle Styles",
+      "img": "https://den-cards.pokellector.com/305/Sordward-and-Shielbert.SWSH05.135.37652.png",
+      "rarity": "Uncommon",
+      "cardNum": "135/163"
+    },
+    {
+      "name": "Tool Jammer",
+      "set": "Battle Styles",
+      "img": "https://den-cards.pokellector.com/305/Tool-Jammer.SWSH05.136.37653.png",
+      "rarity": "Uncommon",
+      "cardNum": "136/163"
+    },
+    {
+      "name": "Tower of Darkness",
+      "set": "Battle Styles",
+      "img": "https://den-cards.pokellector.com/305/Tower-of-Darkness.SWSH05.137.37654.png",
+      "rarity": "Uncommon",
+      "cardNum": "137/163"
+    },
+    {
+      "name": "Tower of Waters",
+      "set": "Battle Styles",
+      "img": "https://den-cards.pokellector.com/305/Tower-of-Waters.SWSH05.138.37655.png",
+      "rarity": "Uncommon",
+      "cardNum": "138/163"
+    },
+    {
+      "name": "Urn of Vitality",
+      "set": "Battle Styles",
+      "img": "https://den-cards.pokellector.com/305/Urn-of-Vitality.SWSH05.139.37656.png",
+      "rarity": "Uncommon",
+      "cardNum": "139/163"
+    },
+    {
+      "name": "Rapid Strike Energy",
+      "set": "Battle Styles",
+      "img": "https://den-cards.pokellector.com/305/Rapid-Strike-Energy.SWSH05.140.37657.png",
+      "rarity": "Uncommon",
+      "cardNum": "140/163"
+    },
+    {
+      "name": "Single Strike Energy",
+      "set": "Battle Styles",
+      "img": "https://den-cards.pokellector.com/305/Single-Strike-Energy.SWSH05.141.37658.png",
+      "rarity": "Uncommon",
+      "cardNum": "141/163"
+    },
+    {
+      "name": "Kricketune V",
+      "set": "Battle Styles",
+      "img": "https://den-cards.pokellector.com/305/Kricketune-V.SWSH05.142.37659.png",
+      "rarity": "Rare",
+      "cardNum": "142/163"
+    },
+    {
+      "name": "Flapple V",
+      "set": "Battle Styles",
+      "img": "https://den-cards.pokellector.com/305/Flapple-V.SWSH05.143.37660.png",
+      "rarity": "Rare",
+      "cardNum": "143/163"
+    },
+    {
+      "name": "Victini V",
+      "set": "Battle Styles",
+      "img": "https://den-cards.pokellector.com/305/Victini-V.SWSH05.144.37661.png",
+      "rarity": "Rare",
+      "cardNum": "144/163"
+    },
+    {
+      "name": "Empoleon V",
+      "set": "Battle Styles",
+      "img": "https://den-cards.pokellector.com/305/Empoleon-V.SWSH05.145.37708.png",
+      "rarity": "Rare",
+      "cardNum": "145/163"
+    },
+    {
+      "name": "Empoleon V",
+      "set": "Battle Styles",
+      "img": "https://den-cards.pokellector.com/305/Empoleon-V.SWSH05.146.37709.png",
+      "rarity": "Rare",
+      "cardNum": "146/163"
+    },
+    {
+      "name": "Tapu Koko V",
+      "set": "Battle Styles",
+      "img": "https://den-cards.pokellector.com/305/Tapu-Koko-V.SWSH05.147.37710.png",
+      "rarity": "Rare",
+      "cardNum": "147/163"
+    },
+    {
+      "name": "Mimikyu V",
+      "set": "Battle Styles",
+      "img": "https://den-cards.pokellector.com/305/Mimikyu-V.SWSH05.148.37665.png",
+      "rarity": "Rare",
+      "cardNum": "148/163"
+    },
+    {
+      "name": "Necrozma V",
+      "set": "Battle Styles",
+      "img": "https://den-cards.pokellector.com/305/Necrozma-V.SWSH05.149.37666.png",
+      "rarity": "Rare",
+      "cardNum": "149/163"
+    },
+    {
+      "name": "Single Strike Urshifu V",
+      "set": "Battle Styles",
+      "img": "https://den-cards.pokellector.com/305/Single-Strike-Urshifu-V.SWSH05.150.37713.png",
+      "rarity": "Rare",
+      "cardNum": "150/163"
+    },
+    {
+      "name": "Single Strike Urshifu V",
+      "set": "Battle Styles",
+      "img": "https://den-cards.pokellector.com/305/Single-Strike-Urshifu-V.SWSH05.151.37668.png",
+      "rarity": "Rare",
+      "cardNum": "151/163"
+    },
+    {
+      "name": "Rapid Strike Urshifu V",
+      "set": "Battle Styles",
+      "img": "https://den-cards.pokellector.com/305/Rapid-Strike-Urshifu-V.SWSH05.152.37715.png",
+      "rarity": "Rare",
+      "cardNum": "152/163"
+    },
+    {
+      "name": "Rapid Strike Urshifu V",
+      "set": "Battle Styles",
+      "img": "https://den-cards.pokellector.com/305/Rapid-Strike-Urshifu-V.SWSH05.153.37716.png",
+      "rarity": "Rare",
+      "cardNum": "153/163"
+    },
+    {
+      "name": "Tyranitar V",
+      "set": "Battle Styles",
+      "img": "https://den-cards.pokellector.com/305/Tyranitar-V.SWSH05.154.37671.png",
+      "rarity": "Rare",
+      "cardNum": "154/163"
+    },
+    {
+      "name": "Tyranitar V",
+      "set": "Battle Styles",
+      "img": "https://den-cards.pokellector.com/305/Tyranitar-V.SWSH05.155.37672.png",
+      "rarity": "Rare",
+      "cardNum": "155/163"
+    },
+    {
+      "name": "Corviknight V",
+      "set": "Battle Styles",
+      "img": "https://den-cards.pokellector.com/305/Corviknight-V.SWSH05.156.37673.png",
+      "rarity": "Rare",
+      "cardNum": "156/163"
+    },
+    {
+      "name": "Stoutland V",
+      "set": "Battle Styles",
+      "img": "https://den-cards.pokellector.com/305/Stoutland-V.SWSH05.157.37674.png",
+      "rarity": "Rare",
+      "cardNum": "157/163"
+    },
+    {
+      "name": "Bruno",
+      "set": "Battle Styles",
+      "img": "https://den-cards.pokellector.com/305/Bruno.SWSH05.158.37675.png",
+      "rarity": "Rare",
+      "cardNum": "158/163"
+    },
+    {
+      "name": "Cheryl",
+      "set": "Battle Styles",
+      "img": "https://den-cards.pokellector.com/305/Cheryl.SWSH05.159.37676.png",
+      "rarity": "Rare",
+      "cardNum": "159/163"
+    },
+    {
+      "name": "Korrina’s Focus",
+      "set": "Battle Styles",
+      "img": "https://den-cards.pokellector.com/305/Korrinas-Focus.SWSH05.160.37677.png",
+      "rarity": "Rare",
+      "cardNum": "160/163"
+    },
+    {
+      "name": "Phoebe",
+      "set": "Battle Styles",
+      "img": "https://den-cards.pokellector.com/305/Phoebe.SWSH05.161.37678.png",
+      "rarity": "Rare",
+      "cardNum": "161/163"
+    },
+    {
+      "name": "Rapid Strike Style Mustard",
+      "set": "Battle Styles",
+      "img": "https://den-cards.pokellector.com/305/Rapid-Strike-Style-Mustard.SWSH05.162.37679.png",
+      "rarity": "Rare",
+      "cardNum": "162/163"
+    },
+    {
+      "name": "Single Strike Style Mustard",
+      "set": "Battle Styles",
+      "img": "https://den-cards.pokellector.com/305/Single-Strike-Style-Mustard.SWSH05.163.37680.png",
+      "rarity": "Rare",
+      "cardNum": "163/163"
+    },
+    {
+      "name": "Flapple VMAX",
+      "set": "Battle Styles",
+      "img": "https://den-cards.pokellector.com/305/Flapple-VMAX.SWSH05.164.37681.png",
+      "rarity": "Secret Rare",
+      "cardNum": "164/163"
+    },
+    {
+      "name": "Victini VMAX",
+      "set": "Battle Styles",
+      "img": "https://den-cards.pokellector.com/305/Victini-VMAX.SWSH05.165.37682.png",
+      "rarity": "Secret Rare",
+      "cardNum": "165/163"
+    },
+    {
+      "name": "Tapu Koko VMAX",
+      "set": "Battle Styles",
+      "img": "https://den-cards.pokellector.com/305/Tapu-Koko-VMAX.SWSH05.166.37683.png",
+      "rarity": "Secret Rare",
+      "cardNum": "166/163"
+    },
+    {
+      "name": "Single Strike Urshifu VMAX",
+      "set": "Battle Styles",
+      "img": "https://den-cards.pokellector.com/305/Single-Strike-Urshifu-VMAX.SWSH05.167.37684.png",
+      "rarity": "Secret Rare",
+      "cardNum": "167/163"
+    },
+    {
+      "name": "Single Strike Urshifu VMAX",
+      "set": "Battle Styles",
+      "img": "https://den-cards.pokellector.com/305/Single-Strike-Urshifu-VMAX.SWSH05.168.37685.png",
+      "rarity": "Secret Rare",
+      "cardNum": "168/163"
+    },
+    {
+      "name": "Rapid Strike Urshifu VMAX",
+      "set": "Battle Styles",
+      "img": "https://den-cards.pokellector.com/305/Rapid-Strike-Urshifu-VMAX.SWSH05.169.37686.png",
+      "rarity": "Secret Rare",
+      "cardNum": "169/163"
+    },
+    {
+      "name": "Rapid Strike Urshifu VMAX",
+      "set": "Battle Styles",
+      "img": "https://den-cards.pokellector.com/305/Rapid-Strike-Urshifu-VMAX.SWSH05.170.37687.png",
+      "rarity": "Secret Rare",
+      "cardNum": "170/163"
+    },
+    {
+      "name": "Corviknight VMAX",
+      "set": "Battle Styles",
+      "img": "https://den-cards.pokellector.com/305/Corviknight-VMAX.SWSH05.171.37688.png",
+      "rarity": "Secret Rare",
+      "cardNum": "171/163"
+    },
+    {
+      "name": "Bruno",
+      "set": "Battle Styles",
+      "img": "https://den-cards.pokellector.com/305/Bruno.SWSH05.172.37689.png",
+      "rarity": "Secret Rare",
+      "cardNum": "172/163"
+    },
+    {
+      "name": "Cheryl",
+      "set": "Battle Styles",
+      "img": "https://den-cards.pokellector.com/305/Cheryl.SWSH05.173.37690.png",
+      "rarity": "Secret Rare",
+      "cardNum": "173/163"
+    },
+    {
+      "name": "Korrina’s Focus",
+      "set": "Battle Styles",
+      "img": "https://den-cards.pokellector.com/305/Korrinas-Focus.SWSH05.174.37691.png",
+      "rarity": "Secret Rare",
+      "cardNum": "174/163"
+    },
+    {
+      "name": "Phoebe",
+      "set": "Battle Styles",
+      "img": "https://den-cards.pokellector.com/305/Phoebe.SWSH05.175.37692.png",
+      "rarity": "Secret Rare",
+      "cardNum": "175/163"
+    },
+    {
+      "name": "Rapid Strike Style Mustard",
+      "set": "Battle Styles",
+      "img": "https://den-cards.pokellector.com/305/Rapid-Strike-Style-Mustard.SWSH05.176.37693.png",
+      "rarity": "Secret Rare",
+      "cardNum": "176/163"
+    },
+    {
+      "name": "Single Strike Style Mustard",
+      "set": "Battle Styles",
+      "img": "https://den-cards.pokellector.com/305/Single-Strike-Style-Mustard.SWSH05.177.37694.png",
+      "rarity": "Secret Rare",
+      "cardNum": "177/163"
+    },
+    {
+      "name": "Octillery",
+      "set": "Battle Styles",
+      "img": "https://den-cards.pokellector.com/305/Octillery.SWSH05.178.37695.png",
+      "rarity": "Secret Rare",
+      "cardNum": "178/163"
+    },
+    {
+      "name": "Houndoom",
+      "set": "Battle Styles",
+      "img": "https://den-cards.pokellector.com/305/Houndoom.SWSH05.179.37696.png",
+      "rarity": "Secret Rare",
+      "cardNum": "179/163"
+    },
+    {
+      "name": "Exp. Share",
+      "set": "Battle Styles",
+      "img": "https://den-cards.pokellector.com/305/Exp-Share.SWSH05.180.37697.png",
+      "rarity": "Secret Rare",
+      "cardNum": "180/163"
+    },
+    {
+      "name": "Level Ball",
+      "set": "Battle Styles",
+      "img": "https://den-cards.pokellector.com/305/Level-Ball.SWSH05.181.37698.png",
+      "rarity": "Secret Rare",
+      "cardNum": "181/163"
+    },
+    {
+      "name": "Rapid Strike Energy",
+      "set": "Battle Styles",
+      "img": "https://den-cards.pokellector.com/305/Rapid-Strike-Energy.SWSH05.182.37699.png",
+      "rarity": "Secret Rare",
+      "cardNum": "182/163"
+    },
+    {
+      "name": "Single Strike Energy",
+      "set": "Battle Styles",
+      "img": "https://den-cards.pokellector.com/305/Single-Strike-Energy.SWSH05.183.37700.png",
+      "rarity": "Secret Rare",
+      "cardNum": "183/163"
+    }
+  ]
+}

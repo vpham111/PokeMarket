@@ -1,0 +1,516 @@
+{
+  "setName": "Sun & Moon Strengthening Expansion",
+  "cards": [
+    {
+      "name": "Rowlet",
+      "set": "Sun & Moon Strengthening Expansion",
+      "img": "https://den-cards.pokellector.com/200/Rowlet.SM1+.1.14575.png",
+      "rarity": "Common",
+      "cardNum": "1/51"
+    },
+    {
+      "name": "Dartrix",
+      "set": "Sun & Moon Strengthening Expansion",
+      "img": "https://den-cards.pokellector.com/200/Dartrix.SM1+.2.14576.png",
+      "rarity": "Common",
+      "cardNum": "2/51"
+    },
+    {
+      "name": "Decidueye GX",
+      "set": "Sun & Moon Strengthening Expansion",
+      "img": "https://den-cards.pokellector.com/200/Decidueye-GX.SM1+.3.14577.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "3/51"
+    },
+    {
+      "name": "Grubbin",
+      "set": "Sun & Moon Strengthening Expansion",
+      "img": "https://den-cards.pokellector.com/200/Grubbin.SM1+.4.14578.png",
+      "rarity": "Common",
+      "cardNum": "4/51"
+    },
+    {
+      "name": "Fomantis",
+      "set": "Sun & Moon Strengthening Expansion",
+      "img": "https://den-cards.pokellector.com/200/Fomantis.SM1+.5.14579.png",
+      "rarity": "Common",
+      "cardNum": "5/51"
+    },
+    {
+      "name": "Lurantis",
+      "set": "Sun & Moon Strengthening Expansion",
+      "img": "https://den-cards.pokellector.com/200/Lurantis.SM1+.6.13978.png",
+      "rarity": "Common",
+      "cardNum": "6/51"
+    },
+    {
+      "name": "Litten",
+      "set": "Sun & Moon Strengthening Expansion",
+      "img": "https://den-cards.pokellector.com/200/Litten.SM1+.7.14580.png",
+      "rarity": "Common",
+      "cardNum": "7/51"
+    },
+    {
+      "name": "Torracat",
+      "set": "Sun & Moon Strengthening Expansion",
+      "img": "https://den-cards.pokellector.com/200/Torracat.SM1+.8.14581.png",
+      "rarity": "Common",
+      "cardNum": "8/51"
+    },
+    {
+      "name": "Incineroar GX",
+      "set": "Sun & Moon Strengthening Expansion",
+      "img": "https://den-cards.pokellector.com/200/Incineroar-GX.SM1+.9.14582.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "9/51"
+    },
+    {
+      "name": "Oricorio",
+      "set": "Sun & Moon Strengthening Expansion",
+      "img": "https://den-cards.pokellector.com/200/Oricorio.SM1+.10.13979.png",
+      "rarity": "Common",
+      "cardNum": "10/51"
+    },
+    {
+      "name": "Poliwag",
+      "set": "Sun & Moon Strengthening Expansion",
+      "img": "https://den-cards.pokellector.com/200/Poliwag.SM1+.11.14583.png",
+      "rarity": "Common",
+      "cardNum": "11/51"
+    },
+    {
+      "name": "Poliwhirl",
+      "set": "Sun & Moon Strengthening Expansion",
+      "img": "https://den-cards.pokellector.com/200/Poliwhirl.SM1+.12.14584.png",
+      "rarity": "Common",
+      "cardNum": "12/51"
+    },
+    {
+      "name": "Politoed",
+      "set": "Sun & Moon Strengthening Expansion",
+      "img": "https://den-cards.pokellector.com/200/Politoed.SM1+.13.14585.png",
+      "rarity": "Common",
+      "cardNum": "13/51"
+    },
+    {
+      "name": "Popplio",
+      "set": "Sun & Moon Strengthening Expansion",
+      "img": "https://den-cards.pokellector.com/200/Popplio.SM1+.14.14586.png",
+      "rarity": "Common",
+      "cardNum": "14/51"
+    },
+    {
+      "name": "Brionne",
+      "set": "Sun & Moon Strengthening Expansion",
+      "img": "https://den-cards.pokellector.com/200/Brionne.SM1+.15.14587.png",
+      "rarity": "Common",
+      "cardNum": "15/51"
+    },
+    {
+      "name": "Primarina GX",
+      "set": "Sun & Moon Strengthening Expansion",
+      "img": "https://den-cards.pokellector.com/200/Primarina-GX.SM1+.16.14588.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "16/51"
+    },
+    {
+      "name": "Dewpider",
+      "set": "Sun & Moon Strengthening Expansion",
+      "img": "https://den-cards.pokellector.com/200/Dewpider.SM1+.17.14589.png",
+      "rarity": "Common",
+      "cardNum": "17/51"
+    },
+    {
+      "name": "Araquanid",
+      "set": "Sun & Moon Strengthening Expansion",
+      "img": "https://den-cards.pokellector.com/200/Araquanid.SM1+.18.14590.png",
+      "rarity": "Common",
+      "cardNum": "18/51"
+    },
+    {
+      "name": "Pyukumuku",
+      "set": "Sun & Moon Strengthening Expansion",
+      "img": "https://den-cards.pokellector.com/200/Pyukumuku.SM1+.19.14591.png",
+      "rarity": "Common",
+      "cardNum": "19/51"
+    },
+    {
+      "name": "Charjabug",
+      "set": "Sun & Moon Strengthening Expansion",
+      "img": "https://den-cards.pokellector.com/200/Charjabug.SM1+.20.14592.png",
+      "rarity": "Common",
+      "cardNum": "20/51"
+    },
+    {
+      "name": "Vikavolt GX",
+      "set": "Sun & Moon Strengthening Expansion",
+      "img": "https://den-cards.pokellector.com/200/Vikavolt-GX.SM1+.21.13939.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "21/51"
+    },
+    {
+      "name": "Oricorio",
+      "set": "Sun & Moon Strengthening Expansion",
+      "img": "https://den-cards.pokellector.com/200/Oricorio.SM1+.22.14593.png",
+      "rarity": "Common",
+      "cardNum": "22/51"
+    },
+    {
+      "name": "Oricorio",
+      "set": "Sun & Moon Strengthening Expansion",
+      "img": "https://den-cards.pokellector.com/200/Oricorio.SM1+.23.13981.png",
+      "rarity": "Common",
+      "cardNum": "23/51"
+    },
+    {
+      "name": "Oricorio",
+      "set": "Sun & Moon Strengthening Expansion",
+      "img": "https://den-cards.pokellector.com/200/Oricorio.SM1+.24.13962.png",
+      "rarity": "Common",
+      "cardNum": "24/51"
+    },
+    {
+      "name": "Mareanie",
+      "set": "Sun & Moon Strengthening Expansion",
+      "img": "https://den-cards.pokellector.com/200/Mareanie.SM1+.25.14594.png",
+      "rarity": "Common",
+      "cardNum": "25/51"
+    },
+    {
+      "name": "Toxapex GX",
+      "set": "Sun & Moon Strengthening Expansion",
+      "img": "https://den-cards.pokellector.com/200/Toxapex-GX.SM1+.26.14001.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "26/51"
+    },
+    {
+      "name": "Cosmog",
+      "set": "Sun & Moon Strengthening Expansion",
+      "img": "https://den-cards.pokellector.com/200/Cosmog.SM1+.27.14595.png",
+      "rarity": "Common",
+      "cardNum": "27/51"
+    },
+    {
+      "name": "Cosmoem",
+      "set": "Sun & Moon Strengthening Expansion",
+      "img": "https://den-cards.pokellector.com/200/Cosmoem.SM1+.28.14596.png",
+      "rarity": "Common",
+      "cardNum": "28/51"
+    },
+    {
+      "name": "Lunala",
+      "set": "Sun & Moon Strengthening Expansion",
+      "img": "https://den-cards.pokellector.com/200/Lunala.SM1+.29.13932.png",
+      "rarity": "Common",
+      "cardNum": "29/51"
+    },
+    {
+      "name": "Sudowoodo",
+      "set": "Sun & Moon Strengthening Expansion",
+      "img": "https://den-cards.pokellector.com/200/Sudowoodo.SM1+.30.14574.png",
+      "rarity": "Common",
+      "cardNum": "30/51"
+    },
+    {
+      "name": "Mudbray",
+      "set": "Sun & Moon Strengthening Expansion",
+      "img": "https://den-cards.pokellector.com/200/Mudbray.SM1+.31.13983.png",
+      "rarity": "Common",
+      "cardNum": "31/51"
+    },
+    {
+      "name": "Mudsdale",
+      "set": "Sun & Moon Strengthening Expansion",
+      "img": "https://den-cards.pokellector.com/200/Mudsdale.SM1+.32.13984.png",
+      "rarity": "Common",
+      "cardNum": "32/51"
+    },
+    {
+      "name": "Passimian",
+      "set": "Sun & Moon Strengthening Expansion",
+      "img": "https://den-cards.pokellector.com/200/Passimian.SM1+.33.14597.png",
+      "rarity": "Common",
+      "cardNum": "33/51"
+    },
+    {
+      "name": "Sandygast",
+      "set": "Sun & Moon Strengthening Expansion",
+      "img": "https://den-cards.pokellector.com/200/Sandygast.SM1+.34.14598.png",
+      "rarity": "Common",
+      "cardNum": "34/51"
+    },
+    {
+      "name": "Palossand",
+      "set": "Sun & Moon Strengthening Expansion",
+      "img": "https://den-cards.pokellector.com/200/Palossand.SM1+.35.14599.png",
+      "rarity": "Common",
+      "cardNum": "35/51"
+    },
+    {
+      "name": "Alolan Rattata",
+      "set": "Sun & Moon Strengthening Expansion",
+      "img": "https://den-cards.pokellector.com/200/Alolan-Rattata.SM1+.36.14600.png",
+      "rarity": "Common",
+      "cardNum": "36/51"
+    },
+    {
+      "name": "Alolan Raticate",
+      "set": "Sun & Moon Strengthening Expansion",
+      "img": "https://den-cards.pokellector.com/200/Alolan-Raticate.SM1+.37.14601.png",
+      "rarity": "Common",
+      "cardNum": "37/51"
+    },
+    {
+      "name": "Absol",
+      "set": "Sun & Moon Strengthening Expansion",
+      "img": "https://den-cards.pokellector.com/200/Absol.SM1+.38.13940.png",
+      "rarity": "Common",
+      "cardNum": "38/51"
+    },
+    {
+      "name": "Solgaleo",
+      "set": "Sun & Moon Strengthening Expansion",
+      "img": "https://den-cards.pokellector.com/200/Solgaleo.SM1+.39.13968.png",
+      "rarity": "Common",
+      "cardNum": "39/51"
+    },
+    {
+      "name": "Sylveon GX",
+      "set": "Sun & Moon Strengthening Expansion",
+      "img": "https://den-cards.pokellector.com/200/Sylveon-GX.SM1+.40.13931.png",
+      "rarity": "Common",
+      "cardNum": "40/51"
+    },
+    {
+      "name": "Eevee",
+      "set": "Sun & Moon Strengthening Expansion",
+      "img": "https://den-cards.pokellector.com/200/Eevee.SM1+.41.13977.png",
+      "rarity": "Common",
+      "cardNum": "41/51"
+    },
+    {
+      "name": "Drampa GX",
+      "set": "Sun & Moon Strengthening Expansion",
+      "img": "https://den-cards.pokellector.com/200/Drampa-GX.SM1+.42.13967.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "42/51"
+    },
+    {
+      "name": "Energy Recycle",
+      "set": "Sun & Moon Strengthening Expansion",
+      "img": "https://den-cards.pokellector.com/200/Energy-Recycle.SM1+.43.13975.png",
+      "rarity": "Common",
+      "cardNum": "43/51"
+    },
+    {
+      "name": "Enhanced Hammer",
+      "set": "Sun & Moon Strengthening Expansion",
+      "img": "https://den-cards.pokellector.com/200/Enhanced-Hammer.SM1+.44.13982.png",
+      "rarity": "Common",
+      "cardNum": "44/51"
+    },
+    {
+      "name": "Ultra Ball",
+      "set": "Sun & Moon Strengthening Expansion",
+      "img": "https://den-cards.pokellector.com/200/Ultra-Ball.SM1+.45.14602.png",
+      "rarity": "Common",
+      "cardNum": "45/51"
+    },
+    {
+      "name": "Rare Candy",
+      "set": "Sun & Moon Strengthening Expansion",
+      "img": "https://den-cards.pokellector.com/200/Rare-Candy.SM1+.46.13985.png",
+      "rarity": "Common",
+      "cardNum": "46/51"
+    },
+    {
+      "name": "Multi Switch",
+      "set": "Sun & Moon Strengthening Expansion",
+      "img": "https://den-cards.pokellector.com/200/Multi-Switch.SM1+.47.13937.png",
+      "rarity": "Common",
+      "cardNum": "47/51"
+    },
+    {
+      "name": "Max Potion",
+      "set": "Sun & Moon Strengthening Expansion",
+      "img": "https://den-cards.pokellector.com/200/Max-Potion.SM1+.48.13930.png",
+      "rarity": "Common",
+      "cardNum": "48/51"
+    },
+    {
+      "name": "Muscle Band",
+      "set": "Sun & Moon Strengthening Expansion",
+      "img": "https://den-cards.pokellector.com/200/Muscle-Band.SM1+.49.13980.png",
+      "rarity": "Common",
+      "cardNum": "49/51"
+    },
+    {
+      "name": "Altar of the Moon",
+      "set": "Sun & Moon Strengthening Expansion",
+      "img": "https://den-cards.pokellector.com/200/Altar-of-the-Moon.SM1+.50.13976.png",
+      "rarity": "Common",
+      "cardNum": "50/51"
+    },
+    {
+      "name": "Altar of the Sun",
+      "set": "Sun & Moon Strengthening Expansion",
+      "img": "https://den-cards.pokellector.com/200/Altar-of-the-Sun.SM1+.51.13933.png",
+      "rarity": "Common",
+      "cardNum": "51/51"
+    },
+    {
+      "name": "Decidueye GX",
+      "set": "Sun & Moon Strengthening Expansion",
+      "img": "https://den-cards.pokellector.com/200/Decidueye-GX.SM1+.52.14007.png",
+      "rarity": "Secret Rare",
+      "cardNum": "52/51"
+    },
+    {
+      "name": "Incineroar GX",
+      "set": "Sun & Moon Strengthening Expansion",
+      "img": "https://den-cards.pokellector.com/200/Incineroar-GX.SM1+.53.14603.png",
+      "rarity": "Secret Rare",
+      "cardNum": "53/51"
+    },
+    {
+      "name": "Primarina GX",
+      "set": "Sun & Moon Strengthening Expansion",
+      "img": "https://den-cards.pokellector.com/200/Primarina-GX.SM1+.54.14604.png",
+      "rarity": "Secret Rare",
+      "cardNum": "54/51"
+    },
+    {
+      "name": "Vikavolt GX",
+      "set": "Sun & Moon Strengthening Expansion",
+      "img": "https://den-cards.pokellector.com/200/Vikavolt-GX.SM1+.55.14605.png",
+      "rarity": "Secret Rare",
+      "cardNum": "55/51"
+    },
+    {
+      "name": "Toxapex GX",
+      "set": "Sun & Moon Strengthening Expansion",
+      "img": "https://den-cards.pokellector.com/200/Toxapex-GX.SM1+.56.14606.png",
+      "rarity": "Secret Rare",
+      "cardNum": "56/51"
+    },
+    {
+      "name": "Sylveon GX",
+      "set": "Sun & Moon Strengthening Expansion",
+      "img": "https://den-cards.pokellector.com/200/Sylveon-GX.SM1+.57.14607.png",
+      "rarity": "Secret Rare",
+      "cardNum": "57/51"
+    },
+    {
+      "name": "Drampa GX",
+      "set": "Sun & Moon Strengthening Expansion",
+      "img": "https://den-cards.pokellector.com/200/Drampa-GX.SM1+.58.14608.png",
+      "rarity": "Secret Rare",
+      "cardNum": "58/51"
+    },
+    {
+      "name": "Decidueye GX",
+      "set": "Sun & Moon Strengthening Expansion",
+      "img": "https://den-cards.pokellector.com/200/Decidueye-GX.SM1+.59.14008.png",
+      "rarity": "Secret Rare",
+      "cardNum": "59/51"
+    },
+    {
+      "name": "Incineroar GX",
+      "set": "Sun & Moon Strengthening Expansion",
+      "img": "https://den-cards.pokellector.com/200/Incineroar-GX.SM1+.60.14609.png",
+      "rarity": "Secret Rare",
+      "cardNum": "60/51"
+    },
+    {
+      "name": "Primarina GX",
+      "set": "Sun & Moon Strengthening Expansion",
+      "img": "https://den-cards.pokellector.com/200/Primarina-GX.SM1+.61.14610.png",
+      "rarity": "Secret Rare",
+      "cardNum": "61/51"
+    },
+    {
+      "name": "Vikavolt GX",
+      "set": "Sun & Moon Strengthening Expansion",
+      "img": "https://den-cards.pokellector.com/200/Vikavolt-GX.SM1+.62.14611.png",
+      "rarity": "Secret Rare",
+      "cardNum": "62/51"
+    },
+    {
+      "name": "Toxapex GX",
+      "set": "Sun & Moon Strengthening Expansion",
+      "img": "https://den-cards.pokellector.com/200/Toxapex-GX.SM1+.63.14612.png",
+      "rarity": "Secret Rare",
+      "cardNum": "63/51"
+    },
+    {
+      "name": "Sylveon GX",
+      "set": "Sun & Moon Strengthening Expansion",
+      "img": "https://den-cards.pokellector.com/200/Sylveon-GX.SM1+.64.14613.png",
+      "rarity": "Secret Rare",
+      "cardNum": "64/51"
+    },
+    {
+      "name": "Drampa GX",
+      "set": "Sun & Moon Strengthening Expansion",
+      "img": "https://den-cards.pokellector.com/200/Drampa-GX.SM1+.65.14614.png",
+      "rarity": "Secret Rare",
+      "cardNum": "65/51"
+    },
+    {
+      "name": "Rare Candy",
+      "set": "Sun & Moon Strengthening Expansion",
+      "img": "https://den-cards.pokellector.com/200/Rare-Candy.SM1+.66.14615.png",
+      "rarity": "Secret Rare",
+      "cardNum": "66/51"
+    },
+    {
+      "name": "Double Colorless Energy",
+      "set": "Sun & Moon Strengthening Expansion",
+      "img": "https://den-cards.pokellector.com/200/Double-Colorless-Energy.SM1+.67.14616.png",
+      "rarity": "Secret Rare",
+      "cardNum": "67/51"
+    },
+    {
+      "name": "Grass Energy",
+      "set": "Sun & Moon Strengthening Expansion",
+      "img": "https://den-cards.pokellector.com/200/Grass-Energy.SM1+.68.23186.png",
+      "rarity": "Secret Rare",
+      "cardNum": "68/51"
+    },
+    {
+      "name": "Fairy Energy",
+      "set": "Sun & Moon Strengthening Expansion",
+      "img": "https://den-cards.pokellector.com/200/Fairy-Energy.SM1+.FAI0.14635.png",
+      "rarity": "Common",
+      "cardNum": ""
+    },
+    {
+      "name": "Fire Energy",
+      "set": "Sun & Moon Strengthening Expansion",
+      "img": "https://den-cards.pokellector.com/200/Fire-Energy.SM1+.FIR0.14636.png",
+      "rarity": "Common",
+      "cardNum": ""
+    },
+    {
+      "name": "Grass Energy",
+      "set": "Sun & Moon Strengthening Expansion",
+      "img": "https://den-cards.pokellector.com/200/Grass-Energy.SM1+.GRA0.14617.png",
+      "rarity": "Secret Rare",
+      "cardNum": ""
+    },
+    {
+      "name": "Metal Energy",
+      "set": "Sun & Moon Strengthening Expansion",
+      "img": "https://den-cards.pokellector.com/200/Metal-Energy.SM1+.MET0.14633.png",
+      "rarity": "Common",
+      "cardNum": ""
+    },
+    {
+      "name": "Psychic Energy",
+      "set": "Sun & Moon Strengthening Expansion",
+      "img": "https://den-cards.pokellector.com/200/Psychic-Energy.SM1+.PSY0.14634.png",
+      "rarity": "Common",
+      "cardNum": ""
+    }
+  ]
+}

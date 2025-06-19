@@ -1,0 +1,880 @@
+{
+  "setName": "GX Battle Boost",
+  "cards": [
+    {
+      "name": "Exeggcute",
+      "set": "GX Battle Boost",
+      "img": "https://den-cards.pokellector.com/228/Exeggcute.SM4+.1.19577.png",
+      "rarity": "Common",
+      "cardNum": "1/114"
+    },
+    {
+      "name": "Pinsir",
+      "set": "GX Battle Boost",
+      "img": "https://den-cards.pokellector.com/228/Pinsir.SM4+.2.19578.png",
+      "rarity": "Common",
+      "cardNum": "2/114"
+    },
+    {
+      "name": "Grubbin",
+      "set": "GX Battle Boost",
+      "img": "https://den-cards.pokellector.com/228/Grubbin.SM4+.3.19579.png",
+      "rarity": "Common",
+      "cardNum": "3/114"
+    },
+    {
+      "name": "Dewpider",
+      "set": "GX Battle Boost",
+      "img": "https://den-cards.pokellector.com/228/Dewpider.SM4+.4.19580.png",
+      "rarity": "Common",
+      "cardNum": "4/114"
+    },
+    {
+      "name": "Araquanid",
+      "set": "GX Battle Boost",
+      "img": "https://den-cards.pokellector.com/228/Araquanid.SM4+.5.19581.png",
+      "rarity": "Common",
+      "cardNum": "5/114"
+    },
+    {
+      "name": "Fomantis",
+      "set": "GX Battle Boost",
+      "img": "https://den-cards.pokellector.com/228/Fomantis.SM4+.6.19582.png",
+      "rarity": "Common",
+      "cardNum": "6/114"
+    },
+    {
+      "name": "Lurantis",
+      "set": "GX Battle Boost",
+      "img": "https://den-cards.pokellector.com/228/Lurantis.SM4+.7.19583.png",
+      "rarity": "Common",
+      "cardNum": "7/114"
+    },
+    {
+      "name": "Bounsweet",
+      "set": "GX Battle Boost",
+      "img": "https://den-cards.pokellector.com/228/Bounsweet.SM4+.8.19584.png",
+      "rarity": "Common",
+      "cardNum": "8/114"
+    },
+    {
+      "name": "Steenee",
+      "set": "GX Battle Boost",
+      "img": "https://den-cards.pokellector.com/228/Steenee.SM4+.9.19585.png",
+      "rarity": "Common",
+      "cardNum": "9/114"
+    },
+    {
+      "name": "Tsareena",
+      "set": "GX Battle Boost",
+      "img": "https://den-cards.pokellector.com/228/Tsareena.SM4+.10.19586.png",
+      "rarity": "Common",
+      "cardNum": "10/114"
+    },
+    {
+      "name": "Tapu Bulu",
+      "set": "GX Battle Boost",
+      "img": "https://den-cards.pokellector.com/228/Tapu-Bulu.SM4+.11.19587.png",
+      "rarity": "Common",
+      "cardNum": "11/114"
+    },
+    {
+      "name": "Pheromosa GX",
+      "set": "GX Battle Boost",
+      "img": "https://den-cards.pokellector.com/228/Pheromosa-GX.SM4+.12.19456.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "12/114"
+    },
+    {
+      "name": "Ho-Oh GX",
+      "set": "GX Battle Boost",
+      "img": "https://den-cards.pokellector.com/228/Ho-Oh-GX.SM4+.13.19588.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "13/114"
+    },
+    {
+      "name": "Victini",
+      "set": "GX Battle Boost",
+      "img": "https://den-cards.pokellector.com/228/Victini.SM4+.14.19589.png",
+      "rarity": "Common",
+      "cardNum": "14/114"
+    },
+    {
+      "name": "Litwick",
+      "set": "GX Battle Boost",
+      "img": "https://den-cards.pokellector.com/228/Litwick.SM4+.15.19590.png",
+      "rarity": "Common",
+      "cardNum": "15/114"
+    },
+    {
+      "name": "Lampent",
+      "set": "GX Battle Boost",
+      "img": "https://den-cards.pokellector.com/228/Lampent.SM4+.16.19591.png",
+      "rarity": "Common",
+      "cardNum": "16/114"
+    },
+    {
+      "name": "Chandelure",
+      "set": "GX Battle Boost",
+      "img": "https://den-cards.pokellector.com/228/Chandelure.SM4+.17.19592.png",
+      "rarity": "Common",
+      "cardNum": "17/114"
+    },
+    {
+      "name": "Salandit",
+      "set": "GX Battle Boost",
+      "img": "https://den-cards.pokellector.com/228/Salandit.SM4+.18.19593.png",
+      "rarity": "Common",
+      "cardNum": "18/114"
+    },
+    {
+      "name": "Salazzle",
+      "set": "GX Battle Boost",
+      "img": "https://den-cards.pokellector.com/228/Salazzle.SM4+.19.19594.png",
+      "rarity": "Common",
+      "cardNum": "19/114"
+    },
+    {
+      "name": "Alolan Sandshrew",
+      "set": "GX Battle Boost",
+      "img": "https://den-cards.pokellector.com/228/Alolan-Sandshrew.SM4+.20.19595.png",
+      "rarity": "Common",
+      "cardNum": "20/114"
+    },
+    {
+      "name": "Alolan Sandslash",
+      "set": "GX Battle Boost",
+      "img": "https://den-cards.pokellector.com/228/Alolan-Sandslash.SM4+.21.19596.png",
+      "rarity": "Common",
+      "cardNum": "21/114"
+    },
+    {
+      "name": "Alolan Vulpix",
+      "set": "GX Battle Boost",
+      "img": "https://den-cards.pokellector.com/228/Alolan-Vulpix.SM4+.22.19597.png",
+      "rarity": "Common",
+      "cardNum": "22/114"
+    },
+    {
+      "name": "Alolan Ninetales",
+      "set": "GX Battle Boost",
+      "img": "https://den-cards.pokellector.com/228/Alolan-Ninetales.SM4+.23.19598.png",
+      "rarity": "Common",
+      "cardNum": "23/114"
+    },
+    {
+      "name": "Regice",
+      "set": "GX Battle Boost",
+      "img": "https://den-cards.pokellector.com/228/Regice.SM4+.24.19599.png",
+      "rarity": "Common",
+      "cardNum": "24/114"
+    },
+    {
+      "name": "Pyukumuku",
+      "set": "GX Battle Boost",
+      "img": "https://den-cards.pokellector.com/228/Pyukumuku.SM4+.25.19600.png",
+      "rarity": "Common",
+      "cardNum": "25/114"
+    },
+    {
+      "name": "Tapu Fini",
+      "set": "GX Battle Boost",
+      "img": "https://den-cards.pokellector.com/228/Tapu-Fini.SM4+.26.19601.png",
+      "rarity": "Common",
+      "cardNum": "26/114"
+    },
+    {
+      "name": "Tapu Fini GX",
+      "set": "GX Battle Boost",
+      "img": "https://den-cards.pokellector.com/228/Tapu-Fini-GX.SM4+.27.19602.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "27/114"
+    },
+    {
+      "name": "Pikachu",
+      "set": "GX Battle Boost",
+      "img": "https://den-cards.pokellector.com/228/Pikachu.SM4+.28.19603.png",
+      "rarity": "Common",
+      "cardNum": "28/114"
+    },
+    {
+      "name": "Raichu",
+      "set": "GX Battle Boost",
+      "img": "https://den-cards.pokellector.com/228/Raichu.SM4+.29.19604.png",
+      "rarity": "Common",
+      "cardNum": "29/114"
+    },
+    {
+      "name": "Charjabug",
+      "set": "GX Battle Boost",
+      "img": "https://den-cards.pokellector.com/228/Charjabug.SM4+.30.19605.png",
+      "rarity": "Common",
+      "cardNum": "30/114"
+    },
+    {
+      "name": "Vikavolt",
+      "set": "GX Battle Boost",
+      "img": "https://den-cards.pokellector.com/228/Vikavolt.SM4+.31.19606.png",
+      "rarity": "Common",
+      "cardNum": "31/114"
+    },
+    {
+      "name": "Tapu Koko GX",
+      "set": "GX Battle Boost",
+      "img": "https://den-cards.pokellector.com/228/Tapu-Koko-GX.SM4+.32.19607.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "32/114"
+    },
+    {
+      "name": "Xurkitree GX",
+      "set": "GX Battle Boost",
+      "img": "https://den-cards.pokellector.com/228/Xurkitree-GX.SM4+.33.19475.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "33/114"
+    },
+    {
+      "name": "Alolan Grimer",
+      "set": "GX Battle Boost",
+      "img": "https://den-cards.pokellector.com/228/Alolan-Grimer.SM4+.34.19608.png",
+      "rarity": "Common",
+      "cardNum": "34/114"
+    },
+    {
+      "name": "Alolan Muk",
+      "set": "GX Battle Boost",
+      "img": "https://den-cards.pokellector.com/228/Alolan-Muk.SM4+.35.19609.png",
+      "rarity": "Common",
+      "cardNum": "35/114"
+    },
+    {
+      "name": "Mewtwo GX",
+      "set": "GX Battle Boost",
+      "img": "https://den-cards.pokellector.com/228/Mewtwo-GX.SM4+.36.19610.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "36/114"
+    },
+    {
+      "name": "Wobbuffet",
+      "set": "GX Battle Boost",
+      "img": "https://den-cards.pokellector.com/228/Wobbuffet.SM4+.37.19611.png",
+      "rarity": "Common",
+      "cardNum": "37/114"
+    },
+    {
+      "name": "Seviper",
+      "set": "GX Battle Boost",
+      "img": "https://den-cards.pokellector.com/228/Seviper.SM4+.38.19612.png",
+      "rarity": "Common",
+      "cardNum": "38/114"
+    },
+    {
+      "name": "Trubbish",
+      "set": "GX Battle Boost",
+      "img": "https://den-cards.pokellector.com/228/Trubbish.SM4+.39.19613.png",
+      "rarity": "Common",
+      "cardNum": "39/114"
+    },
+    {
+      "name": "Garbodor",
+      "set": "GX Battle Boost",
+      "img": "https://den-cards.pokellector.com/228/Garbodor.SM4+.40.19614.png",
+      "rarity": "Common",
+      "cardNum": "40/114"
+    },
+    {
+      "name": "Oricorio",
+      "set": "GX Battle Boost",
+      "img": "https://den-cards.pokellector.com/228/Oricorio.SM4+.41.19615.png",
+      "rarity": "Common",
+      "cardNum": "41/114"
+    },
+    {
+      "name": "Oricorio",
+      "set": "GX Battle Boost",
+      "img": "https://den-cards.pokellector.com/228/Oricorio.SM4+.42.19616.png",
+      "rarity": "Common",
+      "cardNum": "42/114"
+    },
+    {
+      "name": "Mimikyu",
+      "set": "GX Battle Boost",
+      "img": "https://den-cards.pokellector.com/228/Mimikyu.SM4+.43.19567.png",
+      "rarity": "Common",
+      "cardNum": "43/114"
+    },
+    {
+      "name": "Dhelmise",
+      "set": "GX Battle Boost",
+      "img": "https://den-cards.pokellector.com/228/Dhelmise.SM4+.44.19617.png",
+      "rarity": "Common",
+      "cardNum": "44/114"
+    },
+    {
+      "name": "Tapu Lele GX",
+      "set": "GX Battle Boost",
+      "img": "https://den-cards.pokellector.com/228/Tapu-Lele-GX.SM4+.45.19455.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "45/114"
+    },
+    {
+      "name": "Cosmog",
+      "set": "GX Battle Boost",
+      "img": "https://den-cards.pokellector.com/228/Cosmog.SM4+.46.19574.png",
+      "rarity": "Common",
+      "cardNum": "46/114"
+    },
+    {
+      "name": "Cosmoem",
+      "set": "GX Battle Boost",
+      "img": "https://den-cards.pokellector.com/228/Cosmoem.SM4+.47.19618.png",
+      "rarity": "Common",
+      "cardNum": "47/114"
+    },
+    {
+      "name": "Lunala",
+      "set": "GX Battle Boost",
+      "img": "https://den-cards.pokellector.com/228/Lunala.SM4+.48.19619.png",
+      "rarity": "Common",
+      "cardNum": "48/114"
+    },
+    {
+      "name": "Lunala GX",
+      "set": "GX Battle Boost",
+      "img": "https://den-cards.pokellector.com/228/Lunala-GX.SM4+.49.19458.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "49/114"
+    },
+    {
+      "name": "Necrozma GX",
+      "set": "GX Battle Boost",
+      "img": "https://den-cards.pokellector.com/228/Necrozma-GX.SM4+.50.19572.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "50/114"
+    },
+    {
+      "name": "Sudowoodo",
+      "set": "GX Battle Boost",
+      "img": "https://den-cards.pokellector.com/228/Sudowoodo.SM4+.51.19620.png",
+      "rarity": "Common",
+      "cardNum": "51/114"
+    },
+    {
+      "name": "Lunatone",
+      "set": "GX Battle Boost",
+      "img": "https://den-cards.pokellector.com/228/Lunatone.SM4+.52.19621.png",
+      "rarity": "Common",
+      "cardNum": "52/114"
+    },
+    {
+      "name": "Solrock",
+      "set": "GX Battle Boost",
+      "img": "https://den-cards.pokellector.com/228/Solrock.SM4+.53.19622.png",
+      "rarity": "Common",
+      "cardNum": "53/114"
+    },
+    {
+      "name": "Regirock",
+      "set": "GX Battle Boost",
+      "img": "https://den-cards.pokellector.com/228/Regirock.SM4+.54.19623.png",
+      "rarity": "Common",
+      "cardNum": "54/114"
+    },
+    {
+      "name": "Rockruff",
+      "set": "GX Battle Boost",
+      "img": "https://den-cards.pokellector.com/228/Rockruff.SM4+.55.19624.png",
+      "rarity": "Common",
+      "cardNum": "55/114"
+    },
+    {
+      "name": "Lycanroc GX",
+      "set": "GX Battle Boost",
+      "img": "https://den-cards.pokellector.com/228/Lycanroc-GX.SM4+.56.19625.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "56/114"
+    },
+    {
+      "name": "Lycanroc GX",
+      "set": "GX Battle Boost",
+      "img": "https://den-cards.pokellector.com/228/Lycanroc-GX.SM4+.57.19626.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "57/114"
+    },
+    {
+      "name": "Passimian",
+      "set": "GX Battle Boost",
+      "img": "https://den-cards.pokellector.com/228/Passimian.SM4+.58.19627.png",
+      "rarity": "Common",
+      "cardNum": "58/114"
+    },
+    {
+      "name": "Sandygast",
+      "set": "GX Battle Boost",
+      "img": "https://den-cards.pokellector.com/228/Sandygast.SM4+.59.19628.png",
+      "rarity": "Common",
+      "cardNum": "59/114"
+    },
+    {
+      "name": "Palossand",
+      "set": "GX Battle Boost",
+      "img": "https://den-cards.pokellector.com/228/Palossand.SM4+.60.19629.png",
+      "rarity": "Common",
+      "cardNum": "60/114"
+    },
+    {
+      "name": "Murkrow",
+      "set": "GX Battle Boost",
+      "img": "https://den-cards.pokellector.com/228/Murkrow.SM4+.61.19630.png",
+      "rarity": "Common",
+      "cardNum": "61/114"
+    },
+    {
+      "name": "Honchkrow",
+      "set": "GX Battle Boost",
+      "img": "https://den-cards.pokellector.com/228/Honchkrow.SM4+.62.19631.png",
+      "rarity": "Common",
+      "cardNum": "62/114"
+    },
+    {
+      "name": "Sableye",
+      "set": "GX Battle Boost",
+      "img": "https://den-cards.pokellector.com/228/Sableye.SM4+.63.19632.png",
+      "rarity": "Common",
+      "cardNum": "63/114"
+    },
+    {
+      "name": "Darkrai GX",
+      "set": "GX Battle Boost",
+      "img": "https://den-cards.pokellector.com/228/Darkrai-GX.SM4+.64.19481.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "64/114"
+    },
+    {
+      "name": "Guzzlord GX",
+      "set": "GX Battle Boost",
+      "img": "https://den-cards.pokellector.com/228/Guzzlord-GX.SM4+.65.19633.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "65/114"
+    },
+    {
+      "name": "Alolan Diglett",
+      "set": "GX Battle Boost",
+      "img": "https://den-cards.pokellector.com/228/Alolan-Diglett.SM4+.66.19634.png",
+      "rarity": "Common",
+      "cardNum": "66/114"
+    },
+    {
+      "name": "Alolan Dugtrio",
+      "set": "GX Battle Boost",
+      "img": "https://den-cards.pokellector.com/228/Alolan-Dugtrio.SM4+.67.19635.png",
+      "rarity": "Common",
+      "cardNum": "67/114"
+    },
+    {
+      "name": "Registeel",
+      "set": "GX Battle Boost",
+      "img": "https://den-cards.pokellector.com/228/Registeel.SM4+.68.19636.png",
+      "rarity": "Common",
+      "cardNum": "68/114"
+    },
+    {
+      "name": "Solgaleo",
+      "set": "GX Battle Boost",
+      "img": "https://den-cards.pokellector.com/228/Solgaleo.SM4+.69.19637.png",
+      "rarity": "Common",
+      "cardNum": "69/114"
+    },
+    {
+      "name": "Solgaleo GX",
+      "set": "GX Battle Boost",
+      "img": "https://den-cards.pokellector.com/228/Solgaleo-GX.SM4+.70.19457.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "70/114"
+    },
+    {
+      "name": "Celesteela GX",
+      "set": "GX Battle Boost",
+      "img": "https://den-cards.pokellector.com/228/Celesteela-GX.SM4+.71.19482.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "71/114"
+    },
+    {
+      "name": "Magearna",
+      "set": "GX Battle Boost",
+      "img": "https://den-cards.pokellector.com/228/Magearna.SM4+.72.19479.png",
+      "rarity": "Common",
+      "cardNum": "72/114"
+    },
+    {
+      "name": "Sylveon GX",
+      "set": "GX Battle Boost",
+      "img": "https://den-cards.pokellector.com/228/Sylveon-GX.SM4+.73.19454.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "73/114"
+    },
+    {
+      "name": "Diancie",
+      "set": "GX Battle Boost",
+      "img": "https://den-cards.pokellector.com/228/Diancie.SM4+.74.19638.png",
+      "rarity": "Common",
+      "cardNum": "74/114"
+    },
+    {
+      "name": "Morelull",
+      "set": "GX Battle Boost",
+      "img": "https://den-cards.pokellector.com/228/Morelull.SM4+.75.19639.png",
+      "rarity": "Common",
+      "cardNum": "75/114"
+    },
+    {
+      "name": "Shiinotic",
+      "set": "GX Battle Boost",
+      "img": "https://den-cards.pokellector.com/228/Shiinotic.SM4+.76.19640.png",
+      "rarity": "Common",
+      "cardNum": "76/114"
+    },
+    {
+      "name": "Tapu Lele",
+      "set": "GX Battle Boost",
+      "img": "https://den-cards.pokellector.com/228/Tapu-Lele.SM4+.77.19573.png",
+      "rarity": "Common",
+      "cardNum": "77/114"
+    },
+    {
+      "name": "Alolan Exeggutor",
+      "set": "GX Battle Boost",
+      "img": "https://den-cards.pokellector.com/228/Alolan-Exeggutor.SM4+.78.19566.png",
+      "rarity": "Common",
+      "cardNum": "78/114"
+    },
+    {
+      "name": "Drampa",
+      "set": "GX Battle Boost",
+      "img": "https://den-cards.pokellector.com/228/Drampa.SM4+.79.19641.png",
+      "rarity": "Common",
+      "cardNum": "79/114"
+    },
+    {
+      "name": "Chansey",
+      "set": "GX Battle Boost",
+      "img": "https://den-cards.pokellector.com/228/Chansey.SM4+.80.19642.png",
+      "rarity": "Common",
+      "cardNum": "80/114"
+    },
+    {
+      "name": "Blissey",
+      "set": "GX Battle Boost",
+      "img": "https://den-cards.pokellector.com/228/Blissey.SM4+.81.19643.png",
+      "rarity": "Common",
+      "cardNum": "81/114"
+    },
+    {
+      "name": "Kangaskhan",
+      "set": "GX Battle Boost",
+      "img": "https://den-cards.pokellector.com/228/Kangaskhan.SM4+.82.19644.png",
+      "rarity": "Common",
+      "cardNum": "82/114"
+    },
+    {
+      "name": "Eevee",
+      "set": "GX Battle Boost",
+      "img": "https://den-cards.pokellector.com/228/Eevee.SM4+.83.19484.png",
+      "rarity": "Common",
+      "cardNum": "83/114"
+    },
+    {
+      "name": "Rayquaza",
+      "set": "GX Battle Boost",
+      "img": "https://den-cards.pokellector.com/228/Rayquaza.SM4+.84.19645.png",
+      "rarity": "Common",
+      "cardNum": "84/114"
+    },
+    {
+      "name": "Type: Null",
+      "set": "GX Battle Boost",
+      "img": "https://den-cards.pokellector.com/228/Type-Null.SM4+.85.19646.png",
+      "rarity": "Common",
+      "cardNum": "85/114"
+    },
+    {
+      "name": "Silvally GX",
+      "set": "GX Battle Boost",
+      "img": "https://den-cards.pokellector.com/228/Silvally-GX.SM4+.86.19647.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "86/114"
+    },
+    {
+      "name": "Drampa GX",
+      "set": "GX Battle Boost",
+      "img": "https://den-cards.pokellector.com/228/Drampa-GX.SM4+.87.19477.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "87/114"
+    },
+    {
+      "name": "Aqua Patch",
+      "set": "GX Battle Boost",
+      "img": "https://den-cards.pokellector.com/228/Aqua-Patch.SM4+.88.19648.png",
+      "rarity": "Common",
+      "cardNum": "88/114"
+    },
+    {
+      "name": "Escape Rope",
+      "set": "GX Battle Boost",
+      "img": "https://den-cards.pokellector.com/228/Escape-Rope.SM4+.89.19649.png",
+      "rarity": "Common",
+      "cardNum": "89/114"
+    },
+    {
+      "name": "Enhanced Hammer",
+      "set": "GX Battle Boost",
+      "img": "https://den-cards.pokellector.com/228/Enhanced-Hammer.SM4+.90.19650.png",
+      "rarity": "Common",
+      "cardNum": "90/114"
+    },
+    {
+      "name": "Timer Ball",
+      "set": "GX Battle Boost",
+      "img": "https://den-cards.pokellector.com/228/Timer-Ball.SM4+.91.19651.png",
+      "rarity": "Common",
+      "cardNum": "91/114"
+    },
+    {
+      "name": "Nest Ball",
+      "set": "GX Battle Boost",
+      "img": "https://den-cards.pokellector.com/228/Nest-Ball.SM4+.92.19652.png",
+      "rarity": "Common",
+      "cardNum": "92/114"
+    },
+    {
+      "name": "Field Blower",
+      "set": "GX Battle Boost",
+      "img": "https://den-cards.pokellector.com/228/Field-Blower.SM4+.93.19653.png",
+      "rarity": "Common",
+      "cardNum": "93/114"
+    },
+    {
+      "name": "Rare Candy",
+      "set": "GX Battle Boost",
+      "img": "https://den-cards.pokellector.com/228/Rare-Candy.SM4+.94.19654.png",
+      "rarity": "Common",
+      "cardNum": "94/114"
+    },
+    {
+      "name": "Multi Switch",
+      "set": "GX Battle Boost",
+      "img": "https://den-cards.pokellector.com/228/Multi-Switch.SM4+.95.19655.png",
+      "rarity": "Common",
+      "cardNum": "95/114"
+    },
+    {
+      "name": "Max Potion",
+      "set": "GX Battle Boost",
+      "img": "https://den-cards.pokellector.com/228/Max-Potion.SM4+.96.19656.png",
+      "rarity": "Common",
+      "cardNum": "96/114"
+    },
+    {
+      "name": "Rescue Stretcher",
+      "set": "GX Battle Boost",
+      "img": "https://den-cards.pokellector.com/228/Rescue-Stretcher.SM4+.97.19657.png",
+      "rarity": "Common",
+      "cardNum": "97/114"
+    },
+    {
+      "name": "Rotom Dex",
+      "set": "GX Battle Boost",
+      "img": "https://den-cards.pokellector.com/228/Rotom-Dex.SM4+.98.19658.png",
+      "rarity": "Common",
+      "cardNum": "98/114"
+    },
+    {
+      "name": "Electro Memory",
+      "set": "GX Battle Boost",
+      "img": "https://den-cards.pokellector.com/228/Electro-Memory.SM4+.99.19575.png",
+      "rarity": "Common",
+      "cardNum": "99/114"
+    },
+    {
+      "name": "Ancient Crystal",
+      "set": "GX Battle Boost",
+      "img": "https://den-cards.pokellector.com/228/Ancient-Crystal.SM4+.100.19659.png",
+      "rarity": "Common",
+      "cardNum": "100/114"
+    },
+    {
+      "name": "Choice Band",
+      "set": "GX Battle Boost",
+      "img": "https://den-cards.pokellector.com/228/Choice-Band.SM4+.101.19660.png",
+      "rarity": "Common",
+      "cardNum": "101/114"
+    },
+    {
+      "name": "Fire Memory",
+      "set": "GX Battle Boost",
+      "img": "https://den-cards.pokellector.com/228/Fire-Memory.SM4+.102.19576.png",
+      "rarity": "Common",
+      "cardNum": "102/114"
+    },
+    {
+      "name": "Acerola",
+      "set": "GX Battle Boost",
+      "img": "https://den-cards.pokellector.com/228/Acerola.SM4+.103.19478.png",
+      "rarity": "Common",
+      "cardNum": "103/114"
+    },
+    {
+      "name": "Kiawe",
+      "set": "GX Battle Boost",
+      "img": "https://den-cards.pokellector.com/228/Kiawe.SM4+.104.19661.png",
+      "rarity": "Common",
+      "cardNum": "104/114"
+    },
+    {
+      "name": "Guzma",
+      "set": "GX Battle Boost",
+      "img": "https://den-cards.pokellector.com/228/Guzma.SM4+.105.19480.png",
+      "rarity": "Common",
+      "cardNum": "105/114"
+    },
+    {
+      "name": "Lana",
+      "set": "GX Battle Boost",
+      "img": "https://den-cards.pokellector.com/228/Lana.SM4+.106.19483.png",
+      "rarity": "Common",
+      "cardNum": "106/114"
+    },
+    {
+      "name": "Mallow",
+      "set": "GX Battle Boost",
+      "img": "https://den-cards.pokellector.com/228/Mallow.SM4+.107.19662.png",
+      "rarity": "Common",
+      "cardNum": "107/114"
+    },
+    {
+      "name": "Lillie",
+      "set": "GX Battle Boost",
+      "img": "https://den-cards.pokellector.com/228/Lillie.SM4+.108.19474.png",
+      "rarity": "Common",
+      "cardNum": "108/114"
+    },
+    {
+      "name": "Lusamine",
+      "set": "GX Battle Boost",
+      "img": "https://den-cards.pokellector.com/228/Lusamine.SM4+.109.19663.png",
+      "rarity": "Common",
+      "cardNum": "109/114"
+    },
+    {
+      "name": "Aether Paradise Conservation Area",
+      "set": "GX Battle Boost",
+      "img": "https://den-cards.pokellector.com/228/Aether-Paradise-Conservation-Area.SM4+.110.19664.png",
+      "rarity": "Common",
+      "cardNum": "110/114"
+    },
+    {
+      "name": "Altar of the Moone",
+      "set": "GX Battle Boost",
+      "img": "https://den-cards.pokellector.com/228/Altar-of-the-Moone.SM4+.111.19665.png",
+      "rarity": "Common",
+      "cardNum": "111/114"
+    },
+    {
+      "name": "Brooklet Hill",
+      "set": "GX Battle Boost",
+      "img": "https://den-cards.pokellector.com/228/Brooklet-Hill.SM4+.112.19666.png",
+      "rarity": "Common",
+      "cardNum": "112/114"
+    },
+    {
+      "name": "Altar of the Sunne",
+      "set": "GX Battle Boost",
+      "img": "https://den-cards.pokellector.com/228/Altar-of-the-Sunne.SM4+.113.19667.png",
+      "rarity": "Common",
+      "cardNum": "113/114"
+    },
+    {
+      "name": "Double Colorless Energy",
+      "set": "GX Battle Boost",
+      "img": "https://den-cards.pokellector.com/228/Double-Colorless-Energy.SM4+.114.19668.png",
+      "rarity": "Common",
+      "cardNum": "114/114"
+    },
+    {
+      "name": "Pheromosa GX",
+      "set": "GX Battle Boost",
+      "img": "https://den-cards.pokellector.com/228/Pheromosa-GX.SM4+.115.19669.png",
+      "rarity": "Secret Rare",
+      "cardNum": "115/114"
+    },
+    {
+      "name": "Xurkitree GX",
+      "set": "GX Battle Boost",
+      "img": "https://den-cards.pokellector.com/228/Xurkitree-GX.SM4+.116.19670.png",
+      "rarity": "Secret Rare",
+      "cardNum": "116/114"
+    },
+    {
+      "name": "Celesteela GX",
+      "set": "GX Battle Boost",
+      "img": "https://den-cards.pokellector.com/228/Celesteela-GX.SM4+.117.19671.png",
+      "rarity": "Secret Rare",
+      "cardNum": "117/114"
+    },
+    {
+      "name": "Lana",
+      "set": "GX Battle Boost",
+      "img": "https://den-cards.pokellector.com/228/Lana.SM4+.118.19568.png",
+      "rarity": "Secret Rare",
+      "cardNum": "118/114"
+    },
+    {
+      "name": "Lillie",
+      "set": "GX Battle Boost",
+      "img": "https://den-cards.pokellector.com/228/Lillie.SM4+.119.19571.png",
+      "rarity": "Secret Rare",
+      "cardNum": "119/114"
+    },
+    {
+      "name": "Lusamine",
+      "set": "GX Battle Boost",
+      "img": "https://den-cards.pokellector.com/228/Lusamine.SM4+.120.19569.png",
+      "rarity": "Secret Rare",
+      "cardNum": "120/114"
+    },
+    {
+      "name": "Pheromosa GX",
+      "set": "GX Battle Boost",
+      "img": "https://den-cards.pokellector.com/228/Pheromosa-GX.SM4+.121.19672.png",
+      "rarity": "Secret Rare",
+      "cardNum": "121/114"
+    },
+    {
+      "name": "Xurkitree GX",
+      "set": "GX Battle Boost",
+      "img": "https://den-cards.pokellector.com/228/Xurkitree-GX.SM4+.122.19673.png",
+      "rarity": "Secret Rare",
+      "cardNum": "122/114"
+    },
+    {
+      "name": "Celesteela GX",
+      "set": "GX Battle Boost",
+      "img": "https://den-cards.pokellector.com/228/Celesteela-GX.SM4+.123.19674.png",
+      "rarity": "Secret Rare",
+      "cardNum": "123/114"
+    },
+    {
+      "name": "Lunala GX",
+      "set": "GX Battle Boost",
+      "img": "https://den-cards.pokellector.com/228/Lunala-GX.SM4+.124.19675.png",
+      "rarity": "Secret Rare",
+      "cardNum": "124/114"
+    },
+    {
+      "name": "Solgaleo GX",
+      "set": "GX Battle Boost",
+      "img": "https://den-cards.pokellector.com/228/Solgaleo-GX.SM4+.125.19676.png",
+      "rarity": "Secret Rare",
+      "cardNum": "125/114"
+    }
+  ]
+}

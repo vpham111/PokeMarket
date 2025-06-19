@@ -1,0 +1,558 @@
+{
+  "setName": "SoulSilver Collection",
+  "cards": [
+    {
+      "name": "Caterpie",
+      "set": "SoulSilver Collection",
+      "img": "https://den-cards.pokellector.com/248/Caterpie.L1.1.21798.png",
+      "rarity": "Common",
+      "cardNum": "1/70"
+    },
+    {
+      "name": "Metapod",
+      "set": "SoulSilver Collection",
+      "img": "https://den-cards.pokellector.com/248/Metapod.L1.2.21799.png",
+      "rarity": "Uncommon",
+      "cardNum": "2/70"
+    },
+    {
+      "name": "Butterfree",
+      "set": "SoulSilver Collection",
+      "img": "https://den-cards.pokellector.com/248/Butterfree.L1.3.21800.png",
+      "rarity": "Rare",
+      "cardNum": "3/70"
+    },
+    {
+      "name": "Paras",
+      "set": "SoulSilver Collection",
+      "img": "https://den-cards.pokellector.com/248/Paras.L1.4.21801.png",
+      "rarity": "Common",
+      "cardNum": "4/70"
+    },
+    {
+      "name": "Parasect",
+      "set": "SoulSilver Collection",
+      "img": "https://den-cards.pokellector.com/248/Parasect.L1.5.21802.png",
+      "rarity": "Uncommon",
+      "cardNum": "5/70"
+    },
+    {
+      "name": "Chikorita",
+      "set": "SoulSilver Collection",
+      "img": "https://den-cards.pokellector.com/248/Chikorita.L1.6.21803.png",
+      "rarity": "Common",
+      "cardNum": "6/70"
+    },
+    {
+      "name": "Bayleef",
+      "set": "SoulSilver Collection",
+      "img": "https://den-cards.pokellector.com/248/Bayleef.L1.7.21804.png",
+      "rarity": "Common",
+      "cardNum": "7/70"
+    },
+    {
+      "name": "Meganium",
+      "set": "SoulSilver Collection",
+      "img": "https://den-cards.pokellector.com/248/Meganium.L1.8.21805.png",
+      "rarity": "Uncommon",
+      "cardNum": "8/70"
+    },
+    {
+      "name": "Meganium",
+      "set": "SoulSilver Collection",
+      "img": "https://den-cards.pokellector.com/248/Meganium.L1.9.21806.png",
+      "rarity": "Common",
+      "cardNum": "9/70"
+    },
+    {
+      "name": "Ledyba",
+      "set": "SoulSilver Collection",
+      "img": "https://den-cards.pokellector.com/248/Ledyba.L1.10.21807.png",
+      "rarity": "Common",
+      "cardNum": "10/70"
+    },
+    {
+      "name": "Ledian",
+      "set": "SoulSilver Collection",
+      "img": "https://den-cards.pokellector.com/248/Ledian.L1.11.21808.png",
+      "rarity": "Rare",
+      "cardNum": "11/70"
+    },
+    {
+      "name": "Vulpix",
+      "set": "SoulSilver Collection",
+      "img": "https://den-cards.pokellector.com/248/Vulpix.L1.12.21809.png",
+      "rarity": "Common",
+      "cardNum": "12/70"
+    },
+    {
+      "name": "Ninetales",
+      "set": "SoulSilver Collection",
+      "img": "https://den-cards.pokellector.com/248/Ninetales.L1.13.21810.png",
+      "rarity": "Rare",
+      "cardNum": "13/70"
+    },
+    {
+      "name": "Cyndaquil",
+      "set": "SoulSilver Collection",
+      "img": "https://den-cards.pokellector.com/248/Cyndaquil.L1.14.21811.png",
+      "rarity": "Common",
+      "cardNum": "14/70"
+    },
+    {
+      "name": "Quilava",
+      "set": "SoulSilver Collection",
+      "img": "https://den-cards.pokellector.com/248/Quilava.L1.15.21812.png",
+      "rarity": "Common",
+      "cardNum": "15/70"
+    },
+    {
+      "name": "Typhlosion",
+      "set": "SoulSilver Collection",
+      "img": "https://den-cards.pokellector.com/248/Typhlosion.L1.16.21813.png",
+      "rarity": "Uncommon",
+      "cardNum": "16/70"
+    },
+    {
+      "name": "Typhlosion",
+      "set": "SoulSilver Collection",
+      "img": "https://den-cards.pokellector.com/248/Typhlosion.L1.17.21814.png",
+      "rarity": "Common",
+      "cardNum": "17/70"
+    },
+    {
+      "name": "Poliwag",
+      "set": "SoulSilver Collection",
+      "img": "https://den-cards.pokellector.com/248/Poliwag.L1.18.21815.png",
+      "rarity": "Common",
+      "cardNum": "18/70"
+    },
+    {
+      "name": "Poliwhirl",
+      "set": "SoulSilver Collection",
+      "img": "https://den-cards.pokellector.com/248/Poliwhirl.L1.19.21816.png",
+      "rarity": "Uncommon",
+      "cardNum": "19/70"
+    },
+    {
+      "name": "Poliwrath",
+      "set": "SoulSilver Collection",
+      "img": "https://den-cards.pokellector.com/248/Poliwrath.L1.20.21817.png",
+      "rarity": "Rare",
+      "cardNum": "20/70"
+    },
+    {
+      "name": "Politoed",
+      "set": "SoulSilver Collection",
+      "img": "https://den-cards.pokellector.com/248/Politoed.L1.21.21818.png",
+      "rarity": "Rare",
+      "cardNum": "21/70"
+    },
+    {
+      "name": "Magikarp",
+      "set": "SoulSilver Collection",
+      "img": "https://den-cards.pokellector.com/248/Magikarp.L1.22.21819.png",
+      "rarity": "Common",
+      "cardNum": "22/70"
+    },
+    {
+      "name": "Gyarados",
+      "set": "SoulSilver Collection",
+      "img": "https://den-cards.pokellector.com/248/Gyarados.L1.23.21820.png",
+      "rarity": "Rare",
+      "cardNum": "23/70"
+    },
+    {
+      "name": "Marill",
+      "set": "SoulSilver Collection",
+      "img": "https://den-cards.pokellector.com/248/Marill.L1.24.21821.png",
+      "rarity": "Common",
+      "cardNum": "24/70"
+    },
+    {
+      "name": "Azumarill",
+      "set": "SoulSilver Collection",
+      "img": "https://den-cards.pokellector.com/248/Azumarill.L1.25.21822.png",
+      "rarity": "Rare",
+      "cardNum": "25/70"
+    },
+    {
+      "name": "Wooper",
+      "set": "SoulSilver Collection",
+      "img": "https://den-cards.pokellector.com/248/Wooper.L1.26.21823.png",
+      "rarity": "Common",
+      "cardNum": "26/70"
+    },
+    {
+      "name": "Quagsire",
+      "set": "SoulSilver Collection",
+      "img": "https://den-cards.pokellector.com/248/Quagsire.L1SS.27.21824.png",
+      "rarity": "Rare",
+      "cardNum": "27/70"
+    },
+    {
+      "name": "Delibird",
+      "set": "SoulSilver Collection",
+      "img": "https://den-cards.pokellector.com/248/Delibird.L1.28.21825.png",
+      "rarity": "Uncommon",
+      "cardNum": "28/70"
+    },
+    {
+      "name": "Lugia LEGEND",
+      "set": "SoulSilver Collection",
+      "img": "https://den-cards.pokellector.com/248/Lugia-LEGEND.L1SS.29.21826.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "29/70"
+    },
+    {
+      "name": "Lugia LEGEND",
+      "set": "SoulSilver Collection",
+      "img": "https://den-cards.pokellector.com/248/Lugia-LEGEND.L1SS.30.21827.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "30/70"
+    },
+    {
+      "name": "Pichu",
+      "set": "SoulSilver Collection",
+      "img": "https://den-cards.pokellector.com/248/Pichu.L1.31.21828.png",
+      "rarity": "Rare",
+      "cardNum": "31/70"
+    },
+    {
+      "name": "Pikachu",
+      "set": "SoulSilver Collection",
+      "img": "https://den-cards.pokellector.com/248/Pikachu.L1.32.21829.png",
+      "rarity": "Common",
+      "cardNum": "32/70"
+    },
+    {
+      "name": "Raichu",
+      "set": "SoulSilver Collection",
+      "img": "https://den-cards.pokellector.com/248/Raichu.L1.33.21830.png",
+      "rarity": "Rare",
+      "cardNum": "33/70"
+    },
+    {
+      "name": "Zubat",
+      "set": "SoulSilver Collection",
+      "img": "https://den-cards.pokellector.com/248/Zubat.L1.34.21831.png",
+      "rarity": "Common",
+      "cardNum": "34/70"
+    },
+    {
+      "name": "Golbat",
+      "set": "SoulSilver Collection",
+      "img": "https://den-cards.pokellector.com/248/Golbat.L1.35.21832.png",
+      "rarity": "Common",
+      "cardNum": "35/70"
+    },
+    {
+      "name": "Crobat",
+      "set": "SoulSilver Collection",
+      "img": "https://den-cards.pokellector.com/248/Crobat.L1.36.21833.png",
+      "rarity": "Uncommon",
+      "cardNum": "36/70"
+    },
+    {
+      "name": "Crobat",
+      "set": "SoulSilver Collection",
+      "img": "https://den-cards.pokellector.com/248/Crobat.L1.37.21834.png",
+      "rarity": "Common",
+      "cardNum": "37/70"
+    },
+    {
+      "name": "Drowzee",
+      "set": "SoulSilver Collection",
+      "img": "https://den-cards.pokellector.com/248/Drowzee.L1.38.21835.png",
+      "rarity": "Common",
+      "cardNum": "38/70"
+    },
+    {
+      "name": "Hypno",
+      "set": "SoulSilver Collection",
+      "img": "https://den-cards.pokellector.com/248/Hypno.L1.39.21836.png",
+      "rarity": "Rare",
+      "cardNum": "39/70"
+    },
+    {
+      "name": "Exeggcute",
+      "set": "SoulSilver Collection",
+      "img": "https://den-cards.pokellector.com/248/Exeggcute.L1.40.21837.png",
+      "rarity": "Common",
+      "cardNum": "40/70"
+    },
+    {
+      "name": "Exeggutor",
+      "set": "SoulSilver Collection",
+      "img": "https://den-cards.pokellector.com/248/Exeggutor.L1.41.21838.png",
+      "rarity": "Rare",
+      "cardNum": "41/70"
+    },
+    {
+      "name": "Natu",
+      "set": "SoulSilver Collection",
+      "img": "https://den-cards.pokellector.com/248/Natu.L1.42.21839.png",
+      "rarity": "Common",
+      "cardNum": "42/70"
+    },
+    {
+      "name": "Xatu",
+      "set": "SoulSilver Collection",
+      "img": "https://den-cards.pokellector.com/248/Xatu.L1.43.21840.png",
+      "rarity": "Rare",
+      "cardNum": "43/70"
+    },
+    {
+      "name": "Unown",
+      "set": "SoulSilver Collection",
+      "img": "https://den-cards.pokellector.com/248/Unown.L1.44.21841.png",
+      "rarity": "Uncommon",
+      "cardNum": "44/70"
+    },
+    {
+      "name": "Sandshrew",
+      "set": "SoulSilver Collection",
+      "img": "https://den-cards.pokellector.com/248/Sandshrew.L1.45.21842.png",
+      "rarity": "Common",
+      "cardNum": "45/70"
+    },
+    {
+      "name": "Sandslash",
+      "set": "SoulSilver Collection",
+      "img": "https://den-cards.pokellector.com/248/Sandslash.L1.46.21843.png",
+      "rarity": "Rare",
+      "cardNum": "46/70"
+    },
+    {
+      "name": "Sudowoodo",
+      "set": "SoulSilver Collection",
+      "img": "https://den-cards.pokellector.com/248/Sudowoodo.L1.47.21844.png",
+      "rarity": "Rare",
+      "cardNum": "47/70"
+    },
+    {
+      "name": "Tyrogue",
+      "set": "SoulSilver Collection",
+      "img": "https://den-cards.pokellector.com/248/Tyrogue.L1.48.21845.png",
+      "rarity": "Rare",
+      "cardNum": "48/70"
+    },
+    {
+      "name": "Hitmontop",
+      "set": "SoulSilver Collection",
+      "img": "https://den-cards.pokellector.com/248/Hitmontop.L1.49.21846.png",
+      "rarity": "Rare",
+      "cardNum": "49/70"
+    },
+    {
+      "name": "Igglybuff",
+      "set": "SoulSilver Collection",
+      "img": "https://den-cards.pokellector.com/248/Igglybuff.L1.50.21847.png",
+      "rarity": "Uncommon",
+      "cardNum": "50/70"
+    },
+    {
+      "name": "Jigglypuff",
+      "set": "SoulSilver Collection",
+      "img": "https://den-cards.pokellector.com/248/Jigglypuff.L1.51.21848.png",
+      "rarity": "Common",
+      "cardNum": "51/70"
+    },
+    {
+      "name": "Wigglytuff",
+      "set": "SoulSilver Collection",
+      "img": "https://den-cards.pokellector.com/248/Wigglytuff.L1.52.21849.png",
+      "rarity": "Uncommon",
+      "cardNum": "52/70"
+    },
+    {
+      "name": "Meowth",
+      "set": "SoulSilver Collection",
+      "img": "https://den-cards.pokellector.com/248/Meowth.L1.53.21850.png",
+      "rarity": "Common",
+      "cardNum": "53/70"
+    },
+    {
+      "name": "Persian",
+      "set": "SoulSilver Collection",
+      "img": "https://den-cards.pokellector.com/248/Persian.L1.54.21851.png",
+      "rarity": "Rare",
+      "cardNum": "54/70"
+    },
+    {
+      "name": "Farfetch'd",
+      "set": "SoulSilver Collection",
+      "img": "https://den-cards.pokellector.com/248/Farfetchd.L1.55.21852.png",
+      "rarity": "Rare",
+      "cardNum": "55/70"
+    },
+    {
+      "name": "Aipom",
+      "set": "SoulSilver Collection",
+      "img": "https://den-cards.pokellector.com/248/Aipom.L1.56.21853.png",
+      "rarity": "Common",
+      "cardNum": "56/70"
+    },
+    {
+      "name": "Snubbull",
+      "set": "SoulSilver Collection",
+      "img": "https://den-cards.pokellector.com/248/Snubbull.L1.57.21854.png",
+      "rarity": "Common",
+      "cardNum": "57/70"
+    },
+    {
+      "name": "Granbull",
+      "set": "SoulSilver Collection",
+      "img": "https://den-cards.pokellector.com/248/Granbull.L1.58.21855.png",
+      "rarity": "Rare",
+      "cardNum": "58/70"
+    },
+    {
+      "name": "Teddiursa",
+      "set": "SoulSilver Collection",
+      "img": "https://den-cards.pokellector.com/248/Teddiursa.L1.59.21856.png",
+      "rarity": "Common",
+      "cardNum": "59/70"
+    },
+    {
+      "name": "Ursaring",
+      "set": "SoulSilver Collection",
+      "img": "https://den-cards.pokellector.com/248/Ursaring.L1.60.21857.png",
+      "rarity": "Uncommon",
+      "cardNum": "60/70"
+    },
+    {
+      "name": "Ursaring",
+      "set": "SoulSilver Collection",
+      "img": "https://den-cards.pokellector.com/248/Ursaring.L1.61.21858.png",
+      "rarity": "Common",
+      "cardNum": "61/70"
+    },
+    {
+      "name": "Miltank",
+      "set": "SoulSilver Collection",
+      "img": "https://den-cards.pokellector.com/248/Miltank.L1.62.21859.png",
+      "rarity": "Uncommon",
+      "cardNum": "62/70"
+    },
+    {
+      "name": "Full Heal",
+      "set": "SoulSilver Collection",
+      "img": "https://den-cards.pokellector.com/248/Full-Heal.L1.63.21860.png",
+      "rarity": "Uncommon",
+      "cardNum": "63/70"
+    },
+    {
+      "name": "Pokégear 3.0",
+      "set": "SoulSilver Collection",
+      "img": "https://den-cards.pokellector.com/248/Pokgear-30.L1.64.21868.png",
+      "rarity": "Uncommon",
+      "cardNum": "64/70"
+    },
+    {
+      "name": "Pokémon Communication",
+      "set": "SoulSilver Collection",
+      "img": "https://den-cards.pokellector.com/248/Pokmon-Communication.L1.65.21869.png",
+      "rarity": "Uncommon",
+      "cardNum": "65/70"
+    },
+    {
+      "name": "Moomoo Milk",
+      "set": "SoulSilver Collection",
+      "img": "https://den-cards.pokellector.com/248/Moomoo-Milk.L1.66.21861.png",
+      "rarity": "Uncommon",
+      "cardNum": "66/70"
+    },
+    {
+      "name": "Fisherman",
+      "set": "SoulSilver Collection",
+      "img": "https://den-cards.pokellector.com/248/Fisherman.L1.67.21862.png",
+      "rarity": "Uncommon",
+      "cardNum": "67/70"
+    },
+    {
+      "name": "Pokémon Collector",
+      "set": "SoulSilver Collection",
+      "img": "https://den-cards.pokellector.com/248/Pokmon-Collector.L1.68.21870.png",
+      "rarity": "Uncommon",
+      "cardNum": "68/70"
+    },
+    {
+      "name": "Copycat",
+      "set": "SoulSilver Collection",
+      "img": "https://den-cards.pokellector.com/248/Copycat.L1.69.21863.png",
+      "rarity": "Uncommon",
+      "cardNum": "69/70"
+    },
+    {
+      "name": "Rainbow Energy",
+      "set": "SoulSilver Collection",
+      "img": "https://den-cards.pokellector.com/248/Rainbow-Energy.L1SS.70.21864.png",
+      "rarity": "Uncommon",
+      "cardNum": "70/70"
+    },
+    {
+      "name": "Alph Lithograph",
+      "set": "SoulSilver Collection",
+      "img": "https://www.pokellector.com/images/card-placeholder.png",
+      "rarity": "Secret Rare",
+      "cardNum": "71/70"
+    },
+    {
+      "name": "Dark Energy",
+      "set": "SoulSilver Collection",
+      "img": "https://den-cards.pokellector.com/248/Dark-Energy.L1SS.0.22047.png",
+      "rarity": "Common",
+      "cardNum": ""
+    },
+    {
+      "name": "Fighting Energy",
+      "set": "SoulSilver Collection",
+      "img": "https://den-cards.pokellector.com/248/Fighting-Energy.L1SS.0.22046.png",
+      "rarity": "Common",
+      "cardNum": ""
+    },
+    {
+      "name": "Psychic Energy",
+      "set": "SoulSilver Collection",
+      "img": "https://den-cards.pokellector.com/248/Psychic-Energy.L1SS.0.22045.png",
+      "rarity": "Common",
+      "cardNum": ""
+    },
+    {
+      "name": "Electric Energy",
+      "set": "SoulSilver Collection",
+      "img": "https://den-cards.pokellector.com/248/Electric-Energy.L1SS.0.22044.png",
+      "rarity": "Common",
+      "cardNum": ""
+    },
+    {
+      "name": "Water Energy",
+      "set": "SoulSilver Collection",
+      "img": "https://den-cards.pokellector.com/248/Water-Energy.L1SS.0.22043.png",
+      "rarity": "Common",
+      "cardNum": ""
+    },
+    {
+      "name": "Fire Energy",
+      "set": "SoulSilver Collection",
+      "img": "https://den-cards.pokellector.com/248/Fire-Energy.L1SS.0.22042.png",
+      "rarity": "Common",
+      "cardNum": ""
+    },
+    {
+      "name": "Grass Energy",
+      "set": "SoulSilver Collection",
+      "img": "https://den-cards.pokellector.com/248/Grass-Energy.L1SS.0.22041.png",
+      "rarity": "Common",
+      "cardNum": ""
+    },
+    {
+      "name": "Steel Energy",
+      "set": "SoulSilver Collection",
+      "img": "https://den-cards.pokellector.com/248/Steel-Energy.L1SS.0.22048.png",
+      "rarity": "Common",
+      "cardNum": ""
+    }
+  ]
+}

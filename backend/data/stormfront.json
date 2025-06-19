@@ -1,0 +1,747 @@
+{
+  "setName": "Stormfront",
+  "cards": [
+    {
+      "name": "Dusknoir",
+      "set": "Stormfront",
+      "img": "https://den-cards.pokellector.com/48/Dusknoir.SF.1.png",
+      "rarity": "Rare",
+      "cardNum": "1/100"
+    },
+    {
+      "name": "Empoleon",
+      "set": "Stormfront",
+      "img": "https://den-cards.pokellector.com/48/Empoleon.SF.2.png",
+      "rarity": "Rare",
+      "cardNum": "2/100"
+    },
+    {
+      "name": "Infernape",
+      "set": "Stormfront",
+      "img": "https://den-cards.pokellector.com/48/Infernape.SF.3.png",
+      "rarity": "Rare",
+      "cardNum": "3/100"
+    },
+    {
+      "name": "Lumineon",
+      "set": "Stormfront",
+      "img": "https://den-cards.pokellector.com/48/Lumineon.SF.4.png",
+      "rarity": "Rare",
+      "cardNum": "4/100"
+    },
+    {
+      "name": "Magnezone",
+      "set": "Stormfront",
+      "img": "https://den-cards.pokellector.com/48/Magnezone.SF.5.png",
+      "rarity": "Rare",
+      "cardNum": "5/100"
+    },
+    {
+      "name": "Magnezone",
+      "set": "Stormfront",
+      "img": "https://den-cards.pokellector.com/48/Magnezone.SF.6.png",
+      "rarity": "Rare",
+      "cardNum": "6/100"
+    },
+    {
+      "name": "Mismagius",
+      "set": "Stormfront",
+      "img": "https://den-cards.pokellector.com/48/Mismagius.SF.7.png",
+      "rarity": "Rare",
+      "cardNum": "7/100"
+    },
+    {
+      "name": "Raichu",
+      "set": "Stormfront",
+      "img": "https://den-cards.pokellector.com/48/Raichu.SF.8.png",
+      "rarity": "Rare",
+      "cardNum": "8/100"
+    },
+    {
+      "name": "Regigigas",
+      "set": "Stormfront",
+      "img": "https://den-cards.pokellector.com/48/Regigigas.SF.9.png",
+      "rarity": "Rare",
+      "cardNum": "9/100"
+    },
+    {
+      "name": "Sceptile",
+      "set": "Stormfront",
+      "img": "https://den-cards.pokellector.com/48/Sceptile.SF.10.png",
+      "rarity": "Rare",
+      "cardNum": "10/100"
+    },
+    {
+      "name": "Torterra",
+      "set": "Stormfront",
+      "img": "https://den-cards.pokellector.com/48/Torterra.SF.11.png",
+      "rarity": "Rare",
+      "cardNum": "11/100"
+    },
+    {
+      "name": "Abomasnow",
+      "set": "Stormfront",
+      "img": "https://den-cards.pokellector.com/48/Abomasnow.SF.12.png",
+      "rarity": "Rare",
+      "cardNum": "12/100"
+    },
+    {
+      "name": "Bronzong",
+      "set": "Stormfront",
+      "img": "https://den-cards.pokellector.com/48/Bronzong.SF.13.png",
+      "rarity": "Rare",
+      "cardNum": "13/100"
+    },
+    {
+      "name": "Cherrim",
+      "set": "Stormfront",
+      "img": "https://den-cards.pokellector.com/48/Cherrim.SF.14.png",
+      "rarity": "Rare",
+      "cardNum": "14/100"
+    },
+    {
+      "name": "Drapion",
+      "set": "Stormfront",
+      "img": "https://den-cards.pokellector.com/48/Drapion.SF.15.png",
+      "rarity": "Rare",
+      "cardNum": "15/100"
+    },
+    {
+      "name": "Drifblim",
+      "set": "Stormfront",
+      "img": "https://den-cards.pokellector.com/48/Drifblim.SF.16.png",
+      "rarity": "Rare",
+      "cardNum": "16/100"
+    },
+    {
+      "name": "Dusknoir",
+      "set": "Stormfront",
+      "img": "https://den-cards.pokellector.com/48/Dusknoir.SF.17.png",
+      "rarity": "Rare",
+      "cardNum": "17/100"
+    },
+    {
+      "name": "Gengar",
+      "set": "Stormfront",
+      "img": "https://den-cards.pokellector.com/48/Gengar.SF.18.png",
+      "rarity": "Rare",
+      "cardNum": "18/100"
+    },
+    {
+      "name": "Gyarados",
+      "set": "Stormfront",
+      "img": "https://den-cards.pokellector.com/48/Gyarados.SF.19.png",
+      "rarity": "Rare",
+      "cardNum": "19/100"
+    },
+    {
+      "name": "Machamp",
+      "set": "Stormfront",
+      "img": "https://den-cards.pokellector.com/48/Machamp.SF.20.png",
+      "rarity": "Rare",
+      "cardNum": "20/100"
+    },
+    {
+      "name": "Mamoswine",
+      "set": "Stormfront",
+      "img": "https://den-cards.pokellector.com/48/Mamoswine.SF.21.png",
+      "rarity": "Rare",
+      "cardNum": "21/100"
+    },
+    {
+      "name": "Rapidash",
+      "set": "Stormfront",
+      "img": "https://den-cards.pokellector.com/48/Rapidash.SF.22.png",
+      "rarity": "Rare",
+      "cardNum": "22/100"
+    },
+    {
+      "name": "Roserade",
+      "set": "Stormfront",
+      "img": "https://den-cards.pokellector.com/48/Roserade.SF.23.png",
+      "rarity": "Rare",
+      "cardNum": "23/100"
+    },
+    {
+      "name": "Salamence",
+      "set": "Stormfront",
+      "img": "https://den-cards.pokellector.com/48/Salamence.SF.24.png",
+      "rarity": "Rare",
+      "cardNum": "24/100"
+    },
+    {
+      "name": "Scizor",
+      "set": "Stormfront",
+      "img": "https://den-cards.pokellector.com/48/Scizor.SF.25.png",
+      "rarity": "Rare",
+      "cardNum": "25/100"
+    },
+    {
+      "name": "Skuntank",
+      "set": "Stormfront",
+      "img": "https://den-cards.pokellector.com/48/Skuntank.SF.26.png",
+      "rarity": "Rare",
+      "cardNum": "26/100"
+    },
+    {
+      "name": "Staraptor",
+      "set": "Stormfront",
+      "img": "https://den-cards.pokellector.com/48/Staraptor.SF.27.png",
+      "rarity": "Rare",
+      "cardNum": "27/100"
+    },
+    {
+      "name": "Steelix",
+      "set": "Stormfront",
+      "img": "https://den-cards.pokellector.com/48/Steelix.SF.28.png",
+      "rarity": "Rare",
+      "cardNum": "28/100"
+    },
+    {
+      "name": "Tangrowth",
+      "set": "Stormfront",
+      "img": "https://den-cards.pokellector.com/48/Tangrowth.SF.29.png",
+      "rarity": "Rare",
+      "cardNum": "29/100"
+    },
+    {
+      "name": "Tyranitar",
+      "set": "Stormfront",
+      "img": "https://den-cards.pokellector.com/48/Tyranitar.SF.30.png",
+      "rarity": "Rare",
+      "cardNum": "30/100"
+    },
+    {
+      "name": "Vespiquen",
+      "set": "Stormfront",
+      "img": "https://den-cards.pokellector.com/48/Vespiquen.SF.31.png",
+      "rarity": "Rare",
+      "cardNum": "31/100"
+    },
+    {
+      "name": "Bibarel",
+      "set": "Stormfront",
+      "img": "https://den-cards.pokellector.com/48/Bibarel.SF.32.png",
+      "rarity": "Uncommon",
+      "cardNum": "32/100"
+    },
+    {
+      "name": "Budew",
+      "set": "Stormfront",
+      "img": "https://den-cards.pokellector.com/48/Budew.SF.33.png",
+      "rarity": "Uncommon",
+      "cardNum": "33/100"
+    },
+    {
+      "name": "Dusclops",
+      "set": "Stormfront",
+      "img": "https://den-cards.pokellector.com/48/Dusclops.SF.34.png",
+      "rarity": "Uncommon",
+      "cardNum": "34/100"
+    },
+    {
+      "name": "Dusclops",
+      "set": "Stormfront",
+      "img": "https://den-cards.pokellector.com/48/Dusclops.SF.35.png",
+      "rarity": "Uncommon",
+      "cardNum": "35/100"
+    },
+    {
+      "name": "Electrode",
+      "set": "Stormfront",
+      "img": "https://den-cards.pokellector.com/48/Electrode.SF.36.png",
+      "rarity": "Uncommon",
+      "cardNum": "36/100"
+    },
+    {
+      "name": "Electrode",
+      "set": "Stormfront",
+      "img": "https://den-cards.pokellector.com/48/Electrode.SF.37.png",
+      "rarity": "Uncommon",
+      "cardNum": "37/100"
+    },
+    {
+      "name": "Farfetch'd",
+      "set": "Stormfront",
+      "img": "https://den-cards.pokellector.com/48/Farfetchd.SF.38.png",
+      "rarity": "Uncommon",
+      "cardNum": "38/100"
+    },
+    {
+      "name": "Grovyle",
+      "set": "Stormfront",
+      "img": "https://den-cards.pokellector.com/48/Grovyle.SF.39.png",
+      "rarity": "Uncommon",
+      "cardNum": "39/100"
+    },
+    {
+      "name": "Haunter",
+      "set": "Stormfront",
+      "img": "https://den-cards.pokellector.com/48/Haunter.SF.40.png",
+      "rarity": "Uncommon",
+      "cardNum": "40/100"
+    },
+    {
+      "name": "Machoke",
+      "set": "Stormfront",
+      "img": "https://den-cards.pokellector.com/48/Machoke.SF.41.png",
+      "rarity": "Uncommon",
+      "cardNum": "41/100"
+    },
+    {
+      "name": "Magneton",
+      "set": "Stormfront",
+      "img": "https://den-cards.pokellector.com/48/Magneton.SF.42.png",
+      "rarity": "Uncommon",
+      "cardNum": "42/100"
+    },
+    {
+      "name": "Magneton",
+      "set": "Stormfront",
+      "img": "https://den-cards.pokellector.com/48/Magneton.SF.43.png",
+      "rarity": "Uncommon",
+      "cardNum": "43/100"
+    },
+    {
+      "name": "Miltank",
+      "set": "Stormfront",
+      "img": "https://den-cards.pokellector.com/48/Miltank.SF.44.png",
+      "rarity": "Uncommon",
+      "cardNum": "44/100"
+    },
+    {
+      "name": "Pichu",
+      "set": "Stormfront",
+      "img": "https://den-cards.pokellector.com/48/Pichu.SF.45.png",
+      "rarity": "Uncommon",
+      "cardNum": "45/100"
+    },
+    {
+      "name": "Piloswine",
+      "set": "Stormfront",
+      "img": "https://den-cards.pokellector.com/48/Piloswine.SF.46.png",
+      "rarity": "Uncommon",
+      "cardNum": "46/100"
+    },
+    {
+      "name": "Pupitar",
+      "set": "Stormfront",
+      "img": "https://den-cards.pokellector.com/48/Pupitar.SF.47.png",
+      "rarity": "Uncommon",
+      "cardNum": "47/100"
+    },
+    {
+      "name": "Sableye",
+      "set": "Stormfront",
+      "img": "https://den-cards.pokellector.com/48/Sableye.SF.48.png",
+      "rarity": "Uncommon",
+      "cardNum": "48/100"
+    },
+    {
+      "name": "Scyther",
+      "set": "Stormfront",
+      "img": "https://den-cards.pokellector.com/48/Scyther.SF.49.png",
+      "rarity": "Uncommon",
+      "cardNum": "49/100"
+    },
+    {
+      "name": "Shelgon",
+      "set": "Stormfront",
+      "img": "https://den-cards.pokellector.com/48/Shelgon.SF.50.png",
+      "rarity": "Uncommon",
+      "cardNum": "50/100"
+    },
+    {
+      "name": "Skarmory",
+      "set": "Stormfront",
+      "img": "https://den-cards.pokellector.com/48/Skarmory.SF.51.png",
+      "rarity": "Uncommon",
+      "cardNum": "51/100"
+    },
+    {
+      "name": "Staravia",
+      "set": "Stormfront",
+      "img": "https://den-cards.pokellector.com/48/Staravia.SF.52.png",
+      "rarity": "Uncommon",
+      "cardNum": "52/100"
+    },
+    {
+      "name": "Bagon",
+      "set": "Stormfront",
+      "img": "https://den-cards.pokellector.com/48/Bagon.SF.53.png",
+      "rarity": "Common",
+      "cardNum": "53/100"
+    },
+    {
+      "name": "Bidoof",
+      "set": "Stormfront",
+      "img": "https://den-cards.pokellector.com/48/Bidoof.SF.54.png",
+      "rarity": "Common",
+      "cardNum": "54/100"
+    },
+    {
+      "name": "Bronzor",
+      "set": "Stormfront",
+      "img": "https://den-cards.pokellector.com/48/Bronzor.SF.55.png",
+      "rarity": "Common",
+      "cardNum": "55/100"
+    },
+    {
+      "name": "Cherubi",
+      "set": "Stormfront",
+      "img": "https://den-cards.pokellector.com/48/Cherubi.SF.56.png",
+      "rarity": "Common",
+      "cardNum": "56/100"
+    },
+    {
+      "name": "Combee",
+      "set": "Stormfront",
+      "img": "https://den-cards.pokellector.com/48/Combee.SF.57.png",
+      "rarity": "Common",
+      "cardNum": "57/100"
+    },
+    {
+      "name": "Drifloon",
+      "set": "Stormfront",
+      "img": "https://den-cards.pokellector.com/48/Drifloon.SF.58.png",
+      "rarity": "Common",
+      "cardNum": "58/100"
+    },
+    {
+      "name": "Duskull",
+      "set": "Stormfront",
+      "img": "https://den-cards.pokellector.com/48/Duskull.SF.59.png",
+      "rarity": "Common",
+      "cardNum": "59/100"
+    },
+    {
+      "name": "Duskull",
+      "set": "Stormfront",
+      "img": "https://den-cards.pokellector.com/48/Duskull.SF.60.png",
+      "rarity": "Common",
+      "cardNum": "60/100"
+    },
+    {
+      "name": "Finneon",
+      "set": "Stormfront",
+      "img": "https://den-cards.pokellector.com/48/Finneon.SF.61.png",
+      "rarity": "Common",
+      "cardNum": "61/100"
+    },
+    {
+      "name": "Gastly",
+      "set": "Stormfront",
+      "img": "https://den-cards.pokellector.com/48/Gastly.SF.62.png",
+      "rarity": "Common",
+      "cardNum": "62/100"
+    },
+    {
+      "name": "Larvitar",
+      "set": "Stormfront",
+      "img": "https://den-cards.pokellector.com/48/Larvitar.SF.63.png",
+      "rarity": "Common",
+      "cardNum": "63/100"
+    },
+    {
+      "name": "Machop",
+      "set": "Stormfront",
+      "img": "https://den-cards.pokellector.com/48/Machop.SF.64.png",
+      "rarity": "Common",
+      "cardNum": "64/100"
+    },
+    {
+      "name": "Magikarp",
+      "set": "Stormfront",
+      "img": "https://den-cards.pokellector.com/48/Magikarp.SF.65.png",
+      "rarity": "Common",
+      "cardNum": "65/100"
+    },
+    {
+      "name": "Magnemite",
+      "set": "Stormfront",
+      "img": "https://den-cards.pokellector.com/48/Magnemite.SF.66.png",
+      "rarity": "Common",
+      "cardNum": "66/100"
+    },
+    {
+      "name": "Magnemite",
+      "set": "Stormfront",
+      "img": "https://den-cards.pokellector.com/48/Magnemite.SF.67.png",
+      "rarity": "Common",
+      "cardNum": "67/100"
+    },
+    {
+      "name": "Misdreavus",
+      "set": "Stormfront",
+      "img": "https://den-cards.pokellector.com/48/Misdreavus.SF.68.png",
+      "rarity": "Common",
+      "cardNum": "68/100"
+    },
+    {
+      "name": "Onix",
+      "set": "Stormfront",
+      "img": "https://den-cards.pokellector.com/48/Onix.SF.69.png",
+      "rarity": "Common",
+      "cardNum": "69/100"
+    },
+    {
+      "name": "Pikachu",
+      "set": "Stormfront",
+      "img": "https://den-cards.pokellector.com/48/Pikachu.SF.70.png",
+      "rarity": "Common",
+      "cardNum": "70/100"
+    },
+    {
+      "name": "Ponyta",
+      "set": "Stormfront",
+      "img": "https://den-cards.pokellector.com/48/Ponyta.SF.71.png",
+      "rarity": "Common",
+      "cardNum": "71/100"
+    },
+    {
+      "name": "Roselia",
+      "set": "Stormfront",
+      "img": "https://den-cards.pokellector.com/48/Roselia.SF.72.png",
+      "rarity": "Common",
+      "cardNum": "72/100"
+    },
+    {
+      "name": "Skorupi",
+      "set": "Stormfront",
+      "img": "https://den-cards.pokellector.com/48/Skorupi.SF.73.png",
+      "rarity": "Common",
+      "cardNum": "73/100"
+    },
+    {
+      "name": "Snover",
+      "set": "Stormfront",
+      "img": "https://den-cards.pokellector.com/48/Snover.SF.74.png",
+      "rarity": "Common",
+      "cardNum": "74/100"
+    },
+    {
+      "name": "Starly",
+      "set": "Stormfront",
+      "img": "https://den-cards.pokellector.com/48/Starly.SF.75.png",
+      "rarity": "Common",
+      "cardNum": "75/100"
+    },
+    {
+      "name": "Stunky",
+      "set": "Stormfront",
+      "img": "https://den-cards.pokellector.com/48/Stunky.SF.76.png",
+      "rarity": "Common",
+      "cardNum": "76/100"
+    },
+    {
+      "name": "Swinub",
+      "set": "Stormfront",
+      "img": "https://den-cards.pokellector.com/48/Swinub.SF.77.png",
+      "rarity": "Common",
+      "cardNum": "77/100"
+    },
+    {
+      "name": "Tangela",
+      "set": "Stormfront",
+      "img": "https://den-cards.pokellector.com/48/Tangela.SF.78.png",
+      "rarity": "Common",
+      "cardNum": "78/100"
+    },
+    {
+      "name": "Treecko",
+      "set": "Stormfront",
+      "img": "https://den-cards.pokellector.com/48/Treecko.SF.79.png",
+      "rarity": "Common",
+      "cardNum": "79/100"
+    },
+    {
+      "name": "Voltorb",
+      "set": "Stormfront",
+      "img": "https://den-cards.pokellector.com/48/Voltorb.SF.80.png",
+      "rarity": "Common",
+      "cardNum": "80/100"
+    },
+    {
+      "name": "Voltorb",
+      "set": "Stormfront",
+      "img": "https://den-cards.pokellector.com/48/Voltorb.SF.81.png",
+      "rarity": "Common",
+      "cardNum": "81/100"
+    },
+    {
+      "name": "Conductive Quarry",
+      "set": "Stormfront",
+      "img": "https://den-cards.pokellector.com/48/Conductive-Quarry.SF.82.png",
+      "rarity": "Uncommon",
+      "cardNum": "82/100"
+    },
+    {
+      "name": "Energy Link",
+      "set": "Stormfront",
+      "img": "https://den-cards.pokellector.com/48/Energy-Link.SF.83.png",
+      "rarity": "Uncommon",
+      "cardNum": "83/100"
+    },
+    {
+      "name": "Energy Switch",
+      "set": "Stormfront",
+      "img": "https://den-cards.pokellector.com/48/Energy-Switch.SF.84.png",
+      "rarity": "Uncommon",
+      "cardNum": "84/100"
+    },
+    {
+      "name": "Great Ball",
+      "set": "Stormfront",
+      "img": "https://den-cards.pokellector.com/48/Great-Ball.SF.85.png",
+      "rarity": "Uncommon",
+      "cardNum": "85/100"
+    },
+    {
+      "name": "Luxury Ball",
+      "set": "Stormfront",
+      "img": "https://den-cards.pokellector.com/48/Luxury-Ball.SF.86.png",
+      "rarity": "Uncommon",
+      "cardNum": "86/100"
+    },
+    {
+      "name": "Marley's Request",
+      "set": "Stormfront",
+      "img": "https://den-cards.pokellector.com/48/Marleys-Request.SF.87.png",
+      "rarity": "Uncommon",
+      "cardNum": "87/100"
+    },
+    {
+      "name": "Poke Blower +",
+      "set": "Stormfront",
+      "img": "https://den-cards.pokellector.com/48/Poke-Blower-.SF.88.png",
+      "rarity": "Uncommon",
+      "cardNum": "88/100"
+    },
+    {
+      "name": "Poke Drawer +",
+      "set": "Stormfront",
+      "img": "https://den-cards.pokellector.com/48/Poke-Drawer-.SF.89.png",
+      "rarity": "Uncommon",
+      "cardNum": "89/100"
+    },
+    {
+      "name": "Poke Healer +",
+      "set": "Stormfront",
+      "img": "https://den-cards.pokellector.com/48/Poke-Healer-.SF.90.png",
+      "rarity": "Uncommon",
+      "cardNum": "90/100"
+    },
+    {
+      "name": "Premier Ball",
+      "set": "Stormfront",
+      "img": "https://den-cards.pokellector.com/48/Premier-Ball.SF.91.png",
+      "rarity": "Uncommon",
+      "cardNum": "91/100"
+    },
+    {
+      "name": "Potion",
+      "set": "Stormfront",
+      "img": "https://den-cards.pokellector.com/48/Potion.SF.92.png",
+      "rarity": "Common",
+      "cardNum": "92/100"
+    },
+    {
+      "name": "Switch",
+      "set": "Stormfront",
+      "img": "https://den-cards.pokellector.com/48/Switch.SF.93.png",
+      "rarity": "Common",
+      "cardNum": "93/100"
+    },
+    {
+      "name": "Cyclone Energy",
+      "set": "Stormfront",
+      "img": "https://den-cards.pokellector.com/48/Cyclone-Energy.SF.94.png",
+      "rarity": "Uncommon",
+      "cardNum": "94/100"
+    },
+    {
+      "name": "Warp Energy",
+      "set": "Stormfront",
+      "img": "https://den-cards.pokellector.com/48/Warp-Energy.SF.95.png",
+      "rarity": "Uncommon",
+      "cardNum": "95/100"
+    },
+    {
+      "name": "Dusknoir LV. X",
+      "set": "Stormfront",
+      "img": "https://den-cards.pokellector.com/48/Dusknoir-LV-X.SF.96.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "96/100"
+    },
+    {
+      "name": "Heatran LV. X",
+      "set": "Stormfront",
+      "img": "https://den-cards.pokellector.com/48/Heatran-LV-X.SF.97.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "97/100"
+    },
+    {
+      "name": "Machamp LV. X",
+      "set": "Stormfront",
+      "img": "https://den-cards.pokellector.com/48/Machamp-LV-X.SF.98.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "98/100"
+    },
+    {
+      "name": "Raichu LV. X",
+      "set": "Stormfront",
+      "img": "https://den-cards.pokellector.com/48/Raichu-LV-X.SF.99.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "99/100"
+    },
+    {
+      "name": "Regigigas LV. X",
+      "set": "Stormfront",
+      "img": "https://den-cards.pokellector.com/48/Regigigas-LV-X.SF.100.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "100/100"
+    },
+    {
+      "name": "Charmander",
+      "set": "Stormfront",
+      "img": "https://den-cards.pokellector.com/48/Charmander.SF.101.png",
+      "rarity": "Secret Rare",
+      "cardNum": "101/100"
+    },
+    {
+      "name": "Charmeleon",
+      "set": "Stormfront",
+      "img": "https://den-cards.pokellector.com/48/Charmeleon.SF.102.png",
+      "rarity": "Secret Rare",
+      "cardNum": "102/100"
+    },
+    {
+      "name": "Charizard",
+      "set": "Stormfront",
+      "img": "https://den-cards.pokellector.com/48/Charizard.SF.103.png",
+      "rarity": "Secret Rare",
+      "cardNum": "103/100"
+    },
+    {
+      "name": "Drifloon",
+      "set": "Stormfront",
+      "img": "https://den-cards.pokellector.com/48/Drifloon.SF.SH1.3314.png",
+      "rarity": "Secret Rare",
+      "cardNum": "SH1"
+    },
+    {
+      "name": "Duskull",
+      "set": "Stormfront",
+      "img": "https://den-cards.pokellector.com/48/Duskull.SF.SH2.3315.png",
+      "rarity": "Secret Rare",
+      "cardNum": "SH2"
+    },
+    {
+      "name": "Voltorb",
+      "set": "Stormfront",
+      "img": "https://den-cards.pokellector.com/48/Voltorb.SF.3.png",
+      "rarity": "Secret Rare",
+      "cardNum": "SH3"
+    }
+  ]
+}

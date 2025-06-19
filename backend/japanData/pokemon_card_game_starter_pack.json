@@ -1,0 +1,544 @@
+{
+  "setName": "Pokemon Card Game Starter Pack",
+  "cards": [
+    {
+      "name": "Venusaur EX",
+      "set": "Pokemon Card Game Starter Pack",
+      "img": "https://den-cards.pokellector.com/189/Venusaur-EX..1.png",
+      "rarity": "Common",
+      "cardNum": "1/72"
+    },
+    {
+      "name": "M Venusaur EX",
+      "set": "Pokemon Card Game Starter Pack",
+      "img": "https://den-cards.pokellector.com/189/M-Venusaur-EX..2.png",
+      "rarity": "Common",
+      "cardNum": "2/72"
+    },
+    {
+      "name": "Caterpie",
+      "set": "Pokemon Card Game Starter Pack",
+      "img": "https://den-cards.pokellector.com/189/Caterpie.20TH.3.png",
+      "rarity": "Common",
+      "cardNum": "3/72"
+    },
+    {
+      "name": "Metapod",
+      "set": "Pokemon Card Game Starter Pack",
+      "img": "https://den-cards.pokellector.com/189/Metapod.20TH.4.png",
+      "rarity": "Common",
+      "cardNum": "4/72"
+    },
+    {
+      "name": "Butterfree",
+      "set": "Pokemon Card Game Starter Pack",
+      "img": "https://den-cards.pokellector.com/189/Butterfree.20TH.5.png",
+      "rarity": "Common",
+      "cardNum": "5/72"
+    },
+    {
+      "name": "Paras",
+      "set": "Pokemon Card Game Starter Pack",
+      "img": "https://den-cards.pokellector.com/189/Paras.20TH.6.png",
+      "rarity": "Common",
+      "cardNum": "6/72"
+    },
+    {
+      "name": "Parasect",
+      "set": "Pokemon Card Game Starter Pack",
+      "img": "https://den-cards.pokellector.com/189/Parasect.20TH.7.png",
+      "rarity": "Common",
+      "cardNum": "7/72"
+    },
+    {
+      "name": "Tangela",
+      "set": "Pokemon Card Game Starter Pack",
+      "img": "https://den-cards.pokellector.com/189/Tangela.20TH.8.png",
+      "rarity": "Common",
+      "cardNum": "8/72"
+    },
+    {
+      "name": "Pinsir",
+      "set": "Pokemon Card Game Starter Pack",
+      "img": "https://den-cards.pokellector.com/189/Pinsir.20TH.9.png",
+      "rarity": "Common",
+      "cardNum": "9/72"
+    },
+    {
+      "name": "Charizard EX",
+      "set": "Pokemon Card Game Starter Pack",
+      "img": "https://den-cards.pokellector.com/189/Charizard-EX.20TH.10.png",
+      "rarity": "Common",
+      "cardNum": "10/72"
+    },
+    {
+      "name": "M Charizard EX",
+      "set": "Pokemon Card Game Starter Pack",
+      "img": "https://den-cards.pokellector.com/189/M-Charizard-EX..4.png",
+      "rarity": "Common",
+      "cardNum": "11/72"
+    },
+    {
+      "name": "Ponyta",
+      "set": "Pokemon Card Game Starter Pack",
+      "img": "https://den-cards.pokellector.com/189/Ponyta.20TH.12.png",
+      "rarity": "Common",
+      "cardNum": "12/72"
+    },
+    {
+      "name": "Rapidash",
+      "set": "Pokemon Card Game Starter Pack",
+      "img": "https://den-cards.pokellector.com/189/Rapidash.20TH.13.png",
+      "rarity": "Common",
+      "cardNum": "13/72"
+    },
+    {
+      "name": "Magmar",
+      "set": "Pokemon Card Game Starter Pack",
+      "img": "https://den-cards.pokellector.com/189/Magmar.20TH.14.png",
+      "rarity": "Common",
+      "cardNum": "14/72"
+    },
+    {
+      "name": "Magikarp",
+      "set": "Pokemon Card Game Starter Pack",
+      "img": "https://den-cards.pokellector.com/189/Magikarp.20TH.15.png",
+      "rarity": "Common",
+      "cardNum": "15/72"
+    },
+    {
+      "name": "Gyarados",
+      "set": "Pokemon Card Game Starter Pack",
+      "img": "https://den-cards.pokellector.com/189/Gyarados.20TH.16.png",
+      "rarity": "Common",
+      "cardNum": "16/72"
+    },
+    {
+      "name": "Articuno",
+      "set": "Pokemon Card Game Starter Pack",
+      "img": "https://den-cards.pokellector.com/189/Articuno.20TH.17.png",
+      "rarity": "Common",
+      "cardNum": "17/72"
+    },
+    {
+      "name": "Pikachu",
+      "set": "Pokemon Card Game Starter Pack",
+      "img": "https://den-cards.pokellector.com/189/Pikachu.20TH.18.png",
+      "rarity": "Common",
+      "cardNum": "18/72"
+    },
+    {
+      "name": "Raichu",
+      "set": "Pokemon Card Game Starter Pack",
+      "img": "https://den-cards.pokellector.com/189/Raichu.20TH.19.png",
+      "rarity": "Common",
+      "cardNum": "19/72"
+    },
+    {
+      "name": "Zapdos",
+      "set": "Pokemon Card Game Starter Pack",
+      "img": "https://den-cards.pokellector.com/189/Zapdos.20TH.20.png",
+      "rarity": "Common",
+      "cardNum": "20/72"
+    },
+    {
+      "name": "Zubat",
+      "set": "Pokemon Card Game Starter Pack",
+      "img": "https://den-cards.pokellector.com/189/Zubat.20TH.21.png",
+      "rarity": "Common",
+      "cardNum": "21/72"
+    },
+    {
+      "name": "Golbat",
+      "set": "Pokemon Card Game Starter Pack",
+      "img": "https://den-cards.pokellector.com/189/Golbat.20TH.22.png",
+      "rarity": "Common",
+      "cardNum": "22/72"
+    },
+    {
+      "name": "Slowpoke",
+      "set": "Pokemon Card Game Starter Pack",
+      "img": "https://den-cards.pokellector.com/189/Slowpoke.20TH.23.png",
+      "rarity": "Common",
+      "cardNum": "23/72"
+    },
+    {
+      "name": "Ghastly",
+      "set": "Pokemon Card Game Starter Pack",
+      "img": "https://den-cards.pokellector.com/189/Ghastly.20TH.24.png",
+      "rarity": "Common",
+      "cardNum": "24/72"
+    },
+    {
+      "name": "Haunter",
+      "set": "Pokemon Card Game Starter Pack",
+      "img": "https://den-cards.pokellector.com/189/Haunter.20TH.25.png",
+      "rarity": "Common",
+      "cardNum": "25/72"
+    },
+    {
+      "name": "Gengar",
+      "set": "Pokemon Card Game Starter Pack",
+      "img": "https://den-cards.pokellector.com/189/Gengar.20TH.26.png",
+      "rarity": "Common",
+      "cardNum": "26/72"
+    },
+    {
+      "name": "Jynx",
+      "set": "Pokemon Card Game Starter Pack",
+      "img": "https://den-cards.pokellector.com/189/Jynx.20TH.27.png",
+      "rarity": "Common",
+      "cardNum": "27/72"
+    },
+    {
+      "name": "Diglett",
+      "set": "Pokemon Card Game Starter Pack",
+      "img": "https://den-cards.pokellector.com/189/Diglett..28.png",
+      "rarity": "Common",
+      "cardNum": "28/72"
+    },
+    {
+      "name": "Dugtrio",
+      "set": "Pokemon Card Game Starter Pack",
+      "img": "https://den-cards.pokellector.com/189/Dugtrio.20TH.29.png",
+      "rarity": "Common",
+      "cardNum": "29/72"
+    },
+    {
+      "name": "Machop",
+      "set": "Pokemon Card Game Starter Pack",
+      "img": "https://den-cards.pokellector.com/189/Machop.20TH.30.png",
+      "rarity": "Common",
+      "cardNum": "30/72"
+    },
+    {
+      "name": "Machoke",
+      "set": "Pokemon Card Game Starter Pack",
+      "img": "https://den-cards.pokellector.com/189/Machoke.20TH.31.png",
+      "rarity": "Common",
+      "cardNum": "31/72"
+    },
+    {
+      "name": "Machamp",
+      "set": "Pokemon Card Game Starter Pack",
+      "img": "https://den-cards.pokellector.com/189/Machamp.20TH.32.png",
+      "rarity": "Common",
+      "cardNum": "32/72"
+    },
+    {
+      "name": "Geodude",
+      "set": "Pokemon Card Game Starter Pack",
+      "img": "https://den-cards.pokellector.com/189/Geodude.20TH.33.png",
+      "rarity": "Common",
+      "cardNum": "33/72"
+    },
+    {
+      "name": "Graveler",
+      "set": "Pokemon Card Game Starter Pack",
+      "img": "https://den-cards.pokellector.com/189/Graveler.20TH.34.png",
+      "rarity": "Common",
+      "cardNum": "34/72"
+    },
+    {
+      "name": "Golem",
+      "set": "Pokemon Card Game Starter Pack",
+      "img": "https://den-cards.pokellector.com/189/Golem.20TH.35.png",
+      "rarity": "Common",
+      "cardNum": "35/72"
+    },
+    {
+      "name": "Hitmonlee",
+      "set": "Pokemon Card Game Starter Pack",
+      "img": "https://den-cards.pokellector.com/189/Hitmonlee.20TH.36.png",
+      "rarity": "Common",
+      "cardNum": "36/72"
+    },
+    {
+      "name": "Hitmonchan",
+      "set": "Pokemon Card Game Starter Pack",
+      "img": "https://den-cards.pokellector.com/189/Hitmonchan.20TH.37.png",
+      "rarity": "Common",
+      "cardNum": "37/72"
+    },
+    {
+      "name": "Rhyhorn",
+      "set": "Pokemon Card Game Starter Pack",
+      "img": "https://den-cards.pokellector.com/189/Rhyhorn.20TH.38.png",
+      "rarity": "Common",
+      "cardNum": "38/72"
+    },
+    {
+      "name": "Clefairy",
+      "set": "Pokemon Card Game Starter Pack",
+      "img": "https://den-cards.pokellector.com/189/Clefairy.20TH.39.png",
+      "rarity": "Common",
+      "cardNum": "39/72"
+    },
+    {
+      "name": "Clefable",
+      "set": "Pokemon Card Game Starter Pack",
+      "img": "https://den-cards.pokellector.com/189/Clefable.20TH.40.png",
+      "rarity": "Common",
+      "cardNum": "40/72"
+    },
+    {
+      "name": "Mr Mime",
+      "set": "Pokemon Card Game Starter Pack",
+      "img": "https://den-cards.pokellector.com/189/Mr-Mime.20TH.41.png",
+      "rarity": "Common",
+      "cardNum": "41/72"
+    },
+    {
+      "name": "Meowth",
+      "set": "Pokemon Card Game Starter Pack",
+      "img": "https://den-cards.pokellector.com/189/Meowth.20TH.42.png",
+      "rarity": "Common",
+      "cardNum": "42/72"
+    },
+    {
+      "name": "Persian",
+      "set": "Pokemon Card Game Starter Pack",
+      "img": "https://den-cards.pokellector.com/189/Persian.20TH.43.png",
+      "rarity": "Common",
+      "cardNum": "43/72"
+    },
+    {
+      "name": "Doduo",
+      "set": "Pokemon Card Game Starter Pack",
+      "img": "https://den-cards.pokellector.com/189/Doduo.20TH.44.png",
+      "rarity": "Common",
+      "cardNum": "44/72"
+    },
+    {
+      "name": "Dodrio",
+      "set": "Pokemon Card Game Starter Pack",
+      "img": "https://den-cards.pokellector.com/189/Dodrio.20TH.45.png",
+      "rarity": "Common",
+      "cardNum": "45/72"
+    },
+    {
+      "name": "Tauros",
+      "set": "Pokemon Card Game Starter Pack",
+      "img": "https://den-cards.pokellector.com/189/Tauros.20TH.45.png",
+      "rarity": "Common",
+      "cardNum": "46/72"
+    },
+    {
+      "name": "Snorlax",
+      "set": "Pokemon Card Game Starter Pack",
+      "img": "https://den-cards.pokellector.com/189/Snorlax.20TH.47.png",
+      "rarity": "Common",
+      "cardNum": "47/72"
+    },
+    {
+      "name": "Energy Retrieval",
+      "set": "Pokemon Card Game Starter Pack",
+      "img": "https://den-cards.pokellector.com/189/Energy-Retrieval.20TH.48.png",
+      "rarity": "Common",
+      "cardNum": "48/72"
+    },
+    {
+      "name": "Energy Switch",
+      "set": "Pokemon Card Game Starter Pack",
+      "img": "https://den-cards.pokellector.com/189/Energy-Switch.20TH.49.png",
+      "rarity": "Common",
+      "cardNum": "49/72"
+    },
+    {
+      "name": "Potion",
+      "set": "Pokemon Card Game Starter Pack",
+      "img": "https://den-cards.pokellector.com/189/Potion.20TH.50.png",
+      "rarity": "Common",
+      "cardNum": "50/72"
+    },
+    {
+      "name": "Crushing Hammer",
+      "set": "Pokemon Card Game Starter Pack",
+      "img": "https://den-cards.pokellector.com/189/Crushing-Hammer.20TH.51.png",
+      "rarity": "Common",
+      "cardNum": "51/72"
+    },
+    {
+      "name": "Revive",
+      "set": "Pokemon Card Game Starter Pack",
+      "img": "https://den-cards.pokellector.com/189/Revive.20TH.52.png",
+      "rarity": "Common",
+      "cardNum": "52/72"
+    },
+    {
+      "name": "Evosoda",
+      "set": "Pokemon Card Game Starter Pack",
+      "img": "https://den-cards.pokellector.com/189/Evosoda.20TH.53.png",
+      "rarity": "Common",
+      "cardNum": "53/72"
+    },
+    {
+      "name": "Super Rod",
+      "set": "Pokemon Card Game Starter Pack",
+      "img": "https://den-cards.pokellector.com/189/Super-Rod.20TH.54.png",
+      "rarity": "Common",
+      "cardNum": "54/72"
+    },
+    {
+      "name": "Ultra Ball",
+      "set": "Pokemon Card Game Starter Pack",
+      "img": "https://den-cards.pokellector.com/189/Ultra-Ball.20TH.55.png",
+      "rarity": "Common",
+      "cardNum": "55/72"
+    },
+    {
+      "name": "Professor's Letter",
+      "set": "Pokemon Card Game Starter Pack",
+      "img": "https://den-cards.pokellector.com/189/Professors-Letter.20TH.56.png",
+      "rarity": "Common",
+      "cardNum": "56/72"
+    },
+    {
+      "name": "Rare Candy",
+      "set": "Pokemon Card Game Starter Pack",
+      "img": "https://den-cards.pokellector.com/189/Rare-Candy.20TH.57.png",
+      "rarity": "Common",
+      "cardNum": "57/72"
+    },
+    {
+      "name": "Switch",
+      "set": "Pokemon Card Game Starter Pack",
+      "img": "https://den-cards.pokellector.com/189/Switch.20TH.58.png",
+      "rarity": "Common",
+      "cardNum": "58/72"
+    },
+    {
+      "name": "Pokemon Catcher",
+      "set": "Pokemon Card Game Starter Pack",
+      "img": "https://den-cards.pokellector.com/189/Pokemon-Catcher.20TH.59.png",
+      "rarity": "Common",
+      "cardNum": "59/72"
+    },
+    {
+      "name": "Maintenance",
+      "set": "Pokemon Card Game Starter Pack",
+      "img": "https://den-cards.pokellector.com/189/Maintenance.20TH.60.png",
+      "rarity": "Common",
+      "cardNum": "60/72"
+    },
+    {
+      "name": "Pokeball",
+      "set": "Pokemon Card Game Starter Pack",
+      "img": "https://den-cards.pokellector.com/189/Pokeball.20TH.61.png",
+      "rarity": "Common",
+      "cardNum": "61/72"
+    },
+    {
+      "name": "Red Card",
+      "set": "Pokemon Card Game Starter Pack",
+      "img": "https://den-cards.pokellector.com/189/Red-Card.20TH.62.png",
+      "rarity": "Common",
+      "cardNum": "62/72"
+    },
+    {
+      "name": "Imakuni?",
+      "set": "Pokemon Card Game Starter Pack",
+      "img": "https://den-cards.pokellector.com/189/Imakuni.20TH.63.png",
+      "rarity": "Common",
+      "cardNum": "63/72"
+    },
+    {
+      "name": "Shauna",
+      "set": "Pokemon Card Game Starter Pack",
+      "img": "https://den-cards.pokellector.com/189/Shauna.20TH.64.png",
+      "rarity": "Common",
+      "cardNum": "64/72"
+    },
+    {
+      "name": "Judge",
+      "set": "Pokemon Card Game Starter Pack",
+      "img": "https://den-cards.pokellector.com/189/Judge.20TH.65.png",
+      "rarity": "Common",
+      "cardNum": "65/72"
+    },
+    {
+      "name": "Tierno",
+      "set": "Pokemon Card Game Starter Pack",
+      "img": "https://den-cards.pokellector.com/189/Tierno.20TH.66.png",
+      "rarity": "Common",
+      "cardNum": "66/72"
+    },
+    {
+      "name": "Professor Sycamore",
+      "set": "Pokemon Card Game Starter Pack",
+      "img": "https://den-cards.pokellector.com/189/Professor-Sycamore.20TH.67.png",
+      "rarity": "Common",
+      "cardNum": "67/72"
+    },
+    {
+      "name": "Lysandre",
+      "set": "Pokemon Card Game Starter Pack",
+      "img": "https://den-cards.pokellector.com/189/Lysandre.20TH.68.png",
+      "rarity": "Common",
+      "cardNum": "68/72"
+    },
+    {
+      "name": "Team Flare Grunt",
+      "set": "Pokemon Card Game Starter Pack",
+      "img": "https://den-cards.pokellector.com/189/Team-Flare-Grunt.20TH.69.png",
+      "rarity": "Common",
+      "cardNum": "69/72"
+    },
+    {
+      "name": "Pokemon Center Lady",
+      "set": "Pokemon Card Game Starter Pack",
+      "img": "https://den-cards.pokellector.com/189/Pokemon-Center-Lady.20TH.70.png",
+      "rarity": "Common",
+      "cardNum": "70/72"
+    },
+    {
+      "name": "Pokemon Fan Club",
+      "set": "Pokemon Card Game Starter Pack",
+      "img": "https://den-cards.pokellector.com/189/Pokemon-Fan-Club.20TH.71.png",
+      "rarity": "Common",
+      "cardNum": "71/72"
+    },
+    {
+      "name": "Double Colorless Energy",
+      "set": "Pokemon Card Game Starter Pack",
+      "img": "https://den-cards.pokellector.com/189/Double-Colorless-Energy.20TH.72.png",
+      "rarity": "Common",
+      "cardNum": "72/72"
+    },
+    {
+      "name": "Blastoise EX",
+      "set": "Pokemon Card Game Starter Pack",
+      "img": "https://den-cards.pokellector.com/189/Blastoise-EX.20TH.73.13942.png",
+      "rarity": "Secret Rare",
+      "cardNum": "73/72"
+    },
+    {
+      "name": "M Blastoise EX",
+      "set": "Pokemon Card Game Starter Pack",
+      "img": "https://den-cards.pokellector.com/189/M-Blastoise-EX.20TH.74.13943.png",
+      "rarity": "Secret Rare",
+      "cardNum": "74/72"
+    },
+    {
+      "name": "Shellder",
+      "set": "Pokemon Card Game Starter Pack",
+      "img": "https://den-cards.pokellector.com/189/Shellder.20TH.75.13944.png",
+      "rarity": "Secret Rare",
+      "cardNum": "75/72"
+    },
+    {
+      "name": "Cloyster",
+      "set": "Pokemon Card Game Starter Pack",
+      "img": "https://den-cards.pokellector.com/189/Cloyster.20TH.76.13945.png",
+      "rarity": "Secret Rare",
+      "cardNum": "76/72"
+    },
+    {
+      "name": "Krabby",
+      "set": "Pokemon Card Game Starter Pack",
+      "img": "https://den-cards.pokellector.com/189/Krabby.20TH.77.13946.png",
+      "rarity": "Secret Rare",
+      "cardNum": "77/72"
+    }
+  ]
+}

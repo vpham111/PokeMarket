@@ -1,0 +1,453 @@
+{
+  "setName": "Seen the Rainbow Battle",
+  "cards": [
+    {
+      "name": "Oddish",
+      "set": "Seen the Rainbow Battle",
+      "img": "https://den-cards.pokellector.com/219/Oddish.SM3H.1.18156.png",
+      "rarity": "Common",
+      "cardNum": "1/51"
+    },
+    {
+      "name": "Gloom",
+      "set": "Seen the Rainbow Battle",
+      "img": "https://den-cards.pokellector.com/219/Gloom.SM3H.2.18157.png",
+      "rarity": "Common",
+      "cardNum": "2/51"
+    },
+    {
+      "name": "Vileplume",
+      "set": "Seen the Rainbow Battle",
+      "img": "https://den-cards.pokellector.com/219/Vileplume.SM3H.3.18158.png",
+      "rarity": "Rare",
+      "cardNum": "3/51"
+    },
+    {
+      "name": "Heracross",
+      "set": "Seen the Rainbow Battle",
+      "img": "https://den-cards.pokellector.com/219/Heracross.SM3H.4.18159.png",
+      "rarity": "Uncommon",
+      "cardNum": "4/51"
+    },
+    {
+      "name": "Pansage",
+      "set": "Seen the Rainbow Battle",
+      "img": "https://den-cards.pokellector.com/219/Pansage.SM3H.5.18160.png",
+      "rarity": "Common",
+      "cardNum": "5/51"
+    },
+    {
+      "name": "Simisage",
+      "set": "Seen the Rainbow Battle",
+      "img": "https://den-cards.pokellector.com/219/Simisage.SM3H.6.18161.png",
+      "rarity": "Common",
+      "cardNum": "6/51"
+    },
+    {
+      "name": "Dewpider",
+      "set": "Seen the Rainbow Battle",
+      "img": "https://den-cards.pokellector.com/219/Dewpider.SM3H.7.18162.png",
+      "rarity": "Common",
+      "cardNum": "7/51"
+    },
+    {
+      "name": "Araquanid",
+      "set": "Seen the Rainbow Battle",
+      "img": "https://den-cards.pokellector.com/219/Araquanid.SM3H.8.18092.png",
+      "rarity": "Uncommon",
+      "cardNum": "8/51"
+    },
+    {
+      "name": "Charmander",
+      "set": "Seen the Rainbow Battle",
+      "img": "https://den-cards.pokellector.com/219/Charmander.SM3H.9.18163.png",
+      "rarity": "Common",
+      "cardNum": "9/51"
+    },
+    {
+      "name": "Charmeleon",
+      "set": "Seen the Rainbow Battle",
+      "img": "https://den-cards.pokellector.com/219/Charmeleon.SM3H.10.18164.png",
+      "rarity": "Common",
+      "cardNum": "10/51"
+    },
+    {
+      "name": "Charizard GX",
+      "set": "Seen the Rainbow Battle",
+      "img": "https://den-cards.pokellector.com/219/Charizard-GX.SM3H.11.18109.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "11/51"
+    },
+    {
+      "name": "Ho-oh GX",
+      "set": "Seen the Rainbow Battle",
+      "img": "https://den-cards.pokellector.com/219/Ho-oh-GX.SM3H.12.18060.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "12/51"
+    },
+    {
+      "name": "Pansear",
+      "set": "Seen the Rainbow Battle",
+      "img": "https://den-cards.pokellector.com/219/Pansear.SM3H.13.18165.png",
+      "rarity": "Common",
+      "cardNum": "13/51"
+    },
+    {
+      "name": "Simisear",
+      "set": "Seen the Rainbow Battle",
+      "img": "https://den-cards.pokellector.com/219/Simisear.SM3H.14.18166.png",
+      "rarity": "Common",
+      "cardNum": "14/51"
+    },
+    {
+      "name": "Heatmor",
+      "set": "Seen the Rainbow Battle",
+      "img": "https://den-cards.pokellector.com/219/Heatmor.SM3H.15.18088.png",
+      "rarity": "Common",
+      "cardNum": "15/51"
+    },
+    {
+      "name": "Horsea",
+      "set": "Seen the Rainbow Battle",
+      "img": "https://den-cards.pokellector.com/219/Horsea.SM3H.16.18167.png",
+      "rarity": "Common",
+      "cardNum": "16/51"
+    },
+    {
+      "name": "Seadra",
+      "set": "Seen the Rainbow Battle",
+      "img": "https://den-cards.pokellector.com/219/Seadra.SM3H.17.18168.png",
+      "rarity": "Common",
+      "cardNum": "17/51"
+    },
+    {
+      "name": "Kingdra",
+      "set": "Seen the Rainbow Battle",
+      "img": "https://den-cards.pokellector.com/219/Kingdra.SM3H.18.18169.png",
+      "rarity": "Rare",
+      "cardNum": "18/51"
+    },
+    {
+      "name": "Marill",
+      "set": "Seen the Rainbow Battle",
+      "img": "https://den-cards.pokellector.com/219/Marill.SM3H.19.18170.png",
+      "rarity": "Common",
+      "cardNum": "19/51"
+    },
+    {
+      "name": "Azumarill",
+      "set": "Seen the Rainbow Battle",
+      "img": "https://den-cards.pokellector.com/219/Azumarill.SM3H.20.18171.png",
+      "rarity": "Uncommon",
+      "cardNum": "20/51"
+    },
+    {
+      "name": "Wobbuffet",
+      "set": "Seen the Rainbow Battle",
+      "img": "https://den-cards.pokellector.com/219/Wobbuffet.SM3H.21.18126.png",
+      "rarity": "Uncommon",
+      "cardNum": "21/51"
+    },
+    {
+      "name": "Venipede",
+      "set": "Seen the Rainbow Battle",
+      "img": "https://den-cards.pokellector.com/219/Venipede.SM3H.22.18172.png",
+      "rarity": "Common",
+      "cardNum": "22/51"
+    },
+    {
+      "name": "Whirlipede",
+      "set": "Seen the Rainbow Battle",
+      "img": "https://den-cards.pokellector.com/219/Whirlipede.SM3H.23.18173.png",
+      "rarity": "Common",
+      "cardNum": "23/51"
+    },
+    {
+      "name": "Scolipede",
+      "set": "Seen the Rainbow Battle",
+      "img": "https://den-cards.pokellector.com/219/Darkrai.SM3H.24.18031.png",
+      "rarity": "Rare",
+      "cardNum": "24/51"
+    },
+    {
+      "name": "Sandygast",
+      "set": "Seen the Rainbow Battle",
+      "img": "https://den-cards.pokellector.com/219/Sandygast.SM3H.25.18174.png",
+      "rarity": "Common",
+      "cardNum": "25/51"
+    },
+    {
+      "name": "Palossand",
+      "set": "Seen the Rainbow Battle",
+      "img": "https://den-cards.pokellector.com/219/Palossand.SM3H.26.18175.png",
+      "rarity": "Rare",
+      "cardNum": "26/51"
+    },
+    {
+      "name": "Riolu",
+      "set": "Seen the Rainbow Battle",
+      "img": "https://den-cards.pokellector.com/219/Riolu.SM3H.27.18133.png",
+      "rarity": "Common",
+      "cardNum": "27/51"
+    },
+    {
+      "name": "Lucario",
+      "set": "Seen the Rainbow Battle",
+      "img": "https://den-cards.pokellector.com/219/Lucario.SM3H.28.18134.png",
+      "rarity": "Rare",
+      "cardNum": "28/51"
+    },
+    {
+      "name": "Crabrawler",
+      "set": "Seen the Rainbow Battle",
+      "img": "https://den-cards.pokellector.com/219/Crabrawler.SM3H.29.18176.png",
+      "rarity": "Common",
+      "cardNum": "29/51"
+    },
+    {
+      "name": "Crabominable",
+      "set": "Seen the Rainbow Battle",
+      "img": "https://den-cards.pokellector.com/219/Crabominable.SM3H.30.18177.png",
+      "rarity": "Uncommon",
+      "cardNum": "30/51"
+    },
+    {
+      "name": "Passimian",
+      "set": "Seen the Rainbow Battle",
+      "img": "https://den-cards.pokellector.com/219/Passimian.SM3H.31.18178.png",
+      "rarity": "Uncommon",
+      "cardNum": "31/51"
+    },
+    {
+      "name": "Alolan Grimer",
+      "set": "Seen the Rainbow Battle",
+      "img": "https://den-cards.pokellector.com/219/Alolan-Grimer.SM3H.32.18179.png",
+      "rarity": "Common",
+      "cardNum": "32/51"
+    },
+    {
+      "name": "Alolan Muk GX",
+      "set": "Seen the Rainbow Battle",
+      "img": "https://den-cards.pokellector.com/219/Alolan-Muk-GX.SM3H.33.18180.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "33/51"
+    },
+    {
+      "name": "Darkrai",
+      "set": "Seen the Rainbow Battle",
+      "img": "https://den-cards.pokellector.com/219/Darkrai.SM3H.34.18135.png",
+      "rarity": "Rare",
+      "cardNum": "34/51"
+    },
+    {
+      "name": "Inkay",
+      "set": "Seen the Rainbow Battle",
+      "img": "https://den-cards.pokellector.com/219/Inkay.SM3H.35.18181.png",
+      "rarity": "Common",
+      "cardNum": "35/51"
+    },
+    {
+      "name": "Malamar",
+      "set": "Seen the Rainbow Battle",
+      "img": "https://den-cards.pokellector.com/219/Alolan-Grimer.SM3H.36.18062.png",
+      "rarity": "Uncommon",
+      "cardNum": "36/51"
+    },
+    {
+      "name": "Diancie",
+      "set": "Seen the Rainbow Battle",
+      "img": "https://den-cards.pokellector.com/219/Diancie.SM3H.37.18121.png",
+      "rarity": "Rare",
+      "cardNum": "37/51"
+    },
+    {
+      "name": "Cutiefly",
+      "set": "Seen the Rainbow Battle",
+      "img": "https://den-cards.pokellector.com/219/Cutiefly.SM3H.38.18182.png",
+      "rarity": "Common",
+      "cardNum": "38/51"
+    },
+    {
+      "name": "Ribombee",
+      "set": "Seen the Rainbow Battle",
+      "img": "https://den-cards.pokellector.com/219/Ribombee.SM3H.39.18122.png",
+      "rarity": "Uncommon",
+      "cardNum": "39/51"
+    },
+    {
+      "name": "Noivern GX",
+      "set": "Seen the Rainbow Battle",
+      "img": "https://den-cards.pokellector.com/219/Noivern-GX.SM3H.40.18084.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "40/51"
+    },
+    {
+      "name": "Meowth",
+      "set": "Seen the Rainbow Battle",
+      "img": "https://den-cards.pokellector.com/219/Meowth.SM3H.41.18083.png",
+      "rarity": "Common",
+      "cardNum": "41/51"
+    },
+    {
+      "name": "Persian",
+      "set": "Seen the Rainbow Battle",
+      "img": "https://den-cards.pokellector.com/219/Persian.SM3H.42.18183.png",
+      "rarity": "Uncommon",
+      "cardNum": "42/51"
+    },
+    {
+      "name": "Hoothoot",
+      "set": "Seen the Rainbow Battle",
+      "img": "https://den-cards.pokellector.com/219/Hoothoot.SM3H.43.18184.png",
+      "rarity": "Common",
+      "cardNum": "43/51"
+    },
+    {
+      "name": "Noctowl",
+      "set": "Seen the Rainbow Battle",
+      "img": "https://den-cards.pokellector.com/219/Noctowl.SM3H.44.18185.png",
+      "rarity": "Uncommon",
+      "cardNum": "44/51"
+    },
+    {
+      "name": "Bouffalant",
+      "set": "Seen the Rainbow Battle",
+      "img": "https://den-cards.pokellector.com/219/Bouffalant.SM3H.45.18186.png",
+      "rarity": "Common",
+      "cardNum": "45/51"
+    },
+    {
+      "name": "Noibat",
+      "set": "Seen the Rainbow Battle",
+      "img": "https://den-cards.pokellector.com/219/Noibat.SM3H.46.18187.png",
+      "rarity": "Common",
+      "cardNum": "46/51"
+    },
+    {
+      "name": "Rotom Dex Poke finder Mode",
+      "set": "Seen the Rainbow Battle",
+      "img": "https://den-cards.pokellector.com/219/Rotom-Dex-Pokefinder.SM3H.47.18086.png",
+      "rarity": "Uncommon",
+      "cardNum": "47/51"
+    },
+    {
+      "name": "Muscle Dumbbells",
+      "set": "Seen the Rainbow Battle",
+      "img": "https://den-cards.pokellector.com/219/Muscle-Dumbbells.SM3H.48.18094.png",
+      "rarity": "Uncommon",
+      "cardNum": "48/51"
+    },
+    {
+      "name": "Kiawe",
+      "set": "Seen the Rainbow Battle",
+      "img": "https://den-cards.pokellector.com/219/Kiawe.SM3H.49.18061.png",
+      "rarity": "Uncommon",
+      "cardNum": "49/51"
+    },
+    {
+      "name": "Plumeria",
+      "set": "Seen the Rainbow Battle",
+      "img": "https://den-cards.pokellector.com/219/Plumeria.SM3H.50.18125.png",
+      "rarity": "Uncommon",
+      "cardNum": "50/51"
+    },
+    {
+      "name": "Mount Lanakila",
+      "set": "Seen the Rainbow Battle",
+      "img": "https://den-cards.pokellector.com/219/Mount-Lanakila.SM3H.51.18188.png",
+      "rarity": "Uncommon",
+      "cardNum": "51/51"
+    },
+    {
+      "name": "Charizard GX",
+      "set": "Seen the Rainbow Battle",
+      "img": "https://den-cards.pokellector.com/219/Charizard-GX.SM3H.52.18189.png",
+      "rarity": "Secret Rare",
+      "cardNum": "52/51"
+    },
+    {
+      "name": "Ho-Oh GX",
+      "set": "Seen the Rainbow Battle",
+      "img": "https://den-cards.pokellector.com/219/Ho-Oh-GX.SM3H.53.18112.png",
+      "rarity": "Secret Rare",
+      "cardNum": "53/51"
+    },
+    {
+      "name": "Alolan Muk GX",
+      "set": "Seen the Rainbow Battle",
+      "img": "https://den-cards.pokellector.com/219/Alolan-Muk-GX.SM3H.54.18190.png",
+      "rarity": "Secret Rare",
+      "cardNum": "54/51"
+    },
+    {
+      "name": "Noivern GX",
+      "set": "Seen the Rainbow Battle",
+      "img": "https://den-cards.pokellector.com/219/Noivern-GX.SM3H.55.18191.png",
+      "rarity": "Secret Rare",
+      "cardNum": "55/51"
+    },
+    {
+      "name": "Kiawe",
+      "set": "Seen the Rainbow Battle",
+      "img": "https://den-cards.pokellector.com/219/Kiawe.SM3H.56.18137.png",
+      "rarity": "Secret Rare",
+      "cardNum": "56/51"
+    },
+    {
+      "name": "Plumeria",
+      "set": "Seen the Rainbow Battle",
+      "img": "https://den-cards.pokellector.com/219/Plumeria.SM3H.57.18192.png",
+      "rarity": "Secret Rare",
+      "cardNum": "57/51"
+    },
+    {
+      "name": "Charizard GX",
+      "set": "Seen the Rainbow Battle",
+      "img": "https://den-cards.pokellector.com/219/Charizard-GX.SM3H.58.18193.png",
+      "rarity": "Secret Rare",
+      "cardNum": "58/51"
+    },
+    {
+      "name": "Ho-Oh GX",
+      "set": "Seen the Rainbow Battle",
+      "img": "https://den-cards.pokellector.com/219/Ho-Oh-GX.SM3H.59.18138.png",
+      "rarity": "Secret Rare",
+      "cardNum": "59/51"
+    },
+    {
+      "name": "Alolan Muk GX",
+      "set": "Seen the Rainbow Battle",
+      "img": "https://den-cards.pokellector.com/219/Alolan-Muk-GX.SM3H.60.18194.png",
+      "rarity": "Secret Rare",
+      "cardNum": "60/51"
+    },
+    {
+      "name": "Noivern GX",
+      "set": "Seen the Rainbow Battle",
+      "img": "https://den-cards.pokellector.com/219/Noivern-GX.SM3H.61.18195.png",
+      "rarity": "Secret Rare",
+      "cardNum": "61/51"
+    },
+    {
+      "name": "Escape Rope",
+      "set": "Seen the Rainbow Battle",
+      "img": "https://den-cards.pokellector.com/219/Escape-Rope.SM3H.62.18196.png",
+      "rarity": "Secret Rare",
+      "cardNum": "62/51"
+    },
+    {
+      "name": "Bodybuilding Dumbbells",
+      "set": "Seen the Rainbow Battle",
+      "img": "https://den-cards.pokellector.com/219/Muscular-Dumbbells.SM3H.63.18197.png",
+      "rarity": "Secret Rare",
+      "cardNum": "63/51"
+    },
+    {
+      "name": "Fire Energy",
+      "set": "Seen the Rainbow Battle",
+      "img": "https://den-cards.pokellector.com/219/Fire-Energy.SM3H.64.18198.png",
+      "rarity": "Secret Rare",
+      "cardNum": "64/51"
+    }
+  ]
+}

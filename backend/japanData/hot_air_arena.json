@@ -1,0 +1,649 @@
+{
+  "setName": "Hot Air Arena",
+  "cards": [
+    {
+      "name": "Ethan's Pinsir",
+      "set": "Hot Air Arena",
+      "img": "https://den-cards.pokellector.com/411/Ethans-Pinsir.SV9A.1.56570.png",
+      "rarity": "Uncommon",
+      "cardNum": "1/63"
+    },
+    {
+      "name": "Yanma",
+      "set": "Hot Air Arena",
+      "img": "https://den-cards.pokellector.com/411/Yanma.SV9A.2.56631.png",
+      "rarity": "Common",
+      "cardNum": "2/63"
+    },
+    {
+      "name": "Yanmega ex",
+      "set": "Hot Air Arena",
+      "img": "https://den-cards.pokellector.com/411/Yanmega-ex.SV9A.3.56632.png",
+      "rarity": "Double Rare",
+      "cardNum": "3/63"
+    },
+    {
+      "name": "Cynthia's Roselia",
+      "set": "Hot Air Arena",
+      "img": "https://den-cards.pokellector.com/411/Cynthias-Roselia.SV9A.4.56589.png",
+      "rarity": "Common",
+      "cardNum": "4/63"
+    },
+    {
+      "name": "Cynthia's Roserade",
+      "set": "Hot Air Arena",
+      "img": "https://den-cards.pokellector.com/411/Cynthias-Roserade.SV9A.5.56590.png",
+      "rarity": "Rare",
+      "cardNum": "5/63"
+    },
+    {
+      "name": "Shaymin",
+      "set": "Hot Air Arena",
+      "img": "https://den-cards.pokellector.com/411/Shaymin.SV9A.6.56598.png",
+      "rarity": "Uncommon",
+      "cardNum": "6/63"
+    },
+    {
+      "name": "Dwebble",
+      "set": "Hot Air Arena",
+      "img": "https://den-cards.pokellector.com/411/Dwebble.SV9A.7.56607.png",
+      "rarity": "Common",
+      "cardNum": "7/63"
+    },
+    {
+      "name": "Crustle",
+      "set": "Hot Air Arena",
+      "img": "https://den-cards.pokellector.com/411/Crustle.SV9A.8.56608.png",
+      "rarity": "Rare",
+      "cardNum": "8/63"
+    },
+    {
+      "name": "Applin",
+      "set": "Hot Air Arena",
+      "img": "https://den-cards.pokellector.com/411/Applin.SV9A.9.56603.png",
+      "rarity": "Common",
+      "cardNum": "9/63"
+    },
+    {
+      "name": "Dipplin",
+      "set": "Hot Air Arena",
+      "img": "https://den-cards.pokellector.com/411/Dipplin.SV9A.10.56604.png",
+      "rarity": "Common",
+      "cardNum": "10/63"
+    },
+    {
+      "name": "Hydrapple",
+      "set": "Hot Air Arena",
+      "img": "https://den-cards.pokellector.com/411/Hydrapple.SV9A.11.56605.png",
+      "rarity": "Rare",
+      "cardNum": "11/63"
+    },
+    {
+      "name": "Teal Mask Ogerpon",
+      "set": "Hot Air Arena",
+      "img": "https://den-cards.pokellector.com/411/Teal-Mask-Ogerpon.SV9A.12.56574.png",
+      "rarity": "Uncommon",
+      "cardNum": "12/63"
+    },
+    {
+      "name": "Ponyta",
+      "set": "Hot Air Arena",
+      "img": "https://den-cards.pokellector.com/411/Ponyta.SV9A.13.56567.png",
+      "rarity": "Common",
+      "cardNum": "13/63"
+    },
+    {
+      "name": "Rapidash",
+      "set": "Hot Air Arena",
+      "img": "https://den-cards.pokellector.com/411/Rapidash.SV9A.14.56568.png",
+      "rarity": "Uncommon",
+      "cardNum": "14/63"
+    },
+    {
+      "name": "Ethan's Cyndaquil",
+      "set": "Hot Air Arena",
+      "img": "https://den-cards.pokellector.com/411/Ethans-Cyndaquil.SV9A.15.56543.png",
+      "rarity": "Common",
+      "cardNum": "15/63"
+    },
+    {
+      "name": "Ethan's Quilava",
+      "set": "Hot Air Arena",
+      "img": "https://den-cards.pokellector.com/411/Ethans-Quilava.SV9A.16.56542.png",
+      "rarity": "Common",
+      "cardNum": "16/63"
+    },
+    {
+      "name": "Ethan's Typhlosion",
+      "set": "Hot Air Arena",
+      "img": "https://den-cards.pokellector.com/411/Ethans-Typhlosion.SV9A.17.56541.png",
+      "rarity": "Rare",
+      "cardNum": "17/63"
+    },
+    {
+      "name": "Ethan's Slugma",
+      "set": "Hot Air Arena",
+      "img": "https://den-cards.pokellector.com/411/Ethans-Slugma.SV9A.18.56544.png",
+      "rarity": "Common",
+      "cardNum": "18/63"
+    },
+    {
+      "name": "Ethan's Magcargo",
+      "set": "Hot Air Arena",
+      "img": "https://den-cards.pokellector.com/411/Ethans-Magcargo.SV9A.19.56548.png",
+      "rarity": "Rare",
+      "cardNum": "19/63"
+    },
+    {
+      "name": "Ethan's Ho-Oh ex",
+      "set": "Hot Air Arena",
+      "img": "https://den-cards.pokellector.com/411/Ethans-Ho-Oh-ex.SV9A.20.56539.png",
+      "rarity": "Double Rare",
+      "cardNum": "20/63"
+    },
+    {
+      "name": "Hearthflame Mask Ogerpon",
+      "set": "Hot Air Arena",
+      "img": "https://den-cards.pokellector.com/411/Hearthflame-Mask-Ogerpon.SV9A.21.56575.png",
+      "rarity": "Uncommon",
+      "cardNum": "21/63"
+    },
+    {
+      "name": "Misty's Psyduck",
+      "set": "Hot Air Arena",
+      "img": "https://den-cards.pokellector.com/411/Mistys-Psyduck.SV9A.22.56549.png",
+      "rarity": "Common",
+      "cardNum": "22/63"
+    },
+    {
+      "name": "Misty's Staryu",
+      "set": "Hot Air Arena",
+      "img": "https://den-cards.pokellector.com/411/Mistys-Staryu.SV9A.23.56599.png",
+      "rarity": "Common",
+      "cardNum": "23/63"
+    },
+    {
+      "name": "Misty's Starmie",
+      "set": "Hot Air Arena",
+      "img": "https://den-cards.pokellector.com/411/Mistys-Starmie.SV9A.24.56600.png",
+      "rarity": "Uncommon",
+      "cardNum": "24/63"
+    },
+    {
+      "name": "Misty's Magikarp",
+      "set": "Hot Air Arena",
+      "img": "https://den-cards.pokellector.com/411/Mistys-Magikarp.SV9A.25.56547.png",
+      "rarity": "Common",
+      "cardNum": "25/63"
+    },
+    {
+      "name": "Misty's Gyarados",
+      "set": "Hot Air Arena",
+      "img": "https://den-cards.pokellector.com/411/Mistys-Gyarados.SV9A.26.56546.png",
+      "rarity": "Rare",
+      "cardNum": "26/63"
+    },
+    {
+      "name": "Misty's Lapras",
+      "set": "Hot Air Arena",
+      "img": "https://den-cards.pokellector.com/411/Mistys-Lapras.SV9A.27.56633.png",
+      "rarity": "Common",
+      "cardNum": "27/63"
+    },
+    {
+      "name": "Cynthia's Feebas",
+      "set": "Hot Air Arena",
+      "img": "https://den-cards.pokellector.com/411/Cynthias-Feebas.SV9A.28.56623.png",
+      "rarity": "Common",
+      "cardNum": "28/63"
+    },
+    {
+      "name": "Cynthia's Milotic",
+      "set": "Hot Air Arena",
+      "img": "https://den-cards.pokellector.com/411/Cynthias-Milotic.SV9A.29.56624.png",
+      "rarity": "Uncommon",
+      "cardNum": "29/63"
+    },
+    {
+      "name": "Buizel",
+      "set": "Hot Air Arena",
+      "img": "https://den-cards.pokellector.com/411/Buizel.SV9A.30.56634.png",
+      "rarity": "Common",
+      "cardNum": "30/63"
+    },
+    {
+      "name": "Floatzel",
+      "set": "Hot Air Arena",
+      "img": "https://den-cards.pokellector.com/411/Floatzel.SV9A.31.56635.png",
+      "rarity": "Uncommon",
+      "cardNum": "31/63"
+    },
+    {
+      "name": "Dondozo ex",
+      "set": "Hot Air Arena",
+      "img": "https://den-cards.pokellector.com/411/Dondozo-ex.SV9A.32.56636.png",
+      "rarity": "Double Rare",
+      "cardNum": "32/63"
+    },
+    {
+      "name": "Wellspring Mask Ogerpon",
+      "set": "Hot Air Arena",
+      "img": "https://den-cards.pokellector.com/411/Wellspring-Mask-Ogerpon.SV9A.33.56576.png",
+      "rarity": "Uncommon",
+      "cardNum": "33/63"
+    },
+    {
+      "name": "Electabuzz",
+      "set": "Hot Air Arena",
+      "img": "https://den-cards.pokellector.com/411/Electabuzz.SV9A.34.56637.png",
+      "rarity": "Common",
+      "cardNum": "34/63"
+    },
+    {
+      "name": "Electivire ex",
+      "set": "Hot Air Arena",
+      "img": "https://den-cards.pokellector.com/411/Electivire-ex.SV9A.35.56638.png",
+      "rarity": "Double Rare",
+      "cardNum": "35/63"
+    },
+    {
+      "name": "Ethan's Pichu",
+      "set": "Hot Air Arena",
+      "img": "https://den-cards.pokellector.com/411/Ethans-Pichu.SV9A.36.56545.png",
+      "rarity": "Common",
+      "cardNum": "36/63"
+    },
+    {
+      "name": "Electrike",
+      "set": "Hot Air Arena",
+      "img": "https://den-cards.pokellector.com/411/Electrike.SV9A.37.56639.png",
+      "rarity": "Common",
+      "cardNum": "37/63"
+    },
+    {
+      "name": "Manectric",
+      "set": "Hot Air Arena",
+      "img": "https://den-cards.pokellector.com/411/Manectric.SV9A.38.56640.png",
+      "rarity": "Common",
+      "cardNum": "38/63"
+    },
+    {
+      "name": "Rotom",
+      "set": "Hot Air Arena",
+      "img": "https://den-cards.pokellector.com/411/Rotom.SV9A.39.56581.png",
+      "rarity": "Common",
+      "cardNum": "39/63"
+    },
+    {
+      "name": "Zeraora",
+      "set": "Hot Air Arena",
+      "img": "https://den-cards.pokellector.com/411/Zeraora.SV9A.40.56578.png",
+      "rarity": "Rare",
+      "cardNum": "40/63"
+    },
+    {
+      "name": "Ethan's Sudowoodo",
+      "set": "Hot Air Arena",
+      "img": "https://den-cards.pokellector.com/411/Ethans-Sudowoodo.SV9A.41.56571.png",
+      "rarity": "Common",
+      "cardNum": "41/63"
+    },
+    {
+      "name": "Cynthia's Gible",
+      "set": "Hot Air Arena",
+      "img": "https://den-cards.pokellector.com/411/Cynthias-Gible.SV9A.42.56585.png",
+      "rarity": "Common",
+      "cardNum": "42/63"
+    },
+    {
+      "name": "Cynthia's Gabite",
+      "set": "Hot Air Arena",
+      "img": "https://den-cards.pokellector.com/411/Cynthias-Gabite.SV9A.43.56586.png",
+      "rarity": "Common",
+      "cardNum": "43/63"
+    },
+    {
+      "name": "Cynthia's Garchomp ex",
+      "set": "Hot Air Arena",
+      "img": "https://den-cards.pokellector.com/411/Cynthias-Garchomp-ex.SV9A.44.56587.png",
+      "rarity": "Double Rare",
+      "cardNum": "44/63"
+    },
+    {
+      "name": "Mudbray",
+      "set": "Hot Air Arena",
+      "img": "https://den-cards.pokellector.com/411/Mudbray.SV9A.45.56641.png",
+      "rarity": "Common",
+      "cardNum": "45/63"
+    },
+    {
+      "name": "Mudsdale",
+      "set": "Hot Air Arena",
+      "img": "https://den-cards.pokellector.com/411/Mudsdale.SV9A.46.56642.png",
+      "rarity": "Uncommon",
+      "cardNum": "46/63"
+    },
+    {
+      "name": "Arven's Toedscool",
+      "set": "Hot Air Arena",
+      "img": "https://den-cards.pokellector.com/411/Arvens-Toedscool.SV9A.47.56643.png",
+      "rarity": "Common",
+      "cardNum": "47/63"
+    },
+    {
+      "name": "Arven's Toedscruel",
+      "set": "Hot Air Arena",
+      "img": "https://den-cards.pokellector.com/411/Arvens-Toedscruel.SV9A.48.56644.png",
+      "rarity": "Uncommon",
+      "cardNum": "48/63"
+    },
+    {
+      "name": "Cornerstone Mask Ogerpon",
+      "set": "Hot Air Arena",
+      "img": "https://den-cards.pokellector.com/411/Cornerstone-Mask-Ogerpon.SV9A.49.56645.png",
+      "rarity": "Uncommon",
+      "cardNum": "49/63"
+    },
+    {
+      "name": "Cynthia's Spiritomb",
+      "set": "Hot Air Arena",
+      "img": "https://den-cards.pokellector.com/411/Cynthias-Spiritomb.SV9A.50.56588.png",
+      "rarity": "Uncommon",
+      "cardNum": "50/63"
+    },
+    {
+      "name": "Arven's Maschiff",
+      "set": "Hot Air Arena",
+      "img": "https://den-cards.pokellector.com/411/Arvens-Maschiff.SV9A.51.56646.png",
+      "rarity": "Common",
+      "cardNum": "51/63"
+    },
+    {
+      "name": "Arven's Mabosstiff ex",
+      "set": "Hot Air Arena",
+      "img": "https://den-cards.pokellector.com/411/Arvens-Mabosstiff-ex.SV9A.52.56647.png",
+      "rarity": "Double Rare",
+      "cardNum": "52/63"
+    },
+    {
+      "name": "Tauros",
+      "set": "Hot Air Arena",
+      "img": "https://den-cards.pokellector.com/411/Tauros.SV9A.53.56648.png",
+      "rarity": "Common",
+      "cardNum": "53/63"
+    },
+    {
+      "name": "Arven's Skwovet",
+      "set": "Hot Air Arena",
+      "img": "https://den-cards.pokellector.com/411/Arvens-Skwovet.SV9A.54.56649.png",
+      "rarity": "Common",
+      "cardNum": "54/63"
+    },
+    {
+      "name": "Arven's Greedent",
+      "set": "Hot Air Arena",
+      "img": "https://den-cards.pokellector.com/411/Arvens-Greedent.SV9A.55.56650.png",
+      "rarity": "Rare",
+      "cardNum": "55/63"
+    },
+    {
+      "name": "Sacred Ash",
+      "set": "Hot Air Arena",
+      "img": "https://den-cards.pokellector.com/411/Sacred-Ash.SV9A.56.56551.png",
+      "rarity": "Uncommon",
+      "cardNum": "56/63"
+    },
+    {
+      "name": "Arven's Sandwich",
+      "set": "Hot Air Arena",
+      "img": "https://den-cards.pokellector.com/411/Arvens-Sandwich.SV9A.57.56651.png",
+      "rarity": "Uncommon",
+      "cardNum": "57/63"
+    },
+    {
+      "name": "Switch",
+      "set": "Hot Air Arena",
+      "img": "https://den-cards.pokellector.com/411/Switch.SV9A.58.56652.png",
+      "rarity": "Uncommon",
+      "cardNum": "58/63"
+    },
+    {
+      "name": "Pokémon Catcher",
+      "set": "Hot Air Arena",
+      "img": "https://den-cards.pokellector.com/411/Pokmon-Catcher.SV9A.59.56653.png",
+      "rarity": "Uncommon",
+      "cardNum": "59/63"
+    },
+    {
+      "name": "Cynthia's Power Weights",
+      "set": "Hot Air Arena",
+      "img": "https://den-cards.pokellector.com/411/Cynthias-Power-Weights.SV9A.60.56584.png",
+      "rarity": "Uncommon",
+      "cardNum": "60/63"
+    },
+    {
+      "name": "Emcee's Excitement",
+      "set": "Hot Air Arena",
+      "img": "https://den-cards.pokellector.com/411/Emcees-Excitement.SV9A.61.56654.png",
+      "rarity": "Common",
+      "cardNum": "61/63"
+    },
+    {
+      "name": "Judge",
+      "set": "Hot Air Arena",
+      "img": "https://den-cards.pokellector.com/411/Judge.SV9A.62.56655.png",
+      "rarity": "Uncommon",
+      "cardNum": "62/63"
+    },
+    {
+      "name": "Ethan's Adventure",
+      "set": "Hot Air Arena",
+      "img": "https://den-cards.pokellector.com/411/Ethans-Adventure.SV9A.63.56540.png",
+      "rarity": "Uncommon",
+      "cardNum": "63/63"
+    },
+    {
+      "name": "Yanma",
+      "set": "Hot Air Arena",
+      "img": "https://den-cards.pokellector.com/411/Yanma.SV9A.64.56656.png",
+      "rarity": "Art Rare",
+      "cardNum": "64/63"
+    },
+    {
+      "name": "Cynthia's Roserade",
+      "set": "Hot Air Arena",
+      "img": "https://den-cards.pokellector.com/411/Cynthias-Roserade.SV9A.65.56583.png",
+      "rarity": "Art Rare",
+      "cardNum": "65/63"
+    },
+    {
+      "name": "Shaymin",
+      "set": "Hot Air Arena",
+      "img": "https://den-cards.pokellector.com/411/Shaymin.SV9A.66.56657.png",
+      "rarity": "Art Rare",
+      "cardNum": "66/63"
+    },
+    {
+      "name": "Crustle",
+      "set": "Hot Air Arena",
+      "img": "https://den-cards.pokellector.com/411/Crustle.SV9A.67.56609.png",
+      "rarity": "Art Rare",
+      "cardNum": "67/63"
+    },
+    {
+      "name": "Hydrapple",
+      "set": "Hot Air Arena",
+      "img": "https://den-cards.pokellector.com/411/Hydrapple.SV9A.68.56602.png",
+      "rarity": "Art Rare",
+      "cardNum": "68/63"
+    },
+    {
+      "name": "Rapidash",
+      "set": "Hot Air Arena",
+      "img": "https://den-cards.pokellector.com/411/Rapidash.SV9A.69.56569.png",
+      "rarity": "Art Rare",
+      "cardNum": "69/63"
+    },
+    {
+      "name": "Ethan's Typhlosion",
+      "set": "Hot Air Arena",
+      "img": "https://den-cards.pokellector.com/411/Ethans-Typhlosion.SV9A.70.56658.png",
+      "rarity": "Art Rare",
+      "cardNum": "70/63"
+    },
+    {
+      "name": "Misty's Psyduck",
+      "set": "Hot Air Arena",
+      "img": "https://den-cards.pokellector.com/411/Mistys-Psyduck.SV9A.71.56629.png",
+      "rarity": "Art Rare",
+      "cardNum": "71/63"
+    },
+    {
+      "name": "Misty's Lapras",
+      "set": "Hot Air Arena",
+      "img": "https://den-cards.pokellector.com/411/Mistys-Lapras.SV9A.72.56659.png",
+      "rarity": "Art Rare",
+      "cardNum": "72/63"
+    },
+    {
+      "name": "Electrike",
+      "set": "Hot Air Arena",
+      "img": "https://den-cards.pokellector.com/411/Electrike.SV9A.73.56660.png",
+      "rarity": "Art Rare",
+      "cardNum": "73/63"
+    },
+    {
+      "name": "Rotom",
+      "set": "Hot Air Arena",
+      "img": "https://den-cards.pokellector.com/411/Rotom.SV9A.74.56582.png",
+      "rarity": "Art Rare",
+      "cardNum": "74/63"
+    },
+    {
+      "name": "Arven's Greedent",
+      "set": "Hot Air Arena",
+      "img": "https://den-cards.pokellector.com/411/Arvens-Greedent.SV9A.75.56580.png",
+      "rarity": "Art Rare",
+      "cardNum": "75/63"
+    },
+    {
+      "name": "Yanmega",
+      "set": "Hot Air Arena",
+      "img": "https://den-cards.pokellector.com/411/Yanmega.SV9A.76.56661.png",
+      "rarity": "Super Rare",
+      "cardNum": "76/63"
+    },
+    {
+      "name": "Ethan's Ho-Oh ex",
+      "set": "Hot Air Arena",
+      "img": "https://den-cards.pokellector.com/411/Ethans-Ho-Oh-ex.SV9A.77.56662.png",
+      "rarity": "Super Rare",
+      "cardNum": "77/63"
+    },
+    {
+      "name": "Dondozo ex",
+      "set": "Hot Air Arena",
+      "img": "https://den-cards.pokellector.com/411/Dondozo-ex.SV9A.78.56663.png",
+      "rarity": "Super Rare",
+      "cardNum": "78/63"
+    },
+    {
+      "name": "Electivire ex",
+      "set": "Hot Air Arena",
+      "img": "https://den-cards.pokellector.com/411/Electivire-ex.SV9A.79.56664.png",
+      "rarity": "Super Rare",
+      "cardNum": "79/63"
+    },
+    {
+      "name": "Cynthia's Garchomp ex",
+      "set": "Hot Air Arena",
+      "img": "https://den-cards.pokellector.com/411/Cynthias-Garchomp-ex.SV9A.80.56612.png",
+      "rarity": "Super Rare",
+      "cardNum": "80/63"
+    },
+    {
+      "name": "Arven's Mabosstiff ex",
+      "set": "Hot Air Arena",
+      "img": "https://den-cards.pokellector.com/411/Arvens-Mabosstiff-ex.SV9A.81.56630.png",
+      "rarity": "Super Rare",
+      "cardNum": "81/63"
+    },
+    {
+      "name": "Emcee's Excitement",
+      "set": "Hot Air Arena",
+      "img": "https://den-cards.pokellector.com/411/Emcees-Excitement.SV9A.82.56665.png",
+      "rarity": "Super Rare",
+      "cardNum": "82/63"
+    },
+    {
+      "name": "Judge",
+      "set": "Hot Air Arena",
+      "img": "https://den-cards.pokellector.com/411/Judge.SV9A.83.56666.png",
+      "rarity": "Super Rare",
+      "cardNum": "83/63"
+    },
+    {
+      "name": "Ethan's Adventure",
+      "set": "Hot Air Arena",
+      "img": "https://den-cards.pokellector.com/411/Ethans-Adventure.SV9A.84.56667.png",
+      "rarity": "Super Rare",
+      "cardNum": "84/63"
+    },
+    {
+      "name": "Yanmega ex",
+      "set": "Hot Air Arena",
+      "img": "https://den-cards.pokellector.com/411/Yanmega-ex.SV9A.85.56668.png",
+      "rarity": "Special Art Rare",
+      "cardNum": "85/63"
+    },
+    {
+      "name": "Ethan's Ho-Oh ex",
+      "set": "Hot Air Arena",
+      "img": "https://den-cards.pokellector.com/411/Ethans-Ho-Oh-ex.SV9A.86.56550.png",
+      "rarity": "Special Art Rare",
+      "cardNum": "86/63"
+    },
+    {
+      "name": "Cynthia's Garchomp ex",
+      "set": "Hot Air Arena",
+      "img": "https://den-cards.pokellector.com/411/Cynthias-Garchomp-ex.SV9A.87.56601.png",
+      "rarity": "Special Art Rare",
+      "cardNum": "87/63"
+    },
+    {
+      "name": "Arven's Mabosstiff ex",
+      "set": "Hot Air Arena",
+      "img": "https://den-cards.pokellector.com/411/Arvens-Mabosstiff-ex.SV9A.88.56669.png",
+      "rarity": "Special Art Rare",
+      "cardNum": "88/63"
+    },
+    {
+      "name": "Ethan's Adventure",
+      "set": "Hot Air Arena",
+      "img": "https://den-cards.pokellector.com/411/Ethans-Adventure.SV9A.89.56670.png",
+      "rarity": "Special Art Rare",
+      "cardNum": "89/63"
+    },
+    {
+      "name": "Ethan's Ho-oh ex",
+      "set": "Hot Air Arena",
+      "img": "https://den-cards.pokellector.com/411/Ethans-Ho-oh-ex.SV9A.90.56671.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "90/63"
+    },
+    {
+      "name": "Cynthia's Garchomp ex",
+      "set": "Hot Air Arena",
+      "img": "https://den-cards.pokellector.com/411/Cynthias-Garchomp-ex.SV9A.91.56672.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "91/63"
+    },
+    {
+      "name": "Levincia City",
+      "set": "Hot Air Arena",
+      "img": "https://den-cards.pokellector.com/411/Levincia-City.SV9A.92.56673.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "92/63"
+    }
+  ]
+}

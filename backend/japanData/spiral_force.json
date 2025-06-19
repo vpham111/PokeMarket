@@ -1,0 +1,411 @@
+{
+  "setName": "Spiral Force",
+  "cards": [
+    {
+      "name": "Exeggcute",
+      "set": "Spiral Force",
+      "img": "https://den-cards.pokellector.com/27/Exeggcute.BW8.1.png",
+      "rarity": "Common",
+      "cardNum": "1/51"
+    },
+    {
+      "name": "Exeggutor",
+      "set": "Spiral Force",
+      "img": "https://den-cards.pokellector.com/27/Exeggutor.BW8.2.png",
+      "rarity": "Uncommon",
+      "cardNum": "2/51"
+    },
+    {
+      "name": "Treecko",
+      "set": "Spiral Force",
+      "img": "https://den-cards.pokellector.com/27/Treecko.BW8.3.png",
+      "rarity": "Common",
+      "cardNum": "3/51"
+    },
+    {
+      "name": "Grovyle",
+      "set": "Spiral Force",
+      "img": "https://den-cards.pokellector.com/27/Grovyle.BW8.4.png",
+      "rarity": "Common",
+      "cardNum": "4/51"
+    },
+    {
+      "name": "Sceptile",
+      "set": "Spiral Force",
+      "img": "https://den-cards.pokellector.com/27/Sceptile.BW8.5.png",
+      "rarity": "Rare",
+      "cardNum": "5/51"
+    },
+    {
+      "name": "Heatran EX",
+      "set": "Spiral Force",
+      "img": "https://den-cards.pokellector.com/27/Heatran-EX.BW8.6.png",
+      "rarity": "Rare",
+      "cardNum": "6/51"
+    },
+    {
+      "name": "Litwick",
+      "set": "Spiral Force",
+      "img": "https://den-cards.pokellector.com/27/Litwick.BW8.7.png",
+      "rarity": "Common",
+      "cardNum": "7/51"
+    },
+    {
+      "name": "Lampent",
+      "set": "Spiral Force",
+      "img": "https://den-cards.pokellector.com/27/Lampent.BW8.8.png",
+      "rarity": "Common",
+      "cardNum": "8/51"
+    },
+    {
+      "name": "Chandelure",
+      "set": "Spiral Force",
+      "img": "https://den-cards.pokellector.com/27/Chandelure.BW8.9.png",
+      "rarity": "Rare",
+      "cardNum": "9/51"
+    },
+    {
+      "name": "Horsea",
+      "set": "Spiral Force",
+      "img": "https://den-cards.pokellector.com/27/Horsea.BW8.10.png",
+      "rarity": "Common",
+      "cardNum": "10/51"
+    },
+    {
+      "name": "Seadra",
+      "set": "Spiral Force",
+      "img": "https://den-cards.pokellector.com/27/Seadra.BW8.11.png",
+      "rarity": "Common",
+      "cardNum": "11/51"
+    },
+    {
+      "name": "Glaceon",
+      "set": "Spiral Force",
+      "img": "https://den-cards.pokellector.com/27/Glaceon.BW8.12.png",
+      "rarity": "Rare",
+      "cardNum": "12/51"
+    },
+    {
+      "name": "Tympole",
+      "set": "Spiral Force",
+      "img": "https://den-cards.pokellector.com/27/Tympole.BW8.13.png",
+      "rarity": "Common",
+      "cardNum": "13/51"
+    },
+    {
+      "name": "Palpitoad",
+      "set": "Spiral Force",
+      "img": "https://den-cards.pokellector.com/27/Palpitoad.BW8.14.png",
+      "rarity": "Common",
+      "cardNum": "14/51"
+    },
+    {
+      "name": "Seismitoad",
+      "set": "Spiral Force",
+      "img": "https://den-cards.pokellector.com/27/Seismitoad.BW8.15.png",
+      "rarity": "Uncommon",
+      "cardNum": "15/51"
+    },
+    {
+      "name": "Jolteon",
+      "set": "Spiral Force",
+      "img": "https://den-cards.pokellector.com/27/Jolteon.BW8.16.png",
+      "rarity": "Uncommon",
+      "cardNum": "16/51"
+    },
+    {
+      "name": "Chinchou",
+      "set": "Spiral Force",
+      "img": "https://den-cards.pokellector.com/27/Chinchou.BW8.17.png",
+      "rarity": "Common",
+      "cardNum": "17/51"
+    },
+    {
+      "name": "Lanturn",
+      "set": "Spiral Force",
+      "img": "https://den-cards.pokellector.com/27/Lanturn.BW8.18.png",
+      "rarity": "Common",
+      "cardNum": "18/51"
+    },
+    {
+      "name": "Zekrom",
+      "set": "Spiral Force",
+      "img": "https://den-cards.pokellector.com/27/Zekrom.BW8.19.png",
+      "rarity": "Rare",
+      "cardNum": "19/51"
+    },
+    {
+      "name": "Nidoran (f)",
+      "set": "Spiral Force",
+      "img": "https://den-cards.pokellector.com/27/Nidoran-f.BW8.20.png",
+      "rarity": "Common",
+      "cardNum": "20/51"
+    },
+    {
+      "name": "Nidorina",
+      "set": "Spiral Force",
+      "img": "https://den-cards.pokellector.com/27/Nidorina.BW8.21.png",
+      "rarity": "Common",
+      "cardNum": "21/51"
+    },
+    {
+      "name": "Nidoqueen",
+      "set": "Spiral Force",
+      "img": "https://den-cards.pokellector.com/27/Nidoqueen.BW8.22.png",
+      "rarity": "Uncommon",
+      "cardNum": "22/51"
+    },
+    {
+      "name": "Mr. Mime",
+      "set": "Spiral Force",
+      "img": "https://den-cards.pokellector.com/27/Mr-Mime.BW8.23.png",
+      "rarity": "Uncommon",
+      "cardNum": "23/51"
+    },
+    {
+      "name": "Espeon",
+      "set": "Spiral Force",
+      "img": "https://den-cards.pokellector.com/27/Espeon.BW8.24.png",
+      "rarity": "Uncommon",
+      "cardNum": "24/51"
+    },
+    {
+      "name": "Deoxys EX",
+      "set": "Spiral Force",
+      "img": "https://den-cards.pokellector.com/27/Deoxys-EX.BW8.25.png",
+      "rarity": "Rare",
+      "cardNum": "25/51"
+    },
+    {
+      "name": "Yamask",
+      "set": "Spiral Force",
+      "img": "https://den-cards.pokellector.com/27/Yamask.BW8.26.png",
+      "rarity": "Common",
+      "cardNum": "26/51"
+    },
+    {
+      "name": "Cofagrigus",
+      "set": "Spiral Force",
+      "img": "https://den-cards.pokellector.com/27/Cofagrigus.BW8.27.png",
+      "rarity": "Rare",
+      "cardNum": "27/51"
+    },
+    {
+      "name": "Mankey",
+      "set": "Spiral Force",
+      "img": "https://den-cards.pokellector.com/27/Mankey.BW8.28.png",
+      "rarity": "Common",
+      "cardNum": "28/51"
+    },
+    {
+      "name": "Primeape",
+      "set": "Spiral Force",
+      "img": "https://den-cards.pokellector.com/27/Primeape.BW8.29.png",
+      "rarity": "Common",
+      "cardNum": "29/51"
+    },
+    {
+      "name": "Onix",
+      "set": "Spiral Force",
+      "img": "https://den-cards.pokellector.com/27/Onix.BW8.30.png",
+      "rarity": "Common",
+      "cardNum": "30/51"
+    },
+    {
+      "name": "Sneasel",
+      "set": "Spiral Force",
+      "img": "https://den-cards.pokellector.com/27/Sneasel.BW8.31.png",
+      "rarity": "Common",
+      "cardNum": "31/51"
+    },
+    {
+      "name": "Weavile",
+      "set": "Spiral Force",
+      "img": "https://den-cards.pokellector.com/27/Weavile.BW8.32.png",
+      "rarity": "Uncommon",
+      "cardNum": "32/51"
+    },
+    {
+      "name": "Absol",
+      "set": "Spiral Force",
+      "img": "https://den-cards.pokellector.com/27/Absol.BW8.33.png",
+      "rarity": "Rare",
+      "cardNum": "33/51"
+    },
+    {
+      "name": "Sandile",
+      "set": "Spiral Force",
+      "img": "https://den-cards.pokellector.com/27/Sandile.BW8.34.png",
+      "rarity": "Common",
+      "cardNum": "34/51"
+    },
+    {
+      "name": "Krokorok",
+      "set": "Spiral Force",
+      "img": "https://den-cards.pokellector.com/27/Krokorok.BW8.35.png",
+      "rarity": "Common",
+      "cardNum": "35/51"
+    },
+    {
+      "name": "Krookodile",
+      "set": "Spiral Force",
+      "img": "https://den-cards.pokellector.com/27/Krookodile.BW8.36.png",
+      "rarity": "Uncommon",
+      "cardNum": "36/51"
+    },
+    {
+      "name": "Steelix",
+      "set": "Spiral Force",
+      "img": "https://den-cards.pokellector.com/27/Steelix.BW8.37.png",
+      "rarity": "Uncommon",
+      "cardNum": "37/51"
+    },
+    {
+      "name": "Kingdra",
+      "set": "Spiral Force",
+      "img": "https://den-cards.pokellector.com/27/Kingdra.BW8.38.png",
+      "rarity": "Rare",
+      "cardNum": "38/51"
+    },
+    {
+      "name": "Latios EX",
+      "set": "Spiral Force",
+      "img": "https://den-cards.pokellector.com/27/Latios-EX.BW8.39.png",
+      "rarity": "Rare",
+      "cardNum": "39/51"
+    },
+    {
+      "name": "Rattata",
+      "set": "Spiral Force",
+      "img": "https://den-cards.pokellector.com/27/Rattata.BW8.40.png",
+      "rarity": "Common",
+      "cardNum": "40/51"
+    },
+    {
+      "name": "Raticate",
+      "set": "Spiral Force",
+      "img": "https://den-cards.pokellector.com/27/Raticate.BW8.41.png",
+      "rarity": "Uncommon",
+      "cardNum": "41/51"
+    },
+    {
+      "name": "Eevee",
+      "set": "Spiral Force",
+      "img": "https://den-cards.pokellector.com/27/Eevee.BW8.42.png",
+      "rarity": "Common",
+      "cardNum": "42/51"
+    },
+    {
+      "name": "Hoothoot",
+      "set": "Spiral Force",
+      "img": "https://den-cards.pokellector.com/27/Hoothoot.BW8.43.png",
+      "rarity": "Common",
+      "cardNum": "43/51"
+    },
+    {
+      "name": "Noctowl",
+      "set": "Spiral Force",
+      "img": "https://den-cards.pokellector.com/27/Noctowl.BW8.44.png",
+      "rarity": "Uncommon",
+      "cardNum": "44/51"
+    },
+    {
+      "name": "Miltank",
+      "set": "Spiral Force",
+      "img": "https://den-cards.pokellector.com/27/Miltank.BW8.45.png",
+      "rarity": "Common",
+      "cardNum": "45/51"
+    },
+    {
+      "name": "Kecleon",
+      "set": "Spiral Force",
+      "img": "https://den-cards.pokellector.com/27/Kecleon.BW8.46.png",
+      "rarity": "Uncommon",
+      "cardNum": "46/51"
+    },
+    {
+      "name": "Super Energy Retrieval",
+      "set": "Spiral Force",
+      "img": "https://den-cards.pokellector.com/27/Super-Energy-Retrieval.BW8.47.png",
+      "rarity": "Uncommon",
+      "cardNum": "47/51"
+    },
+    {
+      "name": "Ghetsis",
+      "set": "Spiral Force",
+      "img": "https://den-cards.pokellector.com/27/Ghetsis.BW8.48.png",
+      "rarity": "Uncommon",
+      "cardNum": "48/51"
+    },
+    {
+      "name": "Frozen City",
+      "set": "Spiral Force",
+      "img": "https://den-cards.pokellector.com/27/Frozen-City.BW8.49.png",
+      "rarity": "Uncommon",
+      "cardNum": "49/51"
+    },
+    {
+      "name": "Rock Guard",
+      "set": "Spiral Force",
+      "img": "https://den-cards.pokellector.com/27/Rock-Guard.BW8.50.png",
+      "rarity": "Rare",
+      "cardNum": "50/51"
+    },
+    {
+      "name": "Plasma Energy",
+      "set": "Spiral Force",
+      "img": "https://den-cards.pokellector.com/27/Plasma-Energy.BW8.51.png",
+      "rarity": "Rare",
+      "cardNum": "51/51"
+    },
+    {
+      "name": "Heatran EX",
+      "set": "Spiral Force",
+      "img": "https://den-cards.pokellector.com/27/Heatran-EX.BW8.52.png",
+      "rarity": "Secret Rare",
+      "cardNum": "52/51"
+    },
+    {
+      "name": "Deoxys EX",
+      "set": "Spiral Force",
+      "img": "https://den-cards.pokellector.com/27/Deoxys-EX.BW8.53.png",
+      "rarity": "Secret Rare",
+      "cardNum": "53/51"
+    },
+    {
+      "name": "Latios EX",
+      "set": "Spiral Force",
+      "img": "https://den-cards.pokellector.com/27/Latios-EX.BW8.54.png",
+      "rarity": "Secret Rare",
+      "cardNum": "54/51"
+    },
+    {
+      "name": "Ghetsis",
+      "set": "Spiral Force",
+      "img": "https://den-cards.pokellector.com/27/Ghetsis.BW8.55.png",
+      "rarity": "Secret Rare",
+      "cardNum": "55/51"
+    },
+    {
+      "name": "Empoleon",
+      "set": "Spiral Force",
+      "img": "https://den-cards.pokellector.com/27/Empoleon.BW8.56.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "56/51"
+    },
+    {
+      "name": "Sigilyph",
+      "set": "Spiral Force",
+      "img": "https://den-cards.pokellector.com/27/Sigilyph.BW8.57.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "57/51"
+    },
+    {
+      "name": "Ultra Ball",
+      "set": "Spiral Force",
+      "img": "https://den-cards.pokellector.com/27/Ultra-Ball.BW8.58.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "58/51"
+    }
+  ]
+}

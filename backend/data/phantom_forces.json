@@ -1,0 +1,859 @@
+{
+  "setName": "Phantom Forces",
+  "cards": [
+    {
+      "name": "Venonat",
+      "set": "Phantom Forces",
+      "img": "https://den-cards.pokellector.com/162/Venonat.PHF.1.png",
+      "rarity": "Common",
+      "cardNum": "1/119"
+    },
+    {
+      "name": "Venomoth",
+      "set": "Phantom Forces",
+      "img": "https://den-cards.pokellector.com/162/Venomoth.PHF.2.png",
+      "rarity": "Rare",
+      "cardNum": "2/119"
+    },
+    {
+      "name": "Yanma",
+      "set": "Phantom Forces",
+      "img": "https://den-cards.pokellector.com/162/Yanma.PHF.3.png",
+      "rarity": "Common",
+      "cardNum": "3/119"
+    },
+    {
+      "name": "Yanmega",
+      "set": "Phantom Forces",
+      "img": "https://den-cards.pokellector.com/162/Yanmega.PHF.4.png",
+      "rarity": "Rare",
+      "cardNum": "4/119"
+    },
+    {
+      "name": "Sewaddle",
+      "set": "Phantom Forces",
+      "img": "https://den-cards.pokellector.com/162/Sewaddle.PHF.5.png",
+      "rarity": "Common",
+      "cardNum": "5/119"
+    },
+    {
+      "name": "Swadloon",
+      "set": "Phantom Forces",
+      "img": "https://den-cards.pokellector.com/162/Swadloon.PHF.6.png",
+      "rarity": "Uncommon",
+      "cardNum": "6/119"
+    },
+    {
+      "name": "Leavanny",
+      "set": "Phantom Forces",
+      "img": "https://den-cards.pokellector.com/162/Leavanny.PHF.7.png",
+      "rarity": "Rare",
+      "cardNum": "7/119"
+    },
+    {
+      "name": "Karrablast",
+      "set": "Phantom Forces",
+      "img": "https://den-cards.pokellector.com/162/Karrablast.PHF.8.png",
+      "rarity": "Common",
+      "cardNum": "8/119"
+    },
+    {
+      "name": "Fletchinder",
+      "set": "Phantom Forces",
+      "img": "https://den-cards.pokellector.com/162/Fletchinder.PHF.9.png",
+      "rarity": "Uncommon",
+      "cardNum": "9/119"
+    },
+    {
+      "name": "Talonflame",
+      "set": "Phantom Forces",
+      "img": "https://den-cards.pokellector.com/162/Talonflame.PHF.10.png",
+      "rarity": "Rare",
+      "cardNum": "10/119"
+    },
+    {
+      "name": "Litleo",
+      "set": "Phantom Forces",
+      "img": "https://den-cards.pokellector.com/162/Litleo.PHF.11.png",
+      "rarity": "Common",
+      "cardNum": "11/119"
+    },
+    {
+      "name": "Pyroar",
+      "set": "Phantom Forces",
+      "img": "https://den-cards.pokellector.com/162/Pyroar.PHF.12.png",
+      "rarity": "Rare",
+      "cardNum": "12/119"
+    },
+    {
+      "name": "Krabby",
+      "set": "Phantom Forces",
+      "img": "https://den-cards.pokellector.com/162/Krabby.PHF.13.png",
+      "rarity": "Common",
+      "cardNum": "13/119"
+    },
+    {
+      "name": "Kingler",
+      "set": "Phantom Forces",
+      "img": "https://den-cards.pokellector.com/162/Kingler.PHF.14.png",
+      "rarity": "Uncommon",
+      "cardNum": "14/119"
+    },
+    {
+      "name": "Totodile",
+      "set": "Phantom Forces",
+      "img": "https://den-cards.pokellector.com/162/Totodile.PHF.15.png",
+      "rarity": "Common",
+      "cardNum": "15/119"
+    },
+    {
+      "name": "Croconaw",
+      "set": "Phantom Forces",
+      "img": "https://den-cards.pokellector.com/162/Croconaw.PHF.16.png",
+      "rarity": "Uncommon",
+      "cardNum": "16/119"
+    },
+    {
+      "name": "Feraligatr",
+      "set": "Phantom Forces",
+      "img": "https://den-cards.pokellector.com/162/Feraligatr.PHF.17.png",
+      "rarity": "Rare",
+      "cardNum": "17/119"
+    },
+    {
+      "name": "Finneon",
+      "set": "Phantom Forces",
+      "img": "https://den-cards.pokellector.com/162/Finneon.PHF.18.png",
+      "rarity": "Common",
+      "cardNum": "18/119"
+    },
+    {
+      "name": "Lumineon",
+      "set": "Phantom Forces",
+      "img": "https://den-cards.pokellector.com/162/Lumineon.PHF.19.png",
+      "rarity": "Uncommon",
+      "cardNum": "19/119"
+    },
+    {
+      "name": "Frillish",
+      "set": "Phantom Forces",
+      "img": "https://den-cards.pokellector.com/162/Frillish.PHF.20.png",
+      "rarity": "Common",
+      "cardNum": "20/119"
+    },
+    {
+      "name": "Jellicent",
+      "set": "Phantom Forces",
+      "img": "https://den-cards.pokellector.com/162/Jellicent.PHF.21.png",
+      "rarity": "Rare",
+      "cardNum": "21/119"
+    },
+    {
+      "name": "Alomomola",
+      "set": "Phantom Forces",
+      "img": "https://den-cards.pokellector.com/162/Alomomola.PHF.22.png",
+      "rarity": "Common",
+      "cardNum": "22/119"
+    },
+    {
+      "name": "Manectric EX",
+      "set": "Phantom Forces",
+      "img": "https://den-cards.pokellector.com/162/Manectric-EX.PHF.23.png",
+      "rarity": "Rare",
+      "cardNum": "23/119"
+    },
+    {
+      "name": "M Manectric EX",
+      "set": "Phantom Forces",
+      "img": "https://den-cards.pokellector.com/162/M-Manectric-EX.PHF.24.png",
+      "rarity": "Rare",
+      "cardNum": "24/119"
+    },
+    {
+      "name": "Pachirisu",
+      "set": "Phantom Forces",
+      "img": "https://den-cards.pokellector.com/162/Pachirisu.PHF.25.png",
+      "rarity": "Rare",
+      "cardNum": "25/119"
+    },
+    {
+      "name": "Joltik",
+      "set": "Phantom Forces",
+      "img": "https://den-cards.pokellector.com/162/Joltik.PHF.26.png",
+      "rarity": "Common",
+      "cardNum": "26/119"
+    },
+    {
+      "name": "Galvantula",
+      "set": "Phantom Forces",
+      "img": "https://den-cards.pokellector.com/162/Galvantula.PHF.27.png",
+      "rarity": "Rare",
+      "cardNum": "27/119"
+    },
+    {
+      "name": "Helioptile",
+      "set": "Phantom Forces",
+      "img": "https://den-cards.pokellector.com/162/Helioptile.PHF.28.png",
+      "rarity": "Common",
+      "cardNum": "28/119"
+    },
+    {
+      "name": "Helioptile",
+      "set": "Phantom Forces",
+      "img": "https://den-cards.pokellector.com/162/Helioptile.PHF.29.png",
+      "rarity": "Common",
+      "cardNum": "29/119"
+    },
+    {
+      "name": "Heliolisk",
+      "set": "Phantom Forces",
+      "img": "https://den-cards.pokellector.com/162/Heliolisk.PHF.30.png",
+      "rarity": "Rare",
+      "cardNum": "30/119"
+    },
+    {
+      "name": "Zubat",
+      "set": "Phantom Forces",
+      "img": "https://den-cards.pokellector.com/162/Zubat.PHF.31.png",
+      "rarity": "Common",
+      "cardNum": "31/119"
+    },
+    {
+      "name": "Golbat",
+      "set": "Phantom Forces",
+      "img": "https://den-cards.pokellector.com/162/Golbat.PHF.32.png",
+      "rarity": "Uncommon",
+      "cardNum": "32/119"
+    },
+    {
+      "name": "Crobat",
+      "set": "Phantom Forces",
+      "img": "https://den-cards.pokellector.com/162/Crobat.PHF.33.png",
+      "rarity": "Rare",
+      "cardNum": "33/119"
+    },
+    {
+      "name": "Gengar EX",
+      "set": "Phantom Forces",
+      "img": "https://den-cards.pokellector.com/162/Gengar-EX.PHF.34.png",
+      "rarity": "Rare",
+      "cardNum": "34/119"
+    },
+    {
+      "name": "M Gengar EX",
+      "set": "Phantom Forces",
+      "img": "https://den-cards.pokellector.com/162/M-Gengar-EX.PHF.35.png",
+      "rarity": "Rare",
+      "cardNum": "35/119"
+    },
+    {
+      "name": "Wobbuffet",
+      "set": "Phantom Forces",
+      "img": "https://den-cards.pokellector.com/162/Wobbuffet.PHF.36.png",
+      "rarity": "Uncommon",
+      "cardNum": "36/119"
+    },
+    {
+      "name": "Gulpin",
+      "set": "Phantom Forces",
+      "img": "https://den-cards.pokellector.com/162/Gulpin.PHF.37.png",
+      "rarity": "Common",
+      "cardNum": "37/119"
+    },
+    {
+      "name": "Swalot",
+      "set": "Phantom Forces",
+      "img": "https://den-cards.pokellector.com/162/Swalot.PHF.38.png",
+      "rarity": "Rare",
+      "cardNum": "38/119"
+    },
+    {
+      "name": "Munna",
+      "set": "Phantom Forces",
+      "img": "https://den-cards.pokellector.com/162/Munna.PHF.39.png",
+      "rarity": "Common",
+      "cardNum": "39/119"
+    },
+    {
+      "name": "Musharna",
+      "set": "Phantom Forces",
+      "img": "https://den-cards.pokellector.com/162/Musharna.PHF.40.png",
+      "rarity": "Rare",
+      "cardNum": "40/119"
+    },
+    {
+      "name": "Litwick",
+      "set": "Phantom Forces",
+      "img": "https://den-cards.pokellector.com/162/Litwick.PHF.41.png",
+      "rarity": "Common",
+      "cardNum": "41/119"
+    },
+    {
+      "name": "Lampent",
+      "set": "Phantom Forces",
+      "img": "https://den-cards.pokellector.com/162/Lampent.PHF.42.png",
+      "rarity": "Uncommon",
+      "cardNum": "42/119"
+    },
+    {
+      "name": "Chandelure",
+      "set": "Phantom Forces",
+      "img": "https://den-cards.pokellector.com/162/Chandelure.PHF.43.png",
+      "rarity": "Rare",
+      "cardNum": "43/119"
+    },
+    {
+      "name": "Pumpkaboo",
+      "set": "Phantom Forces",
+      "img": "https://den-cards.pokellector.com/162/Pumpkaboo.PHF.44.png",
+      "rarity": "Common",
+      "cardNum": "44/119"
+    },
+    {
+      "name": "Gourgeist",
+      "set": "Phantom Forces",
+      "img": "https://den-cards.pokellector.com/162/Gourgeist.PHF.45.png",
+      "rarity": "Rare",
+      "cardNum": "45/119"
+    },
+    {
+      "name": "Gligar",
+      "set": "Phantom Forces",
+      "img": "https://den-cards.pokellector.com/162/Gligar.PHF.46.png",
+      "rarity": "Common",
+      "cardNum": "46/119"
+    },
+    {
+      "name": "Gliscor",
+      "set": "Phantom Forces",
+      "img": "https://den-cards.pokellector.com/162/Gliscor.PHF.47.png",
+      "rarity": "Rare",
+      "cardNum": "47/119"
+    },
+    {
+      "name": "Roggenrola",
+      "set": "Phantom Forces",
+      "img": "https://den-cards.pokellector.com/162/Roggenrola.PHF.48.png",
+      "rarity": "Common",
+      "cardNum": "48/119"
+    },
+    {
+      "name": "Boldore",
+      "set": "Phantom Forces",
+      "img": "https://den-cards.pokellector.com/162/Boldore.PHF.49.png",
+      "rarity": "Uncommon",
+      "cardNum": "49/119"
+    },
+    {
+      "name": "Gigalith",
+      "set": "Phantom Forces",
+      "img": "https://den-cards.pokellector.com/162/Gigalith.PHF.50.png",
+      "rarity": "Rare",
+      "cardNum": "50/119"
+    },
+    {
+      "name": "Murkrow",
+      "set": "Phantom Forces",
+      "img": "https://den-cards.pokellector.com/162/Murkrow.PHF.51.png",
+      "rarity": "Common",
+      "cardNum": "51/119"
+    },
+    {
+      "name": "Honchkrow",
+      "set": "Phantom Forces",
+      "img": "https://den-cards.pokellector.com/162/Honchkrow.PHF.52.png",
+      "rarity": "Rare",
+      "cardNum": "52/119"
+    },
+    {
+      "name": "Poochyena",
+      "set": "Phantom Forces",
+      "img": "https://den-cards.pokellector.com/162/Poochyena.PHF.53.png",
+      "rarity": "Common",
+      "cardNum": "53/119"
+    },
+    {
+      "name": "Mightyena",
+      "set": "Phantom Forces",
+      "img": "https://den-cards.pokellector.com/162/Mightyena.PHF.54.png",
+      "rarity": "Rare",
+      "cardNum": "54/119"
+    },
+    {
+      "name": "Spiritomb",
+      "set": "Phantom Forces",
+      "img": "https://den-cards.pokellector.com/162/Spiritomb.PHF.55.png",
+      "rarity": "Rare",
+      "cardNum": "55/119"
+    },
+    {
+      "name": "Purrloin",
+      "set": "Phantom Forces",
+      "img": "https://den-cards.pokellector.com/162/Purrloin.PHF.56.png",
+      "rarity": "Common",
+      "cardNum": "56/119"
+    },
+    {
+      "name": "Liepard",
+      "set": "Phantom Forces",
+      "img": "https://den-cards.pokellector.com/162/Liepard.PHF.57.png",
+      "rarity": "Uncommon",
+      "cardNum": "57/119"
+    },
+    {
+      "name": "Malamar EX",
+      "set": "Phantom Forces",
+      "img": "https://den-cards.pokellector.com/162/Malamar-EX.PHF.58.png",
+      "rarity": "Rare",
+      "cardNum": "58/119"
+    },
+    {
+      "name": "Skarmory",
+      "set": "Phantom Forces",
+      "img": "https://den-cards.pokellector.com/162/Skarmory.PHF.59.png",
+      "rarity": "Common",
+      "cardNum": "59/119"
+    },
+    {
+      "name": "Bronzor",
+      "set": "Phantom Forces",
+      "img": "https://den-cards.pokellector.com/162/Bronzor.PHF.60.png",
+      "rarity": "Common",
+      "cardNum": "60/119"
+    },
+    {
+      "name": "Bronzong",
+      "set": "Phantom Forces",
+      "img": "https://den-cards.pokellector.com/162/Bronzong.PHF.61.png",
+      "rarity": "Rare",
+      "cardNum": "61/119"
+    },
+    {
+      "name": "Dialga EX",
+      "set": "Phantom Forces",
+      "img": "https://den-cards.pokellector.com/162/Dialga-EX.PHF.62.png",
+      "rarity": "Rare",
+      "cardNum": "62/119"
+    },
+    {
+      "name": "Heatran",
+      "set": "Phantom Forces",
+      "img": "https://den-cards.pokellector.com/162/Heatran.PHF.63.png",
+      "rarity": "Rare",
+      "cardNum": "63/119"
+    },
+    {
+      "name": "Escavalier",
+      "set": "Phantom Forces",
+      "img": "https://den-cards.pokellector.com/162/Escavalier.PHF.64.png",
+      "rarity": "Rare",
+      "cardNum": "64/119"
+    },
+    {
+      "name": "Aegislash EX",
+      "set": "Phantom Forces",
+      "img": "https://den-cards.pokellector.com/162/Aegislash-EX.PHF.65.png",
+      "rarity": "Rare",
+      "cardNum": "65/119"
+    },
+    {
+      "name": "Klefki",
+      "set": "Phantom Forces",
+      "img": "https://den-cards.pokellector.com/162/Klefki.PHF.66.png",
+      "rarity": "Uncommon",
+      "cardNum": "66/119"
+    },
+    {
+      "name": "Florges EX",
+      "set": "Phantom Forces",
+      "img": "https://den-cards.pokellector.com/162/Florges-EX.PHF.67.png",
+      "rarity": "Rare",
+      "cardNum": "67/119"
+    },
+    {
+      "name": "Swirlix",
+      "set": "Phantom Forces",
+      "img": "https://den-cards.pokellector.com/162/Swirlix.PHF.68.png",
+      "rarity": "Common",
+      "cardNum": "68/119"
+    },
+    {
+      "name": "Slurpuff",
+      "set": "Phantom Forces",
+      "img": "https://den-cards.pokellector.com/162/Slurpuff.PHF.69.png",
+      "rarity": "Rare",
+      "cardNum": "69/119"
+    },
+    {
+      "name": "Dedenne",
+      "set": "Phantom Forces",
+      "img": "https://den-cards.pokellector.com/162/Dedenne.PHF.70.png",
+      "rarity": "Common",
+      "cardNum": "70/119"
+    },
+    {
+      "name": "Diancie",
+      "set": "Phantom Forces",
+      "img": "https://den-cards.pokellector.com/162/Diancie.PHF.71.png",
+      "rarity": "Rare",
+      "cardNum": "71/119"
+    },
+    {
+      "name": "Deino",
+      "set": "Phantom Forces",
+      "img": "https://den-cards.pokellector.com/162/Deino.PHF.72.png",
+      "rarity": "Common",
+      "cardNum": "72/119"
+    },
+    {
+      "name": "Zweilous",
+      "set": "Phantom Forces",
+      "img": "https://den-cards.pokellector.com/162/Zweilous.PHF.73.png",
+      "rarity": "Uncommon",
+      "cardNum": "73/119"
+    },
+    {
+      "name": "Hydreigon",
+      "set": "Phantom Forces",
+      "img": "https://den-cards.pokellector.com/162/Hydreigon.PHF.74.png",
+      "rarity": "Rare",
+      "cardNum": "74/119"
+    },
+    {
+      "name": "Goomy",
+      "set": "Phantom Forces",
+      "img": "https://den-cards.pokellector.com/162/Goomy.PHF.75.png",
+      "rarity": "Common",
+      "cardNum": "75/119"
+    },
+    {
+      "name": "Sliggoo",
+      "set": "Phantom Forces",
+      "img": "https://den-cards.pokellector.com/162/Sliggoo.PHF.76.png",
+      "rarity": "Uncommon",
+      "cardNum": "76/119"
+    },
+    {
+      "name": "Goodra",
+      "set": "Phantom Forces",
+      "img": "https://den-cards.pokellector.com/162/Goodra.PHF.77.png",
+      "rarity": "Rare",
+      "cardNum": "77/119"
+    },
+    {
+      "name": "Spearow",
+      "set": "Phantom Forces",
+      "img": "https://den-cards.pokellector.com/162/Spearow.PHF.78.png",
+      "rarity": "Common",
+      "cardNum": "78/119"
+    },
+    {
+      "name": "Fearow",
+      "set": "Phantom Forces",
+      "img": "https://den-cards.pokellector.com/162/Fearow.PHF.79.png",
+      "rarity": "Uncommon",
+      "cardNum": "79/119"
+    },
+    {
+      "name": "Chansey",
+      "set": "Phantom Forces",
+      "img": "https://den-cards.pokellector.com/162/Chansey.PHF.80.png",
+      "rarity": "Common",
+      "cardNum": "80/119"
+    },
+    {
+      "name": "Blissey",
+      "set": "Phantom Forces",
+      "img": "https://den-cards.pokellector.com/162/Blissey.PHF.81.png",
+      "rarity": "Rare",
+      "cardNum": "81/119"
+    },
+    {
+      "name": "Girafarig",
+      "set": "Phantom Forces",
+      "img": "https://den-cards.pokellector.com/162/Girafarig.PHF.82.png",
+      "rarity": "Uncommon",
+      "cardNum": "82/119"
+    },
+    {
+      "name": "Whismur",
+      "set": "Phantom Forces",
+      "img": "https://den-cards.pokellector.com/162/Whismur.PHF.83.png",
+      "rarity": "Common",
+      "cardNum": "83/119"
+    },
+    {
+      "name": "Loudred",
+      "set": "Phantom Forces",
+      "img": "https://den-cards.pokellector.com/162/Loudred.PHF.84.png",
+      "rarity": "Uncommon",
+      "cardNum": "84/119"
+    },
+    {
+      "name": "Exploud",
+      "set": "Phantom Forces",
+      "img": "https://den-cards.pokellector.com/162/Exploud.PHF.85.png",
+      "rarity": "Rare",
+      "cardNum": "85/119"
+    },
+    {
+      "name": "Regigigas",
+      "set": "Phantom Forces",
+      "img": "https://den-cards.pokellector.com/162/Regigigas.PHF.86.png",
+      "rarity": "Rare",
+      "cardNum": "86/119"
+    },
+    {
+      "name": "Bunnelby",
+      "set": "Phantom Forces",
+      "img": "https://den-cards.pokellector.com/162/Bunnelby.PHF.87.png",
+      "rarity": "Common",
+      "cardNum": "87/119"
+    },
+    {
+      "name": "Diggersby",
+      "set": "Phantom Forces",
+      "img": "https://den-cards.pokellector.com/162/Diggersby.PHF.88.png",
+      "rarity": "Rare",
+      "cardNum": "88/119"
+    },
+    {
+      "name": "Fletchling",
+      "set": "Phantom Forces",
+      "img": "https://den-cards.pokellector.com/162/Fletchling.PHF.89.png",
+      "rarity": "Common",
+      "cardNum": "89/119"
+    },
+    {
+      "name": "Furfrou",
+      "set": "Phantom Forces",
+      "img": "https://den-cards.pokellector.com/162/Furfrou.PHF.90.png",
+      "rarity": "Uncommon",
+      "cardNum": "90/119"
+    },
+    {
+      "name": "AZ",
+      "set": "Phantom Forces",
+      "img": "https://den-cards.pokellector.com/162/AZ.PHF.91.png",
+      "rarity": "Uncommon",
+      "cardNum": "91/119"
+    },
+    {
+      "name": "Battle Compressor",
+      "set": "Phantom Forces",
+      "img": "https://den-cards.pokellector.com/162/Battle-Compressor.PHF.92.png",
+      "rarity": "Uncommon",
+      "cardNum": "92/119"
+    },
+    {
+      "name": "Dimension Valley",
+      "set": "Phantom Forces",
+      "img": "https://den-cards.pokellector.com/162/Dimension-Valley.PHF.93.png",
+      "rarity": "Uncommon",
+      "cardNum": "93/119"
+    },
+    {
+      "name": "Enhanced Hammer",
+      "set": "Phantom Forces",
+      "img": "https://den-cards.pokellector.com/162/Enhanced-Hammer.PHF.94.png",
+      "rarity": "Uncommon",
+      "cardNum": "94/119"
+    },
+    {
+      "name": "Gengar Spirit Link",
+      "set": "Phantom Forces",
+      "img": "https://den-cards.pokellector.com/162/Gengar-Spirit-Link.PHF.95.png",
+      "rarity": "Uncommon",
+      "cardNum": "95/119"
+    },
+    {
+      "name": "Hand Scope",
+      "set": "Phantom Forces",
+      "img": "https://den-cards.pokellector.com/162/Hand-Scope.PHF.96.png",
+      "rarity": "Uncommon",
+      "cardNum": "96/119"
+    },
+    {
+      "name": "Head Ringer",
+      "set": "Phantom Forces",
+      "img": "https://den-cards.pokellector.com/162/Head-Ringer.PHF.97.png",
+      "rarity": "Rare",
+      "cardNum": "97/119"
+    },
+    {
+      "name": "Jamming Net",
+      "set": "Phantom Forces",
+      "img": "https://den-cards.pokellector.com/162/Jamming-Net.PHF.98.png",
+      "rarity": "Rare",
+      "cardNum": "98/119"
+    },
+    {
+      "name": "Lysandre's Trump Card",
+      "set": "Phantom Forces",
+      "img": "https://den-cards.pokellector.com/162/Lysandres-Trump-Card.PHF.99.png",
+      "rarity": "Uncommon",
+      "cardNum": "99/119"
+    },
+    {
+      "name": "Manectric Spirit Link",
+      "set": "Phantom Forces",
+      "img": "https://den-cards.pokellector.com/162/Manectric-Spirit-Link.PHF.100.png",
+      "rarity": "Uncommon",
+      "cardNum": "100/119"
+    },
+    {
+      "name": "Professor Sycamore",
+      "set": "Phantom Forces",
+      "img": "https://den-cards.pokellector.com/162/Professor-Sycamore.PHF.101.png",
+      "rarity": "Uncommon",
+      "cardNum": "101/119"
+    },
+    {
+      "name": "Robo Substitute",
+      "set": "Phantom Forces",
+      "img": "https://den-cards.pokellector.com/162/Robo-Substitute.PHF.102.png",
+      "rarity": "Uncommon",
+      "cardNum": "102/119"
+    },
+    {
+      "name": "Roller Skates",
+      "set": "Phantom Forces",
+      "img": "https://den-cards.pokellector.com/162/Roller-Skates.PHF.103.png",
+      "rarity": "Uncommon",
+      "cardNum": "103/119"
+    },
+    {
+      "name": "Shauna",
+      "set": "Phantom Forces",
+      "img": "https://den-cards.pokellector.com/162/Shauna.PHF.104.png",
+      "rarity": "Uncommon",
+      "cardNum": "104/119"
+    },
+    {
+      "name": "Steel Shelter",
+      "set": "Phantom Forces",
+      "img": "https://den-cards.pokellector.com/162/Steel-Shelter.PHF.105.png",
+      "rarity": "Uncommon",
+      "cardNum": "105/119"
+    },
+    {
+      "name": "Target Whistle",
+      "set": "Phantom Forces",
+      "img": "https://den-cards.pokellector.com/162/Target-Whistle.PHF.106.png",
+      "rarity": "Uncommon",
+      "cardNum": "106/119"
+    },
+    {
+      "name": "Tierno",
+      "set": "Phantom Forces",
+      "img": "https://den-cards.pokellector.com/162/Tierno.PHF.107.png",
+      "rarity": "Uncommon",
+      "cardNum": "107/119"
+    },
+    {
+      "name": "Trick Coin",
+      "set": "Phantom Forces",
+      "img": "https://den-cards.pokellector.com/162/Trick-Coin.PHF.108.png",
+      "rarity": "Uncommon",
+      "cardNum": "108/119"
+    },
+    {
+      "name": "VS Seeker",
+      "set": "Phantom Forces",
+      "img": "https://den-cards.pokellector.com/162/VS-Seeker.PHF.109.png",
+      "rarity": "Uncommon",
+      "cardNum": "109/119"
+    },
+    {
+      "name": "Xerosic",
+      "set": "Phantom Forces",
+      "img": "https://den-cards.pokellector.com/162/Xerosic.PHF.110.png",
+      "rarity": "Uncommon",
+      "cardNum": "110/119"
+    },
+    {
+      "name": "Double Colorless Energy",
+      "set": "Phantom Forces",
+      "img": "https://den-cards.pokellector.com/162/Double-Colorless-Energy.PHF.111.png",
+      "rarity": "Uncommon",
+      "cardNum": "111/119"
+    },
+    {
+      "name": "Mystery Energy",
+      "set": "Phantom Forces",
+      "img": "https://den-cards.pokellector.com/162/Mystery-Energy.PHF.112.png",
+      "rarity": "Uncommon",
+      "cardNum": "112/119"
+    },
+    {
+      "name": "Manectric EX",
+      "set": "Phantom Forces",
+      "img": "https://den-cards.pokellector.com/162/Manectric-EX.PHF.113.png",
+      "rarity": "Rare",
+      "cardNum": "113/119"
+    },
+    {
+      "name": "Gengar EX",
+      "set": "Phantom Forces",
+      "img": "https://den-cards.pokellector.com/162/Gengar-EX.PHF.114.png",
+      "rarity": "Rare",
+      "cardNum": "114/119"
+    },
+    {
+      "name": "Malamar EX",
+      "set": "Phantom Forces",
+      "img": "https://den-cards.pokellector.com/162/Malamar-EX.PHF.115.png",
+      "rarity": "Rare",
+      "cardNum": "115/119"
+    },
+    {
+      "name": "Florges EX",
+      "set": "Phantom Forces",
+      "img": "https://den-cards.pokellector.com/162/Florges-EX.PHF.116.png",
+      "rarity": "Rare",
+      "cardNum": "116/119"
+    },
+    {
+      "name": "AZ",
+      "set": "Phantom Forces",
+      "img": "https://den-cards.pokellector.com/162/AZ.PHF.117.png",
+      "rarity": "Rare",
+      "cardNum": "117/119"
+    },
+    {
+      "name": "Lysandre's Trump Card",
+      "set": "Phantom Forces",
+      "img": "https://den-cards.pokellector.com/162/Lysandres-Trump-Card.PHF.118.png",
+      "rarity": "Rare",
+      "cardNum": "118/119"
+    },
+    {
+      "name": "Xerosic",
+      "set": "Phantom Forces",
+      "img": "https://den-cards.pokellector.com/162/Xerosic.PHF.119.png",
+      "rarity": "Rare",
+      "cardNum": "119/119"
+    },
+    {
+      "name": "M Manectric EX",
+      "set": "Phantom Forces",
+      "img": "https://den-cards.pokellector.com/162/M-Manectric-EX.PHF.120.png",
+      "rarity": "Rare",
+      "cardNum": "120/119"
+    },
+    {
+      "name": "M Gengar EX",
+      "set": "Phantom Forces",
+      "img": "https://den-cards.pokellector.com/162/M-Gengar-EX.PHF.121.png",
+      "rarity": "Rare",
+      "cardNum": "121/119"
+    },
+    {
+      "name": "Dialga EX",
+      "set": "Phantom Forces",
+      "img": "https://den-cards.pokellector.com/162/Dialga-EX.PHF.122.png",
+      "rarity": "Rare",
+      "cardNum": "122/119"
+    }
+  ]
+}

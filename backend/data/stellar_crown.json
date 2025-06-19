@@ -1,0 +1,1230 @@
+{
+  "setName": "Stellar Crown",
+  "cards": [
+    {
+      "name": "Venusaur ex",
+      "set": "Stellar Crown",
+      "img": "https://den-cards.pokellector.com/400/Venusaur-ex.SCR.1.54084.png",
+      "rarity": "Double Rare",
+      "cardNum": "1/142"
+    },
+    {
+      "name": "Ledyba",
+      "set": "Stellar Crown",
+      "img": "https://den-cards.pokellector.com/400/Ledyba.SCR.2.54085.png",
+      "rarity": "Common",
+      "cardNum": "2/142"
+    },
+    {
+      "name": "Ledian",
+      "set": "Stellar Crown",
+      "img": "https://den-cards.pokellector.com/400/Ledian.SCR.3.54086.png",
+      "rarity": "Rare",
+      "cardNum": "3/142"
+    },
+    {
+      "name": "Celebi",
+      "set": "Stellar Crown",
+      "img": "https://den-cards.pokellector.com/400/Celebi.SCR.4.54087.png",
+      "rarity": "Uncommon",
+      "cardNum": "4/142"
+    },
+    {
+      "name": "Lileep",
+      "set": "Stellar Crown",
+      "img": "https://den-cards.pokellector.com/400/Lileep.SCR.5.54088.png",
+      "rarity": "Common",
+      "cardNum": "5/142"
+    },
+    {
+      "name": "Cradily",
+      "set": "Stellar Crown",
+      "img": "https://den-cards.pokellector.com/400/Cradily.SCR.6.54089.png",
+      "rarity": "Rare",
+      "cardNum": "6/142"
+    },
+    {
+      "name": "Carnivine",
+      "set": "Stellar Crown",
+      "img": "https://den-cards.pokellector.com/400/Carnivine.SCR.7.54090.png",
+      "rarity": "Common",
+      "cardNum": "7/142"
+    },
+    {
+      "name": "Mow Rotom",
+      "set": "Stellar Crown",
+      "img": "https://den-cards.pokellector.com/400/Mow-Rotom.SCR.8.54091.png",
+      "rarity": "Common",
+      "cardNum": "8/142"
+    },
+    {
+      "name": "Grubbin",
+      "set": "Stellar Crown",
+      "img": "https://den-cards.pokellector.com/400/Grubbin.SCR.9.54092.png",
+      "rarity": "Common",
+      "cardNum": "9/142"
+    },
+    {
+      "name": "Gossifleur",
+      "set": "Stellar Crown",
+      "img": "https://den-cards.pokellector.com/400/Gossifleur.SCR.10.54093.png",
+      "rarity": "Common",
+      "cardNum": "10/142"
+    },
+    {
+      "name": "Eldegoss",
+      "set": "Stellar Crown",
+      "img": "https://den-cards.pokellector.com/400/Eldegoss.SCR.11.54094.png",
+      "rarity": "Uncommon",
+      "cardNum": "11/142"
+    },
+    {
+      "name": "Applin",
+      "set": "Stellar Crown",
+      "img": "https://den-cards.pokellector.com/400/Applin.SCR.12.54095.png",
+      "rarity": "Common",
+      "cardNum": "12/142"
+    },
+    {
+      "name": "Dipplin",
+      "set": "Stellar Crown",
+      "img": "https://den-cards.pokellector.com/400/Dipplin.SCR.13.54096.png",
+      "rarity": "Common",
+      "cardNum": "13/142"
+    },
+    {
+      "name": "Hydrapple ex",
+      "set": "Stellar Crown",
+      "img": "https://den-cards.pokellector.com/400/Hydrapple-ex.SCR.14.54097.png",
+      "rarity": "Double Rare",
+      "cardNum": "14/142"
+    },
+    {
+      "name": "Nymble",
+      "set": "Stellar Crown",
+      "img": "https://den-cards.pokellector.com/400/Nymble.SCR.15.54098.png",
+      "rarity": "Common",
+      "cardNum": "15/142"
+    },
+    {
+      "name": "Lokix",
+      "set": "Stellar Crown",
+      "img": "https://den-cards.pokellector.com/400/Lokix.SCR.16.54099.png",
+      "rarity": "Common",
+      "cardNum": "16/142"
+    },
+    {
+      "name": "Toedscool",
+      "set": "Stellar Crown",
+      "img": "https://den-cards.pokellector.com/400/Toedscool.SCR.17.54100.png",
+      "rarity": "Common",
+      "cardNum": "17/142"
+    },
+    {
+      "name": "Toedscruel",
+      "set": "Stellar Crown",
+      "img": "https://den-cards.pokellector.com/400/Toedscruel.SCR.18.54101.png",
+      "rarity": "Uncommon",
+      "cardNum": "18/142"
+    },
+    {
+      "name": "Ponyta",
+      "set": "Stellar Crown",
+      "img": "https://den-cards.pokellector.com/400/Ponyta.SCR.19.54102.png",
+      "rarity": "Common",
+      "cardNum": "19/142"
+    },
+    {
+      "name": "Rapidash",
+      "set": "Stellar Crown",
+      "img": "https://den-cards.pokellector.com/400/Rapidash.SCR.20.54103.png",
+      "rarity": "Uncommon",
+      "cardNum": "20/142"
+    },
+    {
+      "name": "Pansear",
+      "set": "Stellar Crown",
+      "img": "https://den-cards.pokellector.com/400/Pansear.SCR.21.54104.png",
+      "rarity": "Common",
+      "cardNum": "21/142"
+    },
+    {
+      "name": "Reshiram",
+      "set": "Stellar Crown",
+      "img": "https://den-cards.pokellector.com/400/Reshiram.SCR.22.54105.png",
+      "rarity": "Uncommon",
+      "cardNum": "22/142"
+    },
+    {
+      "name": "Salandit",
+      "set": "Stellar Crown",
+      "img": "https://den-cards.pokellector.com/400/Salandit.SCR.23.54106.png",
+      "rarity": "Common",
+      "cardNum": "23/142"
+    },
+    {
+      "name": "Salazzle",
+      "set": "Stellar Crown",
+      "img": "https://den-cards.pokellector.com/400/Salazzle.SCR.24.54107.png",
+      "rarity": "Uncommon",
+      "cardNum": "24/142"
+    },
+    {
+      "name": "Turtonator",
+      "set": "Stellar Crown",
+      "img": "https://den-cards.pokellector.com/400/Turtonator.SCR.25.54108.png",
+      "rarity": "Common",
+      "cardNum": "25/142"
+    },
+    {
+      "name": "Scorbunny",
+      "set": "Stellar Crown",
+      "img": "https://den-cards.pokellector.com/400/Scorbunny.SCR.26.54109.png",
+      "rarity": "Common",
+      "cardNum": "26/142"
+    },
+    {
+      "name": "Raboot",
+      "set": "Stellar Crown",
+      "img": "https://den-cards.pokellector.com/400/Raboot.SCR.27.54110.png",
+      "rarity": "Common",
+      "cardNum": "27/142"
+    },
+    {
+      "name": "Cinderace ex",
+      "set": "Stellar Crown",
+      "img": "https://den-cards.pokellector.com/400/Cinderace-ex.SCR.28.54111.png",
+      "rarity": "Double Rare",
+      "cardNum": "28/142"
+    },
+    {
+      "name": "Charcadet",
+      "set": "Stellar Crown",
+      "img": "https://den-cards.pokellector.com/400/Charcadet.SCR.29.54112.png",
+      "rarity": "Common",
+      "cardNum": "29/142"
+    },
+    {
+      "name": "Blastoise ex",
+      "set": "Stellar Crown",
+      "img": "https://den-cards.pokellector.com/400/Blastoise-ex.SCR.30.53795.png",
+      "rarity": "Double Rare",
+      "cardNum": "30/142"
+    },
+    {
+      "name": "Lapras",
+      "set": "Stellar Crown",
+      "img": "https://den-cards.pokellector.com/400/Lapras.SCR.31.54113.png",
+      "rarity": "Uncommon",
+      "cardNum": "31/142"
+    },
+    {
+      "name": "Lapras ex",
+      "set": "Stellar Crown",
+      "img": "https://den-cards.pokellector.com/400/Lapras-ex.SCR.32.54114.png",
+      "rarity": "Double Rare",
+      "cardNum": "32/142"
+    },
+    {
+      "name": "Marill",
+      "set": "Stellar Crown",
+      "img": "https://den-cards.pokellector.com/400/Marill.SCR.33.54115.png",
+      "rarity": "Common",
+      "cardNum": "33/142"
+    },
+    {
+      "name": "Azumarill",
+      "set": "Stellar Crown",
+      "img": "https://den-cards.pokellector.com/400/Azumarill.SCR.34.54116.png",
+      "rarity": "Uncommon",
+      "cardNum": "34/142"
+    },
+    {
+      "name": "Finneon",
+      "set": "Stellar Crown",
+      "img": "https://den-cards.pokellector.com/400/Finneon.SCR.35.54117.png",
+      "rarity": "Common",
+      "cardNum": "35/142"
+    },
+    {
+      "name": "Lumineon",
+      "set": "Stellar Crown",
+      "img": "https://den-cards.pokellector.com/400/Lumineon.SCR.36.54118.png",
+      "rarity": "Uncommon",
+      "cardNum": "36/142"
+    },
+    {
+      "name": "Tirtouga",
+      "set": "Stellar Crown",
+      "img": "https://den-cards.pokellector.com/400/Tirtouga.SCR.37.54119.png",
+      "rarity": "Common",
+      "cardNum": "37/142"
+    },
+    {
+      "name": "Carracosta",
+      "set": "Stellar Crown",
+      "img": "https://den-cards.pokellector.com/400/Carracosta.SCR.38.54120.png",
+      "rarity": "Rare",
+      "cardNum": "38/142"
+    },
+    {
+      "name": "Froakie",
+      "set": "Stellar Crown",
+      "img": "https://den-cards.pokellector.com/400/Froakie.SCR.39.54121.png",
+      "rarity": "Common",
+      "cardNum": "39/142"
+    },
+    {
+      "name": "Frogadier",
+      "set": "Stellar Crown",
+      "img": "https://den-cards.pokellector.com/400/Frogadier.SCR.40.54122.png",
+      "rarity": "Uncommon",
+      "cardNum": "40/142"
+    },
+    {
+      "name": "Greninja ex",
+      "set": "Stellar Crown",
+      "img": "https://den-cards.pokellector.com/400/Greninja-ex.SCR.41.54123.png",
+      "rarity": "Double Rare",
+      "cardNum": "41/142"
+    },
+    {
+      "name": "Crabominable",
+      "set": "Stellar Crown",
+      "img": "https://den-cards.pokellector.com/400/Crabominable.SCR.42.54124.png",
+      "rarity": "Uncommon",
+      "cardNum": "42/142"
+    },
+    {
+      "name": "Chewtle",
+      "set": "Stellar Crown",
+      "img": "https://den-cards.pokellector.com/400/Chewtle.SCR.43.54125.png",
+      "rarity": "Common",
+      "cardNum": "43/142"
+    },
+    {
+      "name": "Drednaw",
+      "set": "Stellar Crown",
+      "img": "https://den-cards.pokellector.com/400/Drednaw.SCR.44.54126.png",
+      "rarity": "Rare",
+      "cardNum": "44/142"
+    },
+    {
+      "name": "Veluza",
+      "set": "Stellar Crown",
+      "img": "https://den-cards.pokellector.com/400/Veluza.SCR.45.54127.png",
+      "rarity": "Uncommon",
+      "cardNum": "45/142"
+    },
+    {
+      "name": "Electabuzz",
+      "set": "Stellar Crown",
+      "img": "https://den-cards.pokellector.com/400/Electabuzz.SCR.46.54128.png",
+      "rarity": "Common",
+      "cardNum": "46/142"
+    },
+    {
+      "name": "Electivire",
+      "set": "Stellar Crown",
+      "img": "https://den-cards.pokellector.com/400/Electivire.SCR.47.54129.png",
+      "rarity": "Uncommon",
+      "cardNum": "47/142"
+    },
+    {
+      "name": "Chinchou",
+      "set": "Stellar Crown",
+      "img": "https://den-cards.pokellector.com/400/Chinchou.SCR.48.54130.png",
+      "rarity": "Common",
+      "cardNum": "48/142"
+    },
+    {
+      "name": "Lanturn",
+      "set": "Stellar Crown",
+      "img": "https://den-cards.pokellector.com/400/Lanturn.SCR.49.54131.png",
+      "rarity": "Uncommon",
+      "cardNum": "49/142"
+    },
+    {
+      "name": "Joltik",
+      "set": "Stellar Crown",
+      "img": "https://den-cards.pokellector.com/400/Joltik.SCR.50.54132.png",
+      "rarity": "Common",
+      "cardNum": "50/142"
+    },
+    {
+      "name": "Galvantula ex",
+      "set": "Stellar Crown",
+      "img": "https://den-cards.pokellector.com/400/Galvantula-ex.SCR.51.54133.png",
+      "rarity": "Double Rare",
+      "cardNum": "51/142"
+    },
+    {
+      "name": "Charjabug",
+      "set": "Stellar Crown",
+      "img": "https://den-cards.pokellector.com/400/Charjabug.SCR.52.54134.png",
+      "rarity": "Common",
+      "cardNum": "52/142"
+    },
+    {
+      "name": "Vikavolt",
+      "set": "Stellar Crown",
+      "img": "https://den-cards.pokellector.com/400/Vikavolt.SCR.53.54135.png",
+      "rarity": "Uncommon",
+      "cardNum": "53/142"
+    },
+    {
+      "name": "Togedemaru",
+      "set": "Stellar Crown",
+      "img": "https://den-cards.pokellector.com/400/Togedemaru.SCR.54.54136.png",
+      "rarity": "Uncommon",
+      "cardNum": "54/142"
+    },
+    {
+      "name": "Zeraora",
+      "set": "Stellar Crown",
+      "img": "https://den-cards.pokellector.com/400/Zeraora.SCR.55.54137.png",
+      "rarity": "Rare",
+      "cardNum": "55/142"
+    },
+    {
+      "name": "Pawmi",
+      "set": "Stellar Crown",
+      "img": "https://den-cards.pokellector.com/400/Pawmi.SCR.56.54138.png",
+      "rarity": "Common",
+      "cardNum": "56/142"
+    },
+    {
+      "name": "Slowpoke",
+      "set": "Stellar Crown",
+      "img": "https://den-cards.pokellector.com/400/Slowpoke.SCR.57.54139.png",
+      "rarity": "Common",
+      "cardNum": "57/142"
+    },
+    {
+      "name": "Slowking",
+      "set": "Stellar Crown",
+      "img": "https://den-cards.pokellector.com/400/Slowking.SCR.58.54140.png",
+      "rarity": "Uncommon",
+      "cardNum": "58/142"
+    },
+    {
+      "name": "Mewtwo",
+      "set": "Stellar Crown",
+      "img": "https://den-cards.pokellector.com/400/Mewtwo.SCR.59.54141.png",
+      "rarity": "Uncommon",
+      "cardNum": "59/142"
+    },
+    {
+      "name": "Drifloon",
+      "set": "Stellar Crown",
+      "img": "https://den-cards.pokellector.com/400/Drifloon.SCR.60.54142.png",
+      "rarity": "Common",
+      "cardNum": "60/142"
+    },
+    {
+      "name": "Drifblim",
+      "set": "Stellar Crown",
+      "img": "https://den-cards.pokellector.com/400/Drifblim.SCR.61.54143.png",
+      "rarity": "Uncommon",
+      "cardNum": "61/142"
+    },
+    {
+      "name": "Yamask",
+      "set": "Stellar Crown",
+      "img": "https://den-cards.pokellector.com/400/Yamask.SCR.62.54144.png",
+      "rarity": "Common",
+      "cardNum": "62/142"
+    },
+    {
+      "name": "Comfey",
+      "set": "Stellar Crown",
+      "img": "https://den-cards.pokellector.com/400/Comfey.SCR.63.54145.png",
+      "rarity": "Common",
+      "cardNum": "63/142"
+    },
+    {
+      "name": "Milcery",
+      "set": "Stellar Crown",
+      "img": "https://den-cards.pokellector.com/400/Milcery.SCR.64.54146.png",
+      "rarity": "Common",
+      "cardNum": "64/142"
+    },
+    {
+      "name": "Alcremie",
+      "set": "Stellar Crown",
+      "img": "https://den-cards.pokellector.com/400/Alcremie.SCR.65.54147.png",
+      "rarity": "Rare",
+      "cardNum": "65/142"
+    },
+    {
+      "name": "Fidough",
+      "set": "Stellar Crown",
+      "img": "https://den-cards.pokellector.com/400/Fidough.SCR.66.54148.png",
+      "rarity": "Common",
+      "cardNum": "66/142"
+    },
+    {
+      "name": "Dachsbun ex",
+      "set": "Stellar Crown",
+      "img": "https://den-cards.pokellector.com/400/Dachsbun-ex.SCR.67.54149.png",
+      "rarity": "Double Rare",
+      "cardNum": "67/142"
+    },
+    {
+      "name": "Flittle",
+      "set": "Stellar Crown",
+      "img": "https://den-cards.pokellector.com/400/Flittle.SCR.68.54150.png",
+      "rarity": "Common",
+      "cardNum": "68/142"
+    },
+    {
+      "name": "Espathra",
+      "set": "Stellar Crown",
+      "img": "https://den-cards.pokellector.com/400/Espathra.SCR.69.54151.png",
+      "rarity": "Common",
+      "cardNum": "69/142"
+    },
+    {
+      "name": "Greavard",
+      "set": "Stellar Crown",
+      "img": "https://den-cards.pokellector.com/400/Greavard.SCR.70.54152.png",
+      "rarity": "Common",
+      "cardNum": "70/142"
+    },
+    {
+      "name": "Iron Boulder",
+      "set": "Stellar Crown",
+      "img": "https://den-cards.pokellector.com/400/Iron-Boulder.SCR.71.54153.png",
+      "rarity": "Rare",
+      "cardNum": "71/142"
+    },
+    {
+      "name": "Cubone",
+      "set": "Stellar Crown",
+      "img": "https://den-cards.pokellector.com/400/Cubone.SCR.72.54154.png",
+      "rarity": "Common",
+      "cardNum": "72/142"
+    },
+    {
+      "name": "Marowak",
+      "set": "Stellar Crown",
+      "img": "https://den-cards.pokellector.com/400/Marowak.SCR.73.54155.png",
+      "rarity": "Uncommon",
+      "cardNum": "73/142"
+    },
+    {
+      "name": "Rhyhorn",
+      "set": "Stellar Crown",
+      "img": "https://den-cards.pokellector.com/400/Rhyhorn.SCR.74.54156.png",
+      "rarity": "Common",
+      "cardNum": "74/142"
+    },
+    {
+      "name": "Rhydon",
+      "set": "Stellar Crown",
+      "img": "https://den-cards.pokellector.com/400/Rhydon.SCR.75.54157.png",
+      "rarity": "Common",
+      "cardNum": "75/142"
+    },
+    {
+      "name": "Rhyperior",
+      "set": "Stellar Crown",
+      "img": "https://den-cards.pokellector.com/400/Rhyperior.SCR.76.54158.png",
+      "rarity": "Rare",
+      "cardNum": "76/142"
+    },
+    {
+      "name": "Meditite",
+      "set": "Stellar Crown",
+      "img": "https://den-cards.pokellector.com/400/Meditite.SCR.77.54159.png",
+      "rarity": "Common",
+      "cardNum": "77/142"
+    },
+    {
+      "name": "Meditite",
+      "set": "Stellar Crown",
+      "img": "https://den-cards.pokellector.com/400/Meditite.SCR.78.54160.png",
+      "rarity": "Common",
+      "cardNum": "78/142"
+    },
+    {
+      "name": "Medicham",
+      "set": "Stellar Crown",
+      "img": "https://den-cards.pokellector.com/400/Medicham.SCR.79.54161.png",
+      "rarity": "Common",
+      "cardNum": "79/142"
+    },
+    {
+      "name": "Medicham ex",
+      "set": "Stellar Crown",
+      "img": "https://den-cards.pokellector.com/400/Medicham-ex.SCR.80.54162.png",
+      "rarity": "Double Rare",
+      "cardNum": "80/142"
+    },
+    {
+      "name": "Riolu",
+      "set": "Stellar Crown",
+      "img": "https://den-cards.pokellector.com/400/Riolu.SCR.81.54163.png",
+      "rarity": "Common",
+      "cardNum": "81/142"
+    },
+    {
+      "name": "Lucario ex",
+      "set": "Stellar Crown",
+      "img": "https://den-cards.pokellector.com/400/Lucario-ex.SCR.82.54164.png",
+      "rarity": "Double Rare",
+      "cardNum": "82/142"
+    },
+    {
+      "name": "Mienfoo",
+      "set": "Stellar Crown",
+      "img": "https://den-cards.pokellector.com/400/Mienfoo.SCR.83.54165.png",
+      "rarity": "Common",
+      "cardNum": "83/142"
+    },
+    {
+      "name": "Mienshao",
+      "set": "Stellar Crown",
+      "img": "https://den-cards.pokellector.com/400/Mienshao.SCR.84.54166.png",
+      "rarity": "Uncommon",
+      "cardNum": "84/142"
+    },
+    {
+      "name": "Pancham",
+      "set": "Stellar Crown",
+      "img": "https://den-cards.pokellector.com/400/Pancham.SCR.85.54167.png",
+      "rarity": "Common",
+      "cardNum": "85/142"
+    },
+    {
+      "name": "Diancie",
+      "set": "Stellar Crown",
+      "img": "https://den-cards.pokellector.com/400/Diancie.SCR.86.54168.png",
+      "rarity": "Uncommon",
+      "cardNum": "86/142"
+    },
+    {
+      "name": "Crabrawler",
+      "set": "Stellar Crown",
+      "img": "https://den-cards.pokellector.com/400/Crabrawler.SCR.87.54169.png",
+      "rarity": "Common",
+      "cardNum": "87/142"
+    },
+    {
+      "name": "Falinks",
+      "set": "Stellar Crown",
+      "img": "https://den-cards.pokellector.com/400/Falinks.SCR.88.54170.png",
+      "rarity": "Common",
+      "cardNum": "88/142"
+    },
+    {
+      "name": "Garganacl ex",
+      "set": "Stellar Crown",
+      "img": "https://den-cards.pokellector.com/400/Garganacl-ex.SCR.89.54171.png",
+      "rarity": "Double Rare",
+      "cardNum": "89/142"
+    },
+    {
+      "name": "Koraidon",
+      "set": "Stellar Crown",
+      "img": "https://den-cards.pokellector.com/400/Koraidon.SCR.90.54172.png",
+      "rarity": "Uncommon",
+      "cardNum": "90/142"
+    },
+    {
+      "name": "Gulpin",
+      "set": "Stellar Crown",
+      "img": "https://den-cards.pokellector.com/400/Gulpin.SCR.91.54173.png",
+      "rarity": "Common",
+      "cardNum": "91/142"
+    },
+    {
+      "name": "Swalot",
+      "set": "Stellar Crown",
+      "img": "https://den-cards.pokellector.com/400/Swalot.SCR.92.54174.png",
+      "rarity": "Uncommon",
+      "cardNum": "92/142"
+    },
+    {
+      "name": "Pangoro",
+      "set": "Stellar Crown",
+      "img": "https://den-cards.pokellector.com/400/Pangoro.SCR.93.54175.png",
+      "rarity": "Uncommon",
+      "cardNum": "93/142"
+    },
+    {
+      "name": "Impidimp",
+      "set": "Stellar Crown",
+      "img": "https://den-cards.pokellector.com/400/Impidimp.SCR.94.54176.png",
+      "rarity": "Common",
+      "cardNum": "94/142"
+    },
+    {
+      "name": "Morgrem",
+      "set": "Stellar Crown",
+      "img": "https://den-cards.pokellector.com/400/Morgrem.SCR.95.54177.png",
+      "rarity": "Common",
+      "cardNum": "95/142"
+    },
+    {
+      "name": "Grimmsnarl",
+      "set": "Stellar Crown",
+      "img": "https://den-cards.pokellector.com/400/Grimmsnarl.SCR.96.54178.png",
+      "rarity": "Rare",
+      "cardNum": "96/142"
+    },
+    {
+      "name": "Bombirdier",
+      "set": "Stellar Crown",
+      "img": "https://den-cards.pokellector.com/400/Bombirdier.SCR.97.54179.png",
+      "rarity": "Common",
+      "cardNum": "97/142"
+    },
+    {
+      "name": "Jirachi",
+      "set": "Stellar Crown",
+      "img": "https://den-cards.pokellector.com/400/Jirachi.SCR.98.54180.png",
+      "rarity": "Uncommon",
+      "cardNum": "98/142"
+    },
+    {
+      "name": "Klink",
+      "set": "Stellar Crown",
+      "img": "https://den-cards.pokellector.com/400/Klink.SCR.99.54181.png",
+      "rarity": "Common",
+      "cardNum": "99/142"
+    },
+    {
+      "name": "Klang",
+      "set": "Stellar Crown",
+      "img": "https://den-cards.pokellector.com/400/Klang.SCR.100.54182.png",
+      "rarity": "Common",
+      "cardNum": "100/142"
+    },
+    {
+      "name": "Klinklang",
+      "set": "Stellar Crown",
+      "img": "https://den-cards.pokellector.com/400/Klinklang.SCR.101.54183.png",
+      "rarity": "Rare",
+      "cardNum": "101/142"
+    },
+    {
+      "name": "Meltan",
+      "set": "Stellar Crown",
+      "img": "https://den-cards.pokellector.com/400/Meltan.SCR.102.54184.png",
+      "rarity": "Common",
+      "cardNum": "102/142"
+    },
+    {
+      "name": "Meltan",
+      "set": "Stellar Crown",
+      "img": "https://den-cards.pokellector.com/400/Meltan.SCR.103.54185.png",
+      "rarity": "Common",
+      "cardNum": "103/142"
+    },
+    {
+      "name": "Melmetal",
+      "set": "Stellar Crown",
+      "img": "https://den-cards.pokellector.com/400/Melmetal.SCR.104.54186.png",
+      "rarity": "Rare",
+      "cardNum": "104/142"
+    },
+    {
+      "name": "Melmetal ex",
+      "set": "Stellar Crown",
+      "img": "https://den-cards.pokellector.com/400/Melmetal-ex.SCR.105.54187.png",
+      "rarity": "Double Rare",
+      "cardNum": "105/142"
+    },
+    {
+      "name": "Duraludon",
+      "set": "Stellar Crown",
+      "img": "https://den-cards.pokellector.com/400/Duraludon.SCR.106.54188.png",
+      "rarity": "Common",
+      "cardNum": "106/142"
+    },
+    {
+      "name": "Archaludon",
+      "set": "Stellar Crown",
+      "img": "https://den-cards.pokellector.com/400/Archaludon.SCR.107.54189.png",
+      "rarity": "Rare",
+      "cardNum": "107/142"
+    },
+    {
+      "name": "Varoom",
+      "set": "Stellar Crown",
+      "img": "https://den-cards.pokellector.com/400/Varoom.SCR.108.54190.png",
+      "rarity": "Common",
+      "cardNum": "108/142"
+    },
+    {
+      "name": "Revavroom",
+      "set": "Stellar Crown",
+      "img": "https://den-cards.pokellector.com/400/Revavroom.SCR.109.54191.png",
+      "rarity": "Uncommon",
+      "cardNum": "109/142"
+    },
+    {
+      "name": "Orthworm ex",
+      "set": "Stellar Crown",
+      "img": "https://den-cards.pokellector.com/400/Orthworm-ex.SCR.110.54192.png",
+      "rarity": "Double Rare",
+      "cardNum": "110/142"
+    },
+    {
+      "name": "Raging Bolt",
+      "set": "Stellar Crown",
+      "img": "https://den-cards.pokellector.com/400/Raging-Bolt.SCR.111.54193.png",
+      "rarity": "Rare",
+      "cardNum": "111/142"
+    },
+    {
+      "name": "Tauros",
+      "set": "Stellar Crown",
+      "img": "https://den-cards.pokellector.com/400/Tauros.SCR.112.54194.png",
+      "rarity": "Common",
+      "cardNum": "112/142"
+    },
+    {
+      "name": "Eevee",
+      "set": "Stellar Crown",
+      "img": "https://den-cards.pokellector.com/400/Eevee.SCR.113.54195.png",
+      "rarity": "Common",
+      "cardNum": "113/142"
+    },
+    {
+      "name": "Hoothoot",
+      "set": "Stellar Crown",
+      "img": "https://den-cards.pokellector.com/400/Hoothoot.SCR.114.54196.png",
+      "rarity": "Common",
+      "cardNum": "114/142"
+    },
+    {
+      "name": "Noctowl",
+      "set": "Stellar Crown",
+      "img": "https://den-cards.pokellector.com/400/Noctowl.SCR.115.54197.png",
+      "rarity": "Rare",
+      "cardNum": "115/142"
+    },
+    {
+      "name": "Glameow",
+      "set": "Stellar Crown",
+      "img": "https://den-cards.pokellector.com/400/Glameow.SCR.116.54198.png",
+      "rarity": "Common",
+      "cardNum": "116/142"
+    },
+    {
+      "name": "Purugly",
+      "set": "Stellar Crown",
+      "img": "https://den-cards.pokellector.com/400/Purugly.SCR.117.54199.png",
+      "rarity": "Common",
+      "cardNum": "117/142"
+    },
+    {
+      "name": "Fan Rotom",
+      "set": "Stellar Crown",
+      "img": "https://den-cards.pokellector.com/400/Fan-Rotom.SCR.118.54200.png",
+      "rarity": "Common",
+      "cardNum": "118/142"
+    },
+    {
+      "name": "Bouffalant",
+      "set": "Stellar Crown",
+      "img": "https://den-cards.pokellector.com/400/Bouffalant.SCR.119.54201.png",
+      "rarity": "Rare",
+      "cardNum": "119/142"
+    },
+    {
+      "name": "Tornadus",
+      "set": "Stellar Crown",
+      "img": "https://den-cards.pokellector.com/400/Tornadus.SCR.120.54202.png",
+      "rarity": "Uncommon",
+      "cardNum": "120/142"
+    },
+    {
+      "name": "Fletchling",
+      "set": "Stellar Crown",
+      "img": "https://den-cards.pokellector.com/400/Fletchling.SCR.121.54203.png",
+      "rarity": "Common",
+      "cardNum": "121/142"
+    },
+    {
+      "name": "Fletchinder",
+      "set": "Stellar Crown",
+      "img": "https://den-cards.pokellector.com/400/Fletchinder.SCR.122.54204.png",
+      "rarity": "Common",
+      "cardNum": "122/142"
+    },
+    {
+      "name": "Talonflame",
+      "set": "Stellar Crown",
+      "img": "https://den-cards.pokellector.com/400/Talonflame.SCR.123.54205.png",
+      "rarity": "Uncommon",
+      "cardNum": "123/142"
+    },
+    {
+      "name": "Wooloo",
+      "set": "Stellar Crown",
+      "img": "https://den-cards.pokellector.com/400/Wooloo.SCR.124.54206.png",
+      "rarity": "Common",
+      "cardNum": "124/142"
+    },
+    {
+      "name": "Dubwool",
+      "set": "Stellar Crown",
+      "img": "https://den-cards.pokellector.com/400/Dubwool.SCR.125.54207.png",
+      "rarity": "Uncommon",
+      "cardNum": "125/142"
+    },
+    {
+      "name": "Lechonk",
+      "set": "Stellar Crown",
+      "img": "https://den-cards.pokellector.com/400/Lechonk.SCR.126.54208.png",
+      "rarity": "Common",
+      "cardNum": "126/142"
+    },
+    {
+      "name": "Cyclizar",
+      "set": "Stellar Crown",
+      "img": "https://den-cards.pokellector.com/400/Cyclizar.SCR.127.54209.png",
+      "rarity": "Common",
+      "cardNum": "127/142"
+    },
+    {
+      "name": "Terapagos ex",
+      "set": "Stellar Crown",
+      "img": "https://den-cards.pokellector.com/400/Terapagos-ex.SCR.128.54210.png",
+      "rarity": "Double Rare",
+      "cardNum": "128/142"
+    },
+    {
+      "name": "Antique Cover Fossil",
+      "set": "Stellar Crown",
+      "img": "https://den-cards.pokellector.com/400/Antique-Cover-Fossil.SCR.129.54211.png",
+      "rarity": "Common",
+      "cardNum": "129/142"
+    },
+    {
+      "name": "Antique Root Fossil",
+      "set": "Stellar Crown",
+      "img": "https://den-cards.pokellector.com/400/Antique-Root-Fossil.SCR.130.54212.png",
+      "rarity": "Common",
+      "cardNum": "130/142"
+    },
+    {
+      "name": "Area Zero Underdepths",
+      "set": "Stellar Crown",
+      "img": "https://den-cards.pokellector.com/400/Area-Zero-Underdepths.SCR.131.54213.png",
+      "rarity": "Uncommon",
+      "cardNum": "131/142"
+    },
+    {
+      "name": "Briar",
+      "set": "Stellar Crown",
+      "img": "https://den-cards.pokellector.com/400/Briar.SCR.132.54214.png",
+      "rarity": "Uncommon",
+      "cardNum": "132/142"
+    },
+    {
+      "name": "Crispin",
+      "set": "Stellar Crown",
+      "img": "https://den-cards.pokellector.com/400/Crispin.SCR.133.54215.png",
+      "rarity": "Uncommon",
+      "cardNum": "133/142"
+    },
+    {
+      "name": "Deluxe Bomb",
+      "set": "Stellar Crown",
+      "img": "https://den-cards.pokellector.com/400/Deluxe-Bomb.SCR.134.54216.png",
+      "rarity": "Ace Spec",
+      "cardNum": "134/142"
+    },
+    {
+      "name": "Glass Trumpet",
+      "set": "Stellar Crown",
+      "img": "https://den-cards.pokellector.com/400/Glass-Trumpet.SCR.135.54217.png",
+      "rarity": "Uncommon",
+      "cardNum": "135/142"
+    },
+    {
+      "name": "Grand Tree",
+      "set": "Stellar Crown",
+      "img": "https://den-cards.pokellector.com/400/Grand-Tree.SCR.136.54218.png",
+      "rarity": "Ace Spec",
+      "cardNum": "136/142"
+    },
+    {
+      "name": "Gravity Gemstone",
+      "set": "Stellar Crown",
+      "img": "https://den-cards.pokellector.com/400/Gravity-Gemstone.SCR.137.54219.png",
+      "rarity": "Uncommon",
+      "cardNum": "137/142"
+    },
+    {
+      "name": "Kofu",
+      "set": "Stellar Crown",
+      "img": "https://den-cards.pokellector.com/400/Kofu.SCR.138.54220.png",
+      "rarity": "Uncommon",
+      "cardNum": "138/142"
+    },
+    {
+      "name": "Lacey",
+      "set": "Stellar Crown",
+      "img": "https://den-cards.pokellector.com/400/Lacey.SCR.139.54221.png",
+      "rarity": "Uncommon",
+      "cardNum": "139/142"
+    },
+    {
+      "name": "Occa Berry",
+      "set": "Stellar Crown",
+      "img": "https://den-cards.pokellector.com/400/Occa-Berry.SCR.140.54222.png",
+      "rarity": "Uncommon",
+      "cardNum": "140/142"
+    },
+    {
+      "name": "Payapa Berry",
+      "set": "Stellar Crown",
+      "img": "https://den-cards.pokellector.com/400/Payapa-Berry.SCR.141.54223.png",
+      "rarity": "Uncommon",
+      "cardNum": "141/142"
+    },
+    {
+      "name": "Sparkling Crystal",
+      "set": "Stellar Crown",
+      "img": "https://den-cards.pokellector.com/400/Sparkling-Crystal.SCR.142.54224.png",
+      "rarity": "Ace Spec",
+      "cardNum": "142/142"
+    },
+    {
+      "name": "Bulbasaur",
+      "set": "Stellar Crown",
+      "img": "https://den-cards.pokellector.com/400/Bulbasaur.SCR.143.53793.png",
+      "rarity": "Illustration Rare",
+      "cardNum": "143/142"
+    },
+    {
+      "name": "Ledian",
+      "set": "Stellar Crown",
+      "img": "https://den-cards.pokellector.com/400/Ledian.SCR.144.54225.png",
+      "rarity": "Illustration Rare",
+      "cardNum": "144/142"
+    },
+    {
+      "name": "Lileep",
+      "set": "Stellar Crown",
+      "img": "https://den-cards.pokellector.com/400/Lileep.SCR.145.54226.png",
+      "rarity": "Illustration Rare",
+      "cardNum": "145/142"
+    },
+    {
+      "name": "Turtonator",
+      "set": "Stellar Crown",
+      "img": "https://den-cards.pokellector.com/400/Turtonator.SCR.146.54227.png",
+      "rarity": "Illustration Rare",
+      "cardNum": "146/142"
+    },
+    {
+      "name": "Raboot",
+      "set": "Stellar Crown",
+      "img": "https://den-cards.pokellector.com/400/Raboot.SCR.147.54228.png",
+      "rarity": "Illustration Rare",
+      "cardNum": "147/142"
+    },
+    {
+      "name": "Squirtle",
+      "set": "Stellar Crown",
+      "img": "https://den-cards.pokellector.com/400/Squirtle.SCR.148.54229.png",
+      "rarity": "Illustration Rare",
+      "cardNum": "148/142"
+    },
+    {
+      "name": "Crabominable",
+      "set": "Stellar Crown",
+      "img": "https://den-cards.pokellector.com/400/Crabominable.SCR.149.54230.png",
+      "rarity": "Illustration Rare",
+      "cardNum": "149/142"
+    },
+    {
+      "name": "Joltik",
+      "set": "Stellar Crown",
+      "img": "https://den-cards.pokellector.com/400/Joltik.SCR.150.54231.png",
+      "rarity": "Illustration Rare",
+      "cardNum": "150/142"
+    },
+    {
+      "name": "Zeraora",
+      "set": "Stellar Crown",
+      "img": "https://den-cards.pokellector.com/400/Zeraora.SCR.151.54232.png",
+      "rarity": "Illustration Rare",
+      "cardNum": "151/142"
+    },
+    {
+      "name": "Milcery",
+      "set": "Stellar Crown",
+      "img": "https://den-cards.pokellector.com/400/Milcery.SCR.152.54233.png",
+      "rarity": "Illustration Rare",
+      "cardNum": "152/142"
+    },
+    {
+      "name": "Meditite",
+      "set": "Stellar Crown",
+      "img": "https://den-cards.pokellector.com/400/Meditite.SCR.153.54234.png",
+      "rarity": "Illustration Rare",
+      "cardNum": "153/142"
+    },
+    {
+      "name": "Gulpin",
+      "set": "Stellar Crown",
+      "img": "https://den-cards.pokellector.com/400/Gulpin.SCR.154.54235.png",
+      "rarity": "Illustration Rare",
+      "cardNum": "154/142"
+    },
+    {
+      "name": "Archaludon",
+      "set": "Stellar Crown",
+      "img": "https://den-cards.pokellector.com/400/Archaludon.SCR.155.54236.png",
+      "rarity": "Illustration Rare",
+      "cardNum": "155/142"
+    },
+    {
+      "name": "Hydrapple ex",
+      "set": "Stellar Crown",
+      "img": "https://den-cards.pokellector.com/400/Hydrapple-ex.SCR.156.54237.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "156/142"
+    },
+    {
+      "name": "Cinderace ex",
+      "set": "Stellar Crown",
+      "img": "https://den-cards.pokellector.com/400/Cinderace-ex.SCR.157.54238.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "157/142"
+    },
+    {
+      "name": "Lapras ex",
+      "set": "Stellar Crown",
+      "img": "https://den-cards.pokellector.com/400/Lapras-ex.SCR.158.54239.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "158/142"
+    },
+    {
+      "name": "Galvantula ex",
+      "set": "Stellar Crown",
+      "img": "https://den-cards.pokellector.com/400/Galvantula-ex.SCR.159.54240.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "159/142"
+    },
+    {
+      "name": "Dachsbun ex",
+      "set": "Stellar Crown",
+      "img": "https://den-cards.pokellector.com/400/Dachsbun-ex.SCR.160.54241.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "160/142"
+    },
+    {
+      "name": "Medicham ex",
+      "set": "Stellar Crown",
+      "img": "https://den-cards.pokellector.com/400/Medicham-ex.SCR.161.54242.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "161/142"
+    },
+    {
+      "name": "Orthworm ex",
+      "set": "Stellar Crown",
+      "img": "https://den-cards.pokellector.com/400/Orthworm-ex.SCR.162.54243.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "162/142"
+    },
+    {
+      "name": "Briar",
+      "set": "Stellar Crown",
+      "img": "https://den-cards.pokellector.com/400/Briar.SCR.163.54244.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "163/142"
+    },
+    {
+      "name": "Crispin",
+      "set": "Stellar Crown",
+      "img": "https://den-cards.pokellector.com/400/Crispin.SCR.164.53958.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "164/142"
+    },
+    {
+      "name": "Kofu",
+      "set": "Stellar Crown",
+      "img": "https://den-cards.pokellector.com/400/Kofu.SCR.165.54245.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "165/142"
+    },
+    {
+      "name": "Lacey",
+      "set": "Stellar Crown",
+      "img": "https://den-cards.pokellector.com/400/Lacey.SCR.166.54246.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "166/142"
+    },
+    {
+      "name": "Hydrapple ex",
+      "set": "Stellar Crown",
+      "img": "https://den-cards.pokellector.com/400/Hydrapple-ex.SCR.167.54247.png",
+      "rarity": "Special Illustration Rare",
+      "cardNum": "167/142"
+    },
+    {
+      "name": "Galvantula ex",
+      "set": "Stellar Crown",
+      "img": "https://den-cards.pokellector.com/400/Galvantula-ex.SCR.168.54248.png",
+      "rarity": "Special Illustration Rare",
+      "cardNum": "168/142"
+    },
+    {
+      "name": "Dachsbun ex",
+      "set": "Stellar Crown",
+      "img": "https://den-cards.pokellector.com/400/Dachsbun-ex..169.53727.png",
+      "rarity": "Special Illustration Rare",
+      "cardNum": "169/142"
+    },
+    {
+      "name": "Terapagos ex",
+      "set": "Stellar Crown",
+      "img": "https://den-cards.pokellector.com/400/Terapagos-ex.SCR.170.54249.png",
+      "rarity": "Special Illustration Rare",
+      "cardNum": "170/142"
+    },
+    {
+      "name": "Briar",
+      "set": "Stellar Crown",
+      "img": "https://den-cards.pokellector.com/400/Briar.SCR.171.54250.png",
+      "rarity": "Special Illustration Rare",
+      "cardNum": "171/142"
+    },
+    {
+      "name": "Lacey",
+      "set": "Stellar Crown",
+      "img": "https://den-cards.pokellector.com/400/Lacey.SCR.172.54251.png",
+      "rarity": "Special Illustration Rare",
+      "cardNum": "172/142"
+    },
+    {
+      "name": "Terapagos ex",
+      "set": "Stellar Crown",
+      "img": "https://den-cards.pokellector.com/400/Terapagos-ex.SCR.173.54252.png",
+      "rarity": "Hyper Rare",
+      "cardNum": "173/142"
+    },
+    {
+      "name": "Area Zero Underdepths",
+      "set": "Stellar Crown",
+      "img": "https://den-cards.pokellector.com/400/Area-Zero-Underdepths.SCR.174.54253.png",
+      "rarity": "Hyper Rare",
+      "cardNum": "174/142"
+    },
+    {
+      "name": "Bravery Charm",
+      "set": "Stellar Crown",
+      "img": "https://den-cards.pokellector.com/400/Bravery-Charm.SCR.175.54254.png",
+      "rarity": "Hyper Rare",
+      "cardNum": "175/142"
+    }
+  ]
+}

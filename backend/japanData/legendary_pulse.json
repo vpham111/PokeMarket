@@ -1,0 +1,663 @@
+{
+  "setName": "Legendary Pulse",
+  "cards": [
+    {
+      "name": "Weedle",
+      "set": "Legendary Pulse",
+      "img": "https://den-cards.pokellector.com/294/Weedle.S3A.1.35015.png",
+      "rarity": "Common",
+      "cardNum": "1/76"
+    },
+    {
+      "name": "Kakuna",
+      "set": "Legendary Pulse",
+      "img": "https://den-cards.pokellector.com/294/Kakuna.S3A.2.35016.png",
+      "rarity": "Common",
+      "cardNum": "2/76"
+    },
+    {
+      "name": "Beedrill",
+      "set": "Legendary Pulse",
+      "img": "https://den-cards.pokellector.com/294/Beedrill.S3A.3.35017.png",
+      "rarity": "Uncommon",
+      "cardNum": "3/76"
+    },
+    {
+      "name": "Exeggcute",
+      "set": "Legendary Pulse",
+      "img": "https://den-cards.pokellector.com/294/Exeggcute.S3A.4.35018.png",
+      "rarity": "Common",
+      "cardNum": "4/76"
+    },
+    {
+      "name": "Exeggutor",
+      "set": "Legendary Pulse",
+      "img": "https://den-cards.pokellector.com/294/Exeggutor.S3A.5.35019.png",
+      "rarity": "Uncommon",
+      "cardNum": "5/76"
+    },
+    {
+      "name": "Yanma",
+      "set": "Legendary Pulse",
+      "img": "https://den-cards.pokellector.com/294/Yanma.S3A.6.35020.png",
+      "rarity": "Common",
+      "cardNum": "6/76"
+    },
+    {
+      "name": "Yanmega",
+      "set": "Legendary Pulse",
+      "img": "https://den-cards.pokellector.com/294/Yanmega.S3A.7.35021.png",
+      "rarity": "Uncommon",
+      "cardNum": "7/76"
+    },
+    {
+      "name": "Pineco",
+      "set": "Legendary Pulse",
+      "img": "https://den-cards.pokellector.com/294/Pineco.S3A.8.35022.png",
+      "rarity": "Common",
+      "cardNum": "8/76"
+    },
+    {
+      "name": "Celebi",
+      "set": "Legendary Pulse",
+      "img": "https://den-cards.pokellector.com/294/Celebi.S3A.9.34978.png",
+      "rarity": "Amazing Rare",
+      "cardNum": "9/76"
+    },
+    {
+      "name": "Shaymin",
+      "set": "Legendary Pulse",
+      "img": "https://den-cards.pokellector.com/294/Shaymin.S3A.10.35023.png",
+      "rarity": "Rare",
+      "cardNum": "10/76"
+    },
+    {
+      "name": "Genesect",
+      "set": "Legendary Pulse",
+      "img": "https://den-cards.pokellector.com/294/Genesect.S3A.11.35024.png",
+      "rarity": "Rare",
+      "cardNum": "11/76"
+    },
+    {
+      "name": "Dhelmise",
+      "set": "Legendary Pulse",
+      "img": "https://den-cards.pokellector.com/294/Dhelmise.S3A.12.35025.png",
+      "rarity": "Common",
+      "cardNum": "12/76"
+    },
+    {
+      "name": "Zarude V",
+      "set": "Legendary Pulse",
+      "img": "https://den-cards.pokellector.com/294/Zarude-V.S3A.13.34969.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "13/76"
+    },
+    {
+      "name": "Ampharos V",
+      "set": "Legendary Pulse",
+      "img": "https://den-cards.pokellector.com/294/Ampharos-V.S3A.14.34986.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "14/76"
+    },
+    {
+      "name": "Raikou",
+      "set": "Legendary Pulse",
+      "img": "https://den-cards.pokellector.com/294/Raikou.S3A.15.34979.png",
+      "rarity": "Amazing Rare",
+      "cardNum": "15/76"
+    },
+    {
+      "name": "Electrike",
+      "set": "Legendary Pulse",
+      "img": "https://den-cards.pokellector.com/294/Electrike.S3A.16.35026.png",
+      "rarity": "Common",
+      "cardNum": "16/76"
+    },
+    {
+      "name": "Manectric",
+      "set": "Legendary Pulse",
+      "img": "https://den-cards.pokellector.com/294/Manectric.S3A.17.35027.png",
+      "rarity": "Uncommon",
+      "cardNum": "17/76"
+    },
+    {
+      "name": "Joltik",
+      "set": "Legendary Pulse",
+      "img": "https://den-cards.pokellector.com/294/Joltik.S3A.18.35028.png",
+      "rarity": "Common",
+      "cardNum": "18/76"
+    },
+    {
+      "name": "Galvantula",
+      "set": "Legendary Pulse",
+      "img": "https://den-cards.pokellector.com/294/Galvantula.S3A.19.35029.png",
+      "rarity": "Uncommon",
+      "cardNum": "19/76"
+    },
+    {
+      "name": "Zekrom",
+      "set": "Legendary Pulse",
+      "img": "https://den-cards.pokellector.com/294/Zekrom.S3A.20.34999.png",
+      "rarity": "Rare",
+      "cardNum": "20/76"
+    },
+    {
+      "name": "Zeraora",
+      "set": "Legendary Pulse",
+      "img": "https://den-cards.pokellector.com/294/Zeraora.S3A.21.35030.png",
+      "rarity": "Rare",
+      "cardNum": "21/76"
+    },
+    {
+      "name": "Pincurchin",
+      "set": "Legendary Pulse",
+      "img": "https://den-cards.pokellector.com/294/Pincurchin.S3A.22.35031.png",
+      "rarity": "Uncommon",
+      "cardNum": "22/76"
+    },
+    {
+      "name": "Clefairy",
+      "set": "Legendary Pulse",
+      "img": "https://den-cards.pokellector.com/294/Clefairy.S3A.23.35032.png",
+      "rarity": "Common",
+      "cardNum": "23/76"
+    },
+    {
+      "name": "Clefable",
+      "set": "Legendary Pulse",
+      "img": "https://den-cards.pokellector.com/294/Clefable.S3A.24.35033.png",
+      "rarity": "Uncommon",
+      "cardNum": "24/76"
+    },
+    {
+      "name": "Girafarig",
+      "set": "Legendary Pulse",
+      "img": "https://den-cards.pokellector.com/294/Girafarig.S3A.25.35034.png",
+      "rarity": "Uncommon",
+      "cardNum": "25/76"
+    },
+    {
+      "name": "Shuppet",
+      "set": "Legendary Pulse",
+      "img": "https://den-cards.pokellector.com/294/Shuppet.S3A.26.35035.png",
+      "rarity": "Common",
+      "cardNum": "26/76"
+    },
+    {
+      "name": "Banette",
+      "set": "Legendary Pulse",
+      "img": "https://den-cards.pokellector.com/294/Banette.S3A.27.35036.png",
+      "rarity": "Uncommon",
+      "cardNum": "27/76"
+    },
+    {
+      "name": "Dedenne",
+      "set": "Legendary Pulse",
+      "img": "https://den-cards.pokellector.com/294/Dedenne.S3A.28.35037.png",
+      "rarity": "Common",
+      "cardNum": "28/76"
+    },
+    {
+      "name": "Xerneas",
+      "set": "Legendary Pulse",
+      "img": "https://den-cards.pokellector.com/294/Xerneas.S3A.29.35038.png",
+      "rarity": "Rare",
+      "cardNum": "29/76"
+    },
+    {
+      "name": "Diancie",
+      "set": "Legendary Pulse",
+      "img": "https://den-cards.pokellector.com/294/Diancie.S3A.30.35039.png",
+      "rarity": "Rare",
+      "cardNum": "30/76"
+    },
+    {
+      "name": "Alcremie V",
+      "set": "Legendary Pulse",
+      "img": "https://den-cards.pokellector.com/294/Alcremie-V.S3A.31.34982.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "31/76"
+    },
+    {
+      "name": "Alcremie VMAX",
+      "set": "Legendary Pulse",
+      "img": "https://den-cards.pokellector.com/294/Alcremie-VMAX.S3A.32.34983.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "32/76"
+    },
+    {
+      "name": "Zacian",
+      "set": "Legendary Pulse",
+      "img": "https://den-cards.pokellector.com/294/Zacian.S3A.33.34980.png",
+      "rarity": "Amazing Rare",
+      "cardNum": "33/76"
+    },
+    {
+      "name": "Wooper",
+      "set": "Legendary Pulse",
+      "img": "https://den-cards.pokellector.com/294/Wooper.S3A.34.35040.png",
+      "rarity": "Common",
+      "cardNum": "34/76"
+    },
+    {
+      "name": "Quagsire",
+      "set": "Legendary Pulse",
+      "img": "https://den-cards.pokellector.com/294/Quagsire.S3A.35.35041.png",
+      "rarity": "Uncommon",
+      "cardNum": "35/76"
+    },
+    {
+      "name": "Shuckle",
+      "set": "Legendary Pulse",
+      "img": "https://den-cards.pokellector.com/294/Shuckle.S3A.36.35042.png",
+      "rarity": "Common",
+      "cardNum": "36/76"
+    },
+    {
+      "name": "Regirock",
+      "set": "Legendary Pulse",
+      "img": "https://den-cards.pokellector.com/294/Regirock.S3A.37.35043.png",
+      "rarity": "Rare",
+      "cardNum": "37/76"
+    },
+    {
+      "name": "Riolu",
+      "set": "Legendary Pulse",
+      "img": "https://den-cards.pokellector.com/294/Riolu.S3A.38.35044.png",
+      "rarity": "Common",
+      "cardNum": "38/76"
+    },
+    {
+      "name": "Zygarde",
+      "set": "Legendary Pulse",
+      "img": "https://den-cards.pokellector.com/294/Zygarde.S3A.39.35045.png",
+      "rarity": "Rare",
+      "cardNum": "39/76"
+    },
+    {
+      "name": "Rockruff",
+      "set": "Legendary Pulse",
+      "img": "https://den-cards.pokellector.com/294/Rockruff.S3A.40.35046.png",
+      "rarity": "Common",
+      "cardNum": "40/76"
+    },
+    {
+      "name": "Lycanroc",
+      "set": "Legendary Pulse",
+      "img": "https://den-cards.pokellector.com/294/Lycanroc.S3A.41.35047.png",
+      "rarity": "Uncommon",
+      "cardNum": "41/76"
+    },
+    {
+      "name": "Coalossal",
+      "set": "Legendary Pulse",
+      "img": "https://den-cards.pokellector.com/294/Coalossal.S3A.42.34987.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "42/76"
+    },
+    {
+      "name": "Coalossal VMAX",
+      "set": "Legendary Pulse",
+      "img": "https://den-cards.pokellector.com/294/Coalossal-VMAX.S3A.43.35048.png",
+      "rarity": "Common",
+      "cardNum": "43/76"
+    },
+    {
+      "name": "Zamazenta",
+      "set": "Legendary Pulse",
+      "img": "https://den-cards.pokellector.com/294/Zamazenta.S3A.44.34981.png",
+      "rarity": "Amazing Rare",
+      "cardNum": "44/76"
+    },
+    {
+      "name": "Forretress",
+      "set": "Legendary Pulse",
+      "img": "https://den-cards.pokellector.com/294/Forretress.S3A.45.35049.png",
+      "rarity": "Uncommon",
+      "cardNum": "45/76"
+    },
+    {
+      "name": "Steelix V",
+      "set": "Legendary Pulse",
+      "img": "https://den-cards.pokellector.com/294/Steelix-V.S3A.46.34988.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "46/76"
+    },
+    {
+      "name": "Beldum",
+      "set": "Legendary Pulse",
+      "img": "https://den-cards.pokellector.com/294/Beldum.S3A.47.35050.png",
+      "rarity": "Common",
+      "cardNum": "47/76"
+    },
+    {
+      "name": "Metang",
+      "set": "Legendary Pulse",
+      "img": "https://den-cards.pokellector.com/294/Metang.S3A.48.35051.png",
+      "rarity": "Common",
+      "cardNum": "48/76"
+    },
+    {
+      "name": "Metagross",
+      "set": "Legendary Pulse",
+      "img": "https://den-cards.pokellector.com/294/Metagross.S3A.49.35000.png",
+      "rarity": "Uncommon",
+      "cardNum": "49/76"
+    },
+    {
+      "name": "Jirachi",
+      "set": "Legendary Pulse",
+      "img": "https://den-cards.pokellector.com/294/Jirachi.S3A.50.34971.png",
+      "rarity": "Amazing Rare",
+      "cardNum": "50/76"
+    },
+    {
+      "name": "Lucario",
+      "set": "Legendary Pulse",
+      "img": "https://den-cards.pokellector.com/294/Lucario.S3A.51.35052.png",
+      "rarity": "Uncommon",
+      "cardNum": "51/76"
+    },
+    {
+      "name": "Dialga",
+      "set": "Legendary Pulse",
+      "img": "https://den-cards.pokellector.com/294/Dialga.S3A.52.35053.png",
+      "rarity": "Rare",
+      "cardNum": "52/76"
+    },
+    {
+      "name": "Galarian Stunfisk",
+      "set": "Legendary Pulse",
+      "img": "https://den-cards.pokellector.com/294/Galarian-Stunfisk.S3A.53.35054.png",
+      "rarity": "Uncommon",
+      "cardNum": "53/76"
+    },
+    {
+      "name": "Magearna",
+      "set": "Legendary Pulse",
+      "img": "https://den-cards.pokellector.com/294/Magearna.S3A.54.35055.png",
+      "rarity": "Rare",
+      "cardNum": "54/76"
+    },
+    {
+      "name": "Lugia",
+      "set": "Legendary Pulse",
+      "img": "https://den-cards.pokellector.com/294/Lugia.S3A.55.35056.png",
+      "rarity": "Rare",
+      "cardNum": "55/76"
+    },
+    {
+      "name": "Rayquaza",
+      "set": "Legendary Pulse",
+      "img": "https://den-cards.pokellector.com/294/Rayquaza.S3A.56.34970.png",
+      "rarity": "Amazing Rare",
+      "cardNum": "56/76"
+    },
+    {
+      "name": "Chatot",
+      "set": "Legendary Pulse",
+      "img": "https://den-cards.pokellector.com/294/Chatot.S3A.57.35057.png",
+      "rarity": "Common",
+      "cardNum": "57/76"
+    },
+    {
+      "name": "Togekiss V",
+      "set": "Legendary Pulse",
+      "img": "https://den-cards.pokellector.com/294/Togekiss-V.S3A.58.34984.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "58/76"
+    },
+    {
+      "name": "Togekiss VMAX",
+      "set": "Legendary Pulse",
+      "img": "https://den-cards.pokellector.com/294/Togekiss-VMAX.S3A.59.34985.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "59/76"
+    },
+    {
+      "name": "Tornadus",
+      "set": "Legendary Pulse",
+      "img": "https://den-cards.pokellector.com/294/Tornadus.S3A.60.35058.png",
+      "rarity": "Rare",
+      "cardNum": "60/76"
+    },
+    {
+      "name": "Pikipek",
+      "set": "Legendary Pulse",
+      "img": "https://den-cards.pokellector.com/294/Pikipek.S3A.61.35059.png",
+      "rarity": "Common",
+      "cardNum": "61/76"
+    },
+    {
+      "name": "Trumbeak",
+      "set": "Legendary Pulse",
+      "img": "https://den-cards.pokellector.com/294/Trumbeak.S3A.62.35060.png",
+      "rarity": "Common",
+      "cardNum": "62/76"
+    },
+    {
+      "name": "Toucannon",
+      "set": "Legendary Pulse",
+      "img": "https://den-cards.pokellector.com/294/Toucannon.S3A.63.35061.png",
+      "rarity": "Uncommon",
+      "cardNum": "63/76"
+    },
+    {
+      "name": "Great Ball",
+      "set": "Legendary Pulse",
+      "img": "https://den-cards.pokellector.com/294/Great-Ball.S3A.64.35062.png",
+      "rarity": "Uncommon",
+      "cardNum": "64/76"
+    },
+    {
+      "name": "Switch",
+      "set": "Legendary Pulse",
+      "img": "https://den-cards.pokellector.com/294/Switch.S3A.65.35063.png",
+      "rarity": "Uncommon",
+      "cardNum": "65/76"
+    },
+    {
+      "name": "Pokémon Catcher",
+      "set": "Legendary Pulse",
+      "img": "https://den-cards.pokellector.com/294/Pokeacutemon-Catcher.S3A.66.35064.png",
+      "rarity": "Uncommon",
+      "cardNum": "66/76"
+    },
+    {
+      "name": "Moomoo Cheese",
+      "set": "Legendary Pulse",
+      "img": "https://den-cards.pokellector.com/294/Moomoo-Cheese.S3A.67.35065.png",
+      "rarity": "Uncommon",
+      "cardNum": "67/76"
+    },
+    {
+      "name": "Hero's Medal",
+      "set": "Legendary Pulse",
+      "img": "https://den-cards.pokellector.com/294/Heros-Medal.S3A.68.35066.png",
+      "rarity": "Uncommon",
+      "cardNum": "68/76"
+    },
+    {
+      "name": "Rocky Helmet",
+      "set": "Legendary Pulse",
+      "img": "https://den-cards.pokellector.com/294/Rocky-Helmet.S3A.69.35067.png",
+      "rarity": "Uncommon",
+      "cardNum": "69/76"
+    },
+    {
+      "name": "Beauty",
+      "set": "Legendary Pulse",
+      "img": "https://den-cards.pokellector.com/294/Beauty.S3A.70.35068.png",
+      "rarity": "Uncommon",
+      "cardNum": "70/76"
+    },
+    {
+      "name": "Allister",
+      "set": "Legendary Pulse",
+      "img": "https://den-cards.pokellector.com/294/Allister.S3A.71.35013.png",
+      "rarity": "Uncommon",
+      "cardNum": "71/76"
+    },
+    {
+      "name": "Opal",
+      "set": "Legendary Pulse",
+      "img": "https://den-cards.pokellector.com/294/Opal.S3A.72.35069.png",
+      "rarity": "Uncommon",
+      "cardNum": "72/76"
+    },
+    {
+      "name": "Marnie",
+      "set": "Legendary Pulse",
+      "img": "https://den-cards.pokellector.com/294/Marnie.S3A.73.35070.png",
+      "rarity": "Uncommon",
+      "cardNum": "73/76"
+    },
+    {
+      "name": "Aroma Energy",
+      "set": "Legendary Pulse",
+      "img": "https://den-cards.pokellector.com/294/Aroma-Energy.S3A.74.35071.png",
+      "rarity": "Uncommon",
+      "cardNum": "74/76"
+    },
+    {
+      "name": "Stone Energy",
+      "set": "Legendary Pulse",
+      "img": "https://den-cards.pokellector.com/294/Stone-Energy.S3A.75.35072.png",
+      "rarity": "Uncommon",
+      "cardNum": "75/76"
+    },
+    {
+      "name": "Twin Energy",
+      "set": "Legendary Pulse",
+      "img": "https://den-cards.pokellector.com/294/Twin-Energy.S3A.76.35073.png",
+      "rarity": "Uncommon",
+      "cardNum": "76/76"
+    },
+    {
+      "name": "Zarude V",
+      "set": "Legendary Pulse",
+      "img": "https://den-cards.pokellector.com/294/Zarude-V.S3A.77.35093.png",
+      "rarity": "Secret Rare",
+      "cardNum": "77/76"
+    },
+    {
+      "name": "Ampharos V",
+      "set": "Legendary Pulse",
+      "img": "https://den-cards.pokellector.com/294/Ampharos-V.S3A.78.35091.png",
+      "rarity": "Secret Rare",
+      "cardNum": "78/76"
+    },
+    {
+      "name": "Alcremie V",
+      "set": "Legendary Pulse",
+      "img": "https://den-cards.pokellector.com/294/Alcremie-V.S3A.79.35084.png",
+      "rarity": "Secret Rare",
+      "cardNum": "79/76"
+    },
+    {
+      "name": "Coalossal V",
+      "set": "Legendary Pulse",
+      "img": "https://den-cards.pokellector.com/294/Coalossal-V.S3A.80.35092.png",
+      "rarity": "Secret Rare",
+      "cardNum": "80/76"
+    },
+    {
+      "name": "Steelix V",
+      "set": "Legendary Pulse",
+      "img": "https://den-cards.pokellector.com/294/Steelix-V.S3A.81.35097.png",
+      "rarity": "Secret Rare",
+      "cardNum": "81/76"
+    },
+    {
+      "name": "Togekiss V",
+      "set": "Legendary Pulse",
+      "img": "https://den-cards.pokellector.com/294/Togekiss-V.S3A.82.35096.png",
+      "rarity": "Secret Rare",
+      "cardNum": "82/76"
+    },
+    {
+      "name": "Beauty",
+      "set": "Legendary Pulse",
+      "img": "https://den-cards.pokellector.com/294/Beauty.S3A.83.35089.png",
+      "rarity": "Secret Rare",
+      "cardNum": "83/76"
+    },
+    {
+      "name": "Allister",
+      "set": "Legendary Pulse",
+      "img": "https://den-cards.pokellector.com/294/Allister.S3A.84.35014.png",
+      "rarity": "Secret Rare",
+      "cardNum": "84/76"
+    },
+    {
+      "name": "Opal",
+      "set": "Legendary Pulse",
+      "img": "https://den-cards.pokellector.com/294/Opal.S3A.85.35090.png",
+      "rarity": "Secret Rare",
+      "cardNum": "85/76"
+    },
+    {
+      "name": "Alcremie VMAX",
+      "set": "Legendary Pulse",
+      "img": "https://den-cards.pokellector.com/294/Alcremie-VMAX.S3A.86.35083.png",
+      "rarity": "Secret Rare",
+      "cardNum": "86/76"
+    },
+    {
+      "name": "Coalossal VMAX",
+      "set": "Legendary Pulse",
+      "img": "https://den-cards.pokellector.com/294/Coalossal-VMAX.S3A.87.35087.png",
+      "rarity": "Secret Rare",
+      "cardNum": "87/76"
+    },
+    {
+      "name": "Togekiss VMAX",
+      "set": "Legendary Pulse",
+      "img": "https://den-cards.pokellector.com/294/Togekiss-VMAX.S3A.87.35088.png",
+      "rarity": "Secret Rare",
+      "cardNum": "88/76"
+    },
+    {
+      "name": "Beauty",
+      "set": "Legendary Pulse",
+      "img": "https://den-cards.pokellector.com/294/Beauty.S3A.89.35086.png",
+      "rarity": "Secret Rare",
+      "cardNum": "89/76"
+    },
+    {
+      "name": "Allister",
+      "set": "Legendary Pulse",
+      "img": "https://den-cards.pokellector.com/294/Allister.S3A.90.35085.png",
+      "rarity": "Secret Rare",
+      "cardNum": "90/76"
+    },
+    {
+      "name": "Opal",
+      "set": "Legendary Pulse",
+      "img": "https://den-cards.pokellector.com/294/Opal.S3A.91.35095.png",
+      "rarity": "Secret Rare",
+      "cardNum": "91/76"
+    },
+    {
+      "name": "Oranguru",
+      "set": "Legendary Pulse",
+      "img": "https://den-cards.pokellector.com/294/Oranguru.S3A.92.35081.png",
+      "rarity": "Secret Rare",
+      "cardNum": "92/76"
+    },
+    {
+      "name": "Hero's Medal",
+      "set": "Legendary Pulse",
+      "img": "https://den-cards.pokellector.com/294/Heros-Medal.S3A.93.35094.png",
+      "rarity": "Secret Rare",
+      "cardNum": "93/76"
+    },
+    {
+      "name": "Toughness Cloak",
+      "set": "Legendary Pulse",
+      "img": "https://den-cards.pokellector.com/294/Toughness-Cloak.S3A.94.35082.png",
+      "rarity": "Secret Rare",
+      "cardNum": "94/76"
+    }
+  ]
+}

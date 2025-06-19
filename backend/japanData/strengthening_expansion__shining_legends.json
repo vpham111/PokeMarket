@@ -1,0 +1,579 @@
+{
+  "setName": "Strengthening Expansion: Shining Legends",
+  "cards": [
+    {
+      "name": "Bulbasaur",
+      "set": "Strengthening Expansion: Shining...",
+      "img": "https://den-cards.pokellector.com/224/Bulbasaur.SM3+.1.18284.png",
+      "rarity": "Common",
+      "cardNum": "1/72"
+    },
+    {
+      "name": "Ivysaur",
+      "set": "Strengthening Expansion: Shining...",
+      "img": "https://den-cards.pokellector.com/224/Ivysaur.SM3+.2.18285.png",
+      "rarity": "Common",
+      "cardNum": "2/72"
+    },
+    {
+      "name": "Venusaur",
+      "set": "Strengthening Expansion: Shining...",
+      "img": "https://den-cards.pokellector.com/224/Venusaur.SM3+.3.18286.png",
+      "rarity": "Uncommon",
+      "cardNum": "3/72"
+    },
+    {
+      "name": "Shining Celebi",
+      "set": "Strengthening Expansion: Shining...",
+      "img": "https://den-cards.pokellector.com/224/Shining-Celebi.SM3+.4.18276.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "4/72"
+    },
+    {
+      "name": "Shroomish",
+      "set": "Strengthening Expansion: Shining...",
+      "img": "https://den-cards.pokellector.com/224/Shroomish.SM3+.5.18287.png",
+      "rarity": "Common",
+      "cardNum": "5/72"
+    },
+    {
+      "name": "Breloom",
+      "set": "Strengthening Expansion: Shining...",
+      "img": "https://den-cards.pokellector.com/224/Breloom.SM3+.6.18288.png",
+      "rarity": "Uncommon",
+      "cardNum": "6/72"
+    },
+    {
+      "name": "Carnivine",
+      "set": "Strengthening Expansion: Shining...",
+      "img": "https://den-cards.pokellector.com/224/Carnivine.SM3+.7.18289.png",
+      "rarity": "Uncommon",
+      "cardNum": "7/72"
+    },
+    {
+      "name": "Shaymin",
+      "set": "Strengthening Expansion: Shining...",
+      "img": "https://den-cards.pokellector.com/224/Shaymin.SM3+.8.18244.png",
+      "rarity": "Rare",
+      "cardNum": "8/72"
+    },
+    {
+      "name": "Virizion",
+      "set": "Strengthening Expansion: Shining...",
+      "img": "https://den-cards.pokellector.com/224/Virizion.SM3+.9.18290.png",
+      "rarity": "Rare",
+      "cardNum": "9/72"
+    },
+    {
+      "name": "Shining Genesect",
+      "set": "Strengthening Expansion: Shining...",
+      "img": "https://den-cards.pokellector.com/224/Shining-Genesect.SM3+.10.18291.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "10/72"
+    },
+    {
+      "name": "Entei GX",
+      "set": "Strengthening Expansion: Shining...",
+      "img": "https://den-cards.pokellector.com/224/Entei-GX.SM3+.11.18245.png",
+      "rarity": "Secret Rare",
+      "cardNum": "11/72"
+    },
+    {
+      "name": "Torkoal",
+      "set": "Strengthening Expansion: Shining...",
+      "img": "https://den-cards.pokellector.com/224/Torkoal.SM3+.12.18292.png",
+      "rarity": "Uncommon",
+      "cardNum": "12/72"
+    },
+    {
+      "name": "Larvesta",
+      "set": "Strengthening Expansion: Shining...",
+      "img": "https://den-cards.pokellector.com/224/Larvesta.SM3+.13.18293.png",
+      "rarity": "Common",
+      "cardNum": "13/72"
+    },
+    {
+      "name": "Volcarona",
+      "set": "Strengthening Expansion: Shining...",
+      "img": "https://den-cards.pokellector.com/224/Volcarona.SM3+.14.18294.png",
+      "rarity": "Uncommon",
+      "cardNum": "14/72"
+    },
+    {
+      "name": "Reshiram",
+      "set": "Strengthening Expansion: Shining...",
+      "img": "https://den-cards.pokellector.com/224/Reshiram.SM3+.15.18243.png",
+      "rarity": "Rare",
+      "cardNum": "15/72"
+    },
+    {
+      "name": "Litten",
+      "set": "Strengthening Expansion: Shining...",
+      "img": "https://den-cards.pokellector.com/224/Litten.SM3+.16.18295.png",
+      "rarity": "Common",
+      "cardNum": "16/72"
+    },
+    {
+      "name": "Torracat",
+      "set": "Strengthening Expansion: Shining...",
+      "img": "https://den-cards.pokellector.com/224/Torracat.SM3+.17.18296.png",
+      "rarity": "Common",
+      "cardNum": "17/72"
+    },
+    {
+      "name": "Incineroar",
+      "set": "Strengthening Expansion: Shining...",
+      "img": "https://den-cards.pokellector.com/224/Inceneroar.SM3+.18.18274.png",
+      "rarity": "Uncommon",
+      "cardNum": "18/72"
+    },
+    {
+      "name": "Totodile",
+      "set": "Strengthening Expansion: Shining...",
+      "img": "https://den-cards.pokellector.com/224/Totodile.SM3+.19.18297.png",
+      "rarity": "Common",
+      "cardNum": "19/72"
+    },
+    {
+      "name": "Croconaw",
+      "set": "Strengthening Expansion: Shining...",
+      "img": "https://den-cards.pokellector.com/224/Croconaw.SM3+.20.18298.png",
+      "rarity": "Common",
+      "cardNum": "20/72"
+    },
+    {
+      "name": "Feraligatr",
+      "set": "Strengthening Expansion: Shining...",
+      "img": "https://den-cards.pokellector.com/224/Feraligatr.SM3+.21.18299.png",
+      "rarity": "Uncommon",
+      "cardNum": "21/72"
+    },
+    {
+      "name": "Qwilfish",
+      "set": "Strengthening Expansion: Shining...",
+      "img": "https://den-cards.pokellector.com/224/Qwilfish.SM3+.22.18280.png",
+      "rarity": "Common",
+      "cardNum": "22/72"
+    },
+    {
+      "name": "Buizel",
+      "set": "Strengthening Expansion: Shining...",
+      "img": "https://den-cards.pokellector.com/224/Buizel.SM3+.23.18300.png",
+      "rarity": "Common",
+      "cardNum": "23/72"
+    },
+    {
+      "name": "Floatzel",
+      "set": "Strengthening Expansion: Shining...",
+      "img": "https://den-cards.pokellector.com/224/Floatzel.SM3+.24.18301.png",
+      "rarity": "Uncommon",
+      "cardNum": "24/72"
+    },
+    {
+      "name": "Palkia",
+      "set": "Strengthening Expansion: Shining...",
+      "img": "https://den-cards.pokellector.com/224/Palkia.SM3+.25.18302.png",
+      "rarity": "Rare",
+      "cardNum": "25/72"
+    },
+    {
+      "name": "Manaphy",
+      "set": "Strengthening Expansion: Shining...",
+      "img": "https://den-cards.pokellector.com/224/Manaphy.SM3+.26.18303.png",
+      "rarity": "Rare",
+      "cardNum": "26/72"
+    },
+    {
+      "name": "Keldeo",
+      "set": "Strengthening Expansion: Shining...",
+      "img": "https://den-cards.pokellector.com/224/Keldeo.SM3+.27.18304.png",
+      "rarity": "Rare",
+      "cardNum": "27/72"
+    },
+    {
+      "name": "Shining Volcanion",
+      "set": "Strengthening Expansion: Shining...",
+      "img": "https://den-cards.pokellector.com/224/Shining-Volcanion.SM3+.28.18305.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "28/72"
+    },
+    {
+      "name": "Pikachu",
+      "set": "Strengthening Expansion: Shining...",
+      "img": "https://den-cards.pokellector.com/224/Pikachu.SM3+.29.18237.png",
+      "rarity": "Common",
+      "cardNum": "29/72"
+    },
+    {
+      "name": "Raichu GX",
+      "set": "Strengthening Expansion: Shining...",
+      "img": "https://den-cards.pokellector.com/224/Raichu-GX.SM3+.30.18270.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "30/72"
+    },
+    {
+      "name": "Voltorb",
+      "set": "Strengthening Expansion: Shining...",
+      "img": "https://den-cards.pokellector.com/224/Voltorb.SM3+.31.18306.png",
+      "rarity": "Common",
+      "cardNum": "31/72"
+    },
+    {
+      "name": "Electrode",
+      "set": "Strengthening Expansion: Shining...",
+      "img": "https://den-cards.pokellector.com/224/Electrode.SM3+.32.18307.png",
+      "rarity": "Uncommon",
+      "cardNum": "32/72"
+    },
+    {
+      "name": "Raikou",
+      "set": "Strengthening Expansion: Shining...",
+      "img": "https://den-cards.pokellector.com/224/Raikou.SM3+.33.18271.png",
+      "rarity": "Rare",
+      "cardNum": "33/72"
+    },
+    {
+      "name": "Plusle",
+      "set": "Strengthening Expansion: Shining...",
+      "img": "https://den-cards.pokellector.com/224/Plusle.SM3+.34.18308.png",
+      "rarity": "Common",
+      "cardNum": "34/72"
+    },
+    {
+      "name": "Minun",
+      "set": "Strengthening Expansion: Shining...",
+      "img": "https://den-cards.pokellector.com/224/Minun.SM3+.35.18309.png",
+      "rarity": "Common",
+      "cardNum": "35/72"
+    },
+    {
+      "name": "Zekrom",
+      "set": "Strengthening Expansion: Shining...",
+      "img": "https://den-cards.pokellector.com/224/Zekrom.SM3+.36.18278.png",
+      "rarity": "Rare",
+      "cardNum": "36/72"
+    },
+    {
+      "name": "Ekans",
+      "set": "Strengthening Expansion: Shining...",
+      "img": "https://den-cards.pokellector.com/224/Ekans.SM3+.37.18310.png",
+      "rarity": "Common",
+      "cardNum": "37/72"
+    },
+    {
+      "name": "Arbok",
+      "set": "Strengthening Expansion: Shining...",
+      "img": "https://den-cards.pokellector.com/224/Arbok.SM3+.38.18311.png",
+      "rarity": "Uncommon",
+      "cardNum": "38/72"
+    },
+    {
+      "name": "Jynx",
+      "set": "Strengthening Expansion: Shining...",
+      "img": "https://den-cards.pokellector.com/224/Jynx.SM3+.39.18312.png",
+      "rarity": "Uncommon",
+      "cardNum": "39/72"
+    },
+    {
+      "name": "Mewtwo GX",
+      "set": "Strengthening Expansion: Shining...",
+      "img": "https://den-cards.pokellector.com/224/Mewtwo-GX.SM3+.40.18238.png",
+      "rarity": "Rare",
+      "cardNum": "40/72"
+    },
+    {
+      "name": "Shining Mew",
+      "set": "Strengthening Expansion: Shining...",
+      "img": "https://den-cards.pokellector.com/224/Shining-Mew.SM3+.41.18147.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "41/72"
+    },
+    {
+      "name": "Latios",
+      "set": "Strengthening Expansion: Shining...",
+      "img": "https://den-cards.pokellector.com/224/Latios.SM3+.42.18313.png",
+      "rarity": "Rare",
+      "cardNum": "42/72"
+    },
+    {
+      "name": "Shining Jirachi",
+      "set": "Strengthening Expansion: Shining...",
+      "img": "https://den-cards.pokellector.com/224/Shining-Jirachi.SM3+.43.18314.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "43/72"
+    },
+    {
+      "name": "Golett",
+      "set": "Strengthening Expansion: Shining...",
+      "img": "https://den-cards.pokellector.com/224/Golett.SM3+.44.18315.png",
+      "rarity": "Common",
+      "cardNum": "44/72"
+    },
+    {
+      "name": "Golurk",
+      "set": "Strengthening Expansion: Shining...",
+      "img": "https://den-cards.pokellector.com/224/Golurk.SM3+.45.18316.png",
+      "rarity": "Uncommon",
+      "cardNum": "45/72"
+    },
+    {
+      "name": "Marshadow",
+      "set": "Strengthening Expansion: Shining...",
+      "img": "https://den-cards.pokellector.com/224/Marshadow.SM3+.46.18148.png",
+      "rarity": "Rare",
+      "cardNum": "46/72"
+    },
+    {
+      "name": "Stunfisk",
+      "set": "Strengthening Expansion: Shining...",
+      "img": "https://den-cards.pokellector.com/224/Stunfisk.SM3+.47.18277.png",
+      "rarity": "Uncommon",
+      "cardNum": "47/72"
+    },
+    {
+      "name": "Spiritomb",
+      "set": "Strengthening Expansion: Shining...",
+      "img": "https://den-cards.pokellector.com/224/Spiritomb.SM3+.48.18317.png",
+      "rarity": "Uncommon",
+      "cardNum": "48/72"
+    },
+    {
+      "name": "Purrloin",
+      "set": "Strengthening Expansion: Shining...",
+      "img": "https://den-cards.pokellector.com/224/Purrloin.SM3+.49.18318.png",
+      "rarity": "Common",
+      "cardNum": "49/72"
+    },
+    {
+      "name": "Liepard",
+      "set": "Strengthening Expansion: Shining...",
+      "img": "https://den-cards.pokellector.com/224/Liepard.SM3+.50.18319.png",
+      "rarity": "Uncommon",
+      "cardNum": "50/72"
+    },
+    {
+      "name": "Scraggy",
+      "set": "Strengthening Expansion: Shining...",
+      "img": "https://den-cards.pokellector.com/224/Scraggy.SM3+.51.18320.png",
+      "rarity": "Common",
+      "cardNum": "51/72"
+    },
+    {
+      "name": "Scrafty",
+      "set": "Strengthening Expansion: Shining...",
+      "img": "https://den-cards.pokellector.com/224/Scrafty.SM3+.52.18321.png",
+      "rarity": "Uncommon",
+      "cardNum": "52/72"
+    },
+    {
+      "name": "Zorua",
+      "set": "Strengthening Expansion: Shining...",
+      "img": "https://den-cards.pokellector.com/224/Zorua.SM3+.53.18322.png",
+      "rarity": "Common",
+      "cardNum": "53/72"
+    },
+    {
+      "name": "Zoroark GX",
+      "set": "Strengthening Expansion: Shining...",
+      "img": "https://den-cards.pokellector.com/224/Zoroark-GX.SM3+.54.18268.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "54/72"
+    },
+    {
+      "name": "Yveltal",
+      "set": "Strengthening Expansion: Shining...",
+      "img": "https://den-cards.pokellector.com/224/Yveltal.SM3+.55.18323.png",
+      "rarity": "Rare",
+      "cardNum": "55/72"
+    },
+    {
+      "name": "Hoopa",
+      "set": "Strengthening Expansion: Shining...",
+      "img": "https://den-cards.pokellector.com/224/Hoopa.SM3+.56.18279.png",
+      "rarity": "Rare",
+      "cardNum": "56/72"
+    },
+    {
+      "name": "Shining Rayquaza",
+      "set": "Strengthening Expansion: Shining...",
+      "img": "https://den-cards.pokellector.com/224/Shining-Rayquaza.SM3+.57.18241.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "57/72"
+    },
+    {
+      "name": "Shining Lugia",
+      "set": "Strengthening Expansion: Shining...",
+      "img": "https://den-cards.pokellector.com/224/Shining-Lugia.SM3+.58.18242.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "58/72"
+    },
+    {
+      "name": "Shining Arceus",
+      "set": "Strengthening Expansion: Shining...",
+      "img": "https://den-cards.pokellector.com/224/Shining-Arceus.SM3+.59.18234.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "59/72"
+    },
+    {
+      "name": "Energy Retrieval",
+      "set": "Strengthening Expansion: Shining...",
+      "img": "https://den-cards.pokellector.com/224/Energy-Retrieval.SM3+.60.18324.png",
+      "rarity": "Uncommon",
+      "cardNum": "60/72"
+    },
+    {
+      "name": "Great Ball",
+      "set": "Strengthening Expansion: Shining...",
+      "img": "https://den-cards.pokellector.com/224/Great-Ball.SM3+.61.18325.png",
+      "rarity": "Uncommon",
+      "cardNum": "61/72"
+    },
+    {
+      "name": "Super Scoop Up",
+      "set": "Strengthening Expansion: Shining...",
+      "img": "https://den-cards.pokellector.com/224/Super-Scoop-Up.SM3+.62.18326.png",
+      "rarity": "Uncommon",
+      "cardNum": "62/72"
+    },
+    {
+      "name": "Damage Mover",
+      "set": "Strengthening Expansion: Shining...",
+      "img": "https://den-cards.pokellector.com/224/Damage-Mover.SM3+.63.18247.png",
+      "rarity": "Uncommon",
+      "cardNum": "63/72"
+    },
+    {
+      "name": "Ultra Ball",
+      "set": "Strengthening Expansion: Shining...",
+      "img": "https://den-cards.pokellector.com/224/Ultra-Ball.SM3+.64.18327.png",
+      "rarity": "Uncommon",
+      "cardNum": "64/72"
+    },
+    {
+      "name": "Switch",
+      "set": "Strengthening Expansion: Shining...",
+      "img": "https://den-cards.pokellector.com/224/Switch.SM3+.65.18328.png",
+      "rarity": "Uncommon",
+      "cardNum": "65/72"
+    },
+    {
+      "name": "Pokemon Catcher",
+      "set": "Strengthening Expansion: Shining...",
+      "img": "https://den-cards.pokellector.com/224/Pokemon-Catcher.SM3+.66.18345.png",
+      "rarity": "Uncommon",
+      "cardNum": "66/72"
+    },
+    {
+      "name": "Hau",
+      "set": "Strengthening Expansion: Shining...",
+      "img": "https://den-cards.pokellector.com/224/Hau.SM3+.67.18329.png",
+      "rarity": "Uncommon",
+      "cardNum": "67/72"
+    },
+    {
+      "name": "Pokemon Breeder",
+      "set": "Strengthening Expansion: Shining...",
+      "img": "https://den-cards.pokellector.com/224/Pokemon-Breeder.SM3+.68.18246.png",
+      "rarity": "Uncommon",
+      "cardNum": "68/72"
+    },
+    {
+      "name": "Sophocles",
+      "set": "Strengthening Expansion: Shining...",
+      "img": "https://den-cards.pokellector.com/224/Sophocles.SM3+.69.18330.png",
+      "rarity": "Uncommon",
+      "cardNum": "69/72"
+    },
+    {
+      "name": "Lillie",
+      "set": "Strengthening Expansion: Shining...",
+      "img": "https://den-cards.pokellector.com/224/Lillie.SM3+.70.18331.png",
+      "rarity": "Uncommon",
+      "cardNum": "70/72"
+    },
+    {
+      "name": "Double Colorless Energy",
+      "set": "Strengthening Expansion: Shining...",
+      "img": "https://den-cards.pokellector.com/224/Double-Colorless-Energy.SM3+.71.18332.png",
+      "rarity": "Uncommon",
+      "cardNum": "71/72"
+    },
+    {
+      "name": "Warp Energy",
+      "set": "Strengthening Expansion: Shining...",
+      "img": "https://den-cards.pokellector.com/224/Warp-Energy.SM3+.72.18333.png",
+      "rarity": "Uncommon",
+      "cardNum": "72/72"
+    },
+    {
+      "name": "Entei GX",
+      "set": "Strengthening Expansion: Shining...",
+      "img": "https://den-cards.pokellector.com/224/Entei-GX.SM3+.73.18334.png",
+      "rarity": "Secret Rare",
+      "cardNum": "73/72"
+    },
+    {
+      "name": "Raichu GX",
+      "set": "Strengthening Expansion: Shining...",
+      "img": "https://den-cards.pokellector.com/224/Raichu-GX.SM3+.74.18335.png",
+      "rarity": "Secret Rare",
+      "cardNum": "74/72"
+    },
+    {
+      "name": "Mewtwo GX",
+      "set": "Strengthening Expansion: Shining...",
+      "img": "https://den-cards.pokellector.com/224/Mewtwo-GX.SM3+.75.18336.png",
+      "rarity": "Secret Rare",
+      "cardNum": "75/72"
+    },
+    {
+      "name": "Zoroark GX",
+      "set": "Strengthening Expansion: Shining...",
+      "img": "https://den-cards.pokellector.com/224/Zoroark-GX.SM3+.76.18337.png",
+      "rarity": "Secret Rare",
+      "cardNum": "76/72"
+    },
+    {
+      "name": "Pokemon Breeder",
+      "set": "Strengthening Expansion: Shining...",
+      "img": "https://den-cards.pokellector.com/224/Pokemon-Breeder.SM3+.77.19331.png",
+      "rarity": "Secret Rare",
+      "cardNum": "77/72"
+    },
+    {
+      "name": "Entei GX",
+      "set": "Strengthening Expansion: Shining...",
+      "img": "https://den-cards.pokellector.com/224/Entei-GX.SM3+.78.18338.png",
+      "rarity": "Secret Rare",
+      "cardNum": "78/72"
+    },
+    {
+      "name": "Raichu GX",
+      "set": "Strengthening Expansion: Shining...",
+      "img": "https://den-cards.pokellector.com/224/Raichu-GX.SM3+.79.18339.png",
+      "rarity": "Secret Rare",
+      "cardNum": "79/72"
+    },
+    {
+      "name": "Mewtwo GX",
+      "set": "Strengthening Expansion: Shining...",
+      "img": "https://den-cards.pokellector.com/224/Mewtwo-GX.SM3+.80.18340.png",
+      "rarity": "Secret Rare",
+      "cardNum": "80/72"
+    },
+    {
+      "name": "Zoroark GX",
+      "set": "Strengthening Expansion: Shining...",
+      "img": "https://den-cards.pokellector.com/224/Zoroark-GX.SM3+.81.18341.png",
+      "rarity": "Secret Rare",
+      "cardNum": "81/72"
+    },
+    {
+      "name": "Mewtwo GX",
+      "set": "Strengthening Expansion: Shining...",
+      "img": "https://den-cards.pokellector.com/224/Mewtwo-GX.SM3+.82.18342.png",
+      "rarity": "Secret Rare",
+      "cardNum": "82/72"
+    }
+  ]
+}

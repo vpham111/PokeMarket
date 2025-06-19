@@ -1,0 +1,110 @@
+{
+  "setName": "McDonald's Match Battle",
+  "cards": [
+    {
+      "name": "Ledyba",
+      "set": "McDonald's Match Battle",
+      "img": "https://den-cards.pokellector.com/353/Ledyba.MCD22.1.44478.png",
+      "rarity": "Common",
+      "cardNum": "1/15"
+    },
+    {
+      "name": "Rowlet",
+      "set": "McDonald's Match Battle",
+      "img": "https://den-cards.pokellector.com/353/Rowlet.MCD22.2.44482.png",
+      "rarity": "Common",
+      "cardNum": "2/15"
+    },
+    {
+      "name": "Gossifleur",
+      "set": "McDonald's Match Battle",
+      "img": "https://den-cards.pokellector.com/353/Gossifleur.MCD22.3.44488.png",
+      "rarity": "Common",
+      "cardNum": "3/15"
+    },
+    {
+      "name": "Growlithe",
+      "set": "McDonald's Match Battle",
+      "img": "https://den-cards.pokellector.com/353/Growlithe.MCD22.4.44479.png",
+      "rarity": "Common",
+      "cardNum": "4/15"
+    },
+    {
+      "name": "Victini",
+      "set": "McDonald's Match Battle",
+      "img": "https://den-cards.pokellector.com/353/Victini.MCD22.5.44491.png",
+      "rarity": "Common",
+      "cardNum": "5/15"
+    },
+    {
+      "name": "Lapras",
+      "set": "McDonald's Match Battle",
+      "img": "https://den-cards.pokellector.com/353/Lapras.MCD22.6.44480.png",
+      "rarity": "Common",
+      "cardNum": "6/15"
+    },
+    {
+      "name": "Pikachu",
+      "set": "McDonald's Match Battle",
+      "img": "https://den-cards.pokellector.com/353/Pikachu.MCD22.7.44483.png",
+      "rarity": "Common",
+      "cardNum": "7/15"
+    },
+    {
+      "name": "Chinchou",
+      "set": "McDonald's Match Battle",
+      "img": "https://den-cards.pokellector.com/353/Chinchou.MCD22.8.44489.png",
+      "rarity": "Common",
+      "cardNum": "8/15"
+    },
+    {
+      "name": "Flaaffy",
+      "set": "McDonald's Match Battle",
+      "img": "https://den-cards.pokellector.com/353/Flaaffy.MCD22.9.44492.png",
+      "rarity": "Common",
+      "cardNum": "9/15"
+    },
+    {
+      "name": "Tynamo",
+      "set": "McDonald's Match Battle",
+      "img": "https://den-cards.pokellector.com/353/Tynamo.MCD22.10.44485.png",
+      "rarity": "Common",
+      "cardNum": "10/15"
+    },
+    {
+      "name": "Cutiefly",
+      "set": "McDonald's Match Battle",
+      "img": "https://den-cards.pokellector.com/353/Cutiefly.MCD22.11.44486.png",
+      "rarity": "Common",
+      "cardNum": "11/15"
+    },
+    {
+      "name": "Bewear",
+      "set": "McDonald's Match Battle",
+      "img": "https://den-cards.pokellector.com/353/Bewear.MCD22.12.44484.png",
+      "rarity": "Common",
+      "cardNum": "12/15"
+    },
+    {
+      "name": "Pangoro",
+      "set": "McDonald's Match Battle",
+      "img": "https://den-cards.pokellector.com/353/Pangoro.MCD22.13.44490.png",
+      "rarity": "Common",
+      "cardNum": "13/15"
+    },
+    {
+      "name": "Drampa",
+      "set": "McDonald's Match Battle",
+      "img": "https://den-cards.pokellector.com/353/Drampa.MCD22.14.44481.png",
+      "rarity": "Common",
+      "cardNum": "14/15"
+    },
+    {
+      "name": "Smeargle",
+      "set": "McDonald's Match Battle",
+      "img": "https://den-cards.pokellector.com/353/Smeargle.MCD22.15.44487.png",
+      "rarity": "Common",
+      "cardNum": "15/15"
+    }
+  ]
+}

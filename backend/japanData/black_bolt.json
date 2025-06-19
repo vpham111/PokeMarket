@@ -1,0 +1,691 @@
+{
+  "setName": "Black Bolt",
+  "cards": [
+    {
+      "name": "Snivy",
+      "set": "Black Bolt",
+      "img": "https://den-cards.pokellector.com/414/Snivy.SV11B.1.57179.png",
+      "rarity": "Common",
+      "cardNum": "1/86"
+    },
+    {
+      "name": "Servine",
+      "set": "Black Bolt",
+      "img": "https://den-cards.pokellector.com/414/Servine.SV11B.2.57180.png",
+      "rarity": "Common",
+      "cardNum": "2/86"
+    },
+    {
+      "name": "Serperior ex",
+      "set": "Black Bolt",
+      "img": "https://den-cards.pokellector.com/414/Serperior-ex.SV11B.3.57181.png",
+      "rarity": "Double Rare",
+      "cardNum": "3/86"
+    },
+    {
+      "name": "Pansage",
+      "set": "Black Bolt",
+      "img": "https://den-cards.pokellector.com/414/Pansage.SV11B.4.57673.png",
+      "rarity": "Common",
+      "cardNum": "4/86"
+    },
+    {
+      "name": "Simisage",
+      "set": "Black Bolt",
+      "img": "https://den-cards.pokellector.com/414/Simisage.SV11B.5.57674.png",
+      "rarity": "Uncommon",
+      "cardNum": "5/86"
+    },
+    {
+      "name": "Petilil",
+      "set": "Black Bolt",
+      "img": "https://den-cards.pokellector.com/414/Petilil.SV11B.6.57675.png",
+      "rarity": "Common",
+      "cardNum": "6/86"
+    },
+    {
+      "name": "Lilligant",
+      "set": "Black Bolt",
+      "img": "https://den-cards.pokellector.com/414/Lilligant.SV11B.7.57676.png",
+      "rarity": "Uncommon",
+      "cardNum": "7/86"
+    },
+    {
+      "name": "Maractus",
+      "set": "Black Bolt",
+      "img": "https://den-cards.pokellector.com/414/Maractus.SV11B.8.57677.png",
+      "rarity": "Common",
+      "cardNum": "8/86"
+    },
+    {
+      "name": "Karrablast",
+      "set": "Black Bolt",
+      "img": "https://den-cards.pokellector.com/414/Karrablast.SV11B.9.57678.png",
+      "rarity": "Common",
+      "cardNum": "9/86"
+    },
+    {
+      "name": "Foongus",
+      "set": "Black Bolt",
+      "img": "https://den-cards.pokellector.com/414/Foongus.SV11B.10.57244.png",
+      "rarity": "Common",
+      "cardNum": "10/86"
+    },
+    {
+      "name": "Amoonguss",
+      "set": "Black Bolt",
+      "img": "https://den-cards.pokellector.com/414/Amoonguss.SV11B.11.57245.png",
+      "rarity": "Uncommon",
+      "cardNum": "11/86"
+    },
+    {
+      "name": "Victini",
+      "set": "Black Bolt",
+      "img": "https://den-cards.pokellector.com/414/Victini.SV11B.12.57182.png",
+      "rarity": "Rare",
+      "cardNum": "12/86"
+    },
+    {
+      "name": "Darumaka",
+      "set": "Black Bolt",
+      "img": "https://den-cards.pokellector.com/414/Darumaka.SV11B.13.57679.png",
+      "rarity": "Common",
+      "cardNum": "13/86"
+    },
+    {
+      "name": "Darmanitan",
+      "set": "Black Bolt",
+      "img": "https://den-cards.pokellector.com/414/Darmanitan.SV11B.14.57680.png",
+      "rarity": "Uncommon",
+      "cardNum": "14/86"
+    },
+    {
+      "name": "Litwick",
+      "set": "Black Bolt",
+      "img": "https://den-cards.pokellector.com/414/Litwick.SV11B.15.57260.png",
+      "rarity": "Common",
+      "cardNum": "15/86"
+    },
+    {
+      "name": "Lampent",
+      "set": "Black Bolt",
+      "img": "https://den-cards.pokellector.com/414/Lampent.SV11B.16.57259.png",
+      "rarity": "Common",
+      "cardNum": "16/86"
+    },
+    {
+      "name": "Chandelure",
+      "set": "Black Bolt",
+      "img": "https://den-cards.pokellector.com/414/Chandelure.SV11B.17.57258.png",
+      "rarity": "Rare",
+      "cardNum": "17/86"
+    },
+    {
+      "name": "Larvesta",
+      "set": "Black Bolt",
+      "img": "https://den-cards.pokellector.com/414/Larvesta.SV11B.18.57681.png",
+      "rarity": "Common",
+      "cardNum": "18/86"
+    },
+    {
+      "name": "Volcarona",
+      "set": "Black Bolt",
+      "img": "https://den-cards.pokellector.com/414/Volcarona.SV11B.19.57682.png",
+      "rarity": "Rare",
+      "cardNum": "19/86"
+    },
+    {
+      "name": "Panpour",
+      "set": "Black Bolt",
+      "img": "https://den-cards.pokellector.com/414/Panpour.SV11B.20.57683.png",
+      "rarity": "Common",
+      "cardNum": "20/86"
+    },
+    {
+      "name": "Simipour",
+      "set": "Black Bolt",
+      "img": "https://den-cards.pokellector.com/414/Simipour.SV11B.21.57684.png",
+      "rarity": "Uncommon",
+      "cardNum": "21/86"
+    },
+    {
+      "name": "Tympole",
+      "set": "Black Bolt",
+      "img": "https://den-cards.pokellector.com/414/Tympole.SV11B.22.57685.png",
+      "rarity": "Common",
+      "cardNum": "22/86"
+    },
+    {
+      "name": "Palpitoad",
+      "set": "Black Bolt",
+      "img": "https://den-cards.pokellector.com/414/Palpitoad.SV11B.23.57686.png",
+      "rarity": "Common",
+      "cardNum": "23/86"
+    },
+    {
+      "name": "Seismitoad",
+      "set": "Black Bolt",
+      "img": "https://den-cards.pokellector.com/414/Seismitoad.SV11B.24.57687.png",
+      "rarity": "Uncommon",
+      "cardNum": "24/86"
+    },
+    {
+      "name": "Tirtouga",
+      "set": "Black Bolt",
+      "img": "https://den-cards.pokellector.com/414/Tirtouga.SV11B.25.57688.png",
+      "rarity": "Uncommon",
+      "cardNum": "25/86"
+    },
+    {
+      "name": "Carracosta",
+      "set": "Black Bolt",
+      "img": "https://den-cards.pokellector.com/414/Carracosta.SV11B.26.57689.png",
+      "rarity": "Rare",
+      "cardNum": "26/86"
+    },
+    {
+      "name": "Alomomola",
+      "set": "Black Bolt",
+      "img": "https://den-cards.pokellector.com/414/Alomomola.SV11B.27.57690.png",
+      "rarity": "Uncommon",
+      "cardNum": "27/86"
+    },
+    {
+      "name": "Cubchoo",
+      "set": "Black Bolt",
+      "img": "https://den-cards.pokellector.com/414/Cubchoo.SV11B.28.57691.png",
+      "rarity": "Common",
+      "cardNum": "28/86"
+    },
+    {
+      "name": "Beartic",
+      "set": "Black Bolt",
+      "img": "https://den-cards.pokellector.com/414/Beartic.SV11B.29.57692.png",
+      "rarity": "Rare",
+      "cardNum": "29/86"
+    },
+    {
+      "name": "Cryogonal",
+      "set": "Black Bolt",
+      "img": "https://den-cards.pokellector.com/414/Cryogonal.SV11B.30.57693.png",
+      "rarity": "Uncommon",
+      "cardNum": "30/86"
+    },
+    {
+      "name": "Kyurem ex",
+      "set": "Black Bolt",
+      "img": "https://den-cards.pokellector.com/414/Kyurem-ex.SV11B.31.57178.png",
+      "rarity": "Double Rare",
+      "cardNum": "31/86"
+    },
+    {
+      "name": "Emolga",
+      "set": "Black Bolt",
+      "img": "https://den-cards.pokellector.com/414/Emolga.SV11B.32.57694.png",
+      "rarity": "Common",
+      "cardNum": "32/86"
+    },
+    {
+      "name": "Tynamo",
+      "set": "Black Bolt",
+      "img": "https://den-cards.pokellector.com/414/Tynamo.SV11B.33.57175.png",
+      "rarity": "Common",
+      "cardNum": "33/86"
+    },
+    {
+      "name": "Eelektrik",
+      "set": "Black Bolt",
+      "img": "https://den-cards.pokellector.com/414/Eelektrik.SV11B.34.57176.png",
+      "rarity": "Uncommon",
+      "cardNum": "34/86"
+    },
+    {
+      "name": "Eelektross",
+      "set": "Black Bolt",
+      "img": "https://den-cards.pokellector.com/414/Eelektross.SV11B.35.57177.png",
+      "rarity": "Uncommon",
+      "cardNum": "35/86"
+    },
+    {
+      "name": "Thundurus",
+      "set": "Black Bolt",
+      "img": "https://den-cards.pokellector.com/414/Thundurus.SV11B.36.57239.png",
+      "rarity": "Rare",
+      "cardNum": "36/86"
+    },
+    {
+      "name": "Zekrom ex",
+      "set": "Black Bolt",
+      "img": "https://den-cards.pokellector.com/414/Zekrom-ex.SV11B.37.57171.png",
+      "rarity": "Double Rare",
+      "cardNum": "37/86"
+    },
+    {
+      "name": "Gothita",
+      "set": "Black Bolt",
+      "img": "https://den-cards.pokellector.com/414/Gothita.SV11B.38.57264.png",
+      "rarity": "Common",
+      "cardNum": "38/86"
+    },
+    {
+      "name": "Gothorita",
+      "set": "Black Bolt",
+      "img": "https://den-cards.pokellector.com/414/Gothorita.SV11B.39.57265.png",
+      "rarity": "Common",
+      "cardNum": "39/86"
+    },
+    {
+      "name": "Solosis",
+      "set": "Black Bolt",
+      "img": "https://den-cards.pokellector.com/414/Solosis.SV11B.40.57250.png",
+      "rarity": "Common",
+      "cardNum": "40/86"
+    },
+    {
+      "name": "Solosis",
+      "set": "Black Bolt",
+      "img": "https://den-cards.pokellector.com/414/Solosis.SV11B.40.57250.png",
+      "rarity": "Common",
+      "cardNum": "40/86"
+    },
+    {
+      "name": "Duosion",
+      "set": "Black Bolt",
+      "img": "https://den-cards.pokellector.com/414/Duosion.SV11B.41.57251.png",
+      "rarity": "Common",
+      "cardNum": "41/86"
+    },
+    {
+      "name": "Reuniclus",
+      "set": "Black Bolt",
+      "img": "https://den-cards.pokellector.com/414/Reuniclus.SV11B.42.57252.png",
+      "rarity": "Uncommon",
+      "cardNum": "42/86"
+    },
+    {
+      "name": "Elgyem",
+      "set": "Black Bolt",
+      "img": "https://den-cards.pokellector.com/414/Elgyem.SV11B.43.57695.png",
+      "rarity": "Common",
+      "cardNum": "43/86"
+    },
+    {
+      "name": "Beheeyem",
+      "set": "Black Bolt",
+      "img": "https://den-cards.pokellector.com/414/Beheeyem.SV11B.44.57696.png",
+      "rarity": "Uncommon",
+      "cardNum": "44/86"
+    },
+    {
+      "name": "Golett",
+      "set": "Black Bolt",
+      "img": "https://den-cards.pokellector.com/414/Golett.SV11B.45.57697.png",
+      "rarity": "Common",
+      "cardNum": "45/86"
+    },
+    {
+      "name": "Golurk",
+      "set": "Black Bolt",
+      "img": "https://den-cards.pokellector.com/414/Golurk.SV11B.46.57698.png",
+      "rarity": "Uncommon",
+      "cardNum": "46/86"
+    },
+    {
+      "name": "Meloetta ex",
+      "set": "Black Bolt",
+      "img": "https://den-cards.pokellector.com/414/Meloetta-ex.SV11B.47.57699.png",
+      "rarity": "Double Rare",
+      "cardNum": "47/86"
+    },
+    {
+      "name": "Drilbur",
+      "set": "Black Bolt",
+      "img": "https://den-cards.pokellector.com/414/Drilbur.SV11B.48.57700.png",
+      "rarity": "Common",
+      "cardNum": "48/86"
+    },
+    {
+      "name": "Excadrill ex",
+      "set": "Black Bolt",
+      "img": "https://den-cards.pokellector.com/414/Excadrill-ex.SV11B.49.57701.png",
+      "rarity": "Double Rare",
+      "cardNum": "49/86"
+    },
+    {
+      "name": "Timburr",
+      "set": "Black Bolt",
+      "img": "https://den-cards.pokellector.com/414/Timburr.SV11B.50.57702.png",
+      "rarity": "Common",
+      "cardNum": "50/86"
+    },
+    {
+      "name": "Gurdurr",
+      "set": "Black Bolt",
+      "img": "https://den-cards.pokellector.com/414/Gurdurr.SV11B.51.57703.png",
+      "rarity": "Common",
+      "cardNum": "51/86"
+    },
+    {
+      "name": "Conkeldurr",
+      "set": "Black Bolt",
+      "img": "https://den-cards.pokellector.com/414/Conkeldurr.SV11B.52.57704.png",
+      "rarity": "Rare",
+      "cardNum": "52/86"
+    },
+    {
+      "name": "Throh",
+      "set": "Black Bolt",
+      "img": "https://den-cards.pokellector.com/414/Throh.SV11B.53.57705.png",
+      "rarity": "Uncommon",
+      "cardNum": "53/86"
+    },
+    {
+      "name": "Dwebble",
+      "set": "Black Bolt",
+      "img": "https://den-cards.pokellector.com/414/Dwebble.SV11B.54.57706.png",
+      "rarity": "Common",
+      "cardNum": "54/86"
+    },
+    {
+      "name": "Crustle",
+      "set": "Black Bolt",
+      "img": "https://den-cards.pokellector.com/414/Crustle.SV11B.55.57707.png",
+      "rarity": "Uncommon",
+      "cardNum": "55/86"
+    },
+    {
+      "name": "Landorus",
+      "set": "Black Bolt",
+      "img": "https://den-cards.pokellector.com/414/Landorus.SV11B.56.57236.png",
+      "rarity": "Rare",
+      "cardNum": "56/86"
+    },
+    {
+      "name": "Venipede",
+      "set": "Black Bolt",
+      "img": "https://den-cards.pokellector.com/414/Venipede.SV11B.57.57708.png",
+      "rarity": "Common",
+      "cardNum": "57/86"
+    },
+    {
+      "name": "Whirlipede",
+      "set": "Black Bolt",
+      "img": "https://den-cards.pokellector.com/414/Whirlipede.SV11B.58.57709.png",
+      "rarity": "Common",
+      "cardNum": "58/86"
+    },
+    {
+      "name": "Scolipede",
+      "set": "Black Bolt",
+      "img": "https://den-cards.pokellector.com/414/Scolipede.SV11B.59.57710.png",
+      "rarity": "Uncommon",
+      "cardNum": "59/86"
+    },
+    {
+      "name": "Sandile",
+      "set": "Black Bolt",
+      "img": "https://den-cards.pokellector.com/414/Sandile.SV11B.60.57711.png",
+      "rarity": "Common",
+      "cardNum": "60/86"
+    },
+    {
+      "name": "Krokorok",
+      "set": "Black Bolt",
+      "img": "https://den-cards.pokellector.com/414/Krokorok.SV11B.61.57712.png",
+      "rarity": "Common",
+      "cardNum": "61/86"
+    },
+    {
+      "name": "Krookodile",
+      "set": "Black Bolt",
+      "img": "https://den-cards.pokellector.com/414/Krookodile.SV11B.62.57713.png",
+      "rarity": "Uncommon",
+      "cardNum": "62/86"
+    },
+    {
+      "name": "Vullaby",
+      "set": "Black Bolt",
+      "img": "https://den-cards.pokellector.com/414/Vullaby.SV11B.63.57261.png",
+      "rarity": "Common",
+      "cardNum": "63/86"
+    },
+    {
+      "name": "Mandibuzz",
+      "set": "Black Bolt",
+      "img": "https://den-cards.pokellector.com/414/Mandibuzz.SV11B.64.57262.png",
+      "rarity": "Uncommon",
+      "cardNum": "64/86"
+    },
+    {
+      "name": "Escavalier",
+      "set": "Black Bolt",
+      "img": "https://den-cards.pokellector.com/414/Escavalier.SV11B.65.57714.png",
+      "rarity": "Uncommon",
+      "cardNum": "65/86"
+    },
+    {
+      "name": "Pawniard",
+      "set": "Black Bolt",
+      "img": "https://den-cards.pokellector.com/414/Pawniard.SV11B.66.57715.png",
+      "rarity": "Common",
+      "cardNum": "66/86"
+    },
+    {
+      "name": "Bisharp",
+      "set": "Black Bolt",
+      "img": "https://den-cards.pokellector.com/414/Bisharp.SV11B.67.57716.png",
+      "rarity": "Uncommon",
+      "cardNum": "67/86"
+    },
+    {
+      "name": "Cobalion",
+      "set": "Black Bolt",
+      "img": "https://den-cards.pokellector.com/414/Cobalion.SV11B.68.57717.png",
+      "rarity": "Rare",
+      "cardNum": "68/86"
+    },
+    {
+      "name": "Genesect ex",
+      "set": "Black Bolt",
+      "img": "https://den-cards.pokellector.com/414/Genesect-ex.SV11B.69.57718.png",
+      "rarity": "Double Rare",
+      "cardNum": "69/86"
+    },
+    {
+      "name": "Axew",
+      "set": "Black Bolt",
+      "img": "https://den-cards.pokellector.com/414/Axew.SV11B.70.57719.png",
+      "rarity": "Common",
+      "cardNum": "70/86"
+    },
+    {
+      "name": "Fraxure",
+      "set": "Black Bolt",
+      "img": "https://den-cards.pokellector.com/414/Fraxure.SV11B.71.57720.png",
+      "rarity": "Common",
+      "cardNum": "71/86"
+    },
+    {
+      "name": "Haxorus",
+      "set": "Black Bolt",
+      "img": "https://den-cards.pokellector.com/414/Haxorus.SV11B.72.57721.png",
+      "rarity": "Rare",
+      "cardNum": "72/86"
+    },
+    {
+      "name": "Pidove",
+      "set": "Black Bolt",
+      "img": "https://den-cards.pokellector.com/414/Pidove.SV11B.73.57722.png",
+      "rarity": "Common",
+      "cardNum": "73/86"
+    },
+    {
+      "name": "Tranquill",
+      "set": "Black Bolt",
+      "img": "https://den-cards.pokellector.com/414/Tranquill.SV11B.74.57723.png",
+      "rarity": "Common",
+      "cardNum": "74/86"
+    },
+    {
+      "name": "Unfezant",
+      "set": "Black Bolt",
+      "img": "https://den-cards.pokellector.com/414/Unfezant.SV11B.75.57724.png",
+      "rarity": "Uncommon",
+      "cardNum": "75/86"
+    },
+    {
+      "name": "Audino",
+      "set": "Black Bolt",
+      "img": "https://den-cards.pokellector.com/414/Audino.SV11B.76.57725.png",
+      "rarity": "Common",
+      "cardNum": "76/86"
+    },
+    {
+      "name": "Minccino",
+      "set": "Black Bolt",
+      "img": "https://den-cards.pokellector.com/414/Minccino.SV11B.77.57726.png",
+      "rarity": "Common",
+      "cardNum": "77/86"
+    },
+    {
+      "name": "Tornadus",
+      "set": "Black Bolt",
+      "img": "https://den-cards.pokellector.com/414/Tornadus.SV11B.78.57240.png",
+      "rarity": "Rare",
+      "cardNum": "78/86"
+    },
+    {
+      "name": "Energy Coin",
+      "set": "Black Bolt",
+      "img": "https://den-cards.pokellector.com/414/Energy-Coin.SV11B.79.57727.png",
+      "rarity": "Uncommon",
+      "cardNum": "79/86"
+    },
+    {
+      "name": "Antique Cover Fossil",
+      "set": "Black Bolt",
+      "img": "https://den-cards.pokellector.com/414/Antique-Cover-Fossil.SV11B.80.57728.png",
+      "rarity": "Common",
+      "cardNum": "80/86"
+    },
+    {
+      "name": "Pokégear 3.0",
+      "set": "Black Bolt",
+      "img": "https://den-cards.pokellector.com/414/Pokgear-30.SV11B.81.57729.png",
+      "rarity": "Uncommon",
+      "cardNum": "81/86"
+    },
+    {
+      "name": "Air Balloon",
+      "set": "Black Bolt",
+      "img": "https://den-cards.pokellector.com/414/Air-Balloon.SV11B.82.57188.png",
+      "rarity": "Uncommon",
+      "cardNum": "82/86"
+    },
+    {
+      "name": "N's Plot",
+      "set": "Black Bolt",
+      "img": "https://den-cards.pokellector.com/414/Ns-Plot.SV11B.83.57730.png",
+      "rarity": "Uncommon",
+      "cardNum": "83/86"
+    },
+    {
+      "name": "Professor's Research",
+      "set": "Black Bolt",
+      "img": "https://den-cards.pokellector.com/414/Professors-Research.SV11W.84.57191.png",
+      "rarity": "Uncommon",
+      "cardNum": "84/86"
+    },
+    {
+      "name": "Fennel",
+      "set": "Black Bolt",
+      "img": "https://den-cards.pokellector.com/414/Fennel.SV11B.85.57731.png",
+      "rarity": "Uncommon",
+      "cardNum": "85/86"
+    },
+    {
+      "name": "Prism Energy",
+      "set": "Black Bolt",
+      "img": "https://den-cards.pokellector.com/414/Prism-Energy.SV11B.86.57187.png",
+      "rarity": "Uncommon",
+      "cardNum": "86/86"
+    },
+    {
+      "name": "Snivy",
+      "set": "Black Bolt",
+      "img": "https://den-cards.pokellector.com/414/Snivy.SV11B.87.57183.png",
+      "rarity": "Art Rare",
+      "cardNum": "87/86"
+    },
+    {
+      "name": "Servine",
+      "set": "Black Bolt",
+      "img": "https://den-cards.pokellector.com/414/Servine.SV11B.88.57184.png",
+      "rarity": "Art Rare",
+      "cardNum": "88/86"
+    },
+    {
+      "name": "Victini",
+      "set": "Black Bolt",
+      "img": "https://den-cards.pokellector.com/414/Victini.SV11B.97.57186.png",
+      "rarity": "Art Rare",
+      "cardNum": "97/86"
+    },
+    {
+      "name": "Chandelure",
+      "set": "Black Bolt",
+      "img": "https://den-cards.pokellector.com/414/Chandelure.SV11B.102.57257.png",
+      "rarity": "Art Rare",
+      "cardNum": "102/86"
+    },
+    {
+      "name": "Thundurus",
+      "set": "Black Bolt",
+      "img": "https://den-cards.pokellector.com/414/Thundurus.SV11B.120.57238.png",
+      "rarity": "Art Rare",
+      "cardNum": "120/86"
+    },
+    {
+      "name": "Landorus",
+      "set": "Black Bolt",
+      "img": "https://den-cards.pokellector.com/414/Landorus.SV11B.137.57237.png",
+      "rarity": "Art Rare",
+      "cardNum": "137/86"
+    },
+    {
+      "name": "Bisharp",
+      "set": "Black Bolt",
+      "img": "https://www.pokellector.com/images/card-placeholder.png",
+      "rarity": "Art Rare",
+      "cardNum": "148/86"
+    },
+    {
+      "name": "Unfezant",
+      "set": "Black Bolt",
+      "img": "https://www.pokellector.com/images/card-placeholder.png",
+      "rarity": "Art Rare",
+      "cardNum": "155/86"
+    },
+    {
+      "name": "Tornadus",
+      "set": "Black Bolt",
+      "img": "https://den-cards.pokellector.com/414/Tornadus.SV11B.158.57241.png",
+      "rarity": "Art Rare",
+      "cardNum": "158/86"
+    },
+    {
+      "name": "Serperior ex",
+      "set": "Black Bolt",
+      "img": "https://den-cards.pokellector.com/414/Serperior-ex.SV11B.167.57185.png",
+      "rarity": "Special Art Rare",
+      "cardNum": "167/86"
+    },
+    {
+      "name": "Zekrom ex",
+      "set": "Black Bolt",
+      "img": "https://den-cards.pokellector.com/414/Zekrom-ex.SV11B.174.57173.png",
+      "rarity": "B Double Rare",
+      "cardNum": "174/86"
+    }
+  ]
+}

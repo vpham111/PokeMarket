@@ -1,0 +1,621 @@
+{
+  "setName": "Awakening of Psychic Kings",
+  "cards": [
+    {
+      "name": "Shuckle",
+      "set": "Awakening of Psychic Kings",
+      "img": "https://den-cards.pokellector.com/184/Shuckle.XY10.1.png",
+      "rarity": "Common",
+      "cardNum": "1/78"
+    },
+    {
+      "name": "Burmy",
+      "set": "Awakening of Psychic Kings",
+      "img": "https://den-cards.pokellector.com/184/Burmy.XY10.2.png",
+      "rarity": "Common",
+      "cardNum": "2/78"
+    },
+    {
+      "name": "Wormadam",
+      "set": "Awakening of Psychic Kings",
+      "img": "https://den-cards.pokellector.com/184/Wormadam.XY10.3.png",
+      "rarity": "Common",
+      "cardNum": "3/78"
+    },
+    {
+      "name": "Mothim",
+      "set": "Awakening of Psychic Kings",
+      "img": "https://den-cards.pokellector.com/184/Mothim.XY10.4.png",
+      "rarity": "Uncommon",
+      "cardNum": "4/78"
+    },
+    {
+      "name": "Snivy",
+      "set": "Awakening of Psychic Kings",
+      "img": "https://den-cards.pokellector.com/184/Snivy.XY10.5.png",
+      "rarity": "Common",
+      "cardNum": "5/78"
+    },
+    {
+      "name": "Servine",
+      "set": "Awakening of Psychic Kings",
+      "img": "https://den-cards.pokellector.com/184/Moltres.XY10.6.png",
+      "rarity": "Uncommon",
+      "cardNum": "6/78"
+    },
+    {
+      "name": "Serperior",
+      "set": "Awakening of Psychic Kings",
+      "img": "https://den-cards.pokellector.com/184/Serperior.XY10.7.png",
+      "rarity": "Uncommon",
+      "cardNum": "7/78"
+    },
+    {
+      "name": "Moltres",
+      "set": "Awakening of Psychic Kings",
+      "img": "https://den-cards.pokellector.com/184/Moltres.XY10.8.png",
+      "rarity": "Uncommon",
+      "cardNum": "8/78"
+    },
+    {
+      "name": "Fennekin",
+      "set": "Awakening of Psychic Kings",
+      "img": "https://den-cards.pokellector.com/184/Fennekin.XY10.9.png",
+      "rarity": "Common",
+      "cardNum": "9/78"
+    },
+    {
+      "name": "Braixen",
+      "set": "Awakening of Psychic Kings",
+      "img": "https://den-cards.pokellector.com/184/Braixen.XY10.10.png",
+      "rarity": "Common",
+      "cardNum": "10/78"
+    },
+    {
+      "name": "Delphox",
+      "set": "Awakening of Psychic Kings",
+      "img": "https://den-cards.pokellector.com/184/Delphox.XY10.11.png",
+      "rarity": "Rare",
+      "cardNum": "11/78"
+    },
+    {
+      "name": "Delphox BREAK",
+      "set": "Awakening of Psychic Kings",
+      "img": "https://den-cards.pokellector.com/184/Delphox-BREAK.XY10.12.png",
+      "rarity": "Rare",
+      "cardNum": "12/78"
+    },
+    {
+      "name": "Seel",
+      "set": "Awakening of Psychic Kings",
+      "img": "https://den-cards.pokellector.com/184/Seel.XY10.13.png",
+      "rarity": "Common",
+      "cardNum": "13/78"
+    },
+    {
+      "name": "Dewgong",
+      "set": "Awakening of Psychic Kings",
+      "img": "https://den-cards.pokellector.com/184/Dewgong.XY10.14.png",
+      "rarity": "Uncommon",
+      "cardNum": "14/78"
+    },
+    {
+      "name": "Omanyte",
+      "set": "Awakening of Psychic Kings",
+      "img": "https://den-cards.pokellector.com/184/Omanyte.XY10.15.png",
+      "rarity": "Common",
+      "cardNum": "15/78"
+    },
+    {
+      "name": "Omastar",
+      "set": "Awakening of Psychic Kings",
+      "img": "https://den-cards.pokellector.com/184/Omastar.XY10.16.png",
+      "rarity": "Uncommon",
+      "cardNum": "16/78"
+    },
+    {
+      "name": "Omastar BREAK",
+      "set": "Awakening of Psychic Kings",
+      "img": "https://den-cards.pokellector.com/184/Omastar-BREAK.XY10.17.png",
+      "rarity": "Rare",
+      "cardNum": "17/78"
+    },
+    {
+      "name": "Glaceon EX",
+      "set": "Awakening of Psychic Kings",
+      "img": "https://den-cards.pokellector.com/184/Glaceon-EX.XY10.18.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "18/78"
+    },
+    {
+      "name": "White Kyurem",
+      "set": "Awakening of Psychic Kings",
+      "img": "https://den-cards.pokellector.com/184/White-Kyurem.XY10.19.png",
+      "rarity": "Rare",
+      "cardNum": "19/78"
+    },
+    {
+      "name": "Binacle",
+      "set": "Awakening of Psychic Kings",
+      "img": "https://den-cards.pokellector.com/184/Binacle.XY10.20.png",
+      "rarity": "Common",
+      "cardNum": "20/78"
+    },
+    {
+      "name": "Barbaracle",
+      "set": "Awakening of Psychic Kings",
+      "img": "https://den-cards.pokellector.com/184/Barbaracle.XY10.21.png",
+      "rarity": "Common",
+      "cardNum": "21/78"
+    },
+    {
+      "name": "Rotom",
+      "set": "Awakening of Psychic Kings",
+      "img": "https://den-cards.pokellector.com/184/Rotom.XY10.22.png",
+      "rarity": "Uncommon",
+      "cardNum": "22/78"
+    },
+    {
+      "name": "Alakazam EX",
+      "set": "Awakening of Psychic Kings",
+      "img": "https://den-cards.pokellector.com/184/Alakazam-EX.XY10.23.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "23/78"
+    },
+    {
+      "name": "M Alakazam EX",
+      "set": "Awakening of Psychic Kings",
+      "img": "https://den-cards.pokellector.com/184/M-Alakazam-EX.XY10.24.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "24/78"
+    },
+    {
+      "name": "Koffing",
+      "set": "Awakening of Psychic Kings",
+      "img": "https://den-cards.pokellector.com/184/Koffing.XY10.25.png",
+      "rarity": "Common",
+      "cardNum": "25/78"
+    },
+    {
+      "name": "Weezing",
+      "set": "Awakening of Psychic Kings",
+      "img": "https://den-cards.pokellector.com/184/Weezing.XY10.26.png",
+      "rarity": "Common",
+      "cardNum": "26/78"
+    },
+    {
+      "name": "Mew",
+      "set": "Awakening of Psychic Kings",
+      "img": "https://den-cards.pokellector.com/184/Mew.XY10.27.png",
+      "rarity": "Rare",
+      "cardNum": "27/78"
+    },
+    {
+      "name": "Spoink",
+      "set": "Awakening of Psychic Kings",
+      "img": "https://den-cards.pokellector.com/184/Spoink.XY10.28.png",
+      "rarity": "Common",
+      "cardNum": "28/78"
+    },
+    {
+      "name": "Grumpig",
+      "set": "Awakening of Psychic Kings",
+      "img": "https://den-cards.pokellector.com/184/Grumpig.XY10.29.png",
+      "rarity": "Common",
+      "cardNum": "29/78"
+    },
+    {
+      "name": "Solosis",
+      "set": "Awakening of Psychic Kings",
+      "img": "https://den-cards.pokellector.com/184/Solosis.XY10.30.png",
+      "rarity": "Common",
+      "cardNum": "30/78"
+    },
+    {
+      "name": "Duosion",
+      "set": "Awakening of Psychic Kings",
+      "img": "https://den-cards.pokellector.com/184/Duosion.XY10.31.png",
+      "rarity": "Common",
+      "cardNum": "31/78"
+    },
+    {
+      "name": "Reuniclus",
+      "set": "Awakening of Psychic Kings",
+      "img": "https://den-cards.pokellector.com/184/Reuniclus.XY10.32.png",
+      "rarity": "Uncommon",
+      "cardNum": "32/78"
+    },
+    {
+      "name": "Kabuto",
+      "set": "Awakening of Psychic Kings",
+      "img": "https://den-cards.pokellector.com/184/Kabuto.XY10.33.png",
+      "rarity": "Common",
+      "cardNum": "33/78"
+    },
+    {
+      "name": "Kabutops",
+      "set": "Awakening of Psychic Kings",
+      "img": "https://den-cards.pokellector.com/184/Kabutops.XY10.34.png",
+      "rarity": "Uncommon",
+      "cardNum": "34/78"
+    },
+    {
+      "name": "Larvitar",
+      "set": "Awakening of Psychic Kings",
+      "img": "https://den-cards.pokellector.com/184/Larvitar.XY10.35.png",
+      "rarity": "Common",
+      "cardNum": "35/78"
+    },
+    {
+      "name": "Pupitar",
+      "set": "Awakening of Psychic Kings",
+      "img": "https://den-cards.pokellector.com/184/Pupitar.XY10.36.png",
+      "rarity": "Common",
+      "cardNum": "36/78"
+    },
+    {
+      "name": "Wormadam",
+      "set": "Awakening of Psychic Kings",
+      "img": "https://den-cards.pokellector.com/184/Wormadam.XY10.37.png",
+      "rarity": "Common",
+      "cardNum": "37/78"
+    },
+    {
+      "name": "Riolu",
+      "set": "Awakening of Psychic Kings",
+      "img": "https://den-cards.pokellector.com/184/Riolu.XY10.38.png",
+      "rarity": "Common",
+      "cardNum": "38/78"
+    },
+    {
+      "name": "Carbink",
+      "set": "Awakening of Psychic Kings",
+      "img": "https://den-cards.pokellector.com/184/Carbink.XY10.39.png",
+      "rarity": "Common",
+      "cardNum": "39/78"
+    },
+    {
+      "name": "Zygarde",
+      "set": "Awakening of Psychic Kings",
+      "img": "https://den-cards.pokellector.com/184/Zygarde.XY10.40.png",
+      "rarity": "Uncommon",
+      "cardNum": "40/78"
+    },
+    {
+      "name": "Zygarde",
+      "set": "Awakening of Psychic Kings",
+      "img": "https://den-cards.pokellector.com/184/Zygarde.XY10.41.png",
+      "rarity": "Rare",
+      "cardNum": "41/78"
+    },
+    {
+      "name": "Umbreon EX",
+      "set": "Awakening of Psychic Kings",
+      "img": "https://den-cards.pokellector.com/184/Umbreon-EX.XY10.42.png",
+      "rarity": "Rare",
+      "cardNum": "42/78"
+    },
+    {
+      "name": "Tyranitar",
+      "set": "Awakening of Psychic Kings",
+      "img": "https://den-cards.pokellector.com/184/Tyranitar.XY10.43.png",
+      "rarity": "Rare",
+      "cardNum": "43/78"
+    },
+    {
+      "name": "Vullaby",
+      "set": "Awakening of Psychic Kings",
+      "img": "https://den-cards.pokellector.com/184/Vullaby.XY10.44.png",
+      "rarity": "Common",
+      "cardNum": "44/78"
+    },
+    {
+      "name": "Mandibuzz",
+      "set": "Awakening of Psychic Kings",
+      "img": "https://den-cards.pokellector.com/184/Mandibuzz.XY10.45.png",
+      "rarity": "Common",
+      "cardNum": "45/78"
+    },
+    {
+      "name": "Wormadam",
+      "set": "Awakening of Psychic Kings",
+      "img": "https://den-cards.pokellector.com/184/Wormadam.XY10.46.png",
+      "rarity": "Common",
+      "cardNum": "46/78"
+    },
+    {
+      "name": "Bronzor",
+      "set": "Awakening of Psychic Kings",
+      "img": "https://den-cards.pokellector.com/184/Bronzor.XY10.47.png",
+      "rarity": "Common",
+      "cardNum": "47/78"
+    },
+    {
+      "name": "Bronzong",
+      "set": "Awakening of Psychic Kings",
+      "img": "https://den-cards.pokellector.com/184/Bronzong.XY10.48.png",
+      "rarity": "Uncommon",
+      "cardNum": "48/78"
+    },
+    {
+      "name": "Bronzong BREAK",
+      "set": "Awakening of Psychic Kings",
+      "img": "https://den-cards.pokellector.com/184/Bronzong-BREAK.XY10.49.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "49/78"
+    },
+    {
+      "name": "Lucario",
+      "set": "Awakening of Psychic Kings",
+      "img": "https://den-cards.pokellector.com/184/Riolu.XY10.50.png",
+      "rarity": "Rare",
+      "cardNum": "50/78"
+    },
+    {
+      "name": "Genesect EX",
+      "set": "Awakening of Psychic Kings",
+      "img": "https://den-cards.pokellector.com/184/Genesect-EX.XY10.51.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "51/78"
+    },
+    {
+      "name": "Jigglypuff",
+      "set": "Awakening of Psychic Kings",
+      "img": "https://den-cards.pokellector.com/184/Jigglypuff.XY10.52.png",
+      "rarity": "Common",
+      "cardNum": "52/78"
+    },
+    {
+      "name": "Wigglytuff",
+      "set": "Awakening of Psychic Kings",
+      "img": "https://den-cards.pokellector.com/184/Wigglytuff.XY10.53.png",
+      "rarity": "Uncommon",
+      "cardNum": "53/78"
+    },
+    {
+      "name": "M Altaria EX",
+      "set": "Awakening of Psychic Kings",
+      "img": "https://den-cards.pokellector.com/184/M-Altaria-EX.XY10.54.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "54/78"
+    },
+    {
+      "name": "Kingdra EX",
+      "set": "Awakening of Psychic Kings",
+      "img": "https://den-cards.pokellector.com/184/Kingdra.XY10.55.png",
+      "rarity": "Rare",
+      "cardNum": "55/78"
+    },
+    {
+      "name": "Aerodactyl",
+      "set": "Awakening of Psychic Kings",
+      "img": "https://den-cards.pokellector.com/184/Aerodactyl.XY10.56.png",
+      "rarity": "Uncommon",
+      "cardNum": "56/78"
+    },
+    {
+      "name": "Snorlax",
+      "set": "Awakening of Psychic Kings",
+      "img": "https://den-cards.pokellector.com/184/Snorlax.XY10.57.png",
+      "rarity": "Common",
+      "cardNum": "57/78"
+    },
+    {
+      "name": "Lugia",
+      "set": "Awakening of Psychic Kings",
+      "img": "https://den-cards.pokellector.com/184/Lugia.XY10.58.png",
+      "rarity": "Rare",
+      "cardNum": "58/78"
+    },
+    {
+      "name": "Lugia BREAK",
+      "set": "Awakening of Psychic Kings",
+      "img": "https://den-cards.pokellector.com/184/Lugia-BREAK.XY10.59.png",
+      "rarity": "Rare",
+      "cardNum": "59/78"
+    },
+    {
+      "name": "Whismur",
+      "set": "Awakening of Psychic Kings",
+      "img": "https://den-cards.pokellector.com/184/Whismur.XY10.60.png",
+      "rarity": "Common",
+      "cardNum": "60/78"
+    },
+    {
+      "name": "Loudred",
+      "set": "Awakening of Psychic Kings",
+      "img": "https://den-cards.pokellector.com/184/Loudred.XY10.61.png",
+      "rarity": "Common",
+      "cardNum": "61/78"
+    },
+    {
+      "name": "Exploud",
+      "set": "Awakening of Psychic Kings",
+      "img": "https://den-cards.pokellector.com/184/Exploud.XY10.62.png",
+      "rarity": "Uncommon",
+      "cardNum": "62/78"
+    },
+    {
+      "name": "Altaria EX",
+      "set": "Awakening of Psychic Kings",
+      "img": "https://den-cards.pokellector.com/184/Altaria-EX.XY10.63.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "63/78"
+    },
+    {
+      "name": "Minccino",
+      "set": "Awakening of Psychic Kings",
+      "img": "https://den-cards.pokellector.com/184/Minccino.XY10.44.png",
+      "rarity": "Common",
+      "cardNum": "64/78"
+    },
+    {
+      "name": "Cinccino",
+      "set": "Awakening of Psychic Kings",
+      "img": "https://den-cards.pokellector.com/184/Cinccino.XY10.65.png",
+      "rarity": "Common",
+      "cardNum": "65/78"
+    },
+    {
+      "name": "Fossil Excavation Kit",
+      "set": "Awakening of Psychic Kings",
+      "img": "https://den-cards.pokellector.com/184/Fossil-Excavation-Kit.XY10.66.png",
+      "rarity": "Uncommon",
+      "cardNum": "66/78"
+    },
+    {
+      "name": "Devolution Spray",
+      "set": "Awakening of Psychic Kings",
+      "img": "https://den-cards.pokellector.com/184/Devolution-Spray.XY10.67.png",
+      "rarity": "Uncommon",
+      "cardNum": "67/78"
+    },
+    {
+      "name": "Mega Catcher",
+      "set": "Awakening of Psychic Kings",
+      "img": "https://den-cards.pokellector.com/184/Mega-Catcher.XY10.68.png",
+      "rarity": "Uncommon",
+      "cardNum": "68/78"
+    },
+    {
+      "name": "Helix Fossil Omanyte",
+      "set": "Awakening of Psychic Kings",
+      "img": "https://den-cards.pokellector.com/184/Helix-Fossil-Omanyte.XY10.69.png",
+      "rarity": "Common",
+      "cardNum": "69/78"
+    },
+    {
+      "name": "Dome Fossil Kabuto",
+      "set": "Awakening of Psychic Kings",
+      "img": "https://den-cards.pokellector.com/184/Dome-Fossil-Kabuto.XY10.70.png",
+      "rarity": "Common",
+      "cardNum": "70/78"
+    },
+    {
+      "name": "Old Amber Aerodactyl",
+      "set": "Awakening of Psychic Kings",
+      "img": "https://den-cards.pokellector.com/184/Old-Amber-Aerodactyl.XY10.71.png",
+      "rarity": "Common",
+      "cardNum": "71/78"
+    },
+    {
+      "name": "Energy Pouch",
+      "set": "Awakening of Psychic Kings",
+      "img": "https://den-cards.pokellector.com/184/Energy-Pouch.XY10.72.png",
+      "rarity": "Uncommon",
+      "cardNum": "72/78"
+    },
+    {
+      "name": "Twisted Spoon",
+      "set": "Awakening of Psychic Kings",
+      "img": "https://den-cards.pokellector.com/184/Twisted-Spoon.XY10.73.png",
+      "rarity": "Uncommon",
+      "cardNum": "73/78"
+    },
+    {
+      "name": "Altaria Spirit Link",
+      "set": "Awakening of Psychic Kings",
+      "img": "https://den-cards.pokellector.com/184/Altaria-Spirit-Link.XY10.74.png",
+      "rarity": "Uncommon",
+      "cardNum": "74/78"
+    },
+    {
+      "name": "Alakazam Spirit Link",
+      "set": "Awakening of Psychic Kings",
+      "img": "https://den-cards.pokellector.com/184/Alakazam-Spirit-Link.XY10.75.png",
+      "rarity": "Uncommon",
+      "cardNum": "75/78"
+    },
+    {
+      "name": "N",
+      "set": "Awakening of Psychic Kings",
+      "img": "https://den-cards.pokellector.com/184/N.XY10.76.png",
+      "rarity": "Uncommon",
+      "cardNum": "76/78"
+    },
+    {
+      "name": "Team Rocket's Handiwork",
+      "set": "Awakening of Psychic Kings",
+      "img": "https://den-cards.pokellector.com/184/Team-Rockets-Handiwork.XY10.77.png",
+      "rarity": "Uncommon",
+      "cardNum": "77/78"
+    },
+    {
+      "name": "Chaos Tower",
+      "set": "Awakening of Psychic Kings",
+      "img": "https://den-cards.pokellector.com/184/Chaos-Tower.XY10.78.png",
+      "rarity": "Uncommon",
+      "cardNum": "78/78"
+    },
+    {
+      "name": "Glaceon EX",
+      "set": "Awakening of Psychic Kings",
+      "img": "https://den-cards.pokellector.com/184/Glaceon-EX.XY10.79.png",
+      "rarity": "Secret Rare",
+      "cardNum": "79/78"
+    },
+    {
+      "name": "Alakazam EX",
+      "set": "Awakening of Psychic Kings",
+      "img": "https://den-cards.pokellector.com/184/Alakazam-EX.XY10.80.png",
+      "rarity": "Secret Rare",
+      "cardNum": "80/78"
+    },
+    {
+      "name": "M Alakazam EX",
+      "set": "Awakening of Psychic Kings",
+      "img": "https://den-cards.pokellector.com/184/M-Alakazam-EX.XY10.81.png",
+      "rarity": "Secret Rare",
+      "cardNum": "81/78"
+    },
+    {
+      "name": "Umbreon EX",
+      "set": "Awakening of Psychic Kings",
+      "img": "https://den-cards.pokellector.com/184/Umbreon-EX.XY10.82.png",
+      "rarity": "Secret Rare",
+      "cardNum": "82/78"
+    },
+    {
+      "name": "Genesect EX",
+      "set": "Awakening of Psychic Kings",
+      "img": "https://den-cards.pokellector.com/184/Genesect-EX.XY10.83.png",
+      "rarity": "Secret Rare",
+      "cardNum": "83/78"
+    },
+    {
+      "name": "M Altaria EX",
+      "set": "Awakening of Psychic Kings",
+      "img": "https://den-cards.pokellector.com/184/M-Altaria-EX.XY10.84.png",
+      "rarity": "Secret Rare",
+      "cardNum": "84/78"
+    },
+    {
+      "name": "Kingdra EX",
+      "set": "Awakening of Psychic Kings",
+      "img": "https://den-cards.pokellector.com/184/Kingdra-EX.XY10.85.png",
+      "rarity": "Secret Rare",
+      "cardNum": "85/78"
+    },
+    {
+      "name": "Altaria EX",
+      "set": "Awakening of Psychic Kings",
+      "img": "https://den-cards.pokellector.com/184/Altaria-EX.XY10.86.png",
+      "rarity": "Secret Rare",
+      "cardNum": "86/78"
+    },
+    {
+      "name": "Team Rocket's Handiwork",
+      "set": "Awakening of Psychic Kings",
+      "img": "https://den-cards.pokellector.com/184/Team-Rockets-Handiwork.XY10.87.png",
+      "rarity": "Secret Rare",
+      "cardNum": "87/78"
+    },
+    {
+      "name": "Alakazam EX",
+      "set": "Awakening of Psychic Kings",
+      "img": "https://den-cards.pokellector.com/184/Alakazam-EX.XY10.88.png",
+      "rarity": "Secret Rare",
+      "cardNum": "88/78"
+    }
+  ]
+}

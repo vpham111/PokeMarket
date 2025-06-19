@@ -1,0 +1,733 @@
+{
+  "setName": "Black & White Promos",
+  "cards": [
+    {
+      "name": "Snivy",
+      "set": "Black & White Promos",
+      "img": "https://den-cards.pokellector.com/9/Snivy.BW.1.png",
+      "rarity": "Common",
+      "cardNum": "1/101"
+    },
+    {
+      "name": "Tepig",
+      "set": "Black & White Promos",
+      "img": "https://den-cards.pokellector.com/9/Tepig.BW.2.png",
+      "rarity": "Common",
+      "cardNum": "2/101"
+    },
+    {
+      "name": "Oshawott",
+      "set": "Black & White Promos",
+      "img": "https://den-cards.pokellector.com/9/Oshawott.BW.3.png",
+      "rarity": "Common",
+      "cardNum": "3/101"
+    },
+    {
+      "name": "Reshiram",
+      "set": "Black & White Promos",
+      "img": "https://den-cards.pokellector.com/9/Reshiram.BW.4.png",
+      "rarity": "Common",
+      "cardNum": "4/101"
+    },
+    {
+      "name": "Zekrom",
+      "set": "Black & White Promos",
+      "img": "https://den-cards.pokellector.com/9/Zekrom.BW.5.png",
+      "rarity": "Common",
+      "cardNum": "5/101"
+    },
+    {
+      "name": "Snivy",
+      "set": "Black & White Promos",
+      "img": "https://den-cards.pokellector.com/9/Snivy.BW.6.png",
+      "rarity": "Common",
+      "cardNum": "6/101"
+    },
+    {
+      "name": "Tepig",
+      "set": "Black & White Promos",
+      "img": "https://den-cards.pokellector.com/9/Tepig.BW.7.png",
+      "rarity": "Common",
+      "cardNum": "7/101"
+    },
+    {
+      "name": "Oshawott",
+      "set": "Black & White Promos",
+      "img": "https://den-cards.pokellector.com/9/Oshawott.BW.8.png",
+      "rarity": "Common",
+      "cardNum": "8/101"
+    },
+    {
+      "name": "Zoroark",
+      "set": "Black & White Promos",
+      "img": "https://den-cards.pokellector.com/9/Zoroark.BW.9.png",
+      "rarity": "Common",
+      "cardNum": "9/101"
+    },
+    {
+      "name": "Axew",
+      "set": "Black & White Promos",
+      "img": "https://den-cards.pokellector.com/9/Axew.BW.10.png",
+      "rarity": "Common",
+      "cardNum": "10/101"
+    },
+    {
+      "name": "Pansage",
+      "set": "Black & White Promos",
+      "img": "https://den-cards.pokellector.com/9/Pansage.BW.11.png",
+      "rarity": "Common",
+      "cardNum": "11/101"
+    },
+    {
+      "name": "Zorua",
+      "set": "Black & White Promos",
+      "img": "https://den-cards.pokellector.com/9/Zorua.BW.12.png",
+      "rarity": "Common",
+      "cardNum": "12/101"
+    },
+    {
+      "name": "Minccino",
+      "set": "Black & White Promos",
+      "img": "https://den-cards.pokellector.com/9/Minccino.BW.13.png",
+      "rarity": "Common",
+      "cardNum": "13/101"
+    },
+    {
+      "name": "Pansage",
+      "set": "Black & White Promos",
+      "img": "https://den-cards.pokellector.com/9/Pansage.BW.14.png",
+      "rarity": "Common",
+      "cardNum": "14/101"
+    },
+    {
+      "name": "Pidove",
+      "set": "Black & White Promos",
+      "img": "https://den-cards.pokellector.com/9/Pidove.BW.15.png",
+      "rarity": "Common",
+      "cardNum": "15/101"
+    },
+    {
+      "name": "Axew",
+      "set": "Black & White Promos",
+      "img": "https://den-cards.pokellector.com/9/Axew.BW.16.png",
+      "rarity": "Common",
+      "cardNum": "16/101"
+    },
+    {
+      "name": "Ducklett",
+      "set": "Black & White Promos",
+      "img": "https://den-cards.pokellector.com/9/Ducklett.BW.17.png",
+      "rarity": "Common",
+      "cardNum": "17/101"
+    },
+    {
+      "name": "Darumaka",
+      "set": "Black & White Promos",
+      "img": "https://den-cards.pokellector.com/9/Darumaka.BW.18.png",
+      "rarity": "Common",
+      "cardNum": "18/101"
+    },
+    {
+      "name": "Zoroark",
+      "set": "Black & White Promos",
+      "img": "https://den-cards.pokellector.com/9/Zoroark.BW.19.png",
+      "rarity": "Common",
+      "cardNum": "19/101"
+    },
+    {
+      "name": "Serperior",
+      "set": "Black & White Promos",
+      "img": "https://den-cards.pokellector.com/9/Serperior.BW.20.png",
+      "rarity": "Common",
+      "cardNum": "20/101"
+    },
+    {
+      "name": "Emboar",
+      "set": "Black & White Promos",
+      "img": "https://den-cards.pokellector.com/9/Emboar.BW.21.png",
+      "rarity": "Common",
+      "cardNum": "21/101"
+    },
+    {
+      "name": "Samurott",
+      "set": "Black & White Promos",
+      "img": "https://den-cards.pokellector.com/9/Samurott.BW.22.png",
+      "rarity": "Common",
+      "cardNum": "22/101"
+    },
+    {
+      "name": "Reshiram",
+      "set": "Black & White Promos",
+      "img": "https://den-cards.pokellector.com/9/Reshiram.BW.23.png",
+      "rarity": "Common",
+      "cardNum": "23/101"
+    },
+    {
+      "name": "Zekrom",
+      "set": "Black & White Promos",
+      "img": "https://den-cards.pokellector.com/9/Zekrom.BW.24.png",
+      "rarity": "Common",
+      "cardNum": "24/101"
+    },
+    {
+      "name": "Scraggy",
+      "set": "Black & White Promos",
+      "img": "https://den-cards.pokellector.com/9/Scraggy.BW.25.png",
+      "rarity": "Common",
+      "cardNum": "25/101"
+    },
+    {
+      "name": "Axew",
+      "set": "Black & White Promos",
+      "img": "https://den-cards.pokellector.com/9/Axew.BW.26.png",
+      "rarity": "Common",
+      "cardNum": "26/101"
+    },
+    {
+      "name": "Litwick",
+      "set": "Black & White Promos",
+      "img": "https://den-cards.pokellector.com/9/Litwick.BW.27.png",
+      "rarity": "Common",
+      "cardNum": "27/101"
+    },
+    {
+      "name": "Tropical Beach",
+      "set": "Black & White Promos",
+      "img": "https://den-cards.pokellector.com/9/Tropical-Beach.BW.28.png",
+      "rarity": "Common",
+      "cardNum": "28/101"
+    },
+    {
+      "name": "Victory Cup (3rd Place)",
+      "set": "Black & White Promos",
+      "img": "https://den-cards.pokellector.com/9/Victory-Cup-3rd-Place.BW.29.png",
+      "rarity": "Common",
+      "cardNum": "29/101"
+    },
+    {
+      "name": "Victory Cup (2nd Place)",
+      "set": "Black & White Promos",
+      "img": "https://den-cards.pokellector.com/9/Victory-Cup-2nd-Place.BW.30.png",
+      "rarity": "Common",
+      "cardNum": "30/101"
+    },
+    {
+      "name": "Victory Cup (1st Place)",
+      "set": "Black & White Promos",
+      "img": "https://den-cards.pokellector.com/9/Victory-Cup-1st-Place.BW.31.png",
+      "rarity": "Common",
+      "cardNum": "31/101"
+    },
+    {
+      "name": "Victini",
+      "set": "Black & White Promos",
+      "img": "https://den-cards.pokellector.com/9/Victini.BW.32.png",
+      "rarity": "Common",
+      "cardNum": "32/101"
+    },
+    {
+      "name": "Riolu",
+      "set": "Black & White Promos",
+      "img": "https://den-cards.pokellector.com/9/Riolu.BW.33.png",
+      "rarity": "Common",
+      "cardNum": "33/101"
+    },
+    {
+      "name": "Luxio",
+      "set": "Black & White Promos",
+      "img": "https://den-cards.pokellector.com/9/Luxio.BW.34.png",
+      "rarity": "Common",
+      "cardNum": "34/101"
+    },
+    {
+      "name": "Meowth",
+      "set": "Black & White Promos",
+      "img": "https://den-cards.pokellector.com/9/Meowth.BW.35.png",
+      "rarity": "Common",
+      "cardNum": "35/101"
+    },
+    {
+      "name": "Reshiram EX",
+      "set": "Black & White Promos",
+      "img": "https://den-cards.pokellector.com/9/Reshiram-EX.BW.36.png",
+      "rarity": "Common",
+      "cardNum": "36/101"
+    },
+    {
+      "name": "Kyurem EX",
+      "set": "Black & White Promos",
+      "img": "https://den-cards.pokellector.com/9/Kyurem-EX.BW.37.png",
+      "rarity": "Common",
+      "cardNum": "37/101"
+    },
+    {
+      "name": "Zekrom EX",
+      "set": "Black & White Promos",
+      "img": "https://den-cards.pokellector.com/9/Zekrom-EX.BW.38.png",
+      "rarity": "Common",
+      "cardNum": "38/101"
+    },
+    {
+      "name": "Battle City",
+      "set": "Black & White Promos",
+      "img": "https://den-cards.pokellector.com/9/Battle-City.BW.39.png",
+      "rarity": "Common",
+      "cardNum": "39/101"
+    },
+    {
+      "name": "Volcarona",
+      "set": "Black & White Promos",
+      "img": "https://den-cards.pokellector.com/9/Volcarona.BW.40.png",
+      "rarity": "Common",
+      "cardNum": "40/101"
+    },
+    {
+      "name": "Thundurus",
+      "set": "Black & White Promos",
+      "img": "https://den-cards.pokellector.com/9/Thundurus.BW.41.png",
+      "rarity": "Common",
+      "cardNum": "41/101"
+    },
+    {
+      "name": "Tornadus",
+      "set": "Black & White Promos",
+      "img": "https://den-cards.pokellector.com/9/Tornadus.BW.42.png",
+      "rarity": "Common",
+      "cardNum": "42/101"
+    },
+    {
+      "name": "Landorus",
+      "set": "Black & White Promos",
+      "img": "https://den-cards.pokellector.com/9/Landorus.BW.43.png",
+      "rarity": "Common",
+      "cardNum": "43/101"
+    },
+    {
+      "name": "Kyurem",
+      "set": "Black & White Promos",
+      "img": "https://den-cards.pokellector.com/9/Kyurem.BW.44.png",
+      "rarity": "Common",
+      "cardNum": "44/101"
+    },
+    {
+      "name": "Mewtwo EX",
+      "set": "Black & White Promos",
+      "img": "https://den-cards.pokellector.com/9/Mewtwo-EX.BW.45.png",
+      "rarity": "Common",
+      "cardNum": "45/101"
+    },
+    {
+      "name": "Darkrai EX",
+      "set": "Black & White Promos",
+      "img": "https://den-cards.pokellector.com/9/Darkrai-EX.BW.46.png",
+      "rarity": "Common",
+      "cardNum": "46/101"
+    },
+    {
+      "name": "Rayquaza EX",
+      "set": "Black & White Promos",
+      "img": "https://den-cards.pokellector.com/9/Rayquaza-EX.BW.47.png",
+      "rarity": "Common",
+      "cardNum": "47/101"
+    },
+    {
+      "name": "Altaria",
+      "set": "Black & White Promos",
+      "img": "https://den-cards.pokellector.com/9/Altaria.BW.48.png",
+      "rarity": "Common",
+      "cardNum": "48/101"
+    },
+    {
+      "name": "Lilligant",
+      "set": "Black & White Promos",
+      "img": "https://den-cards.pokellector.com/9/Lilligant.BW.49.png",
+      "rarity": "Common",
+      "cardNum": "49/101"
+    },
+    {
+      "name": "Tropical Beach",
+      "set": "Black & White Promos",
+      "img": "https://den-cards.pokellector.com/9/Tropical-Beach.BW.50.png",
+      "rarity": "Common",
+      "cardNum": "50/101"
+    },
+    {
+      "name": "Crobat",
+      "set": "Black & White Promos",
+      "img": "https://den-cards.pokellector.com/9/Crobat.BW.51.png",
+      "rarity": "Common",
+      "cardNum": "51/101"
+    },
+    {
+      "name": "Lillipup",
+      "set": "Black & White Promos",
+      "img": "https://den-cards.pokellector.com/9/Lillipup.BW.52.png",
+      "rarity": "Common",
+      "cardNum": "52/101"
+    },
+    {
+      "name": "Flygon",
+      "set": "Black & White Promos",
+      "img": "https://den-cards.pokellector.com/9/Flygon.BW.53.png",
+      "rarity": "Common",
+      "cardNum": "53/101"
+    },
+    {
+      "name": "Pikachu",
+      "set": "Black & White Promos",
+      "img": "https://den-cards.pokellector.com/9/Pikachu.BW.54.png",
+      "rarity": "Common",
+      "cardNum": "54/101"
+    },
+    {
+      "name": "Elgyem",
+      "set": "Black & White Promos",
+      "img": "https://den-cards.pokellector.com/9/Elgyem.BW.55.png",
+      "rarity": "Common",
+      "cardNum": "55/101"
+    },
+    {
+      "name": "Empoleon",
+      "set": "Black & White Promos",
+      "img": "https://den-cards.pokellector.com/9/Empoleon.BW.56.png",
+      "rarity": "Common",
+      "cardNum": "56/101"
+    },
+    {
+      "name": "Haxorus",
+      "set": "Black & White Promos",
+      "img": "https://den-cards.pokellector.com/9/Haxorus.BW.57.png",
+      "rarity": "Common",
+      "cardNum": "57/101"
+    },
+    {
+      "name": "Black Kyurem",
+      "set": "Black & White Promos",
+      "img": "https://den-cards.pokellector.com/9/Black-Kyurem.BW.58.png",
+      "rarity": "Common",
+      "cardNum": "58/101"
+    },
+    {
+      "name": "White Kyurem",
+      "set": "Black & White Promos",
+      "img": "https://den-cards.pokellector.com/9/White-Kyurem.BW.59.png",
+      "rarity": "Common",
+      "cardNum": "59/101"
+    },
+    {
+      "name": "Keldeo",
+      "set": "Black & White Promos",
+      "img": "https://den-cards.pokellector.com/9/Keldeo.BW.60.png",
+      "rarity": "Common",
+      "cardNum": "60/101"
+    },
+    {
+      "name": "Keldeo EX",
+      "set": "Black & White Promos",
+      "img": "https://den-cards.pokellector.com/9/Keldeo-EX.BW.61.png",
+      "rarity": "Common",
+      "cardNum": "61/101"
+    },
+    {
+      "name": "Black Kyurem EX",
+      "set": "Black & White Promos",
+      "img": "https://den-cards.pokellector.com/9/Black-Kyurem-EX.BW.62.png",
+      "rarity": "Common",
+      "cardNum": "62/101"
+    },
+    {
+      "name": "White Kyurem EX",
+      "set": "Black & White Promos",
+      "img": "https://den-cards.pokellector.com/9/White-Kyurem-EX.BW.63.png",
+      "rarity": "Common",
+      "cardNum": "63/101"
+    },
+    {
+      "name": "Drifblim",
+      "set": "Black & White Promos",
+      "img": "https://den-cards.pokellector.com/9/Drifblim.BW.64.png",
+      "rarity": "Common",
+      "cardNum": "64/101"
+    },
+    {
+      "name": "Jigglypuff",
+      "set": "Black & White Promos",
+      "img": "https://den-cards.pokellector.com/9/Jigglypuff.BW.65.png",
+      "rarity": "Common",
+      "cardNum": "65/101"
+    },
+    {
+      "name": "Ninetales",
+      "set": "Black & White Promos",
+      "img": "https://den-cards.pokellector.com/9/Ninetales.BW.66.png",
+      "rarity": "Common",
+      "cardNum": "66/101"
+    },
+    {
+      "name": "Ampharos",
+      "set": "Black & White Promos",
+      "img": "https://den-cards.pokellector.com/9/Ampharos.BW.67.png",
+      "rarity": "Common",
+      "cardNum": "67/101"
+    },
+    {
+      "name": "Meloetta",
+      "set": "Black & White Promos",
+      "img": "https://den-cards.pokellector.com/9/Meloetta.BW.68.png",
+      "rarity": "Common",
+      "cardNum": "68/101"
+    },
+    {
+      "name": "Meloetta",
+      "set": "Black & White Promos",
+      "img": "https://den-cards.pokellector.com/9/Meloetta.BW.69.png",
+      "rarity": "Common",
+      "cardNum": "69/101"
+    },
+    {
+      "name": "Virizion",
+      "set": "Black & White Promos",
+      "img": "https://den-cards.pokellector.com/9/Virizion.BW.70.png",
+      "rarity": "Common",
+      "cardNum": "70/101"
+    },
+    {
+      "name": "Terrakion",
+      "set": "Black & White Promos",
+      "img": "https://den-cards.pokellector.com/9/Terrakion.BW.71.png",
+      "rarity": "Common",
+      "cardNum": "71/101"
+    },
+    {
+      "name": "Cobalion",
+      "set": "Black & White Promos",
+      "img": "https://den-cards.pokellector.com/9/Cobalion.BW.72.png",
+      "rarity": "Common",
+      "cardNum": "72/101"
+    },
+    {
+      "name": "Darkrai",
+      "set": "Black & White Promos",
+      "img": "https://den-cards.pokellector.com/9/Darkrai.BW.73.png",
+      "rarity": "Common",
+      "cardNum": "73/101"
+    },
+    {
+      "name": "Giratina",
+      "set": "Black & White Promos",
+      "img": "https://den-cards.pokellector.com/9/Giratina.BW.74.png",
+      "rarity": "Common",
+      "cardNum": "74/101"
+    },
+    {
+      "name": "Metagross",
+      "set": "Black & White Promos",
+      "img": "https://den-cards.pokellector.com/9/Metagross.BW.75.png",
+      "rarity": "Common",
+      "cardNum": "75/101"
+    },
+    {
+      "name": "Electrode",
+      "set": "Black & White Promos",
+      "img": "https://den-cards.pokellector.com/9/Electrode.BW.76.png",
+      "rarity": "Common",
+      "cardNum": "76/101"
+    },
+    {
+      "name": "Pikachu (Unreleased)",
+      "set": "Black & White Promos",
+      "img": "https://den-cards.pokellector.com/9/Pikachu-Unreleased.BW.77.9514.png",
+      "rarity": "Common",
+      "cardNum": "77/101"
+    },
+    {
+      "name": "Raichu (Unreleased)",
+      "set": "Black & White Promos",
+      "img": "https://den-cards.pokellector.com/9/Raichu-Unreleased.BW.78.9515.png",
+      "rarity": "Common",
+      "cardNum": "78/101"
+    },
+    {
+      "name": "Landorus",
+      "set": "Black & White Promos",
+      "img": "https://den-cards.pokellector.com/9/Landorus.BW.79.png",
+      "rarity": "Common",
+      "cardNum": "79/101"
+    },
+    {
+      "name": "Druddigon",
+      "set": "Black & White Promos",
+      "img": "https://den-cards.pokellector.com/9/Druddigon.BW.80.png",
+      "rarity": "Common",
+      "cardNum": "80/101"
+    },
+    {
+      "name": "Thundurus EX",
+      "set": "Black & White Promos",
+      "img": "https://den-cards.pokellector.com/9/Thundurus-EX.BW.81.png",
+      "rarity": "Common",
+      "cardNum": "81/101"
+    },
+    {
+      "name": "Deoxys EX",
+      "set": "Black & White Promos",
+      "img": "https://den-cards.pokellector.com/9/Deoxys-EX.BW.82.png",
+      "rarity": "Common",
+      "cardNum": "82/101"
+    },
+    {
+      "name": "Lugia EX",
+      "set": "Black & White Promos",
+      "img": "https://den-cards.pokellector.com/9/Lugia-EX.BW.83.png",
+      "rarity": "Common",
+      "cardNum": "83/101"
+    },
+    {
+      "name": "Porygon-Z",
+      "set": "Black & White Promos",
+      "img": "https://den-cards.pokellector.com/9/Porygon-Z.BW.84.png",
+      "rarity": "Common",
+      "cardNum": "84/101"
+    },
+    {
+      "name": "Lucario",
+      "set": "Black & White Promos",
+      "img": "https://den-cards.pokellector.com/9/Lucario.BW.85.png",
+      "rarity": "Common",
+      "cardNum": "85/101"
+    },
+    {
+      "name": "Genesect",
+      "set": "Black & White Promos",
+      "img": "https://den-cards.pokellector.com/9/Genesect.BW.86.png",
+      "rarity": "Common",
+      "cardNum": "86/101"
+    },
+    {
+      "name": "Leafeon",
+      "set": "Black & White Promos",
+      "img": "https://den-cards.pokellector.com/9/Leafeon.BW.87.png",
+      "rarity": "Common",
+      "cardNum": "87/101"
+    },
+    {
+      "name": "Flareon",
+      "set": "Black & White Promos",
+      "img": "https://den-cards.pokellector.com/9/Flareon.BW.88.png",
+      "rarity": "Common",
+      "cardNum": "88/101"
+    },
+    {
+      "name": "Vaporeon",
+      "set": "Black & White Promos",
+      "img": "https://den-cards.pokellector.com/9/Vaporeon.BW.89.png",
+      "rarity": "Common",
+      "cardNum": "89/101"
+    },
+    {
+      "name": "Glaceon",
+      "set": "Black & White Promos",
+      "img": "https://den-cards.pokellector.com/9/Glaceon.BW.90.png",
+      "rarity": "Common",
+      "cardNum": "90/101"
+    },
+    {
+      "name": "Jolteon",
+      "set": "Black & White Promos",
+      "img": "https://den-cards.pokellector.com/9/Jolteon.BW.91.png",
+      "rarity": "Common",
+      "cardNum": "91/101"
+    },
+    {
+      "name": "Espeon",
+      "set": "Black & White Promos",
+      "img": "https://den-cards.pokellector.com/9/Espeon.BW.92.png",
+      "rarity": "Common",
+      "cardNum": "92/101"
+    },
+    {
+      "name": "Umbreon",
+      "set": "Black & White Promos",
+      "img": "https://den-cards.pokellector.com/9/Umbreon.BW.93.png",
+      "rarity": "Common",
+      "cardNum": "93/101"
+    },
+    {
+      "name": "Eevee",
+      "set": "Black & White Promos",
+      "img": "https://den-cards.pokellector.com/9/Eevee.BW.94.png",
+      "rarity": "Common",
+      "cardNum": "94/101"
+    },
+    {
+      "name": "Champions Festival",
+      "set": "Black & White Promos",
+      "img": "https://den-cards.pokellector.com/9/Champions-Festival.BW.95.png",
+      "rarity": "Common",
+      "cardNum": "95/101"
+    },
+    {
+      "name": "Tornadus EX",
+      "set": "Black & White Promos",
+      "img": "https://den-cards.pokellector.com/9/Tornadus-EX.BW.96.png",
+      "rarity": "Common",
+      "cardNum": "96/101"
+    },
+    {
+      "name": "Eevee",
+      "set": "Black & White Promos",
+      "img": "https://den-cards.pokellector.com/9/Eevee.BW.97.png",
+      "rarity": "Common",
+      "cardNum": "97/101"
+    },
+    {
+      "name": "Mew",
+      "set": "Black & White Promos",
+      "img": "https://den-cards.pokellector.com/9/Mew.BW.98.png",
+      "rarity": "Common",
+      "cardNum": "98/101"
+    },
+    {
+      "name": "Genesect",
+      "set": "Black & White Promos",
+      "img": "https://den-cards.pokellector.com/9/Genesect.BW.99.png",
+      "rarity": "Common",
+      "cardNum": "99/101"
+    },
+    {
+      "name": "N",
+      "set": "Black & White Promos",
+      "img": "https://den-cards.pokellector.com/9/N.BW.100.png",
+      "rarity": "Common",
+      "cardNum": "100/101"
+    },
+    {
+      "name": "Genesect",
+      "set": "Black & White Promos",
+      "img": "https://den-cards.pokellector.com/9/Genesect.BW.101.png",
+      "rarity": "Common",
+      "cardNum": "101/101"
+    },
+    {
+      "name": "____'s Snivy (Jumbo)",
+      "set": "Black & White Promos",
+      "img": "https://den-cards.pokellector.com/9/__s-Snivy-Jumbo.BW.999.37521.png",
+      "rarity": "Common",
+      "cardNum": ""
+    },
+    {
+      "name": "____'s Tepig (Jumbo)",
+      "set": "Black & White Promos",
+      "img": "https://den-cards.pokellector.com/9/__s-Snivy-Jumbo.BW.999.37526.png",
+      "rarity": "Common",
+      "cardNum": ""
+    },
+    {
+      "name": "____'s Oshawott (Jumbo)",
+      "set": "Black & White Promos",
+      "img": "https://den-cards.pokellector.com/9/__s-Oshawott-Jumbo.BW.999.37527.png",
+      "rarity": "Common",
+      "cardNum": ""
+    }
+  ]
+}

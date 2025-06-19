@@ -1,0 +1,117 @@
+{
+  "setName": "Pokemon Rumble",
+  "cards": [
+    {
+      "name": "Venusaur",
+      "set": "Pokemon Rumble",
+      "img": "https://den-cards.pokellector.com/52/Venusaur.RUM.1.png",
+      "rarity": "Common",
+      "cardNum": "1/16"
+    },
+    {
+      "name": "Cherrim",
+      "set": "Pokemon Rumble",
+      "img": "https://den-cards.pokellector.com/52/Cherrim.RUM.2.png",
+      "rarity": "Common",
+      "cardNum": "2/16"
+    },
+    {
+      "name": "Ninetales",
+      "set": "Pokemon Rumble",
+      "img": "https://den-cards.pokellector.com/52/Ninetales.RUM.3.png",
+      "rarity": "Common",
+      "cardNum": "3/16"
+    },
+    {
+      "name": "Heatran",
+      "set": "Pokemon Rumble",
+      "img": "https://den-cards.pokellector.com/52/Heatran.RUM.4.png",
+      "rarity": "Common",
+      "cardNum": "4/16"
+    },
+    {
+      "name": "Starmie",
+      "set": "Pokemon Rumble",
+      "img": "https://den-cards.pokellector.com/52/Starmie.RUM.5.png",
+      "rarity": "Common",
+      "cardNum": "5/16"
+    },
+    {
+      "name": "Gyarados",
+      "set": "Pokemon Rumble",
+      "img": "https://den-cards.pokellector.com/52/Gyarados.RUM.6.png",
+      "rarity": "Common",
+      "cardNum": "6/16"
+    },
+    {
+      "name": "Pikachu",
+      "set": "Pokemon Rumble",
+      "img": "https://den-cards.pokellector.com/52/Pikachu.RUM.7.png",
+      "rarity": "Common",
+      "cardNum": "7/16"
+    },
+    {
+      "name": "Zapdos",
+      "set": "Pokemon Rumble",
+      "img": "https://den-cards.pokellector.com/52/Zapdos.RUM.8.png",
+      "rarity": "Common",
+      "cardNum": "8/16"
+    },
+    {
+      "name": "Mewtwo",
+      "set": "Pokemon Rumble",
+      "img": "https://den-cards.pokellector.com/52/Mewtwo.RUM.9.png",
+      "rarity": "Common",
+      "cardNum": "9/16"
+    },
+    {
+      "name": "Mew",
+      "set": "Pokemon Rumble",
+      "img": "https://den-cards.pokellector.com/52/Mew.RUM.10.png",
+      "rarity": "Common",
+      "cardNum": "10/16"
+    },
+    {
+      "name": "Diglett",
+      "set": "Pokemon Rumble",
+      "img": "https://den-cards.pokellector.com/52/Diglett.RUM.11.png",
+      "rarity": "Common",
+      "cardNum": "11/16"
+    },
+    {
+      "name": "Lucario",
+      "set": "Pokemon Rumble",
+      "img": "https://den-cards.pokellector.com/52/Lucario.RUM.12.png",
+      "rarity": "Common",
+      "cardNum": "12/16"
+    },
+    {
+      "name": "Skuntank",
+      "set": "Pokemon Rumble",
+      "img": "https://den-cards.pokellector.com/52/Skuntank.RUM.13.png",
+      "rarity": "Common",
+      "cardNum": "13/16"
+    },
+    {
+      "name": "Bastiodon",
+      "set": "Pokemon Rumble",
+      "img": "https://den-cards.pokellector.com/52/Bastiodon.RUM.14.png",
+      "rarity": "Common",
+      "cardNum": "14/16"
+    },
+    {
+      "name": "Rattata",
+      "set": "Pokemon Rumble",
+      "img": "https://den-cards.pokellector.com/52/Rattata.RUM.15.png",
+      "rarity": "Common",
+      "cardNum": "15/16"
+    },
+    {
+      "name": "Bibarel",
+      "set": "Pokemon Rumble",
+      "img": "https://den-cards.pokellector.com/52/Bibarel.RUM.16.png",
+      "rarity": "Common",
+      "cardNum": "16/16"
+    }
+  ]
+}

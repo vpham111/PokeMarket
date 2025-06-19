@@ -1,0 +1,796 @@
+{
+  "setName": "Darkness and to Light",
+  "cards": [
+    {
+      "name": "Venonat",
+      "set": "Darkness and to Light",
+      "img": "https://den-cards.pokellector.com/333/Venonat.NEO4.1.39707.png",
+      "rarity": "Common",
+      "cardNum": "1/113"
+    },
+    {
+      "name": "Ledyba",
+      "set": "Darkness and to Light",
+      "img": "https://den-cards.pokellector.com/333/Ledyba.NEO4.2.39708.png",
+      "rarity": "Common",
+      "cardNum": "2/113"
+    },
+    {
+      "name": "Sunkern",
+      "set": "Darkness and to Light",
+      "img": "https://den-cards.pokellector.com/333/Sunkern.NEO4.3.39709.png",
+      "rarity": "Common",
+      "cardNum": "3/113"
+    },
+    {
+      "name": "Light Sunflora",
+      "set": "Darkness and to Light",
+      "img": "https://den-cards.pokellector.com/333/Light-Sunflora.NEO4.4.39710.png",
+      "rarity": "Common",
+      "cardNum": "4/113"
+    },
+    {
+      "name": "Pineco",
+      "set": "Darkness and to Light",
+      "img": "https://den-cards.pokellector.com/333/Pineco.NEO4.5.39711.png",
+      "rarity": "Common",
+      "cardNum": "5/113"
+    },
+    {
+      "name": "Light Venomoth",
+      "set": "Darkness and to Light",
+      "img": "https://den-cards.pokellector.com/333/Light-Venomoth.NEO4.6.39712.png",
+      "rarity": "Uncommon",
+      "cardNum": "6/113"
+    },
+    {
+      "name": "Scyther",
+      "set": "Darkness and to Light",
+      "img": "https://den-cards.pokellector.com/333/Scyther.NEO4.7.39713.png",
+      "rarity": "Uncommon",
+      "cardNum": "7/113"
+    },
+    {
+      "name": "Dark Forretress",
+      "set": "Darkness and to Light",
+      "img": "https://den-cards.pokellector.com/333/Dark-Forretress.NEO4.8.39714.png",
+      "rarity": "Uncommon",
+      "cardNum": "8/113"
+    },
+    {
+      "name": "Heracross",
+      "set": "Darkness and to Light",
+      "img": "https://den-cards.pokellector.com/333/Heracross.NEO4.9.39715.png",
+      "rarity": "Uncommon",
+      "cardNum": "9/113"
+    },
+    {
+      "name": "Light Ledian",
+      "set": "Darkness and to Light",
+      "img": "https://den-cards.pokellector.com/333/Light-Ledian.NEO4.10.39716.png",
+      "rarity": "Rare",
+      "cardNum": "10/113"
+    },
+    {
+      "name": "Dark Ariados",
+      "set": "Darkness and to Light",
+      "img": "https://den-cards.pokellector.com/333/Dark-Ariados.NEO4.11.39717.png",
+      "rarity": "Rare",
+      "cardNum": "11/113"
+    },
+    {
+      "name": "Dark Crobat",
+      "set": "Darkness and to Light",
+      "img": "https://den-cards.pokellector.com/333/Dark-Crobat.NEO4.12.39718.png",
+      "rarity": "Rare",
+      "cardNum": "12/113"
+    },
+    {
+      "name": "Shining Celebi",
+      "set": "Darkness and to Light",
+      "img": "https://den-cards.pokellector.com/333/Shining-Celebi.NEO4.13.39719.png",
+      "rarity": "Rare",
+      "cardNum": "13/113"
+    },
+    {
+      "name": "Vulpix",
+      "set": "Darkness and to Light",
+      "img": "https://den-cards.pokellector.com/333/Vulpix.NEO4.14.39720.png",
+      "rarity": "Common",
+      "cardNum": "14/113"
+    },
+    {
+      "name": "Growlithe",
+      "set": "Darkness and to Light",
+      "img": "https://den-cards.pokellector.com/333/Growlithe.NEO4.15.39721.png",
+      "rarity": "Common",
+      "cardNum": "15/113"
+    },
+    {
+      "name": "Cyndaquil",
+      "set": "Darkness and to Light",
+      "img": "https://den-cards.pokellector.com/333/Cyndaquil.NEO4.16.39722.png",
+      "rarity": "Common",
+      "cardNum": "16/113"
+    },
+    {
+      "name": "Slugma",
+      "set": "Darkness and to Light",
+      "img": "https://den-cards.pokellector.com/333/Slugma.NEO4.17.39723.png",
+      "rarity": "Common",
+      "cardNum": "17/113"
+    },
+    {
+      "name": "Light Ninetales",
+      "set": "Darkness and to Light",
+      "img": "https://den-cards.pokellector.com/333/Light-Ninetales.NEO4.18.39724.png",
+      "rarity": "Uncommon",
+      "cardNum": "18/113"
+    },
+    {
+      "name": "Light Flareon",
+      "set": "Darkness and to Light",
+      "img": "https://den-cards.pokellector.com/333/Light-Flareon.NEO4.19.39725.png",
+      "rarity": "Uncommon",
+      "cardNum": "19/113"
+    },
+    {
+      "name": "Dark Quilava",
+      "set": "Darkness and to Light",
+      "img": "https://den-cards.pokellector.com/333/Dark-Quilava.NEO4.20.39726.png",
+      "rarity": "Uncommon",
+      "cardNum": "20/113"
+    },
+    {
+      "name": "Light Arcanine",
+      "set": "Darkness and to Light",
+      "img": "https://den-cards.pokellector.com/333/Light-Arcanine.NEO4.21.39727.png",
+      "rarity": "Rare",
+      "cardNum": "21/113"
+    },
+    {
+      "name": "Dark Typhlosion",
+      "set": "Darkness and to Light",
+      "img": "https://den-cards.pokellector.com/333/Dark-Typhlosion.NEO4.22.39728.png",
+      "rarity": "Rare",
+      "cardNum": "22/113"
+    },
+    {
+      "name": "Dark Magcargo",
+      "set": "Darkness and to Light",
+      "img": "https://den-cards.pokellector.com/333/Dark-Magcargo.NEO4.23.39729.png",
+      "rarity": "Rare",
+      "cardNum": "23/113"
+    },
+    {
+      "name": "Dark Houndoom",
+      "set": "Darkness and to Light",
+      "img": "https://den-cards.pokellector.com/333/Dark-Houndoom.NEO4.24.39730.png",
+      "rarity": "Rare",
+      "cardNum": "24/113"
+    },
+    {
+      "name": "Shining Charizard",
+      "set": "Darkness and to Light",
+      "img": "https://den-cards.pokellector.com/333/Shining-Charizard.NEO4.25.39731.png",
+      "rarity": "Rare",
+      "cardNum": "25/113"
+    },
+    {
+      "name": "Psyduck",
+      "set": "Darkness and to Light",
+      "img": "https://den-cards.pokellector.com/333/Psyduck.NEO4.26.39732.png",
+      "rarity": "Common",
+      "cardNum": "26/113"
+    },
+    {
+      "name": "Seel",
+      "set": "Darkness and to Light",
+      "img": "https://den-cards.pokellector.com/333/Seel.NEO4.27.39733.png",
+      "rarity": "Common",
+      "cardNum": "27/113"
+    },
+    {
+      "name": "Totodile",
+      "set": "Darkness and to Light",
+      "img": "https://den-cards.pokellector.com/333/Totodile.NEO4.28.39734.png",
+      "rarity": "Common",
+      "cardNum": "28/113"
+    },
+    {
+      "name": "Swinub",
+      "set": "Darkness and to Light",
+      "img": "https://den-cards.pokellector.com/333/Swinub.NEO4.29.39735.png",
+      "rarity": "Common",
+      "cardNum": "29/113"
+    },
+    {
+      "name": "Remoraid",
+      "set": "Darkness and to Light",
+      "img": "https://den-cards.pokellector.com/333/Remoraid.NEO4.30.39736.png",
+      "rarity": "Common",
+      "cardNum": "30/113"
+    },
+    {
+      "name": "Mantine",
+      "set": "Darkness and to Light",
+      "img": "https://den-cards.pokellector.com/333/Mantine.NEO4.31.39737.png",
+      "rarity": "Common",
+      "cardNum": "31/113"
+    },
+    {
+      "name": "Light Golduck",
+      "set": "Darkness and to Light",
+      "img": "https://den-cards.pokellector.com/333/Light-Golduck.NEO4.32.39738.png",
+      "rarity": "Uncommon",
+      "cardNum": "32/113"
+    },
+    {
+      "name": "Light Dewgong",
+      "set": "Darkness and to Light",
+      "img": "https://den-cards.pokellector.com/333/Light-Dewgong.NEO4.33.39739.png",
+      "rarity": "Uncommon",
+      "cardNum": "33/113"
+    },
+    {
+      "name": "Light Vaporeon",
+      "set": "Darkness and to Light",
+      "img": "https://den-cards.pokellector.com/333/Light-Vaporeon.NEO4.34.39740.png",
+      "rarity": "Uncommon",
+      "cardNum": "34/113"
+    },
+    {
+      "name": "Dark Omanyte",
+      "set": "Darkness and to Light",
+      "img": "https://den-cards.pokellector.com/333/Dark-Omanyte.NEO4.35.39741.png",
+      "rarity": "Uncommon",
+      "cardNum": "35/113"
+    },
+    {
+      "name": "Dark Croconaw",
+      "set": "Darkness and to Light",
+      "img": "https://den-cards.pokellector.com/333/Dark-Croconaw.NEO4.36.39742.png",
+      "rarity": "Uncommon",
+      "cardNum": "36/113"
+    },
+    {
+      "name": "Dark Octillery",
+      "set": "Darkness and to Light",
+      "img": "https://den-cards.pokellector.com/333/Dark-Octillery.NEO4.37.39743.png",
+      "rarity": "Uncommon",
+      "cardNum": "37/113"
+    },
+    {
+      "name": "Dark Omastar",
+      "set": "Darkness and to Light",
+      "img": "https://den-cards.pokellector.com/333/Dark-Omastar.NEO4.38.39744.png",
+      "rarity": "Rare",
+      "cardNum": "38/113"
+    },
+    {
+      "name": "Dark Feraligatr",
+      "set": "Darkness and to Light",
+      "img": "https://den-cards.pokellector.com/333/Dark-Feraligatr.NEO4.39.39745.png",
+      "rarity": "Rare",
+      "cardNum": "39/113"
+    },
+    {
+      "name": "Light Azumarill",
+      "set": "Darkness and to Light",
+      "img": "https://den-cards.pokellector.com/333/Light-Azumarill.NEO4.40.39746.png",
+      "rarity": "Rare",
+      "cardNum": "40/113"
+    },
+    {
+      "name": "Light Piloswine",
+      "set": "Darkness and to Light",
+      "img": "https://den-cards.pokellector.com/333/Light-Piloswine.NEO4.41.39747.png",
+      "rarity": "Rare",
+      "cardNum": "41/113"
+    },
+    {
+      "name": "Mareep",
+      "set": "Darkness and to Light",
+      "img": "https://den-cards.pokellector.com/333/Mareep.NEO4.42.39748.png",
+      "rarity": "Common",
+      "cardNum": "42/113"
+    },
+    {
+      "name": "Light Jolteon",
+      "set": "Darkness and to Light",
+      "img": "https://den-cards.pokellector.com/333/Light-Jolteon.NEO4.43.39749.png",
+      "rarity": "Uncommon",
+      "cardNum": "43/113"
+    },
+    {
+      "name": "Dark Flaaffy",
+      "set": "Darkness and to Light",
+      "img": "https://den-cards.pokellector.com/333/Dark-Flaaffy.NEO4.44.39750.png",
+      "rarity": "Uncommon",
+      "cardNum": "44/113"
+    },
+    {
+      "name": "Light Lanturn",
+      "set": "Darkness and to Light",
+      "img": "https://den-cards.pokellector.com/333/Light-Lanturn.NEO4.45.39751.png",
+      "rarity": "Rare",
+      "cardNum": "45/113"
+    },
+    {
+      "name": "Dark Ampharos",
+      "set": "Darkness and to Light",
+      "img": "https://den-cards.pokellector.com/333/Dark-Ampharos.NEO4.46.39752.png",
+      "rarity": "Rare",
+      "cardNum": "46/113"
+    },
+    {
+      "name": "Shining Raichu",
+      "set": "Darkness and to Light",
+      "img": "https://den-cards.pokellector.com/333/Shining-Raichu.NEO4.47.39753.png",
+      "rarity": "Rare",
+      "cardNum": "47/113"
+    },
+    {
+      "name": "Gastly",
+      "set": "Darkness and to Light",
+      "img": "https://den-cards.pokellector.com/333/Gastly.NEO4.48.39754.png",
+      "rarity": "Common",
+      "cardNum": "48/113"
+    },
+    {
+      "name": "Exeggcute",
+      "set": "Darkness and to Light",
+      "img": "https://den-cards.pokellector.com/333/Exeggcute.NEO4.49.39755.png",
+      "rarity": "Common",
+      "cardNum": "49/113"
+    },
+    {
+      "name": "Unown L",
+      "set": "Darkness and to Light",
+      "img": "https://den-cards.pokellector.com/333/Unown-L.NEO4.50.39756.png",
+      "rarity": "Common",
+      "cardNum": "50/113"
+    },
+    {
+      "name": "Unown S",
+      "set": "Darkness and to Light",
+      "img": "https://den-cards.pokellector.com/333/Unown-S.NEO4.51.39757.png",
+      "rarity": "Common",
+      "cardNum": "51/113"
+    },
+    {
+      "name": "Unown T",
+      "set": "Darkness and to Light",
+      "img": "https://den-cards.pokellector.com/333/Unown-T.NEO4.52.39758.png",
+      "rarity": "Common",
+      "cardNum": "52/113"
+    },
+    {
+      "name": "Unown V",
+      "set": "Darkness and to Light",
+      "img": "https://den-cards.pokellector.com/333/Unown-V.NEO4.53.39759.png",
+      "rarity": "Common",
+      "cardNum": "53/113"
+    },
+    {
+      "name": "Light Slowbro",
+      "set": "Darkness and to Light",
+      "img": "https://den-cards.pokellector.com/333/Light-Slowbro.NEO4.54.39760.png",
+      "rarity": "Uncommon",
+      "cardNum": "54/113"
+    },
+    {
+      "name": "Dark Haunter",
+      "set": "Darkness and to Light",
+      "img": "https://den-cards.pokellector.com/333/Dark-Haunter.NEO4.55.39761.png",
+      "rarity": "Uncommon",
+      "cardNum": "55/113"
+    },
+    {
+      "name": "Dark Exeggutor",
+      "set": "Darkness and to Light",
+      "img": "https://den-cards.pokellector.com/333/Dark-Exeggutor.NEO4.56.39762.png",
+      "rarity": "Uncommon",
+      "cardNum": "56/113"
+    },
+    {
+      "name": "Unown C",
+      "set": "Darkness and to Light",
+      "img": "https://den-cards.pokellector.com/333/Unown-C.NEO4.57.39763.png",
+      "rarity": "Uncommon",
+      "cardNum": "57/113"
+    },
+    {
+      "name": "Unown P",
+      "set": "Darkness and to Light",
+      "img": "https://den-cards.pokellector.com/333/Unown-P.NEO4.58.39764.png",
+      "rarity": "Uncommon",
+      "cardNum": "58/113"
+    },
+    {
+      "name": "Unown Q",
+      "set": "Darkness and to Light",
+      "img": "https://den-cards.pokellector.com/333/Unown-Q.NEO4.59.39765.png",
+      "rarity": "Uncommon",
+      "cardNum": "59/113"
+    },
+    {
+      "name": "Unown Z",
+      "set": "Darkness and to Light",
+      "img": "https://den-cards.pokellector.com/333/Unown-Z.NEO4.60.39766.png",
+      "rarity": "Uncommon",
+      "cardNum": "60/113"
+    },
+    {
+      "name": "Dark Slowking",
+      "set": "Darkness and to Light",
+      "img": "https://den-cards.pokellector.com/333/Dark-Slowking.NEO4.61.39767.png",
+      "rarity": "Rare",
+      "cardNum": "61/113"
+    },
+    {
+      "name": "Unown G",
+      "set": "Darkness and to Light",
+      "img": "https://den-cards.pokellector.com/333/Unown-G.NEO4.62.39768.png",
+      "rarity": "Rare",
+      "cardNum": "62/113"
+    },
+    {
+      "name": "Unown H",
+      "set": "Darkness and to Light",
+      "img": "https://den-cards.pokellector.com/333/Unown-H.NEO4.63.39769.png",
+      "rarity": "Rare",
+      "cardNum": "63/113"
+    },
+    {
+      "name": "Unown W",
+      "set": "Darkness and to Light",
+      "img": "https://den-cards.pokellector.com/333/Unown-W.NEO4.64.39770.png",
+      "rarity": "Rare",
+      "cardNum": "64/113"
+    },
+    {
+      "name": "Unown X",
+      "set": "Darkness and to Light",
+      "img": "https://den-cards.pokellector.com/333/Unown-X.NEO4.65.39771.png",
+      "rarity": "Rare",
+      "cardNum": "65/113"
+    },
+    {
+      "name": "Dark Gengar",
+      "set": "Darkness and to Light",
+      "img": "https://den-cards.pokellector.com/333/Dark-Gengar.NEO4.66.39772.png",
+      "rarity": "Rare",
+      "cardNum": "66/113"
+    },
+    {
+      "name": "Dark Espeon",
+      "set": "Darkness and to Light",
+      "img": "https://den-cards.pokellector.com/333/Dark-Espeon.NEO4.67.39773.png",
+      "rarity": "Rare",
+      "cardNum": "67/113"
+    },
+    {
+      "name": "Shining Mewtwo",
+      "set": "Darkness and to Light",
+      "img": "https://den-cards.pokellector.com/333/Shining-Mewtwo.NEO4.68.39774.png",
+      "rarity": "Rare",
+      "cardNum": "68/113"
+    },
+    {
+      "name": "Machop",
+      "set": "Darkness and to Light",
+      "img": "https://den-cards.pokellector.com/333/Machop.NEO4.69.39775.png",
+      "rarity": "Common",
+      "cardNum": "69/113"
+    },
+    {
+      "name": "Hitmonchan",
+      "set": "Darkness and to Light",
+      "img": "https://den-cards.pokellector.com/333/Hitmonchan.NEO4.70.39776.png",
+      "rarity": "Common",
+      "cardNum": "70/113"
+    },
+    {
+      "name": "Gligar",
+      "set": "Darkness and to Light",
+      "img": "https://den-cards.pokellector.com/333/Gligar.NEO4.71.39777.png",
+      "rarity": "Common",
+      "cardNum": "71/113"
+    },
+    {
+      "name": "Phanpy",
+      "set": "Darkness and to Light",
+      "img": "https://den-cards.pokellector.com/333/Phanpy.NEO4.72.39778.png",
+      "rarity": "Common",
+      "cardNum": "72/113"
+    },
+    {
+      "name": "Larvitar",
+      "set": "Darkness and to Light",
+      "img": "https://den-cards.pokellector.com/333/Larvitar.NEO4.73.39779.png",
+      "rarity": "Common",
+      "cardNum": "73/113"
+    },
+    {
+      "name": "Light Machoke",
+      "set": "Darkness and to Light",
+      "img": "https://den-cards.pokellector.com/333/Light-Machoke.NEO4.74.39780.png",
+      "rarity": "Uncommon",
+      "cardNum": "74/113"
+    },
+    {
+      "name": "Hitmonlee",
+      "set": "Darkness and to Light",
+      "img": "https://den-cards.pokellector.com/333/Hitmonlee.NEO4.75.39781.png",
+      "rarity": "Uncommon",
+      "cardNum": "75/113"
+    },
+    {
+      "name": "Dark Pupitar",
+      "set": "Darkness and to Light",
+      "img": "https://den-cards.pokellector.com/333/Dark-Pupitar.NEO4.76.39782.png",
+      "rarity": "Uncommon",
+      "cardNum": "76/113"
+    },
+    {
+      "name": "Light Machamp",
+      "set": "Darkness and to Light",
+      "img": "https://den-cards.pokellector.com/333/Light-Machamp.NEO4.77.39783.png",
+      "rarity": "Rare",
+      "cardNum": "77/113"
+    },
+    {
+      "name": "Dark Donphan",
+      "set": "Darkness and to Light",
+      "img": "https://den-cards.pokellector.com/333/Dark-Donphan.NEO4.78.39784.png",
+      "rarity": "Rare",
+      "cardNum": "78/113"
+    },
+    {
+      "name": "Dark Tyranitar",
+      "set": "Darkness and to Light",
+      "img": "https://den-cards.pokellector.com/333/Dark-Tyranitar.NEO4.79.39785.png",
+      "rarity": "Rare",
+      "cardNum": "79/113"
+    },
+    {
+      "name": "Shining Kabutops",
+      "set": "Darkness and to Light",
+      "img": "https://den-cards.pokellector.com/333/Shining-Kabutops.NEO4.80.39786.png",
+      "rarity": "Rare",
+      "cardNum": "80/113"
+    },
+    {
+      "name": "Houndour",
+      "set": "Darkness and to Light",
+      "img": "https://den-cards.pokellector.com/333/Houndour.NEO4.81.39787.png",
+      "rarity": "Uncommon",
+      "cardNum": "81/113"
+    },
+    {
+      "name": "Shining Tyranitar",
+      "set": "Darkness and to Light",
+      "img": "https://den-cards.pokellector.com/333/Shining-Tyranitar.NEO4.82.39788.png",
+      "rarity": "Rare",
+      "cardNum": "82/113"
+    },
+    {
+      "name": "Dark Scizor",
+      "set": "Darkness and to Light",
+      "img": "https://den-cards.pokellector.com/333/Dark-Scizor.NEO4.83.39789.png",
+      "rarity": "Rare",
+      "cardNum": "83/113"
+    },
+    {
+      "name": "Shining Steelix",
+      "set": "Darkness and to Light",
+      "img": "https://den-cards.pokellector.com/333/Shining-Steelix.NEO4.84.39790.png",
+      "rarity": "Rare",
+      "cardNum": "84/113"
+    },
+    {
+      "name": "Jigglypuff",
+      "set": "Darkness and to Light",
+      "img": "https://den-cards.pokellector.com/333/Jigglypuff.NEO4.85.39791.png",
+      "rarity": "Common",
+      "cardNum": "85/113"
+    },
+    {
+      "name": "Porygon",
+      "set": "Darkness and to Light",
+      "img": "https://den-cards.pokellector.com/333/Porygon.NEO4.86.39792.png",
+      "rarity": "Common",
+      "cardNum": "86/113"
+    },
+    {
+      "name": "Dratini",
+      "set": "Darkness and to Light",
+      "img": "https://den-cards.pokellector.com/333/Dratini.NEO4.87.39793.png",
+      "rarity": "Common",
+      "cardNum": "87/113"
+    },
+    {
+      "name": "Togepi",
+      "set": "Darkness and to Light",
+      "img": "https://den-cards.pokellector.com/333/Togepi.NEO4.88.39794.png",
+      "rarity": "Common",
+      "cardNum": "88/113"
+    },
+    {
+      "name": "Girafarig",
+      "set": "Darkness and to Light",
+      "img": "https://den-cards.pokellector.com/333/Girafarig.NEO4.89.39795.png",
+      "rarity": "Common",
+      "cardNum": "89/113"
+    },
+    {
+      "name": "Light Wigglytuff",
+      "set": "Darkness and to Light",
+      "img": "https://den-cards.pokellector.com/333/Light-Wigglytuff.NEO4.90.39796.png",
+      "rarity": "Uncommon",
+      "cardNum": "90/113"
+    },
+    {
+      "name": "Dark Wigglytuff",
+      "set": "Darkness and to Light",
+      "img": "https://den-cards.pokellector.com/333/Dark-Wigglytuff.NEO4.91.39797.png",
+      "rarity": "Uncommon",
+      "cardNum": "91/113"
+    },
+    {
+      "name": "Chansey",
+      "set": "Darkness and to Light",
+      "img": "https://den-cards.pokellector.com/333/Chansey.NEO4.92.39798.png",
+      "rarity": "Uncommon",
+      "cardNum": "92/113"
+    },
+    {
+      "name": "Light Dragonair",
+      "set": "Darkness and to Light",
+      "img": "https://den-cards.pokellector.com/333/Light-Dragonair.NEO4.93.39799.png",
+      "rarity": "Rare",
+      "cardNum": "93/113"
+    },
+    {
+      "name": "Light Dragonite",
+      "set": "Darkness and to Light",
+      "img": "https://den-cards.pokellector.com/333/Light-Dragonite.NEO4.94.39800.png",
+      "rarity": "Rare",
+      "cardNum": "94/113"
+    },
+    {
+      "name": "Light Togetic",
+      "set": "Darkness and to Light",
+      "img": "https://den-cards.pokellector.com/333/Light-Togetic.NEO4.95.39801.png",
+      "rarity": "Rare",
+      "cardNum": "95/113"
+    },
+    {
+      "name": "Dark Ursaring",
+      "set": "Darkness and to Light",
+      "img": "https://den-cards.pokellector.com/333/Dark-Ursaring.NEO4.96.39802.png",
+      "rarity": "Rare",
+      "cardNum": "96/113"
+    },
+    {
+      "name": "Dark Porygon2",
+      "set": "Darkness and to Light",
+      "img": "https://den-cards.pokellector.com/333/Dark-Porygon2.NEO4.97.39803.png",
+      "rarity": "Rare",
+      "cardNum": "97/113"
+    },
+    {
+      "name": "Shining Noctowl",
+      "set": "Darkness and to Light",
+      "img": "https://den-cards.pokellector.com/333/Shining-Noctowl.NEO4.98.39804.png",
+      "rarity": "Rare",
+      "cardNum": "98/113"
+    },
+    {
+      "name": "Heal Powder",
+      "set": "Darkness and to Light",
+      "img": "https://den-cards.pokellector.com/333/Heal-Powder.NEO4.99.39805.png",
+      "rarity": "Common",
+      "cardNum": "99/113"
+    },
+    {
+      "name": "Mail from Bill",
+      "set": "Darkness and to Light",
+      "img": "https://den-cards.pokellector.com/333/Mail-from-Bill.NEO4.100.39806.png",
+      "rarity": "Common",
+      "cardNum": "100/113"
+    },
+    {
+      "name": "Energy Stadium",
+      "set": "Darkness and to Light",
+      "img": "https://den-cards.pokellector.com/333/Energy-Stadium.NEO4.101.39807.png",
+      "rarity": "Uncommon",
+      "cardNum": "101/113"
+    },
+    {
+      "name": "Energy Amplifier",
+      "set": "Darkness and to Light",
+      "img": "https://den-cards.pokellector.com/333/Energy-Amplifier.NEO4.102.39808.png",
+      "rarity": "Uncommon",
+      "cardNum": "102/113"
+    },
+    {
+      "name": "Counterattack Claws",
+      "set": "Darkness and to Light",
+      "img": "https://den-cards.pokellector.com/333/Counterattack-Claws.NEO4.103.39809.png",
+      "rarity": "Uncommon",
+      "cardNum": "103/113"
+    },
+    {
+      "name": "Magnifier",
+      "set": "Darkness and to Light",
+      "img": "https://den-cards.pokellector.com/333/Magnifier.NEO4.104.39810.png",
+      "rarity": "Uncommon",
+      "cardNum": "104/113"
+    },
+    {
+      "name": "Pokémon Personality Test",
+      "set": "Darkness and to Light",
+      "img": "https://den-cards.pokellector.com/333/Pokmon-Personality-Test.NEO4.105.39811.png",
+      "rarity": "Uncommon",
+      "cardNum": "105/113"
+    },
+    {
+      "name": "Lucky Stadium",
+      "set": "Darkness and to Light",
+      "img": "https://den-cards.pokellector.com/333/Lucky-Stadium.NEO4.106.39812.png",
+      "rarity": "Uncommon",
+      "cardNum": "106/113"
+    },
+    {
+      "name": "Team Rocket's Evil Deeds",
+      "set": "Darkness and to Light",
+      "img": "https://den-cards.pokellector.com/333/Team-Rockets-Evil-Deeds.NEO4.107.39813.png",
+      "rarity": "Uncommon",
+      "cardNum": "107/113"
+    },
+    {
+      "name": "Thought Wave Machine",
+      "set": "Darkness and to Light",
+      "img": "https://den-cards.pokellector.com/333/Thought-Wave-Machine.NEO4.108.39814.png",
+      "rarity": "Rare",
+      "cardNum": "108/113"
+    },
+    {
+      "name": "EXP. ALL",
+      "set": "Darkness and to Light",
+      "img": "https://den-cards.pokellector.com/333/EXP-ALL.NEO4.109.39815.png",
+      "rarity": "Rare",
+      "cardNum": "109/113"
+    },
+    {
+      "name": "Broken Ground Gym",
+      "set": "Darkness and to Light",
+      "img": "https://den-cards.pokellector.com/333/Broken-Ground-Gym.NEO4.110.39816.png",
+      "rarity": "Rare",
+      "cardNum": "110/113"
+    },
+    {
+      "name": "Impostor Oak's Invention",
+      "set": "Darkness and to Light",
+      "img": "https://den-cards.pokellector.com/333/Impostor-Oaks-Invention.NEO4.111.39817.png",
+      "rarity": "Rare",
+      "cardNum": "111/113"
+    },
+    {
+      "name": "Radio Tower",
+      "set": "Darkness and to Light",
+      "img": "https://den-cards.pokellector.com/333/Radio-Tower.NEO4.112.39818.png",
+      "rarity": "Rare",
+      "cardNum": "112/113"
+    },
+    {
+      "name": "Miracle Energy",
+      "set": "Darkness and to Light",
+      "img": "https://den-cards.pokellector.com/333/Miracle-Energy.NEO4.113.39819.png",
+      "rarity": "Rare",
+      "cardNum": "113/113"
+    }
+  ]
+}

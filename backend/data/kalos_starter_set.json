@@ -1,0 +1,320 @@
+{
+  "setName": "Kalos Starter Set",
+  "cards": [
+    {
+      "name": "Weedle",
+      "set": "Kalos Starter Set",
+      "img": "https://den-cards.pokellector.com/150/Weedle.KST.1.png",
+      "rarity": "Common",
+      "cardNum": "1/45"
+    },
+    {
+      "name": "Pansage",
+      "set": "Kalos Starter Set",
+      "img": "https://den-cards.pokellector.com/150/Pansage.KST.2.png",
+      "rarity": "Common",
+      "cardNum": "2/45"
+    },
+    {
+      "name": "Chespin",
+      "set": "Kalos Starter Set",
+      "img": "https://den-cards.pokellector.com/150/Chespin.KST.3.png",
+      "rarity": "Common",
+      "cardNum": "3/45"
+    },
+    {
+      "name": "Quilladin",
+      "set": "Kalos Starter Set",
+      "img": "https://den-cards.pokellector.com/150/Quilladin.KST.4.png",
+      "rarity": "Common",
+      "cardNum": "4/45"
+    },
+    {
+      "name": "Chesnaught",
+      "set": "Kalos Starter Set",
+      "img": "https://den-cards.pokellector.com/150/Chesnaught.KST.5.png",
+      "rarity": "Common",
+      "cardNum": "5/45"
+    },
+    {
+      "name": "Slugma",
+      "set": "Kalos Starter Set",
+      "img": "https://den-cards.pokellector.com/150/Slugma.KST.6.png",
+      "rarity": "Common",
+      "cardNum": "6/45"
+    },
+    {
+      "name": "Pansear",
+      "set": "Kalos Starter Set",
+      "img": "https://den-cards.pokellector.com/150/Pansear.KST.7.png",
+      "rarity": "Common",
+      "cardNum": "7/45"
+    },
+    {
+      "name": "Fennekin",
+      "set": "Kalos Starter Set",
+      "img": "https://den-cards.pokellector.com/150/Fennekin.KST.8.png",
+      "rarity": "Common",
+      "cardNum": "8/45"
+    },
+    {
+      "name": "Braixen",
+      "set": "Kalos Starter Set",
+      "img": "https://den-cards.pokellector.com/150/Braixen.KST.9.png",
+      "rarity": "Common",
+      "cardNum": "9/45"
+    },
+    {
+      "name": "Delphox",
+      "set": "Kalos Starter Set",
+      "img": "https://den-cards.pokellector.com/150/Delphox.KST.10.png",
+      "rarity": "Common",
+      "cardNum": "10/45"
+    },
+    {
+      "name": "Panpour",
+      "set": "Kalos Starter Set",
+      "img": "https://den-cards.pokellector.com/150/Panpour.KST.11.png",
+      "rarity": "Common",
+      "cardNum": "11/45"
+    },
+    {
+      "name": "Froakie",
+      "set": "Kalos Starter Set",
+      "img": "https://den-cards.pokellector.com/150/Froakie.KST.12.png",
+      "rarity": "Common",
+      "cardNum": "12/45"
+    },
+    {
+      "name": "Frogadier",
+      "set": "Kalos Starter Set",
+      "img": "https://den-cards.pokellector.com/150/Frogadier.KST.13.png",
+      "rarity": "Common",
+      "cardNum": "13/45"
+    },
+    {
+      "name": "Greninja",
+      "set": "Kalos Starter Set",
+      "img": "https://den-cards.pokellector.com/150/Greninja.KST.14.png",
+      "rarity": "Common",
+      "cardNum": "14/45"
+    },
+    {
+      "name": "Clauncher",
+      "set": "Kalos Starter Set",
+      "img": "https://den-cards.pokellector.com/150/Clauncher.KST.15.png",
+      "rarity": "Common",
+      "cardNum": "15/45"
+    },
+    {
+      "name": "Poochyena",
+      "set": "Kalos Starter Set",
+      "img": "https://den-cards.pokellector.com/150/Poochyena.KST.16.png",
+      "rarity": "Common",
+      "cardNum": "16/45"
+    },
+    {
+      "name": "Mightyena",
+      "set": "Kalos Starter Set",
+      "img": "https://den-cards.pokellector.com/150/Mightyena.KST.17.png",
+      "rarity": "Common",
+      "cardNum": "17/45"
+    },
+    {
+      "name": "Inkay",
+      "set": "Kalos Starter Set",
+      "img": "https://den-cards.pokellector.com/150/Inkay.KST.18.png",
+      "rarity": "Common",
+      "cardNum": "18/45"
+    },
+    {
+      "name": "Pawniard",
+      "set": "Kalos Starter Set",
+      "img": "https://den-cards.pokellector.com/150/Pawniard.KST.19.png",
+      "rarity": "Common",
+      "cardNum": "19/45"
+    },
+    {
+      "name": "Bisharp",
+      "set": "Kalos Starter Set",
+      "img": "https://den-cards.pokellector.com/150/Bisharp.KST.20.png",
+      "rarity": "Common",
+      "cardNum": "20/45"
+    },
+    {
+      "name": "Honedge",
+      "set": "Kalos Starter Set",
+      "img": "https://den-cards.pokellector.com/150/Honedge.KST.21.png",
+      "rarity": "Common",
+      "cardNum": "21/45"
+    },
+    {
+      "name": "Snubbull",
+      "set": "Kalos Starter Set",
+      "img": "https://den-cards.pokellector.com/150/Snubbull.KST.22.png",
+      "rarity": "Common",
+      "cardNum": "22/45"
+    },
+    {
+      "name": "Granbull",
+      "set": "Kalos Starter Set",
+      "img": "https://den-cards.pokellector.com/150/Granbull.KST.23.png",
+      "rarity": "Common",
+      "cardNum": "23/45"
+    },
+    {
+      "name": "Swirlix",
+      "set": "Kalos Starter Set",
+      "img": "https://den-cards.pokellector.com/150/Swirlix.KST.24.png",
+      "rarity": "Common",
+      "cardNum": "24/45"
+    },
+    {
+      "name": "Farfetch'd",
+      "set": "Kalos Starter Set",
+      "img": "https://den-cards.pokellector.com/150/Farfetchd.KST.25.png",
+      "rarity": "Common",
+      "cardNum": "25/45"
+    },
+    {
+      "name": "Snorlax",
+      "set": "Kalos Starter Set",
+      "img": "https://den-cards.pokellector.com/150/Snorlax.KST.26.png",
+      "rarity": "Common",
+      "cardNum": "26/45"
+    },
+    {
+      "name": "Miltank",
+      "set": "Kalos Starter Set",
+      "img": "https://den-cards.pokellector.com/150/Miltank.KST.27.png",
+      "rarity": "Common",
+      "cardNum": "27/45"
+    },
+    {
+      "name": "Skitty",
+      "set": "Kalos Starter Set",
+      "img": "https://den-cards.pokellector.com/150/Skitty.KST.28.png",
+      "rarity": "Common",
+      "cardNum": "28/45"
+    },
+    {
+      "name": "Bidoof",
+      "set": "Kalos Starter Set",
+      "img": "https://den-cards.pokellector.com/150/Bidoof.KST.29.png",
+      "rarity": "Common",
+      "cardNum": "29/45"
+    },
+    {
+      "name": "Bunnelby",
+      "set": "Kalos Starter Set",
+      "img": "https://den-cards.pokellector.com/150/Bunnelby.KST.30.png",
+      "rarity": "Common",
+      "cardNum": "30/45"
+    },
+    {
+      "name": "Fletchling",
+      "set": "Kalos Starter Set",
+      "img": "https://den-cards.pokellector.com/150/Fletchling.KST.31.png",
+      "rarity": "Common",
+      "cardNum": "31/45"
+    },
+    {
+      "name": "Furfrou",
+      "set": "Kalos Starter Set",
+      "img": "https://den-cards.pokellector.com/150/Furfrou.KST.32.png",
+      "rarity": "Common",
+      "cardNum": "32/45"
+    },
+    {
+      "name": "Furfrou",
+      "set": "Kalos Starter Set",
+      "img": "https://den-cards.pokellector.com/150/Furfrou.KST.33.png",
+      "rarity": "Common",
+      "cardNum": "33/45"
+    },
+    {
+      "name": "Crushing Hammer",
+      "set": "Kalos Starter Set",
+      "img": "https://den-cards.pokellector.com/150/Crushing-Hammer.KST.34.png",
+      "rarity": "Common",
+      "cardNum": "34/45"
+    },
+    {
+      "name": "Poke Ball",
+      "set": "Kalos Starter Set",
+      "img": "https://den-cards.pokellector.com/150/Poke-Ball.KST.35.png",
+      "rarity": "Common",
+      "cardNum": "35/45"
+    },
+    {
+      "name": "Pokemon Catcher",
+      "set": "Kalos Starter Set",
+      "img": "https://den-cards.pokellector.com/150/Pokemon-Catcher.KST.36.png",
+      "rarity": "Common",
+      "cardNum": "36/45"
+    },
+    {
+      "name": "Potion",
+      "set": "Kalos Starter Set",
+      "img": "https://den-cards.pokellector.com/150/Potion.KST.37.png",
+      "rarity": "Common",
+      "cardNum": "37/45"
+    },
+    {
+      "name": "Switch",
+      "set": "Kalos Starter Set",
+      "img": "https://den-cards.pokellector.com/150/Switch.KST.38.png",
+      "rarity": "Common",
+      "cardNum": "38/45"
+    },
+    {
+      "name": "Tierno",
+      "set": "Kalos Starter Set",
+      "img": "https://den-cards.pokellector.com/150/Tierno.KST.39.png",
+      "rarity": "Common",
+      "cardNum": "39/45"
+    },
+    {
+      "name": "Grass Energy",
+      "set": "Kalos Starter Set",
+      "img": "https://den-cards.pokellector.com/150/Grass-Energy.KST.40.png",
+      "rarity": "Common",
+      "cardNum": "40/45"
+    },
+    {
+      "name": "Fire Energy",
+      "set": "Kalos Starter Set",
+      "img": "https://den-cards.pokellector.com/150/Fire-Energy.KST.41.png",
+      "rarity": "Common",
+      "cardNum": "41/45"
+    },
+    {
+      "name": "Water Energy",
+      "set": "Kalos Starter Set",
+      "img": "https://den-cards.pokellector.com/150/Water-Energy.KST.42.png",
+      "rarity": "Common",
+      "cardNum": "42/45"
+    },
+    {
+      "name": "Darkness Energy",
+      "set": "Kalos Starter Set",
+      "img": "https://den-cards.pokellector.com/150/Darkness-Energy.KST.43.png",
+      "rarity": "Common",
+      "cardNum": "43/45"
+    },
+    {
+      "name": "Steel Energy",
+      "set": "Kalos Starter Set",
+      "img": "https://den-cards.pokellector.com/150/Steel-Energy.KST.44.png",
+      "rarity": "Common",
+      "cardNum": "44/45"
+    },
+    {
+      "name": "Fairy Energy",
+      "set": "Kalos Starter Set",
+      "img": "https://den-cards.pokellector.com/150/Fairy-Energy.KST.41.png",
+      "rarity": "Common",
+      "cardNum": "45/45"
+    }
+  ]
+}

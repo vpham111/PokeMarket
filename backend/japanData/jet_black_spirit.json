@@ -1,0 +1,670 @@
+{
+  "setName": "Jet Black Spirit",
+  "cards": [
+    {
+      "name": "Ledyba",
+      "set": "Jet Black Spirit",
+      "img": "https://den-cards.pokellector.com/310/Ledyba.S6K.1.38727.png",
+      "rarity": "Common",
+      "cardNum": "1/70"
+    },
+    {
+      "name": "Ledian",
+      "set": "Jet Black Spirit",
+      "img": "https://den-cards.pokellector.com/310/Ledian.S6K.2.38728.png",
+      "rarity": "Common",
+      "cardNum": "2/70"
+    },
+    {
+      "name": "Celebi V",
+      "set": "Jet Black Spirit",
+      "img": "https://den-cards.pokellector.com/310/Celebi-V.S6K.3.38641.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "3/70"
+    },
+    {
+      "name": "Celebi VMAX",
+      "set": "Jet Black Spirit",
+      "img": "https://den-cards.pokellector.com/310/Celebi-VMAX.S6K.4.38673.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "4/70"
+    },
+    {
+      "name": "Seedot",
+      "set": "Jet Black Spirit",
+      "img": "https://den-cards.pokellector.com/310/Seedot.S6K.5.38729.png",
+      "rarity": "Common",
+      "cardNum": "5/70"
+    },
+    {
+      "name": "Grookey",
+      "set": "Jet Black Spirit",
+      "img": "https://den-cards.pokellector.com/310/Grookey.S6K.6.38659.png",
+      "rarity": "Common",
+      "cardNum": "6/70"
+    },
+    {
+      "name": "Thwackey",
+      "set": "Jet Black Spirit",
+      "img": "https://den-cards.pokellector.com/310/Thwackey.S6K.7.38660.png",
+      "rarity": "Uncommon",
+      "cardNum": "7/70"
+    },
+    {
+      "name": "Rillaboom",
+      "set": "Jet Black Spirit",
+      "img": "https://den-cards.pokellector.com/310/Rillaboom.S6K.8.38632.png",
+      "rarity": "Rare",
+      "cardNum": "8/70"
+    },
+    {
+      "name": "Psyduck",
+      "set": "Jet Black Spirit",
+      "img": "https://den-cards.pokellector.com/310/Psyduck.S6K.9.38730.png",
+      "rarity": "Common",
+      "cardNum": "9/70"
+    },
+    {
+      "name": "Golduck",
+      "set": "Jet Black Spirit",
+      "img": "https://den-cards.pokellector.com/310/Golduck.S6K.10.38731.png",
+      "rarity": "Uncommon",
+      "cardNum": "10/70"
+    },
+    {
+      "name": "Sneasel",
+      "set": "Jet Black Spirit",
+      "img": "https://den-cards.pokellector.com/310/Sneasel.S6K.11.38732.png",
+      "rarity": "Common",
+      "cardNum": "11/70"
+    },
+    {
+      "name": "Weavile",
+      "set": "Jet Black Spirit",
+      "img": "https://den-cards.pokellector.com/310/Weavile.S6K.12.38655.png",
+      "rarity": "Rare",
+      "cardNum": "12/70"
+    },
+    {
+      "name": "Castform Rainy Form",
+      "set": "Jet Black Spirit",
+      "img": "https://den-cards.pokellector.com/310/Castform-Rainy-Form.S6K.13.37857.png",
+      "rarity": "Common",
+      "cardNum": "13/70"
+    },
+    {
+      "name": "Luvdisc",
+      "set": "Jet Black Spirit",
+      "img": "https://den-cards.pokellector.com/310/Luvdisc.S6K.14.38733.png",
+      "rarity": "Common",
+      "cardNum": "14/70"
+    },
+    {
+      "name": "Tympole",
+      "set": "Jet Black Spirit",
+      "img": "https://den-cards.pokellector.com/310/Tympole.S6K.15.38734.png",
+      "rarity": "Common",
+      "cardNum": "15/70"
+    },
+    {
+      "name": "Tapu Fini",
+      "set": "Jet Black Spirit",
+      "img": "https://den-cards.pokellector.com/310/Tapu-Fini.S6K.16.38735.png",
+      "rarity": "Rare",
+      "cardNum": "16/70"
+    },
+    {
+      "name": "Arctovish V",
+      "set": "Jet Black Spirit",
+      "img": "https://den-cards.pokellector.com/310/Arctovish-V.S6K.17.38736.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "17/70"
+    },
+    {
+      "name": "Mareep",
+      "set": "Jet Black Spirit",
+      "img": "https://den-cards.pokellector.com/310/Mareep.S6K.18.38737.png",
+      "rarity": "Common",
+      "cardNum": "18/70"
+    },
+    {
+      "name": "Flaafy",
+      "set": "Jet Black Spirit",
+      "img": "https://den-cards.pokellector.com/310/Flaafy.S6K.19.38738.png",
+      "rarity": "Common",
+      "cardNum": "19/70"
+    },
+    {
+      "name": "Ampharos",
+      "set": "Jet Black Spirit",
+      "img": "https://den-cards.pokellector.com/310/Ampharos.S6K.20.38739.png",
+      "rarity": "Uncommon",
+      "cardNum": "20/70"
+    },
+    {
+      "name": "Blitzle",
+      "set": "Jet Black Spirit",
+      "img": "https://den-cards.pokellector.com/310/Blitzle.S6K.21.38740.png",
+      "rarity": "Common",
+      "cardNum": "21/70"
+    },
+    {
+      "name": "Zebstrika",
+      "set": "Jet Black Spirit",
+      "img": "https://den-cards.pokellector.com/310/Zebstrika.S6K.22.38741.png",
+      "rarity": "Uncommon",
+      "cardNum": "22/70"
+    },
+    {
+      "name": "Emolga",
+      "set": "Jet Black Spirit",
+      "img": "https://den-cards.pokellector.com/310/Emolga.S6K.23.38742.png",
+      "rarity": "Common",
+      "cardNum": "23/70"
+    },
+    {
+      "name": "Zeraora V",
+      "set": "Jet Black Spirit",
+      "img": "https://den-cards.pokellector.com/310/Zeraora-V.S6K.24.37855.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "24/70"
+    },
+    {
+      "name": "Gastly",
+      "set": "Jet Black Spirit",
+      "img": "https://den-cards.pokellector.com/310/Gastly.S6K.25.38743.png",
+      "rarity": "Common",
+      "cardNum": "25/70"
+    },
+    {
+      "name": "Haunter",
+      "set": "Jet Black Spirit",
+      "img": "https://den-cards.pokellector.com/310/Haunter.S6K.26.38744.png",
+      "rarity": "Common",
+      "cardNum": "26/70"
+    },
+    {
+      "name": "Gengar",
+      "set": "Jet Black Spirit",
+      "img": "https://den-cards.pokellector.com/310/Gengar.S6K.27.38646.png",
+      "rarity": "Rare",
+      "cardNum": "27/70"
+    },
+    {
+      "name": "Sableye",
+      "set": "Jet Black Spirit",
+      "img": "https://den-cards.pokellector.com/310/Sableye.S6K.28.38745.png",
+      "rarity": "Common",
+      "cardNum": "28/70"
+    },
+    {
+      "name": "Cresselia",
+      "set": "Jet Black Spirit",
+      "img": "https://den-cards.pokellector.com/310/Cresselia.S6K.29.38640.png",
+      "rarity": "Rare",
+      "cardNum": "29/70"
+    },
+    {
+      "name": "Golett",
+      "set": "Jet Black Spirit",
+      "img": "https://den-cards.pokellector.com/310/Golett.S6K.30.38746.png",
+      "rarity": "Common",
+      "cardNum": "30/70"
+    },
+    {
+      "name": "Golurk",
+      "set": "Jet Black Spirit",
+      "img": "https://den-cards.pokellector.com/310/Golurk.S6K.31.38747.png",
+      "rarity": "Uncommon",
+      "cardNum": "31/70"
+    },
+    {
+      "name": "Inkay",
+      "set": "Jet Black Spirit",
+      "img": "https://den-cards.pokellector.com/310/Inkay.S6K.32.38661.png",
+      "rarity": "Common",
+      "cardNum": "32/70"
+    },
+    {
+      "name": "Malamar",
+      "set": "Jet Black Spirit",
+      "img": "https://den-cards.pokellector.com/310/Malamar.S6K.33.38631.png",
+      "rarity": "Uncommon",
+      "cardNum": "33/70"
+    },
+    {
+      "name": "Cutiefly",
+      "set": "Jet Black Spirit",
+      "img": "https://den-cards.pokellector.com/310/Cutiefly.S6K.34.38761.png",
+      "rarity": "Common",
+      "cardNum": "34/70"
+    },
+    {
+      "name": "Ribombee",
+      "set": "Jet Black Spirit",
+      "img": "https://den-cards.pokellector.com/310/Ribombee.S6K.35.38644.png",
+      "rarity": "Common",
+      "cardNum": "35/70"
+    },
+    {
+      "name": "Shadow Rider Calyrex V",
+      "set": "Jet Black Spirit",
+      "img": "https://den-cards.pokellector.com/310/Shadow-Rider-Calyrex-V.S6K.36.38638.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "36/70"
+    },
+    {
+      "name": "Shadow Rider Calyrex VMAX",
+      "set": "Jet Black Spirit",
+      "img": "https://den-cards.pokellector.com/310/Shadow-Rider-Calyrex-VMAX.S6K.37.38639.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "37/70"
+    },
+    {
+      "name": "Palpitoad",
+      "set": "Jet Black Spirit",
+      "img": "https://den-cards.pokellector.com/310/Palpitoad.S6K.38.38748.png",
+      "rarity": "Common",
+      "cardNum": "38/70"
+    },
+    {
+      "name": "Seismitoad",
+      "set": "Jet Black Spirit",
+      "img": "https://den-cards.pokellector.com/310/Seismitoad.S6K.39.38749.png",
+      "rarity": "Uncommon",
+      "cardNum": "39/70"
+    },
+    {
+      "name": "Crabrawler",
+      "set": "Jet Black Spirit",
+      "img": "https://den-cards.pokellector.com/310/Crabrawler.S6K.40.38750.png",
+      "rarity": "Common",
+      "cardNum": "40/70"
+    },
+    {
+      "name": "Crabominable",
+      "set": "Jet Black Spirit",
+      "img": "https://den-cards.pokellector.com/310/Crabominable.S6K.41.38751.png",
+      "rarity": "Common",
+      "cardNum": "41/70"
+    },
+    {
+      "name": "Clobbopus",
+      "set": "Jet Black Spirit",
+      "img": "https://den-cards.pokellector.com/310/Clobbopus.S6K.42.38752.png",
+      "rarity": "Common",
+      "cardNum": "42/70"
+    },
+    {
+      "name": "Grapploct",
+      "set": "Jet Black Spirit",
+      "img": "https://den-cards.pokellector.com/310/Grapploct.S6K.43.38703.png",
+      "rarity": "Rare",
+      "cardNum": "43/70"
+    },
+    {
+      "name": "Koffing",
+      "set": "Jet Black Spirit",
+      "img": "https://den-cards.pokellector.com/310/Koffing.S6K.44.38658.png",
+      "rarity": "Common",
+      "cardNum": "44/70"
+    },
+    {
+      "name": "Weezing",
+      "set": "Jet Black Spirit",
+      "img": "https://den-cards.pokellector.com/310/Weezing.S6K.45.38657.png",
+      "rarity": "Uncommon",
+      "cardNum": "45/70"
+    },
+    {
+      "name": "Galarian Weezing",
+      "set": "Jet Black Spirit",
+      "img": "https://den-cards.pokellector.com/310/Galarian-Weezing.S6K.46.38656.png",
+      "rarity": "Uncommon",
+      "cardNum": "46/70"
+    },
+    {
+      "name": "Nuzleaf",
+      "set": "Jet Black Spirit",
+      "img": "https://den-cards.pokellector.com/310/Nuzleaf.S6K.47.38753.png",
+      "rarity": "Common",
+      "cardNum": "47/70"
+    },
+    {
+      "name": "Shiftry",
+      "set": "Jet Black Spirit",
+      "img": "https://den-cards.pokellector.com/310/Shiftry.S6K.48.38653.png",
+      "rarity": "Uncommon",
+      "cardNum": "48/70"
+    },
+    {
+      "name": "Metagross V",
+      "set": "Jet Black Spirit",
+      "img": "https://den-cards.pokellector.com/310/Metagross-V.S6K.49.38675.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "49/70"
+    },
+    {
+      "name": "Metagross VMAX",
+      "set": "Jet Black Spirit",
+      "img": "https://den-cards.pokellector.com/310/Metagross-VMAX.S6K.50.38676.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "50/70"
+    },
+    {
+      "name": "Cobalion",
+      "set": "Jet Black Spirit",
+      "img": "https://den-cards.pokellector.com/310/Cobalion.S6K.51.38754.png",
+      "rarity": "Rare",
+      "cardNum": "51/70"
+    },
+    {
+      "name": "Blissey V",
+      "set": "Jet Black Spirit",
+      "img": "https://den-cards.pokellector.com/310/Blissey-V.S6K.52.38674.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "52/70"
+    },
+    {
+      "name": "Castform",
+      "set": "Jet Black Spirit",
+      "img": "https://den-cards.pokellector.com/310/Castform.S6K.53.37856.png",
+      "rarity": "Common",
+      "cardNum": "53/70"
+    },
+    {
+      "name": "Kecleon",
+      "set": "Jet Black Spirit",
+      "img": "https://den-cards.pokellector.com/310/Kecleon.S6K.54.38647.png",
+      "rarity": "Common",
+      "cardNum": "54/70"
+    },
+    {
+      "name": "Fletchling",
+      "set": "Jet Black Spirit",
+      "img": "https://den-cards.pokellector.com/310/Fletchling.S6K.55.38755.png",
+      "rarity": "Common",
+      "cardNum": "55/70"
+    },
+    {
+      "name": "Fletchinder",
+      "set": "Jet Black Spirit",
+      "img": "https://den-cards.pokellector.com/310/Fletchinder.S6K.56.38756.png",
+      "rarity": "Common",
+      "cardNum": "56/70"
+    },
+    {
+      "name": "Talonflame",
+      "set": "Jet Black Spirit",
+      "img": "https://den-cards.pokellector.com/310/Talonflame.S6K.57.38757.png",
+      "rarity": "Uncommon",
+      "cardNum": "57/70"
+    },
+    {
+      "name": "Skwovet",
+      "set": "Jet Black Spirit",
+      "img": "https://den-cards.pokellector.com/310/Skwovet.S6K.58.38758.png",
+      "rarity": "Common",
+      "cardNum": "58/70"
+    },
+    {
+      "name": "Greedent",
+      "set": "Jet Black Spirit",
+      "img": "https://den-cards.pokellector.com/310/Greedent.S6K.59.38759.png",
+      "rarity": "Rare",
+      "cardNum": "59/70"
+    },
+    {
+      "name": "Fog Crystal",
+      "set": "Jet Black Spirit",
+      "img": "https://den-cards.pokellector.com/310/Fog-Crystal.S6K.60.38643.png",
+      "rarity": "Uncommon",
+      "cardNum": "60/70"
+    },
+    {
+      "name": "Gardening Gloves",
+      "set": "Jet Black Spirit",
+      "img": "https://den-cards.pokellector.com/310/Gardening-Gloves.S6K.61.38680.png",
+      "rarity": "Uncommon",
+      "cardNum": "61/70"
+    },
+    {
+      "name": "Gloves of Justice",
+      "set": "Jet Black Spirit",
+      "img": "https://den-cards.pokellector.com/310/Gloves-of-Justice.S6K.62.38679.png",
+      "rarity": "Uncommon",
+      "cardNum": "62/70"
+    },
+    {
+      "name": "Rapid Strike Scroll of Skies",
+      "set": "Jet Black Spirit",
+      "img": "https://den-cards.pokellector.com/310/Rapid-Strike-Scroll-of-Skies.S6K.63.38629.png",
+      "rarity": "Uncommon",
+      "cardNum": "63/70"
+    },
+    {
+      "name": "Caitlin",
+      "set": "Jet Black Spirit",
+      "img": "https://den-cards.pokellector.com/310/Caitlin.S6K.64.38677.png",
+      "rarity": "Uncommon",
+      "cardNum": "64/70"
+    },
+    {
+      "name": "Agatha",
+      "set": "Jet Black Spirit",
+      "img": "https://den-cards.pokellector.com/310/Agatha.S6K.65.38678.png",
+      "rarity": "Uncommon",
+      "cardNum": "65/70"
+    },
+    {
+      "name": "Peonia",
+      "set": "Jet Black Spirit",
+      "img": "https://den-cards.pokellector.com/310/Peonia.S6K.66.38760.png",
+      "rarity": "Uncommon",
+      "cardNum": "66/70"
+    },
+    {
+      "name": "Siebold",
+      "set": "Jet Black Spirit",
+      "img": "https://den-cards.pokellector.com/310/Siebold.S6K.67.38630.png",
+      "rarity": "Uncommon",
+      "cardNum": "67/70"
+    },
+    {
+      "name": "Old Cemetery",
+      "set": "Jet Black Spirit",
+      "img": "https://den-cards.pokellector.com/310/Old-Cemetery.S6K.68.38642.png",
+      "rarity": "Uncommon",
+      "cardNum": "68/70"
+    },
+    {
+      "name": "Spiral Energy",
+      "set": "Jet Black Spirit",
+      "img": "https://den-cards.pokellector.com/310/Spiral-Energy.S6K.69.38628.png",
+      "rarity": "Uncommon",
+      "cardNum": "69/70"
+    },
+    {
+      "name": "Lucky Energy",
+      "set": "Jet Black Spirit",
+      "img": "https://den-cards.pokellector.com/310/Lucky-Energy.S6K.70.38645.png",
+      "rarity": "Uncommon",
+      "cardNum": "70/70"
+    },
+    {
+      "name": "Celebi V",
+      "set": "Jet Black Spirit",
+      "img": "https://den-cards.pokellector.com/310/Celebi-V.S6K.71.38793.png",
+      "rarity": "Secret Rare",
+      "cardNum": "71/70"
+    },
+    {
+      "name": "Arctovish V",
+      "set": "Jet Black Spirit",
+      "img": "https://den-cards.pokellector.com/310/Arctovish-V.S6K.72.38794.png",
+      "rarity": "Secret Rare",
+      "cardNum": "72/70"
+    },
+    {
+      "name": "Zeraora V",
+      "set": "Jet Black Spirit",
+      "img": "https://den-cards.pokellector.com/310/Zeraora-V.S6K.73.38795.png",
+      "rarity": "Secret Rare",
+      "cardNum": "73/70"
+    },
+    {
+      "name": "Zeraora V",
+      "set": "Jet Black Spirit",
+      "img": "https://den-cards.pokellector.com/310/Zeraora-V.S6K.74.38796.png",
+      "rarity": "Secret Rare",
+      "cardNum": "74/70"
+    },
+    {
+      "name": "Shadow Rider Calyrex V",
+      "set": "Jet Black Spirit",
+      "img": "https://den-cards.pokellector.com/310/Shadow-Rider-Calyrex-V.S6K.75.38797.png",
+      "rarity": "Secret Rare",
+      "cardNum": "75/70"
+    },
+    {
+      "name": "Shadow Rider Calyrex V",
+      "set": "Jet Black Spirit",
+      "img": "https://den-cards.pokellector.com/310/Shadow-Rider-Calyrex-V.S6K.76.38798.png",
+      "rarity": "Secret Rare",
+      "cardNum": "76/70"
+    },
+    {
+      "name": "Metagross V",
+      "set": "Jet Black Spirit",
+      "img": "https://den-cards.pokellector.com/310/Metagross-V.S6K.77.38799.png",
+      "rarity": "Secret Rare",
+      "cardNum": "77/70"
+    },
+    {
+      "name": "Blissey V",
+      "set": "Jet Black Spirit",
+      "img": "https://den-cards.pokellector.com/310/Blissey-V.S6K.78.38800.png",
+      "rarity": "Secret Rare",
+      "cardNum": "78/70"
+    },
+    {
+      "name": "Blissey V",
+      "set": "Jet Black Spirit",
+      "img": "https://den-cards.pokellector.com/310/Blissey-V.S6K.79.38801.png",
+      "rarity": "Secret Rare",
+      "cardNum": "79/70"
+    },
+    {
+      "name": "Caitlin",
+      "set": "Jet Black Spirit",
+      "img": "https://den-cards.pokellector.com/310/Caitlin.S6K.80.38763.png",
+      "rarity": "Super Secret Rare",
+      "cardNum": "80/70"
+    },
+    {
+      "name": "Agatha",
+      "set": "Jet Black Spirit",
+      "img": "https://den-cards.pokellector.com/310/Agatha.S6K.81.38802.png",
+      "rarity": "Secret Rare",
+      "cardNum": "81/70"
+    },
+    {
+      "name": "Peonia",
+      "set": "Jet Black Spirit",
+      "img": "https://den-cards.pokellector.com/310/Peonia.S6K.82.38803.png",
+      "rarity": "Secret Rare",
+      "cardNum": "82/70"
+    },
+    {
+      "name": "Siebold",
+      "set": "Jet Black Spirit",
+      "img": "https://den-cards.pokellector.com/310/Siebold.S6K.83.38804.png",
+      "rarity": "Secret Rare",
+      "cardNum": "83/70"
+    },
+    {
+      "name": "Celebi VMAX",
+      "set": "Jet Black Spirit",
+      "img": "https://den-cards.pokellector.com/310/Celebi-VMAX.S6K.84.38805.png",
+      "rarity": "Secret Rare",
+      "cardNum": "84/70"
+    },
+    {
+      "name": "Shadow Rider Calyrex VMAX",
+      "set": "Jet Black Spirit",
+      "img": "https://den-cards.pokellector.com/310/Shadow-Rider-Calyrex-VMAX.S6K.85.38806.png",
+      "rarity": "Secret Rare",
+      "cardNum": "85/70"
+    },
+    {
+      "name": "Shadow Rider Calyrex VMAX",
+      "set": "Jet Black Spirit",
+      "img": "https://den-cards.pokellector.com/310/Shadow-Rider-Calyrex-VMAX.S6K.86.38672.png",
+      "rarity": "Secret Rare",
+      "cardNum": "86/70"
+    },
+    {
+      "name": "Metagross VMAX",
+      "set": "Jet Black Spirit",
+      "img": "https://den-cards.pokellector.com/310/Metagross-VMAX.S6K.87.38807.png",
+      "rarity": "Secret Rare",
+      "cardNum": "87/70"
+    },
+    {
+      "name": "Caitlin",
+      "set": "Jet Black Spirit",
+      "img": "https://den-cards.pokellector.com/310/Caitlin.S6K.88.38808.png",
+      "rarity": "Secret Rare",
+      "cardNum": "88/70"
+    },
+    {
+      "name": "Agatha",
+      "set": "Jet Black Spirit",
+      "img": "https://den-cards.pokellector.com/310/Agatha.S6K.89.38809.png",
+      "rarity": "Secret Rare",
+      "cardNum": "89/70"
+    },
+    {
+      "name": "Peonia",
+      "set": "Jet Black Spirit",
+      "img": "https://den-cards.pokellector.com/310/Peonia.S6K.90.38810.png",
+      "rarity": "Secret Rare",
+      "cardNum": "90/70"
+    },
+    {
+      "name": "Siebold",
+      "set": "Jet Black Spirit",
+      "img": "https://den-cards.pokellector.com/310/Siebold.S6K.91.38811.png",
+      "rarity": "Secret Rare",
+      "cardNum": "91/70"
+    },
+    {
+      "name": "Electrode",
+      "set": "Jet Black Spirit",
+      "img": "https://den-cards.pokellector.com/310/Electrode.S6K.92.38812.png",
+      "rarity": "Secret Rare",
+      "cardNum": "92/70"
+    },
+    {
+      "name": "Fog Crystal",
+      "set": "Jet Black Spirit",
+      "img": "https://den-cards.pokellector.com/310/Fog-Crystal.S6K.93.38813.png",
+      "rarity": "Secret Rare",
+      "cardNum": "93/70"
+    },
+    {
+      "name": "Echoing Horn",
+      "set": "Jet Black Spirit",
+      "img": "https://den-cards.pokellector.com/310/Echo-Horn.S6K.94.38814.png",
+      "rarity": "Secret Rare",
+      "cardNum": "94/70"
+    },
+    {
+      "name": "Psychic Energy",
+      "set": "Jet Black Spirit",
+      "img": "https://den-cards.pokellector.com/310/Psychic-Energy.S6K.95.38815.png",
+      "rarity": "Secret Rare",
+      "cardNum": "95/70"
+    }
+  ]
+}

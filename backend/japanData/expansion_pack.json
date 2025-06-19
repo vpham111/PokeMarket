@@ -1,0 +1,719 @@
+{
+  "setName": "Expansion Pack",
+  "cards": [
+    {
+      "name": "Bulbasaur",
+      "set": "Expansion Pack",
+      "img": "https://den-cards.pokellector.com/311/Bulbasaur.EXP.1.37251.png",
+      "rarity": "Common",
+      "cardNum": ""
+    },
+    {
+      "name": "Caterpie",
+      "set": "Expansion Pack",
+      "img": "https://den-cards.pokellector.com/311/Caterpie.EXP.2.37252.png",
+      "rarity": "Common",
+      "cardNum": ""
+    },
+    {
+      "name": "Metapod",
+      "set": "Expansion Pack",
+      "img": "https://den-cards.pokellector.com/311/Metapod.EXP.3.37253.png",
+      "rarity": "Common",
+      "cardNum": ""
+    },
+    {
+      "name": "Weedle",
+      "set": "Expansion Pack",
+      "img": "https://den-cards.pokellector.com/311/Weedle.EXP.4.37254.png",
+      "rarity": "Common",
+      "cardNum": ""
+    },
+    {
+      "name": "Nidoran♂",
+      "set": "Expansion Pack",
+      "img": "https://den-cards.pokellector.com/311/Nidoran.EXP.5.37255.png",
+      "rarity": "Common",
+      "cardNum": ""
+    },
+    {
+      "name": "Koffing",
+      "set": "Expansion Pack",
+      "img": "https://den-cards.pokellector.com/311/Koffing.EXP.6.37256.png",
+      "rarity": "Common",
+      "cardNum": ""
+    },
+    {
+      "name": "Tangela",
+      "set": "Expansion Pack",
+      "img": "https://den-cards.pokellector.com/311/Tangela.EXP.7.37257.png",
+      "rarity": "Common",
+      "cardNum": ""
+    },
+    {
+      "name": "Ivysaur",
+      "set": "Expansion Pack",
+      "img": "https://den-cards.pokellector.com/311/Ivysaur.EXP.8.37258.png",
+      "rarity": "Uncommon",
+      "cardNum": ""
+    },
+    {
+      "name": "Kakuna",
+      "set": "Expansion Pack",
+      "img": "https://den-cards.pokellector.com/311/Kakuna.EXP.9.37259.png",
+      "rarity": "Uncommon",
+      "cardNum": ""
+    },
+    {
+      "name": "Nidorino",
+      "set": "Expansion Pack",
+      "img": "https://den-cards.pokellector.com/311/Nidorino.EXP.10.37260.png",
+      "rarity": "Uncommon",
+      "cardNum": ""
+    },
+    {
+      "name": "Venusaur",
+      "set": "Expansion Pack",
+      "img": "https://den-cards.pokellector.com/311/Venusaur.EXP.11.37261.png",
+      "rarity": "Rare",
+      "cardNum": ""
+    },
+    {
+      "name": "Beedrill",
+      "set": "Expansion Pack",
+      "img": "https://den-cards.pokellector.com/311/Beedrill.EXP.12.37262.png",
+      "rarity": "Rare",
+      "cardNum": ""
+    },
+    {
+      "name": "Nidoking",
+      "set": "Expansion Pack",
+      "img": "https://den-cards.pokellector.com/311/Nidoking.EXP.13.37263.png",
+      "rarity": "Rare",
+      "cardNum": ""
+    },
+    {
+      "name": "Charmander",
+      "set": "Expansion Pack",
+      "img": "https://den-cards.pokellector.com/311/Charmander.EXP.14.37264.png",
+      "rarity": "Common",
+      "cardNum": ""
+    },
+    {
+      "name": "Vulpix",
+      "set": "Expansion Pack",
+      "img": "https://den-cards.pokellector.com/311/Vulpix.EXP.15.37265.png",
+      "rarity": "Common",
+      "cardNum": ""
+    },
+    {
+      "name": "Ponyta",
+      "set": "Expansion Pack",
+      "img": "https://den-cards.pokellector.com/311/Ponyta.EXP.16.37266.png",
+      "rarity": "Common",
+      "cardNum": ""
+    },
+    {
+      "name": "Charmeleon",
+      "set": "Expansion Pack",
+      "img": "https://den-cards.pokellector.com/311/Charmeleon.EXP.17.37267.png",
+      "rarity": "Uncommon",
+      "cardNum": ""
+    },
+    {
+      "name": "Growlithe",
+      "set": "Expansion Pack",
+      "img": "https://den-cards.pokellector.com/311/Growlithe.EXP.18.37268.png",
+      "rarity": "Uncommon",
+      "cardNum": ""
+    },
+    {
+      "name": "Arcanine",
+      "set": "Expansion Pack",
+      "img": "https://den-cards.pokellector.com/311/Arcanine.EXP.19.37269.png",
+      "rarity": "Uncommon",
+      "cardNum": ""
+    },
+    {
+      "name": "Magmar",
+      "set": "Expansion Pack",
+      "img": "https://den-cards.pokellector.com/311/Magmar.EXP.20.37270.png",
+      "rarity": "Uncommon",
+      "cardNum": ""
+    },
+    {
+      "name": "Charizard",
+      "set": "Expansion Pack",
+      "img": "https://den-cards.pokellector.com/311/Charizard.EXP.21.37271.png",
+      "rarity": "Rare",
+      "cardNum": ""
+    },
+    {
+      "name": "Ninetales",
+      "set": "Expansion Pack",
+      "img": "https://den-cards.pokellector.com/311/Ninetales.EXP.22.37272.png",
+      "rarity": "Rare",
+      "cardNum": ""
+    },
+    {
+      "name": "Squirtle",
+      "set": "Expansion Pack",
+      "img": "https://den-cards.pokellector.com/311/Squirtle.EXP.23.37273.png",
+      "rarity": "Common",
+      "cardNum": ""
+    },
+    {
+      "name": "Poliwag",
+      "set": "Expansion Pack",
+      "img": "https://den-cards.pokellector.com/311/Poliwag.EXP.24.37274.png",
+      "rarity": "Common",
+      "cardNum": ""
+    },
+    {
+      "name": "Staryu",
+      "set": "Expansion Pack",
+      "img": "https://den-cards.pokellector.com/311/Staryu.EXP.25.37275.png",
+      "rarity": "Common",
+      "cardNum": ""
+    },
+    {
+      "name": "Starmie",
+      "set": "Expansion Pack",
+      "img": "https://den-cards.pokellector.com/311/Starmie.EXP.26.37276.png",
+      "rarity": "Common",
+      "cardNum": ""
+    },
+    {
+      "name": "Wartortle",
+      "set": "Expansion Pack",
+      "img": "https://den-cards.pokellector.com/311/Wartortle.EXP.27.37277.png",
+      "rarity": "Uncommon",
+      "cardNum": ""
+    },
+    {
+      "name": "Poliwhirl",
+      "set": "Expansion Pack",
+      "img": "https://den-cards.pokellector.com/311/Poliwhirl.EXP.28.37278.png",
+      "rarity": "Uncommon",
+      "cardNum": ""
+    },
+    {
+      "name": "Seel",
+      "set": "Expansion Pack",
+      "img": "https://den-cards.pokellector.com/311/Seel.EXP.29.37279.png",
+      "rarity": "Uncommon",
+      "cardNum": ""
+    },
+    {
+      "name": "Dewgong",
+      "set": "Expansion Pack",
+      "img": "https://den-cards.pokellector.com/311/Dewgong.EXP.30.37280.png",
+      "rarity": "Uncommon",
+      "cardNum": ""
+    },
+    {
+      "name": "Magikarp",
+      "set": "Expansion Pack",
+      "img": "https://den-cards.pokellector.com/311/Magikarp.EXP.31.37281.png",
+      "rarity": "Uncommon",
+      "cardNum": ""
+    },
+    {
+      "name": "Blastoise",
+      "set": "Expansion Pack",
+      "img": "https://den-cards.pokellector.com/311/Blastoise.EXP.32.37282.png",
+      "rarity": "Rare",
+      "cardNum": ""
+    },
+    {
+      "name": "Poliwrath",
+      "set": "Expansion Pack",
+      "img": "https://den-cards.pokellector.com/311/Poliwrath.EXP.33.37283.png",
+      "rarity": "Rare",
+      "cardNum": ""
+    },
+    {
+      "name": "Gyarados",
+      "set": "Expansion Pack",
+      "img": "https://den-cards.pokellector.com/311/Gyarados.EXP.34.37284.png",
+      "rarity": "Rare",
+      "cardNum": ""
+    },
+    {
+      "name": "Pikachu",
+      "set": "Expansion Pack",
+      "img": "https://den-cards.pokellector.com/311/Pikachu.EXP.35.37285.png",
+      "rarity": "Common",
+      "cardNum": ""
+    },
+    {
+      "name": "Magnemite",
+      "set": "Expansion Pack",
+      "img": "https://den-cards.pokellector.com/311/Magnemite.EXP.36.37286.png",
+      "rarity": "Common",
+      "cardNum": ""
+    },
+    {
+      "name": "Voltorb",
+      "set": "Expansion Pack",
+      "img": "https://den-cards.pokellector.com/311/Voltorb.EXP.37.37287.png",
+      "rarity": "Common",
+      "cardNum": ""
+    },
+    {
+      "name": "Raichu",
+      "set": "Expansion Pack",
+      "img": "https://den-cards.pokellector.com/311/Raichu.EXP.38.37288.png",
+      "rarity": "Rare",
+      "cardNum": ""
+    },
+    {
+      "name": "Magneton",
+      "set": "Expansion Pack",
+      "img": "https://den-cards.pokellector.com/311/Magneton.EXP.39.37289.png",
+      "rarity": "Rare",
+      "cardNum": ""
+    },
+    {
+      "name": "Electrode",
+      "set": "Expansion Pack",
+      "img": "https://den-cards.pokellector.com/311/Electrode.EXP.40.37290.png",
+      "rarity": "Rare",
+      "cardNum": ""
+    },
+    {
+      "name": "Electabuzz",
+      "set": "Expansion Pack",
+      "img": "https://den-cards.pokellector.com/311/Electabuzz.EXP.41.37291.png",
+      "rarity": "Rare",
+      "cardNum": ""
+    },
+    {
+      "name": "Zapdos",
+      "set": "Expansion Pack",
+      "img": "https://den-cards.pokellector.com/311/Zapdos.EXP.42.37292.png",
+      "rarity": "Rare",
+      "cardNum": ""
+    },
+    {
+      "name": "Abra",
+      "set": "Expansion Pack",
+      "img": "https://den-cards.pokellector.com/311/Abra.EXP.43.37293.png",
+      "rarity": "Common",
+      "cardNum": ""
+    },
+    {
+      "name": "Gastly",
+      "set": "Expansion Pack",
+      "img": "https://den-cards.pokellector.com/311/Gastly.EXP.44.37294.png",
+      "rarity": "Common",
+      "cardNum": ""
+    },
+    {
+      "name": "Drowzee",
+      "set": "Expansion Pack",
+      "img": "https://den-cards.pokellector.com/311/Drowzee.EXP.45.37295.png",
+      "rarity": "Common",
+      "cardNum": ""
+    },
+    {
+      "name": "Kadabra",
+      "set": "Expansion Pack",
+      "img": "https://den-cards.pokellector.com/311/Kadabra.EXP.46.37296.png",
+      "rarity": "Uncommon",
+      "cardNum": ""
+    },
+    {
+      "name": "Haunter",
+      "set": "Expansion Pack",
+      "img": "https://den-cards.pokellector.com/311/Haunter.EXP.47.37297.png",
+      "rarity": "Uncommon",
+      "cardNum": ""
+    },
+    {
+      "name": "Jynx",
+      "set": "Expansion Pack",
+      "img": "https://den-cards.pokellector.com/311/Jynx.EXP.48.37298.png",
+      "rarity": "Uncommon",
+      "cardNum": ""
+    },
+    {
+      "name": "Alakazam",
+      "set": "Expansion Pack",
+      "img": "https://den-cards.pokellector.com/311/Alakazam.EXP.49.37299.png",
+      "rarity": "Rare",
+      "cardNum": ""
+    },
+    {
+      "name": "Mewtwo",
+      "set": "Expansion Pack",
+      "img": "https://den-cards.pokellector.com/311/Mewtwo.EXP.50.37300.png",
+      "rarity": "Rare",
+      "cardNum": ""
+    },
+    {
+      "name": "Sandshrew",
+      "set": "Expansion Pack",
+      "img": "https://den-cards.pokellector.com/311/Sandshrew.EXP.51.37301.png",
+      "rarity": "Common",
+      "cardNum": ""
+    },
+    {
+      "name": "Diglett",
+      "set": "Expansion Pack",
+      "img": "https://den-cards.pokellector.com/311/Diglett.EXP.52.37302.png",
+      "rarity": "Common",
+      "cardNum": ""
+    },
+    {
+      "name": "Machop",
+      "set": "Expansion Pack",
+      "img": "https://den-cards.pokellector.com/311/Machop.EXP.53.37303.png",
+      "rarity": "Common",
+      "cardNum": ""
+    },
+    {
+      "name": "Onix",
+      "set": "Expansion Pack",
+      "img": "https://den-cards.pokellector.com/311/Onix.EXP.54.37304.png",
+      "rarity": "Common",
+      "cardNum": ""
+    },
+    {
+      "name": "Machoke",
+      "set": "Expansion Pack",
+      "img": "https://den-cards.pokellector.com/311/Machoke.EXP.55.37305.png",
+      "rarity": "Uncommon",
+      "cardNum": ""
+    },
+    {
+      "name": "Dugtrio",
+      "set": "Expansion Pack",
+      "img": "https://den-cards.pokellector.com/311/Dugtrio.EXP.56.37306.png",
+      "rarity": "Rare",
+      "cardNum": ""
+    },
+    {
+      "name": "Machamp",
+      "set": "Expansion Pack",
+      "img": "https://den-cards.pokellector.com/311/Machamp.EXP.57.37307.png",
+      "rarity": "Rare",
+      "cardNum": ""
+    },
+    {
+      "name": "Hitmonchan",
+      "set": "Expansion Pack",
+      "img": "https://den-cards.pokellector.com/311/Hitmonchan.EXP.58.37308.png",
+      "rarity": "Rare",
+      "cardNum": ""
+    },
+    {
+      "name": "Pidgey",
+      "set": "Expansion Pack",
+      "img": "https://den-cards.pokellector.com/311/Pidgey.EXP.59.37309.png",
+      "rarity": "Common",
+      "cardNum": ""
+    },
+    {
+      "name": "Rattata",
+      "set": "Expansion Pack",
+      "img": "https://den-cards.pokellector.com/311/Rattata.EXP.60.37310.png",
+      "rarity": "Common",
+      "cardNum": ""
+    },
+    {
+      "name": "Doduo",
+      "set": "Expansion Pack",
+      "img": "https://den-cards.pokellector.com/311/Doduo.EXP.61.37311.png",
+      "rarity": "Common",
+      "cardNum": ""
+    },
+    {
+      "name": "Raticate",
+      "set": "Expansion Pack",
+      "img": "https://den-cards.pokellector.com/311/Raticate.EXP.62.37312.png",
+      "rarity": "Uncommon",
+      "cardNum": ""
+    },
+    {
+      "name": "Farfetch'd",
+      "set": "Expansion Pack",
+      "img": "https://den-cards.pokellector.com/311/Farfetchd.EXP.63.37313.png",
+      "rarity": "Uncommon",
+      "cardNum": ""
+    },
+    {
+      "name": "Porygon",
+      "set": "Expansion Pack",
+      "img": "https://den-cards.pokellector.com/311/Porygon.EXP.64.37314.png",
+      "rarity": "Uncommon",
+      "cardNum": ""
+    },
+    {
+      "name": "Dratini",
+      "set": "Expansion Pack",
+      "img": "https://den-cards.pokellector.com/311/Dratini.EXP.65.37315.png",
+      "rarity": "Uncommon",
+      "cardNum": ""
+    },
+    {
+      "name": "Pidgeotto",
+      "set": "Expansion Pack",
+      "img": "https://den-cards.pokellector.com/311/Pidgeotto.EXP.66.37316.png",
+      "rarity": "Rare",
+      "cardNum": ""
+    },
+    {
+      "name": "Clefairy",
+      "set": "Expansion Pack",
+      "img": "https://den-cards.pokellector.com/311/Clefairy.EXP.67.37317.png",
+      "rarity": "Rare",
+      "cardNum": ""
+    },
+    {
+      "name": "Chansey",
+      "set": "Expansion Pack",
+      "img": "https://den-cards.pokellector.com/311/Chansey.EXP.68.37318.png",
+      "rarity": "Rare",
+      "cardNum": ""
+    },
+    {
+      "name": "Dragonair",
+      "set": "Expansion Pack",
+      "img": "https://den-cards.pokellector.com/311/Dragonair.EXP.69.37319.png",
+      "rarity": "Rare",
+      "cardNum": ""
+    },
+    {
+      "name": "Energy Removal",
+      "set": "Expansion Pack",
+      "img": "https://den-cards.pokellector.com/311/Energy-Removal.EXP.70.37320.png",
+      "rarity": "Common",
+      "cardNum": ""
+    },
+    {
+      "name": "Potion",
+      "set": "Expansion Pack",
+      "img": "https://den-cards.pokellector.com/311/Potion.EXP.71.37321.png",
+      "rarity": "Common",
+      "cardNum": ""
+    },
+    {
+      "name": "Gust of Wind",
+      "set": "Expansion Pack",
+      "img": "https://den-cards.pokellector.com/311/Gust-of-Wind.EXP.72.37322.png",
+      "rarity": "Common",
+      "cardNum": ""
+    },
+    {
+      "name": "Switch",
+      "set": "Expansion Pack",
+      "img": "https://den-cards.pokellector.com/311/Switch.EXP.73.37323.png",
+      "rarity": "Common",
+      "cardNum": ""
+    },
+    {
+      "name": "Bill",
+      "set": "Expansion Pack",
+      "img": "https://den-cards.pokellector.com/311/Bill.EXP.74.37324.png",
+      "rarity": "Common",
+      "cardNum": ""
+    },
+    {
+      "name": "Super Potion",
+      "set": "Expansion Pack",
+      "img": "https://den-cards.pokellector.com/311/Super-Potion.EXP.75.37325.png",
+      "rarity": "Uncommon",
+      "cardNum": ""
+    },
+    {
+      "name": "Energy Retrieval",
+      "set": "Expansion Pack",
+      "img": "https://den-cards.pokellector.com/311/Energy-Retrieval.EXP.76.37326.png",
+      "rarity": "Uncommon",
+      "cardNum": ""
+    },
+    {
+      "name": "Professor Oak",
+      "set": "Expansion Pack",
+      "img": "https://den-cards.pokellector.com/311/Professor-Oak.EXP.77.37327.png",
+      "rarity": "Uncommon",
+      "cardNum": ""
+    },
+    {
+      "name": "Revive",
+      "set": "Expansion Pack",
+      "img": "https://den-cards.pokellector.com/311/Revive.EXP.78.37328.png",
+      "rarity": "Uncommon",
+      "cardNum": ""
+    },
+    {
+      "name": "Defender",
+      "set": "Expansion Pack",
+      "img": "https://den-cards.pokellector.com/311/Defender.EXP.79.37329.png",
+      "rarity": "Uncommon",
+      "cardNum": ""
+    },
+    {
+      "name": "Full Heal",
+      "set": "Expansion Pack",
+      "img": "https://den-cards.pokellector.com/311/Full-Heal.EXP.80.37330.png",
+      "rarity": "Uncommon",
+      "cardNum": ""
+    },
+    {
+      "name": "PlusPower",
+      "set": "Expansion Pack",
+      "img": "https://den-cards.pokellector.com/311/PlusPower.EXP.81.37331.png",
+      "rarity": "Uncommon",
+      "cardNum": ""
+    },
+    {
+      "name": "Pokedex",
+      "set": "Expansion Pack",
+      "img": "https://den-cards.pokellector.com/311/Pokedex.EXP.82.37332.png",
+      "rarity": "Uncommon",
+      "cardNum": ""
+    },
+    {
+      "name": "Pokemon Center",
+      "set": "Expansion Pack",
+      "img": "https://den-cards.pokellector.com/311/Pokemon-Center.EXP.83.37333.png",
+      "rarity": "Uncommon",
+      "cardNum": ""
+    },
+    {
+      "name": "Pokemon Flute",
+      "set": "Expansion Pack",
+      "img": "https://den-cards.pokellector.com/311/Pokemon-Flute.EXP.84.37334.png",
+      "rarity": "Uncommon",
+      "cardNum": ""
+    },
+    {
+      "name": "Maintenance",
+      "set": "Expansion Pack",
+      "img": "https://den-cards.pokellector.com/311/Maintenance.EXP.85.37335.png",
+      "rarity": "Uncommon",
+      "cardNum": ""
+    },
+    {
+      "name": "Devolution Spray",
+      "set": "Expansion Pack",
+      "img": "https://den-cards.pokellector.com/311/Devolution-Spray.EXP.86.37336.png",
+      "rarity": "Rare",
+      "cardNum": ""
+    },
+    {
+      "name": "Item Finder",
+      "set": "Expansion Pack",
+      "img": "https://den-cards.pokellector.com/311/Item-Finder.EXP.87.37337.png",
+      "rarity": "Rare",
+      "cardNum": ""
+    },
+    {
+      "name": "Super Energy Removal",
+      "set": "Expansion Pack",
+      "img": "https://den-cards.pokellector.com/311/Super-Energy-Removal.EXP.88.37338.png",
+      "rarity": "Rare",
+      "cardNum": ""
+    },
+    {
+      "name": "Impostor Professor Oak",
+      "set": "Expansion Pack",
+      "img": "https://den-cards.pokellector.com/311/Impostor-Professor-Oak.EXP.89.37339.png",
+      "rarity": "Rare",
+      "cardNum": ""
+    },
+    {
+      "name": "Computer Search",
+      "set": "Expansion Pack",
+      "img": "https://den-cards.pokellector.com/311/Computer-Search.EXP.90.37340.png",
+      "rarity": "Rare",
+      "cardNum": ""
+    },
+    {
+      "name": "Clefairy Doll",
+      "set": "Expansion Pack",
+      "img": "https://den-cards.pokellector.com/311/Clefairy-Doll.EXP.91.37341.png",
+      "rarity": "Rare",
+      "cardNum": ""
+    },
+    {
+      "name": "Scoop Up",
+      "set": "Expansion Pack",
+      "img": "https://den-cards.pokellector.com/311/Scoop-Up.EXP.92.37342.png",
+      "rarity": "Rare",
+      "cardNum": ""
+    },
+    {
+      "name": "Pokemon Trader",
+      "set": "Expansion Pack",
+      "img": "https://den-cards.pokellector.com/311/Pokemon-Trader.EXP.93.37343.png",
+      "rarity": "Rare",
+      "cardNum": ""
+    },
+    {
+      "name": "Pokemon  Breeder",
+      "set": "Expansion Pack",
+      "img": "https://den-cards.pokellector.com/311/Pokemon-Breeder.EXP.94.37344.png",
+      "rarity": "Rare",
+      "cardNum": ""
+    },
+    {
+      "name": "Lass",
+      "set": "Expansion Pack",
+      "img": "https://den-cards.pokellector.com/311/Lass.EXP.95.37345.png",
+      "rarity": "Rare",
+      "cardNum": ""
+    },
+    {
+      "name": "Double Colorless Energy",
+      "set": "Expansion Pack",
+      "img": "https://den-cards.pokellector.com/311/Double-Colorless-Energy.EXP.96.37346.png",
+      "rarity": "Uncommon",
+      "cardNum": ""
+    },
+    {
+      "name": "Grass Energy",
+      "set": "Expansion Pack",
+      "img": "https://den-cards.pokellector.com/311/Grass-Energy.EXP.97.37347.png",
+      "rarity": "Common",
+      "cardNum": ""
+    },
+    {
+      "name": "Fire Energy",
+      "set": "Expansion Pack",
+      "img": "https://den-cards.pokellector.com/311/Fire-Energy.EXP.98.37348.png",
+      "rarity": "Common",
+      "cardNum": ""
+    },
+    {
+      "name": "Water Energy",
+      "set": "Expansion Pack",
+      "img": "https://den-cards.pokellector.com/311/Water-Energy.EXP.99.37349.png",
+      "rarity": "Common",
+      "cardNum": ""
+    },
+    {
+      "name": "Lightning Energy",
+      "set": "Expansion Pack",
+      "img": "https://den-cards.pokellector.com/311/Lightning-Energy.EXP.100.37350.png",
+      "rarity": "Common",
+      "cardNum": ""
+    },
+    {
+      "name": "Psychic Energy",
+      "set": "Expansion Pack",
+      "img": "https://den-cards.pokellector.com/311/Psychic-Energy.EXP.101.37351.png",
+      "rarity": "Common",
+      "cardNum": ""
+    },
+    {
+      "name": "Fighting Energy",
+      "set": "Expansion Pack",
+      "img": "https://den-cards.pokellector.com/311/Fighting-Energy.EXP.102.37352.png",
+      "rarity": "Common",
+      "cardNum": ""
+    }
+  ]
+}

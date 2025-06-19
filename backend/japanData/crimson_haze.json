@@ -1,0 +1,677 @@
+{
+  "setName": "Crimson Haze",
+  "cards": [
+    {
+      "name": "Tangela",
+      "set": "Crimson Haze",
+      "img": "https://den-cards.pokellector.com/391/Tangela.SV5A.1.52768.png",
+      "rarity": "Common",
+      "cardNum": "1/66"
+    },
+    {
+      "name": "Tangrowth",
+      "set": "Crimson Haze",
+      "img": "https://den-cards.pokellector.com/391/Tangrowth.SV5A.2.52769.png",
+      "rarity": "Common",
+      "cardNum": "2/66"
+    },
+    {
+      "name": "Pinsir",
+      "set": "Crimson Haze",
+      "img": "https://den-cards.pokellector.com/391/Pinsir.SV5A.3.52381.png",
+      "rarity": "Common",
+      "cardNum": "3/66"
+    },
+    {
+      "name": "Spinarak",
+      "set": "Crimson Haze",
+      "img": "https://den-cards.pokellector.com/391/Spinarak.SV5A.4.52412.png",
+      "rarity": "Common",
+      "cardNum": "4/66"
+    },
+    {
+      "name": "Ariados",
+      "set": "Crimson Haze",
+      "img": "https://den-cards.pokellector.com/391/Ariados.SV5A.5.52413.png",
+      "rarity": "Uncommon",
+      "cardNum": "5/66"
+    },
+    {
+      "name": "Leafeon",
+      "set": "Crimson Haze",
+      "img": "https://den-cards.pokellector.com/391/Leafeon.SV5A.6.52770.png",
+      "rarity": "Uncommon",
+      "cardNum": "6/66"
+    },
+    {
+      "name": "Iron Leaves",
+      "set": "Crimson Haze",
+      "img": "https://den-cards.pokellector.com/391/Iron-Leaves.SV5A.7.52385.png",
+      "rarity": "Rare",
+      "cardNum": "7/66"
+    },
+    {
+      "name": "Poltchageist",
+      "set": "Crimson Haze",
+      "img": "https://den-cards.pokellector.com/391/Poltchageist.SV5A.8.52771.png",
+      "rarity": "Common",
+      "cardNum": "8/66"
+    },
+    {
+      "name": "Sinistcha ex",
+      "set": "Crimson Haze",
+      "img": "https://den-cards.pokellector.com/391/Sinistcha-ex.SV5A.9.52766.png",
+      "rarity": "Double Rare",
+      "cardNum": "9/66"
+    },
+    {
+      "name": "Vulpix",
+      "set": "Crimson Haze",
+      "img": "https://den-cards.pokellector.com/391/Vulpix.SV5A.10.52772.png",
+      "rarity": "Common",
+      "cardNum": "10/66"
+    },
+    {
+      "name": "Ninetales",
+      "set": "Crimson Haze",
+      "img": "https://den-cards.pokellector.com/391/Ninetales.SV5A.11.52773.png",
+      "rarity": "Common",
+      "cardNum": "11/66"
+    },
+    {
+      "name": "Slugma",
+      "set": "Crimson Haze",
+      "img": "https://den-cards.pokellector.com/391/Slugma.SV5A.12.52378.png",
+      "rarity": "Common",
+      "cardNum": "12/66"
+    },
+    {
+      "name": "Magcargo ex",
+      "set": "Crimson Haze",
+      "img": "https://den-cards.pokellector.com/391/Magcargo-ex.SV5A.13.52377.png",
+      "rarity": "Double Rare",
+      "cardNum": "13/66"
+    },
+    {
+      "name": "Torkoal",
+      "set": "Crimson Haze",
+      "img": "https://den-cards.pokellector.com/391/Torkoal.SV5A.14.52774.png",
+      "rarity": "Common",
+      "cardNum": "14/66"
+    },
+    {
+      "name": "Chimchar",
+      "set": "Crimson Haze",
+      "img": "https://den-cards.pokellector.com/391/Chimchar.SV5A.15.52384.png",
+      "rarity": "Common",
+      "cardNum": "15/66"
+    },
+    {
+      "name": "Monferno",
+      "set": "Crimson Haze",
+      "img": "https://den-cards.pokellector.com/391/Monferno.SV5A.16.52383.png",
+      "rarity": "Common",
+      "cardNum": "16/66"
+    },
+    {
+      "name": "Infernape",
+      "set": "Crimson Haze",
+      "img": "https://den-cards.pokellector.com/391/Infernape.SV5A.17.52382.png",
+      "rarity": "Rare",
+      "cardNum": "17/66"
+    },
+    {
+      "name": "Chi-Yu",
+      "set": "Crimson Haze",
+      "img": "https://den-cards.pokellector.com/391/Chi-Yu.SV5A.18.52775.png",
+      "rarity": "Uncommon",
+      "cardNum": "18/66"
+    },
+    {
+      "name": "Corphish",
+      "set": "Crimson Haze",
+      "img": "https://den-cards.pokellector.com/391/Corphish.SV5A.19.52776.png",
+      "rarity": "Common",
+      "cardNum": "19/66"
+    },
+    {
+      "name": "Crawdaunt",
+      "set": "Crimson Haze",
+      "img": "https://den-cards.pokellector.com/391/Crawdaunt.SV5A.20.52777.png",
+      "rarity": "Common",
+      "cardNum": "20/66"
+    },
+    {
+      "name": "Glaceon",
+      "set": "Crimson Haze",
+      "img": "https://den-cards.pokellector.com/391/Glaceon.SV5A.21.52778.png",
+      "rarity": "Uncommon",
+      "cardNum": "21/66"
+    },
+    {
+      "name": "Phione",
+      "set": "Crimson Haze",
+      "img": "https://den-cards.pokellector.com/391/Manaphy.SV5A.22.52398.png",
+      "rarity": "Common",
+      "cardNum": "22/66"
+    },
+    {
+      "name": "Froakie",
+      "set": "Crimson Haze",
+      "img": "https://den-cards.pokellector.com/391/Froakie.SV5A.23.52779.png",
+      "rarity": "Common",
+      "cardNum": "23/66"
+    },
+    {
+      "name": "Frogadier",
+      "set": "Crimson Haze",
+      "img": "https://den-cards.pokellector.com/391/Frogadier.SV5A.24.52780.png",
+      "rarity": "Common",
+      "cardNum": "24/66"
+    },
+    {
+      "name": "Cramorant",
+      "set": "Crimson Haze",
+      "img": "https://den-cards.pokellector.com/391/Cramorant.SV5A.25.52379.png",
+      "rarity": "Uncommon",
+      "cardNum": "25/66"
+    },
+    {
+      "name": "Walking Wake",
+      "set": "Crimson Haze",
+      "img": "https://den-cards.pokellector.com/391/Walking-Wake.SV5A.26.52386.png",
+      "rarity": "Rare",
+      "cardNum": "26/66"
+    },
+    {
+      "name": "Zapdos",
+      "set": "Crimson Haze",
+      "img": "https://den-cards.pokellector.com/391/Zapdos.SV5A.27.52781.png",
+      "rarity": "Rare",
+      "cardNum": "27/66"
+    },
+    {
+      "name": "Helioptile",
+      "set": "Crimson Haze",
+      "img": "https://den-cards.pokellector.com/391/Helioptile.SV5A.28.52782.png",
+      "rarity": "Common",
+      "cardNum": "28/66"
+    },
+    {
+      "name": "Heliolisk",
+      "set": "Crimson Haze",
+      "img": "https://den-cards.pokellector.com/391/Heliolisk.SV5A.29.52783.png",
+      "rarity": "Common",
+      "cardNum": "29/66"
+    },
+    {
+      "name": "Morpeko",
+      "set": "Crimson Haze",
+      "img": "https://den-cards.pokellector.com/391/Morpeko.SV5A.30.52376.png",
+      "rarity": "Uncommon",
+      "cardNum": "30/66"
+    },
+    {
+      "name": "Tadbulb",
+      "set": "Crimson Haze",
+      "img": "https://den-cards.pokellector.com/391/Tadbulb.SV5A.31.52784.png",
+      "rarity": "Common",
+      "cardNum": "31/66"
+    },
+    {
+      "name": "Bellibolt",
+      "set": "Crimson Haze",
+      "img": "https://den-cards.pokellector.com/391/Bellibolt.SV5A.32.52785.png",
+      "rarity": "Uncommon",
+      "cardNum": "32/66"
+    },
+    {
+      "name": "Iron Thorns ex",
+      "set": "Crimson Haze",
+      "img": "https://den-cards.pokellector.com/391/Iron-Thorns-ex.SV5A.33.52389.png",
+      "rarity": "Double Rare",
+      "cardNum": "33/66"
+    },
+    {
+      "name": "Girafarig",
+      "set": "Crimson Haze",
+      "img": "https://den-cards.pokellector.com/391/Girafarig.SV5A.34.52375.png",
+      "rarity": "Common",
+      "cardNum": "34/66"
+    },
+    {
+      "name": "Farigiraf",
+      "set": "Crimson Haze",
+      "img": "https://den-cards.pokellector.com/391/Farigiraf.SV5A.35.52374.png",
+      "rarity": "Uncommon",
+      "cardNum": "35/66"
+    },
+    {
+      "name": "Flabébé",
+      "set": "Crimson Haze",
+      "img": "https://den-cards.pokellector.com/391/Flabb.SV5A.36.52786.png",
+      "rarity": "Common",
+      "cardNum": "36/66"
+    },
+    {
+      "name": "Floette",
+      "set": "Crimson Haze",
+      "img": "https://den-cards.pokellector.com/391/Floette.SV5A.37.52787.png",
+      "rarity": "Common",
+      "cardNum": "37/66"
+    },
+    {
+      "name": "Florges",
+      "set": "Crimson Haze",
+      "img": "https://den-cards.pokellector.com/391/Florges.SV5A.38.52788.png",
+      "rarity": "Uncommon",
+      "cardNum": "38/66"
+    },
+    {
+      "name": "Enamorus",
+      "set": "Crimson Haze",
+      "img": "https://den-cards.pokellector.com/391/Enamorus.SV5A.39.52789.png",
+      "rarity": "Rare",
+      "cardNum": "39/66"
+    },
+    {
+      "name": "Scream Tail ex",
+      "set": "Crimson Haze",
+      "img": "https://den-cards.pokellector.com/391/Scream-Tail-ex.SV5A.40.52388.png",
+      "rarity": "Double Rare",
+      "cardNum": "40/66"
+    },
+    {
+      "name": "Hisuian Growlithe",
+      "set": "Crimson Haze",
+      "img": "https://den-cards.pokellector.com/391/Hisuian-Growlithe.SV5A.41.52790.png",
+      "rarity": "Common",
+      "cardNum": "41/66"
+    },
+    {
+      "name": "Hisuian Arcanine",
+      "set": "Crimson Haze",
+      "img": "https://den-cards.pokellector.com/391/Hisuian-Arcanine.SV5A.42.52791.png",
+      "rarity": "Rare",
+      "cardNum": "42/66"
+    },
+    {
+      "name": "Nosepass",
+      "set": "Crimson Haze",
+      "img": "https://den-cards.pokellector.com/391/Nosepass.SV5A.43.52792.png",
+      "rarity": "Common",
+      "cardNum": "43/66"
+    },
+    {
+      "name": "Probopass",
+      "set": "Crimson Haze",
+      "img": "https://den-cards.pokellector.com/391/Probopass.SV5A.44.52793.png",
+      "rarity": "Uncommon",
+      "cardNum": "44/66"
+    },
+    {
+      "name": "Greninja ex",
+      "set": "Crimson Haze",
+      "img": "https://den-cards.pokellector.com/391/Greninja-ex.SV5A.45.52765.png",
+      "rarity": "Double Rare",
+      "cardNum": "45/66"
+    },
+    {
+      "name": "Hawlucha",
+      "set": "Crimson Haze",
+      "img": "https://den-cards.pokellector.com/391/Hawlucha.SV5A.46.52794.png",
+      "rarity": "Common",
+      "cardNum": "46/66"
+    },
+    {
+      "name": "Ting-Lu",
+      "set": "Crimson Haze",
+      "img": "https://den-cards.pokellector.com/391/Ting-Lu.SV5A.47.52795.png",
+      "rarity": "Rare",
+      "cardNum": "47/66"
+    },
+    {
+      "name": "Applin",
+      "set": "Crimson Haze",
+      "img": "https://den-cards.pokellector.com/391/Applin.SV5A.48.52397.png",
+      "rarity": "Common",
+      "cardNum": "48/66"
+    },
+    {
+      "name": "Dipplin",
+      "set": "Crimson Haze",
+      "img": "https://den-cards.pokellector.com/391/Dipplin.SV5A.49.52396.png",
+      "rarity": "Uncommon",
+      "cardNum": "49/66"
+    },
+    {
+      "name": "Eevee",
+      "set": "Crimson Haze",
+      "img": "https://den-cards.pokellector.com/391/Eevee.SV5A.50.52796.png",
+      "rarity": "Common",
+      "cardNum": "50/66"
+    },
+    {
+      "name": "Snorlax",
+      "set": "Crimson Haze",
+      "img": "https://den-cards.pokellector.com/391/Snorlax.SV5A.51.52797.png",
+      "rarity": "Uncommon",
+      "cardNum": "51/66"
+    },
+    {
+      "name": "Bloodmoon Ursaluna ex",
+      "set": "Crimson Haze",
+      "img": "https://den-cards.pokellector.com/391/Bloodmoon-Ursaluna-ex.SV5A.52.52387.png",
+      "rarity": "Double Rare",
+      "cardNum": "52/66"
+    },
+    {
+      "name": "Unfair Stamp",
+      "set": "Crimson Haze",
+      "img": "https://den-cards.pokellector.com/391/Unfair-Stamp.SV5A.53.52390.png",
+      "rarity": "Ace Spec",
+      "cardNum": "53/66"
+    },
+    {
+      "name": "Enhanced Hammer",
+      "set": "Crimson Haze",
+      "img": "https://den-cards.pokellector.com/391/Enhanced-Hammer.SV5A.54.52394.png",
+      "rarity": "Uncommon",
+      "cardNum": "54/66"
+    },
+    {
+      "name": "Hyper Aroma",
+      "set": "Crimson Haze",
+      "img": "https://den-cards.pokellector.com/391/Hyper-Aroma.SV5A.55.52767.png",
+      "rarity": "Ace Spec",
+      "cardNum": "55/66"
+    },
+    {
+      "name": "Switch",
+      "set": "Crimson Haze",
+      "img": "https://den-cards.pokellector.com/391/Switch.SV5A.56.52798.png",
+      "rarity": "Uncommon",
+      "cardNum": "56/66"
+    },
+    {
+      "name": "Pokémon Catcher",
+      "set": "Crimson Haze",
+      "img": "https://den-cards.pokellector.com/391/Pokmon-Catcher.SV5A.57.52799.png",
+      "rarity": "Uncommon",
+      "cardNum": "57/66"
+    },
+    {
+      "name": "Love Ball",
+      "set": "Crimson Haze",
+      "img": "https://den-cards.pokellector.com/391/Love-Ball.SV5A.58.52380.png",
+      "rarity": "Uncommon",
+      "cardNum": "58/66"
+    },
+    {
+      "name": "Survival Cast",
+      "set": "Crimson Haze",
+      "img": "https://den-cards.pokellector.com/391/Survival-Cast.SV5A.59.52411.png",
+      "rarity": "Ace Spec",
+      "cardNum": "59/66"
+    },
+    {
+      "name": "Lucky Helmet",
+      "set": "Crimson Haze",
+      "img": "https://den-cards.pokellector.com/391/Lucky-Helmet.SV5A.60.52395.png",
+      "rarity": "Uncommon",
+      "cardNum": "60/66"
+    },
+    {
+      "name": "Caretaker",
+      "set": "Crimson Haze",
+      "img": "https://den-cards.pokellector.com/391/Caretaker.SV5A.61.52392.png",
+      "rarity": "Common",
+      "cardNum": "61/66"
+    },
+    {
+      "name": "Lucian",
+      "set": "Crimson Haze",
+      "img": "https://den-cards.pokellector.com/391/Lucian.SV5A.62.52800.png",
+      "rarity": "Uncommon",
+      "cardNum": "62/66"
+    },
+    {
+      "name": "Perrin",
+      "set": "Crimson Haze",
+      "img": "https://den-cards.pokellector.com/391/Perrin.SV5A.63.52391.png",
+      "rarity": "Uncommon",
+      "cardNum": "63/66"
+    },
+    {
+      "name": "Lana's Assistance",
+      "set": "Crimson Haze",
+      "img": "https://den-cards.pokellector.com/391/Lanas-Assistance.SV5A.64.52748.png",
+      "rarity": "Uncommon",
+      "cardNum": "64/66"
+    },
+    {
+      "name": "Community Center",
+      "set": "Crimson Haze",
+      "img": "https://den-cards.pokellector.com/391/Community-Center.SV5A.65.52393.png",
+      "rarity": "Uncommon",
+      "cardNum": "65/66"
+    },
+    {
+      "name": "Boomerang Energy",
+      "set": "Crimson Haze",
+      "img": "https://den-cards.pokellector.com/391/Boomerang-Energy.SV5A.66.52749.png",
+      "rarity": "Uncommon",
+      "cardNum": "66/66"
+    },
+    {
+      "name": "Pinsir",
+      "set": "Crimson Haze",
+      "img": "https://den-cards.pokellector.com/391/Pinsir.SV5A.67.52751.png",
+      "rarity": "Art Rare",
+      "cardNum": "67/66"
+    },
+    {
+      "name": "Poltchageist",
+      "set": "Crimson Haze",
+      "img": "https://den-cards.pokellector.com/391/Poltchageist.SV5A.68.52823.png",
+      "rarity": "Art Rare",
+      "cardNum": "68/66"
+    },
+    {
+      "name": "Torkoal",
+      "set": "Crimson Haze",
+      "img": "https://den-cards.pokellector.com/391/Torkoal.SV5A.69.52825.png",
+      "rarity": "Art Rare",
+      "cardNum": "69/66"
+    },
+    {
+      "name": "Infernape",
+      "set": "Crimson Haze",
+      "img": "https://den-cards.pokellector.com/391/Infernape.SV5A.70.52750.png",
+      "rarity": "Art Rare",
+      "cardNum": "70/66"
+    },
+    {
+      "name": "Phione",
+      "set": "Crimson Haze",
+      "img": "https://den-cards.pokellector.com/391/Manaphy.SV5A.71.52399.png",
+      "rarity": "Art Rare",
+      "cardNum": "71/66"
+    },
+    {
+      "name": "Cramorant",
+      "set": "Crimson Haze",
+      "img": "https://den-cards.pokellector.com/391/Cramorant.SV5A.72.52753.png",
+      "rarity": "Art Rare",
+      "cardNum": "72/66"
+    },
+    {
+      "name": "Heliolisk",
+      "set": "Crimson Haze",
+      "img": "https://den-cards.pokellector.com/391/Heliolisk.SV5A.73.52822.png",
+      "rarity": "Art Rare",
+      "cardNum": "73/66"
+    },
+    {
+      "name": "Enamorus",
+      "set": "Crimson Haze",
+      "img": "https://den-cards.pokellector.com/391/Enamorus.SV5A.74.52826.png",
+      "rarity": "Art Rare",
+      "cardNum": "74/66"
+    },
+    {
+      "name": "Hisuian Growlithe",
+      "set": "Crimson Haze",
+      "img": "https://den-cards.pokellector.com/391/Hisuian-Growlithe.SV5A.75.52764.png",
+      "rarity": "Art Rare",
+      "cardNum": "75/66"
+    },
+    {
+      "name": "Probopass",
+      "set": "Crimson Haze",
+      "img": "https://den-cards.pokellector.com/391/Probopass.SV5A.76.52824.png",
+      "rarity": "Art Rare",
+      "cardNum": "76/66"
+    },
+    {
+      "name": "Applin",
+      "set": "Crimson Haze",
+      "img": "https://den-cards.pokellector.com/391/Applin.SV5A.77.52752.png",
+      "rarity": "Art Rare",
+      "cardNum": "77/66"
+    },
+    {
+      "name": "Eevee",
+      "set": "Crimson Haze",
+      "img": "https://den-cards.pokellector.com/391/Eevee.SV5A.78.52763.png",
+      "rarity": "Art Rare",
+      "cardNum": "78/66"
+    },
+    {
+      "name": "Sinistcha ex",
+      "set": "Crimson Haze",
+      "img": "https://den-cards.pokellector.com/391/Sinistcha-ex.SV5A.79.52827.png",
+      "rarity": "Super Rare",
+      "cardNum": "79/66"
+    },
+    {
+      "name": "Magcargo ex",
+      "set": "Crimson Haze",
+      "img": "https://den-cards.pokellector.com/391/Magcargo-ex.SV5A.80.52828.png",
+      "rarity": "Super Rare",
+      "cardNum": "80/66"
+    },
+    {
+      "name": "Iron Thorns ex",
+      "set": "Crimson Haze",
+      "img": "https://den-cards.pokellector.com/391/Iron-Thorns-ex.SV5A.81.52829.png",
+      "rarity": "Super Rare",
+      "cardNum": "81/66"
+    },
+    {
+      "name": "Scream Tail ex",
+      "set": "Crimson Haze",
+      "img": "https://den-cards.pokellector.com/391/Scream-Tail-ex.SV5A.82.52830.png",
+      "rarity": "Super Rare",
+      "cardNum": "82/66"
+    },
+    {
+      "name": "Greninja ex",
+      "set": "Crimson Haze",
+      "img": "https://den-cards.pokellector.com/391/Greninja-ex.SV5A.83.52831.png",
+      "rarity": "Super Rare",
+      "cardNum": "83/66"
+    },
+    {
+      "name": "Bloodmoon Ursaluna ex",
+      "set": "Crimson Haze",
+      "img": "https://den-cards.pokellector.com/391/Bloodmoon-Ursaluna-ex.SV5A.84.52832.png",
+      "rarity": "Super Rare",
+      "cardNum": "84/66"
+    },
+    {
+      "name": "Caretaker",
+      "set": "Crimson Haze",
+      "img": "https://den-cards.pokellector.com/391/Caretaker.SV5A.85.52833.png",
+      "rarity": "Super Rare",
+      "cardNum": "85/66"
+    },
+    {
+      "name": "Lucian",
+      "set": "Crimson Haze",
+      "img": "https://den-cards.pokellector.com/391/Lucian.SV5A.86.52834.png",
+      "rarity": "Super Rare",
+      "cardNum": "86/66"
+    },
+    {
+      "name": "Perrin",
+      "set": "Crimson Haze",
+      "img": "https://den-cards.pokellector.com/391/Perrin.SV5A.87.52401.png",
+      "rarity": "Super Rare",
+      "cardNum": "87/66"
+    },
+    {
+      "name": "Lana's Assistance",
+      "set": "Crimson Haze",
+      "img": "https://den-cards.pokellector.com/391/Lanas-Assistance.SV5A.88.52747.png",
+      "rarity": "Super Rare",
+      "cardNum": "88/66"
+    },
+    {
+      "name": "Sinistcha ex",
+      "set": "Crimson Haze",
+      "img": "https://den-cards.pokellector.com/391/Sinistcha-ex.SV5A.89.52835.png",
+      "rarity": "Special Art Rare",
+      "cardNum": "89/66"
+    },
+    {
+      "name": "Greninja ex",
+      "set": "Crimson Haze",
+      "img": "https://den-cards.pokellector.com/391/Greninja-ex.SV5A.90.52762.png",
+      "rarity": "Special Art Rare",
+      "cardNum": "90/66"
+    },
+    {
+      "name": "Bloodmoon Ursaluna ex",
+      "set": "Crimson Haze",
+      "img": "https://den-cards.pokellector.com/391/Bloodmoon-Ursaluna-ex.SV5A.91.52400.png",
+      "rarity": "Special Art Rare",
+      "cardNum": "91/66"
+    },
+    {
+      "name": "Perrin",
+      "set": "Crimson Haze",
+      "img": "https://den-cards.pokellector.com/391/Perrin.SV5A.92.52761.png",
+      "rarity": "Special Art Rare",
+      "cardNum": "92/66"
+    },
+    {
+      "name": "Lana's Assistance",
+      "set": "Crimson Haze",
+      "img": "https://den-cards.pokellector.com/391/Lanas-Assistance.SV5A.93.52820.png",
+      "rarity": "Special Art Rare",
+      "cardNum": "93/66"
+    },
+    {
+      "name": "Bloodmoon Ursaluna ex",
+      "set": "Crimson Haze",
+      "img": "https://den-cards.pokellector.com/391/Bloodmoon-Ursaluna-ex.SV5A.94.52837.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "94/66"
+    },
+    {
+      "name": "Emergency Board",
+      "set": "Crimson Haze",
+      "img": "https://den-cards.pokellector.com/391/Emergency-Board.SV5A.95.52838.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "95/66"
+    },
+    {
+      "name": "Luminous Energy",
+      "set": "Crimson Haze",
+      "img": "https://den-cards.pokellector.com/391/Luminous-Energy.SV5A.96.52839.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "96/66"
+    }
+  ]
+}

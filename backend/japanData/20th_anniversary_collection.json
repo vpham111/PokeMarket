@@ -1,0 +1,726 @@
+{
+  "setName": "20th Anniversary Collection",
+  "cards": [
+    {
+      "name": "Venusaur EX",
+      "set": "20th Anniversary Collection",
+      "img": "https://den-cards.pokellector.com/198/Venusaur-EX.CP6.1.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "1/87"
+    },
+    {
+      "name": "M Venusaur EX",
+      "set": "20th Anniversary Collection",
+      "img": "https://den-cards.pokellector.com/198/M-Venusaur-EX.CP6.2.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "2/87"
+    },
+    {
+      "name": "Caterpie",
+      "set": "20th Anniversary Collection",
+      "img": "https://den-cards.pokellector.com/198/Caterpie.CP6.3.png",
+      "rarity": "Common",
+      "cardNum": "3/87"
+    },
+    {
+      "name": "Metapod",
+      "set": "20th Anniversary Collection",
+      "img": "https://den-cards.pokellector.com/198/Metapod.CP6.4.png",
+      "rarity": "Common",
+      "cardNum": "4/87"
+    },
+    {
+      "name": "Weedle",
+      "set": "20th Anniversary Collection",
+      "img": "https://den-cards.pokellector.com/198/Weedle.CP6.5.png",
+      "rarity": "Common",
+      "cardNum": "5/87"
+    },
+    {
+      "name": "Kakuna",
+      "set": "20th Anniversary Collection",
+      "img": "https://den-cards.pokellector.com/198/Kakuna.CP6.6.png",
+      "rarity": "Common",
+      "cardNum": "6/87"
+    },
+    {
+      "name": "Beedrill",
+      "set": "20th Anniversary Collection",
+      "img": "https://den-cards.pokellector.com/198/Beedrill.CP6.7.png",
+      "rarity": "Uncommon",
+      "cardNum": "7/87"
+    },
+    {
+      "name": "Tangela",
+      "set": "20th Anniversary Collection",
+      "img": "https://den-cards.pokellector.com/198/Tangela.CP6.8.png",
+      "rarity": "Common",
+      "cardNum": "8/87"
+    },
+    {
+      "name": "Charmander",
+      "set": "20th Anniversary Collection",
+      "img": "https://den-cards.pokellector.com/198/Charmander.CP6.9.png",
+      "rarity": "Common",
+      "cardNum": "9/87"
+    },
+    {
+      "name": "Charmeleon",
+      "set": "20th Anniversary Collection",
+      "img": "https://den-cards.pokellector.com/198/Charmander.CP6.10.png",
+      "rarity": "Uncommon",
+      "cardNum": "10/87"
+    },
+    {
+      "name": "Charizard",
+      "set": "20th Anniversary Collection",
+      "img": "https://den-cards.pokellector.com/198/Charizard.CP6.11.png",
+      "rarity": "Rare",
+      "cardNum": "11/87"
+    },
+    {
+      "name": "Charizard EX",
+      "set": "20th Anniversary Collection",
+      "img": "https://den-cards.pokellector.com/198/Charizard-EX.CP6.12.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "12/87"
+    },
+    {
+      "name": "M Charizard EX",
+      "set": "20th Anniversary Collection",
+      "img": "https://den-cards.pokellector.com/198/M-Charizard-EX.CP6.13.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "13/87"
+    },
+    {
+      "name": "Vulpix",
+      "set": "20th Anniversary Collection",
+      "img": "https://den-cards.pokellector.com/198/Vulpix.CP6.14.png",
+      "rarity": "Common",
+      "cardNum": "14/87"
+    },
+    {
+      "name": "Ninetales",
+      "set": "20th Anniversary Collection",
+      "img": "https://den-cards.pokellector.com/198/Ninetales.CP6.15.png",
+      "rarity": "Rare",
+      "cardNum": "15/87"
+    },
+    {
+      "name": "Ninetales BREAK",
+      "set": "20th Anniversary Collection",
+      "img": "https://den-cards.pokellector.com/198/Ninetales-BREAK.CP6.16.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "16/87"
+    },
+    {
+      "name": "Growlithe",
+      "set": "20th Anniversary Collection",
+      "img": "https://den-cards.pokellector.com/198/Growlithe.CP6.17.png",
+      "rarity": "Common",
+      "cardNum": "17/87"
+    },
+    {
+      "name": "Arcanine",
+      "set": "20th Anniversary Collection",
+      "img": "https://den-cards.pokellector.com/198/Arcanine.CP6.18.png",
+      "rarity": "Uncommon",
+      "cardNum": "18/87"
+    },
+    {
+      "name": "Ponyta",
+      "set": "20th Anniversary Collection",
+      "img": "https://den-cards.pokellector.com/198/Ponyta.CP6.19.png",
+      "rarity": "Common",
+      "cardNum": "19/87"
+    },
+    {
+      "name": "Magmar",
+      "set": "20th Anniversary Collection",
+      "img": "https://den-cards.pokellector.com/198/Magmar.CP6.20.png",
+      "rarity": "Common",
+      "cardNum": "20/87"
+    },
+    {
+      "name": "Blastoise EX",
+      "set": "20th Anniversary Collection",
+      "img": "https://den-cards.pokellector.com/198/Blastoise-EX.CP6.21.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "21/87"
+    },
+    {
+      "name": "M Blastoise EX",
+      "set": "20th Anniversary Collection",
+      "img": "https://den-cards.pokellector.com/198/M-Blastoise-EX.CP6.22.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "22/87"
+    },
+    {
+      "name": "Poliwag",
+      "set": "20th Anniversary Collection",
+      "img": "https://den-cards.pokellector.com/198/Poliwag.CP6.23.png",
+      "rarity": "Common",
+      "cardNum": "23/87"
+    },
+    {
+      "name": "Poliwhirl",
+      "set": "20th Anniversary Collection",
+      "img": "https://den-cards.pokellector.com/198/Poliwhirl.CP6.24.png",
+      "rarity": "Common",
+      "cardNum": "24/87"
+    },
+    {
+      "name": "Poliwrath",
+      "set": "20th Anniversary Collection",
+      "img": "https://den-cards.pokellector.com/198/Poliwrath.CP6.25.png",
+      "rarity": "Rare",
+      "cardNum": "25/87"
+    },
+    {
+      "name": "Seel",
+      "set": "20th Anniversary Collection",
+      "img": "https://den-cards.pokellector.com/198/Seel.CP6.26.png",
+      "rarity": "Common",
+      "cardNum": "26/87"
+    },
+    {
+      "name": "Dewgong",
+      "set": "20th Anniversary Collection",
+      "img": "https://den-cards.pokellector.com/198/Dewgong.CP6.27.png",
+      "rarity": "Uncommon",
+      "cardNum": "27/87"
+    },
+    {
+      "name": "Staryu",
+      "set": "20th Anniversary Collection",
+      "img": "https://den-cards.pokellector.com/198/Staryu.CP6.28.png",
+      "rarity": "Common",
+      "cardNum": "28/87"
+    },
+    {
+      "name": "Starmie",
+      "set": "20th Anniversary Collection",
+      "img": "https://den-cards.pokellector.com/198/Starmie.CP6.29.png",
+      "rarity": "Uncommon",
+      "cardNum": "29/87"
+    },
+    {
+      "name": "Starmie BREAK",
+      "set": "20th Anniversary Collection",
+      "img": "https://den-cards.pokellector.com/198/Starmie-BREAK.CP6.30.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "30/87"
+    },
+    {
+      "name": "Magikarp",
+      "set": "20th Anniversary Collection",
+      "img": "https://den-cards.pokellector.com/198/Magikarp.CP6.31.png",
+      "rarity": "Common",
+      "cardNum": "31/87"
+    },
+    {
+      "name": "Gyarados",
+      "set": "20th Anniversary Collection",
+      "img": "https://den-cards.pokellector.com/198/Gyarados.CP6.32.png",
+      "rarity": "Rare",
+      "cardNum": "32/87"
+    },
+    {
+      "name": "Pikachu",
+      "set": "20th Anniversary Collection",
+      "img": "https://den-cards.pokellector.com/198/Pikachu.CP6.33.png",
+      "rarity": "Common",
+      "cardNum": "33/87"
+    },
+    {
+      "name": "Raichu",
+      "set": "20th Anniversary Collection",
+      "img": "https://den-cards.pokellector.com/198/Raichu.CP6.34.png",
+      "rarity": "Rare",
+      "cardNum": "34/87"
+    },
+    {
+      "name": "Magnemite",
+      "set": "20th Anniversary Collection",
+      "img": "https://den-cards.pokellector.com/198/Magnemite.CP6.35.png",
+      "rarity": "Common",
+      "cardNum": "35/87"
+    },
+    {
+      "name": "Magneton",
+      "set": "20th Anniversary Collection",
+      "img": "https://den-cards.pokellector.com/198/Magneton.CP6.36.png",
+      "rarity": "Rare",
+      "cardNum": "36/87"
+    },
+    {
+      "name": "Voltorb",
+      "set": "20th Anniversary Collection",
+      "img": "https://den-cards.pokellector.com/198/Voltorb.CP6.37.png",
+      "rarity": "Common",
+      "cardNum": "37/87"
+    },
+    {
+      "name": "Electrode",
+      "set": "20th Anniversary Collection",
+      "img": "https://den-cards.pokellector.com/198/Electrode.CP6.38.png",
+      "rarity": "Uncommon",
+      "cardNum": "38/87"
+    },
+    {
+      "name": "Electabuzz",
+      "set": "20th Anniversary Collection",
+      "img": "https://den-cards.pokellector.com/198/Electabuzz.CP6.39.png",
+      "rarity": "Common",
+      "cardNum": "39/87"
+    },
+    {
+      "name": "Zapdos",
+      "set": "20th Anniversary Collection",
+      "img": "https://den-cards.pokellector.com/198/Zapdos.CP6.40.png",
+      "rarity": "Rare",
+      "cardNum": "40/87"
+    },
+    {
+      "name": "Nidoran♂",
+      "set": "20th Anniversary Collection",
+      "img": "https://den-cards.pokellector.com/198/Nidoran.CP6.41.png",
+      "rarity": "Common",
+      "cardNum": "41/87"
+    },
+    {
+      "name": "Nidorino",
+      "set": "20th Anniversary Collection",
+      "img": "https://den-cards.pokellector.com/198/Nidorino.CP6.42.png",
+      "rarity": "Uncommon",
+      "cardNum": "42/87"
+    },
+    {
+      "name": "Nidoking",
+      "set": "20th Anniversary Collection",
+      "img": "https://den-cards.pokellector.com/198/Nidoking.CP6.43.png",
+      "rarity": "Rare",
+      "cardNum": "43/87"
+    },
+    {
+      "name": "Nidoking BREAK",
+      "set": "20th Anniversary Collection",
+      "img": "https://den-cards.pokellector.com/198/Nidoking-BREAK.CP6.44.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "44/87"
+    },
+    {
+      "name": "Gastly",
+      "set": "20th Anniversary Collection",
+      "img": "https://den-cards.pokellector.com/198/Gastly.CP6.45.png",
+      "rarity": "Common",
+      "cardNum": "45/87"
+    },
+    {
+      "name": "Haunter",
+      "set": "20th Anniversary Collection",
+      "img": "https://den-cards.pokellector.com/198/Haunter.CP6.46.png",
+      "rarity": "Uncommon",
+      "cardNum": "46/87"
+    },
+    {
+      "name": "Drowzee",
+      "set": "20th Anniversary Collection",
+      "img": "https://den-cards.pokellector.com/198/Drowzee.CP6.47.png",
+      "rarity": "Common",
+      "cardNum": "47/87"
+    },
+    {
+      "name": "Koffing",
+      "set": "20th Anniversary Collection",
+      "img": "https://den-cards.pokellector.com/198/Koffing.CP6.48.png",
+      "rarity": "Common",
+      "cardNum": "48/87"
+    },
+    {
+      "name": "Mewtwo",
+      "set": "20th Anniversary Collection",
+      "img": "https://den-cards.pokellector.com/198/Mewtwo.CP6.49.png",
+      "rarity": "Rare",
+      "cardNum": "49/87"
+    },
+    {
+      "name": "Mewtwo EX",
+      "set": "20th Anniversary Collection",
+      "img": "https://den-cards.pokellector.com/198/Mewtwo-EX.CP6.50.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "50/87"
+    },
+    {
+      "name": "Mew",
+      "set": "20th Anniversary Collection",
+      "img": "https://den-cards.pokellector.com/198/Mew.CP6.51.png",
+      "rarity": "Rare",
+      "cardNum": "51/87"
+    },
+    {
+      "name": "Sandshrew",
+      "set": "20th Anniversary Collection",
+      "img": "https://den-cards.pokellector.com/198/Sandshrew.CP6.52.png",
+      "rarity": "Common",
+      "cardNum": "52/87"
+    },
+    {
+      "name": "Diglett",
+      "set": "20th Anniversary Collection",
+      "img": "https://den-cards.pokellector.com/198/Diglett.CP6.53.png",
+      "rarity": "Common",
+      "cardNum": "53/87"
+    },
+    {
+      "name": "Dugtrio",
+      "set": "20th Anniversary Collection",
+      "img": "https://den-cards.pokellector.com/198/Dugtrio.CP6.54.png",
+      "rarity": "Uncommon",
+      "cardNum": "54/87"
+    },
+    {
+      "name": "Machop",
+      "set": "20th Anniversary Collection",
+      "img": "https://den-cards.pokellector.com/198/Machop.CP6.55.png",
+      "rarity": "Common",
+      "cardNum": "55/87"
+    },
+    {
+      "name": "Machoke",
+      "set": "20th Anniversary Collection",
+      "img": "https://den-cards.pokellector.com/198/Machoke.CP6.56.png",
+      "rarity": "Uncommon",
+      "cardNum": "56/87"
+    },
+    {
+      "name": "Machamp",
+      "set": "20th Anniversary Collection",
+      "img": "https://den-cards.pokellector.com/198/Machamp.CP6.57.png",
+      "rarity": "Rare",
+      "cardNum": "57/87"
+    },
+    {
+      "name": "Machamp BREAK",
+      "set": "20th Anniversary Collection",
+      "img": "https://den-cards.pokellector.com/198/Machamp-BREAK.CP6.58.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "58/87"
+    },
+    {
+      "name": "Onix",
+      "set": "20th Anniversary Collection",
+      "img": "https://den-cards.pokellector.com/198/Onix.CP6.59.png",
+      "rarity": "Common",
+      "cardNum": "59/87"
+    },
+    {
+      "name": "Hitmonchan",
+      "set": "20th Anniversary Collection",
+      "img": "https://den-cards.pokellector.com/198/Hitmonchan.CP6.60.png",
+      "rarity": "Rare",
+      "cardNum": "60/87"
+    },
+    {
+      "name": "Clefairy",
+      "set": "20th Anniversary Collection",
+      "img": "https://den-cards.pokellector.com/198/Clefairy.CP6.61.png",
+      "rarity": "Rare",
+      "cardNum": "61/87"
+    },
+    {
+      "name": "Pidgeot EX",
+      "set": "20th Anniversary Collection",
+      "img": "https://den-cards.pokellector.com/198/Pidgeot-EX.CP6.62.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "62/87"
+    },
+    {
+      "name": "M Pidgeot EX",
+      "set": "20th Anniversary Collection",
+      "img": "https://den-cards.pokellector.com/198/M-Pidgeot-EX.CP6.63.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "63/87"
+    },
+    {
+      "name": "Rattata",
+      "set": "20th Anniversary Collection",
+      "img": "https://den-cards.pokellector.com/198/Ratatta.CP6.64.png",
+      "rarity": "Common",
+      "cardNum": "64/87"
+    },
+    {
+      "name": "Raticate",
+      "set": "20th Anniversary Collection",
+      "img": "https://den-cards.pokellector.com/198/Raticate.CP6.65.png",
+      "rarity": "Uncommon",
+      "cardNum": "65/87"
+    },
+    {
+      "name": "Farfetch'd",
+      "set": "20th Anniversary Collection",
+      "img": "https://den-cards.pokellector.com/198/Farfetchd.CP6.66.png",
+      "rarity": "Uncommon",
+      "cardNum": "66/87"
+    },
+    {
+      "name": "Doduo",
+      "set": "20th Anniversary Collection",
+      "img": "https://den-cards.pokellector.com/198/Doduo.CP6.67.png",
+      "rarity": "Common",
+      "cardNum": "67/87"
+    },
+    {
+      "name": "Chansey",
+      "set": "20th Anniversary Collection",
+      "img": "https://den-cards.pokellector.com/198/Chansey.CP6.68.png",
+      "rarity": "Rare",
+      "cardNum": "68/87"
+    },
+    {
+      "name": "Porygon",
+      "set": "20th Anniversary Collection",
+      "img": "https://den-cards.pokellector.com/198/Porygon.CP6.69.png",
+      "rarity": "Common",
+      "cardNum": "69/87"
+    },
+    {
+      "name": "Dragonite EX",
+      "set": "20th Anniversary Collection",
+      "img": "https://den-cards.pokellector.com/198/Dragonite-EX.CP6.70.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "70/87"
+    },
+    {
+      "name": "Super Potion",
+      "set": "20th Anniversary Collection",
+      "img": "https://den-cards.pokellector.com/198/Super-Potion.CP6.71.png",
+      "rarity": "Uncommon",
+      "cardNum": "71/87"
+    },
+    {
+      "name": "Energy Retrieval",
+      "set": "20th Anniversary Collection",
+      "img": "https://den-cards.pokellector.com/198/Energy-Retrieval.CP6.72.png",
+      "rarity": "Uncommon",
+      "cardNum": "72/87"
+    },
+    {
+      "name": "Potion",
+      "set": "20th Anniversary Collection",
+      "img": "https://den-cards.pokellector.com/198/Potion.CP6.73.png",
+      "rarity": "Uncommon",
+      "cardNum": "73/87"
+    },
+    {
+      "name": "Revive",
+      "set": "20th Anniversary Collection",
+      "img": "https://den-cards.pokellector.com/198/Revive.CP6.74.png",
+      "rarity": "Uncommon",
+      "cardNum": "74/87"
+    },
+    {
+      "name": "Devolution Spray",
+      "set": "20th Anniversary Collection",
+      "img": "https://den-cards.pokellector.com/198/Devolution-Spray.CP6.75.png",
+      "rarity": "Uncommon",
+      "cardNum": "75/87"
+    },
+    {
+      "name": "Full Heal",
+      "set": "20th Anniversary Collection",
+      "img": "https://den-cards.pokellector.com/198/Full-Heal.CP6.76.png",
+      "rarity": "Uncommon",
+      "cardNum": "76/87"
+    },
+    {
+      "name": "Switch",
+      "set": "20th Anniversary Collection",
+      "img": "https://den-cards.pokellector.com/198/Switch.CP6.77.png",
+      "rarity": "Uncommon",
+      "cardNum": "77/87"
+    },
+    {
+      "name": "Pokédex",
+      "set": "20th Anniversary Collection",
+      "img": "https://den-cards.pokellector.com/198/Pokeacutedex.CP6.78.png",
+      "rarity": "Uncommon",
+      "cardNum": "78/87"
+    },
+    {
+      "name": "Maintenance",
+      "set": "20th Anniversary Collection",
+      "img": "https://den-cards.pokellector.com/198/Maintenance.CP6.79.png",
+      "rarity": "Uncommon",
+      "cardNum": "79/87"
+    },
+    {
+      "name": "Blastoise Spirit Link",
+      "set": "20th Anniversary Collection",
+      "img": "https://den-cards.pokellector.com/198/Blastoise-Spirit-Link.CP6.80.png",
+      "rarity": "Uncommon",
+      "cardNum": "80/87"
+    },
+    {
+      "name": "Pidgeot Spirit Link",
+      "set": "20th Anniversary Collection",
+      "img": "https://den-cards.pokellector.com/198/Pidgeot-Spirit-Link.CP6.81.png",
+      "rarity": "Uncommon",
+      "cardNum": "81/87"
+    },
+    {
+      "name": "Venusaur Spirit Link",
+      "set": "20th Anniversary Collection",
+      "img": "https://den-cards.pokellector.com/198/Venusaur-Spirit-Link.CP6.82.png",
+      "rarity": "Uncommon",
+      "cardNum": "82/87"
+    },
+    {
+      "name": "Charizard Spirit Link",
+      "set": "20th Anniversary Collection",
+      "img": "https://den-cards.pokellector.com/198/Charizard-Spirit-Link.CP6.83.png",
+      "rarity": "Uncommon",
+      "cardNum": "83/87"
+    },
+    {
+      "name": "Professor Oak",
+      "set": "20th Anniversary Collection",
+      "img": "https://den-cards.pokellector.com/198/Professor-Oak.CP6.84.png",
+      "rarity": "Uncommon",
+      "cardNum": "84/87"
+    },
+    {
+      "name": "Misty's Determination",
+      "set": "20th Anniversary Collection",
+      "img": "https://den-cards.pokellector.com/198/Mistys-Determination.CP6.85.png",
+      "rarity": "Uncommon",
+      "cardNum": "85/87"
+    },
+    {
+      "name": "Brock's Guts",
+      "set": "20th Anniversary Collection",
+      "img": "https://den-cards.pokellector.com/198/Brocks-Guts.CP6.86.png",
+      "rarity": "Uncommon",
+      "cardNum": "86/87"
+    },
+    {
+      "name": "Double Colorless Energy",
+      "set": "20th Anniversary Collection",
+      "img": "https://den-cards.pokellector.com/198/Double-Colorless-Energy.CP6.87.png",
+      "rarity": "Uncommon",
+      "cardNum": "87/87"
+    },
+    {
+      "name": "Venusaur EX",
+      "set": "20th Anniversary Collection",
+      "img": "https://den-cards.pokellector.com/198/Venusaur-EX.CP6.88.png",
+      "rarity": "Secret Rare",
+      "cardNum": "88/87"
+    },
+    {
+      "name": "M Venusaur EX",
+      "set": "20th Anniversary Collection",
+      "img": "https://den-cards.pokellector.com/198/M-Venusaur-EX.CP6.89.png",
+      "rarity": "Secret Rare",
+      "cardNum": "89/87"
+    },
+    {
+      "name": "Charizard EX",
+      "set": "20th Anniversary Collection",
+      "img": "https://den-cards.pokellector.com/198/Charizard-EX.CP6.90.png",
+      "rarity": "Secret Rare",
+      "cardNum": "90/87"
+    },
+    {
+      "name": "M Charizard EX",
+      "set": "20th Anniversary Collection",
+      "img": "https://den-cards.pokellector.com/198/M-Charizard-EX.CP6.91.png",
+      "rarity": "Secret Rare",
+      "cardNum": "91/87"
+    },
+    {
+      "name": "Blastoise EX",
+      "set": "20th Anniversary Collection",
+      "img": "https://den-cards.pokellector.com/198/Blastoise-EX.CP6.92.png",
+      "rarity": "Secret Rare",
+      "cardNum": "92/87"
+    },
+    {
+      "name": "M Blastoise EX",
+      "set": "20th Anniversary Collection",
+      "img": "https://den-cards.pokellector.com/198/M-Blastoise-EX.CP6.93.png",
+      "rarity": "Secret Rare",
+      "cardNum": "93/87"
+    },
+    {
+      "name": "Pikachu EX",
+      "set": "20th Anniversary Collection",
+      "img": "https://den-cards.pokellector.com/198/Pikachu-EX.CP6.94.png",
+      "rarity": "Secret Rare",
+      "cardNum": "94/87"
+    },
+    {
+      "name": "Mewtwo EX",
+      "set": "20th Anniversary Collection",
+      "img": "https://den-cards.pokellector.com/198/Mewtwo-EX.CP6.95.png",
+      "rarity": "Secret Rare",
+      "cardNum": "95/87"
+    },
+    {
+      "name": "Pidgeot EX",
+      "set": "20th Anniversary Collection",
+      "img": "https://den-cards.pokellector.com/198/Pidgeot-EX.CP6.96.png",
+      "rarity": "Secret Rare",
+      "cardNum": "96/87"
+    },
+    {
+      "name": "M Pidgeot EX",
+      "set": "20th Anniversary Collection",
+      "img": "https://den-cards.pokellector.com/198/M-Pidgeot-EX.CP6.97.png",
+      "rarity": "Secret Rare",
+      "cardNum": "97/87"
+    },
+    {
+      "name": "Dragonite EX",
+      "set": "20th Anniversary Collection",
+      "img": "https://den-cards.pokellector.com/198/Dragonite-EX.CP6.98.png",
+      "rarity": "Secret Rare",
+      "cardNum": "98/87"
+    },
+    {
+      "name": "Misty's Determination",
+      "set": "20th Anniversary Collection",
+      "img": "https://den-cards.pokellector.com/198/Mistys-Determination.CP6.99.png",
+      "rarity": "Secret Rare",
+      "cardNum": "99/87"
+    },
+    {
+      "name": "Brock's Guts",
+      "set": "20th Anniversary Collection",
+      "img": "https://den-cards.pokellector.com/198/Brocks-Guts.CP6.100.png",
+      "rarity": "Secret Rare",
+      "cardNum": "100/87"
+    },
+    {
+      "name": "Exeggutor",
+      "set": "20th Anniversary Collection",
+      "img": "https://den-cards.pokellector.com/198/Exeggutor.CP6.101.png",
+      "rarity": "Uncommon",
+      "cardNum": "101/87"
+    },
+    {
+      "name": "Imakuni?'s Doduo",
+      "set": "20th Anniversary Collection",
+      "img": "https://den-cards.pokellector.com/198/Imakunis-Doduo.CP6.102.png",
+      "rarity": "Uncommon",
+      "cardNum": "102/87"
+    },
+    {
+      "name": "Here Comes Team Rocket!",
+      "set": "20th Anniversary Collection",
+      "img": "https://den-cards.pokellector.com/198/Here-Comes-Team-Rocket.CP6.103.png",
+      "rarity": "Uncommon",
+      "cardNum": "103/87"
+    }
+  ]
+}

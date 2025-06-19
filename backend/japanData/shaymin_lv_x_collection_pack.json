@@ -1,0 +1,89 @@
+{
+  "setName": "Shaymin LV.X Collection Pack",
+  "cards": [
+    {
+      "name": "Combee",
+      "set": "Shaymin LV.X Collection Pack",
+      "img": "https://den-cards.pokellector.com/151/Combee.PTS.1.png",
+      "rarity": "Common",
+      "cardNum": "1/12"
+    },
+    {
+      "name": "Yanmega",
+      "set": "Shaymin LV.X Collection Pack",
+      "img": "https://den-cards.pokellector.com/151/Yanmega.PTS.2.png",
+      "rarity": "Common",
+      "cardNum": "2/12"
+    },
+    {
+      "name": "Shaymin LV.X",
+      "set": "Shaymin LV.X Collection Pack",
+      "img": "https://den-cards.pokellector.com/151/Shaymin-LVX.PTS.3.png",
+      "rarity": "Common",
+      "cardNum": "3/12"
+    },
+    {
+      "name": "Chimchar",
+      "set": "Shaymin LV.X Collection Pack",
+      "img": "https://den-cards.pokellector.com/151/Chimchar.PTS.4.png",
+      "rarity": "Common",
+      "cardNum": "4/12"
+    },
+    {
+      "name": "Glaceon",
+      "set": "Shaymin LV.X Collection Pack",
+      "img": "https://den-cards.pokellector.com/151/Glaceon.PTS.5.png",
+      "rarity": "Common",
+      "cardNum": "5/12"
+    },
+    {
+      "name": "Palkia",
+      "set": "Shaymin LV.X Collection Pack",
+      "img": "https://den-cards.pokellector.com/151/Palkia.PTS.6.png",
+      "rarity": "Common",
+      "cardNum": "6/12"
+    },
+    {
+      "name": "Pikachu",
+      "set": "Shaymin LV.X Collection Pack",
+      "img": "https://den-cards.pokellector.com/151/Pikachu.PTS.7.png",
+      "rarity": "Common",
+      "cardNum": "7/12"
+    },
+    {
+      "name": "Raichu",
+      "set": "Shaymin LV.X Collection Pack",
+      "img": "https://den-cards.pokellector.com/151/Raichu.PTS.8.png",
+      "rarity": "Common",
+      "cardNum": "8/12"
+    },
+    {
+      "name": "Stunky",
+      "set": "Shaymin LV.X Collection Pack",
+      "img": "https://den-cards.pokellector.com/151/Stunky.PTS.9.png",
+      "rarity": "Common",
+      "cardNum": "9/12"
+    },
+    {
+      "name": "Probopass",
+      "set": "Shaymin LV.X Collection Pack",
+      "img": "https://den-cards.pokellector.com/151/Probopass.PTS.10.png",
+      "rarity": "Common",
+      "cardNum": "10/12"
+    },
+    {
+      "name": "Eevee",
+      "set": "Shaymin LV.X Collection Pack",
+      "img": "https://den-cards.pokellector.com/151/Eevee.PTS.11.png",
+      "rarity": "Common",
+      "cardNum": "11/12"
+    },
+    {
+      "name": "Time-Space Distortion",
+      "set": "Shaymin LV.X Collection Pack",
+      "img": "https://den-cards.pokellector.com/151/Time-Space-Distortion.PTS.12.png",
+      "rarity": "Common",
+      "cardNum": "12/12"
+    }
+  ]
+}

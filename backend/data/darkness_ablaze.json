@@ -1,0 +1,1412 @@
+{
+  "setName": "Darkness Ablaze",
+  "cards": [
+    {
+      "name": "Butterfree V",
+      "set": "Darkness Ablaze",
+      "img": "https://den-cards.pokellector.com/296/Butterfree-V.SWSH3.1.35114.png",
+      "rarity": "Rare",
+      "cardNum": "1/189"
+    },
+    {
+      "name": "Butterfree VMAX",
+      "set": "Darkness Ablaze",
+      "img": "https://den-cards.pokellector.com/296/Butterfree-VMAX.SWSH3.2.35119.png",
+      "rarity": "Rare",
+      "cardNum": "2/189"
+    },
+    {
+      "name": "Paras",
+      "set": "Darkness Ablaze",
+      "img": "https://den-cards.pokellector.com/296/Paras.SWSH3.3.35120.png",
+      "rarity": "Common",
+      "cardNum": "3/189"
+    },
+    {
+      "name": "Parasect",
+      "set": "Darkness Ablaze",
+      "img": "https://den-cards.pokellector.com/296/Parasect.SWSH3.4.35121.png",
+      "rarity": "Uncommon",
+      "cardNum": "4/189"
+    },
+    {
+      "name": "Carnivine",
+      "set": "Darkness Ablaze",
+      "img": "https://den-cards.pokellector.com/296/Carnivine.SWSH3.5.35122.png",
+      "rarity": "Uncommon",
+      "cardNum": "5/189"
+    },
+    {
+      "name": "Pansage",
+      "set": "Darkness Ablaze",
+      "img": "https://den-cards.pokellector.com/296/Pansage.SWSH3.6.35123.png",
+      "rarity": "Common",
+      "cardNum": "6/189"
+    },
+    {
+      "name": "Simisage",
+      "set": "Darkness Ablaze",
+      "img": "https://den-cards.pokellector.com/296/Simisage.SWSH3.7.35124.png",
+      "rarity": "Uncommon",
+      "cardNum": "7/189"
+    },
+    {
+      "name": "Karrablast",
+      "set": "Darkness Ablaze",
+      "img": "https://den-cards.pokellector.com/296/Karrablast.SWSH3.8.35125.png",
+      "rarity": "Common",
+      "cardNum": "8/189"
+    },
+    {
+      "name": "Shelmet",
+      "set": "Darkness Ablaze",
+      "img": "https://den-cards.pokellector.com/296/Shelmet.SWSH3.9.35126.png",
+      "rarity": "Common",
+      "cardNum": "9/189"
+    },
+    {
+      "name": "Accelgor",
+      "set": "Darkness Ablaze",
+      "img": "https://den-cards.pokellector.com/296/Accelgor.SWSH3.10.35127.png",
+      "rarity": "Rare",
+      "cardNum": "10/189"
+    },
+    {
+      "name": "Rowlet",
+      "set": "Darkness Ablaze",
+      "img": "https://den-cards.pokellector.com/296/Rowlet.SWSH3.11.35128.png",
+      "rarity": "Common",
+      "cardNum": "11/189"
+    },
+    {
+      "name": "Dartrix",
+      "set": "Darkness Ablaze",
+      "img": "https://den-cards.pokellector.com/296/Dartrix.SWSH3.12.35129.png",
+      "rarity": "Uncommon",
+      "cardNum": "12/189"
+    },
+    {
+      "name": "Decidueye",
+      "set": "Darkness Ablaze",
+      "img": "https://den-cards.pokellector.com/296/Decidueye.SWSH3.13.35117.png",
+      "rarity": "Rare",
+      "cardNum": "13/189"
+    },
+    {
+      "name": "Bounsweet",
+      "set": "Darkness Ablaze",
+      "img": "https://den-cards.pokellector.com/296/Bounsweet.SWSH3.14.35130.png",
+      "rarity": "Common",
+      "cardNum": "14/189"
+    },
+    {
+      "name": "Steenee",
+      "set": "Darkness Ablaze",
+      "img": "https://den-cards.pokellector.com/296/Steenee.SWSH3.15.35131.png",
+      "rarity": "Uncommon",
+      "cardNum": "15/189"
+    },
+    {
+      "name": "Tsareena",
+      "set": "Darkness Ablaze",
+      "img": "https://den-cards.pokellector.com/296/Tsareena.SWSH3.16.35132.png",
+      "rarity": "Rare",
+      "cardNum": "16/189"
+    },
+    {
+      "name": "Wimpod",
+      "set": "Darkness Ablaze",
+      "img": "https://den-cards.pokellector.com/296/Wimpod.SWSH3.17.35133.png",
+      "rarity": "Common",
+      "cardNum": "17/189"
+    },
+    {
+      "name": "Golisopod",
+      "set": "Darkness Ablaze",
+      "img": "https://den-cards.pokellector.com/296/Golisopod.SWSH3.18.35134.png",
+      "rarity": "Rare",
+      "cardNum": "18/189"
+    },
+    {
+      "name": "Charizard V",
+      "set": "Darkness Ablaze",
+      "img": "https://den-cards.pokellector.com/296/Charizard-V.SWSH3.19.35118.png",
+      "rarity": "Rare",
+      "cardNum": "19/189"
+    },
+    {
+      "name": "Charizard VMAX",
+      "set": "Darkness Ablaze",
+      "img": "https://den-cards.pokellector.com/296/Charizard-VMAX.SWSH3.20.35112.png",
+      "rarity": "Rare",
+      "cardNum": "20/189"
+    },
+    {
+      "name": "Houndoom V",
+      "set": "Darkness Ablaze",
+      "img": "https://den-cards.pokellector.com/296/Houndoom-V.SWSH3.21.35106.png",
+      "rarity": "Rare",
+      "cardNum": "21/189"
+    },
+    {
+      "name": "Torchic",
+      "set": "Darkness Ablaze",
+      "img": "https://den-cards.pokellector.com/296/Torchic.SWSH3.22.35135.png",
+      "rarity": "Common",
+      "cardNum": "22/189"
+    },
+    {
+      "name": "Combusken",
+      "set": "Darkness Ablaze",
+      "img": "https://den-cards.pokellector.com/296/Combusken.SWSH3.23.35136.png",
+      "rarity": "Uncommon",
+      "cardNum": "23/189"
+    },
+    {
+      "name": "Blaziken",
+      "set": "Darkness Ablaze",
+      "img": "https://den-cards.pokellector.com/296/Blaziken.SWSH3.24.35137.png",
+      "rarity": "Rare",
+      "cardNum": "24/189"
+    },
+    {
+      "name": "Heatran",
+      "set": "Darkness Ablaze",
+      "img": "https://den-cards.pokellector.com/296/Heatran.SWSH3.25.35138.png",
+      "rarity": "Rare",
+      "cardNum": "25/189"
+    },
+    {
+      "name": "Pansear",
+      "set": "Darkness Ablaze",
+      "img": "https://den-cards.pokellector.com/296/Pansear.SWSH3.26.35109.png",
+      "rarity": "Rare",
+      "cardNum": "26/189"
+    },
+    {
+      "name": "Simisear",
+      "set": "Darkness Ablaze",
+      "img": "https://den-cards.pokellector.com/296/Simisear.SWSH3.27.35139.png",
+      "rarity": "Uncommon",
+      "cardNum": "27/189"
+    },
+    {
+      "name": "Galarian Darmanitan",
+      "set": "Darkness Ablaze",
+      "img": "https://den-cards.pokellector.com/296/Galarian-Darmanitan.SWSH3.28.35140.png",
+      "rarity": "Rare",
+      "cardNum": "28/189"
+    },
+    {
+      "name": "Larvesta",
+      "set": "Darkness Ablaze",
+      "img": "https://den-cards.pokellector.com/296/Larvesta.SWSH3.29.35141.png",
+      "rarity": "Common",
+      "cardNum": "29/189"
+    },
+    {
+      "name": "Volcarona",
+      "set": "Darkness Ablaze",
+      "img": "https://den-cards.pokellector.com/296/Volcarona.SWSH3.30.35142.png",
+      "rarity": "Rare",
+      "cardNum": "30/189"
+    },
+    {
+      "name": "Fletchinder",
+      "set": "Darkness Ablaze",
+      "img": "https://den-cards.pokellector.com/296/Fletchinder.SWSH3.31.35143.png",
+      "rarity": "Uncommon",
+      "cardNum": "31/189"
+    },
+    {
+      "name": "Talonflame",
+      "set": "Darkness Ablaze",
+      "img": "https://den-cards.pokellector.com/296/Talonflame.SWSH3.32.35144.png",
+      "rarity": "Rare",
+      "cardNum": "32/189"
+    },
+    {
+      "name": "Centiskorch V",
+      "set": "Darkness Ablaze",
+      "img": "https://den-cards.pokellector.com/296/Centiskorch-V.SWSH3.33.35145.png",
+      "rarity": "Rare",
+      "cardNum": "33/189"
+    },
+    {
+      "name": "Centiskorch VMAX",
+      "set": "Darkness Ablaze",
+      "img": "https://den-cards.pokellector.com/296/Centiskorch-VMAX.SWSH3.34.35111.png",
+      "rarity": "Rare",
+      "cardNum": "34/189"
+    },
+    {
+      "name": "Galarian Mr. Mime",
+      "set": "Darkness Ablaze",
+      "img": "https://den-cards.pokellector.com/296/Galarian-Mr-Mime.SWSH3.35.35146.png",
+      "rarity": "Common",
+      "cardNum": "35/189"
+    },
+    {
+      "name": "Galarian Mr. Rime",
+      "set": "Darkness Ablaze",
+      "img": "https://den-cards.pokellector.com/296/Galarian-Mr-Rime.SWSH3.36.35147.png",
+      "rarity": "Rare",
+      "cardNum": "36/189"
+    },
+    {
+      "name": "Suicune",
+      "set": "Darkness Ablaze",
+      "img": "https://den-cards.pokellector.com/296/Suicune.SWSH3.37.35113.png",
+      "rarity": "Rare",
+      "cardNum": "37/189"
+    },
+    {
+      "name": "Feebas",
+      "set": "Darkness Ablaze",
+      "img": "https://den-cards.pokellector.com/296/Feebas.SWSH3.38.35148.png",
+      "rarity": "Common",
+      "cardNum": "38/189"
+    },
+    {
+      "name": "Milotic",
+      "set": "Darkness Ablaze",
+      "img": "https://den-cards.pokellector.com/296/Milotic.SWSH3.39.35149.png",
+      "rarity": "Rare",
+      "cardNum": "39/189"
+    },
+    {
+      "name": "Relicanth",
+      "set": "Darkness Ablaze",
+      "img": "https://den-cards.pokellector.com/296/Relicanth.SWSH3.40.35150.png",
+      "rarity": "Uncommon",
+      "cardNum": "40/189"
+    },
+    {
+      "name": "Panpour",
+      "set": "Darkness Ablaze",
+      "img": "https://den-cards.pokellector.com/296/Panpour.SWSH3.41.35151.png",
+      "rarity": "Common",
+      "cardNum": "41/189"
+    },
+    {
+      "name": "Simipour",
+      "set": "Darkness Ablaze",
+      "img": "https://den-cards.pokellector.com/296/Simipour.SWSH3.42.35152.png",
+      "rarity": "Uncommon",
+      "cardNum": "42/189"
+    },
+    {
+      "name": "Galarian Darumaka",
+      "set": "Darkness Ablaze",
+      "img": "https://den-cards.pokellector.com/296/Galarian-Darumaka.SWSH3.43.35153.png",
+      "rarity": "Common",
+      "cardNum": "43/189"
+    },
+    {
+      "name": "Galarian Darmanitan",
+      "set": "Darkness Ablaze",
+      "img": "https://den-cards.pokellector.com/296/Galarian-Darmanitan.SWSH3.44.35154.png",
+      "rarity": "Rare",
+      "cardNum": "44/189"
+    },
+    {
+      "name": "Vanillite",
+      "set": "Darkness Ablaze",
+      "img": "https://den-cards.pokellector.com/296/Vanillite.SWSH3.45.35155.png",
+      "rarity": "Common",
+      "cardNum": "45/189"
+    },
+    {
+      "name": "Vanillish",
+      "set": "Darkness Ablaze",
+      "img": "https://den-cards.pokellector.com/296/Vanillish.SWSH3.46.35156.png",
+      "rarity": "Uncommon",
+      "cardNum": "46/189"
+    },
+    {
+      "name": "Vanilluxe",
+      "set": "Darkness Ablaze",
+      "img": "https://den-cards.pokellector.com/296/Vanilluxe.SWSH3.47.35157.png",
+      "rarity": "Rare",
+      "cardNum": "47/189"
+    },
+    {
+      "name": "Cubchoo",
+      "set": "Darkness Ablaze",
+      "img": "https://den-cards.pokellector.com/296/Cubchoo.SWSH3.48.35158.png",
+      "rarity": "Common",
+      "cardNum": "48/189"
+    },
+    {
+      "name": "Beartic",
+      "set": "Darkness Ablaze",
+      "img": "https://den-cards.pokellector.com/296/Beartic.SWSH3.49.35159.png",
+      "rarity": "Rare",
+      "cardNum": "49/189"
+    },
+    {
+      "name": "Wishiwashi",
+      "set": "Darkness Ablaze",
+      "img": "https://den-cards.pokellector.com/296/Wishiwashi.SWSH3.50.35160.png",
+      "rarity": "Common",
+      "cardNum": "50/189"
+    },
+    {
+      "name": "Mareanie",
+      "set": "Darkness Ablaze",
+      "img": "https://den-cards.pokellector.com/296/Mareanie.SWSH3.51.35161.png",
+      "rarity": "Common",
+      "cardNum": "51/189"
+    },
+    {
+      "name": "Toxapex",
+      "set": "Darkness Ablaze",
+      "img": "https://den-cards.pokellector.com/296/Toxapex.SWSH3.52.35162.png",
+      "rarity": "Uncommon",
+      "cardNum": "52/189"
+    },
+    {
+      "name": "Dracovish",
+      "set": "Darkness Ablaze",
+      "img": "https://den-cards.pokellector.com/296/Dracovish.SWSH3.53.35163.png",
+      "rarity": "Rare",
+      "cardNum": "53/189"
+    },
+    {
+      "name": "Arctovish",
+      "set": "Darkness Ablaze",
+      "img": "https://den-cards.pokellector.com/296/Arctovish.SWSH3.54.35164.png",
+      "rarity": "Rare",
+      "cardNum": "54/189"
+    },
+    {
+      "name": "Mareep",
+      "set": "Darkness Ablaze",
+      "img": "https://den-cards.pokellector.com/296/Mareep.SWSH3.55.35165.png",
+      "rarity": "Common",
+      "cardNum": "55/189"
+    },
+    {
+      "name": "Flaaffy",
+      "set": "Darkness Ablaze",
+      "img": "https://den-cards.pokellector.com/296/Flaaffy.SWSH3.56.35166.png",
+      "rarity": "Uncommon",
+      "cardNum": "56/189"
+    },
+    {
+      "name": "Ampharos",
+      "set": "Darkness Ablaze",
+      "img": "https://den-cards.pokellector.com/296/Ampharos.SWSH3.57.35167.png",
+      "rarity": "Rare",
+      "cardNum": "57/189"
+    },
+    {
+      "name": "Electrike",
+      "set": "Darkness Ablaze",
+      "img": "https://den-cards.pokellector.com/296/Electrike.SWSH3.58.35168.png",
+      "rarity": "Common",
+      "cardNum": "58/189"
+    },
+    {
+      "name": "Manectric",
+      "set": "Darkness Ablaze",
+      "img": "https://den-cards.pokellector.com/296/Manectric.SWSH3.59.35169.png",
+      "rarity": "Rare",
+      "cardNum": "59/189"
+    },
+    {
+      "name": "Vikavolt V",
+      "set": "Darkness Ablaze",
+      "img": "https://den-cards.pokellector.com/296/Vikavolt-V.SWSH3.60.35170.png",
+      "rarity": "Rare",
+      "cardNum": "60/189"
+    },
+    {
+      "name": "Tapu Koko",
+      "set": "Darkness Ablaze",
+      "img": "https://den-cards.pokellector.com/296/Tapu-Koko.SWSH3.61.35171.png",
+      "rarity": "Rare",
+      "cardNum": "61/189"
+    },
+    {
+      "name": "Toxel",
+      "set": "Darkness Ablaze",
+      "img": "https://den-cards.pokellector.com/296/Toxel.SWSH3.62.35172.png",
+      "rarity": "Common",
+      "cardNum": "62/189"
+    },
+    {
+      "name": "Toxtricity",
+      "set": "Darkness Ablaze",
+      "img": "https://den-cards.pokellector.com/296/Toxtricity.SWSH3.63.35173.png",
+      "rarity": "Rare",
+      "cardNum": "63/189"
+    },
+    {
+      "name": "Pincurchin",
+      "set": "Darkness Ablaze",
+      "img": "https://den-cards.pokellector.com/296/Pincurchin.SWSH3.64.35174.png",
+      "rarity": "Rare",
+      "cardNum": "64/189"
+    },
+    {
+      "name": "Dracozolt",
+      "set": "Darkness Ablaze",
+      "img": "https://den-cards.pokellector.com/296/Dracozolt.SWSH3.65.35175.png",
+      "rarity": "Rare",
+      "cardNum": "65/189"
+    },
+    {
+      "name": "Arctozolt",
+      "set": "Darkness Ablaze",
+      "img": "https://den-cards.pokellector.com/296/Arctozolt.SWSH3.66.35176.png",
+      "rarity": "Rare",
+      "cardNum": "66/189"
+    },
+    {
+      "name": "Jigglypuff",
+      "set": "Darkness Ablaze",
+      "img": "https://den-cards.pokellector.com/296/Jigglypuff.SWSH3.67.35177.png",
+      "rarity": "Common",
+      "cardNum": "67/189"
+    },
+    {
+      "name": "Wigglytuff",
+      "set": "Darkness Ablaze",
+      "img": "https://den-cards.pokellector.com/296/Wigglytuff.SWSH3.68.35178.png",
+      "rarity": "Rare",
+      "cardNum": "68/189"
+    },
+    {
+      "name": "Mew V",
+      "set": "Darkness Ablaze",
+      "img": "https://den-cards.pokellector.com/296/Mew-V.SWSH3.69.35115.png",
+      "rarity": "Rare",
+      "cardNum": "69/189"
+    },
+    {
+      "name": "Snubbull",
+      "set": "Darkness Ablaze",
+      "img": "https://den-cards.pokellector.com/296/Snubbull.SWSH3.70.35179.png",
+      "rarity": "Common",
+      "cardNum": "70/189"
+    },
+    {
+      "name": "Granbull",
+      "set": "Darkness Ablaze",
+      "img": "https://den-cards.pokellector.com/296/Granbull.SWSH3.71.35180.png",
+      "rarity": "Rare",
+      "cardNum": "71/189"
+    },
+    {
+      "name": "Lunatone",
+      "set": "Darkness Ablaze",
+      "img": "https://den-cards.pokellector.com/296/Lunatone.SWSH3.72.35181.png",
+      "rarity": "Uncommon",
+      "cardNum": "72/189"
+    },
+    {
+      "name": "Gothita",
+      "set": "Darkness Ablaze",
+      "img": "https://den-cards.pokellector.com/296/Gothita.SWSH3.73.35182.png",
+      "rarity": "Common",
+      "cardNum": "73/189"
+    },
+    {
+      "name": "Gothorita",
+      "set": "Darkness Ablaze",
+      "img": "https://den-cards.pokellector.com/296/Gothorita.SWSH3.74.35183.png",
+      "rarity": "Uncommon",
+      "cardNum": "74/189"
+    },
+    {
+      "name": "Gothitelle",
+      "set": "Darkness Ablaze",
+      "img": "https://den-cards.pokellector.com/296/Gothitelle.SWSH3.75.35184.png",
+      "rarity": "Rare",
+      "cardNum": "75/189"
+    },
+    {
+      "name": "Golett",
+      "set": "Darkness Ablaze",
+      "img": "https://den-cards.pokellector.com/296/Golett.SWSH3.76.35185.png",
+      "rarity": "Common",
+      "cardNum": "76/189"
+    },
+    {
+      "name": "Golurk",
+      "set": "Darkness Ablaze",
+      "img": "https://den-cards.pokellector.com/296/Golurk.SWSH3.77.35186.png",
+      "rarity": "Rare",
+      "cardNum": "77/189"
+    },
+    {
+      "name": "Dedenne",
+      "set": "Darkness Ablaze",
+      "img": "https://den-cards.pokellector.com/296/Dedenne.SWSH3.78.35187.png",
+      "rarity": "Uncommon",
+      "cardNum": "78/189"
+    },
+    {
+      "name": "Morelull",
+      "set": "Darkness Ablaze",
+      "img": "https://den-cards.pokellector.com/296/Morelull.SWSH3.79.35188.png",
+      "rarity": "Common",
+      "cardNum": "79/189"
+    },
+    {
+      "name": "Shiinotic",
+      "set": "Darkness Ablaze",
+      "img": "https://den-cards.pokellector.com/296/Shiinotic.SWSH3.80.35189.png",
+      "rarity": "Uncommon",
+      "cardNum": "80/189"
+    },
+    {
+      "name": "Mimikyu",
+      "set": "Darkness Ablaze",
+      "img": "https://den-cards.pokellector.com/296/Mimikyu.SWSH3.81.35190.png",
+      "rarity": "Rare",
+      "cardNum": "81/189"
+    },
+    {
+      "name": "Sinistea",
+      "set": "Darkness Ablaze",
+      "img": "https://den-cards.pokellector.com/296/Sinistea.SWSH3.82.35191.png",
+      "rarity": "Common",
+      "cardNum": "82/189"
+    },
+    {
+      "name": "Polteageist",
+      "set": "Darkness Ablaze",
+      "img": "https://den-cards.pokellector.com/296/Polteageist.SWSH3.83.35192.png",
+      "rarity": "Uncommon",
+      "cardNum": "83/189"
+    },
+    {
+      "name": "Diglett",
+      "set": "Darkness Ablaze",
+      "img": "https://den-cards.pokellector.com/296/Diglett.SWSH3.84.35193.png",
+      "rarity": "Common",
+      "cardNum": "84/189"
+    },
+    {
+      "name": "Dugtrio",
+      "set": "Darkness Ablaze",
+      "img": "https://den-cards.pokellector.com/296/Dugtrio.SWSH3.85.35194.png",
+      "rarity": "Uncommon",
+      "cardNum": "85/189"
+    },
+    {
+      "name": "Larvitar",
+      "set": "Darkness Ablaze",
+      "img": "https://den-cards.pokellector.com/296/Larvitar.SWSH3.86.35195.png",
+      "rarity": "Common",
+      "cardNum": "86/189"
+    },
+    {
+      "name": "Pupitar",
+      "set": "Darkness Ablaze",
+      "img": "https://den-cards.pokellector.com/296/Pupitar.SWSH3.87.35196.png",
+      "rarity": "Uncommon",
+      "cardNum": "87/189"
+    },
+    {
+      "name": "Tyranitar",
+      "set": "Darkness Ablaze",
+      "img": "https://den-cards.pokellector.com/296/Tyranitar.SWSH3.88.35197.png",
+      "rarity": "Rare",
+      "cardNum": "88/189"
+    },
+    {
+      "name": "Trapinch",
+      "set": "Darkness Ablaze",
+      "img": "https://den-cards.pokellector.com/296/Trapinch.SWSH3.89.35198.png",
+      "rarity": "Common",
+      "cardNum": "89/189"
+    },
+    {
+      "name": "Vibrava",
+      "set": "Darkness Ablaze",
+      "img": "https://den-cards.pokellector.com/296/Vibrava.SWSH3.90.35199.png",
+      "rarity": "Uncommon",
+      "cardNum": "90/189"
+    },
+    {
+      "name": "Flygon",
+      "set": "Darkness Ablaze",
+      "img": "https://den-cards.pokellector.com/296/Flygon.SWSH3.91.35200.png",
+      "rarity": "Rare",
+      "cardNum": "91/189"
+    },
+    {
+      "name": "Solrock",
+      "set": "Darkness Ablaze",
+      "img": "https://den-cards.pokellector.com/296/Solrock.SWSH3.92.35201.png",
+      "rarity": "Uncommon",
+      "cardNum": "92/189"
+    },
+    {
+      "name": "Hippopotas",
+      "set": "Darkness Ablaze",
+      "img": "https://den-cards.pokellector.com/296/Hippopotas.SWSH3.93.35202.png",
+      "rarity": "Common",
+      "cardNum": "93/189"
+    },
+    {
+      "name": "Hippowdon",
+      "set": "Darkness Ablaze",
+      "img": "https://den-cards.pokellector.com/296/Hippowdon.SWSH3.94.35203.png",
+      "rarity": "Rare",
+      "cardNum": "94/189"
+    },
+    {
+      "name": "Rhyperior V",
+      "set": "Darkness Ablaze",
+      "img": "https://den-cards.pokellector.com/296/Rhyperior-V.SWSH3.95.35204.png",
+      "rarity": "Rare",
+      "cardNum": "95/189"
+    },
+    {
+      "name": "Diggersby",
+      "set": "Darkness Ablaze",
+      "img": "https://den-cards.pokellector.com/296/Diggersby.SWSH3.96.35205.png",
+      "rarity": "Rare",
+      "cardNum": "96/189"
+    },
+    {
+      "name": "Passimian",
+      "set": "Darkness Ablaze",
+      "img": "https://den-cards.pokellector.com/296/Passimian.SWSH3.97.35206.png",
+      "rarity": "Common",
+      "cardNum": "97/189"
+    },
+    {
+      "name": "Galarian Sirfetch'd",
+      "set": "Darkness Ablaze",
+      "img": "https://den-cards.pokellector.com/296/Galarian-Sirfetchd.SWSH3.98.35207.png",
+      "rarity": "Rare",
+      "cardNum": "98/189"
+    },
+    {
+      "name": "Galarian Slowbro V",
+      "set": "Darkness Ablaze",
+      "img": "https://den-cards.pokellector.com/296/Galarian-Slowbro-V.SWSH3.99.35110.png",
+      "rarity": "Rare",
+      "cardNum": "99/189"
+    },
+    {
+      "name": "Grimer",
+      "set": "Darkness Ablaze",
+      "img": "https://den-cards.pokellector.com/296/Grimer.SWSH3.100.35208.png",
+      "rarity": "Common",
+      "cardNum": "100/189"
+    },
+    {
+      "name": "Muk",
+      "set": "Darkness Ablaze",
+      "img": "https://den-cards.pokellector.com/296/Muk.SWSH3.101.35209.png",
+      "rarity": "Rare",
+      "cardNum": "101/189"
+    },
+    {
+      "name": "Spinarak",
+      "set": "Darkness Ablaze",
+      "img": "https://den-cards.pokellector.com/296/Spinarak.SWSH3.102.35210.png",
+      "rarity": "Common",
+      "cardNum": "102/189"
+    },
+    {
+      "name": "Ariados",
+      "set": "Darkness Ablaze",
+      "img": "https://den-cards.pokellector.com/296/Ariados.SWSH3.103.35211.png",
+      "rarity": "Uncommon",
+      "cardNum": "103/189"
+    },
+    {
+      "name": "Crobat V",
+      "set": "Darkness Ablaze",
+      "img": "https://den-cards.pokellector.com/296/Crobat-V.SWSH3.104.35212.png",
+      "rarity": "Rare",
+      "cardNum": "104/189"
+    },
+    {
+      "name": "Darkrai",
+      "set": "Darkness Ablaze",
+      "img": "https://den-cards.pokellector.com/296/Darkrai.SWSH3.105.35213.png",
+      "rarity": "Rare",
+      "cardNum": "105/189"
+    },
+    {
+      "name": "Purrloin",
+      "set": "Darkness Ablaze",
+      "img": "https://den-cards.pokellector.com/296/Purrloin.SWSH3.106.35214.png",
+      "rarity": "Common",
+      "cardNum": "106/189"
+    },
+    {
+      "name": "Liepard",
+      "set": "Darkness Ablaze",
+      "img": "https://den-cards.pokellector.com/296/Liepard.SWSH3.107.35215.png",
+      "rarity": "Rare",
+      "cardNum": "107/189"
+    },
+    {
+      "name": "Deino",
+      "set": "Darkness Ablaze",
+      "img": "https://den-cards.pokellector.com/296/Deino.SWSH3.108.35216.png",
+      "rarity": "Common",
+      "cardNum": "108/189"
+    },
+    {
+      "name": "Zweilous",
+      "set": "Darkness Ablaze",
+      "img": "https://den-cards.pokellector.com/296/Zweilous.SWSH3.109.35217.png",
+      "rarity": "Uncommon",
+      "cardNum": "109/189"
+    },
+    {
+      "name": "Hydreigon",
+      "set": "Darkness Ablaze",
+      "img": "https://den-cards.pokellector.com/296/Hydreigon.SWSH3.110.35218.png",
+      "rarity": "Rare",
+      "cardNum": "110/189"
+    },
+    {
+      "name": "Hoopa",
+      "set": "Darkness Ablaze",
+      "img": "https://den-cards.pokellector.com/296/Hoopa.SWSH3.111.35219.png",
+      "rarity": "Rare",
+      "cardNum": "111/189"
+    },
+    {
+      "name": "Nickit",
+      "set": "Darkness Ablaze",
+      "img": "https://den-cards.pokellector.com/296/Nickit.SWSH3.112.35220.png",
+      "rarity": "Common",
+      "cardNum": "112/189"
+    },
+    {
+      "name": "Thievul",
+      "set": "Darkness Ablaze",
+      "img": "https://den-cards.pokellector.com/296/Thievul.SWSH3.113.35221.png",
+      "rarity": "Rare",
+      "cardNum": "113/189"
+    },
+    {
+      "name": "Grimmsnarl V",
+      "set": "Darkness Ablaze",
+      "img": "https://den-cards.pokellector.com/296/Grimmsnarl-V.SWSH3.114.35222.png",
+      "rarity": "Rare",
+      "cardNum": "114/189"
+    },
+    {
+      "name": "Grimmsnarl VMAX",
+      "set": "Darkness Ablaze",
+      "img": "https://den-cards.pokellector.com/296/Grimmsnarl-VMAX.SWSH3.115.35223.png",
+      "rarity": "Rare",
+      "cardNum": "115/189"
+    },
+    {
+      "name": "Eternatus V",
+      "set": "Darkness Ablaze",
+      "img": "https://den-cards.pokellector.com/296/Eternatus-V.SWSH3.116.35224.png",
+      "rarity": "Rare",
+      "cardNum": "116/189"
+    },
+    {
+      "name": "Eternatus VMAX",
+      "set": "Darkness Ablaze",
+      "img": "https://den-cards.pokellector.com/296/Eternatus-VMAX.SWSH3.117.35225.png",
+      "rarity": "Rare",
+      "cardNum": "117/189"
+    },
+    {
+      "name": "Scizor V",
+      "set": "Darkness Ablaze",
+      "img": "https://den-cards.pokellector.com/296/Scizor-V.SWSH3.118.35226.png",
+      "rarity": "Rare",
+      "cardNum": "118/189"
+    },
+    {
+      "name": "Scizor VMAX",
+      "set": "Darkness Ablaze",
+      "img": "https://den-cards.pokellector.com/296/Scizor-VMAX.SWSH3.119.35116.png",
+      "rarity": "Rare",
+      "cardNum": "119/189"
+    },
+    {
+      "name": "Skarmory",
+      "set": "Darkness Ablaze",
+      "img": "https://den-cards.pokellector.com/296/Skarmory.SWSH3.120.35227.png",
+      "rarity": "Common",
+      "cardNum": "120/189"
+    },
+    {
+      "name": "Aron",
+      "set": "Darkness Ablaze",
+      "img": "https://den-cards.pokellector.com/296/Aron.SWSH3.121.35228.png",
+      "rarity": "Common",
+      "cardNum": "121/189"
+    },
+    {
+      "name": "Lairon",
+      "set": "Darkness Ablaze",
+      "img": "https://den-cards.pokellector.com/296/Lairon.SWSH3.122.35229.png",
+      "rarity": "Uncommon",
+      "cardNum": "122/189"
+    },
+    {
+      "name": "Aggron",
+      "set": "Darkness Ablaze",
+      "img": "https://den-cards.pokellector.com/296/Aggron.SWSH3.123.35230.png",
+      "rarity": "Rare",
+      "cardNum": "123/189"
+    },
+    {
+      "name": "Escavalier",
+      "set": "Darkness Ablaze",
+      "img": "https://den-cards.pokellector.com/296/Escavalier.SWSH3.124.35231.png",
+      "rarity": "Rare",
+      "cardNum": "124/189"
+    },
+    {
+      "name": "Klink",
+      "set": "Darkness Ablaze",
+      "img": "https://den-cards.pokellector.com/296/Klink.SWSH3.125.35232.png",
+      "rarity": "Common",
+      "cardNum": "125/189"
+    },
+    {
+      "name": "Klang",
+      "set": "Darkness Ablaze",
+      "img": "https://den-cards.pokellector.com/296/Klang.SWSH3.126.35233.png",
+      "rarity": "Uncommon",
+      "cardNum": "126/189"
+    },
+    {
+      "name": "Klinklang",
+      "set": "Darkness Ablaze",
+      "img": "https://den-cards.pokellector.com/296/Klinklang.SWSH3.127.35234.png",
+      "rarity": "Rare",
+      "cardNum": "127/189"
+    },
+    {
+      "name": "Galarian Stunfisk V",
+      "set": "Darkness Ablaze",
+      "img": "https://den-cards.pokellector.com/296/Galarian-Stunfisk-V.SWSH3.128.35235.png",
+      "rarity": "Rare",
+      "cardNum": "128/189"
+    },
+    {
+      "name": "Meltan",
+      "set": "Darkness Ablaze",
+      "img": "https://den-cards.pokellector.com/296/Meltan.SWSH3.129.35236.png",
+      "rarity": "Common",
+      "cardNum": "129/189"
+    },
+    {
+      "name": "Melmetal",
+      "set": "Darkness Ablaze",
+      "img": "https://den-cards.pokellector.com/296/Melmetal.SWSH3.130.35237.png",
+      "rarity": "Rare",
+      "cardNum": "130/189"
+    },
+    {
+      "name": "Cufant",
+      "set": "Darkness Ablaze",
+      "img": "https://den-cards.pokellector.com/296/Cufant.SWSH3.131.35238.png",
+      "rarity": "Common",
+      "cardNum": "131/189"
+    },
+    {
+      "name": "Copperajah",
+      "set": "Darkness Ablaze",
+      "img": "https://den-cards.pokellector.com/296/Copperajah.SWSH3.132.35239.png",
+      "rarity": "Rare",
+      "cardNum": "132/189"
+    },
+    {
+      "name": "Kangaskhan",
+      "set": "Darkness Ablaze",
+      "img": "https://den-cards.pokellector.com/296/Kangaskhan.SWSH3.133.35240.png",
+      "rarity": "Rare",
+      "cardNum": "133/189"
+    },
+    {
+      "name": "Tauros",
+      "set": "Darkness Ablaze",
+      "img": "https://den-cards.pokellector.com/296/Tauros.SWSH3.134.35241.png",
+      "rarity": "Common",
+      "cardNum": "134/189"
+    },
+    {
+      "name": "Sentret",
+      "set": "Darkness Ablaze",
+      "img": "https://den-cards.pokellector.com/296/Sentret.SWSH3.135.35242.png",
+      "rarity": "Common",
+      "cardNum": "135/189"
+    },
+    {
+      "name": "Furret",
+      "set": "Darkness Ablaze",
+      "img": "https://den-cards.pokellector.com/296/Furret.SWSH3.136.35243.png",
+      "rarity": "Uncommon",
+      "cardNum": "136/189"
+    },
+    {
+      "name": "Dunsparce",
+      "set": "Darkness Ablaze",
+      "img": "https://den-cards.pokellector.com/296/Dunsparce.SWSH3.137.35244.png",
+      "rarity": "Common",
+      "cardNum": "137/189"
+    },
+    {
+      "name": "Teddiursa",
+      "set": "Darkness Ablaze",
+      "img": "https://den-cards.pokellector.com/296/Teddiursa.SWSH3.138.35245.png",
+      "rarity": "Common",
+      "cardNum": "138/189"
+    },
+    {
+      "name": "Ursaring",
+      "set": "Darkness Ablaze",
+      "img": "https://den-cards.pokellector.com/296/Ursaring.SWSH3.139.35246.png",
+      "rarity": "Uncommon",
+      "cardNum": "139/189"
+    },
+    {
+      "name": "Lugia",
+      "set": "Darkness Ablaze",
+      "img": "https://den-cards.pokellector.com/296/Lugia.SWSH3.140.35247.png",
+      "rarity": "Rare",
+      "cardNum": "140/189"
+    },
+    {
+      "name": "Skitty",
+      "set": "Darkness Ablaze",
+      "img": "https://den-cards.pokellector.com/296/Skitty.SWSH3.141.35248.png",
+      "rarity": "Common",
+      "cardNum": "141/189"
+    },
+    {
+      "name": "Delcatty",
+      "set": "Darkness Ablaze",
+      "img": "https://den-cards.pokellector.com/296/Delcatty.SWSH3.142.35249.png",
+      "rarity": "Rare",
+      "cardNum": "142/189"
+    },
+    {
+      "name": "Salamence V",
+      "set": "Darkness Ablaze",
+      "img": "https://den-cards.pokellector.com/296/Salamence-V.SWSH3.143.35250.png",
+      "rarity": "Rare",
+      "cardNum": "143/189"
+    },
+    {
+      "name": "Salamence VMAX",
+      "set": "Darkness Ablaze",
+      "img": "https://den-cards.pokellector.com/296/Salamence-VMAX.SWSH3.144.35251.png",
+      "rarity": "Rare",
+      "cardNum": "144/189"
+    },
+    {
+      "name": "Starly",
+      "set": "Darkness Ablaze",
+      "img": "https://den-cards.pokellector.com/296/Starly.SWSH3.145.35252.png",
+      "rarity": "Common",
+      "cardNum": "145/189"
+    },
+    {
+      "name": "Staravia",
+      "set": "Darkness Ablaze",
+      "img": "https://den-cards.pokellector.com/296/Staravia.SWSH3.146.35253.png",
+      "rarity": "Uncommon",
+      "cardNum": "146/189"
+    },
+    {
+      "name": "Staraptor",
+      "set": "Darkness Ablaze",
+      "img": "https://den-cards.pokellector.com/296/Staraptor.SWSH3.147.35254.png",
+      "rarity": "Rare",
+      "cardNum": "147/189"
+    },
+    {
+      "name": "Ducklett",
+      "set": "Darkness Ablaze",
+      "img": "https://den-cards.pokellector.com/296/Ducklett.SWSH3.148.35255.png",
+      "rarity": "Common",
+      "cardNum": "148/189"
+    },
+    {
+      "name": "Swanna",
+      "set": "Darkness Ablaze",
+      "img": "https://den-cards.pokellector.com/296/Swanna.SWSH3.149.35256.png",
+      "rarity": "Rare",
+      "cardNum": "149/189"
+    },
+    {
+      "name": "Bunnelby",
+      "set": "Darkness Ablaze",
+      "img": "https://den-cards.pokellector.com/296/Bunnelby.SWSH3.150.35257.png",
+      "rarity": "Common",
+      "cardNum": "150/189"
+    },
+    {
+      "name": "Fletchling",
+      "set": "Darkness Ablaze",
+      "img": "https://den-cards.pokellector.com/296/Fletchling.SWSH3.151.35258.png",
+      "rarity": "Common",
+      "cardNum": "151/189"
+    },
+    {
+      "name": "Skwovet",
+      "set": "Darkness Ablaze",
+      "img": "https://den-cards.pokellector.com/296/Skwovet.SWSH3.152.35259.png",
+      "rarity": "Common",
+      "cardNum": "152/189"
+    },
+    {
+      "name": "Greedent",
+      "set": "Darkness Ablaze",
+      "img": "https://den-cards.pokellector.com/296/Greedent.SWSH3.153.35260.png",
+      "rarity": "Rare",
+      "cardNum": "153/189"
+    },
+    {
+      "name": "Rookidee",
+      "set": "Darkness Ablaze",
+      "img": "https://den-cards.pokellector.com/296/Rookidee.SWSH3.154.35261.png",
+      "rarity": "Common",
+      "cardNum": "154/189"
+    },
+    {
+      "name": "Corvisquire",
+      "set": "Darkness Ablaze",
+      "img": "https://den-cards.pokellector.com/296/Corvisquire.SWSH3.155.35262.png",
+      "rarity": "Uncommon",
+      "cardNum": "155/189"
+    },
+    {
+      "name": "Corviknight",
+      "set": "Darkness Ablaze",
+      "img": "https://den-cards.pokellector.com/296/Corviknight.SWSH3.156.35263.png",
+      "rarity": "Rare",
+      "cardNum": "156/189"
+    },
+    {
+      "name": "Big Parasol",
+      "set": "Darkness Ablaze",
+      "img": "https://den-cards.pokellector.com/296/Big-Parasol.SWSH3.157.35264.png",
+      "rarity": "Uncommon",
+      "cardNum": "157/189"
+    },
+    {
+      "name": "Billowing Smoke",
+      "set": "Darkness Ablaze",
+      "img": "https://den-cards.pokellector.com/296/Billowing-Smoke.SWSH3.158.35265.png",
+      "rarity": "Uncommon",
+      "cardNum": "158/189"
+    },
+    {
+      "name": "Bird Keeper",
+      "set": "Darkness Ablaze",
+      "img": "https://den-cards.pokellector.com/296/Bird-Keeper.SWSH3.159.35266.png",
+      "rarity": "Uncommon",
+      "cardNum": "159/189"
+    },
+    {
+      "name": "Cape of Toughness",
+      "set": "Darkness Ablaze",
+      "img": "https://den-cards.pokellector.com/296/Cape-of-Toughness.SWSH3.160.35267.png",
+      "rarity": "Uncommon",
+      "cardNum": "160/189"
+    },
+    {
+      "name": "Familiar Bell",
+      "set": "Darkness Ablaze",
+      "img": "https://den-cards.pokellector.com/296/Familiar-Bell.SWSH3.161.35268.png",
+      "rarity": "Uncommon",
+      "cardNum": "161/189"
+    },
+    {
+      "name": "Glimwood Tangle",
+      "set": "Darkness Ablaze",
+      "img": "https://den-cards.pokellector.com/296/Glimwood-Tangle.SWSH3.162.35269.png",
+      "rarity": "Uncommon",
+      "cardNum": "162/189"
+    },
+    {
+      "name": "Kabu",
+      "set": "Darkness Ablaze",
+      "img": "https://den-cards.pokellector.com/296/Kabu.SWSH3.163.35270.png",
+      "rarity": "Uncommon",
+      "cardNum": "163/189"
+    },
+    {
+      "name": "Old PC",
+      "set": "Darkness Ablaze",
+      "img": "https://den-cards.pokellector.com/296/Old-PC.SWSH3.164.35271.png",
+      "rarity": "Uncommon",
+      "cardNum": "164/189"
+    },
+    {
+      "name": "Piers",
+      "set": "Darkness Ablaze",
+      "img": "https://den-cards.pokellector.com/296/Piers.SWSH3.165.35272.png",
+      "rarity": "Uncommon",
+      "cardNum": "165/189"
+    },
+    {
+      "name": "Pokémon Breeder's Nurturing",
+      "set": "Darkness Ablaze",
+      "img": "https://den-cards.pokellector.com/296/Pokmon-Breeders-Nurturing.SWSH3.166.35273.png",
+      "rarity": "Uncommon",
+      "cardNum": "166/189"
+    },
+    {
+      "name": "Rare Fossil",
+      "set": "Darkness Ablaze",
+      "img": "https://den-cards.pokellector.com/296/Rare-Fossil.SWSH3.167.35274.png",
+      "rarity": "Uncommon",
+      "cardNum": "167/189"
+    },
+    {
+      "name": "Rose",
+      "set": "Darkness Ablaze",
+      "img": "https://den-cards.pokellector.com/296/Rose.SWSH3.168.35108.png",
+      "rarity": "Uncommon",
+      "cardNum": "168/189"
+    },
+    {
+      "name": "Rose Tower",
+      "set": "Darkness Ablaze",
+      "img": "https://den-cards.pokellector.com/296/Rose-Tower.SWSH3.169.35107.png",
+      "rarity": "Uncommon",
+      "cardNum": "169/189"
+    },
+    {
+      "name": "Spikemuth",
+      "set": "Darkness Ablaze",
+      "img": "https://den-cards.pokellector.com/296/Spikemuth.SWSH3.170.35275.png",
+      "rarity": "Uncommon",
+      "cardNum": "170/189"
+    },
+    {
+      "name": "Struggle Gloves",
+      "set": "Darkness Ablaze",
+      "img": "https://den-cards.pokellector.com/296/Struggle-Gloves.SWSH3.171.35276.png",
+      "rarity": "Uncommon",
+      "cardNum": "171/189"
+    },
+    {
+      "name": "Turbo Patch",
+      "set": "Darkness Ablaze",
+      "img": "https://den-cards.pokellector.com/296/Turbo-Patch.SWSH3.172.35277.png",
+      "rarity": "Uncommon",
+      "cardNum": "172/189"
+    },
+    {
+      "name": "Yell Horn",
+      "set": "Darkness Ablaze",
+      "img": "https://den-cards.pokellector.com/296/Yell-Horn.SWSH3.173.35278.png",
+      "rarity": "Uncommon",
+      "cardNum": "173/189"
+    },
+    {
+      "name": "Heat Energy",
+      "set": "Darkness Ablaze",
+      "img": "https://den-cards.pokellector.com/296/Heat-Energy.SWSH3.174.35279.png",
+      "rarity": "Uncommon",
+      "cardNum": "174/189"
+    },
+    {
+      "name": "Hiding Energy",
+      "set": "Darkness Ablaze",
+      "img": "https://den-cards.pokellector.com/296/Hiding-Energy.SWSH3.175.35280.png",
+      "rarity": "Uncommon",
+      "cardNum": "175/189"
+    },
+    {
+      "name": "Powerful Energy",
+      "set": "Darkness Ablaze",
+      "img": "https://den-cards.pokellector.com/296/Powerful-Energy.SWSH3.176.35281.png",
+      "rarity": "Uncommon",
+      "cardNum": "176/189"
+    },
+    {
+      "name": "Butterfree V",
+      "set": "Darkness Ablaze",
+      "img": "https://den-cards.pokellector.com/296/Butterfree-V.SWSH3.177.35282.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "177/189"
+    },
+    {
+      "name": "Houndoom V",
+      "set": "Darkness Ablaze",
+      "img": "https://den-cards.pokellector.com/296/Houndoom-V.SWSH3.178.35283.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "178/189"
+    },
+    {
+      "name": "Centiskorch V",
+      "set": "Darkness Ablaze",
+      "img": "https://den-cards.pokellector.com/296/Centiskorch-V.SWSH3.179.35284.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "179/189"
+    },
+    {
+      "name": "Vikavolt V",
+      "set": "Darkness Ablaze",
+      "img": "https://den-cards.pokellector.com/296/Vikavolt-V.SWSH3.180.35285.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "180/189"
+    },
+    {
+      "name": "Rhyperior V",
+      "set": "Darkness Ablaze",
+      "img": "https://den-cards.pokellector.com/296/Rhyperior-V.SWSH3.181.35286.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "181/189"
+    },
+    {
+      "name": "Crobat V",
+      "set": "Darkness Ablaze",
+      "img": "https://den-cards.pokellector.com/296/Crobat-V.SWSH3.182.35287.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "182/189"
+    },
+    {
+      "name": "Scizor V",
+      "set": "Darkness Ablaze",
+      "img": "https://den-cards.pokellector.com/296/Scizor-V.SWSH3.183.35288.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "183/189"
+    },
+    {
+      "name": "Galarian Stunfisk V",
+      "set": "Darkness Ablaze",
+      "img": "https://den-cards.pokellector.com/296/Galarian-Stunfisk-V.SWSH3.184.35289.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "184/189"
+    },
+    {
+      "name": "Salamence V",
+      "set": "Darkness Ablaze",
+      "img": "https://den-cards.pokellector.com/296/Salamence-V.SWSH3.185.35290.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "185/189"
+    },
+    {
+      "name": "Kabu",
+      "set": "Darkness Ablaze",
+      "img": "https://den-cards.pokellector.com/296/Kabu.SWSH3.186.35291.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "186/189"
+    },
+    {
+      "name": "Piers",
+      "set": "Darkness Ablaze",
+      "img": "https://den-cards.pokellector.com/296/Piers.SWSH3.187.35292.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "187/189"
+    },
+    {
+      "name": "Pokémon Breeder's Nurturing",
+      "set": "Darkness Ablaze",
+      "img": "https://den-cards.pokellector.com/296/Pokmon-Breeders-Nurturing.SWSH3.188.35293.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "188/189"
+    },
+    {
+      "name": "Rose",
+      "set": "Darkness Ablaze",
+      "img": "https://den-cards.pokellector.com/296/Rose.SWSH3.189.35294.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "189/189"
+    },
+    {
+      "name": "Butterfree VMAX",
+      "set": "Darkness Ablaze",
+      "img": "https://den-cards.pokellector.com/296/Butterfree-VMAX.SWSH3.190.35295.png",
+      "rarity": "Secret Rare",
+      "cardNum": "190/189"
+    },
+    {
+      "name": "Centiskorch VMAX",
+      "set": "Darkness Ablaze",
+      "img": "https://den-cards.pokellector.com/296/Centiskorch-VMAX.SWSH3.191.35296.png",
+      "rarity": "Secret Rare",
+      "cardNum": "191/189"
+    },
+    {
+      "name": "Eternatus VMAX",
+      "set": "Darkness Ablaze",
+      "img": "https://den-cards.pokellector.com/296/Eternatus-VMAX.SWSH3.192.35297.png",
+      "rarity": "Secret Rare",
+      "cardNum": "192/189"
+    },
+    {
+      "name": "Scizor VMAX",
+      "set": "Darkness Ablaze",
+      "img": "https://den-cards.pokellector.com/296/Scizor-VMAX.SWSH3.193.35298.png",
+      "rarity": "Secret Rare",
+      "cardNum": "193/189"
+    },
+    {
+      "name": "Salamence VMAX",
+      "set": "Darkness Ablaze",
+      "img": "https://den-cards.pokellector.com/296/Salamence-VMAX.SWSH3.194.35299.png",
+      "rarity": "Secret Rare",
+      "cardNum": "194/189"
+    },
+    {
+      "name": "Pokémon Breeder's Nurturing",
+      "set": "Darkness Ablaze",
+      "img": "https://den-cards.pokellector.com/296/Pokmon-Breeders-Nurturing.SWSH3.195.35300.png",
+      "rarity": "Secret Rare",
+      "cardNum": "195/189"
+    },
+    {
+      "name": "Rose",
+      "set": "Darkness Ablaze",
+      "img": "https://den-cards.pokellector.com/296/Rose.SWSH3.196.35301.png",
+      "rarity": "Secret Rare",
+      "cardNum": "196/189"
+    },
+    {
+      "name": "Rillaboom",
+      "set": "Darkness Ablaze",
+      "img": "https://den-cards.pokellector.com/296/Rillaboom.SWSH3.197.35302.png",
+      "rarity": "Secret Rare",
+      "cardNum": "197/189"
+    },
+    {
+      "name": "Coalossal",
+      "set": "Darkness Ablaze",
+      "img": "https://den-cards.pokellector.com/296/Coalossal.SWSH3.198.35303.png",
+      "rarity": "Secret Rare",
+      "cardNum": "198/189"
+    },
+    {
+      "name": "Big Parasol",
+      "set": "Darkness Ablaze",
+      "img": "https://den-cards.pokellector.com/296/Big-Parasol.SWSH3.199.35304.png",
+      "rarity": "Secret Rare",
+      "cardNum": "199/189"
+    },
+    {
+      "name": "Turbo Patch",
+      "set": "Darkness Ablaze",
+      "img": "https://den-cards.pokellector.com/296/Turbo-Patch.SWSH3.200.35305.png",
+      "rarity": "Secret Rare",
+      "cardNum": "200/189"
+    },
+    {
+      "name": "Capture Energy",
+      "set": "Darkness Ablaze",
+      "img": "https://den-cards.pokellector.com/296/Capture-Energy.SWSH3.201.35306.png",
+      "rarity": "Secret Rare",
+      "cardNum": "201/189"
+    }
+  ]
+}

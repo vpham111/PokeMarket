@@ -1,0 +1,54 @@
+{
+  "setName": "PPP Promos",
+  "cards": [
+    {
+      "name": "Turtwig",
+      "set": "PPP Promos",
+      "img": "https://den-cards.pokellector.com/128/Turtwig.PPP.1.png",
+      "rarity": "Common",
+      "cardNum": "1/7"
+    },
+    {
+      "name": "Chimchar",
+      "set": "PPP Promos",
+      "img": "https://den-cards.pokellector.com/128/Chimchar.PPP.2.png",
+      "rarity": "Common",
+      "cardNum": "2/7"
+    },
+    {
+      "name": "Piplup",
+      "set": "PPP Promos",
+      "img": "https://www.pokellector.com/images/card-placeholder.png",
+      "rarity": "Common",
+      "cardNum": "3/7"
+    },
+    {
+      "name": "Manaphy",
+      "set": "PPP Promos",
+      "img": "https://den-cards.pokellector.com/128/Manaphy.PPP.4.png",
+      "rarity": "Common",
+      "cardNum": "4/7"
+    },
+    {
+      "name": "Dialga",
+      "set": "PPP Promos",
+      "img": "https://den-cards.pokellector.com/128/Dialga.PPP.5.png",
+      "rarity": "Common",
+      "cardNum": "5/7"
+    },
+    {
+      "name": "Palkia",
+      "set": "PPP Promos",
+      "img": "https://den-cards.pokellector.com/128/Palkia.PPP.6.png",
+      "rarity": "Common",
+      "cardNum": "6/7"
+    },
+    {
+      "name": "Darkrai",
+      "set": "PPP Promos",
+      "img": "https://den-cards.pokellector.com/128/Darkrai.PPP.7.png",
+      "rarity": "Common",
+      "cardNum": "7/7"
+    }
+  ]
+}

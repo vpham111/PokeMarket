@@ -1,0 +1,1188 @@
+{
+  "setName": "Burning Shadows",
+  "cards": [
+    {
+      "name": "Caterpie",
+      "set": "Burning Shadows",
+      "img": "https://den-cards.pokellector.com/225/Caterpie.BSH.1.18354.png",
+      "rarity": "Common",
+      "cardNum": "1/147"
+    },
+    {
+      "name": "Metapod",
+      "set": "Burning Shadows",
+      "img": "https://den-cards.pokellector.com/225/Metapod.BSH.2.18355.png",
+      "rarity": "Uncommon",
+      "cardNum": "2/147"
+    },
+    {
+      "name": "Butterfree",
+      "set": "Burning Shadows",
+      "img": "https://den-cards.pokellector.com/225/Butterfree.BSH.3.18356.png",
+      "rarity": "Rare",
+      "cardNum": "3/147"
+    },
+    {
+      "name": "Oddish",
+      "set": "Burning Shadows",
+      "img": "https://den-cards.pokellector.com/225/Oddish.BSH.4.18357.png",
+      "rarity": "Common",
+      "cardNum": "4/147"
+    },
+    {
+      "name": "Gloom",
+      "set": "Burning Shadows",
+      "img": "https://den-cards.pokellector.com/225/Gloom.BSH.5.18358.png",
+      "rarity": "Uncommon",
+      "cardNum": "5/147"
+    },
+    {
+      "name": "Vileplume",
+      "set": "Burning Shadows",
+      "img": "https://den-cards.pokellector.com/225/Vileplume.BSH.6.18359.png",
+      "rarity": "Rare",
+      "cardNum": "6/147"
+    },
+    {
+      "name": "Tangela",
+      "set": "Burning Shadows",
+      "img": "https://den-cards.pokellector.com/225/Tangela.BSH.7.18360.png",
+      "rarity": "Common",
+      "cardNum": "7/147"
+    },
+    {
+      "name": "Tangrowth",
+      "set": "Burning Shadows",
+      "img": "https://den-cards.pokellector.com/225/Tangrowth.BSH.8.18361.png",
+      "rarity": "Rare",
+      "cardNum": "8/147"
+    },
+    {
+      "name": "Ledyba",
+      "set": "Burning Shadows",
+      "img": "https://den-cards.pokellector.com/225/Ledyba.BSH.9.18362.png",
+      "rarity": "Common",
+      "cardNum": "9/147"
+    },
+    {
+      "name": "Ledian",
+      "set": "Burning Shadows",
+      "img": "https://den-cards.pokellector.com/225/Ledian.BSH.10.18363.png",
+      "rarity": "Rare",
+      "cardNum": "10/147"
+    },
+    {
+      "name": "Heracross",
+      "set": "Burning Shadows",
+      "img": "https://den-cards.pokellector.com/225/Heracross.BSH.11.18364.png",
+      "rarity": "Rare",
+      "cardNum": "11/147"
+    },
+    {
+      "name": "Pansage",
+      "set": "Burning Shadows",
+      "img": "https://den-cards.pokellector.com/225/Pansage.BSH.12.18365.png",
+      "rarity": "Common",
+      "cardNum": "12/147"
+    },
+    {
+      "name": "Simisage",
+      "set": "Burning Shadows",
+      "img": "https://den-cards.pokellector.com/225/Simisage.BSH.13.18366.png",
+      "rarity": "Uncommon",
+      "cardNum": "13/147"
+    },
+    {
+      "name": "Dewpider",
+      "set": "Burning Shadows",
+      "img": "https://den-cards.pokellector.com/225/Dewpider.BSH.14.18367.png",
+      "rarity": "Common",
+      "cardNum": "14/147"
+    },
+    {
+      "name": "Araquanid",
+      "set": "Burning Shadows",
+      "img": "https://den-cards.pokellector.com/225/Araquanid.BSH.15.18368.png",
+      "rarity": "Rare",
+      "cardNum": "15/147"
+    },
+    {
+      "name": "Wimpod",
+      "set": "Burning Shadows",
+      "img": "https://den-cards.pokellector.com/225/Wimpod.BSH.16.18369.png",
+      "rarity": "Common",
+      "cardNum": "16/147"
+    },
+    {
+      "name": "Golisopod GX",
+      "set": "Burning Shadows",
+      "img": "https://den-cards.pokellector.com/225/Golisopod-GX.BSH.17.18255.png",
+      "rarity": "Rare",
+      "cardNum": "17/147"
+    },
+    {
+      "name": "Charmander",
+      "set": "Burning Shadows",
+      "img": "https://den-cards.pokellector.com/225/Charmander.BSH.18.18371.png",
+      "rarity": "Common",
+      "cardNum": "18/147"
+    },
+    {
+      "name": "Charmeleon",
+      "set": "Burning Shadows",
+      "img": "https://den-cards.pokellector.com/225/Charmeleon.BSH.19.18372.png",
+      "rarity": "Uncommon",
+      "cardNum": "19/147"
+    },
+    {
+      "name": "Charizard GX",
+      "set": "Burning Shadows",
+      "img": "https://den-cards.pokellector.com/225/Charizard-GX.BSH.20.18343.png",
+      "rarity": "Rare",
+      "cardNum": "20/147"
+    },
+    {
+      "name": "Ho-Oh GX",
+      "set": "Burning Shadows",
+      "img": "https://den-cards.pokellector.com/225/Ho-Oh-GX.BSH.21.18386.png",
+      "rarity": "Rare",
+      "cardNum": "21/147"
+    },
+    {
+      "name": "Pansear",
+      "set": "Burning Shadows",
+      "img": "https://den-cards.pokellector.com/225/Pansear.BSH.22.18387.png",
+      "rarity": "Common",
+      "cardNum": "22/147"
+    },
+    {
+      "name": "Simisear",
+      "set": "Burning Shadows",
+      "img": "https://den-cards.pokellector.com/225/Simisear.BSH.23.18388.png",
+      "rarity": "Uncommon",
+      "cardNum": "23/147"
+    },
+    {
+      "name": "Heatmor",
+      "set": "Burning Shadows",
+      "img": "https://den-cards.pokellector.com/225/Heatmor.BSH.24.18389.png",
+      "rarity": "Uncommon",
+      "cardNum": "24/147"
+    },
+    {
+      "name": "Salazzle GX",
+      "set": "Burning Shadows",
+      "img": "https://den-cards.pokellector.com/225/Salazzle-GX.BSH.25.18390.png",
+      "rarity": "Rare",
+      "cardNum": "25/147"
+    },
+    {
+      "name": "Turtonator",
+      "set": "Burning Shadows",
+      "img": "https://den-cards.pokellector.com/225/Turtonator.BSH.26.18391.png",
+      "rarity": "Rare",
+      "cardNum": "26/147"
+    },
+    {
+      "name": "Alolan Vulpix",
+      "set": "Burning Shadows",
+      "img": "https://den-cards.pokellector.com/225/Alolan-Vulpix.BSH.27.18392.png",
+      "rarity": "Common",
+      "cardNum": "27/147"
+    },
+    {
+      "name": "Alolan Ninetales",
+      "set": "Burning Shadows",
+      "img": "https://den-cards.pokellector.com/225/Alolan-Ninetales.BSH.28.18393.png",
+      "rarity": "Rare",
+      "cardNum": "28/147"
+    },
+    {
+      "name": "Horsea",
+      "set": "Burning Shadows",
+      "img": "https://den-cards.pokellector.com/225/Horsea.BSH.29.18394.png",
+      "rarity": "Common",
+      "cardNum": "29/147"
+    },
+    {
+      "name": "Seadra",
+      "set": "Burning Shadows",
+      "img": "https://den-cards.pokellector.com/225/Seadra.BSH.30.18395.png",
+      "rarity": "Uncommon",
+      "cardNum": "30/147"
+    },
+    {
+      "name": "Kingdra",
+      "set": "Burning Shadows",
+      "img": "https://den-cards.pokellector.com/225/Kingdra.BSH.31.18396.png",
+      "rarity": "Rare",
+      "cardNum": "31/147"
+    },
+    {
+      "name": "Magikarp",
+      "set": "Burning Shadows",
+      "img": "https://den-cards.pokellector.com/225/Magikarp.BSH.32.18397.png",
+      "rarity": "Common",
+      "cardNum": "32/147"
+    },
+    {
+      "name": "Gyarados",
+      "set": "Burning Shadows",
+      "img": "https://den-cards.pokellector.com/225/Gyarados.BSH.33.18537.png",
+      "rarity": "Rare",
+      "cardNum": "33/147"
+    },
+    {
+      "name": "Marill",
+      "set": "Burning Shadows",
+      "img": "https://den-cards.pokellector.com/225/Marill.BSH.34.18538.png",
+      "rarity": "Common",
+      "cardNum": "34/147"
+    },
+    {
+      "name": "Azumarill",
+      "set": "Burning Shadows",
+      "img": "https://den-cards.pokellector.com/225/Azumarill.BSH.35.18539.png",
+      "rarity": "Rare",
+      "cardNum": "35/147"
+    },
+    {
+      "name": "Panpour",
+      "set": "Burning Shadows",
+      "img": "https://den-cards.pokellector.com/225/Panpour.BSH.36.18523.png",
+      "rarity": "Common",
+      "cardNum": "36/147"
+    },
+    {
+      "name": "Simipour",
+      "set": "Burning Shadows",
+      "img": "https://den-cards.pokellector.com/225/Simipour.BSH.37.18524.png",
+      "rarity": "Uncommon",
+      "cardNum": "37/147"
+    },
+    {
+      "name": "Bruxish",
+      "set": "Burning Shadows",
+      "img": "https://den-cards.pokellector.com/225/Bruxish.BSH.38.18540.png",
+      "rarity": "Rare",
+      "cardNum": "38/147"
+    },
+    {
+      "name": "Tapu Fini GX",
+      "set": "Burning Shadows",
+      "img": "https://den-cards.pokellector.com/225/Tapu-Fini-GX.BSH.39.18235.png",
+      "rarity": "Rare",
+      "cardNum": "39/147"
+    },
+    {
+      "name": "Pikachu",
+      "set": "Burning Shadows",
+      "img": "https://den-cards.pokellector.com/225/Pikachu.BSH.40.18541.png",
+      "rarity": "Common",
+      "cardNum": "40/147"
+    },
+    {
+      "name": "Raichu",
+      "set": "Burning Shadows",
+      "img": "https://den-cards.pokellector.com/225/Raichu.BSH.41.18542.png",
+      "rarity": "Rare",
+      "cardNum": "41/147"
+    },
+    {
+      "name": "Electabuzz",
+      "set": "Burning Shadows",
+      "img": "https://den-cards.pokellector.com/225/Electabuzz.BSH.42.18525.png",
+      "rarity": "Uncommon",
+      "cardNum": "42/147"
+    },
+    {
+      "name": "Electivire",
+      "set": "Burning Shadows",
+      "img": "https://den-cards.pokellector.com/225/Electivire.BSH.43.18543.png",
+      "rarity": "Rare",
+      "cardNum": "43/147"
+    },
+    {
+      "name": "Tynamo",
+      "set": "Burning Shadows",
+      "img": "https://den-cards.pokellector.com/225/Tynamo.BSH.44.18526.png",
+      "rarity": "Common",
+      "cardNum": "44/147"
+    },
+    {
+      "name": "Eelektrik",
+      "set": "Burning Shadows",
+      "img": "https://den-cards.pokellector.com/225/Eelektrik.BSH.45.18085.png",
+      "rarity": "Uncommon",
+      "cardNum": "45/147"
+    },
+    {
+      "name": "Eelektross",
+      "set": "Burning Shadows",
+      "img": "https://den-cards.pokellector.com/225/Eelektross.BSH.46.18427.png",
+      "rarity": "Rare",
+      "cardNum": "46/147"
+    },
+    {
+      "name": "Togedemaru",
+      "set": "Burning Shadows",
+      "img": "https://den-cards.pokellector.com/225/Togedemaru.BSH.47.18428.png",
+      "rarity": "Common",
+      "cardNum": "47/147"
+    },
+    {
+      "name": "Slowking",
+      "set": "Burning Shadows",
+      "img": "https://den-cards.pokellector.com/225/Slowking.BSH.48.18429.png",
+      "rarity": "Rare",
+      "cardNum": "48/147"
+    },
+    {
+      "name": "Wobbuffet",
+      "set": "Burning Shadows",
+      "img": "https://den-cards.pokellector.com/225/Wobbuffet.BSH.49.18430.png",
+      "rarity": "Uncommon",
+      "cardNum": "49/147"
+    },
+    {
+      "name": "Seviper",
+      "set": "Burning Shadows",
+      "img": "https://den-cards.pokellector.com/225/Seviper.BSH.50.18431.png",
+      "rarity": "Uncommon",
+      "cardNum": "50/147"
+    },
+    {
+      "name": "Duskull",
+      "set": "Burning Shadows",
+      "img": "https://den-cards.pokellector.com/225/Duskull.BSH.51.18432.png",
+      "rarity": "Common",
+      "cardNum": "51/147"
+    },
+    {
+      "name": "Dusclops",
+      "set": "Burning Shadows",
+      "img": "https://den-cards.pokellector.com/225/Dusclops.BSH.52.18433.png",
+      "rarity": "Uncommon",
+      "cardNum": "52/147"
+    },
+    {
+      "name": "Dusknoir",
+      "set": "Burning Shadows",
+      "img": "https://den-cards.pokellector.com/225/Dusknoir.BSH.53.18434.png",
+      "rarity": "Rare",
+      "cardNum": "53/147"
+    },
+    {
+      "name": "Croagunk",
+      "set": "Burning Shadows",
+      "img": "https://den-cards.pokellector.com/225/Croagunk.BSH.54.18435.png",
+      "rarity": "Common",
+      "cardNum": "54/147"
+    },
+    {
+      "name": "Toxicroak",
+      "set": "Burning Shadows",
+      "img": "https://den-cards.pokellector.com/225/Toxicroak.BSH.55.18436.png",
+      "rarity": "Rare",
+      "cardNum": "55/147"
+    },
+    {
+      "name": "Venipede",
+      "set": "Burning Shadows",
+      "img": "https://den-cards.pokellector.com/225/Venipede.BSH.56.18437.png",
+      "rarity": "Common",
+      "cardNum": "56/147"
+    },
+    {
+      "name": "Whirlipede",
+      "set": "Burning Shadows",
+      "img": "https://den-cards.pokellector.com/225/Whirlipede.BSH.57.18438.png",
+      "rarity": "Uncommon",
+      "cardNum": "57/147"
+    },
+    {
+      "name": "Scolipede",
+      "set": "Burning Shadows",
+      "img": "https://den-cards.pokellector.com/225/Scolipede.BSH.58.18439.png",
+      "rarity": "Rare",
+      "cardNum": "58/147"
+    },
+    {
+      "name": "Espurr",
+      "set": "Burning Shadows",
+      "img": "https://den-cards.pokellector.com/225/Espurr.BSH.59.18440.png",
+      "rarity": "Common",
+      "cardNum": "59/147"
+    },
+    {
+      "name": "Meowstic",
+      "set": "Burning Shadows",
+      "img": "https://den-cards.pokellector.com/225/Meowstic.BSH.60.18441.png",
+      "rarity": "Rare",
+      "cardNum": "60/147"
+    },
+    {
+      "name": "Sandygast",
+      "set": "Burning Shadows",
+      "img": "https://den-cards.pokellector.com/225/Sandygast.BSH.61.18442.png",
+      "rarity": "Common",
+      "cardNum": "61/147"
+    },
+    {
+      "name": "Palossand",
+      "set": "Burning Shadows",
+      "img": "https://den-cards.pokellector.com/225/Palossand.BSH.62.18443.png",
+      "rarity": "Rare",
+      "cardNum": "62/147"
+    },
+    {
+      "name": "Necrozma GX",
+      "set": "Burning Shadows",
+      "img": "https://den-cards.pokellector.com/225/Necrozma-GX.BSH.63.18236.png",
+      "rarity": "Rare",
+      "cardNum": "63/147"
+    },
+    {
+      "name": "Machamp GX",
+      "set": "Burning Shadows",
+      "img": "https://den-cards.pokellector.com/225/Machamp-GX.BSH.64.18444.png",
+      "rarity": "Rare",
+      "cardNum": "64/147"
+    },
+    {
+      "name": "Rhyhorn",
+      "set": "Burning Shadows",
+      "img": "https://den-cards.pokellector.com/225/Rhyhorn.BSH.65.18445.png",
+      "rarity": "Common",
+      "cardNum": "65/147"
+    },
+    {
+      "name": "Rhydon",
+      "set": "Burning Shadows",
+      "img": "https://den-cards.pokellector.com/225/Rhydon.BSH.66.18446.png",
+      "rarity": "Uncommon",
+      "cardNum": "66/147"
+    },
+    {
+      "name": "Rhyperior",
+      "set": "Burning Shadows",
+      "img": "https://den-cards.pokellector.com/225/Rhyperior.BSH.67.18447.png",
+      "rarity": "Rare",
+      "cardNum": "67/147"
+    },
+    {
+      "name": "Lunatone",
+      "set": "Burning Shadows",
+      "img": "https://den-cards.pokellector.com/225/Lunatone.BSH.68.18448.png",
+      "rarity": "Uncommon",
+      "cardNum": "68/147"
+    },
+    {
+      "name": "Solrock",
+      "set": "Burning Shadows",
+      "img": "https://den-cards.pokellector.com/225/Solrock.BSH.69.18374.png",
+      "rarity": "Uncommon",
+      "cardNum": "69/147"
+    },
+    {
+      "name": "Riolu",
+      "set": "Burning Shadows",
+      "img": "https://den-cards.pokellector.com/225/Riolu.BSH.70.18375.png",
+      "rarity": "Common",
+      "cardNum": "70/147"
+    },
+    {
+      "name": "Lucario",
+      "set": "Burning Shadows",
+      "img": "https://den-cards.pokellector.com/225/Lucario.BSH.71.18376.png",
+      "rarity": "Rare",
+      "cardNum": "71/147"
+    },
+    {
+      "name": "Sawk",
+      "set": "Burning Shadows",
+      "img": "https://den-cards.pokellector.com/225/Sawk.BSH.72.18377.png",
+      "rarity": "Common",
+      "cardNum": "72/147"
+    },
+    {
+      "name": "Crabrawler",
+      "set": "Burning Shadows",
+      "img": "https://den-cards.pokellector.com/225/Crabrawler.BSH.73.18378.png",
+      "rarity": "Common",
+      "cardNum": "73/147"
+    },
+    {
+      "name": "Crabominable",
+      "set": "Burning Shadows",
+      "img": "https://den-cards.pokellector.com/225/Crabominable.BSH.74.18379.png",
+      "rarity": "Rare",
+      "cardNum": "74/147"
+    },
+    {
+      "name": "Lycanroc",
+      "set": "Burning Shadows",
+      "img": "https://den-cards.pokellector.com/225/Lycanroc.BSH.75.18380.png",
+      "rarity": "Rare",
+      "cardNum": "75/147"
+    },
+    {
+      "name": "Lycanroc",
+      "set": "Burning Shadows",
+      "img": "https://den-cards.pokellector.com/225/Lycanroc.BSH.76.18381.png",
+      "rarity": "Rare",
+      "cardNum": "76/147"
+    },
+    {
+      "name": "Mudbray",
+      "set": "Burning Shadows",
+      "img": "https://den-cards.pokellector.com/225/Mudbray.BSH.77.18382.png",
+      "rarity": "Common",
+      "cardNum": "77/147"
+    },
+    {
+      "name": "Mudsdale",
+      "set": "Burning Shadows",
+      "img": "https://den-cards.pokellector.com/225/Mudsdale.BSH.78.18383.png",
+      "rarity": "Rare",
+      "cardNum": "78/147"
+    },
+    {
+      "name": "Passimian",
+      "set": "Burning Shadows",
+      "img": "https://den-cards.pokellector.com/225/Passimian.BSH.79.18384.png",
+      "rarity": "Rare",
+      "cardNum": "79/147"
+    },
+    {
+      "name": "Marshadow GX",
+      "set": "Burning Shadows",
+      "img": "https://den-cards.pokellector.com/225/Marshadow-GC.BSH.80.18344.png",
+      "rarity": "Rare",
+      "cardNum": "80/147"
+    },
+    {
+      "name": "Alolan Rattata",
+      "set": "Burning Shadows",
+      "img": "https://den-cards.pokellector.com/225/Alolan-Rattata.BSH.81.18495.png",
+      "rarity": "Common",
+      "cardNum": "81/147"
+    },
+    {
+      "name": "Alolan Raticate",
+      "set": "Burning Shadows",
+      "img": "https://den-cards.pokellector.com/225/Alolan-Raticate.BSH.82.18496.png",
+      "rarity": "Rare",
+      "cardNum": "82/147"
+    },
+    {
+      "name": "Alolan Grimer",
+      "set": "Burning Shadows",
+      "img": "https://den-cards.pokellector.com/225/Alolan-Grimer.BSH.83.18497.png",
+      "rarity": "Common",
+      "cardNum": "83/147"
+    },
+    {
+      "name": "Alolan Muk GX",
+      "set": "Burning Shadows",
+      "img": "https://den-cards.pokellector.com/225/Alolan-Muk-GX.BSH.84.18498.png",
+      "rarity": "Rare",
+      "cardNum": "84/147"
+    },
+    {
+      "name": "Sneasel",
+      "set": "Burning Shadows",
+      "img": "https://den-cards.pokellector.com/225/Sneasel.BSH.85.18499.png",
+      "rarity": "Common",
+      "cardNum": "85/147"
+    },
+    {
+      "name": "Weavile",
+      "set": "Burning Shadows",
+      "img": "https://den-cards.pokellector.com/225/Weavile.BSH.86.18500.png",
+      "rarity": "Rare",
+      "cardNum": "86/147"
+    },
+    {
+      "name": "Darkrai",
+      "set": "Burning Shadows",
+      "img": "https://den-cards.pokellector.com/225/Darkrai.BSH.87.18501.png",
+      "rarity": "Rare",
+      "cardNum": "87/147"
+    },
+    {
+      "name": "Darkrai GX",
+      "set": "Burning Shadows",
+      "img": "https://den-cards.pokellector.com/225/Darkrai-GX.BSH.88.18502.png",
+      "rarity": "Rare",
+      "cardNum": "88/147"
+    },
+    {
+      "name": "Inkay",
+      "set": "Burning Shadows",
+      "img": "https://den-cards.pokellector.com/225/Inkay.BSH.89.18503.png",
+      "rarity": "Common",
+      "cardNum": "89/147"
+    },
+    {
+      "name": "Malamar",
+      "set": "Burning Shadows",
+      "img": "https://den-cards.pokellector.com/225/Malamar.BSH.90.18504.png",
+      "rarity": "Rare",
+      "cardNum": "90/147"
+    },
+    {
+      "name": "Ralts",
+      "set": "Burning Shadows",
+      "img": "https://den-cards.pokellector.com/225/Ralts.BSH.91.18505.png",
+      "rarity": "Common",
+      "cardNum": "91/147"
+    },
+    {
+      "name": "Kirlia",
+      "set": "Burning Shadows",
+      "img": "https://den-cards.pokellector.com/225/Kirlia.BSH.92.18506.png",
+      "rarity": "Uncommon",
+      "cardNum": "92/147"
+    },
+    {
+      "name": "Gardevoir GX",
+      "set": "Burning Shadows",
+      "img": "https://den-cards.pokellector.com/225/Gardevoir-GX.BSH.93.18269.png",
+      "rarity": "Rare",
+      "cardNum": "93/147"
+    },
+    {
+      "name": "Diancie",
+      "set": "Burning Shadows",
+      "img": "https://den-cards.pokellector.com/225/Diancie.BSH.94.18449.png",
+      "rarity": "Rare",
+      "cardNum": "94/147"
+    },
+    {
+      "name": "Cutiefly",
+      "set": "Burning Shadows",
+      "img": "https://den-cards.pokellector.com/225/Cutiefly.BSH.95.18450.png",
+      "rarity": "Common",
+      "cardNum": "95/147"
+    },
+    {
+      "name": "Ribombee",
+      "set": "Burning Shadows",
+      "img": "https://den-cards.pokellector.com/225/Ribombee.BSH.96.18451.png",
+      "rarity": "Uncommon",
+      "cardNum": "96/147"
+    },
+    {
+      "name": "Morelull",
+      "set": "Burning Shadows",
+      "img": "https://den-cards.pokellector.com/225/Morelull.BSH.97.18452.png",
+      "rarity": "Common",
+      "cardNum": "97/147"
+    },
+    {
+      "name": "Shiinotic",
+      "set": "Burning Shadows",
+      "img": "https://den-cards.pokellector.com/225/Shiinotic.BSH.98.18453.png",
+      "rarity": "Rare",
+      "cardNum": "98/147"
+    },
+    {
+      "name": "Noivern GX",
+      "set": "Burning Shadows",
+      "img": "https://den-cards.pokellector.com/225/Noivern-GX.BSH.99.18454.png",
+      "rarity": "Rare",
+      "cardNum": "99/147"
+    },
+    {
+      "name": "Zygarde",
+      "set": "Burning Shadows",
+      "img": "https://den-cards.pokellector.com/225/Zygarde.BSH.100.18455.png",
+      "rarity": "Rare",
+      "cardNum": "100/147"
+    },
+    {
+      "name": "Meowth",
+      "set": "Burning Shadows",
+      "img": "https://den-cards.pokellector.com/225/Meowth.BSH.101.18456.png",
+      "rarity": "Common",
+      "cardNum": "101/147"
+    },
+    {
+      "name": "Persian",
+      "set": "Burning Shadows",
+      "img": "https://den-cards.pokellector.com/225/Persian.BSH.102.18457.png",
+      "rarity": "Rare",
+      "cardNum": "102/147"
+    },
+    {
+      "name": "Porygon",
+      "set": "Burning Shadows",
+      "img": "https://den-cards.pokellector.com/225/Porygon.BSH.103.18458.png",
+      "rarity": "Common",
+      "cardNum": "103/147"
+    },
+    {
+      "name": "Porygon2",
+      "set": "Burning Shadows",
+      "img": "https://den-cards.pokellector.com/225/Porygon2.BSH.104.18459.png",
+      "rarity": "Uncommon",
+      "cardNum": "104/147"
+    },
+    {
+      "name": "Porygon-Z",
+      "set": "Burning Shadows",
+      "img": "https://den-cards.pokellector.com/225/Porygon-Z.BSH.105.18460.png",
+      "rarity": "Rare",
+      "cardNum": "105/147"
+    },
+    {
+      "name": "Hoothoot",
+      "set": "Burning Shadows",
+      "img": "https://den-cards.pokellector.com/225/Hoothoot.BSH.106.18461.png",
+      "rarity": "Common",
+      "cardNum": "106/147"
+    },
+    {
+      "name": "Noctowl",
+      "set": "Burning Shadows",
+      "img": "https://den-cards.pokellector.com/225/Noctowl.BSH.107.18462.png",
+      "rarity": "Uncommon",
+      "cardNum": "107/147"
+    },
+    {
+      "name": "Bouffalant",
+      "set": "Burning Shadows",
+      "img": "https://den-cards.pokellector.com/225/Bouffalant.BSH.108.18463.png",
+      "rarity": "Uncommon",
+      "cardNum": "108/147"
+    },
+    {
+      "name": "Noibat",
+      "set": "Burning Shadows",
+      "img": "https://den-cards.pokellector.com/225/Noibat.BSH.109.18464.png",
+      "rarity": "Common",
+      "cardNum": "109/147"
+    },
+    {
+      "name": "Stufful",
+      "set": "Burning Shadows",
+      "img": "https://den-cards.pokellector.com/225/Stufful.BSH.110.18465.png",
+      "rarity": "Common",
+      "cardNum": "110/147"
+    },
+    {
+      "name": "Bewear",
+      "set": "Burning Shadows",
+      "img": "https://den-cards.pokellector.com/225/Bewear.BSH.111.18466.png",
+      "rarity": "Rare",
+      "cardNum": "111/147"
+    },
+    {
+      "name": "Acerola",
+      "set": "Burning Shadows",
+      "img": "https://den-cards.pokellector.com/225/Acerola.BSH.112.18467.png",
+      "rarity": "Uncommon",
+      "cardNum": "112/147"
+    },
+    {
+      "name": "Bodybuilding Dumbbells",
+      "set": "Burning Shadows",
+      "img": "https://den-cards.pokellector.com/225/Bodybuilding-Dumbbells.BSH.113.18468.png",
+      "rarity": "Uncommon",
+      "cardNum": "113/147"
+    },
+    {
+      "name": "Escape Rope",
+      "set": "Burning Shadows",
+      "img": "https://den-cards.pokellector.com/225/Escape-Rope.BSH.114.18469.png",
+      "rarity": "Uncommon",
+      "cardNum": "114/147"
+    },
+    {
+      "name": "Guzma",
+      "set": "Burning Shadows",
+      "img": "https://den-cards.pokellector.com/225/Guzma.BSH.115.18254.png",
+      "rarity": "Uncommon",
+      "cardNum": "115/147"
+    },
+    {
+      "name": "Kiawe",
+      "set": "Burning Shadows",
+      "img": "https://den-cards.pokellector.com/225/Kiawe.BSH.116.18470.png",
+      "rarity": "Uncommon",
+      "cardNum": "116/147"
+    },
+    {
+      "name": "Lana",
+      "set": "Burning Shadows",
+      "img": "https://den-cards.pokellector.com/225/Luna.BSH.117.18471.png",
+      "rarity": "Uncommon",
+      "cardNum": "117/147"
+    },
+    {
+      "name": "Mount Lanakila",
+      "set": "Burning Shadows",
+      "img": "https://den-cards.pokellector.com/225/Mount-Lanakila.BSH.118.18472.png",
+      "rarity": "Uncommon",
+      "cardNum": "118/147"
+    },
+    {
+      "name": "Olivia",
+      "set": "Burning Shadows",
+      "img": "https://den-cards.pokellector.com/225/Olivia.BSH.119.18473.png",
+      "rarity": "Uncommon",
+      "cardNum": "119/147"
+    },
+    {
+      "name": "Plumeria",
+      "set": "Burning Shadows",
+      "img": "https://den-cards.pokellector.com/225/Plumeria.BSH.120.18474.png",
+      "rarity": "Uncommon",
+      "cardNum": "120/147"
+    },
+    {
+      "name": "Po Town",
+      "set": "Burning Shadows",
+      "img": "https://den-cards.pokellector.com/225/Po-Town.BSH.121.18475.png",
+      "rarity": "Uncommon",
+      "cardNum": "121/147"
+    },
+    {
+      "name": "Rotom Dex: Poke Finder Mode",
+      "set": "Burning Shadows",
+      "img": "https://den-cards.pokellector.com/225/Rotom-Dex-Poke-Finder-Mode.BSH.122.18476.png",
+      "rarity": "Uncommon",
+      "cardNum": "122/147"
+    },
+    {
+      "name": "Sophocles",
+      "set": "Burning Shadows",
+      "img": "https://den-cards.pokellector.com/225/Sophocles.BSH.123.18477.png",
+      "rarity": "Uncommon",
+      "cardNum": "123/147"
+    },
+    {
+      "name": "Super Scoop Up",
+      "set": "Burning Shadows",
+      "img": "https://den-cards.pokellector.com/225/Super-Scoop-Up.BSH.124.18478.png",
+      "rarity": "Uncommon",
+      "cardNum": "124/147"
+    },
+    {
+      "name": "Tormenting Spray",
+      "set": "Burning Shadows",
+      "img": "https://den-cards.pokellector.com/225/Tormenting-Spray.BSH.125.18479.png",
+      "rarity": "Uncommon",
+      "cardNum": "125/147"
+    },
+    {
+      "name": "Weakness Policy",
+      "set": "Burning Shadows",
+      "img": "https://den-cards.pokellector.com/225/Weakness-Policy.BSH.126.18480.png",
+      "rarity": "Uncommon",
+      "cardNum": "126/147"
+    },
+    {
+      "name": "Wicke",
+      "set": "Burning Shadows",
+      "img": "https://den-cards.pokellector.com/225/Wicke.BSH.127.18481.png",
+      "rarity": "Uncommon",
+      "cardNum": "127/147"
+    },
+    {
+      "name": "Wishful Baton",
+      "set": "Burning Shadows",
+      "img": "https://den-cards.pokellector.com/225/Wishful-Baton.BSH.128.18482.png",
+      "rarity": "Uncommon",
+      "cardNum": "128/147"
+    },
+    {
+      "name": "Golisopod GX",
+      "set": "Burning Shadows",
+      "img": "https://den-cards.pokellector.com/225/Golisopod-GX.BSH.129.18483.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "129/147"
+    },
+    {
+      "name": "Tapu Bulu GX",
+      "set": "Burning Shadows",
+      "img": "https://den-cards.pokellector.com/225/Tapu-Bulu-GX.BSH.130.18484.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "130/147"
+    },
+    {
+      "name": "Ho-Oh GX",
+      "set": "Burning Shadows",
+      "img": "https://den-cards.pokellector.com/225/Ho-Oh-GX.BSH.131.18485.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "131/147"
+    },
+    {
+      "name": "Salazzle GX",
+      "set": "Burning Shadows",
+      "img": "https://den-cards.pokellector.com/225/Salazzle-GX.BSH.132.18486.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "132/147"
+    },
+    {
+      "name": "Tapu Fini GX",
+      "set": "Burning Shadows",
+      "img": "https://den-cards.pokellector.com/225/Tapu-Fini-GX.BSH.133.18487.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "133/147"
+    },
+    {
+      "name": "Necrozma GX",
+      "set": "Burning Shadows",
+      "img": "https://den-cards.pokellector.com/225/Necrozma-GX.BSH.134.18488.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "134/147"
+    },
+    {
+      "name": "Machamp GX",
+      "set": "Burning Shadows",
+      "img": "https://den-cards.pokellector.com/225/Machamp-GX.BSH.135.18489.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "135/147"
+    },
+    {
+      "name": "Lycanroc GX",
+      "set": "Burning Shadows",
+      "img": "https://den-cards.pokellector.com/225/Lycranroc-GX.BSH.136.18490.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "136/147"
+    },
+    {
+      "name": "Marshadow GX",
+      "set": "Burning Shadows",
+      "img": "https://den-cards.pokellector.com/225/Marshadow-GX.BSH.137.18491.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "137/147"
+    },
+    {
+      "name": "Alolan Muk GX",
+      "set": "Burning Shadows",
+      "img": "https://den-cards.pokellector.com/225/Alolan-Muk-GX.BSH.138.18492.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "138/147"
+    },
+    {
+      "name": "Darkrai GX",
+      "set": "Burning Shadows",
+      "img": "https://den-cards.pokellector.com/225/Darkrai-GX.BSH.139.18493.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "139/147"
+    },
+    {
+      "name": "Gardevoir GX",
+      "set": "Burning Shadows",
+      "img": "https://den-cards.pokellector.com/225/Gardevoir-GX.BSH.140.18494.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "140/147"
+    },
+    {
+      "name": "Noivern GX",
+      "set": "Burning Shadows",
+      "img": "https://den-cards.pokellector.com/225/Noivern-GX.BSH.141.18398.png",
+      "rarity": "Rare",
+      "cardNum": "141/147"
+    },
+    {
+      "name": "Acerola",
+      "set": "Burning Shadows",
+      "img": "https://den-cards.pokellector.com/225/Acerola.BSH.142.18399.png",
+      "rarity": "Rare",
+      "cardNum": "142/147"
+    },
+    {
+      "name": "Guzma",
+      "set": "Burning Shadows",
+      "img": "https://den-cards.pokellector.com/225/Guzma.BSH.143.18400.png",
+      "rarity": "Rare",
+      "cardNum": "143/147"
+    },
+    {
+      "name": "Kiawe",
+      "set": "Burning Shadows",
+      "img": "https://den-cards.pokellector.com/225/Kiawe.BSH.144.18401.png",
+      "rarity": "Common",
+      "cardNum": "144/147"
+    },
+    {
+      "name": "Plumeria",
+      "set": "Burning Shadows",
+      "img": "https://den-cards.pokellector.com/225/Plumeria.BSH.145.18402.png",
+      "rarity": "Rare",
+      "cardNum": "145/147"
+    },
+    {
+      "name": "Sophocles",
+      "set": "Burning Shadows",
+      "img": "https://den-cards.pokellector.com/225/Sophocles.BSH.146.18403.png",
+      "rarity": "Rare",
+      "cardNum": "146/147"
+    },
+    {
+      "name": "Wicke",
+      "set": "Burning Shadows",
+      "img": "https://den-cards.pokellector.com/225/Wicke.BSH.147.18404.png",
+      "rarity": "Rare",
+      "cardNum": "147/147"
+    },
+    {
+      "name": "Golisopod GX",
+      "set": "Burning Shadows",
+      "img": "https://den-cards.pokellector.com/225/Golisopod-GX.BSH.148.18405.png",
+      "rarity": "Secret Rare",
+      "cardNum": "148/147"
+    },
+    {
+      "name": "Tapu Bulu GX",
+      "set": "Burning Shadows",
+      "img": "https://den-cards.pokellector.com/225/Tapu-Bulu-GX.BSH.149.18406.png",
+      "rarity": "Secret Rare",
+      "cardNum": "149/147"
+    },
+    {
+      "name": "Charizard GX",
+      "set": "Burning Shadows",
+      "img": "https://den-cards.pokellector.com/225/Charizard-GX.BSH.150.18407.png",
+      "rarity": "Secret Rare",
+      "cardNum": "150/147"
+    },
+    {
+      "name": "Salazzle GX",
+      "set": "Burning Shadows",
+      "img": "https://den-cards.pokellector.com/225/Salazzle-GX.BSH.151.18408.png",
+      "rarity": "Secret Rare",
+      "cardNum": "151/147"
+    },
+    {
+      "name": "Tapu Fini GX",
+      "set": "Burning Shadows",
+      "img": "https://den-cards.pokellector.com/225/Tapu-Fini-GX.BSH.152.18409.png",
+      "rarity": "Secret Rare",
+      "cardNum": "152/147"
+    },
+    {
+      "name": "Necrozma GX",
+      "set": "Burning Shadows",
+      "img": "https://den-cards.pokellector.com/225/Necrozma-GX.BSH.153.18415.png",
+      "rarity": "Secret Rare",
+      "cardNum": "153/147"
+    },
+    {
+      "name": "Machamp GX",
+      "set": "Burning Shadows",
+      "img": "https://den-cards.pokellector.com/225/Machamp-GX.BSH.154.18416.png",
+      "rarity": "Secret Rare",
+      "cardNum": "154/147"
+    },
+    {
+      "name": "Lycanroc GX",
+      "set": "Burning Shadows",
+      "img": "https://den-cards.pokellector.com/225/Lycanroc-GX.BSH.155.18417.png",
+      "rarity": "Secret Rare",
+      "cardNum": "155/147"
+    },
+    {
+      "name": "Marshadow GX",
+      "set": "Burning Shadows",
+      "img": "https://den-cards.pokellector.com/225/Marshadow-GX.BSH.156.18418.png",
+      "rarity": "Secret Rare",
+      "cardNum": "156/147"
+    },
+    {
+      "name": "Alolan Muk GX",
+      "set": "Burning Shadows",
+      "img": "https://den-cards.pokellector.com/225/Alolan-Muk-GX.BSH.157.18419.png",
+      "rarity": "Secret Rare",
+      "cardNum": "157/147"
+    },
+    {
+      "name": "Darkrai GX",
+      "set": "Burning Shadows",
+      "img": "https://den-cards.pokellector.com/225/Darkrai-GX.BSH.158.18420.png",
+      "rarity": "Secret Rare",
+      "cardNum": "158/147"
+    },
+    {
+      "name": "Gardevoir GX",
+      "set": "Burning Shadows",
+      "img": "https://den-cards.pokellector.com/225/Gardevoir-GX.BSH.159.18421.png",
+      "rarity": "Secret Rare",
+      "cardNum": "159/147"
+    },
+    {
+      "name": "Noivern GX",
+      "set": "Burning Shadows",
+      "img": "https://den-cards.pokellector.com/225/Noivern-GX.BSH.160.18422.png",
+      "rarity": "Secret Rare",
+      "cardNum": "160/147"
+    },
+    {
+      "name": "Bodybuilding Dumbbells",
+      "set": "Burning Shadows",
+      "img": "https://den-cards.pokellector.com/225/Bodybuilding-Dumbbells.BSH.161.18423.png",
+      "rarity": "Secret Rare",
+      "cardNum": "161/147"
+    },
+    {
+      "name": "Choice Band",
+      "set": "Burning Shadows",
+      "img": "https://den-cards.pokellector.com/225/Choice-Band.BSH.162.18424.png",
+      "rarity": "Secret Rare",
+      "cardNum": "162/147"
+    },
+    {
+      "name": "Escape Rope",
+      "set": "Burning Shadows",
+      "img": "https://den-cards.pokellector.com/225/Escape-Rope.BSH.163.18425.png",
+      "rarity": "Secret Rare",
+      "cardNum": "163/147"
+    },
+    {
+      "name": "Multi Switch",
+      "set": "Burning Shadows",
+      "img": "https://den-cards.pokellector.com/225/Multi-Switch.BSH.164.18426.png",
+      "rarity": "Secret Rare",
+      "cardNum": "164/147"
+    },
+    {
+      "name": "Rescue Stretcher",
+      "set": "Burning Shadows",
+      "img": "https://den-cards.pokellector.com/225/Rescue-Stretcher.BSH.165.18410.png",
+      "rarity": "Secret Rare",
+      "cardNum": "165/147"
+    },
+    {
+      "name": "Super Scoop Up",
+      "set": "Burning Shadows",
+      "img": "https://den-cards.pokellector.com/225/Super-Scoop-Up.BSH.166.18411.png",
+      "rarity": "Secret Rare",
+      "cardNum": "166/147"
+    },
+    {
+      "name": "Fire Energy",
+      "set": "Burning Shadows",
+      "img": "https://den-cards.pokellector.com/225/Fire-Energy.BSH.167.18412.png",
+      "rarity": "Secret Rare",
+      "cardNum": "167/147"
+    },
+    {
+      "name": "Dark Energy",
+      "set": "Burning Shadows",
+      "img": "https://den-cards.pokellector.com/225/Dark-Energy.BSH.168.18413.png",
+      "rarity": "Secret Rare",
+      "cardNum": "168/147"
+    },
+    {
+      "name": "Fairy Energy",
+      "set": "Burning Shadows",
+      "img": "https://den-cards.pokellector.com/225/Fairy-Energy.BSH.169.18414.png",
+      "rarity": "Secret Rare",
+      "cardNum": "169/147"
+    }
+  ]
+}

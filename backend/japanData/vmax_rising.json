@@ -1,0 +1,607 @@
+{
+  "setName": "VMAX Rising",
+  "cards": [
+    {
+      "name": "Caterpie",
+      "set": "VMAX Rising",
+      "img": "https://den-cards.pokellector.com/285/Caterpie.S1A.1.31816.png",
+      "rarity": "Common",
+      "cardNum": "1/70"
+    },
+    {
+      "name": "Metapod",
+      "set": "VMAX Rising",
+      "img": "https://den-cards.pokellector.com/285/Metapod.S1A.2.31817.png",
+      "rarity": "Common",
+      "cardNum": "2/70"
+    },
+    {
+      "name": "Butterfree",
+      "set": "VMAX Rising",
+      "img": "https://den-cards.pokellector.com/285/Butterfree.S1A.3.31818.png",
+      "rarity": "Uncommon",
+      "cardNum": "3/70"
+    },
+    {
+      "name": "Shuckle",
+      "set": "VMAX Rising",
+      "img": "https://den-cards.pokellector.com/285/Shuckle.S1A.4.31426.png",
+      "rarity": "Uncommon",
+      "cardNum": "4/70"
+    },
+    {
+      "name": "Snover",
+      "set": "VMAX Rising",
+      "img": "https://den-cards.pokellector.com/285/Snover.S1A.5.31819.png",
+      "rarity": "Common",
+      "cardNum": "5/70"
+    },
+    {
+      "name": "Abomasnow",
+      "set": "VMAX Rising",
+      "img": "https://den-cards.pokellector.com/285/Abomasnow.S1A.6.31820.png",
+      "rarity": "Uncommon",
+      "cardNum": "6/70"
+    },
+    {
+      "name": "Grubbin",
+      "set": "VMAX Rising",
+      "img": "https://den-cards.pokellector.com/285/Grubbin.S1A.7.31821.png",
+      "rarity": "Common",
+      "cardNum": "7/70"
+    },
+    {
+      "name": "Rillaboom V",
+      "set": "VMAX Rising",
+      "img": "https://den-cards.pokellector.com/285/Rillaboom-V.S1A.8.31413.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "8/70"
+    },
+    {
+      "name": "Rillaboom VMAX",
+      "set": "VMAX Rising",
+      "img": "https://den-cards.pokellector.com/285/Rillaboom-VMAX.S1A.9.31414.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "9/70"
+    },
+    {
+      "name": "Applin",
+      "set": "VMAX Rising",
+      "img": "https://den-cards.pokellector.com/285/Applin.S1A.10.31822.png",
+      "rarity": "Common",
+      "cardNum": "10/70"
+    },
+    {
+      "name": "Appletun",
+      "set": "VMAX Rising",
+      "img": "https://den-cards.pokellector.com/285/Appletun.S1A.11.31823.png",
+      "rarity": "Rare",
+      "cardNum": "11/70"
+    },
+    {
+      "name": "Vulpix",
+      "set": "VMAX Rising",
+      "img": "https://den-cards.pokellector.com/285/Vulpix.S1A.12.31824.png",
+      "rarity": "Common",
+      "cardNum": "12/70"
+    },
+    {
+      "name": "Ninetales",
+      "set": "VMAX Rising",
+      "img": "https://den-cards.pokellector.com/285/Ninetales.S1A.13.31825.png",
+      "rarity": "Uncommon",
+      "cardNum": "13/70"
+    },
+    {
+      "name": "Growlithe",
+      "set": "VMAX Rising",
+      "img": "https://den-cards.pokellector.com/285/Growlithe.S1A.14.31826.png",
+      "rarity": "Common",
+      "cardNum": "14/70"
+    },
+    {
+      "name": "Arcanine",
+      "set": "VMAX Rising",
+      "img": "https://den-cards.pokellector.com/285/Arcanine.S1A.15.31415.png",
+      "rarity": "Uncommon",
+      "cardNum": "15/70"
+    },
+    {
+      "name": "Cinderace V",
+      "set": "VMAX Rising",
+      "img": "https://den-cards.pokellector.com/285/Cinderace-V.S1A.16.31410.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "16/70"
+    },
+    {
+      "name": "Cinderace VMAX",
+      "set": "VMAX Rising",
+      "img": "https://den-cards.pokellector.com/285/Cinderace-VMAX.S1A.17.31411.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "17/70"
+    },
+    {
+      "name": "Galarian Mr. Mime",
+      "set": "VMAX Rising",
+      "img": "https://den-cards.pokellector.com/285/Galarian-Mr-Mime.S1A.18.31827.png",
+      "rarity": "Common",
+      "cardNum": "18/70"
+    },
+    {
+      "name": "Galarian Mr. Rime",
+      "set": "VMAX Rising",
+      "img": "https://den-cards.pokellector.com/285/Galarian-Mr-Rime.S1A.19.31828.png",
+      "rarity": "Uncommon",
+      "cardNum": "19/70"
+    },
+    {
+      "name": "Magikarp",
+      "set": "VMAX Rising",
+      "img": "https://den-cards.pokellector.com/285/Magikarp.S1A.20.31829.png",
+      "rarity": "Common",
+      "cardNum": "20/70"
+    },
+    {
+      "name": "Gyarados",
+      "set": "VMAX Rising",
+      "img": "https://den-cards.pokellector.com/285/Gyarados.S1A.21.31812.png",
+      "rarity": "Rare",
+      "cardNum": "21/70"
+    },
+    {
+      "name": "Inteleon V",
+      "set": "VMAX Rising",
+      "img": "https://den-cards.pokellector.com/285/Inteleon-V.S1A.22.31408.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "22/70"
+    },
+    {
+      "name": "Inteleon VMAX",
+      "set": "VMAX Rising",
+      "img": "https://den-cards.pokellector.com/285/Inteleon-VMAX.S1A.23.31407.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "23/70"
+    },
+    {
+      "name": "Cramorant",
+      "set": "VMAX Rising",
+      "img": "https://den-cards.pokellector.com/285/Cramorant.S1A.24.31830.png",
+      "rarity": "Uncommon",
+      "cardNum": "24/70"
+    },
+    {
+      "name": "Arrokuda",
+      "set": "VMAX Rising",
+      "img": "https://den-cards.pokellector.com/285/Arrokuda.S1A.25.31831.png",
+      "rarity": "Common",
+      "cardNum": "25/70"
+    },
+    {
+      "name": "Barraskewda",
+      "set": "VMAX Rising",
+      "img": "https://den-cards.pokellector.com/285/Barraskewda.S1A.26.31832.png",
+      "rarity": "Uncommon",
+      "cardNum": "26/70"
+    },
+    {
+      "name": "Helioptile",
+      "set": "VMAX Rising",
+      "img": "https://den-cards.pokellector.com/285/Helioptile.S1A.27.31833.png",
+      "rarity": "Common",
+      "cardNum": "27/70"
+    },
+    {
+      "name": "Heliolisk",
+      "set": "VMAX Rising",
+      "img": "https://den-cards.pokellector.com/285/Heliolisk.S1A.28.31834.png",
+      "rarity": "Common",
+      "cardNum": "28/70"
+    },
+    {
+      "name": "Charjabug",
+      "set": "VMAX Rising",
+      "img": "https://den-cards.pokellector.com/285/Charjabug.S1A.29.31835.png",
+      "rarity": "Common",
+      "cardNum": "29/70"
+    },
+    {
+      "name": "Vikavolt",
+      "set": "VMAX Rising",
+      "img": "https://den-cards.pokellector.com/285/Vikavolt.S1A.30.31420.png",
+      "rarity": "Rare",
+      "cardNum": "30/70"
+    },
+    {
+      "name": "Boltund V",
+      "set": "VMAX Rising",
+      "img": "https://den-cards.pokellector.com/285/Boltund.S1A.31.31836.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "31/70"
+    },
+    {
+      "name": "Toxel",
+      "set": "VMAX Rising",
+      "img": "https://den-cards.pokellector.com/285/Toxel.S1A.32.31837.png",
+      "rarity": "Common",
+      "cardNum": "32/70"
+    },
+    {
+      "name": "Toxtricity",
+      "set": "VMAX Rising",
+      "img": "https://den-cards.pokellector.com/285/Toxtricity.S1A.33.31838.png",
+      "rarity": "Uncommon",
+      "cardNum": "33/70"
+    },
+    {
+      "name": "Natu",
+      "set": "VMAX Rising",
+      "img": "https://den-cards.pokellector.com/285/Natu.S1A.34.31839.png",
+      "rarity": "Common",
+      "cardNum": "34/70"
+    },
+    {
+      "name": "Xatu",
+      "set": "VMAX Rising",
+      "img": "https://den-cards.pokellector.com/285/Xatu.S1A.35.31840.png",
+      "rarity": "Uncommon",
+      "cardNum": "35/70"
+    },
+    {
+      "name": "Galarian Corsola",
+      "set": "VMAX Rising",
+      "img": "https://den-cards.pokellector.com/285/Galarian-Corsola.S1A.36.31841.png",
+      "rarity": "Common",
+      "cardNum": "36/70"
+    },
+    {
+      "name": "Galarian Cursola",
+      "set": "VMAX Rising",
+      "img": "https://den-cards.pokellector.com/285/Galarian-Cursola.S1A.37.31381.png",
+      "rarity": "Rare",
+      "cardNum": "37/70"
+    },
+    {
+      "name": "Indeedee",
+      "set": "VMAX Rising",
+      "img": "https://den-cards.pokellector.com/285/Indeedee.S1A.38.31842.png",
+      "rarity": "Common",
+      "cardNum": "38/70"
+    },
+    {
+      "name": "Dreepy",
+      "set": "VMAX Rising",
+      "img": "https://den-cards.pokellector.com/285/Dreepy.S1A.39.31843.png",
+      "rarity": "Common",
+      "cardNum": "39/70"
+    },
+    {
+      "name": "Drakloak",
+      "set": "VMAX Rising",
+      "img": "https://den-cards.pokellector.com/285/Drakloak.S1A.40.31844.png",
+      "rarity": "Common",
+      "cardNum": "40/70"
+    },
+    {
+      "name": "Dragapult",
+      "set": "VMAX Rising",
+      "img": "https://den-cards.pokellector.com/285/Dragapult.S1A.41.31845.png",
+      "rarity": "Rare",
+      "cardNum": "41/70"
+    },
+    {
+      "name": "Galarian Farfetch'd",
+      "set": "VMAX Rising",
+      "img": "https://den-cards.pokellector.com/285/Galarian-Farfetchd.S1A.42.31846.png",
+      "rarity": "Common",
+      "cardNum": "42/70"
+    },
+    {
+      "name": "Galarian Sirfetch'd",
+      "set": "VMAX Rising",
+      "img": "https://den-cards.pokellector.com/285/Galarian-Sirfetchd.S1A.43.31421.png",
+      "rarity": "Rare",
+      "cardNum": "43/70"
+    },
+    {
+      "name": "Binacle",
+      "set": "VMAX Rising",
+      "img": "https://den-cards.pokellector.com/285/Binacle.S1A.44.31847.png",
+      "rarity": "Common",
+      "cardNum": "44/70"
+    },
+    {
+      "name": "Barbaracle",
+      "set": "VMAX Rising",
+      "img": "https://den-cards.pokellector.com/285/Barbaracle.S1A.45.31813.png",
+      "rarity": "Uncommon",
+      "cardNum": "45/70"
+    },
+    {
+      "name": "Sandaconda V",
+      "set": "VMAX Rising",
+      "img": "https://den-cards.pokellector.com/285/Sandaconda-V.S1A.46.31419.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "46/70"
+    },
+    {
+      "name": "Falinks",
+      "set": "VMAX Rising",
+      "img": "https://den-cards.pokellector.com/285/Falinks.S1A.47.31848.png",
+      "rarity": "Common",
+      "cardNum": "47/70"
+    },
+    {
+      "name": "Stunky",
+      "set": "VMAX Rising",
+      "img": "https://den-cards.pokellector.com/285/Stunky.S1A.48.31849.png",
+      "rarity": "Common",
+      "cardNum": "48/70"
+    },
+    {
+      "name": "Skuntank",
+      "set": "VMAX Rising",
+      "img": "https://den-cards.pokellector.com/285/Skuntank.S1A.49.31850.png",
+      "rarity": "Uncommon",
+      "cardNum": "49/70"
+    },
+    {
+      "name": "Impidimp",
+      "set": "VMAX Rising",
+      "img": "https://den-cards.pokellector.com/285/Impidimp.S1A.50.31851.png",
+      "rarity": "Common",
+      "cardNum": "50/70"
+    },
+    {
+      "name": "Morgrem",
+      "set": "VMAX Rising",
+      "img": "https://den-cards.pokellector.com/285/Morgrem.S1A.51.31852.png",
+      "rarity": "Common",
+      "cardNum": "51/70"
+    },
+    {
+      "name": "Grimmsnarl",
+      "set": "VMAX Rising",
+      "img": "https://den-cards.pokellector.com/285/Grimmsnarl.S1A.52.31853.png",
+      "rarity": "Rare",
+      "cardNum": "52/70"
+    },
+    {
+      "name": "Bronzor",
+      "set": "VMAX Rising",
+      "img": "https://den-cards.pokellector.com/285/Bronzor.S1A.53.31854.png",
+      "rarity": "Common",
+      "cardNum": "53/70"
+    },
+    {
+      "name": "Bronzong",
+      "set": "VMAX Rising",
+      "img": "https://den-cards.pokellector.com/285/Bronzong.S1A.54.31855.png",
+      "rarity": "Uncommon",
+      "cardNum": "54/70"
+    },
+    {
+      "name": "Honedge",
+      "set": "VMAX Rising",
+      "img": "https://den-cards.pokellector.com/285/Honedge.S1A.55.31856.png",
+      "rarity": "Common",
+      "cardNum": "55/70"
+    },
+    {
+      "name": "Doublade",
+      "set": "VMAX Rising",
+      "img": "https://den-cards.pokellector.com/285/Doublade.S1A.56.31857.png",
+      "rarity": "Common",
+      "cardNum": "56/70"
+    },
+    {
+      "name": "Aegislash",
+      "set": "VMAX Rising",
+      "img": "https://den-cards.pokellector.com/285/Aegislash.S1A.57.31858.png",
+      "rarity": "Uncommon",
+      "cardNum": "57/70"
+    },
+    {
+      "name": "Duraludon",
+      "set": "VMAX Rising",
+      "img": "https://den-cards.pokellector.com/285/Duraludon.S1A.58.31382.png",
+      "rarity": "Rare",
+      "cardNum": "58/70"
+    },
+    {
+      "name": "Bunnelby",
+      "set": "VMAX Rising",
+      "img": "https://den-cards.pokellector.com/285/Bunnelby.S1A.59.31859.png",
+      "rarity": "Common",
+      "cardNum": "59/70"
+    },
+    {
+      "name": "Diggersby",
+      "set": "VMAX Rising",
+      "img": "https://den-cards.pokellector.com/285/Diggersby.S1A.60.31860.png",
+      "rarity": "Uncommon",
+      "cardNum": "60/70"
+    },
+    {
+      "name": "Hawlucha",
+      "set": "VMAX Rising",
+      "img": "https://den-cards.pokellector.com/285/Hawlucha.S1A.61.31425.png",
+      "rarity": "Common",
+      "cardNum": "61/70"
+    },
+    {
+      "name": "Dubwool V",
+      "set": "VMAX Rising",
+      "img": "https://den-cards.pokellector.com/285/Dubwool.S1A.62.31861.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "62/70"
+    },
+    {
+      "name": "Full Bucket",
+      "set": "VMAX Rising",
+      "img": "https://den-cards.pokellector.com/285/Full-Bucket.S1A.63.31406.png",
+      "rarity": "Uncommon",
+      "cardNum": "63/70"
+    },
+    {
+      "name": "Burning Scarf",
+      "set": "VMAX Rising",
+      "img": "https://den-cards.pokellector.com/285/Burning-Scarf.S1A.64.31409.png",
+      "rarity": "Uncommon",
+      "cardNum": "64/70"
+    },
+    {
+      "name": "Sonia",
+      "set": "VMAX Rising",
+      "img": "https://den-cards.pokellector.com/285/Sonia.S1A.65.31383.png",
+      "rarity": "Uncommon",
+      "cardNum": "65/70"
+    },
+    {
+      "name": "Skyla",
+      "set": "VMAX Rising",
+      "img": "https://den-cards.pokellector.com/285/Skyla.S1A.66.31862.png",
+      "rarity": "Uncommon",
+      "cardNum": "66/70"
+    },
+    {
+      "name": "Milo",
+      "set": "VMAX Rising",
+      "img": "https://den-cards.pokellector.com/285/Milo.S1A.67.31423.png",
+      "rarity": "Uncommon",
+      "cardNum": "67/70"
+    },
+    {
+      "name": "Turrfield",
+      "set": "VMAX Rising",
+      "img": "https://den-cards.pokellector.com/285/Turrfield.S1A.68.31412.png",
+      "rarity": "Uncommon",
+      "cardNum": "68/70"
+    },
+    {
+      "name": "Training Court",
+      "set": "VMAX Rising",
+      "img": "https://den-cards.pokellector.com/285/Training-Court.S1A.69.31424.png",
+      "rarity": "Uncommon",
+      "cardNum": "69/70"
+    },
+    {
+      "name": "Twin Energy",
+      "set": "VMAX Rising",
+      "img": "https://den-cards.pokellector.com/285/Twin-Energy.S1A.70.31422.png",
+      "rarity": "Uncommon",
+      "cardNum": "70/70"
+    },
+    {
+      "name": "Rillaboom V",
+      "set": "VMAX Rising",
+      "img": "https://den-cards.pokellector.com/285/Rillaboom-V.S1A.71.31985.png",
+      "rarity": "Secret Rare",
+      "cardNum": "71/70"
+    },
+    {
+      "name": "Cinderace V",
+      "set": "VMAX Rising",
+      "img": "https://den-cards.pokellector.com/285/Cinderace-V.S1A.72.31986.png",
+      "rarity": "Secret Rare",
+      "cardNum": "72/70"
+    },
+    {
+      "name": "Inteleon V",
+      "set": "VMAX Rising",
+      "img": "https://den-cards.pokellector.com/285/Inteleon-V.S1A.73.31987.png",
+      "rarity": "Secret Rare",
+      "cardNum": "73/70"
+    },
+    {
+      "name": "Boltund V",
+      "set": "VMAX Rising",
+      "img": "https://den-cards.pokellector.com/285/Boltund-V.S1A.74.31988.png",
+      "rarity": "Secret Rare",
+      "cardNum": "74/70"
+    },
+    {
+      "name": "Sandaconda V",
+      "set": "VMAX Rising",
+      "img": "https://den-cards.pokellector.com/285/Sandaconda-V.S1A.75.31989.png",
+      "rarity": "Secret Rare",
+      "cardNum": "75/70"
+    },
+    {
+      "name": "Dubwool V",
+      "set": "VMAX Rising",
+      "img": "https://den-cards.pokellector.com/285/Dubwool-V.S1A.76.31990.png",
+      "rarity": "Secret Rare",
+      "cardNum": "76/70"
+    },
+    {
+      "name": "Sonia",
+      "set": "VMAX Rising",
+      "img": "https://den-cards.pokellector.com/285/Sonia.S1A.77.31865.png",
+      "rarity": "Secret Rare",
+      "cardNum": "77/70"
+    },
+    {
+      "name": "Milo",
+      "set": "VMAX Rising",
+      "img": "https://den-cards.pokellector.com/285/Milo.S1A.78.31991.png",
+      "rarity": "Secret Rare",
+      "cardNum": "78/70"
+    },
+    {
+      "name": "Rillaboom VMAX",
+      "set": "VMAX Rising",
+      "img": "https://den-cards.pokellector.com/285/Rillaboom-VMAX.S1A.79.31992.png",
+      "rarity": "Secret Rare",
+      "cardNum": "79/70"
+    },
+    {
+      "name": "Cinderace VMAX",
+      "set": "VMAX Rising",
+      "img": "https://den-cards.pokellector.com/285/Cinderace-VMAX.S1A.80.31993.png",
+      "rarity": "Secret Rare",
+      "cardNum": "80/70"
+    },
+    {
+      "name": "Inteleon VMAX",
+      "set": "VMAX Rising",
+      "img": "https://den-cards.pokellector.com/285/Inteleon-VMAX.S1A.81.31994.png",
+      "rarity": "Secret Rare",
+      "cardNum": "81/70"
+    },
+    {
+      "name": "Sonia",
+      "set": "VMAX Rising",
+      "img": "https://den-cards.pokellector.com/285/Sonia.S1A.82.31995.png",
+      "rarity": "Secret Rare",
+      "cardNum": "82/70"
+    },
+    {
+      "name": "Milo",
+      "set": "VMAX Rising",
+      "img": "https://den-cards.pokellector.com/285/Milo.S1A.83.31996.png",
+      "rarity": "Secret Rare",
+      "cardNum": "83/70"
+    },
+    {
+      "name": "Frosmoth",
+      "set": "VMAX Rising",
+      "img": "https://den-cards.pokellector.com/285/Frosmoth.S1A.84.31997.png",
+      "rarity": "Secret Rare",
+      "cardNum": "84/70"
+    },
+    {
+      "name": "Big Charm",
+      "set": "VMAX Rising",
+      "img": "https://den-cards.pokellector.com/285/Big-Charm.S1A.85.31998.png",
+      "rarity": "Secret Rare",
+      "cardNum": "85/70"
+    },
+    {
+      "name": "Twin Energy",
+      "set": "VMAX Rising",
+      "img": "https://den-cards.pokellector.com/285/Twin-Energy.S1A.86.31999.png",
+      "rarity": "Secret Rare",
+      "cardNum": "86/70"
+    }
+  ]
+}

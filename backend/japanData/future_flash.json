@@ -1,0 +1,670 @@
+{
+  "setName": "Future Flash",
+  "cards": [
+    {
+      "name": "Surskit",
+      "set": "Future Flash",
+      "img": "https://den-cards.pokellector.com/382/Surskit.SV4K.1.50828.png",
+      "rarity": "Common",
+      "cardNum": "1/66"
+    },
+    {
+      "name": "Masquerain",
+      "set": "Future Flash",
+      "img": "https://den-cards.pokellector.com/382/Masquerain.SV4K.2.50829.png",
+      "rarity": "Uncommon",
+      "cardNum": "2/66"
+    },
+    {
+      "name": "Blipbug",
+      "set": "Future Flash",
+      "img": "https://den-cards.pokellector.com/382/Blipbug.SV4K.3.50830.png",
+      "rarity": "Common",
+      "cardNum": "3/66"
+    },
+    {
+      "name": "Dottler",
+      "set": "Future Flash",
+      "img": "https://den-cards.pokellector.com/382/Dottler.SV4K.4.50831.png",
+      "rarity": "Common",
+      "cardNum": "4/66"
+    },
+    {
+      "name": "Orbeetle",
+      "set": "Future Flash",
+      "img": "https://den-cards.pokellector.com/382/Orbeetle.SV4K.5.50832.png",
+      "rarity": "Uncommon",
+      "cardNum": "5/66"
+    },
+    {
+      "name": "Toedscool",
+      "set": "Future Flash",
+      "img": "https://den-cards.pokellector.com/382/Toedscool.SV4K.6.50833.png",
+      "rarity": "Common",
+      "cardNum": "6/66"
+    },
+    {
+      "name": "Toedscool",
+      "set": "Future Flash",
+      "img": "https://den-cards.pokellector.com/382/Toedscool.SV4K.7.50834.png",
+      "rarity": "Common",
+      "cardNum": "7/66"
+    },
+    {
+      "name": "Toedscruel",
+      "set": "Future Flash",
+      "img": "https://den-cards.pokellector.com/382/Toedscruel.SV4K.8.50835.png",
+      "rarity": "Uncommon",
+      "cardNum": "8/66"
+    },
+    {
+      "name": "Wo-Chien",
+      "set": "Future Flash",
+      "img": "https://den-cards.pokellector.com/382/Wo-Chien.SV4K.9.50836.png",
+      "rarity": "Rare",
+      "cardNum": "9/66"
+    },
+    {
+      "name": "Pansear",
+      "set": "Future Flash",
+      "img": "https://den-cards.pokellector.com/382/Pansear.SV4K.10.50837.png",
+      "rarity": "Common",
+      "cardNum": "10/66"
+    },
+    {
+      "name": "Simisear",
+      "set": "Future Flash",
+      "img": "https://den-cards.pokellector.com/382/Simisear.SV4K.11.50838.png",
+      "rarity": "Uncommon",
+      "cardNum": "11/66"
+    },
+    {
+      "name": "Iron Moth",
+      "set": "Future Flash",
+      "img": "https://den-cards.pokellector.com/382/Iron-Moth.SV4K.12.50839.png",
+      "rarity": "Rare",
+      "cardNum": "12/66"
+    },
+    {
+      "name": "Feebas",
+      "set": "Future Flash",
+      "img": "https://den-cards.pokellector.com/382/Feebas.SV4K.13.50840.png",
+      "rarity": "Common",
+      "cardNum": "13/66"
+    },
+    {
+      "name": "Milotic",
+      "set": "Future Flash",
+      "img": "https://den-cards.pokellector.com/382/Milotic.SV4K.14.50841.png",
+      "rarity": "Rare",
+      "cardNum": "14/66"
+    },
+    {
+      "name": "Panpour",
+      "set": "Future Flash",
+      "img": "https://den-cards.pokellector.com/382/Panpour.SV4K.15.50842.png",
+      "rarity": "Common",
+      "cardNum": "15/66"
+    },
+    {
+      "name": "Simipour",
+      "set": "Future Flash",
+      "img": "https://den-cards.pokellector.com/382/Simipour.SV4K.16.50843.png",
+      "rarity": "Uncommon",
+      "cardNum": "16/66"
+    },
+    {
+      "name": "Vanillite",
+      "set": "Future Flash",
+      "img": "https://den-cards.pokellector.com/382/Vanillite.SV4K.17.50844.png",
+      "rarity": "Common",
+      "cardNum": "17/66"
+    },
+    {
+      "name": "Vanillish",
+      "set": "Future Flash",
+      "img": "https://den-cards.pokellector.com/382/Vanillish.SV4K.18.50845.png",
+      "rarity": "Common",
+      "cardNum": "18/66"
+    },
+    {
+      "name": "Vanilluxe",
+      "set": "Future Flash",
+      "img": "https://den-cards.pokellector.com/382/Vanilluxe.SV4K.19.50846.png",
+      "rarity": "Uncommon",
+      "cardNum": "19/66"
+    },
+    {
+      "name": "Iron Bundle",
+      "set": "Future Flash",
+      "img": "https://den-cards.pokellector.com/382/Iron-Bundle.SV4K.20.50847.png",
+      "rarity": "Uncommon",
+      "cardNum": "20/66"
+    },
+    {
+      "name": "Chien-Pao",
+      "set": "Future Flash",
+      "img": "https://den-cards.pokellector.com/382/Chien-Pao.SV4K.21.50848.png",
+      "rarity": "Rare",
+      "cardNum": "21/66"
+    },
+    {
+      "name": "Elekid",
+      "set": "Future Flash",
+      "img": "https://den-cards.pokellector.com/382/Elekid.SV4K.22.50849.png",
+      "rarity": "Common",
+      "cardNum": "22/66"
+    },
+    {
+      "name": "Blitzle",
+      "set": "Future Flash",
+      "img": "https://den-cards.pokellector.com/382/Blitzle.SV4K.23.50850.png",
+      "rarity": "Common",
+      "cardNum": "23/66"
+    },
+    {
+      "name": "Zebstrika",
+      "set": "Future Flash",
+      "img": "https://den-cards.pokellector.com/382/Zebstrika.SV4K.24.50851.png",
+      "rarity": "Uncommon",
+      "cardNum": "24/66"
+    },
+    {
+      "name": "Oricorio",
+      "set": "Future Flash",
+      "img": "https://den-cards.pokellector.com/382/Oricorio.SV4K.25.50852.png",
+      "rarity": "Common",
+      "cardNum": "25/66"
+    },
+    {
+      "name": "Toxel",
+      "set": "Future Flash",
+      "img": "https://den-cards.pokellector.com/382/Toxel.SV4K.26.50853.png",
+      "rarity": "Common",
+      "cardNum": "26/66"
+    },
+    {
+      "name": "Iron Hands ex",
+      "set": "Future Flash",
+      "img": "https://den-cards.pokellector.com/382/Iron-Hands-ex.SV4K.27.50854.png",
+      "rarity": "Double Rare",
+      "cardNum": "27/66"
+    },
+    {
+      "name": "Chimecho",
+      "set": "Future Flash",
+      "img": "https://den-cards.pokellector.com/382/Chimecho.SV4K.28.50855.png",
+      "rarity": "Common",
+      "cardNum": "28/66"
+    },
+    {
+      "name": "Pumpkaboo",
+      "set": "Future Flash",
+      "img": "https://den-cards.pokellector.com/382/Pumpkaboo.SV4K.29.50856.png",
+      "rarity": "Common",
+      "cardNum": "29/66"
+    },
+    {
+      "name": "Gourgeist",
+      "set": "Future Flash",
+      "img": "https://den-cards.pokellector.com/382/Gourgeist.SV4K.30.50857.png",
+      "rarity": "Uncommon",
+      "cardNum": "30/66"
+    },
+    {
+      "name": "Flittle",
+      "set": "Future Flash",
+      "img": "https://den-cards.pokellector.com/382/Flittle.SV4K.31.50858.png",
+      "rarity": "Common",
+      "cardNum": "31/66"
+    },
+    {
+      "name": "Flittle",
+      "set": "Future Flash",
+      "img": "https://den-cards.pokellector.com/382/Flittle.SV4K.32.50859.png",
+      "rarity": "Common",
+      "cardNum": "32/66"
+    },
+    {
+      "name": "Espathra",
+      "set": "Future Flash",
+      "img": "https://den-cards.pokellector.com/382/Espathra.SV4K.33.50860.png",
+      "rarity": "Rare",
+      "cardNum": "33/66"
+    },
+    {
+      "name": "Tinkatink",
+      "set": "Future Flash",
+      "img": "https://den-cards.pokellector.com/382/Tinkatink.SV4K.34.50861.png",
+      "rarity": "Common",
+      "cardNum": "34/66"
+    },
+    {
+      "name": "Tinkatink",
+      "set": "Future Flash",
+      "img": "https://den-cards.pokellector.com/382/Tinkatink.SV4K.35.50862.png",
+      "rarity": "Common",
+      "cardNum": "35/66"
+    },
+    {
+      "name": "Tinkatuff",
+      "set": "Future Flash",
+      "img": "https://den-cards.pokellector.com/382/Tinkatuff.SV4K.36.50863.png",
+      "rarity": "Common",
+      "cardNum": "36/66"
+    },
+    {
+      "name": "Tinkaton",
+      "set": "Future Flash",
+      "img": "https://den-cards.pokellector.com/382/Tinkaton.SV4K.37.50864.png",
+      "rarity": "Uncommon",
+      "cardNum": "37/66"
+    },
+    {
+      "name": "Iron Valiant ex",
+      "set": "Future Flash",
+      "img": "https://den-cards.pokellector.com/382/Iron-Valiant-ex.SV4K.38.50865.png",
+      "rarity": "Double Rare",
+      "cardNum": "38/66"
+    },
+    {
+      "name": "Onix",
+      "set": "Future Flash",
+      "img": "https://den-cards.pokellector.com/382/Onix.SV4K.39.50866.png",
+      "rarity": "Common",
+      "cardNum": "39/66"
+    },
+    {
+      "name": "Toxtricity ex",
+      "set": "Future Flash",
+      "img": "https://den-cards.pokellector.com/382/Toxtricity-ex.SV4K.40.50867.png",
+      "rarity": "Double Rare",
+      "cardNum": "40/66"
+    },
+    {
+      "name": "Steelix",
+      "set": "Future Flash",
+      "img": "https://den-cards.pokellector.com/382/Steelix.SV4K.41.50868.png",
+      "rarity": "Rare",
+      "cardNum": "41/66"
+    },
+    {
+      "name": "Durant",
+      "set": "Future Flash",
+      "img": "https://den-cards.pokellector.com/382/Durant.SV4K.42.50869.png",
+      "rarity": "Uncommon",
+      "cardNum": "42/66"
+    },
+    {
+      "name": "Honedge",
+      "set": "Future Flash",
+      "img": "https://den-cards.pokellector.com/382/Honedge.SV4K.43.50870.png",
+      "rarity": "Common",
+      "cardNum": "43/66"
+    },
+    {
+      "name": "Doublade",
+      "set": "Future Flash",
+      "img": "https://den-cards.pokellector.com/382/Doublade.SV4K.44.50871.png",
+      "rarity": "Common",
+      "cardNum": "44/66"
+    },
+    {
+      "name": "Aegislash ex",
+      "set": "Future Flash",
+      "img": "https://den-cards.pokellector.com/382/Aegislash-ex.SV4K.45.50872.png",
+      "rarity": "Double Rare",
+      "cardNum": "45/66"
+    },
+    {
+      "name": "Altaria ex",
+      "set": "Future Flash",
+      "img": "https://den-cards.pokellector.com/382/Altaria-ex.SV4K.46.50873.png",
+      "rarity": "Double Rare",
+      "cardNum": "46/66"
+    },
+    {
+      "name": "Tatsugiri",
+      "set": "Future Flash",
+      "img": "https://den-cards.pokellector.com/382/Tatsugiri.SV4K.47.50874.png",
+      "rarity": "Uncommon",
+      "cardNum": "47/66"
+    },
+    {
+      "name": "Porygon",
+      "set": "Future Flash",
+      "img": "https://den-cards.pokellector.com/382/Porygon.SV4K.48.50875.png",
+      "rarity": "Common",
+      "cardNum": "48/66"
+    },
+    {
+      "name": "Porygon2",
+      "set": "Future Flash",
+      "img": "https://den-cards.pokellector.com/382/Porygon2.SV4K.49.50876.png",
+      "rarity": "Common",
+      "cardNum": "49/66"
+    },
+    {
+      "name": "Porygon-Z",
+      "set": "Future Flash",
+      "img": "https://den-cards.pokellector.com/382/Porygon-Z.SV4K.50.50877.png",
+      "rarity": "Rare",
+      "cardNum": "50/66"
+    },
+    {
+      "name": "Aipom",
+      "set": "Future Flash",
+      "img": "https://den-cards.pokellector.com/382/Aipom.SV4K.51.50878.png",
+      "rarity": "Common",
+      "cardNum": "51/66"
+    },
+    {
+      "name": "Ambipom",
+      "set": "Future Flash",
+      "img": "https://den-cards.pokellector.com/382/Ambipom.SV4K.52.50879.png",
+      "rarity": "Uncommon",
+      "cardNum": "52/66"
+    },
+    {
+      "name": "Miltank",
+      "set": "Future Flash",
+      "img": "https://den-cards.pokellector.com/382/Miltank.SV4K.53.50880.png",
+      "rarity": "Common",
+      "cardNum": "53/66"
+    },
+    {
+      "name": "Swablu",
+      "set": "Future Flash",
+      "img": "https://den-cards.pokellector.com/382/Swablu.SV4K.54.50881.png",
+      "rarity": "Common",
+      "cardNum": "54/66"
+    },
+    {
+      "name": "Tandemaus",
+      "set": "Future Flash",
+      "img": "https://den-cards.pokellector.com/382/Tandemaus.SV4K.55.50882.png",
+      "rarity": "Common",
+      "cardNum": "55/66"
+    },
+    {
+      "name": "Tandemaus",
+      "set": "Future Flash",
+      "img": "https://den-cards.pokellector.com/382/Tandemaus.SV4K.56.50883.png",
+      "rarity": "Common",
+      "cardNum": "56/66"
+    },
+    {
+      "name": "Maushold ex",
+      "set": "Future Flash",
+      "img": "https://den-cards.pokellector.com/382/Maushold-ex.SV4K.57.50884.png",
+      "rarity": "Double Rare",
+      "cardNum": "57/66"
+    },
+    {
+      "name": "Iron Jugulis",
+      "set": "Future Flash",
+      "img": "https://den-cards.pokellector.com/382/Iron-Jugulis.SV4K.58.50885.png",
+      "rarity": "Rare",
+      "cardNum": "58/66"
+    },
+    {
+      "name": "Counter Catcher",
+      "set": "Future Flash",
+      "img": "https://den-cards.pokellector.com/382/Counter-Catcher.SV4K.59.50886.png",
+      "rarity": "Uncommon",
+      "cardNum": "59/66"
+    },
+    {
+      "name": "Techno Radar",
+      "set": "Future Flash",
+      "img": "https://den-cards.pokellector.com/382/Techno-Radar.SV4K.60.50887.png",
+      "rarity": "Uncommon",
+      "cardNum": "60/66"
+    },
+    {
+      "name": "Cursed Duster",
+      "set": "Future Flash",
+      "img": "https://den-cards.pokellector.com/382/Cursed-Duster.SV4K.61.50888.png",
+      "rarity": "Uncommon",
+      "cardNum": "61/66"
+    },
+    {
+      "name": "Future Booster Energy Capsule",
+      "set": "Future Flash",
+      "img": "https://den-cards.pokellector.com/382/Future-Booster-Energy-Capsule.SV4K.62.50889.png",
+      "rarity": "Uncommon",
+      "cardNum": "62/66"
+    },
+    {
+      "name": "Technical Machine: Evolution",
+      "set": "Future Flash",
+      "img": "https://den-cards.pokellector.com/382/Technical-Machine-Evolution.SV4K.63.50890.png",
+      "rarity": "Uncommon",
+      "cardNum": "63/66"
+    },
+    {
+      "name": "Roark",
+      "set": "Future Flash",
+      "img": "https://den-cards.pokellector.com/382/Roark.SV4K.64.50891.png",
+      "rarity": "Uncommon",
+      "cardNum": "64/66"
+    },
+    {
+      "name": "Professor Turo's Scenario",
+      "set": "Future Flash",
+      "img": "https://den-cards.pokellector.com/382/Professor-Turos-Scenario.SV4K.65.50892.png",
+      "rarity": "Uncommon",
+      "cardNum": "65/66"
+    },
+    {
+      "name": "Tulip",
+      "set": "Future Flash",
+      "img": "https://den-cards.pokellector.com/382/Tulip.SV4K.66.50893.png",
+      "rarity": "Uncommon",
+      "cardNum": "66/66"
+    },
+    {
+      "name": "Dottler",
+      "set": "Future Flash",
+      "img": "https://den-cards.pokellector.com/382/Dottler.SV4K.67.50894.png",
+      "rarity": "Art Rare",
+      "cardNum": "67/66"
+    },
+    {
+      "name": "Toedscruel",
+      "set": "Future Flash",
+      "img": "https://den-cards.pokellector.com/382/Toedscruel.SV4K.68.50895.png",
+      "rarity": "Art Rare",
+      "cardNum": "68/66"
+    },
+    {
+      "name": "Iron Moth",
+      "set": "Future Flash",
+      "img": "https://den-cards.pokellector.com/382/Iron-Moth.SV4K.69.50896.png",
+      "rarity": "Art Rare",
+      "cardNum": "69/66"
+    },
+    {
+      "name": "Vanillish",
+      "set": "Future Flash",
+      "img": "https://den-cards.pokellector.com/382/Vanillish.SV4K.70.50897.png",
+      "rarity": "Art Rare",
+      "cardNum": "70/66"
+    },
+    {
+      "name": "Iron Bundle",
+      "set": "Future Flash",
+      "img": "https://den-cards.pokellector.com/382/Iron-Bundle.SV4K.71.50898.png",
+      "rarity": "Art Rare",
+      "cardNum": "71/66"
+    },
+    {
+      "name": "Blitzle",
+      "set": "Future Flash",
+      "img": "https://den-cards.pokellector.com/382/Blitzle.SV4K.72.50899.png",
+      "rarity": "Art Rare",
+      "cardNum": "72/66"
+    },
+    {
+      "name": "Espathra",
+      "set": "Future Flash",
+      "img": "https://den-cards.pokellector.com/382/Espathra.SV4K.73.50900.png",
+      "rarity": "Art Rare",
+      "cardNum": "73/66"
+    },
+    {
+      "name": "Steelix",
+      "set": "Future Flash",
+      "img": "https://den-cards.pokellector.com/382/Steelix.SV4K.74.50901.png",
+      "rarity": "Art Rare",
+      "cardNum": "74/66"
+    },
+    {
+      "name": "Aipom",
+      "set": "Future Flash",
+      "img": "https://den-cards.pokellector.com/382/Aipom.SV4K.75.50902.png",
+      "rarity": "Art Rare",
+      "cardNum": "75/66"
+    },
+    {
+      "name": "Swablu",
+      "set": "Future Flash",
+      "img": "https://den-cards.pokellector.com/382/Swablu.SV4K.76.50903.png",
+      "rarity": "Art Rare",
+      "cardNum": "76/66"
+    },
+    {
+      "name": "Porygon-Z",
+      "set": "Future Flash",
+      "img": "https://den-cards.pokellector.com/382/Porygon-Z.SV4K.77.50904.png",
+      "rarity": "Art Rare",
+      "cardNum": "77/66"
+    },
+    {
+      "name": "Iron Jugulis",
+      "set": "Future Flash",
+      "img": "https://den-cards.pokellector.com/382/Iron-Jugulis.SV4K.78.50905.png",
+      "rarity": "Art Rare",
+      "cardNum": "78/66"
+    },
+    {
+      "name": "Iron Hands ex",
+      "set": "Future Flash",
+      "img": "https://den-cards.pokellector.com/382/Iron-Hands-ex.SV4K.79.50906.png",
+      "rarity": "Super Rare",
+      "cardNum": "79/66"
+    },
+    {
+      "name": "Iron Valiant ex",
+      "set": "Future Flash",
+      "img": "https://den-cards.pokellector.com/382/Iron-Valiant-ex.SV4K.80.50907.png",
+      "rarity": "Super Rare",
+      "cardNum": "80/66"
+    },
+    {
+      "name": "Toxtricity ex",
+      "set": "Future Flash",
+      "img": "https://den-cards.pokellector.com/382/Toxtricity-ex.SV4K.81.50908.png",
+      "rarity": "Super Rare",
+      "cardNum": "81/66"
+    },
+    {
+      "name": "Aegislash ex",
+      "set": "Future Flash",
+      "img": "https://den-cards.pokellector.com/382/Aegislash-ex.SV4K.82.50909.png",
+      "rarity": "Super Rare",
+      "cardNum": "82/66"
+    },
+    {
+      "name": "Altaria ex",
+      "set": "Future Flash",
+      "img": "https://den-cards.pokellector.com/382/Altaria-ex.SV4K.83.50910.png",
+      "rarity": "Super Rare",
+      "cardNum": "83/66"
+    },
+    {
+      "name": "Maushold ex",
+      "set": "Future Flash",
+      "img": "https://den-cards.pokellector.com/382/Maushold-ex.SV4K.84.50911.png",
+      "rarity": "Super Rare",
+      "cardNum": "84/66"
+    },
+    {
+      "name": "Roark",
+      "set": "Future Flash",
+      "img": "https://den-cards.pokellector.com/382/Roark.SV4K.85.50912.png",
+      "rarity": "Super Rare",
+      "cardNum": "85/66"
+    },
+    {
+      "name": "Professor Turo's Scenario",
+      "set": "Future Flash",
+      "img": "https://den-cards.pokellector.com/382/Professor-Turos-Scenario.SV4K.86.50913.png",
+      "rarity": "Super Rare",
+      "cardNum": "86/66"
+    },
+    {
+      "name": "Tulip",
+      "set": "Future Flash",
+      "img": "https://den-cards.pokellector.com/382/Tulip.SV4K.87.50914.png",
+      "rarity": "Super Rare",
+      "cardNum": "87/66"
+    },
+    {
+      "name": "Iron Hands ex",
+      "set": "Future Flash",
+      "img": "https://den-cards.pokellector.com/382/Iron-Hands-ex.SV4K.88.50915.png",
+      "rarity": "Special Art Rare",
+      "cardNum": "88/66"
+    },
+    {
+      "name": "Iron Valiant ex",
+      "set": "Future Flash",
+      "img": "https://den-cards.pokellector.com/382/Iron-Valiant-ex.SV4K.89.50916.png",
+      "rarity": "Special Art Rare",
+      "cardNum": "89/66"
+    },
+    {
+      "name": "Altaria ex",
+      "set": "Future Flash",
+      "img": "https://den-cards.pokellector.com/382/Altaria-ex.SV4K.90.50917.png",
+      "rarity": "Special Art Rare",
+      "cardNum": "90/66"
+    },
+    {
+      "name": "Professor Turo's Scenario",
+      "set": "Future Flash",
+      "img": "https://den-cards.pokellector.com/382/Professor-Turos-Scenario.SV4K.91.50918.png",
+      "rarity": "Special Art Rare",
+      "cardNum": "91/66"
+    },
+    {
+      "name": "Tulip",
+      "set": "Future Flash",
+      "img": "https://den-cards.pokellector.com/382/Tulip.SV4K.92.50919.png",
+      "rarity": "Special Art Rare",
+      "cardNum": "92/66"
+    },
+    {
+      "name": "Iron Valiant ex",
+      "set": "Future Flash",
+      "img": "https://den-cards.pokellector.com/382/Iron-Valiant-ex.SV4K.93.50920.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "93/66"
+    },
+    {
+      "name": "Counter Catcher",
+      "set": "Future Flash",
+      "img": "https://den-cards.pokellector.com/382/Counter-Catcher.SV4K.94.50921.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "94/66"
+    },
+    {
+      "name": "Basic Metal Energy",
+      "set": "Future Flash",
+      "img": "https://den-cards.pokellector.com/382/Basic-Metal-Energy.SV4K.95.50922.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "95/66"
+    }
+  ]
+}

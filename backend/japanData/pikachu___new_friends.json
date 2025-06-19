@@ -1,0 +1,33 @@
+{
+  "setName": "Pikachu & New Friends",
+  "cards": [
+    {
+      "name": "Rowlet",
+      "set": "Pikachu & New Friends",
+      "img": "https://den-cards.pokellector.com/204/Rowlet.SM0.1.13275.png",
+      "rarity": "Common",
+      "cardNum": "1/4"
+    },
+    {
+      "name": "Litten",
+      "set": "Pikachu & New Friends",
+      "img": "https://den-cards.pokellector.com/204/Litten.SM0.2.13276.png",
+      "rarity": "Common",
+      "cardNum": "2/4"
+    },
+    {
+      "name": "Popplio",
+      "set": "Pikachu & New Friends",
+      "img": "https://den-cards.pokellector.com/204/Popplio.SM0.3.13277.png",
+      "rarity": "Common",
+      "cardNum": "3/4"
+    },
+    {
+      "name": "Pikachu",
+      "set": "Pikachu & New Friends",
+      "img": "https://den-cards.pokellector.com/204/Pikachu.SM0.4.13278.png",
+      "rarity": "Common",
+      "cardNum": "4/4"
+    }
+  ]
+}

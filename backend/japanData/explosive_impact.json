@@ -1,0 +1,782 @@
+{
+  "setName": "Explosive Impact",
+  "cards": [
+    {
+      "name": "Scyther",
+      "set": "Explosive Impact",
+      "img": "https://den-cards.pokellector.com/258/Scyther.SM8.1.23230.png",
+      "rarity": "Common",
+      "cardNum": "1/95"
+    },
+    {
+      "name": "Chikorita",
+      "set": "Explosive Impact",
+      "img": "https://den-cards.pokellector.com/258/Chikorita.SM8.2.23231.png",
+      "rarity": "Common",
+      "cardNum": "2/95"
+    },
+    {
+      "name": "Chikorita",
+      "set": "Explosive Impact",
+      "img": "https://den-cards.pokellector.com/258/Chikorita.SM8.3.23232.png",
+      "rarity": "Common",
+      "cardNum": "3/95"
+    },
+    {
+      "name": "Bayleef",
+      "set": "Explosive Impact",
+      "img": "https://den-cards.pokellector.com/258/Bayleef.SM8.4.23233.png",
+      "rarity": "Common",
+      "cardNum": "4/95"
+    },
+    {
+      "name": "Meganium",
+      "set": "Explosive Impact",
+      "img": "https://den-cards.pokellector.com/258/Meganium.SM8.5.23206.png",
+      "rarity": "Rare",
+      "cardNum": "5/95"
+    },
+    {
+      "name": "Spinarak",
+      "set": "Explosive Impact",
+      "img": "https://den-cards.pokellector.com/258/Spinarak.SM8.6.23234.png",
+      "rarity": "Common",
+      "cardNum": "6/95"
+    },
+    {
+      "name": "Ariados",
+      "set": "Explosive Impact",
+      "img": "https://den-cards.pokellector.com/258/Ariados.SM8.7.23235.png",
+      "rarity": "Common",
+      "cardNum": "7/95"
+    },
+    {
+      "name": "Hoppip",
+      "set": "Explosive Impact",
+      "img": "https://den-cards.pokellector.com/258/Hoppip.SM8.8.23236.png",
+      "rarity": "Common",
+      "cardNum": "8/95"
+    },
+    {
+      "name": "Hoppip",
+      "set": "Explosive Impact",
+      "img": "https://den-cards.pokellector.com/258/Hoppip.SM8.9.23237.png",
+      "rarity": "Common",
+      "cardNum": "9/95"
+    },
+    {
+      "name": "Skiploom",
+      "set": "Explosive Impact",
+      "img": "https://den-cards.pokellector.com/258/Skiploom.SM8.10.23238.png",
+      "rarity": "Common",
+      "cardNum": "10/95"
+    },
+    {
+      "name": "Jumpluff",
+      "set": "Explosive Impact",
+      "img": "https://den-cards.pokellector.com/258/Jumpluff.SM8.11.23239.png",
+      "rarity": "Rare",
+      "cardNum": "11/95"
+    },
+    {
+      "name": "Pineco",
+      "set": "Explosive Impact",
+      "img": "https://den-cards.pokellector.com/258/Pineco.SM8.12.23240.png",
+      "rarity": "Common",
+      "cardNum": "12/95"
+    },
+    {
+      "name": "Shuckle GX",
+      "set": "Explosive Impact",
+      "img": "https://den-cards.pokellector.com/258/Shuckle-GX.SM8.13.23207.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "13/95"
+    },
+    {
+      "name": "Heracross",
+      "set": "Explosive Impact",
+      "img": "https://den-cards.pokellector.com/258/Heracross.SM8.14.23205.png",
+      "rarity": "Common",
+      "cardNum": "14/95"
+    },
+    {
+      "name": "Celebi Prism Star",
+      "set": "Explosive Impact",
+      "img": "https://den-cards.pokellector.com/258/Celebi.SM8.15.23241.png",
+      "rarity": "Prism Star",
+      "cardNum": "15/95"
+    },
+    {
+      "name": "Cyndaquil",
+      "set": "Explosive Impact",
+      "img": "https://den-cards.pokellector.com/258/Cyndaquil.SM8.16.23242.png",
+      "rarity": "Common",
+      "cardNum": "16/95"
+    },
+    {
+      "name": "Cyndaquil",
+      "set": "Explosive Impact",
+      "img": "https://den-cards.pokellector.com/258/Cyndaquil.SM8.17.23243.png",
+      "rarity": "Common",
+      "cardNum": "17/95"
+    },
+    {
+      "name": "Quilava",
+      "set": "Explosive Impact",
+      "img": "https://den-cards.pokellector.com/258/Quilava.SM8.18.23244.png",
+      "rarity": "Common",
+      "cardNum": "18/95"
+    },
+    {
+      "name": "Typhlosion",
+      "set": "Explosive Impact",
+      "img": "https://den-cards.pokellector.com/258/Typhlosion.SM8.19.23245.png",
+      "rarity": "Rare",
+      "cardNum": "19/95"
+    },
+    {
+      "name": "Houndour",
+      "set": "Explosive Impact",
+      "img": "https://den-cards.pokellector.com/258/Houndour.SM8.20.23246.png",
+      "rarity": "Common",
+      "cardNum": "20/95"
+    },
+    {
+      "name": "Houndoom",
+      "set": "Explosive Impact",
+      "img": "https://den-cards.pokellector.com/258/Houndoom.SM8.21.23247.png",
+      "rarity": "Uncommon",
+      "cardNum": "21/95"
+    },
+    {
+      "name": "Entei",
+      "set": "Explosive Impact",
+      "img": "https://den-cards.pokellector.com/258/Entei.SM8.22.23248.png",
+      "rarity": "Rare",
+      "cardNum": "22/95"
+    },
+    {
+      "name": "Blacephalon GX",
+      "set": "Explosive Impact",
+      "img": "https://den-cards.pokellector.com/258/Blacephelon-GX.SM8.23.23199.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "23/95"
+    },
+    {
+      "name": "Slowpoke",
+      "set": "Explosive Impact",
+      "img": "https://den-cards.pokellector.com/258/Slowpoke.SM8.24.23249.png",
+      "rarity": "Common",
+      "cardNum": "24/95"
+    },
+    {
+      "name": "Slowking",
+      "set": "Explosive Impact",
+      "img": "https://den-cards.pokellector.com/258/Slowking.SM8.25.23250.png",
+      "rarity": "Uncommon",
+      "cardNum": "25/95"
+    },
+    {
+      "name": "Delibird",
+      "set": "Explosive Impact",
+      "img": "https://den-cards.pokellector.com/258/Delibird.SM8.26.23251.png",
+      "rarity": "Common",
+      "cardNum": "26/95"
+    },
+    {
+      "name": "Mantine",
+      "set": "Explosive Impact",
+      "img": "https://den-cards.pokellector.com/258/Mantine.SM8.27.23252.png",
+      "rarity": "Common",
+      "cardNum": "27/95"
+    },
+    {
+      "name": "Suicune GX",
+      "set": "Explosive Impact",
+      "img": "https://den-cards.pokellector.com/258/Suicune-GX.SM8.28.23253.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "28/95"
+    },
+    {
+      "name": "Mareanie",
+      "set": "Explosive Impact",
+      "img": "https://den-cards.pokellector.com/258/Mareanie.SM8.29.23254.png",
+      "rarity": "Common",
+      "cardNum": "29/95"
+    },
+    {
+      "name": "Toxapex",
+      "set": "Explosive Impact",
+      "img": "https://den-cards.pokellector.com/258/Toxapex.SM8.30.23255.png",
+      "rarity": "Uncommon",
+      "cardNum": "30/95"
+    },
+    {
+      "name": "Chinchou",
+      "set": "Explosive Impact",
+      "img": "https://den-cards.pokellector.com/258/Chinchou.SM8.31.23256.png",
+      "rarity": "Common",
+      "cardNum": "31/95"
+    },
+    {
+      "name": "Lanturn",
+      "set": "Explosive Impact",
+      "img": "https://den-cards.pokellector.com/258/Lanturn.SM8.32.23257.png",
+      "rarity": "Uncommon",
+      "cardNum": "32/95"
+    },
+    {
+      "name": "Mareep",
+      "set": "Explosive Impact",
+      "img": "https://den-cards.pokellector.com/258/Mareep.SM8.33.23258.png",
+      "rarity": "Common",
+      "cardNum": "33/95"
+    },
+    {
+      "name": "Mareep",
+      "set": "Explosive Impact",
+      "img": "https://den-cards.pokellector.com/258/Mareep.SM8.34.23259.png",
+      "rarity": "Common",
+      "cardNum": "34/95"
+    },
+    {
+      "name": "Flaaffy",
+      "set": "Explosive Impact",
+      "img": "https://den-cards.pokellector.com/258/Flaaffy.SM8.35.23260.png",
+      "rarity": "Common",
+      "cardNum": "35/95"
+    },
+    {
+      "name": "Ampharos",
+      "set": "Explosive Impact",
+      "img": "https://den-cards.pokellector.com/258/Ampharos.SM8.36.23261.png",
+      "rarity": "Rare",
+      "cardNum": "36/95"
+    },
+    {
+      "name": "Raikou",
+      "set": "Explosive Impact",
+      "img": "https://den-cards.pokellector.com/258/Raikou.SM8.37.23262.png",
+      "rarity": "Rare",
+      "cardNum": "37/95"
+    },
+    {
+      "name": "Natu",
+      "set": "Explosive Impact",
+      "img": "https://den-cards.pokellector.com/258/Natu.SM8.38.23263.png",
+      "rarity": "Common",
+      "cardNum": "38/95"
+    },
+    {
+      "name": "Xatu",
+      "set": "Explosive Impact",
+      "img": "https://den-cards.pokellector.com/258/Xatu.SM8.39.23264.png",
+      "rarity": "Common",
+      "cardNum": "39/95"
+    },
+    {
+      "name": "Espeon",
+      "set": "Explosive Impact",
+      "img": "https://den-cards.pokellector.com/258/Espeon.SM8.40.23265.png",
+      "rarity": "Uncommon",
+      "cardNum": "40/95"
+    },
+    {
+      "name": "Unown",
+      "set": "Explosive Impact",
+      "img": "https://den-cards.pokellector.com/258/Unown.SM8.41.23266.png",
+      "rarity": "Uncommon",
+      "cardNum": "41/95"
+    },
+    {
+      "name": "Unown",
+      "set": "Explosive Impact",
+      "img": "https://den-cards.pokellector.com/258/Unown.SM8.42.23267.png",
+      "rarity": "Uncommon",
+      "cardNum": "42/95"
+    },
+    {
+      "name": "Unown",
+      "set": "Explosive Impact",
+      "img": "https://den-cards.pokellector.com/258/Unown.SM8.43.23268.png",
+      "rarity": "Uncommon",
+      "cardNum": "43/95"
+    },
+    {
+      "name": "Wobbuffet",
+      "set": "Explosive Impact",
+      "img": "https://den-cards.pokellector.com/258/Wobbuffet.SM8.44.23269.png",
+      "rarity": "Uncommon",
+      "cardNum": "44/95"
+    },
+    {
+      "name": "Girafarig",
+      "set": "Explosive Impact",
+      "img": "https://den-cards.pokellector.com/258/Girafarig.SM8.45.23270.png",
+      "rarity": "Common",
+      "cardNum": "45/95"
+    },
+    {
+      "name": "Nihilego",
+      "set": "Explosive Impact",
+      "img": "https://den-cards.pokellector.com/258/Nihilego.SM8.46.23271.png",
+      "rarity": "Rare",
+      "cardNum": "46/95"
+    },
+    {
+      "name": "Poipole",
+      "set": "Explosive Impact",
+      "img": "https://den-cards.pokellector.com/258/Poipole.SM8.47.23272.png",
+      "rarity": "Common",
+      "cardNum": "47/95"
+    },
+    {
+      "name": "Naganadel",
+      "set": "Explosive Impact",
+      "img": "https://den-cards.pokellector.com/258/Naganadel.SM8.48.23273.png",
+      "rarity": "Rare",
+      "cardNum": "48/95"
+    },
+    {
+      "name": "Sudowoodo",
+      "set": "Explosive Impact",
+      "img": "https://den-cards.pokellector.com/258/Sudowoodo.SM8.49.23200.png",
+      "rarity": "Common",
+      "cardNum": "49/95"
+    },
+    {
+      "name": "Phanpy",
+      "set": "Explosive Impact",
+      "img": "https://den-cards.pokellector.com/258/Phanpy.SM8.50.23274.png",
+      "rarity": "Common",
+      "cardNum": "50/95"
+    },
+    {
+      "name": "Donphan",
+      "set": "Explosive Impact",
+      "img": "https://den-cards.pokellector.com/258/Donphan.SM8.51.23275.png",
+      "rarity": "Uncommon",
+      "cardNum": "51/95"
+    },
+    {
+      "name": "Hitmontop",
+      "set": "Explosive Impact",
+      "img": "https://den-cards.pokellector.com/258/Hitmontop.SM8.52.23276.png",
+      "rarity": "Common",
+      "cardNum": "52/95"
+    },
+    {
+      "name": "Larvitar",
+      "set": "Explosive Impact",
+      "img": "https://den-cards.pokellector.com/258/Larvitar.SM8.53.23277.png",
+      "rarity": "Common",
+      "cardNum": "53/95"
+    },
+    {
+      "name": "Larvitar",
+      "set": "Explosive Impact",
+      "img": "https://den-cards.pokellector.com/258/Larvitar.SM8.54.23278.png",
+      "rarity": "Common",
+      "cardNum": "54/95"
+    },
+    {
+      "name": "Pupitar",
+      "set": "Explosive Impact",
+      "img": "https://den-cards.pokellector.com/258/Pupitar.SM8.55.23279.png",
+      "rarity": "Common",
+      "cardNum": "55/95"
+    },
+    {
+      "name": "Alolan Meowth",
+      "set": "Explosive Impact",
+      "img": "https://den-cards.pokellector.com/258/Alolan-Meowth.SM8.56.23280.png",
+      "rarity": "Common",
+      "cardNum": "56/95"
+    },
+    {
+      "name": "Alolan Persian",
+      "set": "Explosive Impact",
+      "img": "https://den-cards.pokellector.com/258/Alolan-Persian.SM8.57.23281.png",
+      "rarity": "Uncommon",
+      "cardNum": "57/95"
+    },
+    {
+      "name": "Umbreon",
+      "set": "Explosive Impact",
+      "img": "https://den-cards.pokellector.com/258/Umbreon.SM8.58.23282.png",
+      "rarity": "Uncommon",
+      "cardNum": "58/95"
+    },
+    {
+      "name": "Tyranitar GX",
+      "set": "Explosive Impact",
+      "img": "https://den-cards.pokellector.com/258/Tyranitar-GX.SM8.59.23283.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "59/95"
+    },
+    {
+      "name": "Forretress",
+      "set": "Explosive Impact",
+      "img": "https://den-cards.pokellector.com/258/Forretress.SM8.60.23284.png",
+      "rarity": "Uncommon",
+      "cardNum": "60/95"
+    },
+    {
+      "name": "Scizor",
+      "set": "Explosive Impact",
+      "img": "https://den-cards.pokellector.com/258/Scizor.SM8.61.23285.png",
+      "rarity": "Rare",
+      "cardNum": "61/95"
+    },
+    {
+      "name": "Marill",
+      "set": "Explosive Impact",
+      "img": "https://den-cards.pokellector.com/258/Marill.SM8.62.23286.png",
+      "rarity": "Common",
+      "cardNum": "62/95"
+    },
+    {
+      "name": "Azumarill",
+      "set": "Explosive Impact",
+      "img": "https://den-cards.pokellector.com/258/Azumarill.SM8.63.23287.png",
+      "rarity": "Common",
+      "cardNum": "63/95"
+    },
+    {
+      "name": "Snubbull",
+      "set": "Explosive Impact",
+      "img": "https://den-cards.pokellector.com/258/Snubbull.SM8.64.23288.png",
+      "rarity": "Common",
+      "cardNum": "64/95"
+    },
+    {
+      "name": "Granbull",
+      "set": "Explosive Impact",
+      "img": "https://den-cards.pokellector.com/258/Granbull.SM8.65.23289.png",
+      "rarity": "Uncommon",
+      "cardNum": "65/95"
+    },
+    {
+      "name": "Chansey",
+      "set": "Explosive Impact",
+      "img": "https://den-cards.pokellector.com/258/Chansey.SM8.66.23290.png",
+      "rarity": "Common",
+      "cardNum": "66/95"
+    },
+    {
+      "name": "Blissey",
+      "set": "Explosive Impact",
+      "img": "https://den-cards.pokellector.com/258/Blissey.SM8.67.23291.png",
+      "rarity": "Rare",
+      "cardNum": "67/95"
+    },
+    {
+      "name": "Eevee",
+      "set": "Explosive Impact",
+      "img": "https://den-cards.pokellector.com/258/Eevee.SM8.68.23292.png",
+      "rarity": "Common",
+      "cardNum": "68/95"
+    },
+    {
+      "name": "Stantler",
+      "set": "Explosive Impact",
+      "img": "https://den-cards.pokellector.com/258/Stantler.SM8.69.23293.png",
+      "rarity": "Common",
+      "cardNum": "69/95"
+    },
+    {
+      "name": "Smeargle",
+      "set": "Explosive Impact",
+      "img": "https://den-cards.pokellector.com/258/Smeargle.SM8.70.23294.png",
+      "rarity": "Uncommon",
+      "cardNum": "70/95"
+    },
+    {
+      "name": "Miltank",
+      "set": "Explosive Impact",
+      "img": "https://den-cards.pokellector.com/258/Miltank.SM8.71.23295.png",
+      "rarity": "Uncommon",
+      "cardNum": "71/95"
+    },
+    {
+      "name": "Lugia GX",
+      "set": "Explosive Impact",
+      "img": "https://den-cards.pokellector.com/258/Lugia-GX.SM8.72.23184.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "72/95"
+    },
+    {
+      "name": "Pikipek",
+      "set": "Explosive Impact",
+      "img": "https://den-cards.pokellector.com/258/Pikipek.SM8.73.23296.png",
+      "rarity": "Common",
+      "cardNum": "73/95"
+    },
+    {
+      "name": "Pikipek",
+      "set": "Explosive Impact",
+      "img": "https://den-cards.pokellector.com/258/Pikipek.SM8.74.23297.png",
+      "rarity": "Common",
+      "cardNum": "74/95"
+    },
+    {
+      "name": "Trumbeak",
+      "set": "Explosive Impact",
+      "img": "https://den-cards.pokellector.com/258/Trumbeak.SM8.75.23298.png",
+      "rarity": "Common",
+      "cardNum": "75/95"
+    },
+    {
+      "name": "Toucannon",
+      "set": "Explosive Impact",
+      "img": "https://den-cards.pokellector.com/258/Toucannon.SM8.76.23299.png",
+      "rarity": "Uncommon",
+      "cardNum": "76/95"
+    },
+    {
+      "name": "Stall Hammer",
+      "set": "Explosive Impact",
+      "img": "https://den-cards.pokellector.com/258/Stall-Hammer.SM8.77.23300.png",
+      "rarity": "Uncommon",
+      "cardNum": "77/95"
+    },
+    {
+      "name": "Ultra Ball",
+      "set": "Explosive Impact",
+      "img": "https://den-cards.pokellector.com/258/Ultra-Ball.SM8.78.23301.png",
+      "rarity": "Uncommon",
+      "cardNum": "78/95"
+    },
+    {
+      "name": "Rare Candy",
+      "set": "Explosive Impact",
+      "img": "https://den-cards.pokellector.com/258/Rare-Candy.SM8.79.23302.png",
+      "rarity": "Uncommon",
+      "cardNum": "79/95"
+    },
+    {
+      "name": "Switch",
+      "set": "Explosive Impact",
+      "img": "https://den-cards.pokellector.com/258/Switch.SM8.80.23303.png",
+      "rarity": "Uncommon",
+      "cardNum": "80/95"
+    },
+    {
+      "name": "Pokémon Catcher",
+      "set": "Explosive Impact",
+      "img": "https://den-cards.pokellector.com/258/Pokeacutemon-Catcher.SM8.81.23304.png",
+      "rarity": "Uncommon",
+      "cardNum": "81/95"
+    },
+    {
+      "name": "Moomoo Milk",
+      "set": "Explosive Impact",
+      "img": "https://den-cards.pokellector.com/258/Moomoo-Milk.SM8.82.23305.png",
+      "rarity": "Uncommon",
+      "cardNum": "82/95"
+    },
+    {
+      "name": "Lost Mixer",
+      "set": "Explosive Impact",
+      "img": "https://den-cards.pokellector.com/258/Lost-Mixer.SM8.83.23306.png",
+      "rarity": "Uncommon",
+      "cardNum": "83/95"
+    },
+    {
+      "name": "Choice Band",
+      "set": "Explosive Impact",
+      "img": "https://den-cards.pokellector.com/258/Choice-Band.SM8.84.23307.png",
+      "rarity": "Uncommon",
+      "cardNum": "84/95"
+    },
+    {
+      "name": "Choice Helmet",
+      "set": "Explosive Impact",
+      "img": "https://den-cards.pokellector.com/258/Choice-Helmet.SM8.85.23201.png",
+      "rarity": "Uncommon",
+      "cardNum": "85/95"
+    },
+    {
+      "name": "Fairy Charm G",
+      "set": "Explosive Impact",
+      "img": "https://den-cards.pokellector.com/258/Fairy-Charm-G.SM8.86.23308.png",
+      "rarity": "Uncommon",
+      "cardNum": "86/95"
+    },
+    {
+      "name": "Whitney",
+      "set": "Explosive Impact",
+      "img": "https://den-cards.pokellector.com/258/Whitney.SM8.87.23309.png",
+      "rarity": "Uncommon",
+      "cardNum": "87/95"
+    },
+    {
+      "name": "Professor Elm's Lecture",
+      "set": "Explosive Impact",
+      "img": "https://den-cards.pokellector.com/258/Professor-Elms-Lecture.SM8.88.23310.png",
+      "rarity": "Uncommon",
+      "cardNum": "88/95"
+    },
+    {
+      "name": "Faba",
+      "set": "Explosive Impact",
+      "img": "https://den-cards.pokellector.com/258/Faba.SM8.89.23311.png",
+      "rarity": "Uncommon",
+      "cardNum": "89/95"
+    },
+    {
+      "name": "Hau",
+      "set": "Explosive Impact",
+      "img": "https://den-cards.pokellector.com/258/Hau.SM8.90.23312.png",
+      "rarity": "Uncommon",
+      "cardNum": "90/95"
+    },
+    {
+      "name": "Lillie",
+      "set": "Explosive Impact",
+      "img": "https://den-cards.pokellector.com/258/Lillie.SM8.91.23313.png",
+      "rarity": "Uncommon",
+      "cardNum": "91/95"
+    },
+    {
+      "name": "Lusamine Prism Star",
+      "set": "Explosive Impact",
+      "img": "https://den-cards.pokellector.com/258/Lusamine.SM8.92.23314.png",
+      "rarity": "Prism Star",
+      "cardNum": "92/95"
+    },
+    {
+      "name": "Heat Factory Prism Star",
+      "set": "Explosive Impact",
+      "img": "https://den-cards.pokellector.com/258/Heat-Factory.SM8.93.23315.png",
+      "rarity": "Prism Star",
+      "cardNum": "93/95"
+    },
+    {
+      "name": "Double Colorless Energy",
+      "set": "Explosive Impact",
+      "img": "https://den-cards.pokellector.com/258/Double-Colorless-Energy.SM8.94.23316.png",
+      "rarity": "Uncommon",
+      "cardNum": "94/95"
+    },
+    {
+      "name": "Memory Energy",
+      "set": "Explosive Impact",
+      "img": "https://den-cards.pokellector.com/258/Memory-Energy.SM8.95.23317.png",
+      "rarity": "Common",
+      "cardNum": "95/95"
+    },
+    {
+      "name": "Shuckle GX",
+      "set": "Explosive Impact",
+      "img": "https://den-cards.pokellector.com/258/Shuckle-GX.SM8.96.23318.png",
+      "rarity": "Secret Rare",
+      "cardNum": "96/95"
+    },
+    {
+      "name": "Blacephalon GX",
+      "set": "Explosive Impact",
+      "img": "https://den-cards.pokellector.com/258/Blacephalon-GX.SM8.97.23319.png",
+      "rarity": "Secret Rare",
+      "cardNum": "97/95"
+    },
+    {
+      "name": "Suicune GX",
+      "set": "Explosive Impact",
+      "img": "https://den-cards.pokellector.com/258/Suicune-GX.SM8.98.23320.png",
+      "rarity": "Secret Rare",
+      "cardNum": "98/95"
+    },
+    {
+      "name": "Tyranitar GX",
+      "set": "Explosive Impact",
+      "img": "https://den-cards.pokellector.com/258/Tyranitar-GX.SM8.99.23321.png",
+      "rarity": "Secret Rare",
+      "cardNum": "99/95"
+    },
+    {
+      "name": "Lugia GX",
+      "set": "Explosive Impact",
+      "img": "https://den-cards.pokellector.com/258/Lugia-GX.SM8.100.23204.png",
+      "rarity": "Secret Rare",
+      "cardNum": "100/95"
+    },
+    {
+      "name": "Whitney",
+      "set": "Explosive Impact",
+      "img": "https://den-cards.pokellector.com/258/Whitney.SM8.101.23540.png",
+      "rarity": "Secret Rare",
+      "cardNum": "101/95"
+    },
+    {
+      "name": "Professor Elm's Lecture",
+      "set": "Explosive Impact",
+      "img": "https://den-cards.pokellector.com/258/Professor-Elms-Lecture.SM8.102.23606.png",
+      "rarity": "Secret Rare",
+      "cardNum": "102/95"
+    },
+    {
+      "name": "Faba",
+      "set": "Explosive Impact",
+      "img": "https://den-cards.pokellector.com/258/Faba.SM8.103.23607.png",
+      "rarity": "Secret Rare",
+      "cardNum": "103/95"
+    },
+    {
+      "name": "Shuckle GX",
+      "set": "Explosive Impact",
+      "img": "https://den-cards.pokellector.com/258/Shuckle-GX.SM8.104.23608.png",
+      "rarity": "Secret Rare",
+      "cardNum": "104/95"
+    },
+    {
+      "name": "Blacephalon GX",
+      "set": "Explosive Impact",
+      "img": "https://den-cards.pokellector.com/258/Blacephalon-GX.SM8.105.23609.png",
+      "rarity": "Secret Rare",
+      "cardNum": "105/95"
+    },
+    {
+      "name": "Suicune GX",
+      "set": "Explosive Impact",
+      "img": "https://den-cards.pokellector.com/258/Suicune-GX.SM8.106.23610.png",
+      "rarity": "Secret Rare",
+      "cardNum": "106/95"
+    },
+    {
+      "name": "Tyranitar GX",
+      "set": "Explosive Impact",
+      "img": "https://den-cards.pokellector.com/258/Tyranitar-GX.SM8.107.23611.png",
+      "rarity": "Secret Rare",
+      "cardNum": "107/95"
+    },
+    {
+      "name": "Lugia GX",
+      "set": "Explosive Impact",
+      "img": "https://den-cards.pokellector.com/258/Lugia-GX.SM8.108.23612.png",
+      "rarity": "Secret Rare",
+      "cardNum": "108/95"
+    },
+    {
+      "name": "Stall Hammer",
+      "set": "Explosive Impact",
+      "img": "https://den-cards.pokellector.com/258/Stall-Hammer.SM8.109.23617.png",
+      "rarity": "Secret Rare",
+      "cardNum": "109/95"
+    },
+    {
+      "name": "Lost Mixer",
+      "set": "Explosive Impact",
+      "img": "https://den-cards.pokellector.com/258/Lost-Mixer.SM8.110.23613.png",
+      "rarity": "Secret Rare",
+      "cardNum": "110/95"
+    },
+    {
+      "name": "Choice Helmet",
+      "set": "Explosive Impact",
+      "img": "https://den-cards.pokellector.com/258/Choice-Helmet.SM8.111.23614.png",
+      "rarity": "Secret Rare",
+      "cardNum": "111/95"
+    }
+  ]
+}

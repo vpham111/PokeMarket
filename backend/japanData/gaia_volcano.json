@@ -1,0 +1,565 @@
+{
+  "setName": "Gaia Volcano",
+  "cards": [
+    {
+      "name": "Tangela",
+      "set": "Gaia Volcano",
+      "img": "https://den-cards.pokellector.com/165/Tangela.XY5.1.png",
+      "rarity": "Common",
+      "cardNum": "1/70"
+    },
+    {
+      "name": "Tangrowth",
+      "set": "Gaia Volcano",
+      "img": "https://den-cards.pokellector.com/165/Tangrowth.XY5.2.png",
+      "rarity": "Uncommon",
+      "cardNum": "2/70"
+    },
+    {
+      "name": "Treecko",
+      "set": "Gaia Volcano",
+      "img": "https://den-cards.pokellector.com/165/Treecko.XY5.3.png",
+      "rarity": "Common",
+      "cardNum": "3/70"
+    },
+    {
+      "name": "Grovyle",
+      "set": "Gaia Volcano",
+      "img": "https://den-cards.pokellector.com/165/Grovyle.XY5.4.png",
+      "rarity": "Common",
+      "cardNum": "4/70"
+    },
+    {
+      "name": "Sceptile",
+      "set": "Gaia Volcano",
+      "img": "https://den-cards.pokellector.com/165/Sceptile.XY5.5.png",
+      "rarity": "Uncommon",
+      "cardNum": "5/70"
+    },
+    {
+      "name": "Sceptile",
+      "set": "Gaia Volcano",
+      "img": "https://den-cards.pokellector.com/165/Sceptile.XY5.6.png",
+      "rarity": "Rare",
+      "cardNum": "6/70"
+    },
+    {
+      "name": "Shroomish",
+      "set": "Gaia Volcano",
+      "img": "https://den-cards.pokellector.com/165/Shroomish.XY5.7.png",
+      "rarity": "Common",
+      "cardNum": "7/70"
+    },
+    {
+      "name": "Breloom",
+      "set": "Gaia Volcano",
+      "img": "https://den-cards.pokellector.com/165/Breloom.XY5.8.png",
+      "rarity": "Uncommon",
+      "cardNum": "8/70"
+    },
+    {
+      "name": "Volbeat",
+      "set": "Gaia Volcano",
+      "img": "https://den-cards.pokellector.com/165/Volbeat.XY5.9.png",
+      "rarity": "Common",
+      "cardNum": "9/70"
+    },
+    {
+      "name": "Illumise",
+      "set": "Gaia Volcano",
+      "img": "https://den-cards.pokellector.com/165/Illumise.XY5.10.png",
+      "rarity": "Common",
+      "cardNum": "10/70"
+    },
+    {
+      "name": "Trevenant EX",
+      "set": "Gaia Volcano",
+      "img": "https://den-cards.pokellector.com/165/Trevenant-EX.XY5.11.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "11/70"
+    },
+    {
+      "name": "Vulpix",
+      "set": "Gaia Volcano",
+      "img": "https://den-cards.pokellector.com/165/Vulpix.XY5.12.png",
+      "rarity": "Common",
+      "cardNum": "12/70"
+    },
+    {
+      "name": "Ninetales",
+      "set": "Gaia Volcano",
+      "img": "https://den-cards.pokellector.com/165/Ninetales.XY5.13.png",
+      "rarity": "Uncommon",
+      "cardNum": "13/70"
+    },
+    {
+      "name": "Slugma",
+      "set": "Gaia Volcano",
+      "img": "https://den-cards.pokellector.com/165/Slugma.XY5.14.png",
+      "rarity": "Common",
+      "cardNum": "14/70"
+    },
+    {
+      "name": "Magcargo",
+      "set": "Gaia Volcano",
+      "img": "https://den-cards.pokellector.com/165/Magcargo.XY5.15.png",
+      "rarity": "Uncommon",
+      "cardNum": "15/70"
+    },
+    {
+      "name": "Magcargo",
+      "set": "Gaia Volcano",
+      "img": "https://den-cards.pokellector.com/165/Magcargo.XY5.16.png",
+      "rarity": "Uncommon",
+      "cardNum": "16/70"
+    },
+    {
+      "name": "Torchic",
+      "set": "Gaia Volcano",
+      "img": "https://den-cards.pokellector.com/165/Torchic.XY5.17.png",
+      "rarity": "Common",
+      "cardNum": "17/70"
+    },
+    {
+      "name": "Torchic",
+      "set": "Gaia Volcano",
+      "img": "https://den-cards.pokellector.com/165/Torchic.XY5.18.png",
+      "rarity": "Common",
+      "cardNum": "18/70"
+    },
+    {
+      "name": "Combusken",
+      "set": "Gaia Volcano",
+      "img": "https://den-cards.pokellector.com/165/Combusken.XY5.19.png",
+      "rarity": "Common",
+      "cardNum": "19/70"
+    },
+    {
+      "name": "Blaziken",
+      "set": "Gaia Volcano",
+      "img": "https://den-cards.pokellector.com/165/Blaziken.XY5.20.png",
+      "rarity": "Rare",
+      "cardNum": "20/70"
+    },
+    {
+      "name": "Camerupt EX",
+      "set": "Gaia Volcano",
+      "img": "https://den-cards.pokellector.com/165/Camerupt-EX.XY5.21.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "21/70"
+    },
+    {
+      "name": "Electrike",
+      "set": "Gaia Volcano",
+      "img": "https://den-cards.pokellector.com/165/Electrike.XY5.22.png",
+      "rarity": "Common",
+      "cardNum": "22/70"
+    },
+    {
+      "name": "Electrike",
+      "set": "Gaia Volcano",
+      "img": "https://den-cards.pokellector.com/165/Electrike.XY5.23.png",
+      "rarity": "Common",
+      "cardNum": "23/70"
+    },
+    {
+      "name": "Manectric",
+      "set": "Gaia Volcano",
+      "img": "https://den-cards.pokellector.com/165/Manectric.XY5.24.png",
+      "rarity": "Rare",
+      "cardNum": "24/70"
+    },
+    {
+      "name": "Nidoran (m)",
+      "set": "Gaia Volcano",
+      "img": "https://den-cards.pokellector.com/165/Nidoran-m.XY5.25.png",
+      "rarity": "Common",
+      "cardNum": "25/70"
+    },
+    {
+      "name": "Nidorina",
+      "set": "Gaia Volcano",
+      "img": "https://den-cards.pokellector.com/165/Nidorina.XY5.26.png",
+      "rarity": "Common",
+      "cardNum": "26/70"
+    },
+    {
+      "name": "Nidoqueen",
+      "set": "Gaia Volcano",
+      "img": "https://den-cards.pokellector.com/165/Nidoqueen.XY5.27.png",
+      "rarity": "Uncommon",
+      "cardNum": "27/70"
+    },
+    {
+      "name": "Nidoqueen",
+      "set": "Gaia Volcano",
+      "img": "https://den-cards.pokellector.com/165/Nidoqueen.XY5.28.png",
+      "rarity": "Uncommon",
+      "cardNum": "28/70"
+    },
+    {
+      "name": "Rhyhorn",
+      "set": "Gaia Volcano",
+      "img": "https://den-cards.pokellector.com/165/Rhyhorn.XY5.29.png",
+      "rarity": "Common",
+      "cardNum": "29/70"
+    },
+    {
+      "name": "Rhydon",
+      "set": "Gaia Volcano",
+      "img": "https://den-cards.pokellector.com/165/Rhydon.XY5.30.png",
+      "rarity": "Common",
+      "cardNum": "30/70"
+    },
+    {
+      "name": "Rhyperior",
+      "set": "Gaia Volcano",
+      "img": "https://den-cards.pokellector.com/165/Rhyperior.XY5.31.png",
+      "rarity": "Uncommon",
+      "cardNum": "31/70"
+    },
+    {
+      "name": "Rhyperior",
+      "set": "Gaia Volcano",
+      "img": "https://den-cards.pokellector.com/165/Rhyperior.XY5.32.png",
+      "rarity": "Rare",
+      "cardNum": "32/70"
+    },
+    {
+      "name": "Nosepass",
+      "set": "Gaia Volcano",
+      "img": "https://den-cards.pokellector.com/165/Nosepass.XY5.33.png",
+      "rarity": "Common",
+      "cardNum": "33/70"
+    },
+    {
+      "name": "Meditite",
+      "set": "Gaia Volcano",
+      "img": "https://den-cards.pokellector.com/165/Meditite.XY5.34.png",
+      "rarity": "Common",
+      "cardNum": "34/70"
+    },
+    {
+      "name": "Medicham",
+      "set": "Gaia Volcano",
+      "img": "https://den-cards.pokellector.com/165/Medicham.XY5.35.png",
+      "rarity": "Rare",
+      "cardNum": "35/70"
+    },
+    {
+      "name": "Medicham",
+      "set": "Gaia Volcano",
+      "img": "https://den-cards.pokellector.com/165/Medicham.XY5.36.png",
+      "rarity": "Uncommon",
+      "cardNum": "36/70"
+    },
+    {
+      "name": "Trapinch",
+      "set": "Gaia Volcano",
+      "img": "https://den-cards.pokellector.com/165/Trapinch.XY5.37.png",
+      "rarity": "Common",
+      "cardNum": "37/70"
+    },
+    {
+      "name": "Solrock",
+      "set": "Gaia Volcano",
+      "img": "https://den-cards.pokellector.com/165/Solrock.XY5.38.png",
+      "rarity": "Common",
+      "cardNum": "38/70"
+    },
+    {
+      "name": "Groudon EX",
+      "set": "Gaia Volcano",
+      "img": "https://den-cards.pokellector.com/165/Groudon-EX.XY5.39.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "39/70"
+    },
+    {
+      "name": "Primal Groudon EX",
+      "set": "Gaia Volcano",
+      "img": "https://den-cards.pokellector.com/165/Primal-Groudon-EX.XY5.40.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "40/70"
+    },
+    {
+      "name": "Hippopotas",
+      "set": "Gaia Volcano",
+      "img": "https://den-cards.pokellector.com/165/Hippopotas.XY5.41.png",
+      "rarity": "Common",
+      "cardNum": "41/70"
+    },
+    {
+      "name": "Hippowdon",
+      "set": "Gaia Volcano",
+      "img": "https://den-cards.pokellector.com/165/Hippowdon.XY5.42.png",
+      "rarity": "Rare",
+      "cardNum": "42/70"
+    },
+    {
+      "name": "Drilbur",
+      "set": "Gaia Volcano",
+      "img": "https://den-cards.pokellector.com/165/Drilbur.XY5.43.png",
+      "rarity": "Common",
+      "cardNum": "43/70"
+    },
+    {
+      "name": "Diggersby",
+      "set": "Gaia Volcano",
+      "img": "https://den-cards.pokellector.com/165/Diggersby.XY5.44.png",
+      "rarity": "Common",
+      "cardNum": "44/70"
+    },
+    {
+      "name": "Aggron EX",
+      "set": "Gaia Volcano",
+      "img": "https://den-cards.pokellector.com/165/Aggron-EX.XY5.45.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "45/70"
+    },
+    {
+      "name": "M Aggron EX",
+      "set": "Gaia Volcano",
+      "img": "https://den-cards.pokellector.com/165/M-Aggron-EX.XY5.46.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "46/70"
+    },
+    {
+      "name": "Probopass",
+      "set": "Gaia Volcano",
+      "img": "https://den-cards.pokellector.com/165/Probopass.XY5.47.png",
+      "rarity": "Uncommon",
+      "cardNum": "47/70"
+    },
+    {
+      "name": "Excadrill",
+      "set": "Gaia Volcano",
+      "img": "https://den-cards.pokellector.com/165/Excadrill.XY5.48.png",
+      "rarity": "Uncommon",
+      "cardNum": "48/70"
+    },
+    {
+      "name": "Excadrill",
+      "set": "Gaia Volcano",
+      "img": "https://den-cards.pokellector.com/165/Excadrill.XY5.49.png",
+      "rarity": "Rare",
+      "cardNum": "49/70"
+    },
+    {
+      "name": "Honedge",
+      "set": "Gaia Volcano",
+      "img": "https://den-cards.pokellector.com/165/Honedge.XY5.50.png",
+      "rarity": "Common",
+      "cardNum": "50/70"
+    },
+    {
+      "name": "Doublade",
+      "set": "Gaia Volcano",
+      "img": "https://den-cards.pokellector.com/165/Doublade.XY5.51.png",
+      "rarity": "Common",
+      "cardNum": "51/70"
+    },
+    {
+      "name": "Aegislash",
+      "set": "Gaia Volcano",
+      "img": "https://den-cards.pokellector.com/165/Aegislash.XY5.52.png",
+      "rarity": "Rare",
+      "cardNum": "52/70"
+    },
+    {
+      "name": "Vibrava",
+      "set": "Gaia Volcano",
+      "img": "https://den-cards.pokellector.com/165/Vibrava.XY5.53.png",
+      "rarity": "Common",
+      "cardNum": "53/70"
+    },
+    {
+      "name": "Flygon",
+      "set": "Gaia Volcano",
+      "img": "https://den-cards.pokellector.com/165/Flygon.XY5.54.png",
+      "rarity": "Rare",
+      "cardNum": "54/70"
+    },
+    {
+      "name": "Zigzagoon",
+      "set": "Gaia Volcano",
+      "img": "https://den-cards.pokellector.com/165/Zigzagoon.XY5.55.png",
+      "rarity": "Common",
+      "cardNum": "55/70"
+    },
+    {
+      "name": "Linoone",
+      "set": "Gaia Volcano",
+      "img": "https://den-cards.pokellector.com/165/Linoone.XY5.56.png",
+      "rarity": "Common",
+      "cardNum": "56/70"
+    },
+    {
+      "name": "Bouffalant",
+      "set": "Gaia Volcano",
+      "img": "https://den-cards.pokellector.com/165/Bouffalant.XY5.57.png",
+      "rarity": "Common",
+      "cardNum": "57/70"
+    },
+    {
+      "name": "Bunnelby",
+      "set": "Gaia Volcano",
+      "img": "https://den-cards.pokellector.com/165/Bunnelby.XY5.58.png",
+      "rarity": "Common",
+      "cardNum": "58/70"
+    },
+    {
+      "name": "Bunnelby",
+      "set": "Gaia Volcano",
+      "img": "https://den-cards.pokellector.com/165/Bunnelby.XY5.59.png",
+      "rarity": "Common",
+      "cardNum": "59/70"
+    },
+    {
+      "name": "Acro Bike",
+      "set": "Gaia Volcano",
+      "img": "https://den-cards.pokellector.com/165/Acro-Bike.XY5.60.png",
+      "rarity": "Uncommon",
+      "cardNum": "60/70"
+    },
+    {
+      "name": "Rare Candy",
+      "set": "Gaia Volcano",
+      "img": "https://den-cards.pokellector.com/165/Rare-Candy.XY5.61.png",
+      "rarity": "Uncommon",
+      "cardNum": "61/70"
+    },
+    {
+      "name": "Repeat Ball",
+      "set": "Gaia Volcano",
+      "img": "https://den-cards.pokellector.com/165/Repeat-Ball.XY5.62.png",
+      "rarity": "Uncommon",
+      "cardNum": "62/70"
+    },
+    {
+      "name": "Weakness Policy",
+      "set": "Gaia Volcano",
+      "img": "https://den-cards.pokellector.com/165/Weakness-Policy.XY5.63.png",
+      "rarity": "Uncommon",
+      "cardNum": "63/70"
+    },
+    {
+      "name": "Groudon Spirit Link",
+      "set": "Gaia Volcano",
+      "img": "https://den-cards.pokellector.com/165/Groudon-Spirit-Link.XY5.64.png",
+      "rarity": "Uncommon",
+      "cardNum": "64/70"
+    },
+    {
+      "name": "Aggron Spirit Link",
+      "set": "Gaia Volcano",
+      "img": "https://den-cards.pokellector.com/165/Aggron-Spirit-Link.XY5.65.png",
+      "rarity": "Uncommon",
+      "cardNum": "65/70"
+    },
+    {
+      "name": "Teammates",
+      "set": "Gaia Volcano",
+      "img": "https://den-cards.pokellector.com/165/Teammates.XY5.66.png",
+      "rarity": "Uncommon",
+      "cardNum": "66/70"
+    },
+    {
+      "name": "Maxie's Secret Weapon",
+      "set": "Gaia Volcano",
+      "img": "https://den-cards.pokellector.com/165/Maxies-Secret-Weapon.XY5.67.png",
+      "rarity": "Uncommon",
+      "cardNum": "67/70"
+    },
+    {
+      "name": "Memory Shrine",
+      "set": "Gaia Volcano",
+      "img": "https://den-cards.pokellector.com/165/Memory-Shrine.XY5.68.png",
+      "rarity": "Uncommon",
+      "cardNum": "68/70"
+    },
+    {
+      "name": "Torrid Earth",
+      "set": "Gaia Volcano",
+      "img": "https://den-cards.pokellector.com/165/Torrid-Earth.XY5.69.png",
+      "rarity": "Uncommon",
+      "cardNum": "69/70"
+    },
+    {
+      "name": "Shield Energy",
+      "set": "Gaia Volcano",
+      "img": "https://den-cards.pokellector.com/165/Shield-Energy.XY5.70.png",
+      "rarity": "Uncommon",
+      "cardNum": "70/70"
+    },
+    {
+      "name": "Trevenant EX",
+      "set": "Gaia Volcano",
+      "img": "https://den-cards.pokellector.com/165/Trevenant-EX.XY5.71.png",
+      "rarity": "Secret Rare",
+      "cardNum": "71/70"
+    },
+    {
+      "name": "Camerupt EX",
+      "set": "Gaia Volcano",
+      "img": "https://den-cards.pokellector.com/165/Camerupt-EX.XY5.72.png",
+      "rarity": "Secret Rare",
+      "cardNum": "72/70"
+    },
+    {
+      "name": "Groudon EX",
+      "set": "Gaia Volcano",
+      "img": "https://den-cards.pokellector.com/165/Groudon-EX.XY5.73.png",
+      "rarity": "Secret Rare",
+      "cardNum": "73/70"
+    },
+    {
+      "name": "Primal Groudon EX",
+      "set": "Gaia Volcano",
+      "img": "https://den-cards.pokellector.com/165/Primal-Groudon-EX.XY5.74.png",
+      "rarity": "Secret Rare",
+      "cardNum": "74/70"
+    },
+    {
+      "name": "Aggron EX",
+      "set": "Gaia Volcano",
+      "img": "https://den-cards.pokellector.com/165/Aggron-EX.XY5.75.png",
+      "rarity": "Secret Rare",
+      "cardNum": "75/70"
+    },
+    {
+      "name": "M Aggron EX",
+      "set": "Gaia Volcano",
+      "img": "https://den-cards.pokellector.com/165/M-Aggron-EX.XY5.76.png",
+      "rarity": "Secret Rare",
+      "cardNum": "76/70"
+    },
+    {
+      "name": "Teammates",
+      "set": "Gaia Volcano",
+      "img": "https://den-cards.pokellector.com/165/Teammates.XY5.77.png",
+      "rarity": "Secret Rare",
+      "cardNum": "77/70"
+    },
+    {
+      "name": "Maxie's Secret Weapon",
+      "set": "Gaia Volcano",
+      "img": "https://den-cards.pokellector.com/165/Maxies-Secret-Weapon.XY5.78.png",
+      "rarity": "Secret Rare",
+      "cardNum": "78/70"
+    },
+    {
+      "name": "Weakness Policy",
+      "set": "Gaia Volcano",
+      "img": "https://den-cards.pokellector.com/165/Weakness-Policy.XY5.79.png",
+      "rarity": "Common",
+      "cardNum": "79/70"
+    },
+    {
+      "name": "Switch",
+      "set": "Gaia Volcano",
+      "img": "https://den-cards.pokellector.com/165/Switch.XY5.80.png",
+      "rarity": "Common",
+      "cardNum": "80/70"
+    }
+  ]
+}

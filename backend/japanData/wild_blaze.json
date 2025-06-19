@@ -1,0 +1,635 @@
+{
+  "setName": "Wild Blaze",
+  "cards": [
+    {
+      "name": "Caterpie",
+      "set": "Wild Blaze",
+      "img": "https://den-cards.pokellector.com/152/Caterpie.XY2.1.png",
+      "rarity": "Common",
+      "cardNum": "1/80"
+    },
+    {
+      "name": "Metapod",
+      "set": "Wild Blaze",
+      "img": "https://den-cards.pokellector.com/152/Metapod.XY2.2.png",
+      "rarity": "Common",
+      "cardNum": "2/80"
+    },
+    {
+      "name": "Butterfree",
+      "set": "Wild Blaze",
+      "img": "https://den-cards.pokellector.com/152/Butterfree.XY2.3.png",
+      "rarity": "Uncommon",
+      "cardNum": "3/80"
+    },
+    {
+      "name": "Pineco",
+      "set": "Wild Blaze",
+      "img": "https://den-cards.pokellector.com/152/Pineco.XY2.4.png",
+      "rarity": "Common",
+      "cardNum": "4/80"
+    },
+    {
+      "name": "Seedot",
+      "set": "Wild Blaze",
+      "img": "https://den-cards.pokellector.com/152/Seedot.XY2.5.png",
+      "rarity": "Common",
+      "cardNum": "5/80"
+    },
+    {
+      "name": "Nuzleaf",
+      "set": "Wild Blaze",
+      "img": "https://den-cards.pokellector.com/152/Nuzleaf.XY2.6.png",
+      "rarity": "Common",
+      "cardNum": "6/80"
+    },
+    {
+      "name": "Shiftry",
+      "set": "Wild Blaze",
+      "img": "https://den-cards.pokellector.com/152/Shiftry.XY2.7.png",
+      "rarity": "Rare",
+      "cardNum": "7/80"
+    },
+    {
+      "name": "Roselia",
+      "set": "Wild Blaze",
+      "img": "https://den-cards.pokellector.com/152/Roselia.XY2.8.png",
+      "rarity": "Common",
+      "cardNum": "8/80"
+    },
+    {
+      "name": "Roserade",
+      "set": "Wild Blaze",
+      "img": "https://den-cards.pokellector.com/152/Roserade.XY2.9.png",
+      "rarity": "Uncommon",
+      "cardNum": "9/80"
+    },
+    {
+      "name": "Maractus",
+      "set": "Wild Blaze",
+      "img": "https://den-cards.pokellector.com/152/Maractus.XY2.10.png",
+      "rarity": "Common",
+      "cardNum": "10/80"
+    },
+    {
+      "name": "Charizard EX",
+      "set": "Wild Blaze",
+      "img": "https://den-cards.pokellector.com/152/Charizard-EX.XY2.11.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "11/80"
+    },
+    {
+      "name": "Ponyta",
+      "set": "Wild Blaze",
+      "img": "https://den-cards.pokellector.com/152/Ponyta.XY2.12.png",
+      "rarity": "Common",
+      "cardNum": "12/80"
+    },
+    {
+      "name": "Rapidash",
+      "set": "Wild Blaze",
+      "img": "https://den-cards.pokellector.com/152/Rapidash.XY2.13.png",
+      "rarity": "Uncommon",
+      "cardNum": "13/80"
+    },
+    {
+      "name": "Litleo",
+      "set": "Wild Blaze",
+      "img": "https://den-cards.pokellector.com/152/Litleo.XY2.14.png",
+      "rarity": "Common",
+      "cardNum": "14/80"
+    },
+    {
+      "name": "Pyroar",
+      "set": "Wild Blaze",
+      "img": "https://den-cards.pokellector.com/152/Pyroar.XY2.15.png",
+      "rarity": "Rare",
+      "cardNum": "15/80"
+    },
+    {
+      "name": "Qwilfish",
+      "set": "Wild Blaze",
+      "img": "https://den-cards.pokellector.com/152/Qwilfish.XY2.16.png",
+      "rarity": "Common",
+      "cardNum": "16/80"
+    },
+    {
+      "name": "Feebas",
+      "set": "Wild Blaze",
+      "img": "https://den-cards.pokellector.com/152/Feebas.XY2.17.png",
+      "rarity": "Common",
+      "cardNum": "17/80"
+    },
+    {
+      "name": "Milotic",
+      "set": "Wild Blaze",
+      "img": "https://den-cards.pokellector.com/152/Milotic.XY2.18.png",
+      "rarity": "Rare",
+      "cardNum": "18/80"
+    },
+    {
+      "name": "Spheal",
+      "set": "Wild Blaze",
+      "img": "https://den-cards.pokellector.com/152/Spheal.XY2.19.png",
+      "rarity": "Common",
+      "cardNum": "19/80"
+    },
+    {
+      "name": "Sealeo",
+      "set": "Wild Blaze",
+      "img": "https://den-cards.pokellector.com/152/Sealeo.XY2.20.png",
+      "rarity": "Common",
+      "cardNum": "20/80"
+    },
+    {
+      "name": "Walrein",
+      "set": "Wild Blaze",
+      "img": "https://den-cards.pokellector.com/152/Walrein.XY2.21.png",
+      "rarity": "Uncommon",
+      "cardNum": "21/80"
+    },
+    {
+      "name": "Luvdisc",
+      "set": "Wild Blaze",
+      "img": "https://den-cards.pokellector.com/152/Luvdisc.XY2.22.png",
+      "rarity": "Common",
+      "cardNum": "22/80"
+    },
+    {
+      "name": "Buizel",
+      "set": "Wild Blaze",
+      "img": "https://den-cards.pokellector.com/152/Buizel.XY2.23.png",
+      "rarity": "Common",
+      "cardNum": "23/80"
+    },
+    {
+      "name": "Floatzel",
+      "set": "Wild Blaze",
+      "img": "https://den-cards.pokellector.com/152/Floatzel.XY2.24.png",
+      "rarity": "Uncommon",
+      "cardNum": "24/80"
+    },
+    {
+      "name": "Bergmite",
+      "set": "Wild Blaze",
+      "img": "https://den-cards.pokellector.com/152/Bergmite.XY2.25.png",
+      "rarity": "Common",
+      "cardNum": "25/80"
+    },
+    {
+      "name": "Avalugg",
+      "set": "Wild Blaze",
+      "img": "https://den-cards.pokellector.com/152/Avalugg.XY2.26.png",
+      "rarity": "Uncommon",
+      "cardNum": "26/80"
+    },
+    {
+      "name": "Shinx",
+      "set": "Wild Blaze",
+      "img": "https://den-cards.pokellector.com/152/Shinx.XY2.27.png",
+      "rarity": "Common",
+      "cardNum": "27/80"
+    },
+    {
+      "name": "Luxio",
+      "set": "Wild Blaze",
+      "img": "https://den-cards.pokellector.com/152/Luxio.XY2.28.png",
+      "rarity": "Common",
+      "cardNum": "28/80"
+    },
+    {
+      "name": "Luxray",
+      "set": "Wild Blaze",
+      "img": "https://den-cards.pokellector.com/152/Luxray.XY2.29.png",
+      "rarity": "Uncommon",
+      "cardNum": "29/80"
+    },
+    {
+      "name": "Magnezone EX",
+      "set": "Wild Blaze",
+      "img": "https://den-cards.pokellector.com/152/Magnezone-EX.XY2.30.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "30/80"
+    },
+    {
+      "name": "Helioptile",
+      "set": "Wild Blaze",
+      "img": "https://den-cards.pokellector.com/152/Helioptile.XY2.31.png",
+      "rarity": "Common",
+      "cardNum": "31/80"
+    },
+    {
+      "name": "Heliolisk",
+      "set": "Wild Blaze",
+      "img": "https://den-cards.pokellector.com/152/Heliolisk.XY2.32.png",
+      "rarity": "Rare",
+      "cardNum": "32/80"
+    },
+    {
+      "name": "Duskull",
+      "set": "Wild Blaze",
+      "img": "https://den-cards.pokellector.com/152/Duskull.XY2.33.png",
+      "rarity": "Common",
+      "cardNum": "33/80"
+    },
+    {
+      "name": "Dusclops",
+      "set": "Wild Blaze",
+      "img": "https://den-cards.pokellector.com/152/Dusclops.XY2.34.png",
+      "rarity": "Common",
+      "cardNum": "34/80"
+    },
+    {
+      "name": "Dusknoir",
+      "set": "Wild Blaze",
+      "img": "https://den-cards.pokellector.com/152/Dusknoir.XY2.35.png",
+      "rarity": "Rare",
+      "cardNum": "35/80"
+    },
+    {
+      "name": "Toxicroak EX",
+      "set": "Wild Blaze",
+      "img": "https://den-cards.pokellector.com/152/Toxicroak-EX.XY2.36.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "36/80"
+    },
+    {
+      "name": "Espurr",
+      "set": "Wild Blaze",
+      "img": "https://den-cards.pokellector.com/152/Espurr.XY2.37.png",
+      "rarity": "Common",
+      "cardNum": "37/80"
+    },
+    {
+      "name": "Meowstic",
+      "set": "Wild Blaze",
+      "img": "https://den-cards.pokellector.com/152/Meowstic.XY2.38.png",
+      "rarity": "Rare",
+      "cardNum": "38/80"
+    },
+    {
+      "name": "Skrelp",
+      "set": "Wild Blaze",
+      "img": "https://den-cards.pokellector.com/152/Skrelp.XY2.39.png",
+      "rarity": "Common",
+      "cardNum": "39/80"
+    },
+    {
+      "name": "Geodude",
+      "set": "Wild Blaze",
+      "img": "https://den-cards.pokellector.com/152/Geodude.XY2.40.png",
+      "rarity": "Common",
+      "cardNum": "40/80"
+    },
+    {
+      "name": "Graveler",
+      "set": "Wild Blaze",
+      "img": "https://den-cards.pokellector.com/152/Graveler.XY2.41.png",
+      "rarity": "Common",
+      "cardNum": "41/80"
+    },
+    {
+      "name": "Golem",
+      "set": "Wild Blaze",
+      "img": "https://den-cards.pokellector.com/152/Golem.XY2.42.png",
+      "rarity": "Uncommon",
+      "cardNum": "42/80"
+    },
+    {
+      "name": "Binacle",
+      "set": "Wild Blaze",
+      "img": "https://den-cards.pokellector.com/152/Binacle.XY2.43.png",
+      "rarity": "Common",
+      "cardNum": "43/80"
+    },
+    {
+      "name": "Barbaracle",
+      "set": "Wild Blaze",
+      "img": "https://den-cards.pokellector.com/152/Barbaracle.XY2.44.png",
+      "rarity": "Uncommon",
+      "cardNum": "44/80"
+    },
+    {
+      "name": "Sneasel",
+      "set": "Wild Blaze",
+      "img": "https://den-cards.pokellector.com/152/Sneasel.XY2.45.png",
+      "rarity": "Common",
+      "cardNum": "45/80"
+    },
+    {
+      "name": "Weavile",
+      "set": "Wild Blaze",
+      "img": "https://den-cards.pokellector.com/152/Weavile.XY2.46.png",
+      "rarity": "Uncommon",
+      "cardNum": "46/80"
+    },
+    {
+      "name": "Stunky",
+      "set": "Wild Blaze",
+      "img": "https://den-cards.pokellector.com/152/Stunky.XY2.47.png",
+      "rarity": "Common",
+      "cardNum": "47/80"
+    },
+    {
+      "name": "Skuntank",
+      "set": "Wild Blaze",
+      "img": "https://den-cards.pokellector.com/152/Skuntank.XY2.48.png",
+      "rarity": "Uncommon",
+      "cardNum": "48/80"
+    },
+    {
+      "name": "Forretress",
+      "set": "Wild Blaze",
+      "img": "https://den-cards.pokellector.com/152/Forretress.XY2.49.png",
+      "rarity": "Uncommon",
+      "cardNum": "49/80"
+    },
+    {
+      "name": "Durant",
+      "set": "Wild Blaze",
+      "img": "https://den-cards.pokellector.com/152/Durant.XY2.50.png",
+      "rarity": "Common",
+      "cardNum": "50/80"
+    },
+    {
+      "name": "Flabebe",
+      "set": "Wild Blaze",
+      "img": "https://den-cards.pokellector.com/152/Flabebe.XY2.51.png",
+      "rarity": "Common",
+      "cardNum": "51/80"
+    },
+    {
+      "name": "Floette",
+      "set": "Wild Blaze",
+      "img": "https://den-cards.pokellector.com/152/Floette.XY2.52.png",
+      "rarity": "Common",
+      "cardNum": "52/80"
+    },
+    {
+      "name": "Florges",
+      "set": "Wild Blaze",
+      "img": "https://den-cards.pokellector.com/152/Florges.XY2.53.png",
+      "rarity": "Rare",
+      "cardNum": "53/80"
+    },
+    {
+      "name": "Carbink",
+      "set": "Wild Blaze",
+      "img": "https://den-cards.pokellector.com/152/Carbink.XY2.54.png",
+      "rarity": "Rare",
+      "cardNum": "54/80"
+    },
+    {
+      "name": "M Charizard EX",
+      "set": "Wild Blaze",
+      "img": "https://den-cards.pokellector.com/152/M-Charizard-EX.XY2.55.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "55/80"
+    },
+    {
+      "name": "Druddigon",
+      "set": "Wild Blaze",
+      "img": "https://den-cards.pokellector.com/152/Druddigon.XY2.56.png",
+      "rarity": "Rare",
+      "cardNum": "56/80"
+    },
+    {
+      "name": "Dragalge",
+      "set": "Wild Blaze",
+      "img": "https://den-cards.pokellector.com/152/Dragalge.XY2.57.png",
+      "rarity": "Uncommon",
+      "cardNum": "57/80"
+    },
+    {
+      "name": "Goomy",
+      "set": "Wild Blaze",
+      "img": "https://den-cards.pokellector.com/152/Goomy.XY2.58.png",
+      "rarity": "Common",
+      "cardNum": "58/80"
+    },
+    {
+      "name": "Sliggoo",
+      "set": "Wild Blaze",
+      "img": "https://den-cards.pokellector.com/152/Sliggoo.XY2.59.png",
+      "rarity": "Common",
+      "cardNum": "59/80"
+    },
+    {
+      "name": "Goodra",
+      "set": "Wild Blaze",
+      "img": "https://den-cards.pokellector.com/152/Goodra.XY2.60.png",
+      "rarity": "Rare",
+      "cardNum": "60/80"
+    },
+    {
+      "name": "Pidgey",
+      "set": "Wild Blaze",
+      "img": "https://den-cards.pokellector.com/152/Pidgey.XY2.61.png",
+      "rarity": "Common",
+      "cardNum": "61/80"
+    },
+    {
+      "name": "Pidgeotto",
+      "set": "Wild Blaze",
+      "img": "https://den-cards.pokellector.com/152/Pidgeotto.XY2.62.png",
+      "rarity": "Common",
+      "cardNum": "62/80"
+    },
+    {
+      "name": "Pidgeot",
+      "set": "Wild Blaze",
+      "img": "https://den-cards.pokellector.com/152/Pidgeot.XY2.63.png",
+      "rarity": "Uncommon",
+      "cardNum": "63/80"
+    },
+    {
+      "name": "Kangaskhan EX",
+      "set": "Wild Blaze",
+      "img": "https://den-cards.pokellector.com/152/Kangaskhan-EX.XY2.64.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "64/80"
+    },
+    {
+      "name": "M Kangaskhan EX",
+      "set": "Wild Blaze",
+      "img": "https://den-cards.pokellector.com/152/M-Kangaskhan-EX.XY2.65.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "65/80"
+    },
+    {
+      "name": "Snorlax",
+      "set": "Wild Blaze",
+      "img": "https://den-cards.pokellector.com/152/Snorlax.XY2.66.png",
+      "rarity": "Uncommon",
+      "cardNum": "66/80"
+    },
+    {
+      "name": "Sentret",
+      "set": "Wild Blaze",
+      "img": "https://den-cards.pokellector.com/152/Sentret.XY2.67.png",
+      "rarity": "Common",
+      "cardNum": "67/80"
+    },
+    {
+      "name": "Furret",
+      "set": "Wild Blaze",
+      "img": "https://den-cards.pokellector.com/152/Furret.XY2.68.png",
+      "rarity": "Common",
+      "cardNum": "68/80"
+    },
+    {
+      "name": "Miltank",
+      "set": "Wild Blaze",
+      "img": "https://den-cards.pokellector.com/152/Miltank.XY2.69.png",
+      "rarity": "Uncommon",
+      "cardNum": "69/80"
+    },
+    {
+      "name": "Buneary",
+      "set": "Wild Blaze",
+      "img": "https://den-cards.pokellector.com/152/Buneary.XY2.70.png",
+      "rarity": "Common",
+      "cardNum": "70/80"
+    },
+    {
+      "name": "Lopunny",
+      "set": "Wild Blaze",
+      "img": "https://den-cards.pokellector.com/152/Lopunny.XY2.71.png",
+      "rarity": "Uncommon",
+      "cardNum": "71/80"
+    },
+    {
+      "name": "Prank Scoop",
+      "set": "Wild Blaze",
+      "img": "https://den-cards.pokellector.com/152/Prank-Scoop.XY2.72.png",
+      "rarity": "Uncommon",
+      "cardNum": "72/80"
+    },
+    {
+      "name": "Sacred Ash",
+      "set": "Wild Blaze",
+      "img": "https://den-cards.pokellector.com/152/Sacred-Ash.XY2.73.png",
+      "rarity": "Uncommon",
+      "cardNum": "73/80"
+    },
+    {
+      "name": "Surprise Megaphone",
+      "set": "Wild Blaze",
+      "img": "https://den-cards.pokellector.com/152/Surprise-Megaphone.XY2.74.png",
+      "rarity": "Uncommon",
+      "cardNum": "74/80"
+    },
+    {
+      "name": "Flame Torch",
+      "set": "Wild Blaze",
+      "img": "https://den-cards.pokellector.com/152/Flame-Torch.XY2.75.png",
+      "rarity": "Uncommon",
+      "cardNum": "75/80"
+    },
+    {
+      "name": "Protect Cube",
+      "set": "Wild Blaze",
+      "img": "https://den-cards.pokellector.com/152/Protect-Cube.XY2.76.png",
+      "rarity": "Uncommon",
+      "cardNum": "76/80"
+    },
+    {
+      "name": "Lysandre",
+      "set": "Wild Blaze",
+      "img": "https://den-cards.pokellector.com/152/Lysandre.XY2.77.png",
+      "rarity": "Uncommon",
+      "cardNum": "77/80"
+    },
+    {
+      "name": "Pokemon Center Lady",
+      "set": "Wild Blaze",
+      "img": "https://den-cards.pokellector.com/152/Pokemon-Center-Lady.XY2.78.png",
+      "rarity": "Uncommon",
+      "cardNum": "78/80"
+    },
+    {
+      "name": "Pokemon Fan Club",
+      "set": "Wild Blaze",
+      "img": "https://den-cards.pokellector.com/152/Pokemon-Fan-Club.XY2.79.png",
+      "rarity": "Uncommon",
+      "cardNum": "79/80"
+    },
+    {
+      "name": "Magnetic Storm",
+      "set": "Wild Blaze",
+      "img": "https://den-cards.pokellector.com/152/Magnetic-Storm.XY2.80.png",
+      "rarity": "Uncommon",
+      "cardNum": "80/80"
+    },
+    {
+      "name": "Charizard EX",
+      "set": "Wild Blaze",
+      "img": "https://den-cards.pokellector.com/152/Charizard-EX.XY2.81.png",
+      "rarity": "Secret Rare",
+      "cardNum": "81/80"
+    },
+    {
+      "name": "Magnezone EX",
+      "set": "Wild Blaze",
+      "img": "https://den-cards.pokellector.com/152/Magnezone-EX.XY2.82.png",
+      "rarity": "Secret Rare",
+      "cardNum": "82/80"
+    },
+    {
+      "name": "Toxicroak EX",
+      "set": "Wild Blaze",
+      "img": "https://den-cards.pokellector.com/152/Toxicroak-EX.XY2.83.png",
+      "rarity": "Secret Rare",
+      "cardNum": "83/80"
+    },
+    {
+      "name": "Kangaskhan EX",
+      "set": "Wild Blaze",
+      "img": "https://den-cards.pokellector.com/152/Kangaskhan-EX.XY2.84.png",
+      "rarity": "Secret Rare",
+      "cardNum": "84/80"
+    },
+    {
+      "name": "Lysandre",
+      "set": "Wild Blaze",
+      "img": "https://den-cards.pokellector.com/152/Lysandre.XY2.85.png",
+      "rarity": "Secret Rare",
+      "cardNum": "85/80"
+    },
+    {
+      "name": "Pokemon Center Lady",
+      "set": "Wild Blaze",
+      "img": "https://den-cards.pokellector.com/152/Pokemon-Center-Lady.XY2.86.png",
+      "rarity": "Secret Rare",
+      "cardNum": "86/80"
+    },
+    {
+      "name": "Pokemon Fan Club",
+      "set": "Wild Blaze",
+      "img": "https://den-cards.pokellector.com/152/Pokemon-Fan-Club.XY2.87.png",
+      "rarity": "Secret Rare",
+      "cardNum": "87/80"
+    },
+    {
+      "name": "M Charizard EX",
+      "set": "Wild Blaze",
+      "img": "https://den-cards.pokellector.com/152/M-Charizard-EX.XY2.88.png",
+      "rarity": "Secret Rare",
+      "cardNum": "88/80"
+    },
+    {
+      "name": "M Charizard EX",
+      "set": "Wild Blaze",
+      "img": "https://den-cards.pokellector.com/152/M-Charizard-EX.XY2.89.png",
+      "rarity": "Secret Rare",
+      "cardNum": "89/80"
+    },
+    {
+      "name": "M Kangaskhan EX",
+      "set": "Wild Blaze",
+      "img": "https://den-cards.pokellector.com/152/M-Kangaskhan-EX.XY2.90.png",
+      "rarity": "Secret Rare",
+      "cardNum": "90/80"
+    }
+  ]
+}

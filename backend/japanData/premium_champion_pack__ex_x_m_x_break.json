@@ -1,0 +1,943 @@
+{
+  "setName": "Premium Champion Pack: EX x M x BREAK",
+  "cards": [
+    {
+      "name": "Beedrill EX",
+      "set": "Premium Champion Pack: EX x M x ...",
+      "img": "https://den-cards.pokellector.com/185/Beedrill-EX.CP4.1.png",
+      "rarity": "Common",
+      "cardNum": "1/131"
+    },
+    {
+      "name": "M Beedrill EX",
+      "set": "Premium Champion Pack: EX x M x ...",
+      "img": "https://den-cards.pokellector.com/185/M-Beedrill-EX.CP4.2.png",
+      "rarity": "Common",
+      "cardNum": "2/131"
+    },
+    {
+      "name": "Pinsir",
+      "set": "Premium Champion Pack: EX x M x ...",
+      "img": "https://den-cards.pokellector.com/185/Pinsir.CP4.3.png",
+      "rarity": "Common",
+      "cardNum": "3/131"
+    },
+    {
+      "name": "Spinarak",
+      "set": "Premium Champion Pack: EX x M x ...",
+      "img": "https://den-cards.pokellector.com/185/Spinarak.CP4.4.png",
+      "rarity": "Common",
+      "cardNum": "4/131"
+    },
+    {
+      "name": "Ariados",
+      "set": "Premium Champion Pack: EX x M x ...",
+      "img": "https://den-cards.pokellector.com/185/Ariados.CP4.5.png",
+      "rarity": "Common",
+      "cardNum": "5/131"
+    },
+    {
+      "name": "Sceptile EX",
+      "set": "Premium Champion Pack: EX x M x ...",
+      "img": "https://den-cards.pokellector.com/185/Sceptile-EX.CP4.6.png",
+      "rarity": "Common",
+      "cardNum": "6/131"
+    },
+    {
+      "name": "M Sceptile EX",
+      "set": "Premium Champion Pack: EX x M x ...",
+      "img": "https://den-cards.pokellector.com/185/M-Sceptile-EX.CP4.7.png",
+      "rarity": "Common",
+      "cardNum": "7/131"
+    },
+    {
+      "name": "Nincada",
+      "set": "Premium Champion Pack: EX x M x ...",
+      "img": "https://den-cards.pokellector.com/185/Nincada.CP4.8.png",
+      "rarity": "Common",
+      "cardNum": "8/131"
+    },
+    {
+      "name": "Shedinja",
+      "set": "Premium Champion Pack: EX x M x ...",
+      "img": "https://den-cards.pokellector.com/185/Shedinja.CP4.9.png",
+      "rarity": "Common",
+      "cardNum": "9/131"
+    },
+    {
+      "name": "Combee",
+      "set": "Premium Champion Pack: EX x M x ...",
+      "img": "https://den-cards.pokellector.com/185/Combee.CP4.10.png",
+      "rarity": "Common",
+      "cardNum": "10/131"
+    },
+    {
+      "name": "Vespiquen",
+      "set": "Premium Champion Pack: EX x M x ...",
+      "img": "https://den-cards.pokellector.com/185/Vespiquen.CP4.11.png",
+      "rarity": "Common",
+      "cardNum": "11/131"
+    },
+    {
+      "name": "Chespin",
+      "set": "Premium Champion Pack: EX x M x ...",
+      "img": "https://den-cards.pokellector.com/185/Chespin.CP4.12.png",
+      "rarity": "Common",
+      "cardNum": "12/131"
+    },
+    {
+      "name": "Quilladin",
+      "set": "Premium Champion Pack: EX x M x ...",
+      "img": "https://den-cards.pokellector.com/185/Quilladin.CP4.13.png",
+      "rarity": "Common",
+      "cardNum": "13/131"
+    },
+    {
+      "name": "Chesnaught",
+      "set": "Premium Champion Pack: EX x M x ...",
+      "img": "https://den-cards.pokellector.com/185/Chesnaught.CP4.14.png",
+      "rarity": "Common",
+      "cardNum": "14/131"
+    },
+    {
+      "name": "Chesnaught BREAK",
+      "set": "Premium Champion Pack: EX x M x ...",
+      "img": "https://den-cards.pokellector.com/185/Chesnaught-BREAK.CP4.15.png",
+      "rarity": "Common",
+      "cardNum": "15/131"
+    },
+    {
+      "name": "Entei",
+      "set": "Premium Champion Pack: EX x M x ...",
+      "img": "https://den-cards.pokellector.com/185/Entei.CP4.16.png",
+      "rarity": "Common",
+      "cardNum": "16/131"
+    },
+    {
+      "name": "Fennekin",
+      "set": "Premium Champion Pack: EX x M x ...",
+      "img": "https://den-cards.pokellector.com/185/Fennekin.CP4.17.png",
+      "rarity": "Common",
+      "cardNum": "17/131"
+    },
+    {
+      "name": "Braixen",
+      "set": "Premium Champion Pack: EX x M x ...",
+      "img": "https://den-cards.pokellector.com/185/Braixen.CP4.18.png",
+      "rarity": "Common",
+      "cardNum": "18/131"
+    },
+    {
+      "name": "Delphox",
+      "set": "Premium Champion Pack: EX x M x ...",
+      "img": "https://den-cards.pokellector.com/185/Delphox.CP4.19.png",
+      "rarity": "Common",
+      "cardNum": "19/131"
+    },
+    {
+      "name": "Litleo",
+      "set": "Premium Champion Pack: EX x M x ...",
+      "img": "https://den-cards.pokellector.com/185/Litleo.CP4.20.png",
+      "rarity": "Common",
+      "cardNum": "20/131"
+    },
+    {
+      "name": "Pyroar",
+      "set": "Premium Champion Pack: EX x M x ...",
+      "img": "https://den-cards.pokellector.com/185/Pyroar.CP4.21.png",
+      "rarity": "Common",
+      "cardNum": "21/131"
+    },
+    {
+      "name": "Pyroar",
+      "set": "Premium Champion Pack: EX x M x ...",
+      "img": "https://den-cards.pokellector.com/185/Pyroar.CP4.22.png",
+      "rarity": "Common",
+      "cardNum": "22/131"
+    },
+    {
+      "name": "Articuno",
+      "set": "Premium Champion Pack: EX x M x ...",
+      "img": "https://den-cards.pokellector.com/185/Articuno.CP4.23.png",
+      "rarity": "Common",
+      "cardNum": "23/131"
+    },
+    {
+      "name": "Remoraid",
+      "set": "Premium Champion Pack: EX x M x ...",
+      "img": "https://den-cards.pokellector.com/185/Remoraid.CP4.24.png",
+      "rarity": "Common",
+      "cardNum": "24/131"
+    },
+    {
+      "name": "Octillery",
+      "set": "Premium Champion Pack: EX x M x ...",
+      "img": "https://den-cards.pokellector.com/185/Octillery.CP4.25.png",
+      "rarity": "Common",
+      "cardNum": "25/131"
+    },
+    {
+      "name": "Mudkip",
+      "set": "Premium Champion Pack: EX x M x ...",
+      "img": "https://den-cards.pokellector.com/185/Mudkip.CP4.26.png",
+      "rarity": "Common",
+      "cardNum": "26/131"
+    },
+    {
+      "name": "Marshtomp",
+      "set": "Premium Champion Pack: EX x M x ...",
+      "img": "https://den-cards.pokellector.com/185/Marshtomp.CP4.27.png",
+      "rarity": "Common",
+      "cardNum": "27/131"
+    },
+    {
+      "name": "Swampert",
+      "set": "Premium Champion Pack: EX x M x ...",
+      "img": "https://den-cards.pokellector.com/185/Swampert.CP4.28.png",
+      "rarity": "Common",
+      "cardNum": "28/131"
+    },
+    {
+      "name": "Regice",
+      "set": "Premium Champion Pack: EX x M x ...",
+      "img": "https://den-cards.pokellector.com/185/Regice.CP4.29.png",
+      "rarity": "Common",
+      "cardNum": "29/131"
+    },
+    {
+      "name": "Seismitoad EX",
+      "set": "Premium Champion Pack: EX x M x ...",
+      "img": "https://den-cards.pokellector.com/185/Seismitoad-EX.CP4.30.png",
+      "rarity": "Common",
+      "cardNum": "30/131"
+    },
+    {
+      "name": "Cubchoo",
+      "set": "Premium Champion Pack: EX x M x ...",
+      "img": "https://den-cards.pokellector.com/185/Cubchoo.CP4.31.png",
+      "rarity": "Common",
+      "cardNum": "31/131"
+    },
+    {
+      "name": "Beartic",
+      "set": "Premium Champion Pack: EX x M x ...",
+      "img": "https://den-cards.pokellector.com/185/Beartic.CP4.32.png",
+      "rarity": "Common",
+      "cardNum": "32/131"
+    },
+    {
+      "name": "Froakie",
+      "set": "Premium Champion Pack: EX x M x ...",
+      "img": "https://den-cards.pokellector.com/185/Froakie.CP4.33.png",
+      "rarity": "Common",
+      "cardNum": "33/131"
+    },
+    {
+      "name": "Frogadier",
+      "set": "Premium Champion Pack: EX x M x ...",
+      "img": "https://den-cards.pokellector.com/185/Frogadier.CP4.34.png",
+      "rarity": "Common",
+      "cardNum": "34/131"
+    },
+    {
+      "name": "Greninja",
+      "set": "Premium Champion Pack: EX x M x ...",
+      "img": "https://den-cards.pokellector.com/185/Greninja.CP4.35.png",
+      "rarity": "Common",
+      "cardNum": "35/131"
+    },
+    {
+      "name": "Pikachu",
+      "set": "Premium Champion Pack: EX x M x ...",
+      "img": "https://den-cards.pokellector.com/185/Pikachu.CP4.36.png",
+      "rarity": "Common",
+      "cardNum": "36/131"
+    },
+    {
+      "name": "Raichu",
+      "set": "Premium Champion Pack: EX x M x ...",
+      "img": "https://den-cards.pokellector.com/185/Raichu.CP4.37.png",
+      "rarity": "Common",
+      "cardNum": "37/131"
+    },
+    {
+      "name": "Magnemite",
+      "set": "Premium Champion Pack: EX x M x ...",
+      "img": "https://den-cards.pokellector.com/185/Magnemite.CP4.38.png",
+      "rarity": "Common",
+      "cardNum": "38/131"
+    },
+    {
+      "name": "Magneton",
+      "set": "Premium Champion Pack: EX x M x ...",
+      "img": "https://den-cards.pokellector.com/185/Magneton.CP4.39.png",
+      "rarity": "Common",
+      "cardNum": "39/131"
+    },
+    {
+      "name": "Magnezone",
+      "set": "Premium Champion Pack: EX x M x ...",
+      "img": "https://den-cards.pokellector.com/185/Magnezone.CP4.40.png",
+      "rarity": "Common",
+      "cardNum": "40/131"
+    },
+    {
+      "name": "Zapdos",
+      "set": "Premium Champion Pack: EX x M x ...",
+      "img": "https://den-cards.pokellector.com/185/Zapdos.CP4.41.png",
+      "rarity": "Common",
+      "cardNum": "41/131"
+    },
+    {
+      "name": "Manectric EX",
+      "set": "Premium Champion Pack: EX x M x ...",
+      "img": "https://den-cards.pokellector.com/185/Manectric-EX.CP4.42.png",
+      "rarity": "Common",
+      "cardNum": "42/131"
+    },
+    {
+      "name": "M Manectric EX",
+      "set": "Premium Champion Pack: EX x M x ...",
+      "img": "https://den-cards.pokellector.com/185/M-Manectric-EX.CP4.43.png",
+      "rarity": "Common",
+      "cardNum": "43/131"
+    },
+    {
+      "name": "Joltik",
+      "set": "Premium Champion Pack: EX x M x ...",
+      "img": "https://den-cards.pokellector.com/185/Joltik.CP4.44.png",
+      "rarity": "Common",
+      "cardNum": "44/131"
+    },
+    {
+      "name": "Zubat",
+      "set": "Premium Champion Pack: EX x M x ...",
+      "img": "https://den-cards.pokellector.com/185/Zubat.CP4.45.png",
+      "rarity": "Common",
+      "cardNum": "45/131"
+    },
+    {
+      "name": "Golbat",
+      "set": "Premium Champion Pack: EX x M x ...",
+      "img": "https://den-cards.pokellector.com/185/Golbat.CP4.46.png",
+      "rarity": "Common",
+      "cardNum": "46/131"
+    },
+    {
+      "name": "Crobat",
+      "set": "Premium Champion Pack: EX x M x ...",
+      "img": "https://den-cards.pokellector.com/185/Crobat.CP4.47.png",
+      "rarity": "Common",
+      "cardNum": "47/131"
+    },
+    {
+      "name": "Gengar EX",
+      "set": "Premium Champion Pack: EX x M x ...",
+      "img": "https://den-cards.pokellector.com/185/Gengar-EX.CP4.48.png",
+      "rarity": "Common",
+      "cardNum": "48/131"
+    },
+    {
+      "name": "M Gengar EX",
+      "set": "Premium Champion Pack: EX x M x ...",
+      "img": "https://den-cards.pokellector.com/185/M-Gengar-EX.CP4.49.png",
+      "rarity": "Common",
+      "cardNum": "49/131"
+    },
+    {
+      "name": "Mewtwo EX",
+      "set": "Premium Champion Pack: EX x M x ...",
+      "img": "https://den-cards.pokellector.com/185/Mewtwo-EX.CP4.50.png",
+      "rarity": "Common",
+      "cardNum": "50/131"
+    },
+    {
+      "name": "M Mewtwo EX",
+      "set": "Premium Champion Pack: EX x M x ...",
+      "img": "https://den-cards.pokellector.com/185/M-Mewtwo-EX.CP4.51.png",
+      "rarity": "Common",
+      "cardNum": "51/131"
+    },
+    {
+      "name": "M Mewtwo EX",
+      "set": "Premium Champion Pack: EX x M x ...",
+      "img": "https://den-cards.pokellector.com/185/M-Mewtwo-EX.CP4.52.png",
+      "rarity": "Common",
+      "cardNum": "52/131"
+    },
+    {
+      "name": "Unown",
+      "set": "Premium Champion Pack: EX x M x ...",
+      "img": "https://den-cards.pokellector.com/185/Unown.CP4.53.png",
+      "rarity": "Common",
+      "cardNum": "53/131"
+    },
+    {
+      "name": "Wobbuffet",
+      "set": "Premium Champion Pack: EX x M x ...",
+      "img": "https://den-cards.pokellector.com/185/Wobbuffet.CP4.54.png",
+      "rarity": "Common",
+      "cardNum": "54/131"
+    },
+    {
+      "name": "Wobbuffet BREAK",
+      "set": "Premium Champion Pack: EX x M x ...",
+      "img": "https://den-cards.pokellector.com/185/Wobbuffet-BREAK.CP4.55.png",
+      "rarity": "Common",
+      "cardNum": "55/131"
+    },
+    {
+      "name": "Deoxys",
+      "set": "Premium Champion Pack: EX x M x ...",
+      "img": "https://den-cards.pokellector.com/185/Deoxys.CP4.56.png",
+      "rarity": "Common",
+      "cardNum": "56/131"
+    },
+    {
+      "name": "Litwick",
+      "set": "Premium Champion Pack: EX x M x ...",
+      "img": "https://den-cards.pokellector.com/185/Litwick.CP4.57.png",
+      "rarity": "Common",
+      "cardNum": "57/131"
+    },
+    {
+      "name": "Lampent",
+      "set": "Premium Champion Pack: EX x M x ...",
+      "img": "https://den-cards.pokellector.com/185/Lampent.CP4.58.png",
+      "rarity": "Common",
+      "cardNum": "58/131"
+    },
+    {
+      "name": "Chandelure",
+      "set": "Premium Champion Pack: EX x M x ...",
+      "img": "https://den-cards.pokellector.com/185/Chandelure.CP4.59.png",
+      "rarity": "Common",
+      "cardNum": "59/131"
+    },
+    {
+      "name": "Phantump",
+      "set": "Premium Champion Pack: EX x M x ...",
+      "img": "https://den-cards.pokellector.com/185/Phantump.CP4.60.png",
+      "rarity": "Common",
+      "cardNum": "60/131"
+    },
+    {
+      "name": "Trevenant",
+      "set": "Premium Champion Pack: EX x M x ...",
+      "img": "https://den-cards.pokellector.com/185/Trevenant.CP4.61.png",
+      "rarity": "Common",
+      "cardNum": "61/131"
+    },
+    {
+      "name": "Pumpkaboo",
+      "set": "Premium Champion Pack: EX x M x ...",
+      "img": "https://den-cards.pokellector.com/185/Pumpkaboo.CP4.62.png",
+      "rarity": "Common",
+      "cardNum": "62/131"
+    },
+    {
+      "name": "Gourgeist",
+      "set": "Premium Champion Pack: EX x M x ...",
+      "img": "https://den-cards.pokellector.com/185/Gourgeist.CP4.63.png",
+      "rarity": "Common",
+      "cardNum": "63/131"
+    },
+    {
+      "name": "Hoopa EX",
+      "set": "Premium Champion Pack: EX x M x ...",
+      "img": "https://den-cards.pokellector.com/185/Hoopa-EX.CP4.64.png",
+      "rarity": "Common",
+      "cardNum": "64/131"
+    },
+    {
+      "name": "Machop",
+      "set": "Premium Champion Pack: EX x M x ...",
+      "img": "https://den-cards.pokellector.com/185/Machop.CP4.65.png",
+      "rarity": "Common",
+      "cardNum": "65/131"
+    },
+    {
+      "name": "Machoke",
+      "set": "Premium Champion Pack: EX x M x ...",
+      "img": "https://den-cards.pokellector.com/185/Machoke.CP4.66.png",
+      "rarity": "Common",
+      "cardNum": "66/131"
+    },
+    {
+      "name": "Machamp",
+      "set": "Premium Champion Pack: EX x M x ...",
+      "img": "https://den-cards.pokellector.com/185/Machamp.CP4.67.png",
+      "rarity": "Common",
+      "cardNum": "67/131"
+    },
+    {
+      "name": "Cubone",
+      "set": "Premium Champion Pack: EX x M x ...",
+      "img": "https://den-cards.pokellector.com/185/Cubone.CP4.68.png",
+      "rarity": "Common",
+      "cardNum": "68/131"
+    },
+    {
+      "name": "Marowak",
+      "set": "Premium Champion Pack: EX x M x ...",
+      "img": "https://den-cards.pokellector.com/185/Marowak.CP4.69.png",
+      "rarity": "Common",
+      "cardNum": "69/131"
+    },
+    {
+      "name": "Meditite",
+      "set": "Premium Champion Pack: EX x M x ...",
+      "img": "https://den-cards.pokellector.com/185/Meditite.CP4.70.png",
+      "rarity": "Common",
+      "cardNum": "70/131"
+    },
+    {
+      "name": "Medicham",
+      "set": "Premium Champion Pack: EX x M x ...",
+      "img": "https://den-cards.pokellector.com/185/Medicham.CP4.71.png",
+      "rarity": "Common",
+      "cardNum": "71/131"
+    },
+    {
+      "name": "Groudon EX",
+      "set": "Premium Champion Pack: EX x M x ...",
+      "img": "https://den-cards.pokellector.com/185/Groudon-EX.CP4.72.png",
+      "rarity": "Common",
+      "cardNum": "72/131"
+    },
+    {
+      "name": "Primal Groudon EX",
+      "set": "Premium Champion Pack: EX x M x ...",
+      "img": "https://den-cards.pokellector.com/185/Primal-Groudon-EX.CP4.73.png",
+      "rarity": "Common",
+      "cardNum": "73/131"
+    },
+    {
+      "name": "Lucario EX",
+      "set": "Premium Champion Pack: EX x M x ...",
+      "img": "https://den-cards.pokellector.com/185/Lucario-EX.CP4.74.png",
+      "rarity": "Common",
+      "cardNum": "74/131"
+    },
+    {
+      "name": "M Lucario EX",
+      "set": "Premium Champion Pack: EX x M x ...",
+      "img": "https://den-cards.pokellector.com/185/M-Lucario-EX.CP4.75.png",
+      "rarity": "Common",
+      "cardNum": "75/131"
+    },
+    {
+      "name": "Hawlucha",
+      "set": "Premium Champion Pack: EX x M x ...",
+      "img": "https://den-cards.pokellector.com/185/Hawlucha.CP4.76.png",
+      "rarity": "Common",
+      "cardNum": "76/131"
+    },
+    {
+      "name": "Absol",
+      "set": "Premium Champion Pack: EX x M x ...",
+      "img": "https://den-cards.pokellector.com/185/Absol.CP4.77.png",
+      "rarity": "Common",
+      "cardNum": "77/131"
+    },
+    {
+      "name": "Yveltal",
+      "set": "Premium Champion Pack: EX x M x ...",
+      "img": "https://den-cards.pokellector.com/185/Yveltal.CP4.78.png",
+      "rarity": "Common",
+      "cardNum": "78/131"
+    },
+    {
+      "name": "Yveltal EX",
+      "set": "Premium Champion Pack: EX x M x ...",
+      "img": "https://den-cards.pokellector.com/185/Yveltal-EX.CP4.79.png",
+      "rarity": "Common",
+      "cardNum": "79/131"
+    },
+    {
+      "name": "Bronzor",
+      "set": "Premium Champion Pack: EX x M x ...",
+      "img": "https://den-cards.pokellector.com/185/Bronzor.CP4.80.png",
+      "rarity": "Common",
+      "cardNum": "80/131"
+    },
+    {
+      "name": "Bronzong",
+      "set": "Premium Champion Pack: EX x M x ...",
+      "img": "https://den-cards.pokellector.com/185/Bronzong.CP4.81.png",
+      "rarity": "Common",
+      "cardNum": "81/131"
+    },
+    {
+      "name": "Heatran",
+      "set": "Premium Champion Pack: EX x M x ...",
+      "img": "https://den-cards.pokellector.com/185/Heatran.CP4.82.png",
+      "rarity": "Common",
+      "cardNum": "82/131"
+    },
+    {
+      "name": "Togepi",
+      "set": "Premium Champion Pack: EX x M x ...",
+      "img": "https://den-cards.pokellector.com/185/Togepi.CP4.83.png",
+      "rarity": "Common",
+      "cardNum": "83/131"
+    },
+    {
+      "name": "Togetic",
+      "set": "Premium Champion Pack: EX x M x ...",
+      "img": "https://den-cards.pokellector.com/185/Togetic.CP4.84.png",
+      "rarity": "Common",
+      "cardNum": "84/131"
+    },
+    {
+      "name": "Togekiss",
+      "set": "Premium Champion Pack: EX x M x ...",
+      "img": "https://den-cards.pokellector.com/185/Togekiss.CP4.85.png",
+      "rarity": "Common",
+      "cardNum": "85/131"
+    },
+    {
+      "name": "Florges EX",
+      "set": "Premium Champion Pack: EX x M x ...",
+      "img": "https://den-cards.pokellector.com/185/Florges-EX.CP4.86.png",
+      "rarity": "Common",
+      "cardNum": "86/131"
+    },
+    {
+      "name": "Spritzee",
+      "set": "Premium Champion Pack: EX x M x ...",
+      "img": "https://den-cards.pokellector.com/185/Spritzee.CP4.87.png",
+      "rarity": "Common",
+      "cardNum": "87/131"
+    },
+    {
+      "name": "Aromatisse",
+      "set": "Premium Champion Pack: EX x M x ...",
+      "img": "https://den-cards.pokellector.com/185/Aromatisse.CP4.88.png",
+      "rarity": "Common",
+      "cardNum": "88/131"
+    },
+    {
+      "name": "Xerneas",
+      "set": "Premium Champion Pack: EX x M x ...",
+      "img": "https://den-cards.pokellector.com/185/Xerneas.CP4.89.png",
+      "rarity": "Common",
+      "cardNum": "89/131"
+    },
+    {
+      "name": "Xerneas EX",
+      "set": "Premium Champion Pack: EX x M x ...",
+      "img": "https://den-cards.pokellector.com/185/Xerneas-EX.CP4.90.png",
+      "rarity": "Common",
+      "cardNum": "90/131"
+    },
+    {
+      "name": "Giratina EX",
+      "set": "Premium Champion Pack: EX x M x ...",
+      "img": "https://den-cards.pokellector.com/185/Giratina-EX.CP4.91.png",
+      "rarity": "Common",
+      "cardNum": "91/131"
+    },
+    {
+      "name": "Noivern",
+      "set": "Premium Champion Pack: EX x M x ...",
+      "img": "https://den-cards.pokellector.com/185/Noivern.CP4.92.png",
+      "rarity": "Common",
+      "cardNum": "92/131"
+    },
+    {
+      "name": "Kangaskhan EX",
+      "set": "Premium Champion Pack: EX x M x ...",
+      "img": "https://den-cards.pokellector.com/185/Kangaskhan-EX.CP4.93.png",
+      "rarity": "Common",
+      "cardNum": "93/131"
+    },
+    {
+      "name": "M Kangaskhan EX",
+      "set": "Premium Champion Pack: EX x M x ...",
+      "img": "https://den-cards.pokellector.com/185/M-Kangaskhan-EX.CP4.94.png",
+      "rarity": "Common",
+      "cardNum": "94/131"
+    },
+    {
+      "name": "Miltank",
+      "set": "Premium Champion Pack: EX x M x ...",
+      "img": "https://den-cards.pokellector.com/185/Miltank.CP4.95.png",
+      "rarity": "Common",
+      "cardNum": "95/131"
+    },
+    {
+      "name": "Rayquaza EX",
+      "set": "Premium Champion Pack: EX x M x ...",
+      "img": "https://den-cards.pokellector.com/185/Rayquaza-EX.CP4.96.png",
+      "rarity": "Common",
+      "cardNum": "96/131"
+    },
+    {
+      "name": "M Rayquaza EX",
+      "set": "Premium Champion Pack: EX x M x ...",
+      "img": "https://den-cards.pokellector.com/185/M-Rayquaza-EX.CP4.97.png",
+      "rarity": "Common",
+      "cardNum": "97/131"
+    },
+    {
+      "name": "Shaymin EX",
+      "set": "Premium Champion Pack: EX x M x ...",
+      "img": "https://den-cards.pokellector.com/185/Shaymin-EX.CP4.98.png",
+      "rarity": "Common",
+      "cardNum": "98/131"
+    },
+    {
+      "name": "Noibat",
+      "set": "Premium Champion Pack: EX x M x ...",
+      "img": "https://den-cards.pokellector.com/185/Noibat.CP4.99.png",
+      "rarity": "Common",
+      "cardNum": "99/131"
+    },
+    {
+      "name": "Escape Rope",
+      "set": "Premium Champion Pack: EX x M x ...",
+      "img": "https://den-cards.pokellector.com/185/Escape-Rope.CP4.100.png",
+      "rarity": "Common",
+      "cardNum": "100/131"
+    },
+    {
+      "name": "Enhanced Hammer",
+      "set": "Premium Champion Pack: EX x M x ...",
+      "img": "https://den-cards.pokellector.com/185/Enhanced-Hammer.CP4.101.png",
+      "rarity": "Common",
+      "cardNum": "101/131"
+    },
+    {
+      "name": "Trainers' Mail",
+      "set": "Premium Champion Pack: EX x M x ...",
+      "img": "https://den-cards.pokellector.com/185/Trainers-Mail.CP4.102.png",
+      "rarity": "Common",
+      "cardNum": "102/131"
+    },
+    {
+      "name": "Ultra Ball",
+      "set": "Premium Champion Pack: EX x M x ...",
+      "img": "https://den-cards.pokellector.com/185/Ultra-Ball.CP4.103.png",
+      "rarity": "Common",
+      "cardNum": "103/131"
+    },
+    {
+      "name": "Battle Compressor",
+      "set": "Premium Champion Pack: EX x M x ...",
+      "img": "https://den-cards.pokellector.com/185/Battle-Compressor.CP4.104.png",
+      "rarity": "Common",
+      "cardNum": "104/131"
+    },
+    {
+      "name": "VS Seeker",
+      "set": "Premium Champion Pack: EX x M x ...",
+      "img": "https://den-cards.pokellector.com/185/VS-Seeker.CP4.105.png",
+      "rarity": "Common",
+      "cardNum": "105/131"
+    },
+    {
+      "name": "Startling Megaphone",
+      "set": "Premium Champion Pack: EX x M x ...",
+      "img": "https://den-cards.pokellector.com/185/Startling-Megaphone.CP4.106.png",
+      "rarity": "Common",
+      "cardNum": "106/131"
+    },
+    {
+      "name": "Rare Candy",
+      "set": "Premium Champion Pack: EX x M x ...",
+      "img": "https://den-cards.pokellector.com/185/Rare-Candy.CP4.107.png",
+      "rarity": "Common",
+      "cardNum": "107/131"
+    },
+    {
+      "name": "Red Card",
+      "set": "Premium Champion Pack: EX x M x ...",
+      "img": "https://den-cards.pokellector.com/185/Red-Card.CP4.108.png",
+      "rarity": "Common",
+      "cardNum": "108/131"
+    },
+    {
+      "name": "Float Stone",
+      "set": "Premium Champion Pack: EX x M x ...",
+      "img": "https://den-cards.pokellector.com/185/Float-Stone.CP4.109.png",
+      "rarity": "Common",
+      "cardNum": "109/131"
+    },
+    {
+      "name": "Groudon Spirit Link",
+      "set": "Premium Champion Pack: EX x M x ...",
+      "img": "https://den-cards.pokellector.com/185/Groudon-Spirit-Link.CP4.110.png",
+      "rarity": "Common",
+      "cardNum": "110/131"
+    },
+    {
+      "name": "Gengar Spirit Link",
+      "set": "Premium Champion Pack: EX x M x ...",
+      "img": "https://den-cards.pokellector.com/185/Gengar-Spirit-Link.CP4.111.png",
+      "rarity": "Common",
+      "cardNum": "111/131"
+    },
+    {
+      "name": "Sceptile Spirit Link",
+      "set": "Premium Champion Pack: EX x M x ...",
+      "img": "https://den-cards.pokellector.com/185/Sceptile-Spirit-Link.CP4.112.png",
+      "rarity": "Common",
+      "cardNum": "112/131"
+    },
+    {
+      "name": "Beedrill Spirit Link",
+      "set": "Premium Champion Pack: EX x M x ...",
+      "img": "https://den-cards.pokellector.com/185/Beedrill-Spirit-Link.CP4.113.png",
+      "rarity": "Common",
+      "cardNum": "113/131"
+    },
+    {
+      "name": "Mewtwo Spirit Link",
+      "set": "Premium Champion Pack: EX x M x ...",
+      "img": "https://den-cards.pokellector.com/185/Mewtwo-Spirit-Link.CP4.114.png",
+      "rarity": "Common",
+      "cardNum": "114/131"
+    },
+    {
+      "name": "Manectric Spirit Link",
+      "set": "Premium Champion Pack: EX x M x ...",
+      "img": "https://den-cards.pokellector.com/185/Manectric-Spirit-Link.CP4.115.png",
+      "rarity": "Common",
+      "cardNum": "115/131"
+    },
+    {
+      "name": "Rayquaza Spirit Link",
+      "set": "Premium Champion Pack: EX x M x ...",
+      "img": "https://den-cards.pokellector.com/185/Rayquaza-Spirit-Link.CP4.116.png",
+      "rarity": "Common",
+      "cardNum": "116/131"
+    },
+    {
+      "name": "Head Ringer",
+      "set": "Premium Champion Pack: EX x M x ...",
+      "img": "https://den-cards.pokellector.com/185/Head-Ringer.CP4.117.png",
+      "rarity": "Common",
+      "cardNum": "117/131"
+    },
+    {
+      "name": "Brigette",
+      "set": "Premium Champion Pack: EX x M x ...",
+      "img": "https://den-cards.pokellector.com/185/Brigette.CP4.118.png",
+      "rarity": "Common",
+      "cardNum": "118/131"
+    },
+    {
+      "name": "Xerosic",
+      "set": "Premium Champion Pack: EX x M x ...",
+      "img": "https://den-cards.pokellector.com/185/Xerosic.CP4.119.png",
+      "rarity": "Common",
+      "cardNum": "119/131"
+    },
+    {
+      "name": "Korrina",
+      "set": "Premium Champion Pack: EX x M x ...",
+      "img": "https://den-cards.pokellector.com/185/Korrina.CP4.120.png",
+      "rarity": "Common",
+      "cardNum": "120/131"
+    },
+    {
+      "name": "Giovanni's Scheme",
+      "set": "Premium Champion Pack: EX x M x ...",
+      "img": "https://den-cards.pokellector.com/185/Giovannis-Scheme.CP4.121.png",
+      "rarity": "Common",
+      "cardNum": "121/131"
+    },
+    {
+      "name": "Shauna",
+      "set": "Premium Champion Pack: EX x M x ...",
+      "img": "https://den-cards.pokellector.com/185/Shauna.CP4.122.png",
+      "rarity": "Common",
+      "cardNum": "122/131"
+    },
+    {
+      "name": "Teammates",
+      "set": "Premium Champion Pack: EX x M x ...",
+      "img": "https://den-cards.pokellector.com/185/Teammates.CP4.123.png",
+      "rarity": "Common",
+      "cardNum": "123/131"
+    },
+    {
+      "name": "Professor Sycamore",
+      "set": "Premium Champion Pack: EX x M x ...",
+      "img": "https://den-cards.pokellector.com/185/Professor-Sycamore.CP4.124.png",
+      "rarity": "Common",
+      "cardNum": "124/131"
+    },
+    {
+      "name": "Lysandre",
+      "set": "Premium Champion Pack: EX x M x ...",
+      "img": "https://den-cards.pokellector.com/185/Lysandre.CP4.125.png",
+      "rarity": "Common",
+      "cardNum": "125/131"
+    },
+    {
+      "name": "Team Flare Grunt",
+      "set": "Premium Champion Pack: EX x M x ...",
+      "img": "https://den-cards.pokellector.com/185/Team-Flare-Grunt.CP4.126.png",
+      "rarity": "Common",
+      "cardNum": "126/131"
+    },
+    {
+      "name": "Forest of Giant Plants",
+      "set": "Premium Champion Pack: EX x M x ...",
+      "img": "https://den-cards.pokellector.com/185/Forest-of-Giant-Plants.CP4.127.png",
+      "rarity": "Common",
+      "cardNum": "127/131"
+    },
+    {
+      "name": "Dimension Valley",
+      "set": "Premium Champion Pack: EX x M x ...",
+      "img": "https://den-cards.pokellector.com/185/Dimension-Valley.CP4.128.png",
+      "rarity": "Common",
+      "cardNum": "128/131"
+    },
+    {
+      "name": "Sky Field",
+      "set": "Premium Champion Pack: EX x M x ...",
+      "img": "https://den-cards.pokellector.com/185/Sky-Field.CP4.129.png",
+      "rarity": "Common",
+      "cardNum": "129/131"
+    },
+    {
+      "name": "Fighting Stadium",
+      "set": "Premium Champion Pack: EX x M x ...",
+      "img": "https://den-cards.pokellector.com/185/Fighting-Stadium.CP4.130.png",
+      "rarity": "Common",
+      "cardNum": "130/131"
+    },
+    {
+      "name": "Double Colorless Energy",
+      "set": "Premium Champion Pack: EX x M x ...",
+      "img": "https://den-cards.pokellector.com/185/Double-Colorless-Energy.CP4.131.png",
+      "rarity": "Common",
+      "cardNum": "131/131"
+    },
+    {
+      "name": "Fairy Energy",
+      "set": "Premium Champion Pack: EX x M x ...",
+      "img": "https://den-cards.pokellector.com/185/Fairy-Energy.CP4.0.28740.png",
+      "rarity": "Common",
+      "cardNum": ""
+    },
+    {
+      "name": "Water Energy",
+      "set": "Premium Champion Pack: EX x M x ...",
+      "img": "https://den-cards.pokellector.com/185/Water-Energy.CP4.CP4.png",
+      "rarity": "Common",
+      "cardNum": ""
+    },
+    {
+      "name": "Fighting Energy",
+      "set": "Premium Champion Pack: EX x M x ...",
+      "img": "https://den-cards.pokellector.com/185/Fighting-Energy.CP4.CP4.png",
+      "rarity": "Common",
+      "cardNum": ""
+    }
+  ]
+}

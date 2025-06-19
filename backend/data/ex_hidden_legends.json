@@ -1,0 +1,719 @@
+{
+  "setName": "EX Hidden Legends",
+  "cards": [
+    {
+      "name": "Banette",
+      "set": "EX Hidden Legends",
+      "img": "https://den-cards.pokellector.com/56/Banette.HL.1.png",
+      "rarity": "Rare",
+      "cardNum": "1/101"
+    },
+    {
+      "name": "Claydol",
+      "set": "EX Hidden Legends",
+      "img": "https://den-cards.pokellector.com/56/Claydol.HL.2.png",
+      "rarity": "Rare",
+      "cardNum": "2/101"
+    },
+    {
+      "name": "Crobat",
+      "set": "EX Hidden Legends",
+      "img": "https://den-cards.pokellector.com/56/Crobat.HL.3.png",
+      "rarity": "Rare",
+      "cardNum": "3/101"
+    },
+    {
+      "name": "Dark Celebi",
+      "set": "EX Hidden Legends",
+      "img": "https://den-cards.pokellector.com/56/Dark-Celebi.HL.4.png",
+      "rarity": "Rare",
+      "cardNum": "4/101"
+    },
+    {
+      "name": "Electrode",
+      "set": "EX Hidden Legends",
+      "img": "https://den-cards.pokellector.com/56/Electrode.HL.5.png",
+      "rarity": "Rare",
+      "cardNum": "5/101"
+    },
+    {
+      "name": "Exploud",
+      "set": "EX Hidden Legends",
+      "img": "https://den-cards.pokellector.com/56/Exploud.HL.6.png",
+      "rarity": "Rare",
+      "cardNum": "6/101"
+    },
+    {
+      "name": "Heracross",
+      "set": "EX Hidden Legends",
+      "img": "https://den-cards.pokellector.com/56/Heracross.HL.7.png",
+      "rarity": "Rare",
+      "cardNum": "7/101"
+    },
+    {
+      "name": "Jirachi",
+      "set": "EX Hidden Legends",
+      "img": "https://den-cards.pokellector.com/56/Jirachi.HL.8.png",
+      "rarity": "Rare",
+      "cardNum": "8/101"
+    },
+    {
+      "name": "Machamp",
+      "set": "EX Hidden Legends",
+      "img": "https://den-cards.pokellector.com/56/Machamp.HL.9.png",
+      "rarity": "Rare",
+      "cardNum": "9/101"
+    },
+    {
+      "name": "Medicham",
+      "set": "EX Hidden Legends",
+      "img": "https://den-cards.pokellector.com/56/Medicham.HL.10.png",
+      "rarity": "Rare",
+      "cardNum": "10/101"
+    },
+    {
+      "name": "Metagross",
+      "set": "EX Hidden Legends",
+      "img": "https://den-cards.pokellector.com/56/Metagross.HL.11.png",
+      "rarity": "Rare",
+      "cardNum": "11/101"
+    },
+    {
+      "name": "Milotic",
+      "set": "EX Hidden Legends",
+      "img": "https://den-cards.pokellector.com/56/Milotic.HL.12.png",
+      "rarity": "Rare",
+      "cardNum": "12/101"
+    },
+    {
+      "name": "Pinsir",
+      "set": "EX Hidden Legends",
+      "img": "https://den-cards.pokellector.com/56/Pinsir.HL.13.png",
+      "rarity": "Rare",
+      "cardNum": "13/101"
+    },
+    {
+      "name": "Shiftry",
+      "set": "EX Hidden Legends",
+      "img": "https://den-cards.pokellector.com/56/Shiftry.HL.14.png",
+      "rarity": "Rare",
+      "cardNum": "14/101"
+    },
+    {
+      "name": "Walrein",
+      "set": "EX Hidden Legends",
+      "img": "https://den-cards.pokellector.com/56/Walrein.HL.15.png",
+      "rarity": "Rare",
+      "cardNum": "15/101"
+    },
+    {
+      "name": "Bellossom",
+      "set": "EX Hidden Legends",
+      "img": "https://den-cards.pokellector.com/56/Bellossom.HL.16.png",
+      "rarity": "Rare",
+      "cardNum": "16/101"
+    },
+    {
+      "name": "Chimecho",
+      "set": "EX Hidden Legends",
+      "img": "https://den-cards.pokellector.com/56/Chimecho.HL.17.png",
+      "rarity": "Rare",
+      "cardNum": "17/101"
+    },
+    {
+      "name": "Gorebyss",
+      "set": "EX Hidden Legends",
+      "img": "https://den-cards.pokellector.com/56/Gorebyss.HL.18.png",
+      "rarity": "Rare",
+      "cardNum": "18/101"
+    },
+    {
+      "name": "Huntail",
+      "set": "EX Hidden Legends",
+      "img": "https://den-cards.pokellector.com/56/Huntail.HL.19.png",
+      "rarity": "Rare",
+      "cardNum": "19/101"
+    },
+    {
+      "name": "Masquerain",
+      "set": "EX Hidden Legends",
+      "img": "https://den-cards.pokellector.com/56/Masquerain.HL.20.png",
+      "rarity": "Rare",
+      "cardNum": "20/101"
+    },
+    {
+      "name": "Metang",
+      "set": "EX Hidden Legends",
+      "img": "https://den-cards.pokellector.com/56/Metang.HL.21.png",
+      "rarity": "Rare",
+      "cardNum": "21/101"
+    },
+    {
+      "name": "Ninetales",
+      "set": "EX Hidden Legends",
+      "img": "https://den-cards.pokellector.com/56/Ninetales.HL.22.png",
+      "rarity": "Rare",
+      "cardNum": "22/101"
+    },
+    {
+      "name": "Rain Castform",
+      "set": "EX Hidden Legends",
+      "img": "https://den-cards.pokellector.com/56/Rain-Castform.HL.23.png",
+      "rarity": "Rare",
+      "cardNum": "23/101"
+    },
+    {
+      "name": "Relicanth",
+      "set": "EX Hidden Legends",
+      "img": "https://den-cards.pokellector.com/56/Relicanth.HL.24.png",
+      "rarity": "Rare",
+      "cardNum": "24/101"
+    },
+    {
+      "name": "Snow-cloud Castform",
+      "set": "EX Hidden Legends",
+      "img": "https://den-cards.pokellector.com/56/Snow-cloud-Castform.HL.25.png",
+      "rarity": "Rare",
+      "cardNum": "25/101"
+    },
+    {
+      "name": "Sunny Castform",
+      "set": "EX Hidden Legends",
+      "img": "https://den-cards.pokellector.com/56/Sunny-Castform.HL.26.png",
+      "rarity": "Rare",
+      "cardNum": "26/101"
+    },
+    {
+      "name": "Tropius",
+      "set": "EX Hidden Legends",
+      "img": "https://den-cards.pokellector.com/56/Tropius.HL.27.png",
+      "rarity": "Rare",
+      "cardNum": "27/101"
+    },
+    {
+      "name": "Beldum",
+      "set": "EX Hidden Legends",
+      "img": "https://den-cards.pokellector.com/56/Beldum.HL.28.png",
+      "rarity": "Uncommon",
+      "cardNum": "28/101"
+    },
+    {
+      "name": "Beldum",
+      "set": "EX Hidden Legends",
+      "img": "https://den-cards.pokellector.com/56/Beldum.HL.29.png",
+      "rarity": "Uncommon",
+      "cardNum": "29/101"
+    },
+    {
+      "name": "Castform",
+      "set": "EX Hidden Legends",
+      "img": "https://den-cards.pokellector.com/56/Castform.HL.30.png",
+      "rarity": "Uncommon",
+      "cardNum": "30/101"
+    },
+    {
+      "name": "Claydol",
+      "set": "EX Hidden Legends",
+      "img": "https://den-cards.pokellector.com/56/Claydol.HL.31.png",
+      "rarity": "Uncommon",
+      "cardNum": "31/101"
+    },
+    {
+      "name": "Corsola",
+      "set": "EX Hidden Legends",
+      "img": "https://den-cards.pokellector.com/56/Corsola.HL.32.png",
+      "rarity": "Uncommon",
+      "cardNum": "32/101"
+    },
+    {
+      "name": "Dodrio",
+      "set": "EX Hidden Legends",
+      "img": "https://den-cards.pokellector.com/56/Dodrio.HL.33.png",
+      "rarity": "Uncommon",
+      "cardNum": "33/101"
+    },
+    {
+      "name": "Glalie",
+      "set": "EX Hidden Legends",
+      "img": "https://den-cards.pokellector.com/56/Glalie.HL.34.png",
+      "rarity": "Uncommon",
+      "cardNum": "34/101"
+    },
+    {
+      "name": "Gloom",
+      "set": "EX Hidden Legends",
+      "img": "https://den-cards.pokellector.com/56/Gloom.HL.35.png",
+      "rarity": "Uncommon",
+      "cardNum": "35/101"
+    },
+    {
+      "name": "Golbat",
+      "set": "EX Hidden Legends",
+      "img": "https://den-cards.pokellector.com/56/Golbat.HL.36.png",
+      "rarity": "Uncommon",
+      "cardNum": "36/101"
+    },
+    {
+      "name": "Igglybuff",
+      "set": "EX Hidden Legends",
+      "img": "https://den-cards.pokellector.com/56/Igglybuff.HL.37.png",
+      "rarity": "Uncommon",
+      "cardNum": "37/101"
+    },
+    {
+      "name": "Lanturn",
+      "set": "EX Hidden Legends",
+      "img": "https://den-cards.pokellector.com/56/Lanturn.HL.38.png",
+      "rarity": "Uncommon",
+      "cardNum": "38/101"
+    },
+    {
+      "name": "Loudred",
+      "set": "EX Hidden Legends",
+      "img": "https://den-cards.pokellector.com/56/Loudred.HL.39.png",
+      "rarity": "Uncommon",
+      "cardNum": "39/101"
+    },
+    {
+      "name": "Luvdisc",
+      "set": "EX Hidden Legends",
+      "img": "https://den-cards.pokellector.com/56/Luvdisc.HL.40.png",
+      "rarity": "Uncommon",
+      "cardNum": "40/101"
+    },
+    {
+      "name": "Machoke",
+      "set": "EX Hidden Legends",
+      "img": "https://den-cards.pokellector.com/56/Machoke.HL.41.png",
+      "rarity": "Uncommon",
+      "cardNum": "41/101"
+    },
+    {
+      "name": "Medicham",
+      "set": "EX Hidden Legends",
+      "img": "https://den-cards.pokellector.com/56/Medicham.HL.42.png",
+      "rarity": "Uncommon",
+      "cardNum": "42/101"
+    },
+    {
+      "name": "Metang",
+      "set": "EX Hidden Legends",
+      "img": "https://den-cards.pokellector.com/56/Metang.HL.43.png",
+      "rarity": "Uncommon",
+      "cardNum": "43/101"
+    },
+    {
+      "name": "Metang",
+      "set": "EX Hidden Legends",
+      "img": "https://den-cards.pokellector.com/56/Metang.HL.44.png",
+      "rarity": "Uncommon",
+      "cardNum": "44/101"
+    },
+    {
+      "name": "Nuzleaf",
+      "set": "EX Hidden Legends",
+      "img": "https://den-cards.pokellector.com/56/Nuzleaf.HL.45.png",
+      "rarity": "Uncommon",
+      "cardNum": "45/101"
+    },
+    {
+      "name": "Rhydon",
+      "set": "EX Hidden Legends",
+      "img": "https://den-cards.pokellector.com/56/Rhydon.HL.46.png",
+      "rarity": "Uncommon",
+      "cardNum": "46/101"
+    },
+    {
+      "name": "Sealeo",
+      "set": "EX Hidden Legends",
+      "img": "https://den-cards.pokellector.com/56/Sealeo.HL.47.png",
+      "rarity": "Uncommon",
+      "cardNum": "47/101"
+    },
+    {
+      "name": "Spinda",
+      "set": "EX Hidden Legends",
+      "img": "https://den-cards.pokellector.com/56/Spinda.HL.48.png",
+      "rarity": "Uncommon",
+      "cardNum": "48/101"
+    },
+    {
+      "name": "Starmie",
+      "set": "EX Hidden Legends",
+      "img": "https://den-cards.pokellector.com/56/Starmie.HL.49.png",
+      "rarity": "Uncommon",
+      "cardNum": "49/101"
+    },
+    {
+      "name": "Swalot",
+      "set": "EX Hidden Legends",
+      "img": "https://den-cards.pokellector.com/56/Swalot.HL.50.png",
+      "rarity": "Uncommon",
+      "cardNum": "50/101"
+    },
+    {
+      "name": "Tentacruel",
+      "set": "EX Hidden Legends",
+      "img": "https://den-cards.pokellector.com/56/Tentacruel.HL.51.png",
+      "rarity": "Uncommon",
+      "cardNum": "51/101"
+    },
+    {
+      "name": "Baltoy",
+      "set": "EX Hidden Legends",
+      "img": "https://den-cards.pokellector.com/56/Baltoy.HL.52.png",
+      "rarity": "Common",
+      "cardNum": "52/101"
+    },
+    {
+      "name": "Baltoy",
+      "set": "EX Hidden Legends",
+      "img": "https://den-cards.pokellector.com/56/Baltoy.HL.53.png",
+      "rarity": "Common",
+      "cardNum": "53/101"
+    },
+    {
+      "name": "Beldum",
+      "set": "EX Hidden Legends",
+      "img": "https://den-cards.pokellector.com/56/Beldum.HL.54.png",
+      "rarity": "Common",
+      "cardNum": "54/101"
+    },
+    {
+      "name": "Chikorita",
+      "set": "EX Hidden Legends",
+      "img": "https://den-cards.pokellector.com/56/Chikorita.HL.55.png",
+      "rarity": "Common",
+      "cardNum": "55/101"
+    },
+    {
+      "name": "Chinchou",
+      "set": "EX Hidden Legends",
+      "img": "https://den-cards.pokellector.com/56/Chinchou.HL.56.png",
+      "rarity": "Common",
+      "cardNum": "56/101"
+    },
+    {
+      "name": "Chinchou",
+      "set": "EX Hidden Legends",
+      "img": "https://den-cards.pokellector.com/56/Chinchou.HL.57.png",
+      "rarity": "Common",
+      "cardNum": "57/101"
+    },
+    {
+      "name": "Clamperl",
+      "set": "EX Hidden Legends",
+      "img": "https://den-cards.pokellector.com/56/Clamperl.HL.58.png",
+      "rarity": "Common",
+      "cardNum": "58/101"
+    },
+    {
+      "name": "Cyndaquil",
+      "set": "EX Hidden Legends",
+      "img": "https://den-cards.pokellector.com/56/Cyndaquil.HL.59.png",
+      "rarity": "Common",
+      "cardNum": "59/101"
+    },
+    {
+      "name": "Doduo",
+      "set": "EX Hidden Legends",
+      "img": "https://den-cards.pokellector.com/56/Doduo.HL.60.png",
+      "rarity": "Common",
+      "cardNum": "60/101"
+    },
+    {
+      "name": "Feebas",
+      "set": "EX Hidden Legends",
+      "img": "https://den-cards.pokellector.com/56/Feebas.HL.61.png",
+      "rarity": "Common",
+      "cardNum": "61/101"
+    },
+    {
+      "name": "Gulpin",
+      "set": "EX Hidden Legends",
+      "img": "https://den-cards.pokellector.com/56/Gulpin.HL.62.png",
+      "rarity": "Common",
+      "cardNum": "62/101"
+    },
+    {
+      "name": "Jigglypuff",
+      "set": "EX Hidden Legends",
+      "img": "https://den-cards.pokellector.com/56/Jigglypuff.HL.63.png",
+      "rarity": "Common",
+      "cardNum": "63/101"
+    },
+    {
+      "name": "Machop",
+      "set": "EX Hidden Legends",
+      "img": "https://den-cards.pokellector.com/56/Machop.HL.64.png",
+      "rarity": "Common",
+      "cardNum": "64/101"
+    },
+    {
+      "name": "Meditite",
+      "set": "EX Hidden Legends",
+      "img": "https://den-cards.pokellector.com/56/Meditite.HL.65.png",
+      "rarity": "Common",
+      "cardNum": "65/101"
+    },
+    {
+      "name": "Meditite",
+      "set": "EX Hidden Legends",
+      "img": "https://den-cards.pokellector.com/56/Meditite.HL.66.png",
+      "rarity": "Common",
+      "cardNum": "66/101"
+    },
+    {
+      "name": "Minun",
+      "set": "EX Hidden Legends",
+      "img": "https://den-cards.pokellector.com/56/Minun.HL.67.png",
+      "rarity": "Common",
+      "cardNum": "67/101"
+    },
+    {
+      "name": "Oddish",
+      "set": "EX Hidden Legends",
+      "img": "https://den-cards.pokellector.com/56/Oddish.HL.68.png",
+      "rarity": "Common",
+      "cardNum": "68/101"
+    },
+    {
+      "name": "Plusle",
+      "set": "EX Hidden Legends",
+      "img": "https://den-cards.pokellector.com/56/Plusie.HL.69.png",
+      "rarity": "Common",
+      "cardNum": "69/101"
+    },
+    {
+      "name": "Rhyhorn",
+      "set": "EX Hidden Legends",
+      "img": "https://den-cards.pokellector.com/56/Rhyhorn.HL.70.png",
+      "rarity": "Common",
+      "cardNum": "70/101"
+    },
+    {
+      "name": "Seedot",
+      "set": "EX Hidden Legends",
+      "img": "https://den-cards.pokellector.com/56/Seedot.HL.71.png",
+      "rarity": "Common",
+      "cardNum": "71/101"
+    },
+    {
+      "name": "Shuppet",
+      "set": "EX Hidden Legends",
+      "img": "https://den-cards.pokellector.com/56/Shuppet.HL.72.png",
+      "rarity": "Common",
+      "cardNum": "72/101"
+    },
+    {
+      "name": "Snorunt",
+      "set": "EX Hidden Legends",
+      "img": "https://den-cards.pokellector.com/56/Snorunt.HL.73.png",
+      "rarity": "Common",
+      "cardNum": "73/101"
+    },
+    {
+      "name": "Spheal",
+      "set": "EX Hidden Legends",
+      "img": "https://den-cards.pokellector.com/56/Spheal.HL.74.png",
+      "rarity": "Common",
+      "cardNum": "74/101"
+    },
+    {
+      "name": "Staryu",
+      "set": "EX Hidden Legends",
+      "img": "https://den-cards.pokellector.com/56/Staryu.HL.75.png",
+      "rarity": "Common",
+      "cardNum": "75/101"
+    },
+    {
+      "name": "Surskit",
+      "set": "EX Hidden Legends",
+      "img": "https://den-cards.pokellector.com/56/Surskit.HL.76.png",
+      "rarity": "Common",
+      "cardNum": "76/101"
+    },
+    {
+      "name": "Tentacool",
+      "set": "EX Hidden Legends",
+      "img": "https://den-cards.pokellector.com/56/Tentacool.HL.77.png",
+      "rarity": "Common",
+      "cardNum": "77/101"
+    },
+    {
+      "name": "Togepi",
+      "set": "EX Hidden Legends",
+      "img": "https://den-cards.pokellector.com/56/Togepi.HL.78.png",
+      "rarity": "Common",
+      "cardNum": "78/101"
+    },
+    {
+      "name": "Totodile",
+      "set": "EX Hidden Legends",
+      "img": "https://den-cards.pokellector.com/56/Totodile.HL.79.png",
+      "rarity": "Common",
+      "cardNum": "79/101"
+    },
+    {
+      "name": "Voltorb",
+      "set": "EX Hidden Legends",
+      "img": "https://den-cards.pokellector.com/56/Voltorb.HL.80.png",
+      "rarity": "Common",
+      "cardNum": "80/101"
+    },
+    {
+      "name": "Vulpix",
+      "set": "EX Hidden Legends",
+      "img": "https://den-cards.pokellector.com/56/Vulpix.HL.81.png",
+      "rarity": "Common",
+      "cardNum": "81/101"
+    },
+    {
+      "name": "Whismur",
+      "set": "EX Hidden Legends",
+      "img": "https://den-cards.pokellector.com/56/Whismur.HL.82.png",
+      "rarity": "Common",
+      "cardNum": "82/101"
+    },
+    {
+      "name": "Zubat",
+      "set": "EX Hidden Legends",
+      "img": "https://den-cards.pokellector.com/56/Zubat.HL.83.png",
+      "rarity": "Common",
+      "cardNum": "83/101"
+    },
+    {
+      "name": "Ancient Technical Machine (Ice)",
+      "set": "EX Hidden Legends",
+      "img": "https://den-cards.pokellector.com/56/Ancient-Technical-Machine-Ice.HL.84.png",
+      "rarity": "Uncommon",
+      "cardNum": "84/101"
+    },
+    {
+      "name": "Ancient Technical Machine (Rock)",
+      "set": "EX Hidden Legends",
+      "img": "https://den-cards.pokellector.com/56/Ancient-Technical-Machine-Rock.HL.85.png",
+      "rarity": "Uncommon",
+      "cardNum": "85/101"
+    },
+    {
+      "name": "Ancient Technical Machine (Steel)",
+      "set": "EX Hidden Legends",
+      "img": "https://den-cards.pokellector.com/56/Ancient-Technical-Machine-Steel.HL.86.png",
+      "rarity": "Uncommon",
+      "cardNum": "86/101"
+    },
+    {
+      "name": "Ancient Tomb",
+      "set": "EX Hidden Legends",
+      "img": "https://den-cards.pokellector.com/56/Ancient-Tomb.HL.87.png",
+      "rarity": "Uncommon",
+      "cardNum": "87/101"
+    },
+    {
+      "name": "Desert Ruins",
+      "set": "EX Hidden Legends",
+      "img": "https://den-cards.pokellector.com/56/Desert-Ruins.HL.88.png",
+      "rarity": "Uncommon",
+      "cardNum": "88/101"
+    },
+    {
+      "name": "Island Cave",
+      "set": "EX Hidden Legends",
+      "img": "https://den-cards.pokellector.com/56/Island-Cave.HL.89.png",
+      "rarity": "Uncommon",
+      "cardNum": "89/101"
+    },
+    {
+      "name": "Life Herb",
+      "set": "EX Hidden Legends",
+      "img": "https://den-cards.pokellector.com/56/Life-Herb.HL.90.png",
+      "rarity": "Uncommon",
+      "cardNum": "90/101"
+    },
+    {
+      "name": "Magnetic Storm",
+      "set": "EX Hidden Legends",
+      "img": "https://den-cards.pokellector.com/56/Magnetic-Storm.HL.91.png",
+      "rarity": "Uncommon",
+      "cardNum": "91/101"
+    },
+    {
+      "name": "Steven's Advice",
+      "set": "EX Hidden Legends",
+      "img": "https://den-cards.pokellector.com/56/Stevens-Advice.HL.92.png",
+      "rarity": "Uncommon",
+      "cardNum": "92/101"
+    },
+    {
+      "name": "Groudon ex",
+      "set": "EX Hidden Legends",
+      "img": "https://den-cards.pokellector.com/56/Groudon-ex.HL.93.png",
+      "rarity": "Rare",
+      "cardNum": "93/101"
+    },
+    {
+      "name": "Kyogre ex",
+      "set": "EX Hidden Legends",
+      "img": "https://den-cards.pokellector.com/56/Kyogre-ex.HL.94.png",
+      "rarity": "Rare",
+      "cardNum": "94/101"
+    },
+    {
+      "name": "Metagross ex",
+      "set": "EX Hidden Legends",
+      "img": "https://den-cards.pokellector.com/56/Metagross-ex.HL.95.png",
+      "rarity": "Rare",
+      "cardNum": "95/101"
+    },
+    {
+      "name": "Ninetales ex",
+      "set": "EX Hidden Legends",
+      "img": "https://den-cards.pokellector.com/56/Ninetales-ex.HL.96.png",
+      "rarity": "Rare",
+      "cardNum": "96/101"
+    },
+    {
+      "name": "Regice ex",
+      "set": "EX Hidden Legends",
+      "img": "https://den-cards.pokellector.com/56/Regice-ex.HL.97.png",
+      "rarity": "Rare",
+      "cardNum": "97/101"
+    },
+    {
+      "name": "Regirock ex",
+      "set": "EX Hidden Legends",
+      "img": "https://den-cards.pokellector.com/56/Regirock-ex.HL.98.png",
+      "rarity": "Rare",
+      "cardNum": "98/101"
+    },
+    {
+      "name": "Registeel ex",
+      "set": "EX Hidden Legends",
+      "img": "https://den-cards.pokellector.com/56/Registeel-ex.HL.99.png",
+      "rarity": "Rare",
+      "cardNum": "99/101"
+    },
+    {
+      "name": "Vileplume ex",
+      "set": "EX Hidden Legends",
+      "img": "https://den-cards.pokellector.com/56/Vileplume-ex.HL.100.png",
+      "rarity": "Rare",
+      "cardNum": "100/101"
+    },
+    {
+      "name": "Wigglytuff ex",
+      "set": "EX Hidden Legends",
+      "img": "https://den-cards.pokellector.com/56/Wigglytuff-ex.HL.101.png",
+      "rarity": "Rare",
+      "cardNum": "101/101"
+    },
+    {
+      "name": "Groudon",
+      "set": "EX Hidden Legends",
+      "img": "https://den-cards.pokellector.com/56/Groudon.HL.102.png",
+      "rarity": "Secret Rare",
+      "cardNum": "102/101"
+    }
+  ]
+}

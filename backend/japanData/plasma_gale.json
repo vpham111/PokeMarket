@@ -1,0 +1,558 @@
+{
+  "setName": "Plasma Gale",
+  "cards": [
+    {
+      "name": "Turtwig",
+      "set": "Plasma Gale",
+      "img": "https://den-cards.pokellector.com/12/Turtwig.BW7.1.png",
+      "rarity": "Common",
+      "cardNum": "1/70"
+    },
+    {
+      "name": "Grotle",
+      "set": "Plasma Gale",
+      "img": "https://den-cards.pokellector.com/12/Grotle.BW7.2.png",
+      "rarity": "Uncommon",
+      "cardNum": "2/70"
+    },
+    {
+      "name": "Torterra",
+      "set": "Plasma Gale",
+      "img": "https://den-cards.pokellector.com/12/Torterra.BW7.3.png",
+      "rarity": "Uncommon",
+      "cardNum": "3/70"
+    },
+    {
+      "name": "Cherubi",
+      "set": "Plasma Gale",
+      "img": "https://den-cards.pokellector.com/12/Cherubi.BW7.4.png",
+      "rarity": "Common",
+      "cardNum": "4/70"
+    },
+    {
+      "name": "Cherrim",
+      "set": "Plasma Gale",
+      "img": "https://den-cards.pokellector.com/12/Cherrim.BW7.5.png",
+      "rarity": "Uncommon",
+      "cardNum": "5/70"
+    },
+    {
+      "name": "Maractus",
+      "set": "Plasma Gale",
+      "img": "https://den-cards.pokellector.com/12/Maractus.BW7.6.png",
+      "rarity": "Common",
+      "cardNum": "6/70"
+    },
+    {
+      "name": "Foongus",
+      "set": "Plasma Gale",
+      "img": "https://den-cards.pokellector.com/12/Foongus.BW7.7.png",
+      "rarity": "Common",
+      "cardNum": "7/70"
+    },
+    {
+      "name": "Amoonguss",
+      "set": "Plasma Gale",
+      "img": "https://den-cards.pokellector.com/12/Amoonguss.BW7.8.png",
+      "rarity": "Common",
+      "cardNum": "8/70"
+    },
+    {
+      "name": "Chimchar",
+      "set": "Plasma Gale",
+      "img": "https://den-cards.pokellector.com/12/Chimchar.BW7.9.png",
+      "rarity": "Common",
+      "cardNum": "9/70"
+    },
+    {
+      "name": "Monferno",
+      "set": "Plasma Gale",
+      "img": "https://den-cards.pokellector.com/12/Monferno.BW7.10.png",
+      "rarity": "Uncommon",
+      "cardNum": "10/70"
+    },
+    {
+      "name": "Infernape",
+      "set": "Plasma Gale",
+      "img": "https://den-cards.pokellector.com/12/Infernape.BW7.11.png",
+      "rarity": "Rare",
+      "cardNum": "11/70"
+    },
+    {
+      "name": "Victini EX",
+      "set": "Plasma Gale",
+      "img": "https://den-cards.pokellector.com/12/Victini-EX.BW7.12.png",
+      "rarity": "Rare",
+      "cardNum": "12/70"
+    },
+    {
+      "name": "Pansear",
+      "set": "Plasma Gale",
+      "img": "https://den-cards.pokellector.com/12/Pansear.BW7.13.png",
+      "rarity": "Common",
+      "cardNum": "13/70"
+    },
+    {
+      "name": "Simisear",
+      "set": "Plasma Gale",
+      "img": "https://den-cards.pokellector.com/12/Simisear.BW7.14.png",
+      "rarity": "Uncommon",
+      "cardNum": "14/70"
+    },
+    {
+      "name": "Heatmor",
+      "set": "Plasma Gale",
+      "img": "https://den-cards.pokellector.com/12/Heatmor.BW7.15.png",
+      "rarity": "Uncommon",
+      "cardNum": "15/70"
+    },
+    {
+      "name": "Articuno EX",
+      "set": "Plasma Gale",
+      "img": "https://den-cards.pokellector.com/12/Articuno-EX.BW7.16.png",
+      "rarity": "Rare",
+      "cardNum": "16/70"
+    },
+    {
+      "name": "Lotad",
+      "set": "Plasma Gale",
+      "img": "https://den-cards.pokellector.com/12/Lotad.BW7.17.png",
+      "rarity": "Common",
+      "cardNum": "17/70"
+    },
+    {
+      "name": "Lombre",
+      "set": "Plasma Gale",
+      "img": "https://den-cards.pokellector.com/12/Lombre.BW7.18.png",
+      "rarity": "Common",
+      "cardNum": "18/70"
+    },
+    {
+      "name": "Ludicolo",
+      "set": "Plasma Gale",
+      "img": "https://den-cards.pokellector.com/12/Ludicolo.BW7.19.png",
+      "rarity": "Uncommon",
+      "cardNum": "19/70"
+    },
+    {
+      "name": "Manaphy",
+      "set": "Plasma Gale",
+      "img": "https://den-cards.pokellector.com/12/Manaphy.BW7.20.png",
+      "rarity": "Rare",
+      "cardNum": "20/70"
+    },
+    {
+      "name": "Cubchoo",
+      "set": "Plasma Gale",
+      "img": "https://den-cards.pokellector.com/12/Cubchoo.BW7.21.png",
+      "rarity": "Common",
+      "cardNum": "21/70"
+    },
+    {
+      "name": "Beartic",
+      "set": "Plasma Gale",
+      "img": "https://den-cards.pokellector.com/12/Beartic.BW7.22.png",
+      "rarity": "Uncommon",
+      "cardNum": "22/70"
+    },
+    {
+      "name": "Magnemite",
+      "set": "Plasma Gale",
+      "img": "https://den-cards.pokellector.com/12/Magnemite.BW7.23.png",
+      "rarity": "Common",
+      "cardNum": "23/70"
+    },
+    {
+      "name": "Magneton",
+      "set": "Plasma Gale",
+      "img": "https://den-cards.pokellector.com/12/Magneton.BW7.24.png",
+      "rarity": "Uncommon",
+      "cardNum": "24/70"
+    },
+    {
+      "name": "Magnezone",
+      "set": "Plasma Gale",
+      "img": "https://den-cards.pokellector.com/12/Magnezone.BW7.25.png",
+      "rarity": "Rare",
+      "cardNum": "25/70"
+    },
+    {
+      "name": "Rotom",
+      "set": "Plasma Gale",
+      "img": "https://den-cards.pokellector.com/12/Rotom.BW7.26.png",
+      "rarity": "Common",
+      "cardNum": "26/70"
+    },
+    {
+      "name": "Zubat",
+      "set": "Plasma Gale",
+      "img": "https://den-cards.pokellector.com/12/Zubat.BW7.27.png",
+      "rarity": "Common",
+      "cardNum": "27/70"
+    },
+    {
+      "name": "Golbat",
+      "set": "Plasma Gale",
+      "img": "https://den-cards.pokellector.com/12/Golbat.BW7.28.png",
+      "rarity": "Uncommon",
+      "cardNum": "28/70"
+    },
+    {
+      "name": "Crobat",
+      "set": "Plasma Gale",
+      "img": "https://den-cards.pokellector.com/12/Crobat.BW7.29.png",
+      "rarity": "Rare",
+      "cardNum": "29/70"
+    },
+    {
+      "name": "Koffing",
+      "set": "Plasma Gale",
+      "img": "https://den-cards.pokellector.com/12/Koffing.BW7.30.png",
+      "rarity": "Common",
+      "cardNum": "30/70"
+    },
+    {
+      "name": "Weezing",
+      "set": "Plasma Gale",
+      "img": "https://den-cards.pokellector.com/12/Weezing.BW7.31.png",
+      "rarity": "Rare",
+      "cardNum": "31/70"
+    },
+    {
+      "name": "Ralts",
+      "set": "Plasma Gale",
+      "img": "https://den-cards.pokellector.com/12/Ralts.BW7.32.png",
+      "rarity": "Common",
+      "cardNum": "32/70"
+    },
+    {
+      "name": "Kirlia",
+      "set": "Plasma Gale",
+      "img": "https://den-cards.pokellector.com/12/Kirlia.BW7.33.png",
+      "rarity": "Uncommon",
+      "cardNum": "33/70"
+    },
+    {
+      "name": "Gallade",
+      "set": "Plasma Gale",
+      "img": "https://den-cards.pokellector.com/12/Gallade.BW7.34.png",
+      "rarity": "Rare",
+      "cardNum": "34/70"
+    },
+    {
+      "name": "Giratina",
+      "set": "Plasma Gale",
+      "img": "https://den-cards.pokellector.com/12/Giratina.BW7.35.png",
+      "rarity": "Rare",
+      "cardNum": "35/70"
+    },
+    {
+      "name": "Trubbish",
+      "set": "Plasma Gale",
+      "img": "https://den-cards.pokellector.com/12/Trubbish.BW7.36.png",
+      "rarity": "Common",
+      "cardNum": "36/70"
+    },
+    {
+      "name": "Garbodor",
+      "set": "Plasma Gale",
+      "img": "https://den-cards.pokellector.com/12/Garbodor.BW7.37.png",
+      "rarity": "Common",
+      "cardNum": "37/70"
+    },
+    {
+      "name": "Elgyem",
+      "set": "Plasma Gale",
+      "img": "https://den-cards.pokellector.com/12/Elgyem.BW7.38.png",
+      "rarity": "Common",
+      "cardNum": "38/70"
+    },
+    {
+      "name": "Beheeyem",
+      "set": "Plasma Gale",
+      "img": "https://den-cards.pokellector.com/12/Beheeyem.BW7.39.png",
+      "rarity": "Common",
+      "cardNum": "39/70"
+    },
+    {
+      "name": "Phanpy",
+      "set": "Plasma Gale",
+      "img": "https://den-cards.pokellector.com/12/Phanpy.BW7.40.png",
+      "rarity": "Common",
+      "cardNum": "40/70"
+    },
+    {
+      "name": "Donphan",
+      "set": "Plasma Gale",
+      "img": "https://den-cards.pokellector.com/12/Donphan.BW7.41.png",
+      "rarity": "Uncommon",
+      "cardNum": "41/70"
+    },
+    {
+      "name": "Riolu",
+      "set": "Plasma Gale",
+      "img": "https://den-cards.pokellector.com/12/Riolu.BW7.42.png",
+      "rarity": "Common",
+      "cardNum": "42/70"
+    },
+    {
+      "name": "Lucario",
+      "set": "Plasma Gale",
+      "img": "https://den-cards.pokellector.com/12/Lucario.BW7.43.png",
+      "rarity": "Rare",
+      "cardNum": "43/70"
+    },
+    {
+      "name": "Purrloin",
+      "set": "Plasma Gale",
+      "img": "https://den-cards.pokellector.com/12/Purrloin.BW7.44.png",
+      "rarity": "Common",
+      "cardNum": "44/70"
+    },
+    {
+      "name": "Liepard",
+      "set": "Plasma Gale",
+      "img": "https://den-cards.pokellector.com/12/Liepard.BW7.45.png",
+      "rarity": "Common",
+      "cardNum": "45/70"
+    },
+    {
+      "name": "Scraggy",
+      "set": "Plasma Gale",
+      "img": "https://den-cards.pokellector.com/12/Scraggy.BW7.46.png",
+      "rarity": "Common",
+      "cardNum": "46/70"
+    },
+    {
+      "name": "Scrafty",
+      "set": "Plasma Gale",
+      "img": "https://den-cards.pokellector.com/12/Scrafty.BW7.47.png",
+      "rarity": "Common",
+      "cardNum": "47/70"
+    },
+    {
+      "name": "Durant",
+      "set": "Plasma Gale",
+      "img": "https://den-cards.pokellector.com/12/Durant.BW7.48.png",
+      "rarity": "Common",
+      "cardNum": "48/70"
+    },
+    {
+      "name": "Cobalion EX",
+      "set": "Plasma Gale",
+      "img": "https://den-cards.pokellector.com/12/Cobalion-EX.BW7.49.png",
+      "rarity": "Rare",
+      "cardNum": "49/70"
+    },
+    {
+      "name": "Druddigon",
+      "set": "Plasma Gale",
+      "img": "https://den-cards.pokellector.com/12/Druddigon.BW7.50.png",
+      "rarity": "Common",
+      "cardNum": "50/70"
+    },
+    {
+      "name": "Clefairy",
+      "set": "Plasma Gale",
+      "img": "https://den-cards.pokellector.com/12/Clefairy.BW7.51.png",
+      "rarity": "Common",
+      "cardNum": "51/70"
+    },
+    {
+      "name": "Clefable",
+      "set": "Plasma Gale",
+      "img": "https://den-cards.pokellector.com/12/Clefable.BW7.52.png",
+      "rarity": "Uncommon",
+      "cardNum": "52/70"
+    },
+    {
+      "name": "Doduo",
+      "set": "Plasma Gale",
+      "img": "https://den-cards.pokellector.com/12/Doduo.BW7.53.png",
+      "rarity": "Common",
+      "cardNum": "53/70"
+    },
+    {
+      "name": "Dodrio",
+      "set": "Plasma Gale",
+      "img": "https://den-cards.pokellector.com/12/Dodrio.BW7.54.png",
+      "rarity": "Common",
+      "cardNum": "54/70"
+    },
+    {
+      "name": "Snorlax",
+      "set": "Plasma Gale",
+      "img": "https://den-cards.pokellector.com/12/Snorlax.BW7.55.png",
+      "rarity": "Uncommon",
+      "cardNum": "55/70"
+    },
+    {
+      "name": "Togepi",
+      "set": "Plasma Gale",
+      "img": "https://den-cards.pokellector.com/12/Togepi.BW7.56.png",
+      "rarity": "Common",
+      "cardNum": "56/70"
+    },
+    {
+      "name": "Togetic",
+      "set": "Plasma Gale",
+      "img": "https://den-cards.pokellector.com/12/Togetic.BW7.57.png",
+      "rarity": "Common",
+      "cardNum": "57/70"
+    },
+    {
+      "name": "Togekiss",
+      "set": "Plasma Gale",
+      "img": "https://den-cards.pokellector.com/12/Togekiss.BW7.58.png",
+      "rarity": "Rare",
+      "cardNum": "58/70"
+    },
+    {
+      "name": "Lugia EX",
+      "set": "Plasma Gale",
+      "img": "https://den-cards.pokellector.com/12/Lugia-EX.BW7.59.png",
+      "rarity": "Rare",
+      "cardNum": "59/70"
+    },
+    {
+      "name": "Patrat",
+      "set": "Plasma Gale",
+      "img": "https://den-cards.pokellector.com/12/Patrat.BW7.60.png",
+      "rarity": "Common",
+      "cardNum": "60/70"
+    },
+    {
+      "name": "Watchog",
+      "set": "Plasma Gale",
+      "img": "https://den-cards.pokellector.com/12/Watchog.BW7.61.png",
+      "rarity": "Common",
+      "cardNum": "61/70"
+    },
+    {
+      "name": "Colress Machine",
+      "set": "Plasma Gale",
+      "img": "https://den-cards.pokellector.com/12/Colress-Machine.BW7.62.png",
+      "rarity": "Uncommon",
+      "cardNum": "62/70"
+    },
+    {
+      "name": "Poison Hypnotic Beam",
+      "set": "Plasma Gale",
+      "img": "https://den-cards.pokellector.com/12/Poison-Hypnotic-Beam.BW7.63.png",
+      "rarity": "Uncommon",
+      "cardNum": "63/70"
+    },
+    {
+      "name": "Colress",
+      "set": "Plasma Gale",
+      "img": "https://den-cards.pokellector.com/12/Colress.BW7.64.png",
+      "rarity": "Uncommon",
+      "cardNum": "64/70"
+    },
+    {
+      "name": "Team Plasma Grunt",
+      "set": "Plasma Gale",
+      "img": "https://den-cards.pokellector.com/12/Team-Plasma-Grunt.BW7.65.png",
+      "rarity": "Uncommon",
+      "cardNum": "65/70"
+    },
+    {
+      "name": "Plasma Frigate",
+      "set": "Plasma Gale",
+      "img": "https://den-cards.pokellector.com/12/Plasma-Frigate.BW7.66.png",
+      "rarity": "Uncommon",
+      "cardNum": "66/70"
+    },
+    {
+      "name": "Plasma Energy",
+      "set": "Plasma Gale",
+      "img": "https://den-cards.pokellector.com/12/Plasma-Energy.BW7.67.png",
+      "rarity": "Uncommon",
+      "cardNum": "67/70"
+    },
+    {
+      "name": "Scramble Switch",
+      "set": "Plasma Gale",
+      "img": "https://den-cards.pokellector.com/12/Scramble-Switch.BW7.68.png",
+      "rarity": "Rare",
+      "cardNum": "68/70"
+    },
+    {
+      "name": "Dowsing Machine",
+      "set": "Plasma Gale",
+      "img": "https://den-cards.pokellector.com/12/Dowsing-Machine.BW7.69.png",
+      "rarity": "Rare",
+      "cardNum": "69/70"
+    },
+    {
+      "name": "Victory Piece",
+      "set": "Plasma Gale",
+      "img": "https://den-cards.pokellector.com/12/Victory-Piece.BW7.70.png",
+      "rarity": "Rare",
+      "cardNum": "70/70"
+    },
+    {
+      "name": "Victini EX",
+      "set": "Plasma Gale",
+      "img": "https://den-cards.pokellector.com/12/Victini-EX.BW7.71.png",
+      "rarity": "Secret Rare",
+      "cardNum": "71/70"
+    },
+    {
+      "name": "Articuno EX",
+      "set": "Plasma Gale",
+      "img": "https://den-cards.pokellector.com/12/Articuno-EX.BW7.72.png",
+      "rarity": "Secret Rare",
+      "cardNum": "72/70"
+    },
+    {
+      "name": "Cobalion EX",
+      "set": "Plasma Gale",
+      "img": "https://den-cards.pokellector.com/12/Cobalion-EX.BW7.73.png",
+      "rarity": "Secret Rare",
+      "cardNum": "73/70"
+    },
+    {
+      "name": "Lugia EX",
+      "set": "Plasma Gale",
+      "img": "https://den-cards.pokellector.com/12/Lugia-EX.BW7.74.png",
+      "rarity": "Secret Rare",
+      "cardNum": "74/70"
+    },
+    {
+      "name": "Colress",
+      "set": "Plasma Gale",
+      "img": "https://den-cards.pokellector.com/12/Colress.BW7.75.png",
+      "rarity": "Secret Rare",
+      "cardNum": "75/70"
+    },
+    {
+      "name": "Skyla",
+      "set": "Plasma Gale",
+      "img": "https://den-cards.pokellector.com/12/Skyla.BW7.76.png",
+      "rarity": "Secret Rare",
+      "cardNum": "76/70"
+    },
+    {
+      "name": "Charizard",
+      "set": "Plasma Gale",
+      "img": "https://den-cards.pokellector.com/12/Charizard.BW7.77.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "77/70"
+    },
+    {
+      "name": "Blastoise",
+      "set": "Plasma Gale",
+      "img": "https://den-cards.pokellector.com/12/Blastoise.BW7.78.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "78/70"
+    },
+    {
+      "name": "Random Receiver",
+      "set": "Plasma Gale",
+      "img": "https://den-cards.pokellector.com/12/Random-Receiver.BW7.79.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "79/70"
+    }
+  ]
+}

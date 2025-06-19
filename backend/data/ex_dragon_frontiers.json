@@ -1,0 +1,712 @@
+{
+  "setName": "EX Dragon Frontiers",
+  "cards": [
+    {
+      "name": "Ampharos  (delta species)",
+      "set": "EX Dragon Frontiers",
+      "img": "https://den-cards.pokellector.com/66/Ampharos-delta-species.DF.1.png",
+      "rarity": "Rare",
+      "cardNum": "1/101"
+    },
+    {
+      "name": "Feraligatr  (delta species)",
+      "set": "EX Dragon Frontiers",
+      "img": "https://den-cards.pokellector.com/66/Feraligatr-.DF.2.png",
+      "rarity": "Rare",
+      "cardNum": "2/101"
+    },
+    {
+      "name": "Heracross  (delta species)",
+      "set": "EX Dragon Frontiers",
+      "img": "https://den-cards.pokellector.com/66/Heracross-delta-species.DF.3.png",
+      "rarity": "Rare",
+      "cardNum": "3/101"
+    },
+    {
+      "name": "Meganium  (delta species)",
+      "set": "EX Dragon Frontiers",
+      "img": "https://den-cards.pokellector.com/66/Meganium-delta-species.DF.4.png",
+      "rarity": "Rare",
+      "cardNum": "4/101"
+    },
+    {
+      "name": "Milotic  (delta species)",
+      "set": "EX Dragon Frontiers",
+      "img": "https://den-cards.pokellector.com/66/Milotic-.DF.5.png",
+      "rarity": "Rare",
+      "cardNum": "5/101"
+    },
+    {
+      "name": "Nidoking  (delta species)",
+      "set": "EX Dragon Frontiers",
+      "img": "https://den-cards.pokellector.com/66/Nidoking-.DF.6.png",
+      "rarity": "Rare",
+      "cardNum": "6/101"
+    },
+    {
+      "name": "Nidoqueen  (delta species)",
+      "set": "EX Dragon Frontiers",
+      "img": "https://den-cards.pokellector.com/66/Nidoqueen-delta-species.DF.7.png",
+      "rarity": "Rare",
+      "cardNum": "7/101"
+    },
+    {
+      "name": "Ninetales  (delta species)",
+      "set": "EX Dragon Frontiers",
+      "img": "https://den-cards.pokellector.com/66/Ninetales-delta-species.DF.8.png",
+      "rarity": "Rare",
+      "cardNum": "8/101"
+    },
+    {
+      "name": "Pinsir  (delta species)",
+      "set": "EX Dragon Frontiers",
+      "img": "https://den-cards.pokellector.com/66/Pinsir-.DF.9.png",
+      "rarity": "Rare",
+      "cardNum": "9/101"
+    },
+    {
+      "name": "Snorlax  (delta species)",
+      "set": "EX Dragon Frontiers",
+      "img": "https://den-cards.pokellector.com/66/Snorlax-delta-species.DF.10.png",
+      "rarity": "Rare",
+      "cardNum": "10/101"
+    },
+    {
+      "name": "Togetic  (delta species)",
+      "set": "EX Dragon Frontiers",
+      "img": "https://den-cards.pokellector.com/66/Togetic-.DF.11.png",
+      "rarity": "Rare",
+      "cardNum": "11/101"
+    },
+    {
+      "name": "Typhlosion  (delta species)",
+      "set": "EX Dragon Frontiers",
+      "img": "https://den-cards.pokellector.com/66/Typhlosion-.DF.12.png",
+      "rarity": "Rare",
+      "cardNum": "12/101"
+    },
+    {
+      "name": "Arbok  (delta species)",
+      "set": "EX Dragon Frontiers",
+      "img": "https://den-cards.pokellector.com/66/Arbok-delta-species.DF.13.png",
+      "rarity": "Rare",
+      "cardNum": "13/101"
+    },
+    {
+      "name": "Cloyster  (delta species)",
+      "set": "EX Dragon Frontiers",
+      "img": "https://den-cards.pokellector.com/66/Cloyster-.DF.14.png",
+      "rarity": "Rare",
+      "cardNum": "14/101"
+    },
+    {
+      "name": "Dewgong  (delta species)",
+      "set": "EX Dragon Frontiers",
+      "img": "https://den-cards.pokellector.com/66/Dewgong-delta-species.DF.15.png",
+      "rarity": "Rare",
+      "cardNum": "15/101"
+    },
+    {
+      "name": "Gligar  (delta species)",
+      "set": "EX Dragon Frontiers",
+      "img": "https://den-cards.pokellector.com/66/Gligar-.DF.16.png",
+      "rarity": "Rare",
+      "cardNum": "16/101"
+    },
+    {
+      "name": "Jynx  (delta species)",
+      "set": "EX Dragon Frontiers",
+      "img": "https://den-cards.pokellector.com/66/Jynx-delta-species.DF.17.png",
+      "rarity": "Rare",
+      "cardNum": "17/101"
+    },
+    {
+      "name": "Ledian  (delta species)",
+      "set": "EX Dragon Frontiers",
+      "img": "https://den-cards.pokellector.com/66/Ledian-delta-species.DF.18.png",
+      "rarity": "Rare",
+      "cardNum": "18/101"
+    },
+    {
+      "name": "Lickitung  (delta species)",
+      "set": "EX Dragon Frontiers",
+      "img": "https://den-cards.pokellector.com/66/Lickitung-.DF.19.png",
+      "rarity": "Rare",
+      "cardNum": "19/101"
+    },
+    {
+      "name": "Mantine  (delta species)",
+      "set": "EX Dragon Frontiers",
+      "img": "https://den-cards.pokellector.com/66/Mantine-.DF.20.png",
+      "rarity": "Rare",
+      "cardNum": "20/101"
+    },
+    {
+      "name": "Quagsire  (delta species)",
+      "set": "EX Dragon Frontiers",
+      "img": "https://den-cards.pokellector.com/66/Quagsire-.DF.21.png",
+      "rarity": "Rare",
+      "cardNum": "21/101"
+    },
+    {
+      "name": "Seadra  (delta species)",
+      "set": "EX Dragon Frontiers",
+      "img": "https://den-cards.pokellector.com/66/Seadra-delta-species.DF.22.png",
+      "rarity": "Rare",
+      "cardNum": "22/101"
+    },
+    {
+      "name": "Tropius  (delta species)",
+      "set": "EX Dragon Frontiers",
+      "img": "https://den-cards.pokellector.com/66/Tropius-.DF.23.png",
+      "rarity": "Rare",
+      "cardNum": "23/101"
+    },
+    {
+      "name": "Vibrava  (delta species)",
+      "set": "EX Dragon Frontiers",
+      "img": "https://den-cards.pokellector.com/66/Vibrava-delta-species.DF.24.png",
+      "rarity": "Rare",
+      "cardNum": "24/101"
+    },
+    {
+      "name": "Xatu  (delta species)",
+      "set": "EX Dragon Frontiers",
+      "img": "https://den-cards.pokellector.com/66/Xatu-delta-species.DF.25.png",
+      "rarity": "Rare",
+      "cardNum": "25/101"
+    },
+    {
+      "name": "Bayleef  (delta species)",
+      "set": "EX Dragon Frontiers",
+      "img": "https://den-cards.pokellector.com/66/Bayleef-delta-species.DF.26.png",
+      "rarity": "Uncommon",
+      "cardNum": "26/101"
+    },
+    {
+      "name": "Croconaw  (delta species)",
+      "set": "EX Dragon Frontiers",
+      "img": "https://den-cards.pokellector.com/66/Croconaw-.DF.27.png",
+      "rarity": "Uncommon",
+      "cardNum": "27/101"
+    },
+    {
+      "name": "Dragonair  (delta species)",
+      "set": "EX Dragon Frontiers",
+      "img": "https://den-cards.pokellector.com/66/Dragonair-delta-species.DF.28.png",
+      "rarity": "Uncommon",
+      "cardNum": "28/101"
+    },
+    {
+      "name": "Electabuzz  (delta species)",
+      "set": "EX Dragon Frontiers",
+      "img": "https://den-cards.pokellector.com/66/Electabuzz-delta-species.DF.29.png",
+      "rarity": "Uncommon",
+      "cardNum": "29/101"
+    },
+    {
+      "name": "Flaaffy  (delta species)",
+      "set": "EX Dragon Frontiers",
+      "img": "https://den-cards.pokellector.com/66/Flaaffy-delta-species.DF.30.png",
+      "rarity": "Uncommon",
+      "cardNum": "30/101"
+    },
+    {
+      "name": "Horsea  (delta species)",
+      "set": "EX Dragon Frontiers",
+      "img": "https://den-cards.pokellector.com/66/Horsea-delta-species.DF.31.png",
+      "rarity": "Uncommon",
+      "cardNum": "31/101"
+    },
+    {
+      "name": "Kirlia",
+      "set": "EX Dragon Frontiers",
+      "img": "https://den-cards.pokellector.com/66/Kirlia.DF.32.png",
+      "rarity": "Uncommon",
+      "cardNum": "32/101"
+    },
+    {
+      "name": "Kirlia  (delta species)",
+      "set": "EX Dragon Frontiers",
+      "img": "https://den-cards.pokellector.com/66/Kirlia-delta-species.DF.33.png",
+      "rarity": "Uncommon",
+      "cardNum": "33/101"
+    },
+    {
+      "name": "Nidorina  (delta species)",
+      "set": "EX Dragon Frontiers",
+      "img": "https://den-cards.pokellector.com/66/Nidorina-.DF.34.png",
+      "rarity": "Uncommon",
+      "cardNum": "34/101"
+    },
+    {
+      "name": "Nidorino  (delta species)",
+      "set": "EX Dragon Frontiers",
+      "img": "https://den-cards.pokellector.com/66/Nidorino-delta-species.DF.35.png",
+      "rarity": "Uncommon",
+      "cardNum": "35/101"
+    },
+    {
+      "name": "Quilava  (delta species)",
+      "set": "EX Dragon Frontiers",
+      "img": "https://den-cards.pokellector.com/66/Quilava-delta-species.DF.36.png",
+      "rarity": "Uncommon",
+      "cardNum": "36/101"
+    },
+    {
+      "name": "Seadra  (delta species)",
+      "set": "EX Dragon Frontiers",
+      "img": "https://den-cards.pokellector.com/66/Seadra-delta-species.DF.37.6065.png",
+      "rarity": "Uncommon",
+      "cardNum": "37/101"
+    },
+    {
+      "name": "Shelgon  (delta species)",
+      "set": "EX Dragon Frontiers",
+      "img": "https://den-cards.pokellector.com/66/Shelgon-delta-species.DF.38.png",
+      "rarity": "Uncommon",
+      "cardNum": "38/101"
+    },
+    {
+      "name": "Smeargle  (delta species)",
+      "set": "EX Dragon Frontiers",
+      "img": "https://den-cards.pokellector.com/66/Smeargle-delta-species.DF.39.png",
+      "rarity": "Uncommon",
+      "cardNum": "39/101"
+    },
+    {
+      "name": "Swellow  (delta species)",
+      "set": "EX Dragon Frontiers",
+      "img": "https://den-cards.pokellector.com/66/Swellow-delta-species.DF.40.png",
+      "rarity": "Uncommon",
+      "cardNum": "40/101"
+    },
+    {
+      "name": "Togepi  (delta species)",
+      "set": "EX Dragon Frontiers",
+      "img": "https://den-cards.pokellector.com/66/Togepi-delta-species.DF.41.png",
+      "rarity": "Uncommon",
+      "cardNum": "41/101"
+    },
+    {
+      "name": "Vibrava  (delta species)",
+      "set": "EX Dragon Frontiers",
+      "img": "https://den-cards.pokellector.com/66/Vibrava-delta-species.DF.42.png",
+      "rarity": "Uncommon",
+      "cardNum": "42/101"
+    },
+    {
+      "name": "Bagon  (delta species)",
+      "set": "EX Dragon Frontiers",
+      "img": "https://den-cards.pokellector.com/66/Bagon-.DF.43.png",
+      "rarity": "Common",
+      "cardNum": "43/101"
+    },
+    {
+      "name": "Chikorita  (delta species)",
+      "set": "EX Dragon Frontiers",
+      "img": "https://den-cards.pokellector.com/66/Chikorita-.DF.44.png",
+      "rarity": "Common",
+      "cardNum": "44/101"
+    },
+    {
+      "name": "Cyndaquil  (delta species)",
+      "set": "EX Dragon Frontiers",
+      "img": "https://den-cards.pokellector.com/66/Cyndaquil-delta-species.DF.45.png",
+      "rarity": "Common",
+      "cardNum": "45/101"
+    },
+    {
+      "name": "Dratini  (delta species)",
+      "set": "EX Dragon Frontiers",
+      "img": "https://den-cards.pokellector.com/66/Dratini-.DF.46.png",
+      "rarity": "Common",
+      "cardNum": "46/101"
+    },
+    {
+      "name": "Ekans  (delta species)",
+      "set": "EX Dragon Frontiers",
+      "img": "https://den-cards.pokellector.com/66/Ekans-delta-species.DF.47.png",
+      "rarity": "Common",
+      "cardNum": "47/101"
+    },
+    {
+      "name": "Elekid  (delta species)",
+      "set": "EX Dragon Frontiers",
+      "img": "https://den-cards.pokellector.com/66/Elekid-delta-species.DF.48.png",
+      "rarity": "Common",
+      "cardNum": "48/101"
+    },
+    {
+      "name": "Feebas  (delta species)",
+      "set": "EX Dragon Frontiers",
+      "img": "https://den-cards.pokellector.com/66/Feebas-delta-species.DF.49.png",
+      "rarity": "Common",
+      "cardNum": "49/101"
+    },
+    {
+      "name": "Horsea  (delta species)",
+      "set": "EX Dragon Frontiers",
+      "img": "https://den-cards.pokellector.com/66/Horsea-.DF.50.png",
+      "rarity": "Common",
+      "cardNum": "50/101"
+    },
+    {
+      "name": "Larvitar",
+      "set": "EX Dragon Frontiers",
+      "img": "https://den-cards.pokellector.com/66/Larvitar.DF.51.png",
+      "rarity": "Common",
+      "cardNum": "51/101"
+    },
+    {
+      "name": "Larvitar (delta species)",
+      "set": "EX Dragon Frontiers",
+      "img": "https://den-cards.pokellector.com/66/Larvitar.DF.52.6080.png",
+      "rarity": "Common",
+      "cardNum": "52/101"
+    },
+    {
+      "name": "Ledyba  (delta species)",
+      "set": "EX Dragon Frontiers",
+      "img": "https://den-cards.pokellector.com/66/Ledyba-delta-species.DF.53.png",
+      "rarity": "Common",
+      "cardNum": "53/101"
+    },
+    {
+      "name": "Mareep  (delta species)",
+      "set": "EX Dragon Frontiers",
+      "img": "https://den-cards.pokellector.com/66/Mareep-delta-species.DF.54.png",
+      "rarity": "Common",
+      "cardNum": "54/101"
+    },
+    {
+      "name": "Natu  (delta species)",
+      "set": "EX Dragon Frontiers",
+      "img": "https://den-cards.pokellector.com/66/Natu-delta-species.DF.55.png",
+      "rarity": "Common",
+      "cardNum": "55/101"
+    },
+    {
+      "name": "Nidoran F  (delta species)",
+      "set": "EX Dragon Frontiers",
+      "img": "https://den-cards.pokellector.com/66/Nidoran-F-.DF.56.png",
+      "rarity": "Common",
+      "cardNum": "56/101"
+    },
+    {
+      "name": "Nidoran M  (delta species)",
+      "set": "EX Dragon Frontiers",
+      "img": "https://den-cards.pokellector.com/66/Nidoran-M-.DF.57.png",
+      "rarity": "Common",
+      "cardNum": "57/101"
+    },
+    {
+      "name": "Pupitar",
+      "set": "EX Dragon Frontiers",
+      "img": "https://den-cards.pokellector.com/66/Pupitar.DF.58.png",
+      "rarity": "Common",
+      "cardNum": "58/101"
+    },
+    {
+      "name": "Pupitar  (delta species)",
+      "set": "EX Dragon Frontiers",
+      "img": "https://den-cards.pokellector.com/66/Pupitar-.DF.59.png",
+      "rarity": "Common",
+      "cardNum": "59/101"
+    },
+    {
+      "name": "Ralts",
+      "set": "EX Dragon Frontiers",
+      "img": "https://den-cards.pokellector.com/66/Ralts.DF.60.png",
+      "rarity": "Common",
+      "cardNum": "60/101"
+    },
+    {
+      "name": "Ralts  (delta species)",
+      "set": "EX Dragon Frontiers",
+      "img": "https://den-cards.pokellector.com/66/Ralts-.DF.61.png",
+      "rarity": "Common",
+      "cardNum": "61/101"
+    },
+    {
+      "name": "Seel  (delta species)",
+      "set": "EX Dragon Frontiers",
+      "img": "https://den-cards.pokellector.com/66/Seel-delta-species.DF.62.png",
+      "rarity": "Common",
+      "cardNum": "62/101"
+    },
+    {
+      "name": "Shellder  (delta species)",
+      "set": "EX Dragon Frontiers",
+      "img": "https://den-cards.pokellector.com/66/Shellder-delta-species.DF.63.png",
+      "rarity": "Common",
+      "cardNum": "63/101"
+    },
+    {
+      "name": "Smoochum  (delta species)",
+      "set": "EX Dragon Frontiers",
+      "img": "https://den-cards.pokellector.com/66/Smoochum-delta-species.DF.64.png",
+      "rarity": "Common",
+      "cardNum": "64/101"
+    },
+    {
+      "name": "Swablu  (delta species)",
+      "set": "EX Dragon Frontiers",
+      "img": "https://den-cards.pokellector.com/66/Swablu-delta-species.DF.65.png",
+      "rarity": "Common",
+      "cardNum": "65/101"
+    },
+    {
+      "name": "Taillow  (delta species)",
+      "set": "EX Dragon Frontiers",
+      "img": "https://den-cards.pokellector.com/66/Taillow-delta-species.DF.66.png",
+      "rarity": "Common",
+      "cardNum": "66/101"
+    },
+    {
+      "name": "Totodile  (delta species)",
+      "set": "EX Dragon Frontiers",
+      "img": "https://den-cards.pokellector.com/66/Totodile-.DF.67.png",
+      "rarity": "Common",
+      "cardNum": "67/101"
+    },
+    {
+      "name": "Trapinch  (delta species)",
+      "set": "EX Dragon Frontiers",
+      "img": "https://den-cards.pokellector.com/66/Trapinch-.DF.68.png",
+      "rarity": "Common",
+      "cardNum": "68/101"
+    },
+    {
+      "name": "Trapinch  (delta species)",
+      "set": "EX Dragon Frontiers",
+      "img": "https://den-cards.pokellector.com/66/Trapinch-delta-species.DF.69.png",
+      "rarity": "Common",
+      "cardNum": "69/101"
+    },
+    {
+      "name": "Vulpix  (delta species)",
+      "set": "EX Dragon Frontiers",
+      "img": "https://den-cards.pokellector.com/66/Vulpix-.DF.70.png",
+      "rarity": "Common",
+      "cardNum": "70/101"
+    },
+    {
+      "name": "Wooper  (delta species)",
+      "set": "EX Dragon Frontiers",
+      "img": "https://den-cards.pokellector.com/66/Wooper-delta-species.DF.71.png",
+      "rarity": "Common",
+      "cardNum": "71/101"
+    },
+    {
+      "name": "Buffer Piece",
+      "set": "EX Dragon Frontiers",
+      "img": "https://den-cards.pokellector.com/66/Buffer-Piece.DF.72.png",
+      "rarity": "Uncommon",
+      "cardNum": "72/101"
+    },
+    {
+      "name": "Copycat",
+      "set": "EX Dragon Frontiers",
+      "img": "https://den-cards.pokellector.com/66/Copycat.DF.73.png",
+      "rarity": "Uncommon",
+      "cardNum": "73/101"
+    },
+    {
+      "name": "Holon Legacy",
+      "set": "EX Dragon Frontiers",
+      "img": "https://den-cards.pokellector.com/66/Holon-Legacy.DF.74.png",
+      "rarity": "Uncommon",
+      "cardNum": "74/101"
+    },
+    {
+      "name": "Holon Mentor",
+      "set": "EX Dragon Frontiers",
+      "img": "https://den-cards.pokellector.com/66/Holon-Mentor.DF.75.png",
+      "rarity": "Uncommon",
+      "cardNum": "75/101"
+    },
+    {
+      "name": "Island Hermit",
+      "set": "EX Dragon Frontiers",
+      "img": "https://den-cards.pokellector.com/66/Island-Hermit.DF.76.png",
+      "rarity": "Uncommon",
+      "cardNum": "76/101"
+    },
+    {
+      "name": "Mr. Stone's Project",
+      "set": "EX Dragon Frontiers",
+      "img": "https://den-cards.pokellector.com/66/Mr-Stones-Project.DF.77.png",
+      "rarity": "Uncommon",
+      "cardNum": "77/101"
+    },
+    {
+      "name": "Old Rod",
+      "set": "EX Dragon Frontiers",
+      "img": "https://den-cards.pokellector.com/66/Old-Rod.DF.78.png",
+      "rarity": "Uncommon",
+      "cardNum": "78/101"
+    },
+    {
+      "name": "Professor Elm's Training Method",
+      "set": "EX Dragon Frontiers",
+      "img": "https://den-cards.pokellector.com/66/Professor-Elms-Training-Method.DF.79.png",
+      "rarity": "Uncommon",
+      "cardNum": "79/101"
+    },
+    {
+      "name": "Professor Oak's Research",
+      "set": "EX Dragon Frontiers",
+      "img": "https://den-cards.pokellector.com/66/Professor-Oaks-Research.DF.80.png",
+      "rarity": "Uncommon",
+      "cardNum": "80/101"
+    },
+    {
+      "name": "Strength Charm",
+      "set": "EX Dragon Frontiers",
+      "img": "https://den-cards.pokellector.com/66/Strength-Charm.DF.81.png",
+      "rarity": "Uncommon",
+      "cardNum": "81/101"
+    },
+    {
+      "name": "TV Reporter",
+      "set": "EX Dragon Frontiers",
+      "img": "https://den-cards.pokellector.com/66/TV-Reporter.DF.82.png",
+      "rarity": "Uncommon",
+      "cardNum": "82/101"
+    },
+    {
+      "name": "Switch",
+      "set": "EX Dragon Frontiers",
+      "img": "https://den-cards.pokellector.com/66/Switch.DF.83.png",
+      "rarity": "Uncommon",
+      "cardNum": "83/101"
+    },
+    {
+      "name": "Holon Energy FF",
+      "set": "EX Dragon Frontiers",
+      "img": "https://den-cards.pokellector.com/66/Holon-Energy-FF.DF.84.png",
+      "rarity": "Rare",
+      "cardNum": "84/101"
+    },
+    {
+      "name": "Holon Energy GL",
+      "set": "EX Dragon Frontiers",
+      "img": "https://den-cards.pokellector.com/66/Holon-Energy-GL.DF.85.png",
+      "rarity": "Rare",
+      "cardNum": "85/101"
+    },
+    {
+      "name": "Holon Energy WP",
+      "set": "EX Dragon Frontiers",
+      "img": "https://den-cards.pokellector.com/66/Holon-Energy-WP.DF.86.png",
+      "rarity": "Rare",
+      "cardNum": "86/101"
+    },
+    {
+      "name": "Boost Energy",
+      "set": "EX Dragon Frontiers",
+      "img": "https://den-cards.pokellector.com/66/Boost-Energy.DF.87.png",
+      "rarity": "Uncommon",
+      "cardNum": "87/101"
+    },
+    {
+      "name": "Î´ Rainbow Energy",
+      "set": "EX Dragon Frontiers",
+      "img": "https://den-cards.pokellector.com/66/-Rainbow-Energy.DF.88.png",
+      "rarity": "Uncommon",
+      "cardNum": "88/101"
+    },
+    {
+      "name": "Scramble Energy",
+      "set": "EX Dragon Frontiers",
+      "img": "https://den-cards.pokellector.com/66/Scramble-Energy.DF.89.png",
+      "rarity": "Uncommon",
+      "cardNum": "89/101"
+    },
+    {
+      "name": "Altaria ex  (delta species)",
+      "set": "EX Dragon Frontiers",
+      "img": "https://den-cards.pokellector.com/66/Altaria-ex-.DF.90.png",
+      "rarity": "Rare",
+      "cardNum": "90/101"
+    },
+    {
+      "name": "Dragonite ex  (delta species)",
+      "set": "EX Dragon Frontiers",
+      "img": "https://den-cards.pokellector.com/66/Dragonite-ex-delta-species.DF.91.png",
+      "rarity": "Rare",
+      "cardNum": "91/101"
+    },
+    {
+      "name": "Flygon ex  (delta species)",
+      "set": "EX Dragon Frontiers",
+      "img": "https://den-cards.pokellector.com/66/Flygon-ex-delta-species.DF.92.png",
+      "rarity": "Rare",
+      "cardNum": "92/101"
+    },
+    {
+      "name": "Gardevoir ex (delta species)",
+      "set": "EX Dragon Frontiers",
+      "img": "https://den-cards.pokellector.com/66/Gardevoir-ex-delta-species.DF.93.png",
+      "rarity": "Rare",
+      "cardNum": "93/101"
+    },
+    {
+      "name": "Kingdra ex  (delta species)",
+      "set": "EX Dragon Frontiers",
+      "img": "https://den-cards.pokellector.com/66/Kingdra-ex-delta-species.DF.94.png",
+      "rarity": "Rare",
+      "cardNum": "94/101"
+    },
+    {
+      "name": "Latias ex (delta species)",
+      "set": "EX Dragon Frontiers",
+      "img": "https://den-cards.pokellector.com/66/Latias-ex-.DF.95.png",
+      "rarity": "Rare",
+      "cardNum": "95/101"
+    },
+    {
+      "name": "Latios ex (delta species)",
+      "set": "EX Dragon Frontiers",
+      "img": "https://den-cards.pokellector.com/66/Latios-ex-.DF.96.png",
+      "rarity": "Rare",
+      "cardNum": "96/101"
+    },
+    {
+      "name": "Rayquaza ex (delta species)",
+      "set": "EX Dragon Frontiers",
+      "img": "https://den-cards.pokellector.com/66/Rayquaza-ex-delta-species.DF.97.png",
+      "rarity": "Rare",
+      "cardNum": "97/101"
+    },
+    {
+      "name": "Salamence ex (delta species)",
+      "set": "EX Dragon Frontiers",
+      "img": "https://den-cards.pokellector.com/66/Salamence-ex-delta-species.DF.98.png",
+      "rarity": "Rare",
+      "cardNum": "98/101"
+    },
+    {
+      "name": "Tyranitar ex (delta species)",
+      "set": "EX Dragon Frontiers",
+      "img": "https://den-cards.pokellector.com/66/Tyranitar-ex-delta-species.DF.99.png",
+      "rarity": "Rare",
+      "cardNum": "99/101"
+    },
+    {
+      "name": "Charizard â˜†  (delta species)",
+      "set": "EX Dragon Frontiers",
+      "img": "https://den-cards.pokellector.com/66/Charizard-delta-species.DF.100.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "100/101"
+    },
+    {
+      "name": "Mew â˜†  (delta species)",
+      "set": "EX Dragon Frontiers",
+      "img": "https://den-cards.pokellector.com/66/Mew-delta-species.DF.101.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "101/101"
+    }
+  ]
+}

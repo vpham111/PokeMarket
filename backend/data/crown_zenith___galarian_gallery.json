@@ -1,0 +1,495 @@
+{
+  "setName": "Crown Zenith - Galarian Gallery",
+  "cards": [
+    {
+      "name": "Hisuian Voltorb",
+      "set": "Crown Zenith - Galarian Gallery",
+      "img": "https://den-cards.pokellector.com/365/Hisuian-Voltorb.GG.GG1.46500.png",
+      "rarity": "Common",
+      "cardNum": "GG1"
+    },
+    {
+      "name": "Kricketune",
+      "set": "Crown Zenith - Galarian Gallery",
+      "img": "https://den-cards.pokellector.com/365/Kricketune.GG.GG2.46501.png",
+      "rarity": "Common",
+      "cardNum": "GG2"
+    },
+    {
+      "name": "Magmortar",
+      "set": "Crown Zenith - Galarian Gallery",
+      "img": "https://den-cards.pokellector.com/365/Magmortar.GG.GG3.46502.png",
+      "rarity": "Common",
+      "cardNum": "GG3"
+    },
+    {
+      "name": "Oricorio",
+      "set": "Crown Zenith - Galarian Gallery",
+      "img": "https://den-cards.pokellector.com/365/Oricorio.GG.GG4.46503.png",
+      "rarity": "Common",
+      "cardNum": "GG4"
+    },
+    {
+      "name": "Lapras",
+      "set": "Crown Zenith - Galarian Gallery",
+      "img": "https://den-cards.pokellector.com/365/Lapras.GG.GG5.46211.png",
+      "rarity": "Common",
+      "cardNum": "GG5"
+    },
+    {
+      "name": "Manaphy",
+      "set": "Crown Zenith - Galarian Gallery",
+      "img": "https://den-cards.pokellector.com/365/Manaphy.GG.GG6.46505.png",
+      "rarity": "Common",
+      "cardNum": "GG6"
+    },
+    {
+      "name": "Keldeo",
+      "set": "Crown Zenith - Galarian Gallery",
+      "img": "https://den-cards.pokellector.com/365/Keldeo.GG.GG7.46506.png",
+      "rarity": "Common",
+      "cardNum": "GG7"
+    },
+    {
+      "name": "Electivire",
+      "set": "Crown Zenith - Galarian Gallery",
+      "img": "https://den-cards.pokellector.com/365/Electivire.GG.GG8.46507.png",
+      "rarity": "Common",
+      "cardNum": "GG8"
+    },
+    {
+      "name": "Toxtricity",
+      "set": "Crown Zenith - Galarian Gallery",
+      "img": "https://den-cards.pokellector.com/365/Toxtricity.GG.GG9.46508.png",
+      "rarity": "Common",
+      "cardNum": "GG9"
+    },
+    {
+      "name": "Mew",
+      "set": "Crown Zenith - Galarian Gallery",
+      "img": "https://den-cards.pokellector.com/365/Mew.GG.GG10.46509.png",
+      "rarity": "Common",
+      "cardNum": "GG10"
+    },
+    {
+      "name": "Lunatone",
+      "set": "Crown Zenith - Galarian Gallery",
+      "img": "https://den-cards.pokellector.com/365/Lunatone.GG.GG11.46510.png",
+      "rarity": "Common",
+      "cardNum": "GG11"
+    },
+    {
+      "name": "Deoxys",
+      "set": "Crown Zenith - Galarian Gallery",
+      "img": "https://den-cards.pokellector.com/365/Deoxys.GG.GG12.46511.png",
+      "rarity": "Common",
+      "cardNum": "GG12"
+    },
+    {
+      "name": "Diancie",
+      "set": "Crown Zenith - Galarian Gallery",
+      "img": "https://den-cards.pokellector.com/365/Diancie.GG.GG13.46512.png",
+      "rarity": "Common",
+      "cardNum": "GG13"
+    },
+    {
+      "name": "Comfey",
+      "set": "Crown Zenith - Galarian Gallery",
+      "img": "https://den-cards.pokellector.com/365/Comfey.GG.GG14.46513.png",
+      "rarity": "Common",
+      "cardNum": "GG14"
+    },
+    {
+      "name": "Solrock",
+      "set": "Crown Zenith - Galarian Gallery",
+      "img": "https://den-cards.pokellector.com/365/Solrock.GG.GG15.46514.png",
+      "rarity": "Common",
+      "cardNum": "GG15"
+    },
+    {
+      "name": "Absol",
+      "set": "Crown Zenith - Galarian Gallery",
+      "img": "https://den-cards.pokellector.com/365/Absol.GG.GG16.46515.png",
+      "rarity": "Common",
+      "cardNum": "GG16"
+    },
+    {
+      "name": "Thievul",
+      "set": "Crown Zenith - Galarian Gallery",
+      "img": "https://den-cards.pokellector.com/365/Thievul.GG.GG17.46212.png",
+      "rarity": "Common",
+      "cardNum": "GG17"
+    },
+    {
+      "name": "Magnezone",
+      "set": "Crown Zenith - Galarian Gallery",
+      "img": "https://den-cards.pokellector.com/365/Magnezone.GG.GG18.46517.png",
+      "rarity": "Common",
+      "cardNum": "GG18"
+    },
+    {
+      "name": "Altaria",
+      "set": "Crown Zenith - Galarian Gallery",
+      "img": "https://den-cards.pokellector.com/365/Altaria.GG.GG19.46204.png",
+      "rarity": "Common",
+      "cardNum": "GG19"
+    },
+    {
+      "name": "Latias",
+      "set": "Crown Zenith - Galarian Gallery",
+      "img": "https://den-cards.pokellector.com/365/Latias.GG.GG20.46519.png",
+      "rarity": "Common",
+      "cardNum": "GG20"
+    },
+    {
+      "name": "Hisuian Goodra",
+      "set": "Crown Zenith - Galarian Gallery",
+      "img": "https://den-cards.pokellector.com/365/Hisuian-Goodra.GG.GG21.46520.png",
+      "rarity": "Common",
+      "cardNum": "GG21"
+    },
+    {
+      "name": "Ditto",
+      "set": "Crown Zenith - Galarian Gallery",
+      "img": "https://den-cards.pokellector.com/365/Ditto.GG.GG22.46206.png",
+      "rarity": "Common",
+      "cardNum": "GG22"
+    },
+    {
+      "name": "Dunsparce",
+      "set": "Crown Zenith - Galarian Gallery",
+      "img": "https://den-cards.pokellector.com/365/Dunsparce.GG.GG23.46522.png",
+      "rarity": "Common",
+      "cardNum": "GG23"
+    },
+    {
+      "name": "Miltank",
+      "set": "Crown Zenith - Galarian Gallery",
+      "img": "https://den-cards.pokellector.com/365/Miltank.GG.GG24.46201.png",
+      "rarity": "Common",
+      "cardNum": "GG24"
+    },
+    {
+      "name": "Bibarel",
+      "set": "Crown Zenith - Galarian Gallery",
+      "img": "https://den-cards.pokellector.com/365/Bibarel.GG.GG25.46207.png",
+      "rarity": "Common",
+      "cardNum": "GG25"
+    },
+    {
+      "name": "Riolu",
+      "set": "Crown Zenith - Galarian Gallery",
+      "img": "https://den-cards.pokellector.com/365/Riolu.GG.GG26.46525.png",
+      "rarity": "Common",
+      "cardNum": "GG26"
+    },
+    {
+      "name": "Swablu",
+      "set": "Crown Zenith - Galarian Gallery",
+      "img": "https://den-cards.pokellector.com/365/Swablu.GG.GG27.46526.png",
+      "rarity": "Common",
+      "cardNum": "GG27"
+    },
+    {
+      "name": "Duskull",
+      "set": "Crown Zenith - Galarian Gallery",
+      "img": "https://den-cards.pokellector.com/365/Duskull.GG.GG28.46527.png",
+      "rarity": "Common",
+      "cardNum": "GG28"
+    },
+    {
+      "name": "Bidoof",
+      "set": "Crown Zenith - Galarian Gallery",
+      "img": "https://den-cards.pokellector.com/365/Bidoof.GG.GG29.46528.png",
+      "rarity": "Common",
+      "cardNum": "GG29"
+    },
+    {
+      "name": "Pikachu",
+      "set": "Crown Zenith - Galarian Gallery",
+      "img": "https://den-cards.pokellector.com/365/Pikachu.GG.GG30.46529.png",
+      "rarity": "Common",
+      "cardNum": "GG30"
+    },
+    {
+      "name": "Turtwig",
+      "set": "Crown Zenith - Galarian Gallery",
+      "img": "https://den-cards.pokellector.com/365/Turtwig.GG.GG31.46530.png",
+      "rarity": "Common",
+      "cardNum": "GG31"
+    },
+    {
+      "name": "Paras",
+      "set": "Crown Zenith - Galarian Gallery",
+      "img": "https://den-cards.pokellector.com/365/Paras.GG.GG32.46531.png",
+      "rarity": "Common",
+      "cardNum": "GG32"
+    },
+    {
+      "name": "Poochyena",
+      "set": "Crown Zenith - Galarian Gallery",
+      "img": "https://den-cards.pokellector.com/365/Poochyena.GG.GG33.46532.png",
+      "rarity": "Common",
+      "cardNum": "GG33"
+    },
+    {
+      "name": "Mareep",
+      "set": "Crown Zenith - Galarian Gallery",
+      "img": "https://den-cards.pokellector.com/365/Mareep.GG.GG34.46533.png",
+      "rarity": "Common",
+      "cardNum": "GG34"
+    },
+    {
+      "name": "Leafeon VSTAR",
+      "set": "Crown Zenith - Galarian Gallery",
+      "img": "https://den-cards.pokellector.com/365/Leafeon-VSTAR.GG.GG35.46210.png",
+      "rarity": "Common",
+      "cardNum": "GG35"
+    },
+    {
+      "name": "Entei V",
+      "set": "Crown Zenith - Galarian Gallery",
+      "img": "https://den-cards.pokellector.com/365/Entei-V.GG.GG36.46535.png",
+      "rarity": "Common",
+      "cardNum": "GG36"
+    },
+    {
+      "name": "Simisear VSTAR",
+      "set": "Crown Zenith - Galarian Gallery",
+      "img": "https://den-cards.pokellector.com/365/Simisear-VSTAR.GG.GG37.46536.png",
+      "rarity": "Common",
+      "cardNum": "GG37"
+    },
+    {
+      "name": "Suicune V",
+      "set": "Crown Zenith - Galarian Gallery",
+      "img": "https://den-cards.pokellector.com/365/Suicune-V.GG.GG38.46537.png",
+      "rarity": "Common",
+      "cardNum": "GG38"
+    },
+    {
+      "name": "Lumineon V",
+      "set": "Crown Zenith - Galarian Gallery",
+      "img": "https://den-cards.pokellector.com/365/Lumineon-V.GG.GG39.46538.png",
+      "rarity": "Common",
+      "cardNum": "GG39"
+    },
+    {
+      "name": "Glaceon VSTAR",
+      "set": "Crown Zenith - Galarian Gallery",
+      "img": "https://den-cards.pokellector.com/365/Glaceon-VSTAR.GG.GG40.46209.png",
+      "rarity": "Common",
+      "cardNum": "GG40"
+    },
+    {
+      "name": "Raikou V",
+      "set": "Crown Zenith - Galarian Gallery",
+      "img": "https://den-cards.pokellector.com/365/Raikou-V.GG.GG41.46540.png",
+      "rarity": "Common",
+      "cardNum": "GG41"
+    },
+    {
+      "name": "Zeraora VMAX",
+      "set": "Crown Zenith - Galarian Gallery",
+      "img": "https://den-cards.pokellector.com/365/Zeraora-VMAX.GG.GG42.46215.png",
+      "rarity": "Common",
+      "cardNum": "GG42"
+    },
+    {
+      "name": "Zeraora VSTAR",
+      "set": "Crown Zenith - Galarian Gallery",
+      "img": "https://den-cards.pokellector.com/365/Zeraora-VSTAR.GG.GG43.46542.png",
+      "rarity": "Common",
+      "cardNum": "GG43"
+    },
+    {
+      "name": "Mewtwo VSTAR",
+      "set": "Crown Zenith - Galarian Gallery",
+      "img": "https://den-cards.pokellector.com/365/Mewtwo-VSTAR.GG.GG44.46213.png",
+      "rarity": "Common",
+      "cardNum": "GG44"
+    },
+    {
+      "name": "Deoxys VMAX",
+      "set": "Crown Zenith - Galarian Gallery",
+      "img": "https://den-cards.pokellector.com/365/Deoxys-VMAX.GG.GG45.46218.png",
+      "rarity": "Common",
+      "cardNum": "GG45"
+    },
+    {
+      "name": "Deoxys VSTAR",
+      "set": "Crown Zenith - Galarian Gallery",
+      "img": "https://den-cards.pokellector.com/365/Dexoys-VSTAR.GG.GG46.46545.png",
+      "rarity": "Common",
+      "cardNum": "GG46"
+    },
+    {
+      "name": "Hatterene VMAX",
+      "set": "Crown Zenith - Galarian Gallery",
+      "img": "https://den-cards.pokellector.com/365/Hatterene-VMAX.GG.GG47.46546.png",
+      "rarity": "Common",
+      "cardNum": "GG47"
+    },
+    {
+      "name": "Zacian V",
+      "set": "Crown Zenith - Galarian Gallery",
+      "img": "https://den-cards.pokellector.com/365/Zacian-V.GG.GG48.46547.png",
+      "rarity": "Common",
+      "cardNum": "GG48"
+    },
+    {
+      "name": "Drapion V",
+      "set": "Crown Zenith - Galarian Gallery",
+      "img": "https://den-cards.pokellector.com/365/Drapion-V.GG.GG49.46548.png",
+      "rarity": "Common",
+      "cardNum": "GG49"
+    },
+    {
+      "name": "Darkrai VSTAR",
+      "set": "Crown Zenith - Galarian Gallery",
+      "img": "https://den-cards.pokellector.com/365/Darkrai-VSTAR.GG.GG50.46549.png",
+      "rarity": "Common",
+      "cardNum": "GG50"
+    },
+    {
+      "name": "Hisuian Samurott V",
+      "set": "Crown Zenith - Galarian Gallery",
+      "img": "https://den-cards.pokellector.com/365/Hisuian-Samurott-V.GG.GG51.46550.png",
+      "rarity": "Common",
+      "cardNum": "GG51"
+    },
+    {
+      "name": "Hisuian Samurott VSTAR",
+      "set": "Crown Zenith - Galarian Gallery",
+      "img": "https://den-cards.pokellector.com/365/Hisuian-Samurott-VSTAR.GG.GG52.46551.png",
+      "rarity": "Common",
+      "cardNum": "GG52"
+    },
+    {
+      "name": "Hoopa V",
+      "set": "Crown Zenith - Galarian Gallery",
+      "img": "https://den-cards.pokellector.com/365/Hoopa-V.GG.GG53.46217.png",
+      "rarity": "Common",
+      "cardNum": "GG53"
+    },
+    {
+      "name": "Zamazenta V",
+      "set": "Crown Zenith - Galarian Gallery",
+      "img": "https://den-cards.pokellector.com/365/Zamazenta-V.GG.GG54.46553.png",
+      "rarity": "Common",
+      "cardNum": "GG54"
+    },
+    {
+      "name": "Regigigas VSTAR",
+      "set": "Crown Zenith - Galarian Gallery",
+      "img": "https://den-cards.pokellector.com/365/Regigigas-VSTAR.GG.GG55.46554.png",
+      "rarity": "Common",
+      "cardNum": "GG55"
+    },
+    {
+      "name": "Hisuian Zoroark VSTAR",
+      "set": "Crown Zenith - Galarian Gallery",
+      "img": "https://den-cards.pokellector.com/365/Hisuian-Zoroark-VSTAR.GG.GG56.46208.png",
+      "rarity": "Common",
+      "cardNum": "GG56"
+    },
+    {
+      "name": "Adaman",
+      "set": "Crown Zenith - Galarian Gallery",
+      "img": "https://den-cards.pokellector.com/365/Adaman.GG.GG57.46556.png",
+      "rarity": "Common",
+      "cardNum": "GG57"
+    },
+    {
+      "name": "Cheren's Care",
+      "set": "Crown Zenith - Galarian Gallery",
+      "img": "https://den-cards.pokellector.com/365/Cherens-Care.GG.GG58.46557.png",
+      "rarity": "Common",
+      "cardNum": "GG58"
+    },
+    {
+      "name": "Colress's Experiment",
+      "set": "Crown Zenith - Galarian Gallery",
+      "img": "https://den-cards.pokellector.com/365/Colresss-Experiment.GG.GG59.46558.png",
+      "rarity": "Common",
+      "cardNum": "GG59"
+    },
+    {
+      "name": "Cynthia's Ambition",
+      "set": "Crown Zenith - Galarian Gallery",
+      "img": "https://den-cards.pokellector.com/365/Cynthias-Ambition.GG.GG60.46216.png",
+      "rarity": "Common",
+      "cardNum": "GG60"
+    },
+    {
+      "name": "Gardenia's Vigor",
+      "set": "Crown Zenith - Galarian Gallery",
+      "img": "https://den-cards.pokellector.com/365/Gardenias-Vigor.GG.GG61.46214.png",
+      "rarity": "Common",
+      "cardNum": "GG61"
+    },
+    {
+      "name": "Grant",
+      "set": "Crown Zenith - Galarian Gallery",
+      "img": "https://den-cards.pokellector.com/365/Grant.GG.GG62.46561.png",
+      "rarity": "Common",
+      "cardNum": "GG62"
+    },
+    {
+      "name": "Irida",
+      "set": "Crown Zenith - Galarian Gallery",
+      "img": "https://den-cards.pokellector.com/365/Irida.GG.GG63.46562.png",
+      "rarity": "Common",
+      "cardNum": "GG63"
+    },
+    {
+      "name": "Melony",
+      "set": "Crown Zenith - Galarian Gallery",
+      "img": "https://den-cards.pokellector.com/365/Melody.GG.GG64.46200.png",
+      "rarity": "Common",
+      "cardNum": "GG64"
+    },
+    {
+      "name": "Raihan",
+      "set": "Crown Zenith - Galarian Gallery",
+      "img": "https://den-cards.pokellector.com/365/Raihan.GG.GG65.46219.png",
+      "rarity": "Common",
+      "cardNum": "GG65"
+    },
+    {
+      "name": "Roxanne",
+      "set": "Crown Zenith - Galarian Gallery",
+      "img": "https://den-cards.pokellector.com/365/Roxanne.GG.GG66.46565.png",
+      "rarity": "Common",
+      "cardNum": "GG66"
+    },
+    {
+      "name": "Origin Forme Palkia VSTAR",
+      "set": "Crown Zenith - Galarian Gallery",
+      "img": "https://den-cards.pokellector.com/365/Origin-Forme-Palkia-VSTAR.GG.GG67.46566.png",
+      "rarity": "Common",
+      "cardNum": "GG67"
+    },
+    {
+      "name": "Origin Forme Dialga VSTAR",
+      "set": "Crown Zenith - Galarian Gallery",
+      "img": "https://den-cards.pokellector.com/365/Origin-Forme-Dialga-VSTAR.GG.GG68.46567.png",
+      "rarity": "Common",
+      "cardNum": "GG68"
+    },
+    {
+      "name": "Giratina VSTAR",
+      "set": "Crown Zenith - Galarian Gallery",
+      "img": "https://den-cards.pokellector.com/365/Giratina-VSTAR.GG.GG69.46568.png",
+      "rarity": "Common",
+      "cardNum": "GG69"
+    },
+    {
+      "name": "Arceus VSTAR",
+      "set": "Crown Zenith - Galarian Gallery",
+      "img": "https://den-cards.pokellector.com/365/Arceus-VSTAR.GG.GG70.46569.png",
+      "rarity": "Common",
+      "cardNum": "GG70"
+    }
+  ]
+}

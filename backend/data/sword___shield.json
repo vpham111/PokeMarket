@@ -1,0 +1,1517 @@
+{
+  "setName": "Sword & Shield",
+  "cards": [
+    {
+      "name": "Celebi V",
+      "set": "Sword & Shield",
+      "img": "https://den-cards.pokellector.com/286/Celebi-V.SH01.1.31337.png",
+      "rarity": "Rare",
+      "cardNum": "1/202"
+    },
+    {
+      "name": "Roselia",
+      "set": "Sword & Shield",
+      "img": "https://den-cards.pokellector.com/286/Roselia.SH01.2.31427.png",
+      "rarity": "Common",
+      "cardNum": "2/202"
+    },
+    {
+      "name": "Roselia",
+      "set": "Sword & Shield",
+      "img": "https://den-cards.pokellector.com/286/Roselia.SH01.3.31428.png",
+      "rarity": "Common",
+      "cardNum": "3/202"
+    },
+    {
+      "name": "Roserade",
+      "set": "Sword & Shield",
+      "img": "https://den-cards.pokellector.com/286/Roserade.SH01.4.31429.png",
+      "rarity": "Rare",
+      "cardNum": "4/202"
+    },
+    {
+      "name": "Cottonee",
+      "set": "Sword & Shield",
+      "img": "https://den-cards.pokellector.com/286/Cottonee.SH01.5.31430.png",
+      "rarity": "Common",
+      "cardNum": "5/202"
+    },
+    {
+      "name": "Whimsicott",
+      "set": "Sword & Shield",
+      "img": "https://den-cards.pokellector.com/286/Whimsicott.SH01.6.31431.png",
+      "rarity": "Rare",
+      "cardNum": "6/202"
+    },
+    {
+      "name": "Maractus",
+      "set": "Sword & Shield",
+      "img": "https://den-cards.pokellector.com/286/Maractus.SH01.7.31432.png",
+      "rarity": "Common",
+      "cardNum": "7/202"
+    },
+    {
+      "name": "Durant",
+      "set": "Sword & Shield",
+      "img": "https://den-cards.pokellector.com/286/Durant.SH01.8.31433.png",
+      "rarity": "Rare",
+      "cardNum": "8/202"
+    },
+    {
+      "name": "Dhelmise V",
+      "set": "Sword & Shield",
+      "img": "https://den-cards.pokellector.com/286/Dhelmise-V.SH01.9.31434.png",
+      "rarity": "Rare",
+      "cardNum": "9/202"
+    },
+    {
+      "name": "Grookey",
+      "set": "Sword & Shield",
+      "img": "https://den-cards.pokellector.com/286/Grookey.SH01.10.31435.png",
+      "rarity": "Common",
+      "cardNum": "10/202"
+    },
+    {
+      "name": "Grookey",
+      "set": "Sword & Shield",
+      "img": "https://den-cards.pokellector.com/286/Grookey.SH01.1.30177.png",
+      "rarity": "Common",
+      "cardNum": "11/202"
+    },
+    {
+      "name": "Thwackey",
+      "set": "Sword & Shield",
+      "img": "https://den-cards.pokellector.com/286/Thwackey.SH01.12.31436.png",
+      "rarity": "Uncommon",
+      "cardNum": "12/202"
+    },
+    {
+      "name": "Thwackey",
+      "set": "Sword & Shield",
+      "img": "https://den-cards.pokellector.com/286/Thwackey.SH01.13.31437.png",
+      "rarity": "Uncommon",
+      "cardNum": "13/202"
+    },
+    {
+      "name": "Rillaboom",
+      "set": "Sword & Shield",
+      "img": "https://den-cards.pokellector.com/286/Rillaboom.SH01.14.31273.png",
+      "rarity": "Rare",
+      "cardNum": "14/202"
+    },
+    {
+      "name": "Rillaboom",
+      "set": "Sword & Shield",
+      "img": "https://den-cards.pokellector.com/286/Rillaboom.SH01.15.31438.png",
+      "rarity": "Rare",
+      "cardNum": "15/202"
+    },
+    {
+      "name": "Blipbug",
+      "set": "Sword & Shield",
+      "img": "https://den-cards.pokellector.com/286/Blipbug.SH01.16.31439.png",
+      "rarity": "Common",
+      "cardNum": "16/202"
+    },
+    {
+      "name": "Blipbug",
+      "set": "Sword & Shield",
+      "img": "https://den-cards.pokellector.com/286/Blipbug.SH01.17.31440.png",
+      "rarity": "Common",
+      "cardNum": "17/202"
+    },
+    {
+      "name": "Dottler",
+      "set": "Sword & Shield",
+      "img": "https://den-cards.pokellector.com/286/Dottler.SH01.18.31441.png",
+      "rarity": "Uncommon",
+      "cardNum": "18/202"
+    },
+    {
+      "name": "Orbeetle",
+      "set": "Sword & Shield",
+      "img": "https://den-cards.pokellector.com/286/Orbeetle.SH01.19.31442.png",
+      "rarity": "Rare",
+      "cardNum": "19/202"
+    },
+    {
+      "name": "Gossifleur",
+      "set": "Sword & Shield",
+      "img": "https://den-cards.pokellector.com/286/Gossifleur.SH01.20.31443.png",
+      "rarity": "Common",
+      "cardNum": "20/202"
+    },
+    {
+      "name": "Eldegoss",
+      "set": "Sword & Shield",
+      "img": "https://den-cards.pokellector.com/286/Eldegoss.SH01.21.31444.png",
+      "rarity": "Uncommon",
+      "cardNum": "21/202"
+    },
+    {
+      "name": "Vulpix",
+      "set": "Sword & Shield",
+      "img": "https://den-cards.pokellector.com/286/Vulpix.SH01.22.31445.png",
+      "rarity": "Common",
+      "cardNum": "22/202"
+    },
+    {
+      "name": "Ninetales",
+      "set": "Sword & Shield",
+      "img": "https://den-cards.pokellector.com/286/Ninetales.SH01.23.31446.png",
+      "rarity": "Rare",
+      "cardNum": "23/202"
+    },
+    {
+      "name": "Torkoal V",
+      "set": "Sword & Shield",
+      "img": "https://den-cards.pokellector.com/286/Torkoal-V.SH01.24.31447.png",
+      "rarity": "Rare",
+      "cardNum": "24/202"
+    },
+    {
+      "name": "Victini V",
+      "set": "Sword & Shield",
+      "img": "https://den-cards.pokellector.com/286/Victini-V.SH01.25.31341.png",
+      "rarity": "Rare",
+      "cardNum": "25/202"
+    },
+    {
+      "name": "Heatmor",
+      "set": "Sword & Shield",
+      "img": "https://den-cards.pokellector.com/286/Heatmor.SH01.26.31448.png",
+      "rarity": "Uncommon",
+      "cardNum": "26/202"
+    },
+    {
+      "name": "Salandit",
+      "set": "Sword & Shield",
+      "img": "https://den-cards.pokellector.com/286/Salandit.SH01.27.31449.png",
+      "rarity": "Common",
+      "cardNum": "27/202"
+    },
+    {
+      "name": "Salazzle",
+      "set": "Sword & Shield",
+      "img": "https://den-cards.pokellector.com/286/Salazzle.SH01.28.31450.png",
+      "rarity": "Uncommon",
+      "cardNum": "28/202"
+    },
+    {
+      "name": "Turtonator",
+      "set": "Sword & Shield",
+      "img": "https://den-cards.pokellector.com/286/Turtonator.SH01.29.31451.png",
+      "rarity": "Rare",
+      "cardNum": "29/202"
+    },
+    {
+      "name": "Scorbunny",
+      "set": "Sword & Shield",
+      "img": "https://den-cards.pokellector.com/286/Scorbunny.SH01.30.31452.png",
+      "rarity": "Common",
+      "cardNum": "30/202"
+    },
+    {
+      "name": "Scorbunny",
+      "set": "Sword & Shield",
+      "img": "https://den-cards.pokellector.com/286/Scorbunny.SH01.31.30178.png",
+      "rarity": "Common",
+      "cardNum": "31/202"
+    },
+    {
+      "name": "Raboot",
+      "set": "Sword & Shield",
+      "img": "https://den-cards.pokellector.com/286/Raboot.SH01.32.31453.png",
+      "rarity": "Uncommon",
+      "cardNum": "32/202"
+    },
+    {
+      "name": "Raboot",
+      "set": "Sword & Shield",
+      "img": "https://den-cards.pokellector.com/286/Raboot.SH01.33.31454.png",
+      "rarity": "Uncommon",
+      "cardNum": "33/202"
+    },
+    {
+      "name": "Cinderace",
+      "set": "Sword & Shield",
+      "img": "https://den-cards.pokellector.com/286/Cinderace.SH01.34.31333.png",
+      "rarity": "Rare",
+      "cardNum": "34/202"
+    },
+    {
+      "name": "Cinderace",
+      "set": "Sword & Shield",
+      "img": "https://den-cards.pokellector.com/286/Cinderace.SH01.35.31455.png",
+      "rarity": "Rare",
+      "cardNum": "35/202"
+    },
+    {
+      "name": "Cinderace",
+      "set": "Sword & Shield",
+      "img": "https://den-cards.pokellector.com/286/Cinderace.SH01.36.31456.png",
+      "rarity": "Rare",
+      "cardNum": "36/202"
+    },
+    {
+      "name": "Sizzlipede",
+      "set": "Sword & Shield",
+      "img": "https://den-cards.pokellector.com/286/Sizzlipede.SH01.37.31457.png",
+      "rarity": "Common",
+      "cardNum": "37/202"
+    },
+    {
+      "name": "Sizzlipede",
+      "set": "Sword & Shield",
+      "img": "https://den-cards.pokellector.com/286/Sizzlipede.SH01.38.31458.png",
+      "rarity": "Common",
+      "cardNum": "38/202"
+    },
+    {
+      "name": "Centiskorch",
+      "set": "Sword & Shield",
+      "img": "https://den-cards.pokellector.com/286/Centiskorch.SH01.39.31459.png",
+      "rarity": "Rare",
+      "cardNum": "39/202"
+    },
+    {
+      "name": "Shellder",
+      "set": "Sword & Shield",
+      "img": "https://den-cards.pokellector.com/286/Shellder.SH01.40.31460.png",
+      "rarity": "Common",
+      "cardNum": "40/202"
+    },
+    {
+      "name": "Cloyster",
+      "set": "Sword & Shield",
+      "img": "https://den-cards.pokellector.com/286/Cloyster.SH01.41.31461.png",
+      "rarity": "Rare",
+      "cardNum": "41/202"
+    },
+    {
+      "name": "Krabby",
+      "set": "Sword & Shield",
+      "img": "https://den-cards.pokellector.com/286/Krabby.SH01.42.31462.png",
+      "rarity": "Common",
+      "cardNum": "42/202"
+    },
+    {
+      "name": "Krabby",
+      "set": "Sword & Shield",
+      "img": "https://den-cards.pokellector.com/286/Krabby.SH01.43.31463.png",
+      "rarity": "Common",
+      "cardNum": "43/202"
+    },
+    {
+      "name": "Kingler",
+      "set": "Sword & Shield",
+      "img": "https://den-cards.pokellector.com/286/Kingler.SH01.44.31464.png",
+      "rarity": "Uncommon",
+      "cardNum": "44/202"
+    },
+    {
+      "name": "Goldeen",
+      "set": "Sword & Shield",
+      "img": "https://den-cards.pokellector.com/286/Goldeen.SH01.45.31465.png",
+      "rarity": "Common",
+      "cardNum": "45/202"
+    },
+    {
+      "name": "Goldeen",
+      "set": "Sword & Shield",
+      "img": "https://den-cards.pokellector.com/286/Goldeen.SH01.46.31466.png",
+      "rarity": "Common",
+      "cardNum": "46/202"
+    },
+    {
+      "name": "Seaking",
+      "set": "Sword & Shield",
+      "img": "https://den-cards.pokellector.com/286/Seaking.SH01.47.31467.png",
+      "rarity": "Uncommon",
+      "cardNum": "47/202"
+    },
+    {
+      "name": "Lapras",
+      "set": "Sword & Shield",
+      "img": "https://den-cards.pokellector.com/286/Lapras.SH01.48.31468.png",
+      "rarity": "Rare",
+      "cardNum": "48/202"
+    },
+    {
+      "name": "Lapras V",
+      "set": "Sword & Shield",
+      "img": "https://den-cards.pokellector.com/286/Lapras-V.SH01.49.31469.png",
+      "rarity": "Rare",
+      "cardNum": "49/202"
+    },
+    {
+      "name": "Lapras VMAX",
+      "set": "Sword & Shield",
+      "img": "https://den-cards.pokellector.com/286/Lapras-VMAX.SH01.50.31274.png",
+      "rarity": "Rare",
+      "cardNum": "50/202"
+    },
+    {
+      "name": "Qwilfish",
+      "set": "Sword & Shield",
+      "img": "https://den-cards.pokellector.com/286/Qwilfish.SH01.51.31470.png",
+      "rarity": "Uncommon",
+      "cardNum": "51/202"
+    },
+    {
+      "name": "Mantine",
+      "set": "Sword & Shield",
+      "img": "https://den-cards.pokellector.com/286/Mantine.SH01.52.31471.png",
+      "rarity": "Uncommon",
+      "cardNum": "52/202"
+    },
+    {
+      "name": "Keldeo V",
+      "set": "Sword & Shield",
+      "img": "https://den-cards.pokellector.com/286/Keldeo-V.SH01.53.31338.png",
+      "rarity": "Rare",
+      "cardNum": "53/202"
+    },
+    {
+      "name": "Sobble",
+      "set": "Sword & Shield",
+      "img": "https://den-cards.pokellector.com/286/Sobble.SH01.54.31472.png",
+      "rarity": "Common",
+      "cardNum": "54/202"
+    },
+    {
+      "name": "Sobble",
+      "set": "Sword & Shield",
+      "img": "https://den-cards.pokellector.com/286/Sobble.SH01.55.30179.png",
+      "rarity": "Common",
+      "cardNum": "55/202"
+    },
+    {
+      "name": "Drizzile",
+      "set": "Sword & Shield",
+      "img": "https://den-cards.pokellector.com/286/Drizzile.SH01.56.31473.png",
+      "rarity": "Uncommon",
+      "cardNum": "56/202"
+    },
+    {
+      "name": "Drizzile",
+      "set": "Sword & Shield",
+      "img": "https://den-cards.pokellector.com/286/Drizzile.SH01.57.31474.png",
+      "rarity": "Uncommon",
+      "cardNum": "57/202"
+    },
+    {
+      "name": "Inteleon",
+      "set": "Sword & Shield",
+      "img": "https://den-cards.pokellector.com/286/Inteleon.SH01.58.31275.png",
+      "rarity": "Rare",
+      "cardNum": "58/202"
+    },
+    {
+      "name": "Inteleon",
+      "set": "Sword & Shield",
+      "img": "https://den-cards.pokellector.com/286/Inteleon.SH01.59.31475.png",
+      "rarity": "Rare",
+      "cardNum": "59/202"
+    },
+    {
+      "name": "Chewtle",
+      "set": "Sword & Shield",
+      "img": "https://den-cards.pokellector.com/286/Chewtle.SH01.60.31476.png",
+      "rarity": "Common",
+      "cardNum": "60/202"
+    },
+    {
+      "name": "Drednaw",
+      "set": "Sword & Shield",
+      "img": "https://den-cards.pokellector.com/286/Drednaw.SH01.61.31477.png",
+      "rarity": "Rare",
+      "cardNum": "61/202"
+    },
+    {
+      "name": "Cramorant",
+      "set": "Sword & Shield",
+      "img": "https://den-cards.pokellector.com/286/Cramorant.SH01.62.31478.png",
+      "rarity": "Rare",
+      "cardNum": "62/202"
+    },
+    {
+      "name": "Snom",
+      "set": "Sword & Shield",
+      "img": "https://den-cards.pokellector.com/286/Snom.SH01.63.31479.png",
+      "rarity": "Common",
+      "cardNum": "63/202"
+    },
+    {
+      "name": "Frosmoth",
+      "set": "Sword & Shield",
+      "img": "https://den-cards.pokellector.com/286/Frosmoth.SH01.64.31480.png",
+      "rarity": "Rare",
+      "cardNum": "64/202"
+    },
+    {
+      "name": "Pikachu",
+      "set": "Sword & Shield",
+      "img": "https://den-cards.pokellector.com/286/Pikachu.SH01.65.31481.png",
+      "rarity": "Common",
+      "cardNum": "65/202"
+    },
+    {
+      "name": "Raichu",
+      "set": "Sword & Shield",
+      "img": "https://den-cards.pokellector.com/286/Raichu.SH01.66.31482.png",
+      "rarity": "Rare",
+      "cardNum": "66/202"
+    },
+    {
+      "name": "Chinchou",
+      "set": "Sword & Shield",
+      "img": "https://den-cards.pokellector.com/286/Chinchou.SH01.67.31483.png",
+      "rarity": "Common",
+      "cardNum": "67/202"
+    },
+    {
+      "name": "Chinchou",
+      "set": "Sword & Shield",
+      "img": "https://den-cards.pokellector.com/286/Chinchou.SH01.68.31484.png",
+      "rarity": "Common",
+      "cardNum": "68/202"
+    },
+    {
+      "name": "Lanturn",
+      "set": "Sword & Shield",
+      "img": "https://den-cards.pokellector.com/286/Lanturn.SH01.69.31485.png",
+      "rarity": "Rare",
+      "cardNum": "69/202"
+    },
+    {
+      "name": "Joltik",
+      "set": "Sword & Shield",
+      "img": "https://den-cards.pokellector.com/286/Joltik.SH01.70.31486.png",
+      "rarity": "Common",
+      "cardNum": "70/202"
+    },
+    {
+      "name": "Galvantula",
+      "set": "Sword & Shield",
+      "img": "https://den-cards.pokellector.com/286/Galvantula.SH01.71.31487.png",
+      "rarity": "Uncommon",
+      "cardNum": "71/202"
+    },
+    {
+      "name": "Tapu Koko V",
+      "set": "Sword & Shield",
+      "img": "https://den-cards.pokellector.com/286/Tapu-Koko-V.SH01.72.31340.png",
+      "rarity": "Rare",
+      "cardNum": "72/202"
+    },
+    {
+      "name": "Yamper",
+      "set": "Sword & Shield",
+      "img": "https://den-cards.pokellector.com/286/Yamper.SH01.73.31488.png",
+      "rarity": "Common",
+      "cardNum": "73/202"
+    },
+    {
+      "name": "Yamper",
+      "set": "Sword & Shield",
+      "img": "https://den-cards.pokellector.com/286/Yamper.SH01.74.31489.png",
+      "rarity": "Common",
+      "cardNum": "74/202"
+    },
+    {
+      "name": "Boltund",
+      "set": "Sword & Shield",
+      "img": "https://den-cards.pokellector.com/286/Boltund.SH01.75.31490.png",
+      "rarity": "Rare",
+      "cardNum": "75/202"
+    },
+    {
+      "name": "Boltund",
+      "set": "Sword & Shield",
+      "img": "https://den-cards.pokellector.com/286/Boltund.SH01.76.31491.png",
+      "rarity": "Rare",
+      "cardNum": "76/202"
+    },
+    {
+      "name": "Pincurchin",
+      "set": "Sword & Shield",
+      "img": "https://den-cards.pokellector.com/286/Pincurchin.SH01.77.31492.png",
+      "rarity": "Common",
+      "cardNum": "77/202"
+    },
+    {
+      "name": "Morpeko",
+      "set": "Sword & Shield",
+      "img": "https://den-cards.pokellector.com/286/Morpeko.SH01.78.31493.png",
+      "rarity": "Rare",
+      "cardNum": "78/202"
+    },
+    {
+      "name": "Morpeko V",
+      "set": "Sword & Shield",
+      "img": "https://den-cards.pokellector.com/286/Morpeko-V.SH01.79.31494.png",
+      "rarity": "Rare",
+      "cardNum": "79/202"
+    },
+    {
+      "name": "Morpeko VMAX",
+      "set": "Sword & Shield",
+      "img": "https://den-cards.pokellector.com/286/Morpeko-VMAX.SH01.80.31495.png",
+      "rarity": "Rare",
+      "cardNum": "80/202"
+    },
+    {
+      "name": "Galarian Ponyta",
+      "set": "Sword & Shield",
+      "img": "https://den-cards.pokellector.com/286/Galarian-Ponyta.SH01.81.31334.png",
+      "rarity": "Common",
+      "cardNum": "81/202"
+    },
+    {
+      "name": "Galarian Rapidash",
+      "set": "Sword & Shield",
+      "img": "https://den-cards.pokellector.com/286/Galarian-Rapidash.SH01.82.31496.png",
+      "rarity": "Rare",
+      "cardNum": "82/202"
+    },
+    {
+      "name": "Gastly",
+      "set": "Sword & Shield",
+      "img": "https://den-cards.pokellector.com/286/Gastly.SH01.83.31497.png",
+      "rarity": "Common",
+      "cardNum": "83/202"
+    },
+    {
+      "name": "Haunter",
+      "set": "Sword & Shield",
+      "img": "https://den-cards.pokellector.com/286/Haunter.SH01.84.31498.png",
+      "rarity": "Uncommon",
+      "cardNum": "84/202"
+    },
+    {
+      "name": "Gengar",
+      "set": "Sword & Shield",
+      "img": "https://den-cards.pokellector.com/286/Gengar.SH01.85.31499.png",
+      "rarity": "Rare",
+      "cardNum": "85/202"
+    },
+    {
+      "name": "Wobbuffet V",
+      "set": "Sword & Shield",
+      "img": "https://den-cards.pokellector.com/286/Wobbuffet-V.SH01.86.31500.png",
+      "rarity": "Rare",
+      "cardNum": "86/202"
+    },
+    {
+      "name": "Munna",
+      "set": "Sword & Shield",
+      "img": "https://den-cards.pokellector.com/286/Munna.SH01.87.31501.png",
+      "rarity": "Common",
+      "cardNum": "87/202"
+    },
+    {
+      "name": "Musharna",
+      "set": "Sword & Shield",
+      "img": "https://den-cards.pokellector.com/286/Musharna.SH01.88.31502.png",
+      "rarity": "Rare",
+      "cardNum": "88/202"
+    },
+    {
+      "name": "Sinistea",
+      "set": "Sword & Shield",
+      "img": "https://den-cards.pokellector.com/286/Sinistea.SH01.89.31503.png",
+      "rarity": "Common",
+      "cardNum": "89/202"
+    },
+    {
+      "name": "Polteageist",
+      "set": "Sword & Shield",
+      "img": "https://den-cards.pokellector.com/286/Polteageist.SH01.90.31504.png",
+      "rarity": "Rare",
+      "cardNum": "90/202"
+    },
+    {
+      "name": "Indeedee V",
+      "set": "Sword & Shield",
+      "img": "https://den-cards.pokellector.com/286/Indeedee-V.SH01.91.31335.png",
+      "rarity": "Rare",
+      "cardNum": "91/202"
+    },
+    {
+      "name": "Diglett",
+      "set": "Sword & Shield",
+      "img": "https://den-cards.pokellector.com/286/Diglett.SH01.92.31505.png",
+      "rarity": "Common",
+      "cardNum": "92/202"
+    },
+    {
+      "name": "Dugtrio",
+      "set": "Sword & Shield",
+      "img": "https://den-cards.pokellector.com/286/Dugtrio.SH01.93.31506.png",
+      "rarity": "Uncommon",
+      "cardNum": "93/202"
+    },
+    {
+      "name": "Hitmonlee",
+      "set": "Sword & Shield",
+      "img": "https://den-cards.pokellector.com/286/Hitmonlee.SH01.94.31507.png",
+      "rarity": "Uncommon",
+      "cardNum": "94/202"
+    },
+    {
+      "name": "Hitmonchan",
+      "set": "Sword & Shield",
+      "img": "https://den-cards.pokellector.com/286/Hitmonchan.SH01.95.31508.png",
+      "rarity": "Uncommon",
+      "cardNum": "95/202"
+    },
+    {
+      "name": "Rhyhorn",
+      "set": "Sword & Shield",
+      "img": "https://den-cards.pokellector.com/286/Rhyhorn.SH01.96.31509.png",
+      "rarity": "Common",
+      "cardNum": "96/202"
+    },
+    {
+      "name": "Rhyhorn",
+      "set": "Sword & Shield",
+      "img": "https://den-cards.pokellector.com/286/Rhyhorn.SH01.97.31510.png",
+      "rarity": "Common",
+      "cardNum": "97/202"
+    },
+    {
+      "name": "Rhydon",
+      "set": "Sword & Shield",
+      "img": "https://den-cards.pokellector.com/286/Rhydon.SH01.98.31511.png",
+      "rarity": "Uncommon",
+      "cardNum": "98/202"
+    },
+    {
+      "name": "Rhyperior",
+      "set": "Sword & Shield",
+      "img": "https://den-cards.pokellector.com/286/Rhyperior.SH01.99.31512.png",
+      "rarity": "Rare",
+      "cardNum": "99/202"
+    },
+    {
+      "name": "Sudowoodo",
+      "set": "Sword & Shield",
+      "img": "https://den-cards.pokellector.com/286/Sudowoodo.SH01.100.31513.png",
+      "rarity": "Uncommon",
+      "cardNum": "100/202"
+    },
+    {
+      "name": "Baltoy",
+      "set": "Sword & Shield",
+      "img": "https://den-cards.pokellector.com/286/Baltoy.SH01.101.31514.png",
+      "rarity": "Common",
+      "cardNum": "101/202"
+    },
+    {
+      "name": "Baltoy",
+      "set": "Sword & Shield",
+      "img": "https://den-cards.pokellector.com/286/Baltoy.SH01.102.31515.png",
+      "rarity": "Common",
+      "cardNum": "102/202"
+    },
+    {
+      "name": "Claydol",
+      "set": "Sword & Shield",
+      "img": "https://den-cards.pokellector.com/286/Claydol.SH01.103.31516.png",
+      "rarity": "Rare",
+      "cardNum": "103/202"
+    },
+    {
+      "name": "Regirock V",
+      "set": "Sword & Shield",
+      "img": "https://den-cards.pokellector.com/286/Regirock-V.SH01.104.31339.png",
+      "rarity": "Rare",
+      "cardNum": "104/202"
+    },
+    {
+      "name": "Mudbray",
+      "set": "Sword & Shield",
+      "img": "https://den-cards.pokellector.com/286/Mudbray.SH01.105.31517.png",
+      "rarity": "Common",
+      "cardNum": "105/202"
+    },
+    {
+      "name": "Mudsdale",
+      "set": "Sword & Shield",
+      "img": "https://den-cards.pokellector.com/286/Mudsdale.SH01.106.31518.png",
+      "rarity": "Rare",
+      "cardNum": "106/202"
+    },
+    {
+      "name": "Silicobra",
+      "set": "Sword & Shield",
+      "img": "https://den-cards.pokellector.com/286/Silicobra.SH01.107.31519.png",
+      "rarity": "Common",
+      "cardNum": "107/202"
+    },
+    {
+      "name": "Silicobra",
+      "set": "Sword & Shield",
+      "img": "https://den-cards.pokellector.com/286/Silicobra.SH01.108.31520.png",
+      "rarity": "Common",
+      "cardNum": "108/202"
+    },
+    {
+      "name": "Sandaconda",
+      "set": "Sword & Shield",
+      "img": "https://den-cards.pokellector.com/286/Sandaconda.SH01.109.31521.png",
+      "rarity": "Rare",
+      "cardNum": "109/202"
+    },
+    {
+      "name": "Sandaconda",
+      "set": "Sword & Shield",
+      "img": "https://den-cards.pokellector.com/286/Sandaconda.SH01.110.31522.png",
+      "rarity": "Rare",
+      "cardNum": "110/202"
+    },
+    {
+      "name": "Clobbopus",
+      "set": "Sword & Shield",
+      "img": "https://den-cards.pokellector.com/286/Clobbopus.SH01.111.31523.png",
+      "rarity": "Common",
+      "cardNum": "111/202"
+    },
+    {
+      "name": "Clobbopus",
+      "set": "Sword & Shield",
+      "img": "https://den-cards.pokellector.com/286/Clobbopus.SH01.112.31524.png",
+      "rarity": "Common",
+      "cardNum": "112/202"
+    },
+    {
+      "name": "Grapploct",
+      "set": "Sword & Shield",
+      "img": "https://den-cards.pokellector.com/286/Grapploct.SH01.113.31525.png",
+      "rarity": "Rare",
+      "cardNum": "113/202"
+    },
+    {
+      "name": "Stonjourner",
+      "set": "Sword & Shield",
+      "img": "https://den-cards.pokellector.com/286/Stonjourner.SH01.114.31526.png",
+      "rarity": "Rare",
+      "cardNum": "114/202"
+    },
+    {
+      "name": "Stonjourner V",
+      "set": "Sword & Shield",
+      "img": "https://den-cards.pokellector.com/286/Stonjourner-V.SH01.115.31276.png",
+      "rarity": "Rare",
+      "cardNum": "115/202"
+    },
+    {
+      "name": "Stonjourner VMAX",
+      "set": "Sword & Shield",
+      "img": "https://den-cards.pokellector.com/286/Stonjourner-VMAX.SH01.116.31401.png",
+      "rarity": "Rare",
+      "cardNum": "116/202"
+    },
+    {
+      "name": "Galarian Zigzagoon",
+      "set": "Sword & Shield",
+      "img": "https://den-cards.pokellector.com/286/Galarian-Zigzagoon.SH01.117.31527.png",
+      "rarity": "Common",
+      "cardNum": "117/202"
+    },
+    {
+      "name": "Galarian Linoone",
+      "set": "Sword & Shield",
+      "img": "https://den-cards.pokellector.com/286/Galarian-Linoone.SH01.118.31528.png",
+      "rarity": "Uncommon",
+      "cardNum": "118/202"
+    },
+    {
+      "name": "Galarian Obstagoon",
+      "set": "Sword & Shield",
+      "img": "https://den-cards.pokellector.com/286/Galarian-Obstagoon.SH01.119.31529.png",
+      "rarity": "Rare",
+      "cardNum": "119/202"
+    },
+    {
+      "name": "Sableye V",
+      "set": "Sword & Shield",
+      "img": "https://den-cards.pokellector.com/286/Sableye-V.SH01.120.31530.png",
+      "rarity": "Rare",
+      "cardNum": "120/202"
+    },
+    {
+      "name": "Skorupi",
+      "set": "Sword & Shield",
+      "img": "https://den-cards.pokellector.com/286/Skorupi.SH01.121.31531.png",
+      "rarity": "Common",
+      "cardNum": "121/202"
+    },
+    {
+      "name": "Drapion",
+      "set": "Sword & Shield",
+      "img": "https://den-cards.pokellector.com/286/Drapion.SH01.122.31532.png",
+      "rarity": "Rare",
+      "cardNum": "122/202"
+    },
+    {
+      "name": "Croagunk",
+      "set": "Sword & Shield",
+      "img": "https://den-cards.pokellector.com/286/Croagunk.SH01.123.31533.png",
+      "rarity": "Common",
+      "cardNum": "123/202"
+    },
+    {
+      "name": "Toxicroak",
+      "set": "Sword & Shield",
+      "img": "https://den-cards.pokellector.com/286/Toxicroak.SH01.124.31534.png",
+      "rarity": "Rare",
+      "cardNum": "124/202"
+    },
+    {
+      "name": "Nickit",
+      "set": "Sword & Shield",
+      "img": "https://den-cards.pokellector.com/286/Nickit.SH01.125.31535.png",
+      "rarity": "Common",
+      "cardNum": "125/202"
+    },
+    {
+      "name": "Thievul",
+      "set": "Sword & Shield",
+      "img": "https://den-cards.pokellector.com/286/Thievul.SH01.126.31536.png",
+      "rarity": "Rare",
+      "cardNum": "126/202"
+    },
+    {
+      "name": "Galarian Meowth",
+      "set": "Sword & Shield",
+      "img": "https://den-cards.pokellector.com/286/Galarian-Meowth.SH01.127.31537.png",
+      "rarity": "Common",
+      "cardNum": "127/202"
+    },
+    {
+      "name": "Galarian Perrserker",
+      "set": "Sword & Shield",
+      "img": "https://den-cards.pokellector.com/286/Galarian-Perrserker.SH01.128.31538.png",
+      "rarity": "Rare",
+      "cardNum": "128/202"
+    },
+    {
+      "name": "Mawile",
+      "set": "Sword & Shield",
+      "img": "https://den-cards.pokellector.com/286/Mawile.SH01.129.31539.png",
+      "rarity": "Common",
+      "cardNum": "129/202"
+    },
+    {
+      "name": "Ferroseed",
+      "set": "Sword & Shield",
+      "img": "https://den-cards.pokellector.com/286/Ferroseed.SH01.130.31540.png",
+      "rarity": "Common",
+      "cardNum": "130/202"
+    },
+    {
+      "name": "Ferrothorn",
+      "set": "Sword & Shield",
+      "img": "https://den-cards.pokellector.com/286/Ferrothorn.SH01.131.31541.png",
+      "rarity": "Uncommon",
+      "cardNum": "131/202"
+    },
+    {
+      "name": "Galarian Stunfisk",
+      "set": "Sword & Shield",
+      "img": "https://den-cards.pokellector.com/286/Galarian-Stunfisk.SH01.132.31542.png",
+      "rarity": "Uncommon",
+      "cardNum": "132/202"
+    },
+    {
+      "name": "Pawniard",
+      "set": "Sword & Shield",
+      "img": "https://den-cards.pokellector.com/286/Pawniard.SH01.133.31543.png",
+      "rarity": "Common",
+      "cardNum": "133/202"
+    },
+    {
+      "name": "Bisharp",
+      "set": "Sword & Shield",
+      "img": "https://den-cards.pokellector.com/286/Bisharp.SH01.134.31544.png",
+      "rarity": "Uncommon",
+      "cardNum": "134/202"
+    },
+    {
+      "name": "Corviknight",
+      "set": "Sword & Shield",
+      "img": "https://den-cards.pokellector.com/286/Corviknight.SH01.135.31545.png",
+      "rarity": "Rare",
+      "cardNum": "135/202"
+    },
+    {
+      "name": "Cufant",
+      "set": "Sword & Shield",
+      "img": "https://den-cards.pokellector.com/286/Cufant.SH01.136.31546.png",
+      "rarity": "Common",
+      "cardNum": "136/202"
+    },
+    {
+      "name": "Copperajah",
+      "set": "Sword & Shield",
+      "img": "https://den-cards.pokellector.com/286/Copperajah.SH01.137.31547.png",
+      "rarity": "Rare",
+      "cardNum": "137/202"
+    },
+    {
+      "name": "Zacian V",
+      "set": "Sword & Shield",
+      "img": "https://den-cards.pokellector.com/286/Zacian-V.SH01.138.31277.png",
+      "rarity": "Rare",
+      "cardNum": "138/202"
+    },
+    {
+      "name": "Zamazenta V",
+      "set": "Sword & Shield",
+      "img": "https://den-cards.pokellector.com/286/Zamazenta-V.SH01.139.30181.png",
+      "rarity": "Rare",
+      "cardNum": "139/202"
+    },
+    {
+      "name": "Snorlax",
+      "set": "Sword & Shield",
+      "img": "https://den-cards.pokellector.com/286/Snorlax.SH01.140.31548.png",
+      "rarity": "Rare",
+      "cardNum": "140/202"
+    },
+    {
+      "name": "Snorlax V",
+      "set": "Sword & Shield",
+      "img": "https://den-cards.pokellector.com/286/Snorlax.SH01.141.31549.png",
+      "rarity": "Rare",
+      "cardNum": "141/202"
+    },
+    {
+      "name": "Snorlax VMAX",
+      "set": "Sword & Shield",
+      "img": "https://den-cards.pokellector.com/286/Snorlax-VMAX.SH01.142.31336.png",
+      "rarity": "Rare",
+      "cardNum": "142/202"
+    },
+    {
+      "name": "Hoothoot",
+      "set": "Sword & Shield",
+      "img": "https://den-cards.pokellector.com/286/Hoothoot.SH01.143.31550.png",
+      "rarity": "Common",
+      "cardNum": "143/202"
+    },
+    {
+      "name": "Noctowl",
+      "set": "Sword & Shield",
+      "img": "https://den-cards.pokellector.com/286/Noctowl.SH01.144.31551.png",
+      "rarity": "Rare",
+      "cardNum": "144/202"
+    },
+    {
+      "name": "Minccino",
+      "set": "Sword & Shield",
+      "img": "https://den-cards.pokellector.com/286/Minccino.SH01.145.31552.png",
+      "rarity": "Common",
+      "cardNum": "145/202"
+    },
+    {
+      "name": "Minccino",
+      "set": "Sword & Shield",
+      "img": "https://den-cards.pokellector.com/286/Minccino.SH01.146.31553.png",
+      "rarity": "Common",
+      "cardNum": "146/202"
+    },
+    {
+      "name": "Cinccino",
+      "set": "Sword & Shield",
+      "img": "https://den-cards.pokellector.com/286/Cinccino.SH01.147.31554.png",
+      "rarity": "Rare",
+      "cardNum": "147/202"
+    },
+    {
+      "name": "Oranguru",
+      "set": "Sword & Shield",
+      "img": "https://den-cards.pokellector.com/286/Oranguru.SH01.148.31555.png",
+      "rarity": "Rare",
+      "cardNum": "148/202"
+    },
+    {
+      "name": "Drampa",
+      "set": "Sword & Shield",
+      "img": "https://den-cards.pokellector.com/286/Drampa.SH01.149.31556.png",
+      "rarity": "Rare",
+      "cardNum": "149/202"
+    },
+    {
+      "name": "Rookidee",
+      "set": "Sword & Shield",
+      "img": "https://den-cards.pokellector.com/286/Rookidee.SH01.150.31557.png",
+      "rarity": "Common",
+      "cardNum": "150/202"
+    },
+    {
+      "name": "Corvisquire",
+      "set": "Sword & Shield",
+      "img": "https://den-cards.pokellector.com/286/Corvisquire.SH01.151.31558.png",
+      "rarity": "Uncommon",
+      "cardNum": "151/202"
+    },
+    {
+      "name": "Wooloo",
+      "set": "Sword & Shield",
+      "img": "https://den-cards.pokellector.com/286/Wooloo.SH01.152.31559.png",
+      "rarity": "Common",
+      "cardNum": "152/202"
+    },
+    {
+      "name": "Wooloo",
+      "set": "Sword & Shield",
+      "img": "https://den-cards.pokellector.com/286/Wooloo.SH01.153.31560.png",
+      "rarity": "Common",
+      "cardNum": "153/202"
+    },
+    {
+      "name": "Dubwool",
+      "set": "Sword & Shield",
+      "img": "https://den-cards.pokellector.com/286/Dubwool.SH01.154.31561.png",
+      "rarity": "Uncommon",
+      "cardNum": "154/202"
+    },
+    {
+      "name": "Cramorant V",
+      "set": "Sword & Shield",
+      "img": "https://den-cards.pokellector.com/286/Cramorant.SH01.155.31562.png",
+      "rarity": "Rare",
+      "cardNum": "155/202"
+    },
+    {
+      "name": "Air Balloon",
+      "set": "Sword & Shield",
+      "img": "https://den-cards.pokellector.com/286/Air-Balloon.SH01.156.31563.png",
+      "rarity": "Uncommon",
+      "cardNum": "156/202"
+    },
+    {
+      "name": "Bede",
+      "set": "Sword & Shield",
+      "img": "https://den-cards.pokellector.com/286/Bede.SH01.157.31564.png",
+      "rarity": "Uncommon",
+      "cardNum": "157/202"
+    },
+    {
+      "name": "Big Charm",
+      "set": "Sword & Shield",
+      "img": "https://den-cards.pokellector.com/286/Big-Charm.SH01.158.31565.png",
+      "rarity": "Uncommon",
+      "cardNum": "158/202"
+    },
+    {
+      "name": "Crushing Hammer",
+      "set": "Sword & Shield",
+      "img": "https://den-cards.pokellector.com/286/Crushing-Hammer.SH01.159.31566.png",
+      "rarity": "Uncommon",
+      "cardNum": "159/202"
+    },
+    {
+      "name": "Energy Retrieval",
+      "set": "Sword & Shield",
+      "img": "https://den-cards.pokellector.com/286/Energy-Retrieval.SH01.160.31567.png",
+      "rarity": "Uncommon",
+      "cardNum": "160/202"
+    },
+    {
+      "name": "Energy Search",
+      "set": "Sword & Shield",
+      "img": "https://den-cards.pokellector.com/286/Energy-Search.SH01.161.31568.png",
+      "rarity": "Uncommon",
+      "cardNum": "161/202"
+    },
+    {
+      "name": "Energy Switch",
+      "set": "Sword & Shield",
+      "img": "https://den-cards.pokellector.com/286/Energy-Switch.SH01.162.31569.png",
+      "rarity": "Uncommon",
+      "cardNum": "162/202"
+    },
+    {
+      "name": "Evolution Incense",
+      "set": "Sword & Shield",
+      "img": "https://den-cards.pokellector.com/286/Evolution-Incense.SH01.163.31570.png",
+      "rarity": "Uncommon",
+      "cardNum": "163/202"
+    },
+    {
+      "name": "Great Ball",
+      "set": "Sword & Shield",
+      "img": "https://den-cards.pokellector.com/286/Great-Ball.SH01.164.31571.png",
+      "rarity": "Uncommon",
+      "cardNum": "164/202"
+    },
+    {
+      "name": "Hop",
+      "set": "Sword & Shield",
+      "img": "https://den-cards.pokellector.com/286/Hop.SH01.165.31572.png",
+      "rarity": "Uncommon",
+      "cardNum": "165/202"
+    },
+    {
+      "name": "Hyper Potion",
+      "set": "Sword & Shield",
+      "img": "https://den-cards.pokellector.com/286/Hyper-Potion.SH01.166.31573.png",
+      "rarity": "Uncommon",
+      "cardNum": "166/202"
+    },
+    {
+      "name": "Lucky Egg",
+      "set": "Sword & Shield",
+      "img": "https://den-cards.pokellector.com/286/Lucky-Egg.SH01.167.31574.png",
+      "rarity": "Uncommon",
+      "cardNum": "167/202"
+    },
+    {
+      "name": "Lum Berry",
+      "set": "Sword & Shield",
+      "img": "https://den-cards.pokellector.com/286/Lum-Berry.SH01.168.31575.png",
+      "rarity": "Uncommon",
+      "cardNum": "168/202"
+    },
+    {
+      "name": "Marnie",
+      "set": "Sword & Shield",
+      "img": "https://den-cards.pokellector.com/286/Marnie.SH01.169.31576.png",
+      "rarity": "Rare",
+      "cardNum": "169/202"
+    },
+    {
+      "name": "Metal Saucer",
+      "set": "Sword & Shield",
+      "img": "https://den-cards.pokellector.com/286/Metal-Saucer.SH01.170.31577.png",
+      "rarity": "Uncommon",
+      "cardNum": "170/202"
+    },
+    {
+      "name": "Ordinary Rod",
+      "set": "Sword & Shield",
+      "img": "https://den-cards.pokellector.com/286/Ordinary-Rod.SH01.171.31578.png",
+      "rarity": "Uncommon",
+      "cardNum": "171/202"
+    },
+    {
+      "name": "Pal Pad",
+      "set": "Sword & Shield",
+      "img": "https://den-cards.pokellector.com/286/Pal-Pad.SH01.172.31579.png",
+      "rarity": "Uncommon",
+      "cardNum": "172/202"
+    },
+    {
+      "name": "Poké Kid",
+      "set": "Sword & Shield",
+      "img": "https://den-cards.pokellector.com/286/Pok-Kid.SH01.173.31580.png",
+      "rarity": "Uncommon",
+      "cardNum": "173/202"
+    },
+    {
+      "name": "Pokégear 3.0",
+      "set": "Sword & Shield",
+      "img": "https://den-cards.pokellector.com/286/Pokgear-30.SH01.174.31581.png",
+      "rarity": "Uncommon",
+      "cardNum": "174/202"
+    },
+    {
+      "name": "Pokémon Catcher",
+      "set": "Sword & Shield",
+      "img": "https://den-cards.pokellector.com/286/Pokmon-Catcher.SH01.175.31582.png",
+      "rarity": "Uncommon",
+      "cardNum": "175/202"
+    },
+    {
+      "name": "Pokémon Center Lady",
+      "set": "Sword & Shield",
+      "img": "https://den-cards.pokellector.com/286/Pokmon-Center-Lady.SH01.176.31583.png",
+      "rarity": "Uncommon",
+      "cardNum": "176/202"
+    },
+    {
+      "name": "Potion",
+      "set": "Sword & Shield",
+      "img": "https://den-cards.pokellector.com/286/Potion.SH01.177.31584.png",
+      "rarity": "Uncommon",
+      "cardNum": "177/202"
+    },
+    {
+      "name": "Professor's Research",
+      "set": "Sword & Shield",
+      "img": "https://den-cards.pokellector.com/286/Professors-Research.SH01.178.31585.png",
+      "rarity": "Rare",
+      "cardNum": "178/202"
+    },
+    {
+      "name": "Quick Ball",
+      "set": "Sword & Shield",
+      "img": "https://den-cards.pokellector.com/286/Quick-Ball.SH01.179.31586.png",
+      "rarity": "Uncommon",
+      "cardNum": "179/202"
+    },
+    {
+      "name": "Rare Candy",
+      "set": "Sword & Shield",
+      "img": "https://den-cards.pokellector.com/286/Rare-Candy.SH01.180.31587.png",
+      "rarity": "Uncommon",
+      "cardNum": "180/202"
+    },
+    {
+      "name": "Rotom Bike",
+      "set": "Sword & Shield",
+      "img": "https://den-cards.pokellector.com/286/Rotom-Bike.SH01.181.31588.png",
+      "rarity": "Uncommon",
+      "cardNum": "181/202"
+    },
+    {
+      "name": "Sitrus Berry",
+      "set": "Sword & Shield",
+      "img": "https://den-cards.pokellector.com/286/Sitrus-Berry.SH01.182.31589.png",
+      "rarity": "Uncommon",
+      "cardNum": "182/202"
+    },
+    {
+      "name": "Switch",
+      "set": "Sword & Shield",
+      "img": "https://den-cards.pokellector.com/286/Switch.SH01.183.31590.png",
+      "rarity": "Uncommon",
+      "cardNum": "183/202"
+    },
+    {
+      "name": "Team Yell Grunt",
+      "set": "Sword & Shield",
+      "img": "https://den-cards.pokellector.com/286/Team-Yell-Grunt.SH01.184.31591.png",
+      "rarity": "Uncommon",
+      "cardNum": "184/202"
+    },
+    {
+      "name": "Vitality Band",
+      "set": "Sword & Shield",
+      "img": "https://den-cards.pokellector.com/286/Vitality-Band.SH01.185.31592.png",
+      "rarity": "Uncommon",
+      "cardNum": "185/202"
+    },
+    {
+      "name": "Aurora Energy",
+      "set": "Sword & Shield",
+      "img": "https://den-cards.pokellector.com/286/Aurora-Energy.SH01.186.31593.png",
+      "rarity": "Uncommon",
+      "cardNum": "186/202"
+    },
+    {
+      "name": "Dhelmise",
+      "set": "Sword & Shield",
+      "img": "https://den-cards.pokellector.com/286/Dhelmise.SH01.187.31594.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "187/202"
+    },
+    {
+      "name": "Torkoal",
+      "set": "Sword & Shield",
+      "img": "https://den-cards.pokellector.com/286/Torkoal.SH01.188.31595.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "188/202"
+    },
+    {
+      "name": "Lapras",
+      "set": "Sword & Shield",
+      "img": "https://den-cards.pokellector.com/286/Lapras.SH01.189.31596.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "189/202"
+    },
+    {
+      "name": "Morpeko",
+      "set": "Sword & Shield",
+      "img": "https://den-cards.pokellector.com/286/Morpeko.SH01.190.31597.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "190/202"
+    },
+    {
+      "name": "Wobbuffet",
+      "set": "Sword & Shield",
+      "img": "https://den-cards.pokellector.com/286/Wobbuffet.SH01.191.31598.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "191/202"
+    },
+    {
+      "name": "Indeedee",
+      "set": "Sword & Shield",
+      "img": "https://den-cards.pokellector.com/286/Indeedee.SH01.192.31599.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "192/202"
+    },
+    {
+      "name": "Stonjourner",
+      "set": "Sword & Shield",
+      "img": "https://den-cards.pokellector.com/286/Stonjourner.SH01.193.31600.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "193/202"
+    },
+    {
+      "name": "Sableye",
+      "set": "Sword & Shield",
+      "img": "https://den-cards.pokellector.com/286/Sableye.SH01.194.31601.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "194/202"
+    },
+    {
+      "name": "Zacian",
+      "set": "Sword & Shield",
+      "img": "https://den-cards.pokellector.com/286/Zacian.SH01.195.31602.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "195/202"
+    },
+    {
+      "name": "Zamazenta",
+      "set": "Sword & Shield",
+      "img": "https://den-cards.pokellector.com/286/Zamazenta.SH01.196.31603.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "196/202"
+    },
+    {
+      "name": "Snorlax",
+      "set": "Sword & Shield",
+      "img": "https://den-cards.pokellector.com/286/Snorlax.SH01.197.31604.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "197/202"
+    },
+    {
+      "name": "Cramorant",
+      "set": "Sword & Shield",
+      "img": "https://den-cards.pokellector.com/286/Cramorant.SH01.198.31605.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "198/202"
+    },
+    {
+      "name": "Bede",
+      "set": "Sword & Shield",
+      "img": "https://den-cards.pokellector.com/286/Bede.SH01.199.31606.png",
+      "rarity": "Rare",
+      "cardNum": "199/202"
+    },
+    {
+      "name": "Marnie",
+      "set": "Sword & Shield",
+      "img": "https://den-cards.pokellector.com/286/Marnie.SH01.200.31607.png",
+      "rarity": "Rare",
+      "cardNum": "200/202"
+    },
+    {
+      "name": "Professor's Research",
+      "set": "Sword & Shield",
+      "img": "https://den-cards.pokellector.com/286/Professors-Research.SH01.201.31402.png",
+      "rarity": "Rare",
+      "cardNum": "201/202"
+    },
+    {
+      "name": "Team Yell Grunt",
+      "set": "Sword & Shield",
+      "img": "https://den-cards.pokellector.com/286/Team-Yell-Grunt.SH01.202.31608.png",
+      "rarity": "Rare",
+      "cardNum": "202/202"
+    },
+    {
+      "name": "Lapras VMAX",
+      "set": "Sword & Shield",
+      "img": "https://den-cards.pokellector.com/286/Lapras-VMAX.SH01.203.31609.png",
+      "rarity": "Secret Rare",
+      "cardNum": "203/202"
+    },
+    {
+      "name": "Morpeko VMAX",
+      "set": "Sword & Shield",
+      "img": "https://den-cards.pokellector.com/286/Morpeko-VMAX.SH01.204.31610.png",
+      "rarity": "Secret Rare",
+      "cardNum": "204/202"
+    },
+    {
+      "name": "Stonjourner VMAX",
+      "set": "Sword & Shield",
+      "img": "https://den-cards.pokellector.com/286/Stonjourner-VMAX.SH01.205.31611.png",
+      "rarity": "Secret Rare",
+      "cardNum": "205/202"
+    },
+    {
+      "name": "Snorlax VMAX",
+      "set": "Sword & Shield",
+      "img": "https://den-cards.pokellector.com/286/Snorlax-VMAX.SH01.206.31612.png",
+      "rarity": "Secret Rare",
+      "cardNum": "206/202"
+    },
+    {
+      "name": "Bede",
+      "set": "Sword & Shield",
+      "img": "https://den-cards.pokellector.com/286/Bede.SH01.207.31613.png",
+      "rarity": "Secret Rare",
+      "cardNum": "207/202"
+    },
+    {
+      "name": "Marnie",
+      "set": "Sword & Shield",
+      "img": "https://den-cards.pokellector.com/286/Marnie.SH01.208.31614.png",
+      "rarity": "Secret Rare",
+      "cardNum": "208/202"
+    },
+    {
+      "name": "Professor's Research",
+      "set": "Sword & Shield",
+      "img": "https://den-cards.pokellector.com/286/Professors-Research.SH01.209.31615.png",
+      "rarity": "Secret Rare",
+      "cardNum": "209/202"
+    },
+    {
+      "name": "Team Yell Grunt",
+      "set": "Sword & Shield",
+      "img": "https://den-cards.pokellector.com/286/Team-Yell-Grunt.SH01.210.31616.png",
+      "rarity": "Secret Rare",
+      "cardNum": "210/202"
+    },
+    {
+      "name": "Zacian V",
+      "set": "Sword & Shield",
+      "img": "https://den-cards.pokellector.com/286/Zacian-V.SH01.211.31617.png",
+      "rarity": "Secret Rare",
+      "cardNum": "211/202"
+    },
+    {
+      "name": "Zamazenta V",
+      "set": "Sword & Shield",
+      "img": "https://den-cards.pokellector.com/286/Zamazenta-V.SH01.212.31618.png",
+      "rarity": "Secret Rare",
+      "cardNum": "212/202"
+    },
+    {
+      "name": "Air Balloon",
+      "set": "Sword & Shield",
+      "img": "https://den-cards.pokellector.com/286/Air-Balloon.SH01.213.31619.png",
+      "rarity": "Secret Rare",
+      "cardNum": "213/202"
+    },
+    {
+      "name": "Metal Saucer",
+      "set": "Sword & Shield",
+      "img": "https://den-cards.pokellector.com/286/Metal-Saucer.SH01.214.31620.png",
+      "rarity": "Secret Rare",
+      "cardNum": "214/202"
+    },
+    {
+      "name": "Ordinary Rod",
+      "set": "Sword & Shield",
+      "img": "https://den-cards.pokellector.com/286/Ordinary-Rod.SH01.215.31621.png",
+      "rarity": "Secret Rare",
+      "cardNum": "215/202"
+    },
+    {
+      "name": "Quick Ball",
+      "set": "Sword & Shield",
+      "img": "https://den-cards.pokellector.com/286/Quick-Ball.SH01.216.31622.png",
+      "rarity": "Secret Rare",
+      "cardNum": "216/202"
+    }
+  ]
+}

@@ -1,0 +1,705 @@
+{
+  "setName": "Cyber Judge",
+  "cards": [
+    {
+      "name": "Scyther",
+      "set": "Cyber Judge",
+      "img": "https://den-cards.pokellector.com/387/Scyther.SV5M.1.51705.png",
+      "rarity": "Common",
+      "cardNum": "1/71"
+    },
+    {
+      "name": "Pineco",
+      "set": "Cyber Judge",
+      "img": "https://den-cards.pokellector.com/387/Pineco.SV5M.2.51753.png",
+      "rarity": "Common",
+      "cardNum": "2/71"
+    },
+    {
+      "name": "Seedot",
+      "set": "Cyber Judge",
+      "img": "https://den-cards.pokellector.com/387/Seedot.SV5M.3.51754.png",
+      "rarity": "Common",
+      "cardNum": "3/71"
+    },
+    {
+      "name": "Nuzleaf",
+      "set": "Cyber Judge",
+      "img": "https://den-cards.pokellector.com/387/Nuzleaf.SV5M.4.51755.png",
+      "rarity": "Common",
+      "cardNum": "4/71"
+    },
+    {
+      "name": "Shiftry",
+      "set": "Cyber Judge",
+      "img": "https://den-cards.pokellector.com/387/Shiftry.SV5M.5.51756.png",
+      "rarity": "Uncommon",
+      "cardNum": "5/71"
+    },
+    {
+      "name": "Shroomish",
+      "set": "Cyber Judge",
+      "img": "https://den-cards.pokellector.com/387/Shroomish.SV5M.6.51757.png",
+      "rarity": "Common",
+      "cardNum": "6/71"
+    },
+    {
+      "name": "Breloom",
+      "set": "Cyber Judge",
+      "img": "https://den-cards.pokellector.com/387/Breloom.SV5M.7.51758.png",
+      "rarity": "Common",
+      "cardNum": "7/71"
+    },
+    {
+      "name": "Deerling",
+      "set": "Cyber Judge",
+      "img": "https://den-cards.pokellector.com/387/Deerling.SV5M.8.51759.png",
+      "rarity": "Common",
+      "cardNum": "8/71"
+    },
+    {
+      "name": "Sawsbuck",
+      "set": "Cyber Judge",
+      "img": "https://den-cards.pokellector.com/387/Sawsbuck.SV5M.9.51760.png",
+      "rarity": "Uncommon",
+      "cardNum": "9/71"
+    },
+    {
+      "name": "Grubbin",
+      "set": "Cyber Judge",
+      "img": "https://den-cards.pokellector.com/387/Grubbin.SV5M.10.51702.png",
+      "rarity": "Common",
+      "cardNum": "10/71"
+    },
+    {
+      "name": "Dhelmise",
+      "set": "Cyber Judge",
+      "img": "https://den-cards.pokellector.com/387/Dhelmise.SV5M.11.51761.png",
+      "rarity": "Uncommon",
+      "cardNum": "11/71"
+    },
+    {
+      "name": "Bramblin",
+      "set": "Cyber Judge",
+      "img": "https://den-cards.pokellector.com/387/Bramblin.SV5M.12.51762.png",
+      "rarity": "Common",
+      "cardNum": "12/71"
+    },
+    {
+      "name": "Brambleghast",
+      "set": "Cyber Judge",
+      "img": "https://den-cards.pokellector.com/387/Brambleghast.SV5M.13.51763.png",
+      "rarity": "Rare",
+      "cardNum": "13/71"
+    },
+    {
+      "name": "Rellor",
+      "set": "Cyber Judge",
+      "img": "https://den-cards.pokellector.com/387/Rellor.SV5M.14.51730.png",
+      "rarity": "Common",
+      "cardNum": "14/71"
+    },
+    {
+      "name": "Rabsca",
+      "set": "Cyber Judge",
+      "img": "https://den-cards.pokellector.com/387/Rabsca.SV5M.15.51731.png",
+      "rarity": "Uncommon",
+      "cardNum": "15/71"
+    },
+    {
+      "name": "Iron Leaves ex",
+      "set": "Cyber Judge",
+      "img": "https://den-cards.pokellector.com/387/Iron-Leaves-ex.SV5M.16.51665.png",
+      "rarity": "Double Rare",
+      "cardNum": "16/71"
+    },
+    {
+      "name": "Slugma",
+      "set": "Cyber Judge",
+      "img": "https://den-cards.pokellector.com/387/Slugma.SV5M.17.51764.png",
+      "rarity": "Common",
+      "cardNum": "17/71"
+    },
+    {
+      "name": "Magcargo",
+      "set": "Cyber Judge",
+      "img": "https://den-cards.pokellector.com/387/Magcargo.SV5M.18.51765.png",
+      "rarity": "Rare",
+      "cardNum": "18/71"
+    },
+    {
+      "name": "Victini",
+      "set": "Cyber Judge",
+      "img": "https://den-cards.pokellector.com/387/Victini.SV5M.19.51766.png",
+      "rarity": "Common",
+      "cardNum": "19/71"
+    },
+    {
+      "name": "Litten",
+      "set": "Cyber Judge",
+      "img": "https://den-cards.pokellector.com/387/Litten.SV5M.20.51767.png",
+      "rarity": "Common",
+      "cardNum": "20/71"
+    },
+    {
+      "name": "Torracat",
+      "set": "Cyber Judge",
+      "img": "https://den-cards.pokellector.com/387/Torracat.SV5M.21.51768.png",
+      "rarity": "Common",
+      "cardNum": "21/71"
+    },
+    {
+      "name": "Incineroar ex",
+      "set": "Cyber Judge",
+      "img": "https://den-cards.pokellector.com/387/Incineroar-ex.SV5M.22.51720.png",
+      "rarity": "Double Rare",
+      "cardNum": "22/71"
+    },
+    {
+      "name": "Pikachu",
+      "set": "Cyber Judge",
+      "img": "https://den-cards.pokellector.com/387/Pikachu.SV5M.23.51769.png",
+      "rarity": "Common",
+      "cardNum": "23/71"
+    },
+    {
+      "name": "Raichu",
+      "set": "Cyber Judge",
+      "img": "https://den-cards.pokellector.com/387/Raichu.SV5M.24.51770.png",
+      "rarity": "Common",
+      "cardNum": "24/71"
+    },
+    {
+      "name": "Electabuzz",
+      "set": "Cyber Judge",
+      "img": "https://den-cards.pokellector.com/387/Electabuzz.SV5M.25.51771.png",
+      "rarity": "Common",
+      "cardNum": "25/71"
+    },
+    {
+      "name": "Electivire",
+      "set": "Cyber Judge",
+      "img": "https://den-cards.pokellector.com/387/Electivire.SV5M.26.51772.png",
+      "rarity": "Uncommon",
+      "cardNum": "26/71"
+    },
+    {
+      "name": "Charjabug",
+      "set": "Cyber Judge",
+      "img": "https://den-cards.pokellector.com/387/Charjabug.SV5M.27.51703.png",
+      "rarity": "Common",
+      "cardNum": "27/71"
+    },
+    {
+      "name": "Vikavolt",
+      "set": "Cyber Judge",
+      "img": "https://den-cards.pokellector.com/387/Vikavolt.SV5M.28.51704.png",
+      "rarity": "Uncommon",
+      "cardNum": "28/71"
+    },
+    {
+      "name": "Zeraora",
+      "set": "Cyber Judge",
+      "img": "https://den-cards.pokellector.com/387/Zeraora.SV5M.29.51773.png",
+      "rarity": "Uncommon",
+      "cardNum": "29/71"
+    },
+    {
+      "name": "Iron Thorns",
+      "set": "Cyber Judge",
+      "img": "https://den-cards.pokellector.com/387/Iron-Thorns.SV5M.30.51669.png",
+      "rarity": "Rare",
+      "cardNum": "30/71"
+    },
+    {
+      "name": "Mr. Mime",
+      "set": "Cyber Judge",
+      "img": "https://den-cards.pokellector.com/387/Mr-Mime.SV5M.31.51774.png",
+      "rarity": "Common",
+      "cardNum": "31/71"
+    },
+    {
+      "name": "Girafarig",
+      "set": "Cyber Judge",
+      "img": "https://den-cards.pokellector.com/387/Girafarig.SV5M.32.51775.png",
+      "rarity": "Common",
+      "cardNum": "32/71"
+    },
+    {
+      "name": "Flutter Mane",
+      "set": "Cyber Judge",
+      "img": "https://den-cards.pokellector.com/387/Flutter-Mane.SV5M.33.51668.png",
+      "rarity": "Rare",
+      "cardNum": "33/71"
+    },
+    {
+      "name": "Ribombee",
+      "set": "Cyber Judge",
+      "img": "https://den-cards.pokellector.com/387/Ribombee.SV5M.34.51776.png",
+      "rarity": "Uncommon",
+      "cardNum": "34/71"
+    },
+    {
+      "name": "Iron Valiant",
+      "set": "Cyber Judge",
+      "img": "https://den-cards.pokellector.com/387/Iron-Valiant.SV5M.35.51777.png",
+      "rarity": "Rare",
+      "cardNum": "35/71"
+    },
+    {
+      "name": "Iron Crown ex",
+      "set": "Cyber Judge",
+      "img": "https://den-cards.pokellector.com/387/Iron-Crown-ex.SV5M.36.51666.png",
+      "rarity": "Double Rare",
+      "cardNum": "36/71"
+    },
+    {
+      "name": "Meditite",
+      "set": "Cyber Judge",
+      "img": "https://den-cards.pokellector.com/387/Meditite.SV5M.37.51778.png",
+      "rarity": "Common",
+      "cardNum": "37/71"
+    },
+    {
+      "name": "Medicham",
+      "set": "Cyber Judge",
+      "img": "https://den-cards.pokellector.com/387/Medicham.SV5M.38.51779.png",
+      "rarity": "Common",
+      "cardNum": "38/71"
+    },
+    {
+      "name": "Drilbur",
+      "set": "Cyber Judge",
+      "img": "https://den-cards.pokellector.com/387/Drilbur.SV5M.39.51780.png",
+      "rarity": "Common",
+      "cardNum": "39/71"
+    },
+    {
+      "name": "Excadrill",
+      "set": "Cyber Judge",
+      "img": "https://den-cards.pokellector.com/387/Excadrill.SV5M.40.51781.png",
+      "rarity": "Uncommon",
+      "cardNum": "40/71"
+    },
+    {
+      "name": "Iron Boulder ex",
+      "set": "Cyber Judge",
+      "img": "https://den-cards.pokellector.com/387/Iron-Boulder-ex.SV5M.41.51667.png",
+      "rarity": "Double Rare",
+      "cardNum": "41/71"
+    },
+    {
+      "name": "Farigiraf ex",
+      "set": "Cyber Judge",
+      "img": "https://den-cards.pokellector.com/387/Farigiraf-ex.SV5M.42.51721.png",
+      "rarity": "Double Rare",
+      "cardNum": "42/71"
+    },
+    {
+      "name": "Forretress",
+      "set": "Cyber Judge",
+      "img": "https://den-cards.pokellector.com/387/Forretress.SV5M.43.51782.png",
+      "rarity": "Uncommon",
+      "cardNum": "43/71"
+    },
+    {
+      "name": "Scizor ex",
+      "set": "Cyber Judge",
+      "img": "https://den-cards.pokellector.com/387/Scizor-ex.SV5M.44.51706.png",
+      "rarity": "Double Rare",
+      "cardNum": "44/71"
+    },
+    {
+      "name": "Mawile",
+      "set": "Cyber Judge",
+      "img": "https://den-cards.pokellector.com/387/Mawile.SV5M.45.51783.png",
+      "rarity": "Common",
+      "cardNum": "45/71"
+    },
+    {
+      "name": "Beldum",
+      "set": "Cyber Judge",
+      "img": "https://den-cards.pokellector.com/387/Beldum.SV5M.46.51784.png",
+      "rarity": "Common",
+      "cardNum": "46/71"
+    },
+    {
+      "name": "Metang",
+      "set": "Cyber Judge",
+      "img": "https://den-cards.pokellector.com/387/Metang.SV5M.47.51785.png",
+      "rarity": "Common",
+      "cardNum": "47/71"
+    },
+    {
+      "name": "Metagross",
+      "set": "Cyber Judge",
+      "img": "https://den-cards.pokellector.com/387/Metagross.SV5M.48.51786.png",
+      "rarity": "Uncommon",
+      "cardNum": "48/71"
+    },
+    {
+      "name": "Meltan",
+      "set": "Cyber Judge",
+      "img": "https://den-cards.pokellector.com/387/Meltan.SV5M.49.51787.png",
+      "rarity": "Common",
+      "cardNum": "49/71"
+    },
+    {
+      "name": "Melmetal",
+      "set": "Cyber Judge",
+      "img": "https://den-cards.pokellector.com/387/Melmetal.SV5M.50.51788.png",
+      "rarity": "Rare",
+      "cardNum": "50/71"
+    },
+    {
+      "name": "Iron Treads",
+      "set": "Cyber Judge",
+      "img": "https://den-cards.pokellector.com/387/Iron-Treads.SV5M.51.51789.png",
+      "rarity": "Uncommon",
+      "cardNum": "51/71"
+    },
+    {
+      "name": "Miraidon",
+      "set": "Cyber Judge",
+      "img": "https://den-cards.pokellector.com/387/Miraidon.SV5M.52.51790.png",
+      "rarity": "Rare",
+      "cardNum": "52/71"
+    },
+    {
+      "name": "Lickitung",
+      "set": "Cyber Judge",
+      "img": "https://den-cards.pokellector.com/387/Lickitung.SV5M.53.51791.png",
+      "rarity": "Common",
+      "cardNum": "53/71"
+    },
+    {
+      "name": "Lickilicky",
+      "set": "Cyber Judge",
+      "img": "https://den-cards.pokellector.com/387/Lickilicky.SV5M.54.51792.png",
+      "rarity": "Common",
+      "cardNum": "54/71"
+    },
+    {
+      "name": "Skitty",
+      "set": "Cyber Judge",
+      "img": "https://den-cards.pokellector.com/387/Skitty.SV5M.55.51793.png",
+      "rarity": "Common",
+      "cardNum": "55/71"
+    },
+    {
+      "name": "Delcatty",
+      "set": "Cyber Judge",
+      "img": "https://den-cards.pokellector.com/387/Delcatty.SV5M.56.51794.png",
+      "rarity": "Uncommon",
+      "cardNum": "56/71"
+    },
+    {
+      "name": "Pidove",
+      "set": "Cyber Judge",
+      "img": "https://den-cards.pokellector.com/387/Pidove.SV5M.57.51795.png",
+      "rarity": "Common",
+      "cardNum": "57/71"
+    },
+    {
+      "name": "Tranquill",
+      "set": "Cyber Judge",
+      "img": "https://den-cards.pokellector.com/387/Tranquill.SV5M.58.51796.png",
+      "rarity": "Common",
+      "cardNum": "58/71"
+    },
+    {
+      "name": "Unfezant",
+      "set": "Cyber Judge",
+      "img": "https://den-cards.pokellector.com/387/Unfezant.SV5M.59.51797.png",
+      "rarity": "Uncommon",
+      "cardNum": "59/71"
+    },
+    {
+      "name": "Drampa",
+      "set": "Cyber Judge",
+      "img": "https://den-cards.pokellector.com/387/Drampa.SV5M.60.51798.png",
+      "rarity": "Rare",
+      "cardNum": "60/71"
+    },
+    {
+      "name": "Hand Trimmer",
+      "set": "Cyber Judge",
+      "img": "https://den-cards.pokellector.com/387/Hand-Trimmer.SV5M.61.51799.png",
+      "rarity": "Uncommon",
+      "cardNum": "61/71"
+    },
+    {
+      "name": "Prime Catcher",
+      "set": "Cyber Judge",
+      "img": "https://den-cards.pokellector.com/387/Prime-Catcher.SV5M.62.51664.png",
+      "rarity": "Ace Spec",
+      "cardNum": "62/71"
+    },
+    {
+      "name": "Reboot Pod",
+      "set": "Cyber Judge",
+      "img": "https://den-cards.pokellector.com/387/Reboot-Pod.SV5M.63.51800.png",
+      "rarity": "Ace Spec",
+      "cardNum": "63/71"
+    },
+    {
+      "name": "Hero's Cape",
+      "set": "Cyber Judge",
+      "img": "https://den-cards.pokellector.com/387/Heros-Cape.SV5M.64.51725.png",
+      "rarity": "Ace Spec",
+      "cardNum": "64/71"
+    },
+    {
+      "name": "Future Booster Energy Capsule",
+      "set": "Cyber Judge",
+      "img": "https://den-cards.pokellector.com/387/Future-Booster-Energy-Capsule.SV5M.65.51672.png",
+      "rarity": "Uncommon",
+      "cardNum": "65/71"
+    },
+    {
+      "name": "Heavy Baton",
+      "set": "Cyber Judge",
+      "img": "https://den-cards.pokellector.com/387/Heavy-Baton.SV5M.66.51801.png",
+      "rarity": "Uncommon",
+      "cardNum": "66/71"
+    },
+    {
+      "name": "Codebreaker's Solution",
+      "set": "Cyber Judge",
+      "img": "https://den-cards.pokellector.com/387/Codebreakers-Solution.SV5M.67.51671.png",
+      "rarity": "Uncommon",
+      "cardNum": "67/71"
+    },
+    {
+      "name": "Salvatore",
+      "set": "Cyber Judge",
+      "img": "https://den-cards.pokellector.com/387/Salvatore.SV5M.68.51802.png",
+      "rarity": "Uncommon",
+      "cardNum": "68/71"
+    },
+    {
+      "name": "Bianca's Sincerity",
+      "set": "Cyber Judge",
+      "img": "https://den-cards.pokellector.com/387/Biancas-Sincerity.SV5M.69.51803.png",
+      "rarity": "Uncommon",
+      "cardNum": "69/71"
+    },
+    {
+      "name": "Full Metal Lab",
+      "set": "Cyber Judge",
+      "img": "https://den-cards.pokellector.com/387/Full-Metal-Lab.SV5M.70.51804.png",
+      "rarity": "Uncommon",
+      "cardNum": "70/71"
+    },
+    {
+      "name": "Mist Energy",
+      "set": "Cyber Judge",
+      "img": "https://den-cards.pokellector.com/387/Mist-Energy.SV5M.71.51732.png",
+      "rarity": "Uncommon",
+      "cardNum": "71/71"
+    },
+    {
+      "name": "Shiftry",
+      "set": "Cyber Judge",
+      "img": "https://den-cards.pokellector.com/387/Shiftry.SV5M.72.51708.png",
+      "rarity": "Art Rare",
+      "cardNum": "72/71"
+    },
+    {
+      "name": "Deerling",
+      "set": "Cyber Judge",
+      "img": "https://den-cards.pokellector.com/387/Deerling.SV5M.73.51805.png",
+      "rarity": "Art Rare",
+      "cardNum": "73/71"
+    },
+    {
+      "name": "Sawsbuck",
+      "set": "Cyber Judge",
+      "img": "https://den-cards.pokellector.com/387/Sawsbuck.SV5M.74.51806.png",
+      "rarity": "Art Rare",
+      "cardNum": "74/71"
+    },
+    {
+      "name": "Litten",
+      "set": "Cyber Judge",
+      "img": "https://den-cards.pokellector.com/387/Litten.SV5M.75.52217.png",
+      "rarity": "Art Rare",
+      "cardNum": "75/71"
+    },
+    {
+      "name": "Charjabug",
+      "set": "Cyber Judge",
+      "img": "https://den-cards.pokellector.com/387/Charjabug.SV5M.76.51701.png",
+      "rarity": "Art Rare",
+      "cardNum": "76/71"
+    },
+    {
+      "name": "Iron Thorns",
+      "set": "Cyber Judge",
+      "img": "https://den-cards.pokellector.com/387/Iron-Thorns.SV5M.77.51715.png",
+      "rarity": "Art Rare",
+      "cardNum": "77/71"
+    },
+    {
+      "name": "Cutiefly",
+      "set": "Cyber Judge",
+      "img": "https://den-cards.pokellector.com/387/Cutiefly.SV5M.78.52218.png",
+      "rarity": "Art Rare",
+      "cardNum": "78/71"
+    },
+    {
+      "name": "Excadrill",
+      "set": "Cyber Judge",
+      "img": "https://den-cards.pokellector.com/387/Excadrill.SV5M.79.52219.png",
+      "rarity": "Art Rare",
+      "cardNum": "79/71"
+    },
+    {
+      "name": "Metagross",
+      "set": "Cyber Judge",
+      "img": "https://den-cards.pokellector.com/387/Metagross.SV5M.80.52220.png",
+      "rarity": "Art Rare",
+      "cardNum": "80/71"
+    },
+    {
+      "name": "Meltan",
+      "set": "Cyber Judge",
+      "img": "https://den-cards.pokellector.com/387/Meltan.SV5M.81.51885.png",
+      "rarity": "Art Rare",
+      "cardNum": "81/71"
+    },
+    {
+      "name": "Lickitung",
+      "set": "Cyber Judge",
+      "img": "https://den-cards.pokellector.com/387/Lickitung.SV5M.82.52221.png",
+      "rarity": "Art Rare",
+      "cardNum": "82/71"
+    },
+    {
+      "name": "Drampa",
+      "set": "Cyber Judge",
+      "img": "https://den-cards.pokellector.com/387/Drampa.SV5M.83.51813.png",
+      "rarity": "Art Rare",
+      "cardNum": "83/71"
+    },
+    {
+      "name": "Iron Leaves ex",
+      "set": "Cyber Judge",
+      "img": "https://den-cards.pokellector.com/387/Iron-Leaves-ex.SV5M.84.52222.png",
+      "rarity": "Super Rare",
+      "cardNum": "84/71"
+    },
+    {
+      "name": "Incineroar ex",
+      "set": "Cyber Judge",
+      "img": "https://den-cards.pokellector.com/387/Incineroar-ex.SV5M.85.52223.png",
+      "rarity": "Super Rare",
+      "cardNum": "85/71"
+    },
+    {
+      "name": "Iron Crown ex",
+      "set": "Cyber Judge",
+      "img": "https://den-cards.pokellector.com/387/Iron-Crown-ex.SV5M.86.52224.png",
+      "rarity": "Super Rare",
+      "cardNum": "86/71"
+    },
+    {
+      "name": "Iron Boulder ex",
+      "set": "Cyber Judge",
+      "img": "https://den-cards.pokellector.com/387/Iron-Boulder-ex.SV5M.87.52225.png",
+      "rarity": "Super Rare",
+      "cardNum": "87/71"
+    },
+    {
+      "name": "Farigiraf ex",
+      "set": "Cyber Judge",
+      "img": "https://den-cards.pokellector.com/387/Farigiraf-ex.SV5M.88.52226.png",
+      "rarity": "Super Rare",
+      "cardNum": "88/71"
+    },
+    {
+      "name": "Scizor ex",
+      "set": "Cyber Judge",
+      "img": "https://den-cards.pokellector.com/387/Scizor-ex.SV5M.89.52227.png",
+      "rarity": "Super Rare",
+      "cardNum": "89/71"
+    },
+    {
+      "name": "Code Maniac's Decoding",
+      "set": "Cyber Judge",
+      "img": "https://den-cards.pokellector.com/387/Code-Maniacs-Decoding.SV5M.90.52228.png",
+      "rarity": "Super Rare",
+      "cardNum": "90/71"
+    },
+    {
+      "name": "Salvatore",
+      "set": "Cyber Judge",
+      "img": "https://den-cards.pokellector.com/387/Salvatore.SV5M.91.52229.png",
+      "rarity": "Super Rare",
+      "cardNum": "91/71"
+    },
+    {
+      "name": "Bianca's Sincerity",
+      "set": "Cyber Judge",
+      "img": "https://den-cards.pokellector.com/387/Biancas-Sincerity.SV5M.92.52230.png",
+      "rarity": "Super Rare",
+      "cardNum": "92/71"
+    },
+    {
+      "name": "Iron Leaves ex",
+      "set": "Cyber Judge",
+      "img": "https://den-cards.pokellector.com/387/Iron-Leaves-ex.SV5M.93.51711.png",
+      "rarity": "Special Art Rare",
+      "cardNum": "93/71"
+    },
+    {
+      "name": "Iron Crown ex",
+      "set": "Cyber Judge",
+      "img": "https://den-cards.pokellector.com/387/Iron-Crown-ex.SV5M.94.51710.png",
+      "rarity": "Special Art Rare",
+      "cardNum": "94/71"
+    },
+    {
+      "name": "Iron Boulder ex",
+      "set": "Cyber Judge",
+      "img": "https://den-cards.pokellector.com/387/Iron-Boulder-ex.SV5M.95.51709.png",
+      "rarity": "Special Art Rare",
+      "cardNum": "95/71"
+    },
+    {
+      "name": "Salvatore",
+      "set": "Cyber Judge",
+      "img": "https://den-cards.pokellector.com/387/Salvatore.SV5M.96.51886.png",
+      "rarity": "Special Art Rare",
+      "cardNum": "96/71"
+    },
+    {
+      "name": "Bianca's Sincerity",
+      "set": "Cyber Judge",
+      "img": "https://den-cards.pokellector.com/387/Biancas-Sincerity.SV5M.97.51815.png",
+      "rarity": "Special Art Rare",
+      "cardNum": "97/71"
+    },
+    {
+      "name": "Iron Leaves ex",
+      "set": "Cyber Judge",
+      "img": "https://den-cards.pokellector.com/387/Iron-Leaves-ex.SV5M.98.52231.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "98/71"
+    },
+    {
+      "name": "Iron Crown ex",
+      "set": "Cyber Judge",
+      "img": "https://den-cards.pokellector.com/387/Iron-Crown-ex.SV5M.99.52232.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "99/71"
+    },
+    {
+      "name": "Iron Boulder ex",
+      "set": "Cyber Judge",
+      "img": "https://den-cards.pokellector.com/387/Iron-Boulder-ex.SV5M.100.52233.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "100/71"
+    }
+  ]
+}

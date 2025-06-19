@@ -1,0 +1,677 @@
+{
+  "setName": "Gold, Silver, to a New World...",
+  "cards": [
+    {
+      "name": "Oddish",
+      "set": "Gold, Silver, to a New World...",
+      "img": "https://den-cards.pokellector.com/324/Oddish.NEO1.1.38520.png",
+      "rarity": "Common",
+      "cardNum": "1/96"
+    },
+    {
+      "name": "Chikorita",
+      "set": "Gold, Silver, to a New World...",
+      "img": "https://den-cards.pokellector.com/324/Chikorita.NEO1.2.38521.png",
+      "rarity": "Common",
+      "cardNum": "2/96"
+    },
+    {
+      "name": "Ledyba",
+      "set": "Gold, Silver, to a New World...",
+      "img": "https://den-cards.pokellector.com/324/Ledyba.NEO1.3.38522.png",
+      "rarity": "Common",
+      "cardNum": "3/96"
+    },
+    {
+      "name": "Spinarak",
+      "set": "Gold, Silver, to a New World...",
+      "img": "https://den-cards.pokellector.com/324/Spinarak.NEO1.4.38523.png",
+      "rarity": "Common",
+      "cardNum": "4/96"
+    },
+    {
+      "name": "Hoppip",
+      "set": "Gold, Silver, to a New World...",
+      "img": "https://den-cards.pokellector.com/324/Hoppip.NEO1.5.38524.png",
+      "rarity": "Common",
+      "cardNum": "5/96"
+    },
+    {
+      "name": "Sunkern",
+      "set": "Gold, Silver, to a New World...",
+      "img": "https://den-cards.pokellector.com/324/Sunkern.NEO1.6.38525.png",
+      "rarity": "Common",
+      "cardNum": "6/96"
+    },
+    {
+      "name": "Shuckle",
+      "set": "Gold, Silver, to a New World...",
+      "img": "https://den-cards.pokellector.com/324/Shuckle.NEO1.7.38526.png",
+      "rarity": "Common",
+      "cardNum": "7/96"
+    },
+    {
+      "name": "Gloom",
+      "set": "Gold, Silver, to a New World...",
+      "img": "https://den-cards.pokellector.com/324/Gloom.NEO1.8.38527.png",
+      "rarity": "Uncommon",
+      "cardNum": "8/96"
+    },
+    {
+      "name": "Bayleef",
+      "set": "Gold, Silver, to a New World...",
+      "img": "https://den-cards.pokellector.com/324/Bayleef.NEO1.9.38528.png",
+      "rarity": "Uncommon",
+      "cardNum": "9/96"
+    },
+    {
+      "name": "Ledian",
+      "set": "Gold, Silver, to a New World...",
+      "img": "https://den-cards.pokellector.com/324/Ledian.NEO1.10.38529.png",
+      "rarity": "Uncommon",
+      "cardNum": "10/96"
+    },
+    {
+      "name": "Ariados",
+      "set": "Gold, Silver, to a New World...",
+      "img": "https://den-cards.pokellector.com/324/Ariados.NEO1.11.38530.png",
+      "rarity": "Uncommon",
+      "cardNum": "11/96"
+    },
+    {
+      "name": "Skiploom",
+      "set": "Gold, Silver, to a New World...",
+      "img": "https://den-cards.pokellector.com/324/Skiploom.NEO1.12.38531.png",
+      "rarity": "Uncommon",
+      "cardNum": "12/96"
+    },
+    {
+      "name": "Sunflora",
+      "set": "Gold, Silver, to a New World...",
+      "img": "https://den-cards.pokellector.com/324/Sunflora.NEO1.13.38532.png",
+      "rarity": "Uncommon",
+      "cardNum": "13/96"
+    },
+    {
+      "name": "Meganium",
+      "set": "Gold, Silver, to a New World...",
+      "img": "https://den-cards.pokellector.com/324/Meganium.NEO1.14.38533.png",
+      "rarity": "Rare",
+      "cardNum": "14/96"
+    },
+    {
+      "name": "Bellossom",
+      "set": "Gold, Silver, to a New World...",
+      "img": "https://den-cards.pokellector.com/324/Bellossom.NEO1.15.38534.png",
+      "rarity": "Rare",
+      "cardNum": "15/96"
+    },
+    {
+      "name": "Jumpluff",
+      "set": "Gold, Silver, to a New World...",
+      "img": "https://den-cards.pokellector.com/324/Jumpluff.NEO1.16.38535.png",
+      "rarity": "Rare",
+      "cardNum": "16/96"
+    },
+    {
+      "name": "Heracross",
+      "set": "Gold, Silver, to a New World...",
+      "img": "https://den-cards.pokellector.com/324/Heracross.NEO1.17.38536.png",
+      "rarity": "Rare",
+      "cardNum": "17/96"
+    },
+    {
+      "name": "Cyndaquil",
+      "set": "Gold, Silver, to a New World...",
+      "img": "https://den-cards.pokellector.com/324/Cyndaquil.NEO1.18.38537.png",
+      "rarity": "Common",
+      "cardNum": "18/96"
+    },
+    {
+      "name": "Magmar",
+      "set": "Gold, Silver, to a New World...",
+      "img": "https://den-cards.pokellector.com/324/Magmar.NEO1.19.38538.png",
+      "rarity": "Uncommon",
+      "cardNum": "19/96"
+    },
+    {
+      "name": "Quilava",
+      "set": "Gold, Silver, to a New World...",
+      "img": "https://den-cards.pokellector.com/324/Quilava.NEO1.20.38539.png",
+      "rarity": "Uncommon",
+      "cardNum": "20/96"
+    },
+    {
+      "name": "Typhlosion",
+      "set": "Gold, Silver, to a New World...",
+      "img": "https://den-cards.pokellector.com/324/Typhlosion.NEO1.21.38540.png",
+      "rarity": "Rare",
+      "cardNum": "21/96"
+    },
+    {
+      "name": "Magby",
+      "set": "Gold, Silver, to a New World...",
+      "img": "https://den-cards.pokellector.com/324/Magby.NEO1.22.38541.png",
+      "rarity": "Rare",
+      "cardNum": "22/96"
+    },
+    {
+      "name": "Horsea",
+      "set": "Gold, Silver, to a New World...",
+      "img": "https://den-cards.pokellector.com/324/Horsea.NEO1.23.38542.png",
+      "rarity": "Common",
+      "cardNum": "23/96"
+    },
+    {
+      "name": "Totodile",
+      "set": "Gold, Silver, to a New World...",
+      "img": "https://den-cards.pokellector.com/324/Totodile.NEO1.24.38543.png",
+      "rarity": "Common",
+      "cardNum": "24/96"
+    },
+    {
+      "name": "Marill",
+      "set": "Gold, Silver, to a New World...",
+      "img": "https://den-cards.pokellector.com/324/Marill.NEO1.25.38544.png",
+      "rarity": "Common",
+      "cardNum": "25/96"
+    },
+    {
+      "name": "Wooper",
+      "set": "Gold, Silver, to a New World...",
+      "img": "https://den-cards.pokellector.com/324/Wooper.NEO1.26.38545.png",
+      "rarity": "Common",
+      "cardNum": "26/96"
+    },
+    {
+      "name": "Swinub",
+      "set": "Gold, Silver, to a New World...",
+      "img": "https://den-cards.pokellector.com/324/Swinub.NEO1.27.38546.png",
+      "rarity": "Common",
+      "cardNum": "27/96"
+    },
+    {
+      "name": "Mantine",
+      "set": "Gold, Silver, to a New World...",
+      "img": "https://den-cards.pokellector.com/324/Mantine.NEO1.28.38547.png",
+      "rarity": "Common",
+      "cardNum": "28/96"
+    },
+    {
+      "name": "Seadra",
+      "set": "Gold, Silver, to a New World...",
+      "img": "https://den-cards.pokellector.com/324/Seadra.NEO1.29.38548.png",
+      "rarity": "Uncommon",
+      "cardNum": "29/96"
+    },
+    {
+      "name": "Croconaw",
+      "set": "Gold, Silver, to a New World...",
+      "img": "https://den-cards.pokellector.com/324/Croconaw.NEO1.30.38549.png",
+      "rarity": "Uncommon",
+      "cardNum": "30/96"
+    },
+    {
+      "name": "Quagsire",
+      "set": "Gold, Silver, to a New World...",
+      "img": "https://den-cards.pokellector.com/324/Quagsire.NEO1.31.38550.png",
+      "rarity": "Uncommon",
+      "cardNum": "31/96"
+    },
+    {
+      "name": "Piloswine",
+      "set": "Gold, Silver, to a New World...",
+      "img": "https://den-cards.pokellector.com/324/Piloswine.NEO1.32.38551.png",
+      "rarity": "Uncommon",
+      "cardNum": "32/96"
+    },
+    {
+      "name": "Feraligatr",
+      "set": "Gold, Silver, to a New World...",
+      "img": "https://den-cards.pokellector.com/324/Feraligatr.NEO1.33.38552.png",
+      "rarity": "Rare",
+      "cardNum": "33/96"
+    },
+    {
+      "name": "Azumarill",
+      "set": "Gold, Silver, to a New World...",
+      "img": "https://den-cards.pokellector.com/324/Azumarill.NEO1.34.38553.png",
+      "rarity": "Rare",
+      "cardNum": "34/96"
+    },
+    {
+      "name": "Kingdra",
+      "set": "Gold, Silver, to a New World...",
+      "img": "https://den-cards.pokellector.com/324/Kingdra.NEO1.35.38554.png",
+      "rarity": "Rare",
+      "cardNum": "35/96"
+    },
+    {
+      "name": "Pikachu",
+      "set": "Gold, Silver, to a New World...",
+      "img": "https://den-cards.pokellector.com/324/Pikachu.NEO1.36.38555.png",
+      "rarity": "Common",
+      "cardNum": "36/96"
+    },
+    {
+      "name": "Chinchou",
+      "set": "Gold, Silver, to a New World...",
+      "img": "https://den-cards.pokellector.com/324/Chinchou.NEO1.37.38556.png",
+      "rarity": "Common",
+      "cardNum": "37/96"
+    },
+    {
+      "name": "Mareep",
+      "set": "Gold, Silver, to a New World...",
+      "img": "https://den-cards.pokellector.com/324/Mareep.NEO1.38.38557.png",
+      "rarity": "Common",
+      "cardNum": "38/96"
+    },
+    {
+      "name": "Electabuzz",
+      "set": "Gold, Silver, to a New World...",
+      "img": "https://den-cards.pokellector.com/324/Electabuzz.NEO1.39.38558.png",
+      "rarity": "Uncommon",
+      "cardNum": "39/96"
+    },
+    {
+      "name": "Lanturn",
+      "set": "Gold, Silver, to a New World...",
+      "img": "https://den-cards.pokellector.com/324/Lanturn.NEO1.40.38559.png",
+      "rarity": "Uncommon",
+      "cardNum": "40/96"
+    },
+    {
+      "name": "Flaaffy",
+      "set": "Gold, Silver, to a New World...",
+      "img": "https://den-cards.pokellector.com/324/Flaaffy.NEO1.41.38560.png",
+      "rarity": "Uncommon",
+      "cardNum": "41/96"
+    },
+    {
+      "name": "Pichu",
+      "set": "Gold, Silver, to a New World...",
+      "img": "https://den-cards.pokellector.com/324/Pichu.NEO1.42.38561.png",
+      "rarity": "Rare",
+      "cardNum": "42/96"
+    },
+    {
+      "name": "Ampharos",
+      "set": "Gold, Silver, to a New World...",
+      "img": "https://den-cards.pokellector.com/324/Ampharos.NEO1.43.38562.png",
+      "rarity": "Rare",
+      "cardNum": "43/96"
+    },
+    {
+      "name": "Elekid",
+      "set": "Gold, Silver, to a New World...",
+      "img": "https://den-cards.pokellector.com/324/Elekid.NEO1.44.38563.png",
+      "rarity": "Rare",
+      "cardNum": "44/96"
+    },
+    {
+      "name": "Slowpoke",
+      "set": "Gold, Silver, to a New World...",
+      "img": "https://den-cards.pokellector.com/324/Slowpoke.NEO1.45.38564.png",
+      "rarity": "Common",
+      "cardNum": "45/96"
+    },
+    {
+      "name": "Natu",
+      "set": "Gold, Silver, to a New World...",
+      "img": "https://den-cards.pokellector.com/324/Natu.NEO1.46.38565.png",
+      "rarity": "Common",
+      "cardNum": "46/96"
+    },
+    {
+      "name": "Girafarig",
+      "set": "Gold, Silver, to a New World...",
+      "img": "https://den-cards.pokellector.com/324/Girafarig.NEO1.47.38566.png",
+      "rarity": "Common",
+      "cardNum": "47/96"
+    },
+    {
+      "name": "Xatu",
+      "set": "Gold, Silver, to a New World...",
+      "img": "https://den-cards.pokellector.com/324/Xatu.NEO1.48.38567.png",
+      "rarity": "Uncommon",
+      "cardNum": "48/96"
+    },
+    {
+      "name": "Slowking",
+      "set": "Gold, Silver, to a New World...",
+      "img": "https://den-cards.pokellector.com/324/Slowking.NEO1.49.38568.png",
+      "rarity": "Rare",
+      "cardNum": "49/96"
+    },
+    {
+      "name": "Onix",
+      "set": "Gold, Silver, to a New World...",
+      "img": "https://den-cards.pokellector.com/324/Onix.NEO1.50.38569.png",
+      "rarity": "Common",
+      "cardNum": "50/96"
+    },
+    {
+      "name": "Sudowoodo",
+      "set": "Gold, Silver, to a New World...",
+      "img": "https://den-cards.pokellector.com/324/Sudowoodo.NEO1.51.38570.png",
+      "rarity": "Common",
+      "cardNum": "51/96"
+    },
+    {
+      "name": "Gligar",
+      "set": "Gold, Silver, to a New World...",
+      "img": "https://den-cards.pokellector.com/324/Gligar.NEO1.52.38571.png",
+      "rarity": "Common",
+      "cardNum": "52/96"
+    },
+    {
+      "name": "Phanpy",
+      "set": "Gold, Silver, to a New World...",
+      "img": "https://den-cards.pokellector.com/324/Phanpy.NEO1.53.38572.png",
+      "rarity": "Uncommon",
+      "cardNum": "53/96"
+    },
+    {
+      "name": "Donphan",
+      "set": "Gold, Silver, to a New World...",
+      "img": "https://den-cards.pokellector.com/324/Donphan.NEO1.54.38573.png",
+      "rarity": "Rare",
+      "cardNum": "54/96"
+    },
+    {
+      "name": "Murkrow",
+      "set": "Gold, Silver, to a New World...",
+      "img": "https://den-cards.pokellector.com/324/Murkrow.NEO1.55.38574.png",
+      "rarity": "Rare",
+      "cardNum": "55/96"
+    },
+    {
+      "name": "Sneasel",
+      "set": "Gold, Silver, to a New World...",
+      "img": "https://den-cards.pokellector.com/324/Sneasel.NEO1.56.38575.png",
+      "rarity": "Rare",
+      "cardNum": "56/96"
+    },
+    {
+      "name": "Steelix",
+      "set": "Gold, Silver, to a New World...",
+      "img": "https://den-cards.pokellector.com/324/Steelix.NEO1.57.38576.png",
+      "rarity": "Rare",
+      "cardNum": "57/96"
+    },
+    {
+      "name": "Skarmory",
+      "set": "Gold, Silver, to a New World...",
+      "img": "https://den-cards.pokellector.com/324/Skarmory.NEO1.58.38577.png",
+      "rarity": "Rare",
+      "cardNum": "58/96"
+    },
+    {
+      "name": "Sentret",
+      "set": "Gold, Silver, to a New World...",
+      "img": "https://den-cards.pokellector.com/324/Sentret.NEO1.59.38578.png",
+      "rarity": "Common",
+      "cardNum": "59/96"
+    },
+    {
+      "name": "Hoothoot",
+      "set": "Gold, Silver, to a New World...",
+      "img": "https://den-cards.pokellector.com/324/Hoothoot.NEO1.60.38579.png",
+      "rarity": "Common",
+      "cardNum": "60/96"
+    },
+    {
+      "name": "Snubbull",
+      "set": "Gold, Silver, to a New World...",
+      "img": "https://den-cards.pokellector.com/324/Snubbull.NEO1.61.38580.png",
+      "rarity": "Common",
+      "cardNum": "61/96"
+    },
+    {
+      "name": "Stantler",
+      "set": "Gold, Silver, to a New World...",
+      "img": "https://den-cards.pokellector.com/324/Stantler.NEO1.62.38581.png",
+      "rarity": "Common",
+      "cardNum": "62/96"
+    },
+    {
+      "name": "Clefairy",
+      "set": "Gold, Silver, to a New World...",
+      "img": "https://den-cards.pokellector.com/324/Clefairy.NEO1.63.38582.png",
+      "rarity": "Uncommon",
+      "cardNum": "63/96"
+    },
+    {
+      "name": "Furret",
+      "set": "Gold, Silver, to a New World...",
+      "img": "https://den-cards.pokellector.com/324/Furret.NEO1.64.38583.png",
+      "rarity": "Uncommon",
+      "cardNum": "64/96"
+    },
+    {
+      "name": "Noctowl",
+      "set": "Gold, Silver, to a New World...",
+      "img": "https://den-cards.pokellector.com/324/Noctowl.NEO1.65.38584.png",
+      "rarity": "Uncommon",
+      "cardNum": "65/96"
+    },
+    {
+      "name": "Togepi",
+      "set": "Gold, Silver, to a New World...",
+      "img": "https://den-cards.pokellector.com/324/Togepi.NEO1.66.38585.png",
+      "rarity": "Uncommon",
+      "cardNum": "66/96"
+    },
+    {
+      "name": "Aipom",
+      "set": "Gold, Silver, to a New World...",
+      "img": "https://den-cards.pokellector.com/324/Aipom.NEO1.67.38586.png",
+      "rarity": "Uncommon",
+      "cardNum": "67/96"
+    },
+    {
+      "name": "Granbull",
+      "set": "Gold, Silver, to a New World...",
+      "img": "https://den-cards.pokellector.com/324/Granbull.NEO1.68.38587.png",
+      "rarity": "Uncommon",
+      "cardNum": "68/96"
+    },
+    {
+      "name": "Miltank",
+      "set": "Gold, Silver, to a New World...",
+      "img": "https://den-cards.pokellector.com/324/Miltank.NEO1.69.38588.png",
+      "rarity": "Uncommon",
+      "cardNum": "69/96"
+    },
+    {
+      "name": "Cleffa",
+      "set": "Gold, Silver, to a New World...",
+      "img": "https://den-cards.pokellector.com/324/Cleffa.NEO1.70.38589.png",
+      "rarity": "Rare",
+      "cardNum": "70/96"
+    },
+    {
+      "name": "Togetic",
+      "set": "Gold, Silver, to a New World...",
+      "img": "https://den-cards.pokellector.com/324/Togetic.NEO1.71.38590.png",
+      "rarity": "Rare",
+      "cardNum": "71/96"
+    },
+    {
+      "name": "Lugia",
+      "set": "Gold, Silver, to a New World...",
+      "img": "https://den-cards.pokellector.com/324/Lugia.NEO1.72.38591.png",
+      "rarity": "Rare",
+      "cardNum": "72/96"
+    },
+    {
+      "name": "Berry",
+      "set": "Gold, Silver, to a New World...",
+      "img": "https://den-cards.pokellector.com/324/Berry.NEO1.73.38592.png",
+      "rarity": "Common",
+      "cardNum": "73/96"
+    },
+    {
+      "name": "Super Rod",
+      "set": "Gold, Silver, to a New World...",
+      "img": "https://den-cards.pokellector.com/324/Super-Rod.NEO1.74.38593.png",
+      "rarity": "Common",
+      "cardNum": "74/96"
+    },
+    {
+      "name": "Double Gust",
+      "set": "Gold, Silver, to a New World...",
+      "img": "https://den-cards.pokellector.com/324/Double-Gust.NEO1.75.38594.png",
+      "rarity": "Common",
+      "cardNum": "75/96"
+    },
+    {
+      "name": "Pokémon March",
+      "set": "Gold, Silver, to a New World...",
+      "img": "https://den-cards.pokellector.com/324/Pokmon-March.NEO1.76.38595.png",
+      "rarity": "Common",
+      "cardNum": "76/96"
+    },
+    {
+      "name": "Moo-Moo Milk",
+      "set": "Gold, Silver, to a New World...",
+      "img": "https://den-cards.pokellector.com/324/Moo-Moo-Milk.NEO1.77.38596.png",
+      "rarity": "Common",
+      "cardNum": "77/96"
+    },
+    {
+      "name": "Professor Elm",
+      "set": "Gold, Silver, to a New World...",
+      "img": "https://den-cards.pokellector.com/324/Professor-Elm.NEO1.78.38597.png",
+      "rarity": "Uncommon",
+      "cardNum": "78/96"
+    },
+    {
+      "name": "Gold Berry",
+      "set": "Gold, Silver, to a New World...",
+      "img": "https://den-cards.pokellector.com/324/Gold-Berry.NEO1.79.38598.png",
+      "rarity": "Uncommon",
+      "cardNum": "79/96"
+    },
+    {
+      "name": "Card-Flip Game",
+      "set": "Gold, Silver, to a New World...",
+      "img": "https://den-cards.pokellector.com/324/Card-Flip-Game.NEO1.80.38599.png",
+      "rarity": "Uncommon",
+      "cardNum": "80/96"
+    },
+    {
+      "name": "Miracle Berry",
+      "set": "Gold, Silver, to a New World...",
+      "img": "https://den-cards.pokellector.com/324/Miracle-Berry.NEO1.81.38600.png",
+      "rarity": "Uncommon",
+      "cardNum": "81/96"
+    },
+    {
+      "name": "New Pokédex",
+      "set": "Gold, Silver, to a New World...",
+      "img": "https://den-cards.pokellector.com/324/New-Pokdex.NEO1.82.38601.png",
+      "rarity": "Uncommon",
+      "cardNum": "82/96"
+    },
+    {
+      "name": "Super Scoop Up",
+      "set": "Gold, Silver, to a New World...",
+      "img": "https://den-cards.pokellector.com/324/Super-Scoop-Up.NEO1.83.38602.png",
+      "rarity": "Uncommon",
+      "cardNum": "83/96"
+    },
+    {
+      "name": "Bill's Teleporter",
+      "set": "Gold, Silver, to a New World...",
+      "img": "https://den-cards.pokellector.com/324/Bills-Teleporter.NEO1.84.38603.png",
+      "rarity": "Uncommon",
+      "cardNum": "84/96"
+    },
+    {
+      "name": "Sprout Tower",
+      "set": "Gold, Silver, to a New World...",
+      "img": "https://den-cards.pokellector.com/324/Sprout-Tower.NEO1.85.38604.png",
+      "rarity": "Uncommon",
+      "cardNum": "85/96"
+    },
+    {
+      "name": "Ecogym",
+      "set": "Gold, Silver, to a New World...",
+      "img": "https://den-cards.pokellector.com/324/Ecogym.NEO1.86.38605.png",
+      "rarity": "Rare",
+      "cardNum": "86/96"
+    },
+    {
+      "name": "Energy Charge",
+      "set": "Gold, Silver, to a New World...",
+      "img": "https://den-cards.pokellector.com/324/Energy-Charge.NEO1.87.38606.png",
+      "rarity": "Rare",
+      "cardNum": "87/96"
+    },
+    {
+      "name": "Focus Band",
+      "set": "Gold, Silver, to a New World...",
+      "img": "https://den-cards.pokellector.com/324/Focus-Band.NEO1.88.38607.png",
+      "rarity": "Rare",
+      "cardNum": "88/96"
+    },
+    {
+      "name": "Mary",
+      "set": "Gold, Silver, to a New World...",
+      "img": "https://den-cards.pokellector.com/324/Mary.NEO1.89.38608.png",
+      "rarity": "Rare",
+      "cardNum": "89/96"
+    },
+    {
+      "name": "Arcade Game",
+      "set": "Gold, Silver, to a New World...",
+      "img": "https://den-cards.pokellector.com/324/Arcade-Game.NEO1.90.38609.png",
+      "rarity": "Rare",
+      "cardNum": "90/96"
+    },
+    {
+      "name": "Time Capsule",
+      "set": "Gold, Silver, to a New World...",
+      "img": "https://den-cards.pokellector.com/324/Time-Capsule.NEO1.91.38610.png",
+      "rarity": "Rare",
+      "cardNum": "91/96"
+    },
+    {
+      "name": "Super Energy Retrieval",
+      "set": "Gold, Silver, to a New World...",
+      "img": "https://den-cards.pokellector.com/324/Super-Energy-Retrieval.NEO1.92.38611.png",
+      "rarity": "Rare",
+      "cardNum": "92/96"
+    },
+    {
+      "name": "PokéGear",
+      "set": "Gold, Silver, to a New World...",
+      "img": "https://den-cards.pokellector.com/324/PokGear.NEO1.93.38612.png",
+      "rarity": "Rare",
+      "cardNum": "93/96"
+    },
+    {
+      "name": "Darkness Energy",
+      "set": "Gold, Silver, to a New World...",
+      "img": "https://den-cards.pokellector.com/324/Darkness-Energy.NEO1.94.38613.png",
+      "rarity": "Rare",
+      "cardNum": "94/96"
+    },
+    {
+      "name": "Metal Energy",
+      "set": "Gold, Silver, to a New World...",
+      "img": "https://den-cards.pokellector.com/324/Metal-Energy.NEO1.95.38614.png",
+      "rarity": "Rare",
+      "cardNum": "95/96"
+    },
+    {
+      "name": "Recycle Energy",
+      "set": "Gold, Silver, to a New World...",
+      "img": "https://den-cards.pokellector.com/324/Recycle-Energy.NEO1.96.38615.png",
+      "rarity": "Rare",
+      "cardNum": "96/96"
+    }
+  ]
+}

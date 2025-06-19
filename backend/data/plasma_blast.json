@@ -1,0 +1,740 @@
+{
+  "setName": "Plasma Blast",
+  "cards": [
+    {
+      "name": "Surskit",
+      "set": "Plasma Blast",
+      "img": "https://den-cards.pokellector.com/131/Surskit.PLB.1.png",
+      "rarity": "Common",
+      "cardNum": "1/101"
+    },
+    {
+      "name": "Masquerain",
+      "set": "Plasma Blast",
+      "img": "https://den-cards.pokellector.com/131/Masquerain.PLB.2.png",
+      "rarity": "Rare",
+      "cardNum": "2/101"
+    },
+    {
+      "name": "Lileep",
+      "set": "Plasma Blast",
+      "img": "https://den-cards.pokellector.com/131/Lileep.PLB.3.png",
+      "rarity": "Uncommon",
+      "cardNum": "3/101"
+    },
+    {
+      "name": "Cradily",
+      "set": "Plasma Blast",
+      "img": "https://den-cards.pokellector.com/131/Cradily.PLB.4.png",
+      "rarity": "Rare",
+      "cardNum": "4/101"
+    },
+    {
+      "name": "Tropius",
+      "set": "Plasma Blast",
+      "img": "https://den-cards.pokellector.com/131/Tropius.PLB.5.png",
+      "rarity": "Uncommon",
+      "cardNum": "5/101"
+    },
+    {
+      "name": "Karrablast",
+      "set": "Plasma Blast",
+      "img": "https://den-cards.pokellector.com/131/Karrablast.PLB.6.png",
+      "rarity": "Common",
+      "cardNum": "6/101"
+    },
+    {
+      "name": "Shelmet",
+      "set": "Plasma Blast",
+      "img": "https://den-cards.pokellector.com/131/Shelmet.PLB.7.png",
+      "rarity": "Common",
+      "cardNum": "7/101"
+    },
+    {
+      "name": "Accelgor",
+      "set": "Plasma Blast",
+      "img": "https://den-cards.pokellector.com/131/Accelgor.PLB.8.png",
+      "rarity": "Rare",
+      "cardNum": "8/101"
+    },
+    {
+      "name": "Virizion EX",
+      "set": "Plasma Blast",
+      "img": "https://den-cards.pokellector.com/131/Virizion-EX.PLB.9.png",
+      "rarity": "Rare",
+      "cardNum": "9/101"
+    },
+    {
+      "name": "Genesect",
+      "set": "Plasma Blast",
+      "img": "https://den-cards.pokellector.com/131/Genesect.PLB.10.png",
+      "rarity": "Rare",
+      "cardNum": "10/101"
+    },
+    {
+      "name": "Genesect EX",
+      "set": "Plasma Blast",
+      "img": "https://den-cards.pokellector.com/131/Genesect-EX.PLB.11.png",
+      "rarity": "Rare",
+      "cardNum": "11/101"
+    },
+    {
+      "name": "Larvesta",
+      "set": "Plasma Blast",
+      "img": "https://den-cards.pokellector.com/131/Larvesta.PLB.12.png",
+      "rarity": "Common",
+      "cardNum": "12/101"
+    },
+    {
+      "name": "Volcarona",
+      "set": "Plasma Blast",
+      "img": "https://den-cards.pokellector.com/131/Volcarona.PLB.13.png",
+      "rarity": "Rare",
+      "cardNum": "13/101"
+    },
+    {
+      "name": "Squirtle",
+      "set": "Plasma Blast",
+      "img": "https://den-cards.pokellector.com/131/Squirtle.PLB.14.png",
+      "rarity": "Common",
+      "cardNum": "14/101"
+    },
+    {
+      "name": "Wartortle",
+      "set": "Plasma Blast",
+      "img": "https://den-cards.pokellector.com/131/Wartortle.PLB.15.png",
+      "rarity": "Uncommon",
+      "cardNum": "15/101"
+    },
+    {
+      "name": "Blastoise",
+      "set": "Plasma Blast",
+      "img": "https://den-cards.pokellector.com/131/Blastoise.PLB.16.png",
+      "rarity": "Rare",
+      "cardNum": "16/101"
+    },
+    {
+      "name": "Lapras",
+      "set": "Plasma Blast",
+      "img": "https://den-cards.pokellector.com/131/Lapras.PLB.17.png",
+      "rarity": "Common",
+      "cardNum": "17/101"
+    },
+    {
+      "name": "Remoraid",
+      "set": "Plasma Blast",
+      "img": "https://den-cards.pokellector.com/131/Remoraid.PLB.18.png",
+      "rarity": "Common",
+      "cardNum": "18/101"
+    },
+    {
+      "name": "Octillery",
+      "set": "Plasma Blast",
+      "img": "https://den-cards.pokellector.com/131/Octillery.PLB.19.png",
+      "rarity": "Uncommon",
+      "cardNum": "19/101"
+    },
+    {
+      "name": "Suicune",
+      "set": "Plasma Blast",
+      "img": "https://den-cards.pokellector.com/131/Suicune.PLB.20.png",
+      "rarity": "Rare",
+      "cardNum": "20/101"
+    },
+    {
+      "name": "Snorunt",
+      "set": "Plasma Blast",
+      "img": "https://den-cards.pokellector.com/131/Snorunt.PLB.21.png",
+      "rarity": "Common",
+      "cardNum": "21/101"
+    },
+    {
+      "name": "Glalie",
+      "set": "Plasma Blast",
+      "img": "https://den-cards.pokellector.com/131/Glalie.PLB.22.png",
+      "rarity": "Uncommon",
+      "cardNum": "22/101"
+    },
+    {
+      "name": "Froslass",
+      "set": "Plasma Blast",
+      "img": "https://den-cards.pokellector.com/131/Froslass.PLB.23.png",
+      "rarity": "Rare",
+      "cardNum": "23/101"
+    },
+    {
+      "name": "Relicanth",
+      "set": "Plasma Blast",
+      "img": "https://den-cards.pokellector.com/131/Relicanth.PLB.24.png",
+      "rarity": "Uncommon",
+      "cardNum": "24/101"
+    },
+    {
+      "name": "Snover",
+      "set": "Plasma Blast",
+      "img": "https://den-cards.pokellector.com/131/Snover.PLB.25.png",
+      "rarity": "Common",
+      "cardNum": "25/101"
+    },
+    {
+      "name": "Abomasnow",
+      "set": "Plasma Blast",
+      "img": "https://den-cards.pokellector.com/131/Abomasnow.PLB.26.png",
+      "rarity": "Uncommon",
+      "cardNum": "26/101"
+    },
+    {
+      "name": "Tirtouga",
+      "set": "Plasma Blast",
+      "img": "https://den-cards.pokellector.com/131/Tirtouga.PLB.27.png",
+      "rarity": "Uncommon",
+      "cardNum": "27/101"
+    },
+    {
+      "name": "Carracosta",
+      "set": "Plasma Blast",
+      "img": "https://den-cards.pokellector.com/131/Carracosta.PLB.28.png",
+      "rarity": "Rare",
+      "cardNum": "28/101"
+    },
+    {
+      "name": "Ducklett",
+      "set": "Plasma Blast",
+      "img": "https://den-cards.pokellector.com/131/Ducklett.PLB.29.png",
+      "rarity": "Common",
+      "cardNum": "29/101"
+    },
+    {
+      "name": "Kyurem EX",
+      "set": "Plasma Blast",
+      "img": "https://den-cards.pokellector.com/131/Kyurem-EX.PLB.30.png",
+      "rarity": "Rare",
+      "cardNum": "30/101"
+    },
+    {
+      "name": "Tynamo",
+      "set": "Plasma Blast",
+      "img": "https://den-cards.pokellector.com/131/Tynamo.PLB.31.png",
+      "rarity": "Common",
+      "cardNum": "31/101"
+    },
+    {
+      "name": "Eelektrik",
+      "set": "Plasma Blast",
+      "img": "https://den-cards.pokellector.com/131/Eelektrik.PLB.32.png",
+      "rarity": "Uncommon",
+      "cardNum": "32/101"
+    },
+    {
+      "name": "Eelektross",
+      "set": "Plasma Blast",
+      "img": "https://den-cards.pokellector.com/131/Eelektross.PLB.33.png",
+      "rarity": "Rare",
+      "cardNum": "33/101"
+    },
+    {
+      "name": "Drifloon",
+      "set": "Plasma Blast",
+      "img": "https://den-cards.pokellector.com/131/Drifloon.PLB.34.png",
+      "rarity": "Common",
+      "cardNum": "34/101"
+    },
+    {
+      "name": "Drifblim",
+      "set": "Plasma Blast",
+      "img": "https://den-cards.pokellector.com/131/Drifblim.PLB.35.png",
+      "rarity": "Rare",
+      "cardNum": "35/101"
+    },
+    {
+      "name": "Uxie",
+      "set": "Plasma Blast",
+      "img": "https://den-cards.pokellector.com/131/Uxie.PLB.36.png",
+      "rarity": "Rare",
+      "cardNum": "36/101"
+    },
+    {
+      "name": "Mesprit",
+      "set": "Plasma Blast",
+      "img": "https://den-cards.pokellector.com/131/Mesprit.PLB.37.png",
+      "rarity": "Rare",
+      "cardNum": "37/101"
+    },
+    {
+      "name": "Azelf",
+      "set": "Plasma Blast",
+      "img": "https://den-cards.pokellector.com/131/Azelf.PLB.38.png",
+      "rarity": "Rare",
+      "cardNum": "38/101"
+    },
+    {
+      "name": "Munna",
+      "set": "Plasma Blast",
+      "img": "https://den-cards.pokellector.com/131/Munna.PLB.39.png",
+      "rarity": "Common",
+      "cardNum": "39/101"
+    },
+    {
+      "name": "Musharna",
+      "set": "Plasma Blast",
+      "img": "https://den-cards.pokellector.com/131/Musharna.PLB.40.png",
+      "rarity": "Uncommon",
+      "cardNum": "40/101"
+    },
+    {
+      "name": "Sigilyph",
+      "set": "Plasma Blast",
+      "img": "https://den-cards.pokellector.com/131/Sigilyph.PLB.41.png",
+      "rarity": "Rare",
+      "cardNum": "41/101"
+    },
+    {
+      "name": "Solosis",
+      "set": "Plasma Blast",
+      "img": "https://den-cards.pokellector.com/131/Solosis.PLB.42.png",
+      "rarity": "Common",
+      "cardNum": "42/101"
+    },
+    {
+      "name": "Duosion",
+      "set": "Plasma Blast",
+      "img": "https://den-cards.pokellector.com/131/Duosion.PLB.43.png",
+      "rarity": "Uncommon",
+      "cardNum": "43/101"
+    },
+    {
+      "name": "Reuniclus",
+      "set": "Plasma Blast",
+      "img": "https://den-cards.pokellector.com/131/Reuniclus.PLB.44.png",
+      "rarity": "Rare",
+      "cardNum": "44/101"
+    },
+    {
+      "name": "Golett",
+      "set": "Plasma Blast",
+      "img": "https://den-cards.pokellector.com/131/Golett.PLB.45.png",
+      "rarity": "Common",
+      "cardNum": "45/101"
+    },
+    {
+      "name": "Golurk",
+      "set": "Plasma Blast",
+      "img": "https://den-cards.pokellector.com/131/Golurk.PLB.46.png",
+      "rarity": "Rare",
+      "cardNum": "46/101"
+    },
+    {
+      "name": "Machop",
+      "set": "Plasma Blast",
+      "img": "https://den-cards.pokellector.com/131/Machop.PLB.47.png",
+      "rarity": "Common",
+      "cardNum": "47/101"
+    },
+    {
+      "name": "Machoke",
+      "set": "Plasma Blast",
+      "img": "https://den-cards.pokellector.com/131/Machoke.PLB.48.png",
+      "rarity": "Uncommon",
+      "cardNum": "48/101"
+    },
+    {
+      "name": "Machamp",
+      "set": "Plasma Blast",
+      "img": "https://den-cards.pokellector.com/131/Machamp.PLB.49.png",
+      "rarity": "Common",
+      "cardNum": "49/101"
+    },
+    {
+      "name": "Machamp",
+      "set": "Plasma Blast",
+      "img": "https://den-cards.pokellector.com/131/Machamp.PLB.50.png",
+      "rarity": "Rare",
+      "cardNum": "50/101"
+    },
+    {
+      "name": "Throh",
+      "set": "Plasma Blast",
+      "img": "https://den-cards.pokellector.com/131/Throh.PLB.51.png",
+      "rarity": "Common",
+      "cardNum": "51/101"
+    },
+    {
+      "name": "Sawk",
+      "set": "Plasma Blast",
+      "img": "https://den-cards.pokellector.com/131/Sawk.PLB.52.png",
+      "rarity": "Common",
+      "cardNum": "52/101"
+    },
+    {
+      "name": "Archen",
+      "set": "Plasma Blast",
+      "img": "https://den-cards.pokellector.com/131/Archen.PLB.53.png",
+      "rarity": "Uncommon",
+      "cardNum": "53/101"
+    },
+    {
+      "name": "Archeops",
+      "set": "Plasma Blast",
+      "img": "https://den-cards.pokellector.com/131/Archeops.PLB.54.png",
+      "rarity": "Rare",
+      "cardNum": "54/101"
+    },
+    {
+      "name": "Houndour",
+      "set": "Plasma Blast",
+      "img": "https://den-cards.pokellector.com/131/Houndour.PLB.55.png",
+      "rarity": "Common",
+      "cardNum": "55/101"
+    },
+    {
+      "name": "Houndoom",
+      "set": "Plasma Blast",
+      "img": "https://den-cards.pokellector.com/131/Houndoom.PLB.56.png",
+      "rarity": "Rare",
+      "cardNum": "56/101"
+    },
+    {
+      "name": "Aron",
+      "set": "Plasma Blast",
+      "img": "https://den-cards.pokellector.com/131/Aron.PLB.57.png",
+      "rarity": "Common",
+      "cardNum": "57/101"
+    },
+    {
+      "name": "Lairon",
+      "set": "Plasma Blast",
+      "img": "https://den-cards.pokellector.com/131/Lairon.PLB.58.png",
+      "rarity": "Uncommon",
+      "cardNum": "58/101"
+    },
+    {
+      "name": "Aggron",
+      "set": "Plasma Blast",
+      "img": "https://den-cards.pokellector.com/131/Aggron.PLB.59.png",
+      "rarity": "Rare",
+      "cardNum": "59/101"
+    },
+    {
+      "name": "Jirachi EX",
+      "set": "Plasma Blast",
+      "img": "https://den-cards.pokellector.com/131/Jirachi-EX.PLB.60.png",
+      "rarity": "Rare",
+      "cardNum": "60/101"
+    },
+    {
+      "name": "Escavalier",
+      "set": "Plasma Blast",
+      "img": "https://den-cards.pokellector.com/131/Escavalier.PLB.61.png",
+      "rarity": "Rare",
+      "cardNum": "61/101"
+    },
+    {
+      "name": "Bagon",
+      "set": "Plasma Blast",
+      "img": "https://den-cards.pokellector.com/131/Bagon.PLB.62.png",
+      "rarity": "Common",
+      "cardNum": "62/101"
+    },
+    {
+      "name": "Shelgon",
+      "set": "Plasma Blast",
+      "img": "https://den-cards.pokellector.com/131/Shelgon.PLB.63.png",
+      "rarity": "Uncommon",
+      "cardNum": "63/101"
+    },
+    {
+      "name": "Salamence",
+      "set": "Plasma Blast",
+      "img": "https://den-cards.pokellector.com/131/Salamence.PLB.64.png",
+      "rarity": "Rare",
+      "cardNum": "64/101"
+    },
+    {
+      "name": "Dialga EX",
+      "set": "Plasma Blast",
+      "img": "https://den-cards.pokellector.com/131/Dialga-EX.PLB.65.png",
+      "rarity": "Rare",
+      "cardNum": "65/101"
+    },
+    {
+      "name": "Palkia EX",
+      "set": "Plasma Blast",
+      "img": "https://den-cards.pokellector.com/131/Palkia-EX.PLB.66.png",
+      "rarity": "Rare",
+      "cardNum": "66/101"
+    },
+    {
+      "name": "Axew",
+      "set": "Plasma Blast",
+      "img": "https://den-cards.pokellector.com/131/Axew.PLB.67.png",
+      "rarity": "Common",
+      "cardNum": "67/101"
+    },
+    {
+      "name": "Fraxure",
+      "set": "Plasma Blast",
+      "img": "https://den-cards.pokellector.com/131/Fraxure.PLB.68.png",
+      "rarity": "Uncommon",
+      "cardNum": "68/101"
+    },
+    {
+      "name": "Haxorus",
+      "set": "Plasma Blast",
+      "img": "https://den-cards.pokellector.com/131/Haxorus.PLB.69.png",
+      "rarity": "Rare",
+      "cardNum": "69/101"
+    },
+    {
+      "name": "Druddigon",
+      "set": "Plasma Blast",
+      "img": "https://den-cards.pokellector.com/131/Druddigon.PLB.70.png",
+      "rarity": "Common",
+      "cardNum": "70/101"
+    },
+    {
+      "name": "Kangaskhan",
+      "set": "Plasma Blast",
+      "img": "https://den-cards.pokellector.com/131/Kangaskhan.PLB.71.png",
+      "rarity": "Common",
+      "cardNum": "71/101"
+    },
+    {
+      "name": "Porygon",
+      "set": "Plasma Blast",
+      "img": "https://den-cards.pokellector.com/131/Porygon.PLB.72.png",
+      "rarity": "Common",
+      "cardNum": "72/101"
+    },
+    {
+      "name": "Porygon2",
+      "set": "Plasma Blast",
+      "img": "https://den-cards.pokellector.com/131/Porygon2.PLB.73.png",
+      "rarity": "Uncommon",
+      "cardNum": "73/101"
+    },
+    {
+      "name": "Porygon-Z",
+      "set": "Plasma Blast",
+      "img": "https://den-cards.pokellector.com/131/Porygon-Z.PLB.74.png",
+      "rarity": "Rare",
+      "cardNum": "74/101"
+    },
+    {
+      "name": "Teddiursa",
+      "set": "Plasma Blast",
+      "img": "https://den-cards.pokellector.com/131/Teddiursa.PLB.75.png",
+      "rarity": "Common",
+      "cardNum": "75/101"
+    },
+    {
+      "name": "Ursaring",
+      "set": "Plasma Blast",
+      "img": "https://den-cards.pokellector.com/131/Ursaring.PLB.76.png",
+      "rarity": "Uncommon",
+      "cardNum": "76/101"
+    },
+    {
+      "name": "Chatot",
+      "set": "Plasma Blast",
+      "img": "https://den-cards.pokellector.com/131/Chatot.PLB.77.png",
+      "rarity": "Uncommon",
+      "cardNum": "77/101"
+    },
+    {
+      "name": "Caitlin",
+      "set": "Plasma Blast",
+      "img": "https://den-cards.pokellector.com/131/Caitlin.PLB.78.png",
+      "rarity": "Uncommon",
+      "cardNum": "78/101"
+    },
+    {
+      "name": "Cover Fossil",
+      "set": "Plasma Blast",
+      "img": "https://den-cards.pokellector.com/131/Cover-Fossil.PLB.79.png",
+      "rarity": "Common",
+      "cardNum": "79/101"
+    },
+    {
+      "name": "Energy Retrieval",
+      "set": "Plasma Blast",
+      "img": "https://den-cards.pokellector.com/131/Energy-Retrieval.PLB.80.png",
+      "rarity": "Uncommon",
+      "cardNum": "80/101"
+    },
+    {
+      "name": "Iris",
+      "set": "Plasma Blast",
+      "img": "https://den-cards.pokellector.com/131/Iris.PLB.81.png",
+      "rarity": "Uncommon",
+      "cardNum": "81/101"
+    },
+    {
+      "name": "Plume Fossil",
+      "set": "Plasma Blast",
+      "img": "https://den-cards.pokellector.com/131/Plume-Fossil.PLB.82.png",
+      "rarity": "Uncommon",
+      "cardNum": "82/101"
+    },
+    {
+      "name": "Pokemon Catcher",
+      "set": "Plasma Blast",
+      "img": "https://den-cards.pokellector.com/131/Pokemon-Catcher.PLB.83.png",
+      "rarity": "Uncommon",
+      "cardNum": "83/101"
+    },
+    {
+      "name": "Professor Juniper",
+      "set": "Plasma Blast",
+      "img": "https://den-cards.pokellector.com/131/Professor-Juniper.PLB.84.png",
+      "rarity": "Uncommon",
+      "cardNum": "84/101"
+    },
+    {
+      "name": "Rare Candy",
+      "set": "Plasma Blast",
+      "img": "https://den-cards.pokellector.com/131/Rare-Candy.PLB.85.png",
+      "rarity": "Uncommon",
+      "cardNum": "85/101"
+    },
+    {
+      "name": "Reversal Trigger",
+      "set": "Plasma Blast",
+      "img": "https://den-cards.pokellector.com/131/Reversal-Trigger.PLB.86.png",
+      "rarity": "Uncommon",
+      "cardNum": "86/101"
+    },
+    {
+      "name": "Root Fossil Lileep",
+      "set": "Plasma Blast",
+      "img": "https://den-cards.pokellector.com/131/Root-Fossil-Lileep.PLB.87.png",
+      "rarity": "Common",
+      "cardNum": "87/101"
+    },
+    {
+      "name": "Silver Bangle",
+      "set": "Plasma Blast",
+      "img": "https://den-cards.pokellector.com/131/Silver-Bangle.PLB.88.png",
+      "rarity": "Uncommon",
+      "cardNum": "88/101"
+    },
+    {
+      "name": "Silver Mirror",
+      "set": "Plasma Blast",
+      "img": "https://den-cards.pokellector.com/131/Silver-Mirror.PLB.89.png",
+      "rarity": "Uncommon",
+      "cardNum": "89/101"
+    },
+    {
+      "name": "Ultra Ball",
+      "set": "Plasma Blast",
+      "img": "https://den-cards.pokellector.com/131/Ultra-Ball.PLB.90.png",
+      "rarity": "Uncommon",
+      "cardNum": "90/101"
+    },
+    {
+      "name": "Plasma Energy",
+      "set": "Plasma Blast",
+      "img": "https://den-cards.pokellector.com/131/Plasma-Energy.PLB.91.png",
+      "rarity": "Uncommon",
+      "cardNum": "91/101"
+    },
+    {
+      "name": "G Booster",
+      "set": "Plasma Blast",
+      "img": "https://den-cards.pokellector.com/131/G-Booster.PLB.92.png",
+      "rarity": "Rare",
+      "cardNum": "92/101"
+    },
+    {
+      "name": "G Scope",
+      "set": "Plasma Blast",
+      "img": "https://den-cards.pokellector.com/131/G-Scope.PLB.93.png",
+      "rarity": "Rare",
+      "cardNum": "93/101"
+    },
+    {
+      "name": "Master Ball",
+      "set": "Plasma Blast",
+      "img": "https://den-cards.pokellector.com/131/Master-Ball.PLB.94.png",
+      "rarity": "Rare",
+      "cardNum": "94/101"
+    },
+    {
+      "name": "Scoop Up Cyclone",
+      "set": "Plasma Blast",
+      "img": "https://den-cards.pokellector.com/131/Scoop-Up-Cyclone.PLB.95.png",
+      "rarity": "Rare",
+      "cardNum": "95/101"
+    },
+    {
+      "name": "Virizion EX",
+      "set": "Plasma Blast",
+      "img": "https://den-cards.pokellector.com/131/Virizion-EX.PLB.96.png",
+      "rarity": "Rare",
+      "cardNum": "96/101"
+    },
+    {
+      "name": "Genesect EX",
+      "set": "Plasma Blast",
+      "img": "https://den-cards.pokellector.com/131/Genesect-EX.PLB.97.png",
+      "rarity": "Rare",
+      "cardNum": "97/101"
+    },
+    {
+      "name": "Jirachi EX",
+      "set": "Plasma Blast",
+      "img": "https://den-cards.pokellector.com/131/Jirachi-EX.PLB.98.png",
+      "rarity": "Rare",
+      "cardNum": "98/101"
+    },
+    {
+      "name": "Dialga EX",
+      "set": "Plasma Blast",
+      "img": "https://den-cards.pokellector.com/131/Dialga-EX.PLB.99.png",
+      "rarity": "Rare",
+      "cardNum": "99/101"
+    },
+    {
+      "name": "Palkia EX",
+      "set": "Plasma Blast",
+      "img": "https://den-cards.pokellector.com/131/Palkia-EX.PLB.100.png",
+      "rarity": "Rare",
+      "cardNum": "100/101"
+    },
+    {
+      "name": "Iris",
+      "set": "Plasma Blast",
+      "img": "https://den-cards.pokellector.com/131/Iris.PLB.101.png",
+      "rarity": "Secret Rare",
+      "cardNum": "101/101"
+    },
+    {
+      "name": "Exeggcute",
+      "set": "Plasma Blast",
+      "img": "https://den-cards.pokellector.com/131/Exeggcute.PLB.102.png",
+      "rarity": "Secret Rare",
+      "cardNum": "102/101"
+    },
+    {
+      "name": "Virizion",
+      "set": "Plasma Blast",
+      "img": "https://den-cards.pokellector.com/131/Virizion.PLB.103.png",
+      "rarity": "Secret Rare",
+      "cardNum": "103/101"
+    },
+    {
+      "name": "Dusknoir",
+      "set": "Plasma Blast",
+      "img": "https://den-cards.pokellector.com/131/Dusknoir.PLB.104.png",
+      "rarity": "Secret Rare",
+      "cardNum": "104/101"
+    },
+    {
+      "name": "Rare Candy",
+      "set": "Plasma Blast",
+      "img": "https://den-cards.pokellector.com/131/Rare-Candy.PBL.105.png",
+      "rarity": "Secret Rare",
+      "cardNum": "105/101"
+    }
+  ]
+}

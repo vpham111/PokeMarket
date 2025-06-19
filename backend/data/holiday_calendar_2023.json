@@ -1,0 +1,61 @@
+{
+  "setName": "Holiday Calendar 2023",
+  "cards": [
+    {
+      "name": "Alolan Vulpix V",
+      "set": "Silver Tempest",
+      "img": "https://den-cards.pokellector.com/354/Alolan-Vulpix-V.SWSH12.33.45400.png",
+      "rarity": "Rare",
+      "cardNum": "33/195"
+    },
+    {
+      "name": "Glaceon V",
+      "set": "Evolving Skies",
+      "img": "https://den-cards.pokellector.com/325/Glaceon-V.SWSH7.40.39909.png",
+      "rarity": "Rare",
+      "cardNum": "40/203"
+    },
+    {
+      "name": "Glaceon VMAX",
+      "set": "Evolving Skies",
+      "img": "https://den-cards.pokellector.com/325/Glaceon-VMAX.SWSH7.41.39910.png",
+      "rarity": "Rare",
+      "cardNum": "41/203"
+    },
+    {
+      "name": "Cryogonal",
+      "set": "Evolving Skies",
+      "img": "https://den-cards.pokellector.com/325/Cryogonal.SWSH7.43.39912.png",
+      "rarity": "Common",
+      "cardNum": "43/203"
+    },
+    {
+      "name": "Snom",
+      "set": "Fusion Strike",
+      "img": "https://den-cards.pokellector.com/335/Snom.SWSH8.84.40754.png",
+      "rarity": "Common",
+      "cardNum": "84/264"
+    },
+    {
+      "name": "Glastrier",
+      "set": "Lost Origin",
+      "img": "https://den-cards.pokellector.com/350/Glastrier.SWSH10.51.44711.png",
+      "rarity": "Rare",
+      "cardNum": "51/196"
+    },
+    {
+      "name": "Pikachu",
+      "set": "Silver Tempest",
+      "img": "https://den-cards.pokellector.com/354/Pikachu.SWSH12.49.45416.png",
+      "rarity": "Common",
+      "cardNum": "49/195"
+    },
+    {
+      "name": "Stantler",
+      "set": "Astral Radiance",
+      "img": "https://den-cards.pokellector.com/345/Stantler.SWSH10.125.43792.png",
+      "rarity": "Common",
+      "cardNum": "125/189"
+    }
+  ]
+}

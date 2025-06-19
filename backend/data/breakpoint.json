@@ -1,0 +1,866 @@
+{
+  "setName": "BREAKPoint",
+  "cards": [
+    {
+      "name": "Chikorita",
+      "set": "BREAKPoint",
+      "img": "https://den-cards.pokellector.com/183/Chikorita.BPT.1.png",
+      "rarity": "Common",
+      "cardNum": "1/122"
+    },
+    {
+      "name": "Bayleef",
+      "set": "BREAKPoint",
+      "img": "https://den-cards.pokellector.com/183/Bayleef.BPT.2.png",
+      "rarity": "Uncommon",
+      "cardNum": "2/122"
+    },
+    {
+      "name": "Meganium",
+      "set": "BREAKPoint",
+      "img": "https://den-cards.pokellector.com/183/Meganium.BPT.3.png",
+      "rarity": "Rare",
+      "cardNum": "3/122"
+    },
+    {
+      "name": "Seedot",
+      "set": "BREAKPoint",
+      "img": "https://den-cards.pokellector.com/183/Seedot.BPT.4.png",
+      "rarity": "Common",
+      "cardNum": "4/122"
+    },
+    {
+      "name": "Kricketot",
+      "set": "BREAKPoint",
+      "img": "https://den-cards.pokellector.com/183/Kricketot.BPT.5.png",
+      "rarity": "Common",
+      "cardNum": "5/122"
+    },
+    {
+      "name": "Kricketune",
+      "set": "BREAKPoint",
+      "img": "https://den-cards.pokellector.com/183/Kricketune.BPT.6.png",
+      "rarity": "Uncommon",
+      "cardNum": "6/122"
+    },
+    {
+      "name": "Petilil",
+      "set": "BREAKPoint",
+      "img": "https://den-cards.pokellector.com/183/Petilil.BPT.7.png",
+      "rarity": "Common",
+      "cardNum": "7/122"
+    },
+    {
+      "name": "Lilligant",
+      "set": "BREAKPoint",
+      "img": "https://den-cards.pokellector.com/183/Lilligant.BPT.8.png",
+      "rarity": "Rare",
+      "cardNum": "8/122"
+    },
+    {
+      "name": "Durant",
+      "set": "BREAKPoint",
+      "img": "https://den-cards.pokellector.com/183/Durant.BPT.9.png",
+      "rarity": "Uncommon",
+      "cardNum": "9/122"
+    },
+    {
+      "name": "Growlithe",
+      "set": "BREAKPoint",
+      "img": "https://den-cards.pokellector.com/183/Growlithe.BPT.10.png",
+      "rarity": "Common",
+      "cardNum": "10/122"
+    },
+    {
+      "name": "Arcanine",
+      "set": "BREAKPoint",
+      "img": "https://den-cards.pokellector.com/183/Arcanine.BPT.11.png",
+      "rarity": "Uncommon",
+      "cardNum": "11/122"
+    },
+    {
+      "name": "Numel",
+      "set": "BREAKPoint",
+      "img": "https://den-cards.pokellector.com/183/Numel.BPT.12.png",
+      "rarity": "Common",
+      "cardNum": "12/122"
+    },
+    {
+      "name": "Camerupt",
+      "set": "BREAKPoint",
+      "img": "https://den-cards.pokellector.com/183/Camerupt.BPT.13.png",
+      "rarity": "Rare",
+      "cardNum": "13/122"
+    },
+    {
+      "name": "Emboar EX",
+      "set": "BREAKPoint",
+      "img": "https://den-cards.pokellector.com/183/Emboar-EX.BPT.14.png",
+      "rarity": "Rare",
+      "cardNum": "14/122"
+    },
+    {
+      "name": "Heatmor",
+      "set": "BREAKPoint",
+      "img": "https://den-cards.pokellector.com/183/Heatmor.BPT.15.png",
+      "rarity": "Uncommon",
+      "cardNum": "15/122"
+    },
+    {
+      "name": "Psyduck",
+      "set": "BREAKPoint",
+      "img": "https://den-cards.pokellector.com/183/Psyduck.BPT.16.png",
+      "rarity": "Common",
+      "cardNum": "16/122"
+    },
+    {
+      "name": "Golduck",
+      "set": "BREAKPoint",
+      "img": "https://den-cards.pokellector.com/183/Golduck.BPT.17.png",
+      "rarity": "Rare",
+      "cardNum": "17/122"
+    },
+    {
+      "name": "Golduck BREAK",
+      "set": "BREAKPoint",
+      "img": "https://den-cards.pokellector.com/183/Golduck-BREAK.BPT.18.png",
+      "rarity": "Rare",
+      "cardNum": "18/122"
+    },
+    {
+      "name": "Slowpoke",
+      "set": "BREAKPoint",
+      "img": "https://den-cards.pokellector.com/183/Slowpoke.BPT.19.png",
+      "rarity": "Common",
+      "cardNum": "19/122"
+    },
+    {
+      "name": "Slowbro",
+      "set": "BREAKPoint",
+      "img": "https://den-cards.pokellector.com/183/Slowbro.BPT.20.png",
+      "rarity": "Uncommon",
+      "cardNum": "20/122"
+    },
+    {
+      "name": "Slowking",
+      "set": "BREAKPoint",
+      "img": "https://den-cards.pokellector.com/183/Slowking.BPT.21.png",
+      "rarity": "Rare",
+      "cardNum": "21/122"
+    },
+    {
+      "name": "Shellder",
+      "set": "BREAKPoint",
+      "img": "https://den-cards.pokellector.com/183/Shellder.BPT.22.png",
+      "rarity": "Common",
+      "cardNum": "22/122"
+    },
+    {
+      "name": "Shellder",
+      "set": "BREAKPoint",
+      "img": "https://den-cards.pokellector.com/183/Shellder.BPT.23.png",
+      "rarity": "Common",
+      "cardNum": "23/122"
+    },
+    {
+      "name": "Cloyster",
+      "set": "BREAKPoint",
+      "img": "https://den-cards.pokellector.com/183/Cloyster.BPT.24.png",
+      "rarity": "Uncommon",
+      "cardNum": "24/122"
+    },
+    {
+      "name": "Staryu",
+      "set": "BREAKPoint",
+      "img": "https://den-cards.pokellector.com/183/Staryu.BPT.25.png",
+      "rarity": "Common",
+      "cardNum": "25/122"
+    },
+    {
+      "name": "Gyarados EX",
+      "set": "BREAKPoint",
+      "img": "https://den-cards.pokellector.com/183/Gyarados-EX.BPT.26.png",
+      "rarity": "Rare",
+      "cardNum": "26/122"
+    },
+    {
+      "name": "M Gyarados EX",
+      "set": "BREAKPoint",
+      "img": "https://den-cards.pokellector.com/183/M-Gyarados-EX.BPT.27.png",
+      "rarity": "Rare",
+      "cardNum": "27/122"
+    },
+    {
+      "name": "Lapras",
+      "set": "BREAKPoint",
+      "img": "https://den-cards.pokellector.com/183/Lapras.BPT.28.png",
+      "rarity": "Uncommon",
+      "cardNum": "28/122"
+    },
+    {
+      "name": "Corsola",
+      "set": "BREAKPoint",
+      "img": "https://den-cards.pokellector.com/183/Corsola.BPT.29.png",
+      "rarity": "Common",
+      "cardNum": "29/122"
+    },
+    {
+      "name": "Suicune",
+      "set": "BREAKPoint",
+      "img": "https://den-cards.pokellector.com/183/Suicune.BPT.30.png",
+      "rarity": "Rare",
+      "cardNum": "30/122"
+    },
+    {
+      "name": "Palkia EX",
+      "set": "BREAKPoint",
+      "img": "https://den-cards.pokellector.com/183/Palkia-EX.BPT.31.png",
+      "rarity": "Rare",
+      "cardNum": "31/122"
+    },
+    {
+      "name": "Manaphy EX",
+      "set": "BREAKPoint",
+      "img": "https://den-cards.pokellector.com/183/Manaphy-EX.BPT.32.png",
+      "rarity": "Rare",
+      "cardNum": "32/122"
+    },
+    {
+      "name": "Tympole",
+      "set": "BREAKPoint",
+      "img": "https://den-cards.pokellector.com/183/Tympole.BPT.33.png",
+      "rarity": "Common",
+      "cardNum": "33/122"
+    },
+    {
+      "name": "Palpitoad",
+      "set": "BREAKPoint",
+      "img": "https://den-cards.pokellector.com/183/Palpitoad.BPT.34.png",
+      "rarity": "Uncommon",
+      "cardNum": "34/122"
+    },
+    {
+      "name": "Seismitoad",
+      "set": "BREAKPoint",
+      "img": "https://den-cards.pokellector.com/183/Seismitoad.BPT.35.png",
+      "rarity": "Rare",
+      "cardNum": "35/122"
+    },
+    {
+      "name": "Ducklett",
+      "set": "BREAKPoint",
+      "img": "https://den-cards.pokellector.com/183/Ducklett.BPT.36.png",
+      "rarity": "Common",
+      "cardNum": "36/122"
+    },
+    {
+      "name": "Swanna",
+      "set": "BREAKPoint",
+      "img": "https://den-cards.pokellector.com/183/Swanna.BPT.37.png",
+      "rarity": "Uncommon",
+      "cardNum": "37/122"
+    },
+    {
+      "name": "Froakie",
+      "set": "BREAKPoint",
+      "img": "https://den-cards.pokellector.com/183/Froakie.BPT.38.png",
+      "rarity": "Common",
+      "cardNum": "38/122"
+    },
+    {
+      "name": "Frogadier",
+      "set": "BREAKPoint",
+      "img": "https://den-cards.pokellector.com/183/Frogadier.BPT.39.png",
+      "rarity": "Uncommon",
+      "cardNum": "39/122"
+    },
+    {
+      "name": "Greninja",
+      "set": "BREAKPoint",
+      "img": "https://den-cards.pokellector.com/183/Greninja.BPT.40.png",
+      "rarity": "Rare",
+      "cardNum": "40/122"
+    },
+    {
+      "name": "Greninja BREAK",
+      "set": "BREAKPoint",
+      "img": "https://den-cards.pokellector.com/183/Greninja-BREAK.BPT.41.png",
+      "rarity": "Rare",
+      "cardNum": "41/122"
+    },
+    {
+      "name": "Electabuzz",
+      "set": "BREAKPoint",
+      "img": "https://den-cards.pokellector.com/183/Electabuzz.BPT.42.png",
+      "rarity": "Common",
+      "cardNum": "42/122"
+    },
+    {
+      "name": "Electivire",
+      "set": "BREAKPoint",
+      "img": "https://den-cards.pokellector.com/183/Electivire.BPT.43.png",
+      "rarity": "Uncommon",
+      "cardNum": "43/122"
+    },
+    {
+      "name": "Shinx",
+      "set": "BREAKPoint",
+      "img": "https://den-cards.pokellector.com/183/Shinx.BPT.44.png",
+      "rarity": "Common",
+      "cardNum": "44/122"
+    },
+    {
+      "name": "Luxio",
+      "set": "BREAKPoint",
+      "img": "https://den-cards.pokellector.com/183/Luxio.BPT.45.png",
+      "rarity": "Uncommon",
+      "cardNum": "45/122"
+    },
+    {
+      "name": "Luxray",
+      "set": "BREAKPoint",
+      "img": "https://den-cards.pokellector.com/183/Luxray.BPT.46.png",
+      "rarity": "Rare",
+      "cardNum": "46/122"
+    },
+    {
+      "name": "Luxray BREAK",
+      "set": "BREAKPoint",
+      "img": "https://den-cards.pokellector.com/183/Luxray-BREAK.BPT.47.png",
+      "rarity": "Rare",
+      "cardNum": "47/122"
+    },
+    {
+      "name": "Blitzle",
+      "set": "BREAKPoint",
+      "img": "https://den-cards.pokellector.com/183/Blitzle.BPT.48.png",
+      "rarity": "Common",
+      "cardNum": "48/122"
+    },
+    {
+      "name": "Zebstrika",
+      "set": "BREAKPoint",
+      "img": "https://den-cards.pokellector.com/183/Zebstrika.BPT.49.png",
+      "rarity": "Rare",
+      "cardNum": "49/122"
+    },
+    {
+      "name": "Drowzee",
+      "set": "BREAKPoint",
+      "img": "https://den-cards.pokellector.com/183/Drowzee.BPT.50.png",
+      "rarity": "Common",
+      "cardNum": "50/122"
+    },
+    {
+      "name": "Hypno",
+      "set": "BREAKPoint",
+      "img": "https://den-cards.pokellector.com/183/Hypno.BPT.51.png",
+      "rarity": "Rare",
+      "cardNum": "51/122"
+    },
+    {
+      "name": "Espeon EX",
+      "set": "BREAKPoint",
+      "img": "https://den-cards.pokellector.com/183/Espeon-EX.BPT.52.png",
+      "rarity": "Rare",
+      "cardNum": "52/122"
+    },
+    {
+      "name": "Skorupi",
+      "set": "BREAKPoint",
+      "img": "https://den-cards.pokellector.com/183/Skorupi.BPT.53.png",
+      "rarity": "Common",
+      "cardNum": "53/122"
+    },
+    {
+      "name": "Drapion",
+      "set": "BREAKPoint",
+      "img": "https://den-cards.pokellector.com/183/Drapion.BPT.54.png",
+      "rarity": "Rare",
+      "cardNum": "54/122"
+    },
+    {
+      "name": "Sigilyph",
+      "set": "BREAKPoint",
+      "img": "https://den-cards.pokellector.com/183/Sigilyph.BPT.55.png",
+      "rarity": "Uncommon",
+      "cardNum": "55/122"
+    },
+    {
+      "name": "Trubbish",
+      "set": "BREAKPoint",
+      "img": "https://den-cards.pokellector.com/183/Trubbish.BPT.56.png",
+      "rarity": "Common",
+      "cardNum": "56/122"
+    },
+    {
+      "name": "Garbodor",
+      "set": "BREAKPoint",
+      "img": "https://den-cards.pokellector.com/183/Garbodor.BPT.57.png",
+      "rarity": "Rare",
+      "cardNum": "57/122"
+    },
+    {
+      "name": "Espurr",
+      "set": "BREAKPoint",
+      "img": "https://den-cards.pokellector.com/183/Espurr.BPT.58.png",
+      "rarity": "Common",
+      "cardNum": "58/122"
+    },
+    {
+      "name": "Meowstic",
+      "set": "BREAKPoint",
+      "img": "https://den-cards.pokellector.com/183/Meowstic.BPT.59.png",
+      "rarity": "Rare",
+      "cardNum": "59/122"
+    },
+    {
+      "name": "Honedge",
+      "set": "BREAKPoint",
+      "img": "https://den-cards.pokellector.com/183/Honedge.BPT.60.png",
+      "rarity": "Common",
+      "cardNum": "60/122"
+    },
+    {
+      "name": "Doublade",
+      "set": "BREAKPoint",
+      "img": "https://den-cards.pokellector.com/183/Doublade.BPT.61.png",
+      "rarity": "Uncommon",
+      "cardNum": "61/122"
+    },
+    {
+      "name": "Aegislash",
+      "set": "BREAKPoint",
+      "img": "https://den-cards.pokellector.com/183/Aegislash.BPT.62.png",
+      "rarity": "Rare",
+      "cardNum": "62/122"
+    },
+    {
+      "name": "Skrelp",
+      "set": "BREAKPoint",
+      "img": "https://den-cards.pokellector.com/183/Skrelp.BPT.63.png",
+      "rarity": "Common",
+      "cardNum": "63/122"
+    },
+    {
+      "name": "Phantump",
+      "set": "BREAKPoint",
+      "img": "https://den-cards.pokellector.com/183/Phantump.BPT.64.png",
+      "rarity": "Common",
+      "cardNum": "64/122"
+    },
+    {
+      "name": "Trevenant",
+      "set": "BREAKPoint",
+      "img": "https://den-cards.pokellector.com/183/Trevenant.BPT.65.png",
+      "rarity": "Rare",
+      "cardNum": "65/122"
+    },
+    {
+      "name": "Trevenant BREAK",
+      "set": "BREAKPoint",
+      "img": "https://den-cards.pokellector.com/183/Trevenant-BREAK.BPT.66.png",
+      "rarity": "Rare",
+      "cardNum": "66/122"
+    },
+    {
+      "name": "Sudowoodo",
+      "set": "BREAKPoint",
+      "img": "https://den-cards.pokellector.com/183/Sudowoodo.BPT.67.png",
+      "rarity": "Uncommon",
+      "cardNum": "67/122"
+    },
+    {
+      "name": "Gible",
+      "set": "BREAKPoint",
+      "img": "https://den-cards.pokellector.com/183/Gible.BPT.68.png",
+      "rarity": "Common",
+      "cardNum": "68/122"
+    },
+    {
+      "name": "Gabite",
+      "set": "BREAKPoint",
+      "img": "https://den-cards.pokellector.com/183/Gabite.BPT.69.png",
+      "rarity": "Uncommon",
+      "cardNum": "69/122"
+    },
+    {
+      "name": "Garchomp",
+      "set": "BREAKPoint",
+      "img": "https://den-cards.pokellector.com/183/Garchomp.BPT.70.png",
+      "rarity": "Rare",
+      "cardNum": "70/122"
+    },
+    {
+      "name": "Pancham",
+      "set": "BREAKPoint",
+      "img": "https://den-cards.pokellector.com/183/Pancham.BPT.71.png",
+      "rarity": "Common",
+      "cardNum": "71/122"
+    },
+    {
+      "name": "Nuzleaf",
+      "set": "BREAKPoint",
+      "img": "https://den-cards.pokellector.com/183/Nuzleaf.BPT.72.png",
+      "rarity": "Uncommon",
+      "cardNum": "72/122"
+    },
+    {
+      "name": "Shiftry",
+      "set": "BREAKPoint",
+      "img": "https://den-cards.pokellector.com/183/Shiftry.BPT.73.png",
+      "rarity": "Rare",
+      "cardNum": "73/122"
+    },
+    {
+      "name": "Darkrai EX",
+      "set": "BREAKPoint",
+      "img": "https://den-cards.pokellector.com/183/Darkrai-EX.BPT.74.png",
+      "rarity": "Rare",
+      "cardNum": "74/122"
+    },
+    {
+      "name": "Pangoro",
+      "set": "BREAKPoint",
+      "img": "https://den-cards.pokellector.com/183/Pangoro.BPT.75.png",
+      "rarity": "Rare",
+      "cardNum": "75/122"
+    },
+    {
+      "name": "Scizor EX",
+      "set": "BREAKPoint",
+      "img": "https://den-cards.pokellector.com/183/Scizor-EX.BPT.76.png",
+      "rarity": "Rare",
+      "cardNum": "76/122"
+    },
+    {
+      "name": "M Scizor EX",
+      "set": "BREAKPoint",
+      "img": "https://den-cards.pokellector.com/183/M-Scizor-EX.BPT.77.png",
+      "rarity": "Rare",
+      "cardNum": "77/122"
+    },
+    {
+      "name": "Mawile",
+      "set": "BREAKPoint",
+      "img": "https://den-cards.pokellector.com/183/Mawile.BPT.78.png",
+      "rarity": "Uncommon",
+      "cardNum": "78/122"
+    },
+    {
+      "name": "Ferroseed",
+      "set": "BREAKPoint",
+      "img": "https://den-cards.pokellector.com/183/Ferroseed.BPT.79.png",
+      "rarity": "Common",
+      "cardNum": "79/122"
+    },
+    {
+      "name": "Ferrothorn",
+      "set": "BREAKPoint",
+      "img": "https://den-cards.pokellector.com/183/Ferrothorn.BPT.80.png",
+      "rarity": "Rare",
+      "cardNum": "80/122"
+    },
+    {
+      "name": "Clefairy",
+      "set": "BREAKPoint",
+      "img": "https://den-cards.pokellector.com/183/Clefairy.BPT.81.png",
+      "rarity": "Common",
+      "cardNum": "81/122"
+    },
+    {
+      "name": "Clefable",
+      "set": "BREAKPoint",
+      "img": "https://den-cards.pokellector.com/183/Clefable.BPT.82.png",
+      "rarity": "Rare",
+      "cardNum": "82/122"
+    },
+    {
+      "name": "Togekiss EX",
+      "set": "BREAKPoint",
+      "img": "https://den-cards.pokellector.com/183/Togekiss-EX.BPT.83.png",
+      "rarity": "Rare",
+      "cardNum": "83/122"
+    },
+    {
+      "name": "Spritzee",
+      "set": "BREAKPoint",
+      "img": "https://den-cards.pokellector.com/183/Spritzee.BPT.84.png",
+      "rarity": "Common",
+      "cardNum": "84/122"
+    },
+    {
+      "name": "Aromatisse",
+      "set": "BREAKPoint",
+      "img": "https://den-cards.pokellector.com/183/Aromatisse.BPT.85.png",
+      "rarity": "Uncommon",
+      "cardNum": "85/122"
+    },
+    {
+      "name": "Dragalge",
+      "set": "BREAKPoint",
+      "img": "https://den-cards.pokellector.com/183/Dragalge.BPT.86.png",
+      "rarity": "Rare",
+      "cardNum": "86/122"
+    },
+    {
+      "name": "Rattata",
+      "set": "BREAKPoint",
+      "img": "https://den-cards.pokellector.com/183/Rattata.BPT.87.png",
+      "rarity": "Common",
+      "cardNum": "87/122"
+    },
+    {
+      "name": "Raticate",
+      "set": "BREAKPoint",
+      "img": "https://den-cards.pokellector.com/183/Raticate.BPT.88.png",
+      "rarity": "Rare",
+      "cardNum": "88/122"
+    },
+    {
+      "name": "Raticate BREAK",
+      "set": "BREAKPoint",
+      "img": "https://den-cards.pokellector.com/183/Raticate-BREAK.BPT.89.png",
+      "rarity": "Rare",
+      "cardNum": "89/122"
+    },
+    {
+      "name": "Dunsparce",
+      "set": "BREAKPoint",
+      "img": "https://den-cards.pokellector.com/183/Dunsparce.BPT.90.png",
+      "rarity": "Uncommon",
+      "cardNum": "90/122"
+    },
+    {
+      "name": "Stantler",
+      "set": "BREAKPoint",
+      "img": "https://den-cards.pokellector.com/183/Stantler.BPT.91.png",
+      "rarity": "Uncommon",
+      "cardNum": "91/122"
+    },
+    {
+      "name": "Ho-Oh EX",
+      "set": "BREAKPoint",
+      "img": "https://den-cards.pokellector.com/183/Ho-Oh-EX.BPT.92.png",
+      "rarity": "Rare",
+      "cardNum": "92/122"
+    },
+    {
+      "name": "Glameow",
+      "set": "BREAKPoint",
+      "img": "https://den-cards.pokellector.com/183/Glameow.BPT.93.png",
+      "rarity": "Common",
+      "cardNum": "93/122"
+    },
+    {
+      "name": "Purugly",
+      "set": "BREAKPoint",
+      "img": "https://den-cards.pokellector.com/183/Purugly.BPT.94.png",
+      "rarity": "Uncommon",
+      "cardNum": "94/122"
+    },
+    {
+      "name": "Furfrou",
+      "set": "BREAKPoint",
+      "img": "https://den-cards.pokellector.com/183/Furfrou.BPT.95.png",
+      "rarity": "Common",
+      "cardNum": "95/122"
+    },
+    {
+      "name": "All-Night Party",
+      "set": "BREAKPoint",
+      "img": "https://den-cards.pokellector.com/183/All-Night-Party.BPT.96.png",
+      "rarity": "Uncommon",
+      "cardNum": "96/122"
+    },
+    {
+      "name": "Bursting Balloon",
+      "set": "BREAKPoint",
+      "img": "https://den-cards.pokellector.com/183/Bursting-Balloon.BPT.97.png",
+      "rarity": "Uncommon",
+      "cardNum": "97/122"
+    },
+    {
+      "name": "Delinquent",
+      "set": "BREAKPoint",
+      "img": "https://den-cards.pokellector.com/183/Delinquent.BPT.98.png",
+      "rarity": "Uncommon",
+      "cardNum": "98/122"
+    },
+    {
+      "name": "Fighting Fury Belt",
+      "set": "BREAKPoint",
+      "img": "https://den-cards.pokellector.com/183/Fighting-Fury-Belt.BPT.99.png",
+      "rarity": "Uncommon",
+      "cardNum": "99/122"
+    },
+    {
+      "name": "Great Ball",
+      "set": "BREAKPoint",
+      "img": "https://den-cards.pokellector.com/183/Great-Ball.BPT.100.png",
+      "rarity": "Uncommon",
+      "cardNum": "100/122"
+    },
+    {
+      "name": "Gyarados Spirit Link",
+      "set": "BREAKPoint",
+      "img": "https://den-cards.pokellector.com/183/Gyarados-Spirit-Link.BPT.101.png",
+      "rarity": "Uncommon",
+      "cardNum": "101/122"
+    },
+    {
+      "name": "Max Elixir",
+      "set": "BREAKPoint",
+      "img": "https://den-cards.pokellector.com/183/Max-Elixir.BPT.102.png",
+      "rarity": "Uncommon",
+      "cardNum": "102/122"
+    },
+    {
+      "name": "Max Potion",
+      "set": "BREAKPoint",
+      "img": "https://den-cards.pokellector.com/183/Max-Potion.BPT.103.png",
+      "rarity": "Uncommon",
+      "cardNum": "103/122"
+    },
+    {
+      "name": "Misty's Determination",
+      "set": "BREAKPoint",
+      "img": "https://den-cards.pokellector.com/183/Mistys-Determination.BPT.104.png",
+      "rarity": "Uncommon",
+      "cardNum": "104/122"
+    },
+    {
+      "name": "Pokemon Catcher",
+      "set": "BREAKPoint",
+      "img": "https://den-cards.pokellector.com/183/Pokemon-Catcher.BPT.105.png",
+      "rarity": "Uncommon",
+      "cardNum": "105/122"
+    },
+    {
+      "name": "Potion",
+      "set": "BREAKPoint",
+      "img": "https://den-cards.pokellector.com/183/Potion.BPT.106.png",
+      "rarity": "Uncommon",
+      "cardNum": "106/122"
+    },
+    {
+      "name": "Professor Sycamore",
+      "set": "BREAKPoint",
+      "img": "https://den-cards.pokellector.com/183/Professor-Sycamore.BPT.107.png",
+      "rarity": "Uncommon",
+      "cardNum": "107/122"
+    },
+    {
+      "name": "Psychic's Third Eye",
+      "set": "BREAKPoint",
+      "img": "https://den-cards.pokellector.com/183/Psychics-Third-Eye.BPT.108.png",
+      "rarity": "Uncommon",
+      "cardNum": "108/122"
+    },
+    {
+      "name": "Puzzle of Time",
+      "set": "BREAKPoint",
+      "img": "https://den-cards.pokellector.com/183/Puzzle-of-Time.BPT.109.png",
+      "rarity": "Uncommon",
+      "cardNum": "109/122"
+    },
+    {
+      "name": "Reverse Valley",
+      "set": "BREAKPoint",
+      "img": "https://den-cards.pokellector.com/183/Reverse-Valley.BPT.110.png",
+      "rarity": "Uncommon",
+      "cardNum": "110/122"
+    },
+    {
+      "name": "Scizor Spirit Link",
+      "set": "BREAKPoint",
+      "img": "https://den-cards.pokellector.com/183/Scizor-Spirit-Link.BPT.111.png",
+      "rarity": "Uncommon",
+      "cardNum": "111/122"
+    },
+    {
+      "name": "Tierno",
+      "set": "BREAKPoint",
+      "img": "https://den-cards.pokellector.com/183/Tierno.BPT.112.png",
+      "rarity": "Uncommon",
+      "cardNum": "112/122"
+    },
+    {
+      "name": "Splash Energy",
+      "set": "BREAKPoint",
+      "img": "https://den-cards.pokellector.com/183/Splash-Energy.BPT.113.png",
+      "rarity": "Uncommon",
+      "cardNum": "113/122"
+    },
+    {
+      "name": "Gyarados EX",
+      "set": "BREAKPoint",
+      "img": "https://den-cards.pokellector.com/183/Gyarados-EX.BPT.114.png",
+      "rarity": "Rare",
+      "cardNum": "114/122"
+    },
+    {
+      "name": "M Gyarados EX",
+      "set": "BREAKPoint",
+      "img": "https://den-cards.pokellector.com/183/M-Gyarados-EX.BPT.115.png",
+      "rarity": "Rare",
+      "cardNum": "115/122"
+    },
+    {
+      "name": "Manaphy EX",
+      "set": "BREAKPoint",
+      "img": "https://den-cards.pokellector.com/183/Manaphy-EX.BPT.116.png",
+      "rarity": "Rare",
+      "cardNum": "116/122"
+    },
+    {
+      "name": "Espeon EX",
+      "set": "BREAKPoint",
+      "img": "https://den-cards.pokellector.com/183/Espeon-EX.BPT.117.png",
+      "rarity": "Rare",
+      "cardNum": "117/122"
+    },
+    {
+      "name": "Darkrai EX",
+      "set": "BREAKPoint",
+      "img": "https://den-cards.pokellector.com/183/Darkrai-EX.BPT.118.png",
+      "rarity": "Rare",
+      "cardNum": "118/122"
+    },
+    {
+      "name": "Scizor EX",
+      "set": "BREAKPoint",
+      "img": "https://den-cards.pokellector.com/183/Scizor-EX.BPT.119.png",
+      "rarity": "Rare",
+      "cardNum": "119/122"
+    },
+    {
+      "name": "M Scizor EX",
+      "set": "BREAKPoint",
+      "img": "https://den-cards.pokellector.com/183/M-Scizor-EX.BPT.120.png",
+      "rarity": "Rare",
+      "cardNum": "120/122"
+    },
+    {
+      "name": "Ho-Oh EX",
+      "set": "BREAKPoint",
+      "img": "https://den-cards.pokellector.com/183/Ho-Oh-EX.BPT.121.png",
+      "rarity": "Rare",
+      "cardNum": "121/122"
+    },
+    {
+      "name": "Skyla",
+      "set": "BREAKPoint",
+      "img": "https://den-cards.pokellector.com/183/Skyla.BPT.122.png",
+      "rarity": "Rare",
+      "cardNum": "122/122"
+    },
+    {
+      "name": "Gyarados EX",
+      "set": "BREAKPoint",
+      "img": "https://den-cards.pokellector.com/183/Gyarados-EX.BPT.123.png",
+      "rarity": "Secret Rare",
+      "cardNum": "123/122"
+    }
+  ]
+}

@@ -1,0 +1,1146 @@
+{
+  "setName": "Hidden Fates",
+  "cards": [
+    {
+      "name": "Caterpie",
+      "set": "Hidden Fates",
+      "img": "https://den-cards.pokellector.com/279/Caterpie.HIF.1.29572.png",
+      "rarity": "Common",
+      "cardNum": "1/68"
+    },
+    {
+      "name": "Metapod",
+      "set": "Hidden Fates",
+      "img": "https://den-cards.pokellector.com/279/Metapod.HIF.2.29573.png",
+      "rarity": "Uncommon",
+      "cardNum": "2/68"
+    },
+    {
+      "name": "Butterfree",
+      "set": "Hidden Fates",
+      "img": "https://den-cards.pokellector.com/279/Butterfree.HIF.3.29574.png",
+      "rarity": "Rare",
+      "cardNum": "3/68"
+    },
+    {
+      "name": "Paras",
+      "set": "Hidden Fates",
+      "img": "https://den-cards.pokellector.com/279/Paras.HIF.4.29575.png",
+      "rarity": "Common",
+      "cardNum": "4/68"
+    },
+    {
+      "name": "Scyther",
+      "set": "Hidden Fates",
+      "img": "https://den-cards.pokellector.com/279/Scyther.HIF.5.29576.png",
+      "rarity": "Uncommon",
+      "cardNum": "5/68"
+    },
+    {
+      "name": "Pinsir GX",
+      "set": "Hidden Fates",
+      "img": "https://den-cards.pokellector.com/279/Pinsir-GX.HIF.6.29577.png",
+      "rarity": "Rare",
+      "cardNum": "6/68"
+    },
+    {
+      "name": "Charmander",
+      "set": "Hidden Fates",
+      "img": "https://den-cards.pokellector.com/279/Charmander.HIF.7.29578.png",
+      "rarity": "Common",
+      "cardNum": "7/68"
+    },
+    {
+      "name": "Charmeleon",
+      "set": "Hidden Fates",
+      "img": "https://den-cards.pokellector.com/279/Charmeleon.HIF.8.29579.png",
+      "rarity": "Uncommon",
+      "cardNum": "8/68"
+    },
+    {
+      "name": "Charizard GX",
+      "set": "Hidden Fates",
+      "img": "https://den-cards.pokellector.com/279/Charizard-GX.HIF.9.29580.png",
+      "rarity": "Rare",
+      "cardNum": "9/68"
+    },
+    {
+      "name": "Magmar",
+      "set": "Hidden Fates",
+      "img": "https://den-cards.pokellector.com/279/Magmar.HIF.10.29581.png",
+      "rarity": "Uncommon",
+      "cardNum": "10/68"
+    },
+    {
+      "name": "Psyduck",
+      "set": "Hidden Fates",
+      "img": "https://den-cards.pokellector.com/279/Psyduck.HIF.11.29582.png",
+      "rarity": "Common",
+      "cardNum": "11/68"
+    },
+    {
+      "name": "Slowpoke",
+      "set": "Hidden Fates",
+      "img": "https://den-cards.pokellector.com/279/Slowpoke.HIF.12.29583.png",
+      "rarity": "Common",
+      "cardNum": "12/68"
+    },
+    {
+      "name": "Staryu",
+      "set": "Hidden Fates",
+      "img": "https://den-cards.pokellector.com/279/Staryu.HIF.13.29584.png",
+      "rarity": "Common",
+      "cardNum": "13/68"
+    },
+    {
+      "name": "Starmie GX",
+      "set": "Hidden Fates",
+      "img": "https://den-cards.pokellector.com/279/Starmie-GX.HIF.14.29585.png",
+      "rarity": "Rare",
+      "cardNum": "14/68"
+    },
+    {
+      "name": "Magikarp",
+      "set": "Hidden Fates",
+      "img": "https://den-cards.pokellector.com/279/Magikarp.HIF.15.29586.png",
+      "rarity": "Common",
+      "cardNum": "15/68"
+    },
+    {
+      "name": "Gyarados GX",
+      "set": "Hidden Fates",
+      "img": "https://den-cards.pokellector.com/279/Gyarados-GX.HIF.16.29587.png",
+      "rarity": "Rare",
+      "cardNum": "16/68"
+    },
+    {
+      "name": "Lapras",
+      "set": "Hidden Fates",
+      "img": "https://den-cards.pokellector.com/279/Lapras.HIF.17.29588.png",
+      "rarity": "Rare",
+      "cardNum": "17/68"
+    },
+    {
+      "name": "Vaporeon",
+      "set": "Hidden Fates",
+      "img": "https://den-cards.pokellector.com/279/Vaporeon.HIF.18.30141.png",
+      "rarity": "Rare",
+      "cardNum": "18/68"
+    },
+    {
+      "name": "Pikachu",
+      "set": "Hidden Fates",
+      "img": "https://den-cards.pokellector.com/279/Pikachu.HIF.19.29589.png",
+      "rarity": "Common",
+      "cardNum": "19/68"
+    },
+    {
+      "name": "Raichu GX",
+      "set": "Hidden Fates",
+      "img": "https://den-cards.pokellector.com/279/Raichu-GX.HIF.20.29590.png",
+      "rarity": "Rare",
+      "cardNum": "20/68"
+    },
+    {
+      "name": "Voltorb",
+      "set": "Hidden Fates",
+      "img": "https://den-cards.pokellector.com/279/Voltorb.HIF.21.29591.png",
+      "rarity": "Common",
+      "cardNum": "21/68"
+    },
+    {
+      "name": "Electrode",
+      "set": "Hidden Fates",
+      "img": "https://den-cards.pokellector.com/279/Electrode.HIF.22.29592.png",
+      "rarity": "Rare",
+      "cardNum": "22/68"
+    },
+    {
+      "name": "Jolteon",
+      "set": "Hidden Fates",
+      "img": "https://den-cards.pokellector.com/279/Jolteon.HIF.23.29593.png",
+      "rarity": "Rare",
+      "cardNum": "23/68"
+    },
+    {
+      "name": "Zapdos",
+      "set": "Hidden Fates",
+      "img": "https://den-cards.pokellector.com/279/Zapdos.HIF.24.30142.png",
+      "rarity": "Rare",
+      "cardNum": "24/68"
+    },
+    {
+      "name": "Ekans",
+      "set": "Hidden Fates",
+      "img": "https://den-cards.pokellector.com/279/Ekans.HIF.25.29594.png",
+      "rarity": "Common",
+      "cardNum": "25/68"
+    },
+    {
+      "name": "Ekans",
+      "set": "Hidden Fates",
+      "img": "https://den-cards.pokellector.com/279/Ekans.HIF.26.29595.png",
+      "rarity": "Common",
+      "cardNum": "26/68"
+    },
+    {
+      "name": "Arbok",
+      "set": "Hidden Fates",
+      "img": "https://den-cards.pokellector.com/279/Arbok.HIF.27.29003.png",
+      "rarity": "Rare",
+      "cardNum": "27/68"
+    },
+    {
+      "name": "Koffing",
+      "set": "Hidden Fates",
+      "img": "https://den-cards.pokellector.com/279/Koffing.HIF.28.29596.png",
+      "rarity": "Common",
+      "cardNum": "28/68"
+    },
+    {
+      "name": "Weezing",
+      "set": "Hidden Fates",
+      "img": "https://den-cards.pokellector.com/279/Weezing.HIF.29.29011.png",
+      "rarity": "Rare",
+      "cardNum": "29/68"
+    },
+    {
+      "name": "Jynx",
+      "set": "Hidden Fates",
+      "img": "https://den-cards.pokellector.com/279/Jynx.HIF.30.29597.png",
+      "rarity": "Uncommon",
+      "cardNum": "30/68"
+    },
+    {
+      "name": "Mewtwo GX",
+      "set": "Hidden Fates",
+      "img": "https://den-cards.pokellector.com/279/Mewtwo-GX.HIF.31.29598.png",
+      "rarity": "Rare",
+      "cardNum": "31/68"
+    },
+    {
+      "name": "Mew",
+      "set": "Hidden Fates",
+      "img": "https://den-cards.pokellector.com/279/Mew.HIF.32.29599.png",
+      "rarity": "Rare",
+      "cardNum": "32/68"
+    },
+    {
+      "name": "Geodude",
+      "set": "Hidden Fates",
+      "img": "https://den-cards.pokellector.com/279/Geodude.HIF.33.29600.png",
+      "rarity": "Common",
+      "cardNum": "33/68"
+    },
+    {
+      "name": "Graveler",
+      "set": "Hidden Fates",
+      "img": "https://den-cards.pokellector.com/279/Graveler.HIF.34.29601.png",
+      "rarity": "Uncommon",
+      "cardNum": "34/68"
+    },
+    {
+      "name": "Golem",
+      "set": "Hidden Fates",
+      "img": "https://den-cards.pokellector.com/279/Golem.HIF.35.29602.png",
+      "rarity": "Rare",
+      "cardNum": "35/68"
+    },
+    {
+      "name": "Onix GX",
+      "set": "Hidden Fates",
+      "img": "https://den-cards.pokellector.com/279/Onix-GX.HIF.36.29603.png",
+      "rarity": "Rare",
+      "cardNum": "36/68"
+    },
+    {
+      "name": "Cubone",
+      "set": "Hidden Fates",
+      "img": "https://den-cards.pokellector.com/279/Cubone.HIF.37.29604.png",
+      "rarity": "Common",
+      "cardNum": "37/68"
+    },
+    {
+      "name": "Clefairy",
+      "set": "Hidden Fates",
+      "img": "https://den-cards.pokellector.com/279/Clefairy.HIF.38.29605.png",
+      "rarity": "Common",
+      "cardNum": "38/68"
+    },
+    {
+      "name": "Clefairy",
+      "set": "Hidden Fates",
+      "img": "https://den-cards.pokellector.com/279/Clefairy.HIF.39.29606.png",
+      "rarity": "Common",
+      "cardNum": "39/68"
+    },
+    {
+      "name": "Clefable",
+      "set": "Hidden Fates",
+      "img": "https://den-cards.pokellector.com/279/Clefable.HIF.40.29607.png",
+      "rarity": "Rare",
+      "cardNum": "40/68"
+    },
+    {
+      "name": "Jigglypuff",
+      "set": "Hidden Fates",
+      "img": "https://den-cards.pokellector.com/279/Jigglypuff.HIF.41.29608.png",
+      "rarity": "Common",
+      "cardNum": "41/68"
+    },
+    {
+      "name": "Wigglytuff GX",
+      "set": "Hidden Fates",
+      "img": "https://den-cards.pokellector.com/279/Wigglytuff-GX.HIF.42.29609.png",
+      "rarity": "Rare",
+      "cardNum": "42/68"
+    },
+    {
+      "name": "Mr. Mime",
+      "set": "Hidden Fates",
+      "img": "https://den-cards.pokellector.com/279/Mr-Mime.HIF.43.29610.png",
+      "rarity": "Rare",
+      "cardNum": "43/68"
+    },
+    {
+      "name": "Moltres & Zapdos & Articuno GX",
+      "set": "Hidden Fates",
+      "img": "https://den-cards.pokellector.com/279/Moltress-Zapdos-Articuno-GX.HIF.44.29010.png",
+      "rarity": "Rare",
+      "cardNum": "44/68"
+    },
+    {
+      "name": "Farfetch'd",
+      "set": "Hidden Fates",
+      "img": "https://den-cards.pokellector.com/279/Farfetchd.HIF.45.29611.png",
+      "rarity": "Uncommon",
+      "cardNum": "45/68"
+    },
+    {
+      "name": "Chansey",
+      "set": "Hidden Fates",
+      "img": "https://den-cards.pokellector.com/279/Chansey.HIF.46.29612.png",
+      "rarity": "Uncommon",
+      "cardNum": "46/68"
+    },
+    {
+      "name": "Kangaskhan",
+      "set": "Hidden Fates",
+      "img": "https://den-cards.pokellector.com/279/Kangaskhan.HIF.47.29613.png",
+      "rarity": "Rare",
+      "cardNum": "47/68"
+    },
+    {
+      "name": "Eevee",
+      "set": "Hidden Fates",
+      "img": "https://den-cards.pokellector.com/279/Eevee.HIF.48.29614.png",
+      "rarity": "Rare",
+      "cardNum": "48/68"
+    },
+    {
+      "name": "Eevee",
+      "set": "Hidden Fates",
+      "img": "https://den-cards.pokellector.com/279/Eevee.HIF.49.30140.png",
+      "rarity": "Common",
+      "cardNum": "49/68"
+    },
+    {
+      "name": "Snorlax",
+      "set": "Hidden Fates",
+      "img": "https://den-cards.pokellector.com/279/Snorlax.HIF.50.29615.png",
+      "rarity": "Rare",
+      "cardNum": "50/68"
+    },
+    {
+      "name": "Bill's Analysis",
+      "set": "Hidden Fates",
+      "img": "https://den-cards.pokellector.com/279/Bills-Analysis.HIF.51.29616.png",
+      "rarity": "Rare",
+      "cardNum": "51/68"
+    },
+    {
+      "name": "Blaine's Last Stand",
+      "set": "Hidden Fates",
+      "img": "https://den-cards.pokellector.com/279/Blaines-Last-Stand.HIF.52.29617.png",
+      "rarity": "Rare",
+      "cardNum": "52/68"
+    },
+    {
+      "name": "Brock's Grit",
+      "set": "Hidden Fates",
+      "img": "https://den-cards.pokellector.com/279/Brocks-Grit.HIF.53.29618.png",
+      "rarity": "Uncommon",
+      "cardNum": "53/68"
+    },
+    {
+      "name": "Brock's Pewter City Gym",
+      "set": "Hidden Fates",
+      "img": "https://den-cards.pokellector.com/279/Brocks-Pewter-City-Gym.HIF.54.29619.png",
+      "rarity": "Uncommon",
+      "cardNum": "54/68"
+    },
+    {
+      "name": "Brock's Training",
+      "set": "Hidden Fates",
+      "img": "https://den-cards.pokellector.com/279/Brocks-Training.HIF.55.29620.png",
+      "rarity": "Rare",
+      "cardNum": "55/68"
+    },
+    {
+      "name": "Erika's Hospitality",
+      "set": "Hidden Fates",
+      "img": "https://den-cards.pokellector.com/279/Erikas-Hospitality.HIF.56.29621.png",
+      "rarity": "Rare",
+      "cardNum": "56/68"
+    },
+    {
+      "name": "Giovanni's Exile",
+      "set": "Hidden Fates",
+      "img": "https://den-cards.pokellector.com/279/Giovannis-Exile.HIF.57.29622.png",
+      "rarity": "Uncommon",
+      "cardNum": "57/68"
+    },
+    {
+      "name": "Jessie & James",
+      "set": "Hidden Fates",
+      "img": "https://den-cards.pokellector.com/279/Jessie-James.HIF.58.29007.png",
+      "rarity": "Rare",
+      "cardNum": "58/68"
+    },
+    {
+      "name": "Koga's Trap",
+      "set": "Hidden Fates",
+      "img": "https://den-cards.pokellector.com/279/Kogas-Trap.HIF.59.29623.png",
+      "rarity": "Uncommon",
+      "cardNum": "59/68"
+    },
+    {
+      "name": "Lt. Surge's Strategy",
+      "set": "Hidden Fates",
+      "img": "https://den-cards.pokellector.com/279/Lt-Surges-Strategy.HIF.60.29624.png",
+      "rarity": "Uncommon",
+      "cardNum": "60/68"
+    },
+    {
+      "name": "Misty's Cerulean City Gym",
+      "set": "Hidden Fates",
+      "img": "https://den-cards.pokellector.com/279/Mistys-Cerulean-City-Gym.HIF.61.29625.png",
+      "rarity": "Uncommon",
+      "cardNum": "61/68"
+    },
+    {
+      "name": "Misty's Determination",
+      "set": "Hidden Fates",
+      "img": "https://den-cards.pokellector.com/279/Mistys-Determination.HIF.62.29626.png",
+      "rarity": "Uncommon",
+      "cardNum": "62/68"
+    },
+    {
+      "name": "Misty's Water Command",
+      "set": "Hidden Fates",
+      "img": "https://den-cards.pokellector.com/279/Mistys-Water-Command.HIF.63.29627.png",
+      "rarity": "Rare",
+      "cardNum": "63/68"
+    },
+    {
+      "name": "Pokemon Center Lady",
+      "set": "Hidden Fates",
+      "img": "https://den-cards.pokellector.com/279/Pokemon-Center-Lady.HIF.64.30143.png",
+      "rarity": "Uncommon",
+      "cardNum": "64/68"
+    },
+    {
+      "name": "Sabrina's Suggestion",
+      "set": "Hidden Fates",
+      "img": "https://den-cards.pokellector.com/279/Sabrinas-Suggestion.HIF.65.29628.png",
+      "rarity": "Uncommon",
+      "cardNum": "65/68"
+    },
+    {
+      "name": "Moltres & Zapdos & Articuno GX",
+      "set": "Hidden Fates",
+      "img": "https://den-cards.pokellector.com/279/Moltres-ampamp-Zapdos-ampamp-Articuno-GX.HIF.66.29629.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "66/68"
+    },
+    {
+      "name": "Giovanni's Exile",
+      "set": "Hidden Fates",
+      "img": "https://den-cards.pokellector.com/279/Giovannis-Exile.HIF.67.29630.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "67/68"
+    },
+    {
+      "name": "Jessie & James",
+      "set": "Hidden Fates",
+      "img": "https://den-cards.pokellector.com/279/Jessie-ampamp-James.HIF.68.29631.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "68/68"
+    },
+    {
+      "name": "Moltres & Zapdos & Articuno GX",
+      "set": "Hidden Fates",
+      "img": "https://den-cards.pokellector.com/279/Moltres-ampamp-Zapdos-ampamp-Articuno-GX.HIF.69.29632.png",
+      "rarity": "Secret Rare",
+      "cardNum": "69/68"
+    },
+    {
+      "name": "Scyther",
+      "set": "Hidden Fates",
+      "img": "https://den-cards.pokellector.com/279/Scyther.HIF.SV1.29854.png",
+      "rarity": "Rare",
+      "cardNum": "SV1"
+    },
+    {
+      "name": "Rowlet",
+      "set": "Hidden Fates",
+      "img": "https://den-cards.pokellector.com/279/Rowlet.HIF.SV2.29855.png",
+      "rarity": "Rare",
+      "cardNum": "SV2"
+    },
+    {
+      "name": "Dartrix",
+      "set": "Hidden Fates",
+      "img": "https://den-cards.pokellector.com/279/Dartrix.HIF.SV3.29856.png",
+      "rarity": "Rare",
+      "cardNum": "SV3"
+    },
+    {
+      "name": "Wimpod",
+      "set": "Hidden Fates",
+      "img": "https://den-cards.pokellector.com/279/Wimpod.HIF.SV4.29857.png",
+      "rarity": "Rare",
+      "cardNum": "SV4"
+    },
+    {
+      "name": "Pheromosa",
+      "set": "Hidden Fates",
+      "img": "https://den-cards.pokellector.com/279/Pheromosa.HIF.SV5.29858.png",
+      "rarity": "Rare",
+      "cardNum": "SV5"
+    },
+    {
+      "name": "Charmander",
+      "set": "Hidden Fates",
+      "img": "https://den-cards.pokellector.com/279/Charmander.HIF.SV6.29859.png",
+      "rarity": "Rare",
+      "cardNum": "SV6"
+    },
+    {
+      "name": "Charmeleon",
+      "set": "Hidden Fates",
+      "img": "https://den-cards.pokellector.com/279/Charmeleon.HIF.SV7.29860.png",
+      "rarity": "Rare",
+      "cardNum": "SV7"
+    },
+    {
+      "name": "Alolan Vulpix",
+      "set": "Hidden Fates",
+      "img": "https://den-cards.pokellector.com/279/Alolan-Vulpix.HIF.SV8.29861.png",
+      "rarity": "Rare",
+      "cardNum": "SV8"
+    },
+    {
+      "name": "Wooper",
+      "set": "Hidden Fates",
+      "img": "https://den-cards.pokellector.com/279/Wooper.HIF.SV9.29862.png",
+      "rarity": "Rare",
+      "cardNum": "SV9"
+    },
+    {
+      "name": "Quagsire",
+      "set": "Hidden Fates",
+      "img": "https://den-cards.pokellector.com/279/Quagsire.HIF.SV10.29863.png",
+      "rarity": "Rare",
+      "cardNum": "SV10"
+    },
+    {
+      "name": "Froakie",
+      "set": "Hidden Fates",
+      "img": "https://den-cards.pokellector.com/279/Froakie.HIF.SV11.29864.png",
+      "rarity": "Rare",
+      "cardNum": "SV11"
+    },
+    {
+      "name": "Frogadier",
+      "set": "Hidden Fates",
+      "img": "https://den-cards.pokellector.com/279/Frogadier.HIF.SV12.29865.png",
+      "rarity": "Rare",
+      "cardNum": "SV12"
+    },
+    {
+      "name": "Voltorb",
+      "set": "Hidden Fates",
+      "img": "https://den-cards.pokellector.com/279/Voltorb.HIF.SV13.29866.png",
+      "rarity": "Rare",
+      "cardNum": "SV13"
+    },
+    {
+      "name": "Xurkitree",
+      "set": "Hidden Fates",
+      "img": "https://den-cards.pokellector.com/279/Xurkitree.HIF.SV14.29867.png",
+      "rarity": "Rare",
+      "cardNum": "SV14"
+    },
+    {
+      "name": "Seviper",
+      "set": "Hidden Fates",
+      "img": "https://den-cards.pokellector.com/279/Seviper.HIF.SV15.29868.png",
+      "rarity": "Rare",
+      "cardNum": "SV15"
+    },
+    {
+      "name": "Shuppet",
+      "set": "Hidden Fates",
+      "img": "https://den-cards.pokellector.com/279/Shuppet.HIF.SV16.29869.png",
+      "rarity": "Rare",
+      "cardNum": "SV16"
+    },
+    {
+      "name": "Inkay",
+      "set": "Hidden Fates",
+      "img": "https://den-cards.pokellector.com/279/Inkay.HIF.SV17.29870.png",
+      "rarity": "Rare",
+      "cardNum": "SV17"
+    },
+    {
+      "name": "Malamar",
+      "set": "Hidden Fates",
+      "img": "https://den-cards.pokellector.com/279/Malamar.HIF.SV18.29009.png",
+      "rarity": "Rare",
+      "cardNum": "SV18"
+    },
+    {
+      "name": "Poipole",
+      "set": "Hidden Fates",
+      "img": "https://den-cards.pokellector.com/279/Poipole.HIF.SV19.29872.png",
+      "rarity": "Rare",
+      "cardNum": "SV19"
+    },
+    {
+      "name": "Sudowoodo",
+      "set": "Hidden Fates",
+      "img": "https://den-cards.pokellector.com/279/Sudowoodo.HIF.SV20.29873.png",
+      "rarity": "Rare",
+      "cardNum": "SV20"
+    },
+    {
+      "name": "Riolu",
+      "set": "Hidden Fates",
+      "img": "https://den-cards.pokellector.com/279/Riolu.HIF.SV21.29874.png",
+      "rarity": "Rare",
+      "cardNum": "SV21"
+    },
+    {
+      "name": "Lucario",
+      "set": "Hidden Fates",
+      "img": "https://den-cards.pokellector.com/279/Lucario.HIF.SV22.29875.png",
+      "rarity": "Rare",
+      "cardNum": "SV22"
+    },
+    {
+      "name": "Rockruff",
+      "set": "Hidden Fates",
+      "img": "https://den-cards.pokellector.com/279/Rockruff.HIF.SV23.29876.png",
+      "rarity": "Rare",
+      "cardNum": "SV23"
+    },
+    {
+      "name": "Buzzwole",
+      "set": "Hidden Fates",
+      "img": "https://den-cards.pokellector.com/279/Buzzwole.HIF.SV24.29004.png",
+      "rarity": "Rare",
+      "cardNum": "SV24"
+    },
+    {
+      "name": "Zorua",
+      "set": "Hidden Fates",
+      "img": "https://den-cards.pokellector.com/279/Zorua.HIF.SV25.29878.png",
+      "rarity": "Rare",
+      "cardNum": "SV25"
+    },
+    {
+      "name": "Guzzlord",
+      "set": "Hidden Fates",
+      "img": "https://den-cards.pokellector.com/279/Guzzlord.HIF.SV26.29879.png",
+      "rarity": "Rare",
+      "cardNum": "SV26"
+    },
+    {
+      "name": "Magnemite",
+      "set": "Hidden Fates",
+      "img": "https://den-cards.pokellector.com/279/Magnemite.HIF.SV27.29880.png",
+      "rarity": "Rare",
+      "cardNum": "SV27"
+    },
+    {
+      "name": "Magneton",
+      "set": "Hidden Fates",
+      "img": "https://den-cards.pokellector.com/279/Magneton.HIF.SV28.29881.png",
+      "rarity": "Rare",
+      "cardNum": "SV28"
+    },
+    {
+      "name": "Magnezone",
+      "set": "Hidden Fates",
+      "img": "https://den-cards.pokellector.com/279/Magnezone.HIF.SV29.29882.png",
+      "rarity": "Rare",
+      "cardNum": "SV29"
+    },
+    {
+      "name": "Beldum",
+      "set": "Hidden Fates",
+      "img": "https://den-cards.pokellector.com/279/Beldum.HIF.SV30.29883.png",
+      "rarity": "Rare",
+      "cardNum": "SV30"
+    },
+    {
+      "name": "Metang",
+      "set": "Hidden Fates",
+      "img": "https://den-cards.pokellector.com/279/Metang.HIF.SV31.29884.png",
+      "rarity": "Rare",
+      "cardNum": "SV31"
+    },
+    {
+      "name": "Celesteela",
+      "set": "Hidden Fates",
+      "img": "https://den-cards.pokellector.com/279/Celesteela.HIF.SV32.29885.png",
+      "rarity": "Rare",
+      "cardNum": "SV32"
+    },
+    {
+      "name": "Kartana",
+      "set": "Hidden Fates",
+      "img": "https://den-cards.pokellector.com/279/Kartana.HIF.SV33.29886.png",
+      "rarity": "Rare",
+      "cardNum": "SV33"
+    },
+    {
+      "name": "Ralts",
+      "set": "Hidden Fates",
+      "img": "https://den-cards.pokellector.com/279/Ralts.HIF.SV34.29887.png",
+      "rarity": "Rare",
+      "cardNum": "SV34"
+    },
+    {
+      "name": "Kirlia",
+      "set": "Hidden Fates",
+      "img": "https://den-cards.pokellector.com/279/Kirlia.HIF.SV35.29888.png",
+      "rarity": "Rare",
+      "cardNum": "SV35"
+    },
+    {
+      "name": "Diancie",
+      "set": "Hidden Fates",
+      "img": "https://den-cards.pokellector.com/279/Diancie.HIF.SV36.29889.png",
+      "rarity": "Rare",
+      "cardNum": "SV36"
+    },
+    {
+      "name": "Altaria",
+      "set": "Hidden Fates",
+      "img": "https://den-cards.pokellector.com/279/Altaria.HIF.SV37.29890.png",
+      "rarity": "Rare",
+      "cardNum": "SV37"
+    },
+    {
+      "name": "Gible",
+      "set": "Hidden Fates",
+      "img": "https://den-cards.pokellector.com/279/Gible.HIF.SV38.29891.png",
+      "rarity": "Rare",
+      "cardNum": "SV38"
+    },
+    {
+      "name": "Gabite",
+      "set": "Hidden Fates",
+      "img": "https://den-cards.pokellector.com/279/Gabite.HIF.SV39.29892.png",
+      "rarity": "Rare",
+      "cardNum": "SV39"
+    },
+    {
+      "name": "Garchomp",
+      "set": "Hidden Fates",
+      "img": "https://den-cards.pokellector.com/279/Garchomp.HIF.SV40.29893.png",
+      "rarity": "Rare",
+      "cardNum": "SV40"
+    },
+    {
+      "name": "Eevee",
+      "set": "Hidden Fates",
+      "img": "https://den-cards.pokellector.com/279/Eevee.HIF.SV41.29894.png",
+      "rarity": "Rare",
+      "cardNum": "SV41"
+    },
+    {
+      "name": "Swablu",
+      "set": "Hidden Fates",
+      "img": "https://den-cards.pokellector.com/279/Swablu.HIF.SV42.29895.png",
+      "rarity": "Rare",
+      "cardNum": "SV42"
+    },
+    {
+      "name": "Noibat",
+      "set": "Hidden Fates",
+      "img": "https://den-cards.pokellector.com/279/Noibat.HIF.SV43.29896.png",
+      "rarity": "Rare",
+      "cardNum": "SV43"
+    },
+    {
+      "name": "Oranguru",
+      "set": "Hidden Fates",
+      "img": "https://den-cards.pokellector.com/279/Oranguru.HIF.SV44.29897.png",
+      "rarity": "Rare",
+      "cardNum": "SV44"
+    },
+    {
+      "name": "Type: Null",
+      "set": "Hidden Fates",
+      "img": "https://den-cards.pokellector.com/279/Type-Null.HIF.SV45.29898.png",
+      "rarity": "Rare",
+      "cardNum": "SV45"
+    },
+    {
+      "name": "Leafeon GX",
+      "set": "Hidden Fates",
+      "img": "https://den-cards.pokellector.com/279/Leafeon-GX.HIF.SV46.29899.png",
+      "rarity": "Rare",
+      "cardNum": "SV46"
+    },
+    {
+      "name": "Decidueye GX",
+      "set": "Hidden Fates",
+      "img": "https://den-cards.pokellector.com/279/Decidueye-GX.HIF.SV47.29900.png",
+      "rarity": "Rare",
+      "cardNum": "SV47"
+    },
+    {
+      "name": "Golisopod GX",
+      "set": "Hidden Fates",
+      "img": "https://den-cards.pokellector.com/279/Golisopod-GX.HIF.SV48.29901.png",
+      "rarity": "Rare",
+      "cardNum": "SV48"
+    },
+    {
+      "name": "Charizard GX",
+      "set": "Hidden Fates",
+      "img": "https://den-cards.pokellector.com/279/Charizard-GX.HIF.SV49.29005.png",
+      "rarity": "Rare",
+      "cardNum": "SV49"
+    },
+    {
+      "name": "Ho-Oh GX",
+      "set": "Hidden Fates",
+      "img": "https://den-cards.pokellector.com/279/Ho-Oh-GX.HIF.SV50.29903.png",
+      "rarity": "Rare",
+      "cardNum": "SV50"
+    },
+    {
+      "name": "Reshiram GX",
+      "set": "Hidden Fates",
+      "img": "https://den-cards.pokellector.com/279/Reshiram-GX.HIF.SV51.29904.png",
+      "rarity": "Rare",
+      "cardNum": "SV51"
+    },
+    {
+      "name": "Turtonator GX",
+      "set": "Hidden Fates",
+      "img": "https://den-cards.pokellector.com/279/Turtonator-GX.HIF.SV52.29905.png",
+      "rarity": "Rare",
+      "cardNum": "SV52"
+    },
+    {
+      "name": "Alolan Ninetales GX",
+      "set": "Hidden Fates",
+      "img": "https://den-cards.pokellector.com/279/Alolan-Ninetales-GX.HIF.SV53.29906.png",
+      "rarity": "Rare",
+      "cardNum": "SV53"
+    },
+    {
+      "name": "Articuno GX",
+      "set": "Hidden Fates",
+      "img": "https://den-cards.pokellector.com/279/Articuno-GX.HIF.SV54.29907.png",
+      "rarity": "Rare",
+      "cardNum": "SV54"
+    },
+    {
+      "name": "Glaceon GX",
+      "set": "Hidden Fates",
+      "img": "https://den-cards.pokellector.com/279/Glaceon-GX.HIF.SV55.29908.png",
+      "rarity": "Rare",
+      "cardNum": "SV55"
+    },
+    {
+      "name": "Greninja GX",
+      "set": "Hidden Fates",
+      "img": "https://den-cards.pokellector.com/279/Greninja-GX.HIF.SV56.29909.png",
+      "rarity": "Rare",
+      "cardNum": "SV56"
+    },
+    {
+      "name": "Electrode GX",
+      "set": "Hidden Fates",
+      "img": "https://den-cards.pokellector.com/279/Electrode-GX.HIF.SV57.29910.png",
+      "rarity": "Rare",
+      "cardNum": "SV57"
+    },
+    {
+      "name": "Xurkitree GX",
+      "set": "Hidden Fates",
+      "img": "https://den-cards.pokellector.com/279/Xurkitree-GX.HIF.SV58.29911.png",
+      "rarity": "Rare",
+      "cardNum": "SV58"
+    },
+    {
+      "name": "Mewtwo GX",
+      "set": "Hidden Fates",
+      "img": "https://den-cards.pokellector.com/279/Mewtwo-GX.HIF.SV59.29912.png",
+      "rarity": "Rare",
+      "cardNum": "SV59"
+    },
+    {
+      "name": "Espeon GX",
+      "set": "Hidden Fates",
+      "img": "https://den-cards.pokellector.com/279/Espeon-GX.HIF.SV60.29913.png",
+      "rarity": "Rare",
+      "cardNum": "SV60"
+    },
+    {
+      "name": "Banette GX",
+      "set": "Hidden Fates",
+      "img": "https://den-cards.pokellector.com/279/Banette-GX.HIF.SV61.29914.png",
+      "rarity": "Rare",
+      "cardNum": "SV61"
+    },
+    {
+      "name": "Nihilego GX",
+      "set": "Hidden Fates",
+      "img": "https://den-cards.pokellector.com/279/Nihilego-GX.HIF.SV62.29915.png",
+      "rarity": "Rare",
+      "cardNum": "SV62"
+    },
+    {
+      "name": "Naganadel GX",
+      "set": "Hidden Fates",
+      "img": "https://den-cards.pokellector.com/279/Naganadel-GX.HIF.SV63.29916.png",
+      "rarity": "Rare",
+      "cardNum": "SV63"
+    },
+    {
+      "name": "Lucario GX",
+      "set": "Hidden Fates",
+      "img": "https://den-cards.pokellector.com/279/Lucario-GX.HIF.SV64.29008.png",
+      "rarity": "Rare",
+      "cardNum": "SV64"
+    },
+    {
+      "name": "Zygarde GX",
+      "set": "Hidden Fates",
+      "img": "https://den-cards.pokellector.com/279/Zygarde-GX.HIF.SV65.29918.png",
+      "rarity": "Rare",
+      "cardNum": "SV65"
+    },
+    {
+      "name": "Lycanroc GX",
+      "set": "Hidden Fates",
+      "img": "https://den-cards.pokellector.com/279/Lycanroc-GX.HIF.SV66.29919.png",
+      "rarity": "Rare",
+      "cardNum": "SV66"
+    },
+    {
+      "name": "Lycanroc GX",
+      "set": "Hidden Fates",
+      "img": "https://den-cards.pokellector.com/279/Lycanroc-GX.HIF.SV67.29920.png",
+      "rarity": "Rare",
+      "cardNum": "SV67"
+    },
+    {
+      "name": "Buzzwole GX",
+      "set": "Hidden Fates",
+      "img": "https://den-cards.pokellector.com/279/Buzzwole-GX.HIF.SV68.29921.png",
+      "rarity": "Rare",
+      "cardNum": "SV68"
+    },
+    {
+      "name": "Umbreon GX",
+      "set": "Hidden Fates",
+      "img": "https://den-cards.pokellector.com/279/Umbreon-GX.HIF.SV69.29922.png",
+      "rarity": "Rare",
+      "cardNum": "SV69"
+    },
+    {
+      "name": "Darkrai GX",
+      "set": "Hidden Fates",
+      "img": "https://den-cards.pokellector.com/279/Darkrai-GX.HIF.SV70.29923.png",
+      "rarity": "Rare",
+      "cardNum": "SV70"
+    },
+    {
+      "name": "Guzzlord GX",
+      "set": "Hidden Fates",
+      "img": "https://den-cards.pokellector.com/279/Guzzlord-GX.HIF.SV71.29924.png",
+      "rarity": "Rare",
+      "cardNum": "SV71"
+    },
+    {
+      "name": "Scizor GX",
+      "set": "Hidden Fates",
+      "img": "https://den-cards.pokellector.com/279/Scizor-GX.HIF.SV72.29925.png",
+      "rarity": "Rare",
+      "cardNum": "SV72"
+    },
+    {
+      "name": "Kartana GX",
+      "set": "Hidden Fates",
+      "img": "https://den-cards.pokellector.com/279/Kartana-GX.HIF.SV73.29926.png",
+      "rarity": "Rare",
+      "cardNum": "SV73"
+    },
+    {
+      "name": "Stakataka GX",
+      "set": "Hidden Fates",
+      "img": "https://den-cards.pokellector.com/279/Stakataka-GX.HIF.SV74.29927.png",
+      "rarity": "Rare",
+      "cardNum": "SV74"
+    },
+    {
+      "name": "Gardevoir GX",
+      "set": "Hidden Fates",
+      "img": "https://den-cards.pokellector.com/279/Gardevoir-GX.HIF.SV75.29928.png",
+      "rarity": "Rare",
+      "cardNum": "SV75"
+    },
+    {
+      "name": "Sylveon GX",
+      "set": "Hidden Fates",
+      "img": "https://den-cards.pokellector.com/279/Sylveon-GX.HIF.SV76.29929.png",
+      "rarity": "Rare",
+      "cardNum": "SV76"
+    },
+    {
+      "name": "Altaria GX",
+      "set": "Hidden Fates",
+      "img": "https://den-cards.pokellector.com/279/Altaria-GX.HIF.SV77.29930.png",
+      "rarity": "Rare",
+      "cardNum": "SV77"
+    },
+    {
+      "name": "Noivern GX",
+      "set": "Hidden Fates",
+      "img": "https://den-cards.pokellector.com/279/Noivern-GX.HIF.SV78.29931.png",
+      "rarity": "Rare",
+      "cardNum": "SV78"
+    },
+    {
+      "name": "Silvally GX",
+      "set": "Hidden Fates",
+      "img": "https://den-cards.pokellector.com/279/Silvally-GX.HIF.SV79.29932.png",
+      "rarity": "Rare",
+      "cardNum": "SV79"
+    },
+    {
+      "name": "Drampa GX",
+      "set": "Hidden Fates",
+      "img": "https://den-cards.pokellector.com/279/Drampa-GX.HIF.SV80.29933.png",
+      "rarity": "Rare",
+      "cardNum": "SV80"
+    },
+    {
+      "name": "Aether Foundation Employee",
+      "set": "Hidden Fates",
+      "img": "https://den-cards.pokellector.com/279/Aether-Foundation-Employee.HIF.SV81.29934.png",
+      "rarity": "Rare",
+      "cardNum": "SV81"
+    },
+    {
+      "name": "Cynthia",
+      "set": "Hidden Fates",
+      "img": "https://den-cards.pokellector.com/279/Cynthia.HIF.SV82.29006.png",
+      "rarity": "Rare",
+      "cardNum": "SV82"
+    },
+    {
+      "name": "Fisherman",
+      "set": "Hidden Fates",
+      "img": "https://den-cards.pokellector.com/279/Fisherman.HIF.SV83.29936.png",
+      "rarity": "Rare",
+      "cardNum": "SV83"
+    },
+    {
+      "name": "Guzma",
+      "set": "Hidden Fates",
+      "img": "https://den-cards.pokellector.com/279/Guzma.HIF.SV84.29937.png",
+      "rarity": "Rare",
+      "cardNum": "SV84"
+    },
+    {
+      "name": "Hiker",
+      "set": "Hidden Fates",
+      "img": "https://den-cards.pokellector.com/279/Hiker.HIF.SV85.29938.png",
+      "rarity": "Rare",
+      "cardNum": "SV85"
+    },
+    {
+      "name": "Lady",
+      "set": "Hidden Fates",
+      "img": "https://den-cards.pokellector.com/279/Lady.HIF.SV86.29939.png",
+      "rarity": "Rare",
+      "cardNum": "SV86"
+    },
+    {
+      "name": "Aether Paradise Conservation Area",
+      "set": "Hidden Fates",
+      "img": "https://den-cards.pokellector.com/279/Aether-Paradise-Conservation-Area.HIF.SV87.29940.png",
+      "rarity": "Rare",
+      "cardNum": "SV87"
+    },
+    {
+      "name": "Brooklet Hill",
+      "set": "Hidden Fates",
+      "img": "https://den-cards.pokellector.com/279/Brooklet-Hill.HIF.SV88.29941.png",
+      "rarity": "Rare",
+      "cardNum": "SV88"
+    },
+    {
+      "name": "Mt. Coronet",
+      "set": "Hidden Fates",
+      "img": "https://den-cards.pokellector.com/279/Mt-Coronet.HIF.SV89.29942.png",
+      "rarity": "Rare",
+      "cardNum": "SV89"
+    },
+    {
+      "name": "Shrine of Punishment",
+      "set": "Hidden Fates",
+      "img": "https://den-cards.pokellector.com/279/Shrine-of-Punishment.HIF.SV90.29943.png",
+      "rarity": "Rare",
+      "cardNum": "SV90"
+    },
+    {
+      "name": "Tapu Bulu GX",
+      "set": "Hidden Fates",
+      "img": "https://den-cards.pokellector.com/279/Tapu-Bulu-GX.HIF.SV91.29944.png",
+      "rarity": "Rare",
+      "cardNum": "SV91"
+    },
+    {
+      "name": "Tapu Fini GX",
+      "set": "Hidden Fates",
+      "img": "https://den-cards.pokellector.com/279/Tapu-Fini-GX.HIF.SV92.29945.png",
+      "rarity": "Rare",
+      "cardNum": "SV92"
+    },
+    {
+      "name": "Tapu Koko GX",
+      "set": "Hidden Fates",
+      "img": "https://den-cards.pokellector.com/279/Tapu-Koko-GX.HIF.SV93.29946.png",
+      "rarity": "Rare",
+      "cardNum": "SV93"
+    },
+    {
+      "name": "Tapu Lele GX",
+      "set": "Hidden Fates",
+      "img": "https://den-cards.pokellector.com/279/Tapu-Lele-GX.HIF.SV94.29947.png",
+      "rarity": "Rare",
+      "cardNum": "SV94"
+    }
+  ]
+}

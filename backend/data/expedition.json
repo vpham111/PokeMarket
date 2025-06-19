@@ -1,0 +1,1160 @@
+{
+  "setName": "Expedition",
+  "cards": [
+    {
+      "name": "Alakazam",
+      "set": "Expedition",
+      "img": "https://den-cards.pokellector.com/109/Alakazam.EX.1.6550.png",
+      "rarity": "Rare",
+      "cardNum": "1/165"
+    },
+    {
+      "name": "Ampharos",
+      "set": "Expedition",
+      "img": "https://den-cards.pokellector.com/109/Ampharos.EX.2.png",
+      "rarity": "Rare",
+      "cardNum": "2/165"
+    },
+    {
+      "name": "Arbok",
+      "set": "Expedition",
+      "img": "https://den-cards.pokellector.com/109/Arbok.EX.3.6552.png",
+      "rarity": "Rare",
+      "cardNum": "3/165"
+    },
+    {
+      "name": "Blastoise",
+      "set": "Expedition",
+      "img": "https://den-cards.pokellector.com/109/Blastoise.EX.4.6553.png",
+      "rarity": "Rare",
+      "cardNum": "4/165"
+    },
+    {
+      "name": "Butterfree",
+      "set": "Expedition",
+      "img": "https://den-cards.pokellector.com/109/Butterfree.EX.5.6554.png",
+      "rarity": "Rare",
+      "cardNum": "5/165"
+    },
+    {
+      "name": "Charizard",
+      "set": "Expedition",
+      "img": "https://den-cards.pokellector.com/109/Charizard.EX.6.6555.png",
+      "rarity": "Rare",
+      "cardNum": "6/165"
+    },
+    {
+      "name": "Clefable",
+      "set": "Expedition",
+      "img": "https://den-cards.pokellector.com/109/Clefable.EX.7.6556.png",
+      "rarity": "Rare",
+      "cardNum": "7/165"
+    },
+    {
+      "name": "Cloyster",
+      "set": "Expedition",
+      "img": "https://den-cards.pokellector.com/109/Cloyster.EX.8.6557.png",
+      "rarity": "Rare",
+      "cardNum": "8/165"
+    },
+    {
+      "name": "Dragonite",
+      "set": "Expedition",
+      "img": "https://den-cards.pokellector.com/109/Dragonite.EX.9.6558.png",
+      "rarity": "Rare",
+      "cardNum": "9/165"
+    },
+    {
+      "name": "Dugtrio",
+      "set": "Expedition",
+      "img": "https://den-cards.pokellector.com/109/Dugtrio.EX.10.6559.png",
+      "rarity": "Rare",
+      "cardNum": "10/165"
+    },
+    {
+      "name": "Fearow",
+      "set": "Expedition",
+      "img": "https://den-cards.pokellector.com/109/Fearow.EX.11.6560.png",
+      "rarity": "Rare",
+      "cardNum": "11/165"
+    },
+    {
+      "name": "Feraligatr",
+      "set": "Expedition",
+      "img": "https://den-cards.pokellector.com/109/Feraligatr.EX.12.6561.png",
+      "rarity": "Rare",
+      "cardNum": "12/165"
+    },
+    {
+      "name": "Gengar",
+      "set": "Expedition",
+      "img": "https://den-cards.pokellector.com/109/Gengar.EX.13.png",
+      "rarity": "Rare",
+      "cardNum": "13/165"
+    },
+    {
+      "name": "Golem",
+      "set": "Expedition",
+      "img": "https://den-cards.pokellector.com/109/Golem.EX.14.6563.png",
+      "rarity": "Rare",
+      "cardNum": "14/165"
+    },
+    {
+      "name": "Kingler",
+      "set": "Expedition",
+      "img": "https://den-cards.pokellector.com/109/Kingler.EX.15.6564.png",
+      "rarity": "Rare",
+      "cardNum": "15/165"
+    },
+    {
+      "name": "Machamp",
+      "set": "Expedition",
+      "img": "https://den-cards.pokellector.com/109/Machamp.EX.16.6565.png",
+      "rarity": "Rare",
+      "cardNum": "16/165"
+    },
+    {
+      "name": "Magby",
+      "set": "Expedition",
+      "img": "https://den-cards.pokellector.com/109/Magby.EX.17.6566.png",
+      "rarity": "Rare",
+      "cardNum": "17/165"
+    },
+    {
+      "name": "Meganium",
+      "set": "Expedition",
+      "img": "https://den-cards.pokellector.com/109/Meganium.EX.18.6567.png",
+      "rarity": "Rare",
+      "cardNum": "18/165"
+    },
+    {
+      "name": "Mew",
+      "set": "Expedition",
+      "img": "https://den-cards.pokellector.com/109/Mew.EX.19.6568.png",
+      "rarity": "Rare",
+      "cardNum": "19/165"
+    },
+    {
+      "name": "Mewtwo",
+      "set": "Expedition",
+      "img": "https://den-cards.pokellector.com/109/Mewtwo.EX.20.6569.png",
+      "rarity": "Rare",
+      "cardNum": "20/165"
+    },
+    {
+      "name": "Ninetales",
+      "set": "Expedition",
+      "img": "https://den-cards.pokellector.com/109/Ninetales.EX.21.6570.png",
+      "rarity": "Rare",
+      "cardNum": "21/165"
+    },
+    {
+      "name": "Pichu",
+      "set": "Expedition",
+      "img": "https://den-cards.pokellector.com/109/Pichu.EX.22.6571.png",
+      "rarity": "Rare",
+      "cardNum": "22/165"
+    },
+    {
+      "name": "Pidgeot",
+      "set": "Expedition",
+      "img": "https://den-cards.pokellector.com/109/Pidgeot.EX.23.6572.png",
+      "rarity": "Rare",
+      "cardNum": "23/165"
+    },
+    {
+      "name": "Poliwrath",
+      "set": "Expedition",
+      "img": "https://den-cards.pokellector.com/109/Poliwrath.EX.24.6573.png",
+      "rarity": "Rare",
+      "cardNum": "24/165"
+    },
+    {
+      "name": "Raichu",
+      "set": "Expedition",
+      "img": "https://den-cards.pokellector.com/109/Raichu.EX.25.6574.png",
+      "rarity": "Rare",
+      "cardNum": "25/165"
+    },
+    {
+      "name": "Rapidash",
+      "set": "Expedition",
+      "img": "https://den-cards.pokellector.com/109/Rapidash.EX.26.6575.png",
+      "rarity": "Rare",
+      "cardNum": "26/165"
+    },
+    {
+      "name": "Skarmory",
+      "set": "Expedition",
+      "img": "https://den-cards.pokellector.com/109/Skarmory.EX.27.6576.png",
+      "rarity": "Rare",
+      "cardNum": "27/165"
+    },
+    {
+      "name": "Typhlosion",
+      "set": "Expedition",
+      "img": "https://den-cards.pokellector.com/109/Typhlosion.EX.28.6577.png",
+      "rarity": "Rare",
+      "cardNum": "28/165"
+    },
+    {
+      "name": "Tyranitar",
+      "set": "Expedition",
+      "img": "https://den-cards.pokellector.com/109/Tyranitar.EX.29.6578.png",
+      "rarity": "Rare",
+      "cardNum": "29/165"
+    },
+    {
+      "name": "Venusaur",
+      "set": "Expedition",
+      "img": "https://den-cards.pokellector.com/109/Venusaur.EX.30.6579.png",
+      "rarity": "Rare",
+      "cardNum": "30/165"
+    },
+    {
+      "name": "Vileplume",
+      "set": "Expedition",
+      "img": "https://den-cards.pokellector.com/109/Vileplume.EX.31.6580.png",
+      "rarity": "Rare",
+      "cardNum": "31/165"
+    },
+    {
+      "name": "Weezing",
+      "set": "Expedition",
+      "img": "https://den-cards.pokellector.com/109/Weezing.EX.32.6581.png",
+      "rarity": "Rare",
+      "cardNum": "32/165"
+    },
+    {
+      "name": "Alakazam",
+      "set": "Expedition",
+      "img": "https://den-cards.pokellector.com/109/Alakazam.EX.33.png",
+      "rarity": "Rare",
+      "cardNum": "33/165"
+    },
+    {
+      "name": "Ampharos",
+      "set": "Expedition",
+      "img": "https://den-cards.pokellector.com/109/Ampharos.EX.34.6583.png",
+      "rarity": "Rare",
+      "cardNum": "34/165"
+    },
+    {
+      "name": "Arbok",
+      "set": "Expedition",
+      "img": "https://den-cards.pokellector.com/109/Arbok.EX.35.6584.png",
+      "rarity": "Rare",
+      "cardNum": "35/165"
+    },
+    {
+      "name": "Blastoise",
+      "set": "Expedition",
+      "img": "https://den-cards.pokellector.com/109/Blastoise.EX.36.6585.png",
+      "rarity": "Rare",
+      "cardNum": "36/165"
+    },
+    {
+      "name": "Blastoise",
+      "set": "Expedition",
+      "img": "https://den-cards.pokellector.com/109/Blastoise.EX.37.6586.png",
+      "rarity": "Rare",
+      "cardNum": "37/165"
+    },
+    {
+      "name": "Butterfree",
+      "set": "Expedition",
+      "img": "https://den-cards.pokellector.com/109/Butterfree.EX.38.6587.png",
+      "rarity": "Rare",
+      "cardNum": "38/165"
+    },
+    {
+      "name": "Charizard",
+      "set": "Expedition",
+      "img": "https://den-cards.pokellector.com/109/Charizard.EX.39.6588.png",
+      "rarity": "Rare",
+      "cardNum": "39/165"
+    },
+    {
+      "name": "Charizard",
+      "set": "Expedition",
+      "img": "https://den-cards.pokellector.com/109/Charizard.EX.40.6589.png",
+      "rarity": "Rare",
+      "cardNum": "40/165"
+    },
+    {
+      "name": "Clefable",
+      "set": "Expedition",
+      "img": "https://den-cards.pokellector.com/109/Clefable.EX.41.6590.png",
+      "rarity": "Rare",
+      "cardNum": "41/165"
+    },
+    {
+      "name": "Cloyster",
+      "set": "Expedition",
+      "img": "https://den-cards.pokellector.com/109/Cloyster.EX.42.6591.png",
+      "rarity": "Rare",
+      "cardNum": "42/165"
+    },
+    {
+      "name": "Dragonite",
+      "set": "Expedition",
+      "img": "https://den-cards.pokellector.com/109/Dragonite.EX.43.6592.png",
+      "rarity": "Rare",
+      "cardNum": "43/165"
+    },
+    {
+      "name": "Dugtrio",
+      "set": "Expedition",
+      "img": "https://den-cards.pokellector.com/109/Dugtrio.EX.44.6593.png",
+      "rarity": "Rare",
+      "cardNum": "44/165"
+    },
+    {
+      "name": "Fearow",
+      "set": "Expedition",
+      "img": "https://den-cards.pokellector.com/109/Fearow.EX.45.6594.png",
+      "rarity": "Rare",
+      "cardNum": "45/165"
+    },
+    {
+      "name": "Feraligatr",
+      "set": "Expedition",
+      "img": "https://den-cards.pokellector.com/109/Feraligatr.EX.46.6595.png",
+      "rarity": "Rare",
+      "cardNum": "46/165"
+    },
+    {
+      "name": "Feraligatr",
+      "set": "Expedition",
+      "img": "https://den-cards.pokellector.com/109/Feraligatr.EX.47.6596.png",
+      "rarity": "Rare",
+      "cardNum": "47/165"
+    },
+    {
+      "name": "Gengar",
+      "set": "Expedition",
+      "img": "https://den-cards.pokellector.com/109/Gengar.EX.48.6597.png",
+      "rarity": "Rare",
+      "cardNum": "48/165"
+    },
+    {
+      "name": "Golem",
+      "set": "Expedition",
+      "img": "https://den-cards.pokellector.com/109/Golem.EX.49.png",
+      "rarity": "Rare",
+      "cardNum": "49/165"
+    },
+    {
+      "name": "Kingler",
+      "set": "Expedition",
+      "img": "https://den-cards.pokellector.com/109/Kingler.EX.50.png",
+      "rarity": "Rare",
+      "cardNum": "50/165"
+    },
+    {
+      "name": "Machamp",
+      "set": "Expedition",
+      "img": "https://den-cards.pokellector.com/109/Machamp.EX.51.png",
+      "rarity": "Rare",
+      "cardNum": "51/165"
+    },
+    {
+      "name": "Magby",
+      "set": "Expedition",
+      "img": "https://den-cards.pokellector.com/109/Magby.EX.52.6601.png",
+      "rarity": "Rare",
+      "cardNum": "52/165"
+    },
+    {
+      "name": "Meganium",
+      "set": "Expedition",
+      "img": "https://den-cards.pokellector.com/109/Meganium.EX.53.png",
+      "rarity": "Rare",
+      "cardNum": "53/165"
+    },
+    {
+      "name": "Meganium",
+      "set": "Expedition",
+      "img": "https://den-cards.pokellector.com/109/Meganium.EX.54.6603.png",
+      "rarity": "Rare",
+      "cardNum": "54/165"
+    },
+    {
+      "name": "Mew",
+      "set": "Expedition",
+      "img": "https://den-cards.pokellector.com/109/Mew.EX.55.6604.png",
+      "rarity": "Rare",
+      "cardNum": "55/165"
+    },
+    {
+      "name": "Mewtwo",
+      "set": "Expedition",
+      "img": "https://den-cards.pokellector.com/109/Mewtwo.EX.56.png",
+      "rarity": "Rare",
+      "cardNum": "56/165"
+    },
+    {
+      "name": "Ninetales",
+      "set": "Expedition",
+      "img": "https://den-cards.pokellector.com/109/Ninetales.EX.57.6606.png",
+      "rarity": "Rare",
+      "cardNum": "57/165"
+    },
+    {
+      "name": "Pichu",
+      "set": "Expedition",
+      "img": "https://den-cards.pokellector.com/109/Pichu.EX.58.6607.png",
+      "rarity": "Rare",
+      "cardNum": "58/165"
+    },
+    {
+      "name": "Pidgeot",
+      "set": "Expedition",
+      "img": "https://den-cards.pokellector.com/109/Pidgeot.EX.59.png",
+      "rarity": "Rare",
+      "cardNum": "59/165"
+    },
+    {
+      "name": "Poliwrath",
+      "set": "Expedition",
+      "img": "https://den-cards.pokellector.com/109/Poliwrath.EX.60.6609.png",
+      "rarity": "Rare",
+      "cardNum": "60/165"
+    },
+    {
+      "name": "Raichu",
+      "set": "Expedition",
+      "img": "https://den-cards.pokellector.com/109/Raichu.EX.61.png",
+      "rarity": "Rare",
+      "cardNum": "61/165"
+    },
+    {
+      "name": "Rapidash",
+      "set": "Expedition",
+      "img": "https://den-cards.pokellector.com/109/Rapidash.EX.62.6611.png",
+      "rarity": "Rare",
+      "cardNum": "62/165"
+    },
+    {
+      "name": "Skarmory",
+      "set": "Expedition",
+      "img": "https://den-cards.pokellector.com/109/Skarmory.EX.63.6612.png",
+      "rarity": "Rare",
+      "cardNum": "63/165"
+    },
+    {
+      "name": "Typhlosion",
+      "set": "Expedition",
+      "img": "https://den-cards.pokellector.com/109/Typhlosion.EX.64.6613.png",
+      "rarity": "Rare",
+      "cardNum": "64/165"
+    },
+    {
+      "name": "Typhlosion",
+      "set": "Expedition",
+      "img": "https://den-cards.pokellector.com/109/Typhlosion.EX.65.6614.png",
+      "rarity": "Rare",
+      "cardNum": "65/165"
+    },
+    {
+      "name": "Tyranitar",
+      "set": "Expedition",
+      "img": "https://den-cards.pokellector.com/109/Tyranitar.EX.66.png",
+      "rarity": "Rare",
+      "cardNum": "66/165"
+    },
+    {
+      "name": "Venusaur",
+      "set": "Expedition",
+      "img": "https://den-cards.pokellector.com/109/Venusaur.EX.67.6616.png",
+      "rarity": "Rare",
+      "cardNum": "67/165"
+    },
+    {
+      "name": "Venusaur",
+      "set": "Expedition",
+      "img": "https://den-cards.pokellector.com/109/Venusaur.EX.68.png",
+      "rarity": "Rare",
+      "cardNum": "68/165"
+    },
+    {
+      "name": "Vileplume",
+      "set": "Expedition",
+      "img": "https://den-cards.pokellector.com/109/Vileplume.EX.69.png",
+      "rarity": "Rare",
+      "cardNum": "69/165"
+    },
+    {
+      "name": "Weezing",
+      "set": "Expedition",
+      "img": "https://den-cards.pokellector.com/109/Weezing.EX.70.6619.png",
+      "rarity": "Rare",
+      "cardNum": "70/165"
+    },
+    {
+      "name": "Bayleef",
+      "set": "Expedition",
+      "img": "https://den-cards.pokellector.com/109/Bayleef.EX.71.6620.png",
+      "rarity": "Uncommon",
+      "cardNum": "71/165"
+    },
+    {
+      "name": "Chansey",
+      "set": "Expedition",
+      "img": "https://den-cards.pokellector.com/109/Chansey.EX.72.png",
+      "rarity": "Uncommon",
+      "cardNum": "72/165"
+    },
+    {
+      "name": "Charmeleon",
+      "set": "Expedition",
+      "img": "https://den-cards.pokellector.com/109/Charmeleon.EX.73.png",
+      "rarity": "Uncommon",
+      "cardNum": "73/165"
+    },
+    {
+      "name": "Croconaw",
+      "set": "Expedition",
+      "img": "https://den-cards.pokellector.com/109/Croconaw.EX.74.6623.png",
+      "rarity": "Uncommon",
+      "cardNum": "74/165"
+    },
+    {
+      "name": "Dragonair",
+      "set": "Expedition",
+      "img": "https://den-cards.pokellector.com/109/Dragonair.EX.75.6624.png",
+      "rarity": "Uncommon",
+      "cardNum": "75/165"
+    },
+    {
+      "name": "Electabuzz",
+      "set": "Expedition",
+      "img": "https://den-cards.pokellector.com/109/Electabuzz.EX.76.png",
+      "rarity": "Uncommon",
+      "cardNum": "76/165"
+    },
+    {
+      "name": "Flaaffy",
+      "set": "Expedition",
+      "img": "https://den-cards.pokellector.com/109/Flaaffy.EX.77.png",
+      "rarity": "Uncommon",
+      "cardNum": "77/165"
+    },
+    {
+      "name": "Gloom",
+      "set": "Expedition",
+      "img": "https://den-cards.pokellector.com/109/Gloom.EX.78.png",
+      "rarity": "Uncommon",
+      "cardNum": "78/165"
+    },
+    {
+      "name": "Graveler",
+      "set": "Expedition",
+      "img": "https://den-cards.pokellector.com/109/Graveler.EX.79.6628.png",
+      "rarity": "Uncommon",
+      "cardNum": "79/165"
+    },
+    {
+      "name": "Haunter",
+      "set": "Expedition",
+      "img": "https://den-cards.pokellector.com/109/Haunter.EX.80.png",
+      "rarity": "Uncommon",
+      "cardNum": "80/165"
+    },
+    {
+      "name": "Hitmonlee",
+      "set": "Expedition",
+      "img": "https://den-cards.pokellector.com/109/Hitmonlee.EX.81.6630.png",
+      "rarity": "Uncommon",
+      "cardNum": "81/165"
+    },
+    {
+      "name": "Ivysaur",
+      "set": "Expedition",
+      "img": "https://den-cards.pokellector.com/109/Ivysaur.EX.82.png",
+      "rarity": "Uncommon",
+      "cardNum": "82/165"
+    },
+    {
+      "name": "Jynx",
+      "set": "Expedition",
+      "img": "https://den-cards.pokellector.com/109/Jynx.EX.83.6632.png",
+      "rarity": "Uncommon",
+      "cardNum": "83/165"
+    },
+    {
+      "name": "Kadabra",
+      "set": "Expedition",
+      "img": "https://den-cards.pokellector.com/109/Kadabra.EX.84.png",
+      "rarity": "Uncommon",
+      "cardNum": "84/165"
+    },
+    {
+      "name": "Machoke",
+      "set": "Expedition",
+      "img": "https://den-cards.pokellector.com/109/Machoke.EX.85.6634.png",
+      "rarity": "Uncommon",
+      "cardNum": "85/165"
+    },
+    {
+      "name": "Magmar",
+      "set": "Expedition",
+      "img": "https://den-cards.pokellector.com/109/Magmar.EX.86.6635.png",
+      "rarity": "Uncommon",
+      "cardNum": "86/165"
+    },
+    {
+      "name": "Metapod",
+      "set": "Expedition",
+      "img": "https://den-cards.pokellector.com/109/Metapod.EX.87.6636.png",
+      "rarity": "Uncommon",
+      "cardNum": "87/165"
+    },
+    {
+      "name": "Pidgeotto",
+      "set": "Expedition",
+      "img": "https://den-cards.pokellector.com/109/Pidgeotto.EX.88.png",
+      "rarity": "Uncommon",
+      "cardNum": "88/165"
+    },
+    {
+      "name": "Poliwhirl",
+      "set": "Expedition",
+      "img": "https://den-cards.pokellector.com/109/Poliwhirl.EX.89.png",
+      "rarity": "Uncommon",
+      "cardNum": "89/165"
+    },
+    {
+      "name": "Pupitar",
+      "set": "Expedition",
+      "img": "https://den-cards.pokellector.com/109/Pupitar.EX.90.6639.png",
+      "rarity": "Uncommon",
+      "cardNum": "90/165"
+    },
+    {
+      "name": "Quilava",
+      "set": "Expedition",
+      "img": "https://den-cards.pokellector.com/109/Quilava.EX.91.6640.png",
+      "rarity": "Uncommon",
+      "cardNum": "91/165"
+    },
+    {
+      "name": "Wartortle",
+      "set": "Expedition",
+      "img": "https://den-cards.pokellector.com/109/Wartortle.EX.92.png",
+      "rarity": "Uncommon",
+      "cardNum": "92/165"
+    },
+    {
+      "name": "Abra",
+      "set": "Expedition",
+      "img": "https://den-cards.pokellector.com/109/Abra.EX.93.png",
+      "rarity": "Common",
+      "cardNum": "93/165"
+    },
+    {
+      "name": "Bulbasaur",
+      "set": "Expedition",
+      "img": "https://den-cards.pokellector.com/109/Bulbasaur.EX.94.png",
+      "rarity": "Common",
+      "cardNum": "94/165"
+    },
+    {
+      "name": "Bulbasaur",
+      "set": "Expedition",
+      "img": "https://den-cards.pokellector.com/109/Bulbasaur.EX.95.6644.png",
+      "rarity": "Common",
+      "cardNum": "95/165"
+    },
+    {
+      "name": "Caterpie",
+      "set": "Expedition",
+      "img": "https://den-cards.pokellector.com/109/Caterpie.EX.96.png",
+      "rarity": "Common",
+      "cardNum": "96/165"
+    },
+    {
+      "name": "Charmander",
+      "set": "Expedition",
+      "img": "https://den-cards.pokellector.com/109/Charmander.EX.97.png",
+      "rarity": "Common",
+      "cardNum": "97/165"
+    },
+    {
+      "name": "Charmander",
+      "set": "Expedition",
+      "img": "https://den-cards.pokellector.com/109/Charmander.EX.98.png",
+      "rarity": "Common",
+      "cardNum": "98/165"
+    },
+    {
+      "name": "Chikorita",
+      "set": "Expedition",
+      "img": "https://den-cards.pokellector.com/109/Chikorita.EX.99.6648.png",
+      "rarity": "Common",
+      "cardNum": "99/165"
+    },
+    {
+      "name": "Chikorita",
+      "set": "Expedition",
+      "img": "https://den-cards.pokellector.com/109/Chikorita.EX.100.6649.png",
+      "rarity": "Common",
+      "cardNum": "100/165"
+    },
+    {
+      "name": "Clefairy",
+      "set": "Expedition",
+      "img": "https://den-cards.pokellector.com/109/Clefairy.EX.101.6650.png",
+      "rarity": "Common",
+      "cardNum": "101/165"
+    },
+    {
+      "name": "Corsola",
+      "set": "Expedition",
+      "img": "https://den-cards.pokellector.com/109/Corsola.EX.102.png",
+      "rarity": "Common",
+      "cardNum": "102/165"
+    },
+    {
+      "name": "Cubone",
+      "set": "Expedition",
+      "img": "https://den-cards.pokellector.com/109/Cubone.EX.103.6652.png",
+      "rarity": "Common",
+      "cardNum": "103/165"
+    },
+    {
+      "name": "Cyndaquil",
+      "set": "Expedition",
+      "img": "https://den-cards.pokellector.com/109/Cyndaquil.EX.104.6653.png",
+      "rarity": "Common",
+      "cardNum": "104/165"
+    },
+    {
+      "name": "Cyndaquil",
+      "set": "Expedition",
+      "img": "https://den-cards.pokellector.com/109/Cyndaquil.EX.105.6654.png",
+      "rarity": "Common",
+      "cardNum": "105/165"
+    },
+    {
+      "name": "Diglett",
+      "set": "Expedition",
+      "img": "https://den-cards.pokellector.com/109/Diglett.EX.106.6655.png",
+      "rarity": "Common",
+      "cardNum": "106/165"
+    },
+    {
+      "name": "Dratini",
+      "set": "Expedition",
+      "img": "https://den-cards.pokellector.com/109/Dratini.EX.107.png",
+      "rarity": "Common",
+      "cardNum": "107/165"
+    },
+    {
+      "name": "Ekans",
+      "set": "Expedition",
+      "img": "https://den-cards.pokellector.com/109/Ekans.EX.108.6657.png",
+      "rarity": "Common",
+      "cardNum": "108/165"
+    },
+    {
+      "name": "Gastly",
+      "set": "Expedition",
+      "img": "https://den-cards.pokellector.com/109/Gastly.EX.109.png",
+      "rarity": "Common",
+      "cardNum": "109/165"
+    },
+    {
+      "name": "Geodude",
+      "set": "Expedition",
+      "img": "https://den-cards.pokellector.com/109/Geodude.EX.110.png",
+      "rarity": "Common",
+      "cardNum": "110/165"
+    },
+    {
+      "name": "Goldeen",
+      "set": "Expedition",
+      "img": "https://den-cards.pokellector.com/109/Goldeen.EX.111.6660.png",
+      "rarity": "Common",
+      "cardNum": "111/165"
+    },
+    {
+      "name": "Hoppip",
+      "set": "Expedition",
+      "img": "https://den-cards.pokellector.com/109/Hoppip.EX.112.png",
+      "rarity": "Common",
+      "cardNum": "112/165"
+    },
+    {
+      "name": "Houndour",
+      "set": "Expedition",
+      "img": "https://den-cards.pokellector.com/109/Houndour.EX.113.png",
+      "rarity": "Common",
+      "cardNum": "113/165"
+    },
+    {
+      "name": "Koffing",
+      "set": "Expedition",
+      "img": "https://den-cards.pokellector.com/109/Koffing.EX.114.png",
+      "rarity": "Common",
+      "cardNum": "114/165"
+    },
+    {
+      "name": "Krabby",
+      "set": "Expedition",
+      "img": "https://den-cards.pokellector.com/109/Krabby.EX.115.png",
+      "rarity": "Common",
+      "cardNum": "115/165"
+    },
+    {
+      "name": "Larvitar",
+      "set": "Expedition",
+      "img": "https://den-cards.pokellector.com/109/Larvitar.EX.116.6665.png",
+      "rarity": "Common",
+      "cardNum": "116/165"
+    },
+    {
+      "name": "Machop",
+      "set": "Expedition",
+      "img": "https://den-cards.pokellector.com/109/Machop.EX.117.6666.png",
+      "rarity": "Common",
+      "cardNum": "117/165"
+    },
+    {
+      "name": "Magikarp",
+      "set": "Expedition",
+      "img": "https://den-cards.pokellector.com/109/Magikarp.EX.118.6667.png",
+      "rarity": "Common",
+      "cardNum": "118/165"
+    },
+    {
+      "name": "Mareep",
+      "set": "Expedition",
+      "img": "https://den-cards.pokellector.com/109/Mareep.EX.119.png",
+      "rarity": "Common",
+      "cardNum": "119/165"
+    },
+    {
+      "name": "Marill",
+      "set": "Expedition",
+      "img": "https://den-cards.pokellector.com/109/Marill.EX.120.png",
+      "rarity": "Common",
+      "cardNum": "120/165"
+    },
+    {
+      "name": "Meowth",
+      "set": "Expedition",
+      "img": "https://den-cards.pokellector.com/109/Meowth.EX.121.png",
+      "rarity": "Common",
+      "cardNum": "121/165"
+    },
+    {
+      "name": "Oddish",
+      "set": "Expedition",
+      "img": "https://den-cards.pokellector.com/109/Oddish.EX.122.png",
+      "rarity": "Common",
+      "cardNum": "122/165"
+    },
+    {
+      "name": "Pidgey",
+      "set": "Expedition",
+      "img": "https://den-cards.pokellector.com/109/Pidgey.EX.123.png",
+      "rarity": "Common",
+      "cardNum": "123/165"
+    },
+    {
+      "name": "Pikachu",
+      "set": "Expedition",
+      "img": "https://den-cards.pokellector.com/109/Pikachu.EX.124.png",
+      "rarity": "Common",
+      "cardNum": "124/165"
+    },
+    {
+      "name": "Poliwag",
+      "set": "Expedition",
+      "img": "https://den-cards.pokellector.com/109/Poliwag.EX.125.6674.png",
+      "rarity": "Common",
+      "cardNum": "125/165"
+    },
+    {
+      "name": "Ponyta",
+      "set": "Expedition",
+      "img": "https://den-cards.pokellector.com/109/Ponyta.EX.126.6675.png",
+      "rarity": "Common",
+      "cardNum": "126/165"
+    },
+    {
+      "name": "Qwilfish",
+      "set": "Expedition",
+      "img": "https://den-cards.pokellector.com/109/Qwilfish.EX.127.6676.png",
+      "rarity": "Common",
+      "cardNum": "127/165"
+    },
+    {
+      "name": "Rattata",
+      "set": "Expedition",
+      "img": "https://den-cards.pokellector.com/109/Rattata.EX.128.png",
+      "rarity": "Common",
+      "cardNum": "128/165"
+    },
+    {
+      "name": "Shellder",
+      "set": "Expedition",
+      "img": "https://den-cards.pokellector.com/109/Shellder.EX.129.6678.png",
+      "rarity": "Common",
+      "cardNum": "129/165"
+    },
+    {
+      "name": "Spearow",
+      "set": "Expedition",
+      "img": "https://den-cards.pokellector.com/109/Spearow.EX.130.6679.png",
+      "rarity": "Common",
+      "cardNum": "130/165"
+    },
+    {
+      "name": "Squirtle",
+      "set": "Expedition",
+      "img": "https://den-cards.pokellector.com/109/Squirtle.EX.131.png",
+      "rarity": "Common",
+      "cardNum": "131/165"
+    },
+    {
+      "name": "Squirtle",
+      "set": "Expedition",
+      "img": "https://den-cards.pokellector.com/109/Squirtle.EX.132.png",
+      "rarity": "Common",
+      "cardNum": "132/165"
+    },
+    {
+      "name": "Tauros",
+      "set": "Expedition",
+      "img": "https://den-cards.pokellector.com/109/Tauros.EX.133.6682.png",
+      "rarity": "Common",
+      "cardNum": "133/165"
+    },
+    {
+      "name": "Totodile",
+      "set": "Expedition",
+      "img": "https://den-cards.pokellector.com/109/Totodile.EX.134.png",
+      "rarity": "Common",
+      "cardNum": "134/165"
+    },
+    {
+      "name": "Totodile",
+      "set": "Expedition",
+      "img": "https://den-cards.pokellector.com/109/Totodile.EX.135.6684.png",
+      "rarity": "Common",
+      "cardNum": "135/165"
+    },
+    {
+      "name": "Vulpix",
+      "set": "Expedition",
+      "img": "https://den-cards.pokellector.com/109/Vulpix.EX.136.6685.png",
+      "rarity": "Common",
+      "cardNum": "136/165"
+    },
+    {
+      "name": "Bill's Maintenance",
+      "set": "Expedition",
+      "img": "https://den-cards.pokellector.com/109/Bills-Maintenance.EX.137.png",
+      "rarity": "Uncommon",
+      "cardNum": "137/165"
+    },
+    {
+      "name": "Copycat",
+      "set": "Expedition",
+      "img": "https://den-cards.pokellector.com/109/Copycat.EX.138.png",
+      "rarity": "Uncommon",
+      "cardNum": "138/165"
+    },
+    {
+      "name": "Dual Ball",
+      "set": "Expedition",
+      "img": "https://den-cards.pokellector.com/109/Dual-Ball.EX.139.6688.png",
+      "rarity": "Uncommon",
+      "cardNum": "139/165"
+    },
+    {
+      "name": "Energy Removal 2",
+      "set": "Expedition",
+      "img": "https://den-cards.pokellector.com/109/Energy-Removal-2.EX.140.6689.png",
+      "rarity": "Uncommon",
+      "cardNum": "140/165"
+    },
+    {
+      "name": "Energy Restore",
+      "set": "Expedition",
+      "img": "https://den-cards.pokellector.com/109/Energy-Restore.EX.141.png",
+      "rarity": "Uncommon",
+      "cardNum": "141/165"
+    },
+    {
+      "name": "Mary's Impulse",
+      "set": "Expedition",
+      "img": "https://den-cards.pokellector.com/109/Marys-Impulse.EX.142.6691.png",
+      "rarity": "Uncommon",
+      "cardNum": "142/165"
+    },
+    {
+      "name": "Master Ball",
+      "set": "Expedition",
+      "img": "https://den-cards.pokellector.com/109/Master-Ball.EX.143.6692.png",
+      "rarity": "Uncommon",
+      "cardNum": "143/165"
+    },
+    {
+      "name": "Multi Technical Machine 01",
+      "set": "Expedition",
+      "img": "https://den-cards.pokellector.com/109/Multi-Technical-Machine-01.EX.144.6693.png",
+      "rarity": "Uncommon",
+      "cardNum": "144/165"
+    },
+    {
+      "name": "Pokemon Nurse",
+      "set": "Expedition",
+      "img": "https://den-cards.pokellector.com/109/Pokemon-Nurse.EX.145.png",
+      "rarity": "Uncommon",
+      "cardNum": "145/165"
+    },
+    {
+      "name": "Pokemon Reversal",
+      "set": "Expedition",
+      "img": "https://den-cards.pokellector.com/109/Pokemon-Reversal.EX.146.png",
+      "rarity": "Uncommon",
+      "cardNum": "146/165"
+    },
+    {
+      "name": "Power Charge",
+      "set": "Expedition",
+      "img": "https://den-cards.pokellector.com/109/Power-Charge.EX.147.png",
+      "rarity": "Uncommon",
+      "cardNum": "147/165"
+    },
+    {
+      "name": "Professor Elm's Training Method",
+      "set": "Expedition",
+      "img": "https://den-cards.pokellector.com/109/Professor-Elms-Training-Method.EX.148.png",
+      "rarity": "Uncommon",
+      "cardNum": "148/165"
+    },
+    {
+      "name": "Professor Oak's Research",
+      "set": "Expedition",
+      "img": "https://den-cards.pokellector.com/109/Professor-Oaks-Research.EX.149.6698.png",
+      "rarity": "Uncommon",
+      "cardNum": "149/165"
+    },
+    {
+      "name": "Strength Charm",
+      "set": "Expedition",
+      "img": "https://den-cards.pokellector.com/109/Strength-Charm.EX.150.png",
+      "rarity": "Uncommon",
+      "cardNum": "150/165"
+    },
+    {
+      "name": "Super Scoop Up",
+      "set": "Expedition",
+      "img": "https://den-cards.pokellector.com/109/Super-Scoop-Up.EX.151.png",
+      "rarity": "Uncommon",
+      "cardNum": "151/165"
+    },
+    {
+      "name": "Warp Point",
+      "set": "Expedition",
+      "img": "https://den-cards.pokellector.com/109/Warp-Point.EX.152.png",
+      "rarity": "Uncommon",
+      "cardNum": "152/165"
+    },
+    {
+      "name": "Energy Search",
+      "set": "Expedition",
+      "img": "https://den-cards.pokellector.com/109/Energy-Search.EX.153.png",
+      "rarity": "Common",
+      "cardNum": "153/165"
+    },
+    {
+      "name": "Full Heal",
+      "set": "Expedition",
+      "img": "https://den-cards.pokellector.com/109/Full-Heal.EX.154.png",
+      "rarity": "Common",
+      "cardNum": "154/165"
+    },
+    {
+      "name": "Moo-Moo Milk",
+      "set": "Expedition",
+      "img": "https://den-cards.pokellector.com/109/Moo-Moo-Milk.EX.155.png",
+      "rarity": "Common",
+      "cardNum": "155/165"
+    },
+    {
+      "name": "Potion",
+      "set": "Expedition",
+      "img": "https://den-cards.pokellector.com/109/Potion.EX.156.png",
+      "rarity": "Common",
+      "cardNum": "156/165"
+    },
+    {
+      "name": "Switch",
+      "set": "Expedition",
+      "img": "https://den-cards.pokellector.com/109/Switch.EX.157.6706.png",
+      "rarity": "Common",
+      "cardNum": "157/165"
+    },
+    {
+      "name": "Darkness Energy",
+      "set": "Expedition",
+      "img": "https://den-cards.pokellector.com/109/Darkness-Energy.EX.158.6707.png",
+      "rarity": "Rare",
+      "cardNum": "158/165"
+    },
+    {
+      "name": "Metal Energy",
+      "set": "Expedition",
+      "img": "https://den-cards.pokellector.com/109/Metal-Energy.EX.159.png",
+      "rarity": "Rare",
+      "cardNum": "159/165"
+    },
+    {
+      "name": "Fighting Energy",
+      "set": "Expedition",
+      "img": "https://den-cards.pokellector.com/109/Fighting-Energy.EX.160.png",
+      "rarity": "Common",
+      "cardNum": "160/165"
+    },
+    {
+      "name": "Fire Energy",
+      "set": "Expedition",
+      "img": "https://den-cards.pokellector.com/109/Fire-Energy.EX.161.png",
+      "rarity": "Common",
+      "cardNum": "161/165"
+    },
+    {
+      "name": "Grass Energy",
+      "set": "Expedition",
+      "img": "https://den-cards.pokellector.com/109/Grass-Energy.EX.162.png",
+      "rarity": "Common",
+      "cardNum": "162/165"
+    },
+    {
+      "name": "Lightning Energy",
+      "set": "Expedition",
+      "img": "https://den-cards.pokellector.com/109/Lightning-Energy.EX.163.png",
+      "rarity": "Common",
+      "cardNum": "163/165"
+    },
+    {
+      "name": "Psychic Energy",
+      "set": "Expedition",
+      "img": "https://den-cards.pokellector.com/109/Psychic-Energy.EX.164.png",
+      "rarity": "Common",
+      "cardNum": "164/165"
+    },
+    {
+      "name": "Water Energy",
+      "set": "Expedition",
+      "img": "https://den-cards.pokellector.com/109/Water-Energy.EX.165.png",
+      "rarity": "Common",
+      "cardNum": "165/165"
+    }
+  ]
+}

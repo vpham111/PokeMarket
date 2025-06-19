@@ -1,0 +1,194 @@
+{
+  "setName": "Premium Trainer Box",
+  "cards": [
+    {
+      "name": "Nest Ball",
+      "set": "Premium Trainer Box",
+      "img": "https://den-cards.pokellector.com/213/Nest-Ball.SMB.1.13840.png",
+      "rarity": "Common",
+      "cardNum": "1/18"
+    },
+    {
+      "name": "Ultra Ball",
+      "set": "Premium Trainer Box",
+      "img": "https://den-cards.pokellector.com/213/Ultra-Ball.SMB.2.13841.png",
+      "rarity": "Common",
+      "cardNum": "2/18"
+    },
+    {
+      "name": "Rare Candy",
+      "set": "Premium Trainer Box",
+      "img": "https://den-cards.pokellector.com/213/Rare-Candy.SMB.3.13498.png",
+      "rarity": "Common",
+      "cardNum": "3/18"
+    },
+    {
+      "name": "Professor Kukui",
+      "set": "Premium Trainer Box",
+      "img": "https://den-cards.pokellector.com/213/Professor-Kukui.SMB.4.13838.png",
+      "rarity": "Common",
+      "cardNum": "4/18"
+    },
+    {
+      "name": "Lillie",
+      "set": "Premium Trainer Box",
+      "img": "https://den-cards.pokellector.com/213/Lillie.SMB.5.13839.png",
+      "rarity": "Common",
+      "cardNum": "5/18"
+    },
+    {
+      "name": "Double Dragon Energy",
+      "set": "Premium Trainer Box",
+      "img": "https://den-cards.pokellector.com/213/Double-Dragon-Energy.SMB.6.13852.png",
+      "rarity": "Common",
+      "cardNum": "6/18"
+    },
+    {
+      "name": "Professor's Letter",
+      "set": "Premium Trainer Box",
+      "img": "https://den-cards.pokellector.com/213/Professors-Letter.SMB.7.13856.png",
+      "rarity": "Common",
+      "cardNum": "7/18"
+    },
+    {
+      "name": "VS Seeker",
+      "set": "Premium Trainer Box",
+      "img": "https://den-cards.pokellector.com/213/VS-Seeker.SMB.8.13855.png",
+      "rarity": "Common",
+      "cardNum": "8/18"
+    },
+    {
+      "name": "Max Elixir",
+      "set": "Premium Trainer Box",
+      "img": "https://den-cards.pokellector.com/213/Max-Elixir.SMB.9.13862.png",
+      "rarity": "Common",
+      "cardNum": "9/18"
+    },
+    {
+      "name": "Fighting Fury Belt",
+      "set": "Premium Trainer Box",
+      "img": "https://den-cards.pokellector.com/213/Fighting-Fury-Belt.SMB.10.13854.png",
+      "rarity": "Common",
+      "cardNum": "10/18"
+    },
+    {
+      "name": "N",
+      "set": "Premium Trainer Box",
+      "img": "https://den-cards.pokellector.com/213/N.SMB.11.13860.png",
+      "rarity": "Common",
+      "cardNum": "11/18"
+    },
+    {
+      "name": "Skyla",
+      "set": "Premium Trainer Box",
+      "img": "https://den-cards.pokellector.com/213/Skyla.SMB.12.13858.png",
+      "rarity": "Common",
+      "cardNum": "12/18"
+    },
+    {
+      "name": "Professor Sycamore",
+      "set": "Premium Trainer Box",
+      "img": "https://den-cards.pokellector.com/213/Professor-Sycamore.SMB.13.13859.png",
+      "rarity": "Common",
+      "cardNum": "13/18"
+    },
+    {
+      "name": "Lysandre",
+      "set": "Premium Trainer Box",
+      "img": "https://den-cards.pokellector.com/213/Lysandre.SMB.14.13857.png",
+      "rarity": "Common",
+      "cardNum": "14/18"
+    },
+    {
+      "name": "Rough Seas",
+      "set": "Premium Trainer Box",
+      "img": "https://den-cards.pokellector.com/213/Rough-Seas.SMB.15.13863.png",
+      "rarity": "Common",
+      "cardNum": "15/18"
+    },
+    {
+      "name": "Forest of Giant Plants",
+      "set": "Premium Trainer Box",
+      "img": "https://den-cards.pokellector.com/213/Forest-of-Giant-Plants.SMB.16.13853.png",
+      "rarity": "Common",
+      "cardNum": "16/18"
+    },
+    {
+      "name": "Strong Energy",
+      "set": "Premium Trainer Box",
+      "img": "https://den-cards.pokellector.com/213/Strong-Energy.SMB.17.13864.png",
+      "rarity": "Common",
+      "cardNum": "17/18"
+    },
+    {
+      "name": "Mystery Energy",
+      "set": "Premium Trainer Box",
+      "img": "https://den-cards.pokellector.com/213/Mystery-Energy.SMB.18.13865.png",
+      "rarity": "Common",
+      "cardNum": "18/18"
+    },
+    {
+      "name": "Dark Energy",
+      "set": "Premium Trainer Box",
+      "img": "https://den-cards.pokellector.com/213/Dark-Energy.SMB.DAR0.13849.png",
+      "rarity": "Common",
+      "cardNum": "DAR"
+    },
+    {
+      "name": "Fairy Energy",
+      "set": "Premium Trainer Box",
+      "img": "https://den-cards.pokellector.com/213/Fairy-Energy.SMB.FAI0.13851.png",
+      "rarity": "Common",
+      "cardNum": "FAI"
+    },
+    {
+      "name": "Fighting Energy",
+      "set": "Premium Trainer Box",
+      "img": "https://den-cards.pokellector.com/213/Fighting-Energy.SMB.FIG0.13848.png",
+      "rarity": "Common",
+      "cardNum": "FIG"
+    },
+    {
+      "name": "Fire Energy",
+      "set": "Premium Trainer Box",
+      "img": "https://den-cards.pokellector.com/213/Fire-Energy.SMB.FIR0.13843.png",
+      "rarity": "Common",
+      "cardNum": "FIR"
+    },
+    {
+      "name": "Grass Energy",
+      "set": "Premium Trainer Box",
+      "img": "https://den-cards.pokellector.com/213/Grass-Energy.SMB.GRA0.13842.png",
+      "rarity": "Common",
+      "cardNum": "GRA"
+    },
+    {
+      "name": "Electric Energy",
+      "set": "Premium Trainer Box",
+      "img": "https://den-cards.pokellector.com/213/Electric-Energy.SMB.LIG0.13846.png",
+      "rarity": "Common",
+      "cardNum": "LIG"
+    },
+    {
+      "name": "Steel Energy",
+      "set": "Premium Trainer Box",
+      "img": "https://den-cards.pokellector.com/213/Steel-Energy.SMB.MET0.13850.png",
+      "rarity": "Common",
+      "cardNum": "MET"
+    },
+    {
+      "name": "Psychic Energy",
+      "set": "Premium Trainer Box",
+      "img": "https://den-cards.pokellector.com/213/Psychic-Energy.SMB.PSY0.13847.png",
+      "rarity": "Common",
+      "cardNum": "PSY"
+    },
+    {
+      "name": "Water Energy",
+      "set": "Premium Trainer Box",
+      "img": "https://den-cards.pokellector.com/213/Water-Energy.SMB.WAT0.13844.png",
+      "rarity": "Common",
+      "cardNum": "WAT"
+    }
+  ]
+}

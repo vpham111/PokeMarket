@@ -1,0 +1,488 @@
+{
+  "setName": "GG End",
+  "cards": [
+    {
+      "name": "Karrablast",
+      "set": "GG End",
+      "img": "https://den-cards.pokellector.com/267/Karrablast.SM10A.1.27498.png",
+      "rarity": "Common",
+      "cardNum": "1/54"
+    },
+    {
+      "name": "Magmar",
+      "set": "GG End",
+      "img": "https://den-cards.pokellector.com/267/Magmar.SM10A.2.27499.png",
+      "rarity": "Common",
+      "cardNum": "2/54"
+    },
+    {
+      "name": "Magmortar",
+      "set": "GG End",
+      "img": "https://den-cards.pokellector.com/267/Magmortar.SM10A.3.27500.png",
+      "rarity": "Uncommon",
+      "cardNum": "3/54"
+    },
+    {
+      "name": "Heatran GX",
+      "set": "GG End",
+      "img": "https://den-cards.pokellector.com/267/Heatran-GX.SM10A.4.27211.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "4/54"
+    },
+    {
+      "name": "Litwick",
+      "set": "GG End",
+      "img": "https://den-cards.pokellector.com/267/Litwick.SM10A.5.27501.png",
+      "rarity": "Common",
+      "cardNum": "5/54"
+    },
+    {
+      "name": "Lampent",
+      "set": "GG End",
+      "img": "https://den-cards.pokellector.com/267/Lampent.SM10A.6.27502.png",
+      "rarity": "Common",
+      "cardNum": "6/54"
+    },
+    {
+      "name": "Chandelure",
+      "set": "GG End",
+      "img": "https://den-cards.pokellector.com/267/Chandelure.SM10A.7.27361.png",
+      "rarity": "Rare",
+      "cardNum": "7/54"
+    },
+    {
+      "name": "Raichu & Alolan Raichu GX",
+      "set": "GG End",
+      "img": "https://den-cards.pokellector.com/267/Raichu-Alolan-Raichu-GX.SM10A.8.27344.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "8/54"
+    },
+    {
+      "name": "Pikachu",
+      "set": "GG End",
+      "img": "https://den-cards.pokellector.com/267/Pikachu.SM10A.9.27503.png",
+      "rarity": "Common",
+      "cardNum": "9/54"
+    },
+    {
+      "name": "Alolan Raichu",
+      "set": "GG End",
+      "img": "https://den-cards.pokellector.com/267/Alolan-Raichu.SM10A.10.27346.png",
+      "rarity": "Rare",
+      "cardNum": "10/54"
+    },
+    {
+      "name": "Stunfisk",
+      "set": "GG End",
+      "img": "https://den-cards.pokellector.com/267/Stunfisk.SM10A.11.27504.png",
+      "rarity": "Common",
+      "cardNum": "11/54"
+    },
+    {
+      "name": "Thundurus",
+      "set": "GG End",
+      "img": "https://den-cards.pokellector.com/267/Thundurus.SM10A.12.27505.png",
+      "rarity": "Common",
+      "cardNum": "12/54"
+    },
+    {
+      "name": "Alolan Marowak",
+      "set": "GG End",
+      "img": "https://den-cards.pokellector.com/267/Alolan-Marowak.SM10A.13.27347.png",
+      "rarity": "Uncommon",
+      "cardNum": "13/54"
+    },
+    {
+      "name": "Drifloon",
+      "set": "GG End",
+      "img": "https://den-cards.pokellector.com/267/Drifloon.SM10A.14.27506.png",
+      "rarity": "Common",
+      "cardNum": "14/54"
+    },
+    {
+      "name": "Drifblim",
+      "set": "GG End",
+      "img": "https://den-cards.pokellector.com/267/Drifblim.SM10A.15.27345.png",
+      "rarity": "Uncommon",
+      "cardNum": "15/54"
+    },
+    {
+      "name": "Giratina",
+      "set": "GG End",
+      "img": "https://den-cards.pokellector.com/267/Giratina.SM10A.16.27357.png",
+      "rarity": "Rare",
+      "cardNum": "16/54"
+    },
+    {
+      "name": "Munna",
+      "set": "GG End",
+      "img": "https://den-cards.pokellector.com/267/Munna.SM10A.17.27507.png",
+      "rarity": "Common",
+      "cardNum": "17/54"
+    },
+    {
+      "name": "Musharna",
+      "set": "GG End",
+      "img": "https://den-cards.pokellector.com/267/Musharna.SM10A.18.27508.png",
+      "rarity": "Common",
+      "cardNum": "18/54"
+    },
+    {
+      "name": "Cubone",
+      "set": "GG End",
+      "img": "https://den-cards.pokellector.com/267/Cubone.SM10A.19.27509.png",
+      "rarity": "Common",
+      "cardNum": "19/54"
+    },
+    {
+      "name": "Meditite",
+      "set": "GG End",
+      "img": "https://den-cards.pokellector.com/267/Meditite.SM10A.20.27510.png",
+      "rarity": "Common",
+      "cardNum": "20/54"
+    },
+    {
+      "name": "Medicham",
+      "set": "GG End",
+      "img": "https://den-cards.pokellector.com/267/Medicham.SM10A.21.27511.png",
+      "rarity": "Uncommon",
+      "cardNum": "21/54"
+    },
+    {
+      "name": "Gible",
+      "set": "GG End",
+      "img": "https://den-cards.pokellector.com/267/Gible.SM10A.22.27512.png",
+      "rarity": "Common",
+      "cardNum": "22/54"
+    },
+    {
+      "name": "Gabite",
+      "set": "GG End",
+      "img": "https://den-cards.pokellector.com/267/Gabite.SM10A.23.27513.png",
+      "rarity": "Common",
+      "cardNum": "23/54"
+    },
+    {
+      "name": "Garchomp",
+      "set": "GG End",
+      "img": "https://den-cards.pokellector.com/267/Garchomp.SM10A.24.27360.png",
+      "rarity": "Rare",
+      "cardNum": "24/54"
+    },
+    {
+      "name": "Riolu",
+      "set": "GG End",
+      "img": "https://den-cards.pokellector.com/267/Riolu.SM10A.25.27514.png",
+      "rarity": "Common",
+      "cardNum": "25/54"
+    },
+    {
+      "name": "Lucario",
+      "set": "GG End",
+      "img": "https://den-cards.pokellector.com/267/Lucario.SM10A.26.27350.png",
+      "rarity": "Uncommon",
+      "cardNum": "26/54"
+    },
+    {
+      "name": "Meloetta",
+      "set": "GG End",
+      "img": "https://den-cards.pokellector.com/267/Meloetta.SM10A.27.27351.png",
+      "rarity": "Uncommon",
+      "cardNum": "27/54"
+    },
+    {
+      "name": "Zygarde",
+      "set": "GG End",
+      "img": "https://den-cards.pokellector.com/267/Zygarde.SM10A.28.27353.png",
+      "rarity": "Uncommon",
+      "cardNum": "28/54"
+    },
+    {
+      "name": "Hoopa",
+      "set": "GG End",
+      "img": "https://den-cards.pokellector.com/267/Hoopa.SM10A.29.27358.png",
+      "rarity": "Rare",
+      "cardNum": "29/54"
+    },
+    {
+      "name": "Mawile GX",
+      "set": "GG End",
+      "img": "https://den-cards.pokellector.com/267/Mawile-GX.SM10A.30.27355.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "30/54"
+    },
+    {
+      "name": "Escavalier",
+      "set": "GG End",
+      "img": "https://den-cards.pokellector.com/267/Escavalier.SM10A.31.27359.png",
+      "rarity": "Uncommon",
+      "cardNum": "31/54"
+    },
+    {
+      "name": "Garchomp  & Giratina GX",
+      "set": "GG End",
+      "img": "https://den-cards.pokellector.com/267/Garchomp-Giratina-GX.SM10A.32.27210.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "32/54"
+    },
+    {
+      "name": "Latias",
+      "set": "GG End",
+      "img": "https://den-cards.pokellector.com/267/Latias.SM10A.33.27515.png",
+      "rarity": "Uncommon",
+      "cardNum": "33/54"
+    },
+    {
+      "name": "Axew",
+      "set": "GG End",
+      "img": "https://den-cards.pokellector.com/267/Axew.SM10A.34.27516.png",
+      "rarity": "Common",
+      "cardNum": "34/54"
+    },
+    {
+      "name": "Fraxure",
+      "set": "GG End",
+      "img": "https://den-cards.pokellector.com/267/Fraxure.SM10A.35.27517.png",
+      "rarity": "Common",
+      "cardNum": "35/54"
+    },
+    {
+      "name": "Haxorus",
+      "set": "GG End",
+      "img": "https://den-cards.pokellector.com/267/Haxorus.SM10A.36.27518.png",
+      "rarity": "Rare",
+      "cardNum": "36/54"
+    },
+    {
+      "name": "Kangaskhan",
+      "set": "GG End",
+      "img": "https://den-cards.pokellector.com/267/Kangaskhan.SM10A.37.27349.png",
+      "rarity": "Rare",
+      "cardNum": "37/54"
+    },
+    {
+      "name": "Bidoof",
+      "set": "GG End",
+      "img": "https://den-cards.pokellector.com/267/Bidoof.SM10A.38.27519.png",
+      "rarity": "Common",
+      "cardNum": "38/54"
+    },
+    {
+      "name": "Bibarel",
+      "set": "GG End",
+      "img": "https://den-cards.pokellector.com/267/Bibarel.SM10A.39.27520.png",
+      "rarity": "Common",
+      "cardNum": "39/54"
+    },
+    {
+      "name": "Munchlax",
+      "set": "GG End",
+      "img": "https://den-cards.pokellector.com/267/Munchlax.SM10A.40.27356.png",
+      "rarity": "Common",
+      "cardNum": "40/54"
+    },
+    {
+      "name": "Pidove",
+      "set": "GG End",
+      "img": "https://den-cards.pokellector.com/267/Pidove.SM10A.41.27521.png",
+      "rarity": "Common",
+      "cardNum": "41/54"
+    },
+    {
+      "name": "Tranquill",
+      "set": "GG End",
+      "img": "https://den-cards.pokellector.com/267/Tranquill.SM10A.42.27522.png",
+      "rarity": "Common",
+      "cardNum": "42/54"
+    },
+    {
+      "name": "Unfezant",
+      "set": "GG End",
+      "img": "https://den-cards.pokellector.com/267/Unfezant.SM10A.43.27523.png",
+      "rarity": "Uncommon",
+      "cardNum": "43/54"
+    },
+    {
+      "name": "Tornadus",
+      "set": "GG End",
+      "img": "https://den-cards.pokellector.com/267/Tornadus.SM10A.44.27524.png",
+      "rarity": "Common",
+      "cardNum": "44/54"
+    },
+    {
+      "name": "Tag Switch",
+      "set": "GG End",
+      "img": "https://den-cards.pokellector.com/267/Tag-Switch.SM10A.45.27352.png",
+      "rarity": "Uncommon",
+      "cardNum": "45/54"
+    },
+    {
+      "name": "Reset Stamp",
+      "set": "GG End",
+      "img": "https://den-cards.pokellector.com/267/Reset-Stamp.SM10A.46.27370.png",
+      "rarity": "Uncommon",
+      "cardNum": "46/54"
+    },
+    {
+      "name": "Black Belt",
+      "set": "GG End",
+      "img": "https://den-cards.pokellector.com/267/Black-Belt.SM10A.47.27348.png",
+      "rarity": "Uncommon",
+      "cardNum": "47/54"
+    },
+    {
+      "name": "Grimsley",
+      "set": "GG End",
+      "img": "https://den-cards.pokellector.com/267/Grimsley.SM10A.48.27213.png",
+      "rarity": "Uncommon",
+      "cardNum": "48/54"
+    },
+    {
+      "name": "Coach Trainer",
+      "set": "GG End",
+      "img": "https://den-cards.pokellector.com/267/Coach-Trainer.SM10A.49.27369.png",
+      "rarity": "Uncommon",
+      "cardNum": "49/54"
+    },
+    {
+      "name": "Huge Oven",
+      "set": "GG End",
+      "img": "https://den-cards.pokellector.com/267/Huge-Oven.SM10A.50.27212.png",
+      "rarity": "Uncommon",
+      "cardNum": "50/54"
+    },
+    {
+      "name": "Escape Rope",
+      "set": "GG End",
+      "img": "https://den-cards.pokellector.com/267/Escape-Rope.SM10A.51.27525.png",
+      "rarity": "Common",
+      "cardNum": "51/54"
+    },
+    {
+      "name": "Nest Ball",
+      "set": "GG End",
+      "img": "https://den-cards.pokellector.com/267/Nest-Ball.SM10A.52.27526.png",
+      "rarity": "Common",
+      "cardNum": "52/54"
+    },
+    {
+      "name": "Rotom Dex",
+      "set": "GG End",
+      "img": "https://den-cards.pokellector.com/267/Rotom-Dex.SM10A.53.27527.png",
+      "rarity": "Common",
+      "cardNum": "53/54"
+    },
+    {
+      "name": "Tate & Liza",
+      "set": "GG End",
+      "img": "https://den-cards.pokellector.com/267/Tate-ampamp-Liza.SM10A.54.27528.png",
+      "rarity": "Common",
+      "cardNum": "54/54"
+    },
+    {
+      "name": "Heatran GX",
+      "set": "GG End",
+      "img": "https://den-cards.pokellector.com/267/Heatran-GX.SM10A.55.27544.png",
+      "rarity": "Secret Rare",
+      "cardNum": "55/54"
+    },
+    {
+      "name": "Raichu & Alolan Raichu GX",
+      "set": "GG End",
+      "img": "https://den-cards.pokellector.com/267/Raichu-Alolan-Raichu-GX.SM10A.56.27539.png",
+      "rarity": "Secret Rare",
+      "cardNum": "56/54"
+    },
+    {
+      "name": "Raichu & Alolan Raichu GX",
+      "set": "GG End",
+      "img": "https://den-cards.pokellector.com/267/Raichu-Alolan-Raichu-GX.SM10A.57.27529.png",
+      "rarity": "Secret Rare",
+      "cardNum": "57/54"
+    },
+    {
+      "name": "Mawile GX",
+      "set": "GG End",
+      "img": "https://den-cards.pokellector.com/267/Mawile-GX.SM10A.58.27541.png",
+      "rarity": "Secret Rare",
+      "cardNum": "58/54"
+    },
+    {
+      "name": "Garchomp & Giratina GX",
+      "set": "GG End",
+      "img": "https://den-cards.pokellector.com/267/Garchomp-Giratina-GX.SM10A.59.27535.png",
+      "rarity": "Secret Rare",
+      "cardNum": "59/54"
+    },
+    {
+      "name": "Garchomp & Giratina GX",
+      "set": "GG End",
+      "img": "https://den-cards.pokellector.com/267/Gabite-Giratina-GX.SM10A.60.27533.png",
+      "rarity": "Secret Rare",
+      "cardNum": "60/54"
+    },
+    {
+      "name": "Grimsley",
+      "set": "GG End",
+      "img": "https://den-cards.pokellector.com/267/Grimsley.SM10A.61.27540.png",
+      "rarity": "Secret Rare",
+      "cardNum": "61/54"
+    },
+    {
+      "name": "Coach Trainer",
+      "set": "GG End",
+      "img": "https://den-cards.pokellector.com/267/Coach-Trainer.SM10A.62.27542.png",
+      "rarity": "Common",
+      "cardNum": "62/54"
+    },
+    {
+      "name": "Heatran GX",
+      "set": "GG End",
+      "img": "https://den-cards.pokellector.com/267/Heatran-GX.SM10A.63.27543.png",
+      "rarity": "Secret Rare",
+      "cardNum": "63/54"
+    },
+    {
+      "name": "Raichu & Alolan Raichu GX",
+      "set": "GG End",
+      "img": "https://den-cards.pokellector.com/267/Raichu-Alolan-Raichu-GX.SM10A.64.27538.png",
+      "rarity": "Secret Rare",
+      "cardNum": "64/54"
+    },
+    {
+      "name": "Mawile GX",
+      "set": "GG End",
+      "img": "https://den-cards.pokellector.com/267/Mawile-GX.SM10A.65.27545.png",
+      "rarity": "Secret Rare",
+      "cardNum": "65/54"
+    },
+    {
+      "name": "Garchomp & Giratina GX",
+      "set": "GG End",
+      "img": "https://den-cards.pokellector.com/267/Gabite-Giratina-GX.SM10A.66.27534.png",
+      "rarity": "Secret Rare",
+      "cardNum": "66/54"
+    },
+    {
+      "name": "Tag Switch",
+      "set": "GG End",
+      "img": "https://den-cards.pokellector.com/267/Tag-Switch.SM10A.67.27537.png",
+      "rarity": "Secret Rare",
+      "cardNum": "67/54"
+    },
+    {
+      "name": "Reset Stamp",
+      "set": "GG End",
+      "img": "https://den-cards.pokellector.com/267/Reset-Stamp.SM10A.68.27532.png",
+      "rarity": "Secret Rare",
+      "cardNum": "68/54"
+    },
+    {
+      "name": "Black Belt",
+      "set": "GG End",
+      "img": "https://den-cards.pokellector.com/267/Black-Belt.SM10A.69.27536.png",
+      "rarity": "Secret Rare",
+      "cardNum": "69/54"
+    }
+  ]
+}

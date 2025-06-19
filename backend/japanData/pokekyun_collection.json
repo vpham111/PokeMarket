@@ -1,0 +1,229 @@
+{
+  "setName": "Pokekyun Collection",
+  "cards": [
+    {
+      "name": "Chikorita",
+      "set": "Pokekyun Collection",
+      "img": "https://den-cards.pokellector.com/186/Chikorita.CP3.1.png",
+      "rarity": "Common",
+      "cardNum": "1/32"
+    },
+    {
+      "name": "Shroomish",
+      "set": "Pokekyun Collection",
+      "img": "https://den-cards.pokellector.com/186/Shroomish.CP3.2.png",
+      "rarity": "Common",
+      "cardNum": "2/32"
+    },
+    {
+      "name": "Charmander",
+      "set": "Pokekyun Collection",
+      "img": "https://den-cards.pokellector.com/186/Charmander.CP3.3.png",
+      "rarity": "Common",
+      "cardNum": "3/32"
+    },
+    {
+      "name": "Charmeleon",
+      "set": "Pokekyun Collection",
+      "img": "https://den-cards.pokellector.com/186/Charmeleon.CP3.4.png",
+      "rarity": "Common",
+      "cardNum": "4/32"
+    },
+    {
+      "name": "Charizard",
+      "set": "Pokekyun Collection",
+      "img": "https://den-cards.pokellector.com/186/Charizard.CP3.5.png",
+      "rarity": "Uncommon",
+      "cardNum": "5/32"
+    },
+    {
+      "name": "Flareon EX",
+      "set": "Pokekyun Collection",
+      "img": "https://den-cards.pokellector.com/186/Flareon-EX.CP3.6.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "6/32"
+    },
+    {
+      "name": "Flareon EX",
+      "set": "Pokekyun Collection",
+      "img": "https://den-cards.pokellector.com/186/Flareon-EX.CP3.7.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "7/32"
+    },
+    {
+      "name": "Snorunt",
+      "set": "Pokekyun Collection",
+      "img": "https://den-cards.pokellector.com/186/Snorunt.CP3.8.png",
+      "rarity": "Common",
+      "cardNum": "8/32"
+    },
+    {
+      "name": "Froslass",
+      "set": "Pokekyun Collection",
+      "img": "https://den-cards.pokellector.com/186/Froslass.CP3.9.png",
+      "rarity": "Uncommon",
+      "cardNum": "9/32"
+    },
+    {
+      "name": "Pikachu",
+      "set": "Pokekyun Collection",
+      "img": "https://den-cards.pokellector.com/186/Pikachu.CP3.10.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "10/32"
+    },
+    {
+      "name": "Raichu",
+      "set": "Pokekyun Collection",
+      "img": "https://den-cards.pokellector.com/186/Raichu.CP3.11.png",
+      "rarity": "Common",
+      "cardNum": "11/32"
+    },
+    {
+      "name": "Dedenne",
+      "set": "Pokekyun Collection",
+      "img": "https://den-cards.pokellector.com/186/Dedenne.CP3.12.png",
+      "rarity": "Uncommon",
+      "cardNum": "12/32"
+    },
+    {
+      "name": "Wobbuffet",
+      "set": "Pokekyun Collection",
+      "img": "https://den-cards.pokellector.com/186/Wobbuffet.CP3.13.png",
+      "rarity": "Common",
+      "cardNum": "13/32"
+    },
+    {
+      "name": "Gulpin",
+      "set": "Pokekyun Collection",
+      "img": "https://den-cards.pokellector.com/186/Gulpin.CP3.14.png",
+      "rarity": "Common",
+      "cardNum": "14/32"
+    },
+    {
+      "name": "Jirachi",
+      "set": "Pokekyun Collection",
+      "img": "https://den-cards.pokellector.com/186/Jirachi.CP3.15.png",
+      "rarity": "Uncommon",
+      "cardNum": "15/32"
+    },
+    {
+      "name": "Espurr",
+      "set": "Pokekyun Collection",
+      "img": "https://den-cards.pokellector.com/186/Espurr.CP3.16.png",
+      "rarity": "Common",
+      "cardNum": "16/32"
+    },
+    {
+      "name": "Meowstic",
+      "set": "Pokekyun Collection",
+      "img": "https://den-cards.pokellector.com/186/Meowstic.CP3.17.png",
+      "rarity": "Uncommon",
+      "cardNum": "17/32"
+    },
+    {
+      "name": "Yveltal",
+      "set": "Pokekyun Collection",
+      "img": "https://den-cards.pokellector.com/186/Yveltal.CP3.18.png",
+      "rarity": "Uncommon",
+      "cardNum": "18/32"
+    },
+    {
+      "name": "Gardevoir EX",
+      "set": "Pokekyun Collection",
+      "img": "https://den-cards.pokellector.com/186/Gardevoir-EX.CP3.19.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "19/32"
+    },
+    {
+      "name": "M Gardevoir EX",
+      "set": "Pokekyun Collection",
+      "img": "https://den-cards.pokellector.com/186/M-Gardevoir-EX.CP3.20.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "20/32"
+    },
+    {
+      "name": "Flabebe",
+      "set": "Pokekyun Collection",
+      "img": "https://den-cards.pokellector.com/186/Flabebe.CP3.21.png",
+      "rarity": "Common",
+      "cardNum": "21/32"
+    },
+    {
+      "name": "Floette",
+      "set": "Pokekyun Collection",
+      "img": "https://den-cards.pokellector.com/186/Floette.CP3.22.png",
+      "rarity": "Uncommon",
+      "cardNum": "22/32"
+    },
+    {
+      "name": "Swirlix",
+      "set": "Pokekyun Collection",
+      "img": "https://den-cards.pokellector.com/186/Swirlix.CP3.23.png",
+      "rarity": "Uncommon",
+      "cardNum": "23/32"
+    },
+    {
+      "name": "Slurpuff",
+      "set": "Pokekyun Collection",
+      "img": "https://den-cards.pokellector.com/186/Slurpuff.CP3.24.png",
+      "rarity": "Uncommon",
+      "cardNum": "24/32"
+    },
+    {
+      "name": "Sylveon EX",
+      "set": "Pokekyun Collection",
+      "img": "https://den-cards.pokellector.com/186/Sylveon-EX.CP3.25.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "25/32"
+    },
+    {
+      "name": "Sylveon EX",
+      "set": "Pokekyun Collection",
+      "img": "https://den-cards.pokellector.com/186/Sylveon-EX.CP3.26.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "26/32"
+    },
+    {
+      "name": "Diancie",
+      "set": "Pokekyun Collection",
+      "img": "https://den-cards.pokellector.com/186/Diancie.CP3.27.png",
+      "rarity": "Uncommon",
+      "cardNum": "27/32"
+    },
+    {
+      "name": "Swablu",
+      "set": "Pokekyun Collection",
+      "img": "https://den-cards.pokellector.com/186/Swablu.CP3.28.png",
+      "rarity": "Common",
+      "cardNum": "28/32"
+    },
+    {
+      "name": "Altaria",
+      "set": "Pokekyun Collection",
+      "img": "https://den-cards.pokellector.com/186/Altaria.CP3.29.png",
+      "rarity": "Uncommon",
+      "cardNum": "29/32"
+    },
+    {
+      "name": "Fletchling",
+      "set": "Pokekyun Collection",
+      "img": "https://den-cards.pokellector.com/186/Fletchling.CP3.30.png",
+      "rarity": "Common",
+      "cardNum": "30/32"
+    },
+    {
+      "name": "Crown of Flowers",
+      "set": "Pokekyun Collection",
+      "img": "https://den-cards.pokellector.com/186/Crown-of-Flowers.CP3.31.png",
+      "rarity": "Common",
+      "cardNum": "31/32"
+    },
+    {
+      "name": "Wally",
+      "set": "Pokekyun Collection",
+      "img": "https://den-cards.pokellector.com/186/Wally.CP3.32.png",
+      "rarity": "Uncommon",
+      "cardNum": "32/32"
+    }
+  ]
+}

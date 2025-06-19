@@ -1,0 +1,642 @@
+{
+  "setName": "Rapid Strike Master",
+  "cards": [
+    {
+      "name": "Bellsprout",
+      "set": "Rapid Strike Master",
+      "img": "https://den-cards.pokellector.com/307/Bellsprout.S5R.1.36816.png",
+      "rarity": "Common",
+      "cardNum": "1/70"
+    },
+    {
+      "name": "Weepinbell",
+      "set": "Rapid Strike Master",
+      "img": "https://den-cards.pokellector.com/307/Weepinbell.S5R.2.36817.png",
+      "rarity": "Common",
+      "cardNum": "2/70"
+    },
+    {
+      "name": "Victreebell",
+      "set": "Rapid Strike Master",
+      "img": "https://den-cards.pokellector.com/307/Victreebell.S5R.3.36818.png",
+      "rarity": "Common",
+      "cardNum": "3/70"
+    },
+    {
+      "name": "Kricketune V",
+      "set": "Rapid Strike Master",
+      "img": "https://den-cards.pokellector.com/307/Kricketune-V.S5R.4.36724.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "4/70"
+    },
+    {
+      "name": "Cherubi",
+      "set": "Rapid Strike Master",
+      "img": "https://den-cards.pokellector.com/307/Cherubi.S5R.5.36819.png",
+      "rarity": "Common",
+      "cardNum": "5/70"
+    },
+    {
+      "name": "Cherrim",
+      "set": "Rapid Strike Master",
+      "img": "https://den-cards.pokellector.com/307/Cherrim.S5R.6.36725.png",
+      "rarity": "Rare",
+      "cardNum": "6/70"
+    },
+    {
+      "name": "Carnivine",
+      "set": "Rapid Strike Master",
+      "img": "https://den-cards.pokellector.com/307/Carnivine.S5R.7.36820.png",
+      "rarity": "Common",
+      "cardNum": "7/70"
+    },
+    {
+      "name": "Fomantis",
+      "set": "Rapid Strike Master",
+      "img": "https://den-cards.pokellector.com/307/Fomantis.S5R.8.36821.png",
+      "rarity": "Common",
+      "cardNum": "8/70"
+    },
+    {
+      "name": "Lurantis",
+      "set": "Rapid Strike Master",
+      "img": "https://den-cards.pokellector.com/307/Lurantis.S5R.9.36822.png",
+      "rarity": "Uncommon",
+      "cardNum": "9/70"
+    },
+    {
+      "name": "Tapu Bulu",
+      "set": "Rapid Strike Master",
+      "img": "https://den-cards.pokellector.com/307/Tapu-Bulu.S5R.10.36823.png",
+      "rarity": "Rare",
+      "cardNum": "10/70"
+    },
+    {
+      "name": "Blipbug",
+      "set": "Rapid Strike Master",
+      "img": "https://den-cards.pokellector.com/307/Blipbug.S5R.11.36824.png",
+      "rarity": "Common",
+      "cardNum": "11/70"
+    },
+    {
+      "name": "Victini V",
+      "set": "Rapid Strike Master",
+      "img": "https://den-cards.pokellector.com/307/Victini-V.S5R.12.36723.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "12/70"
+    },
+    {
+      "name": "Victini VMAX",
+      "set": "Rapid Strike Master",
+      "img": "https://den-cards.pokellector.com/307/Victini-VMAX.S5R.13.36722.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "13/70"
+    },
+    {
+      "name": "Heatmor",
+      "set": "Rapid Strike Master",
+      "img": "https://den-cards.pokellector.com/307/Heatmor.S5R.14.36825.png",
+      "rarity": "Common",
+      "cardNum": "14/70"
+    },
+    {
+      "name": "Sizzlipede",
+      "set": "Rapid Strike Master",
+      "img": "https://den-cards.pokellector.com/307/Sizzlipede.S5R.15.36826.png",
+      "rarity": "Common",
+      "cardNum": "15/70"
+    },
+    {
+      "name": "Centiskorch",
+      "set": "Rapid Strike Master",
+      "img": "https://den-cards.pokellector.com/307/Centiskorch.S5R.16.36827.png",
+      "rarity": "Uncommon",
+      "cardNum": "16/70"
+    },
+    {
+      "name": "Horsea",
+      "set": "Rapid Strike Master",
+      "img": "https://den-cards.pokellector.com/307/Horsea.S5R.17.36828.png",
+      "rarity": "Common",
+      "cardNum": "17/70"
+    },
+    {
+      "name": "Seadra",
+      "set": "Rapid Strike Master",
+      "img": "https://den-cards.pokellector.com/307/Seadra.S5R.18.36829.png",
+      "rarity": "Uncommon",
+      "cardNum": "18/70"
+    },
+    {
+      "name": "Kingdra",
+      "set": "Rapid Strike Master",
+      "img": "https://den-cards.pokellector.com/307/Kingdra.S5R.19.36830.png",
+      "rarity": "Rare",
+      "cardNum": "19/70"
+    },
+    {
+      "name": "Galarian Mr. Mime",
+      "set": "Rapid Strike Master",
+      "img": "https://den-cards.pokellector.com/307/Galarian-Mr-Mime.S5R.20.36831.png",
+      "rarity": "Common",
+      "cardNum": "20/70"
+    },
+    {
+      "name": "Galarian Mr. Rime",
+      "set": "Rapid Strike Master",
+      "img": "https://den-cards.pokellector.com/307/Galarian-Mr-Rime.S5R.21.36832.png",
+      "rarity": "Uncommon",
+      "cardNum": "21/70"
+    },
+    {
+      "name": "Remoraid",
+      "set": "Rapid Strike Master",
+      "img": "https://den-cards.pokellector.com/307/Remoraid.S5R.22.36833.png",
+      "rarity": "Common",
+      "cardNum": "22/70"
+    },
+    {
+      "name": "Octillery",
+      "set": "Rapid Strike Master",
+      "img": "https://den-cards.pokellector.com/307/Octillery.S5R.23.36675.png",
+      "rarity": "Rare",
+      "cardNum": "23/70"
+    },
+    {
+      "name": "Corphish",
+      "set": "Rapid Strike Master",
+      "img": "https://den-cards.pokellector.com/307/Corphish.S5R.24.36834.png",
+      "rarity": "Common",
+      "cardNum": "24/70"
+    },
+    {
+      "name": "Crawdaunt",
+      "set": "Rapid Strike Master",
+      "img": "https://den-cards.pokellector.com/307/Crawdaunt.S5R.25.36835.png",
+      "rarity": "Common",
+      "cardNum": "25/70"
+    },
+    {
+      "name": "Empoleon V",
+      "set": "Rapid Strike Master",
+      "img": "https://den-cards.pokellector.com/307/Empoleon-V.S5R.26.36674.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "26/70"
+    },
+    {
+      "name": "Frillish",
+      "set": "Rapid Strike Master",
+      "img": "https://den-cards.pokellector.com/307/Frillish.S5R.27.36836.png",
+      "rarity": "Common",
+      "cardNum": "27/70"
+    },
+    {
+      "name": "Jellicent",
+      "set": "Rapid Strike Master",
+      "img": "https://den-cards.pokellector.com/307/Jellicent.S5R.28.36837.png",
+      "rarity": "Uncommon",
+      "cardNum": "28/70"
+    },
+    {
+      "name": "Bruxish",
+      "set": "Rapid Strike Master",
+      "img": "https://den-cards.pokellector.com/307/Bruxish.S5R.29.36838.png",
+      "rarity": "Common",
+      "cardNum": "29/70"
+    },
+    {
+      "name": "Shinx",
+      "set": "Rapid Strike Master",
+      "img": "https://den-cards.pokellector.com/307/Shinx.S5R.30.36839.png",
+      "rarity": "Common",
+      "cardNum": "30/70"
+    },
+    {
+      "name": "Luxio",
+      "set": "Rapid Strike Master",
+      "img": "https://den-cards.pokellector.com/307/Luxio.S5R.31.36840.png",
+      "rarity": "Uncommon",
+      "cardNum": "31/70"
+    },
+    {
+      "name": "Luxray",
+      "set": "Rapid Strike Master",
+      "img": "https://den-cards.pokellector.com/307/Luxray.S5R.32.36841.png",
+      "rarity": "Rare",
+      "cardNum": "32/70"
+    },
+    {
+      "name": "Pachirisu",
+      "set": "Rapid Strike Master",
+      "img": "https://den-cards.pokellector.com/307/Pachirisu.S5R.33.36842.png",
+      "rarity": "Common",
+      "cardNum": "33/70"
+    },
+    {
+      "name": "Baltoy",
+      "set": "Rapid Strike Master",
+      "img": "https://den-cards.pokellector.com/307/Baltoy.S5R.34.36843.png",
+      "rarity": "Common",
+      "cardNum": "34/70"
+    },
+    {
+      "name": "Claydol",
+      "set": "Rapid Strike Master",
+      "img": "https://den-cards.pokellector.com/307/Claydol.S5R.35.36844.png",
+      "rarity": "Uncommon",
+      "cardNum": "35/70"
+    },
+    {
+      "name": "Necrozma V",
+      "set": "Rapid Strike Master",
+      "img": "https://den-cards.pokellector.com/307/Necrozma-V.S5R.36.36845.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "36/70"
+    },
+    {
+      "name": "Dottler",
+      "set": "Rapid Strike Master",
+      "img": "https://den-cards.pokellector.com/307/Dottler.S5R.37.36846.png",
+      "rarity": "Uncommon",
+      "cardNum": "37/70"
+    },
+    {
+      "name": "Orbeetle",
+      "set": "Rapid Strike Master",
+      "img": "https://den-cards.pokellector.com/307/Orbeetle.S5R.38.36847.png",
+      "rarity": "Rare",
+      "cardNum": "38/70"
+    },
+    {
+      "name": "Onix",
+      "set": "Rapid Strike Master",
+      "img": "https://den-cards.pokellector.com/307/Onix.S5R.39.36848.png",
+      "rarity": "Common",
+      "cardNum": "39/70"
+    },
+    {
+      "name": "Cubone",
+      "set": "Rapid Strike Master",
+      "img": "https://den-cards.pokellector.com/307/Cubone.S5R.40.36849.png",
+      "rarity": "Common",
+      "cardNum": "40/70"
+    },
+    {
+      "name": "Marowak",
+      "set": "Rapid Strike Master",
+      "img": "https://den-cards.pokellector.com/307/Marowak.S5R.41.36850.png",
+      "rarity": "Uncommon",
+      "cardNum": "41/70"
+    },
+    {
+      "name": "Timburr",
+      "set": "Rapid Strike Master",
+      "img": "https://den-cards.pokellector.com/307/Timburr.S5R.42.36851.png",
+      "rarity": "Common",
+      "cardNum": "42/70"
+    },
+    {
+      "name": "Gurdurr",
+      "set": "Rapid Strike Master",
+      "img": "https://den-cards.pokellector.com/307/Gurdurr.S5R.43.36852.png",
+      "rarity": "Common",
+      "cardNum": "43/70"
+    },
+    {
+      "name": "Conkeldurr",
+      "set": "Rapid Strike Master",
+      "img": "https://den-cards.pokellector.com/307/Conkeldurr.S5R.44.36853.png",
+      "rarity": "Uncommon",
+      "cardNum": "44/70"
+    },
+    {
+      "name": "Mienfoo",
+      "set": "Rapid Strike Master",
+      "img": "https://den-cards.pokellector.com/307/Mienfoo.S5R.45.36854.png",
+      "rarity": "Common",
+      "cardNum": "45/70"
+    },
+    {
+      "name": "Mienshao",
+      "set": "Rapid Strike Master",
+      "img": "https://den-cards.pokellector.com/307/Mienshao.S5R.46.36676.png",
+      "rarity": "Uncommon",
+      "cardNum": "46/70"
+    },
+    {
+      "name": "Silicobra",
+      "set": "Rapid Strike Master",
+      "img": "https://den-cards.pokellector.com/307/Silicobra.S5R.47.36855.png",
+      "rarity": "Common",
+      "cardNum": "47/70"
+    },
+    {
+      "name": "Sandaconda",
+      "set": "Rapid Strike Master",
+      "img": "https://den-cards.pokellector.com/307/Sandaconda.S5R.48.36856.png",
+      "rarity": "Rare",
+      "cardNum": "48/70"
+    },
+    {
+      "name": "Falinks",
+      "set": "Rapid Strike Master",
+      "img": "https://den-cards.pokellector.com/307/Falinks.S5R.49.36857.png",
+      "rarity": "Uncommon",
+      "cardNum": "49/70"
+    },
+    {
+      "name": "Rapid Strike Urshifu V",
+      "set": "Rapid Strike Master",
+      "img": "https://den-cards.pokellector.com/307/Rapid-Strike-Urshifu-V.S5R.50.36673.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "50/70"
+    },
+    {
+      "name": "Rapid Strike Urshifu VMAX",
+      "set": "Rapid Strike Master",
+      "img": "https://den-cards.pokellector.com/307/Rapid-Strike-Urshifu-VMAX.S5R.51.36672.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "51/70"
+    },
+    {
+      "name": "Steelix",
+      "set": "Rapid Strike Master",
+      "img": "https://den-cards.pokellector.com/307/Steelix.S5R.52.36858.png",
+      "rarity": "Rare",
+      "cardNum": "52/70"
+    },
+    {
+      "name": "Pawniard",
+      "set": "Rapid Strike Master",
+      "img": "https://den-cards.pokellector.com/307/Pawniard.S5R.53.36859.png",
+      "rarity": "Common",
+      "cardNum": "53/70"
+    },
+    {
+      "name": "Bisharp",
+      "set": "Rapid Strike Master",
+      "img": "https://den-cards.pokellector.com/307/Bisharp.S5R.54.36860.png",
+      "rarity": "Common",
+      "cardNum": "54/70"
+    },
+    {
+      "name": "Corviknight V",
+      "set": "Rapid Strike Master",
+      "img": "https://den-cards.pokellector.com/307/Corviknight-V.S5R.55.36861.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "55/70"
+    },
+    {
+      "name": "Corviknight VMAX",
+      "set": "Rapid Strike Master",
+      "img": "https://den-cards.pokellector.com/307/Corviknight-VMAX.S5R.56.36862.png",
+      "rarity": "Common",
+      "cardNum": "56/70"
+    },
+    {
+      "name": "Glameow",
+      "set": "Rapid Strike Master",
+      "img": "https://den-cards.pokellector.com/307/Glameow.S5R.57.36863.png",
+      "rarity": "Common",
+      "cardNum": "57/70"
+    },
+    {
+      "name": "Purugly",
+      "set": "Rapid Strike Master",
+      "img": "https://den-cards.pokellector.com/307/Purugly.S5R.58.36864.png",
+      "rarity": "Common",
+      "cardNum": "58/70"
+    },
+    {
+      "name": "Bouffalant",
+      "set": "Rapid Strike Master",
+      "img": "https://den-cards.pokellector.com/307/Bouffalant.S5R.59.36865.png",
+      "rarity": "Common",
+      "cardNum": "59/70"
+    },
+    {
+      "name": "Indeedee",
+      "set": "Rapid Strike Master",
+      "img": "https://den-cards.pokellector.com/307/Indeedee.S5R.60.36866.png",
+      "rarity": "Common",
+      "cardNum": "60/70"
+    },
+    {
+      "name": "Billowing Fan",
+      "set": "Rapid Strike Master",
+      "img": "https://den-cards.pokellector.com/307/Billowing-Fan.S5R.61.36679.png",
+      "rarity": "Uncommon",
+      "cardNum": "61/70"
+    },
+    {
+      "name": "Energy Recycler",
+      "set": "Rapid Strike Master",
+      "img": "https://den-cards.pokellector.com/307/Energy-Recycler.S5R.62.36867.png",
+      "rarity": "Uncommon",
+      "cardNum": "62/70"
+    },
+    {
+      "name": "Level Ball",
+      "set": "Rapid Strike Master",
+      "img": "https://den-cards.pokellector.com/307/Level-Ball.S5R.63.36868.png",
+      "rarity": "Uncommon",
+      "cardNum": "63/70"
+    },
+    {
+      "name": "Tool Jammer",
+      "set": "Rapid Strike Master",
+      "img": "https://den-cards.pokellector.com/307/Tool-Jammer.S5R.64.36727.png",
+      "rarity": "Uncommon",
+      "cardNum": "64/70"
+    },
+    {
+      "name": "Rapid Strike Scroll: Whirlpool Scroll",
+      "set": "Rapid Strike Master",
+      "img": "https://den-cards.pokellector.com/307/Rapid-Strike-Scroll-Whirlpool-Scroll.S5R.65.36680.png",
+      "rarity": "Uncommon",
+      "cardNum": "65/70"
+    },
+    {
+      "name": "Korrina's Focus",
+      "set": "Rapid Strike Master",
+      "img": "https://den-cards.pokellector.com/307/Korrinas-Willpower.S5R.66.36869.png",
+      "rarity": "Uncommon",
+      "cardNum": "66/70"
+    },
+    {
+      "name": "Mustard Rapid Strike Stance",
+      "set": "Rapid Strike Master",
+      "img": "https://den-cards.pokellector.com/307/Mustard-Rapid-Strike-Stance.S5R.67.36678.png",
+      "rarity": "Uncommon",
+      "cardNum": "67/70"
+    },
+    {
+      "name": "Cheryl",
+      "set": "Rapid Strike Master",
+      "img": "https://den-cards.pokellector.com/307/Cheryl.S5R.68.36726.png",
+      "rarity": "Uncommon",
+      "cardNum": "68/70"
+    },
+    {
+      "name": "Tower of Waters",
+      "set": "Rapid Strike Master",
+      "img": "https://den-cards.pokellector.com/307/Tower-of-Waters.S5R.69.36681.png",
+      "rarity": "Uncommon",
+      "cardNum": "69/70"
+    },
+    {
+      "name": "Rapid Strike Energy",
+      "set": "Rapid Strike Master",
+      "img": "https://den-cards.pokellector.com/307/Rapid-Strike-Energy.S5R.70.36677.png",
+      "rarity": "Uncommon",
+      "cardNum": "70/70"
+    },
+    {
+      "name": "Kricketune V",
+      "set": "Rapid Strike Master",
+      "img": "https://den-cards.pokellector.com/307/Kricketune-V.S5R.71.36873.png",
+      "rarity": "Secret Rare",
+      "cardNum": "71/70"
+    },
+    {
+      "name": "Victini V",
+      "set": "Rapid Strike Master",
+      "img": "https://den-cards.pokellector.com/307/Victini-V.S5R.72.36874.png",
+      "rarity": "Secret Rare",
+      "cardNum": "72/70"
+    },
+    {
+      "name": "Empoleon V",
+      "set": "Rapid Strike Master",
+      "img": "https://den-cards.pokellector.com/307/Empoleon-V.S5R.73.36875.png",
+      "rarity": "Secret Rare",
+      "cardNum": "73/70"
+    },
+    {
+      "name": "Empoleon V",
+      "set": "Rapid Strike Master",
+      "img": "https://den-cards.pokellector.com/307/Empoleon-V.S5R.74.36761.png",
+      "rarity": "Secret Rare",
+      "cardNum": "74/70"
+    },
+    {
+      "name": "Necrozma V",
+      "set": "Rapid Strike Master",
+      "img": "https://den-cards.pokellector.com/307/Necrozma-V.S5R.75.36876.png",
+      "rarity": "Secret Rare",
+      "cardNum": "75/70"
+    },
+    {
+      "name": "Rapid Strike Urshifu V",
+      "set": "Rapid Strike Master",
+      "img": "https://den-cards.pokellector.com/307/Rapid-Strike-Urshifu-V.S5R.76.36877.png",
+      "rarity": "Secret Rare",
+      "cardNum": "76/70"
+    },
+    {
+      "name": "Rapid Strike Urshifu V",
+      "set": "Rapid Strike Master",
+      "img": "https://den-cards.pokellector.com/307/Rapid-Strike-Urshifu-V.S5R.77.36878.png",
+      "rarity": "Secret Rare",
+      "cardNum": "77/70"
+    },
+    {
+      "name": "Corviknight V",
+      "set": "Rapid Strike Master",
+      "img": "https://den-cards.pokellector.com/307/Corviknight-V.S5R.78.36879.png",
+      "rarity": "Secret Rare",
+      "cardNum": "78/70"
+    },
+    {
+      "name": "Korrina's Willpower",
+      "set": "Rapid Strike Master",
+      "img": "https://den-cards.pokellector.com/307/Korrinas-Willpower.S5R.79.36880.png",
+      "rarity": "Secret Rare",
+      "cardNum": "79/70"
+    },
+    {
+      "name": "Mustard Rapid Strike Style",
+      "set": "Rapid Strike Master",
+      "img": "https://den-cards.pokellector.com/307/Mustard-Rapid-Strike-Style.S5R.80.36881.png",
+      "rarity": "Secret Rare",
+      "cardNum": "80/70"
+    },
+    {
+      "name": "Cheryl",
+      "set": "Rapid Strike Master",
+      "img": "https://den-cards.pokellector.com/307/Cheryl.S5R.81.36882.png",
+      "rarity": "Secret Rare",
+      "cardNum": "81/70"
+    },
+    {
+      "name": "Victini VMAX",
+      "set": "Rapid Strike Master",
+      "img": "https://den-cards.pokellector.com/307/Victini-VMAX.S5R.82.36883.png",
+      "rarity": "Secret Rare",
+      "cardNum": "82/70"
+    },
+    {
+      "name": "Rapid Strike Urshifu VMAX",
+      "set": "Rapid Strike Master",
+      "img": "https://den-cards.pokellector.com/307/Rapid-Strike-Urshifu-VMAX.S5R.83.36884.png",
+      "rarity": "Secret Rare",
+      "cardNum": "83/70"
+    },
+    {
+      "name": "Rapid Strike Urshifu VMAX",
+      "set": "Rapid Strike Master",
+      "img": "https://den-cards.pokellector.com/307/Rapid-Strike-Urshifu-VMAX.S5R.84.36704.png",
+      "rarity": "Secret Rare",
+      "cardNum": "84/70"
+    },
+    {
+      "name": "Corviknight VMAX",
+      "set": "Rapid Strike Master",
+      "img": "https://den-cards.pokellector.com/307/Corviknight-VMAX.S5R.85.36885.png",
+      "rarity": "Secret Rare",
+      "cardNum": "85/70"
+    },
+    {
+      "name": "Korrina's Willpower",
+      "set": "Rapid Strike Master",
+      "img": "https://den-cards.pokellector.com/307/Korrinas-Willpower.S5R.86.36886.png",
+      "rarity": "Secret Rare",
+      "cardNum": "86/70"
+    },
+    {
+      "name": "Mustard Rapid Strike Style",
+      "set": "Rapid Strike Master",
+      "img": "https://den-cards.pokellector.com/307/Mustard-Rapid-Strike-Style.S5R.87.36887.png",
+      "rarity": "Secret Rare",
+      "cardNum": "87/70"
+    },
+    {
+      "name": "Cheryl",
+      "set": "Rapid Strike Master",
+      "img": "https://den-cards.pokellector.com/307/Cheryl.S5R.88.36888.png",
+      "rarity": "Secret Rare",
+      "cardNum": "88/70"
+    },
+    {
+      "name": "Octillery",
+      "set": "Rapid Strike Master",
+      "img": "https://den-cards.pokellector.com/307/Octillery.S5R.89.36889.png",
+      "rarity": "Secret Rare",
+      "cardNum": "89/70"
+    },
+    {
+      "name": "Level Ball",
+      "set": "Rapid Strike Master",
+      "img": "https://den-cards.pokellector.com/307/Level-Ball.S5R.90.36890.png",
+      "rarity": "Secret Rare",
+      "cardNum": "90/70"
+    },
+    {
+      "name": "Rapid Strike Energy",
+      "set": "Rapid Strike Master",
+      "img": "https://den-cards.pokellector.com/307/Rapid-Strike-Energy.S5R.91.36891.png",
+      "rarity": "Secret Rare",
+      "cardNum": "91/70"
+    }
+  ]
+}

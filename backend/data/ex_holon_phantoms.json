@@ -1,0 +1,782 @@
+{
+  "setName": "EX Holon Phantoms",
+  "cards": [
+    {
+      "name": "Armaldo  (delta species)",
+      "set": "EX Holon Phantoms",
+      "img": "https://den-cards.pokellector.com/64/Armaldo-.HP.1.png",
+      "rarity": "Rare",
+      "cardNum": "1/110"
+    },
+    {
+      "name": "Cradily  (delta species)",
+      "set": "EX Holon Phantoms",
+      "img": "https://den-cards.pokellector.com/64/Cradily-delta-species.HP.2.png",
+      "rarity": "Rare",
+      "cardNum": "2/110"
+    },
+    {
+      "name": "Deoxys Î´ (Attack Forme)",
+      "set": "EX Holon Phantoms",
+      "img": "https://den-cards.pokellector.com/64/Deoxys-Attack-Forme.HP.3.png",
+      "rarity": "Rare",
+      "cardNum": "3/110"
+    },
+    {
+      "name": "Deoxys Î´ (Defense Forme)",
+      "set": "EX Holon Phantoms",
+      "img": "https://den-cards.pokellector.com/64/Deoxys-Defense-Forme.HP.4.png",
+      "rarity": "Rare",
+      "cardNum": "4/110"
+    },
+    {
+      "name": "Deoxys Î´ (Normal Forme)",
+      "set": "EX Holon Phantoms",
+      "img": "https://den-cards.pokellector.com/64/Deoxys-Normal-Forme.HP.5.png",
+      "rarity": "Rare",
+      "cardNum": "5/110"
+    },
+    {
+      "name": "Deoxys Î´ (Speed Forme)",
+      "set": "EX Holon Phantoms",
+      "img": "https://den-cards.pokellector.com/64/Deoxys-Speed-Forme.HP.6.png",
+      "rarity": "Rare",
+      "cardNum": "6/110"
+    },
+    {
+      "name": "Flygon  (delta species)",
+      "set": "EX Holon Phantoms",
+      "img": "https://den-cards.pokellector.com/64/Flygon-delta-species.HP.7.png",
+      "rarity": "Rare",
+      "cardNum": "7/110"
+    },
+    {
+      "name": "Gyarados  (delta species)",
+      "set": "EX Holon Phantoms",
+      "img": "https://den-cards.pokellector.com/64/Gyarados-delta-species.HP.8.png",
+      "rarity": "Rare",
+      "cardNum": "8/110"
+    },
+    {
+      "name": "Kabutops  (delta species)",
+      "set": "EX Holon Phantoms",
+      "img": "https://den-cards.pokellector.com/64/Kabutops-.HP.9.png",
+      "rarity": "Rare",
+      "cardNum": "9/110"
+    },
+    {
+      "name": "Kingdra  (delta species)",
+      "set": "EX Holon Phantoms",
+      "img": "https://den-cards.pokellector.com/64/Kingdra-.HP.10.png",
+      "rarity": "Rare",
+      "cardNum": "10/110"
+    },
+    {
+      "name": "Latias  (delta species)",
+      "set": "EX Holon Phantoms",
+      "img": "https://den-cards.pokellector.com/64/Latias-.HP.11.png",
+      "rarity": "Rare",
+      "cardNum": "11/110"
+    },
+    {
+      "name": "Latios  (delta species)",
+      "set": "EX Holon Phantoms",
+      "img": "https://den-cards.pokellector.com/64/Latios-delta-species.HP.12.png",
+      "rarity": "Rare",
+      "cardNum": "12/110"
+    },
+    {
+      "name": "Omastar  (delta species)",
+      "set": "EX Holon Phantoms",
+      "img": "https://den-cards.pokellector.com/64/Omastar-delta-species.HP.13.png",
+      "rarity": "Rare",
+      "cardNum": "13/110"
+    },
+    {
+      "name": "Pidgeot  (delta species)",
+      "set": "EX Holon Phantoms",
+      "img": "https://den-cards.pokellector.com/64/Pidgeot-delta-species.HP.14.png",
+      "rarity": "Rare",
+      "cardNum": "14/110"
+    },
+    {
+      "name": "Raichu  (delta species)",
+      "set": "EX Holon Phantoms",
+      "img": "https://den-cards.pokellector.com/64/Raichu-delta-species.HP.15.png",
+      "rarity": "Rare",
+      "cardNum": "15/110"
+    },
+    {
+      "name": "Rayquaza  (delta species)",
+      "set": "EX Holon Phantoms",
+      "img": "https://den-cards.pokellector.com/64/Rayquaza-delta-species.HP.16.png",
+      "rarity": "Rare",
+      "cardNum": "16/110"
+    },
+    {
+      "name": "Vileplume  (delta species)",
+      "set": "EX Holon Phantoms",
+      "img": "https://den-cards.pokellector.com/64/Vileplume-delta-species.HP.17.png",
+      "rarity": "Rare",
+      "cardNum": "17/110"
+    },
+    {
+      "name": "Absol",
+      "set": "EX Holon Phantoms",
+      "img": "https://den-cards.pokellector.com/64/Absol.HP.18.png",
+      "rarity": "Rare",
+      "cardNum": "18/110"
+    },
+    {
+      "name": "Bellossom  (delta species)",
+      "set": "EX Holon Phantoms",
+      "img": "https://den-cards.pokellector.com/64/Bellossom-.HP.19.png",
+      "rarity": "Rare",
+      "cardNum": "19/110"
+    },
+    {
+      "name": "Blaziken",
+      "set": "EX Holon Phantoms",
+      "img": "https://den-cards.pokellector.com/64/Blaziken.HP.20.png",
+      "rarity": "Rare",
+      "cardNum": "20/110"
+    },
+    {
+      "name": "Latias  (delta species)",
+      "set": "EX Holon Phantoms",
+      "img": "https://den-cards.pokellector.com/64/Latias-delta-species.HP.21.png",
+      "rarity": "Rare",
+      "cardNum": "21/110"
+    },
+    {
+      "name": "Latios  (delta species)",
+      "set": "EX Holon Phantoms",
+      "img": "https://den-cards.pokellector.com/64/Latios-delta-species.HP.22.png",
+      "rarity": "Rare",
+      "cardNum": "22/110"
+    },
+    {
+      "name": "Mawile",
+      "set": "EX Holon Phantoms",
+      "img": "https://den-cards.pokellector.com/64/Mawile.HP.23.png",
+      "rarity": "Rare",
+      "cardNum": "23/110"
+    },
+    {
+      "name": "Mewtwo  (delta species)",
+      "set": "EX Holon Phantoms",
+      "img": "https://den-cards.pokellector.com/64/Mewtwo-.HP.24.png",
+      "rarity": "Rare",
+      "cardNum": "24/110"
+    },
+    {
+      "name": "Nosepass",
+      "set": "EX Holon Phantoms",
+      "img": "https://den-cards.pokellector.com/64/Nosepass.HP.25.png",
+      "rarity": "Rare",
+      "cardNum": "25/110"
+    },
+    {
+      "name": "Rayquaza  (delta species)",
+      "set": "EX Holon Phantoms",
+      "img": "https://den-cards.pokellector.com/64/Rayquaza-delta-species.HP.26.png",
+      "rarity": "Rare",
+      "cardNum": "26/110"
+    },
+    {
+      "name": "Regice",
+      "set": "EX Holon Phantoms",
+      "img": "https://den-cards.pokellector.com/64/Regice.HP.27.png",
+      "rarity": "Rare",
+      "cardNum": "27/110"
+    },
+    {
+      "name": "Regirock",
+      "set": "EX Holon Phantoms",
+      "img": "https://den-cards.pokellector.com/64/Regirock.HP.28.png",
+      "rarity": "Rare",
+      "cardNum": "28/110"
+    },
+    {
+      "name": "Registeel",
+      "set": "EX Holon Phantoms",
+      "img": "https://den-cards.pokellector.com/64/Registeel.HP.29.png",
+      "rarity": "Rare",
+      "cardNum": "29/110"
+    },
+    {
+      "name": "Relicanth",
+      "set": "EX Holon Phantoms",
+      "img": "https://den-cards.pokellector.com/64/Relicanth.HP.30.png",
+      "rarity": "Rare",
+      "cardNum": "30/110"
+    },
+    {
+      "name": "Sableye",
+      "set": "EX Holon Phantoms",
+      "img": "https://den-cards.pokellector.com/64/Sableye.HP.31.png",
+      "rarity": "Rare",
+      "cardNum": "31/110"
+    },
+    {
+      "name": "Seviper",
+      "set": "EX Holon Phantoms",
+      "img": "https://den-cards.pokellector.com/64/Seviper.HP.32.png",
+      "rarity": "Rare",
+      "cardNum": "32/110"
+    },
+    {
+      "name": "Torkoal",
+      "set": "EX Holon Phantoms",
+      "img": "https://den-cards.pokellector.com/64/Torkoal.HP.33.png",
+      "rarity": "Rare",
+      "cardNum": "33/110"
+    },
+    {
+      "name": "Zangoose",
+      "set": "EX Holon Phantoms",
+      "img": "https://den-cards.pokellector.com/64/Zangoose.HP.34.png",
+      "rarity": "Rare",
+      "cardNum": "34/110"
+    },
+    {
+      "name": "Aerodactyl  (delta species)",
+      "set": "EX Holon Phantoms",
+      "img": "https://den-cards.pokellector.com/64/Aerodactyl-.HP.35.png",
+      "rarity": "Uncommon",
+      "cardNum": "35/110"
+    },
+    {
+      "name": "Camerupt",
+      "set": "EX Holon Phantoms",
+      "img": "https://den-cards.pokellector.com/64/Camerupt.HP.36.png",
+      "rarity": "Uncommon",
+      "cardNum": "36/110"
+    },
+    {
+      "name": "Chimecho  (delta species)",
+      "set": "EX Holon Phantoms",
+      "img": "https://den-cards.pokellector.com/64/Chimecho-delta-species.HP.37.png",
+      "rarity": "Uncommon",
+      "cardNum": "37/110"
+    },
+    {
+      "name": "Claydol",
+      "set": "EX Holon Phantoms",
+      "img": "https://den-cards.pokellector.com/64/Claydol.HP.38.png",
+      "rarity": "Uncommon",
+      "cardNum": "38/110"
+    },
+    {
+      "name": "Combusken",
+      "set": "EX Holon Phantoms",
+      "img": "https://den-cards.pokellector.com/64/Combusken.HP.39.png",
+      "rarity": "Uncommon",
+      "cardNum": "39/110"
+    },
+    {
+      "name": "Donphan",
+      "set": "EX Holon Phantoms",
+      "img": "https://den-cards.pokellector.com/64/Donphan.HP.40.png",
+      "rarity": "Uncommon",
+      "cardNum": "40/110"
+    },
+    {
+      "name": "Exeggutor  (delta species)",
+      "set": "EX Holon Phantoms",
+      "img": "https://den-cards.pokellector.com/64/Exeggutor-delta-species.HP.41.png",
+      "rarity": "Uncommon",
+      "cardNum": "41/110"
+    },
+    {
+      "name": "Gloom  (delta species)",
+      "set": "EX Holon Phantoms",
+      "img": "https://den-cards.pokellector.com/64/Gloom-.HP.42.png",
+      "rarity": "Uncommon",
+      "cardNum": "42/110"
+    },
+    {
+      "name": "Golduck  (delta species)",
+      "set": "EX Holon Phantoms",
+      "img": "https://den-cards.pokellector.com/64/Golduck-delta-species.HP.43.png",
+      "rarity": "Uncommon",
+      "cardNum": "43/110"
+    },
+    {
+      "name": "Holon's Castform",
+      "set": "EX Holon Phantoms",
+      "img": "https://den-cards.pokellector.com/64/Holons-Castform.HP.44.png",
+      "rarity": "Uncommon",
+      "cardNum": "44/110"
+    },
+    {
+      "name": "Lairon",
+      "set": "EX Holon Phantoms",
+      "img": "https://den-cards.pokellector.com/64/Lairon.HP.45.png",
+      "rarity": "Uncommon",
+      "cardNum": "45/110"
+    },
+    {
+      "name": "Manectric",
+      "set": "EX Holon Phantoms",
+      "img": "https://den-cards.pokellector.com/64/Manectric.HP.46.png",
+      "rarity": "Uncommon",
+      "cardNum": "46/110"
+    },
+    {
+      "name": "Masquerain",
+      "set": "EX Holon Phantoms",
+      "img": "https://den-cards.pokellector.com/64/Masquerain.HP.47.png",
+      "rarity": "Uncommon",
+      "cardNum": "47/110"
+    },
+    {
+      "name": "Persian  (delta species)",
+      "set": "EX Holon Phantoms",
+      "img": "https://den-cards.pokellector.com/64/Persian-delta-species.HP.48.png",
+      "rarity": "Uncommon",
+      "cardNum": "48/110"
+    },
+    {
+      "name": "Pidgeotto  (delta species)",
+      "set": "EX Holon Phantoms",
+      "img": "https://den-cards.pokellector.com/64/Pidgeotto-.HP.49.png",
+      "rarity": "Uncommon",
+      "cardNum": "49/110"
+    },
+    {
+      "name": "Primeape  (delta species)",
+      "set": "EX Holon Phantoms",
+      "img": "https://den-cards.pokellector.com/64/Primeape-delta-species.HP.50.png",
+      "rarity": "Uncommon",
+      "cardNum": "50/110"
+    },
+    {
+      "name": "Raichu",
+      "set": "EX Holon Phantoms",
+      "img": "https://den-cards.pokellector.com/64/Raichu.HP.51.png",
+      "rarity": "Uncommon",
+      "cardNum": "51/110"
+    },
+    {
+      "name": "Seadra  (delta species)",
+      "set": "EX Holon Phantoms",
+      "img": "https://den-cards.pokellector.com/64/Seadra-delta-species.HP.52.png",
+      "rarity": "Uncommon",
+      "cardNum": "52/110"
+    },
+    {
+      "name": "Sharpedo  (delta species)",
+      "set": "EX Holon Phantoms",
+      "img": "https://den-cards.pokellector.com/64/Sharpedo-delta-species.HP.53.png",
+      "rarity": "Uncommon",
+      "cardNum": "53/110"
+    },
+    {
+      "name": "Vibrava  (delta species)",
+      "set": "EX Holon Phantoms",
+      "img": "https://den-cards.pokellector.com/64/Vibrava-delta-species.HP.54.png",
+      "rarity": "Uncommon",
+      "cardNum": "54/110"
+    },
+    {
+      "name": "Whiscash",
+      "set": "EX Holon Phantoms",
+      "img": "https://den-cards.pokellector.com/64/Whiscash.HP.55.png",
+      "rarity": "Uncommon",
+      "cardNum": "55/110"
+    },
+    {
+      "name": "Wobbuffet",
+      "set": "EX Holon Phantoms",
+      "img": "https://den-cards.pokellector.com/64/Wobbuffet.HP.56.png",
+      "rarity": "Uncommon",
+      "cardNum": "56/110"
+    },
+    {
+      "name": "Anorith  (delta species)",
+      "set": "EX Holon Phantoms",
+      "img": "https://den-cards.pokellector.com/64/Anorith-.HP.57.png",
+      "rarity": "Common",
+      "cardNum": "57/110"
+    },
+    {
+      "name": "Aron",
+      "set": "EX Holon Phantoms",
+      "img": "https://den-cards.pokellector.com/64/Aron.HP.58.png",
+      "rarity": "Common",
+      "cardNum": "58/110"
+    },
+    {
+      "name": "Baltoy",
+      "set": "EX Holon Phantoms",
+      "img": "https://den-cards.pokellector.com/64/Baltoy.HP.59.png",
+      "rarity": "Common",
+      "cardNum": "59/110"
+    },
+    {
+      "name": "Barboach",
+      "set": "EX Holon Phantoms",
+      "img": "https://den-cards.pokellector.com/64/Barboach.HP.60.png",
+      "rarity": "Common",
+      "cardNum": "60/110"
+    },
+    {
+      "name": "Carvanha  (delta species)",
+      "set": "EX Holon Phantoms",
+      "img": "https://den-cards.pokellector.com/64/Carvanha-delta-species.HP.61.png",
+      "rarity": "Common",
+      "cardNum": "61/110"
+    },
+    {
+      "name": "Corphish",
+      "set": "EX Holon Phantoms",
+      "img": "https://den-cards.pokellector.com/64/Corphish.HP.62.png",
+      "rarity": "Common",
+      "cardNum": "62/110"
+    },
+    {
+      "name": "Corphish",
+      "set": "EX Holon Phantoms",
+      "img": "https://den-cards.pokellector.com/64/Corphish.HP.63.png",
+      "rarity": "Common",
+      "cardNum": "63/110"
+    },
+    {
+      "name": "Electrike",
+      "set": "EX Holon Phantoms",
+      "img": "https://den-cards.pokellector.com/64/Electrike.HP.64.png",
+      "rarity": "Common",
+      "cardNum": "64/110"
+    },
+    {
+      "name": "Exeggcute  (delta species)",
+      "set": "EX Holon Phantoms",
+      "img": "https://den-cards.pokellector.com/64/Exeggcute-delta-species.HP.65.png",
+      "rarity": "Common",
+      "cardNum": "65/110"
+    },
+    {
+      "name": "Horsea  (delta species)",
+      "set": "EX Holon Phantoms",
+      "img": "https://den-cards.pokellector.com/64/Horsea-delta-species.HP.66.png",
+      "rarity": "Common",
+      "cardNum": "66/110"
+    },
+    {
+      "name": "Kabuto  (delta species)",
+      "set": "EX Holon Phantoms",
+      "img": "https://den-cards.pokellector.com/64/Kabuto-delta-species.HP.67.png",
+      "rarity": "Common",
+      "cardNum": "67/110"
+    },
+    {
+      "name": "Lileep  (delta species)",
+      "set": "EX Holon Phantoms",
+      "img": "https://den-cards.pokellector.com/64/Lileep-delta-species.HP.68.png",
+      "rarity": "Common",
+      "cardNum": "68/110"
+    },
+    {
+      "name": "Magikarp  (delta species)",
+      "set": "EX Holon Phantoms",
+      "img": "https://den-cards.pokellector.com/64/Magikarp-delta-species.HP.69.png",
+      "rarity": "Common",
+      "cardNum": "69/110"
+    },
+    {
+      "name": "Mankey  (delta species)",
+      "set": "EX Holon Phantoms",
+      "img": "https://den-cards.pokellector.com/64/Mankey-delta-species.HP.70.png",
+      "rarity": "Common",
+      "cardNum": "70/110"
+    },
+    {
+      "name": "Meowth  (delta species)",
+      "set": "EX Holon Phantoms",
+      "img": "https://den-cards.pokellector.com/64/Meowth-.HP.71.png",
+      "rarity": "Common",
+      "cardNum": "71/110"
+    },
+    {
+      "name": "Numel",
+      "set": "EX Holon Phantoms",
+      "img": "https://den-cards.pokellector.com/64/Numel.HP.72.png",
+      "rarity": "Common",
+      "cardNum": "72/110"
+    },
+    {
+      "name": "Oddish  (delta species)",
+      "set": "EX Holon Phantoms",
+      "img": "https://den-cards.pokellector.com/64/Oddish-.HP.73.png",
+      "rarity": "Common",
+      "cardNum": "73/110"
+    },
+    {
+      "name": "Omanyte  (delta species)",
+      "set": "EX Holon Phantoms",
+      "img": "https://den-cards.pokellector.com/64/Omanyte-.HP.74.png",
+      "rarity": "Common",
+      "cardNum": "74/110"
+    },
+    {
+      "name": "Phanpy",
+      "set": "EX Holon Phantoms",
+      "img": "https://den-cards.pokellector.com/64/Phanpy.HP.75.png",
+      "rarity": "Common",
+      "cardNum": "75/110"
+    },
+    {
+      "name": "Pichu  (delta species)",
+      "set": "EX Holon Phantoms",
+      "img": "https://den-cards.pokellector.com/64/Pichu-delta-species.HP.76.png",
+      "rarity": "Common",
+      "cardNum": "76/110"
+    },
+    {
+      "name": "Pidgey  (delta species)",
+      "set": "EX Holon Phantoms",
+      "img": "https://den-cards.pokellector.com/64/Pidgey-delta-species.HP.77.png",
+      "rarity": "Common",
+      "cardNum": "77/110"
+    },
+    {
+      "name": "Pikachu",
+      "set": "EX Holon Phantoms",
+      "img": "https://den-cards.pokellector.com/64/Pikachu.HP.78.png",
+      "rarity": "Common",
+      "cardNum": "78/110"
+    },
+    {
+      "name": "Pikachu  (delta species)",
+      "set": "EX Holon Phantoms",
+      "img": "https://den-cards.pokellector.com/64/Pikachu-.HP.79.png",
+      "rarity": "Common",
+      "cardNum": "79/110"
+    },
+    {
+      "name": "Poochyena",
+      "set": "EX Holon Phantoms",
+      "img": "https://den-cards.pokellector.com/64/Poochyena.HP.80.png",
+      "rarity": "Common",
+      "cardNum": "80/110"
+    },
+    {
+      "name": "Psyduck  (delta species)",
+      "set": "EX Holon Phantoms",
+      "img": "https://den-cards.pokellector.com/64/Psyduck-.HP.81.png",
+      "rarity": "Common",
+      "cardNum": "81/110"
+    },
+    {
+      "name": "Surskit",
+      "set": "EX Holon Phantoms",
+      "img": "https://den-cards.pokellector.com/64/Surskit.HP.82.png",
+      "rarity": "Common",
+      "cardNum": "82/110"
+    },
+    {
+      "name": "Torchic",
+      "set": "EX Holon Phantoms",
+      "img": "https://den-cards.pokellector.com/64/Torchic.HP.83.png",
+      "rarity": "Common",
+      "cardNum": "83/110"
+    },
+    {
+      "name": "Trapinch  (delta species)",
+      "set": "EX Holon Phantoms",
+      "img": "https://den-cards.pokellector.com/64/Trapinch-delta-species.HP.84.png",
+      "rarity": "Common",
+      "cardNum": "84/110"
+    },
+    {
+      "name": "Holon Adventurer",
+      "set": "EX Holon Phantoms",
+      "img": "https://den-cards.pokellector.com/64/Holon-Adventurer.HP.85.png",
+      "rarity": "Uncommon",
+      "cardNum": "85/110"
+    },
+    {
+      "name": "Holon Fossil",
+      "set": "EX Holon Phantoms",
+      "img": "https://den-cards.pokellector.com/64/Holon-Fossil.HP.86.png",
+      "rarity": "Uncommon",
+      "cardNum": "86/110"
+    },
+    {
+      "name": "Holon Lake",
+      "set": "EX Holon Phantoms",
+      "img": "https://den-cards.pokellector.com/64/Holon-Lake.HP.87.png",
+      "rarity": "Uncommon",
+      "cardNum": "87/110"
+    },
+    {
+      "name": "Mr. Stone's Project",
+      "set": "EX Holon Phantoms",
+      "img": "https://den-cards.pokellector.com/64/Mr-Stones-Project.HP.88.png",
+      "rarity": "Uncommon",
+      "cardNum": "88/110"
+    },
+    {
+      "name": "Professor Cozmo's Discovery",
+      "set": "EX Holon Phantoms",
+      "img": "https://den-cards.pokellector.com/64/Professor-Cozmos-Discovery.HP.89.png",
+      "rarity": "Uncommon",
+      "cardNum": "89/110"
+    },
+    {
+      "name": "Rare Candy",
+      "set": "EX Holon Phantoms",
+      "img": "https://den-cards.pokellector.com/64/Rare-Candy.HP.90.png",
+      "rarity": "Uncommon",
+      "cardNum": "90/110"
+    },
+    {
+      "name": "Claw Fossil",
+      "set": "EX Holon Phantoms",
+      "img": "https://den-cards.pokellector.com/64/Claw-Fossil.HP.91.png",
+      "rarity": "Common",
+      "cardNum": "91/110"
+    },
+    {
+      "name": "Mysterious Fossil",
+      "set": "EX Holon Phantoms",
+      "img": "https://den-cards.pokellector.com/64/Mysterious-Fossil.HP.92.png",
+      "rarity": "Common",
+      "cardNum": "92/110"
+    },
+    {
+      "name": "Root Fossil",
+      "set": "EX Holon Phantoms",
+      "img": "https://den-cards.pokellector.com/64/Root-Fossil.HP.93.png",
+      "rarity": "Common",
+      "cardNum": "93/110"
+    },
+    {
+      "name": "Darkness Energy",
+      "set": "EX Holon Phantoms",
+      "img": "https://den-cards.pokellector.com/64/Darkness-Energy.HP.94.png",
+      "rarity": "Rare",
+      "cardNum": "94/110"
+    },
+    {
+      "name": "Metal Energy",
+      "set": "EX Holon Phantoms",
+      "img": "https://den-cards.pokellector.com/64/Metal-Energy.HP.95.png",
+      "rarity": "Rare",
+      "cardNum": "95/110"
+    },
+    {
+      "name": "Multi Energy",
+      "set": "EX Holon Phantoms",
+      "img": "https://den-cards.pokellector.com/64/Multi-Energy.HP.96.png",
+      "rarity": "Rare",
+      "cardNum": "96/110"
+    },
+    {
+      "name": "Dark Metal Energy",
+      "set": "EX Holon Phantoms",
+      "img": "https://den-cards.pokellector.com/64/Dark-Metal-Energy.HP.97.png",
+      "rarity": "Uncommon",
+      "cardNum": "97/110"
+    },
+    {
+      "name": "Î´ Rainbow Energy",
+      "set": "EX Holon Phantoms",
+      "img": "https://den-cards.pokellector.com/64/-Rainbow-Energy.HP.98.png",
+      "rarity": "Uncommon",
+      "cardNum": "98/110"
+    },
+    {
+      "name": "Crawdaunt ex",
+      "set": "EX Holon Phantoms",
+      "img": "https://den-cards.pokellector.com/64/Crawdaunt-ex.HP.99.png",
+      "rarity": "Rare",
+      "cardNum": "99/110"
+    },
+    {
+      "name": "Mew ex",
+      "set": "EX Holon Phantoms",
+      "img": "https://den-cards.pokellector.com/64/Mew-ex.HP.100.png",
+      "rarity": "Rare",
+      "cardNum": "100/110"
+    },
+    {
+      "name": "Mightyena ex",
+      "set": "EX Holon Phantoms",
+      "img": "https://den-cards.pokellector.com/64/Mightyena-ex.HP.101.png",
+      "rarity": "Rare",
+      "cardNum": "101/110"
+    },
+    {
+      "name": "Gyarados â˜†  (delta species)",
+      "set": "EX Holon Phantoms",
+      "img": "https://den-cards.pokellector.com/64/Gyarados-delta-species.HP.102.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "102/110"
+    },
+    {
+      "name": "Mewtwo *",
+      "set": "EX Holon Phantoms",
+      "img": "https://den-cards.pokellector.com/64/Mewtwo-.HP.103.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "103/110"
+    },
+    {
+      "name": "Pikachu *",
+      "set": "EX Holon Phantoms",
+      "img": "https://den-cards.pokellector.com/64/Pikachu-.HP.104.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "104/110"
+    },
+    {
+      "name": "Grass Energy",
+      "set": "EX Holon Phantoms",
+      "img": "https://den-cards.pokellector.com/64/Grass-Energy.HP.105.png",
+      "rarity": "Rare",
+      "cardNum": "105/110"
+    },
+    {
+      "name": "Fire Energy",
+      "set": "EX Holon Phantoms",
+      "img": "https://den-cards.pokellector.com/64/Fire-Energy.HP.106.png",
+      "rarity": "Rare",
+      "cardNum": "106/110"
+    },
+    {
+      "name": "Water Energy",
+      "set": "EX Holon Phantoms",
+      "img": "https://den-cards.pokellector.com/64/Water-Energy.HP.107.png",
+      "rarity": "Rare",
+      "cardNum": "107/110"
+    },
+    {
+      "name": "Lightning Energy",
+      "set": "EX Holon Phantoms",
+      "img": "https://den-cards.pokellector.com/64/Lightning-Energy.HP.108.png",
+      "rarity": "Rare",
+      "cardNum": "108/110"
+    },
+    {
+      "name": "Psychic Energy",
+      "set": "EX Holon Phantoms",
+      "img": "https://den-cards.pokellector.com/64/Psychic-Energy.HP.109.png",
+      "rarity": "Rare",
+      "cardNum": "109/110"
+    },
+    {
+      "name": "Fighting Energy",
+      "set": "EX Holon Phantoms",
+      "img": "https://den-cards.pokellector.com/64/Fighting-Energy.HP.110.png",
+      "rarity": "Rare",
+      "cardNum": "110/110"
+    },
+    {
+      "name": "Mew",
+      "set": "EX Holon Phantoms",
+      "img": "https://den-cards.pokellector.com/64/Mew.HP.111.png",
+      "rarity": "Secret Rare",
+      "cardNum": "111/110"
+    }
+  ]
+}

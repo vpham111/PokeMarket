@@ -1,0 +1,1636 @@
+{
+  "setName": "Chilling Reign",
+  "cards": [
+    {
+      "name": "Weedle",
+      "set": "Chilling Reign",
+      "img": "https://den-cards.pokellector.com/320/Weedle.CRE.1.39007.png",
+      "rarity": "Common",
+      "cardNum": "1/198"
+    },
+    {
+      "name": "Kakuna",
+      "set": "Chilling Reign",
+      "img": "https://den-cards.pokellector.com/320/Kakuna.CRE.2.39008.png",
+      "rarity": "Uncommon",
+      "cardNum": "2/198"
+    },
+    {
+      "name": "Beedrill",
+      "set": "Chilling Reign",
+      "img": "https://den-cards.pokellector.com/320/Beedrill.CRE.3.39009.png",
+      "rarity": "Rare",
+      "cardNum": "3/198"
+    },
+    {
+      "name": "Ledyba",
+      "set": "Chilling Reign",
+      "img": "https://den-cards.pokellector.com/320/Ledyba.CRE.4.39010.png",
+      "rarity": "Common",
+      "cardNum": "4/198"
+    },
+    {
+      "name": "Ledian",
+      "set": "Chilling Reign",
+      "img": "https://den-cards.pokellector.com/320/Ledian.CRE.5.39011.png",
+      "rarity": "Uncommon",
+      "cardNum": "5/198"
+    },
+    {
+      "name": "Heracross",
+      "set": "Chilling Reign",
+      "img": "https://den-cards.pokellector.com/320/Heracross.CRE.6.39012.png",
+      "rarity": "Common",
+      "cardNum": "6/198"
+    },
+    {
+      "name": "Celebi V",
+      "set": "Chilling Reign",
+      "img": "https://den-cards.pokellector.com/320/Celebi-V.CRE.7.38915.png",
+      "rarity": "Rare",
+      "cardNum": "7/198"
+    },
+    {
+      "name": "Celebi VMAX",
+      "set": "Chilling Reign",
+      "img": "https://den-cards.pokellector.com/320/Celebi-VMAX.CRE.8.38917.png",
+      "rarity": "Rare",
+      "cardNum": "8/198"
+    },
+    {
+      "name": "Snover",
+      "set": "Chilling Reign",
+      "img": "https://den-cards.pokellector.com/320/Snover.CRE.9.39013.png",
+      "rarity": "Common",
+      "cardNum": "9/198"
+    },
+    {
+      "name": "Abomasnow",
+      "set": "Chilling Reign",
+      "img": "https://den-cards.pokellector.com/320/Abomasnow.CRE.10.39014.png",
+      "rarity": "Rare",
+      "cardNum": "10/198"
+    },
+    {
+      "name": "Deerling",
+      "set": "Chilling Reign",
+      "img": "https://den-cards.pokellector.com/320/Deerling.CRE.11.39015.png",
+      "rarity": "Common",
+      "cardNum": "11/198"
+    },
+    {
+      "name": "Sawsbuck",
+      "set": "Chilling Reign",
+      "img": "https://den-cards.pokellector.com/320/Sawsbuck.CRE.12.39016.png",
+      "rarity": "Rare",
+      "cardNum": "12/198"
+    },
+    {
+      "name": "Bounsweet",
+      "set": "Chilling Reign",
+      "img": "https://den-cards.pokellector.com/320/Bounsweet.CRE.13.39017.png",
+      "rarity": "Common",
+      "cardNum": "13/198"
+    },
+    {
+      "name": "Steenee",
+      "set": "Chilling Reign",
+      "img": "https://den-cards.pokellector.com/320/Steenee.CRE.14.39018.png",
+      "rarity": "Uncommon",
+      "cardNum": "14/198"
+    },
+    {
+      "name": "Tsareena",
+      "set": "Chilling Reign",
+      "img": "https://den-cards.pokellector.com/320/Tsareena.CRE.15.39019.png",
+      "rarity": "Rare",
+      "cardNum": "15/198"
+    },
+    {
+      "name": "Grookey",
+      "set": "Chilling Reign",
+      "img": "https://den-cards.pokellector.com/320/Grookey.CRE.16.39020.png",
+      "rarity": "Common",
+      "cardNum": "16/198"
+    },
+    {
+      "name": "Thwackey",
+      "set": "Chilling Reign",
+      "img": "https://den-cards.pokellector.com/320/Thwackey.CRE.17.39021.png",
+      "rarity": "Uncommon",
+      "cardNum": "17/198"
+    },
+    {
+      "name": "Rillaboom",
+      "set": "Chilling Reign",
+      "img": "https://den-cards.pokellector.com/320/Rillaboom.CRE.18.39022.png",
+      "rarity": "Rare",
+      "cardNum": "18/198"
+    },
+    {
+      "name": "Zarude",
+      "set": "Chilling Reign",
+      "img": "https://den-cards.pokellector.com/320/Zarude.CRE.19.39023.png",
+      "rarity": "Rare",
+      "cardNum": "19/198"
+    },
+    {
+      "name": "Blaziken V",
+      "set": "Chilling Reign",
+      "img": "https://den-cards.pokellector.com/320/Blaziken-V.CRE.20.38914.png",
+      "rarity": "Rare",
+      "cardNum": "20/198"
+    },
+    {
+      "name": "Blaziken VMAX",
+      "set": "Chilling Reign",
+      "img": "https://den-cards.pokellector.com/320/Blaziken-VMAX.CRE.21.38916.png",
+      "rarity": "Rare",
+      "cardNum": "21/198"
+    },
+    {
+      "name": "Castform Sunny Form",
+      "set": "Chilling Reign",
+      "img": "https://den-cards.pokellector.com/320/Castform-Sunny-Form.CRE.22.39024.png",
+      "rarity": "Common",
+      "cardNum": "22/198"
+    },
+    {
+      "name": "Larvesta",
+      "set": "Chilling Reign",
+      "img": "https://den-cards.pokellector.com/320/Larvesta.CRE.23.39025.png",
+      "rarity": "Common",
+      "cardNum": "23/198"
+    },
+    {
+      "name": "Volcarona",
+      "set": "Chilling Reign",
+      "img": "https://den-cards.pokellector.com/320/Volcarona.CRE.24.39026.png",
+      "rarity": "Rare",
+      "cardNum": "24/198"
+    },
+    {
+      "name": "Volcanion V",
+      "set": "Chilling Reign",
+      "img": "https://den-cards.pokellector.com/320/Volcanion-V.CRE.25.38911.png",
+      "rarity": "Rare",
+      "cardNum": "25/198"
+    },
+    {
+      "name": "Scorbunny",
+      "set": "Chilling Reign",
+      "img": "https://den-cards.pokellector.com/320/Scorbunny.CRE.26.39027.png",
+      "rarity": "Common",
+      "cardNum": "26/198"
+    },
+    {
+      "name": "Raboot",
+      "set": "Chilling Reign",
+      "img": "https://den-cards.pokellector.com/320/Raboot.CRE.27.39028.png",
+      "rarity": "Uncommon",
+      "cardNum": "27/198"
+    },
+    {
+      "name": "Cinderace",
+      "set": "Chilling Reign",
+      "img": "https://den-cards.pokellector.com/320/Cinderace.CRE.28.39029.png",
+      "rarity": "Rare",
+      "cardNum": "28/198"
+    },
+    {
+      "name": "Lapras",
+      "set": "Chilling Reign",
+      "img": "https://den-cards.pokellector.com/320/Lapras.CRE.29.39030.png",
+      "rarity": "Common",
+      "cardNum": "29/198"
+    },
+    {
+      "name": "Sneasel",
+      "set": "Chilling Reign",
+      "img": "https://den-cards.pokellector.com/320/Sneasel.CRE.30.39031.png",
+      "rarity": "Common",
+      "cardNum": "30/198"
+    },
+    {
+      "name": "Weavile",
+      "set": "Chilling Reign",
+      "img": "https://den-cards.pokellector.com/320/Weavile.CRE.31.39032.png",
+      "rarity": "Rare",
+      "cardNum": "31/198"
+    },
+    {
+      "name": "Delibird",
+      "set": "Chilling Reign",
+      "img": "https://den-cards.pokellector.com/320/Delibird.CRE.32.39033.png",
+      "rarity": "Common",
+      "cardNum": "32/198"
+    },
+    {
+      "name": "Castform Rainy Form",
+      "set": "Chilling Reign",
+      "img": "https://den-cards.pokellector.com/320/Castform-Rainy-Form.CRE.33.39034.png",
+      "rarity": "Common",
+      "cardNum": "33/198"
+    },
+    {
+      "name": "Castform Snowy Form",
+      "set": "Chilling Reign",
+      "img": "https://den-cards.pokellector.com/320/Castform-Snowy-Form.CRE.34.39035.png",
+      "rarity": "Common",
+      "cardNum": "34/198"
+    },
+    {
+      "name": "Snorunt",
+      "set": "Chilling Reign",
+      "img": "https://den-cards.pokellector.com/320/Snorunt.CRE.35.39036.png",
+      "rarity": "Common",
+      "cardNum": "35/198"
+    },
+    {
+      "name": "Froslass",
+      "set": "Chilling Reign",
+      "img": "https://den-cards.pokellector.com/320/Froslass.CRE.36.39037.png",
+      "rarity": "Rare",
+      "cardNum": "36/198"
+    },
+    {
+      "name": "Spheal",
+      "set": "Chilling Reign",
+      "img": "https://den-cards.pokellector.com/320/Spheal.CRE.37.39038.png",
+      "rarity": "Common",
+      "cardNum": "37/198"
+    },
+    {
+      "name": "Sealeo",
+      "set": "Chilling Reign",
+      "img": "https://den-cards.pokellector.com/320/Sealeo.CRE.38.39039.png",
+      "rarity": "Uncommon",
+      "cardNum": "38/198"
+    },
+    {
+      "name": "Walrein",
+      "set": "Chilling Reign",
+      "img": "https://den-cards.pokellector.com/320/Walrein.CRE.39.39040.png",
+      "rarity": "Rare",
+      "cardNum": "39/198"
+    },
+    {
+      "name": "Tapu Fini",
+      "set": "Chilling Reign",
+      "img": "https://den-cards.pokellector.com/320/Tapu-Fini.CRE.40.39041.png",
+      "rarity": "Rare",
+      "cardNum": "40/198"
+    },
+    {
+      "name": "Sobble",
+      "set": "Chilling Reign",
+      "img": "https://den-cards.pokellector.com/320/Sobble.CRE.41.39042.png",
+      "rarity": "Common",
+      "cardNum": "41/198"
+    },
+    {
+      "name": "Drizzile",
+      "set": "Chilling Reign",
+      "img": "https://den-cards.pokellector.com/320/Drizzile.CRE.42.39043.png",
+      "rarity": "Uncommon",
+      "cardNum": "42/198"
+    },
+    {
+      "name": "Inteleon",
+      "set": "Chilling Reign",
+      "img": "https://den-cards.pokellector.com/320/Inteleon.CRE.43.39044.png",
+      "rarity": "Rare",
+      "cardNum": "43/198"
+    },
+    {
+      "name": "Rapid Strike Urshifu",
+      "set": "Chilling Reign",
+      "img": "https://den-cards.pokellector.com/320/Rapid-Strike-Urshifu.CRE.44.39045.png",
+      "rarity": "Rare",
+      "cardNum": "44/198"
+    },
+    {
+      "name": "Ice Rider Calyrex V",
+      "set": "Chilling Reign",
+      "img": "https://den-cards.pokellector.com/320/Ice-Rider-Calyrex-V.CRE.45.39046.png",
+      "rarity": "Rare",
+      "cardNum": "45/198"
+    },
+    {
+      "name": "Ice Rider Calyrex VMAX",
+      "set": "Chilling Reign",
+      "img": "https://den-cards.pokellector.com/320/Ice-Rider-Calyrex-VMAX.CRE.46.39047.png",
+      "rarity": "Common",
+      "cardNum": "46/198"
+    },
+    {
+      "name": "Mareep",
+      "set": "Chilling Reign",
+      "img": "https://den-cards.pokellector.com/320/Mareep.CRE.47.39048.png",
+      "rarity": "Common",
+      "cardNum": "47/198"
+    },
+    {
+      "name": "Flaaffy",
+      "set": "Chilling Reign",
+      "img": "https://den-cards.pokellector.com/320/Flaaffy.CRE.48.39049.png",
+      "rarity": "Uncommon",
+      "cardNum": "48/198"
+    },
+    {
+      "name": "Ampharos",
+      "set": "Chilling Reign",
+      "img": "https://den-cards.pokellector.com/320/Ampharos.CRE.49.39050.png",
+      "rarity": "Rare",
+      "cardNum": "49/198"
+    },
+    {
+      "name": "Blitzle",
+      "set": "Chilling Reign",
+      "img": "https://den-cards.pokellector.com/320/Blitzle.CRE.50.39051.png",
+      "rarity": "Common",
+      "cardNum": "50/198"
+    },
+    {
+      "name": "Zebstrika",
+      "set": "Chilling Reign",
+      "img": "https://den-cards.pokellector.com/320/Zebstrika.CRE.51.39052.png",
+      "rarity": "Rare",
+      "cardNum": "51/198"
+    },
+    {
+      "name": "Thundurus",
+      "set": "Chilling Reign",
+      "img": "https://den-cards.pokellector.com/320/Thundurus.CRE.52.39053.png",
+      "rarity": "Rare",
+      "cardNum": "52/198"
+    },
+    {
+      "name": "Zeraora V",
+      "set": "Chilling Reign",
+      "img": "https://den-cards.pokellector.com/320/Zeraora-V.CRE.53.38918.png",
+      "rarity": "Rare",
+      "cardNum": "53/198"
+    },
+    {
+      "name": "Galarian Slowpoke",
+      "set": "Chilling Reign",
+      "img": "https://den-cards.pokellector.com/320/Galarian-Slowpoke.CRE.54.39054.png",
+      "rarity": "Common",
+      "cardNum": "54/198"
+    },
+    {
+      "name": "Gastly",
+      "set": "Chilling Reign",
+      "img": "https://den-cards.pokellector.com/320/Gastly.CRE.55.39055.png",
+      "rarity": "Common",
+      "cardNum": "55/198"
+    },
+    {
+      "name": "Haunter",
+      "set": "Chilling Reign",
+      "img": "https://den-cards.pokellector.com/320/Haunter.CRE.56.39056.png",
+      "rarity": "Uncommon",
+      "cardNum": "56/198"
+    },
+    {
+      "name": "Gengar",
+      "set": "Chilling Reign",
+      "img": "https://den-cards.pokellector.com/320/Gengar.CRE.57.39057.png",
+      "rarity": "Rare",
+      "cardNum": "57/198"
+    },
+    {
+      "name": "Galarian Articuno V",
+      "set": "Chilling Reign",
+      "img": "https://den-cards.pokellector.com/320/Galarian-Articuno-V.CRE.58.38900.png",
+      "rarity": "Rare",
+      "cardNum": "58/198"
+    },
+    {
+      "name": "Ralts",
+      "set": "Chilling Reign",
+      "img": "https://den-cards.pokellector.com/320/Ralts.CRE.59.39058.png",
+      "rarity": "Common",
+      "cardNum": "59/198"
+    },
+    {
+      "name": "Kirlia",
+      "set": "Chilling Reign",
+      "img": "https://den-cards.pokellector.com/320/Kirlia.CRE.60.39059.png",
+      "rarity": "Uncommon",
+      "cardNum": "60/198"
+    },
+    {
+      "name": "Gardevoir",
+      "set": "Chilling Reign",
+      "img": "https://den-cards.pokellector.com/320/Gardevoir.CRE.61.39060.png",
+      "rarity": "Rare",
+      "cardNum": "61/198"
+    },
+    {
+      "name": "Shuppet",
+      "set": "Chilling Reign",
+      "img": "https://den-cards.pokellector.com/320/Shuppet.CRE.62.39061.png",
+      "rarity": "Common",
+      "cardNum": "62/198"
+    },
+    {
+      "name": "Banette",
+      "set": "Chilling Reign",
+      "img": "https://den-cards.pokellector.com/320/Banette.CRE.63.39062.png",
+      "rarity": "Rare",
+      "cardNum": "63/198"
+    },
+    {
+      "name": "Cresselia",
+      "set": "Chilling Reign",
+      "img": "https://den-cards.pokellector.com/320/Cresselia.CRE.64.38904.png",
+      "rarity": "Rare",
+      "cardNum": "64/198"
+    },
+    {
+      "name": "Golett",
+      "set": "Chilling Reign",
+      "img": "https://den-cards.pokellector.com/320/Golett.CRE.65.39063.png",
+      "rarity": "Common",
+      "cardNum": "65/198"
+    },
+    {
+      "name": "Golurk",
+      "set": "Chilling Reign",
+      "img": "https://den-cards.pokellector.com/320/Golurk.CRE.66.39064.png",
+      "rarity": "Rare",
+      "cardNum": "66/198"
+    },
+    {
+      "name": "Swirlix",
+      "set": "Chilling Reign",
+      "img": "https://den-cards.pokellector.com/320/Swirlix.CRE.67.39065.png",
+      "rarity": "Common",
+      "cardNum": "67/198"
+    },
+    {
+      "name": "Slurpuff",
+      "set": "Chilling Reign",
+      "img": "https://den-cards.pokellector.com/320/Slurpuff.CRE.68.39066.png",
+      "rarity": "Rare",
+      "cardNum": "68/198"
+    },
+    {
+      "name": "Inkay",
+      "set": "Chilling Reign",
+      "img": "https://den-cards.pokellector.com/320/Inkay.CRE.69.39067.png",
+      "rarity": "Common",
+      "cardNum": "69/198"
+    },
+    {
+      "name": "Malamar",
+      "set": "Chilling Reign",
+      "img": "https://den-cards.pokellector.com/320/Malamar.CRE.70.39068.png",
+      "rarity": "Rare",
+      "cardNum": "70/198"
+    },
+    {
+      "name": "Hatenna",
+      "set": "Chilling Reign",
+      "img": "https://den-cards.pokellector.com/320/Hatenna.CRE.71.39069.png",
+      "rarity": "Common",
+      "cardNum": "71/198"
+    },
+    {
+      "name": "Hattrem",
+      "set": "Chilling Reign",
+      "img": "https://den-cards.pokellector.com/320/Hattrem.CRE.72.39070.png",
+      "rarity": "Uncommon",
+      "cardNum": "72/198"
+    },
+    {
+      "name": "Hatterene",
+      "set": "Chilling Reign",
+      "img": "https://den-cards.pokellector.com/320/Hatterene.CRE.73.39071.png",
+      "rarity": "Rare",
+      "cardNum": "73/198"
+    },
+    {
+      "name": "Shadow Rider Calyrex V",
+      "set": "Chilling Reign",
+      "img": "https://den-cards.pokellector.com/320/Shadow-Rider-Calyrex-V.CRE.74.39072.png",
+      "rarity": "Rare",
+      "cardNum": "74/198"
+    },
+    {
+      "name": "Shadow Rider Calyrex VMAX",
+      "set": "Chilling Reign",
+      "img": "https://den-cards.pokellector.com/320/Shadow-Rider-Calyrex-VMAX.CRE.75.39073.png",
+      "rarity": "Common",
+      "cardNum": "75/198"
+    },
+    {
+      "name": "Diglett",
+      "set": "Chilling Reign",
+      "img": "https://den-cards.pokellector.com/320/Diglett.CRE.76.39074.png",
+      "rarity": "Common",
+      "cardNum": "76/198"
+    },
+    {
+      "name": "Dugtrio",
+      "set": "Chilling Reign",
+      "img": "https://den-cards.pokellector.com/320/Dugtrio.CRE.77.39075.png",
+      "rarity": "Rare",
+      "cardNum": "77/198"
+    },
+    {
+      "name": "Galarian Farfetch'd",
+      "set": "Chilling Reign",
+      "img": "https://den-cards.pokellector.com/320/Galarian-Farfetchd.CRE.78.39076.png",
+      "rarity": "Common",
+      "cardNum": "78/198"
+    },
+    {
+      "name": "Galarian Sirfetch'd",
+      "set": "Chilling Reign",
+      "img": "https://den-cards.pokellector.com/320/Galarian-Sirfetchd.CRE.79.39077.png",
+      "rarity": "Rare",
+      "cardNum": "79/198"
+    },
+    {
+      "name": "Galarian Zapdos V",
+      "set": "Chilling Reign",
+      "img": "https://den-cards.pokellector.com/320/Galarian-Zapdos-V.CRE.80.38901.png",
+      "rarity": "Rare",
+      "cardNum": "80/198"
+    },
+    {
+      "name": "Gallade",
+      "set": "Chilling Reign",
+      "img": "https://den-cards.pokellector.com/320/Gallade.CRE.81.39078.png",
+      "rarity": "Rare",
+      "cardNum": "81/198"
+    },
+    {
+      "name": "Galarian Yamask",
+      "set": "Chilling Reign",
+      "img": "https://den-cards.pokellector.com/320/Galarian-Yamask.CRE.82.39079.png",
+      "rarity": "Common",
+      "cardNum": "82/198"
+    },
+    {
+      "name": "Galarian Runerigus",
+      "set": "Chilling Reign",
+      "img": "https://den-cards.pokellector.com/320/Galarian-Runerigus.CRE.83.39080.png",
+      "rarity": "Rare",
+      "cardNum": "83/198"
+    },
+    {
+      "name": "Crabrawler",
+      "set": "Chilling Reign",
+      "img": "https://den-cards.pokellector.com/320/Crabrawler.CRE.84.39081.png",
+      "rarity": "Common",
+      "cardNum": "84/198"
+    },
+    {
+      "name": "Crabominable",
+      "set": "Chilling Reign",
+      "img": "https://den-cards.pokellector.com/320/Crabominable.CRE.85.39082.png",
+      "rarity": "Uncommon",
+      "cardNum": "85/198"
+    },
+    {
+      "name": "Rockruff",
+      "set": "Chilling Reign",
+      "img": "https://den-cards.pokellector.com/320/Rockruff.CRE.86.39083.png",
+      "rarity": "Common",
+      "cardNum": "86/198"
+    },
+    {
+      "name": "Lycanroc",
+      "set": "Chilling Reign",
+      "img": "https://den-cards.pokellector.com/320/Lycanroc.CRE.87.39084.png",
+      "rarity": "Rare",
+      "cardNum": "87/198"
+    },
+    {
+      "name": "Passimian",
+      "set": "Chilling Reign",
+      "img": "https://den-cards.pokellector.com/320/Passimian.CRE.88.39085.png",
+      "rarity": "Rare",
+      "cardNum": "88/198"
+    },
+    {
+      "name": "Sandaconda V",
+      "set": "Chilling Reign",
+      "img": "https://den-cards.pokellector.com/320/Sandaconda-V.CRE.89.39086.png",
+      "rarity": "Rare",
+      "cardNum": "89/198"
+    },
+    {
+      "name": "Sandaconda VMAX",
+      "set": "Chilling Reign",
+      "img": "https://den-cards.pokellector.com/320/Sandaconda-VMAX.CRE.90.39087.png",
+      "rarity": "Rare",
+      "cardNum": "90/198"
+    },
+    {
+      "name": "Clobbopus",
+      "set": "Chilling Reign",
+      "img": "https://den-cards.pokellector.com/320/Clobbopus.CRE.91.39088.png",
+      "rarity": "Common",
+      "cardNum": "91/198"
+    },
+    {
+      "name": "Grapploct",
+      "set": "Chilling Reign",
+      "img": "https://den-cards.pokellector.com/320/Grapploct.CRE.92.39089.png",
+      "rarity": "Rare",
+      "cardNum": "92/198"
+    },
+    {
+      "name": "Kubfu",
+      "set": "Chilling Reign",
+      "img": "https://den-cards.pokellector.com/320/Kubfu.CRE.93.39090.png",
+      "rarity": "Common",
+      "cardNum": "93/198"
+    },
+    {
+      "name": "Koffing",
+      "set": "Chilling Reign",
+      "img": "https://den-cards.pokellector.com/320/Koffing.CRE.94.39091.png",
+      "rarity": "Common",
+      "cardNum": "94/198"
+    },
+    {
+      "name": "Weezing",
+      "set": "Chilling Reign",
+      "img": "https://den-cards.pokellector.com/320/Weezing.CRE.95.39092.png",
+      "rarity": "Rare",
+      "cardNum": "95/198"
+    },
+    {
+      "name": "Galarian Weezing",
+      "set": "Chilling Reign",
+      "img": "https://den-cards.pokellector.com/320/Galarian-Weezing.CRE.96.39093.png",
+      "rarity": "Rare",
+      "cardNum": "96/198"
+    },
+    {
+      "name": "Galarian Moltres V",
+      "set": "Chilling Reign",
+      "img": "https://den-cards.pokellector.com/320/Galarian-Moltres-V.CRE.97.38902.png",
+      "rarity": "Rare",
+      "cardNum": "97/198"
+    },
+    {
+      "name": "Galarian Slowking",
+      "set": "Chilling Reign",
+      "img": "https://den-cards.pokellector.com/320/Galarian-Slowking.CRE.98.39094.png",
+      "rarity": "Rare",
+      "cardNum": "98/198"
+    },
+    {
+      "name": "Galarian Slowking V",
+      "set": "Chilling Reign",
+      "img": "https://den-cards.pokellector.com/320/Galarian-Slowking-V.CRE.99.39095.png",
+      "rarity": "Rare",
+      "cardNum": "99/198"
+    },
+    {
+      "name": "Galarian Slowking VMAX",
+      "set": "Chilling Reign",
+      "img": "https://den-cards.pokellector.com/320/Galarian-Slowking-VMAX.CRE.100.39096.png",
+      "rarity": "Common",
+      "cardNum": "100/198"
+    },
+    {
+      "name": "Qwilfish",
+      "set": "Chilling Reign",
+      "img": "https://den-cards.pokellector.com/320/Qwilfish.CRE.101.39097.png",
+      "rarity": "Common",
+      "cardNum": "101/198"
+    },
+    {
+      "name": "Seviper",
+      "set": "Chilling Reign",
+      "img": "https://den-cards.pokellector.com/320/Seviper.CRE.102.39098.png",
+      "rarity": "Rare",
+      "cardNum": "102/198"
+    },
+    {
+      "name": "Spiritomb",
+      "set": "Chilling Reign",
+      "img": "https://den-cards.pokellector.com/320/Spiritomb.CRE.103.39099.png",
+      "rarity": "Rare",
+      "cardNum": "103/198"
+    },
+    {
+      "name": "Liepard V",
+      "set": "Chilling Reign",
+      "img": "https://den-cards.pokellector.com/320/Liepard-V.CRE.104.39100.png",
+      "rarity": "Rare",
+      "cardNum": "104/198"
+    },
+    {
+      "name": "Venipede",
+      "set": "Chilling Reign",
+      "img": "https://den-cards.pokellector.com/320/Venipede.CRE.105.39101.png",
+      "rarity": "Common",
+      "cardNum": "105/198"
+    },
+    {
+      "name": "Whirlipede",
+      "set": "Chilling Reign",
+      "img": "https://den-cards.pokellector.com/320/Whirlipede.CRE.106.39102.png",
+      "rarity": "Uncommon",
+      "cardNum": "106/198"
+    },
+    {
+      "name": "Scolipede",
+      "set": "Chilling Reign",
+      "img": "https://den-cards.pokellector.com/320/Scolipede.CRE.107.39103.png",
+      "rarity": "Rare",
+      "cardNum": "107/198"
+    },
+    {
+      "name": "Single Strike Urshifu",
+      "set": "Chilling Reign",
+      "img": "https://den-cards.pokellector.com/320/Single-Strike-Urshifu.CRE.108.39104.png",
+      "rarity": "Rare",
+      "cardNum": "108/198"
+    },
+    {
+      "name": "Aron",
+      "set": "Chilling Reign",
+      "img": "https://den-cards.pokellector.com/320/Aron.CRE.109.39105.png",
+      "rarity": "Common",
+      "cardNum": "109/198"
+    },
+    {
+      "name": "Lairon",
+      "set": "Chilling Reign",
+      "img": "https://den-cards.pokellector.com/320/Lairon.CRE.110.39106.png",
+      "rarity": "Uncommon",
+      "cardNum": "110/198"
+    },
+    {
+      "name": "Aggron",
+      "set": "Chilling Reign",
+      "img": "https://den-cards.pokellector.com/320/Aggron.CRE.111.39107.png",
+      "rarity": "Rare",
+      "cardNum": "111/198"
+    },
+    {
+      "name": "Metagross V",
+      "set": "Chilling Reign",
+      "img": "https://den-cards.pokellector.com/320/Metagross-V.CRE.112.39108.png",
+      "rarity": "Rare",
+      "cardNum": "112/198"
+    },
+    {
+      "name": "Metagross VMAX",
+      "set": "Chilling Reign",
+      "img": "https://den-cards.pokellector.com/320/Metagross-VMAX.CRE.113.38908.png",
+      "rarity": "Rare",
+      "cardNum": "113/198"
+    },
+    {
+      "name": "Cobalion",
+      "set": "Chilling Reign",
+      "img": "https://den-cards.pokellector.com/320/Cobalion.CRE.114.39109.png",
+      "rarity": "Rare",
+      "cardNum": "114/198"
+    },
+    {
+      "name": "Tauros",
+      "set": "Chilling Reign",
+      "img": "https://den-cards.pokellector.com/320/Tauros.CRE.115.39110.png",
+      "rarity": "Rare",
+      "cardNum": "115/198"
+    },
+    {
+      "name": "Porygon",
+      "set": "Chilling Reign",
+      "img": "https://den-cards.pokellector.com/320/Porygon.CRE.116.39111.png",
+      "rarity": "Common",
+      "cardNum": "116/198"
+    },
+    {
+      "name": "Porygon2",
+      "set": "Chilling Reign",
+      "img": "https://den-cards.pokellector.com/320/Porygon2.CRE.117.39112.png",
+      "rarity": "Uncommon",
+      "cardNum": "117/198"
+    },
+    {
+      "name": "Porygon-Z",
+      "set": "Chilling Reign",
+      "img": "https://den-cards.pokellector.com/320/Porygon-Z.CRE.118.39113.png",
+      "rarity": "Rare",
+      "cardNum": "118/198"
+    },
+    {
+      "name": "Blissey V",
+      "set": "Chilling Reign",
+      "img": "https://den-cards.pokellector.com/320/Blissey-V.CRE.119.38913.png",
+      "rarity": "Rare",
+      "cardNum": "119/198"
+    },
+    {
+      "name": "Zangoose",
+      "set": "Chilling Reign",
+      "img": "https://den-cards.pokellector.com/320/Zangoose.CRE.120.39114.png",
+      "rarity": "Rare",
+      "cardNum": "120/198"
+    },
+    {
+      "name": "Castform",
+      "set": "Chilling Reign",
+      "img": "https://den-cards.pokellector.com/320/Castform.CRE.121.39115.png",
+      "rarity": "Common",
+      "cardNum": "121/198"
+    },
+    {
+      "name": "Kecleon",
+      "set": "Chilling Reign",
+      "img": "https://den-cards.pokellector.com/320/Kecleon.CRE.122.39116.png",
+      "rarity": "Rare",
+      "cardNum": "122/198"
+    },
+    {
+      "name": "Shaymin",
+      "set": "Chilling Reign",
+      "img": "https://den-cards.pokellector.com/320/Shaymin.CRE.123.39117.png",
+      "rarity": "Rare",
+      "cardNum": "123/198"
+    },
+    {
+      "name": "Tornadus V",
+      "set": "Chilling Reign",
+      "img": "https://den-cards.pokellector.com/320/Tornadus-V.CRE.124.38912.png",
+      "rarity": "Rare",
+      "cardNum": "124/198"
+    },
+    {
+      "name": "Tornadus VMAX",
+      "set": "Chilling Reign",
+      "img": "https://den-cards.pokellector.com/320/Tornadus-VMAX.CRE.125.38909.png",
+      "rarity": "Rare",
+      "cardNum": "125/198"
+    },
+    {
+      "name": "Furfrou",
+      "set": "Chilling Reign",
+      "img": "https://den-cards.pokellector.com/320/Furfrou.CRE.126.39118.png",
+      "rarity": "Common",
+      "cardNum": "126/198"
+    },
+    {
+      "name": "Skwovet",
+      "set": "Chilling Reign",
+      "img": "https://den-cards.pokellector.com/320/Skwovet.CRE.127.39119.png",
+      "rarity": "Common",
+      "cardNum": "127/198"
+    },
+    {
+      "name": "Greedent",
+      "set": "Chilling Reign",
+      "img": "https://den-cards.pokellector.com/320/Greedent.CRE.128.39120.png",
+      "rarity": "Rare",
+      "cardNum": "128/198"
+    },
+    {
+      "name": "Agatha",
+      "set": "Chilling Reign",
+      "img": "https://den-cards.pokellector.com/320/Agatha.CRE.129.39121.png",
+      "rarity": "Uncommon",
+      "cardNum": "129/198"
+    },
+    {
+      "name": "Avery",
+      "set": "Chilling Reign",
+      "img": "https://den-cards.pokellector.com/320/Avery.CRE.130.39122.png",
+      "rarity": "Uncommon",
+      "cardNum": "130/198"
+    },
+    {
+      "name": "Brawly",
+      "set": "Chilling Reign",
+      "img": "https://den-cards.pokellector.com/320/Brawly.CRE.131.39123.png",
+      "rarity": "Uncommon",
+      "cardNum": "131/198"
+    },
+    {
+      "name": "Caitlin",
+      "set": "Chilling Reign",
+      "img": "https://den-cards.pokellector.com/320/Caitlin.CRE.132.39124.png",
+      "rarity": "Uncommon",
+      "cardNum": "132/198"
+    },
+    {
+      "name": "Crushing Gloves",
+      "set": "Chilling Reign",
+      "img": "https://den-cards.pokellector.com/320/Crushing-Gloves.CRE.133.39125.png",
+      "rarity": "Uncommon",
+      "cardNum": "133/198"
+    },
+    {
+      "name": "Doctor",
+      "set": "Chilling Reign",
+      "img": "https://den-cards.pokellector.com/320/Doctor.CRE.134.39126.png",
+      "rarity": "Uncommon",
+      "cardNum": "134/198"
+    },
+    {
+      "name": "Dyna Tree Hill",
+      "set": "Chilling Reign",
+      "img": "https://den-cards.pokellector.com/320/Dyna-Tree-Hill.CRE.135.39127.png",
+      "rarity": "Uncommon",
+      "cardNum": "135/198"
+    },
+    {
+      "name": "Echoing Horn",
+      "set": "Chilling Reign",
+      "img": "https://den-cards.pokellector.com/320/Echoing-Horn.CRE.136.39128.png",
+      "rarity": "Uncommon",
+      "cardNum": "136/198"
+    },
+    {
+      "name": "Expedition Uniform",
+      "set": "Chilling Reign",
+      "img": "https://den-cards.pokellector.com/320/Expedition-Uniform.CRE.137.39129.png",
+      "rarity": "Uncommon",
+      "cardNum": "137/198"
+    },
+    {
+      "name": "Fire-Resistant Gloves",
+      "set": "Chilling Reign",
+      "img": "https://den-cards.pokellector.com/320/Fire-Resistant-Gloves.CRE.138.39130.png",
+      "rarity": "Uncommon",
+      "cardNum": "138/198"
+    },
+    {
+      "name": "Flannery",
+      "set": "Chilling Reign",
+      "img": "https://den-cards.pokellector.com/320/Flannery.CRE.139.39131.png",
+      "rarity": "Uncommon",
+      "cardNum": "139/198"
+    },
+    {
+      "name": "Fog Crystal",
+      "set": "Chilling Reign",
+      "img": "https://den-cards.pokellector.com/320/Fog-Crystal.CRE.140.39132.png",
+      "rarity": "Uncommon",
+      "cardNum": "140/198"
+    },
+    {
+      "name": "Galarian Chestplate",
+      "set": "Chilling Reign",
+      "img": "https://den-cards.pokellector.com/320/Galarian-Chestplate.CRE.141.39133.png",
+      "rarity": "Uncommon",
+      "cardNum": "141/198"
+    },
+    {
+      "name": "Honey",
+      "set": "Chilling Reign",
+      "img": "https://den-cards.pokellector.com/320/Honey.CRE.142.39134.png",
+      "rarity": "Uncommon",
+      "cardNum": "142/198"
+    },
+    {
+      "name": "Justified Gloves",
+      "set": "Chilling Reign",
+      "img": "https://den-cards.pokellector.com/320/Justified-Gloves.CRE.143.39135.png",
+      "rarity": "Uncommon",
+      "cardNum": "143/198"
+    },
+    {
+      "name": "Karen's Conviction",
+      "set": "Chilling Reign",
+      "img": "https://den-cards.pokellector.com/320/Karens-Conviction.CRE.144.39136.png",
+      "rarity": "Uncommon",
+      "cardNum": "144/198"
+    },
+    {
+      "name": "Klara",
+      "set": "Chilling Reign",
+      "img": "https://den-cards.pokellector.com/320/Klara.CRE.145.39137.png",
+      "rarity": "Uncommon",
+      "cardNum": "145/198"
+    },
+    {
+      "name": "Melony",
+      "set": "Chilling Reign",
+      "img": "https://den-cards.pokellector.com/320/Melony.CRE.146.39138.png",
+      "rarity": "Uncommon",
+      "cardNum": "146/198"
+    },
+    {
+      "name": "Old Cemetery",
+      "set": "Chilling Reign",
+      "img": "https://den-cards.pokellector.com/320/Old-Cemetery.CRE.147.39139.png",
+      "rarity": "Uncommon",
+      "cardNum": "147/198"
+    },
+    {
+      "name": "Path to the Peak",
+      "set": "Chilling Reign",
+      "img": "https://den-cards.pokellector.com/320/Path-to-the-Peak.CRE.148.39140.png",
+      "rarity": "Uncommon",
+      "cardNum": "148/198"
+    },
+    {
+      "name": "Peonia",
+      "set": "Chilling Reign",
+      "img": "https://den-cards.pokellector.com/320/Peonia.CRE.149.39141.png",
+      "rarity": "Uncommon",
+      "cardNum": "149/198"
+    },
+    {
+      "name": "Peony",
+      "set": "Chilling Reign",
+      "img": "https://den-cards.pokellector.com/320/Peony.CRE.150.39142.png",
+      "rarity": "Uncommon",
+      "cardNum": "150/198"
+    },
+    {
+      "name": "Rapid Strike Scroll of the Skies",
+      "set": "Chilling Reign",
+      "img": "https://den-cards.pokellector.com/320/Rapid-Strike-Scroll-of-the-Skies.CRE.151.39143.png",
+      "rarity": "Uncommon",
+      "cardNum": "151/198"
+    },
+    {
+      "name": "Rugged Helmet",
+      "set": "Chilling Reign",
+      "img": "https://den-cards.pokellector.com/320/Rugged-Helmet.CRE.152.39144.png",
+      "rarity": "Uncommon",
+      "cardNum": "152/198"
+    },
+    {
+      "name": "Siebold",
+      "set": "Chilling Reign",
+      "img": "https://den-cards.pokellector.com/320/Siebold.CRE.153.39145.png",
+      "rarity": "Uncommon",
+      "cardNum": "153/198"
+    },
+    {
+      "name": "Single Strike Scroll of Piercing",
+      "set": "Chilling Reign",
+      "img": "https://den-cards.pokellector.com/320/Single-Strike-Scroll-of-Piercing.CRE.154.39146.png",
+      "rarity": "Uncommon",
+      "cardNum": "154/198"
+    },
+    {
+      "name": "Weeding Gloves",
+      "set": "Chilling Reign",
+      "img": "https://den-cards.pokellector.com/320/Weeding-Gloves.CRE.155.39147.png",
+      "rarity": "Uncommon",
+      "cardNum": "155/198"
+    },
+    {
+      "name": "Welcoming Lantern",
+      "set": "Chilling Reign",
+      "img": "https://den-cards.pokellector.com/320/Welcoming-Lantern.CRE.156.39148.png",
+      "rarity": "Uncommon",
+      "cardNum": "156/198"
+    },
+    {
+      "name": "Impact Energy",
+      "set": "Chilling Reign",
+      "img": "https://den-cards.pokellector.com/320/Impact-Energy.CRE.157.39149.png",
+      "rarity": "Uncommon",
+      "cardNum": "157/198"
+    },
+    {
+      "name": "Lucky Energy",
+      "set": "Chilling Reign",
+      "img": "https://den-cards.pokellector.com/320/Lucky-Energy.CRE.158.39150.png",
+      "rarity": "Uncommon",
+      "cardNum": "158/198"
+    },
+    {
+      "name": "Spiral Energy",
+      "set": "Chilling Reign",
+      "img": "https://den-cards.pokellector.com/320/Spiral-Energy.CRE.159.39151.png",
+      "rarity": "Uncommon",
+      "cardNum": "159/198"
+    },
+    {
+      "name": "Celebi V",
+      "set": "Chilling Reign",
+      "img": "https://den-cards.pokellector.com/320/Celebi-V.CRE.160.39152.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "160/198"
+    },
+    {
+      "name": "Blaziken V",
+      "set": "Chilling Reign",
+      "img": "https://den-cards.pokellector.com/320/Blaziken-V.CRE.161.39153.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "161/198"
+    },
+    {
+      "name": "Volcanion V",
+      "set": "Chilling Reign",
+      "img": "https://den-cards.pokellector.com/320/Volcanion-V.CRE.162.39154.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "162/198"
+    },
+    {
+      "name": "Ice Rider Calyrex V",
+      "set": "Chilling Reign",
+      "img": "https://den-cards.pokellector.com/320/Ice-Rider-Calyrex-V.CRE.163.39155.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "163/198"
+    },
+    {
+      "name": "Ice Rider Calyrex V",
+      "set": "Chilling Reign",
+      "img": "https://den-cards.pokellector.com/320/Ice-Rider-Calyrex-V.CRE.164.39156.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "164/198"
+    },
+    {
+      "name": "Zeraora V",
+      "set": "Chilling Reign",
+      "img": "https://den-cards.pokellector.com/320/Zeraora-V.CRE.165.39157.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "165/198"
+    },
+    {
+      "name": "Zeraora V",
+      "set": "Chilling Reign",
+      "img": "https://den-cards.pokellector.com/320/Zeraora-V.CRE.166.38903.png",
+      "rarity": "Rare",
+      "cardNum": "166/198"
+    },
+    {
+      "name": "Galarian Rapidash V",
+      "set": "Chilling Reign",
+      "img": "https://den-cards.pokellector.com/320/Galarian-Rapidash-V.CRE.167.38910.png",
+      "rarity": "Rare",
+      "cardNum": "167/198"
+    },
+    {
+      "name": "Galarian Rapidash V",
+      "set": "Chilling Reign",
+      "img": "https://den-cards.pokellector.com/320/Galarian-Rapidash-V.CRE.168.39158.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "168/198"
+    },
+    {
+      "name": "Galarian Articuno V",
+      "set": "Chilling Reign",
+      "img": "https://den-cards.pokellector.com/320/Galarian-Articuno-V.CRE.169.39159.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "169/198"
+    },
+    {
+      "name": "Galarian Articuno V",
+      "set": "Chilling Reign",
+      "img": "https://den-cards.pokellector.com/320/Galarian-Articuno-V.CRE.120.38905.png",
+      "rarity": "Rare",
+      "cardNum": "170/198"
+    },
+    {
+      "name": "Shadow Rider Calyrex V",
+      "set": "Chilling Reign",
+      "img": "https://den-cards.pokellector.com/320/Shadow-Rider-Calyrex-V.CRE.171.39160.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "171/198"
+    },
+    {
+      "name": "Shadow Rider Calyrex V",
+      "set": "Chilling Reign",
+      "img": "https://den-cards.pokellector.com/320/Shadow-Rider-Calyrex-V.CRE.172.39161.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "172/198"
+    },
+    {
+      "name": "Galarian Zapdos V",
+      "set": "Chilling Reign",
+      "img": "https://den-cards.pokellector.com/320/Galarian-Zapdos-V.CRE.173.39162.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "173/198"
+    },
+    {
+      "name": "Galarian Zapdos V",
+      "set": "Chilling Reign",
+      "img": "https://den-cards.pokellector.com/320/Galarian-Zapdos-V.CRE.174.38906.png",
+      "rarity": "Rare",
+      "cardNum": "174/198"
+    },
+    {
+      "name": "Sandaconda V",
+      "set": "Chilling Reign",
+      "img": "https://den-cards.pokellector.com/320/Sandaconda-V.CRE.175.39163.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "175/198"
+    },
+    {
+      "name": "Galarian Moltres V",
+      "set": "Chilling Reign",
+      "img": "https://den-cards.pokellector.com/320/Galarian-Moltres-V.CRE.176.39164.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "176/198"
+    },
+    {
+      "name": "Galarian Moltres V",
+      "set": "Chilling Reign",
+      "img": "https://den-cards.pokellector.com/320/Galarian-Moltres-V.CRE.177.38907.png",
+      "rarity": "Rare",
+      "cardNum": "177/198"
+    },
+    {
+      "name": "Galarian Slowking V",
+      "set": "Chilling Reign",
+      "img": "https://den-cards.pokellector.com/320/Galarian-Slowking-V.CRE.178.39165.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "178/198"
+    },
+    {
+      "name": "Galarian Slowking V",
+      "set": "Chilling Reign",
+      "img": "https://den-cards.pokellector.com/320/Galarian-Slowking-V.CRE.179.39166.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "179/198"
+    },
+    {
+      "name": "Liepard V",
+      "set": "Chilling Reign",
+      "img": "https://den-cards.pokellector.com/320/Liepard-V.CRE.180.39167.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "180/198"
+    },
+    {
+      "name": "Metagross V",
+      "set": "Chilling Reign",
+      "img": "https://den-cards.pokellector.com/320/Metagross-V.CRE.181.39168.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "181/198"
+    },
+    {
+      "name": "Blissey V",
+      "set": "Chilling Reign",
+      "img": "https://den-cards.pokellector.com/320/Blissey-V.CRE.182.39169.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "182/198"
+    },
+    {
+      "name": "Blissey V",
+      "set": "Chilling Reign",
+      "img": "https://den-cards.pokellector.com/320/Blissey-V.CRE.183.39170.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "183/198"
+    },
+    {
+      "name": "Tornadus V",
+      "set": "Chilling Reign",
+      "img": "https://den-cards.pokellector.com/320/Tornadus-V.CRE.184.39171.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "184/198"
+    },
+    {
+      "name": "Tornadus V",
+      "set": "Chilling Reign",
+      "img": "https://den-cards.pokellector.com/320/Tornadus-V.CRE.185.39172.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "185/198"
+    },
+    {
+      "name": "Agatha",
+      "set": "Chilling Reign",
+      "img": "https://den-cards.pokellector.com/320/Agatha.CRE.186.39173.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "186/198"
+    },
+    {
+      "name": "Avery",
+      "set": "Chilling Reign",
+      "img": "https://den-cards.pokellector.com/320/Avery.CRE.187.39174.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "187/198"
+    },
+    {
+      "name": "Brawly",
+      "set": "Chilling Reign",
+      "img": "https://den-cards.pokellector.com/320/Brawly.CRE.188.39175.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "188/198"
+    },
+    {
+      "name": "Caitlin",
+      "set": "Chilling Reign",
+      "img": "https://den-cards.pokellector.com/320/Caitlin.CRE.189.39176.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "189/198"
+    },
+    {
+      "name": "Doctor",
+      "set": "Chilling Reign",
+      "img": "https://den-cards.pokellector.com/320/Doctor.CRE.190.39177.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "190/198"
+    },
+    {
+      "name": "Flannery",
+      "set": "Chilling Reign",
+      "img": "https://den-cards.pokellector.com/320/Flannery.CRE.191.39178.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "191/198"
+    },
+    {
+      "name": "Honey",
+      "set": "Chilling Reign",
+      "img": "https://den-cards.pokellector.com/320/Honey.CRE.192.39179.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "192/198"
+    },
+    {
+      "name": "Karen's Conviction",
+      "set": "Chilling Reign",
+      "img": "https://den-cards.pokellector.com/320/Karens-Conviction.CRE.193.39180.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "193/198"
+    },
+    {
+      "name": "Klara",
+      "set": "Chilling Reign",
+      "img": "https://den-cards.pokellector.com/320/Klara.CRE.194.39181.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "194/198"
+    },
+    {
+      "name": "Melony",
+      "set": "Chilling Reign",
+      "img": "https://den-cards.pokellector.com/320/Melony.CRE.195.39182.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "195/198"
+    },
+    {
+      "name": "Peonia",
+      "set": "Chilling Reign",
+      "img": "https://den-cards.pokellector.com/320/Peonia.CRE.196.39183.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "196/198"
+    },
+    {
+      "name": "Peony",
+      "set": "Chilling Reign",
+      "img": "https://den-cards.pokellector.com/320/Peony.CRE.197.39184.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "197/198"
+    },
+    {
+      "name": "Siebold",
+      "set": "Chilling Reign",
+      "img": "https://den-cards.pokellector.com/320/Siebold.CRE.198.39185.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "198/198"
+    },
+    {
+      "name": "Celebi VMAX",
+      "set": "Chilling Reign",
+      "img": "https://den-cards.pokellector.com/320/Celebi-VMAX.CRE.199.39223.png",
+      "rarity": "Secret Rare",
+      "cardNum": "199/198"
+    },
+    {
+      "name": "Blaziken VMAX",
+      "set": "Chilling Reign",
+      "img": "https://den-cards.pokellector.com/320/Blaziken-VMAX.CRE.200.39224.png",
+      "rarity": "Secret Rare",
+      "cardNum": "200/198"
+    },
+    {
+      "name": "Blaziken VMAX",
+      "set": "Chilling Reign",
+      "img": "https://den-cards.pokellector.com/320/Blaziken-VMAX.CRE.201.39225.png",
+      "rarity": "Secret Rare",
+      "cardNum": "201/198"
+    },
+    {
+      "name": "Ice Rider Calyrex VMAX",
+      "set": "Chilling Reign",
+      "img": "https://den-cards.pokellector.com/320/Ice-Rider-Calyrex-VMAX.CRE.202.39226.png",
+      "rarity": "Secret Rare",
+      "cardNum": "202/198"
+    },
+    {
+      "name": "Ice Rider Calyrex VMAX",
+      "set": "Chilling Reign",
+      "img": "https://den-cards.pokellector.com/320/Ice-Rider-Calyrex-VMAX.CRE.203.39227.png",
+      "rarity": "Secret Rare",
+      "cardNum": "203/198"
+    },
+    {
+      "name": "Shadow Rider Calyrex VMAX",
+      "set": "Chilling Reign",
+      "img": "https://den-cards.pokellector.com/320/Shadow-Rider-Calyrex-VMAX.CRE.204.39228.png",
+      "rarity": "Secret Rare",
+      "cardNum": "204/198"
+    },
+    {
+      "name": "Shadow Rider Calyrex VMAX",
+      "set": "Chilling Reign",
+      "img": "https://den-cards.pokellector.com/320/Shadow-Rider-Calyrex-VMAX.CRE.205.39229.png",
+      "rarity": "Secret Rare",
+      "cardNum": "205/198"
+    },
+    {
+      "name": "Sandaconda VMAX",
+      "set": "Chilling Reign",
+      "img": "https://den-cards.pokellector.com/320/Sandaconda-VMAX.CRE.206.39230.png",
+      "rarity": "Secret Rare",
+      "cardNum": "206/198"
+    },
+    {
+      "name": "Slowking VMAX",
+      "set": "Chilling Reign",
+      "img": "https://den-cards.pokellector.com/320/Slowking-VMAX.CRE.207.39231.png",
+      "rarity": "Secret Rare",
+      "cardNum": "207/198"
+    },
+    {
+      "name": "Metagross VMAX",
+      "set": "Chilling Reign",
+      "img": "https://den-cards.pokellector.com/320/Metagross-VMAX.CRE.208.39232.png",
+      "rarity": "Secret Rare",
+      "cardNum": "208/198"
+    },
+    {
+      "name": "Tornadus VMAX",
+      "set": "Chilling Reign",
+      "img": "https://den-cards.pokellector.com/320/Tornadus-VMAX.CRE.209.39233.png",
+      "rarity": "Secret Rare",
+      "cardNum": "209/198"
+    },
+    {
+      "name": "Agatha",
+      "set": "Chilling Reign",
+      "img": "https://den-cards.pokellector.com/320/Agatha.CRE.210.39234.png",
+      "rarity": "Secret Rare",
+      "cardNum": "210/198"
+    },
+    {
+      "name": "Avery",
+      "set": "Chilling Reign",
+      "img": "https://den-cards.pokellector.com/320/Avery.CRE.211.39235.png",
+      "rarity": "Secret Rare",
+      "cardNum": "211/198"
+    },
+    {
+      "name": "Brawly",
+      "set": "Chilling Reign",
+      "img": "https://den-cards.pokellector.com/320/Brawley.CRE.212.39236.png",
+      "rarity": "Secret Rare",
+      "cardNum": "212/198"
+    },
+    {
+      "name": "Caitlin",
+      "set": "Chilling Reign",
+      "img": "https://den-cards.pokellector.com/320/Caitlin.CRE.213.39237.png",
+      "rarity": "Secret Rare",
+      "cardNum": "213/198"
+    },
+    {
+      "name": "Doctor",
+      "set": "Chilling Reign",
+      "img": "https://den-cards.pokellector.com/320/Doctor.CRE.214.39238.png",
+      "rarity": "Secret Rare",
+      "cardNum": "214/198"
+    },
+    {
+      "name": "Flannery",
+      "set": "Chilling Reign",
+      "img": "https://den-cards.pokellector.com/320/Flannery.CRE.215.39239.png",
+      "rarity": "Secret Rare",
+      "cardNum": "215/198"
+    },
+    {
+      "name": "Karen's Conviction",
+      "set": "Chilling Reign",
+      "img": "https://den-cards.pokellector.com/320/Karens-Conviction.CRE.216.39240.png",
+      "rarity": "Secret Rare",
+      "cardNum": "216/198"
+    },
+    {
+      "name": "Klara",
+      "set": "Chilling Reign",
+      "img": "https://den-cards.pokellector.com/320/Klara.CRE.217.39241.png",
+      "rarity": "Secret Rare",
+      "cardNum": "217/198"
+    },
+    {
+      "name": "Melony",
+      "set": "Chilling Reign",
+      "img": "https://den-cards.pokellector.com/320/Melony.CRE.218.39242.png",
+      "rarity": "Secret Rare",
+      "cardNum": "218/198"
+    },
+    {
+      "name": "Peonia",
+      "set": "Chilling Reign",
+      "img": "https://den-cards.pokellector.com/320/Peonia.CRE.219.39243.png",
+      "rarity": "Secret Rare",
+      "cardNum": "219/198"
+    },
+    {
+      "name": "Peony",
+      "set": "Chilling Reign",
+      "img": "https://den-cards.pokellector.com/320/Peony.CRE.220.39244.png",
+      "rarity": "Secret Rare",
+      "cardNum": "220/198"
+    },
+    {
+      "name": "Siebold",
+      "set": "Chilling Reign",
+      "img": "https://den-cards.pokellector.com/320/Siebold.CRE.221.39245.png",
+      "rarity": "Secret Rare",
+      "cardNum": "221/198"
+    },
+    {
+      "name": "Electrode",
+      "set": "Chilling Reign",
+      "img": "https://den-cards.pokellector.com/320/Electrode.CRE.222.39246.png",
+      "rarity": "Secret Rare",
+      "cardNum": "222/198"
+    },
+    {
+      "name": "Bronzong",
+      "set": "Chilling Reign",
+      "img": "https://den-cards.pokellector.com/320/Bronzong.CRE.223.39247.png",
+      "rarity": "Secret Rare",
+      "cardNum": "223/198"
+    },
+    {
+      "name": "Snorlax",
+      "set": "Chilling Reign",
+      "img": "https://den-cards.pokellector.com/320/Snorlax.CRE.224.39248.png",
+      "rarity": "Secret Rare",
+      "cardNum": "224/198"
+    },
+    {
+      "name": "Echoing Horn",
+      "set": "Chilling Reign",
+      "img": "https://den-cards.pokellector.com/320/Echoing-Horn.CRE.225.39249.png",
+      "rarity": "Secret Rare",
+      "cardNum": "225/198"
+    },
+    {
+      "name": "Fan of Waves",
+      "set": "Chilling Reign",
+      "img": "https://den-cards.pokellector.com/320/Fan-of-Waves.CRE.226.39250.png",
+      "rarity": "Secret Rare",
+      "cardNum": "226/198"
+    },
+    {
+      "name": "Fog Crystal",
+      "set": "Chilling Reign",
+      "img": "https://den-cards.pokellector.com/320/Fog-Crystal.CRE.227.39251.png",
+      "rarity": "Secret Rare",
+      "cardNum": "227/198"
+    },
+    {
+      "name": "Rugged Helmet",
+      "set": "Chilling Reign",
+      "img": "https://den-cards.pokellector.com/320/Rugged-Helmet.CRE.228.39252.png",
+      "rarity": "Secret Rare",
+      "cardNum": "228/198"
+    },
+    {
+      "name": "Urn of Vitality",
+      "set": "Chilling Reign",
+      "img": "https://den-cards.pokellector.com/320/Urn-of-Vitality.CRE.229.39253.png",
+      "rarity": "Secret Rare",
+      "cardNum": "229/198"
+    },
+    {
+      "name": "Welcoming Lantern",
+      "set": "Chilling Reign",
+      "img": "https://den-cards.pokellector.com/320/Welcoming-Lantern.CRE.230.39254.png",
+      "rarity": "Secret Rare",
+      "cardNum": "230/198"
+    },
+    {
+      "name": "Water Energy",
+      "set": "Chilling Reign",
+      "img": "https://den-cards.pokellector.com/320/Water-Energy.CRE.231.39255.png",
+      "rarity": "Secret Rare",
+      "cardNum": "231/198"
+    },
+    {
+      "name": "Psychic Energy",
+      "set": "Chilling Reign",
+      "img": "https://den-cards.pokellector.com/320/Psychic-Energy.CRE.232.39256.png",
+      "rarity": "Secret Rare",
+      "cardNum": "232/198"
+    },
+    {
+      "name": "Fighting Energy",
+      "set": "Chilling Reign",
+      "img": "https://den-cards.pokellector.com/320/Fighting-Energy.CRE.233.39257.png",
+      "rarity": "Secret Rare",
+      "cardNum": "233/198"
+    }
+  ]
+}

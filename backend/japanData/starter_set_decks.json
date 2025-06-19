@@ -1,0 +1,418 @@
+{
+  "setName": "Starter Set Decks",
+  "cards": [
+    {
+      "name": "Pinsir",
+      "set": "Starter Set Decks",
+      "img": "https://den-cards.pokellector.com/208/Pinsir.SMA.1.13866.png",
+      "rarity": "Common",
+      "cardNum": "1/59"
+    },
+    {
+      "name": "Rowlet",
+      "set": "Starter Set Decks",
+      "img": "https://den-cards.pokellector.com/208/Rowlet.SMA.2.13483.png",
+      "rarity": "Common",
+      "cardNum": "2/59"
+    },
+    {
+      "name": "Dartrix",
+      "set": "Starter Set Decks",
+      "img": "https://den-cards.pokellector.com/208/Dartrix.SMA.3.13484.png",
+      "rarity": "Common",
+      "cardNum": "3/59"
+    },
+    {
+      "name": "Decidueye GX",
+      "set": "Starter Set Decks",
+      "img": "https://den-cards.pokellector.com/208/Decidueye-GX.SMA.4.13432.png",
+      "rarity": "Common",
+      "cardNum": "4/59"
+    },
+    {
+      "name": "Grubbin",
+      "set": "Starter Set Decks",
+      "img": "https://den-cards.pokellector.com/208/Grubbin.SMA.5.13867.png",
+      "rarity": "Common",
+      "cardNum": "5/59"
+    },
+    {
+      "name": "Morelull",
+      "set": "Starter Set Decks",
+      "img": "https://den-cards.pokellector.com/208/Morelull.SMA.6.13868.png",
+      "rarity": "Common",
+      "cardNum": "6/59"
+    },
+    {
+      "name": "Growlithe",
+      "set": "Starter Set Decks",
+      "img": "https://den-cards.pokellector.com/208/Growlithe.SMA.7.13869.png",
+      "rarity": "Common",
+      "cardNum": "7/59"
+    },
+    {
+      "name": "Torkoal",
+      "set": "Starter Set Decks",
+      "img": "https://den-cards.pokellector.com/208/Torkoal.SMA.8.13870.png",
+      "rarity": "Common",
+      "cardNum": "8/59"
+    },
+    {
+      "name": "Litten",
+      "set": "Starter Set Decks",
+      "img": "https://den-cards.pokellector.com/208/Litten.SMA.9.png",
+      "rarity": "Common",
+      "cardNum": "9/59"
+    },
+    {
+      "name": "Torracat",
+      "set": "Starter Set Decks",
+      "img": "https://den-cards.pokellector.com/208/Torracat.SMA.10.png",
+      "rarity": "Common",
+      "cardNum": "10/59"
+    },
+    {
+      "name": "Incineroar GX",
+      "set": "Starter Set Decks",
+      "img": "https://den-cards.pokellector.com/208/Inceneroar-GX.SMA.11.png",
+      "rarity": "Common",
+      "cardNum": "11/59"
+    },
+    {
+      "name": "Popplio",
+      "set": "Starter Set Decks",
+      "img": "https://den-cards.pokellector.com/208/Popplio.SMA.12.13480.png",
+      "rarity": "Common",
+      "cardNum": "12/59"
+    },
+    {
+      "name": "Brionne",
+      "set": "Starter Set Decks",
+      "img": "https://den-cards.pokellector.com/208/Brionne.SMA.13.13481.png",
+      "rarity": "Common",
+      "cardNum": "13/59"
+    },
+    {
+      "name": "Primarina GX",
+      "set": "Starter Set Decks",
+      "img": "https://den-cards.pokellector.com/208/Primarina-GX.SMA.14.13434.png",
+      "rarity": "Common",
+      "cardNum": "14/59"
+    },
+    {
+      "name": "Dewpider",
+      "set": "Starter Set Decks",
+      "img": "https://den-cards.pokellector.com/208/Dewpider.SMA.15.13871.png",
+      "rarity": "Common",
+      "cardNum": "15/59"
+    },
+    {
+      "name": "Bruxish",
+      "set": "Starter Set Decks",
+      "img": "https://den-cards.pokellector.com/208/Bruxish.SMA.16.13482.png",
+      "rarity": "Common",
+      "cardNum": "16/59"
+    },
+    {
+      "name": "Charjabug",
+      "set": "Starter Set Decks",
+      "img": "https://den-cards.pokellector.com/208/Charjabug.SMA.17.13872.png",
+      "rarity": "Common",
+      "cardNum": "17/59"
+    },
+    {
+      "name": "Togedemaru",
+      "set": "Starter Set Decks",
+      "img": "https://den-cards.pokellector.com/208/Togedemaru.SMA.18.13873.png",
+      "rarity": "Common",
+      "cardNum": "18/59"
+    },
+    {
+      "name": "Drowzee",
+      "set": "Starter Set Decks",
+      "img": "https://den-cards.pokellector.com/208/Drowzee.SMA.19.13874.png",
+      "rarity": "Common",
+      "cardNum": "19/59"
+    },
+    {
+      "name": "Hypno",
+      "set": "Starter Set Decks",
+      "img": "https://den-cards.pokellector.com/208/Hypno.SMA.20.13875.png",
+      "rarity": "Common",
+      "cardNum": "20/59"
+    },
+    {
+      "name": "Mareanie",
+      "set": "Starter Set Decks",
+      "img": "https://den-cards.pokellector.com/208/Mareanie.SMA.21.13876.png",
+      "rarity": "Common",
+      "cardNum": "21/59"
+    },
+    {
+      "name": "Cosmog",
+      "set": "Starter Set Decks",
+      "img": "https://den-cards.pokellector.com/208/Cosmog.SMA.22.13877.png",
+      "rarity": "Common",
+      "cardNum": "22/59"
+    },
+    {
+      "name": "Makuhita",
+      "set": "Starter Set Decks",
+      "img": "https://den-cards.pokellector.com/208/Makuhita.SMA.23.13878.png",
+      "rarity": "Common",
+      "cardNum": "23/59"
+    },
+    {
+      "name": "Hariyama",
+      "set": "Starter Set Decks",
+      "img": "https://den-cards.pokellector.com/208/Hariyama.SMA.24.13879.png",
+      "rarity": "Common",
+      "cardNum": "24/59"
+    },
+    {
+      "name": "Sandygast",
+      "set": "Starter Set Decks",
+      "img": "https://den-cards.pokellector.com/208/Sandygast.SMA.25.13880.png",
+      "rarity": "Common",
+      "cardNum": "25/59"
+    },
+    {
+      "name": "Alolan Meowth",
+      "set": "Starter Set Decks",
+      "img": "https://den-cards.pokellector.com/208/Alolan-Meowth.SMA.26.13881.png",
+      "rarity": "Common",
+      "cardNum": "26/59"
+    },
+    {
+      "name": "Sandile",
+      "set": "Starter Set Decks",
+      "img": "https://den-cards.pokellector.com/208/Sandile.SMA.27.13882.png",
+      "rarity": "Common",
+      "cardNum": "27/59"
+    },
+    {
+      "name": "Krokorok",
+      "set": "Starter Set Decks",
+      "img": "https://den-cards.pokellector.com/208/Krokorok.SMA.28.13883.png",
+      "rarity": "Common",
+      "cardNum": "28/59"
+    },
+    {
+      "name": "Skarmory",
+      "set": "Starter Set Decks",
+      "img": "https://den-cards.pokellector.com/208/Skarmory.SMA.29.13884.png",
+      "rarity": "Common",
+      "cardNum": "29/59"
+    },
+    {
+      "name": "Snubbull",
+      "set": "Starter Set Decks",
+      "img": "https://den-cards.pokellector.com/208/Snubbull.SMA.30.13885.png",
+      "rarity": "Common",
+      "cardNum": "30/59"
+    },
+    {
+      "name": "Granbull",
+      "set": "Starter Set Decks",
+      "img": "https://den-cards.pokellector.com/208/Granbull.SMA.31.13886.png",
+      "rarity": "Common",
+      "cardNum": "31/59"
+    },
+    {
+      "name": "Cutiefly",
+      "set": "Starter Set Decks",
+      "img": "https://den-cards.pokellector.com/208/Cutiefly.SMA.32.13887.png",
+      "rarity": "Common",
+      "cardNum": "32/59"
+    },
+    {
+      "name": "Kangaskhan",
+      "set": "Starter Set Decks",
+      "img": "https://den-cards.pokellector.com/208/Kangaskhan.SMA.33.13888.png",
+      "rarity": "Common",
+      "cardNum": "33/59"
+    },
+    {
+      "name": "Lillipup",
+      "set": "Starter Set Decks",
+      "img": "https://den-cards.pokellector.com/208/Lillipup.SMA.34.13889.png",
+      "rarity": "Common",
+      "cardNum": "34/59"
+    },
+    {
+      "name": "Herdier",
+      "set": "Starter Set Decks",
+      "img": "https://den-cards.pokellector.com/208/Herdier.SMA.35.13890.png",
+      "rarity": "Common",
+      "cardNum": "35/59"
+    },
+    {
+      "name": "Energy Retrieval",
+      "set": "Starter Set Decks",
+      "img": "https://den-cards.pokellector.com/208/Energy-Retrieval.SMA.36.13891.png",
+      "rarity": "Common",
+      "cardNum": "36/59"
+    },
+    {
+      "name": "Energy Switch",
+      "set": "Starter Set Decks",
+      "img": "https://den-cards.pokellector.com/208/Energy-Switch.SMA.37.13892.png",
+      "rarity": "Common",
+      "cardNum": "37/59"
+    },
+    {
+      "name": "Big Malasada",
+      "set": "Starter Set Decks",
+      "img": "https://den-cards.pokellector.com/208/Big-Malasada.SMA.38.13893.png",
+      "rarity": "Common",
+      "cardNum": "38/59"
+    },
+    {
+      "name": "Potion",
+      "set": "Starter Set Decks",
+      "img": "https://den-cards.pokellector.com/208/Potion.SMA.39.13894.png",
+      "rarity": "Common",
+      "cardNum": "39/59"
+    },
+    {
+      "name": "Crushing Hammer",
+      "set": "Starter Set Decks",
+      "img": "https://den-cards.pokellector.com/208/Crushing-Hammer.SMA.40.13895.png",
+      "rarity": "Common",
+      "cardNum": "40/59"
+    },
+    {
+      "name": "Great Ball",
+      "set": "Starter Set Decks",
+      "img": "https://den-cards.pokellector.com/208/Great-Ball.SMA.41.13896.png",
+      "rarity": "Common",
+      "cardNum": "41/59"
+    },
+    {
+      "name": "Time Ball",
+      "set": "Starter Set Decks",
+      "img": "https://den-cards.pokellector.com/208/Time-Ball.SMA.42.13550.png",
+      "rarity": "Common",
+      "cardNum": "42/59"
+    },
+    {
+      "name": "Nest Ball",
+      "set": "Starter Set Decks",
+      "img": "https://den-cards.pokellector.com/208/Nest-Ball.SMA.43.png",
+      "rarity": "Common",
+      "cardNum": "43/59"
+    },
+    {
+      "name": "Ultra Ball",
+      "set": "Starter Set Decks",
+      "img": "https://den-cards.pokellector.com/208/Ultra-Ball.SMA.44.13897.png",
+      "rarity": "Common",
+      "cardNum": "44/59"
+    },
+    {
+      "name": "Rare Candy",
+      "set": "Starter Set Decks",
+      "img": "https://den-cards.pokellector.com/208/Rare-Candy.SMA.45.13898.png",
+      "rarity": "Common",
+      "cardNum": "45/59"
+    },
+    {
+      "name": "Switch",
+      "set": "Starter Set Decks",
+      "img": "https://den-cards.pokellector.com/208/Switch.SMA.46.13899.png",
+      "rarity": "Common",
+      "cardNum": "46/59"
+    },
+    {
+      "name": "Pokemon Catcher",
+      "set": "Starter Set Decks",
+      "img": "https://den-cards.pokellector.com/208/Pokemon-Catcher.SMA.47.13910.png",
+      "rarity": "Common",
+      "cardNum": "47/59"
+    },
+    {
+      "name": "Repel",
+      "set": "Starter Set Decks",
+      "img": "https://den-cards.pokellector.com/208/Repel.SMA.48.13900.png",
+      "rarity": "Common",
+      "cardNum": "48/59"
+    },
+    {
+      "name": "Poke Ball",
+      "set": "Starter Set Decks",
+      "img": "https://den-cards.pokellector.com/208/Poke-Ball.SMA.48.13911.png",
+      "rarity": "Common",
+      "cardNum": "49/59"
+    },
+    {
+      "name": "Rotom Dex",
+      "set": "Starter Set Decks",
+      "img": "https://den-cards.pokellector.com/208/Rotom-Dex.SMA.50.13901.png",
+      "rarity": "Common",
+      "cardNum": "50/59"
+    },
+    {
+      "name": "Exp. Share",
+      "set": "Starter Set Decks",
+      "img": "https://den-cards.pokellector.com/208/Exp-Share.SMA.51.13902.png",
+      "rarity": "Common",
+      "cardNum": "51/59"
+    },
+    {
+      "name": "Poison Barb",
+      "set": "Starter Set Decks",
+      "img": "https://den-cards.pokellector.com/208/Poison-Barb.SMA.52.13903.png",
+      "rarity": "Common",
+      "cardNum": "52/59"
+    },
+    {
+      "name": "Ilima",
+      "set": "Starter Set Decks",
+      "img": "https://den-cards.pokellector.com/208/Ilima.SMA.53.13904.png",
+      "rarity": "Common",
+      "cardNum": "53/59"
+    },
+    {
+      "name": "Professor Kukui",
+      "set": "Starter Set Decks",
+      "img": "https://den-cards.pokellector.com/208/Professor-Kukui.SMA.54.13711.png",
+      "rarity": "Common",
+      "cardNum": "54/59"
+    },
+    {
+      "name": "Team Skull Grunt",
+      "set": "Starter Set Decks",
+      "img": "https://den-cards.pokellector.com/208/Team-Skull-Grunt.SMA.55.13905.png",
+      "rarity": "Common",
+      "cardNum": "55/59"
+    },
+    {
+      "name": "Hau",
+      "set": "Starter Set Decks",
+      "img": "https://den-cards.pokellector.com/208/Hau.SMA.56.13906.png",
+      "rarity": "Common",
+      "cardNum": "56/59"
+    },
+    {
+      "name": "Lillie",
+      "set": "Starter Set Decks",
+      "img": "https://den-cards.pokellector.com/208/Lillie.SMA.57.13907.png",
+      "rarity": "Common",
+      "cardNum": "57/59"
+    },
+    {
+      "name": "Double Colorless Energy",
+      "set": "Starter Set Decks",
+      "img": "https://den-cards.pokellector.com/208/Double-Colorless-Energy.SMA.58.13908.png",
+      "rarity": "Common",
+      "cardNum": "58/59"
+    },
+    {
+      "name": "Rainbow Energy",
+      "set": "Starter Set Decks",
+      "img": "https://den-cards.pokellector.com/208/Rainbow-Energy.SMA.59.13909.png",
+      "rarity": "Common",
+      "cardNum": "59/59"
+    }
+  ]
+}

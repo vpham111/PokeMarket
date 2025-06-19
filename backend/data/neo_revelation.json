@@ -1,0 +1,467 @@
+{
+  "setName": "Neo Revelation",
+  "cards": [
+    {
+      "name": "Ampharos",
+      "set": "Neo Revelation",
+      "img": "https://den-cards.pokellector.com/115/Ampharos.N3.1.png",
+      "rarity": "Rare",
+      "cardNum": "1/64"
+    },
+    {
+      "name": "Blissey",
+      "set": "Neo Revelation",
+      "img": "https://den-cards.pokellector.com/115/Blissey.N3.2.7376.png",
+      "rarity": "Rare",
+      "cardNum": "2/64"
+    },
+    {
+      "name": "Celebi",
+      "set": "Neo Revelation",
+      "img": "https://den-cards.pokellector.com/115/Celebi.N3.3.7377.png",
+      "rarity": "Rare",
+      "cardNum": "3/64"
+    },
+    {
+      "name": "Crobat",
+      "set": "Neo Revelation",
+      "img": "https://den-cards.pokellector.com/115/Crobat.N3.4.png",
+      "rarity": "Rare",
+      "cardNum": "4/64"
+    },
+    {
+      "name": "Delibird",
+      "set": "Neo Revelation",
+      "img": "https://den-cards.pokellector.com/115/Delibird.N3.5.png",
+      "rarity": "Rare",
+      "cardNum": "5/64"
+    },
+    {
+      "name": "Entei",
+      "set": "Neo Revelation",
+      "img": "https://den-cards.pokellector.com/115/Entei.N3.6.png",
+      "rarity": "Rare",
+      "cardNum": "6/64"
+    },
+    {
+      "name": "Ho-oh",
+      "set": "Neo Revelation",
+      "img": "https://den-cards.pokellector.com/115/Ho-oh.N3.7.7381.png",
+      "rarity": "Rare",
+      "cardNum": "7/64"
+    },
+    {
+      "name": "Houndoom",
+      "set": "Neo Revelation",
+      "img": "https://den-cards.pokellector.com/115/Houndoom.N3.8.png",
+      "rarity": "Rare",
+      "cardNum": "8/64"
+    },
+    {
+      "name": "Jumpluff",
+      "set": "Neo Revelation",
+      "img": "https://den-cards.pokellector.com/115/Jumpluff.N3.9.png",
+      "rarity": "Rare",
+      "cardNum": "9/64"
+    },
+    {
+      "name": "Magneton",
+      "set": "Neo Revelation",
+      "img": "https://den-cards.pokellector.com/115/Magneton.N3.10.7384.png",
+      "rarity": "Rare",
+      "cardNum": "10/64"
+    },
+    {
+      "name": "Misdreavus",
+      "set": "Neo Revelation",
+      "img": "https://den-cards.pokellector.com/115/Misdreavus.N3.11.png",
+      "rarity": "Rare",
+      "cardNum": "11/64"
+    },
+    {
+      "name": "Porygon2",
+      "set": "Neo Revelation",
+      "img": "https://den-cards.pokellector.com/115/Porygon2.N3.12.7386.png",
+      "rarity": "Rare",
+      "cardNum": "12/64"
+    },
+    {
+      "name": "Raikou",
+      "set": "Neo Revelation",
+      "img": "https://den-cards.pokellector.com/115/Raikou.N3.13.7387.png",
+      "rarity": "Rare",
+      "cardNum": "13/64"
+    },
+    {
+      "name": "Suicune",
+      "set": "Neo Revelation",
+      "img": "https://den-cards.pokellector.com/115/Suicune.N3.14.7388.png",
+      "rarity": "Rare",
+      "cardNum": "14/64"
+    },
+    {
+      "name": "Aerodactyl",
+      "set": "Neo Revelation",
+      "img": "https://den-cards.pokellector.com/115/Aerodactyl.N3.15.7389.png",
+      "rarity": "Rare",
+      "cardNum": "15/64"
+    },
+    {
+      "name": "Celebi",
+      "set": "Neo Revelation",
+      "img": "https://den-cards.pokellector.com/115/Celebi.N3.16.7390.png",
+      "rarity": "Rare",
+      "cardNum": "16/64"
+    },
+    {
+      "name": "Entei",
+      "set": "Neo Revelation",
+      "img": "https://den-cards.pokellector.com/115/Entei.N3.17.png",
+      "rarity": "Rare",
+      "cardNum": "17/64"
+    },
+    {
+      "name": "Ho-oh",
+      "set": "Neo Revelation",
+      "img": "https://den-cards.pokellector.com/115/Ho-oh.N3.18.png",
+      "rarity": "Rare",
+      "cardNum": "18/64"
+    },
+    {
+      "name": "Kingdra",
+      "set": "Neo Revelation",
+      "img": "https://den-cards.pokellector.com/115/Kingdra.N3.19.7393.png",
+      "rarity": "Rare",
+      "cardNum": "19/64"
+    },
+    {
+      "name": "Lugia",
+      "set": "Neo Revelation",
+      "img": "https://den-cards.pokellector.com/115/Lugia.N3.20.png",
+      "rarity": "Rare",
+      "cardNum": "20/64"
+    },
+    {
+      "name": "Raichu",
+      "set": "Neo Revelation",
+      "img": "https://den-cards.pokellector.com/115/Raichu.N3.21.7395.png",
+      "rarity": "Rare",
+      "cardNum": "21/64"
+    },
+    {
+      "name": "Raikou",
+      "set": "Neo Revelation",
+      "img": "https://den-cards.pokellector.com/115/Raikou.N3.22.png",
+      "rarity": "Rare",
+      "cardNum": "22/64"
+    },
+    {
+      "name": "Skarmory",
+      "set": "Neo Revelation",
+      "img": "https://den-cards.pokellector.com/115/Skarmory.N3.23.7397.png",
+      "rarity": "Rare",
+      "cardNum": "23/64"
+    },
+    {
+      "name": "Sneasel",
+      "set": "Neo Revelation",
+      "img": "https://den-cards.pokellector.com/115/Sneasel.N3.24.7398.png",
+      "rarity": "Rare",
+      "cardNum": "24/64"
+    },
+    {
+      "name": "Starmie",
+      "set": "Neo Revelation",
+      "img": "https://den-cards.pokellector.com/115/Starmie.N3.25.7399.png",
+      "rarity": "Rare",
+      "cardNum": "25/64"
+    },
+    {
+      "name": "Sudowoodo",
+      "set": "Neo Revelation",
+      "img": "https://den-cards.pokellector.com/115/Sudowoodo.N3.26.png",
+      "rarity": "Rare",
+      "cardNum": "26/64"
+    },
+    {
+      "name": "Suicune",
+      "set": "Neo Revelation",
+      "img": "https://den-cards.pokellector.com/115/Suicune.N3.27.png",
+      "rarity": "Rare",
+      "cardNum": "27/64"
+    },
+    {
+      "name": "Flaaffy",
+      "set": "Neo Revelation",
+      "img": "https://den-cards.pokellector.com/115/Flaaffy.N3.28.png",
+      "rarity": "Uncommon",
+      "cardNum": "28/64"
+    },
+    {
+      "name": "Golbat",
+      "set": "Neo Revelation",
+      "img": "https://den-cards.pokellector.com/115/Golbat.N3.29.png",
+      "rarity": "Uncommon",
+      "cardNum": "29/64"
+    },
+    {
+      "name": "Graveler",
+      "set": "Neo Revelation",
+      "img": "https://den-cards.pokellector.com/115/Graveler.N3.30.png",
+      "rarity": "Uncommon",
+      "cardNum": "30/64"
+    },
+    {
+      "name": "Jynx",
+      "set": "Neo Revelation",
+      "img": "https://den-cards.pokellector.com/115/Jynx.N3.31.png",
+      "rarity": "Uncommon",
+      "cardNum": "31/64"
+    },
+    {
+      "name": "Lanturn",
+      "set": "Neo Revelation",
+      "img": "https://den-cards.pokellector.com/115/Lanturn.N3.32.png",
+      "rarity": "Uncommon",
+      "cardNum": "32/64"
+    },
+    {
+      "name": "Magcargo",
+      "set": "Neo Revelation",
+      "img": "https://den-cards.pokellector.com/115/Magcargo.N3.33.png",
+      "rarity": "Uncommon",
+      "cardNum": "33/64"
+    },
+    {
+      "name": "Octillery",
+      "set": "Neo Revelation",
+      "img": "https://den-cards.pokellector.com/115/Octillery.N3.34.png",
+      "rarity": "Uncommon",
+      "cardNum": "34/64"
+    },
+    {
+      "name": "Parasect",
+      "set": "Neo Revelation",
+      "img": "https://den-cards.pokellector.com/115/Parasect.N3.35.png",
+      "rarity": "Uncommon",
+      "cardNum": "35/64"
+    },
+    {
+      "name": "Piloswine",
+      "set": "Neo Revelation",
+      "img": "https://den-cards.pokellector.com/115/Piloswine.N3.36.png",
+      "rarity": "Uncommon",
+      "cardNum": "36/64"
+    },
+    {
+      "name": "Seaking",
+      "set": "Neo Revelation",
+      "img": "https://den-cards.pokellector.com/115/Seaking.N3.37.png",
+      "rarity": "Uncommon",
+      "cardNum": "37/64"
+    },
+    {
+      "name": "Stantler",
+      "set": "Neo Revelation",
+      "img": "https://den-cards.pokellector.com/115/Stantler.N3.38.png",
+      "rarity": "Uncommon",
+      "cardNum": "38/64"
+    },
+    {
+      "name": "Unown B",
+      "set": "Neo Revelation",
+      "img": "https://den-cards.pokellector.com/115/Unown-B.N3.39.png",
+      "rarity": "Uncommon",
+      "cardNum": "39/64"
+    },
+    {
+      "name": "Unown Y",
+      "set": "Neo Revelation",
+      "img": "https://den-cards.pokellector.com/115/Unown-Y.N3.40.png",
+      "rarity": "Uncommon",
+      "cardNum": "40/64"
+    },
+    {
+      "name": "Aipom",
+      "set": "Neo Revelation",
+      "img": "https://den-cards.pokellector.com/115/Aipom.N3.41.png",
+      "rarity": "Common",
+      "cardNum": "41/64"
+    },
+    {
+      "name": "Chinchou",
+      "set": "Neo Revelation",
+      "img": "https://den-cards.pokellector.com/115/Chinchou.N3.42.png",
+      "rarity": "Common",
+      "cardNum": "42/64"
+    },
+    {
+      "name": "Farfetch'd",
+      "set": "Neo Revelation",
+      "img": "https://den-cards.pokellector.com/115/Farfetchd.N3.43.png",
+      "rarity": "Common",
+      "cardNum": "43/64"
+    },
+    {
+      "name": "Geodude",
+      "set": "Neo Revelation",
+      "img": "https://den-cards.pokellector.com/115/Geodude.N3.44.png",
+      "rarity": "Common",
+      "cardNum": "44/64"
+    },
+    {
+      "name": "Goldeen",
+      "set": "Neo Revelation",
+      "img": "https://den-cards.pokellector.com/115/Goldeen.N3.45.png",
+      "rarity": "Common",
+      "cardNum": "45/64"
+    },
+    {
+      "name": "Murkrow",
+      "set": "Neo Revelation",
+      "img": "https://den-cards.pokellector.com/115/Murkrow.N3.46.png",
+      "rarity": "Common",
+      "cardNum": "46/64"
+    },
+    {
+      "name": "Paras",
+      "set": "Neo Revelation",
+      "img": "https://den-cards.pokellector.com/115/Paras.N3.47.png",
+      "rarity": "Common",
+      "cardNum": "47/64"
+    },
+    {
+      "name": "Quagsire",
+      "set": "Neo Revelation",
+      "img": "https://den-cards.pokellector.com/115/Quagsire.N3.48.png",
+      "rarity": "Common",
+      "cardNum": "48/64"
+    },
+    {
+      "name": "Qwilfish",
+      "set": "Neo Revelation",
+      "img": "https://den-cards.pokellector.com/115/Qwilfish.N3.49.png",
+      "rarity": "Common",
+      "cardNum": "49/64"
+    },
+    {
+      "name": "Remoraid",
+      "set": "Neo Revelation",
+      "img": "https://den-cards.pokellector.com/115/Remoraid.N3.50.png",
+      "rarity": "Common",
+      "cardNum": "50/64"
+    },
+    {
+      "name": "Shuckle",
+      "set": "Neo Revelation",
+      "img": "https://den-cards.pokellector.com/115/Shuckle.N3.51.png",
+      "rarity": "Common",
+      "cardNum": "51/64"
+    },
+    {
+      "name": "Skiploom",
+      "set": "Neo Revelation",
+      "img": "https://den-cards.pokellector.com/115/Skiploom.N3.52.png",
+      "rarity": "Common",
+      "cardNum": "52/64"
+    },
+    {
+      "name": "Slugma",
+      "set": "Neo Revelation",
+      "img": "https://den-cards.pokellector.com/115/Slugma.N3.53.png",
+      "rarity": "Common",
+      "cardNum": "53/64"
+    },
+    {
+      "name": "Smoochum",
+      "set": "Neo Revelation",
+      "img": "https://den-cards.pokellector.com/115/Smoochum.N3.54.png",
+      "rarity": "Common",
+      "cardNum": "54/64"
+    },
+    {
+      "name": "Snubbull",
+      "set": "Neo Revelation",
+      "img": "https://den-cards.pokellector.com/115/Snubbull.N3.55.png",
+      "rarity": "Common",
+      "cardNum": "55/64"
+    },
+    {
+      "name": "Staryu",
+      "set": "Neo Revelation",
+      "img": "https://den-cards.pokellector.com/115/Staryu.N3.56.png",
+      "rarity": "Common",
+      "cardNum": "56/64"
+    },
+    {
+      "name": "Swinub",
+      "set": "Neo Revelation",
+      "img": "https://den-cards.pokellector.com/115/Swinub.N3.57.7431.png",
+      "rarity": "Common",
+      "cardNum": "57/64"
+    },
+    {
+      "name": "Unown K",
+      "set": "Neo Revelation",
+      "img": "https://den-cards.pokellector.com/115/Unown-K.N3.58.png",
+      "rarity": "Common",
+      "cardNum": "58/64"
+    },
+    {
+      "name": "Zubat",
+      "set": "Neo Revelation",
+      "img": "https://den-cards.pokellector.com/115/Zubat.N3.59.png",
+      "rarity": "Common",
+      "cardNum": "59/64"
+    },
+    {
+      "name": "Balloon Berry",
+      "set": "Neo Revelation",
+      "img": "https://den-cards.pokellector.com/115/Balloon-Berry.N3.60.png",
+      "rarity": "Uncommon",
+      "cardNum": "60/64"
+    },
+    {
+      "name": "Healing Field",
+      "set": "Neo Revelation",
+      "img": "https://den-cards.pokellector.com/115/Healing-Field.N3.61.7435.png",
+      "rarity": "Uncommon",
+      "cardNum": "61/64"
+    },
+    {
+      "name": "Pokemon Breeder Fields",
+      "set": "Neo Revelation",
+      "img": "https://den-cards.pokellector.com/115/Pokemon-Breeder-Fields.N3.62.png",
+      "rarity": "Uncommon",
+      "cardNum": "62/64"
+    },
+    {
+      "name": "Rocket's Hideout",
+      "set": "Neo Revelation",
+      "img": "https://den-cards.pokellector.com/115/Rockets-Hideout.N3.63.png",
+      "rarity": "Uncommon",
+      "cardNum": "63/64"
+    },
+    {
+      "name": "Old Rod",
+      "set": "Neo Revelation",
+      "img": "https://den-cards.pokellector.com/115/Old-Rod.N3.64.png",
+      "rarity": "Common",
+      "cardNum": "64/64"
+    },
+    {
+      "name": "Shining Gyarados",
+      "set": "Neo Revelation",
+      "img": "https://den-cards.pokellector.com/115/Shining-Gyarados.N3.65.7439.png",
+      "rarity": "Secret Rare",
+      "cardNum": "65/64"
+    },
+    {
+      "name": "Shining Magikarp",
+      "set": "Neo Revelation",
+      "img": "https://den-cards.pokellector.com/115/Shining-Magikarp.N3.66.7440.png",
+      "rarity": "Secret Rare",
+      "cardNum": "66/64"
+    }
+  ]
+}

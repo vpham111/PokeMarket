@@ -1,0 +1,61 @@
+{
+  "setName": "Holiday Calendar 2022",
+  "cards": [
+    {
+      "name": "Abomasnow",
+      "set": "Chilling Reign",
+      "img": "https://den-cards.pokellector.com/320/Abomasnow.CRE.10.39014.png",
+      "rarity": "Rare",
+      "cardNum": "10/198"
+    },
+    {
+      "name": "Lapras",
+      "set": "Sword & Shield",
+      "img": "https://den-cards.pokellector.com/286/Lapras.SH01.48.31468.png",
+      "rarity": "Rare",
+      "cardNum": "48/202"
+    },
+    {
+      "name": "Eiscue V",
+      "set": "Rebel Clash",
+      "img": "https://den-cards.pokellector.com/292/Eiscue-V.SWSH2.55.34474.png",
+      "rarity": "Rare",
+      "cardNum": "55/192"
+    },
+    {
+      "name": "Beartic",
+      "set": "Darkness Ablaze",
+      "img": "https://den-cards.pokellector.com/296/Beartic.SWSH3.49.35159.png",
+      "rarity": "Rare",
+      "cardNum": "49/189"
+    },
+    {
+      "name": "Delibird",
+      "set": "Chilling Reign",
+      "img": "https://den-cards.pokellector.com/320/Delibird.CRE.32.39033.png",
+      "rarity": "Common",
+      "cardNum": "32/198"
+    },
+    {
+      "name": "Ice Rider Calyrex V",
+      "set": "Chilling Reign",
+      "img": "https://den-cards.pokellector.com/320/Ice-Rider-Calyrex-V.CRE.45.39046.png",
+      "rarity": "Rare",
+      "cardNum": "45/198"
+    },
+    {
+      "name": "Ice Rider Calyrex VMAX",
+      "set": "Chilling Reign",
+      "img": "https://den-cards.pokellector.com/320/Ice-Rider-Calyrex-VMAX.CRE.46.39047.png",
+      "rarity": "Common",
+      "cardNum": "46/198"
+    },
+    {
+      "name": "Pikachu",
+      "set": "Sword & Shield Promos",
+      "img": "https://den-cards.pokellector.com/287/Pikachu.SWSH.153.44532.png",
+      "rarity": "Common",
+      "cardNum": "153/307"
+    }
+  ]
+}

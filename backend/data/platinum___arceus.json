@@ -1,0 +1,782 @@
+{
+  "setName": "Platinum - Arceus",
+  "cards": [
+    {
+      "name": "Charizard",
+      "set": "Platinum - Arceus",
+      "img": "https://den-cards.pokellector.com/41/Charizard.AR.1.png",
+      "rarity": "Rare",
+      "cardNum": "1/99"
+    },
+    {
+      "name": "Froslass",
+      "set": "Platinum - Arceus",
+      "img": "https://den-cards.pokellector.com/41/Froslass.AR.2.png",
+      "rarity": "Rare",
+      "cardNum": "2/99"
+    },
+    {
+      "name": "Heatran",
+      "set": "Platinum - Arceus",
+      "img": "https://den-cards.pokellector.com/41/Heatran.AR.3.png",
+      "rarity": "Rare",
+      "cardNum": "3/99"
+    },
+    {
+      "name": "Kabutops",
+      "set": "Platinum - Arceus",
+      "img": "https://den-cards.pokellector.com/41/Kabutops.AR.4.png",
+      "rarity": "Rare",
+      "cardNum": "4/99"
+    },
+    {
+      "name": "Luxray",
+      "set": "Platinum - Arceus",
+      "img": "https://den-cards.pokellector.com/41/Luxray.AR.5.png",
+      "rarity": "Rare",
+      "cardNum": "5/99"
+    },
+    {
+      "name": "Mothim",
+      "set": "Platinum - Arceus",
+      "img": "https://den-cards.pokellector.com/41/Mothim.AR.6.png",
+      "rarity": "Rare",
+      "cardNum": "6/99"
+    },
+    {
+      "name": "Probopass",
+      "set": "Platinum - Arceus",
+      "img": "https://den-cards.pokellector.com/41/Probopass.AR.7.png",
+      "rarity": "Rare",
+      "cardNum": "7/99"
+    },
+    {
+      "name": "Salamence",
+      "set": "Platinum - Arceus",
+      "img": "https://den-cards.pokellector.com/41/Salamence.AR.8.png",
+      "rarity": "Rare",
+      "cardNum": "8/99"
+    },
+    {
+      "name": "Swalot",
+      "set": "Platinum - Arceus",
+      "img": "https://den-cards.pokellector.com/41/Swalot.AR.9.png",
+      "rarity": "Rare",
+      "cardNum": "9/99"
+    },
+    {
+      "name": "Tangrowth",
+      "set": "Platinum - Arceus",
+      "img": "https://den-cards.pokellector.com/41/Tangrowth.AR.10.png",
+      "rarity": "Rare",
+      "cardNum": "10/99"
+    },
+    {
+      "name": "Toxicroak",
+      "set": "Platinum - Arceus",
+      "img": "https://den-cards.pokellector.com/41/Toxicroak.AR.11.png",
+      "rarity": "Rare",
+      "cardNum": "11/99"
+    },
+    {
+      "name": "Zapdos G",
+      "set": "Platinum - Arceus",
+      "img": "https://den-cards.pokellector.com/41/Zapdos-G.AR.12.png",
+      "rarity": "Rare",
+      "cardNum": "12/99"
+    },
+    {
+      "name": "Aerodactyl",
+      "set": "Platinum - Arceus",
+      "img": "https://den-cards.pokellector.com/41/Aerodactyl.AR.13.png",
+      "rarity": "Rare",
+      "cardNum": "13/99"
+    },
+    {
+      "name": "Bronzong",
+      "set": "Platinum - Arceus",
+      "img": "https://den-cards.pokellector.com/41/Bronzong.AR.14.png",
+      "rarity": "Rare",
+      "cardNum": "14/99"
+    },
+    {
+      "name": "Cherrim",
+      "set": "Platinum - Arceus",
+      "img": "https://den-cards.pokellector.com/41/Cherrim.AR.15.png",
+      "rarity": "Rare",
+      "cardNum": "15/99"
+    },
+    {
+      "name": "Gengar",
+      "set": "Platinum - Arceus",
+      "img": "https://den-cards.pokellector.com/41/Gengar.AR.16.png",
+      "rarity": "Rare",
+      "cardNum": "16/99"
+    },
+    {
+      "name": "Gengar",
+      "set": "Platinum - Arceus",
+      "img": "https://den-cards.pokellector.com/41/Gengar.AR.17.png",
+      "rarity": "Rare",
+      "cardNum": "17/99"
+    },
+    {
+      "name": "Glalie",
+      "set": "Platinum - Arceus",
+      "img": "https://den-cards.pokellector.com/41/Glalie.AR.18.png",
+      "rarity": "Rare",
+      "cardNum": "18/99"
+    },
+    {
+      "name": "Golem",
+      "set": "Platinum - Arceus",
+      "img": "https://den-cards.pokellector.com/41/Golem.AR.19.png",
+      "rarity": "Rare",
+      "cardNum": "19/99"
+    },
+    {
+      "name": "Hariyama",
+      "set": "Platinum - Arceus",
+      "img": "https://den-cards.pokellector.com/41/Hariyama.AR.20.png",
+      "rarity": "Rare",
+      "cardNum": "20/99"
+    },
+    {
+      "name": "Lopunny",
+      "set": "Platinum - Arceus",
+      "img": "https://den-cards.pokellector.com/41/Lopunny.AR.21.png",
+      "rarity": "Rare",
+      "cardNum": "21/99"
+    },
+    {
+      "name": "Manectric",
+      "set": "Platinum - Arceus",
+      "img": "https://den-cards.pokellector.com/41/Manectric.AR.22.png",
+      "rarity": "Rare",
+      "cardNum": "22/99"
+    },
+    {
+      "name": "Omastar",
+      "set": "Platinum - Arceus",
+      "img": "https://den-cards.pokellector.com/41/Omastar.AR.23.png",
+      "rarity": "Rare",
+      "cardNum": "23/99"
+    },
+    {
+      "name": "Pelipper",
+      "set": "Platinum - Arceus",
+      "img": "https://den-cards.pokellector.com/41/Pelipper.AR.24.png",
+      "rarity": "Rare",
+      "cardNum": "24/99"
+    },
+    {
+      "name": "Pichu",
+      "set": "Platinum - Arceus",
+      "img": "https://den-cards.pokellector.com/41/Pichu.AR.25.png",
+      "rarity": "Rare",
+      "cardNum": "25/99"
+    },
+    {
+      "name": "Porygon-Z G",
+      "set": "Platinum - Arceus",
+      "img": "https://den-cards.pokellector.com/41/Porygon-Z-G.AR.26.png",
+      "rarity": "Rare",
+      "cardNum": "26/99"
+    },
+    {
+      "name": "Raichu",
+      "set": "Platinum - Arceus",
+      "img": "https://den-cards.pokellector.com/41/Raichu.AR.27.png",
+      "rarity": "Rare",
+      "cardNum": "27/99"
+    },
+    {
+      "name": "Rapidash",
+      "set": "Platinum - Arceus",
+      "img": "https://den-cards.pokellector.com/41/Rapidash.AR.28.png",
+      "rarity": "Rare",
+      "cardNum": "28/99"
+    },
+    {
+      "name": "Raticate",
+      "set": "Platinum - Arceus",
+      "img": "https://den-cards.pokellector.com/41/Raticate.AR.29.png",
+      "rarity": "Rare",
+      "cardNum": "29/99"
+    },
+    {
+      "name": "Sceptile",
+      "set": "Platinum - Arceus",
+      "img": "https://den-cards.pokellector.com/41/Sceptile.AR.30.png",
+      "rarity": "Rare",
+      "cardNum": "30/99"
+    },
+    {
+      "name": "Sceptile",
+      "set": "Platinum - Arceus",
+      "img": "https://den-cards.pokellector.com/41/Sceptile.AR.31.png",
+      "rarity": "Rare",
+      "cardNum": "31/99"
+    },
+    {
+      "name": "Spiritomb",
+      "set": "Platinum - Arceus",
+      "img": "https://den-cards.pokellector.com/41/Spiritomb.AR.32.png",
+      "rarity": "Rare",
+      "cardNum": "32/99"
+    },
+    {
+      "name": "Bronzong",
+      "set": "Platinum - Arceus",
+      "img": "https://den-cards.pokellector.com/41/Bronzong.AR.33.png",
+      "rarity": "Uncommon",
+      "cardNum": "33/99"
+    },
+    {
+      "name": "Bronzor",
+      "set": "Platinum - Arceus",
+      "img": "https://den-cards.pokellector.com/41/Bronzor.AR.34.png",
+      "rarity": "Uncommon",
+      "cardNum": "34/99"
+    },
+    {
+      "name": "Charmeleon",
+      "set": "Platinum - Arceus",
+      "img": "https://den-cards.pokellector.com/41/Charmeleon.AR.35.png",
+      "rarity": "Uncommon",
+      "cardNum": "35/99"
+    },
+    {
+      "name": "Gastly",
+      "set": "Platinum - Arceus",
+      "img": "https://den-cards.pokellector.com/41/Gastly.AR.36.png",
+      "rarity": "Uncommon",
+      "cardNum": "36/99"
+    },
+    {
+      "name": "Graveler",
+      "set": "Platinum - Arceus",
+      "img": "https://den-cards.pokellector.com/41/Graveler.AR.37.png",
+      "rarity": "Uncommon",
+      "cardNum": "37/99"
+    },
+    {
+      "name": "Grovyle",
+      "set": "Platinum - Arceus",
+      "img": "https://den-cards.pokellector.com/41/Grovyle.AR.38.png",
+      "rarity": "Uncommon",
+      "cardNum": "38/99"
+    },
+    {
+      "name": "Grovyle",
+      "set": "Platinum - Arceus",
+      "img": "https://den-cards.pokellector.com/41/Grovyle.AR.39.png",
+      "rarity": "Uncommon",
+      "cardNum": "39/99"
+    },
+    {
+      "name": "Gulpin",
+      "set": "Platinum - Arceus",
+      "img": "https://den-cards.pokellector.com/41/Gulpin.AR.40.png",
+      "rarity": "Uncommon",
+      "cardNum": "40/99"
+    },
+    {
+      "name": "Haunter",
+      "set": "Platinum - Arceus",
+      "img": "https://den-cards.pokellector.com/41/Haunter.AR.41.png",
+      "rarity": "Uncommon",
+      "cardNum": "41/99"
+    },
+    {
+      "name": "Haunter",
+      "set": "Platinum - Arceus",
+      "img": "https://den-cards.pokellector.com/41/Haunter.AR.42.png",
+      "rarity": "Uncommon",
+      "cardNum": "42/99"
+    },
+    {
+      "name": "Luxio",
+      "set": "Platinum - Arceus",
+      "img": "https://den-cards.pokellector.com/41/Luxio.AR.43.png",
+      "rarity": "Uncommon",
+      "cardNum": "43/99"
+    },
+    {
+      "name": "Manectric",
+      "set": "Platinum - Arceus",
+      "img": "https://den-cards.pokellector.com/41/Manectric.AR.44.png",
+      "rarity": "Uncommon",
+      "cardNum": "44/99"
+    },
+    {
+      "name": "Pelipper",
+      "set": "Platinum - Arceus",
+      "img": "https://den-cards.pokellector.com/41/Pelipper.AR.45.png",
+      "rarity": "Uncommon",
+      "cardNum": "45/99"
+    },
+    {
+      "name": "Ponyta",
+      "set": "Platinum - Arceus",
+      "img": "https://den-cards.pokellector.com/41/Ponyta.AR.46.png",
+      "rarity": "Uncommon",
+      "cardNum": "46/99"
+    },
+    {
+      "name": "Rapidash",
+      "set": "Platinum - Arceus",
+      "img": "https://den-cards.pokellector.com/41/Rapidash.AR.47.png",
+      "rarity": "Uncommon",
+      "cardNum": "47/99"
+    },
+    {
+      "name": "Shelgon",
+      "set": "Platinum - Arceus",
+      "img": "https://den-cards.pokellector.com/41/Shelgon.AR.48.png",
+      "rarity": "Uncommon",
+      "cardNum": "48/99"
+    },
+    {
+      "name": "Wormadam (Plant Cloak)",
+      "set": "Platinum - Arceus",
+      "img": "https://den-cards.pokellector.com/41/Wormadam-Plant-Cloak.AR.49.png",
+      "rarity": "Uncommon",
+      "cardNum": "49/99"
+    },
+    {
+      "name": "Wormadam (Sandy Cloak)",
+      "set": "Platinum - Arceus",
+      "img": "https://den-cards.pokellector.com/41/Wormadam-Sandy-Cloak.AR.50.png",
+      "rarity": "Uncommon",
+      "cardNum": "50/99"
+    },
+    {
+      "name": "Wormadam (Trash Cloak)",
+      "set": "Platinum - Arceus",
+      "img": "https://den-cards.pokellector.com/41/Wormadam-Trash-Cloak.AR.51.png",
+      "rarity": "Uncommon",
+      "cardNum": "51/99"
+    },
+    {
+      "name": "Bagon",
+      "set": "Platinum - Arceus",
+      "img": "https://den-cards.pokellector.com/41/Bagon.AR.52.png",
+      "rarity": "Common",
+      "cardNum": "52/99"
+    },
+    {
+      "name": "Beedrill G",
+      "set": "Platinum - Arceus",
+      "img": "https://den-cards.pokellector.com/41/Beedrill-G.AR.53.png",
+      "rarity": "Common",
+      "cardNum": "53/99"
+    },
+    {
+      "name": "Bronzor",
+      "set": "Platinum - Arceus",
+      "img": "https://den-cards.pokellector.com/41/Bronzor.AR.54.png",
+      "rarity": "Common",
+      "cardNum": "54/99"
+    },
+    {
+      "name": "Buneary",
+      "set": "Platinum - Arceus",
+      "img": "https://den-cards.pokellector.com/41/Buneary.AR.55.png",
+      "rarity": "Common",
+      "cardNum": "55/99"
+    },
+    {
+      "name": "Burmy (Plant Cloak)",
+      "set": "Platinum - Arceus",
+      "img": "https://den-cards.pokellector.com/41/Burmy-Plant-Cloak.AR.56.png",
+      "rarity": "Common",
+      "cardNum": "56/99"
+    },
+    {
+      "name": "Burmy (Sandy Cloak)",
+      "set": "Platinum - Arceus",
+      "img": "https://den-cards.pokellector.com/41/Burmy-Sandy-Cloak.AR.57.png",
+      "rarity": "Common",
+      "cardNum": "57/99"
+    },
+    {
+      "name": "Burmy (Trash Cloak)",
+      "set": "Platinum - Arceus",
+      "img": "https://den-cards.pokellector.com/41/Burmy-Trash-Cloak.AR.58.png",
+      "rarity": "Common",
+      "cardNum": "58/99"
+    },
+    {
+      "name": "Charmander",
+      "set": "Platinum - Arceus",
+      "img": "https://den-cards.pokellector.com/41/Charmander.AR.59.png",
+      "rarity": "Common",
+      "cardNum": "59/99"
+    },
+    {
+      "name": "Cherubi",
+      "set": "Platinum - Arceus",
+      "img": "https://den-cards.pokellector.com/41/Cherubi.AR.60.png",
+      "rarity": "Common",
+      "cardNum": "60/99"
+    },
+    {
+      "name": "Croagunk",
+      "set": "Platinum - Arceus",
+      "img": "https://den-cards.pokellector.com/41/Croagunk.AR.61.png",
+      "rarity": "Common",
+      "cardNum": "61/99"
+    },
+    {
+      "name": "Electrike",
+      "set": "Platinum - Arceus",
+      "img": "https://den-cards.pokellector.com/41/Electrike.AR.62.png",
+      "rarity": "Common",
+      "cardNum": "62/99"
+    },
+    {
+      "name": "Electrike",
+      "set": "Platinum - Arceus",
+      "img": "https://den-cards.pokellector.com/41/Electrike.AR.63.png",
+      "rarity": "Common",
+      "cardNum": "63/99"
+    },
+    {
+      "name": "Gastly",
+      "set": "Platinum - Arceus",
+      "img": "https://den-cards.pokellector.com/41/Gastly.AR.64.png",
+      "rarity": "Common",
+      "cardNum": "64/99"
+    },
+    {
+      "name": "Geodude",
+      "set": "Platinum - Arceus",
+      "img": "https://den-cards.pokellector.com/41/Geodude.AR.65.png",
+      "rarity": "Common",
+      "cardNum": "65/99"
+    },
+    {
+      "name": "Gulpin",
+      "set": "Platinum - Arceus",
+      "img": "https://den-cards.pokellector.com/41/Gulpin.AR.66.png",
+      "rarity": "Common",
+      "cardNum": "66/99"
+    },
+    {
+      "name": "Kabuto",
+      "set": "Platinum - Arceus",
+      "img": "https://den-cards.pokellector.com/41/Kabuto.AR.67.png",
+      "rarity": "Common",
+      "cardNum": "67/99"
+    },
+    {
+      "name": "Makuhita",
+      "set": "Platinum - Arceus",
+      "img": "https://den-cards.pokellector.com/41/Makuhita.AR.68.png",
+      "rarity": "Common",
+      "cardNum": "68/99"
+    },
+    {
+      "name": "Nosepass",
+      "set": "Platinum - Arceus",
+      "img": "https://den-cards.pokellector.com/41/Nosepass.AR.69.png",
+      "rarity": "Common",
+      "cardNum": "69/99"
+    },
+    {
+      "name": "Omanyte",
+      "set": "Platinum - Arceus",
+      "img": "https://den-cards.pokellector.com/41/Omanyte.AR.70.png",
+      "rarity": "Common",
+      "cardNum": "70/99"
+    },
+    {
+      "name": "Pikachu",
+      "set": "Platinum - Arceus",
+      "img": "https://den-cards.pokellector.com/41/Pikachu.AR.71.png",
+      "rarity": "Common",
+      "cardNum": "71/99"
+    },
+    {
+      "name": "Ponyta",
+      "set": "Platinum - Arceus",
+      "img": "https://den-cards.pokellector.com/41/Ponyta.AR.72.png",
+      "rarity": "Common",
+      "cardNum": "72/99"
+    },
+    {
+      "name": "Rattata",
+      "set": "Platinum - Arceus",
+      "img": "https://den-cards.pokellector.com/41/Rattata.AR.73.png",
+      "rarity": "Common",
+      "cardNum": "73/99"
+    },
+    {
+      "name": "Shinx",
+      "set": "Platinum - Arceus",
+      "img": "https://den-cards.pokellector.com/41/Shinx.AR.74.png",
+      "rarity": "Common",
+      "cardNum": "74/99"
+    },
+    {
+      "name": "Snorunt",
+      "set": "Platinum - Arceus",
+      "img": "https://den-cards.pokellector.com/41/Snorunt.AR.75.png",
+      "rarity": "Common",
+      "cardNum": "75/99"
+    },
+    {
+      "name": "Tangela",
+      "set": "Platinum - Arceus",
+      "img": "https://den-cards.pokellector.com/41/Tangela.AR.76.png",
+      "rarity": "Common",
+      "cardNum": "76/99"
+    },
+    {
+      "name": "Tangela",
+      "set": "Platinum - Arceus",
+      "img": "https://den-cards.pokellector.com/41/Tangela.AR.77.png",
+      "rarity": "Common",
+      "cardNum": "77/99"
+    },
+    {
+      "name": "Treecko",
+      "set": "Platinum - Arceus",
+      "img": "https://den-cards.pokellector.com/41/Treecko.AR.78.png",
+      "rarity": "Common",
+      "cardNum": "78/99"
+    },
+    {
+      "name": "Treecko",
+      "set": "Platinum - Arceus",
+      "img": "https://den-cards.pokellector.com/41/Treecko.AR.79.png",
+      "rarity": "Common",
+      "cardNum": "79/99"
+    },
+    {
+      "name": "Wingull",
+      "set": "Platinum - Arceus",
+      "img": "https://den-cards.pokellector.com/41/Wingull.AR.80.png",
+      "rarity": "Common",
+      "cardNum": "80/99"
+    },
+    {
+      "name": "Wingull",
+      "set": "Platinum - Arceus",
+      "img": "https://den-cards.pokellector.com/41/Wingull.AR.81.png",
+      "rarity": "Common",
+      "cardNum": "81/99"
+    },
+    {
+      "name": "Beginning Door",
+      "set": "Platinum - Arceus",
+      "img": "https://den-cards.pokellector.com/41/Beginning-Door.AR.82.png",
+      "rarity": "Uncommon",
+      "cardNum": "82/99"
+    },
+    {
+      "name": "Bench Shield",
+      "set": "Platinum - Arceus",
+      "img": "https://den-cards.pokellector.com/41/Bench-Shield.AR.83.png",
+      "rarity": "Uncommon",
+      "cardNum": "83/99"
+    },
+    {
+      "name": "Buffer Piece",
+      "set": "Platinum - Arceus",
+      "img": "https://den-cards.pokellector.com/41/Buffer-Piece.AR.84.png",
+      "rarity": "Uncommon",
+      "cardNum": "84/99"
+    },
+    {
+      "name": "Department Store Girl",
+      "set": "Platinum - Arceus",
+      "img": "https://den-cards.pokellector.com/41/Department-Store-Girl.AR.85.png",
+      "rarity": "Uncommon",
+      "cardNum": "85/99"
+    },
+    {
+      "name": "Energy Restore",
+      "set": "Platinum - Arceus",
+      "img": "https://den-cards.pokellector.com/41/Energy-Restore.AR.86.png",
+      "rarity": "Uncommon",
+      "cardNum": "86/99"
+    },
+    {
+      "name": "Expert Belt",
+      "set": "Platinum - Arceus",
+      "img": "https://den-cards.pokellector.com/41/Expert-Belt.AR.87.png",
+      "rarity": "Uncommon",
+      "cardNum": "87/99"
+    },
+    {
+      "name": "Lucky Egg",
+      "set": "Platinum - Arceus",
+      "img": "https://den-cards.pokellector.com/41/Lucky-Egg.AR.88.png",
+      "rarity": "Uncommon",
+      "cardNum": "88/99"
+    },
+    {
+      "name": "Old Amber",
+      "set": "Platinum - Arceus",
+      "img": "https://den-cards.pokellector.com/41/Old-Amber.AR.89.png",
+      "rarity": "Uncommon",
+      "cardNum": "89/99"
+    },
+    {
+      "name": "Professor Oak's Visit",
+      "set": "Platinum - Arceus",
+      "img": "https://den-cards.pokellector.com/41/Professor-Oaks-Visit.AR.90.png",
+      "rarity": "Uncommon",
+      "cardNum": "90/99"
+    },
+    {
+      "name": "Ultimate Zone",
+      "set": "Platinum - Arceus",
+      "img": "https://den-cards.pokellector.com/41/Ultimate-Zone.AR.91.png",
+      "rarity": "Uncommon",
+      "cardNum": "91/99"
+    },
+    {
+      "name": "Dome Fossil",
+      "set": "Platinum - Arceus",
+      "img": "https://den-cards.pokellector.com/41/Dome-Fossil.AR.92.png",
+      "rarity": "Common",
+      "cardNum": "92/99"
+    },
+    {
+      "name": "Helix Fossil",
+      "set": "Platinum - Arceus",
+      "img": "https://den-cards.pokellector.com/41/Helix-Fossil.AR.93.png",
+      "rarity": "Common",
+      "cardNum": "93/99"
+    },
+    {
+      "name": "Arceus LV. X",
+      "set": "Platinum - Arceus",
+      "img": "https://den-cards.pokellector.com/41/Arceus-LV-X.AR.94.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "94/99"
+    },
+    {
+      "name": "Arceus LV. X",
+      "set": "Platinum - Arceus",
+      "img": "https://den-cards.pokellector.com/41/Arceus-LV-X.AR.95.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "95/99"
+    },
+    {
+      "name": "Arceus LV. X",
+      "set": "Platinum - Arceus",
+      "img": "https://den-cards.pokellector.com/41/Arceus-LV-X.AR.96.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "96/99"
+    },
+    {
+      "name": "Gengar LV. X",
+      "set": "Platinum - Arceus",
+      "img": "https://den-cards.pokellector.com/41/Gengar-LV-X.AR.97.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "97/99"
+    },
+    {
+      "name": "Salamence LV. X",
+      "set": "Platinum - Arceus",
+      "img": "https://den-cards.pokellector.com/41/Salamence-LV-X.AR.98.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "98/99"
+    },
+    {
+      "name": "Tangrowth LV. X",
+      "set": "Platinum - Arceus",
+      "img": "https://den-cards.pokellector.com/41/Tangrowth-LV-X.AR.99.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "99/99"
+    },
+    {
+      "name": "Arceus",
+      "set": "Platinum - Arceus",
+      "img": "https://den-cards.pokellector.com/41/Arceus.AR.1.png",
+      "rarity": "Secret Rare",
+      "cardNum": "AR1"
+    },
+    {
+      "name": "Arceus",
+      "set": "Platinum - Arceus",
+      "img": "https://den-cards.pokellector.com/41/Arceus.AR.2.png",
+      "rarity": "Secret Rare",
+      "cardNum": "AR2"
+    },
+    {
+      "name": "Arceus",
+      "set": "Platinum - Arceus",
+      "img": "https://den-cards.pokellector.com/41/Arceus.AR.3.png",
+      "rarity": "Secret Rare",
+      "cardNum": "AR3"
+    },
+    {
+      "name": "Arceus",
+      "set": "Platinum - Arceus",
+      "img": "https://den-cards.pokellector.com/41/Arceus.AR.4.png",
+      "rarity": "Secret Rare",
+      "cardNum": "AR4"
+    },
+    {
+      "name": "Arceus",
+      "set": "Platinum - Arceus",
+      "img": "https://den-cards.pokellector.com/41/Arceus.AR.5.png",
+      "rarity": "Secret Rare",
+      "cardNum": "AR5"
+    },
+    {
+      "name": "Arceus",
+      "set": "Platinum - Arceus",
+      "img": "https://den-cards.pokellector.com/41/Arceus.AR.6.png",
+      "rarity": "Secret Rare",
+      "cardNum": "AR6"
+    },
+    {
+      "name": "Arceus",
+      "set": "Platinum - Arceus",
+      "img": "https://den-cards.pokellector.com/41/Arceus.AR.7.png",
+      "rarity": "Secret Rare",
+      "cardNum": "AR7"
+    },
+    {
+      "name": "Arceus",
+      "set": "Platinum - Arceus",
+      "img": "https://den-cards.pokellector.com/41/Arceus.AR.8.png",
+      "rarity": "Secret Rare",
+      "cardNum": "AR8"
+    },
+    {
+      "name": "Arceus",
+      "set": "Platinum - Arceus",
+      "img": "https://den-cards.pokellector.com/41/Arceus.AR.9.png",
+      "rarity": "Secret Rare",
+      "cardNum": "AR9"
+    },
+    {
+      "name": "Bagon",
+      "set": "Platinum - Arceus",
+      "img": "https://den-cards.pokellector.com/41/Bagon.AR.10.png",
+      "rarity": "Secret Rare",
+      "cardNum": "SH10"
+    },
+    {
+      "name": "Ponyta",
+      "set": "Platinum - Arceus",
+      "img": "https://den-cards.pokellector.com/41/Ponyta.AR.11.png",
+      "rarity": "Secret Rare",
+      "cardNum": "SH11"
+    },
+    {
+      "name": "Shinx",
+      "set": "Platinum - Arceus",
+      "img": "https://den-cards.pokellector.com/41/Shinx.AR.12.png",
+      "rarity": "Secret Rare",
+      "cardNum": "SH12"
+    }
+  ]
+}

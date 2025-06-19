@@ -1,0 +1,796 @@
+{
+  "setName": "Furious Fists",
+  "cards": [
+    {
+      "name": "Bellsprout",
+      "set": "Furious Fists",
+      "img": "https://den-cards.pokellector.com/159/Bellsprout.FF.1.png",
+      "rarity": "Common",
+      "cardNum": "1/111"
+    },
+    {
+      "name": "Weepinbell",
+      "set": "Furious Fists",
+      "img": "https://den-cards.pokellector.com/159/Weepinbell.FF.2.png",
+      "rarity": "Uncommon",
+      "cardNum": "2/111"
+    },
+    {
+      "name": "Victreebel",
+      "set": "Furious Fists",
+      "img": "https://den-cards.pokellector.com/159/Victreebel.FF.3.png",
+      "rarity": "Rare",
+      "cardNum": "3/111"
+    },
+    {
+      "name": "Heracross EX",
+      "set": "Furious Fists",
+      "img": "https://den-cards.pokellector.com/159/Heracross-EX.FF.4.png",
+      "rarity": "Rare",
+      "cardNum": "4/111"
+    },
+    {
+      "name": "M Heracross EX",
+      "set": "Furious Fists",
+      "img": "https://den-cards.pokellector.com/159/M-Heracross-EX.FF.5.png",
+      "rarity": "Rare",
+      "cardNum": "5/111"
+    },
+    {
+      "name": "Shroomish",
+      "set": "Furious Fists",
+      "img": "https://den-cards.pokellector.com/159/Shroomish.FF.6.png",
+      "rarity": "Common",
+      "cardNum": "6/111"
+    },
+    {
+      "name": "Leafeon",
+      "set": "Furious Fists",
+      "img": "https://den-cards.pokellector.com/159/Leafeon.FF.7.png",
+      "rarity": "Rare",
+      "cardNum": "7/111"
+    },
+    {
+      "name": "Shelmet",
+      "set": "Furious Fists",
+      "img": "https://den-cards.pokellector.com/159/Shelmet.FF.8.png",
+      "rarity": "Common",
+      "cardNum": "8/111"
+    },
+    {
+      "name": "Accelgor",
+      "set": "Furious Fists",
+      "img": "https://den-cards.pokellector.com/159/Accelgor.FF.9.png",
+      "rarity": "Uncommon",
+      "cardNum": "9/111"
+    },
+    {
+      "name": "Magmar",
+      "set": "Furious Fists",
+      "img": "https://den-cards.pokellector.com/159/Magmar.FF.10.png",
+      "rarity": "Common",
+      "cardNum": "10/111"
+    },
+    {
+      "name": "Magmortar",
+      "set": "Furious Fists",
+      "img": "https://den-cards.pokellector.com/159/Magmortar.FF.11.png",
+      "rarity": "Rare",
+      "cardNum": "11/111"
+    },
+    {
+      "name": "Torchic",
+      "set": "Furious Fists",
+      "img": "https://den-cards.pokellector.com/159/Torchic.FF.12.png",
+      "rarity": "Common",
+      "cardNum": "12/111"
+    },
+    {
+      "name": "Combusken",
+      "set": "Furious Fists",
+      "img": "https://den-cards.pokellector.com/159/Combusken.FF.13.png",
+      "rarity": "Uncommon",
+      "cardNum": "13/111"
+    },
+    {
+      "name": "Blaziken",
+      "set": "Furious Fists",
+      "img": "https://den-cards.pokellector.com/159/Blaziken.FF.14.png",
+      "rarity": "Rare",
+      "cardNum": "14/111"
+    },
+    {
+      "name": "Poliwag",
+      "set": "Furious Fists",
+      "img": "https://den-cards.pokellector.com/159/Poliwag.FF.15.png",
+      "rarity": "Common",
+      "cardNum": "15/111"
+    },
+    {
+      "name": "Poliwhirl",
+      "set": "Furious Fists",
+      "img": "https://den-cards.pokellector.com/159/Poliwhirl.FF.16.png",
+      "rarity": "Uncommon",
+      "cardNum": "16/111"
+    },
+    {
+      "name": "Poliwrath",
+      "set": "Furious Fists",
+      "img": "https://den-cards.pokellector.com/159/Poliwrath.FF.17.png",
+      "rarity": "Rare",
+      "cardNum": "17/111"
+    },
+    {
+      "name": "Politoed",
+      "set": "Furious Fists",
+      "img": "https://den-cards.pokellector.com/159/Politoed.FF.18.png",
+      "rarity": "Rare",
+      "cardNum": "18/111"
+    },
+    {
+      "name": "Glaceon",
+      "set": "Furious Fists",
+      "img": "https://den-cards.pokellector.com/159/Glaceon.FF.19.png",
+      "rarity": "Rare",
+      "cardNum": "19/111"
+    },
+    {
+      "name": "Seismitoad EX",
+      "set": "Furious Fists",
+      "img": "https://den-cards.pokellector.com/159/Seismitoad-EX.FF.20.png",
+      "rarity": "Rare",
+      "cardNum": "20/111"
+    },
+    {
+      "name": "Cubchoo",
+      "set": "Furious Fists",
+      "img": "https://den-cards.pokellector.com/159/Cubchoo.FF.21.png",
+      "rarity": "Common",
+      "cardNum": "21/111"
+    },
+    {
+      "name": "Beartic",
+      "set": "Furious Fists",
+      "img": "https://den-cards.pokellector.com/159/Beartic.FF.22.png",
+      "rarity": "Rare",
+      "cardNum": "22/111"
+    },
+    {
+      "name": "Clauncher",
+      "set": "Furious Fists",
+      "img": "https://den-cards.pokellector.com/159/Clauncher.FF.23.png",
+      "rarity": "Common",
+      "cardNum": "23/111"
+    },
+    {
+      "name": "Clawitzer",
+      "set": "Furious Fists",
+      "img": "https://den-cards.pokellector.com/159/Clawitzer.FF.24.png",
+      "rarity": "Rare",
+      "cardNum": "24/111"
+    },
+    {
+      "name": "Amaura",
+      "set": "Furious Fists",
+      "img": "https://den-cards.pokellector.com/159/Amaura.FF.25.png",
+      "rarity": "Uncommon",
+      "cardNum": "25/111"
+    },
+    {
+      "name": "Aurorus",
+      "set": "Furious Fists",
+      "img": "https://den-cards.pokellector.com/159/Aurorus.FF.26.png",
+      "rarity": "Rare",
+      "cardNum": "26/111"
+    },
+    {
+      "name": "Pikachu",
+      "set": "Furious Fists",
+      "img": "https://den-cards.pokellector.com/159/Pikachu.FF.27.png",
+      "rarity": "Common",
+      "cardNum": "27/111"
+    },
+    {
+      "name": "Raichu",
+      "set": "Furious Fists",
+      "img": "https://den-cards.pokellector.com/159/Raichu.FF.28.png",
+      "rarity": "Uncommon",
+      "cardNum": "28/111"
+    },
+    {
+      "name": "Electabuzz",
+      "set": "Furious Fists",
+      "img": "https://den-cards.pokellector.com/159/Electabuzz.FF.29.png",
+      "rarity": "Common",
+      "cardNum": "29/111"
+    },
+    {
+      "name": "Electivire",
+      "set": "Furious Fists",
+      "img": "https://den-cards.pokellector.com/159/Electivire.FF.30.png",
+      "rarity": "Rare",
+      "cardNum": "30/111"
+    },
+    {
+      "name": "Plusle",
+      "set": "Furious Fists",
+      "img": "https://den-cards.pokellector.com/159/Plusle.FF.31.png",
+      "rarity": "Common",
+      "cardNum": "31/111"
+    },
+    {
+      "name": "Minun",
+      "set": "Furious Fists",
+      "img": "https://den-cards.pokellector.com/159/Minun.FF.32.png",
+      "rarity": "Common",
+      "cardNum": "32/111"
+    },
+    {
+      "name": "Thundurus",
+      "set": "Furious Fists",
+      "img": "https://den-cards.pokellector.com/159/Thundurus.FF.33.png",
+      "rarity": "Rare",
+      "cardNum": "33/111"
+    },
+    {
+      "name": "Dedenne",
+      "set": "Furious Fists",
+      "img": "https://den-cards.pokellector.com/159/Dedenne.FF.34.png",
+      "rarity": "Uncommon",
+      "cardNum": "34/111"
+    },
+    {
+      "name": "Drowzee",
+      "set": "Furious Fists",
+      "img": "https://den-cards.pokellector.com/159/Drowzee.FF.35.png",
+      "rarity": "Common",
+      "cardNum": "35/111"
+    },
+    {
+      "name": "Hypno",
+      "set": "Furious Fists",
+      "img": "https://den-cards.pokellector.com/159/Hypno.FF.36.png",
+      "rarity": "Rare",
+      "cardNum": "36/111"
+    },
+    {
+      "name": "Jynx",
+      "set": "Furious Fists",
+      "img": "https://den-cards.pokellector.com/159/Jynx.FF.37.png",
+      "rarity": "Rare",
+      "cardNum": "37/111"
+    },
+    {
+      "name": "Skorupi",
+      "set": "Furious Fists",
+      "img": "https://den-cards.pokellector.com/159/Skorupi.FF.38.png",
+      "rarity": "Common",
+      "cardNum": "38/111"
+    },
+    {
+      "name": "Gothita",
+      "set": "Furious Fists",
+      "img": "https://den-cards.pokellector.com/159/Gothita.FF.39.png",
+      "rarity": "Common",
+      "cardNum": "39/111"
+    },
+    {
+      "name": "Gothorita",
+      "set": "Furious Fists",
+      "img": "https://den-cards.pokellector.com/159/Gothorita.FF.40.png",
+      "rarity": "Uncommon",
+      "cardNum": "40/111"
+    },
+    {
+      "name": "Gothitelle",
+      "set": "Furious Fists",
+      "img": "https://den-cards.pokellector.com/159/Gothitelle.FF.41.png",
+      "rarity": "Rare",
+      "cardNum": "41/111"
+    },
+    {
+      "name": "Golett",
+      "set": "Furious Fists",
+      "img": "https://den-cards.pokellector.com/159/Golett.FF.42.png",
+      "rarity": "Common",
+      "cardNum": "42/111"
+    },
+    {
+      "name": "Golurk",
+      "set": "Furious Fists",
+      "img": "https://den-cards.pokellector.com/159/Golurk.FF.43.png",
+      "rarity": "Rare",
+      "cardNum": "43/111"
+    },
+    {
+      "name": "Machop",
+      "set": "Furious Fists",
+      "img": "https://den-cards.pokellector.com/159/Machop.FF.44.png",
+      "rarity": "Common",
+      "cardNum": "44/111"
+    },
+    {
+      "name": "Machoke",
+      "set": "Furious Fists",
+      "img": "https://den-cards.pokellector.com/159/Machoke.FF.45.png",
+      "rarity": "Uncommon",
+      "cardNum": "45/111"
+    },
+    {
+      "name": "Machamp",
+      "set": "Furious Fists",
+      "img": "https://den-cards.pokellector.com/159/Machamp.FF.46.png",
+      "rarity": "Rare",
+      "cardNum": "46/111"
+    },
+    {
+      "name": "Hitmonlee",
+      "set": "Furious Fists",
+      "img": "https://den-cards.pokellector.com/159/Hitmonlee.FF.47.png",
+      "rarity": "Uncommon",
+      "cardNum": "47/111"
+    },
+    {
+      "name": "Hitmonchan",
+      "set": "Furious Fists",
+      "img": "https://den-cards.pokellector.com/159/Hitmonchan.FF.48.png",
+      "rarity": "Uncommon",
+      "cardNum": "48/111"
+    },
+    {
+      "name": "Hitmontop",
+      "set": "Furious Fists",
+      "img": "https://den-cards.pokellector.com/159/Hitmontop.FF.49.png",
+      "rarity": "Uncommon",
+      "cardNum": "49/111"
+    },
+    {
+      "name": "Breloom",
+      "set": "Furious Fists",
+      "img": "https://den-cards.pokellector.com/159/Breloom.FF.50.png",
+      "rarity": "Rare",
+      "cardNum": "50/111"
+    },
+    {
+      "name": "Makuhita",
+      "set": "Furious Fists",
+      "img": "https://den-cards.pokellector.com/159/Makuhita.FF.51.png",
+      "rarity": "Common",
+      "cardNum": "51/111"
+    },
+    {
+      "name": "Hariyama",
+      "set": "Furious Fists",
+      "img": "https://den-cards.pokellector.com/159/Hariyama.FF.52.png",
+      "rarity": "Rare",
+      "cardNum": "52/111"
+    },
+    {
+      "name": "Trapinch",
+      "set": "Furious Fists",
+      "img": "https://den-cards.pokellector.com/159/Trapinch.FF.53.png",
+      "rarity": "Common",
+      "cardNum": "53/111"
+    },
+    {
+      "name": "Lucario EX",
+      "set": "Furious Fists",
+      "img": "https://den-cards.pokellector.com/159/Lucario-EX.FF.54.png",
+      "rarity": "Rare",
+      "cardNum": "54/111"
+    },
+    {
+      "name": "M Lucario EX",
+      "set": "Furious Fists",
+      "img": "https://den-cards.pokellector.com/159/M-Lucario-EX.FF.55.png",
+      "rarity": "Rare",
+      "cardNum": "55/111"
+    },
+    {
+      "name": "Mienfoo",
+      "set": "Furious Fists",
+      "img": "https://den-cards.pokellector.com/159/Mienfoo.FF.56.png",
+      "rarity": "Common",
+      "cardNum": "56/111"
+    },
+    {
+      "name": "Mienshao",
+      "set": "Furious Fists",
+      "img": "https://den-cards.pokellector.com/159/Mienshao.FF.57.png",
+      "rarity": "Uncommon",
+      "cardNum": "57/111"
+    },
+    {
+      "name": "Landorus",
+      "set": "Furious Fists",
+      "img": "https://den-cards.pokellector.com/159/Landorus.FF.58.png",
+      "rarity": "Rare",
+      "cardNum": "58/111"
+    },
+    {
+      "name": "Pancham",
+      "set": "Furious Fists",
+      "img": "https://den-cards.pokellector.com/159/Pancham.FF.59.png",
+      "rarity": "Uncommon",
+      "cardNum": "59/111"
+    },
+    {
+      "name": "Pancham",
+      "set": "Furious Fists",
+      "img": "https://den-cards.pokellector.com/159/Pancham.FF.60.png",
+      "rarity": "Common",
+      "cardNum": "60/111"
+    },
+    {
+      "name": "Tyrunt",
+      "set": "Furious Fists",
+      "img": "https://den-cards.pokellector.com/159/Tyrunt.FF.61.png",
+      "rarity": "Uncommon",
+      "cardNum": "61/111"
+    },
+    {
+      "name": "Tyrantrum",
+      "set": "Furious Fists",
+      "img": "https://den-cards.pokellector.com/159/Tyrantrum.FF.62.png",
+      "rarity": "Rare",
+      "cardNum": "62/111"
+    },
+    {
+      "name": "Hawlucha",
+      "set": "Furious Fists",
+      "img": "https://den-cards.pokellector.com/159/Hawlucha.FF.63.png",
+      "rarity": "Rare",
+      "cardNum": "63/111"
+    },
+    {
+      "name": "Hawlucha EX",
+      "set": "Furious Fists",
+      "img": "https://den-cards.pokellector.com/159/Hawlucha-EX.FF.64.png",
+      "rarity": "Rare",
+      "cardNum": "64/111"
+    },
+    {
+      "name": "Drapion",
+      "set": "Furious Fists",
+      "img": "https://den-cards.pokellector.com/159/Drapion.FF.65.png",
+      "rarity": "Rare",
+      "cardNum": "65/111"
+    },
+    {
+      "name": "Scraggy",
+      "set": "Furious Fists",
+      "img": "https://den-cards.pokellector.com/159/Scraggy.FF.66.png",
+      "rarity": "Common",
+      "cardNum": "66/111"
+    },
+    {
+      "name": "Scrafty",
+      "set": "Furious Fists",
+      "img": "https://den-cards.pokellector.com/159/Scrafty.FF.67.png",
+      "rarity": "Uncommon",
+      "cardNum": "67/111"
+    },
+    {
+      "name": "Pangoro",
+      "set": "Furious Fists",
+      "img": "https://den-cards.pokellector.com/159/Pangoro.FF.68.png",
+      "rarity": "Rare",
+      "cardNum": "68/111"
+    },
+    {
+      "name": "Clefairy",
+      "set": "Furious Fists",
+      "img": "https://den-cards.pokellector.com/159/Clefairy.FF.69.png",
+      "rarity": "Common",
+      "cardNum": "69/111"
+    },
+    {
+      "name": "Clefairy",
+      "set": "Furious Fists",
+      "img": "https://den-cards.pokellector.com/159/Clefairy.FF.70.png",
+      "rarity": "Common",
+      "cardNum": "70/111"
+    },
+    {
+      "name": "Clefable",
+      "set": "Furious Fists",
+      "img": "https://den-cards.pokellector.com/159/Clefable.FF.71.png",
+      "rarity": "Uncommon",
+      "cardNum": "71/111"
+    },
+    {
+      "name": "Sylveon",
+      "set": "Furious Fists",
+      "img": "https://den-cards.pokellector.com/159/Sylveon.FF.72.png",
+      "rarity": "Rare",
+      "cardNum": "72/111"
+    },
+    {
+      "name": "Klefki",
+      "set": "Furious Fists",
+      "img": "https://den-cards.pokellector.com/159/Klefki.FF.73.png",
+      "rarity": "Uncommon",
+      "cardNum": "73/111"
+    },
+    {
+      "name": "Dragonite EX",
+      "set": "Furious Fists",
+      "img": "https://den-cards.pokellector.com/159/Dragonite-EX.FF.74.png",
+      "rarity": "Rare",
+      "cardNum": "74/111"
+    },
+    {
+      "name": "Vibrava",
+      "set": "Furious Fists",
+      "img": "https://den-cards.pokellector.com/159/Vibrava.FF.75.png",
+      "rarity": "Uncommon",
+      "cardNum": "75/111"
+    },
+    {
+      "name": "Flygon",
+      "set": "Furious Fists",
+      "img": "https://den-cards.pokellector.com/159/Flygon.FF.76.png",
+      "rarity": "Rare",
+      "cardNum": "76/111"
+    },
+    {
+      "name": "Noivern",
+      "set": "Furious Fists",
+      "img": "https://den-cards.pokellector.com/159/Noivern.FF.77.png",
+      "rarity": "Rare",
+      "cardNum": "77/111"
+    },
+    {
+      "name": "Lickitung",
+      "set": "Furious Fists",
+      "img": "https://den-cards.pokellector.com/159/Lickitung.FF.78.png",
+      "rarity": "Common",
+      "cardNum": "78/111"
+    },
+    {
+      "name": "Lickilicky",
+      "set": "Furious Fists",
+      "img": "https://den-cards.pokellector.com/159/Lickilicky.FF.79.png",
+      "rarity": "Uncommon",
+      "cardNum": "79/111"
+    },
+    {
+      "name": "Eevee",
+      "set": "Furious Fists",
+      "img": "https://den-cards.pokellector.com/159/Eevee.FF.80.png",
+      "rarity": "Common",
+      "cardNum": "80/111"
+    },
+    {
+      "name": "Slakoth",
+      "set": "Furious Fists",
+      "img": "https://den-cards.pokellector.com/159/Slakoth.FF.81.png",
+      "rarity": "Common",
+      "cardNum": "81/111"
+    },
+    {
+      "name": "Vigoroth",
+      "set": "Furious Fists",
+      "img": "https://den-cards.pokellector.com/159/Vigoroth.FF.82.png",
+      "rarity": "Uncommon",
+      "cardNum": "82/111"
+    },
+    {
+      "name": "Slaking",
+      "set": "Furious Fists",
+      "img": "https://den-cards.pokellector.com/159/Slaking.FF.83.png",
+      "rarity": "Rare",
+      "cardNum": "83/111"
+    },
+    {
+      "name": "Patrat",
+      "set": "Furious Fists",
+      "img": "https://den-cards.pokellector.com/159/Patrat.FF.84.png",
+      "rarity": "Common",
+      "cardNum": "84/111"
+    },
+    {
+      "name": "Watchog",
+      "set": "Furious Fists",
+      "img": "https://den-cards.pokellector.com/159/Watchog.FF.85.png",
+      "rarity": "Uncommon",
+      "cardNum": "85/111"
+    },
+    {
+      "name": "Tornadus",
+      "set": "Furious Fists",
+      "img": "https://den-cards.pokellector.com/159/Tornadus.FF.86.png",
+      "rarity": "Rare",
+      "cardNum": "86/111"
+    },
+    {
+      "name": "Noibat",
+      "set": "Furious Fists",
+      "img": "https://den-cards.pokellector.com/159/Noibat.FF.87.png",
+      "rarity": "Common",
+      "cardNum": "87/111"
+    },
+    {
+      "name": "Battle Reporter",
+      "set": "Furious Fists",
+      "img": "https://den-cards.pokellector.com/159/Battle-Reporter.FF.88.png",
+      "rarity": "Uncommon",
+      "cardNum": "88/111"
+    },
+    {
+      "name": "Energy Switch",
+      "set": "Furious Fists",
+      "img": "https://den-cards.pokellector.com/159/Energy-Switch.FF.89.png",
+      "rarity": "Uncommon",
+      "cardNum": "89/111"
+    },
+    {
+      "name": "Fighting Stadium",
+      "set": "Furious Fists",
+      "img": "https://den-cards.pokellector.com/159/Fighting-Stadium.FF.90.png",
+      "rarity": "Uncommon",
+      "cardNum": "90/111"
+    },
+    {
+      "name": "Focus Sash",
+      "set": "Furious Fists",
+      "img": "https://den-cards.pokellector.com/159/Focus-Sash.FF.91.png",
+      "rarity": "Uncommon",
+      "cardNum": "91/111"
+    },
+    {
+      "name": "Fossil Researcher",
+      "set": "Furious Fists",
+      "img": "https://den-cards.pokellector.com/159/Fossil-Researcher.FF.92.png",
+      "rarity": "Uncommon",
+      "cardNum": "92/111"
+    },
+    {
+      "name": "Full Heal",
+      "set": "Furious Fists",
+      "img": "https://den-cards.pokellector.com/159/Full-Heal.FF.93.png",
+      "rarity": "Uncommon",
+      "cardNum": "93/111"
+    },
+    {
+      "name": "Jaw Fossil",
+      "set": "Furious Fists",
+      "img": "https://den-cards.pokellector.com/159/Jaw-Fossil.FF.94.png",
+      "rarity": "Uncommon",
+      "cardNum": "94/111"
+    },
+    {
+      "name": "Korrina",
+      "set": "Furious Fists",
+      "img": "https://den-cards.pokellector.com/159/Korrina.FF.95.png",
+      "rarity": "Uncommon",
+      "cardNum": "95/111"
+    },
+    {
+      "name": "Maintenance",
+      "set": "Furious Fists",
+      "img": "https://den-cards.pokellector.com/159/Maintenance.FF.96.png",
+      "rarity": "Uncommon",
+      "cardNum": "96/111"
+    },
+    {
+      "name": "Mountain Ring",
+      "set": "Furious Fists",
+      "img": "https://den-cards.pokellector.com/159/Mountain-Ring.FF.97.png",
+      "rarity": "Uncommon",
+      "cardNum": "97/111"
+    },
+    {
+      "name": "Sail Fossil",
+      "set": "Furious Fists",
+      "img": "https://den-cards.pokellector.com/159/Sail-Fossil.FF.98.png",
+      "rarity": "Uncommon",
+      "cardNum": "98/111"
+    },
+    {
+      "name": "Sparkling Robe",
+      "set": "Furious Fists",
+      "img": "https://den-cards.pokellector.com/159/Sparkling-Robe.FF.99.png",
+      "rarity": "Uncommon",
+      "cardNum": "99/111"
+    },
+    {
+      "name": "Super Scoop Up",
+      "set": "Furious Fists",
+      "img": "https://den-cards.pokellector.com/159/Super-Scoop-Up.FF.100.png",
+      "rarity": "Uncommon",
+      "cardNum": "100/111"
+    },
+    {
+      "name": "Tool Retriever",
+      "set": "Furious Fists",
+      "img": "https://den-cards.pokellector.com/159/Tool-Retriever.FF.101.png",
+      "rarity": "Uncommon",
+      "cardNum": "101/111"
+    },
+    {
+      "name": "Training Center",
+      "set": "Furious Fists",
+      "img": "https://den-cards.pokellector.com/159/Training-Center.FF.102.png",
+      "rarity": "Uncommon",
+      "cardNum": "102/111"
+    },
+    {
+      "name": "Herbal Energy",
+      "set": "Furious Fists",
+      "img": "https://den-cards.pokellector.com/159/Herbal-Energy.FF.103.png",
+      "rarity": "Uncommon",
+      "cardNum": "103/111"
+    },
+    {
+      "name": "Strong Energy",
+      "set": "Furious Fists",
+      "img": "https://den-cards.pokellector.com/159/Strong-Energy.FF.104.png",
+      "rarity": "Uncommon",
+      "cardNum": "104/111"
+    },
+    {
+      "name": "Heracross EX",
+      "set": "Furious Fists",
+      "img": "https://den-cards.pokellector.com/159/Heracross-EX.FF.105.png",
+      "rarity": "Rare",
+      "cardNum": "105/111"
+    },
+    {
+      "name": "Seismitoad EX",
+      "set": "Furious Fists",
+      "img": "https://den-cards.pokellector.com/159/Seismitoad-EX.FUF.106.png",
+      "rarity": "Rare",
+      "cardNum": "106/111"
+    },
+    {
+      "name": "Lucario EX",
+      "set": "Furious Fists",
+      "img": "https://den-cards.pokellector.com/159/Lucario-EX.FUF.107.png",
+      "rarity": "Rare",
+      "cardNum": "107/111"
+    },
+    {
+      "name": "Dragonite EX",
+      "set": "Furious Fists",
+      "img": "https://den-cards.pokellector.com/159/Dragonite-EX.FF.108.png",
+      "rarity": "Rare",
+      "cardNum": "108/111"
+    },
+    {
+      "name": "Battle Reporter",
+      "set": "Furious Fists",
+      "img": "https://den-cards.pokellector.com/159/Battle-Reporter.FF.109.png",
+      "rarity": "Rare",
+      "cardNum": "109/111"
+    },
+    {
+      "name": "Fossil Researcher",
+      "set": "Furious Fists",
+      "img": "https://den-cards.pokellector.com/159/Fossil-Researcher.FF.110.png",
+      "rarity": "Rare",
+      "cardNum": "110/111"
+    },
+    {
+      "name": "Korrina",
+      "set": "Furious Fists",
+      "img": "https://den-cards.pokellector.com/159/Korrina.FF.111.png",
+      "rarity": "Rare",
+      "cardNum": "111/111"
+    },
+    {
+      "name": "M Heracross EX",
+      "set": "Furious Fists",
+      "img": "https://den-cards.pokellector.com/159/M-Heracross-EX.FF.112.png",
+      "rarity": "Secret Rare",
+      "cardNum": "112/111"
+    },
+    {
+      "name": "M Lucario EX",
+      "set": "Furious Fists",
+      "img": "https://den-cards.pokellector.com/159/M-Lucario-EX.FF.113.png",
+      "rarity": "Secret Rare",
+      "cardNum": "113/111"
+    }
+  ]
+}

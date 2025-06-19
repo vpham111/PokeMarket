@@ -1,0 +1,663 @@
+{
+  "setName": "Night Wanderer",
+  "cards": [
+    {
+      "name": "Joltik",
+      "set": "Night Wanderer",
+      "img": "https://den-cards.pokellector.com/398/Joltik.SV6A.1.53541.png",
+      "rarity": "Common",
+      "cardNum": "1/64"
+    },
+    {
+      "name": "Galvantula",
+      "set": "Night Wanderer",
+      "img": "https://den-cards.pokellector.com/398/Galvantula.SV6A.2.53542.png",
+      "rarity": "Uncommon",
+      "cardNum": "2/64"
+    },
+    {
+      "name": "Rowlet",
+      "set": "Night Wanderer",
+      "img": "https://den-cards.pokellector.com/398/Rowlet.SV6A.3.53140.png",
+      "rarity": "Common",
+      "cardNum": "3/64"
+    },
+    {
+      "name": "Dartrix",
+      "set": "Night Wanderer",
+      "img": "https://den-cards.pokellector.com/398/Dartrix.SV6A.4.53141.png",
+      "rarity": "Common",
+      "cardNum": "4/64"
+    },
+    {
+      "name": "Decidueye",
+      "set": "Night Wanderer",
+      "img": "https://den-cards.pokellector.com/398/Decidueye.SV6A.5.53142.png",
+      "rarity": "Uncommon",
+      "cardNum": "5/64"
+    },
+    {
+      "name": "Tapu Bulu",
+      "set": "Night Wanderer",
+      "img": "https://den-cards.pokellector.com/398/Tapu-Bulu.SV6A.6.53543.png",
+      "rarity": "Rare",
+      "cardNum": "6/64"
+    },
+    {
+      "name": "Houndour",
+      "set": "Night Wanderer",
+      "img": "https://den-cards.pokellector.com/398/Houndour.SV6A.7.53544.png",
+      "rarity": "Common",
+      "cardNum": "7/64"
+    },
+    {
+      "name": "Houndoom",
+      "set": "Night Wanderer",
+      "img": "https://den-cards.pokellector.com/398/Houndoom.SV6A.8.53545.png",
+      "rarity": "Common",
+      "cardNum": "8/64"
+    },
+    {
+      "name": "Iron Moth",
+      "set": "Night Wanderer",
+      "img": "https://den-cards.pokellector.com/398/Iron-Moth.SV6A.9.53154.png",
+      "rarity": "Uncommon",
+      "cardNum": "9/64"
+    },
+    {
+      "name": "Horsea",
+      "set": "Night Wanderer",
+      "img": "https://den-cards.pokellector.com/398/Horsea.SV6A.10.53527.png",
+      "rarity": "Common",
+      "cardNum": "10/64"
+    },
+    {
+      "name": "Kingdra",
+      "set": "Night Wanderer",
+      "img": "https://den-cards.pokellector.com/398/Kingdra.SV6A.11.53526.png",
+      "rarity": "Common",
+      "cardNum": "11/64"
+    },
+    {
+      "name": "Kingdra ex",
+      "set": "Night Wanderer",
+      "img": "https://den-cards.pokellector.com/398/Kingdra-ex.SV6A.12.53525.png",
+      "rarity": "Double Rare",
+      "cardNum": "12/64"
+    },
+    {
+      "name": "Sneasel",
+      "set": "Night Wanderer",
+      "img": "https://den-cards.pokellector.com/398/Sneasel.SV6A.13.53546.png",
+      "rarity": "Common",
+      "cardNum": "13/64"
+    },
+    {
+      "name": "Weavile",
+      "set": "Night Wanderer",
+      "img": "https://den-cards.pokellector.com/398/Weavile.SV6A.14.53547.png",
+      "rarity": "Uncommon",
+      "cardNum": "14/64"
+    },
+    {
+      "name": "Revavroom ex",
+      "set": "Night Wanderer",
+      "img": "https://den-cards.pokellector.com/398/Revavroom-ex.SV6A.15.53548.png",
+      "rarity": "Double Rare",
+      "cardNum": "15/64"
+    },
+    {
+      "name": "Drowzee",
+      "set": "Night Wanderer",
+      "img": "https://den-cards.pokellector.com/398/Drowzee.SV6A.16.53549.png",
+      "rarity": "Common",
+      "cardNum": "16/64"
+    },
+    {
+      "name": "Hypno",
+      "set": "Night Wanderer",
+      "img": "https://den-cards.pokellector.com/398/Hypno.SV6A.17.53550.png",
+      "rarity": "Uncommon",
+      "cardNum": "17/64"
+    },
+    {
+      "name": "Duskull",
+      "set": "Night Wanderer",
+      "img": "https://den-cards.pokellector.com/398/Duskull.SV6A.18.53536.png",
+      "rarity": "Common",
+      "cardNum": "18/64"
+    },
+    {
+      "name": "Dusclops",
+      "set": "Night Wanderer",
+      "img": "https://den-cards.pokellector.com/398/Dusclops.SV6A.19.53537.png",
+      "rarity": "Common",
+      "cardNum": "19/64"
+    },
+    {
+      "name": "Dusknoir",
+      "set": "Night Wanderer",
+      "img": "https://den-cards.pokellector.com/398/Dusknoir.SV6A.20.53538.png",
+      "rarity": "Rare",
+      "cardNum": "20/64"
+    },
+    {
+      "name": "Cresselia",
+      "set": "Night Wanderer",
+      "img": "https://den-cards.pokellector.com/398/Cresselia.SV6A.21.53524.png",
+      "rarity": "Rare",
+      "cardNum": "21/64"
+    },
+    {
+      "name": "Sylveon",
+      "set": "Night Wanderer",
+      "img": "https://den-cards.pokellector.com/398/Sylveon.SV6A.22.53551.png",
+      "rarity": "Uncommon",
+      "cardNum": "22/64"
+    },
+    {
+      "name": "Croagunk",
+      "set": "Night Wanderer",
+      "img": "https://den-cards.pokellector.com/398/Croagunk.SV6A.23.53552.png",
+      "rarity": "Common",
+      "cardNum": "23/64"
+    },
+    {
+      "name": "Toxicroak",
+      "set": "Night Wanderer",
+      "img": "https://den-cards.pokellector.com/398/Toxicroak.SV6A.24.53553.png",
+      "rarity": "Common",
+      "cardNum": "24/64"
+    },
+    {
+      "name": "Bloodmoon Ursaluna",
+      "set": "Night Wanderer",
+      "img": "https://den-cards.pokellector.com/398/Bloodmoon-Ursaluna.SV6A.25.53519.png",
+      "rarity": "Rare",
+      "cardNum": "25/64"
+    },
+    {
+      "name": "Slither Wing",
+      "set": "Night Wanderer",
+      "img": "https://den-cards.pokellector.com/398/Slither-Wing.SV6A.26.53155.png",
+      "rarity": "Uncommon",
+      "cardNum": "26/64"
+    },
+    {
+      "name": "Zubat",
+      "set": "Night Wanderer",
+      "img": "https://den-cards.pokellector.com/398/Zubat.SV6A.27.53531.png",
+      "rarity": "Common",
+      "cardNum": "27/64"
+    },
+    {
+      "name": "Golbat",
+      "set": "Night Wanderer",
+      "img": "https://den-cards.pokellector.com/398/Golbat.SV6A.28.53530.png",
+      "rarity": "Common",
+      "cardNum": "28/64"
+    },
+    {
+      "name": "Crobat",
+      "set": "Night Wanderer",
+      "img": "https://den-cards.pokellector.com/398/Crobat.SV6A.29.53529.png",
+      "rarity": "Uncommon",
+      "cardNum": "29/64"
+    },
+    {
+      "name": "Absol",
+      "set": "Night Wanderer",
+      "img": "https://den-cards.pokellector.com/398/Absol.SV6A.30.53554.png",
+      "rarity": "Common",
+      "cardNum": "30/64"
+    },
+    {
+      "name": "Zorua",
+      "set": "Night Wanderer",
+      "img": "https://den-cards.pokellector.com/398/Zorua.SV6A.31.53555.png",
+      "rarity": "Common",
+      "cardNum": "31/64"
+    },
+    {
+      "name": "Zoroark",
+      "set": "Night Wanderer",
+      "img": "https://den-cards.pokellector.com/398/Zoroark.SV6A.32.53556.png",
+      "rarity": "Rare",
+      "cardNum": "32/64"
+    },
+    {
+      "name": "Inkay",
+      "set": "Night Wanderer",
+      "img": "https://den-cards.pokellector.com/398/Inkay.SV6A.33.53151.png",
+      "rarity": "Common",
+      "cardNum": "33/64"
+    },
+    {
+      "name": "Malamar",
+      "set": "Night Wanderer",
+      "img": "https://den-cards.pokellector.com/398/Malamar.SV6A.34.53152.png",
+      "rarity": "Uncommon",
+      "cardNum": "34/64"
+    },
+    {
+      "name": "Yveltal",
+      "set": "Night Wanderer",
+      "img": "https://den-cards.pokellector.com/398/Yveltal.SV6A.35.53523.png",
+      "rarity": "Uncommon",
+      "cardNum": "35/64"
+    },
+    {
+      "name": "Okidogi ex",
+      "set": "Night Wanderer",
+      "img": "https://den-cards.pokellector.com/398/Okidogi-ex.SV6A.36.53118.png",
+      "rarity": "Double Rare",
+      "cardNum": "36/64"
+    },
+    {
+      "name": "Munkidori ex",
+      "set": "Night Wanderer",
+      "img": "https://den-cards.pokellector.com/398/Munkidori-ex.SV6A.37.53119.png",
+      "rarity": "Double Rare",
+      "cardNum": "37/64"
+    },
+    {
+      "name": "Fezandipiti ex",
+      "set": "Night Wanderer",
+      "img": "https://den-cards.pokellector.com/398/Fezandipiti-ex.SV6A.38.53120.png",
+      "rarity": "Double Rare",
+      "cardNum": "38/64"
+    },
+    {
+      "name": "Pecharunt ex",
+      "set": "Night Wanderer",
+      "img": "https://den-cards.pokellector.com/398/Pecharunt-ex.SV6A.39.53117.png",
+      "rarity": "Double Rare",
+      "cardNum": "39/64"
+    },
+    {
+      "name": "Genesect",
+      "set": "Night Wanderer",
+      "img": "https://den-cards.pokellector.com/398/Genesect.SV6A.40.53535.png",
+      "rarity": "Uncommon",
+      "cardNum": "40/64"
+    },
+    {
+      "name": "Cufant",
+      "set": "Night Wanderer",
+      "img": "https://den-cards.pokellector.com/398/Cufant.SV6A.41.53557.png",
+      "rarity": "Common",
+      "cardNum": "41/64"
+    },
+    {
+      "name": "Copperajah",
+      "set": "Night Wanderer",
+      "img": "https://den-cards.pokellector.com/398/Copperajah.SV6A.42.53558.png",
+      "rarity": "Rare",
+      "cardNum": "42/64"
+    },
+    {
+      "name": "Varoom",
+      "set": "Night Wanderer",
+      "img": "https://den-cards.pokellector.com/398/Varoom.SV6A.43.53559.png",
+      "rarity": "Common",
+      "cardNum": "43/64"
+    },
+    {
+      "name": "Axew",
+      "set": "Night Wanderer",
+      "img": "https://den-cards.pokellector.com/398/Axew.SV6A.44.53560.png",
+      "rarity": "Common",
+      "cardNum": "44/64"
+    },
+    {
+      "name": "Fraxure",
+      "set": "Night Wanderer",
+      "img": "https://den-cards.pokellector.com/398/Fraxure.SV6A.45.53561.png",
+      "rarity": "Common",
+      "cardNum": "45/64"
+    },
+    {
+      "name": "Haxorus",
+      "set": "Night Wanderer",
+      "img": "https://den-cards.pokellector.com/398/Haxorus.SV6A.46.53562.png",
+      "rarity": "Rare",
+      "cardNum": "46/64"
+    },
+    {
+      "name": "Kyurem",
+      "set": "Night Wanderer",
+      "img": "https://den-cards.pokellector.com/398/Kyurem.SV6A.47.53121.png",
+      "rarity": "Uncommon",
+      "cardNum": "47/64"
+    },
+    {
+      "name": "Meowth",
+      "set": "Night Wanderer",
+      "img": "https://den-cards.pokellector.com/398/Meowth.SV6A.48.53563.png",
+      "rarity": "Common",
+      "cardNum": "48/64"
+    },
+    {
+      "name": "Persian",
+      "set": "Night Wanderer",
+      "img": "https://den-cards.pokellector.com/398/Persian.SV6A.49.53564.png",
+      "rarity": "Common",
+      "cardNum": "49/64"
+    },
+    {
+      "name": "Eevee",
+      "set": "Night Wanderer",
+      "img": "https://den-cards.pokellector.com/398/Eevee.SV6A.50.53565.png",
+      "rarity": "Common",
+      "cardNum": "50/64"
+    },
+    {
+      "name": "Furfrou",
+      "set": "Night Wanderer",
+      "img": "https://den-cards.pokellector.com/398/Furfrou.SV6A.51.53566.png",
+      "rarity": "Common",
+      "cardNum": "51/64"
+    },
+    {
+      "name": "Stufful",
+      "set": "Night Wanderer",
+      "img": "https://den-cards.pokellector.com/398/Stufful.SV6A.52.53567.png",
+      "rarity": "Common",
+      "cardNum": "52/64"
+    },
+    {
+      "name": "Bewear",
+      "set": "Night Wanderer",
+      "img": "https://den-cards.pokellector.com/398/Bewear.SV6A.53.53568.png",
+      "rarity": "Common",
+      "cardNum": "53/64"
+    },
+    {
+      "name": "Dangerous Laser",
+      "set": "Night Wanderer",
+      "img": "https://den-cards.pokellector.com/398/Dangerous-Laser.SV6A.54.53528.png",
+      "rarity": "Ace Spec",
+      "cardNum": "54/64"
+    },
+    {
+      "name": "Pokevital A",
+      "set": "Night Wanderer",
+      "img": "https://den-cards.pokellector.com/398/Pokevital-A.SV6A.55.53143.png",
+      "rarity": "Ace Spec",
+      "cardNum": "55/64"
+    },
+    {
+      "name": "Nightly Stretcher",
+      "set": "Night Wanderer",
+      "img": "https://den-cards.pokellector.com/398/Nightly-Stretcher.SV6A.56.53532.png",
+      "rarity": "Uncommon",
+      "cardNum": "56/64"
+    },
+    {
+      "name": "Binding Mochi",
+      "set": "Night Wanderer",
+      "img": "https://den-cards.pokellector.com/398/Binding-Mochi.SV6A.57.53122.png",
+      "rarity": "Uncommon",
+      "cardNum": "57/64"
+    },
+    {
+      "name": "Power Hourglass",
+      "set": "Night Wanderer",
+      "img": "https://den-cards.pokellector.com/398/Power-Hourglass.SV6A.58.53569.png",
+      "rarity": "Uncommon",
+      "cardNum": "58/64"
+    },
+    {
+      "name": "Colress's Obsession",
+      "set": "Night Wanderer",
+      "img": "https://den-cards.pokellector.com/398/Colresss-Obsession.SV6A.59.53123.png",
+      "rarity": "Uncommon",
+      "cardNum": "59/64"
+    },
+    {
+      "name": "Janine's Secret Technique",
+      "set": "Night Wanderer",
+      "img": "https://den-cards.pokellector.com/398/Janines-Secret-Technique.SV6A.60.53533.png",
+      "rarity": "Uncommon",
+      "cardNum": "60/64"
+    },
+    {
+      "name": "Cassiopeia",
+      "set": "Night Wanderer",
+      "img": "https://den-cards.pokellector.com/398/Cassiopeia.SV6A.61.53534.png",
+      "rarity": "Uncommon",
+      "cardNum": "61/64"
+    },
+    {
+      "name": "Xerosic's Scheme",
+      "set": "Night Wanderer",
+      "img": "https://den-cards.pokellector.com/398/Xerosics-Scheme.SV6A.62.53153.png",
+      "rarity": "Uncommon",
+      "cardNum": "62/64"
+    },
+    {
+      "name": "Neutral Center",
+      "set": "Night Wanderer",
+      "img": "https://den-cards.pokellector.com/398/Neutral-Center.SV6A.63.53116.png",
+      "rarity": "Ace Spec",
+      "cardNum": "63/64"
+    },
+    {
+      "name": "Night Academy",
+      "set": "Night Wanderer",
+      "img": "https://den-cards.pokellector.com/398/Night-Academy.SV6A.64.53570.png",
+      "rarity": "Uncommon",
+      "cardNum": "64/64"
+    },
+    {
+      "name": "Tapu Bulu",
+      "set": "Night Wanderer",
+      "img": "https://den-cards.pokellector.com/398/Tapu-Bulu.SV6A.65.53571.png",
+      "rarity": "Art Rare",
+      "cardNum": "65/64"
+    },
+    {
+      "name": "Houndoom",
+      "set": "Night Wanderer",
+      "img": "https://den-cards.pokellector.com/398/Houndoom.SV6A.66.53572.png",
+      "rarity": "Art Rare",
+      "cardNum": "66/64"
+    },
+    {
+      "name": "Horsea",
+      "set": "Night Wanderer",
+      "img": "https://den-cards.pokellector.com/398/Horsea.SV6A.67.53522.png",
+      "rarity": "Art Rare",
+      "cardNum": "67/64"
+    },
+    {
+      "name": "Duskull",
+      "set": "Night Wanderer",
+      "img": "https://den-cards.pokellector.com/398/Duskull.SV6A.68.53573.png",
+      "rarity": "Art Rare",
+      "cardNum": "68/64"
+    },
+    {
+      "name": "Dusclops",
+      "set": "Night Wanderer",
+      "img": "https://den-cards.pokellector.com/398/Dusclops.SV6A.69.53574.png",
+      "rarity": "Art Rare",
+      "cardNum": "69/64"
+    },
+    {
+      "name": "Dusknoir",
+      "set": "Night Wanderer",
+      "img": "https://den-cards.pokellector.com/398/Dusknoir.SV6A.70.53575.png",
+      "rarity": "Art Rare",
+      "cardNum": "70/64"
+    },
+    {
+      "name": "Cresselia",
+      "set": "Night Wanderer",
+      "img": "https://den-cards.pokellector.com/398/Cresselia.SV6A.71.53576.png",
+      "rarity": "Art Rare",
+      "cardNum": "71/64"
+    },
+    {
+      "name": "Zorua",
+      "set": "Night Wanderer",
+      "img": "https://den-cards.pokellector.com/398/Zorua.SV6A.72.53577.png",
+      "rarity": "Art Rare",
+      "cardNum": "72/64"
+    },
+    {
+      "name": "Cufant",
+      "set": "Night Wanderer",
+      "img": "https://den-cards.pokellector.com/398/Cufant.SV6A.73.53578.png",
+      "rarity": "Art Rare",
+      "cardNum": "73/64"
+    },
+    {
+      "name": "Fraxure",
+      "set": "Night Wanderer",
+      "img": "https://den-cards.pokellector.com/398/Fraxure.SV6A.74.53579.png",
+      "rarity": "Art Rare",
+      "cardNum": "74/64"
+    },
+    {
+      "name": "Persian",
+      "set": "Night Wanderer",
+      "img": "https://den-cards.pokellector.com/398/Persian.SV6A.75.53580.png",
+      "rarity": "Art Rare",
+      "cardNum": "75/64"
+    },
+    {
+      "name": "Bewear",
+      "set": "Night Wanderer",
+      "img": "https://den-cards.pokellector.com/398/Bewear.SV6A.76.53581.png",
+      "rarity": "Art Rare",
+      "cardNum": "76/64"
+    },
+    {
+      "name": "Kingdra ex",
+      "set": "Night Wanderer",
+      "img": "https://den-cards.pokellector.com/398/Kingdra-ex.SV6A.77.53582.png",
+      "rarity": "Super Rare",
+      "cardNum": "77/64"
+    },
+    {
+      "name": "Revavroom ex",
+      "set": "Night Wanderer",
+      "img": "https://den-cards.pokellector.com/398/Revavroom-ex.SV6A.78.53583.png",
+      "rarity": "Super Rare",
+      "cardNum": "78/64"
+    },
+    {
+      "name": "Okidogi ex",
+      "set": "Night Wanderer",
+      "img": "https://den-cards.pokellector.com/398/Okidogi-ex.SV6A.79.53584.png",
+      "rarity": "Super Rare",
+      "cardNum": "79/64"
+    },
+    {
+      "name": "Munkidori ex",
+      "set": "Night Wanderer",
+      "img": "https://den-cards.pokellector.com/398/Munkidori-ex.SV6A.80.53585.png",
+      "rarity": "Super Rare",
+      "cardNum": "80/64"
+    },
+    {
+      "name": "Fezandipiti ex",
+      "set": "Night Wanderer",
+      "img": "https://den-cards.pokellector.com/398/Fezandipiti-ex.SV6A.81.53586.png",
+      "rarity": "Super Rare",
+      "cardNum": "81/64"
+    },
+    {
+      "name": "Pecharunt ex",
+      "set": "Night Wanderer",
+      "img": "https://den-cards.pokellector.com/398/Pecharunt-ex.SV6A.82.53587.png",
+      "rarity": "Super Rare",
+      "cardNum": "82/64"
+    },
+    {
+      "name": "Colress's Tenacity",
+      "set": "Night Wanderer",
+      "img": "https://den-cards.pokellector.com/398/Colresss-Tenacity.SV6A.83.53588.png",
+      "rarity": "Super Rare",
+      "cardNum": "83/64"
+    },
+    {
+      "name": "Janine's Secret Technique",
+      "set": "Night Wanderer",
+      "img": "https://den-cards.pokellector.com/398/Janines-Secret-Technique.SV6A.84.53589.png",
+      "rarity": "Super Rare",
+      "cardNum": "84/64"
+    },
+    {
+      "name": "Cassiopeia",
+      "set": "Night Wanderer",
+      "img": "https://den-cards.pokellector.com/398/Cassiopeia.SV6A.85.53590.png",
+      "rarity": "Super Rare",
+      "cardNum": "85/64"
+    },
+    {
+      "name": "Xerosic's Scheme",
+      "set": "Night Wanderer",
+      "img": "https://den-cards.pokellector.com/398/Xerosics-Scheme.SV6A.86.53591.png",
+      "rarity": "Super Rare",
+      "cardNum": "86/64"
+    },
+    {
+      "name": "Okidogi ex",
+      "set": "Night Wanderer",
+      "img": "https://den-cards.pokellector.com/398/Okidogi-ex.SV6A.87.53592.png",
+      "rarity": "Special Art Rare",
+      "cardNum": "87/64"
+    },
+    {
+      "name": "Munkidori ex",
+      "set": "Night Wanderer",
+      "img": "https://den-cards.pokellector.com/398/Munkidori-ex.SV6A.88.53593.png",
+      "rarity": "Special Art Rare",
+      "cardNum": "88/64"
+    },
+    {
+      "name": "Fezandipiti ex",
+      "set": "Night Wanderer",
+      "img": "https://den-cards.pokellector.com/398/Fezandipiti-ex.SV6A.89.53594.png",
+      "rarity": "Special Art Rare",
+      "cardNum": "89/64"
+    },
+    {
+      "name": "Pecharunt ex",
+      "set": "Night Wanderer",
+      "img": "https://den-cards.pokellector.com/398/Pecharunt-ex.SV6A.90.53521.png",
+      "rarity": "Special Art Rare",
+      "cardNum": "90/64"
+    },
+    {
+      "name": "Cassiopeia",
+      "set": "Night Wanderer",
+      "img": "https://den-cards.pokellector.com/398/Cassiopeia.SV6A.91.53595.png",
+      "rarity": "Special Art Rare",
+      "cardNum": "91/64"
+    },
+    {
+      "name": "Pecharunt ex",
+      "set": "Night Wanderer",
+      "img": "https://den-cards.pokellector.com/398/Pecharunt-ex.SV6A.92.53596.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "92/64"
+    },
+    {
+      "name": "Earthen Vessel",
+      "set": "Night Wanderer",
+      "img": "https://den-cards.pokellector.com/398/Earthen-Vessel.SV6A.93.53597.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "93/64"
+    },
+    {
+      "name": "Power Hourglass",
+      "set": "Night Wanderer",
+      "img": "https://den-cards.pokellector.com/398/Power-Hourglass.SV6A.94.53598.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "94/64"
+    }
+  ]
+}

@@ -1,0 +1,1370 @@
+{
+  "setName": "Shining Fates",
+  "cards": [
+    {
+      "name": "Yanma",
+      "set": "Shining Fates",
+      "img": "https://den-cards.pokellector.com/304/Yanma.SWSH45.1.36699.png",
+      "rarity": "Common",
+      "cardNum": "1/72"
+    },
+    {
+      "name": "Yanmega",
+      "set": "Shining Fates",
+      "img": "https://den-cards.pokellector.com/304/Yanmega.SWSH45.2.36698.png",
+      "rarity": "Rare",
+      "cardNum": "2/72"
+    },
+    {
+      "name": "Celebi",
+      "set": "Shining Fates",
+      "img": "https://den-cards.pokellector.com/304/Celebi.SWSH45.3.36961.png",
+      "rarity": "Rare",
+      "cardNum": "3/72"
+    },
+    {
+      "name": "Cacnea",
+      "set": "Shining Fates",
+      "img": "https://den-cards.pokellector.com/304/Cacnea.SWSH45.4.36962.png",
+      "rarity": "Common",
+      "cardNum": "4/72"
+    },
+    {
+      "name": "Tropius",
+      "set": "Shining Fates",
+      "img": "https://den-cards.pokellector.com/304/Tropius.SWSH45.5.36963.png",
+      "rarity": "Uncommon",
+      "cardNum": "5/72"
+    },
+    {
+      "name": "Rowlet",
+      "set": "Shining Fates",
+      "img": "https://den-cards.pokellector.com/304/Rowlet.SWSH45.6.36964.png",
+      "rarity": "Common",
+      "cardNum": "6/72"
+    },
+    {
+      "name": "Dartrix",
+      "set": "Shining Fates",
+      "img": "https://den-cards.pokellector.com/304/Dartrix.SWSH45.7.36965.png",
+      "rarity": "Uncommon",
+      "cardNum": "7/72"
+    },
+    {
+      "name": "Decidueye",
+      "set": "Shining Fates",
+      "img": "https://den-cards.pokellector.com/304/Decidueye.SWSH45.8.36966.png",
+      "rarity": "Rare",
+      "cardNum": "8/72"
+    },
+    {
+      "name": "Dhelmise V",
+      "set": "Shining Fates",
+      "img": "https://den-cards.pokellector.com/304/Dhelmise-V.SWSH45.9.36967.png",
+      "rarity": "Rare",
+      "cardNum": "9/72"
+    },
+    {
+      "name": "Dhelmise VMAX",
+      "set": "Shining Fates",
+      "img": "https://den-cards.pokellector.com/304/Dhelmise-VMAX.SWSH45.10.36968.png",
+      "rarity": "Rare",
+      "cardNum": "10/72"
+    },
+    {
+      "name": "Grookey",
+      "set": "Shining Fates",
+      "img": "https://den-cards.pokellector.com/304/Grookey.SWSH45.11.36969.png",
+      "rarity": "Common",
+      "cardNum": "11/72"
+    },
+    {
+      "name": "Thwackey",
+      "set": "Shining Fates",
+      "img": "https://den-cards.pokellector.com/304/Thwackey.SWSH45.12.36970.png",
+      "rarity": "Uncommon",
+      "cardNum": "12/72"
+    },
+    {
+      "name": "Rillaboom",
+      "set": "Shining Fates",
+      "img": "https://den-cards.pokellector.com/304/Rillaboom.SWSH45.13.36971.png",
+      "rarity": "Rare",
+      "cardNum": "13/72"
+    },
+    {
+      "name": "Gossifleur",
+      "set": "Shining Fates",
+      "img": "https://den-cards.pokellector.com/304/Gossifleur.SWSH45.14.36696.png",
+      "rarity": "Common",
+      "cardNum": "14/72"
+    },
+    {
+      "name": "Eldegoss",
+      "set": "Shining Fates",
+      "img": "https://den-cards.pokellector.com/304/Eldegoss.SWSH45.15.36692.png",
+      "rarity": "Uncommon",
+      "cardNum": "15/72"
+    },
+    {
+      "name": "Zarude",
+      "set": "Shining Fates",
+      "img": "https://den-cards.pokellector.com/304/Zarude.SWSH45.16.36972.png",
+      "rarity": "Rare",
+      "cardNum": "16/72"
+    },
+    {
+      "name": "Reshiram",
+      "set": "Shining Fates",
+      "img": "https://den-cards.pokellector.com/304/Reshiram.SWSH45.17.36973.png",
+      "rarity": "Amazing Rare",
+      "cardNum": "17/72"
+    },
+    {
+      "name": "Cinderace V",
+      "set": "Shining Fates",
+      "img": "https://den-cards.pokellector.com/304/Cinderace-V.SWSH45.18.36974.png",
+      "rarity": "Rare",
+      "cardNum": "18/72"
+    },
+    {
+      "name": "Cinderace VMAX",
+      "set": "Shining Fates",
+      "img": "https://den-cards.pokellector.com/304/Cinderace-VMAX.SWSH45.19.36975.png",
+      "rarity": "Rare",
+      "cardNum": "19/72"
+    },
+    {
+      "name": "Horsea",
+      "set": "Shining Fates",
+      "img": "https://den-cards.pokellector.com/304/Horsea.SWSH45.20.36976.png",
+      "rarity": "Common",
+      "cardNum": "20/72"
+    },
+    {
+      "name": "Kyogre",
+      "set": "Shining Fates",
+      "img": "https://den-cards.pokellector.com/304/Kyogre.SWSH45.21.36977.png",
+      "rarity": "Amazing Rare",
+      "cardNum": "21/72"
+    },
+    {
+      "name": "Buizel",
+      "set": "Shining Fates",
+      "img": "https://den-cards.pokellector.com/304/Buizel.SWSH45.22.36978.png",
+      "rarity": "Common",
+      "cardNum": "22/72"
+    },
+    {
+      "name": "Floatzel",
+      "set": "Shining Fates",
+      "img": "https://den-cards.pokellector.com/304/Floatzel.SWSH45.23.36979.png",
+      "rarity": "Uncommon",
+      "cardNum": "23/72"
+    },
+    {
+      "name": "Manaphy",
+      "set": "Shining Fates",
+      "img": "https://den-cards.pokellector.com/304/Manaphy.SWSH45.24.36980.png",
+      "rarity": "Rare",
+      "cardNum": "24/72"
+    },
+    {
+      "name": "Volcanion",
+      "set": "Shining Fates",
+      "img": "https://den-cards.pokellector.com/304/Volcanion.SWSH45.25.36693.png",
+      "rarity": "Rare",
+      "cardNum": "25/72"
+    },
+    {
+      "name": "Chewtle",
+      "set": "Shining Fates",
+      "img": "https://den-cards.pokellector.com/304/Chewtle.SWSH45.26.36700.png",
+      "rarity": "Common",
+      "cardNum": "26/72"
+    },
+    {
+      "name": "Drednaw",
+      "set": "Shining Fates",
+      "img": "https://den-cards.pokellector.com/304/Drednaw.SWSH45.27.36981.png",
+      "rarity": "Rare",
+      "cardNum": "27/72"
+    },
+    {
+      "name": "Cramorant",
+      "set": "Shining Fates",
+      "img": "https://den-cards.pokellector.com/304/Cramorant.SWSH45.28.36694.png",
+      "rarity": "Uncommon",
+      "cardNum": "28/72"
+    },
+    {
+      "name": "Snom",
+      "set": "Shining Fates",
+      "img": "https://den-cards.pokellector.com/304/Snom.SWSH45.29.36982.png",
+      "rarity": "Common",
+      "cardNum": "29/72"
+    },
+    {
+      "name": "Frosmoth",
+      "set": "Shining Fates",
+      "img": "https://den-cards.pokellector.com/304/Frosmoth.SWSH45.30.36983.png",
+      "rarity": "Rare",
+      "cardNum": "30/72"
+    },
+    {
+      "name": "Shinx",
+      "set": "Shining Fates",
+      "img": "https://den-cards.pokellector.com/304/Shinx.SWSH45.31.36984.png",
+      "rarity": "Common",
+      "cardNum": "31/72"
+    },
+    {
+      "name": "Luxio",
+      "set": "Shining Fates",
+      "img": "https://den-cards.pokellector.com/304/Luxio.SWSH45.32.36985.png",
+      "rarity": "Uncommon",
+      "cardNum": "32/72"
+    },
+    {
+      "name": "Luxray",
+      "set": "Shining Fates",
+      "img": "https://den-cards.pokellector.com/304/Luxray.SWSH45.33.36986.png",
+      "rarity": "Rare",
+      "cardNum": "33/72"
+    },
+    {
+      "name": "Rotom",
+      "set": "Shining Fates",
+      "img": "https://den-cards.pokellector.com/304/Rotom.SWSH45.34.36987.png",
+      "rarity": "Uncommon",
+      "cardNum": "34/72"
+    },
+    {
+      "name": "Morpeko",
+      "set": "Shining Fates",
+      "img": "https://den-cards.pokellector.com/304/Morpeko.SWSH45.35.36988.png",
+      "rarity": "Common",
+      "cardNum": "35/72"
+    },
+    {
+      "name": "Morpeko",
+      "set": "Shining Fates",
+      "img": "https://den-cards.pokellector.com/304/Morpeko.SWSH45.36.36989.png",
+      "rarity": "Common",
+      "cardNum": "36/72"
+    },
+    {
+      "name": "Morpeko V",
+      "set": "Shining Fates",
+      "img": "https://den-cards.pokellector.com/304/Morpeko-V.SWSH45.37.36990.png",
+      "rarity": "Rare",
+      "cardNum": "37/72"
+    },
+    {
+      "name": "Morpeko VMAX",
+      "set": "Shining Fates",
+      "img": "https://den-cards.pokellector.com/304/Morpeko-VMAX.SWSH45.38.36991.png",
+      "rarity": "Rare",
+      "cardNum": "38/72"
+    },
+    {
+      "name": "Indeedee V",
+      "set": "Shining Fates",
+      "img": "https://den-cards.pokellector.com/304/Indeedee-V.SWSH45.39.36992.png",
+      "rarity": "Rare",
+      "cardNum": "39/72"
+    },
+    {
+      "name": "Trapinch",
+      "set": "Shining Fates",
+      "img": "https://den-cards.pokellector.com/304/Trapinch.SWSH45.40.36993.png",
+      "rarity": "Common",
+      "cardNum": "40/72"
+    },
+    {
+      "name": "Koffing",
+      "set": "Shining Fates",
+      "img": "https://den-cards.pokellector.com/304/Koffing.SWSH45.41.36994.png",
+      "rarity": "Common",
+      "cardNum": "41/72"
+    },
+    {
+      "name": "Galarian Weezing",
+      "set": "Shining Fates",
+      "img": "https://den-cards.pokellector.com/304/Galarian-Weezing.SWSH45.42.36995.png",
+      "rarity": "Rare",
+      "cardNum": "42/72"
+    },
+    {
+      "name": "Spinarak",
+      "set": "Shining Fates",
+      "img": "https://den-cards.pokellector.com/304/Spinarak.SWSH45.43.36996.png",
+      "rarity": "Common",
+      "cardNum": "43/72"
+    },
+    {
+      "name": "Crobat V",
+      "set": "Shining Fates",
+      "img": "https://den-cards.pokellector.com/304/Crobat-V.SWSH45.44.36997.png",
+      "rarity": "Rare",
+      "cardNum": "44/72"
+    },
+    {
+      "name": "Crobat VMAX",
+      "set": "Shining Fates",
+      "img": "https://den-cards.pokellector.com/304/Crobat-VMAX.SWSH45.45.36998.png",
+      "rarity": "Rare",
+      "cardNum": "45/72"
+    },
+    {
+      "name": "Yveltal",
+      "set": "Shining Fates",
+      "img": "https://den-cards.pokellector.com/304/Yveltal.SWSH45.46.36999.png",
+      "rarity": "Amazing Rare",
+      "cardNum": "46/72"
+    },
+    {
+      "name": "Nickit",
+      "set": "Shining Fates",
+      "img": "https://den-cards.pokellector.com/304/Nickit.SWSH45.47.37000.png",
+      "rarity": "Common",
+      "cardNum": "47/72"
+    },
+    {
+      "name": "Thievul",
+      "set": "Shining Fates",
+      "img": "https://den-cards.pokellector.com/304/Thievul.SWSH45.48.37001.png",
+      "rarity": "Rare",
+      "cardNum": "48/72"
+    },
+    {
+      "name": "Cufant",
+      "set": "Shining Fates",
+      "img": "https://den-cards.pokellector.com/304/Cufant.SWSH45.49.37002.png",
+      "rarity": "Common",
+      "cardNum": "49/72"
+    },
+    {
+      "name": "Ditto V",
+      "set": "Shining Fates",
+      "img": "https://den-cards.pokellector.com/304/Ditto-V.SWSH45.50.37003.png",
+      "rarity": "Rare",
+      "cardNum": "50/72"
+    },
+    {
+      "name": "Ditto VMAX",
+      "set": "Shining Fates",
+      "img": "https://den-cards.pokellector.com/304/Ditto-VMAX.SWSH45.51.37004.png",
+      "rarity": "Rare",
+      "cardNum": "51/72"
+    },
+    {
+      "name": "Eevee",
+      "set": "Shining Fates",
+      "img": "https://den-cards.pokellector.com/304/Eevee.SWSH45.52.37005.png",
+      "rarity": "Common",
+      "cardNum": "52/72"
+    },
+    {
+      "name": "Greedent V",
+      "set": "Shining Fates",
+      "img": "https://den-cards.pokellector.com/304/Greedent-V.SWSH45.53.37006.png",
+      "rarity": "Rare",
+      "cardNum": "53/72"
+    },
+    {
+      "name": "Cramorant V",
+      "set": "Shining Fates",
+      "img": "https://den-cards.pokellector.com/304/Cramorant-V.SWSH45.54.37007.png",
+      "rarity": "Rare",
+      "cardNum": "54/72"
+    },
+    {
+      "name": "Cramorant VMAX",
+      "set": "Shining Fates",
+      "img": "https://den-cards.pokellector.com/304/Cramorant-VMAX.SWSH45.55.37008.png",
+      "rarity": "Rare",
+      "cardNum": "55/72"
+    },
+    {
+      "name": "Indeedee",
+      "set": "Shining Fates",
+      "img": "https://den-cards.pokellector.com/304/Indeedee..56.36695.png",
+      "rarity": "Rare",
+      "cardNum": "56/72"
+    },
+    {
+      "name": "Ball Guy",
+      "set": "Shining Fates",
+      "img": "https://den-cards.pokellector.com/304/Ball-Guy.SWSH45.57.37009.png",
+      "rarity": "Uncommon",
+      "cardNum": "57/72"
+    },
+    {
+      "name": "Boss's Orders",
+      "set": "Shining Fates",
+      "img": "https://den-cards.pokellector.com/304/Bosss-Orders..58.36691.png",
+      "rarity": "Rare",
+      "cardNum": "58/72"
+    },
+    {
+      "name": "Gym Trainer",
+      "set": "Shining Fates",
+      "img": "https://den-cards.pokellector.com/304/Gym-Trainer..59.36697.png",
+      "rarity": "Uncommon",
+      "cardNum": "59/72"
+    },
+    {
+      "name": "Professor's Research",
+      "set": "Shining Fates",
+      "img": "https://den-cards.pokellector.com/304/Professors-Research.SWSH45.60.37010.png",
+      "rarity": "Rare",
+      "cardNum": "60/72"
+    },
+    {
+      "name": "Rusted Shield",
+      "set": "Shining Fates",
+      "img": "https://den-cards.pokellector.com/304/Rusted-Shield.SWSH45.61.37011.png",
+      "rarity": "Uncommon",
+      "cardNum": "61/72"
+    },
+    {
+      "name": "Rusted Sword",
+      "set": "Shining Fates",
+      "img": "https://den-cards.pokellector.com/304/Rusted-Sword.SWSH45.62.37012.png",
+      "rarity": "Uncommon",
+      "cardNum": "62/72"
+    },
+    {
+      "name": "Team Yell Towel",
+      "set": "Shining Fates",
+      "img": "https://den-cards.pokellector.com/304/Team-Yell-Towel.SWSH45.63.37013.png",
+      "rarity": "Uncommon",
+      "cardNum": "63/72"
+    },
+    {
+      "name": "Alcremie V",
+      "set": "Shining Fates",
+      "img": "https://den-cards.pokellector.com/304/Alcremie-V.SWSH45.64.37014.png",
+      "rarity": "Rare",
+      "cardNum": "64/72"
+    },
+    {
+      "name": "Ball Guy",
+      "set": "Shining Fates",
+      "img": "https://den-cards.pokellector.com/304/Ball-Guy.SWSH45.65.37015.png",
+      "rarity": "Rare",
+      "cardNum": "65/72"
+    },
+    {
+      "name": "Bird Keeper",
+      "set": "Shining Fates",
+      "img": "https://den-cards.pokellector.com/304/Bird-Keeper.SWSH45.66.37016.png",
+      "rarity": "Rare",
+      "cardNum": "66/72"
+    },
+    {
+      "name": "Cara Liss",
+      "set": "Shining Fates",
+      "img": "https://den-cards.pokellector.com/304/Cara-Liss.SWSH45.67.37017.png",
+      "rarity": "Rare",
+      "cardNum": "67/72"
+    },
+    {
+      "name": "Gym Trainer",
+      "set": "Shining Fates",
+      "img": "https://den-cards.pokellector.com/304/Gym-Trainer.SWSH45.68.37018.png",
+      "rarity": "Rare",
+      "cardNum": "68/72"
+    },
+    {
+      "name": "Piers",
+      "set": "Shining Fates",
+      "img": "https://den-cards.pokellector.com/304/Piers.SWSH45.69.37019.png",
+      "rarity": "Rare",
+      "cardNum": "69/72"
+    },
+    {
+      "name": "Poké Kid",
+      "set": "Shining Fates",
+      "img": "https://den-cards.pokellector.com/304/Pokeacute-Kid.SWSH45.70.37020.png",
+      "rarity": "Rare",
+      "cardNum": "70/72"
+    },
+    {
+      "name": "Rose",
+      "set": "Shining Fates",
+      "img": "https://den-cards.pokellector.com/304/Rose.SWSH45.71.37021.png",
+      "rarity": "Rare",
+      "cardNum": "71/72"
+    },
+    {
+      "name": "Skyla",
+      "set": "Shining Fates",
+      "img": "https://den-cards.pokellector.com/304/Skyla.SWSH45.72.37022.png",
+      "rarity": "Rare",
+      "cardNum": "72/72"
+    },
+    {
+      "name": "Alcremie VMAX",
+      "set": "Shining Fates",
+      "img": "https://den-cards.pokellector.com/304/Alcremie-VMAX.SWSH45.73.37023.png",
+      "rarity": "Secret Rare",
+      "cardNum": "73/72"
+    },
+    {
+      "name": "Rowlet",
+      "set": "Shining Fates",
+      "img": "https://den-cards.pokellector.com/304/Rowlet.SWSH45.SV1.37084.png",
+      "rarity": "Rare",
+      "cardNum": "SV1"
+    },
+    {
+      "name": "Dartrix",
+      "set": "Shining Fates",
+      "img": "https://den-cards.pokellector.com/304/Dartrix.SWSH45.SV2.37085.png",
+      "rarity": "Rare",
+      "cardNum": "SV2"
+    },
+    {
+      "name": "Decidueye",
+      "set": "Shining Fates",
+      "img": "https://den-cards.pokellector.com/304/Decidueye.SWSH45.SV3.37086.png",
+      "rarity": "Rare",
+      "cardNum": "SV3"
+    },
+    {
+      "name": "Grookey",
+      "set": "Shining Fates",
+      "img": "https://den-cards.pokellector.com/304/Grookey.SWSH45.SV4.37087.png",
+      "rarity": "Rare",
+      "cardNum": "SV4"
+    },
+    {
+      "name": "Thwackey",
+      "set": "Shining Fates",
+      "img": "https://den-cards.pokellector.com/304/Thwackey.SWSH45.SV5.37088.png",
+      "rarity": "Rare",
+      "cardNum": "SV5"
+    },
+    {
+      "name": "Rillaboom",
+      "set": "Shining Fates",
+      "img": "https://den-cards.pokellector.com/304/Rillaboom.SWSH45.SV6.37089.png",
+      "rarity": "Rare",
+      "cardNum": "SV6"
+    },
+    {
+      "name": "Blipbug",
+      "set": "Shining Fates",
+      "img": "https://den-cards.pokellector.com/304/Blipbug.SWSH45.SV7.37090.png",
+      "rarity": "Rare",
+      "cardNum": "SV7"
+    },
+    {
+      "name": "Dottler",
+      "set": "Shining Fates",
+      "img": "https://den-cards.pokellector.com/304/Dottler.SWSH45.SV8.37091.png",
+      "rarity": "Rare",
+      "cardNum": "SV8"
+    },
+    {
+      "name": "Orbeetle",
+      "set": "Shining Fates",
+      "img": "https://den-cards.pokellector.com/304/Orbeetle.SWSH45.SV9.37092.png",
+      "rarity": "Rare",
+      "cardNum": "SV9"
+    },
+    {
+      "name": "Gossifleur",
+      "set": "Shining Fates",
+      "img": "https://den-cards.pokellector.com/304/Gossifleur.SWSH45.SV10.37093.png",
+      "rarity": "Rare",
+      "cardNum": "SV10"
+    },
+    {
+      "name": "Eldegoss",
+      "set": "Shining Fates",
+      "img": "https://den-cards.pokellector.com/304/Eldegoss.SWSH45.SV11.37094.png",
+      "rarity": "Rare",
+      "cardNum": "SV11"
+    },
+    {
+      "name": "Applin",
+      "set": "Shining Fates",
+      "img": "https://den-cards.pokellector.com/304/Applin.SWSH45.SV12.37095.png",
+      "rarity": "Rare",
+      "cardNum": "SV12"
+    },
+    {
+      "name": "Flapple",
+      "set": "Shining Fates",
+      "img": "https://den-cards.pokellector.com/304/Flapple.SWSH45.SV13.37096.png",
+      "rarity": "Rare",
+      "cardNum": "SV13"
+    },
+    {
+      "name": "Appletun",
+      "set": "Shining Fates",
+      "img": "https://den-cards.pokellector.com/304/Appletun.SWSH45.SV14.37097.png",
+      "rarity": "Rare",
+      "cardNum": "SV14"
+    },
+    {
+      "name": "Scorbunny",
+      "set": "Shining Fates",
+      "img": "https://den-cards.pokellector.com/304/Scorbunny.SWSH45.SV15.37098.png",
+      "rarity": "Rare",
+      "cardNum": "SV15"
+    },
+    {
+      "name": "Raboot",
+      "set": "Shining Fates",
+      "img": "https://den-cards.pokellector.com/304/Raboot.SWSH45.SV16.37099.png",
+      "rarity": "Rare",
+      "cardNum": "SV16"
+    },
+    {
+      "name": "Cinderace",
+      "set": "Shining Fates",
+      "img": "https://den-cards.pokellector.com/304/Cinderace.SWSH45.SV17.37100.png",
+      "rarity": "Rare",
+      "cardNum": "SV17"
+    },
+    {
+      "name": "Sizzlipede",
+      "set": "Shining Fates",
+      "img": "https://den-cards.pokellector.com/304/Sizzlipede.SWSH45.SV18.37101.png",
+      "rarity": "Rare",
+      "cardNum": "SV18"
+    },
+    {
+      "name": "Centiskorch",
+      "set": "Shining Fates",
+      "img": "https://den-cards.pokellector.com/304/Centiskorch.SWSH45.SV19.37102.png",
+      "rarity": "Rare",
+      "cardNum": "SV19"
+    },
+    {
+      "name": "Galarian Mr. Mime",
+      "set": "Shining Fates",
+      "img": "https://den-cards.pokellector.com/304/Galarian-Mr-Mime.SWSH45.SV20.37103.png",
+      "rarity": "Rare",
+      "cardNum": "SV20"
+    },
+    {
+      "name": "Galarian Mr. Rime",
+      "set": "Shining Fates",
+      "img": "https://den-cards.pokellector.com/304/Galarian-Mr-Rime.SWSH45.SV21.37104.png",
+      "rarity": "Rare",
+      "cardNum": "SV21"
+    },
+    {
+      "name": "Suicune",
+      "set": "Shining Fates",
+      "img": "https://den-cards.pokellector.com/304/Suicune.SWSH45.SV22.37105.png",
+      "rarity": "Rare",
+      "cardNum": "SV22"
+    },
+    {
+      "name": "Galarian Darumaka",
+      "set": "Shining Fates",
+      "img": "https://den-cards.pokellector.com/304/Galarian-Darumaka.SWSH45.SV23.37106.png",
+      "rarity": "Rare",
+      "cardNum": "SV23"
+    },
+    {
+      "name": "Galarian Darmanitan",
+      "set": "Shining Fates",
+      "img": "https://den-cards.pokellector.com/304/Galarian-Darmanitan.SWSH45.SV24.37107.png",
+      "rarity": "Rare",
+      "cardNum": "SV24"
+    },
+    {
+      "name": "Sobble",
+      "set": "Shining Fates",
+      "img": "https://den-cards.pokellector.com/304/Sobble.SWSH45.SV25.37108.png",
+      "rarity": "Rare",
+      "cardNum": "SV25"
+    },
+    {
+      "name": "Drizzile",
+      "set": "Shining Fates",
+      "img": "https://den-cards.pokellector.com/304/Drizzile.SWSH45.SV26.37109.png",
+      "rarity": "Rare",
+      "cardNum": "SV26"
+    },
+    {
+      "name": "Inteleon",
+      "set": "Shining Fates",
+      "img": "https://den-cards.pokellector.com/304/Inteleon.SWSH45.SV27.37110.png",
+      "rarity": "Rare",
+      "cardNum": "SV27"
+    },
+    {
+      "name": "Chewtle",
+      "set": "Shining Fates",
+      "img": "https://den-cards.pokellector.com/304/Chewtle.SWSH45.SV28.37111.png",
+      "rarity": "Rare",
+      "cardNum": "SV28"
+    },
+    {
+      "name": "Drednaw",
+      "set": "Shining Fates",
+      "img": "https://den-cards.pokellector.com/304/Drednaw.SWSH45.SV29.37112.png",
+      "rarity": "Rare",
+      "cardNum": "SV29"
+    },
+    {
+      "name": "Cramorant",
+      "set": "Shining Fates",
+      "img": "https://den-cards.pokellector.com/304/Cramorant.SWSH45.SV30.37113.png",
+      "rarity": "Rare",
+      "cardNum": "SV30"
+    },
+    {
+      "name": "Arrokuda",
+      "set": "Shining Fates",
+      "img": "https://den-cards.pokellector.com/304/Arrokuda.SWSH45.SV31.37114.png",
+      "rarity": "Rare",
+      "cardNum": "SV31"
+    },
+    {
+      "name": "Barraskewda",
+      "set": "Shining Fates",
+      "img": "https://den-cards.pokellector.com/304/Barraskewda.SWSH45.SV32.37115.png",
+      "rarity": "Rare",
+      "cardNum": "SV32"
+    },
+    {
+      "name": "Snom",
+      "set": "Shining Fates",
+      "img": "https://den-cards.pokellector.com/304/Snom.SWSH45.SV33.37116.png",
+      "rarity": "Rare",
+      "cardNum": "SV33"
+    },
+    {
+      "name": "Frosmoth",
+      "set": "Shining Fates",
+      "img": "https://den-cards.pokellector.com/304/Frosmoth.SWSH45.SV34.37117.png",
+      "rarity": "Rare",
+      "cardNum": "SV34"
+    },
+    {
+      "name": "Eiscue",
+      "set": "Shining Fates",
+      "img": "https://den-cards.pokellector.com/304/Eiscue.SWSH45.SV35.37118.png",
+      "rarity": "Rare",
+      "cardNum": "SV35"
+    },
+    {
+      "name": "Dracovish",
+      "set": "Shining Fates",
+      "img": "https://den-cards.pokellector.com/304/Dracovish.SWSH45.SV36.37119.png",
+      "rarity": "Rare",
+      "cardNum": "SV36"
+    },
+    {
+      "name": "Arctovish",
+      "set": "Shining Fates",
+      "img": "https://den-cards.pokellector.com/304/Arctovish.SWSH45.SV37.37120.png",
+      "rarity": "Rare",
+      "cardNum": "SV37"
+    },
+    {
+      "name": "Rotom",
+      "set": "Shining Fates",
+      "img": "https://den-cards.pokellector.com/304/Rotom.SWSH45.SV38.37121.png",
+      "rarity": "Rare",
+      "cardNum": "SV38"
+    },
+    {
+      "name": "Yamper",
+      "set": "Shining Fates",
+      "img": "https://den-cards.pokellector.com/304/Yamper.SWSH45.SV39.37122.png",
+      "rarity": "Rare",
+      "cardNum": "SV39"
+    },
+    {
+      "name": "Boltund",
+      "set": "Shining Fates",
+      "img": "https://den-cards.pokellector.com/304/Boltund.SWSH45.SV40.37123.png",
+      "rarity": "Rare",
+      "cardNum": "SV40"
+    },
+    {
+      "name": "Toxel",
+      "set": "Shining Fates",
+      "img": "https://den-cards.pokellector.com/304/Toxel.SWSH45.SV41.37124.png",
+      "rarity": "Rare",
+      "cardNum": "SV41"
+    },
+    {
+      "name": "Toxtricity",
+      "set": "Shining Fates",
+      "img": "https://den-cards.pokellector.com/304/Toxtricity.SWSH45.SV42.37125.png",
+      "rarity": "Rare",
+      "cardNum": "SV42"
+    },
+    {
+      "name": "Pincurchin",
+      "set": "Shining Fates",
+      "img": "https://den-cards.pokellector.com/304/Pincurchin.SWSH45.SV43.37126.png",
+      "rarity": "Rare",
+      "cardNum": "SV43"
+    },
+    {
+      "name": "Morpeko",
+      "set": "Shining Fates",
+      "img": "https://den-cards.pokellector.com/304/Morpeko.SWSH45.SV44.37127.png",
+      "rarity": "Rare",
+      "cardNum": "SV44"
+    },
+    {
+      "name": "Dracozolt",
+      "set": "Shining Fates",
+      "img": "https://den-cards.pokellector.com/304/Dracozolt.SWSH45.SV45.37128.png",
+      "rarity": "Rare",
+      "cardNum": "SV45"
+    },
+    {
+      "name": "Arctozolt",
+      "set": "Shining Fates",
+      "img": "https://den-cards.pokellector.com/304/Arctozolt.SWSH45.SV46.37129.png",
+      "rarity": "Rare",
+      "cardNum": "SV46"
+    },
+    {
+      "name": "Galarian Ponyta",
+      "set": "Shining Fates",
+      "img": "https://den-cards.pokellector.com/304/Galarian-Ponyta.SWSH45.SV47.37130.png",
+      "rarity": "Rare",
+      "cardNum": "SV47"
+    },
+    {
+      "name": "Galarian Rapidash",
+      "set": "Shining Fates",
+      "img": "https://den-cards.pokellector.com/304/Galarian-Rapidash.SWSH45.SV48.37131.png",
+      "rarity": "Rare",
+      "cardNum": "SV48"
+    },
+    {
+      "name": "Galarian Corsola",
+      "set": "Shining Fates",
+      "img": "https://den-cards.pokellector.com/304/Galarian-Corsola.SWSH45.SV49.37132.png",
+      "rarity": "Rare",
+      "cardNum": "SV49"
+    },
+    {
+      "name": "Galarian Cursola",
+      "set": "Shining Fates",
+      "img": "https://den-cards.pokellector.com/304/Galarian-Cursola.SWSH45.SV50.37133.png",
+      "rarity": "Rare",
+      "cardNum": "SV50"
+    },
+    {
+      "name": "Dedenne",
+      "set": "Shining Fates",
+      "img": "https://den-cards.pokellector.com/304/Dedenne.SWSH45.SV51.36917.png",
+      "rarity": "Rare",
+      "cardNum": "SV51"
+    },
+    {
+      "name": "Sinistea",
+      "set": "Shining Fates",
+      "img": "https://den-cards.pokellector.com/304/Sinistea.SWSH45.SV52.37135.png",
+      "rarity": "Rare",
+      "cardNum": "SV52"
+    },
+    {
+      "name": "Polteageist",
+      "set": "Shining Fates",
+      "img": "https://den-cards.pokellector.com/304/Polteageist.SWSH45.SV53.36916.png",
+      "rarity": "Rare",
+      "cardNum": "SV53"
+    },
+    {
+      "name": "Hatenna",
+      "set": "Shining Fates",
+      "img": "https://den-cards.pokellector.com/304/Hatenna.SWSH45.SV54.37137.png",
+      "rarity": "Rare",
+      "cardNum": "SV54"
+    },
+    {
+      "name": "Hattrem",
+      "set": "Shining Fates",
+      "img": "https://den-cards.pokellector.com/304/Hattrem.SWSH45.SV55.37138.png",
+      "rarity": "Rare",
+      "cardNum": "SV55"
+    },
+    {
+      "name": "Hatterene",
+      "set": "Shining Fates",
+      "img": "https://den-cards.pokellector.com/304/Hatternee.SWSH45.SV56.37139.png",
+      "rarity": "Rare",
+      "cardNum": "SV56"
+    },
+    {
+      "name": "Milcery",
+      "set": "Shining Fates",
+      "img": "https://den-cards.pokellector.com/304/Milcery.SWSH45.SV57.37140.png",
+      "rarity": "Rare",
+      "cardNum": "SV57"
+    },
+    {
+      "name": "Alcremie",
+      "set": "Shining Fates",
+      "img": "https://den-cards.pokellector.com/304/Alcremie.SWSH45.SV58.37141.png",
+      "rarity": "Rare",
+      "cardNum": "SV58"
+    },
+    {
+      "name": "Indeedee",
+      "set": "Shining Fates",
+      "img": "https://den-cards.pokellector.com/304/Indeedee.SWSH45.SV59.37142.png",
+      "rarity": "Rare",
+      "cardNum": "SV59"
+    },
+    {
+      "name": "Dreepy",
+      "set": "Shining Fates",
+      "img": "https://den-cards.pokellector.com/304/Dreepy.SWSH45.SV60.37143.png",
+      "rarity": "Rare",
+      "cardNum": "SV60"
+    },
+    {
+      "name": "Drakloak",
+      "set": "Shining Fates",
+      "img": "https://den-cards.pokellector.com/304/Drakloak.SWSH45.SV61.37144.png",
+      "rarity": "Rare",
+      "cardNum": "SV61"
+    },
+    {
+      "name": "Dragapult",
+      "set": "Shining Fates",
+      "img": "https://den-cards.pokellector.com/304/Dragapult.SWSH45.SV62.37145.png",
+      "rarity": "Rare",
+      "cardNum": "SV62"
+    },
+    {
+      "name": "Galarian Farfetch'd",
+      "set": "Shining Fates",
+      "img": "https://den-cards.pokellector.com/304/Galarian-Farfetchd.SWSH45.SV63.37146.png",
+      "rarity": "Rare",
+      "cardNum": "SV63"
+    },
+    {
+      "name": "Galarian Sirfetch'd",
+      "set": "Shining Fates",
+      "img": "https://den-cards.pokellector.com/304/Galarian-Sirfetchd.SWSH45.SV64.37147.png",
+      "rarity": "Rare",
+      "cardNum": "SV64"
+    },
+    {
+      "name": "Galarian Yamask",
+      "set": "Shining Fates",
+      "img": "https://den-cards.pokellector.com/304/Galarian-Yamask.SWSH45.SV65.37148.png",
+      "rarity": "Rare",
+      "cardNum": "SV65"
+    },
+    {
+      "name": "Galarian Runerigus",
+      "set": "Shining Fates",
+      "img": "https://den-cards.pokellector.com/304/Galarian-Runerigus.SWSH45.SV66.37149.png",
+      "rarity": "Rare",
+      "cardNum": "SV66"
+    },
+    {
+      "name": "Rolycoly",
+      "set": "Shining Fates",
+      "img": "https://den-cards.pokellector.com/304/Rolycoly.SWSH45.SV67.37150.png",
+      "rarity": "Rare",
+      "cardNum": "SV67"
+    },
+    {
+      "name": "Carkol",
+      "set": "Shining Fates",
+      "img": "https://den-cards.pokellector.com/304/Carkol.SWSH45.SV68.37151.png",
+      "rarity": "Rare",
+      "cardNum": "SV68"
+    },
+    {
+      "name": "Coalossal",
+      "set": "Shining Fates",
+      "img": "https://den-cards.pokellector.com/304/Coalossal.SWSH45.SV69.37152.png",
+      "rarity": "Rare",
+      "cardNum": "SV69"
+    },
+    {
+      "name": "Silicobra",
+      "set": "Shining Fates",
+      "img": "https://den-cards.pokellector.com/304/Silicobra.SWSH45.SV70.37153.png",
+      "rarity": "Rare",
+      "cardNum": "SV70"
+    },
+    {
+      "name": "Sandaconda",
+      "set": "Shining Fates",
+      "img": "https://den-cards.pokellector.com/304/Sandaconda.SWSH45.SV71.37154.png",
+      "rarity": "Rare",
+      "cardNum": "SV71"
+    },
+    {
+      "name": "Clobbopus",
+      "set": "Shining Fates",
+      "img": "https://den-cards.pokellector.com/304/Clobbopus.SWSH45.SV72.37155.png",
+      "rarity": "Rare",
+      "cardNum": "SV72"
+    },
+    {
+      "name": "Grapploct",
+      "set": "Shining Fates",
+      "img": "https://den-cards.pokellector.com/304/Grapploct.SWSH45.SV73.37156.png",
+      "rarity": "Rare",
+      "cardNum": "SV73"
+    },
+    {
+      "name": "Falinks",
+      "set": "Shining Fates",
+      "img": "https://den-cards.pokellector.com/304/Falinks.SWSH45.SV74.37038.png",
+      "rarity": "Rare",
+      "cardNum": "SV74"
+    },
+    {
+      "name": "Stonjourner",
+      "set": "Shining Fates",
+      "img": "https://den-cards.pokellector.com/304/Stonjourner.SWSH45.SV75.37158.png",
+      "rarity": "Rare",
+      "cardNum": "SV75"
+    },
+    {
+      "name": "Koffing",
+      "set": "Shining Fates",
+      "img": "https://den-cards.pokellector.com/304/Koffing.SWSH45.SV76.37159.png",
+      "rarity": "Rare",
+      "cardNum": "SV76"
+    },
+    {
+      "name": "Galarian Weezing",
+      "set": "Shining Fates",
+      "img": "https://den-cards.pokellector.com/304/Galarian-Weezing.SWSH45.SV77.37160.png",
+      "rarity": "Rare",
+      "cardNum": "SV77"
+    },
+    {
+      "name": "Galarian Zigzagoon",
+      "set": "Shining Fates",
+      "img": "https://den-cards.pokellector.com/304/Galarian-Zigzagoon.SWSH45.SV78.37161.png",
+      "rarity": "Rare",
+      "cardNum": "SV78"
+    },
+    {
+      "name": "Galarian Linoone",
+      "set": "Shining Fates",
+      "img": "https://den-cards.pokellector.com/304/Galarian-Linoone.SWSH45.SV79.37043.png",
+      "rarity": "Rare",
+      "cardNum": "SV79"
+    },
+    {
+      "name": "Galarian Obstagoon",
+      "set": "Shining Fates",
+      "img": "https://den-cards.pokellector.com/304/Galarian-Obstagoon.SWSH45.SV80.37044.png",
+      "rarity": "Rare",
+      "cardNum": "SV80"
+    },
+    {
+      "name": "Nickit",
+      "set": "Shining Fates",
+      "img": "https://den-cards.pokellector.com/304/Nickit.SWSH45.SV81.37164.png",
+      "rarity": "Rare",
+      "cardNum": "SV81"
+    },
+    {
+      "name": "Thievul",
+      "set": "Shining Fates",
+      "img": "https://den-cards.pokellector.com/304/Thievul.SWSH45.SV82.37046.png",
+      "rarity": "Rare",
+      "cardNum": "SV82"
+    },
+    {
+      "name": "Impidimp",
+      "set": "Shining Fates",
+      "img": "https://den-cards.pokellector.com/304/Impadimp.SWSH45.SV83.37047.png",
+      "rarity": "Rare",
+      "cardNum": "SV83"
+    },
+    {
+      "name": "Morgrem",
+      "set": "Shining Fates",
+      "img": "https://den-cards.pokellector.com/304/Morgrem.SWSH45.SV84.37167.png",
+      "rarity": "Rare",
+      "cardNum": "SV84"
+    },
+    {
+      "name": "Grimmsnarl",
+      "set": "Shining Fates",
+      "img": "https://den-cards.pokellector.com/304/Grimmsnarl.SWSH45.SV85.37168.png",
+      "rarity": "Rare",
+      "cardNum": "SV85"
+    },
+    {
+      "name": "Galarian Meowth",
+      "set": "Shining Fates",
+      "img": "https://den-cards.pokellector.com/304/Galarian-Meowth.SWSH45.SV86.37169.png",
+      "rarity": "Rare",
+      "cardNum": "SV86"
+    },
+    {
+      "name": "Galarian Perrserker",
+      "set": "Shining Fates",
+      "img": "https://den-cards.pokellector.com/304/Galarian-Perrserker.SWSH45.SV87.37170.png",
+      "rarity": "Rare",
+      "cardNum": "SV87"
+    },
+    {
+      "name": "Galarian Stunfisk",
+      "set": "Shining Fates",
+      "img": "https://den-cards.pokellector.com/304/Galarian-Stunfisk.SWSH45.SV88.37171.png",
+      "rarity": "Rare",
+      "cardNum": "SV88"
+    },
+    {
+      "name": "Corviknight",
+      "set": "Shining Fates",
+      "img": "https://den-cards.pokellector.com/304/Corviknight.SWSH45.SV89.37053.png",
+      "rarity": "Rare",
+      "cardNum": "SV89"
+    },
+    {
+      "name": "Cufant",
+      "set": "Shining Fates",
+      "img": "https://den-cards.pokellector.com/304/Cufant.SWSH45.SV90.37054.png",
+      "rarity": "Rare",
+      "cardNum": "SV90"
+    },
+    {
+      "name": "Copperajah",
+      "set": "Shining Fates",
+      "img": "https://den-cards.pokellector.com/304/Copperajah.SWSH45.SV91.37174.png",
+      "rarity": "Rare",
+      "cardNum": "SV91"
+    },
+    {
+      "name": "Duraludon",
+      "set": "Shining Fates",
+      "img": "https://den-cards.pokellector.com/304/Duraludon.SWSH45.SV92.37056.png",
+      "rarity": "Rare",
+      "cardNum": "SV92"
+    },
+    {
+      "name": "Minccino",
+      "set": "Shining Fates",
+      "img": "https://den-cards.pokellector.com/304/Minccino.SWSH45.SV93.37057.png",
+      "rarity": "Rare",
+      "cardNum": "SV93"
+    },
+    {
+      "name": "Cinccino",
+      "set": "Shining Fates",
+      "img": "https://den-cards.pokellector.com/304/Cinccino.SWSH45.SV94.37058.png",
+      "rarity": "Rare",
+      "cardNum": "SV94"
+    },
+    {
+      "name": "Ducklett",
+      "set": "Shining Fates",
+      "img": "https://den-cards.pokellector.com/304/Ducklett.SWSH45.SV95.37178.png",
+      "rarity": "Rare",
+      "cardNum": "SV95"
+    },
+    {
+      "name": "Swanna",
+      "set": "Shining Fates",
+      "img": "https://den-cards.pokellector.com/304/Swanna.SWSH45.SV96.37179.png",
+      "rarity": "Rare",
+      "cardNum": "SV96"
+    },
+    {
+      "name": "Bunnelby",
+      "set": "Shining Fates",
+      "img": "https://den-cards.pokellector.com/304/Bunnelby.SWSH45.SV97.37061.png",
+      "rarity": "Rare",
+      "cardNum": "SV97"
+    },
+    {
+      "name": "Oranguru",
+      "set": "Shining Fates",
+      "img": "https://den-cards.pokellector.com/304/Oranguru.SWSH45.SV98.37062.png",
+      "rarity": "Rare",
+      "cardNum": "SV98"
+    },
+    {
+      "name": "Skwovet",
+      "set": "Shining Fates",
+      "img": "https://den-cards.pokellector.com/304/Skwovet.SWSH45.SV99.37063.png",
+      "rarity": "Rare",
+      "cardNum": "SV99"
+    },
+    {
+      "name": "Greedent",
+      "set": "Shining Fates",
+      "img": "https://den-cards.pokellector.com/304/Greedent.SWSH45.SV100.37183.png",
+      "rarity": "Rare",
+      "cardNum": "SV100"
+    },
+    {
+      "name": "Rookidee",
+      "set": "Shining Fates",
+      "img": "https://den-cards.pokellector.com/304/Rookidee.SWSH45.SV101.37184.png",
+      "rarity": "Rare",
+      "cardNum": "SV101"
+    },
+    {
+      "name": "Corvisquire",
+      "set": "Shining Fates",
+      "img": "https://den-cards.pokellector.com/304/Corvisquire.SWSH45.SV102.37185.png",
+      "rarity": "Rare",
+      "cardNum": "SV102"
+    },
+    {
+      "name": "Wooloo",
+      "set": "Shining Fates",
+      "img": "https://den-cards.pokellector.com/304/Wooloo.SWSH45.SV103.37186.png",
+      "rarity": "Rare",
+      "cardNum": "SV103"
+    },
+    {
+      "name": "Dubwool",
+      "set": "Shining Fates",
+      "img": "https://den-cards.pokellector.com/304/Dubwool.SWSH45.SV104.37068.png",
+      "rarity": "Rare",
+      "cardNum": "SV104"
+    },
+    {
+      "name": "Rillaboom V",
+      "set": "Shining Fates",
+      "img": "https://den-cards.pokellector.com/304/Rillaboom-V.SWSH45.SV105.37069.png",
+      "rarity": "Rare",
+      "cardNum": "SV105"
+    },
+    {
+      "name": "Rillaboom VMAX",
+      "set": "Shining Fates",
+      "img": "https://den-cards.pokellector.com/304/Rillaboom-VMAX.SWSH45.SV106.36915.png",
+      "rarity": "Rare",
+      "cardNum": "SV106"
+    },
+    {
+      "name": "Charizard VMAX",
+      "set": "Shining Fates",
+      "img": "https://den-cards.pokellector.com/304/Charizard-VMAX..SV107.36913.png",
+      "rarity": "Rare",
+      "cardNum": "SV107"
+    },
+    {
+      "name": "Centiskorch V",
+      "set": "Shining Fates",
+      "img": "https://den-cards.pokellector.com/304/Centiskorch-V.SWSH45.SV108.37070.png",
+      "rarity": "Rare",
+      "cardNum": "SV108"
+    },
+    {
+      "name": "Centiskorch VMAX",
+      "set": "Shining Fates",
+      "img": "https://den-cards.pokellector.com/304/Centiskorch-VMAX.SWSH45.SV109.37071.png",
+      "rarity": "Rare",
+      "cardNum": "SV109"
+    },
+    {
+      "name": "Lapras V",
+      "set": "Shining Fates",
+      "img": "https://den-cards.pokellector.com/304/Lapras-V.SWSH45.SV110.37072.png",
+      "rarity": "Rare",
+      "cardNum": "SV110"
+    },
+    {
+      "name": "Lapras VMAX",
+      "set": "Shining Fates",
+      "img": "https://den-cards.pokellector.com/304/Lapras-VMAX.SWSH45.SV111.37073.png",
+      "rarity": "Rare",
+      "cardNum": "SV111"
+    },
+    {
+      "name": "Toxtricity V",
+      "set": "Shining Fates",
+      "img": "https://den-cards.pokellector.com/304/Toxtricity-V.SWSH45.SV112.37195.png",
+      "rarity": "Rare",
+      "cardNum": "SV112"
+    },
+    {
+      "name": "Toxtricity VMAX",
+      "set": "Shining Fates",
+      "img": "https://den-cards.pokellector.com/304/Toxtricity-VMAX.SWSH45.SV113.37075.png",
+      "rarity": "Rare",
+      "cardNum": "SV113"
+    },
+    {
+      "name": "Indeedee V",
+      "set": "Shining Fates",
+      "img": "https://den-cards.pokellector.com/304/Indeedee-V.SWSH45.SV114.37076.png",
+      "rarity": "Rare",
+      "cardNum": "SV114"
+    },
+    {
+      "name": "Falinks V",
+      "set": "Shining Fates",
+      "img": "https://den-cards.pokellector.com/304/Falinks-V.SWSH45.SV115.36914.png",
+      "rarity": "Rare",
+      "cardNum": "SV115"
+    },
+    {
+      "name": "Grimmsnarl V",
+      "set": "Shining Fates",
+      "img": "https://den-cards.pokellector.com/304/Grimmsnarl-V.SWSH45.SV116.37077.png",
+      "rarity": "Rare",
+      "cardNum": "SV116"
+    },
+    {
+      "name": "Grimmsnarl VMAX",
+      "set": "Shining Fates",
+      "img": "https://den-cards.pokellector.com/304/Grimmsnarl-VMAX.SWSH45.SV117.37078.png",
+      "rarity": "Rare",
+      "cardNum": "SV117"
+    },
+    {
+      "name": "Ditto V",
+      "set": "Shining Fates",
+      "img": "https://den-cards.pokellector.com/304/Ditto-V.SWSH45.SV118.37201.png",
+      "rarity": "Rare",
+      "cardNum": "SV118"
+    },
+    {
+      "name": "Ditto VMAX",
+      "set": "Shining Fates",
+      "img": "https://den-cards.pokellector.com/304/Ditto-VMAX.SWSH45.SV119.37202.png",
+      "rarity": "Rare",
+      "cardNum": "SV119"
+    },
+    {
+      "name": "Dubwool V",
+      "set": "Shining Fates",
+      "img": "https://den-cards.pokellector.com/304/Dubwool-V.SWSH45.SV120.37203.png",
+      "rarity": "Rare",
+      "cardNum": "SV120"
+    },
+    {
+      "name": "Eternatus V",
+      "set": "Shining Fates",
+      "img": "https://den-cards.pokellector.com/304/Eternatus-V.SWSH45.SV121.37204.png",
+      "rarity": "Rare",
+      "cardNum": "SV121"
+    },
+    {
+      "name": "Eternatus VMAX",
+      "set": "Shining Fates",
+      "img": "https://den-cards.pokellector.com/304/Eternatus-VMAX.SWSH45.SV122.37083.png",
+      "rarity": "Rare",
+      "cardNum": "SV122"
+    }
+  ]
+}

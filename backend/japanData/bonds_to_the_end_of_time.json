@@ -1,0 +1,635 @@
+{
+  "setName": "Bonds to the End of Time",
+  "cards": [
+    {
+      "name": "Weedle",
+      "set": "Bonds to the End of Time",
+      "img": "https://den-cards.pokellector.com/254/Weedle.PT2.1.22093.png",
+      "rarity": "Common",
+      "cardNum": "1/96"
+    },
+    {
+      "name": "Kakuna",
+      "set": "Bonds to the End of Time",
+      "img": "https://den-cards.pokellector.com/254/Kakuna.PT2.2.22094.png",
+      "rarity": "Common",
+      "cardNum": "2/96"
+    },
+    {
+      "name": "Beedrill",
+      "set": "Bonds to the End of Time",
+      "img": "https://den-cards.pokellector.com/254/Beedrill.PT2.3.22095.png",
+      "rarity": "Rare",
+      "cardNum": "3/96"
+    },
+    {
+      "name": "Seedot",
+      "set": "Bonds to the End of Time",
+      "img": "https://den-cards.pokellector.com/254/Seedot.PT2.4.22096.png",
+      "rarity": "Common",
+      "cardNum": "4/96"
+    },
+    {
+      "name": "Tropius",
+      "set": "Bonds to the End of Time",
+      "img": "https://den-cards.pokellector.com/254/Tropius.PT2.5.22097.png",
+      "rarity": "Uncommon",
+      "cardNum": "5/96"
+    },
+    {
+      "name": "Turtwig GL",
+      "set": "Bonds to the End of Time",
+      "img": "https://den-cards.pokellector.com/254/Turtwig-GL.PT2.6.22098.png",
+      "rarity": "Common",
+      "cardNum": "6/96"
+    },
+    {
+      "name": "Roserade GL",
+      "set": "Bonds to the End of Time",
+      "img": "https://den-cards.pokellector.com/254/Roserade-GL.PT2.7.22099.png",
+      "rarity": "Rare",
+      "cardNum": "7/96"
+    },
+    {
+      "name": "Leafeon",
+      "set": "Bonds to the End of Time",
+      "img": "https://den-cards.pokellector.com/254/Leafeon.PT2.8.22100.png",
+      "rarity": "Rare",
+      "cardNum": "8/96"
+    },
+    {
+      "name": "Growlithe",
+      "set": "Bonds to the End of Time",
+      "img": "https://den-cards.pokellector.com/254/Growlithe.PT2.9.22101.png",
+      "rarity": "Uncommon",
+      "cardNum": "9/96"
+    },
+    {
+      "name": "Arcanine",
+      "set": "Bonds to the End of Time",
+      "img": "https://den-cards.pokellector.com/254/Arcanine.PT2.10.22102.png",
+      "rarity": "Rare",
+      "cardNum": "10/96"
+    },
+    {
+      "name": "Flareon",
+      "set": "Bonds to the End of Time",
+      "img": "https://den-cards.pokellector.com/254/Flareon.PT2.11.22103.png",
+      "rarity": "Rare",
+      "cardNum": "11/96"
+    },
+    {
+      "name": "Staryu",
+      "set": "Bonds to the End of Time",
+      "img": "https://den-cards.pokellector.com/254/Staryu.PT2.12.22104.png",
+      "rarity": "Common",
+      "cardNum": "12/96"
+    },
+    {
+      "name": "Starmie",
+      "set": "Bonds to the End of Time",
+      "img": "https://den-cards.pokellector.com/254/Starmie.PT2.13.22105.png",
+      "rarity": "Uncommon",
+      "cardNum": "13/96"
+    },
+    {
+      "name": "Vaporeon",
+      "set": "Bonds to the End of Time",
+      "img": "https://den-cards.pokellector.com/254/Vaporeon.PT2.14.22106.png",
+      "rarity": "Rare",
+      "cardNum": "14/96"
+    },
+    {
+      "name": "Quagsire GL",
+      "set": "Bonds to the End of Time",
+      "img": "https://den-cards.pokellector.com/254/Quagsire-GL.PT2.15.22107.png",
+      "rarity": "Common",
+      "cardNum": "15/96"
+    },
+    {
+      "name": "Spheal",
+      "set": "Bonds to the End of Time",
+      "img": "https://den-cards.pokellector.com/254/Spheal.PT2.16.22108.png",
+      "rarity": "Common",
+      "cardNum": "16/96"
+    },
+    {
+      "name": "Sealeo",
+      "set": "Bonds to the End of Time",
+      "img": "https://den-cards.pokellector.com/254/Sealeo.PT2.17.22109.png",
+      "rarity": "Uncommon",
+      "cardNum": "17/96"
+    },
+    {
+      "name": "Walrein",
+      "set": "Bonds to the End of Time",
+      "img": "https://den-cards.pokellector.com/254/Walrein.PT2.18.22110.png",
+      "rarity": "Rare",
+      "cardNum": "18/96"
+    },
+    {
+      "name": "Floatzel GL",
+      "set": "Bonds to the End of Time",
+      "img": "https://den-cards.pokellector.com/254/Floatzel-GL.PT2.19.22111.png",
+      "rarity": "Rare",
+      "cardNum": "19/96"
+    },
+    {
+      "name": "Floatzel GL LV.X",
+      "set": "Bonds to the End of Time",
+      "img": "https://den-cards.pokellector.com/254/Floatzel-GL-LVX.PT2.20.22112.png",
+      "rarity": "Rare",
+      "cardNum": "20/96"
+    },
+    {
+      "name": "Shellos West Sea",
+      "set": "Bonds to the End of Time",
+      "img": "https://den-cards.pokellector.com/254/Shellos-West-Sea.PT2.21.22113.png",
+      "rarity": "Common",
+      "cardNum": "21/96"
+    },
+    {
+      "name": "Shellos East Sea",
+      "set": "Bonds to the End of Time",
+      "img": "https://den-cards.pokellector.com/254/Shellos-East-Sea.PT2.22.22114.png",
+      "rarity": "Common",
+      "cardNum": "22/96"
+    },
+    {
+      "name": "Gastrodon East Sea",
+      "set": "Bonds to the End of Time",
+      "img": "https://den-cards.pokellector.com/254/Gastrodon-East-Sea.PT2.23.22115.png",
+      "rarity": "Rare",
+      "cardNum": "23/96"
+    },
+    {
+      "name": "Glaceon",
+      "set": "Bonds to the End of Time",
+      "img": "https://den-cards.pokellector.com/254/Glaceon.PT2.24.22116.png",
+      "rarity": "Rare",
+      "cardNum": "24/96"
+    },
+    {
+      "name": "Mamoswine GL",
+      "set": "Bonds to the End of Time",
+      "img": "https://den-cards.pokellector.com/254/Mamoswine-GL.PT2.25.22117.png",
+      "rarity": "Rare",
+      "cardNum": "25/96"
+    },
+    {
+      "name": "Froslass GL",
+      "set": "Bonds to the End of Time",
+      "img": "https://den-cards.pokellector.com/254/Froslass-GL.PT2.26.22118.png",
+      "rarity": "Rare",
+      "cardNum": "26/96"
+    },
+    {
+      "name": "Raichu GL",
+      "set": "Bonds to the End of Time",
+      "img": "https://den-cards.pokellector.com/254/Raichu-GL.PT2.27.22119.png",
+      "rarity": "Rare",
+      "cardNum": "27/96"
+    },
+    {
+      "name": "Jolteon",
+      "set": "Bonds to the End of Time",
+      "img": "https://den-cards.pokellector.com/254/Jolteon.PT2.28.22120.png",
+      "rarity": "Rare",
+      "cardNum": "28/96"
+    },
+    {
+      "name": "Luxray GL",
+      "set": "Bonds to the End of Time",
+      "img": "https://den-cards.pokellector.com/254/Luxray-GL.PT2.29.22121.png",
+      "rarity": "Rare",
+      "cardNum": "29/96"
+    },
+    {
+      "name": "Luxray GL LV.X",
+      "set": "Bonds to the End of Time",
+      "img": "https://den-cards.pokellector.com/254/Luxray-GL-LVX.PT2.30.22122.png",
+      "rarity": "Rare",
+      "cardNum": "30/96"
+    },
+    {
+      "name": "Heat Rotom",
+      "set": "Bonds to the End of Time",
+      "img": "https://den-cards.pokellector.com/254/Heat-Rotom.PT2.31.22123.png",
+      "rarity": "Uncommon",
+      "cardNum": "31/96"
+    },
+    {
+      "name": "Frost Rotom",
+      "set": "Bonds to the End of Time",
+      "img": "https://den-cards.pokellector.com/254/Frost-Rotom.PT2.32.22124.png",
+      "rarity": "Uncommon",
+      "cardNum": "32/96"
+    },
+    {
+      "name": "Wash Rotom",
+      "set": "Bonds to the End of Time",
+      "img": "https://den-cards.pokellector.com/254/Wash-Rotom.PT2.33.22125.png",
+      "rarity": "Uncommon",
+      "cardNum": "33/96"
+    },
+    {
+      "name": "Fan Rotom",
+      "set": "Bonds to the End of Time",
+      "img": "https://den-cards.pokellector.com/254/Fan-Rotom.PT2.34.22126.png",
+      "rarity": "Uncommon",
+      "cardNum": "34/96"
+    },
+    {
+      "name": "Mow Rotom",
+      "set": "Bonds to the End of Time",
+      "img": "https://den-cards.pokellector.com/254/Mow-Rotom.PT2.35.22127.png",
+      "rarity": "Uncommon",
+      "cardNum": "35/96"
+    },
+    {
+      "name": "Nidoran♀",
+      "set": "Bonds to the End of Time",
+      "img": "https://den-cards.pokellector.com/254/Nidoran.PT2.36.22128.png",
+      "rarity": "Common",
+      "cardNum": "36/96"
+    },
+    {
+      "name": "Nidorina",
+      "set": "Bonds to the End of Time",
+      "img": "https://den-cards.pokellector.com/254/Nidorina.PT2.37.22129.png",
+      "rarity": "Common",
+      "cardNum": "37/96"
+    },
+    {
+      "name": "Nidoqueen",
+      "set": "Bonds to the End of Time",
+      "img": "https://den-cards.pokellector.com/254/Nidoqueen.PT2.38.22130.png",
+      "rarity": "Rare",
+      "cardNum": "38/96"
+    },
+    {
+      "name": "Nidoran♂",
+      "set": "Bonds to the End of Time",
+      "img": "https://den-cards.pokellector.com/254/Nidoran.PT2.39.22131.png",
+      "rarity": "Common",
+      "cardNum": "39/96"
+    },
+    {
+      "name": "Nidorino",
+      "set": "Bonds to the End of Time",
+      "img": "https://den-cards.pokellector.com/254/Nidorino.PT2.40.22132.png",
+      "rarity": "Common",
+      "cardNum": "40/96"
+    },
+    {
+      "name": "Alakazam GL",
+      "set": "Bonds to the End of Time",
+      "img": "https://den-cards.pokellector.com/254/Alakazam-GL.PT2.41.22133.png",
+      "rarity": "Rare",
+      "cardNum": "41/96"
+    },
+    {
+      "name": "Alakazam GL LV.X",
+      "set": "Bonds to the End of Time",
+      "img": "https://den-cards.pokellector.com/254/Alakazam-GL-LVX.PT2.42.22134.png",
+      "rarity": "Rare",
+      "cardNum": "42/96"
+    },
+    {
+      "name": "Gengar GL",
+      "set": "Bonds to the End of Time",
+      "img": "https://den-cards.pokellector.com/254/Gengar-GL.PT2.43.22135.png",
+      "rarity": "Rare",
+      "cardNum": "43/96"
+    },
+    {
+      "name": "Koffing",
+      "set": "Bonds to the End of Time",
+      "img": "https://den-cards.pokellector.com/254/Koffing.PT2.44.22136.png",
+      "rarity": "Common",
+      "cardNum": "44/96"
+    },
+    {
+      "name": "Weezing",
+      "set": "Bonds to the End of Time",
+      "img": "https://den-cards.pokellector.com/254/Weezing.PT2.45.22137.png",
+      "rarity": "Uncommon",
+      "cardNum": "45/96"
+    },
+    {
+      "name": "Mismagius GL",
+      "set": "Bonds to the End of Time",
+      "img": "https://den-cards.pokellector.com/254/Mismagius-GL.PT2.46.22138.png",
+      "rarity": "Rare",
+      "cardNum": "46/96"
+    },
+    {
+      "name": "Nidoking",
+      "set": "Bonds to the End of Time",
+      "img": "https://den-cards.pokellector.com/254/Nidoking.PT2.47.22139.png",
+      "rarity": "Rare",
+      "cardNum": "47/96"
+    },
+    {
+      "name": "Machamp GL",
+      "set": "Bonds to the End of Time",
+      "img": "https://den-cards.pokellector.com/254/Machamp-GL.PT2.48.22140.png",
+      "rarity": "Uncommon",
+      "cardNum": "48/96"
+    },
+    {
+      "name": "Aerodactyl GL",
+      "set": "Bonds to the End of Time",
+      "img": "https://den-cards.pokellector.com/254/Aerodactyl-GL.PT2.49.22141.png",
+      "rarity": "Uncommon",
+      "cardNum": "49/96"
+    },
+    {
+      "name": "Trapinch",
+      "set": "Bonds to the End of Time",
+      "img": "https://den-cards.pokellector.com/254/Trapinch.PT2.50.22142.png",
+      "rarity": "Common",
+      "cardNum": "50/96"
+    },
+    {
+      "name": "Rampardos GL",
+      "set": "Bonds to the End of Time",
+      "img": "https://den-cards.pokellector.com/254/Rampardos-GL.PT2.51.22143.png",
+      "rarity": "Rare",
+      "cardNum": "51/96"
+    },
+    {
+      "name": "Gastrodon West Sea",
+      "set": "Bonds to the End of Time",
+      "img": "https://den-cards.pokellector.com/254/Gastrodon-West-Sea.PT2.52.22144.png",
+      "rarity": "Rare",
+      "cardNum": "52/96"
+    },
+    {
+      "name": "Lucario GL",
+      "set": "Bonds to the End of Time",
+      "img": "https://den-cards.pokellector.com/254/Lucario-GL.PT2.53.22145.png",
+      "rarity": "Rare",
+      "cardNum": "53/96"
+    },
+    {
+      "name": "Hippopotas",
+      "set": "Bonds to the End of Time",
+      "img": "https://den-cards.pokellector.com/254/Hippopotas.PT2.54.22146.png",
+      "rarity": "Common",
+      "cardNum": "54/96"
+    },
+    {
+      "name": "Hippowdon",
+      "set": "Bonds to the End of Time",
+      "img": "https://den-cards.pokellector.com/254/Hippowdon.PT2.55.22147.png",
+      "rarity": "Rare",
+      "cardNum": "55/96"
+    },
+    {
+      "name": "Hippowdon LV.X",
+      "set": "Bonds to the End of Time",
+      "img": "https://den-cards.pokellector.com/254/Hippowdon-LVX.PT2.56.22148.png",
+      "rarity": "Rare",
+      "cardNum": "56/96"
+    },
+    {
+      "name": "Nuzleaf",
+      "set": "Bonds to the End of Time",
+      "img": "https://den-cards.pokellector.com/254/Nuzleaf.PT2.57.22149.png",
+      "rarity": "Common",
+      "cardNum": "57/96"
+    },
+    {
+      "name": "Shiftry",
+      "set": "Bonds to the End of Time",
+      "img": "https://den-cards.pokellector.com/254/Shiftry.PT2.58.22150.png",
+      "rarity": "Rare",
+      "cardNum": "58/96"
+    },
+    {
+      "name": "Carvanha",
+      "set": "Bonds to the End of Time",
+      "img": "https://den-cards.pokellector.com/254/Carvanha.PT2.59.22151.png",
+      "rarity": "Common",
+      "cardNum": "59/96"
+    },
+    {
+      "name": "Sharpedo",
+      "set": "Bonds to the End of Time",
+      "img": "https://den-cards.pokellector.com/254/Sharpedo.PT2.60.22152.png",
+      "rarity": "Uncommon",
+      "cardNum": "60/96"
+    },
+    {
+      "name": "Forretress GL",
+      "set": "Bonds to the End of Time",
+      "img": "https://den-cards.pokellector.com/254/Forretress-GL.PT2.61.22153.png",
+      "rarity": "Uncommon",
+      "cardNum": "61/96"
+    },
+    {
+      "name": "Steelix GL",
+      "set": "Bonds to the End of Time",
+      "img": "https://den-cards.pokellector.com/254/Steelix-GL.PT2.62.22154.png",
+      "rarity": "Uncommon",
+      "cardNum": "62/96"
+    },
+    {
+      "name": "Aron",
+      "set": "Bonds to the End of Time",
+      "img": "https://den-cards.pokellector.com/254/Aron.PT2.63.22155.png",
+      "rarity": "Common",
+      "cardNum": "63/96"
+    },
+    {
+      "name": "Lairon",
+      "set": "Bonds to the End of Time",
+      "img": "https://den-cards.pokellector.com/254/Lairon.PT2.64.22156.png",
+      "rarity": "Uncommon",
+      "cardNum": "64/96"
+    },
+    {
+      "name": "Aggron",
+      "set": "Bonds to the End of Time",
+      "img": "https://den-cards.pokellector.com/254/Aggron.PT2.65.22157.png",
+      "rarity": "Rare",
+      "cardNum": "65/96"
+    },
+    {
+      "name": "Jirachi",
+      "set": "Bonds to the End of Time",
+      "img": "https://den-cards.pokellector.com/254/Jirachi.PT2.66.22158.png",
+      "rarity": "Rare",
+      "cardNum": "66/96"
+    },
+    {
+      "name": "Bastiodon GL",
+      "set": "Bonds to the End of Time",
+      "img": "https://den-cards.pokellector.com/254/Bastiodon-GL.PT2.67.22159.png",
+      "rarity": "Rare",
+      "cardNum": "67/96"
+    },
+    {
+      "name": "Eevee",
+      "set": "Bonds to the End of Time",
+      "img": "https://den-cards.pokellector.com/254/Eevee.PT2.68.22160.png",
+      "rarity": "Common",
+      "cardNum": "68/96"
+    },
+    {
+      "name": "Munchlax",
+      "set": "Bonds to the End of Time",
+      "img": "https://den-cards.pokellector.com/254/Munchlax.PT2.69.22161.png",
+      "rarity": "Common",
+      "cardNum": "69/96"
+    },
+    {
+      "name": "Snorlax",
+      "set": "Bonds to the End of Time",
+      "img": "https://den-cards.pokellector.com/254/Snorlax.PT2.70.22162.png",
+      "rarity": "Common",
+      "cardNum": "70/96"
+    },
+    {
+      "name": "Vibrava",
+      "set": "Bonds to the End of Time",
+      "img": "https://den-cards.pokellector.com/254/Vibrava.PT2.71.22163.png",
+      "rarity": "Uncommon",
+      "cardNum": "71/96"
+    },
+    {
+      "name": "Flygon",
+      "set": "Bonds to the End of Time",
+      "img": "https://den-cards.pokellector.com/254/Flygon.PT2.72.22164.png",
+      "rarity": "Rare",
+      "cardNum": "72/96"
+    },
+    {
+      "name": "Flygon LV.X",
+      "set": "Bonds to the End of Time",
+      "img": "https://den-cards.pokellector.com/254/Flygon-LVX.PT2.73.22165.png",
+      "rarity": "Rare",
+      "cardNum": "73/96"
+    },
+    {
+      "name": "Kecleon",
+      "set": "Bonds to the End of Time",
+      "img": "https://den-cards.pokellector.com/254/Kecleon.PT2.74.22166.png",
+      "rarity": "Common",
+      "cardNum": "74/96"
+    },
+    {
+      "name": "Ambipom G",
+      "set": "Bonds to the End of Time",
+      "img": "https://den-cards.pokellector.com/254/Ambipom-G.PT2.75.22167.png",
+      "rarity": "Rare",
+      "cardNum": "75/96"
+    },
+    {
+      "name": "Team Galactic's Invention G-109 SP Radar",
+      "set": "Bonds to the End of Time",
+      "img": "https://den-cards.pokellector.com/254/Team-Galactics-Invention-G-109-SP-Radar.PT2.76.22524.png",
+      "rarity": "Uncommon",
+      "cardNum": "76/96"
+    },
+    {
+      "name": "Team Galactic's Invention G-107 Technical Machine G",
+      "set": "Bonds to the End of Time",
+      "img": "https://den-cards.pokellector.com/254/Team-Galactics-Invention-G-107-Technical-Machine-G.PT2.77.22525.png",
+      "rarity": "Uncommon",
+      "cardNum": "77/96"
+    },
+    {
+      "name": "Underground Expedition",
+      "set": "Bonds to the End of Time",
+      "img": "https://den-cards.pokellector.com/254/Underground-Expedition.PT2.78.22168.png",
+      "rarity": "Uncommon",
+      "cardNum": "78/96"
+    },
+    {
+      "name": "Volkner's Philosophy",
+      "set": "Bonds to the End of Time",
+      "img": "https://den-cards.pokellector.com/254/Volkners-Philosophy.PT2.79.22169.png",
+      "rarity": "Uncommon",
+      "cardNum": "79/96"
+    },
+    {
+      "name": "Charon's Choice",
+      "set": "Bonds to the End of Time",
+      "img": "https://den-cards.pokellector.com/254/Charons-Choice.PT2.80.22170.png",
+      "rarity": "Uncommon",
+      "cardNum": "80/96"
+    },
+    {
+      "name": "Bebe's Search",
+      "set": "Bonds to the End of Time",
+      "img": "https://den-cards.pokellector.com/254/Bebes-Search.PT2.81.22171.png",
+      "rarity": "Uncommon",
+      "cardNum": "81/96"
+    },
+    {
+      "name": "Sunyshore City Gym",
+      "set": "Bonds to the End of Time",
+      "img": "https://den-cards.pokellector.com/254/Sunyshore-City-Gym.PT2.82.22172.png",
+      "rarity": "Uncommon",
+      "cardNum": "82/96"
+    },
+    {
+      "name": "Pokémon Contest Hall",
+      "set": "Bonds to the End of Time",
+      "img": "https://den-cards.pokellector.com/254/Pokmon-Contest-Hall.PT2.83.22173.png",
+      "rarity": "Uncommon",
+      "cardNum": "83/96"
+    },
+    {
+      "name": "Upper Energy",
+      "set": "Bonds to the End of Time",
+      "img": "https://den-cards.pokellector.com/254/Upper-Energy.PT2.84.22174.png",
+      "rarity": "Uncommon",
+      "cardNum": "84/96"
+    },
+    {
+      "name": "SP Energy",
+      "set": "Bonds to the End of Time",
+      "img": "https://den-cards.pokellector.com/254/SP-Energy.PT2.85.22175.png",
+      "rarity": "Uncommon",
+      "cardNum": "85/96"
+    },
+    {
+      "name": "Darkness Energy",
+      "set": "Bonds to the End of Time",
+      "img": "https://den-cards.pokellector.com/254/Darkness-Energy.PT2.86.22176.png",
+      "rarity": "Uncommon",
+      "cardNum": "86/96"
+    },
+    {
+      "name": "Steel Energy",
+      "set": "Bonds to the End of Time",
+      "img": "https://den-cards.pokellector.com/254/Metal-Energy.PT2.87.22177.png",
+      "rarity": "Uncommon",
+      "cardNum": "87/96"
+    },
+    {
+      "name": "Pikachu",
+      "set": "Bonds to the End of Time",
+      "img": "https://den-cards.pokellector.com/254/Pikachu.PT2.88.22178.png",
+      "rarity": "Secret Rare",
+      "cardNum": "88/96"
+    },
+    {
+      "name": "Surfing Pikachu",
+      "set": "Bonds to the End of Time",
+      "img": "https://den-cards.pokellector.com/254/Surfing-Pikachu.PT2.89.22179.png",
+      "rarity": "Secret Rare",
+      "cardNum": "89/96"
+    },
+    {
+      "name": "Flying Pikachu",
+      "set": "Bonds to the End of Time",
+      "img": "https://den-cards.pokellector.com/254/Flying-Pikachu.PT2.90.22180.png",
+      "rarity": "Secret Rare",
+      "cardNum": "90/96"
+    }
+  ]
+}

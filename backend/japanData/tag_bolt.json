@@ -1,0 +1,831 @@
+{
+  "setName": "Tag Bolt",
+  "cards": [
+    {
+      "name": "Venusaur & Celebi GX",
+      "set": "Tag Bolt",
+      "img": "https://den-cards.pokellector.com/260/Venusaur-Celebi-GX.SM9.1.25429.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "1/95"
+    },
+    {
+      "name": "Weedle",
+      "set": "Tag Bolt",
+      "img": "https://den-cards.pokellector.com/260/Weedle.SM9.2.25447.png",
+      "rarity": "Common",
+      "cardNum": "2/95"
+    },
+    {
+      "name": "Weedle",
+      "set": "Tag Bolt",
+      "img": "https://den-cards.pokellector.com/260/Weedle.SM9.3.25448.png",
+      "rarity": "Common",
+      "cardNum": "3/95"
+    },
+    {
+      "name": "Kakuna",
+      "set": "Tag Bolt",
+      "img": "https://den-cards.pokellector.com/260/Kakuna.SM9.4.25449.png",
+      "rarity": "Common",
+      "cardNum": "4/95"
+    },
+    {
+      "name": "Beedrill",
+      "set": "Tag Bolt",
+      "img": "https://den-cards.pokellector.com/260/Beedrill.SM9.5.25450.png",
+      "rarity": "Uncommon",
+      "cardNum": "5/95"
+    },
+    {
+      "name": "Paras",
+      "set": "Tag Bolt",
+      "img": "https://den-cards.pokellector.com/260/Paras.SM9.6.25451.png",
+      "rarity": "Common",
+      "cardNum": "6/95"
+    },
+    {
+      "name": "Parasect",
+      "set": "Tag Bolt",
+      "img": "https://den-cards.pokellector.com/260/Parasect.SM9.7.25444.png",
+      "rarity": "Uncommon",
+      "cardNum": "7/95"
+    },
+    {
+      "name": "Exeggcute",
+      "set": "Tag Bolt",
+      "img": "https://den-cards.pokellector.com/260/Exeggcute.SM9.8.25452.png",
+      "rarity": "Common",
+      "cardNum": "8/95"
+    },
+    {
+      "name": "Pinsir",
+      "set": "Tag Bolt",
+      "img": "https://den-cards.pokellector.com/260/Pinsir.SM9.9.25434.png",
+      "rarity": "Uncommon",
+      "cardNum": "9/95"
+    },
+    {
+      "name": "Charmander",
+      "set": "Tag Bolt",
+      "img": "https://den-cards.pokellector.com/260/Charmander.SM9.10.25453.png",
+      "rarity": "Common",
+      "cardNum": "10/95"
+    },
+    {
+      "name": "Charmander",
+      "set": "Tag Bolt",
+      "img": "https://den-cards.pokellector.com/260/Charmander.SM9.11.25454.png",
+      "rarity": "Common",
+      "cardNum": "11/95"
+    },
+    {
+      "name": "Charmeleon",
+      "set": "Tag Bolt",
+      "img": "https://den-cards.pokellector.com/260/Charmeleon.SM9.12.25455.png",
+      "rarity": "Common",
+      "cardNum": "12/95"
+    },
+    {
+      "name": "Charizard",
+      "set": "Tag Bolt",
+      "img": "https://den-cards.pokellector.com/260/Charizard.SM9.13.25349.png",
+      "rarity": "Rare",
+      "cardNum": "13/95"
+    },
+    {
+      "name": "Vulpix",
+      "set": "Tag Bolt",
+      "img": "https://den-cards.pokellector.com/260/Vulpix.SM9.14.25456.png",
+      "rarity": "Common",
+      "cardNum": "14/95"
+    },
+    {
+      "name": "Ninetales",
+      "set": "Tag Bolt",
+      "img": "https://den-cards.pokellector.com/260/Ninetales.SM9.15.25359.png",
+      "rarity": "Uncommon",
+      "cardNum": "15/95"
+    },
+    {
+      "name": "Ponyta",
+      "set": "Tag Bolt",
+      "img": "https://den-cards.pokellector.com/260/Ponyta.SM9.16.25360.png",
+      "rarity": "Common",
+      "cardNum": "16/95"
+    },
+    {
+      "name": "Rapidash",
+      "set": "Tag Bolt",
+      "img": "https://den-cards.pokellector.com/260/Rapidash.SM9.17.25361.png",
+      "rarity": "Common",
+      "cardNum": "17/95"
+    },
+    {
+      "name": "Moltres",
+      "set": "Tag Bolt",
+      "img": "https://den-cards.pokellector.com/260/Moltres.SM9.18.25457.png",
+      "rarity": "Rare",
+      "cardNum": "18/95"
+    },
+    {
+      "name": "Magikarp & Wailord GX",
+      "set": "Tag Bolt",
+      "img": "https://den-cards.pokellector.com/260/Magikarp-Wailord-GX.SM9.19.25440.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "19/95"
+    },
+    {
+      "name": "Squirtle",
+      "set": "Tag Bolt",
+      "img": "https://den-cards.pokellector.com/260/Squirtle.SM9.20.25458.png",
+      "rarity": "Common",
+      "cardNum": "20/95"
+    },
+    {
+      "name": "Squirtle",
+      "set": "Tag Bolt",
+      "img": "https://den-cards.pokellector.com/260/Squirtle.SM9.21.25459.png",
+      "rarity": "Common",
+      "cardNum": "21/95"
+    },
+    {
+      "name": "Wartortle",
+      "set": "Tag Bolt",
+      "img": "https://den-cards.pokellector.com/260/Wartortle.SM9.22.25460.png",
+      "rarity": "Common",
+      "cardNum": "22/95"
+    },
+    {
+      "name": "Blastoise",
+      "set": "Tag Bolt",
+      "img": "https://den-cards.pokellector.com/260/Blastoise.SM9.23.25350.png",
+      "rarity": "Rare",
+      "cardNum": "23/95"
+    },
+    {
+      "name": "Psyduck",
+      "set": "Tag Bolt",
+      "img": "https://den-cards.pokellector.com/260/Psyduck.SM9.24.25461.png",
+      "rarity": "Common",
+      "cardNum": "24/95"
+    },
+    {
+      "name": "Golduck",
+      "set": "Tag Bolt",
+      "img": "https://den-cards.pokellector.com/260/Golduck.SM9.25.25462.png",
+      "rarity": "Common",
+      "cardNum": "25/95"
+    },
+    {
+      "name": "Staryu",
+      "set": "Tag Bolt",
+      "img": "https://den-cards.pokellector.com/260/Staryu.SM9.26.25463.png",
+      "rarity": "Common",
+      "cardNum": "26/95"
+    },
+    {
+      "name": "Magikarp",
+      "set": "Tag Bolt",
+      "img": "https://den-cards.pokellector.com/260/Magikarp.SM9.27.25464.png",
+      "rarity": "Common",
+      "cardNum": "27/95"
+    },
+    {
+      "name": "Gyarados",
+      "set": "Tag Bolt",
+      "img": "https://den-cards.pokellector.com/260/Gyarados.SM9.28.25465.png",
+      "rarity": "Rare",
+      "cardNum": "28/95"
+    },
+    {
+      "name": "Lapras",
+      "set": "Tag Bolt",
+      "img": "https://den-cards.pokellector.com/260/Lapras.SM9.29.25466.png",
+      "rarity": "Uncommon",
+      "cardNum": "29/95"
+    },
+    {
+      "name": "Articuno",
+      "set": "Tag Bolt",
+      "img": "https://den-cards.pokellector.com/260/Articuno.SM9.30.25467.png",
+      "rarity": "Rare",
+      "cardNum": "30/95"
+    },
+    {
+      "name": "Pikachu & Zekrom GX",
+      "set": "Tag Bolt",
+      "img": "https://den-cards.pokellector.com/260/Pikachu-Zekrom-GX.SM9.31.23323.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "31/95"
+    },
+    {
+      "name": "Alolan Geodude",
+      "set": "Tag Bolt",
+      "img": "https://den-cards.pokellector.com/260/Alolan-Geodude.SM9.32.25468.png",
+      "rarity": "Common",
+      "cardNum": "32/95"
+    },
+    {
+      "name": "Alolan Geodude",
+      "set": "Tag Bolt",
+      "img": "https://den-cards.pokellector.com/260/Alolan-Geodude.SM9.33.25469.png",
+      "rarity": "Common",
+      "cardNum": "33/95"
+    },
+    {
+      "name": "Alolan Graveler",
+      "set": "Tag Bolt",
+      "img": "https://den-cards.pokellector.com/260/Alolan-Graveler.SM9.34.25470.png",
+      "rarity": "Common",
+      "cardNum": "34/95"
+    },
+    {
+      "name": "Alolan Golem",
+      "set": "Tag Bolt",
+      "img": "https://den-cards.pokellector.com/260/Alolan-Golem.SM9.35.25471.png",
+      "rarity": "Uncommon",
+      "cardNum": "35/95"
+    },
+    {
+      "name": "Voltorb",
+      "set": "Tag Bolt",
+      "img": "https://den-cards.pokellector.com/260/Voltorb.SM9.36.25472.png",
+      "rarity": "Common",
+      "cardNum": "36/95"
+    },
+    {
+      "name": "Electrode",
+      "set": "Tag Bolt",
+      "img": "https://den-cards.pokellector.com/260/Electrode.SM9.37.25346.png",
+      "rarity": "Rare",
+      "cardNum": "37/95"
+    },
+    {
+      "name": "Gengar & Mimikyu GX",
+      "set": "Tag Bolt",
+      "img": "https://den-cards.pokellector.com/260/Gengar-Mimikyu-GX.SM9.38.25433.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "38/95"
+    },
+    {
+      "name": "Nidoran♀",
+      "set": "Tag Bolt",
+      "img": "https://den-cards.pokellector.com/260/Nidoran.SM9.39.25473.png",
+      "rarity": "Common",
+      "cardNum": "39/95"
+    },
+    {
+      "name": "Nidorina",
+      "set": "Tag Bolt",
+      "img": "https://den-cards.pokellector.com/260/Nidorina.SM9.40.25474.png",
+      "rarity": "Common",
+      "cardNum": "40/95"
+    },
+    {
+      "name": "Nidoqueen",
+      "set": "Tag Bolt",
+      "img": "https://den-cards.pokellector.com/260/Nidoqueen.SM9.41.25475.png",
+      "rarity": "Uncommon",
+      "cardNum": "41/95"
+    },
+    {
+      "name": "Nidoran♂",
+      "set": "Tag Bolt",
+      "img": "https://den-cards.pokellector.com/260/Nidoran.SM9.42.25476.png",
+      "rarity": "Common",
+      "cardNum": "42/95"
+    },
+    {
+      "name": "Nidorino",
+      "set": "Tag Bolt",
+      "img": "https://den-cards.pokellector.com/260/Nidorino.SM9.43.25477.png",
+      "rarity": "Common",
+      "cardNum": "43/95"
+    },
+    {
+      "name": "Nidoking",
+      "set": "Tag Bolt",
+      "img": "https://den-cards.pokellector.com/260/Nidoking.SM9.44.25478.png",
+      "rarity": "Uncommon",
+      "cardNum": "44/95"
+    },
+    {
+      "name": "Tentacool",
+      "set": "Tag Bolt",
+      "img": "https://den-cards.pokellector.com/260/Tentacool.SM9.45.25479.png",
+      "rarity": "Common",
+      "cardNum": "45/95"
+    },
+    {
+      "name": "Tentacruel",
+      "set": "Tag Bolt",
+      "img": "https://den-cards.pokellector.com/260/Tentacruel.SM9.46.25480.png",
+      "rarity": "Common",
+      "cardNum": "46/95"
+    },
+    {
+      "name": "Grimer",
+      "set": "Tag Bolt",
+      "img": "https://den-cards.pokellector.com/260/Grimer.SM9.47.25481.png",
+      "rarity": "Common",
+      "cardNum": "47/95"
+    },
+    {
+      "name": "Muk",
+      "set": "Tag Bolt",
+      "img": "https://den-cards.pokellector.com/260/Muk.SM9.48.25482.png",
+      "rarity": "Uncommon",
+      "cardNum": "48/95"
+    },
+    {
+      "name": "Starmie",
+      "set": "Tag Bolt",
+      "img": "https://den-cards.pokellector.com/260/Starmie.SM9.49.25483.png",
+      "rarity": "Uncommon",
+      "cardNum": "49/95"
+    },
+    {
+      "name": "Mr. Mime",
+      "set": "Tag Bolt",
+      "img": "https://den-cards.pokellector.com/260/Mr-Mime.SM9.50.25484.png",
+      "rarity": "Uncommon",
+      "cardNum": "50/95"
+    },
+    {
+      "name": "Jynx",
+      "set": "Tag Bolt",
+      "img": "https://den-cards.pokellector.com/260/Jynx.SM9.51.25485.png",
+      "rarity": "Common",
+      "cardNum": "51/95"
+    },
+    {
+      "name": "Mankey",
+      "set": "Tag Bolt",
+      "img": "https://den-cards.pokellector.com/260/Mankey.SM9.52.25486.png",
+      "rarity": "Common",
+      "cardNum": "52/95"
+    },
+    {
+      "name": "Primeape",
+      "set": "Tag Bolt",
+      "img": "https://den-cards.pokellector.com/260/Primeape.SM9.53.25487.png",
+      "rarity": "Uncommon",
+      "cardNum": "53/95"
+    },
+    {
+      "name": "Hitmonlee",
+      "set": "Tag Bolt",
+      "img": "https://den-cards.pokellector.com/260/Hitmonlee.SM9.54.25488.png",
+      "rarity": "Common",
+      "cardNum": "54/95"
+    },
+    {
+      "name": "Hitmonchan",
+      "set": "Tag Bolt",
+      "img": "https://den-cards.pokellector.com/260/Hitmonchan.SM9.55.25489.png",
+      "rarity": "Common",
+      "cardNum": "55/95"
+    },
+    {
+      "name": "Omanyte",
+      "set": "Tag Bolt",
+      "img": "https://den-cards.pokellector.com/260/Omanyte.SM9.56.25490.png",
+      "rarity": "Uncommon",
+      "cardNum": "56/95"
+    },
+    {
+      "name": "Omastar",
+      "set": "Tag Bolt",
+      "img": "https://den-cards.pokellector.com/260/Omastar.SM9.57.25491.png",
+      "rarity": "Rare",
+      "cardNum": "57/95"
+    },
+    {
+      "name": "Kabuto",
+      "set": "Tag Bolt",
+      "img": "https://den-cards.pokellector.com/260/Kabuto.SM9.58.25492.png",
+      "rarity": "Uncommon",
+      "cardNum": "58/95"
+    },
+    {
+      "name": "Kabutops",
+      "set": "Tag Bolt",
+      "img": "https://den-cards.pokellector.com/260/Kabutops.SM9.59.25493.png",
+      "rarity": "Uncommon",
+      "cardNum": "59/95"
+    },
+    {
+      "name": "Latios & Latias GX",
+      "set": "Tag Bolt",
+      "img": "https://den-cards.pokellector.com/260/Latios-Latias-GX.SM9.60.25436.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "60/95"
+    },
+    {
+      "name": "Alolan Exeggutor",
+      "set": "Tag Bolt",
+      "img": "https://den-cards.pokellector.com/260/Alolan-Exeggutor.SM9.61.25494.png",
+      "rarity": "Uncommon",
+      "cardNum": "61/95"
+    },
+    {
+      "name": "Dratini",
+      "set": "Tag Bolt",
+      "img": "https://den-cards.pokellector.com/260/Dratini.SM9.62.25495.png",
+      "rarity": "Common",
+      "cardNum": "62/95"
+    },
+    {
+      "name": "Dratini",
+      "set": "Tag Bolt",
+      "img": "https://den-cards.pokellector.com/260/Dratini.SM9.63.25496.png",
+      "rarity": "Common",
+      "cardNum": "63/95"
+    },
+    {
+      "name": "Dragonair",
+      "set": "Tag Bolt",
+      "img": "https://den-cards.pokellector.com/260/Dragonair.SM9.64.25497.png",
+      "rarity": "Common",
+      "cardNum": "64/95"
+    },
+    {
+      "name": "Dragonite",
+      "set": "Tag Bolt",
+      "img": "https://den-cards.pokellector.com/260/Dragonite.SM9.65.25352.png",
+      "rarity": "Rare",
+      "cardNum": "65/95"
+    },
+    {
+      "name": "Eevee & Snorlax GX",
+      "set": "Tag Bolt",
+      "img": "https://den-cards.pokellector.com/260/Eevee-Snorlax-GX.SM9.66.25348.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "66/95"
+    },
+    {
+      "name": "Pidgey",
+      "set": "Tag Bolt",
+      "img": "https://den-cards.pokellector.com/260/Pidgey.SM9.67.25426.png",
+      "rarity": "Common",
+      "cardNum": "67/95"
+    },
+    {
+      "name": "Pidgey",
+      "set": "Tag Bolt",
+      "img": "https://den-cards.pokellector.com/260/Pidgey.SM9.68.25498.png",
+      "rarity": "Common",
+      "cardNum": "68/95"
+    },
+    {
+      "name": "Pidgeotto",
+      "set": "Tag Bolt",
+      "img": "https://den-cards.pokellector.com/260/Pidgeotto.SM9.69.25427.png",
+      "rarity": "Common",
+      "cardNum": "69/95"
+    },
+    {
+      "name": "Pidgeot",
+      "set": "Tag Bolt",
+      "img": "https://den-cards.pokellector.com/260/Pidgeot.SM9.70.25428.png",
+      "rarity": "Uncommon",
+      "cardNum": "70/95"
+    },
+    {
+      "name": "Meowth",
+      "set": "Tag Bolt",
+      "img": "https://den-cards.pokellector.com/260/Meowth.SM9.71.25499.png",
+      "rarity": "Common",
+      "cardNum": "71/95"
+    },
+    {
+      "name": "Persian",
+      "set": "Tag Bolt",
+      "img": "https://den-cards.pokellector.com/260/Persian.SM9.72.25500.png",
+      "rarity": "Common",
+      "cardNum": "72/95"
+    },
+    {
+      "name": "Farfetch'd",
+      "set": "Tag Bolt",
+      "img": "https://den-cards.pokellector.com/260/Farfetchd.SM9.73.25501.png",
+      "rarity": "Common",
+      "cardNum": "73/95"
+    },
+    {
+      "name": "Kangaskhan",
+      "set": "Tag Bolt",
+      "img": "https://den-cards.pokellector.com/260/Kangaskhan.SM9.74.25502.png",
+      "rarity": "Uncommon",
+      "cardNum": "74/95"
+    },
+    {
+      "name": "Tauros",
+      "set": "Tag Bolt",
+      "img": "https://den-cards.pokellector.com/260/Tauros.SM9.75.25435.png",
+      "rarity": "Uncommon",
+      "cardNum": "75/95"
+    },
+    {
+      "name": "Aerodactyl",
+      "set": "Tag Bolt",
+      "img": "https://den-cards.pokellector.com/260/Aerodactyl.SM9.76.25503.png",
+      "rarity": "Uncommon",
+      "cardNum": "76/95"
+    },
+    {
+      "name": "Escape Rope",
+      "set": "Tag Bolt",
+      "img": "https://den-cards.pokellector.com/260/Escape-Rope.SM9.77.25504.png",
+      "rarity": "Uncommon",
+      "cardNum": "77/95"
+    },
+    {
+      "name": "Judge Whistle",
+      "set": "Tag Bolt",
+      "img": "https://den-cards.pokellector.com/260/Judge-Whistle.SM9.78.25505.png",
+      "rarity": "Uncommon",
+      "cardNum": "78/95"
+    },
+    {
+      "name": "Unidentified Fossil",
+      "set": "Tag Bolt",
+      "img": "https://den-cards.pokellector.com/260/Unidentified-Fossil.SM9.79.25506.png",
+      "rarity": "Common",
+      "cardNum": "79/95"
+    },
+    {
+      "name": "Ultra Ball",
+      "set": "Tag Bolt",
+      "img": "https://den-cards.pokellector.com/260/Ultra-Ball.SM9.80.25507.png",
+      "rarity": "Uncommon",
+      "cardNum": "80/95"
+    },
+    {
+      "name": "Rare Candy",
+      "set": "Tag Bolt",
+      "img": "https://den-cards.pokellector.com/260/Rare-Candy.SM9.81.25508.png",
+      "rarity": "Uncommon",
+      "cardNum": "81/95"
+    },
+    {
+      "name": "Pokémon Communication",
+      "set": "Tag Bolt",
+      "img": "https://den-cards.pokellector.com/260/Pokeacutemon-Communication.SM9.82.25509.png",
+      "rarity": "Uncommon",
+      "cardNum": "82/95"
+    },
+    {
+      "name": "Muscle Pad",
+      "set": "Tag Bolt",
+      "img": "https://den-cards.pokellector.com/260/Muscle-Pad.SM9.83.25347.png",
+      "rarity": "Uncommon",
+      "cardNum": "83/95"
+    },
+    {
+      "name": "Erika’s Hospitality",
+      "set": "Tag Bolt",
+      "img": "https://den-cards.pokellector.com/260/Erikas-Hospitality.SM9.84.25351.png",
+      "rarity": "Rare",
+      "cardNum": "84/95"
+    },
+    {
+      "name": "Judge",
+      "set": "Tag Bolt",
+      "img": "https://den-cards.pokellector.com/260/Judge.SM9.85.25510.png",
+      "rarity": "Uncommon",
+      "cardNum": "85/95"
+    },
+    {
+      "name": "Cynthia",
+      "set": "Tag Bolt",
+      "img": "https://den-cards.pokellector.com/260/Cynthia.SM9.86.25511.png",
+      "rarity": "Uncommon",
+      "cardNum": "86/95"
+    },
+    {
+      "name": "Brock's Grit",
+      "set": "Tag Bolt",
+      "img": "https://den-cards.pokellector.com/260/Brocks-Grit.SM9.87.25512.png",
+      "rarity": "Uncommon",
+      "cardNum": "87/95"
+    },
+    {
+      "name": "Sabrina's Hint",
+      "set": "Tag Bolt",
+      "img": "https://den-cards.pokellector.com/260/Sabrinas-Hint.SM9.88.25513.png",
+      "rarity": "Uncommon",
+      "cardNum": "88/95"
+    },
+    {
+      "name": "Bill's Analysis",
+      "set": "Tag Bolt",
+      "img": "https://den-cards.pokellector.com/260/Bills-Analysis.SM9.89.25514.png",
+      "rarity": "Rare",
+      "cardNum": "89/95"
+    },
+    {
+      "name": "Lavender Tower",
+      "set": "Tag Bolt",
+      "img": "https://den-cards.pokellector.com/260/Lavender-Tower.SM9.90.25445.png",
+      "rarity": "Uncommon",
+      "cardNum": "90/95"
+    },
+    {
+      "name": "Viridian Forest",
+      "set": "Tag Bolt",
+      "img": "https://den-cards.pokellector.com/260/Viridian-Forest.SM9.91.25515.png",
+      "rarity": "Uncommon",
+      "cardNum": "91/95"
+    },
+    {
+      "name": "Aqua Patch",
+      "set": "Tag Bolt",
+      "img": "https://den-cards.pokellector.com/260/Aqua-Patch.SM9.92.25516.png",
+      "rarity": "Common",
+      "cardNum": "92/95"
+    },
+    {
+      "name": "Field Blower",
+      "set": "Tag Bolt",
+      "img": "https://den-cards.pokellector.com/260/Field-Blower.SM9.93.25442.png",
+      "rarity": "Rare",
+      "cardNum": "93/95"
+    },
+    {
+      "name": "Choice Band",
+      "set": "Tag Bolt",
+      "img": "https://den-cards.pokellector.com/260/Choice-Band.SM9.94.25517.png",
+      "rarity": "Common",
+      "cardNum": "94/95"
+    },
+    {
+      "name": "Volkner",
+      "set": "Tag Bolt",
+      "img": "https://den-cards.pokellector.com/260/Volkner.SM9.95.25443.png",
+      "rarity": "Rare",
+      "cardNum": "95/95"
+    },
+    {
+      "name": "Venusaur & Celebi GX",
+      "set": "Tag Bolt",
+      "img": "https://den-cards.pokellector.com/260/Venusaur-Celebi-GX.SM9.96.25536.png",
+      "rarity": "Secret Rare",
+      "cardNum": "96/95"
+    },
+    {
+      "name": "Venusaur & Celebi GX",
+      "set": "Tag Bolt",
+      "img": "https://den-cards.pokellector.com/260/Venusaur-Celebi-GX.SM9.97.25438.png",
+      "rarity": "Secret Rare",
+      "cardNum": "97/95"
+    },
+    {
+      "name": "Magikarp & Wailord GX",
+      "set": "Tag Bolt",
+      "img": "https://den-cards.pokellector.com/260/Magikarp-Wailord-GX.SM9.98.25537.png",
+      "rarity": "Secret Rare",
+      "cardNum": "98/95"
+    },
+    {
+      "name": "Magikarp & Wailord GX",
+      "set": "Tag Bolt",
+      "img": "https://den-cards.pokellector.com/260/Magikarp-Wailord-GX.SM9.99.25441.png",
+      "rarity": "Secret Rare",
+      "cardNum": "99/95"
+    },
+    {
+      "name": "Pikachu & Zekrom GX",
+      "set": "Tag Bolt",
+      "img": "https://den-cards.pokellector.com/260/Pikachu-Zekrom-GX.SM9.100.25539.png",
+      "rarity": "Secret Rare",
+      "cardNum": "100/95"
+    },
+    {
+      "name": "Pikachu & Zekrom GX",
+      "set": "Tag Bolt",
+      "img": "https://den-cards.pokellector.com/260/Pikachu-Zekrom-GX.SM9.101.25538.png",
+      "rarity": "Secret Rare",
+      "cardNum": "101/95"
+    },
+    {
+      "name": "Gengar & Mimikyu GX",
+      "set": "Tag Bolt",
+      "img": "https://den-cards.pokellector.com/260/Gengar-Mimikyu-GX.SM9.102.25540.png",
+      "rarity": "Secret Rare",
+      "cardNum": "102/95"
+    },
+    {
+      "name": "Gengar & Mimikyu GX",
+      "set": "Tag Bolt",
+      "img": "https://den-cards.pokellector.com/260/Gengar-Mimikyu-GX.SM9.103.25439.png",
+      "rarity": "Secret Rare",
+      "cardNum": "103/95"
+    },
+    {
+      "name": "Latios & Latias GX",
+      "set": "Tag Bolt",
+      "img": "https://den-cards.pokellector.com/260/Latios-Latias-GX.SM9.104.25542.png",
+      "rarity": "Secret Rare",
+      "cardNum": "104/95"
+    },
+    {
+      "name": "Latios & Latias GX",
+      "set": "Tag Bolt",
+      "img": "https://den-cards.pokellector.com/260/Latios-Latias-GX.SM9.105.25541.png",
+      "rarity": "Secret Rare",
+      "cardNum": "105/95"
+    },
+    {
+      "name": "Eevee & Snorlax GX",
+      "set": "Tag Bolt",
+      "img": "https://den-cards.pokellector.com/260/Eevee-Snorlax-GX.SM9.106.25543.png",
+      "rarity": "Secret Rare",
+      "cardNum": "106/95"
+    },
+    {
+      "name": "Erika's Hospitality",
+      "set": "Tag Bolt",
+      "img": "https://den-cards.pokellector.com/260/Erikas-Hospitality.SM9.107.25521.png",
+      "rarity": "Secret Rare",
+      "cardNum": "107/95"
+    },
+    {
+      "name": "Brock",
+      "set": "Tag Bolt",
+      "img": "https://den-cards.pokellector.com/260/Brock.SM9.108.25520.png",
+      "rarity": "Secret Rare",
+      "cardNum": "108/95"
+    },
+    {
+      "name": "Sabrina's Hint",
+      "set": "Tag Bolt",
+      "img": "https://den-cards.pokellector.com/260/Sabrinas-Hint.SM9.109.25544.png",
+      "rarity": "Secret Rare",
+      "cardNum": "109/95"
+    },
+    {
+      "name": "Venusaur & Celebi GX",
+      "set": "Tag Bolt",
+      "img": "https://den-cards.pokellector.com/260/Venusaur-Celebi-GX.SM9.110.25545.png",
+      "rarity": "Secret Rare",
+      "cardNum": "110/95"
+    },
+    {
+      "name": "Magikarp & Wailord GX",
+      "set": "Tag Bolt",
+      "img": "https://den-cards.pokellector.com/260/Magikarp-Wailord-GX.SM9.111.25546.png",
+      "rarity": "Secret Rare",
+      "cardNum": "111/95"
+    },
+    {
+      "name": "Pikachu & Zekrom GX",
+      "set": "Tag Bolt",
+      "img": "https://den-cards.pokellector.com/260/Pikachu-Zekrom-GX.SM9.112.25547.png",
+      "rarity": "Secret Rare",
+      "cardNum": "112/95"
+    },
+    {
+      "name": "Gengar & Mimikyu GX",
+      "set": "Tag Bolt",
+      "img": "https://den-cards.pokellector.com/260/Gengar-Mimikyu-GX.SM9.113.25548.png",
+      "rarity": "Secret Rare",
+      "cardNum": "113/95"
+    },
+    {
+      "name": "Latios & Latias GX",
+      "set": "Tag Bolt",
+      "img": "https://den-cards.pokellector.com/260/Latios-Latias-GX.SM9.114.25549.png",
+      "rarity": "Secret Rare",
+      "cardNum": "114/95"
+    },
+    {
+      "name": "Eevee & Snorlax GX",
+      "set": "Tag Bolt",
+      "img": "https://den-cards.pokellector.com/260/Eevee-Snorlax-GX.SM9.115.25550.png",
+      "rarity": "Secret Rare",
+      "cardNum": "115/95"
+    },
+    {
+      "name": "Pokémon Communication",
+      "set": "Tag Bolt",
+      "img": "https://den-cards.pokellector.com/260/Pokmon-Communication.SM9.116.25551.png",
+      "rarity": "Secret Rare",
+      "cardNum": "116/95"
+    },
+    {
+      "name": "Judge's Whistle",
+      "set": "Tag Bolt",
+      "img": "https://den-cards.pokellector.com/260/Judges-Whistle.SM9.117.25552.png",
+      "rarity": "Secret Rare",
+      "cardNum": "117/95"
+    },
+    {
+      "name": "Brooklet Hill",
+      "set": "Tag Bolt",
+      "img": "https://den-cards.pokellector.com/260/Brooklet-Hill.SM9.118.25553.png",
+      "rarity": "Secret Rare",
+      "cardNum": "118/95"
+    }
+  ]
+}

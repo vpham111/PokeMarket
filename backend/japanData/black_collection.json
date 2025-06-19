@@ -1,0 +1,397 @@
+{
+  "setName": "Black Collection",
+  "cards": [
+    {
+      "name": "Sewaddle",
+      "set": "Black Collection",
+      "img": "https://den-cards.pokellector.com/14/Sewaddle.BW1.1.png",
+      "rarity": "Common",
+      "cardNum": "1/53"
+    },
+    {
+      "name": "Swadloon",
+      "set": "Black Collection",
+      "img": "https://den-cards.pokellector.com/14/Swadloon.BW1.2.png",
+      "rarity": "Common",
+      "cardNum": "2/53"
+    },
+    {
+      "name": "Leavanny",
+      "set": "Black Collection",
+      "img": "https://den-cards.pokellector.com/14/Leavanny.BW1.3.png",
+      "rarity": "Uncommon",
+      "cardNum": "3/53"
+    },
+    {
+      "name": "Cottonee",
+      "set": "Black Collection",
+      "img": "https://den-cards.pokellector.com/14/Cottonee.BW1.4.png",
+      "rarity": "Common",
+      "cardNum": "4/53"
+    },
+    {
+      "name": "Whimsicott",
+      "set": "Black Collection",
+      "img": "https://den-cards.pokellector.com/14/Whimsicott.BW1.5.png",
+      "rarity": "Uncommon",
+      "cardNum": "5/53"
+    },
+    {
+      "name": "Deerling",
+      "set": "Black Collection",
+      "img": "https://den-cards.pokellector.com/14/Deerling.BW1.6.png",
+      "rarity": "Common",
+      "cardNum": "6/53"
+    },
+    {
+      "name": "Sawsbuck",
+      "set": "Black Collection",
+      "img": "https://den-cards.pokellector.com/14/Sawsbuck.BW1.7.png",
+      "rarity": "Uncommon",
+      "cardNum": "7/53"
+    },
+    {
+      "name": "Tepig",
+      "set": "Black Collection",
+      "img": "https://den-cards.pokellector.com/14/Tepig.BW1.8.png",
+      "rarity": "Common",
+      "cardNum": "8/53"
+    },
+    {
+      "name": "Pignite",
+      "set": "Black Collection",
+      "img": "https://den-cards.pokellector.com/14/Pignite.BW1.9.png",
+      "rarity": "Uncommon",
+      "cardNum": "9/53"
+    },
+    {
+      "name": "Emboar",
+      "set": "Black Collection",
+      "img": "https://den-cards.pokellector.com/14/Emboar.BW1.10.png",
+      "rarity": "Rare",
+      "cardNum": "10/53"
+    },
+    {
+      "name": "Pansear",
+      "set": "Black Collection",
+      "img": "https://den-cards.pokellector.com/14/Pansear.BW1.11.png",
+      "rarity": "Common",
+      "cardNum": "11/53"
+    },
+    {
+      "name": "Simisear",
+      "set": "Black Collection",
+      "img": "https://den-cards.pokellector.com/14/Simisear.BW1.12.png",
+      "rarity": "Common",
+      "cardNum": "12/53"
+    },
+    {
+      "name": "Reshiram",
+      "set": "Black Collection",
+      "img": "https://den-cards.pokellector.com/14/Reshiram.BW1.13.png",
+      "rarity": "Rare",
+      "cardNum": "13/53"
+    },
+    {
+      "name": "Basculin",
+      "set": "Black Collection",
+      "img": "https://den-cards.pokellector.com/14/Basculin.BW1.14.png",
+      "rarity": "Common",
+      "cardNum": "14/53"
+    },
+    {
+      "name": "Ducklett",
+      "set": "Black Collection",
+      "img": "https://den-cards.pokellector.com/14/Ducklett.BW1.15.png",
+      "rarity": "Common",
+      "cardNum": "15/53"
+    },
+    {
+      "name": "Swanna",
+      "set": "Black Collection",
+      "img": "https://den-cards.pokellector.com/14/Swanna.BW1.16.png",
+      "rarity": "Uncommon",
+      "cardNum": "16/53"
+    },
+    {
+      "name": "Cubchoo",
+      "set": "Black Collection",
+      "img": "https://den-cards.pokellector.com/14/Cubchoo.BW1.17.png",
+      "rarity": "Common",
+      "cardNum": "17/53"
+    },
+    {
+      "name": "Beartic",
+      "set": "Black Collection",
+      "img": "https://den-cards.pokellector.com/14/Beartic.BW1.18.png",
+      "rarity": "Rare",
+      "cardNum": "18/53"
+    },
+    {
+      "name": "Blitzle",
+      "set": "Black Collection",
+      "img": "https://den-cards.pokellector.com/14/Blitzle.BW1.19.png",
+      "rarity": "Common",
+      "cardNum": "19/53"
+    },
+    {
+      "name": "Zebstrika",
+      "set": "Black Collection",
+      "img": "https://den-cards.pokellector.com/14/Zebstrika.BW1.20.png",
+      "rarity": "Uncommon",
+      "cardNum": "20/53"
+    },
+    {
+      "name": "Emolga",
+      "set": "Black Collection",
+      "img": "https://den-cards.pokellector.com/14/Emolga.BW1.21.png",
+      "rarity": "Common",
+      "cardNum": "21/53"
+    },
+    {
+      "name": "Munna",
+      "set": "Black Collection",
+      "img": "https://den-cards.pokellector.com/14/Munna.BW1.22.png",
+      "rarity": "Common",
+      "cardNum": "22/53"
+    },
+    {
+      "name": "Musharna",
+      "set": "Black Collection",
+      "img": "https://den-cards.pokellector.com/14/Musharna.BW1.23.png",
+      "rarity": "Uncommon",
+      "cardNum": "23/53"
+    },
+    {
+      "name": "Woobat",
+      "set": "Black Collection",
+      "img": "https://den-cards.pokellector.com/14/Woobat.BW1.24.png",
+      "rarity": "Common",
+      "cardNum": "24/53"
+    },
+    {
+      "name": "Swoobat",
+      "set": "Black Collection",
+      "img": "https://den-cards.pokellector.com/14/Swoobat.BW1.25.png",
+      "rarity": "Uncommon",
+      "cardNum": "25/53"
+    },
+    {
+      "name": "Gothita",
+      "set": "Black Collection",
+      "img": "https://den-cards.pokellector.com/14/Gothita.BW1.26.png",
+      "rarity": "Common",
+      "cardNum": "26/53"
+    },
+    {
+      "name": "Gothorita",
+      "set": "Black Collection",
+      "img": "https://den-cards.pokellector.com/14/Gothorita.BW1.27.png",
+      "rarity": "Uncommon",
+      "cardNum": "27/53"
+    },
+    {
+      "name": "Gothitelle",
+      "set": "Black Collection",
+      "img": "https://den-cards.pokellector.com/14/Gothitelle.BW1.28.png",
+      "rarity": "Rare",
+      "cardNum": "28/53"
+    },
+    {
+      "name": "Roggenrola",
+      "set": "Black Collection",
+      "img": "https://den-cards.pokellector.com/14/Roggenrola.BW1.29.png",
+      "rarity": "Common",
+      "cardNum": "29/53"
+    },
+    {
+      "name": "Boldore",
+      "set": "Black Collection",
+      "img": "https://den-cards.pokellector.com/14/Boldore.BW1.30.png",
+      "rarity": "Uncommon",
+      "cardNum": "30/53"
+    },
+    {
+      "name": "Drilbur",
+      "set": "Black Collection",
+      "img": "https://den-cards.pokellector.com/14/Drilbur.BW1.31.png",
+      "rarity": "Common",
+      "cardNum": "31/53"
+    },
+    {
+      "name": "Excadrill",
+      "set": "Black Collection",
+      "img": "https://den-cards.pokellector.com/14/Excadrill.BW1.32.png",
+      "rarity": "Rare",
+      "cardNum": "32/53"
+    },
+    {
+      "name": "Sawk",
+      "set": "Black Collection",
+      "img": "https://den-cards.pokellector.com/14/Sawk.BW1.33.png",
+      "rarity": "Common",
+      "cardNum": "33/53"
+    },
+    {
+      "name": "Scraggy",
+      "set": "Black Collection",
+      "img": "https://den-cards.pokellector.com/14/Scraggy.BW1.34.png",
+      "rarity": "Common",
+      "cardNum": "34/53"
+    },
+    {
+      "name": "Scrafty",
+      "set": "Black Collection",
+      "img": "https://den-cards.pokellector.com/14/Scrafty.BW1.35.png",
+      "rarity": "Uncommon",
+      "cardNum": "35/53"
+    },
+    {
+      "name": "Vullaby",
+      "set": "Black Collection",
+      "img": "https://den-cards.pokellector.com/14/Vullaby.BW1.36.png",
+      "rarity": "Uncommon",
+      "cardNum": "36/53"
+    },
+    {
+      "name": "Mandibuzz",
+      "set": "Black Collection",
+      "img": "https://den-cards.pokellector.com/14/Mandibuzz.BW1.37.png",
+      "rarity": "Uncommon",
+      "cardNum": "37/53"
+    },
+    {
+      "name": "Klink",
+      "set": "Black Collection",
+      "img": "https://den-cards.pokellector.com/14/Klink.BW1.38.png",
+      "rarity": "Common",
+      "cardNum": "38/53"
+    },
+    {
+      "name": "Klang",
+      "set": "Black Collection",
+      "img": "https://den-cards.pokellector.com/14/Klang.BW1.39.png",
+      "rarity": "Uncommon",
+      "cardNum": "39/53"
+    },
+    {
+      "name": "Klinklang",
+      "set": "Black Collection",
+      "img": "https://den-cards.pokellector.com/14/Klinklang.BW1.40.png",
+      "rarity": "Rare",
+      "cardNum": "40/53"
+    },
+    {
+      "name": "Pidove",
+      "set": "Black Collection",
+      "img": "https://den-cards.pokellector.com/14/Pidove.BW1.41.png",
+      "rarity": "Common",
+      "cardNum": "41/53"
+    },
+    {
+      "name": "Tranquill",
+      "set": "Black Collection",
+      "img": "https://den-cards.pokellector.com/14/Tranquill.BW1.42.png",
+      "rarity": "Common",
+      "cardNum": "42/53"
+    },
+    {
+      "name": "Unfezant",
+      "set": "Black Collection",
+      "img": "https://den-cards.pokellector.com/14/Unfezant.BW1.43.png",
+      "rarity": "Common",
+      "cardNum": "43/53"
+    },
+    {
+      "name": "Minccino",
+      "set": "Black Collection",
+      "img": "https://den-cards.pokellector.com/14/Minccino.BW1.44.png",
+      "rarity": "Common",
+      "cardNum": "44/53"
+    },
+    {
+      "name": "Cinccino",
+      "set": "Black Collection",
+      "img": "https://den-cards.pokellector.com/14/Cinccino.BW1.45.png",
+      "rarity": "Uncommon",
+      "cardNum": "45/53"
+    },
+    {
+      "name": "Bouffalant",
+      "set": "Black Collection",
+      "img": "https://den-cards.pokellector.com/14/Bouffalant.BW1.46.png",
+      "rarity": "Uncommon",
+      "cardNum": "46/53"
+    },
+    {
+      "name": "Tornadus",
+      "set": "Black Collection",
+      "img": "https://den-cards.pokellector.com/14/Tornadus.BW1.47.png",
+      "rarity": "Rare",
+      "cardNum": "47/53"
+    },
+    {
+      "name": "Energy Retrieval",
+      "set": "Black Collection",
+      "img": "https://den-cards.pokellector.com/14/Energy-Retrieval.BW1.48.png",
+      "rarity": "Uncommon",
+      "cardNum": "48/53"
+    },
+    {
+      "name": "Crushing Hammer",
+      "set": "Black Collection",
+      "img": "https://den-cards.pokellector.com/14/Crushing-Hammer.BW1.49.png",
+      "rarity": "Uncommon",
+      "cardNum": "49/53"
+    },
+    {
+      "name": "PokÃ©mon Communication",
+      "set": "Black Collection",
+      "img": "https://den-cards.pokellector.com/14/Pokmon-Communication.BW1.50.png",
+      "rarity": "Uncommon",
+      "cardNum": "50/53"
+    },
+    {
+      "name": "Max Potion",
+      "set": "Black Collection",
+      "img": "https://den-cards.pokellector.com/14/Max-Potion.BW1.51.png",
+      "rarity": "Uncommon",
+      "cardNum": "51/53"
+    },
+    {
+      "name": "Recycle",
+      "set": "Black Collection",
+      "img": "https://den-cards.pokellector.com/14/Recycle.BW1.52.png",
+      "rarity": "Uncommon",
+      "cardNum": "52/53"
+    },
+    {
+      "name": "Professor Juniper",
+      "set": "Black Collection",
+      "img": "https://den-cards.pokellector.com/14/Professor-Juniper.BW1.53.png",
+      "rarity": "Uncommon",
+      "cardNum": "53/53"
+    },
+    {
+      "name": "Tornadus",
+      "set": "Black Collection",
+      "img": "https://den-cards.pokellector.com/14/Tornadus.BW1.54.png",
+      "rarity": "Secret Rare",
+      "cardNum": "54/53"
+    },
+    {
+      "name": "Reshiram",
+      "set": "Black Collection",
+      "img": "https://den-cards.pokellector.com/14/Reshiram.BW1.55.png",
+      "rarity": "Secret Rare",
+      "cardNum": "55/53"
+    },
+    {
+      "name": "Pikachu",
+      "set": "Black Collection",
+      "img": "https://den-cards.pokellector.com/14/Pikachu.BW1.56.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "56/53"
+    }
+  ]
+}

@@ -1,0 +1,873 @@
+{
+  "setName": "Crimson Invasion",
+  "cards": [
+    {
+      "name": "Weedle",
+      "set": "Crimson Invasion",
+      "img": "https://den-cards.pokellector.com/229/Weedle.CNV.1.19694.png",
+      "rarity": "Common",
+      "cardNum": "1/111"
+    },
+    {
+      "name": "Kakuna",
+      "set": "Crimson Invasion",
+      "img": "https://den-cards.pokellector.com/229/Kakuna.CNV.2.19695.png",
+      "rarity": "Uncommon",
+      "cardNum": "2/111"
+    },
+    {
+      "name": "Beedrill",
+      "set": "Crimson Invasion",
+      "img": "https://den-cards.pokellector.com/229/Beedrill.CNV.3.19696.png",
+      "rarity": "Rare",
+      "cardNum": "3/111"
+    },
+    {
+      "name": "Exeggcute",
+      "set": "Crimson Invasion",
+      "img": "https://den-cards.pokellector.com/229/Exeggcute.CNV.4.19697.png",
+      "rarity": "Common",
+      "cardNum": "4/111"
+    },
+    {
+      "name": "Cacnea",
+      "set": "Crimson Invasion",
+      "img": "https://den-cards.pokellector.com/229/Cacnea.CNV.5.19698.png",
+      "rarity": "Common",
+      "cardNum": "5/111"
+    },
+    {
+      "name": "Cacturne",
+      "set": "Crimson Invasion",
+      "img": "https://den-cards.pokellector.com/229/Cacturne.CNV.6.19699.png",
+      "rarity": "Rare",
+      "cardNum": "6/111"
+    },
+    {
+      "name": "Karrablast",
+      "set": "Crimson Invasion",
+      "img": "https://den-cards.pokellector.com/229/Karrablast.CNV.7.19700.png",
+      "rarity": "Common",
+      "cardNum": "7/111"
+    },
+    {
+      "name": "Shelmet",
+      "set": "Crimson Invasion",
+      "img": "https://den-cards.pokellector.com/229/Shelmet.CNV.8.19701.png",
+      "rarity": "Common",
+      "cardNum": "8/111"
+    },
+    {
+      "name": "Accelgor",
+      "set": "Crimson Invasion",
+      "img": "https://den-cards.pokellector.com/229/Accelgor.CNV.9.19702.png",
+      "rarity": "Uncommon",
+      "cardNum": "9/111"
+    },
+    {
+      "name": "Skiddo",
+      "set": "Crimson Invasion",
+      "img": "https://den-cards.pokellector.com/229/Skiddo.CNV.10.19703.png",
+      "rarity": "Common",
+      "cardNum": "10/111"
+    },
+    {
+      "name": "Gogoat",
+      "set": "Crimson Invasion",
+      "img": "https://den-cards.pokellector.com/229/Gogoat.CNV.11.19704.png",
+      "rarity": "Rare",
+      "cardNum": "11/111"
+    },
+    {
+      "name": "Alolan Marowak",
+      "set": "Crimson Invasion",
+      "img": "https://den-cards.pokellector.com/229/Alolan-Marowak.CNV.12.19705.png",
+      "rarity": "Rare",
+      "cardNum": "12/111"
+    },
+    {
+      "name": "Numel",
+      "set": "Crimson Invasion",
+      "img": "https://den-cards.pokellector.com/229/Numel.CNV.13.19706.png",
+      "rarity": "Common",
+      "cardNum": "13/111"
+    },
+    {
+      "name": "Camerupt",
+      "set": "Crimson Invasion",
+      "img": "https://den-cards.pokellector.com/229/Camerupt.CNV.14.19707.png",
+      "rarity": "Rare",
+      "cardNum": "14/111"
+    },
+    {
+      "name": "Staryu",
+      "set": "Crimson Invasion",
+      "img": "https://den-cards.pokellector.com/229/Staryu.CNV.15.19708.png",
+      "rarity": "Common",
+      "cardNum": "15/111"
+    },
+    {
+      "name": "Starmie",
+      "set": "Crimson Invasion",
+      "img": "https://den-cards.pokellector.com/229/Starmie.CNV.16.19709.png",
+      "rarity": "Rare",
+      "cardNum": "16/111"
+    },
+    {
+      "name": "Magikarp",
+      "set": "Crimson Invasion",
+      "img": "https://den-cards.pokellector.com/229/Magikarp.CNV.17.19710.png",
+      "rarity": "Common",
+      "cardNum": "17/111"
+    },
+    {
+      "name": "Gyarados GX",
+      "set": "Crimson Invasion",
+      "img": "https://den-cards.pokellector.com/229/Gyarados-GX.CNV.18.19570.png",
+      "rarity": "Rare",
+      "cardNum": "18/111"
+    },
+    {
+      "name": "Swinub",
+      "set": "Crimson Invasion",
+      "img": "https://den-cards.pokellector.com/229/Swinub.CNV.19.19711.png",
+      "rarity": "Common",
+      "cardNum": "19/111"
+    },
+    {
+      "name": "Piloswine",
+      "set": "Crimson Invasion",
+      "img": "https://den-cards.pokellector.com/229/Piloswine.CNV.20.19712.png",
+      "rarity": "Uncommon",
+      "cardNum": "20/111"
+    },
+    {
+      "name": "Mamoswine",
+      "set": "Crimson Invasion",
+      "img": "https://den-cards.pokellector.com/229/Mamoswine.CNV.21.19713.png",
+      "rarity": "Rare",
+      "cardNum": "21/111"
+    },
+    {
+      "name": "Remoraid",
+      "set": "Crimson Invasion",
+      "img": "https://den-cards.pokellector.com/229/Remoraid.CNV.22.19714.png",
+      "rarity": "Common",
+      "cardNum": "22/111"
+    },
+    {
+      "name": "Octillery",
+      "set": "Crimson Invasion",
+      "img": "https://den-cards.pokellector.com/229/Octillery.CNV.23.19715.png",
+      "rarity": "Rare",
+      "cardNum": "23/111"
+    },
+    {
+      "name": "Corphish",
+      "set": "Crimson Invasion",
+      "img": "https://den-cards.pokellector.com/229/Corphish.CNV.24.19716.png",
+      "rarity": "Common",
+      "cardNum": "24/111"
+    },
+    {
+      "name": "Crawdaunt",
+      "set": "Crimson Invasion",
+      "img": "https://den-cards.pokellector.com/229/Crawdaunt.CNV.25.19717.png",
+      "rarity": "Rare",
+      "cardNum": "25/111"
+    },
+    {
+      "name": "Feebas",
+      "set": "Crimson Invasion",
+      "img": "https://den-cards.pokellector.com/229/Feebas.CNV.26.19718.png",
+      "rarity": "Common",
+      "cardNum": "26/111"
+    },
+    {
+      "name": "Milotic",
+      "set": "Crimson Invasion",
+      "img": "https://den-cards.pokellector.com/229/Milotic.CNV.27.19719.png",
+      "rarity": "Rare",
+      "cardNum": "27/111"
+    },
+    {
+      "name": "Regice",
+      "set": "Crimson Invasion",
+      "img": "https://den-cards.pokellector.com/229/Regice.CNV.28.19720.png",
+      "rarity": "Rare",
+      "cardNum": "28/111"
+    },
+    {
+      "name": "Shellos",
+      "set": "Crimson Invasion",
+      "img": "https://den-cards.pokellector.com/229/Shellos.CNV.29.19721.png",
+      "rarity": "Common",
+      "cardNum": "29/111"
+    },
+    {
+      "name": "Pikachu",
+      "set": "Crimson Invasion",
+      "img": "https://den-cards.pokellector.com/229/Pikachu.CNV.30.19722.png",
+      "rarity": "Common",
+      "cardNum": "30/111"
+    },
+    {
+      "name": "Alolan Raichu",
+      "set": "Crimson Invasion",
+      "img": "https://den-cards.pokellector.com/229/Alolan-Raichu.CNV.31.19723.png",
+      "rarity": "Rare",
+      "cardNum": "31/111"
+    },
+    {
+      "name": "Alolan Geodude",
+      "set": "Crimson Invasion",
+      "img": "https://den-cards.pokellector.com/229/Alolan-Geodude.CNV.32.19724.png",
+      "rarity": "Common",
+      "cardNum": "32/111"
+    },
+    {
+      "name": "Alolan Graveler",
+      "set": "Crimson Invasion",
+      "img": "https://den-cards.pokellector.com/229/Alolan-Graveler.CNV.33.19725.png",
+      "rarity": "Uncommon",
+      "cardNum": "33/111"
+    },
+    {
+      "name": "Alolan Golem GX",
+      "set": "Crimson Invasion",
+      "img": "https://den-cards.pokellector.com/229/Alolan-Golem-GX.CNV.34.19726.png",
+      "rarity": "Rare",
+      "cardNum": "34/111"
+    },
+    {
+      "name": "Emolga",
+      "set": "Crimson Invasion",
+      "img": "https://den-cards.pokellector.com/229/Emolga.CNV.35.19727.png",
+      "rarity": "Uncommon",
+      "cardNum": "35/111"
+    },
+    {
+      "name": "Gastly",
+      "set": "Crimson Invasion",
+      "img": "https://den-cards.pokellector.com/229/Gastly.CNV.36.19728.png",
+      "rarity": "Common",
+      "cardNum": "36/111"
+    },
+    {
+      "name": "Haunter",
+      "set": "Crimson Invasion",
+      "img": "https://den-cards.pokellector.com/229/Haunter.CNV.37.19729.png",
+      "rarity": "Uncommon",
+      "cardNum": "37/111"
+    },
+    {
+      "name": "Gengar",
+      "set": "Crimson Invasion",
+      "img": "https://den-cards.pokellector.com/229/Gengar.CNV.38.19730.png",
+      "rarity": "Rare",
+      "cardNum": "38/111"
+    },
+    {
+      "name": "Misdreavus",
+      "set": "Crimson Invasion",
+      "img": "https://den-cards.pokellector.com/229/Misdreavus.CNV.39.19731.png",
+      "rarity": "Common",
+      "cardNum": "39/111"
+    },
+    {
+      "name": "Mismagius",
+      "set": "Crimson Invasion",
+      "img": "https://den-cards.pokellector.com/229/Mismagius.CNV.40.19732.png",
+      "rarity": "Rare",
+      "cardNum": "40/111"
+    },
+    {
+      "name": "Spoink",
+      "set": "Crimson Invasion",
+      "img": "https://den-cards.pokellector.com/229/Spoink.CNV.41.19733.png",
+      "rarity": "Common",
+      "cardNum": "41/111"
+    },
+    {
+      "name": "Grumpig",
+      "set": "Crimson Invasion",
+      "img": "https://den-cards.pokellector.com/229/Grumpig.CNV.42.19734.png",
+      "rarity": "Uncommon",
+      "cardNum": "42/111"
+    },
+    {
+      "name": "Chimecho",
+      "set": "Crimson Invasion",
+      "img": "https://den-cards.pokellector.com/229/Chimecho.CNV.43.19735.png",
+      "rarity": "Common",
+      "cardNum": "43/111"
+    },
+    {
+      "name": "Pumpkaboo",
+      "set": "Crimson Invasion",
+      "img": "https://den-cards.pokellector.com/229/Pumpkaboo.CNV.44.19736.png",
+      "rarity": "Common",
+      "cardNum": "44/111"
+    },
+    {
+      "name": "Gourgeist",
+      "set": "Crimson Invasion",
+      "img": "https://den-cards.pokellector.com/229/Gourgeist.CNV.45.19737.png",
+      "rarity": "Rare",
+      "cardNum": "45/111"
+    },
+    {
+      "name": "Salandit",
+      "set": "Crimson Invasion",
+      "img": "https://den-cards.pokellector.com/229/Salandit.CNV.46.19738.png",
+      "rarity": "Common",
+      "cardNum": "46/111"
+    },
+    {
+      "name": "Salazzle",
+      "set": "Crimson Invasion",
+      "img": "https://den-cards.pokellector.com/229/Salazzle.CNV.47.19739.png",
+      "rarity": "Rare",
+      "cardNum": "47/111"
+    },
+    {
+      "name": "Oranguru",
+      "set": "Crimson Invasion",
+      "img": "https://den-cards.pokellector.com/229/Oranguru.CNV.48.19740.png",
+      "rarity": "Rare",
+      "cardNum": "48/111"
+    },
+    {
+      "name": "Nihilego GX",
+      "set": "Crimson Invasion",
+      "img": "https://den-cards.pokellector.com/229/Nihilego-GX.CNV.49.19741.png",
+      "rarity": "Rare",
+      "cardNum": "49/111"
+    },
+    {
+      "name": "Mankey",
+      "set": "Crimson Invasion",
+      "img": "https://den-cards.pokellector.com/229/Mankey.CNV.50.19742.png",
+      "rarity": "Common",
+      "cardNum": "50/111"
+    },
+    {
+      "name": "Primeape",
+      "set": "Crimson Invasion",
+      "img": "https://den-cards.pokellector.com/229/Primeape.CNV.51.19743.png",
+      "rarity": "Rare",
+      "cardNum": "51/111"
+    },
+    {
+      "name": "Cubone",
+      "set": "Crimson Invasion",
+      "img": "https://den-cards.pokellector.com/229/Cubone.CNV.52.19744.png",
+      "rarity": "Common",
+      "cardNum": "52/111"
+    },
+    {
+      "name": "Regirock",
+      "set": "Crimson Invasion",
+      "img": "https://den-cards.pokellector.com/229/Regirock.CNV.53.19745.png",
+      "rarity": "Rare",
+      "cardNum": "53/111"
+    },
+    {
+      "name": "Gastrodon",
+      "set": "Crimson Invasion",
+      "img": "https://den-cards.pokellector.com/229/Gastrodon.CNV.54.19746.png",
+      "rarity": "Uncommon",
+      "cardNum": "54/111"
+    },
+    {
+      "name": "Stufful",
+      "set": "Crimson Invasion",
+      "img": "https://den-cards.pokellector.com/229/Stufful.CNV.55.19747.png",
+      "rarity": "Common",
+      "cardNum": "55/111"
+    },
+    {
+      "name": "Bewear",
+      "set": "Crimson Invasion",
+      "img": "https://den-cards.pokellector.com/229/Bewear.CNV.56.19748.png",
+      "rarity": "Rare",
+      "cardNum": "56/111"
+    },
+    {
+      "name": "Buzzwole GX",
+      "set": "Crimson Invasion",
+      "img": "https://den-cards.pokellector.com/229/Buzzwole-GX.CNV.57.18611.png",
+      "rarity": "Rare",
+      "cardNum": "57/111"
+    },
+    {
+      "name": "Houndour",
+      "set": "Crimson Invasion",
+      "img": "https://den-cards.pokellector.com/229/Houndour.CNV.58.19749.png",
+      "rarity": "Common",
+      "cardNum": "58/111"
+    },
+    {
+      "name": "Houndoom",
+      "set": "Crimson Invasion",
+      "img": "https://den-cards.pokellector.com/229/Houndoom.CNV.59.19750.png",
+      "rarity": "Rare",
+      "cardNum": "59/111"
+    },
+    {
+      "name": "Deino",
+      "set": "Crimson Invasion",
+      "img": "https://den-cards.pokellector.com/229/Deino.CNV.60.19751.png",
+      "rarity": "Common",
+      "cardNum": "60/111"
+    },
+    {
+      "name": "Zweilous",
+      "set": "Crimson Invasion",
+      "img": "https://den-cards.pokellector.com/229/Zweilous.CNV.61.19752.png",
+      "rarity": "Uncommon",
+      "cardNum": "61/111"
+    },
+    {
+      "name": "Hydreigon",
+      "set": "Crimson Invasion",
+      "img": "https://den-cards.pokellector.com/229/Hydreigon.CNV.62.19753.png",
+      "rarity": "Rare",
+      "cardNum": "62/111"
+    },
+    {
+      "name": "Guzzlord GX",
+      "set": "Crimson Invasion",
+      "img": "https://den-cards.pokellector.com/229/Guzzlord-GX.CNV.63.18610.png",
+      "rarity": "Rare",
+      "cardNum": "63/111"
+    },
+    {
+      "name": "Mawile",
+      "set": "Crimson Invasion",
+      "img": "https://den-cards.pokellector.com/229/Mawile.CNV.64.19754.png",
+      "rarity": "Uncommon",
+      "cardNum": "64/111"
+    },
+    {
+      "name": "Aron",
+      "set": "Crimson Invasion",
+      "img": "https://den-cards.pokellector.com/229/Aron.CNV.65.19755.png",
+      "rarity": "Common",
+      "cardNum": "65/111"
+    },
+    {
+      "name": "Lairon",
+      "set": "Crimson Invasion",
+      "img": "https://den-cards.pokellector.com/229/Lairon.CNV.66.19756.png",
+      "rarity": "Uncommon",
+      "cardNum": "66/111"
+    },
+    {
+      "name": "Aggron",
+      "set": "Crimson Invasion",
+      "img": "https://den-cards.pokellector.com/229/Aggron.CNV.67.19757.png",
+      "rarity": "Rare",
+      "cardNum": "67/111"
+    },
+    {
+      "name": "Registeel",
+      "set": "Crimson Invasion",
+      "img": "https://den-cards.pokellector.com/229/Registeel.CNV.68.19758.png",
+      "rarity": "Rare",
+      "cardNum": "68/111"
+    },
+    {
+      "name": "Escavalier",
+      "set": "Crimson Invasion",
+      "img": "https://den-cards.pokellector.com/229/Escavalier.CNV.69.19759.png",
+      "rarity": "Rare",
+      "cardNum": "69/111"
+    },
+    {
+      "name": "Kartana GX",
+      "set": "Crimson Invasion",
+      "img": "https://den-cards.pokellector.com/229/Kartana-GX.CNV.70.19760.png",
+      "rarity": "Rare",
+      "cardNum": "70/111"
+    },
+    {
+      "name": "Jigglypuff",
+      "set": "Crimson Invasion",
+      "img": "https://den-cards.pokellector.com/229/Jigglypuff.CNV.71.19761.png",
+      "rarity": "Common",
+      "cardNum": "71/111"
+    },
+    {
+      "name": "Wigglytuff",
+      "set": "Crimson Invasion",
+      "img": "https://den-cards.pokellector.com/229/Wigglytuff.CNV.72.19762.png",
+      "rarity": "Rare",
+      "cardNum": "72/111"
+    },
+    {
+      "name": "Xerneas",
+      "set": "Crimson Invasion",
+      "img": "https://den-cards.pokellector.com/229/Xerneas.CNV.73.19763.png",
+      "rarity": "Rare",
+      "cardNum": "73/111"
+    },
+    {
+      "name": "Alolan Exeggutor GX",
+      "set": "Crimson Invasion",
+      "img": "https://den-cards.pokellector.com/229/Exeggutor-GX.CNV.74.19346.png",
+      "rarity": "Rare",
+      "cardNum": "74/111"
+    },
+    {
+      "name": "Jangmo-o",
+      "set": "Crimson Invasion",
+      "img": "https://den-cards.pokellector.com/229/Jangmo-o.CNV.75.19764.png",
+      "rarity": "Common",
+      "cardNum": "75/111"
+    },
+    {
+      "name": "Hakamo-o",
+      "set": "Crimson Invasion",
+      "img": "https://den-cards.pokellector.com/229/Hakamo-o.CNV.76.19765.png",
+      "rarity": "Uncommon",
+      "cardNum": "76/111"
+    },
+    {
+      "name": "Kommo-o",
+      "set": "Crimson Invasion",
+      "img": "https://den-cards.pokellector.com/229/Kommo-o.CNV.77.19766.png",
+      "rarity": "Rare",
+      "cardNum": "77/111"
+    },
+    {
+      "name": "Miltank",
+      "set": "Crimson Invasion",
+      "img": "https://den-cards.pokellector.com/229/Miltank.CNV.78.19767.png",
+      "rarity": "Uncommon",
+      "cardNum": "78/111"
+    },
+    {
+      "name": "Swablu",
+      "set": "Crimson Invasion",
+      "img": "https://den-cards.pokellector.com/229/Swablu.CNV.79.19768.png",
+      "rarity": "Common",
+      "cardNum": "79/111"
+    },
+    {
+      "name": "Altaria",
+      "set": "Crimson Invasion",
+      "img": "https://den-cards.pokellector.com/229/Altaria.CNV.80.19769.png",
+      "rarity": "Rare",
+      "cardNum": "80/111"
+    },
+    {
+      "name": "Starly",
+      "set": "Crimson Invasion",
+      "img": "https://den-cards.pokellector.com/229/Starly.CNV.81.19770.png",
+      "rarity": "Common",
+      "cardNum": "81/111"
+    },
+    {
+      "name": "Staravia",
+      "set": "Crimson Invasion",
+      "img": "https://den-cards.pokellector.com/229/Staravia.CNV.82.19771.png",
+      "rarity": "Uncommon",
+      "cardNum": "82/111"
+    },
+    {
+      "name": "Staraptor",
+      "set": "Crimson Invasion",
+      "img": "https://den-cards.pokellector.com/229/Staraptor.CNV.83.19772.png",
+      "rarity": "Rare",
+      "cardNum": "83/111"
+    },
+    {
+      "name": "Regigigas",
+      "set": "Crimson Invasion",
+      "img": "https://den-cards.pokellector.com/229/Regigigas.CNV.84.19773.png",
+      "rarity": "Rare",
+      "cardNum": "84/111"
+    },
+    {
+      "name": "Minccino",
+      "set": "Crimson Invasion",
+      "img": "https://den-cards.pokellector.com/229/Minccino.CNV.85.19774.png",
+      "rarity": "Common",
+      "cardNum": "85/111"
+    },
+    {
+      "name": "Cinccino",
+      "set": "Crimson Invasion",
+      "img": "https://den-cards.pokellector.com/229/Cinccino.CNV.86.19775.png",
+      "rarity": "Uncommon",
+      "cardNum": "86/111"
+    },
+    {
+      "name": "Bunnelby",
+      "set": "Crimson Invasion",
+      "img": "https://den-cards.pokellector.com/229/Bunnelby.CNV.87.19776.png",
+      "rarity": "Common",
+      "cardNum": "87/111"
+    },
+    {
+      "name": "Diggersby",
+      "set": "Crimson Invasion",
+      "img": "https://den-cards.pokellector.com/229/Diggersby.CNV.88.19777.png",
+      "rarity": "Uncommon",
+      "cardNum": "88/111"
+    },
+    {
+      "name": "Type: Null",
+      "set": "Crimson Invasion",
+      "img": "https://den-cards.pokellector.com/229/Type-Null.CNV.89.19778.png",
+      "rarity": "Rare",
+      "cardNum": "89/111"
+    },
+    {
+      "name": "Silvally GX",
+      "set": "Crimson Invasion",
+      "img": "https://den-cards.pokellector.com/229/Silvally-GX.CNV.90.19779.png",
+      "rarity": "Rare",
+      "cardNum": "90/111"
+    },
+    {
+      "name": "Counter Catcher",
+      "set": "Crimson Invasion",
+      "img": "https://den-cards.pokellector.com/229/Counter-Catcher.CNV.91.19780.png",
+      "rarity": "Uncommon",
+      "cardNum": "91/111"
+    },
+    {
+      "name": "Dashing Pouch",
+      "set": "Crimson Invasion",
+      "img": "https://den-cards.pokellector.com/229/Dashing-Pouch.CNV.92.19781.png",
+      "rarity": "Uncommon",
+      "cardNum": "92/111"
+    },
+    {
+      "name": "Devoured Field",
+      "set": "Crimson Invasion",
+      "img": "https://den-cards.pokellector.com/229/Devoured-Field.CNV.93.19782.png",
+      "rarity": "Uncommon",
+      "cardNum": "93/111"
+    },
+    {
+      "name": "Fighting Memory",
+      "set": "Crimson Invasion",
+      "img": "https://den-cards.pokellector.com/229/Fighting-Memory.CNV.94.19783.png",
+      "rarity": "Uncommon",
+      "cardNum": "94/111"
+    },
+    {
+      "name": "Gladion",
+      "set": "Crimson Invasion",
+      "img": "https://den-cards.pokellector.com/229/Gladion.CNV.95.19784.png",
+      "rarity": "Uncommon",
+      "cardNum": "95/111"
+    },
+    {
+      "name": "Lusamine",
+      "set": "Crimson Invasion",
+      "img": "https://den-cards.pokellector.com/229/Lusamine.CNV.96.19785.png",
+      "rarity": "Uncommon",
+      "cardNum": "96/111"
+    },
+    {
+      "name": "Peeking Red Card",
+      "set": "Crimson Invasion",
+      "img": "https://den-cards.pokellector.com/229/Peeking-Red-Card.CNV.97.19786.png",
+      "rarity": "Uncommon",
+      "cardNum": "97/111"
+    },
+    {
+      "name": "Psychic Memory",
+      "set": "Crimson Invasion",
+      "img": "https://den-cards.pokellector.com/229/Psychic-Memory.CNV.98.19787.png",
+      "rarity": "Uncommon",
+      "cardNum": "98/111"
+    },
+    {
+      "name": "Sea of Nothingness",
+      "set": "Crimson Invasion",
+      "img": "https://den-cards.pokellector.com/229/Sea-of-Nothingness.CNV.99.19788.png",
+      "rarity": "Uncommon",
+      "cardNum": "99/111"
+    },
+    {
+      "name": "Counter Energy",
+      "set": "Crimson Invasion",
+      "img": "https://den-cards.pokellector.com/229/Counter-Energy.CNV.100.19789.png",
+      "rarity": "Uncommon",
+      "cardNum": "100/111"
+    },
+    {
+      "name": "Gyarados GX",
+      "set": "Crimson Invasion",
+      "img": "https://den-cards.pokellector.com/229/Gyarados-GX.CNV.101.19790.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "101/111"
+    },
+    {
+      "name": "Alolan Golem GX",
+      "set": "Crimson Invasion",
+      "img": "https://den-cards.pokellector.com/229/Alolan-Golem-GX.CNV.102.19791.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "102/111"
+    },
+    {
+      "name": "Nihilego GX",
+      "set": "Crimson Invasion",
+      "img": "https://den-cards.pokellector.com/229/Nihilego-GX.CNV.103.19792.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "103/111"
+    },
+    {
+      "name": "Buzzwole GX",
+      "set": "Crimson Invasion",
+      "img": "https://den-cards.pokellector.com/229/Buzzwole-GX.CNV.104.19793.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "104/111"
+    },
+    {
+      "name": "Guzzlord GX",
+      "set": "Crimson Invasion",
+      "img": "https://den-cards.pokellector.com/229/Guzzlord-GX.CNV.105.19794.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "105/111"
+    },
+    {
+      "name": "Kartana GX",
+      "set": "Crimson Invasion",
+      "img": "https://den-cards.pokellector.com/229/Kartana-GX.CNV.106.19795.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "106/111"
+    },
+    {
+      "name": "Alolan Exeggutor GX",
+      "set": "Crimson Invasion",
+      "img": "https://den-cards.pokellector.com/229/Alolan-Exeggutor-GX.CNV.107.19796.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "107/111"
+    },
+    {
+      "name": "Silvally GX",
+      "set": "Crimson Invasion",
+      "img": "https://den-cards.pokellector.com/229/Silvally-GX.CNV.108.19797.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "108/111"
+    },
+    {
+      "name": "Gladion",
+      "set": "Crimson Invasion",
+      "img": "https://den-cards.pokellector.com/229/Gladion.CNV.109.19798.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "109/111"
+    },
+    {
+      "name": "Lusamine",
+      "set": "Crimson Invasion",
+      "img": "https://den-cards.pokellector.com/229/Lusamine.CNV.110.19799.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "110/111"
+    },
+    {
+      "name": "Olivia",
+      "set": "Crimson Invasion",
+      "img": "https://den-cards.pokellector.com/229/Olivia.CNV.111.19800.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "111/111"
+    },
+    {
+      "name": "Gyarados GX",
+      "set": "Crimson Invasion",
+      "img": "https://den-cards.pokellector.com/229/Gyarados-GX.CNV.112.19801.png",
+      "rarity": "Secret Rare",
+      "cardNum": "112/111"
+    },
+    {
+      "name": "Alolan Golem GX",
+      "set": "Crimson Invasion",
+      "img": "https://den-cards.pokellector.com/229/Alolan-Golem-GX.CNV.113.19802.png",
+      "rarity": "Secret Rare",
+      "cardNum": "113/111"
+    },
+    {
+      "name": "Nihilego GX",
+      "set": "Crimson Invasion",
+      "img": "https://den-cards.pokellector.com/229/Nihilego-GX.CNV.114.19803.png",
+      "rarity": "Secret Rare",
+      "cardNum": "114/111"
+    },
+    {
+      "name": "Buzzwole GX",
+      "set": "Crimson Invasion",
+      "img": "https://den-cards.pokellector.com/229/Buzzwole-GX.CNV.115.19804.png",
+      "rarity": "Secret Rare",
+      "cardNum": "115/111"
+    },
+    {
+      "name": "Guzzlord GX",
+      "set": "Crimson Invasion",
+      "img": "https://den-cards.pokellector.com/229/Guzzlord-GX.CNV.116.19805.png",
+      "rarity": "Secret Rare",
+      "cardNum": "116/111"
+    },
+    {
+      "name": "Kartana GX",
+      "set": "Crimson Invasion",
+      "img": "https://den-cards.pokellector.com/229/Kartana-GX.CNV.117.19806.png",
+      "rarity": "Secret Rare",
+      "cardNum": "117/111"
+    },
+    {
+      "name": "Alolan Exeggutor GX",
+      "set": "Crimson Invasion",
+      "img": "https://den-cards.pokellector.com/229/Alolan-Exeggutor-GX.CNV.118.19807.png",
+      "rarity": "Secret Rare",
+      "cardNum": "118/111"
+    },
+    {
+      "name": "Silvally GX",
+      "set": "Crimson Invasion",
+      "img": "https://den-cards.pokellector.com/229/Silvally-GX.CNV.119.19808.png",
+      "rarity": "Secret Rare",
+      "cardNum": "119/111"
+    },
+    {
+      "name": "Counter Catcher",
+      "set": "Crimson Invasion",
+      "img": "https://den-cards.pokellector.com/229/Counter-Catcher.CNV.120.19809.png",
+      "rarity": "Secret Rare",
+      "cardNum": "120/111"
+    },
+    {
+      "name": "Wishful Baton",
+      "set": "Crimson Invasion",
+      "img": "https://den-cards.pokellector.com/229/Wishful-Baton.CNV.121.19810.png",
+      "rarity": "Secret Rare",
+      "cardNum": "121/111"
+    },
+    {
+      "name": "Counter Energy",
+      "set": "Crimson Invasion",
+      "img": "https://den-cards.pokellector.com/229/Counter-Energy.CNV.122.19811.png",
+      "rarity": "Secret Rare",
+      "cardNum": "122/111"
+    },
+    {
+      "name": "Warp Energy",
+      "set": "Crimson Invasion",
+      "img": "https://den-cards.pokellector.com/229/Warp-Energy.CNV.123.19812.png",
+      "rarity": "Secret Rare",
+      "cardNum": "123/111"
+    },
+    {
+      "name": "Water Energy",
+      "set": "Crimson Invasion",
+      "img": "https://den-cards.pokellector.com/229/Water-Energy.CNV.124.19813.png",
+      "rarity": "Secret Rare",
+      "cardNum": "124/111"
+    }
+  ]
+}

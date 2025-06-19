@@ -1,0 +1,75 @@
+{
+  "setName": "Raichu BREAK Evolution Pack",
+  "cards": [
+    {
+      "name": "Pikachu",
+      "set": "Raichu BREAK Evolution Pack",
+      "img": "https://den-cards.pokellector.com/180/Pikachu.SNP.1.png",
+      "rarity": "Common",
+      "cardNum": "1/10"
+    },
+    {
+      "name": "Raichu",
+      "set": "Raichu BREAK Evolution Pack",
+      "img": "https://den-cards.pokellector.com/180/Raichu.SNP.2.png",
+      "rarity": "Common",
+      "cardNum": "2/10"
+    },
+    {
+      "name": "Raichu BREAK",
+      "set": "Raichu BREAK Evolution Pack",
+      "img": "https://den-cards.pokellector.com/180/Raichu-BREAK.SNP.3.png",
+      "rarity": "Common",
+      "cardNum": "3/10"
+    },
+    {
+      "name": "Stunfisk",
+      "set": "Raichu BREAK Evolution Pack",
+      "img": "https://den-cards.pokellector.com/180/Stunfisk.SNP.4.png",
+      "rarity": "Common",
+      "cardNum": "4/10"
+    },
+    {
+      "name": "Town Map",
+      "set": "Raichu BREAK Evolution Pack",
+      "img": "https://den-cards.pokellector.com/180/Town-Map.SNP.5.png",
+      "rarity": "Common",
+      "cardNum": "5/10"
+    },
+    {
+      "name": "Buddy Rescue",
+      "set": "Raichu BREAK Evolution Pack",
+      "img": "https://den-cards.pokellector.com/180/Buddy-Rescue.SNP.6.png",
+      "rarity": "Common",
+      "cardNum": "6/10"
+    },
+    {
+      "name": "Professor's Letter",
+      "set": "Raichu BREAK Evolution Pack",
+      "img": "https://den-cards.pokellector.com/180/Professors-Letter.SNP.7.png",
+      "rarity": "Common",
+      "cardNum": "7/10"
+    },
+    {
+      "name": "Level Ball",
+      "set": "Raichu BREAK Evolution Pack",
+      "img": "https://den-cards.pokellector.com/180/Level-Ball.SNP.8.png",
+      "rarity": "Common",
+      "cardNum": "8/10"
+    },
+    {
+      "name": "Fisherman",
+      "set": "Raichu BREAK Evolution Pack",
+      "img": "https://den-cards.pokellector.com/180/Fisherman.SNP.9.png",
+      "rarity": "Common",
+      "cardNum": "9/10"
+    },
+    {
+      "name": "Skyla",
+      "set": "Raichu BREAK Evolution Pack",
+      "img": "https://den-cards.pokellector.com/180/Skyla.SNP.10.png",
+      "rarity": "Common",
+      "cardNum": "10/10"
+    }
+  ]
+}

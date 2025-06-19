@@ -1,0 +1,404 @@
+{
+  "setName": "Hail Blizzard",
+  "cards": [
+    {
+      "name": "Pansage",
+      "set": "Hail Blizzard",
+      "img": "https://den-cards.pokellector.com/18/Pansage.BW3.1.png",
+      "rarity": "Common",
+      "cardNum": "1/52"
+    },
+    {
+      "name": "Simisage",
+      "set": "Hail Blizzard",
+      "img": "https://den-cards.pokellector.com/18/Simisage.BW3.2.png",
+      "rarity": "Uncommon",
+      "cardNum": "2/52"
+    },
+    {
+      "name": "Petilil",
+      "set": "Hail Blizzard",
+      "img": "https://den-cards.pokellector.com/18/Petilil.BW3.3.png",
+      "rarity": "Common",
+      "cardNum": "3/52"
+    },
+    {
+      "name": "Lilligant",
+      "set": "Hail Blizzard",
+      "img": "https://den-cards.pokellector.com/18/Lilligant.BW3.4.png",
+      "rarity": "Uncommon",
+      "cardNum": "4/52"
+    },
+    {
+      "name": "Deerling",
+      "set": "Hail Blizzard",
+      "img": "https://den-cards.pokellector.com/18/Deerling.BW3.5.png",
+      "rarity": "Common",
+      "cardNum": "5/52"
+    },
+    {
+      "name": "Sawsbuck",
+      "set": "Hail Blizzard",
+      "img": "https://den-cards.pokellector.com/18/Sawsbuck.BW3.6.png",
+      "rarity": "Uncommon",
+      "cardNum": "6/52"
+    },
+    {
+      "name": "Foongus",
+      "set": "Hail Blizzard",
+      "img": "https://den-cards.pokellector.com/18/Foongus.BW3.7.png",
+      "rarity": "Common",
+      "cardNum": "7/52"
+    },
+    {
+      "name": "Amoonguss",
+      "set": "Hail Blizzard",
+      "img": "https://den-cards.pokellector.com/18/Amoonguss.BW3.8.png",
+      "rarity": "Uncommon",
+      "cardNum": "8/52"
+    },
+    {
+      "name": "Growlithe",
+      "set": "Hail Blizzard",
+      "img": "https://den-cards.pokellector.com/18/Growlithe.BW3.9.png",
+      "rarity": "Common",
+      "cardNum": "9/52"
+    },
+    {
+      "name": "Arcanine",
+      "set": "Hail Blizzard",
+      "img": "https://den-cards.pokellector.com/18/Arcanine.BW3.10.png",
+      "rarity": "Rare",
+      "cardNum": "10/52"
+    },
+    {
+      "name": "Darumaka",
+      "set": "Hail Blizzard",
+      "img": "https://den-cards.pokellector.com/18/Darumaka.BW3.11.png",
+      "rarity": "Common",
+      "cardNum": "11/52"
+    },
+    {
+      "name": "Litwick",
+      "set": "Hail Blizzard",
+      "img": "https://den-cards.pokellector.com/18/Litwick.BW3.12.png",
+      "rarity": "Common",
+      "cardNum": "12/52"
+    },
+    {
+      "name": "Lampent",
+      "set": "Hail Blizzard",
+      "img": "https://den-cards.pokellector.com/18/Lampent.BW3.13.png",
+      "rarity": "Common",
+      "cardNum": "13/52"
+    },
+    {
+      "name": "Chandelure",
+      "set": "Hail Blizzard",
+      "img": "https://den-cards.pokellector.com/18/Chandelure.BW3.14.png",
+      "rarity": "Rare",
+      "cardNum": "14/52"
+    },
+    {
+      "name": "Lapras",
+      "set": "Hail Blizzard",
+      "img": "https://den-cards.pokellector.com/18/Lapras.BW3.15.png",
+      "rarity": "Uncommon",
+      "cardNum": "15/52"
+    },
+    {
+      "name": "Vanillite",
+      "set": "Hail Blizzard",
+      "img": "https://den-cards.pokellector.com/18/Vanillite.BW3.16.png",
+      "rarity": "Common",
+      "cardNum": "16/52"
+    },
+    {
+      "name": "Vanillish",
+      "set": "Hail Blizzard",
+      "img": "https://den-cards.pokellector.com/18/Vanillish.BW3.17.png",
+      "rarity": "Common",
+      "cardNum": "17/52"
+    },
+    {
+      "name": "Vanilluxe",
+      "set": "Hail Blizzard",
+      "img": "https://den-cards.pokellector.com/18/Vanilluxe.BW3.18.png",
+      "rarity": "Rare",
+      "cardNum": "18/52"
+    },
+    {
+      "name": "Cubchoo",
+      "set": "Hail Blizzard",
+      "img": "https://den-cards.pokellector.com/18/Cubchoo.BW3.19.png",
+      "rarity": "Common",
+      "cardNum": "19/52"
+    },
+    {
+      "name": "Beartic",
+      "set": "Hail Blizzard",
+      "img": "https://den-cards.pokellector.com/18/Beartic.BW3.20.png",
+      "rarity": "Uncommon",
+      "cardNum": "20/52"
+    },
+    {
+      "name": "Cryogonal",
+      "set": "Hail Blizzard",
+      "img": "https://den-cards.pokellector.com/18/Cryogonal.BW3.21.png",
+      "rarity": "Uncommon",
+      "cardNum": "21/52"
+    },
+    {
+      "name": "Kyurem EX",
+      "set": "Hail Blizzard",
+      "img": "https://den-cards.pokellector.com/18/Kyurem-EX.BW3.22.png",
+      "rarity": "Rare",
+      "cardNum": "22/52"
+    },
+    {
+      "name": "Pikachu",
+      "set": "Hail Blizzard",
+      "img": "https://den-cards.pokellector.com/18/Pikachu.BW3.23.png",
+      "rarity": "Common",
+      "cardNum": "23/52"
+    },
+    {
+      "name": "Raichu",
+      "set": "Hail Blizzard",
+      "img": "https://den-cards.pokellector.com/18/Raichu.BW3.24.png",
+      "rarity": "Uncommon",
+      "cardNum": "24/52"
+    },
+    {
+      "name": "Zapdos",
+      "set": "Hail Blizzard",
+      "img": "https://den-cards.pokellector.com/18/Zapdos.BW3.25.png",
+      "rarity": "Rare",
+      "cardNum": "25/52"
+    },
+    {
+      "name": "Ralts",
+      "set": "Hail Blizzard",
+      "img": "https://den-cards.pokellector.com/18/Ralts.BW3.26.png",
+      "rarity": "Common",
+      "cardNum": "26/52"
+    },
+    {
+      "name": "Kirlia",
+      "set": "Hail Blizzard",
+      "img": "https://den-cards.pokellector.com/18/Kirlia.BW3.27.png",
+      "rarity": "Common",
+      "cardNum": "27/52"
+    },
+    {
+      "name": "Gardevoir",
+      "set": "Hail Blizzard",
+      "img": "https://den-cards.pokellector.com/18/Gardevoir.BW3.28.png",
+      "rarity": "Rare",
+      "cardNum": "28/52"
+    },
+    {
+      "name": "Darmanitan",
+      "set": "Hail Blizzard",
+      "img": "https://den-cards.pokellector.com/18/Darmanitan.BW3.29.png",
+      "rarity": "Uncommon",
+      "cardNum": "29/52"
+    },
+    {
+      "name": "Elgyem",
+      "set": "Hail Blizzard",
+      "img": "https://den-cards.pokellector.com/18/Elgyem.BW3.30.png",
+      "rarity": "Common",
+      "cardNum": "30/52"
+    },
+    {
+      "name": "Beheeyem",
+      "set": "Hail Blizzard",
+      "img": "https://den-cards.pokellector.com/18/Beheeyem.BW3.31.png",
+      "rarity": "Uncommon",
+      "cardNum": "31/52"
+    },
+    {
+      "name": "Groudon EX",
+      "set": "Hail Blizzard",
+      "img": "https://den-cards.pokellector.com/18/Groudon-EX.BW3.32.png",
+      "rarity": "Rare",
+      "cardNum": "32/52"
+    },
+    {
+      "name": "Riolu",
+      "set": "Hail Blizzard",
+      "img": "https://den-cards.pokellector.com/18/Riolu.BW3.33.png",
+      "rarity": "Common",
+      "cardNum": "33/52"
+    },
+    {
+      "name": "Lucario",
+      "set": "Hail Blizzard",
+      "img": "https://den-cards.pokellector.com/18/Lucario.BW3.34.png",
+      "rarity": "Rare",
+      "cardNum": "34/52"
+    },
+    {
+      "name": "Hippopotas",
+      "set": "Hail Blizzard",
+      "img": "https://den-cards.pokellector.com/18/Hippopotas.BW3.35.png",
+      "rarity": "Common",
+      "cardNum": "35/52"
+    },
+    {
+      "name": "Hippowdon",
+      "set": "Hail Blizzard",
+      "img": "https://den-cards.pokellector.com/18/Hippowdon.BW3.36.png",
+      "rarity": "Uncommon",
+      "cardNum": "36/52"
+    },
+    {
+      "name": "Sneasel",
+      "set": "Hail Blizzard",
+      "img": "https://den-cards.pokellector.com/18/Sneasel.BW3.37.png",
+      "rarity": "Common",
+      "cardNum": "37/52"
+    },
+    {
+      "name": "Weavile",
+      "set": "Hail Blizzard",
+      "img": "https://den-cards.pokellector.com/18/Weavile.BW3.38.png",
+      "rarity": "Uncommon",
+      "cardNum": "38/52"
+    },
+    {
+      "name": "Bronzor",
+      "set": "Hail Blizzard",
+      "img": "https://den-cards.pokellector.com/18/Bronzor.BW3.39.png",
+      "rarity": "Common",
+      "cardNum": "39/52"
+    },
+    {
+      "name": "Bronzong",
+      "set": "Hail Blizzard",
+      "img": "https://den-cards.pokellector.com/18/Bronzong.BW3.40.png",
+      "rarity": "Uncommon",
+      "cardNum": "40/52"
+    },
+    {
+      "name": "Pawniard",
+      "set": "Hail Blizzard",
+      "img": "https://den-cards.pokellector.com/18/Pawniard.BW3.41.png",
+      "rarity": "Common",
+      "cardNum": "41/52"
+    },
+    {
+      "name": "Bisharp",
+      "set": "Hail Blizzard",
+      "img": "https://den-cards.pokellector.com/18/Bisharp.BW3.42.png",
+      "rarity": "Rare",
+      "cardNum": "42/52"
+    },
+    {
+      "name": "Jigglypuff",
+      "set": "Hail Blizzard",
+      "img": "https://den-cards.pokellector.com/18/Jigglypuff.BW3.43.png",
+      "rarity": "Common",
+      "cardNum": "43/52"
+    },
+    {
+      "name": "Wigglytuff",
+      "set": "Hail Blizzard",
+      "img": "https://den-cards.pokellector.com/18/Wigglytuff.BW3.44.png",
+      "rarity": "Common",
+      "cardNum": "44/52"
+    },
+    {
+      "name": "Regigigas EX",
+      "set": "Hail Blizzard",
+      "img": "https://den-cards.pokellector.com/18/Regigigas-EX.BW3.45.png",
+      "rarity": "Rare",
+      "cardNum": "45/52"
+    },
+    {
+      "name": "Pidove",
+      "set": "Hail Blizzard",
+      "img": "https://den-cards.pokellector.com/18/Pidove.BW3.46.png",
+      "rarity": "Common",
+      "cardNum": "46/52"
+    },
+    {
+      "name": "Tranquill",
+      "set": "Hail Blizzard",
+      "img": "https://den-cards.pokellector.com/18/Tranquill.BW3.47.png",
+      "rarity": "Common",
+      "cardNum": "47/52"
+    },
+    {
+      "name": "Unfezant",
+      "set": "Hail Blizzard",
+      "img": "https://den-cards.pokellector.com/18/Unfezant.BW3.48.png",
+      "rarity": "Uncommon",
+      "cardNum": "48/52"
+    },
+    {
+      "name": "Heavy Ball",
+      "set": "Hail Blizzard",
+      "img": "https://den-cards.pokellector.com/18/Heavy-Ball.BW3.49.png",
+      "rarity": "Uncommon",
+      "cardNum": "49/52"
+    },
+    {
+      "name": "Cilan",
+      "set": "Hail Blizzard",
+      "img": "https://den-cards.pokellector.com/18/Cilan.BW3.50.png",
+      "rarity": "Uncommon",
+      "cardNum": "50/52"
+    },
+    {
+      "name": "Pokemon Center",
+      "set": "Hail Blizzard",
+      "img": "https://den-cards.pokellector.com/18/Pokemon-Center.BW3.51.png",
+      "rarity": "Uncommon",
+      "cardNum": "51/52"
+    },
+    {
+      "name": "Double Colorless Energy",
+      "set": "Hail Blizzard",
+      "img": "https://den-cards.pokellector.com/18/Double-Colorless-Energy.BW3.52.png",
+      "rarity": "Uncommon",
+      "cardNum": "52/52"
+    },
+    {
+      "name": "Kyurem EX",
+      "set": "Hail Blizzard",
+      "img": "https://den-cards.pokellector.com/18/Kyurem-EX.BW3.53.png",
+      "rarity": "Secret Rare",
+      "cardNum": "53/52"
+    },
+    {
+      "name": "Groudon EX",
+      "set": "Hail Blizzard",
+      "img": "https://den-cards.pokellector.com/18/Groudon-EX.BW3.54.png",
+      "rarity": "Secret Rare",
+      "cardNum": "54/52"
+    },
+    {
+      "name": "Regigigas EX",
+      "set": "Hail Blizzard",
+      "img": "https://den-cards.pokellector.com/18/Regigigas-EX.BW3.55.png",
+      "rarity": "Secret Rare",
+      "cardNum": "55/52"
+    },
+    {
+      "name": "Emboar",
+      "set": "Hail Blizzard",
+      "img": "https://den-cards.pokellector.com/18/Emboar.BW3.56.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "56/52"
+    },
+    {
+      "name": "Chandelure",
+      "set": "Hail Blizzard",
+      "img": "https://den-cards.pokellector.com/18/Chandelure.BW3.57.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "57/52"
+    }
+  ]
+}

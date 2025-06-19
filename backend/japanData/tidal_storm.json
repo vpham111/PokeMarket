@@ -1,0 +1,565 @@
+{
+  "setName": "Tidal Storm",
+  "cards": [
+    {
+      "name": "Weedle",
+      "set": "Tidal Storm",
+      "img": "https://den-cards.pokellector.com/164/Weedle.XY5.1.png",
+      "rarity": "Common",
+      "cardNum": "1/70"
+    },
+    {
+      "name": "Kakuna",
+      "set": "Tidal Storm",
+      "img": "https://den-cards.pokellector.com/164/Kakuna.XY5.2.png",
+      "rarity": "Common",
+      "cardNum": "2/70"
+    },
+    {
+      "name": "Beedrill",
+      "set": "Tidal Storm",
+      "img": "https://den-cards.pokellector.com/164/Beedrill.XY5.3.png",
+      "rarity": "Common",
+      "cardNum": "3/70"
+    },
+    {
+      "name": "Lotad",
+      "set": "Tidal Storm",
+      "img": "https://den-cards.pokellector.com/164/Lotad.XY5.4.png",
+      "rarity": "Common",
+      "cardNum": "4/70"
+    },
+    {
+      "name": "Lombre",
+      "set": "Tidal Storm",
+      "img": "https://den-cards.pokellector.com/164/Lombre.XY5.5.png",
+      "rarity": "Common",
+      "cardNum": "5/70"
+    },
+    {
+      "name": "Ludicolo",
+      "set": "Tidal Storm",
+      "img": "https://den-cards.pokellector.com/164/Ludicolo.XY5.6.png",
+      "rarity": "Rare",
+      "cardNum": "6/70"
+    },
+    {
+      "name": "Surskit",
+      "set": "Tidal Storm",
+      "img": "https://den-cards.pokellector.com/164/Surskit.XY5.7.png",
+      "rarity": "Common",
+      "cardNum": "7/70"
+    },
+    {
+      "name": "Masquerain",
+      "set": "Tidal Storm",
+      "img": "https://den-cards.pokellector.com/164/Masquerain.XY5.8.png",
+      "rarity": "Common",
+      "cardNum": "8/70"
+    },
+    {
+      "name": "Horsea",
+      "set": "Tidal Storm",
+      "img": "https://den-cards.pokellector.com/164/Horsea.XY5.9.png",
+      "rarity": "Common",
+      "cardNum": "9/70"
+    },
+    {
+      "name": "Seadra",
+      "set": "Tidal Storm",
+      "img": "https://den-cards.pokellector.com/164/Seadra.XY5.10.png",
+      "rarity": "Common",
+      "cardNum": "10/70"
+    },
+    {
+      "name": "Staryu",
+      "set": "Tidal Storm",
+      "img": "https://den-cards.pokellector.com/164/Staryu.XY5.11.png",
+      "rarity": "Common",
+      "cardNum": "11/70"
+    },
+    {
+      "name": "Mudkip",
+      "set": "Tidal Storm",
+      "img": "https://den-cards.pokellector.com/164/Mudkip.XY5.12.png",
+      "rarity": "Common",
+      "cardNum": "12/70"
+    },
+    {
+      "name": "Marshtomp",
+      "set": "Tidal Storm",
+      "img": "https://den-cards.pokellector.com/164/Marshtomp.XY5.13.png",
+      "rarity": "Common",
+      "cardNum": "13/70"
+    },
+    {
+      "name": "Swampert",
+      "set": "Tidal Storm",
+      "img": "https://den-cards.pokellector.com/164/Swampert.XY5.14.png",
+      "rarity": "Uncommon",
+      "cardNum": "14/70"
+    },
+    {
+      "name": "Swampert",
+      "set": "Tidal Storm",
+      "img": "https://den-cards.pokellector.com/164/Swampert.XY5.15.png",
+      "rarity": "Rare",
+      "cardNum": "15/70"
+    },
+    {
+      "name": "Ludicolo",
+      "set": "Tidal Storm",
+      "img": "https://den-cards.pokellector.com/164/Ludicolo.XY5.16.png",
+      "rarity": "Uncommon",
+      "cardNum": "16/70"
+    },
+    {
+      "name": "Wailord EX",
+      "set": "Tidal Storm",
+      "img": "https://den-cards.pokellector.com/164/Wailord-EX.XY5.17.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "17/70"
+    },
+    {
+      "name": "Barboarch",
+      "set": "Tidal Storm",
+      "img": "https://den-cards.pokellector.com/164/Barboarch.XY5.18.png",
+      "rarity": "Common",
+      "cardNum": "18/70"
+    },
+    {
+      "name": "Whiscash",
+      "set": "Tidal Storm",
+      "img": "https://den-cards.pokellector.com/164/Whiscash.XY5.19.png",
+      "rarity": "Uncommon",
+      "cardNum": "19/70"
+    },
+    {
+      "name": "Whiscash",
+      "set": "Tidal Storm",
+      "img": "https://den-cards.pokellector.com/164/Whiscash.XY5.20.png",
+      "rarity": "Uncommon",
+      "cardNum": "20/70"
+    },
+    {
+      "name": "Corphish",
+      "set": "Tidal Storm",
+      "img": "https://den-cards.pokellector.com/164/Corphish.XY5.21.png",
+      "rarity": "Common",
+      "cardNum": "21/70"
+    },
+    {
+      "name": "Feebas",
+      "set": "Tidal Storm",
+      "img": "https://den-cards.pokellector.com/164/Feebas.XY5.22.png",
+      "rarity": "Common",
+      "cardNum": "22/70"
+    },
+    {
+      "name": "Milotic",
+      "set": "Tidal Storm",
+      "img": "https://den-cards.pokellector.com/164/Milotic.XY5.23.png",
+      "rarity": "Rare",
+      "cardNum": "23/70"
+    },
+    {
+      "name": "Spheal",
+      "set": "Tidal Storm",
+      "img": "https://den-cards.pokellector.com/164/Spheal.XY5.24.png",
+      "rarity": "Common",
+      "cardNum": "24/70"
+    },
+    {
+      "name": "Sealeo",
+      "set": "Tidal Storm",
+      "img": "https://den-cards.pokellector.com/164/Sealeo.XY5.25.png",
+      "rarity": "Common",
+      "cardNum": "25/70"
+    },
+    {
+      "name": "Walrein",
+      "set": "Tidal Storm",
+      "img": "https://den-cards.pokellector.com/164/Walrein.XY5.26.png",
+      "rarity": "Uncommon",
+      "cardNum": "26/70"
+    },
+    {
+      "name": "Clamperl",
+      "set": "Tidal Storm",
+      "img": "https://den-cards.pokellector.com/164/Clamperl.XY5.27.png",
+      "rarity": "Common",
+      "cardNum": "27/70"
+    },
+    {
+      "name": "Huntail",
+      "set": "Tidal Storm",
+      "img": "https://den-cards.pokellector.com/164/Huntail.XY5.28.png",
+      "rarity": "Rare",
+      "cardNum": "28/70"
+    },
+    {
+      "name": "Gorebyss",
+      "set": "Tidal Storm",
+      "img": "https://den-cards.pokellector.com/164/Gorebyss.XY5.29.png",
+      "rarity": "Uncommon",
+      "cardNum": "29/70"
+    },
+    {
+      "name": "Gorebyss",
+      "set": "Tidal Storm",
+      "img": "https://den-cards.pokellector.com/164/Gorebyss.XY5.30.png",
+      "rarity": "Uncommon",
+      "cardNum": "30/70"
+    },
+    {
+      "name": "Kyogre EX",
+      "set": "Tidal Storm",
+      "img": "https://den-cards.pokellector.com/164/Kyogre-EX.XY5.31.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "31/70"
+    },
+    {
+      "name": "Primal Kyogre EX",
+      "set": "Tidal Storm",
+      "img": "https://den-cards.pokellector.com/164/Primal-Kyogre-EX.XY5.32.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "32/70"
+    },
+    {
+      "name": "Manaphy",
+      "set": "Tidal Storm",
+      "img": "https://den-cards.pokellector.com/164/Manaphy.XY5.33.png",
+      "rarity": "Rare",
+      "cardNum": "33/70"
+    },
+    {
+      "name": "Chinchou",
+      "set": "Tidal Storm",
+      "img": "https://den-cards.pokellector.com/164/Chinchou.XY5.34.png",
+      "rarity": "Common",
+      "cardNum": "34/70"
+    },
+    {
+      "name": "Lanturn",
+      "set": "Tidal Storm",
+      "img": "https://den-cards.pokellector.com/164/Lanturn.XY5.35.png",
+      "rarity": "Uncommon",
+      "cardNum": "35/70"
+    },
+    {
+      "name": "Tynamo",
+      "set": "Tidal Storm",
+      "img": "https://den-cards.pokellector.com/164/Tynamo.XY5.36.png",
+      "rarity": "Common",
+      "cardNum": "36/70"
+    },
+    {
+      "name": "Eelektrik",
+      "set": "Tidal Storm",
+      "img": "https://den-cards.pokellector.com/164/Eelektrik.XY5.37.png",
+      "rarity": "Common",
+      "cardNum": "37/70"
+    },
+    {
+      "name": "Eelektrik",
+      "set": "Tidal Storm",
+      "img": "https://den-cards.pokellector.com/164/Eelektrik.XY5.38.png",
+      "rarity": "Common",
+      "cardNum": "38/70"
+    },
+    {
+      "name": "Eelektross",
+      "set": "Tidal Storm",
+      "img": "https://den-cards.pokellector.com/164/Eelektross.XY5.39.png",
+      "rarity": "Rare",
+      "cardNum": "39/70"
+    },
+    {
+      "name": "Tentacool",
+      "set": "Tidal Storm",
+      "img": "https://den-cards.pokellector.com/164/Tentacool.XY5.40.png",
+      "rarity": "Common",
+      "cardNum": "40/70"
+    },
+    {
+      "name": "Tentacool",
+      "set": "Tidal Storm",
+      "img": "https://den-cards.pokellector.com/164/Tentacool.XY5.41.png",
+      "rarity": "Common",
+      "cardNum": "41/70"
+    },
+    {
+      "name": "Tentacruel",
+      "set": "Tidal Storm",
+      "img": "https://den-cards.pokellector.com/164/Tentacruel.XY5.42.png",
+      "rarity": "Common",
+      "cardNum": "42/70"
+    },
+    {
+      "name": "Starmie",
+      "set": "Tidal Storm",
+      "img": "https://den-cards.pokellector.com/164/Starmie.XY5.43.png",
+      "rarity": "Uncommon",
+      "cardNum": "43/70"
+    },
+    {
+      "name": "Sharpedo EX",
+      "set": "Tidal Storm",
+      "img": "https://den-cards.pokellector.com/164/Sharpedo-EX.XY5.44.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "44/70"
+    },
+    {
+      "name": "Crawdaunt",
+      "set": "Tidal Storm",
+      "img": "https://den-cards.pokellector.com/164/Crawdaunt.XY5.45.png",
+      "rarity": "Rare",
+      "cardNum": "45/70"
+    },
+    {
+      "name": "Mr. Mime",
+      "set": "Tidal Storm",
+      "img": "https://den-cards.pokellector.com/164/Mr-Mime.XY5.46.png",
+      "rarity": "Common",
+      "cardNum": "46/70"
+    },
+    {
+      "name": "Marill",
+      "set": "Tidal Storm",
+      "img": "https://den-cards.pokellector.com/164/Marill.XY5.47.png",
+      "rarity": "Common",
+      "cardNum": "47/70"
+    },
+    {
+      "name": "Azumarill",
+      "set": "Tidal Storm",
+      "img": "https://den-cards.pokellector.com/164/Azumarill.XY5.48.png",
+      "rarity": "Uncommon",
+      "cardNum": "48/70"
+    },
+    {
+      "name": "Azumarill",
+      "set": "Tidal Storm",
+      "img": "https://den-cards.pokellector.com/164/Azumarill.XY5.49.png",
+      "rarity": "Rare",
+      "cardNum": "49/70"
+    },
+    {
+      "name": "Gardevoir EX",
+      "set": "Tidal Storm",
+      "img": "https://den-cards.pokellector.com/164/Gardevoir-EX.XY5.50.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "50/70"
+    },
+    {
+      "name": "M Gardevoir EX",
+      "set": "Tidal Storm",
+      "img": "https://den-cards.pokellector.com/164/M-Gardevoir-EX.XY5.51.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "51/70"
+    },
+    {
+      "name": "Kingdra",
+      "set": "Tidal Storm",
+      "img": "https://den-cards.pokellector.com/164/Kingdra.XY5.52.png",
+      "rarity": "Uncommon",
+      "cardNum": "52/70"
+    },
+    {
+      "name": "Kingdra",
+      "set": "Tidal Storm",
+      "img": "https://den-cards.pokellector.com/164/Kingdra.XY5.53.png",
+      "rarity": "Rare",
+      "cardNum": "53/70"
+    },
+    {
+      "name": "Skitty",
+      "set": "Tidal Storm",
+      "img": "https://den-cards.pokellector.com/164/Skitty.XY5.54.png",
+      "rarity": "Common",
+      "cardNum": "54/70"
+    },
+    {
+      "name": "Delcatty",
+      "set": "Tidal Storm",
+      "img": "https://den-cards.pokellector.com/164/Delcatty.XY5.55.png",
+      "rarity": "Uncommon",
+      "cardNum": "55/70"
+    },
+    {
+      "name": "Spinda",
+      "set": "Tidal Storm",
+      "img": "https://den-cards.pokellector.com/164/Spinda.XY5.56.png",
+      "rarity": "Common",
+      "cardNum": "56/70"
+    },
+    {
+      "name": "Bidoof",
+      "set": "Tidal Storm",
+      "img": "https://den-cards.pokellector.com/164/Bidoof.XY5.57.png",
+      "rarity": "Common",
+      "cardNum": "57/70"
+    },
+    {
+      "name": "Bidoof",
+      "set": "Tidal Storm",
+      "img": "https://den-cards.pokellector.com/164/Bidoof.XY5.58.png",
+      "rarity": "Common",
+      "cardNum": "58/70"
+    },
+    {
+      "name": "Bibarel",
+      "set": "Tidal Storm",
+      "img": "https://den-cards.pokellector.com/164/Bibarel.XY5.59.png",
+      "rarity": "Common",
+      "cardNum": "59/70"
+    },
+    {
+      "name": "Escape Rope",
+      "set": "Tidal Storm",
+      "img": "https://den-cards.pokellector.com/164/Escape-Rope.XY5.60.png",
+      "rarity": "Uncommon",
+      "cardNum": "60/70"
+    },
+    {
+      "name": "Fresh Water Set",
+      "set": "Tidal Storm",
+      "img": "https://den-cards.pokellector.com/164/Fresh-Water-Set.XY5.61.png",
+      "rarity": "Uncommon",
+      "cardNum": "61/70"
+    },
+    {
+      "name": "Dive Ball",
+      "set": "Tidal Storm",
+      "img": "https://den-cards.pokellector.com/164/Dive-Ball.XY5.62.png",
+      "rarity": "Uncommon",
+      "cardNum": "62/70"
+    },
+    {
+      "name": "Exp. Share",
+      "set": "Tidal Storm",
+      "img": "https://den-cards.pokellector.com/164/Exp-Share.XY5.63.png",
+      "rarity": "Uncommon",
+      "cardNum": "63/70"
+    },
+    {
+      "name": "Kyogre Spirit Link",
+      "set": "Tidal Storm",
+      "img": "https://den-cards.pokellector.com/164/Kyogre-Spirit-Link.XY5.64.png",
+      "rarity": "Uncommon",
+      "cardNum": "64/70"
+    },
+    {
+      "name": "Gardevoir Spirit Link",
+      "set": "Tidal Storm",
+      "img": "https://den-cards.pokellector.com/164/Gardevoir-Spirit-Link.XY5.65.png",
+      "rarity": "Uncommon",
+      "cardNum": "65/70"
+    },
+    {
+      "name": "Archie's Trump Card",
+      "set": "Tidal Storm",
+      "img": "https://den-cards.pokellector.com/164/Archies-Trump-Card.XY5.66.png",
+      "rarity": "Uncommon",
+      "cardNum": "66/70"
+    },
+    {
+      "name": "Professor Birch's Observations",
+      "set": "Tidal Storm",
+      "img": "https://den-cards.pokellector.com/164/Professor-Birchs-Observations.XY5.67.png",
+      "rarity": "Uncommon",
+      "cardNum": "67/70"
+    },
+    {
+      "name": "Roaring Ocean",
+      "set": "Tidal Storm",
+      "img": "https://den-cards.pokellector.com/164/Roaring-Ocean.XY5.68.png",
+      "rarity": "Uncommon",
+      "cardNum": "68/70"
+    },
+    {
+      "name": "Silent Lab",
+      "set": "Tidal Storm",
+      "img": "https://den-cards.pokellector.com/164/Silent-Lab.XY5.69.png",
+      "rarity": "Uncommon",
+      "cardNum": "69/70"
+    },
+    {
+      "name": "Wonder Energy",
+      "set": "Tidal Storm",
+      "img": "https://den-cards.pokellector.com/164/Wonder-Energy.XY5.70.png",
+      "rarity": "Uncommon",
+      "cardNum": "70/70"
+    },
+    {
+      "name": "Wailord EX",
+      "set": "Tidal Storm",
+      "img": "https://den-cards.pokellector.com/164/Wailord-EX.XY5.71.png",
+      "rarity": "Secret Rare",
+      "cardNum": "71/70"
+    },
+    {
+      "name": "Kyogre EX",
+      "set": "Tidal Storm",
+      "img": "https://den-cards.pokellector.com/164/Kyogre-EX.XY5.72.png",
+      "rarity": "Secret Rare",
+      "cardNum": "72/70"
+    },
+    {
+      "name": "Primal Kyogre EX",
+      "set": "Tidal Storm",
+      "img": "https://den-cards.pokellector.com/164/Primal-Kyogre-EX.XY5.73.png",
+      "rarity": "Secret Rare",
+      "cardNum": "73/70"
+    },
+    {
+      "name": "Sharpedo EX",
+      "set": "Tidal Storm",
+      "img": "https://den-cards.pokellector.com/164/Sharpedo-EX.XY5.74.png",
+      "rarity": "Secret Rare",
+      "cardNum": "74/70"
+    },
+    {
+      "name": "Gardevoir EX",
+      "set": "Tidal Storm",
+      "img": "https://den-cards.pokellector.com/164/Gardevoir-EX.XY5.75.png",
+      "rarity": "Secret Rare",
+      "cardNum": "75/70"
+    },
+    {
+      "name": "M Gardevoir EX",
+      "set": "Tidal Storm",
+      "img": "https://den-cards.pokellector.com/164/M-Gardevoir-EX.XY5.76.png",
+      "rarity": "Secret Rare",
+      "cardNum": "76/70"
+    },
+    {
+      "name": "Archie's Trump Card",
+      "set": "Tidal Storm",
+      "img": "https://den-cards.pokellector.com/164/Archies-Trump-Card.XY5.77.png",
+      "rarity": "Secret Rare",
+      "cardNum": "77/70"
+    },
+    {
+      "name": "Professor Birch's Observations",
+      "set": "Tidal Storm",
+      "img": "https://den-cards.pokellector.com/164/Professor-Birchs-Observations.XY5.78.png",
+      "rarity": "Secret Rare",
+      "cardNum": "78/70"
+    },
+    {
+      "name": "Enhanced Hammer",
+      "set": "Tidal Storm",
+      "img": "https://den-cards.pokellector.com/164/Enhanced-Hammer.XY5.79.png",
+      "rarity": "Common",
+      "cardNum": "79/70"
+    },
+    {
+      "name": "Dive Ball",
+      "set": "Tidal Storm",
+      "img": "https://den-cards.pokellector.com/164/Dive-Ball.XY5.80.png",
+      "rarity": "Common",
+      "cardNum": "80/70"
+    }
+  ]
+}

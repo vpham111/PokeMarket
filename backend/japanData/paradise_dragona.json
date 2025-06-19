@@ -1,0 +1,663 @@
+{
+  "setName": "Paradise Dragona",
+  "cards": [
+    {
+      "name": "Exeggcute",
+      "set": "Paradise Dragona",
+      "img": "https://den-cards.pokellector.com/403/Exeggcute.SV7A.1.53992.png",
+      "rarity": "Common",
+      "cardNum": "1/64"
+    },
+    {
+      "name": "Morelull",
+      "set": "Paradise Dragona",
+      "img": "https://den-cards.pokellector.com/403/Morelull.SV7A.2.53993.png",
+      "rarity": "Common",
+      "cardNum": "2/64"
+    },
+    {
+      "name": "Shiinotic",
+      "set": "Paradise Dragona",
+      "img": "https://den-cards.pokellector.com/403/Shiinotic.SV7A.3.53994.png",
+      "rarity": "Uncommon",
+      "cardNum": "3/64"
+    },
+    {
+      "name": "Dhelmise",
+      "set": "Paradise Dragona",
+      "img": "https://den-cards.pokellector.com/403/Dhelmise.SV7A.4.54383.png",
+      "rarity": "Common",
+      "cardNum": "4/64"
+    },
+    {
+      "name": "Zarude",
+      "set": "Paradise Dragona",
+      "img": "https://den-cards.pokellector.com/403/Zarude.SV7A.5.54384.png",
+      "rarity": "Rare",
+      "cardNum": "5/64"
+    },
+    {
+      "name": "Castform Sunny Form",
+      "set": "Paradise Dragona",
+      "img": "https://den-cards.pokellector.com/403/Castform-Sunny-Form.SV7A.6.54385.png",
+      "rarity": "Common",
+      "cardNum": "6/64"
+    },
+    {
+      "name": "Pansear",
+      "set": "Paradise Dragona",
+      "img": "https://den-cards.pokellector.com/403/Pansear.SV7A.7.54386.png",
+      "rarity": "Common",
+      "cardNum": "7/64"
+    },
+    {
+      "name": "Simisear",
+      "set": "Paradise Dragona",
+      "img": "https://den-cards.pokellector.com/403/Simisear.SV7A.8.54387.png",
+      "rarity": "Common",
+      "cardNum": "8/64"
+    },
+    {
+      "name": "Gouging Fire",
+      "set": "Paradise Dragona",
+      "img": "https://den-cards.pokellector.com/403/Gouging-Fire.SV7A.9.53995.png",
+      "rarity": "Rare",
+      "cardNum": "9/64"
+    },
+    {
+      "name": "Cryogonal",
+      "set": "Paradise Dragona",
+      "img": "https://den-cards.pokellector.com/403/Cryogonal.SV7A.10.54388.png",
+      "rarity": "Common",
+      "cardNum": "10/64"
+    },
+    {
+      "name": "Black Kyurem ex",
+      "set": "Paradise Dragona",
+      "img": "https://den-cards.pokellector.com/403/Black-Kyurem-ex.SV7A.11.53996.png",
+      "rarity": "Double Rare",
+      "cardNum": "11/64"
+    },
+    {
+      "name": "Bruxish",
+      "set": "Paradise Dragona",
+      "img": "https://den-cards.pokellector.com/403/Bruxish.SV7A.12.54389.png",
+      "rarity": "Uncommon",
+      "cardNum": "12/64"
+    },
+    {
+      "name": "Quaxly",
+      "set": "Paradise Dragona",
+      "img": "https://den-cards.pokellector.com/403/Quaxly.SV7A.13.53997.png",
+      "rarity": "Common",
+      "cardNum": "13/64"
+    },
+    {
+      "name": "Quaxwell",
+      "set": "Paradise Dragona",
+      "img": "https://den-cards.pokellector.com/403/Quaxwell.SV7A.14.53998.png",
+      "rarity": "Common",
+      "cardNum": "14/64"
+    },
+    {
+      "name": "Quaquaval",
+      "set": "Paradise Dragona",
+      "img": "https://den-cards.pokellector.com/403/Quaquaval.SV7A.15.53999.png",
+      "rarity": "Uncommon",
+      "cardNum": "15/64"
+    },
+    {
+      "name": "Cetoddle",
+      "set": "Paradise Dragona",
+      "img": "https://den-cards.pokellector.com/403/Cetoddle.SV7A.16.54390.png",
+      "rarity": "Common",
+      "cardNum": "16/64"
+    },
+    {
+      "name": "Cetitan",
+      "set": "Paradise Dragona",
+      "img": "https://den-cards.pokellector.com/403/Cetitan.SV7A.17.54391.png",
+      "rarity": "Common",
+      "cardNum": "17/64"
+    },
+    {
+      "name": "Smoochum",
+      "set": "Paradise Dragona",
+      "img": "https://den-cards.pokellector.com/403/Smoochum.SV7A.18.54000.png",
+      "rarity": "Common",
+      "cardNum": "18/64"
+    },
+    {
+      "name": "Latias ex",
+      "set": "Paradise Dragona",
+      "img": "https://den-cards.pokellector.com/403/Latias-ex.SV7A.19.54001.png",
+      "rarity": "Double Rare",
+      "cardNum": "19/64"
+    },
+    {
+      "name": "Latios",
+      "set": "Paradise Dragona",
+      "img": "https://den-cards.pokellector.com/403/Latios.SV7A.20.54002.png",
+      "rarity": "Uncommon",
+      "cardNum": "20/64"
+    },
+    {
+      "name": "Tapu Lele",
+      "set": "Paradise Dragona",
+      "img": "https://den-cards.pokellector.com/403/Tapu-Lele.SV7A.21.54392.png",
+      "rarity": "Rare",
+      "cardNum": "21/64"
+    },
+    {
+      "name": "Flittle",
+      "set": "Paradise Dragona",
+      "img": "https://den-cards.pokellector.com/403/Flittle.SV7A.22.54003.png",
+      "rarity": "Common",
+      "cardNum": "22/64"
+    },
+    {
+      "name": "Espathra",
+      "set": "Paradise Dragona",
+      "img": "https://den-cards.pokellector.com/403/Espathra.SV7A.23.54004.png",
+      "rarity": "Uncommon",
+      "cardNum": "23/64"
+    },
+    {
+      "name": "Gimmighoul",
+      "set": "Paradise Dragona",
+      "img": "https://den-cards.pokellector.com/403/Gimmighoul.SV7A.24.54005.png",
+      "rarity": "Common",
+      "cardNum": "24/64"
+    },
+    {
+      "name": "Trapinch",
+      "set": "Paradise Dragona",
+      "img": "https://den-cards.pokellector.com/403/Trapinch.SV7A.25.54006.png",
+      "rarity": "Common",
+      "cardNum": "25/64"
+    },
+    {
+      "name": "Vibrava",
+      "set": "Paradise Dragona",
+      "img": "https://den-cards.pokellector.com/403/Vibrava.SV7A.26.54007.png",
+      "rarity": "Common",
+      "cardNum": "26/64"
+    },
+    {
+      "name": "Flygon ex",
+      "set": "Paradise Dragona",
+      "img": "https://den-cards.pokellector.com/403/Flygon-ex.SV7A.27.54008.png",
+      "rarity": "Double Rare",
+      "cardNum": "27/64"
+    },
+    {
+      "name": "Drilbur",
+      "set": "Paradise Dragona",
+      "img": "https://den-cards.pokellector.com/403/Drilbur.SV7A.28.54393.png",
+      "rarity": "Common",
+      "cardNum": "28/64"
+    },
+    {
+      "name": "Excadrill",
+      "set": "Paradise Dragona",
+      "img": "https://den-cards.pokellector.com/403/Excadrill.SV7A.29.54394.png",
+      "rarity": "Common",
+      "cardNum": "29/64"
+    },
+    {
+      "name": "Landorus",
+      "set": "Paradise Dragona",
+      "img": "https://den-cards.pokellector.com/403/Landorus.SV7A.30.54395.png",
+      "rarity": "Rare",
+      "cardNum": "30/64"
+    },
+    {
+      "name": "Passimian",
+      "set": "Paradise Dragona",
+      "img": "https://den-cards.pokellector.com/403/Passimian.SV7A.31.54009.png",
+      "rarity": "Uncommon",
+      "cardNum": "31/64"
+    },
+    {
+      "name": "Clobbopus",
+      "set": "Paradise Dragona",
+      "img": "https://den-cards.pokellector.com/403/Clobbopus.SV7A.32.54396.png",
+      "rarity": "Common",
+      "cardNum": "32/64"
+    },
+    {
+      "name": "Grapploct",
+      "set": "Paradise Dragona",
+      "img": "https://den-cards.pokellector.com/403/Grapploct.SV7A.33.54397.png",
+      "rarity": "Common",
+      "cardNum": "33/64"
+    },
+    {
+      "name": "Skarmory",
+      "set": "Paradise Dragona",
+      "img": "https://den-cards.pokellector.com/403/Skarmory.SV7A.34.54398.png",
+      "rarity": "Common",
+      "cardNum": "34/64"
+    },
+    {
+      "name": "Klefki",
+      "set": "Paradise Dragona",
+      "img": "https://den-cards.pokellector.com/403/Klefki.SV7A.35.54010.png",
+      "rarity": "Common",
+      "cardNum": "35/64"
+    },
+    {
+      "name": "Duraludon",
+      "set": "Paradise Dragona",
+      "img": "https://den-cards.pokellector.com/403/Duraludon.SV7A.36.54011.png",
+      "rarity": "Common",
+      "cardNum": "36/64"
+    },
+    {
+      "name": "Archaludon ex",
+      "set": "Paradise Dragona",
+      "img": "https://den-cards.pokellector.com/403/Archaludon-ex.SV7A.37.54012.png",
+      "rarity": "Double Rare",
+      "cardNum": "37/64"
+    },
+    {
+      "name": "Gholdengo",
+      "set": "Paradise Dragona",
+      "img": "https://den-cards.pokellector.com/403/Gholdengo.SV7A.38.54013.png",
+      "rarity": "Uncommon",
+      "cardNum": "38/64"
+    },
+    {
+      "name": "Iron Crown",
+      "set": "Paradise Dragona",
+      "img": "https://den-cards.pokellector.com/403/Iron-Crown.SV7A.39.54399.png",
+      "rarity": "Rare",
+      "cardNum": "39/64"
+    },
+    {
+      "name": "Alolan Exeggutor ex",
+      "set": "Paradise Dragona",
+      "img": "https://den-cards.pokellector.com/403/Alolan-Exeggutor-ex.SV7A.40.54014.png",
+      "rarity": "Double Rare",
+      "cardNum": "40/64"
+    },
+    {
+      "name": "Altaria",
+      "set": "Paradise Dragona",
+      "img": "https://den-cards.pokellector.com/403/Altaria.SV7A.41.54015.png",
+      "rarity": "Uncommon",
+      "cardNum": "41/64"
+    },
+    {
+      "name": "Dialga",
+      "set": "Paradise Dragona",
+      "img": "https://den-cards.pokellector.com/403/Dialga.SV7A.42.54016.png",
+      "rarity": "Rare",
+      "cardNum": "42/64"
+    },
+    {
+      "name": "Palkia",
+      "set": "Paradise Dragona",
+      "img": "https://den-cards.pokellector.com/403/Palkia.SV7A.43.54400.png",
+      "rarity": "Rare",
+      "cardNum": "43/64"
+    },
+    {
+      "name": "Turtonator",
+      "set": "Paradise Dragona",
+      "img": "https://den-cards.pokellector.com/403/Turtonator.SV7A.44.54401.png",
+      "rarity": "Uncommon",
+      "cardNum": "44/64"
+    },
+    {
+      "name": "Applin",
+      "set": "Paradise Dragona",
+      "img": "https://den-cards.pokellector.com/403/Applin.SV7A.45.54042.png",
+      "rarity": "Common",
+      "cardNum": "45/64"
+    },
+    {
+      "name": "Flapple",
+      "set": "Paradise Dragona",
+      "img": "https://den-cards.pokellector.com/403/Flapple.SV7A.46.54043.png",
+      "rarity": "Uncommon",
+      "cardNum": "46/64"
+    },
+    {
+      "name": "Appletun",
+      "set": "Paradise Dragona",
+      "img": "https://den-cards.pokellector.com/403/Appletun.SV7A.47.54044.png",
+      "rarity": "Uncommon",
+      "cardNum": "47/64"
+    },
+    {
+      "name": "Swablu",
+      "set": "Paradise Dragona",
+      "img": "https://den-cards.pokellector.com/403/Swablu.SV7A.48.54017.png",
+      "rarity": "Common",
+      "cardNum": "48/64"
+    },
+    {
+      "name": "Rufflet",
+      "set": "Paradise Dragona",
+      "img": "https://den-cards.pokellector.com/403/Rufflet.SV7A.49.54018.png",
+      "rarity": "Common",
+      "cardNum": "49/64"
+    },
+    {
+      "name": "Braviary",
+      "set": "Paradise Dragona",
+      "img": "https://den-cards.pokellector.com/403/Braviary.SV7A.50.54019.png",
+      "rarity": "Uncommon",
+      "cardNum": "50/64"
+    },
+    {
+      "name": "Cyclizar ex",
+      "set": "Paradise Dragona",
+      "img": "https://den-cards.pokellector.com/403/Cyclizar-ex.SV7A.51.54402.png",
+      "rarity": "Double Rare",
+      "cardNum": "51/64"
+    },
+    {
+      "name": "Energy Search PRO",
+      "set": "Paradise Dragona",
+      "img": "https://den-cards.pokellector.com/403/Energy-Search-PRO.SV7A.52.54403.png",
+      "rarity": "Ace Spec",
+      "cardNum": "52/64"
+    },
+    {
+      "name": "Assistance Bell",
+      "set": "Paradise Dragona",
+      "img": "https://den-cards.pokellector.com/403/Assistance-Bell.SV7A.53.54020.png",
+      "rarity": "Uncommon",
+      "cardNum": "53/64"
+    },
+    {
+      "name": "Dusk Ball",
+      "set": "Paradise Dragona",
+      "img": "https://den-cards.pokellector.com/403/Dusk-Ball.SV7A.54.54021.png",
+      "rarity": "Uncommon",
+      "cardNum": "54/64"
+    },
+    {
+      "name": "Disruptive Letter",
+      "set": "Paradise Dragona",
+      "img": "https://den-cards.pokellector.com/403/Disruptive-Letter.SV7A.55.54034.png",
+      "rarity": "Uncommon",
+      "cardNum": "55/64"
+    },
+    {
+      "name": "Megaton Blower",
+      "set": "Paradise Dragona",
+      "img": "https://den-cards.pokellector.com/403/Megaton-Blower.SV7A.56.54022.png",
+      "rarity": "Ace Spec",
+      "cardNum": "56/64"
+    },
+    {
+      "name": "Dragon Potion",
+      "set": "Paradise Dragona",
+      "img": "https://den-cards.pokellector.com/403/Dragon-Potion.SV7A.57.54023.png",
+      "rarity": "Uncommon",
+      "cardNum": "57/64"
+    },
+    {
+      "name": "Passho Berry",
+      "set": "Paradise Dragona",
+      "img": "https://den-cards.pokellector.com/403/Passho-Berry.SV7A.58.54404.png",
+      "rarity": "Uncommon",
+      "cardNum": "58/64"
+    },
+    {
+      "name": "Counter Gain",
+      "set": "Paradise Dragona",
+      "img": "https://den-cards.pokellector.com/403/Counter-Gain.SV7A.59.54024.png",
+      "rarity": "Uncommon",
+      "cardNum": "59/64"
+    },
+    {
+      "name": "Drayton",
+      "set": "Paradise Dragona",
+      "img": "https://den-cards.pokellector.com/403/Drayton.SV7A.60.54025.png",
+      "rarity": "Uncommon",
+      "cardNum": "60/64"
+    },
+    {
+      "name": "Surfer",
+      "set": "Paradise Dragona",
+      "img": "https://den-cards.pokellector.com/403/Surfer.SV7A.61.54026.png",
+      "rarity": "Uncommon",
+      "cardNum": "61/64"
+    },
+    {
+      "name": "Drasna",
+      "set": "Paradise Dragona",
+      "img": "https://den-cards.pokellector.com/403/Drasna.SV7A.62.54405.png",
+      "rarity": "Common",
+      "cardNum": "62/64"
+    },
+    {
+      "name": "Lisia's Appeal",
+      "set": "Paradise Dragona",
+      "img": "https://den-cards.pokellector.com/403/Lisias-Appeal.SV7A.63.54027.png",
+      "rarity": "Uncommon",
+      "cardNum": "63/64"
+    },
+    {
+      "name": "Rich Energy",
+      "set": "Paradise Dragona",
+      "img": "https://den-cards.pokellector.com/403/Rich-Energy.SV7A.64.54028.png",
+      "rarity": "Ace Spec",
+      "cardNum": "64/64"
+    },
+    {
+      "name": "Exeggcute",
+      "set": "Paradise Dragona",
+      "img": "https://den-cards.pokellector.com/403/Exeggcute.SV7A.65.54029.png",
+      "rarity": "Art Rare",
+      "cardNum": "65/64"
+    },
+    {
+      "name": "Shiinotic",
+      "set": "Paradise Dragona",
+      "img": "https://den-cards.pokellector.com/403/Shiinotic.SV7A.66.54030.png",
+      "rarity": "Art Rare",
+      "cardNum": "66/64"
+    },
+    {
+      "name": "Castform Sunny Form",
+      "set": "Paradise Dragona",
+      "img": "https://den-cards.pokellector.com/403/Castform-Sunny-Form.SV7A.67.54406.png",
+      "rarity": "Art Rare",
+      "cardNum": "67/64"
+    },
+    {
+      "name": "Bruxish",
+      "set": "Paradise Dragona",
+      "img": "https://den-cards.pokellector.com/403/Bruxish.SV7A.68.54407.png",
+      "rarity": "Art Rare",
+      "cardNum": "68/64"
+    },
+    {
+      "name": "Cetitan",
+      "set": "Paradise Dragona",
+      "img": "https://den-cards.pokellector.com/403/Cetitan.SV7A.69.54408.png",
+      "rarity": "Art Rare",
+      "cardNum": "69/64"
+    },
+    {
+      "name": "Latios",
+      "set": "Paradise Dragona",
+      "img": "https://den-cards.pokellector.com/403/Latios.SV7A.70.54031.png",
+      "rarity": "Art Rare",
+      "cardNum": "70/64"
+    },
+    {
+      "name": "Vibrava",
+      "set": "Paradise Dragona",
+      "img": "https://den-cards.pokellector.com/403/Vibrava.SV7A.71.54409.png",
+      "rarity": "Art Rare",
+      "cardNum": "71/64"
+    },
+    {
+      "name": "Clobbopus",
+      "set": "Paradise Dragona",
+      "img": "https://den-cards.pokellector.com/403/Clobbopus.SV7A.72.54410.png",
+      "rarity": "Art Rare",
+      "cardNum": "72/64"
+    },
+    {
+      "name": "Skarmory",
+      "set": "Paradise Dragona",
+      "img": "https://den-cards.pokellector.com/403/Skarmory.SV7A.73.54411.png",
+      "rarity": "Art Rare",
+      "cardNum": "73/64"
+    },
+    {
+      "name": "Flapple",
+      "set": "Paradise Dragona",
+      "img": "https://den-cards.pokellector.com/403/Flapple.SV7A.74.54040.png",
+      "rarity": "Art Rare",
+      "cardNum": "74/64"
+    },
+    {
+      "name": "Appletun",
+      "set": "Paradise Dragona",
+      "img": "https://den-cards.pokellector.com/403/Appletun.SV7A.75.54041.png",
+      "rarity": "Art Rare",
+      "cardNum": "75/64"
+    },
+    {
+      "name": "Braviary",
+      "set": "Paradise Dragona",
+      "img": "https://den-cards.pokellector.com/403/Braviary.SV7A.76.54412.png",
+      "rarity": "Art Rare",
+      "cardNum": "76/64"
+    },
+    {
+      "name": "Black Kyurem ex",
+      "set": "Paradise Dragona",
+      "img": "https://den-cards.pokellector.com/403/Black-Kyurem-ex.SV7A.77.54413.png",
+      "rarity": "Super Rare",
+      "cardNum": "77/64"
+    },
+    {
+      "name": "Latias ex",
+      "set": "Paradise Dragona",
+      "img": "https://den-cards.pokellector.com/403/Latias-ex.SV7A.78.54414.png",
+      "rarity": "Super Rare",
+      "cardNum": "78/64"
+    },
+    {
+      "name": "Flygon ex",
+      "set": "Paradise Dragona",
+      "img": "https://den-cards.pokellector.com/403/Flygon-ex.SV7A.79.54415.png",
+      "rarity": "Super Rare",
+      "cardNum": "79/64"
+    },
+    {
+      "name": "Archaludon ex",
+      "set": "Paradise Dragona",
+      "img": "https://den-cards.pokellector.com/403/Archaludon-ex.SV7A.80.54416.png",
+      "rarity": "Super Rare",
+      "cardNum": "80/64"
+    },
+    {
+      "name": "Alolan Exeggutor ex",
+      "set": "Paradise Dragona",
+      "img": "https://den-cards.pokellector.com/403/Alolan-Exeggutor-ex.SV7A.81.54417.png",
+      "rarity": "Super Rare",
+      "cardNum": "81/64"
+    },
+    {
+      "name": "Cyclizar ex",
+      "set": "Paradise Dragona",
+      "img": "https://den-cards.pokellector.com/403/Cyclizar-ex.SV7A.82.54418.png",
+      "rarity": "Super Rare",
+      "cardNum": "82/64"
+    },
+    {
+      "name": "Drayton",
+      "set": "Paradise Dragona",
+      "img": "https://den-cards.pokellector.com/403/Drayton.SV7A.83.54419.png",
+      "rarity": "Super Rare",
+      "cardNum": "83/64"
+    },
+    {
+      "name": "Surfer",
+      "set": "Paradise Dragona",
+      "img": "https://den-cards.pokellector.com/403/Surfer.SV7A.84.54420.png",
+      "rarity": "Super Rare",
+      "cardNum": "84/64"
+    },
+    {
+      "name": "Drasna",
+      "set": "Paradise Dragona",
+      "img": "https://den-cards.pokellector.com/403/Drasna.SV7A.85.54421.png",
+      "rarity": "Super Rare",
+      "cardNum": "85/64"
+    },
+    {
+      "name": "Lisia's Appeal",
+      "set": "Paradise Dragona",
+      "img": "https://den-cards.pokellector.com/403/Lisias-Appeal.SV7A.86.54422.png",
+      "rarity": "Super Rare",
+      "cardNum": "86/64"
+    },
+    {
+      "name": "Latias ex",
+      "set": "Paradise Dragona",
+      "img": "https://den-cards.pokellector.com/403/Latias-ex.SV7A.87.54032.png",
+      "rarity": "Special Art Rare",
+      "cardNum": "87/64"
+    },
+    {
+      "name": "Archaludon ex",
+      "set": "Paradise Dragona",
+      "img": "https://den-cards.pokellector.com/403/Archaludon-ex.SV7A.88.54423.png",
+      "rarity": "Special Art Rare",
+      "cardNum": "88/64"
+    },
+    {
+      "name": "Alolan Exeggutor ex",
+      "set": "Paradise Dragona",
+      "img": "https://den-cards.pokellector.com/403/Alolan-Exeggutor-ex.SV7A.89.54033.png",
+      "rarity": "Special Art Rare",
+      "cardNum": "89/64"
+    },
+    {
+      "name": "Drayton",
+      "set": "Paradise Dragona",
+      "img": "https://den-cards.pokellector.com/403/Drayton.SV7A.90.54424.png",
+      "rarity": "Special Art Rare",
+      "cardNum": "90/64"
+    },
+    {
+      "name": "Lisia's Appeal",
+      "set": "Paradise Dragona",
+      "img": "https://den-cards.pokellector.com/403/Lisias-Appeal.SV7A.91.54425.png",
+      "rarity": "Special Art Rare",
+      "cardNum": "91/64"
+    },
+    {
+      "name": "Alolan Exeggutor ex",
+      "set": "Paradise Dragona",
+      "img": "https://den-cards.pokellector.com/403/Alolan-Exeggutor-ex.SV7A.92.54426.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "92/64"
+    },
+    {
+      "name": "Counter Gain",
+      "set": "Paradise Dragona",
+      "img": "https://den-cards.pokellector.com/403/Counter-Gain.SV7A.93.54427.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "93/64"
+    },
+    {
+      "name": "Jet Energy",
+      "set": "Paradise Dragona",
+      "img": "https://den-cards.pokellector.com/403/Jet-Energy.SV7A.94.54428.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "94/64"
+    }
+  ]
+}

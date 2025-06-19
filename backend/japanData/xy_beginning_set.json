@@ -1,0 +1,320 @@
+{
+  "setName": "XY Beginning Set",
+  "cards": [
+    {
+      "name": "Weedle",
+      "set": "XY Beginning Set",
+      "img": "https://den-cards.pokellector.com/146/Weedle.HXY.1.png",
+      "rarity": "Common",
+      "cardNum": "1/39"
+    },
+    {
+      "name": "Pansage",
+      "set": "XY Beginning Set",
+      "img": "https://den-cards.pokellector.com/146/Pansage.HXY.2.png",
+      "rarity": "Common",
+      "cardNum": "2/39"
+    },
+    {
+      "name": "Chespin",
+      "set": "XY Beginning Set",
+      "img": "https://den-cards.pokellector.com/146/Chespin.HXY.3.png",
+      "rarity": "Common",
+      "cardNum": "3/39"
+    },
+    {
+      "name": "Quilladin",
+      "set": "XY Beginning Set",
+      "img": "https://den-cards.pokellector.com/146/Quilladin.HXY.4.png",
+      "rarity": "Common",
+      "cardNum": "4/39"
+    },
+    {
+      "name": "Chesnaught",
+      "set": "XY Beginning Set",
+      "img": "https://den-cards.pokellector.com/146/Chesnaught.HXY.5.png",
+      "rarity": "Common",
+      "cardNum": "5/39"
+    },
+    {
+      "name": "Slugma",
+      "set": "XY Beginning Set",
+      "img": "https://den-cards.pokellector.com/146/Slugma.HXY.6.png",
+      "rarity": "Common",
+      "cardNum": "6/39"
+    },
+    {
+      "name": "Pansear",
+      "set": "XY Beginning Set",
+      "img": "https://den-cards.pokellector.com/146/Pansear.HXY.7.png",
+      "rarity": "Common",
+      "cardNum": "7/39"
+    },
+    {
+      "name": "Fennekin",
+      "set": "XY Beginning Set",
+      "img": "https://den-cards.pokellector.com/146/Fennekin.HXY.8.png",
+      "rarity": "Common",
+      "cardNum": "8/39"
+    },
+    {
+      "name": "Braixen",
+      "set": "XY Beginning Set",
+      "img": "https://den-cards.pokellector.com/146/Braixen.HXY.9.png",
+      "rarity": "Common",
+      "cardNum": "9/39"
+    },
+    {
+      "name": "Delphox",
+      "set": "XY Beginning Set",
+      "img": "https://den-cards.pokellector.com/146/Delphox.HXY.10.png",
+      "rarity": "Common",
+      "cardNum": "10/39"
+    },
+    {
+      "name": "Panpour",
+      "set": "XY Beginning Set",
+      "img": "https://den-cards.pokellector.com/146/Panpour.HXY.11.png",
+      "rarity": "Common",
+      "cardNum": "11/39"
+    },
+    {
+      "name": "Froakie",
+      "set": "XY Beginning Set",
+      "img": "https://den-cards.pokellector.com/146/Froakie.HXY.12.png",
+      "rarity": "Common",
+      "cardNum": "12/39"
+    },
+    {
+      "name": "Frogadier",
+      "set": "XY Beginning Set",
+      "img": "https://den-cards.pokellector.com/146/Frogadier.HXY.13.png",
+      "rarity": "Common",
+      "cardNum": "13/39"
+    },
+    {
+      "name": "Greninja",
+      "set": "XY Beginning Set",
+      "img": "https://den-cards.pokellector.com/146/Greninja.HXY.14.png",
+      "rarity": "Common",
+      "cardNum": "14/39"
+    },
+    {
+      "name": "Clauncher",
+      "set": "XY Beginning Set",
+      "img": "https://den-cards.pokellector.com/146/Clauncher.HXY.15.png",
+      "rarity": "Common",
+      "cardNum": "15/39"
+    },
+    {
+      "name": "Poochyena",
+      "set": "XY Beginning Set",
+      "img": "https://den-cards.pokellector.com/146/Poochyena.HXY.16.png",
+      "rarity": "Common",
+      "cardNum": "16/39"
+    },
+    {
+      "name": "Mightyena",
+      "set": "XY Beginning Set",
+      "img": "https://den-cards.pokellector.com/146/Mightyena.HXY.17.png",
+      "rarity": "Common",
+      "cardNum": "17/39"
+    },
+    {
+      "name": "Inkay",
+      "set": "XY Beginning Set",
+      "img": "https://den-cards.pokellector.com/146/Inkay.HXY.18.png",
+      "rarity": "Common",
+      "cardNum": "18/39"
+    },
+    {
+      "name": "Pawniard",
+      "set": "XY Beginning Set",
+      "img": "https://den-cards.pokellector.com/146/Pawniard.HXY.19.png",
+      "rarity": "Common",
+      "cardNum": "19/39"
+    },
+    {
+      "name": "Bisharp",
+      "set": "XY Beginning Set",
+      "img": "https://den-cards.pokellector.com/146/Bisharp.HXY.20.png",
+      "rarity": "Common",
+      "cardNum": "20/39"
+    },
+    {
+      "name": "Honedge",
+      "set": "XY Beginning Set",
+      "img": "https://den-cards.pokellector.com/146/Honedge.HXY.21.png",
+      "rarity": "Common",
+      "cardNum": "21/39"
+    },
+    {
+      "name": "Snubbull",
+      "set": "XY Beginning Set",
+      "img": "https://den-cards.pokellector.com/146/Snubbull.HXY.22.png",
+      "rarity": "Common",
+      "cardNum": "22/39"
+    },
+    {
+      "name": "Granbull",
+      "set": "XY Beginning Set",
+      "img": "https://den-cards.pokellector.com/146/Granbull.HXY.23.png",
+      "rarity": "Common",
+      "cardNum": "23/39"
+    },
+    {
+      "name": "Swirlix",
+      "set": "XY Beginning Set",
+      "img": "https://den-cards.pokellector.com/146/Swirlix.HXY.24.png",
+      "rarity": "Common",
+      "cardNum": "24/39"
+    },
+    {
+      "name": "Farfetch'd",
+      "set": "XY Beginning Set",
+      "img": "https://den-cards.pokellector.com/146/Farfetchd.HXY.25.png",
+      "rarity": "Common",
+      "cardNum": "25/39"
+    },
+    {
+      "name": "Snorlax",
+      "set": "XY Beginning Set",
+      "img": "https://den-cards.pokellector.com/146/Snorlax.HXY.26.png",
+      "rarity": "Common",
+      "cardNum": "26/39"
+    },
+    {
+      "name": "Miltank",
+      "set": "XY Beginning Set",
+      "img": "https://den-cards.pokellector.com/146/Miltank.HXY.27.png",
+      "rarity": "Common",
+      "cardNum": "27/39"
+    },
+    {
+      "name": "Skitty",
+      "set": "XY Beginning Set",
+      "img": "https://den-cards.pokellector.com/146/Skitty.HXY.28.png",
+      "rarity": "Common",
+      "cardNum": "28/39"
+    },
+    {
+      "name": "Bidoof",
+      "set": "XY Beginning Set",
+      "img": "https://den-cards.pokellector.com/146/Bidoof.HXY.29.png",
+      "rarity": "Common",
+      "cardNum": "29/39"
+    },
+    {
+      "name": "Bunnelby",
+      "set": "XY Beginning Set",
+      "img": "https://den-cards.pokellector.com/146/Bunnelby.HXY.30.png",
+      "rarity": "Common",
+      "cardNum": "30/39"
+    },
+    {
+      "name": "Fletchling",
+      "set": "XY Beginning Set",
+      "img": "https://den-cards.pokellector.com/146/Fletchling.HXY.31.png",
+      "rarity": "Common",
+      "cardNum": "31/39"
+    },
+    {
+      "name": "Furfrou",
+      "set": "XY Beginning Set",
+      "img": "https://den-cards.pokellector.com/146/Furfrou.HXY.32.png",
+      "rarity": "Common",
+      "cardNum": "32/39"
+    },
+    {
+      "name": "Furfrou",
+      "set": "XY Beginning Set",
+      "img": "https://den-cards.pokellector.com/146/Furfrou.HXY.33.png",
+      "rarity": "Common",
+      "cardNum": "33/39"
+    },
+    {
+      "name": "Potion",
+      "set": "XY Beginning Set",
+      "img": "https://den-cards.pokellector.com/146/Potion.HXY.34.png",
+      "rarity": "Common",
+      "cardNum": "34/39"
+    },
+    {
+      "name": "Crushing Hammer",
+      "set": "XY Beginning Set",
+      "img": "https://den-cards.pokellector.com/146/Crushing-Hammer.HXY.35.png",
+      "rarity": "Common",
+      "cardNum": "35/39"
+    },
+    {
+      "name": "Switch",
+      "set": "XY Beginning Set",
+      "img": "https://den-cards.pokellector.com/146/Switch.HXY.36.png",
+      "rarity": "Common",
+      "cardNum": "36/39"
+    },
+    {
+      "name": "Pokemon Catcher",
+      "set": "XY Beginning Set",
+      "img": "https://den-cards.pokellector.com/146/Pokemon-Catcher.HXY.37.png",
+      "rarity": "Common",
+      "cardNum": "37/39"
+    },
+    {
+      "name": "Poke Ball",
+      "set": "XY Beginning Set",
+      "img": "https://den-cards.pokellector.com/146/Poke-Ball.HXY.38.png",
+      "rarity": "Common",
+      "cardNum": "38/39"
+    },
+    {
+      "name": "Tierno",
+      "set": "XY Beginning Set",
+      "img": "https://den-cards.pokellector.com/146/Tierno.HXY.39.png",
+      "rarity": "Common",
+      "cardNum": "39/39"
+    },
+    {
+      "name": "Grass Energy",
+      "set": "XY Beginning Set",
+      "img": "https://den-cards.pokellector.com/146/Grass-Energy.HXY.40.png",
+      "rarity": "Common",
+      "cardNum": "40/39"
+    },
+    {
+      "name": "Fire Energy",
+      "set": "XY Beginning Set",
+      "img": "https://den-cards.pokellector.com/146/Fire-Energy.HXY.41.png",
+      "rarity": "Common",
+      "cardNum": "41/39"
+    },
+    {
+      "name": "Water Energy",
+      "set": "XY Beginning Set",
+      "img": "https://den-cards.pokellector.com/146/Water-Energy.HXY.42.png",
+      "rarity": "Common",
+      "cardNum": "42/39"
+    },
+    {
+      "name": "Darkness Energy",
+      "set": "XY Beginning Set",
+      "img": "https://den-cards.pokellector.com/146/Darkness-Energy.HXY.43.png",
+      "rarity": "Common",
+      "cardNum": "43/39"
+    },
+    {
+      "name": "Metal Energy",
+      "set": "XY Beginning Set",
+      "img": "https://den-cards.pokellector.com/146/Metal-Energy.HXY.44.png",
+      "rarity": "Common",
+      "cardNum": "44/39"
+    },
+    {
+      "name": "Fairy Energy",
+      "set": "XY Beginning Set",
+      "img": "https://den-cards.pokellector.com/146/Fairy-Energy.HXY.45.png",
+      "rarity": "Common",
+      "cardNum": "45/39"
+    }
+  ]
+}

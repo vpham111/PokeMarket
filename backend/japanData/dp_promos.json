@@ -1,0 +1,19 @@
+{
+  "setName": "DP Promos",
+  "cards": [
+    {
+      "name": "Lopunny",
+      "set": "DP Promos",
+      "img": "https://den-cards.pokellector.com/274/Lopunny.DP-P.116.27486.png",
+      "rarity": "Common",
+      "cardNum": "116/127"
+    },
+    {
+      "name": "Charmander",
+      "set": "DP Promos",
+      "img": "https://den-cards.pokellector.com/274/Charmander.DPP.124.27494.png",
+      "rarity": "Common",
+      "cardNum": "124/127"
+    }
+  ]
+}

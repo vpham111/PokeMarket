@@ -1,0 +1,390 @@
+{
+  "setName": "Dragon Blast",
+  "cards": [
+    {
+      "name": "Yanma",
+      "set": "Dragon Blast",
+      "img": "https://den-cards.pokellector.com/22/Yanma.BW5.1.png",
+      "rarity": "Common",
+      "cardNum": "1/50"
+    },
+    {
+      "name": "Yanmega",
+      "set": "Dragon Blast",
+      "img": "https://den-cards.pokellector.com/22/Yanmega.BW5.2.png",
+      "rarity": "Uncommon",
+      "cardNum": "2/50"
+    },
+    {
+      "name": "Wurmple",
+      "set": "Dragon Blast",
+      "img": "https://den-cards.pokellector.com/22/Wurmple.BW5.3.png",
+      "rarity": "Common",
+      "cardNum": "3/50"
+    },
+    {
+      "name": "Silcoon",
+      "set": "Dragon Blast",
+      "img": "https://den-cards.pokellector.com/22/Silcoon.BW5.4.png",
+      "rarity": "Common",
+      "cardNum": "4/50"
+    },
+    {
+      "name": "Beautifly",
+      "set": "Dragon Blast",
+      "img": "https://den-cards.pokellector.com/22/Beautifly.BW5.5.png",
+      "rarity": "Uncommon",
+      "cardNum": "5/50"
+    },
+    {
+      "name": "Cascoon",
+      "set": "Dragon Blast",
+      "img": "https://den-cards.pokellector.com/22/Cascoon.BW5.6.png",
+      "rarity": "Common",
+      "cardNum": "6/50"
+    },
+    {
+      "name": "Roselia",
+      "set": "Dragon Blast",
+      "img": "https://den-cards.pokellector.com/22/Roselia.BW5.7.png",
+      "rarity": "Common",
+      "cardNum": "7/50"
+    },
+    {
+      "name": "Roserade",
+      "set": "Dragon Blast",
+      "img": "https://den-cards.pokellector.com/22/Roserade.BW5.8.png",
+      "rarity": "Uncommon",
+      "cardNum": "8/50"
+    },
+    {
+      "name": "Vulpix",
+      "set": "Dragon Blast",
+      "img": "https://den-cards.pokellector.com/22/Vulpix.BW5.9.png",
+      "rarity": "Common",
+      "cardNum": "9/50"
+    },
+    {
+      "name": "Ninetales",
+      "set": "Dragon Blast",
+      "img": "https://den-cards.pokellector.com/22/Ninetales.BW5.10.png",
+      "rarity": "Rare",
+      "cardNum": "10/50"
+    },
+    {
+      "name": "Wailmer",
+      "set": "Dragon Blast",
+      "img": "https://den-cards.pokellector.com/22/Wailmer.BW5.11.png",
+      "rarity": "Common",
+      "cardNum": "11/50"
+    },
+    {
+      "name": "Wailord",
+      "set": "Dragon Blast",
+      "img": "https://den-cards.pokellector.com/22/Wailord.BW5.12.png",
+      "rarity": "Rare",
+      "cardNum": "12/50"
+    },
+    {
+      "name": "Buizel",
+      "set": "Dragon Blast",
+      "img": "https://den-cards.pokellector.com/22/Buizel.BW5.13.png",
+      "rarity": "Common",
+      "cardNum": "13/50"
+    },
+    {
+      "name": "Floatzel",
+      "set": "Dragon Blast",
+      "img": "https://den-cards.pokellector.com/22/Floatzel.BW5.14.png",
+      "rarity": "Uncommon",
+      "cardNum": "14/50"
+    },
+    {
+      "name": "Tympole",
+      "set": "Dragon Blast",
+      "img": "https://den-cards.pokellector.com/22/Tympole.BW5.15.png",
+      "rarity": "Common",
+      "cardNum": "15/50"
+    },
+    {
+      "name": "Palpitoad",
+      "set": "Dragon Blast",
+      "img": "https://den-cards.pokellector.com/22/Palpitoad.BW5.16.png",
+      "rarity": "Uncommon",
+      "cardNum": "16/50"
+    },
+    {
+      "name": "Seismitoad",
+      "set": "Dragon Blast",
+      "img": "https://den-cards.pokellector.com/22/Seismitoad.BW5.17.png",
+      "rarity": "Uncommon",
+      "cardNum": "17/50"
+    },
+    {
+      "name": "Alomomola",
+      "set": "Dragon Blast",
+      "img": "https://den-cards.pokellector.com/22/Alomomola.BW5.18.png",
+      "rarity": "Common",
+      "cardNum": "18/50"
+    },
+    {
+      "name": "Mareep",
+      "set": "Dragon Blast",
+      "img": "https://den-cards.pokellector.com/22/Mareep.BW5.19.png",
+      "rarity": "Common",
+      "cardNum": "19/50"
+    },
+    {
+      "name": "Flaaffy",
+      "set": "Dragon Blast",
+      "img": "https://den-cards.pokellector.com/22/Flaaffy.BW5.20.png",
+      "rarity": "Common",
+      "cardNum": "20/50"
+    },
+    {
+      "name": "Ampharos",
+      "set": "Dragon Blast",
+      "img": "https://den-cards.pokellector.com/22/Ampharos.BW5.21.png",
+      "rarity": "Rare",
+      "cardNum": "21/50"
+    },
+    {
+      "name": "Mew EX",
+      "set": "Dragon Blast",
+      "img": "https://den-cards.pokellector.com/22/Mew-EX.BW5.22.png",
+      "rarity": "Rare",
+      "cardNum": "22/50"
+    },
+    {
+      "name": "Dustox",
+      "set": "Dragon Blast",
+      "img": "https://den-cards.pokellector.com/22/Dustox.BW5.23.png",
+      "rarity": "Uncommon",
+      "cardNum": "23/50"
+    },
+    {
+      "name": "Drifloon",
+      "set": "Dragon Blast",
+      "img": "https://den-cards.pokellector.com/22/Drifloon.BW5.24.png",
+      "rarity": "Common",
+      "cardNum": "24/50"
+    },
+    {
+      "name": "Drifblim",
+      "set": "Dragon Blast",
+      "img": "https://den-cards.pokellector.com/22/Drifblim.BW5.25.png",
+      "rarity": "Uncommon",
+      "cardNum": "25/50"
+    },
+    {
+      "name": "Sigilyph",
+      "set": "Dragon Blast",
+      "img": "https://den-cards.pokellector.com/22/Sigilyph.BW5.26.png",
+      "rarity": "Rare",
+      "cardNum": "26/50"
+    },
+    {
+      "name": "Trubbish",
+      "set": "Dragon Blast",
+      "img": "https://den-cards.pokellector.com/22/Trubbish.BW5.27.png",
+      "rarity": "Common",
+      "cardNum": "27/50"
+    },
+    {
+      "name": "Garbodor",
+      "set": "Dragon Blast",
+      "img": "https://den-cards.pokellector.com/22/Garbodor.BW5.28.png",
+      "rarity": "Rare",
+      "cardNum": "28/50"
+    },
+    {
+      "name": "Baltoy",
+      "set": "Dragon Blast",
+      "img": "https://den-cards.pokellector.com/22/Baltoy.BW5.29.png",
+      "rarity": "Common",
+      "cardNum": "29/50"
+    },
+    {
+      "name": "Claydol",
+      "set": "Dragon Blast",
+      "img": "https://den-cards.pokellector.com/22/Claydol.BW5.30.png",
+      "rarity": "Uncommon",
+      "cardNum": "30/50"
+    },
+    {
+      "name": "Stunfisk",
+      "set": "Dragon Blast",
+      "img": "https://den-cards.pokellector.com/22/Stunfisk.BW5.31.png",
+      "rarity": "Common",
+      "cardNum": "31/50"
+    },
+    {
+      "name": "Terrakion EX",
+      "set": "Dragon Blast",
+      "img": "https://den-cards.pokellector.com/22/Terrakion-EX.BW5.32.png",
+      "rarity": "Rare",
+      "cardNum": "32/50"
+    },
+    {
+      "name": "Murkrow",
+      "set": "Dragon Blast",
+      "img": "https://den-cards.pokellector.com/22/Murkrow.BW5.33.png",
+      "rarity": "Common",
+      "cardNum": "33/50"
+    },
+    {
+      "name": "Honchkrow",
+      "set": "Dragon Blast",
+      "img": "https://den-cards.pokellector.com/22/Honchkrow.BW5.34.png",
+      "rarity": "Uncommon",
+      "cardNum": "34/50"
+    },
+    {
+      "name": "Aron",
+      "set": "Dragon Blast",
+      "img": "https://den-cards.pokellector.com/22/Aron.BW5.35.png",
+      "rarity": "Common",
+      "cardNum": "35/50"
+    },
+    {
+      "name": "Lairon",
+      "set": "Dragon Blast",
+      "img": "https://den-cards.pokellector.com/22/Lairon.BW5.36.png",
+      "rarity": "Common",
+      "cardNum": "36/50"
+    },
+    {
+      "name": "Aggron",
+      "set": "Dragon Blast",
+      "img": "https://den-cards.pokellector.com/22/Aggron.BW5.37.png",
+      "rarity": "Rare",
+      "cardNum": "37/50"
+    },
+    {
+      "name": "Durant",
+      "set": "Dragon Blast",
+      "img": "https://den-cards.pokellector.com/22/Durant.BW5.38.png",
+      "rarity": "Common",
+      "cardNum": "38/50"
+    },
+    {
+      "name": "Giratina EX",
+      "set": "Dragon Blast",
+      "img": "https://den-cards.pokellector.com/22/Giratina-EX.BW5.39.png",
+      "rarity": "Rare",
+      "cardNum": "39/50"
+    },
+    {
+      "name": "Deino",
+      "set": "Dragon Blast",
+      "img": "https://den-cards.pokellector.com/22/Deino.BW5.40.png",
+      "rarity": "Common",
+      "cardNum": "40/50"
+    },
+    {
+      "name": "Zweilous",
+      "set": "Dragon Blast",
+      "img": "https://den-cards.pokellector.com/22/Zweilous.BW5.41.png",
+      "rarity": "Uncommon",
+      "cardNum": "41/50"
+    },
+    {
+      "name": "Hydreigon",
+      "set": "Dragon Blast",
+      "img": "https://den-cards.pokellector.com/22/Hydreigon.BW5.42.png",
+      "rarity": "Rare",
+      "cardNum": "42/50"
+    },
+    {
+      "name": "Aipom",
+      "set": "Dragon Blast",
+      "img": "https://den-cards.pokellector.com/22/Aipom.BW5.43.png",
+      "rarity": "Common",
+      "cardNum": "43/50"
+    },
+    {
+      "name": "Ambipom",
+      "set": "Dragon Blast",
+      "img": "https://den-cards.pokellector.com/22/Ambipom.BW5.44.png",
+      "rarity": "Uncommon",
+      "cardNum": "44/50"
+    },
+    {
+      "name": "Bidoof",
+      "set": "Dragon Blast",
+      "img": "https://den-cards.pokellector.com/22/Bidoof.BW5.45.png",
+      "rarity": "Common",
+      "cardNum": "45/50"
+    },
+    {
+      "name": "Bibarel",
+      "set": "Dragon Blast",
+      "img": "https://den-cards.pokellector.com/22/Bibarel.BW5.46.png",
+      "rarity": "Uncommon",
+      "cardNum": "46/50"
+    },
+    {
+      "name": "Audino",
+      "set": "Dragon Blast",
+      "img": "https://den-cards.pokellector.com/22/Audino.BW5.47.png",
+      "rarity": "Common",
+      "cardNum": "47/50"
+    },
+    {
+      "name": "Devolution Spray",
+      "set": "Dragon Blast",
+      "img": "https://den-cards.pokellector.com/22/Devolution-Spray.BW5.48.png",
+      "rarity": "Uncommon",
+      "cardNum": "48/50"
+    },
+    {
+      "name": "Rescue Scarf",
+      "set": "Dragon Blast",
+      "img": "https://den-cards.pokellector.com/22/Rescue-Scarf.BW5.49.png",
+      "rarity": "Uncommon",
+      "cardNum": "49/50"
+    },
+    {
+      "name": "Blend Energy GFPD",
+      "set": "Dragon Blast",
+      "img": "https://den-cards.pokellector.com/22/Blend-Energy-GFPD.BW5.50.1349.png",
+      "rarity": "Uncommon",
+      "cardNum": "50/50"
+    },
+    {
+      "name": "Mew EX",
+      "set": "Dragon Blast",
+      "img": "https://den-cards.pokellector.com/22/Mew-EX.BW5.51.png",
+      "rarity": "Secret Rare",
+      "cardNum": "51/50"
+    },
+    {
+      "name": "Terrakion EX",
+      "set": "Dragon Blast",
+      "img": "https://den-cards.pokellector.com/22/Terrakion-EX.BW5.52.png",
+      "rarity": "Secret Rare",
+      "cardNum": "52/50"
+    },
+    {
+      "name": "Giratina EX",
+      "set": "Dragon Blast",
+      "img": "https://den-cards.pokellector.com/22/Giratina-EX.BW5.53.png",
+      "rarity": "Secret Rare",
+      "cardNum": "53/50"
+    },
+    {
+      "name": "Reuniclus",
+      "set": "Dragon Blast",
+      "img": "https://den-cards.pokellector.com/22/Reuniclus.BW5.54.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "54/50"
+    },
+    {
+      "name": "Rayquaza",
+      "set": "Dragon Blast",
+      "img": "https://den-cards.pokellector.com/22/Rayquaza.BW5.55.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "55/50"
+    }
+  ]
+}

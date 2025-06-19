@@ -1,0 +1,1531 @@
+{
+  "setName": "Temporal Forces",
+  "cards": [
+    {
+      "name": "Scyther",
+      "set": "Temporal Forces",
+      "img": "https://den-cards.pokellector.com/383/Scyther.TEM.1.52349.png",
+      "rarity": "Common",
+      "cardNum": "1/162"
+    },
+    {
+      "name": "Pineco",
+      "set": "Temporal Forces",
+      "img": "https://den-cards.pokellector.com/383/Pineco.TEM.2.52414.png",
+      "rarity": "Common",
+      "cardNum": "2/162"
+    },
+    {
+      "name": "Seedot",
+      "set": "Temporal Forces",
+      "img": "https://den-cards.pokellector.com/383/Seedot.TEM.3.52415.png",
+      "rarity": "Common",
+      "cardNum": "3/162"
+    },
+    {
+      "name": "Nuzleaf",
+      "set": "Temporal Forces",
+      "img": "https://den-cards.pokellector.com/383/Nuzleaf.TEM.4.52416.png",
+      "rarity": "Common",
+      "cardNum": "4/162"
+    },
+    {
+      "name": "Shiftry",
+      "set": "Temporal Forces",
+      "img": "https://den-cards.pokellector.com/383/Shiftry.TEM.5.52417.png",
+      "rarity": "Uncommon",
+      "cardNum": "5/162"
+    },
+    {
+      "name": "Shroomish",
+      "set": "Temporal Forces",
+      "img": "https://den-cards.pokellector.com/383/Shroomish.TEM.6.52418.png",
+      "rarity": "Common",
+      "cardNum": "6/162"
+    },
+    {
+      "name": "Breloom",
+      "set": "Temporal Forces",
+      "img": "https://den-cards.pokellector.com/383/Breloom.TEM.7.52419.png",
+      "rarity": "Common",
+      "cardNum": "7/162"
+    },
+    {
+      "name": "Roselia",
+      "set": "Temporal Forces",
+      "img": "https://den-cards.pokellector.com/383/Roselia.TEM.8.52420.png",
+      "rarity": "Common",
+      "cardNum": "8/162"
+    },
+    {
+      "name": "Roserade",
+      "set": "Temporal Forces",
+      "img": "https://den-cards.pokellector.com/383/Roserade.TEM.9.52421.png",
+      "rarity": "Uncommon",
+      "cardNum": "9/162"
+    },
+    {
+      "name": "Turtwig",
+      "set": "Temporal Forces",
+      "img": "https://den-cards.pokellector.com/383/Turtwig.TEM.10.52422.png",
+      "rarity": "Common",
+      "cardNum": "10/162"
+    },
+    {
+      "name": "Grotle",
+      "set": "Temporal Forces",
+      "img": "https://den-cards.pokellector.com/383/Grotle.TEM.11.52423.png",
+      "rarity": "Common",
+      "cardNum": "11/162"
+    },
+    {
+      "name": "Torterra ex",
+      "set": "Temporal Forces",
+      "img": "https://den-cards.pokellector.com/383/Torterra-ex.TEM.12.52424.png",
+      "rarity": "Double Rare",
+      "cardNum": "12/162"
+    },
+    {
+      "name": "Shaymin",
+      "set": "Temporal Forces",
+      "img": "https://den-cards.pokellector.com/383/Shaymin.TEM.13.52425.png",
+      "rarity": "Uncommon",
+      "cardNum": "13/162"
+    },
+    {
+      "name": "Cottonee",
+      "set": "Temporal Forces",
+      "img": "https://den-cards.pokellector.com/383/Cottonee.TEM.14.52426.png",
+      "rarity": "Common",
+      "cardNum": "14/162"
+    },
+    {
+      "name": "Whimsicott",
+      "set": "Temporal Forces",
+      "img": "https://den-cards.pokellector.com/383/Whimsicott.TEM.15.52427.png",
+      "rarity": "Rare",
+      "cardNum": "15/162"
+    },
+    {
+      "name": "Deerling",
+      "set": "Temporal Forces",
+      "img": "https://den-cards.pokellector.com/383/Deerling.TEM.16.52428.png",
+      "rarity": "Common",
+      "cardNum": "16/162"
+    },
+    {
+      "name": "Sawsbuck",
+      "set": "Temporal Forces",
+      "img": "https://den-cards.pokellector.com/383/Sawsbuck.TEM.17.52429.png",
+      "rarity": "Uncommon",
+      "cardNum": "17/162"
+    },
+    {
+      "name": "Grubbin",
+      "set": "Temporal Forces",
+      "img": "https://den-cards.pokellector.com/383/Grubbin.TEM.18.52430.png",
+      "rarity": "Common",
+      "cardNum": "18/162"
+    },
+    {
+      "name": "Dhelmise",
+      "set": "Temporal Forces",
+      "img": "https://den-cards.pokellector.com/383/Dhelmise.TEM.19.52431.png",
+      "rarity": "Uncommon",
+      "cardNum": "19/162"
+    },
+    {
+      "name": "Bramblin",
+      "set": "Temporal Forces",
+      "img": "https://den-cards.pokellector.com/383/Bramblin.TEM.20.52432.png",
+      "rarity": "Common",
+      "cardNum": "20/162"
+    },
+    {
+      "name": "Brambleghast",
+      "set": "Temporal Forces",
+      "img": "https://den-cards.pokellector.com/383/Brambleghast.TEM.21.52433.png",
+      "rarity": "Rare Holo",
+      "cardNum": "21/162"
+    },
+    {
+      "name": "Scovillain ex",
+      "set": "Temporal Forces",
+      "img": "https://den-cards.pokellector.com/383/Scovillain-ex.TEM.22.52434.png",
+      "rarity": "Double Rare",
+      "cardNum": "22/162"
+    },
+    {
+      "name": "Rellor",
+      "set": "Temporal Forces",
+      "img": "https://den-cards.pokellector.com/383/Rellor.TEM.23.52435.png",
+      "rarity": "Common",
+      "cardNum": "23/162"
+    },
+    {
+      "name": "Rabsca",
+      "set": "Temporal Forces",
+      "img": "https://den-cards.pokellector.com/383/Rabsca.TEM.24.52436.png",
+      "rarity": "Uncommon",
+      "cardNum": "24/162"
+    },
+    {
+      "name": "Iron Leaves ex",
+      "set": "Temporal Forces",
+      "img": "https://den-cards.pokellector.com/383/Iron-Leaves-ex.TEM.25.52437.png",
+      "rarity": "Double Rare",
+      "cardNum": "25/162"
+    },
+    {
+      "name": "Ponyta",
+      "set": "Temporal Forces",
+      "img": "https://den-cards.pokellector.com/383/Ponyta.TEM.26.52438.png",
+      "rarity": "Common",
+      "cardNum": "26/162"
+    },
+    {
+      "name": "Rapidash",
+      "set": "Temporal Forces",
+      "img": "https://den-cards.pokellector.com/383/Rapidash.TEM.27.52439.png",
+      "rarity": "Uncommon",
+      "cardNum": "27/162"
+    },
+    {
+      "name": "Slugma",
+      "set": "Temporal Forces",
+      "img": "https://den-cards.pokellector.com/383/Slugma.TEM.28.52440.png",
+      "rarity": "Common",
+      "cardNum": "28/162"
+    },
+    {
+      "name": "Magcargo",
+      "set": "Temporal Forces",
+      "img": "https://den-cards.pokellector.com/383/Magcargo.PAR.29.52348.png",
+      "rarity": "Rare",
+      "cardNum": "29/162"
+    },
+    {
+      "name": "Victini",
+      "set": "Temporal Forces",
+      "img": "https://den-cards.pokellector.com/383/Victini.TEM.30.52441.png",
+      "rarity": "Common",
+      "cardNum": "30/162"
+    },
+    {
+      "name": "Heatmor",
+      "set": "Temporal Forces",
+      "img": "https://den-cards.pokellector.com/383/Heatmor.TEM.31.52442.png",
+      "rarity": "Common",
+      "cardNum": "31/162"
+    },
+    {
+      "name": "Litten",
+      "set": "Temporal Forces",
+      "img": "https://den-cards.pokellector.com/383/Litten.TEM.32.52443.png",
+      "rarity": "Common",
+      "cardNum": "32/162"
+    },
+    {
+      "name": "Torracat",
+      "set": "Temporal Forces",
+      "img": "https://den-cards.pokellector.com/383/Torracat.TEM.33.52444.png",
+      "rarity": "Common",
+      "cardNum": "33/162"
+    },
+    {
+      "name": "Incineroar ex",
+      "set": "Temporal Forces",
+      "img": "https://den-cards.pokellector.com/383/Incineroar-ex.TEM.34.52445.png",
+      "rarity": "Double Rare",
+      "cardNum": "34/162"
+    },
+    {
+      "name": "Turtonator",
+      "set": "Temporal Forces",
+      "img": "https://den-cards.pokellector.com/383/Turtonator.TEM.35.52446.png",
+      "rarity": "Common",
+      "cardNum": "35/162"
+    },
+    {
+      "name": "Sizzlipede",
+      "set": "Temporal Forces",
+      "img": "https://den-cards.pokellector.com/383/Sizzlipede.TEM.36.52447.png",
+      "rarity": "Common",
+      "cardNum": "36/162"
+    },
+    {
+      "name": "Centiskorch",
+      "set": "Temporal Forces",
+      "img": "https://den-cards.pokellector.com/383/Centiskorch.TEM.37.52448.png",
+      "rarity": "Uncommon",
+      "cardNum": "37/162"
+    },
+    {
+      "name": "Gouging Fire ex",
+      "set": "Temporal Forces",
+      "img": "https://den-cards.pokellector.com/383/Gouging-Fire-ex.TEM.38.52449.png",
+      "rarity": "Double Rare",
+      "cardNum": "38/162"
+    },
+    {
+      "name": "Totodile",
+      "set": "Temporal Forces",
+      "img": "https://den-cards.pokellector.com/383/Totodile.TEM.39.52450.png",
+      "rarity": "Common",
+      "cardNum": "39/162"
+    },
+    {
+      "name": "Croconaw",
+      "set": "Temporal Forces",
+      "img": "https://den-cards.pokellector.com/383/Croconaw.TEM.40.52451.png",
+      "rarity": "Common",
+      "cardNum": "40/162"
+    },
+    {
+      "name": "Feraligatr",
+      "set": "Temporal Forces",
+      "img": "https://den-cards.pokellector.com/383/Feraligatr.TEM.41.52452.png",
+      "rarity": "Rare Holo",
+      "cardNum": "41/162"
+    },
+    {
+      "name": "Carvanha",
+      "set": "Temporal Forces",
+      "img": "https://den-cards.pokellector.com/383/Carvanha.TEM.42.52453.png",
+      "rarity": "Common",
+      "cardNum": "42/162"
+    },
+    {
+      "name": "Sharpedo",
+      "set": "Temporal Forces",
+      "img": "https://den-cards.pokellector.com/383/Sharpedo.TEM.43.52454.png",
+      "rarity": "Uncommon",
+      "cardNum": "43/162"
+    },
+    {
+      "name": "Keldeo",
+      "set": "Temporal Forces",
+      "img": "https://den-cards.pokellector.com/383/Keldeo.TEM.44.52455.png",
+      "rarity": "Uncommon",
+      "cardNum": "44/162"
+    },
+    {
+      "name": "Snom",
+      "set": "Temporal Forces",
+      "img": "https://den-cards.pokellector.com/383/Snom.TEM.45.52456.png",
+      "rarity": "Common",
+      "cardNum": "45/162"
+    },
+    {
+      "name": "Frosmoth",
+      "set": "Temporal Forces",
+      "img": "https://den-cards.pokellector.com/383/Frosmoth.TEM.46.52457.png",
+      "rarity": "Common",
+      "cardNum": "46/162"
+    },
+    {
+      "name": "Wiglett",
+      "set": "Temporal Forces",
+      "img": "https://den-cards.pokellector.com/383/Wiglett.TEM.47.52458.png",
+      "rarity": "Common",
+      "cardNum": "47/162"
+    },
+    {
+      "name": "Finizen",
+      "set": "Temporal Forces",
+      "img": "https://den-cards.pokellector.com/383/Finizen.TEM.48.52459.png",
+      "rarity": "Common",
+      "cardNum": "48/162"
+    },
+    {
+      "name": "Palafin",
+      "set": "Temporal Forces",
+      "img": "https://den-cards.pokellector.com/383/Palafin.TEM.49.52460.png",
+      "rarity": "Uncommon",
+      "cardNum": "49/162"
+    },
+    {
+      "name": "Walking Wake ex",
+      "set": "Temporal Forces",
+      "img": "https://den-cards.pokellector.com/383/Walking-Wake-ex.TEM.50.52461.png",
+      "rarity": "Double Rare",
+      "cardNum": "50/162"
+    },
+    {
+      "name": "Pikachu",
+      "set": "Temporal Forces",
+      "img": "https://den-cards.pokellector.com/383/Pikachu.TEM.51.52462.png",
+      "rarity": "Common",
+      "cardNum": "51/162"
+    },
+    {
+      "name": "Raichu",
+      "set": "Temporal Forces",
+      "img": "https://den-cards.pokellector.com/383/Raichu.TEM.52.52463.png",
+      "rarity": "Common",
+      "cardNum": "52/162"
+    },
+    {
+      "name": "Electabuzz",
+      "set": "Temporal Forces",
+      "img": "https://den-cards.pokellector.com/383/Electabuzz.TEM.53.52464.png",
+      "rarity": "Common",
+      "cardNum": "53/162"
+    },
+    {
+      "name": "Electivire",
+      "set": "Temporal Forces",
+      "img": "https://den-cards.pokellector.com/383/Electivire.TEM.54.52465.png",
+      "rarity": "Uncommon",
+      "cardNum": "54/162"
+    },
+    {
+      "name": "Charjabug",
+      "set": "Temporal Forces",
+      "img": "https://den-cards.pokellector.com/383/Charjabug.TEM.55.52466.png",
+      "rarity": "Common",
+      "cardNum": "55/162"
+    },
+    {
+      "name": "Vikavolt",
+      "set": "Temporal Forces",
+      "img": "https://den-cards.pokellector.com/383/Vikavolt.TEM.56.52467.png",
+      "rarity": "Uncommon",
+      "cardNum": "56/162"
+    },
+    {
+      "name": "Zeraora",
+      "set": "Temporal Forces",
+      "img": "https://den-cards.pokellector.com/383/Zeraora.TEM.57.52468.png",
+      "rarity": "Uncommon",
+      "cardNum": "57/162"
+    },
+    {
+      "name": "Yamper",
+      "set": "Temporal Forces",
+      "img": "https://den-cards.pokellector.com/383/Yamper.TEM.58.52469.png",
+      "rarity": "Common",
+      "cardNum": "58/162"
+    },
+    {
+      "name": "Boltund",
+      "set": "Temporal Forces",
+      "img": "https://den-cards.pokellector.com/383/Boltund.TEM.59.52470.png",
+      "rarity": "Uncommon",
+      "cardNum": "59/162"
+    },
+    {
+      "name": "Wugtrio ex",
+      "set": "Temporal Forces",
+      "img": "https://den-cards.pokellector.com/383/Wugtrio-ex.TEM.60.52471.png",
+      "rarity": "Double Rare",
+      "cardNum": "60/162"
+    },
+    {
+      "name": "Iron Hands",
+      "set": "Temporal Forces",
+      "img": "https://den-cards.pokellector.com/383/Iron-Hands.TEM.61.52472.png",
+      "rarity": "Uncommon",
+      "cardNum": "61/162"
+    },
+    {
+      "name": "Iron Thorns",
+      "set": "Temporal Forces",
+      "img": "https://den-cards.pokellector.com/383/Iron-Thorns.TEM.62.52473.png",
+      "rarity": "Rare Holo",
+      "cardNum": "62/162"
+    },
+    {
+      "name": "Mr. Mime",
+      "set": "Temporal Forces",
+      "img": "https://den-cards.pokellector.com/383/Mr-Mime.TEM.63.52474.png",
+      "rarity": "Common",
+      "cardNum": "63/162"
+    },
+    {
+      "name": "Marill",
+      "set": "Temporal Forces",
+      "img": "https://den-cards.pokellector.com/383/Marill.TEM.64.52475.png",
+      "rarity": "Common",
+      "cardNum": "64/162"
+    },
+    {
+      "name": "Azumarill",
+      "set": "Temporal Forces",
+      "img": "https://den-cards.pokellector.com/383/Azumarill.TEM.65.52476.png",
+      "rarity": "Common",
+      "cardNum": "65/162"
+    },
+    {
+      "name": "Girafarig",
+      "set": "Temporal Forces",
+      "img": "https://den-cards.pokellector.com/383/Girafarig.TEM.66.52477.png",
+      "rarity": "Common",
+      "cardNum": "66/162"
+    },
+    {
+      "name": "Latias",
+      "set": "Temporal Forces",
+      "img": "https://den-cards.pokellector.com/383/Latias.TEM.67.52478.png",
+      "rarity": "Uncommon",
+      "cardNum": "67/162"
+    },
+    {
+      "name": "Bronzor",
+      "set": "Temporal Forces",
+      "img": "https://den-cards.pokellector.com/383/Bronzor.TEM.68.52479.png",
+      "rarity": "Common",
+      "cardNum": "68/162"
+    },
+    {
+      "name": "Bronzong",
+      "set": "Temporal Forces",
+      "img": "https://den-cards.pokellector.com/383/Bronzong.TEM.69.52480.png",
+      "rarity": "Uncommon",
+      "cardNum": "69/162"
+    },
+    {
+      "name": "Solosis",
+      "set": "Temporal Forces",
+      "img": "https://den-cards.pokellector.com/383/Solosis.TEM.70.52481.png",
+      "rarity": "Common",
+      "cardNum": "70/162"
+    },
+    {
+      "name": "Duosion",
+      "set": "Temporal Forces",
+      "img": "https://den-cards.pokellector.com/383/Duosion.TEM.71.52482.png",
+      "rarity": "Common",
+      "cardNum": "71/162"
+    },
+    {
+      "name": "Reuniclus",
+      "set": "Temporal Forces",
+      "img": "https://den-cards.pokellector.com/383/Reuniclus.TEM.72.52483.png",
+      "rarity": "Uncommon",
+      "cardNum": "72/162"
+    },
+    {
+      "name": "Elgyem",
+      "set": "Temporal Forces",
+      "img": "https://den-cards.pokellector.com/383/Elgyem.TEM.73.52484.png",
+      "rarity": "Common",
+      "cardNum": "73/162"
+    },
+    {
+      "name": "Beheeyem",
+      "set": "Temporal Forces",
+      "img": "https://den-cards.pokellector.com/383/Beheeyem.TEM.74.52485.png",
+      "rarity": "Uncommon",
+      "cardNum": "74/162"
+    },
+    {
+      "name": "Cutiefly",
+      "set": "Temporal Forces",
+      "img": "https://den-cards.pokellector.com/383/Cutiefly.TEM.75.52486.png",
+      "rarity": "Common",
+      "cardNum": "75/162"
+    },
+    {
+      "name": "Ribombee",
+      "set": "Temporal Forces",
+      "img": "https://den-cards.pokellector.com/383/Ribombee.TEM.76.52487.png",
+      "rarity": "Uncommon",
+      "cardNum": "76/162"
+    },
+    {
+      "name": "Scream Tail",
+      "set": "Temporal Forces",
+      "img": "https://den-cards.pokellector.com/383/Scream-Tail.TEM.77.52488.png",
+      "rarity": "Uncommon",
+      "cardNum": "77/162"
+    },
+    {
+      "name": "Flutter Mane",
+      "set": "Temporal Forces",
+      "img": "https://den-cards.pokellector.com/383/Flutter-Mane.TEM.78.52489.png",
+      "rarity": "Rare",
+      "cardNum": "78/162"
+    },
+    {
+      "name": "Iron Valiant",
+      "set": "Temporal Forces",
+      "img": "https://den-cards.pokellector.com/383/Iron-Valiant.TEM.79.52490.png",
+      "rarity": "Uncommon",
+      "cardNum": "79/162"
+    },
+    {
+      "name": "Iron Valiant",
+      "set": "Temporal Forces",
+      "img": "https://den-cards.pokellector.com/383/Iron-Valiant.TEM.80.52491.png",
+      "rarity": "Rare Holo",
+      "cardNum": "80/162"
+    },
+    {
+      "name": "Iron Crown ex",
+      "set": "Temporal Forces",
+      "img": "https://den-cards.pokellector.com/383/Iron-Crown-ex.TEM.81.52492.png",
+      "rarity": "Double Rare",
+      "cardNum": "81/162"
+    },
+    {
+      "name": "Meditite",
+      "set": "Temporal Forces",
+      "img": "https://den-cards.pokellector.com/383/Meditite.TEM.82.52493.png",
+      "rarity": "Common",
+      "cardNum": "82/162"
+    },
+    {
+      "name": "Medicham",
+      "set": "Temporal Forces",
+      "img": "https://den-cards.pokellector.com/383/Medicham.TEM.83.52494.png",
+      "rarity": "Common",
+      "cardNum": "83/162"
+    },
+    {
+      "name": "Relicanth",
+      "set": "Temporal Forces",
+      "img": "https://den-cards.pokellector.com/383/Relicanth.TEM.84.52495.png",
+      "rarity": "Rare Holo",
+      "cardNum": "84/162"
+    },
+    {
+      "name": "Drilbur",
+      "set": "Temporal Forces",
+      "img": "https://den-cards.pokellector.com/383/Drilbur.TEM.85.52496.png",
+      "rarity": "Common",
+      "cardNum": "85/162"
+    },
+    {
+      "name": "Excadrill",
+      "set": "Temporal Forces",
+      "img": "https://den-cards.pokellector.com/383/Excadrill.TEM.86.52497.png",
+      "rarity": "Uncommon",
+      "cardNum": "86/162"
+    },
+    {
+      "name": "Golett",
+      "set": "Temporal Forces",
+      "img": "https://den-cards.pokellector.com/383/Golett.TEM.87.52498.png",
+      "rarity": "Common",
+      "cardNum": "87/162"
+    },
+    {
+      "name": "Golurk",
+      "set": "Temporal Forces",
+      "img": "https://den-cards.pokellector.com/383/Golurk.TEM.88.52499.png",
+      "rarity": "Uncommon",
+      "cardNum": "88/162"
+    },
+    {
+      "name": "Rockruff",
+      "set": "Temporal Forces",
+      "img": "https://den-cards.pokellector.com/383/Rockruff.TEM.89.52500.png",
+      "rarity": "Common",
+      "cardNum": "89/162"
+    },
+    {
+      "name": "Lycanroc",
+      "set": "Temporal Forces",
+      "img": "https://den-cards.pokellector.com/383/Lycanroc.TEM.90.52501.png",
+      "rarity": "Uncommon",
+      "cardNum": "90/162"
+    },
+    {
+      "name": "Mudbray",
+      "set": "Temporal Forces",
+      "img": "https://den-cards.pokellector.com/383/Mudbray.TEM.91.52502.png",
+      "rarity": "Common",
+      "cardNum": "91/162"
+    },
+    {
+      "name": "Mudsdale",
+      "set": "Temporal Forces",
+      "img": "https://den-cards.pokellector.com/383/Mudsdale.TEM.92.52503.png",
+      "rarity": "Uncommon",
+      "cardNum": "92/162"
+    },
+    {
+      "name": "Rolycoly",
+      "set": "Temporal Forces",
+      "img": "https://den-cards.pokellector.com/383/Rolycoly.TEM.93.52504.png",
+      "rarity": "Common",
+      "cardNum": "93/162"
+    },
+    {
+      "name": "Carkol",
+      "set": "Temporal Forces",
+      "img": "https://den-cards.pokellector.com/383/Carkol.TEM.94.52505.png",
+      "rarity": "Common",
+      "cardNum": "94/162"
+    },
+    {
+      "name": "Coalossal",
+      "set": "Temporal Forces",
+      "img": "https://den-cards.pokellector.com/383/Coalossal.TEM.95.52506.png",
+      "rarity": "Uncommon",
+      "cardNum": "95/162"
+    },
+    {
+      "name": "Great Tusk",
+      "set": "Temporal Forces",
+      "img": "https://den-cards.pokellector.com/383/Great-Tusk.TEM.96.52507.png",
+      "rarity": "Uncommon",
+      "cardNum": "96/162"
+    },
+    {
+      "name": "Great Tusk",
+      "set": "Temporal Forces",
+      "img": "https://den-cards.pokellector.com/383/Great-Tusk.TEM.97.52508.png",
+      "rarity": "Uncommon",
+      "cardNum": "97/162"
+    },
+    {
+      "name": "Sandy Shocks",
+      "set": "Temporal Forces",
+      "img": "https://den-cards.pokellector.com/383/Sandy-Shocks.TEM.98.52509.png",
+      "rarity": "Uncommon",
+      "cardNum": "98/162"
+    },
+    {
+      "name": "Iron Boulder ex",
+      "set": "Temporal Forces",
+      "img": "https://den-cards.pokellector.com/383/Iron-Boulder-ex.TEM.99.52510.png",
+      "rarity": "Double Rare",
+      "cardNum": "99/162"
+    },
+    {
+      "name": "Ekans",
+      "set": "Temporal Forces",
+      "img": "https://den-cards.pokellector.com/383/Ekans.TEM.100.52511.png",
+      "rarity": "Common",
+      "cardNum": "100/162"
+    },
+    {
+      "name": "Arbok",
+      "set": "Temporal Forces",
+      "img": "https://den-cards.pokellector.com/383/Arbok.TEM.101.52512.png",
+      "rarity": "Common",
+      "cardNum": "101/162"
+    },
+    {
+      "name": "Gastly",
+      "set": "Temporal Forces",
+      "img": "https://den-cards.pokellector.com/383/Gastly.TEM.102.52513.png",
+      "rarity": "Common",
+      "cardNum": "102/162"
+    },
+    {
+      "name": "Haunter",
+      "set": "Temporal Forces",
+      "img": "https://den-cards.pokellector.com/383/Haunter.TEM.103.52514.png",
+      "rarity": "Common",
+      "cardNum": "103/162"
+    },
+    {
+      "name": "Gengar ex",
+      "set": "Temporal Forces",
+      "img": "https://den-cards.pokellector.com/383/Gengar-ex.TEM.104.52515.png",
+      "rarity": "Double Rare",
+      "cardNum": "104/162"
+    },
+    {
+      "name": "Poochyena",
+      "set": "Temporal Forces",
+      "img": "https://den-cards.pokellector.com/383/Poochyena.TEM.105.52516.png",
+      "rarity": "Common",
+      "cardNum": "105/162"
+    },
+    {
+      "name": "Mightyena",
+      "set": "Temporal Forces",
+      "img": "https://den-cards.pokellector.com/383/Mightyena.TEM.106.52517.png",
+      "rarity": "Common",
+      "cardNum": "106/162"
+    },
+    {
+      "name": "Sableye",
+      "set": "Temporal Forces",
+      "img": "https://den-cards.pokellector.com/383/Sableye.TEM.107.52518.png",
+      "rarity": "Uncommon",
+      "cardNum": "107/162"
+    },
+    {
+      "name": "Farigiraf ex",
+      "set": "Temporal Forces",
+      "img": "https://den-cards.pokellector.com/383/Farigiraf-ex.TEM.108.52519.png",
+      "rarity": "Double Rare",
+      "cardNum": "108/162"
+    },
+    {
+      "name": "Roaring Moon",
+      "set": "Temporal Forces",
+      "img": "https://den-cards.pokellector.com/383/Roaring-Moon.TEM.109.52520.png",
+      "rarity": "Rare",
+      "cardNum": "109/162"
+    },
+    {
+      "name": "Forretress",
+      "set": "Temporal Forces",
+      "img": "https://den-cards.pokellector.com/383/Forretress.TEM.110.52521.png",
+      "rarity": "Uncommon",
+      "cardNum": "110/162"
+    },
+    {
+      "name": "Scizor ex",
+      "set": "Temporal Forces",
+      "img": "https://den-cards.pokellector.com/383/Scizor-ex.TEM.111.52522.png",
+      "rarity": "Double Rare",
+      "cardNum": "111/162"
+    },
+    {
+      "name": "Mawile",
+      "set": "Temporal Forces",
+      "img": "https://den-cards.pokellector.com/383/Mawile.TEM.112.52523.png",
+      "rarity": "Common",
+      "cardNum": "112/162"
+    },
+    {
+      "name": "Beldum",
+      "set": "Temporal Forces",
+      "img": "https://den-cards.pokellector.com/383/Beldum.TEM.113.52524.png",
+      "rarity": "Common",
+      "cardNum": "113/162"
+    },
+    {
+      "name": "Metang",
+      "set": "Temporal Forces",
+      "img": "https://den-cards.pokellector.com/383/Metang.TEM.114.52525.png",
+      "rarity": "Common",
+      "cardNum": "114/162"
+    },
+    {
+      "name": "Metagross",
+      "set": "Temporal Forces",
+      "img": "https://den-cards.pokellector.com/383/Metagross.TEM.115.52526.png",
+      "rarity": "Uncommon",
+      "cardNum": "115/162"
+    },
+    {
+      "name": "Meltan",
+      "set": "Temporal Forces",
+      "img": "https://den-cards.pokellector.com/383/Meltan.TEM.116.52527.png",
+      "rarity": "Common",
+      "cardNum": "116/162"
+    },
+    {
+      "name": "Melmetal",
+      "set": "Temporal Forces",
+      "img": "https://den-cards.pokellector.com/383/Melmetal.TEM.117.52528.png",
+      "rarity": "Rare Holo",
+      "cardNum": "117/162"
+    },
+    {
+      "name": "Iron Treads",
+      "set": "Temporal Forces",
+      "img": "https://den-cards.pokellector.com/383/Iron-Treads.TEM.118.52529.png",
+      "rarity": "Uncommon",
+      "cardNum": "118/162"
+    },
+    {
+      "name": "Koraidon",
+      "set": "Temporal Forces",
+      "img": "https://den-cards.pokellector.com/383/Koraidon.TEM.119.52530.png",
+      "rarity": "Rare",
+      "cardNum": "119/162"
+    },
+    {
+      "name": "Koraidon ex",
+      "set": "Temporal Forces",
+      "img": "https://den-cards.pokellector.com/383/Koraidon-ex.TEM.120.52531.png",
+      "rarity": "Double Rare",
+      "cardNum": "120/162"
+    },
+    {
+      "name": "Miraidon",
+      "set": "Temporal Forces",
+      "img": "https://den-cards.pokellector.com/383/Miraidon.TEM.121.52532.png",
+      "rarity": "Rare Holo",
+      "cardNum": "121/162"
+    },
+    {
+      "name": "Miraidon ex",
+      "set": "Temporal Forces",
+      "img": "https://den-cards.pokellector.com/383/Miraidon-ex.TEM.122.52533.png",
+      "rarity": "Double Rare",
+      "cardNum": "122/162"
+    },
+    {
+      "name": "Raging Bolt ex",
+      "set": "Temporal Forces",
+      "img": "https://den-cards.pokellector.com/383/Raging-Bolt-ex.TEM.123.52534.png",
+      "rarity": "Double Rare",
+      "cardNum": "123/162"
+    },
+    {
+      "name": "Lickitung",
+      "set": "Temporal Forces",
+      "img": "https://den-cards.pokellector.com/383/Lickitung.TEM.124.52535.png",
+      "rarity": "Common",
+      "cardNum": "124/162"
+    },
+    {
+      "name": "Lickilicky",
+      "set": "Temporal Forces",
+      "img": "https://den-cards.pokellector.com/383/Lickilicky.TEM.125.52536.png",
+      "rarity": "Common",
+      "cardNum": "125/162"
+    },
+    {
+      "name": "Hoothoot",
+      "set": "Temporal Forces",
+      "img": "https://den-cards.pokellector.com/383/Hoothoot.TEM.126.52537.png",
+      "rarity": "Common",
+      "cardNum": "126/162"
+    },
+    {
+      "name": "Noctowl",
+      "set": "Temporal Forces",
+      "img": "https://den-cards.pokellector.com/383/Noctowl.TEM.127.52538.png",
+      "rarity": "Common",
+      "cardNum": "127/162"
+    },
+    {
+      "name": "Dunsparce",
+      "set": "Temporal Forces",
+      "img": "https://den-cards.pokellector.com/383/Dunsparce.TEM.128.52539.png",
+      "rarity": "Common",
+      "cardNum": "128/162"
+    },
+    {
+      "name": "Dudunsparce",
+      "set": "Temporal Forces",
+      "img": "https://den-cards.pokellector.com/383/Dudunsparce.TEM.129.52540.png",
+      "rarity": "Rare Holo",
+      "cardNum": "129/162"
+    },
+    {
+      "name": "Skitty",
+      "set": "Temporal Forces",
+      "img": "https://den-cards.pokellector.com/383/Skitty.TEM.130.52541.png",
+      "rarity": "Common",
+      "cardNum": "130/162"
+    },
+    {
+      "name": "Delcatty",
+      "set": "Temporal Forces",
+      "img": "https://den-cards.pokellector.com/383/Delcatty.TEM.131.52542.png",
+      "rarity": "Uncommon",
+      "cardNum": "131/162"
+    },
+    {
+      "name": "Chatot",
+      "set": "Temporal Forces",
+      "img": "https://den-cards.pokellector.com/383/Chatot.TEM.132.52543.png",
+      "rarity": "Common",
+      "cardNum": "132/162"
+    },
+    {
+      "name": "Pidove",
+      "set": "Temporal Forces",
+      "img": "https://den-cards.pokellector.com/383/Pidove.TEM.133.52544.png",
+      "rarity": "Common",
+      "cardNum": "133/162"
+    },
+    {
+      "name": "Tranquill",
+      "set": "Temporal Forces",
+      "img": "https://den-cards.pokellector.com/383/Tranquill.TEM.134.52545.png",
+      "rarity": "Common",
+      "cardNum": "134/162"
+    },
+    {
+      "name": "Unfezant",
+      "set": "Temporal Forces",
+      "img": "https://den-cards.pokellector.com/383/Unfezant.TEM.135.52546.png",
+      "rarity": "Uncommon",
+      "cardNum": "135/162"
+    },
+    {
+      "name": "Minccino",
+      "set": "Temporal Forces",
+      "img": "https://den-cards.pokellector.com/383/Minccino.TEM.136.52547.png",
+      "rarity": "Common",
+      "cardNum": "136/162"
+    },
+    {
+      "name": "Cinccino",
+      "set": "Temporal Forces",
+      "img": "https://den-cards.pokellector.com/383/Cinccino.TEM.137.52548.png",
+      "rarity": "Uncommon",
+      "cardNum": "137/162"
+    },
+    {
+      "name": "Drampa",
+      "set": "Temporal Forces",
+      "img": "https://den-cards.pokellector.com/383/Drampa.TEM.138.52549.png",
+      "rarity": "Rare",
+      "cardNum": "138/162"
+    },
+    {
+      "name": "Iron Jugulis",
+      "set": "Temporal Forces",
+      "img": "https://den-cards.pokellector.com/383/Iron-Jugulis.TEM.139.52550.png",
+      "rarity": "Uncommon",
+      "cardNum": "139/162"
+    },
+    {
+      "name": "Ancient Booster Energy Capsule",
+      "set": "Temporal Forces",
+      "img": "https://den-cards.pokellector.com/383/Ancient-Booster-Energy-Capsule.TEM.140.52551.png",
+      "rarity": "Uncommon",
+      "cardNum": "140/162"
+    },
+    {
+      "name": "Awakening Drum",
+      "set": "Temporal Forces",
+      "img": "https://den-cards.pokellector.com/383/Awakening-Drum.TEM.141.52552.png",
+      "rarity": "Ace Spec",
+      "cardNum": "141/162"
+    },
+    {
+      "name": "Bianca's Devotion",
+      "set": "Temporal Forces",
+      "img": "https://den-cards.pokellector.com/383/Biancas-Devotion.TEM.142.52553.png",
+      "rarity": "Uncommon",
+      "cardNum": "142/162"
+    },
+    {
+      "name": "Boxed Order",
+      "set": "Temporal Forces",
+      "img": "https://den-cards.pokellector.com/383/Boxed-Order.TEM.143.52554.png",
+      "rarity": "Uncommon",
+      "cardNum": "143/162"
+    },
+    {
+      "name": "Buddy-Buddy Poffin",
+      "set": "Temporal Forces",
+      "img": "https://den-cards.pokellector.com/383/Buddy-Buddy-Poffin.TEM.144.52555.png",
+      "rarity": "Uncommon",
+      "cardNum": "144/162"
+    },
+    {
+      "name": "Ciphermaniac's Codebreaking",
+      "set": "Temporal Forces",
+      "img": "https://den-cards.pokellector.com/383/Ciphermaniacs-Codebreaking.TEM.145.52556.png",
+      "rarity": "Uncommon",
+      "cardNum": "145/162"
+    },
+    {
+      "name": "Eri",
+      "set": "Temporal Forces",
+      "img": "https://den-cards.pokellector.com/383/Eri.TEM.146.52557.png",
+      "rarity": "Uncommon",
+      "cardNum": "146/162"
+    },
+    {
+      "name": "Explorer's Guidance",
+      "set": "Temporal Forces",
+      "img": "https://den-cards.pokellector.com/383/Explorers-Guidance.TEM.147.52558.png",
+      "rarity": "Uncommon",
+      "cardNum": "147/162"
+    },
+    {
+      "name": "Full Metal Lab",
+      "set": "Temporal Forces",
+      "img": "https://den-cards.pokellector.com/383/Full-Metal-Lab.TEM.148.52559.png",
+      "rarity": "Uncommon",
+      "cardNum": "148/162"
+    },
+    {
+      "name": "Future Booster Energy Capsule",
+      "set": "Temporal Forces",
+      "img": "https://den-cards.pokellector.com/383/Future-Booster-Energy-Capsule.TEM.149.52560.png",
+      "rarity": "Uncommon",
+      "cardNum": "149/162"
+    },
+    {
+      "name": "Hand Trimmer",
+      "set": "Temporal Forces",
+      "img": "https://den-cards.pokellector.com/383/Hand-Trimmer.TEM.150.52561.png",
+      "rarity": "Uncommon",
+      "cardNum": "150/162"
+    },
+    {
+      "name": "Heavy Baton",
+      "set": "Temporal Forces",
+      "img": "https://den-cards.pokellector.com/383/Heavy-Baton.TEM.151.52562.png",
+      "rarity": "Uncommon",
+      "cardNum": "151/162"
+    },
+    {
+      "name": "Hero's Cape",
+      "set": "Temporal Forces",
+      "img": "https://den-cards.pokellector.com/383/Heros-Cape.TEM.152.52563.png",
+      "rarity": "Ace Spec",
+      "cardNum": "152/162"
+    },
+    {
+      "name": "Master Ball",
+      "set": "Temporal Forces",
+      "img": "https://den-cards.pokellector.com/383/Master-Ball.TEM.153.52564.png",
+      "rarity": "Ace Spec",
+      "cardNum": "153/162"
+    },
+    {
+      "name": "Maximum Belt",
+      "set": "Temporal Forces",
+      "img": "https://den-cards.pokellector.com/383/Maximum-Belth.TEM.154.52408.png",
+      "rarity": "Ace Spec",
+      "cardNum": "154/162"
+    },
+    {
+      "name": "Morty's Conviction",
+      "set": "Temporal Forces",
+      "img": "https://den-cards.pokellector.com/383/Mortys-Conviction.TEM.155.52565.png",
+      "rarity": "Uncommon",
+      "cardNum": "155/162"
+    },
+    {
+      "name": "Perilous Jungle",
+      "set": "Temporal Forces",
+      "img": "https://den-cards.pokellector.com/383/Perilous-Jungle.TEM.156.52566.png",
+      "rarity": "Uncommon",
+      "cardNum": "156/162"
+    },
+    {
+      "name": "Prime Catcher",
+      "set": "Temporal Forces",
+      "img": "https://den-cards.pokellector.com/383/Prime-Catcher.TEM.157.52567.png",
+      "rarity": "Ace Spec",
+      "cardNum": "157/162"
+    },
+    {
+      "name": "Reboot Pod",
+      "set": "Temporal Forces",
+      "img": "https://den-cards.pokellector.com/383/Reboot-Pod.TEM.158.52568.png",
+      "rarity": "Ace Spec",
+      "cardNum": "158/162"
+    },
+    {
+      "name": "Rescue Board",
+      "set": "Temporal Forces",
+      "img": "https://den-cards.pokellector.com/383/Rescue-Board.TEM.159.52569.png",
+      "rarity": "Uncommon",
+      "cardNum": "159/162"
+    },
+    {
+      "name": "Salvatore",
+      "set": "Temporal Forces",
+      "img": "https://den-cards.pokellector.com/383/Salvatore.TEM.160.52570.png",
+      "rarity": "Uncommon",
+      "cardNum": "160/162"
+    },
+    {
+      "name": "Mist Energy",
+      "set": "Temporal Forces",
+      "img": "https://den-cards.pokellector.com/383/Mist-Energy.TEM.161.52571.png",
+      "rarity": "Uncommon",
+      "cardNum": "161/162"
+    },
+    {
+      "name": "Neo Upper Energy",
+      "set": "Temporal Forces",
+      "img": "https://den-cards.pokellector.com/383/Neo-Upper-Energy.TEM.162.52572.png",
+      "rarity": "Ace Spec",
+      "cardNum": "162/162"
+    },
+    {
+      "name": "Shiftry",
+      "set": "Temporal Forces",
+      "img": "https://den-cards.pokellector.com/383/Shiftry.TEM.163.52573.png",
+      "rarity": "Illustration Rare",
+      "cardNum": "163/162"
+    },
+    {
+      "name": "Grotle",
+      "set": "Temporal Forces",
+      "img": "https://den-cards.pokellector.com/383/Grotle.TEM.164.52574.png",
+      "rarity": "Illustration Rare",
+      "cardNum": "164/162"
+    },
+    {
+      "name": "Deerling",
+      "set": "Temporal Forces",
+      "img": "https://den-cards.pokellector.com/383/Deerling.TEM.165.52575.png",
+      "rarity": "Illustration Rare",
+      "cardNum": "165/162"
+    },
+    {
+      "name": "Sawsbuck",
+      "set": "Temporal Forces",
+      "img": "https://den-cards.pokellector.com/383/Sawsbuck.TEM.166.52576.png",
+      "rarity": "Illustration Rare",
+      "cardNum": "166/162"
+    },
+    {
+      "name": "Litten",
+      "set": "Temporal Forces",
+      "img": "https://den-cards.pokellector.com/383/Litten.TEM.167.52577.png",
+      "rarity": "Illustration Rare",
+      "cardNum": "167/162"
+    },
+    {
+      "name": "Snom",
+      "set": "Temporal Forces",
+      "img": "https://den-cards.pokellector.com/383/Snom.TEM.168.52315.png",
+      "rarity": "Illustration Rare",
+      "cardNum": "168/162"
+    },
+    {
+      "name": "Charjabug",
+      "set": "Temporal Forces",
+      "img": "https://den-cards.pokellector.com/383/Charjabug.TEM.169.52578.png",
+      "rarity": "Illustration Rare",
+      "cardNum": "169/162"
+    },
+    {
+      "name": "Bronzor",
+      "set": "Temporal Forces",
+      "img": "https://den-cards.pokellector.com/383/Bronzor.TEM.170.52579.png",
+      "rarity": "Illustration Rare",
+      "cardNum": "170/162"
+    },
+    {
+      "name": "Reuniclus",
+      "set": "Temporal Forces",
+      "img": "https://den-cards.pokellector.com/383/Reuniclus.TEM.171.52580.png",
+      "rarity": "Illustration Rare",
+      "cardNum": "171/162"
+    },
+    {
+      "name": "Cutiefly",
+      "set": "Temporal Forces",
+      "img": "https://den-cards.pokellector.com/383/Cutiefly.TEM.172.52581.png",
+      "rarity": "Illustration Rare",
+      "cardNum": "172/162"
+    },
+    {
+      "name": "Relicanth",
+      "set": "Temporal Forces",
+      "img": "https://den-cards.pokellector.com/383/Relicanth.TEM.173.52582.png",
+      "rarity": "Illustration Rare",
+      "cardNum": "173/162"
+    },
+    {
+      "name": "Excadrill",
+      "set": "Temporal Forces",
+      "img": "https://den-cards.pokellector.com/383/Excadrill.TEM.174.52583.png",
+      "rarity": "Illustration Rare",
+      "cardNum": "174/162"
+    },
+    {
+      "name": "Mudsdale",
+      "set": "Temporal Forces",
+      "img": "https://den-cards.pokellector.com/383/Mudsdale.TEM.175.52584.png",
+      "rarity": "Illustration Rare",
+      "cardNum": "175/162"
+    },
+    {
+      "name": "Arbok",
+      "set": "Temporal Forces",
+      "img": "https://den-cards.pokellector.com/383/Arbok.TEM.176.52585.png",
+      "rarity": "Illustration Rare",
+      "cardNum": "176/162"
+    },
+    {
+      "name": "Gastly",
+      "set": "Temporal Forces",
+      "img": "https://den-cards.pokellector.com/383/Gastly.TEM.177.52586.png",
+      "rarity": "Illustration Rare",
+      "cardNum": "177/162"
+    },
+    {
+      "name": "Metagross",
+      "set": "Temporal Forces",
+      "img": "https://den-cards.pokellector.com/383/Metagross.TEM.178.52402.png",
+      "rarity": "Illustration Rare",
+      "cardNum": "178/162"
+    },
+    {
+      "name": "Meltan",
+      "set": "Temporal Forces",
+      "img": "https://den-cards.pokellector.com/383/Meltan.TEM.179.52587.png",
+      "rarity": "Illustration Rare",
+      "cardNum": "179/162"
+    },
+    {
+      "name": "Lickitung",
+      "set": "Temporal Forces",
+      "img": "https://den-cards.pokellector.com/383/Lickitung.TEM.180.52406.png",
+      "rarity": "Illustration Rare",
+      "cardNum": "180/162"
+    },
+    {
+      "name": "Chatot",
+      "set": "Temporal Forces",
+      "img": "https://den-cards.pokellector.com/383/Chatot.TEM.181.52588.png",
+      "rarity": "Illustration Rare",
+      "cardNum": "181/162"
+    },
+    {
+      "name": "Minccino",
+      "set": "Temporal Forces",
+      "img": "https://den-cards.pokellector.com/383/Minccino.TEM.182.52589.png",
+      "rarity": "Illustration Rare",
+      "cardNum": "182/162"
+    },
+    {
+      "name": "Cinccino",
+      "set": "Temporal Forces",
+      "img": "https://den-cards.pokellector.com/383/Cinccino.TEM.183.52590.png",
+      "rarity": "Illustration Rare",
+      "cardNum": "183/162"
+    },
+    {
+      "name": "Drampa",
+      "set": "Temporal Forces",
+      "img": "https://den-cards.pokellector.com/383/Drampa.TEM.184.52591.png",
+      "rarity": "Illustration Rare",
+      "cardNum": "184/162"
+    },
+    {
+      "name": "Torterra ex",
+      "set": "Temporal Forces",
+      "img": "https://den-cards.pokellector.com/383/Torterra-ex.TEM.185.52592.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "185/162"
+    },
+    {
+      "name": "Iron Leaves ex",
+      "set": "Temporal Forces",
+      "img": "https://den-cards.pokellector.com/383/Iron-Leaves-ex.TEM.186.52593.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "186/162"
+    },
+    {
+      "name": "Incineroar ex",
+      "set": "Temporal Forces",
+      "img": "https://den-cards.pokellector.com/383/Incineroar-ex.TEM.187.52404.png",
+      "rarity": "Double Rare",
+      "cardNum": "187/162"
+    },
+    {
+      "name": "Gouging Fire ex",
+      "set": "Temporal Forces",
+      "img": "https://den-cards.pokellector.com/383/Gouging-Fire-ex.TEM.188.52594.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "188/162"
+    },
+    {
+      "name": "Walking Wake ex",
+      "set": "Temporal Forces",
+      "img": "https://den-cards.pokellector.com/383/Walking-Wake-ex.TEM.189.52595.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "189/162"
+    },
+    {
+      "name": "Wugtrio ex",
+      "set": "Temporal Forces",
+      "img": "https://den-cards.pokellector.com/383/Wugtrio-ex.TEM.190.52596.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "190/162"
+    },
+    {
+      "name": "Iron Crown ex",
+      "set": "Temporal Forces",
+      "img": "https://den-cards.pokellector.com/383/Iron-Crown-ex.TEM.191.52597.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "191/162"
+    },
+    {
+      "name": "Iron Boulder ex",
+      "set": "Temporal Forces",
+      "img": "https://den-cards.pokellector.com/383/Iron-Boulder-ex.TEM.192.52598.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "192/162"
+    },
+    {
+      "name": "Gengar ex",
+      "set": "Temporal Forces",
+      "img": "https://den-cards.pokellector.com/383/Gengar-ex.TEM.193.52599.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "193/162"
+    },
+    {
+      "name": "Farigiraf ex",
+      "set": "Temporal Forces",
+      "img": "https://den-cards.pokellector.com/383/Farigiraf-ex.TEM.194.52409.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "194/162"
+    },
+    {
+      "name": "Scizor ex",
+      "set": "Temporal Forces",
+      "img": "https://den-cards.pokellector.com/383/Scizor-ex.TEM.195.52600.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "195/162"
+    },
+    {
+      "name": "Raging Bolt ex",
+      "set": "Temporal Forces",
+      "img": "https://den-cards.pokellector.com/383/Raging-Bolt-ex.TEM.196.52601.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "196/162"
+    },
+    {
+      "name": "Bianca's Devotion",
+      "set": "Temporal Forces",
+      "img": "https://den-cards.pokellector.com/383/Biancas-Devotion.TEM.197.52602.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "197/162"
+    },
+    {
+      "name": "Ciphermaniac's Codebreaking",
+      "set": "Temporal Forces",
+      "img": "https://den-cards.pokellector.com/383/Ciphermaniacs-Codebreaking.TEM.198.52405.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "198/162"
+    },
+    {
+      "name": "Eri",
+      "set": "Temporal Forces",
+      "img": "https://den-cards.pokellector.com/383/Eri.TEM.199.52603.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "199/162"
+    },
+    {
+      "name": "Explorer's Guidance",
+      "set": "Temporal Forces",
+      "img": "https://den-cards.pokellector.com/383/Explorers-Guidance.TEM.200.52604.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "200/162"
+    },
+    {
+      "name": "Morty's Conviction",
+      "set": "Temporal Forces",
+      "img": "https://den-cards.pokellector.com/383/Mortys-Conviction.TEM.201.52605.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "201/162"
+    },
+    {
+      "name": "Salvatore",
+      "set": "Temporal Forces",
+      "img": "https://den-cards.pokellector.com/383/Salvatore.TEM.202.52407.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "202/162"
+    },
+    {
+      "name": "Iron Leaves ex",
+      "set": "Temporal Forces",
+      "img": "https://den-cards.pokellector.com/383/Iron-Leaves-ex.TEM.203.52606.png",
+      "rarity": "Special Illustration Rare",
+      "cardNum": "203/162"
+    },
+    {
+      "name": "Gouging Fire ex",
+      "set": "Temporal Forces",
+      "img": "https://den-cards.pokellector.com/383/Gouging-Fire-ex.TEM.204.52316.png",
+      "rarity": "Special Illustration Rare",
+      "cardNum": "204/162"
+    },
+    {
+      "name": "Walking Wake ex",
+      "set": "Temporal Forces",
+      "img": "https://den-cards.pokellector.com/383/Walking-Wake-ex.TEM.205.52607.png",
+      "rarity": "Special Illustration Rare",
+      "cardNum": "205/162"
+    },
+    {
+      "name": "Iron Crown ex",
+      "set": "Temporal Forces",
+      "img": "https://den-cards.pokellector.com/383/Iron-Crown-ex.TEM.206.52608.png",
+      "rarity": "Special Illustration Rare",
+      "cardNum": "206/162"
+    },
+    {
+      "name": "Iron Boulder ex",
+      "set": "Temporal Forces",
+      "img": "https://den-cards.pokellector.com/383/Iron-Boulder-ex.TEM.207.52317.png",
+      "rarity": "Special Illustration Rare",
+      "cardNum": "207/162"
+    },
+    {
+      "name": "Raging Bolt ex",
+      "set": "Temporal Forces",
+      "img": "https://den-cards.pokellector.com/383/Raging-Bolt-ex.TEM.208.52609.png",
+      "rarity": "Special Illustration Rare",
+      "cardNum": "208/162"
+    },
+    {
+      "name": "Bianca's Devotion",
+      "set": "Temporal Forces",
+      "img": "https://den-cards.pokellector.com/383/Biancas-Devotion.TEM.209.52610.png",
+      "rarity": "Special Illustration Rare",
+      "cardNum": "209/162"
+    },
+    {
+      "name": "Eri",
+      "set": "Temporal Forces",
+      "img": "https://den-cards.pokellector.com/383/Eri.TEM.210.52611.png",
+      "rarity": "Special Illustration Rare",
+      "cardNum": "210/162"
+    },
+    {
+      "name": "Morty's Conviction",
+      "set": "Temporal Forces",
+      "img": "https://den-cards.pokellector.com/383/Mortys-Conviction.TEM.211.52403.png",
+      "rarity": "Special Illustration Rare",
+      "cardNum": "211/162"
+    },
+    {
+      "name": "Salvatore",
+      "set": "Temporal Forces",
+      "img": "https://den-cards.pokellector.com/383/Salvatore.TEM.212.52612.png",
+      "rarity": "Special Illustration Rare",
+      "cardNum": "212/162"
+    },
+    {
+      "name": "Iron Leaves ex",
+      "set": "Temporal Forces",
+      "img": "https://den-cards.pokellector.com/383/Iron-Leaves-ex.TEM.213.52613.png",
+      "rarity": "Hyper Rare",
+      "cardNum": "213/162"
+    },
+    {
+      "name": "Gouging Fire ex",
+      "set": "Temporal Forces",
+      "img": "https://den-cards.pokellector.com/383/Gouging-Fire-ex.TEM.214.52614.png",
+      "rarity": "Hyper Rare",
+      "cardNum": "214/162"
+    },
+    {
+      "name": "Walking Wake ex",
+      "set": "Temporal Forces",
+      "img": "https://den-cards.pokellector.com/383/Walking-Wake-ex.TEM.215.52615.png",
+      "rarity": "Hyper Rare",
+      "cardNum": "215/162"
+    },
+    {
+      "name": "Iron Crown ex",
+      "set": "Temporal Forces",
+      "img": "https://den-cards.pokellector.com/383/Iron-Crown-ex.TEM.216.52616.png",
+      "rarity": "Hyper Rare",
+      "cardNum": "216/162"
+    },
+    {
+      "name": "Iron Boulder ex",
+      "set": "Temporal Forces",
+      "img": "https://den-cards.pokellector.com/383/Iron-Boulder-ex.TEM.217.52617.png",
+      "rarity": "Hyper Rare",
+      "cardNum": "217/162"
+    },
+    {
+      "name": "Raging Bolt ex",
+      "set": "Temporal Forces",
+      "img": "https://den-cards.pokellector.com/383/Raging-Bolt-ex.TEM.218.52618.png",
+      "rarity": "Hyper Rare",
+      "cardNum": "218/162"
+    }
+  ]
+}

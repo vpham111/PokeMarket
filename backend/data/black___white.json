@@ -1,0 +1,810 @@
+{
+  "setName": "Black & White",
+  "cards": [
+    {
+      "name": "Snivy",
+      "set": "Black & White",
+      "img": "https://den-cards.pokellector.com/1/Snivy.BLW.1.png",
+      "rarity": "Common",
+      "cardNum": "1/114"
+    },
+    {
+      "name": "Snivy",
+      "set": "Black & White",
+      "img": "https://den-cards.pokellector.com/1/Snivy.BLW.2.png",
+      "rarity": "Common",
+      "cardNum": "2/114"
+    },
+    {
+      "name": "Servine",
+      "set": "Black & White",
+      "img": "https://den-cards.pokellector.com/1/Servine.BLW.3.png",
+      "rarity": "Uncommon",
+      "cardNum": "3/114"
+    },
+    {
+      "name": "Servine",
+      "set": "Black & White",
+      "img": "https://den-cards.pokellector.com/1/Servine.BLW.4.png",
+      "rarity": "Uncommon",
+      "cardNum": "4/114"
+    },
+    {
+      "name": "Serperior",
+      "set": "Black & White",
+      "img": "https://den-cards.pokellector.com/1/Serperior.BLW.5.png",
+      "rarity": "Rare",
+      "cardNum": "5/114"
+    },
+    {
+      "name": "Serperior",
+      "set": "Black & White",
+      "img": "https://den-cards.pokellector.com/1/Serperior.BLW.6.png",
+      "rarity": "Rare",
+      "cardNum": "6/114"
+    },
+    {
+      "name": "Pansage",
+      "set": "Black & White",
+      "img": "https://den-cards.pokellector.com/1/Pansage.BLW.7.png",
+      "rarity": "Common",
+      "cardNum": "7/114"
+    },
+    {
+      "name": "Simisage",
+      "set": "Black & White",
+      "img": "https://den-cards.pokellector.com/1/Simisage.BLW.8.png",
+      "rarity": "Uncommon",
+      "cardNum": "8/114"
+    },
+    {
+      "name": "Petilil",
+      "set": "Black & White",
+      "img": "https://den-cards.pokellector.com/1/Petilil.BLW.9.png",
+      "rarity": "Common",
+      "cardNum": "9/114"
+    },
+    {
+      "name": "Lilligant",
+      "set": "Black & White",
+      "img": "https://den-cards.pokellector.com/1/Lilligant.BLW.10.png",
+      "rarity": "Rare",
+      "cardNum": "10/114"
+    },
+    {
+      "name": "Maractus",
+      "set": "Black & White",
+      "img": "https://den-cards.pokellector.com/1/Maractus.BLW.11.png",
+      "rarity": "Uncommon",
+      "cardNum": "11/114"
+    },
+    {
+      "name": "Maractus",
+      "set": "Black & White",
+      "img": "https://den-cards.pokellector.com/1/Maractus.BLW.12.png",
+      "rarity": "Rare",
+      "cardNum": "12/114"
+    },
+    {
+      "name": "Deerling",
+      "set": "Black & White",
+      "img": "https://den-cards.pokellector.com/1/Deerling.BLW.13.png",
+      "rarity": "Common",
+      "cardNum": "13/114"
+    },
+    {
+      "name": "Sawsbuck",
+      "set": "Black & White",
+      "img": "https://den-cards.pokellector.com/1/Sawsbuck.BLW.14.png",
+      "rarity": "Rare",
+      "cardNum": "14/114"
+    },
+    {
+      "name": "Tepig",
+      "set": "Black & White",
+      "img": "https://den-cards.pokellector.com/1/Tepig.BLW.15.png",
+      "rarity": "Common",
+      "cardNum": "15/114"
+    },
+    {
+      "name": "Tepig",
+      "set": "Black & White",
+      "img": "https://den-cards.pokellector.com/1/Tepig.BLW.16.png",
+      "rarity": "Common",
+      "cardNum": "16/114"
+    },
+    {
+      "name": "Pignite",
+      "set": "Black & White",
+      "img": "https://den-cards.pokellector.com/1/Pignite.BLW.17.png",
+      "rarity": "Uncommon",
+      "cardNum": "17/114"
+    },
+    {
+      "name": "Pignite",
+      "set": "Black & White",
+      "img": "https://den-cards.pokellector.com/1/Pignite.BLW.18.png",
+      "rarity": "Uncommon",
+      "cardNum": "18/114"
+    },
+    {
+      "name": "Emboar",
+      "set": "Black & White",
+      "img": "https://den-cards.pokellector.com/1/Emboar.BLW.19.png",
+      "rarity": "Rare",
+      "cardNum": "19/114"
+    },
+    {
+      "name": "Emboar",
+      "set": "Black & White",
+      "img": "https://den-cards.pokellector.com/1/Emboar.BLW.20.png",
+      "rarity": "Rare",
+      "cardNum": "20/114"
+    },
+    {
+      "name": "Pansear",
+      "set": "Black & White",
+      "img": "https://den-cards.pokellector.com/1/Pansear.BLW.21.png",
+      "rarity": "Common",
+      "cardNum": "21/114"
+    },
+    {
+      "name": "Simisear",
+      "set": "Black & White",
+      "img": "https://den-cards.pokellector.com/1/Simisear.BLW.22.png",
+      "rarity": "Uncommon",
+      "cardNum": "22/114"
+    },
+    {
+      "name": "Darumaka",
+      "set": "Black & White",
+      "img": "https://den-cards.pokellector.com/1/Darumaka.BLW.23.png",
+      "rarity": "Common",
+      "cardNum": "23/114"
+    },
+    {
+      "name": "Darumaka",
+      "set": "Black & White",
+      "img": "https://den-cards.pokellector.com/1/Darumaka.BLW.24.png",
+      "rarity": "Uncommon",
+      "cardNum": "24/114"
+    },
+    {
+      "name": "Darmanitan",
+      "set": "Black & White",
+      "img": "https://den-cards.pokellector.com/1/Darmanitan.BLW.25.png",
+      "rarity": "Rare",
+      "cardNum": "25/114"
+    },
+    {
+      "name": "Reshiram",
+      "set": "Black & White",
+      "img": "https://den-cards.pokellector.com/1/Reshiram.BLW.26.png",
+      "rarity": "Rare",
+      "cardNum": "26/114"
+    },
+    {
+      "name": "Oshawott",
+      "set": "Black & White",
+      "img": "https://den-cards.pokellector.com/1/Oshawott.BLW.27.png",
+      "rarity": "Common",
+      "cardNum": "27/114"
+    },
+    {
+      "name": "Oshawott",
+      "set": "Black & White",
+      "img": "https://den-cards.pokellector.com/1/Oshawott.BLW.28.png",
+      "rarity": "Common",
+      "cardNum": "28/114"
+    },
+    {
+      "name": "Dewott",
+      "set": "Black & White",
+      "img": "https://den-cards.pokellector.com/1/Dewott.BLW.29.png",
+      "rarity": "Uncommon",
+      "cardNum": "29/114"
+    },
+    {
+      "name": "Dewott",
+      "set": "Black & White",
+      "img": "https://den-cards.pokellector.com/1/Dewott.BLW.30.png",
+      "rarity": "Uncommon",
+      "cardNum": "30/114"
+    },
+    {
+      "name": "Samurott",
+      "set": "Black & White",
+      "img": "https://den-cards.pokellector.com/1/Samurott.BLW.31.png",
+      "rarity": "Rare",
+      "cardNum": "31/114"
+    },
+    {
+      "name": "Samurott",
+      "set": "Black & White",
+      "img": "https://den-cards.pokellector.com/1/Samurott.BLW.32.png",
+      "rarity": "Rare",
+      "cardNum": "32/114"
+    },
+    {
+      "name": "Panpour",
+      "set": "Black & White",
+      "img": "https://den-cards.pokellector.com/1/Panpour.BLW.33.png",
+      "rarity": "Common",
+      "cardNum": "33/114"
+    },
+    {
+      "name": "Simipour",
+      "set": "Black & White",
+      "img": "https://den-cards.pokellector.com/1/Simipour.BLW.34.png",
+      "rarity": "Uncommon",
+      "cardNum": "34/114"
+    },
+    {
+      "name": "Basculin",
+      "set": "Black & White",
+      "img": "https://den-cards.pokellector.com/1/Basculin.BLW.35.png",
+      "rarity": "Uncommon",
+      "cardNum": "35/114"
+    },
+    {
+      "name": "Ducklett",
+      "set": "Black & White",
+      "img": "https://den-cards.pokellector.com/1/Ducklett.BLW.36.png",
+      "rarity": "Common",
+      "cardNum": "36/114"
+    },
+    {
+      "name": "Swanna",
+      "set": "Black & White",
+      "img": "https://den-cards.pokellector.com/1/Swanna.BLW.37.png",
+      "rarity": "Rare",
+      "cardNum": "37/114"
+    },
+    {
+      "name": "Alomomola",
+      "set": "Black & White",
+      "img": "https://den-cards.pokellector.com/1/Alomomola.BLW.38.png",
+      "rarity": "Uncommon",
+      "cardNum": "38/114"
+    },
+    {
+      "name": "Alomomola",
+      "set": "Black & White",
+      "img": "https://den-cards.pokellector.com/1/Alomomola.BLW.39.png",
+      "rarity": "Rare",
+      "cardNum": "39/114"
+    },
+    {
+      "name": "Blitzle",
+      "set": "Black & White",
+      "img": "https://den-cards.pokellector.com/1/Blitzle.BLW.40.png",
+      "rarity": "Common",
+      "cardNum": "40/114"
+    },
+    {
+      "name": "Blitzle",
+      "set": "Black & White",
+      "img": "https://den-cards.pokellector.com/1/Blitzle.BLW.41.png",
+      "rarity": "Common",
+      "cardNum": "41/114"
+    },
+    {
+      "name": "Zebstrika",
+      "set": "Black & White",
+      "img": "https://den-cards.pokellector.com/1/Zebstrika.BLW.42.png",
+      "rarity": "Uncommon",
+      "cardNum": "42/114"
+    },
+    {
+      "name": "Zebstrika",
+      "set": "Black & White",
+      "img": "https://den-cards.pokellector.com/1/Zebstrika.BLW.43.png",
+      "rarity": "Rare",
+      "cardNum": "43/114"
+    },
+    {
+      "name": "Joltik",
+      "set": "Black & White",
+      "img": "https://den-cards.pokellector.com/1/Joltik.BLW.44.png",
+      "rarity": "Common",
+      "cardNum": "44/114"
+    },
+    {
+      "name": "Joltik",
+      "set": "Black & White",
+      "img": "https://den-cards.pokellector.com/1/Joltik.BLW.45.png",
+      "rarity": "Common",
+      "cardNum": "45/114"
+    },
+    {
+      "name": "Galvantula",
+      "set": "Black & White",
+      "img": "https://den-cards.pokellector.com/1/Galvantula.BLW.46.png",
+      "rarity": "Rare",
+      "cardNum": "46/114"
+    },
+    {
+      "name": "Zekrom",
+      "set": "Black & White",
+      "img": "https://den-cards.pokellector.com/1/Zekrom.BLW.47.png",
+      "rarity": "Rare",
+      "cardNum": "47/114"
+    },
+    {
+      "name": "Munna",
+      "set": "Black & White",
+      "img": "https://den-cards.pokellector.com/1/Munna.BLW.48.png",
+      "rarity": "Uncommon",
+      "cardNum": "48/114"
+    },
+    {
+      "name": "Musharna",
+      "set": "Black & White",
+      "img": "https://den-cards.pokellector.com/1/Musharna.BLW.49.png",
+      "rarity": "Rare",
+      "cardNum": "49/114"
+    },
+    {
+      "name": "Woobat",
+      "set": "Black & White",
+      "img": "https://den-cards.pokellector.com/1/Woobat.BLW.50.png",
+      "rarity": "Common",
+      "cardNum": "50/114"
+    },
+    {
+      "name": "Swoobat",
+      "set": "Black & White",
+      "img": "https://den-cards.pokellector.com/1/Swoobat.BLW.51.png",
+      "rarity": "Uncommon",
+      "cardNum": "51/114"
+    },
+    {
+      "name": "Venipede",
+      "set": "Black & White",
+      "img": "https://den-cards.pokellector.com/1/Venipede.BLW.52.png",
+      "rarity": "Common",
+      "cardNum": "52/114"
+    },
+    {
+      "name": "Whirlipede",
+      "set": "Black & White",
+      "img": "https://den-cards.pokellector.com/1/Whirlipede.BLW.53.png",
+      "rarity": "Uncommon",
+      "cardNum": "53/114"
+    },
+    {
+      "name": "Scolipede",
+      "set": "Black & White",
+      "img": "https://den-cards.pokellector.com/1/Scolipede.BLW.54.png",
+      "rarity": "Rare",
+      "cardNum": "54/114"
+    },
+    {
+      "name": "Solosis",
+      "set": "Black & White",
+      "img": "https://den-cards.pokellector.com/1/Solosis.BLW.55.png",
+      "rarity": "Common",
+      "cardNum": "55/114"
+    },
+    {
+      "name": "Duosion",
+      "set": "Black & White",
+      "img": "https://den-cards.pokellector.com/1/Duosion.BLW.56.png",
+      "rarity": "Uncommon",
+      "cardNum": "56/114"
+    },
+    {
+      "name": "Reuniclus",
+      "set": "Black & White",
+      "img": "https://den-cards.pokellector.com/1/Reuniclus.BLW.57.png",
+      "rarity": "Rare",
+      "cardNum": "57/114"
+    },
+    {
+      "name": "Timburr",
+      "set": "Black & White",
+      "img": "https://den-cards.pokellector.com/1/Timburr.BLW.58.png",
+      "rarity": "Common",
+      "cardNum": "58/114"
+    },
+    {
+      "name": "Timburr",
+      "set": "Black & White",
+      "img": "https://den-cards.pokellector.com/1/Timburr.BLW.59.png",
+      "rarity": "Common",
+      "cardNum": "59/114"
+    },
+    {
+      "name": "Gurdurr",
+      "set": "Black & White",
+      "img": "https://den-cards.pokellector.com/1/Gurdurr.BLW.60.png",
+      "rarity": "Uncommon",
+      "cardNum": "60/114"
+    },
+    {
+      "name": "Throh",
+      "set": "Black & White",
+      "img": "https://den-cards.pokellector.com/1/Throh.BLW.61.png",
+      "rarity": "Rare",
+      "cardNum": "61/114"
+    },
+    {
+      "name": "Sawk",
+      "set": "Black & White",
+      "img": "https://den-cards.pokellector.com/1/Sawk.BLW.62.png",
+      "rarity": "Rare",
+      "cardNum": "62/114"
+    },
+    {
+      "name": "Sandile",
+      "set": "Black & White",
+      "img": "https://den-cards.pokellector.com/1/Sandile.BLW.63.png",
+      "rarity": "Common",
+      "cardNum": "63/114"
+    },
+    {
+      "name": "Krokorok",
+      "set": "Black & White",
+      "img": "https://den-cards.pokellector.com/1/Krokorok.BLW.64.png",
+      "rarity": "Uncommon",
+      "cardNum": "64/114"
+    },
+    {
+      "name": "Krookodile",
+      "set": "Black & White",
+      "img": "https://den-cards.pokellector.com/1/Krookodile.BLW.65.png",
+      "rarity": "Rare",
+      "cardNum": "65/114"
+    },
+    {
+      "name": "Purrloin",
+      "set": "Black & White",
+      "img": "https://den-cards.pokellector.com/1/Purrloin.BLW.66.png",
+      "rarity": "Common",
+      "cardNum": "66/114"
+    },
+    {
+      "name": "Liepard",
+      "set": "Black & White",
+      "img": "https://den-cards.pokellector.com/1/Liepard.BLW.67.png",
+      "rarity": "Rare",
+      "cardNum": "67/114"
+    },
+    {
+      "name": "Scraggy",
+      "set": "Black & White",
+      "img": "https://den-cards.pokellector.com/1/Scraggy.BLW.68.png",
+      "rarity": "Common",
+      "cardNum": "68/114"
+    },
+    {
+      "name": "Scrafty",
+      "set": "Black & White",
+      "img": "https://den-cards.pokellector.com/1/Scrafty.BLW.69.png",
+      "rarity": "Rare",
+      "cardNum": "69/114"
+    },
+    {
+      "name": "Zorua",
+      "set": "Black & White",
+      "img": "https://den-cards.pokellector.com/1/Zorua.BLW.70.png",
+      "rarity": "Common",
+      "cardNum": "70/114"
+    },
+    {
+      "name": "Zoroark",
+      "set": "Black & White",
+      "img": "https://den-cards.pokellector.com/1/Zoroark.BLW.71.png",
+      "rarity": "Rare",
+      "cardNum": "71/114"
+    },
+    {
+      "name": "Vullaby",
+      "set": "Black & White",
+      "img": "https://den-cards.pokellector.com/1/Vullaby.BLW.72.png",
+      "rarity": "Uncommon",
+      "cardNum": "72/114"
+    },
+    {
+      "name": "Mandibuzz",
+      "set": "Black & White",
+      "img": "https://den-cards.pokellector.com/1/Mandibuzz.BLW.73.png",
+      "rarity": "Rare",
+      "cardNum": "73/114"
+    },
+    {
+      "name": "Klink",
+      "set": "Black & White",
+      "img": "https://den-cards.pokellector.com/1/Klink.BLW.74.png",
+      "rarity": "Common",
+      "cardNum": "74/114"
+    },
+    {
+      "name": "Klang",
+      "set": "Black & White",
+      "img": "https://den-cards.pokellector.com/1/Klang.BLW.75.png",
+      "rarity": "Uncommon",
+      "cardNum": "75/114"
+    },
+    {
+      "name": "Klinklang",
+      "set": "Black & White",
+      "img": "https://den-cards.pokellector.com/1/Klinklang.BLW.76.png",
+      "rarity": "Rare",
+      "cardNum": "76/114"
+    },
+    {
+      "name": "Patrat",
+      "set": "Black & White",
+      "img": "https://den-cards.pokellector.com/1/Patrat.BLW.77.png",
+      "rarity": "Common",
+      "cardNum": "77/114"
+    },
+    {
+      "name": "Patrat",
+      "set": "Black & White",
+      "img": "https://den-cards.pokellector.com/1/Patrat.BLW.78.png",
+      "rarity": "Common",
+      "cardNum": "78/114"
+    },
+    {
+      "name": "Watchog",
+      "set": "Black & White",
+      "img": "https://den-cards.pokellector.com/1/Watchog.BLW.79.png",
+      "rarity": "Uncommon",
+      "cardNum": "79/114"
+    },
+    {
+      "name": "Lillipup",
+      "set": "Black & White",
+      "img": "https://den-cards.pokellector.com/1/Lillipup.BLW.80.png",
+      "rarity": "Common",
+      "cardNum": "80/114"
+    },
+    {
+      "name": "Lillipup",
+      "set": "Black & White",
+      "img": "https://den-cards.pokellector.com/1/Lillipup.BLW.81.png",
+      "rarity": "Common",
+      "cardNum": "81/114"
+    },
+    {
+      "name": "Herdier",
+      "set": "Black & White",
+      "img": "https://den-cards.pokellector.com/1/Herdier.BLW.82.png",
+      "rarity": "Uncommon",
+      "cardNum": "82/114"
+    },
+    {
+      "name": "Stoutland",
+      "set": "Black & White",
+      "img": "https://den-cards.pokellector.com/1/Stoutland.BLW.83.png",
+      "rarity": "Rare",
+      "cardNum": "83/114"
+    },
+    {
+      "name": "Pidove",
+      "set": "Black & White",
+      "img": "https://den-cards.pokellector.com/1/Pidove.BLW.84.png",
+      "rarity": "Common",
+      "cardNum": "84/114"
+    },
+    {
+      "name": "Tranquill",
+      "set": "Black & White",
+      "img": "https://den-cards.pokellector.com/1/Tranquill.BLW.85.png",
+      "rarity": "Uncommon",
+      "cardNum": "85/114"
+    },
+    {
+      "name": "Unfezant",
+      "set": "Black & White",
+      "img": "https://den-cards.pokellector.com/1/Unfezant.BLW.86.png",
+      "rarity": "Rare",
+      "cardNum": "86/114"
+    },
+    {
+      "name": "Audino",
+      "set": "Black & White",
+      "img": "https://den-cards.pokellector.com/1/Audino.BLW.87.png",
+      "rarity": "Uncommon",
+      "cardNum": "87/114"
+    },
+    {
+      "name": "Minccino",
+      "set": "Black & White",
+      "img": "https://den-cards.pokellector.com/1/Minccino.BLW.88.png",
+      "rarity": "Common",
+      "cardNum": "88/114"
+    },
+    {
+      "name": "Cinccino",
+      "set": "Black & White",
+      "img": "https://den-cards.pokellector.com/1/Cinccino.BLW.89.png",
+      "rarity": "Rare",
+      "cardNum": "89/114"
+    },
+    {
+      "name": "Bouffalant",
+      "set": "Black & White",
+      "img": "https://den-cards.pokellector.com/1/Bouffalant.BLW.90.png",
+      "rarity": "Uncommon",
+      "cardNum": "90/114"
+    },
+    {
+      "name": "Bouffalant",
+      "set": "Black & White",
+      "img": "https://den-cards.pokellector.com/1/Bouffalant.BLW.91.png",
+      "rarity": "Rare",
+      "cardNum": "91/114"
+    },
+    {
+      "name": "Energy Retrieval",
+      "set": "Black & White",
+      "img": "https://den-cards.pokellector.com/1/Energy-Retrieval.BLW.92.png",
+      "rarity": "Uncommon",
+      "cardNum": "92/114"
+    },
+    {
+      "name": "Energy Search",
+      "set": "Black & White",
+      "img": "https://den-cards.pokellector.com/1/Energy-Search.BLW.93.png",
+      "rarity": "Common",
+      "cardNum": "93/114"
+    },
+    {
+      "name": "Energy Switch",
+      "set": "Black & White",
+      "img": "https://den-cards.pokellector.com/1/Energy-Switch.BLW.94.png",
+      "rarity": "Uncommon",
+      "cardNum": "94/114"
+    },
+    {
+      "name": "Full Heal",
+      "set": "Black & White",
+      "img": "https://den-cards.pokellector.com/1/Full-Heal.BLW.95.png",
+      "rarity": "Uncommon",
+      "cardNum": "95/114"
+    },
+    {
+      "name": "PlusPower",
+      "set": "Black & White",
+      "img": "https://den-cards.pokellector.com/1/PlusPower.BLW.96.png",
+      "rarity": "Uncommon",
+      "cardNum": "96/114"
+    },
+    {
+      "name": "Poke Ball",
+      "set": "Black & White",
+      "img": "https://den-cards.pokellector.com/1/Poke-Ball.BLW.97.png",
+      "rarity": "Uncommon",
+      "cardNum": "97/114"
+    },
+    {
+      "name": "Pokedex",
+      "set": "Black & White",
+      "img": "https://den-cards.pokellector.com/1/Pokedex.BLW.98.png",
+      "rarity": "Uncommon",
+      "cardNum": "98/114"
+    },
+    {
+      "name": "Pokemon Communication",
+      "set": "Black & White",
+      "img": "https://den-cards.pokellector.com/1/Pokemon-Communication.BLW.99.png",
+      "rarity": "Uncommon",
+      "cardNum": "99/114"
+    },
+    {
+      "name": "Potion",
+      "set": "Black & White",
+      "img": "https://den-cards.pokellector.com/1/Potion.BLW.100.png",
+      "rarity": "Common",
+      "cardNum": "100/114"
+    },
+    {
+      "name": "Professor Juniper",
+      "set": "Black & White",
+      "img": "https://den-cards.pokellector.com/1/Professor-Juniper.BLW.101.png",
+      "rarity": "Uncommon",
+      "cardNum": "101/114"
+    },
+    {
+      "name": "Revive",
+      "set": "Black & White",
+      "img": "https://den-cards.pokellector.com/1/Revive.BLW.102.png",
+      "rarity": "Uncommon",
+      "cardNum": "102/114"
+    },
+    {
+      "name": "Super Scoop Up",
+      "set": "Black & White",
+      "img": "https://den-cards.pokellector.com/1/Super-Scoop-Up.BLW.103.png",
+      "rarity": "Uncommon",
+      "cardNum": "103/114"
+    },
+    {
+      "name": "Switch",
+      "set": "Black & White",
+      "img": "https://den-cards.pokellector.com/1/Switch.BLW.104.png",
+      "rarity": "Uncommon",
+      "cardNum": "104/114"
+    },
+    {
+      "name": "Grass Energy",
+      "set": "Black & White",
+      "img": "https://den-cards.pokellector.com/1/Grass-Energy.BLW.105.png",
+      "rarity": "Common",
+      "cardNum": "105/114"
+    },
+    {
+      "name": "Fire Energy",
+      "set": "Black & White",
+      "img": "https://den-cards.pokellector.com/1/Fire-Energy.BLW.106.png",
+      "rarity": "Common",
+      "cardNum": "106/114"
+    },
+    {
+      "name": "Water Energy",
+      "set": "Black & White",
+      "img": "https://den-cards.pokellector.com/1/Water-Energy.BLW.107.png",
+      "rarity": "Common",
+      "cardNum": "107/114"
+    },
+    {
+      "name": "Lightning Energy",
+      "set": "Black & White",
+      "img": "https://den-cards.pokellector.com/1/Lightning-Energy.BLW.108.png",
+      "rarity": "Common",
+      "cardNum": "108/114"
+    },
+    {
+      "name": "Psychic Energy",
+      "set": "Black & White",
+      "img": "https://den-cards.pokellector.com/1/Psychic-Energy.BLW.109.png",
+      "rarity": "Common",
+      "cardNum": "109/114"
+    },
+    {
+      "name": "Fighting Energy",
+      "set": "Black & White",
+      "img": "https://den-cards.pokellector.com/1/Fighting-Energy.BLW.110.png",
+      "rarity": "Common",
+      "cardNum": "110/114"
+    },
+    {
+      "name": "Darkness Energy",
+      "set": "Black & White",
+      "img": "https://den-cards.pokellector.com/1/Darkness-Energy.BLW.111.png",
+      "rarity": "Common",
+      "cardNum": "111/114"
+    },
+    {
+      "name": "Metal Energy",
+      "set": "Black & White",
+      "img": "https://den-cards.pokellector.com/1/Metal-Energy.BLW.112.png",
+      "rarity": "Common",
+      "cardNum": "112/114"
+    },
+    {
+      "name": "Reshiram",
+      "set": "Black & White",
+      "img": "https://den-cards.pokellector.com/1/Reshiram.BLW.113.png",
+      "rarity": "Rare",
+      "cardNum": "113/114"
+    },
+    {
+      "name": "Zekrom",
+      "set": "Black & White",
+      "img": "https://den-cards.pokellector.com/1/Zekrom.BLW.114.png",
+      "rarity": "Rare",
+      "cardNum": "114/114"
+    },
+    {
+      "name": "Pikachu",
+      "set": "Black & White",
+      "img": "https://den-cards.pokellector.com/1/Pikachu.BLW.115.png",
+      "rarity": "Secret Rare",
+      "cardNum": "115/114"
+    }
+  ]
+}

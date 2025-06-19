@@ -1,0 +1,775 @@
+{
+  "setName": "Legendary Collection",
+  "cards": [
+    {
+      "name": "Alakazam",
+      "set": "Legendary Collection",
+      "img": "https://den-cards.pokellector.com/112/Alakazam.LC.1.7079.png",
+      "rarity": "Rare",
+      "cardNum": "1/110"
+    },
+    {
+      "name": "Articuno",
+      "set": "Legendary Collection",
+      "img": "https://den-cards.pokellector.com/112/Articuno.LC.2.png",
+      "rarity": "Rare",
+      "cardNum": "2/110"
+    },
+    {
+      "name": "Charizard",
+      "set": "Legendary Collection",
+      "img": "https://den-cards.pokellector.com/112/Charizard.LC.3.png",
+      "rarity": "Rare",
+      "cardNum": "3/110"
+    },
+    {
+      "name": "Dark Blastoise",
+      "set": "Legendary Collection",
+      "img": "https://den-cards.pokellector.com/112/Dark-Blastoise.LC.4.7082.png",
+      "rarity": "Rare",
+      "cardNum": "4/110"
+    },
+    {
+      "name": "Dark Dragonite",
+      "set": "Legendary Collection",
+      "img": "https://den-cards.pokellector.com/112/Dark-Dragonite.LC.5.png",
+      "rarity": "Rare",
+      "cardNum": "5/110"
+    },
+    {
+      "name": "Dark Persian",
+      "set": "Legendary Collection",
+      "img": "https://den-cards.pokellector.com/112/Dark-Persian.LC.6.png",
+      "rarity": "Rare",
+      "cardNum": "6/110"
+    },
+    {
+      "name": "Dark Raichu",
+      "set": "Legendary Collection",
+      "img": "https://den-cards.pokellector.com/112/Dark-Raichu.LC.7.7085.png",
+      "rarity": "Rare",
+      "cardNum": "7/110"
+    },
+    {
+      "name": "Dark Slowbro",
+      "set": "Legendary Collection",
+      "img": "https://den-cards.pokellector.com/112/Dark-Slowbro.LC.8.7086.png",
+      "rarity": "Rare",
+      "cardNum": "8/110"
+    },
+    {
+      "name": "Dark Vaporeon",
+      "set": "Legendary Collection",
+      "img": "https://den-cards.pokellector.com/112/Dark-Vaporeon.LC.9.7087.png",
+      "rarity": "Rare",
+      "cardNum": "9/110"
+    },
+    {
+      "name": "Flareon",
+      "set": "Legendary Collection",
+      "img": "https://den-cards.pokellector.com/112/Flareon.LC.10.7088.png",
+      "rarity": "Rare",
+      "cardNum": "10/110"
+    },
+    {
+      "name": "Gengar",
+      "set": "Legendary Collection",
+      "img": "https://den-cards.pokellector.com/112/Gengar.LC.11.7089.png",
+      "rarity": "Rare",
+      "cardNum": "11/110"
+    },
+    {
+      "name": "Gyarados",
+      "set": "Legendary Collection",
+      "img": "https://den-cards.pokellector.com/112/Gyarados.LC.12.7090.png",
+      "rarity": "Rare",
+      "cardNum": "12/110"
+    },
+    {
+      "name": "Hitmonlee",
+      "set": "Legendary Collection",
+      "img": "https://den-cards.pokellector.com/112/Hitmonlee.LC.13.7091.png",
+      "rarity": "Rare",
+      "cardNum": "13/110"
+    },
+    {
+      "name": "Jolteon",
+      "set": "Legendary Collection",
+      "img": "https://den-cards.pokellector.com/112/Jolteon.LC.14.7092.png",
+      "rarity": "Rare",
+      "cardNum": "14/110"
+    },
+    {
+      "name": "Machamp",
+      "set": "Legendary Collection",
+      "img": "https://den-cards.pokellector.com/112/Machamp.LC.15.7093.png",
+      "rarity": "Rare",
+      "cardNum": "15/110"
+    },
+    {
+      "name": "Muk",
+      "set": "Legendary Collection",
+      "img": "https://den-cards.pokellector.com/112/Muk.LC.16.7094.png",
+      "rarity": "Rare",
+      "cardNum": "16/110"
+    },
+    {
+      "name": "Ninetales",
+      "set": "Legendary Collection",
+      "img": "https://den-cards.pokellector.com/112/Ninetales.LC.17.7095.png",
+      "rarity": "Rare",
+      "cardNum": "17/110"
+    },
+    {
+      "name": "Venusaur",
+      "set": "Legendary Collection",
+      "img": "https://den-cards.pokellector.com/112/Venusaur.LC.18.png",
+      "rarity": "Rare",
+      "cardNum": "18/110"
+    },
+    {
+      "name": "Zapdos",
+      "set": "Legendary Collection",
+      "img": "https://den-cards.pokellector.com/112/Zapdos.LC.19.7097.png",
+      "rarity": "Rare",
+      "cardNum": "19/110"
+    },
+    {
+      "name": "Beedrill",
+      "set": "Legendary Collection",
+      "img": "https://den-cards.pokellector.com/112/Beedrill.LC.20.png",
+      "rarity": "Rare",
+      "cardNum": "20/110"
+    },
+    {
+      "name": "Butterfree",
+      "set": "Legendary Collection",
+      "img": "https://den-cards.pokellector.com/112/Butterfree.LC.21.7099.png",
+      "rarity": "Rare",
+      "cardNum": "21/110"
+    },
+    {
+      "name": "Electrode",
+      "set": "Legendary Collection",
+      "img": "https://den-cards.pokellector.com/112/Electrode.LC.22.7100.png",
+      "rarity": "Rare",
+      "cardNum": "22/110"
+    },
+    {
+      "name": "Exeggutor",
+      "set": "Legendary Collection",
+      "img": "https://den-cards.pokellector.com/112/Exeggutor.LC.23.png",
+      "rarity": "Rare",
+      "cardNum": "23/110"
+    },
+    {
+      "name": "Golem",
+      "set": "Legendary Collection",
+      "img": "https://den-cards.pokellector.com/112/Golem.LC.24.7102.png",
+      "rarity": "Rare",
+      "cardNum": "24/110"
+    },
+    {
+      "name": "Hypno",
+      "set": "Legendary Collection",
+      "img": "https://den-cards.pokellector.com/112/Hypno.LC.25.7103.png",
+      "rarity": "Rare",
+      "cardNum": "25/110"
+    },
+    {
+      "name": "Jynx",
+      "set": "Legendary Collection",
+      "img": "https://den-cards.pokellector.com/112/Jynx.LC.26.7104.png",
+      "rarity": "Rare",
+      "cardNum": "26/110"
+    },
+    {
+      "name": "Kabutops",
+      "set": "Legendary Collection",
+      "img": "https://den-cards.pokellector.com/112/Kabutops.LC.27.7105.png",
+      "rarity": "Rare",
+      "cardNum": "27/110"
+    },
+    {
+      "name": "Magneton",
+      "set": "Legendary Collection",
+      "img": "https://den-cards.pokellector.com/112/Magneton.LC.28.png",
+      "rarity": "Rare",
+      "cardNum": "28/110"
+    },
+    {
+      "name": "Mewtwo",
+      "set": "Legendary Collection",
+      "img": "https://den-cards.pokellector.com/112/Mewtwo.LC.29.png",
+      "rarity": "Rare",
+      "cardNum": "29/110"
+    },
+    {
+      "name": "Moltres",
+      "set": "Legendary Collection",
+      "img": "https://den-cards.pokellector.com/112/Moltres.LC.30.7108.png",
+      "rarity": "Rare",
+      "cardNum": "30/110"
+    },
+    {
+      "name": "Nidoking",
+      "set": "Legendary Collection",
+      "img": "https://den-cards.pokellector.com/112/Nidoking.LC.31.7109.png",
+      "rarity": "Rare",
+      "cardNum": "31/110"
+    },
+    {
+      "name": "Nidoqueen",
+      "set": "Legendary Collection",
+      "img": "https://den-cards.pokellector.com/112/Nidoqueen.LC.32.7110.png",
+      "rarity": "Rare",
+      "cardNum": "32/110"
+    },
+    {
+      "name": "Pidgeot",
+      "set": "Legendary Collection",
+      "img": "https://den-cards.pokellector.com/112/Pidgeot.LC.33.7111.png",
+      "rarity": "Rare",
+      "cardNum": "33/110"
+    },
+    {
+      "name": "Pidgeotto",
+      "set": "Legendary Collection",
+      "img": "https://den-cards.pokellector.com/112/Pidgeotto.LC.34.7112.png",
+      "rarity": "Rare",
+      "cardNum": "34/110"
+    },
+    {
+      "name": "Rhydon",
+      "set": "Legendary Collection",
+      "img": "https://den-cards.pokellector.com/112/Rhydon.LC.35.7113.png",
+      "rarity": "Rare",
+      "cardNum": "35/110"
+    },
+    {
+      "name": "Arcanine",
+      "set": "Legendary Collection",
+      "img": "https://den-cards.pokellector.com/112/Arcanine.LC.36.7114.png",
+      "rarity": "Uncommon",
+      "cardNum": "36/110"
+    },
+    {
+      "name": "Charmeleon",
+      "set": "Legendary Collection",
+      "img": "https://den-cards.pokellector.com/112/Charmeleon.LC.37.png",
+      "rarity": "Uncommon",
+      "cardNum": "37/110"
+    },
+    {
+      "name": "Dark Dragonair",
+      "set": "Legendary Collection",
+      "img": "https://den-cards.pokellector.com/112/Dark-Dragonair.LC.38.7116.png",
+      "rarity": "Uncommon",
+      "cardNum": "38/110"
+    },
+    {
+      "name": "Dark Wartortle",
+      "set": "Legendary Collection",
+      "img": "https://den-cards.pokellector.com/112/Dark-Wartortle.LC.39.7117.png",
+      "rarity": "Uncommon",
+      "cardNum": "39/110"
+    },
+    {
+      "name": "Dewgong",
+      "set": "Legendary Collection",
+      "img": "https://den-cards.pokellector.com/112/Dewgong.LC.40.7118.png",
+      "rarity": "Uncommon",
+      "cardNum": "40/110"
+    },
+    {
+      "name": "Dodrio",
+      "set": "Legendary Collection",
+      "img": "https://den-cards.pokellector.com/112/Dodrio.LC.41.png",
+      "rarity": "Uncommon",
+      "cardNum": "41/110"
+    },
+    {
+      "name": "Fearow",
+      "set": "Legendary Collection",
+      "img": "https://den-cards.pokellector.com/112/Fearow.LC.42.png",
+      "rarity": "Uncommon",
+      "cardNum": "42/110"
+    },
+    {
+      "name": "Golduck",
+      "set": "Legendary Collection",
+      "img": "https://den-cards.pokellector.com/112/Golduck.LC.43.7121.png",
+      "rarity": "Uncommon",
+      "cardNum": "43/110"
+    },
+    {
+      "name": "Graveler",
+      "set": "Legendary Collection",
+      "img": "https://den-cards.pokellector.com/112/Graveler.LC.44.png",
+      "rarity": "Uncommon",
+      "cardNum": "44/110"
+    },
+    {
+      "name": "Growlithe",
+      "set": "Legendary Collection",
+      "img": "https://den-cards.pokellector.com/112/Growlithe.LC.45.png",
+      "rarity": "Uncommon",
+      "cardNum": "45/110"
+    },
+    {
+      "name": "Haunter",
+      "set": "Legendary Collection",
+      "img": "https://den-cards.pokellector.com/112/Haunter.LC.46.7124.png",
+      "rarity": "Uncommon",
+      "cardNum": "46/110"
+    },
+    {
+      "name": "Ivysaur",
+      "set": "Legendary Collection",
+      "img": "https://den-cards.pokellector.com/112/Ivysaur.LC.47.png",
+      "rarity": "Uncommon",
+      "cardNum": "47/110"
+    },
+    {
+      "name": "Kabuto",
+      "set": "Legendary Collection",
+      "img": "https://den-cards.pokellector.com/112/Kabuto.LC.48.7126.png",
+      "rarity": "Uncommon",
+      "cardNum": "48/110"
+    },
+    {
+      "name": "Kadabra",
+      "set": "Legendary Collection",
+      "img": "https://den-cards.pokellector.com/112/Kadabra.LC.49.7127.png",
+      "rarity": "Uncommon",
+      "cardNum": "49/110"
+    },
+    {
+      "name": "Kakuna",
+      "set": "Legendary Collection",
+      "img": "https://den-cards.pokellector.com/112/Kakuna.LC.50.7128.png",
+      "rarity": "Uncommon",
+      "cardNum": "50/110"
+    },
+    {
+      "name": "Machoke",
+      "set": "Legendary Collection",
+      "img": "https://den-cards.pokellector.com/112/Machoke.LC.51.7129.png",
+      "rarity": "Uncommon",
+      "cardNum": "51/110"
+    },
+    {
+      "name": "Magikarp",
+      "set": "Legendary Collection",
+      "img": "https://den-cards.pokellector.com/112/Magikarp.LC.52.7130.png",
+      "rarity": "Uncommon",
+      "cardNum": "52/110"
+    },
+    {
+      "name": "Meowth",
+      "set": "Legendary Collection",
+      "img": "https://den-cards.pokellector.com/112/Meowth.LC.53.7131.png",
+      "rarity": "Uncommon",
+      "cardNum": "53/110"
+    },
+    {
+      "name": "Metapod",
+      "set": "Legendary Collection",
+      "img": "https://den-cards.pokellector.com/112/Metapod.LC.54.7132.png",
+      "rarity": "Uncommon",
+      "cardNum": "54/110"
+    },
+    {
+      "name": "Nidorina",
+      "set": "Legendary Collection",
+      "img": "https://den-cards.pokellector.com/112/Nidorina.LC.55.7133.png",
+      "rarity": "Uncommon",
+      "cardNum": "55/110"
+    },
+    {
+      "name": "Nidorino",
+      "set": "Legendary Collection",
+      "img": "https://den-cards.pokellector.com/112/Nidorino.LC.56.png",
+      "rarity": "Uncommon",
+      "cardNum": "56/110"
+    },
+    {
+      "name": "Omanyte",
+      "set": "Legendary Collection",
+      "img": "https://den-cards.pokellector.com/112/Omanyte.LC.57.png",
+      "rarity": "Uncommon",
+      "cardNum": "57/110"
+    },
+    {
+      "name": "Omastar",
+      "set": "Legendary Collection",
+      "img": "https://den-cards.pokellector.com/112/Omastar.LC.58.png",
+      "rarity": "Uncommon",
+      "cardNum": "58/110"
+    },
+    {
+      "name": "Primeape",
+      "set": "Legendary Collection",
+      "img": "https://den-cards.pokellector.com/112/Primeape.LC.59.7137.png",
+      "rarity": "Uncommon",
+      "cardNum": "59/110"
+    },
+    {
+      "name": "Rapidash",
+      "set": "Legendary Collection",
+      "img": "https://den-cards.pokellector.com/112/Rapidash.LC.60.7138.png",
+      "rarity": "Uncommon",
+      "cardNum": "60/110"
+    },
+    {
+      "name": "Raticate",
+      "set": "Legendary Collection",
+      "img": "https://den-cards.pokellector.com/112/Raticate.LC.61.png",
+      "rarity": "Uncommon",
+      "cardNum": "61/110"
+    },
+    {
+      "name": "Sandslash",
+      "set": "Legendary Collection",
+      "img": "https://den-cards.pokellector.com/112/Sandslash.LC.62.7140.png",
+      "rarity": "Uncommon",
+      "cardNum": "62/110"
+    },
+    {
+      "name": "Seadra",
+      "set": "Legendary Collection",
+      "img": "https://den-cards.pokellector.com/112/Seadra.LC.63.png",
+      "rarity": "Uncommon",
+      "cardNum": "63/110"
+    },
+    {
+      "name": "Snorlax",
+      "set": "Legendary Collection",
+      "img": "https://den-cards.pokellector.com/112/Snorlax.LC.64.7142.png",
+      "rarity": "Uncommon",
+      "cardNum": "64/110"
+    },
+    {
+      "name": "Tauros",
+      "set": "Legendary Collection",
+      "img": "https://den-cards.pokellector.com/112/Tauros.LC.65.7143.png",
+      "rarity": "Uncommon",
+      "cardNum": "65/110"
+    },
+    {
+      "name": "Tentacruel",
+      "set": "Legendary Collection",
+      "img": "https://den-cards.pokellector.com/112/Tentacruel.LC.66.png",
+      "rarity": "Uncommon",
+      "cardNum": "66/110"
+    },
+    {
+      "name": "Abra",
+      "set": "Legendary Collection",
+      "img": "https://den-cards.pokellector.com/112/Abra.LC.67.png",
+      "rarity": "Common",
+      "cardNum": "67/110"
+    },
+    {
+      "name": "Bulbasaur",
+      "set": "Legendary Collection",
+      "img": "https://den-cards.pokellector.com/112/Bulbasaur.LC.68.7146.png",
+      "rarity": "Common",
+      "cardNum": "68/110"
+    },
+    {
+      "name": "Caterpie",
+      "set": "Legendary Collection",
+      "img": "https://den-cards.pokellector.com/112/Caterpie.LC.69.png",
+      "rarity": "Common",
+      "cardNum": "69/110"
+    },
+    {
+      "name": "Charmander",
+      "set": "Legendary Collection",
+      "img": "https://den-cards.pokellector.com/112/Charmander.LC.70.7148.png",
+      "rarity": "Common",
+      "cardNum": "70/110"
+    },
+    {
+      "name": "Doduo",
+      "set": "Legendary Collection",
+      "img": "https://den-cards.pokellector.com/112/Doduo.LC.71.png",
+      "rarity": "Common",
+      "cardNum": "71/110"
+    },
+    {
+      "name": "Dratini",
+      "set": "Legendary Collection",
+      "img": "https://den-cards.pokellector.com/112/Dratini.LC.72.png",
+      "rarity": "Common",
+      "cardNum": "72/110"
+    },
+    {
+      "name": "Drowzee",
+      "set": "Legendary Collection",
+      "img": "https://den-cards.pokellector.com/112/Drowzee.LC.73.7151.png",
+      "rarity": "Common",
+      "cardNum": "73/110"
+    },
+    {
+      "name": "Eevee",
+      "set": "Legendary Collection",
+      "img": "https://den-cards.pokellector.com/112/Eevee.LC.74.7152.png",
+      "rarity": "Common",
+      "cardNum": "74/110"
+    },
+    {
+      "name": "Exeggcute",
+      "set": "Legendary Collection",
+      "img": "https://den-cards.pokellector.com/112/Exeggcute.LC.75.png",
+      "rarity": "Common",
+      "cardNum": "75/110"
+    },
+    {
+      "name": "Gastly",
+      "set": "Legendary Collection",
+      "img": "https://den-cards.pokellector.com/112/Gastly.LC.76.7154.png",
+      "rarity": "Common",
+      "cardNum": "76/110"
+    },
+    {
+      "name": "Geodude",
+      "set": "Legendary Collection",
+      "img": "https://den-cards.pokellector.com/112/Geodude.LC.77.7155.png",
+      "rarity": "Common",
+      "cardNum": "77/110"
+    },
+    {
+      "name": "Grimer",
+      "set": "Legendary Collection",
+      "img": "https://den-cards.pokellector.com/112/Grimer.LC.78.7156.png",
+      "rarity": "Common",
+      "cardNum": "78/110"
+    },
+    {
+      "name": "Machop",
+      "set": "Legendary Collection",
+      "img": "https://den-cards.pokellector.com/112/Machop.LC.79.7157.png",
+      "rarity": "Common",
+      "cardNum": "79/110"
+    },
+    {
+      "name": "Magnemite",
+      "set": "Legendary Collection",
+      "img": "https://den-cards.pokellector.com/112/Magnemite.LC.80.7158.png",
+      "rarity": "Common",
+      "cardNum": "80/110"
+    },
+    {
+      "name": "Mankey",
+      "set": "Legendary Collection",
+      "img": "https://den-cards.pokellector.com/112/Mankey.LC.81.png",
+      "rarity": "Common",
+      "cardNum": "81/110"
+    },
+    {
+      "name": "Nidoran F",
+      "set": "Legendary Collection",
+      "img": "https://den-cards.pokellector.com/112/Nidoran-F.LC.82.7160.png",
+      "rarity": "Common",
+      "cardNum": "82/110"
+    },
+    {
+      "name": "Nidoran M",
+      "set": "Legendary Collection",
+      "img": "https://den-cards.pokellector.com/112/Nidoran-M.LC.83.png",
+      "rarity": "Common",
+      "cardNum": "83/110"
+    },
+    {
+      "name": "Onix",
+      "set": "Legendary Collection",
+      "img": "https://den-cards.pokellector.com/112/Onix.LC.84.png",
+      "rarity": "Common",
+      "cardNum": "84/110"
+    },
+    {
+      "name": "Pidgey",
+      "set": "Legendary Collection",
+      "img": "https://den-cards.pokellector.com/112/Pidgey.LC.85.png",
+      "rarity": "Common",
+      "cardNum": "85/110"
+    },
+    {
+      "name": "Pikachu",
+      "set": "Legendary Collection",
+      "img": "https://den-cards.pokellector.com/112/Pikachu.LC.86.png",
+      "rarity": "Common",
+      "cardNum": "86/110"
+    },
+    {
+      "name": "Ponyta",
+      "set": "Legendary Collection",
+      "img": "https://den-cards.pokellector.com/112/Ponyta.LC.87.7165.png",
+      "rarity": "Common",
+      "cardNum": "87/110"
+    },
+    {
+      "name": "Psyduck",
+      "set": "Legendary Collection",
+      "img": "https://den-cards.pokellector.com/112/Psyduck.LC.88.7166.png",
+      "rarity": "Common",
+      "cardNum": "88/110"
+    },
+    {
+      "name": "Rattata",
+      "set": "Legendary Collection",
+      "img": "https://den-cards.pokellector.com/112/Rattata.LC.89.png",
+      "rarity": "Common",
+      "cardNum": "89/110"
+    },
+    {
+      "name": "Rhyhorn",
+      "set": "Legendary Collection",
+      "img": "https://den-cards.pokellector.com/112/Rhyhorn.LC.90.png",
+      "rarity": "Common",
+      "cardNum": "90/110"
+    },
+    {
+      "name": "Sandshrew",
+      "set": "Legendary Collection",
+      "img": "https://den-cards.pokellector.com/112/Sandshrew.LC.91.png",
+      "rarity": "Common",
+      "cardNum": "91/110"
+    },
+    {
+      "name": "Seel",
+      "set": "Legendary Collection",
+      "img": "https://den-cards.pokellector.com/112/Seel.LC.92.png",
+      "rarity": "Common",
+      "cardNum": "92/110"
+    },
+    {
+      "name": "Slowpoke",
+      "set": "Legendary Collection",
+      "img": "https://den-cards.pokellector.com/112/Slowpoke.LC.93.7171.png",
+      "rarity": "Common",
+      "cardNum": "93/110"
+    },
+    {
+      "name": "Spearow",
+      "set": "Legendary Collection",
+      "img": "https://den-cards.pokellector.com/112/Spearow.LC.94.png",
+      "rarity": "Common",
+      "cardNum": "94/110"
+    },
+    {
+      "name": "Squirtle",
+      "set": "Legendary Collection",
+      "img": "https://den-cards.pokellector.com/112/Squirtle.LC.95.png",
+      "rarity": "Common",
+      "cardNum": "95/110"
+    },
+    {
+      "name": "Tentacool",
+      "set": "Legendary Collection",
+      "img": "https://den-cards.pokellector.com/112/Tentacool.LC.96.png",
+      "rarity": "Common",
+      "cardNum": "96/110"
+    },
+    {
+      "name": "Voltorb",
+      "set": "Legendary Collection",
+      "img": "https://den-cards.pokellector.com/112/Voltorb.LC.97.png",
+      "rarity": "Common",
+      "cardNum": "97/110"
+    },
+    {
+      "name": "Vulpix",
+      "set": "Legendary Collection",
+      "img": "https://den-cards.pokellector.com/112/Vulpix.LC.98.png",
+      "rarity": "Common",
+      "cardNum": "98/110"
+    },
+    {
+      "name": "Weedle",
+      "set": "Legendary Collection",
+      "img": "https://den-cards.pokellector.com/112/Weedle.LC.99.png",
+      "rarity": "Common",
+      "cardNum": "99/110"
+    },
+    {
+      "name": "Full Heal Energy",
+      "set": "Legendary Collection",
+      "img": "https://den-cards.pokellector.com/112/Full-Heal-Energy.LC.100.png",
+      "rarity": "Uncommon",
+      "cardNum": "100/110"
+    },
+    {
+      "name": "Potion Energy",
+      "set": "Legendary Collection",
+      "img": "https://den-cards.pokellector.com/112/Potion-Energy.LC.101.png",
+      "rarity": "Uncommon",
+      "cardNum": "101/110"
+    },
+    {
+      "name": "Pokemon Breeder",
+      "set": "Legendary Collection",
+      "img": "https://den-cards.pokellector.com/112/Pokemon-Breeder.LC.102.7180.png",
+      "rarity": "Rare",
+      "cardNum": "102/110"
+    },
+    {
+      "name": "Pokemon Trader",
+      "set": "Legendary Collection",
+      "img": "https://den-cards.pokellector.com/112/Pokemon-Trader.LC.103.7181.png",
+      "rarity": "Rare",
+      "cardNum": "103/110"
+    },
+    {
+      "name": "Scoop Up",
+      "set": "Legendary Collection",
+      "img": "https://den-cards.pokellector.com/112/Scoop-Up.LC.104.7182.png",
+      "rarity": "Rare",
+      "cardNum": "104/110"
+    },
+    {
+      "name": "The Boss's Way",
+      "set": "Legendary Collection",
+      "img": "https://den-cards.pokellector.com/112/The-Bosss-Way.LC.105.7185.png",
+      "rarity": "Uncommon",
+      "cardNum": "105/110"
+    },
+    {
+      "name": "Challenge!",
+      "set": "Legendary Collection",
+      "img": "https://den-cards.pokellector.com/112/Challenge.LC.106.7183.png",
+      "rarity": "Uncommon",
+      "cardNum": "106/110"
+    },
+    {
+      "name": "Energy Retrieval",
+      "set": "Legendary Collection",
+      "img": "https://den-cards.pokellector.com/112/Energy-Retrieval.LC.107.7184.png",
+      "rarity": "Uncommon",
+      "cardNum": "107/110"
+    },
+    {
+      "name": "Bill",
+      "set": "Legendary Collection",
+      "img": "https://den-cards.pokellector.com/112/Bill.LC.108.7186.png",
+      "rarity": "Common",
+      "cardNum": "108/110"
+    },
+    {
+      "name": "Mysterious Fossil",
+      "set": "Legendary Collection",
+      "img": "https://den-cards.pokellector.com/112/Mysterious-Fossil.LC.109.7187.png",
+      "rarity": "Common",
+      "cardNum": "109/110"
+    },
+    {
+      "name": "Potion",
+      "set": "Legendary Collection",
+      "img": "https://den-cards.pokellector.com/112/Potion.LC.110.png",
+      "rarity": "Common",
+      "cardNum": "110/110"
+    }
+  ]
+}

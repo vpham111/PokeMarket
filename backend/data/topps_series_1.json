@@ -1,0 +1,551 @@
+{
+  "setName": "Topps Series 1",
+  "cards": [
+    {
+      "name": "Bulbasaur",
+      "set": "Topps Series 1",
+      "img": "https://den-cards.pokellector.com/379/Bulbasaur.TOPP1.1.49678.png",
+      "rarity": "Common",
+      "cardNum": "1/78"
+    },
+    {
+      "name": "Ivysaur",
+      "set": "Topps Series 1",
+      "img": "https://den-cards.pokellector.com/379/Ivysaur.TOPP1.2.49679.png",
+      "rarity": "Common",
+      "cardNum": "2/78"
+    },
+    {
+      "name": "Venusaur",
+      "set": "Topps Series 1",
+      "img": "https://den-cards.pokellector.com/379/Venusaur.TOPP1.3.49680.png",
+      "rarity": "Common",
+      "cardNum": "3/78"
+    },
+    {
+      "name": "Charmander",
+      "set": "Topps Series 1",
+      "img": "https://den-cards.pokellector.com/379/Charmander.TOPP1.4.49681.png",
+      "rarity": "Common",
+      "cardNum": "4/78"
+    },
+    {
+      "name": "Charmeleon",
+      "set": "Topps Series 1",
+      "img": "https://den-cards.pokellector.com/379/Charmeleon.TOPP1.5.49682.png",
+      "rarity": "Common",
+      "cardNum": "5/78"
+    },
+    {
+      "name": "Charizard",
+      "set": "Topps Series 1",
+      "img": "https://den-cards.pokellector.com/379/Charizard.TOPP1.6.49683.png",
+      "rarity": "Common",
+      "cardNum": "6/78"
+    },
+    {
+      "name": "Squirtle",
+      "set": "Topps Series 1",
+      "img": "https://den-cards.pokellector.com/379/Squirtle.TOPP1.7.49684.png",
+      "rarity": "Common",
+      "cardNum": "7/78"
+    },
+    {
+      "name": "Wartortle",
+      "set": "Topps Series 1",
+      "img": "https://den-cards.pokellector.com/379/Wartortle.TOPP1.8.49685.png",
+      "rarity": "Common",
+      "cardNum": "8/78"
+    },
+    {
+      "name": "Blastoise",
+      "set": "Topps Series 1",
+      "img": "https://den-cards.pokellector.com/379/Blastoise.TOPP1.9.49686.png",
+      "rarity": "Common",
+      "cardNum": "9/78"
+    },
+    {
+      "name": "Caterpie",
+      "set": "Topps Series 1",
+      "img": "https://den-cards.pokellector.com/379/Caterpie.TOPP1.10.49687.png",
+      "rarity": "Common",
+      "cardNum": "10/78"
+    },
+    {
+      "name": "Metapod",
+      "set": "Topps Series 1",
+      "img": "https://den-cards.pokellector.com/379/Metapod.TOPP1.11.49688.png",
+      "rarity": "Common",
+      "cardNum": "11/78"
+    },
+    {
+      "name": "Butterfree",
+      "set": "Topps Series 1",
+      "img": "https://den-cards.pokellector.com/379/Butterfree.TOPP1.12.49689.png",
+      "rarity": "Common",
+      "cardNum": "12/78"
+    },
+    {
+      "name": "Weedle",
+      "set": "Topps Series 1",
+      "img": "https://den-cards.pokellector.com/379/Weedle.TOPP1.13.49690.png",
+      "rarity": "Common",
+      "cardNum": "13/78"
+    },
+    {
+      "name": "Kakuna",
+      "set": "Topps Series 1",
+      "img": "https://den-cards.pokellector.com/379/Kakuna.TOPP1.14.49691.png",
+      "rarity": "Common",
+      "cardNum": "14/78"
+    },
+    {
+      "name": "Beedrill",
+      "set": "Topps Series 1",
+      "img": "https://den-cards.pokellector.com/379/Beedrill.TOPP1.15.49692.png",
+      "rarity": "Common",
+      "cardNum": "15/78"
+    },
+    {
+      "name": "Pidgey",
+      "set": "Topps Series 1",
+      "img": "https://den-cards.pokellector.com/379/Pidgey.TOPP1.16.49693.png",
+      "rarity": "Common",
+      "cardNum": "16/78"
+    },
+    {
+      "name": "Pidgeotto",
+      "set": "Topps Series 1",
+      "img": "https://den-cards.pokellector.com/379/Pidgeotto.TOPP1.17.49694.png",
+      "rarity": "Common",
+      "cardNum": "17/78"
+    },
+    {
+      "name": "Pidgeot",
+      "set": "Topps Series 1",
+      "img": "https://den-cards.pokellector.com/379/Pidgeot.TOPP1.18.49695.png",
+      "rarity": "Common",
+      "cardNum": "18/78"
+    },
+    {
+      "name": "Rattata",
+      "set": "Topps Series 1",
+      "img": "https://den-cards.pokellector.com/379/Rattata.TOPP1.19.49696.png",
+      "rarity": "Common",
+      "cardNum": "19/78"
+    },
+    {
+      "name": "Raticate",
+      "set": "Topps Series 1",
+      "img": "https://den-cards.pokellector.com/379/Raticate.TOPP1.20.49697.png",
+      "rarity": "Common",
+      "cardNum": "20/78"
+    },
+    {
+      "name": "Spearow",
+      "set": "Topps Series 1",
+      "img": "https://den-cards.pokellector.com/379/Spearow.TOPP1.21.49698.png",
+      "rarity": "Common",
+      "cardNum": "21/78"
+    },
+    {
+      "name": "Fearow",
+      "set": "Topps Series 1",
+      "img": "https://den-cards.pokellector.com/379/Fearow.TOPP1.22.49699.png",
+      "rarity": "Common",
+      "cardNum": "22/78"
+    },
+    {
+      "name": "Ekans",
+      "set": "Topps Series 1",
+      "img": "https://den-cards.pokellector.com/379/Ekans.TOPP1.23.49700.png",
+      "rarity": "Common",
+      "cardNum": "23/78"
+    },
+    {
+      "name": "Arbok",
+      "set": "Topps Series 1",
+      "img": "https://den-cards.pokellector.com/379/Arbok.TOPP1.24.49701.png",
+      "rarity": "Common",
+      "cardNum": "24/78"
+    },
+    {
+      "name": "Pikachu",
+      "set": "Topps Series 1",
+      "img": "https://den-cards.pokellector.com/379/Pikachu.TOPP1.25.49702.png",
+      "rarity": "Common",
+      "cardNum": "25/78"
+    },
+    {
+      "name": "Raichu",
+      "set": "Topps Series 1",
+      "img": "https://den-cards.pokellector.com/379/Raichu.TOPP1.26.49703.png",
+      "rarity": "Common",
+      "cardNum": "26/78"
+    },
+    {
+      "name": "Sandshrew",
+      "set": "Topps Series 1",
+      "img": "https://den-cards.pokellector.com/379/Sandshrew.TOPP1.27.49704.png",
+      "rarity": "Common",
+      "cardNum": "27/78"
+    },
+    {
+      "name": "Sandslash",
+      "set": "Topps Series 1",
+      "img": "https://den-cards.pokellector.com/379/Sandslash.TOPP1.28.49705.png",
+      "rarity": "Common",
+      "cardNum": "28/78"
+    },
+    {
+      "name": "Nidoran♀",
+      "set": "Topps Series 1",
+      "img": "https://den-cards.pokellector.com/379/Nidoran.TOPP1.29.49706.png",
+      "rarity": "Common",
+      "cardNum": "29/78"
+    },
+    {
+      "name": "Nidorina",
+      "set": "Topps Series 1",
+      "img": "https://den-cards.pokellector.com/379/Nidorina.TOPP1.30.49707.png",
+      "rarity": "Common",
+      "cardNum": "30/78"
+    },
+    {
+      "name": "Nidoqueen",
+      "set": "Topps Series 1",
+      "img": "https://den-cards.pokellector.com/379/Nidoqueen.TOPP1.31.49708.png",
+      "rarity": "Common",
+      "cardNum": "31/78"
+    },
+    {
+      "name": "Nidoran♂",
+      "set": "Topps Series 1",
+      "img": "https://den-cards.pokellector.com/379/Nidoran.TOPP1.32.49709.png",
+      "rarity": "Common",
+      "cardNum": "32/78"
+    },
+    {
+      "name": "Nidorino",
+      "set": "Topps Series 1",
+      "img": "https://den-cards.pokellector.com/379/Nidorino.TOPP1.33.49710.png",
+      "rarity": "Common",
+      "cardNum": "33/78"
+    },
+    {
+      "name": "Nidoking",
+      "set": "Topps Series 1",
+      "img": "https://den-cards.pokellector.com/379/Nidoking.TOPP1.34.49711.png",
+      "rarity": "Common",
+      "cardNum": "34/78"
+    },
+    {
+      "name": "Clefairy",
+      "set": "Topps Series 1",
+      "img": "https://den-cards.pokellector.com/379/Clefairy.TOPP1.35.49712.png",
+      "rarity": "Common",
+      "cardNum": "35/78"
+    },
+    {
+      "name": "Clefable",
+      "set": "Topps Series 1",
+      "img": "https://den-cards.pokellector.com/379/Clefable.TOPP1.36.49713.png",
+      "rarity": "Common",
+      "cardNum": "36/78"
+    },
+    {
+      "name": "Vulpix",
+      "set": "Topps Series 1",
+      "img": "https://den-cards.pokellector.com/379/Vulpix.TOPP1.37.49714.png",
+      "rarity": "Common",
+      "cardNum": "37/78"
+    },
+    {
+      "name": "Ninetails",
+      "set": "Topps Series 1",
+      "img": "https://den-cards.pokellector.com/379/Ninetails.TOPP1.38.49715.png",
+      "rarity": "Common",
+      "cardNum": "38/78"
+    },
+    {
+      "name": "Jigglypuff",
+      "set": "Topps Series 1",
+      "img": "https://den-cards.pokellector.com/379/Jigglypuff.TOPP1.39.49716.png",
+      "rarity": "Common",
+      "cardNum": "39/78"
+    },
+    {
+      "name": "Wigglytuff",
+      "set": "Topps Series 1",
+      "img": "https://den-cards.pokellector.com/379/Wigglytuff.TOPP1.40.49717.png",
+      "rarity": "Common",
+      "cardNum": "40/78"
+    },
+    {
+      "name": "Zubat",
+      "set": "Topps Series 1",
+      "img": "https://den-cards.pokellector.com/379/Zubat.TOPP1.41.49718.png",
+      "rarity": "Common",
+      "cardNum": "41/78"
+    },
+    {
+      "name": "Golbat",
+      "set": "Topps Series 1",
+      "img": "https://den-cards.pokellector.com/379/Golbat.TOPP1.42.49719.png",
+      "rarity": "Common",
+      "cardNum": "42/78"
+    },
+    {
+      "name": "Oddish",
+      "set": "Topps Series 1",
+      "img": "https://den-cards.pokellector.com/379/Oddish.TOPP1.43.49720.png",
+      "rarity": "Common",
+      "cardNum": "43/78"
+    },
+    {
+      "name": "Gloom",
+      "set": "Topps Series 1",
+      "img": "https://den-cards.pokellector.com/379/Gloom.TOPP1.44.49721.png",
+      "rarity": "Common",
+      "cardNum": "44/78"
+    },
+    {
+      "name": "Vileplume",
+      "set": "Topps Series 1",
+      "img": "https://den-cards.pokellector.com/379/Vileplume.TOPP1.45.49722.png",
+      "rarity": "Common",
+      "cardNum": "45/78"
+    },
+    {
+      "name": "Paras",
+      "set": "Topps Series 1",
+      "img": "https://den-cards.pokellector.com/379/Paras.TOPP1.46.49723.png",
+      "rarity": "Common",
+      "cardNum": "46/78"
+    },
+    {
+      "name": "Parasect",
+      "set": "Topps Series 1",
+      "img": "https://den-cards.pokellector.com/379/Parasect.TOPP1.47.49724.png",
+      "rarity": "Common",
+      "cardNum": "47/78"
+    },
+    {
+      "name": "Venonat",
+      "set": "Topps Series 1",
+      "img": "https://den-cards.pokellector.com/379/Venonat.TOPP1.48.49725.png",
+      "rarity": "Common",
+      "cardNum": "48/78"
+    },
+    {
+      "name": "Venomoth",
+      "set": "Topps Series 1",
+      "img": "https://den-cards.pokellector.com/379/Venomoth.TOPP1.49.49726.png",
+      "rarity": "Common",
+      "cardNum": "49/78"
+    },
+    {
+      "name": "Diglett",
+      "set": "Topps Series 1",
+      "img": "https://den-cards.pokellector.com/379/Diglett.TOPP1.50.49727.png",
+      "rarity": "Common",
+      "cardNum": "50/78"
+    },
+    {
+      "name": "Dugtrio",
+      "set": "Topps Series 1",
+      "img": "https://den-cards.pokellector.com/379/Dugtrio.TOPP1.51.49728.png",
+      "rarity": "Common",
+      "cardNum": "51/78"
+    },
+    {
+      "name": "Meowth",
+      "set": "Topps Series 1",
+      "img": "https://den-cards.pokellector.com/379/Meowth.TOPP1.52.49729.png",
+      "rarity": "Common",
+      "cardNum": "52/78"
+    },
+    {
+      "name": "Persian",
+      "set": "Topps Series 1",
+      "img": "https://den-cards.pokellector.com/379/Persian.TOPP1.53.49730.png",
+      "rarity": "Common",
+      "cardNum": "53/78"
+    },
+    {
+      "name": "Psyduck",
+      "set": "Topps Series 1",
+      "img": "https://den-cards.pokellector.com/379/Psyduck.TOPP1.54.49731.png",
+      "rarity": "Common",
+      "cardNum": "54/78"
+    },
+    {
+      "name": "Golduck",
+      "set": "Topps Series 1",
+      "img": "https://den-cards.pokellector.com/379/Golduck.TOPP1.55.49732.png",
+      "rarity": "Common",
+      "cardNum": "55/78"
+    },
+    {
+      "name": "Mankey",
+      "set": "Topps Series 1",
+      "img": "https://den-cards.pokellector.com/379/Mankey.TOPP1.56.49733.png",
+      "rarity": "Common",
+      "cardNum": "56/78"
+    },
+    {
+      "name": "Primeape",
+      "set": "Topps Series 1",
+      "img": "https://den-cards.pokellector.com/379/Primeape.TOPP1.57.49734.png",
+      "rarity": "Common",
+      "cardNum": "57/78"
+    },
+    {
+      "name": "Growlithe",
+      "set": "Topps Series 1",
+      "img": "https://den-cards.pokellector.com/379/Growlithe.TOPP1.58.49735.png",
+      "rarity": "Common",
+      "cardNum": "58/78"
+    },
+    {
+      "name": "Arcanine",
+      "set": "Topps Series 1",
+      "img": "https://den-cards.pokellector.com/379/Arcanine.TOPP1.59.49736.png",
+      "rarity": "Common",
+      "cardNum": "59/78"
+    },
+    {
+      "name": "Poliwag",
+      "set": "Topps Series 1",
+      "img": "https://den-cards.pokellector.com/379/Poliwag.TOPP1.60.49737.png",
+      "rarity": "Common",
+      "cardNum": "60/78"
+    },
+    {
+      "name": "Poliwhirl",
+      "set": "Topps Series 1",
+      "img": "https://den-cards.pokellector.com/379/Poliwhirl.TOPP1.61.49738.png",
+      "rarity": "Common",
+      "cardNum": "61/78"
+    },
+    {
+      "name": "Poliwrath",
+      "set": "Topps Series 1",
+      "img": "https://den-cards.pokellector.com/379/Poliwrath.TOPP1.62.49739.png",
+      "rarity": "Common",
+      "cardNum": "62/78"
+    },
+    {
+      "name": "Abra",
+      "set": "Topps Series 1",
+      "img": "https://den-cards.pokellector.com/379/Abra.TOPP1.63.49740.png",
+      "rarity": "Common",
+      "cardNum": "63/78"
+    },
+    {
+      "name": "Kadabra",
+      "set": "Topps Series 1",
+      "img": "https://den-cards.pokellector.com/379/Kadabra.TOPP1.64.49741.png",
+      "rarity": "Common",
+      "cardNum": "64/78"
+    },
+    {
+      "name": "Alakazam",
+      "set": "Topps Series 1",
+      "img": "https://den-cards.pokellector.com/379/Alakazam.TOPP1.65.49742.png",
+      "rarity": "Common",
+      "cardNum": "65/78"
+    },
+    {
+      "name": "Machop",
+      "set": "Topps Series 1",
+      "img": "https://den-cards.pokellector.com/379/Machop.TOPP1.66.49743.png",
+      "rarity": "Common",
+      "cardNum": "66/78"
+    },
+    {
+      "name": "Machoke",
+      "set": "Topps Series 1",
+      "img": "https://den-cards.pokellector.com/379/Machoke.TOPP1.67.49744.png",
+      "rarity": "Common",
+      "cardNum": "67/78"
+    },
+    {
+      "name": "Machamp",
+      "set": "Topps Series 1",
+      "img": "https://den-cards.pokellector.com/379/Machamp.TOPP1.68.49745.png",
+      "rarity": "Common",
+      "cardNum": "68/78"
+    },
+    {
+      "name": "Bellsprout",
+      "set": "Topps Series 1",
+      "img": "https://den-cards.pokellector.com/379/Bellsprout.TOPP1.69.49746.png",
+      "rarity": "Common",
+      "cardNum": "69/78"
+    },
+    {
+      "name": "Weepinbell",
+      "set": "Topps Series 1",
+      "img": "https://den-cards.pokellector.com/379/Weepinbell.TOPP1.70.49747.png",
+      "rarity": "Common",
+      "cardNum": "70/78"
+    },
+    {
+      "name": "Victreebell",
+      "set": "Topps Series 1",
+      "img": "https://den-cards.pokellector.com/379/Victreebell.TOPP1.71.49748.png",
+      "rarity": "Common",
+      "cardNum": "71/78"
+    },
+    {
+      "name": "Tentacool",
+      "set": "Topps Series 1",
+      "img": "https://den-cards.pokellector.com/379/Tentacool.TOPP1.72.49749.png",
+      "rarity": "Common",
+      "cardNum": "72/78"
+    },
+    {
+      "name": "Tentacruel",
+      "set": "Topps Series 1",
+      "img": "https://den-cards.pokellector.com/379/Tentacruel.TOPP1.73.49750.png",
+      "rarity": "Common",
+      "cardNum": "73/78"
+    },
+    {
+      "name": "Geodude",
+      "set": "Topps Series 1",
+      "img": "https://den-cards.pokellector.com/379/Geodude.TOPP1.74.49751.png",
+      "rarity": "Common",
+      "cardNum": "74/78"
+    },
+    {
+      "name": "Graveler",
+      "set": "Topps Series 1",
+      "img": "https://den-cards.pokellector.com/379/Graveler.TOPP1.75.49752.png",
+      "rarity": "Common",
+      "cardNum": "75/78"
+    },
+    {
+      "name": "Golem",
+      "set": "Topps Series 1",
+      "img": "https://den-cards.pokellector.com/379/Golem.TOPP1.76.49753.png",
+      "rarity": "Common",
+      "cardNum": "76/78"
+    },
+    {
+      "name": "Ponyta",
+      "set": "Topps Series 1",
+      "img": "https://den-cards.pokellector.com/379/Ponyta.TOPP1.77.49982.png",
+      "rarity": "Common",
+      "cardNum": "77/78"
+    },
+    {
+      "name": "Rapidash",
+      "set": "Topps Series 1",
+      "img": "https://den-cards.pokellector.com/379/Rapidash.TOPP1.78.49983.png",
+      "rarity": "Common",
+      "cardNum": "78/78"
+    }
+  ]
+}

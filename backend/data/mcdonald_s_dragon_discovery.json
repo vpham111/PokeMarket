@@ -1,0 +1,110 @@
+{
+  "setName": "McDonald's Dragon Discovery",
+  "cards": [
+    {
+      "name": "Charizard",
+      "set": "McDonald's Dragon Discovery",
+      "img": "https://den-cards.pokellector.com/410/Charizard.M24.1.55522.png",
+      "rarity": "Common",
+      "cardNum": "1/15"
+    },
+    {
+      "name": "Pikachu",
+      "set": "McDonald's Dragon Discovery",
+      "img": "https://den-cards.pokellector.com/410/Pikachu.M24.2.55523.png",
+      "rarity": "Common",
+      "cardNum": "2/15"
+    },
+    {
+      "name": "Miraidon",
+      "set": "McDonald's Dragon Discovery",
+      "img": "https://den-cards.pokellector.com/410/Miraidon.M24.3.55524.png",
+      "rarity": "Common",
+      "cardNum": "3/15"
+    },
+    {
+      "name": "Jigglypuff",
+      "set": "McDonald's Dragon Discovery",
+      "img": "https://den-cards.pokellector.com/410/Jigglypuff.M24.4.55525.png",
+      "rarity": "Common",
+      "cardNum": "4/15"
+    },
+    {
+      "name": "Hatenna",
+      "set": "McDonald's Dragon Discovery",
+      "img": "https://den-cards.pokellector.com/410/Hatenna.M24.5.55526.png",
+      "rarity": "Common",
+      "cardNum": "5/15"
+    },
+    {
+      "name": "Dragapult",
+      "set": "McDonald's Dragon Discovery",
+      "img": "https://den-cards.pokellector.com/410/Dragapult.M24.6.55527.png",
+      "rarity": "Common",
+      "cardNum": "6/15"
+    },
+    {
+      "name": "Quagsire",
+      "set": "McDonald's Dragon Discovery",
+      "img": "https://den-cards.pokellector.com/410/Quagsire.M24.7.55528.png",
+      "rarity": "Common",
+      "cardNum": "7/15"
+    },
+    {
+      "name": "Koraidon",
+      "set": "McDonald's Dragon Discovery",
+      "img": "https://den-cards.pokellector.com/410/Koraidon.M24.8.55529.png",
+      "rarity": "Common",
+      "cardNum": "8/15"
+    },
+    {
+      "name": "Umbreon",
+      "set": "McDonald's Dragon Discovery",
+      "img": "https://den-cards.pokellector.com/410/Umbreon.M24.9.55530.png",
+      "rarity": "Common",
+      "cardNum": "9/15"
+    },
+    {
+      "name": "Hydreigon",
+      "set": "McDonald's Dragon Discovery",
+      "img": "https://den-cards.pokellector.com/410/Hydreigon.M24.10.55531.png",
+      "rarity": "Common",
+      "cardNum": "10/15"
+    },
+    {
+      "name": "Roaring Moon",
+      "set": "McDonald's Dragon Discovery",
+      "img": "https://den-cards.pokellector.com/410/Roaring-Moon.M24.11.55532.png",
+      "rarity": "Common",
+      "cardNum": "11/15"
+    },
+    {
+      "name": "Dragonite",
+      "set": "McDonald's Dragon Discovery",
+      "img": "https://den-cards.pokellector.com/410/Dragonite.M24.12.55533.png",
+      "rarity": "Common",
+      "cardNum": "12/15"
+    },
+    {
+      "name": "Eevee",
+      "set": "McDonald's Dragon Discovery",
+      "img": "https://den-cards.pokellector.com/410/Eevee.M24.13.55534.png",
+      "rarity": "Common",
+      "cardNum": "13/15"
+    },
+    {
+      "name": "Rayquaza",
+      "set": "McDonald's Dragon Discovery",
+      "img": "https://den-cards.pokellector.com/410/Rayquaza.M24.14.55535.png",
+      "rarity": "Common",
+      "cardNum": "14/15"
+    },
+    {
+      "name": "Drampa",
+      "set": "McDonald's Dragon Discovery",
+      "img": "https://den-cards.pokellector.com/410/Drampa.M24.15.55536.png",
+      "rarity": "Common",
+      "cardNum": "15/15"
+    }
+  ]
+}

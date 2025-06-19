@@ -1,0 +1,845 @@
+{
+  "setName": "Platinum - Rising Rivals",
+  "cards": [
+    {
+      "name": "Arcanine",
+      "set": "Platinum - Rising Rivals",
+      "img": "https://den-cards.pokellector.com/39/Arcanine.RR.1.png",
+      "rarity": "Rare",
+      "cardNum": "1/111"
+    },
+    {
+      "name": "Bastiodon GL",
+      "set": "Platinum - Rising Rivals",
+      "img": "https://den-cards.pokellector.com/39/Bastiodon-GL.RR.2.png",
+      "rarity": "Rare",
+      "cardNum": "2/111"
+    },
+    {
+      "name": "Darkrai G",
+      "set": "Platinum - Rising Rivals",
+      "img": "https://den-cards.pokellector.com/39/Darkrai-G.RR.3.png",
+      "rarity": "Rare",
+      "cardNum": "3/111"
+    },
+    {
+      "name": "Floatzel GL",
+      "set": "Platinum - Rising Rivals",
+      "img": "https://den-cards.pokellector.com/39/Floatzel-GL.RR.4.png",
+      "rarity": "Rare",
+      "cardNum": "4/111"
+    },
+    {
+      "name": "Flygon",
+      "set": "Platinum - Rising Rivals",
+      "img": "https://den-cards.pokellector.com/39/Flygon.RR.5.png",
+      "rarity": "Rare",
+      "cardNum": "5/111"
+    },
+    {
+      "name": "Froslass GL",
+      "set": "Platinum - Rising Rivals",
+      "img": "https://den-cards.pokellector.com/39/Froslass-GL.RR.6.png",
+      "rarity": "Rare",
+      "cardNum": "6/111"
+    },
+    {
+      "name": "Jirachi",
+      "set": "Platinum - Rising Rivals",
+      "img": "https://den-cards.pokellector.com/39/Jirachi.RR.7.png",
+      "rarity": "Rare",
+      "cardNum": "7/111"
+    },
+    {
+      "name": "Lucario GL",
+      "set": "Platinum - Rising Rivals",
+      "img": "https://den-cards.pokellector.com/39/Lucario-GL.RR.8.png",
+      "rarity": "Rare",
+      "cardNum": "8/111"
+    },
+    {
+      "name": "Luxray GL",
+      "set": "Platinum - Rising Rivals",
+      "img": "https://den-cards.pokellector.com/39/Luxray-GL.RR.9.png",
+      "rarity": "Rare",
+      "cardNum": "9/111"
+    },
+    {
+      "name": "Mismagius GL",
+      "set": "Platinum - Rising Rivals",
+      "img": "https://den-cards.pokellector.com/39/Mismagius-GL.RR.10.png",
+      "rarity": "Rare",
+      "cardNum": "10/111"
+    },
+    {
+      "name": "Rampardos GL",
+      "set": "Platinum - Rising Rivals",
+      "img": "https://den-cards.pokellector.com/39/Rampardos-GL.RR.11.png",
+      "rarity": "Rare",
+      "cardNum": "11/111"
+    },
+    {
+      "name": "Roserade GL",
+      "set": "Platinum - Rising Rivals",
+      "img": "https://den-cards.pokellector.com/39/Roserade-GL.RR.12.png",
+      "rarity": "Rare",
+      "cardNum": "12/111"
+    },
+    {
+      "name": "Shiftry",
+      "set": "Platinum - Rising Rivals",
+      "img": "https://den-cards.pokellector.com/39/Shiftry.RR.13.png",
+      "rarity": "Rare",
+      "cardNum": "13/111"
+    },
+    {
+      "name": "Aggron",
+      "set": "Platinum - Rising Rivals",
+      "img": "https://den-cards.pokellector.com/39/Aggron.RR.14.png",
+      "rarity": "Rare",
+      "cardNum": "14/111"
+    },
+    {
+      "name": "Beedrill",
+      "set": "Platinum - Rising Rivals",
+      "img": "https://den-cards.pokellector.com/39/Beedrill.RR.15.png",
+      "rarity": "Rare",
+      "cardNum": "15/111"
+    },
+    {
+      "name": "Bronzong 4",
+      "set": "Platinum - Rising Rivals",
+      "img": "https://den-cards.pokellector.com/39/Bronzong-4.RR.16.png",
+      "rarity": "Rare",
+      "cardNum": "16/111"
+    },
+    {
+      "name": "Drapion 4",
+      "set": "Platinum - Rising Rivals",
+      "img": "https://den-cards.pokellector.com/39/Drapion-4.RR.17.png",
+      "rarity": "Rare",
+      "cardNum": "17/111"
+    },
+    {
+      "name": "Espeon 4",
+      "set": "Platinum - Rising Rivals",
+      "img": "https://den-cards.pokellector.com/39/Espeon-4.RR.18.png",
+      "rarity": "Rare",
+      "cardNum": "18/111"
+    },
+    {
+      "name": "Flareon",
+      "set": "Platinum - Rising Rivals",
+      "img": "https://den-cards.pokellector.com/39/Flareon.RR.19.png",
+      "rarity": "Rare",
+      "cardNum": "19/111"
+    },
+    {
+      "name": "Gallade 4",
+      "set": "Platinum - Rising Rivals",
+      "img": "https://den-cards.pokellector.com/39/Gallade-4.RR.20.png",
+      "rarity": "Rare",
+      "cardNum": "20/111"
+    },
+    {
+      "name": "Gastrodon East Sea",
+      "set": "Platinum - Rising Rivals",
+      "img": "https://den-cards.pokellector.com/39/Gastrodon-East-Sea.RR.21.png",
+      "rarity": "Rare",
+      "cardNum": "21/111"
+    },
+    {
+      "name": "Gastrodon West Sea",
+      "set": "Platinum - Rising Rivals",
+      "img": "https://den-cards.pokellector.com/39/Gastrodon-West-Sea.RR.22.png",
+      "rarity": "Rare",
+      "cardNum": "22/111"
+    },
+    {
+      "name": "Golem 4",
+      "set": "Platinum - Rising Rivals",
+      "img": "https://den-cards.pokellector.com/39/Golem-4.RR.23.png",
+      "rarity": "Rare",
+      "cardNum": "23/111"
+    },
+    {
+      "name": "Heracross 4",
+      "set": "Platinum - Rising Rivals",
+      "img": "https://den-cards.pokellector.com/39/Heracross-4.RR.24.png",
+      "rarity": "Rare",
+      "cardNum": "24/111"
+    },
+    {
+      "name": "Hippowdon",
+      "set": "Platinum - Rising Rivals",
+      "img": "https://den-cards.pokellector.com/39/Hippowdon.RR.25.png",
+      "rarity": "Rare",
+      "cardNum": "25/111"
+    },
+    {
+      "name": "Jolteon",
+      "set": "Platinum - Rising Rivals",
+      "img": "https://den-cards.pokellector.com/39/Jolteon.RR.26.png",
+      "rarity": "Rare",
+      "cardNum": "26/111"
+    },
+    {
+      "name": "Mamoswine GL",
+      "set": "Platinum - Rising Rivals",
+      "img": "https://den-cards.pokellector.com/39/Mamoswine-GL.RR.27.png",
+      "rarity": "Rare",
+      "cardNum": "27/111"
+    },
+    {
+      "name": "Mr. Mime 4",
+      "set": "Platinum - Rising Rivals",
+      "img": "https://den-cards.pokellector.com/39/Mr-Mime-4.RR.28.png",
+      "rarity": "Rare",
+      "cardNum": "28/111"
+    },
+    {
+      "name": "Nidoking",
+      "set": "Platinum - Rising Rivals",
+      "img": "https://den-cards.pokellector.com/39/Nidoking.RR.29.png",
+      "rarity": "Rare",
+      "cardNum": "29/111"
+    },
+    {
+      "name": "Nidoqueen",
+      "set": "Platinum - Rising Rivals",
+      "img": "https://den-cards.pokellector.com/39/Nidoqueen.RR.30.3007.png",
+      "rarity": "Rare",
+      "cardNum": "30/111"
+    },
+    {
+      "name": "Raichu GL",
+      "set": "Platinum - Rising Rivals",
+      "img": "https://den-cards.pokellector.com/39/Raichu-GL.RR.31.png",
+      "rarity": "Rare",
+      "cardNum": "31/111"
+    },
+    {
+      "name": "Rhyperior 4",
+      "set": "Platinum - Rising Rivals",
+      "img": "https://den-cards.pokellector.com/39/Rhyperior-4.RR.32.png",
+      "rarity": "Rare",
+      "cardNum": "32/111"
+    },
+    {
+      "name": "Snorlax",
+      "set": "Platinum - Rising Rivals",
+      "img": "https://den-cards.pokellector.com/39/Snorlax.RR.33.png",
+      "rarity": "Rare",
+      "cardNum": "33/111"
+    },
+    {
+      "name": "Vaporeon",
+      "set": "Platinum - Rising Rivals",
+      "img": "https://den-cards.pokellector.com/39/Vaporeon.RR.34.png",
+      "rarity": "Rare",
+      "cardNum": "34/111"
+    },
+    {
+      "name": "Vespiquen 4",
+      "set": "Platinum - Rising Rivals",
+      "img": "https://den-cards.pokellector.com/39/Vespiquen-4.RR.35.png",
+      "rarity": "Rare",
+      "cardNum": "35/111"
+    },
+    {
+      "name": "Walrein",
+      "set": "Platinum - Rising Rivals",
+      "img": "https://den-cards.pokellector.com/39/Walrein.RR.36.png",
+      "rarity": "Rare",
+      "cardNum": "36/111"
+    },
+    {
+      "name": "Yanmega 4",
+      "set": "Platinum - Rising Rivals",
+      "img": "https://den-cards.pokellector.com/39/Yanmega-4.RR.37.png",
+      "rarity": "Rare",
+      "cardNum": "37/111"
+    },
+    {
+      "name": "Alakazam 4",
+      "set": "Platinum - Rising Rivals",
+      "img": "https://den-cards.pokellector.com/39/Alakazam-4.RR.38.png",
+      "rarity": "Uncommon",
+      "cardNum": "38/111"
+    },
+    {
+      "name": "Electrode G",
+      "set": "Platinum - Rising Rivals",
+      "img": "https://den-cards.pokellector.com/39/Electrode-G.RR.39.png",
+      "rarity": "Uncommon",
+      "cardNum": "39/111"
+    },
+    {
+      "name": "Gengar GL",
+      "set": "Platinum - Rising Rivals",
+      "img": "https://den-cards.pokellector.com/39/Gengar-GL.RR.40.png",
+      "rarity": "Uncommon",
+      "cardNum": "40/111"
+    },
+    {
+      "name": "Glaceon",
+      "set": "Platinum - Rising Rivals",
+      "img": "https://den-cards.pokellector.com/39/Glaceon.RR.41.png",
+      "rarity": "Uncommon",
+      "cardNum": "41/111"
+    },
+    {
+      "name": "Hippowdon 4",
+      "set": "Platinum - Rising Rivals",
+      "img": "https://den-cards.pokellector.com/39/Hippowdon-4.RR.42.png",
+      "rarity": "Uncommon",
+      "cardNum": "42/111"
+    },
+    {
+      "name": "Infernape 4",
+      "set": "Platinum - Rising Rivals",
+      "img": "https://den-cards.pokellector.com/39/Infernape-4.RR.43.png",
+      "rarity": "Uncommon",
+      "cardNum": "43/111"
+    },
+    {
+      "name": "Lairon",
+      "set": "Platinum - Rising Rivals",
+      "img": "https://den-cards.pokellector.com/39/Lairon.RR.44.png",
+      "rarity": "Uncommon",
+      "cardNum": "44/111"
+    },
+    {
+      "name": "Leafeon",
+      "set": "Platinum - Rising Rivals",
+      "img": "https://den-cards.pokellector.com/39/Leafeon.RR.45.png",
+      "rarity": "Uncommon",
+      "cardNum": "45/111"
+    },
+    {
+      "name": "Machamp GL",
+      "set": "Platinum - Rising Rivals",
+      "img": "https://den-cards.pokellector.com/39/Machamp-GL.RR.46.png",
+      "rarity": "Uncommon",
+      "cardNum": "46/111"
+    },
+    {
+      "name": "Rapidash 4",
+      "set": "Platinum - Rising Rivals",
+      "img": "https://den-cards.pokellector.com/39/Rapidash-4.RR.47.png",
+      "rarity": "Uncommon",
+      "cardNum": "47/111"
+    },
+    {
+      "name": "Scizor 4",
+      "set": "Platinum - Rising Rivals",
+      "img": "https://den-cards.pokellector.com/39/Scizor-4.RR.48.png",
+      "rarity": "Uncommon",
+      "cardNum": "48/111"
+    },
+    {
+      "name": "Sharpedo",
+      "set": "Platinum - Rising Rivals",
+      "img": "https://den-cards.pokellector.com/39/Sharpedo.RR.49.png",
+      "rarity": "Uncommon",
+      "cardNum": "49/111"
+    },
+    {
+      "name": "Starmie",
+      "set": "Platinum - Rising Rivals",
+      "img": "https://den-cards.pokellector.com/39/Starmie.RR.50.png",
+      "rarity": "Uncommon",
+      "cardNum": "50/111"
+    },
+    {
+      "name": "Steelix GL",
+      "set": "Platinum - Rising Rivals",
+      "img": "https://den-cards.pokellector.com/39/Steelix-GL.RR.51.png",
+      "rarity": "Uncommon",
+      "cardNum": "51/111"
+    },
+    {
+      "name": "Tropius",
+      "set": "Platinum - Rising Rivals",
+      "img": "https://den-cards.pokellector.com/39/Tropius.RR.52.png",
+      "rarity": "Uncommon",
+      "cardNum": "52/111"
+    },
+    {
+      "name": "Vibrava",
+      "set": "Platinum - Rising Rivals",
+      "img": "https://den-cards.pokellector.com/39/Vibrava.RR.53.png",
+      "rarity": "Uncommon",
+      "cardNum": "53/111"
+    },
+    {
+      "name": "Whiscash 4",
+      "set": "Platinum - Rising Rivals",
+      "img": "https://den-cards.pokellector.com/39/Whiscash-4.RR.54.png",
+      "rarity": "Uncommon",
+      "cardNum": "54/111"
+    },
+    {
+      "name": "Aerodactyl GL",
+      "set": "Platinum - Rising Rivals",
+      "img": "https://den-cards.pokellector.com/39/Aerodactyl-GL.RR.55.png",
+      "rarity": "Common",
+      "cardNum": "55/111"
+    },
+    {
+      "name": "Ambipom G",
+      "set": "Platinum - Rising Rivals",
+      "img": "https://den-cards.pokellector.com/39/Ambipom-G.RR.56.png",
+      "rarity": "Common",
+      "cardNum": "56/111"
+    },
+    {
+      "name": "Aron",
+      "set": "Platinum - Rising Rivals",
+      "img": "https://den-cards.pokellector.com/39/Aron.RR.57.png",
+      "rarity": "Common",
+      "cardNum": "57/111"
+    },
+    {
+      "name": "Carvanha",
+      "set": "Platinum - Rising Rivals",
+      "img": "https://den-cards.pokellector.com/39/Carvanha.RR.58.png",
+      "rarity": "Common",
+      "cardNum": "58/111"
+    },
+    {
+      "name": "Eevee",
+      "set": "Platinum - Rising Rivals",
+      "img": "https://den-cards.pokellector.com/39/Eevee.RR.59.png",
+      "rarity": "Common",
+      "cardNum": "59/111"
+    },
+    {
+      "name": "Flareon 4",
+      "set": "Platinum - Rising Rivals",
+      "img": "https://den-cards.pokellector.com/39/Flareon-4.RR.60.png",
+      "rarity": "Common",
+      "cardNum": "60/111"
+    },
+    {
+      "name": "Forretress G",
+      "set": "Platinum - Rising Rivals",
+      "img": "https://den-cards.pokellector.com/39/Forretress-G.RR.61.png",
+      "rarity": "Common",
+      "cardNum": "61/111"
+    },
+    {
+      "name": "Gliscor 4",
+      "set": "Platinum - Rising Rivals",
+      "img": "https://den-cards.pokellector.com/39/Gliscor-4.RR.62.png",
+      "rarity": "Common",
+      "cardNum": "62/111"
+    },
+    {
+      "name": "Growlithe",
+      "set": "Platinum - Rising Rivals",
+      "img": "https://den-cards.pokellector.com/39/Growlithe.RR.63.png",
+      "rarity": "Common",
+      "cardNum": "63/111"
+    },
+    {
+      "name": "Hippopotas",
+      "set": "Platinum - Rising Rivals",
+      "img": "https://den-cards.pokellector.com/39/Hippopotas.RR.64.png",
+      "rarity": "Common",
+      "cardNum": "64/111"
+    },
+    {
+      "name": "Houndoom 4",
+      "set": "Platinum - Rising Rivals",
+      "img": "https://den-cards.pokellector.com/39/Houndoom-4.RR.65.png",
+      "rarity": "Common",
+      "cardNum": "65/111"
+    },
+    {
+      "name": "Kakuna",
+      "set": "Platinum - Rising Rivals",
+      "img": "https://den-cards.pokellector.com/39/Kakuna.RR.66.png",
+      "rarity": "Common",
+      "cardNum": "66/111"
+    },
+    {
+      "name": "Kecleon",
+      "set": "Platinum - Rising Rivals",
+      "img": "https://den-cards.pokellector.com/39/Kecleon.RR.67.png",
+      "rarity": "Common",
+      "cardNum": "67/111"
+    },
+    {
+      "name": "Koffing",
+      "set": "Platinum - Rising Rivals",
+      "img": "https://den-cards.pokellector.com/39/Koffing.RR.68.png",
+      "rarity": "Common",
+      "cardNum": "68/111"
+    },
+    {
+      "name": "Munchlax",
+      "set": "Platinum - Rising Rivals",
+      "img": "https://den-cards.pokellector.com/39/Munchlax.RR.69.png",
+      "rarity": "Common",
+      "cardNum": "69/111"
+    },
+    {
+      "name": "Munchlax",
+      "set": "Platinum - Rising Rivals",
+      "img": "https://den-cards.pokellector.com/39/Munchlax.RR.70.png",
+      "rarity": "Common",
+      "cardNum": "70/111"
+    },
+    {
+      "name": "Nidoran F",
+      "set": "Platinum - Rising Rivals",
+      "img": "https://den-cards.pokellector.com/39/Nidoran-F.RR.71.png",
+      "rarity": "Common",
+      "cardNum": "71/111"
+    },
+    {
+      "name": "Nidoran M",
+      "set": "Platinum - Rising Rivals",
+      "img": "https://den-cards.pokellector.com/39/Nidoran-M.RR.72.png",
+      "rarity": "Common",
+      "cardNum": "72/111"
+    },
+    {
+      "name": "Nidorina",
+      "set": "Platinum - Rising Rivals",
+      "img": "https://den-cards.pokellector.com/39/Nidorina.RR.73.png",
+      "rarity": "Common",
+      "cardNum": "73/111"
+    },
+    {
+      "name": "Nidorino",
+      "set": "Platinum - Rising Rivals",
+      "img": "https://den-cards.pokellector.com/39/Nidorino.RR.74.png",
+      "rarity": "Common",
+      "cardNum": "74/111"
+    },
+    {
+      "name": "Nuzleaf",
+      "set": "Platinum - Rising Rivals",
+      "img": "https://den-cards.pokellector.com/39/Nuzleaf.RR.75.png",
+      "rarity": "Common",
+      "cardNum": "75/111"
+    },
+    {
+      "name": "Quagsire GL",
+      "set": "Platinum - Rising Rivals",
+      "img": "https://den-cards.pokellector.com/39/Quagsire-GL.RR.76.png",
+      "rarity": "Common",
+      "cardNum": "76/111"
+    },
+    {
+      "name": "Sealeo",
+      "set": "Platinum - Rising Rivals",
+      "img": "https://den-cards.pokellector.com/39/Sealeo.RR.77.png",
+      "rarity": "Common",
+      "cardNum": "77/111"
+    },
+    {
+      "name": "Seedot",
+      "set": "Platinum - Rising Rivals",
+      "img": "https://den-cards.pokellector.com/39/Seedot.RR.78.png",
+      "rarity": "Common",
+      "cardNum": "78/111"
+    },
+    {
+      "name": "Shellos East Sea",
+      "set": "Platinum - Rising Rivals",
+      "img": "https://den-cards.pokellector.com/39/Shellos-East-Sea.RR.79.png",
+      "rarity": "Common",
+      "cardNum": "79/111"
+    },
+    {
+      "name": "Shellos West Sea",
+      "set": "Platinum - Rising Rivals",
+      "img": "https://den-cards.pokellector.com/39/Shellos-West-Sea.RR.80.png",
+      "rarity": "Common",
+      "cardNum": "80/111"
+    },
+    {
+      "name": "Snorlax",
+      "set": "Platinum - Rising Rivals",
+      "img": "https://den-cards.pokellector.com/39/Snorlax.RR.81.png",
+      "rarity": "Common",
+      "cardNum": "81/111"
+    },
+    {
+      "name": "Spheal",
+      "set": "Platinum - Rising Rivals",
+      "img": "https://den-cards.pokellector.com/39/Spheal.RR.82.png",
+      "rarity": "Common",
+      "cardNum": "82/111"
+    },
+    {
+      "name": "Staryu",
+      "set": "Platinum - Rising Rivals",
+      "img": "https://den-cards.pokellector.com/39/Staryu.RR.83.png",
+      "rarity": "Common",
+      "cardNum": "83/111"
+    },
+    {
+      "name": "Trapinch",
+      "set": "Platinum - Rising Rivals",
+      "img": "https://den-cards.pokellector.com/39/Trapinch.RR.84.png",
+      "rarity": "Common",
+      "cardNum": "84/111"
+    },
+    {
+      "name": "Turtwig GL",
+      "set": "Platinum - Rising Rivals",
+      "img": "https://den-cards.pokellector.com/39/Turtwig-GL.RR.85.png",
+      "rarity": "Common",
+      "cardNum": "85/111"
+    },
+    {
+      "name": "Weedle",
+      "set": "Platinum - Rising Rivals",
+      "img": "https://den-cards.pokellector.com/39/Weedle.RR.86.png",
+      "rarity": "Common",
+      "cardNum": "86/111"
+    },
+    {
+      "name": "Weezing",
+      "set": "Platinum - Rising Rivals",
+      "img": "https://den-cards.pokellector.com/39/Weezing.RR.87.png",
+      "rarity": "Common",
+      "cardNum": "87/111"
+    },
+    {
+      "name": "Aaron's Collection",
+      "set": "Platinum - Rising Rivals",
+      "img": "https://den-cards.pokellector.com/39/Aarons-Collection.RR.88.png",
+      "rarity": "Uncommon",
+      "cardNum": "88/111"
+    },
+    {
+      "name": "Bebe's Search",
+      "set": "Platinum - Rising Rivals",
+      "img": "https://den-cards.pokellector.com/39/Bebes-Search.RR.89.png",
+      "rarity": "Uncommon",
+      "cardNum": "89/111"
+    },
+    {
+      "name": "Bertha's Warmth",
+      "set": "Platinum - Rising Rivals",
+      "img": "https://den-cards.pokellector.com/39/Berthas-Warmth.RR.90.png",
+      "rarity": "Uncommon",
+      "cardNum": "90/111"
+    },
+    {
+      "name": "Flint's Willpower",
+      "set": "Platinum - Rising Rivals",
+      "img": "https://den-cards.pokellector.com/39/Flints-Willpower.RR.91.png",
+      "rarity": "Uncommon",
+      "cardNum": "91/111"
+    },
+    {
+      "name": "Lucian's Assignment",
+      "set": "Platinum - Rising Rivals",
+      "img": "https://den-cards.pokellector.com/39/Lucians-Assignment.RR.92.png",
+      "rarity": "Uncommon",
+      "cardNum": "92/111"
+    },
+    {
+      "name": "Pokemon Contest Hall",
+      "set": "Platinum - Rising Rivals",
+      "img": "https://den-cards.pokellector.com/39/Pokemon-Contest-Hall.RR.93.png",
+      "rarity": "Uncommon",
+      "cardNum": "93/111"
+    },
+    {
+      "name": "Sunyshore City Gym",
+      "set": "Platinum - Rising Rivals",
+      "img": "https://den-cards.pokellector.com/39/Sunyshore-City-Gym.RR.94.png",
+      "rarity": "Uncommon",
+      "cardNum": "94/111"
+    },
+    {
+      "name": "Technical Machine G",
+      "set": "Platinum - Rising Rivals",
+      "img": "https://den-cards.pokellector.com/39/Technical-Machine-G.RR.95.png",
+      "rarity": "Uncommon",
+      "cardNum": "95/111"
+    },
+    {
+      "name": "SP-Radar",
+      "set": "Platinum - Rising Rivals",
+      "img": "https://den-cards.pokellector.com/39/SP-Radar.RR.96.png",
+      "rarity": "Uncommon",
+      "cardNum": "96/111"
+    },
+    {
+      "name": "Underground Expedition",
+      "set": "Platinum - Rising Rivals",
+      "img": "https://den-cards.pokellector.com/39/Underground-Expedition.RR.97.png",
+      "rarity": "Uncommon",
+      "cardNum": "97/111"
+    },
+    {
+      "name": "Volkner's Philosophy",
+      "set": "Platinum - Rising Rivals",
+      "img": "https://den-cards.pokellector.com/39/Volkners-Philosophy.RR.98.png",
+      "rarity": "Uncommon",
+      "cardNum": "98/111"
+    },
+    {
+      "name": "Darkness Energy",
+      "set": "Platinum - Rising Rivals",
+      "img": "https://den-cards.pokellector.com/39/Darkness-Energy.RR.99.png",
+      "rarity": "Uncommon",
+      "cardNum": "99/111"
+    },
+    {
+      "name": "Metal Energy",
+      "set": "Platinum - Rising Rivals",
+      "img": "https://den-cards.pokellector.com/39/Metal-Energy.RR.100.png",
+      "rarity": "Uncommon",
+      "cardNum": "100/111"
+    },
+    {
+      "name": "SP Energy",
+      "set": "Platinum - Rising Rivals",
+      "img": "https://den-cards.pokellector.com/39/SP-Energy.RR.101.png",
+      "rarity": "Uncommon",
+      "cardNum": "101/111"
+    },
+    {
+      "name": "Upper Energy",
+      "set": "Platinum - Rising Rivals",
+      "img": "https://den-cards.pokellector.com/39/Upper-Energy.RR.102.png",
+      "rarity": "Uncommon",
+      "cardNum": "102/111"
+    },
+    {
+      "name": "Alakazam 4 LV. X",
+      "set": "Platinum - Rising Rivals",
+      "img": "https://den-cards.pokellector.com/39/Alakazam-4-LV-X.RR.103.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "103/111"
+    },
+    {
+      "name": "Floatzel GL LV. X",
+      "set": "Platinum - Rising Rivals",
+      "img": "https://den-cards.pokellector.com/39/Floatzel-GL-LV-X.RR.104.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "104/111"
+    },
+    {
+      "name": "Flygon LV. X",
+      "set": "Platinum - Rising Rivals",
+      "img": "https://den-cards.pokellector.com/39/Flygon-LV-X.RR.105.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "105/111"
+    },
+    {
+      "name": "Gallade 4 LV. X",
+      "set": "Platinum - Rising Rivals",
+      "img": "https://den-cards.pokellector.com/39/Gallade-4-LV-X.RR.106.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "106/111"
+    },
+    {
+      "name": "Hippowdon LV. X",
+      "set": "Platinum - Rising Rivals",
+      "img": "https://den-cards.pokellector.com/39/Hippowdon-LV-X.RR.107.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "107/111"
+    },
+    {
+      "name": "Infernape 4 LV. X",
+      "set": "Platinum - Rising Rivals",
+      "img": "https://den-cards.pokellector.com/39/Infernape-4-LV-X.RR.108.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "108/111"
+    },
+    {
+      "name": "Luxray GL LV. X",
+      "set": "Platinum - Rising Rivals",
+      "img": "https://den-cards.pokellector.com/39/Luxray-GL-LV-X.RR.109.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "109/111"
+    },
+    {
+      "name": "Mismagius GL LV. X",
+      "set": "Platinum - Rising Rivals",
+      "img": "https://den-cards.pokellector.com/39/Mismagius-GL-LV-X.RR.110.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "110/111"
+    },
+    {
+      "name": "Snorlax LV. X",
+      "set": "Platinum - Rising Rivals",
+      "img": "https://den-cards.pokellector.com/39/Snorlax-LV-X.RR.111.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "111/111"
+    },
+    {
+      "name": "Pikachu",
+      "set": "Platinum - Rising Rivals",
+      "img": "https://den-cards.pokellector.com/39/Pikachu.RR.112.png",
+      "rarity": "Secret Rare",
+      "cardNum": "112/111"
+    },
+    {
+      "name": "Flying Pikachu",
+      "set": "Platinum - Rising Rivals",
+      "img": "https://den-cards.pokellector.com/39/Flying-Pikachu.RR.113.png",
+      "rarity": "Secret Rare",
+      "cardNum": "113/111"
+    },
+    {
+      "name": "Surfing Pikachu",
+      "set": "Platinum - Rising Rivals",
+      "img": "https://den-cards.pokellector.com/39/Surfing-Pikachu.RR.114.png",
+      "rarity": "Secret Rare",
+      "cardNum": "114/111"
+    },
+    {
+      "name": "Fan Rotom",
+      "set": "Platinum - Rising Rivals",
+      "img": "https://den-cards.pokellector.com/39/Fan-Rotom.RR.1.png",
+      "rarity": "Secret Rare",
+      "cardNum": "RT1"
+    },
+    {
+      "name": "Frost Rotom",
+      "set": "Platinum - Rising Rivals",
+      "img": "https://den-cards.pokellector.com/39/Frost-Rotom.RR.2.png",
+      "rarity": "Secret Rare",
+      "cardNum": "RT2"
+    },
+    {
+      "name": "Heat Rotom",
+      "set": "Platinum - Rising Rivals",
+      "img": "https://den-cards.pokellector.com/39/Heat-Rotom.RR.3.png",
+      "rarity": "Secret Rare",
+      "cardNum": "RT3"
+    },
+    {
+      "name": "Mow Rotom",
+      "set": "Platinum - Rising Rivals",
+      "img": "https://den-cards.pokellector.com/39/Mow-Rotom.RR.4.png",
+      "rarity": "Secret Rare",
+      "cardNum": "RT4"
+    },
+    {
+      "name": "Wash Rotom",
+      "set": "Platinum - Rising Rivals",
+      "img": "https://den-cards.pokellector.com/39/Wash-Rotom.RR.5.png",
+      "rarity": "Secret Rare",
+      "cardNum": "RT5"
+    },
+    {
+      "name": "Charon's Choice",
+      "set": "Platinum - Rising Rivals",
+      "img": "https://den-cards.pokellector.com/39/Charons-Choice.RR.6.png",
+      "rarity": "Secret Rare",
+      "cardNum": "RT6"
+    }
+  ]
+}

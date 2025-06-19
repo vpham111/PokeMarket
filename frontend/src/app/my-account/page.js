@@ -3,6 +3,7 @@
 import "../components/styles/my-account.css";
 import { useState } from "react";
 import { useRouter } from "next/navigation";
+import Navbar from "@/app/components/Navbar";
 
 export default function Page() {
     const [firstName] = useState("");
@@ -13,9 +14,10 @@ export default function Page() {
 
     return (
         <>
+            <Navbar />
             <div className="layout">
                 <div className="tool-bar">
-                    <span onClick={() => router.push("/home")} style={{ color: "black", cursor: "pointer" }}>
+                    <span onClick={() => router.push("/")} style={{ color: "black", cursor: "pointer" }}>
                         Home
                     </span>
                     <span onClick={() => router.push("/order-history")} style={{ color: "black", cursor: "pointer" }}>

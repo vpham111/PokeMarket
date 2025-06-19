@@ -1,0 +1,61 @@
+{
+  "setName": "Holiday Calendar 2024",
+  "cards": [
+    {
+      "name": "Eiscue ex",
+      "set": "Obsidian Flames",
+      "img": "https://den-cards.pokellector.com/373/Eiscue-ex.OBF.42.48861.png",
+      "rarity": "Double Rare",
+      "cardNum": "42/197"
+    },
+    {
+      "name": "Snorunt",
+      "set": "Paradox Rift",
+      "img": "https://den-cards.pokellector.com/377/Snorunt.PAR.37.50325.png",
+      "rarity": "Common",
+      "cardNum": "37/182"
+    },
+    {
+      "name": "Vanilluxe",
+      "set": "Paradox Rift",
+      "img": "https://den-cards.pokellector.com/377/Vanilluxe.PAR.45.50333.png",
+      "rarity": "Uncommon",
+      "cardNum": "45/182"
+    },
+    {
+      "name": "Cetoddle",
+      "set": "Paldea Evolved",
+      "img": "https://den-cards.pokellector.com/367/Cetoddle.PAL.53.47855.png",
+      "rarity": "Common",
+      "cardNum": "53/193"
+    },
+    {
+      "name": "Iron Bundle",
+      "set": "Twilight Masquerade",
+      "img": "https://den-cards.pokellector.com/392/Iron-Bundle.TWM.62.53216.png",
+      "rarity": "Uncommon",
+      "cardNum": "62/167"
+    },
+    {
+      "name": "Frigibax",
+      "set": "Paldea Evolved",
+      "img": "https://den-cards.pokellector.com/367/Frigibax.PAL.58.47859.png",
+      "rarity": "Common",
+      "cardNum": "58/193"
+    },
+    {
+      "name": "Chien-Pao ex",
+      "set": "Paldea Evolved",
+      "img": "https://den-cards.pokellector.com/367/Chien-Pao-ex.PAL.61.47862.png",
+      "rarity": "Double Rare",
+      "cardNum": "61/193"
+    },
+    {
+      "name": "Pikachu ex",
+      "set": "Paldea Evolved",
+      "img": "https://den-cards.pokellector.com/367/Pikachu-ex.PAL.63.47864.png",
+      "rarity": "Double Rare",
+      "cardNum": "63/193"
+    }
+  ]
+}

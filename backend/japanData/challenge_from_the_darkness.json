@@ -1,0 +1,691 @@
+{
+  "setName": "Challenge from the Darkness",
+  "cards": [
+    {
+      "name": "Koga's Weedle",
+      "set": "Challenge from the Darkness",
+      "img": "https://den-cards.pokellector.com/317/Kogas-Weedle.B06.1.38421.png",
+      "rarity": "Common",
+      "cardNum": "1/98"
+    },
+    {
+      "name": "Koga's Ekans",
+      "set": "Challenge from the Darkness",
+      "img": "https://den-cards.pokellector.com/317/Kogas-Ekans.B06.2.38422.png",
+      "rarity": "Common",
+      "cardNum": "2/98"
+    },
+    {
+      "name": "Giovanni's Nidoran♀",
+      "set": "Challenge from the Darkness",
+      "img": "https://den-cards.pokellector.com/317/Giovannis-Nidoran.B06.3.38423.png",
+      "rarity": "Common",
+      "cardNum": "3/98"
+    },
+    {
+      "name": "Giovanni's Nidoran♂",
+      "set": "Challenge from the Darkness",
+      "img": "https://den-cards.pokellector.com/317/Giovannis-Nidoran.B06.4.38424.png",
+      "rarity": "Common",
+      "cardNum": "4/98"
+    },
+    {
+      "name": "Koga's Zubat",
+      "set": "Challenge from the Darkness",
+      "img": "https://den-cards.pokellector.com/317/Kogas-Zubat.B06.5.38425.png",
+      "rarity": "Common",
+      "cardNum": "5/98"
+    },
+    {
+      "name": "Sabrina's Venonat",
+      "set": "Challenge from the Darkness",
+      "img": "https://den-cards.pokellector.com/317/Sabrinas-Venonat.B06.6.38426.png",
+      "rarity": "Common",
+      "cardNum": "6/98"
+    },
+    {
+      "name": "Koga's Grimer",
+      "set": "Challenge from the Darkness",
+      "img": "https://den-cards.pokellector.com/317/Kogas-Grimer.B06.7.38427.png",
+      "rarity": "Common",
+      "cardNum": "7/98"
+    },
+    {
+      "name": "Koga's Koffing",
+      "set": "Challenge from the Darkness",
+      "img": "https://den-cards.pokellector.com/317/Kogas-Koffing.B06.8.38428.png",
+      "rarity": "Common",
+      "cardNum": "8/98"
+    },
+    {
+      "name": "Koga's Tangela",
+      "set": "Challenge from the Darkness",
+      "img": "https://den-cards.pokellector.com/317/Kogas-Tangela.B06.9.38429.png",
+      "rarity": "Common",
+      "cardNum": "9/98"
+    },
+    {
+      "name": "Erika's Ivysaur",
+      "set": "Challenge from the Darkness",
+      "img": "https://den-cards.pokellector.com/317/Erikas-Ivysaur.B06.10.38430.png",
+      "rarity": "Uncommon",
+      "cardNum": "10/98"
+    },
+    {
+      "name": "Koga's Kakuna",
+      "set": "Challenge from the Darkness",
+      "img": "https://den-cards.pokellector.com/317/Kogas-Kakuna.B06.11.38431.png",
+      "rarity": "Uncommon",
+      "cardNum": "11/98"
+    },
+    {
+      "name": "Giovanni's Nidorina",
+      "set": "Challenge from the Darkness",
+      "img": "https://den-cards.pokellector.com/317/Giovannis-Nidorina.B06.12.38432.png",
+      "rarity": "Uncommon",
+      "cardNum": "12/98"
+    },
+    {
+      "name": "Giovanni's Nidorino",
+      "set": "Challenge from the Darkness",
+      "img": "https://den-cards.pokellector.com/317/Giovannis-Nidorino.B06.13.38433.png",
+      "rarity": "Uncommon",
+      "cardNum": "13/98"
+    },
+    {
+      "name": "Koga's Golbat",
+      "set": "Challenge from the Darkness",
+      "img": "https://den-cards.pokellector.com/317/Kogas-Golbat.B06.14.38434.png",
+      "rarity": "Uncommon",
+      "cardNum": "14/98"
+    },
+    {
+      "name": "Koga's Koffing",
+      "set": "Challenge from the Darkness",
+      "img": "https://den-cards.pokellector.com/317/Kogas-Koffing.B06.15.38435.png",
+      "rarity": "Uncommon",
+      "cardNum": "15/98"
+    },
+    {
+      "name": "Koga's Weezing",
+      "set": "Challenge from the Darkness",
+      "img": "https://den-cards.pokellector.com/317/Kogas-Weezing.B06.16.38436.png",
+      "rarity": "Uncommon",
+      "cardNum": "16/98"
+    },
+    {
+      "name": "Erika's Venusaur",
+      "set": "Challenge from the Darkness",
+      "img": "https://den-cards.pokellector.com/317/Erikas-Venusaur.B06.17.38437.png",
+      "rarity": "Rare",
+      "cardNum": "17/98"
+    },
+    {
+      "name": "Koga's Beedrill",
+      "set": "Challenge from the Darkness",
+      "img": "https://den-cards.pokellector.com/317/Kogas-Beedrill.B06.18.38438.png",
+      "rarity": "Rare",
+      "cardNum": "18/98"
+    },
+    {
+      "name": "Koga's Arbok",
+      "set": "Challenge from the Darkness",
+      "img": "https://den-cards.pokellector.com/317/Kogas-Arbok.B06.19.38439.png",
+      "rarity": "Rare",
+      "cardNum": "19/98"
+    },
+    {
+      "name": "Giovanni's Nidoqueen",
+      "set": "Challenge from the Darkness",
+      "img": "https://den-cards.pokellector.com/317/Giovannis-Nidoqueen.B06.20.38440.png",
+      "rarity": "Rare",
+      "cardNum": "20/98"
+    },
+    {
+      "name": "Giovanni's Nidoking",
+      "set": "Challenge from the Darkness",
+      "img": "https://den-cards.pokellector.com/317/Giovannis-Nidoking.B06.21.38441.png",
+      "rarity": "Rare",
+      "cardNum": "21/98"
+    },
+    {
+      "name": "Sabrina's Venomoth",
+      "set": "Challenge from the Darkness",
+      "img": "https://den-cards.pokellector.com/317/Sabrinas-Venomoth.B06.22.38442.png",
+      "rarity": "Rare",
+      "cardNum": "22/98"
+    },
+    {
+      "name": "Koga's Muk",
+      "set": "Challenge from the Darkness",
+      "img": "https://den-cards.pokellector.com/317/Kogas-Muk.B06.23.38443.png",
+      "rarity": "Rare",
+      "cardNum": "23/98"
+    },
+    {
+      "name": "Giovanni's Pinsir",
+      "set": "Challenge from the Darkness",
+      "img": "https://den-cards.pokellector.com/317/Giovannis-Pinsir.B06.24.38444.png",
+      "rarity": "Rare",
+      "cardNum": "24/98"
+    },
+    {
+      "name": "Blaine's Charmander",
+      "set": "Challenge from the Darkness",
+      "img": "https://den-cards.pokellector.com/317/Blaines-Charmander.B06.25.38445.png",
+      "rarity": "Common",
+      "cardNum": "25/98"
+    },
+    {
+      "name": "Blaine's Vulpix",
+      "set": "Challenge from the Darkness",
+      "img": "https://den-cards.pokellector.com/317/Blaines-Vulpix.B06.26.38446.png",
+      "rarity": "Common",
+      "cardNum": "26/98"
+    },
+    {
+      "name": "Blaine's Growlithe",
+      "set": "Challenge from the Darkness",
+      "img": "https://den-cards.pokellector.com/317/Blaines-Growlithe.B06.27.38447.png",
+      "rarity": "Common",
+      "cardNum": "27/98"
+    },
+    {
+      "name": "Blaine's Ponyta",
+      "set": "Challenge from the Darkness",
+      "img": "https://den-cards.pokellector.com/317/Blaines-Ponyta.B06.28.38448.png",
+      "rarity": "Common",
+      "cardNum": "28/98"
+    },
+    {
+      "name": "Blaine's Charmeleon",
+      "set": "Challenge from the Darkness",
+      "img": "https://den-cards.pokellector.com/317/Blaines-Charmeleon.B06.29.38449.png",
+      "rarity": "Uncommon",
+      "cardNum": "29/98"
+    },
+    {
+      "name": "Blaine's Rapidash",
+      "set": "Challenge from the Darkness",
+      "img": "https://den-cards.pokellector.com/317/Blaines-Rapidash.B06.30.38450.png",
+      "rarity": "Uncommon",
+      "cardNum": "30/98"
+    },
+    {
+      "name": "Blaine's Magmar",
+      "set": "Challenge from the Darkness",
+      "img": "https://den-cards.pokellector.com/317/Blaines-Magmar.B06.31.38451.png",
+      "rarity": "Uncommon",
+      "cardNum": "31/98"
+    },
+    {
+      "name": "Blaine's Charizard",
+      "set": "Challenge from the Darkness",
+      "img": "https://den-cards.pokellector.com/317/Blaines-Charizard.B06.32.38452.png",
+      "rarity": "Rare",
+      "cardNum": "32/98"
+    },
+    {
+      "name": "Blaine's Ninetales",
+      "set": "Challenge from the Darkness",
+      "img": "https://den-cards.pokellector.com/317/Blaines-Ninetales.B06.33.38453.png",
+      "rarity": "Rare",
+      "cardNum": "33/98"
+    },
+    {
+      "name": "Blaine's Arcanine",
+      "set": "Challenge from the Darkness",
+      "img": "https://den-cards.pokellector.com/317/Blaines-Arcanine.B06.34.38454.png",
+      "rarity": "Rare",
+      "cardNum": "34/98"
+    },
+    {
+      "name": "Blaine's Moltres",
+      "set": "Challenge from the Darkness",
+      "img": "https://den-cards.pokellector.com/317/Blaines-Moltres.B06.35.38455.png",
+      "rarity": "Rare",
+      "cardNum": "35/98"
+    },
+    {
+      "name": "Sabrina's Psyduck",
+      "set": "Challenge from the Darkness",
+      "img": "https://den-cards.pokellector.com/317/Sabrinas-Psyduck.B06.36.38456.png",
+      "rarity": "Common",
+      "cardNum": "36/98"
+    },
+    {
+      "name": "Giovanni's Magikarp",
+      "set": "Challenge from the Darkness",
+      "img": "https://den-cards.pokellector.com/317/Giovannis-Magikarp.B06.37.38457.png",
+      "rarity": "Common",
+      "cardNum": "37/98"
+    },
+    {
+      "name": "Sabrina's Golduck",
+      "set": "Challenge from the Darkness",
+      "img": "https://den-cards.pokellector.com/317/Sabrinas-Golduck.B06.38.38458.png",
+      "rarity": "Rare",
+      "cardNum": "38/98"
+    },
+    {
+      "name": "Misty's Poliwrath",
+      "set": "Challenge from the Darkness",
+      "img": "https://den-cards.pokellector.com/317/Mistys-Poliwrath.B06.39.38459.png",
+      "rarity": "Rare",
+      "cardNum": "39/98"
+    },
+    {
+      "name": "Giovanni's Gyarados",
+      "set": "Challenge from the Darkness",
+      "img": "https://den-cards.pokellector.com/317/Giovannis-Gyarados.B06.40.38460.png",
+      "rarity": "Rare",
+      "cardNum": "40/98"
+    },
+    {
+      "name": "Lt. Surge's Raichu",
+      "set": "Challenge from the Darkness",
+      "img": "https://den-cards.pokellector.com/317/Lt-Surges-Raichu.B06.41.38461.png",
+      "rarity": "Rare",
+      "cardNum": "41/98"
+    },
+    {
+      "name": "Rocket's Zapdos",
+      "set": "Challenge from the Darkness",
+      "img": "https://den-cards.pokellector.com/317/Rockets-Zapdos.B06.42.38462.png",
+      "rarity": "Rare",
+      "cardNum": "42/98"
+    },
+    {
+      "name": "Sabrina's Abra",
+      "set": "Challenge from the Darkness",
+      "img": "https://den-cards.pokellector.com/317/Sabrinas-Abra.B06.43.38463.png",
+      "rarity": "Common",
+      "cardNum": "43/98"
+    },
+    {
+      "name": "Sabrina's Slowpoke",
+      "set": "Challenge from the Darkness",
+      "img": "https://den-cards.pokellector.com/317/Sabrinas-Slowpoke.B06.44.38464.png",
+      "rarity": "Common",
+      "cardNum": "44/98"
+    },
+    {
+      "name": "Sabrina's Drowzee",
+      "set": "Challenge from the Darkness",
+      "img": "https://den-cards.pokellector.com/317/Sabrinas-Drowzee.B06.45.38465.png",
+      "rarity": "Common",
+      "cardNum": "45/98"
+    },
+    {
+      "name": "Sabrina's Mr. Mime",
+      "set": "Challenge from the Darkness",
+      "img": "https://den-cards.pokellector.com/317/Sabrinas-Mr-Mime.B06.46.38466.png",
+      "rarity": "Common",
+      "cardNum": "46/98"
+    },
+    {
+      "name": "Sabrina's Kadabra",
+      "set": "Challenge from the Darkness",
+      "img": "https://den-cards.pokellector.com/317/Sabrinas-Kadabra.B06.47.38467.png",
+      "rarity": "Uncommon",
+      "cardNum": "47/98"
+    },
+    {
+      "name": "Sabrina's Slowbro",
+      "set": "Challenge from the Darkness",
+      "img": "https://den-cards.pokellector.com/317/Sabrinas-Slowbro.B06.48.38468.png",
+      "rarity": "Uncommon",
+      "cardNum": "48/98"
+    },
+    {
+      "name": "Sabrina's Gastly",
+      "set": "Challenge from the Darkness",
+      "img": "https://den-cards.pokellector.com/317/Sabrinas-Gastly.B06.49.38469.png",
+      "rarity": "Uncommon",
+      "cardNum": "49/98"
+    },
+    {
+      "name": "Sabrina's Haunter",
+      "set": "Challenge from the Darkness",
+      "img": "https://den-cards.pokellector.com/317/Sabrinas-Haunter.B06.50.38470.png",
+      "rarity": "Uncommon",
+      "cardNum": "50/98"
+    },
+    {
+      "name": "Sabrina's Hypno",
+      "set": "Challenge from the Darkness",
+      "img": "https://den-cards.pokellector.com/317/Sabrinas-Hypno.B06.51.38471.png",
+      "rarity": "Uncommon",
+      "cardNum": "51/98"
+    },
+    {
+      "name": "Sabrina's Jynx",
+      "set": "Challenge from the Darkness",
+      "img": "https://den-cards.pokellector.com/317/Sabrinas-Jynx.B06.52.38472.png",
+      "rarity": "Uncommon",
+      "cardNum": "52/98"
+    },
+    {
+      "name": "Sabrina's Alakazam",
+      "set": "Challenge from the Darkness",
+      "img": "https://den-cards.pokellector.com/317/Sabrinas-Alakazam.B06.53.38473.png",
+      "rarity": "Rare",
+      "cardNum": "53/98"
+    },
+    {
+      "name": "Sabrina's Gengar",
+      "set": "Challenge from the Darkness",
+      "img": "https://den-cards.pokellector.com/317/Sabrinas-Gengar.B06.54.38474.png",
+      "rarity": "Rare",
+      "cardNum": "54/98"
+    },
+    {
+      "name": "Rocket's Mewtwo",
+      "set": "Challenge from the Darkness",
+      "img": "https://den-cards.pokellector.com/317/Rockets-Mewtwo.B06.55.38475.png",
+      "rarity": "Rare",
+      "cardNum": "55/98"
+    },
+    {
+      "name": "Blaine's Mankey",
+      "set": "Challenge from the Darkness",
+      "img": "https://den-cards.pokellector.com/317/Blaines-Mankey.B06.56.38476.png",
+      "rarity": "Common",
+      "cardNum": "56/98"
+    },
+    {
+      "name": "Giovanni's Machop",
+      "set": "Challenge from the Darkness",
+      "img": "https://den-cards.pokellector.com/317/Giovannis-Machop.B06.57.38477.png",
+      "rarity": "Common",
+      "cardNum": "57/98"
+    },
+    {
+      "name": "Blaine's Rhyhorn",
+      "set": "Challenge from the Darkness",
+      "img": "https://den-cards.pokellector.com/317/Blaines-Rhyhorn.B06.58.38478.png",
+      "rarity": "Common",
+      "cardNum": "58/98"
+    },
+    {
+      "name": "Giovanni's Machoke",
+      "set": "Challenge from the Darkness",
+      "img": "https://den-cards.pokellector.com/317/Giovannis-Machoke.B06.59.38479.png",
+      "rarity": "Uncommon",
+      "cardNum": "59/98"
+    },
+    {
+      "name": "Brock's Dugtrio",
+      "set": "Challenge from the Darkness",
+      "img": "https://den-cards.pokellector.com/317/Brocks-Dugtrio.B06.60.38480.png",
+      "rarity": "Rare",
+      "cardNum": "60/98"
+    },
+    {
+      "name": "Giovanni's Machamp",
+      "set": "Challenge from the Darkness",
+      "img": "https://den-cards.pokellector.com/317/Giovannis-Machamp.B06.61.38481.png",
+      "rarity": "Rare",
+      "cardNum": "61/98"
+    },
+    {
+      "name": "Koga's Pidgey",
+      "set": "Challenge from the Darkness",
+      "img": "https://den-cards.pokellector.com/317/Kogas-Pidgey.B06.62.38482.png",
+      "rarity": "Common",
+      "cardNum": "62/98"
+    },
+    {
+      "name": "Giovanni's Meowth",
+      "set": "Challenge from the Darkness",
+      "img": "https://den-cards.pokellector.com/317/Giovannis-Meowth.B06.63.38483.png",
+      "rarity": "Common",
+      "cardNum": "63/98"
+    },
+    {
+      "name": "Blaine's Doduo",
+      "set": "Challenge from the Darkness",
+      "img": "https://den-cards.pokellector.com/317/Blaines-Doduo.B06.64.38484.png",
+      "rarity": "Common",
+      "cardNum": "64/98"
+    },
+    {
+      "name": "Blaine's Tauros",
+      "set": "Challenge from the Darkness",
+      "img": "https://den-cards.pokellector.com/317/Blaines-Tauros.B06.65.38485.png",
+      "rarity": "Common",
+      "cardNum": "65/98"
+    },
+    {
+      "name": "Sabrina's Porygon",
+      "set": "Challenge from the Darkness",
+      "img": "https://den-cards.pokellector.com/317/Sabrinas-Porygon.B06.66.38486.png",
+      "rarity": "Common",
+      "cardNum": "66/98"
+    },
+    {
+      "name": "Koga's Pidgey",
+      "set": "Challenge from the Darkness",
+      "img": "https://den-cards.pokellector.com/317/Kogas-Pidgey.B06.67.38487.png",
+      "rarity": "Uncommon",
+      "cardNum": "67/98"
+    },
+    {
+      "name": "Giovanni's Meowth",
+      "set": "Challenge from the Darkness",
+      "img": "https://den-cards.pokellector.com/317/Giovannis-Meowth.B06.68.38488.png",
+      "rarity": "Uncommon",
+      "cardNum": "68/98"
+    },
+    {
+      "name": "Blaine's Kangaskhan",
+      "set": "Challenge from the Darkness",
+      "img": "https://den-cards.pokellector.com/317/Blaines-Kangaskhan.B06.69.38489.png",
+      "rarity": "Uncommon",
+      "cardNum": "69/98"
+    },
+    {
+      "name": "Koga's Pidgeotto",
+      "set": "Challenge from the Darkness",
+      "img": "https://den-cards.pokellector.com/317/Kogas-Pidgeotto.B06.70.38490.png",
+      "rarity": "Rare",
+      "cardNum": "70/98"
+    },
+    {
+      "name": "Giovanni's Persian",
+      "set": "Challenge from the Darkness",
+      "img": "https://den-cards.pokellector.com/317/Giovannis-Persian.B06.71.38491.png",
+      "rarity": "Rare",
+      "cardNum": "71/98"
+    },
+    {
+      "name": "Koga's Ditto",
+      "set": "Challenge from the Darkness",
+      "img": "https://den-cards.pokellector.com/317/Kogas-Ditto.B06.72.38492.png",
+      "rarity": "Rare",
+      "cardNum": "72/98"
+    },
+    {
+      "name": "Rocket's Snorlax",
+      "set": "Challenge from the Darkness",
+      "img": "https://den-cards.pokellector.com/317/Rockets-Snorlax.B06.73.38493.png",
+      "rarity": "Rare",
+      "cardNum": "73/98"
+    },
+    {
+      "name": "Imakuni?'s Doduo",
+      "set": "Challenge from the Darkness",
+      "img": "https://den-cards.pokellector.com/317/Imakunis-Doduo.B06.74.38494.png",
+      "rarity": "Rare",
+      "cardNum": "74/98"
+    },
+    {
+      "name": "_____'s Chansey",
+      "set": "Challenge from the Darkness",
+      "img": "https://den-cards.pokellector.com/317/___s-Chansey.B06.75.38495.png",
+      "rarity": "Common",
+      "cardNum": "75/98"
+    },
+    {
+      "name": "Blaine's Gamble",
+      "set": "Challenge from the Darkness",
+      "img": "https://den-cards.pokellector.com/317/Blaines-Gamble.B06.76.38496.png",
+      "rarity": "Common",
+      "cardNum": "76/98"
+    },
+    {
+      "name": "Trash Exchange",
+      "set": "Challenge from the Darkness",
+      "img": "https://den-cards.pokellector.com/317/Trash-Exchange.B06.77.38497.png",
+      "rarity": "Common",
+      "cardNum": "77/98"
+    },
+    {
+      "name": "Sabrina's Gaze",
+      "set": "Challenge from the Darkness",
+      "img": "https://den-cards.pokellector.com/317/Sabrinas-Gaze.B06.78.38498.png",
+      "rarity": "Common",
+      "cardNum": "78/98"
+    },
+    {
+      "name": "Transparent Walls",
+      "set": "Challenge from the Darkness",
+      "img": "https://den-cards.pokellector.com/317/Transparent-Walls.B06.79.38499.png",
+      "rarity": "Common",
+      "cardNum": "79/98"
+    },
+    {
+      "name": "Warp Point",
+      "set": "Challenge from the Darkness",
+      "img": "https://den-cards.pokellector.com/317/Warp-Point.B06.80.38500.png",
+      "rarity": "Common",
+      "cardNum": "80/98"
+    },
+    {
+      "name": "Blaine's Last Resort",
+      "set": "Challenge from the Darkness",
+      "img": "https://den-cards.pokellector.com/317/Blaines-Last-Resort.B06.81.38501.png",
+      "rarity": "Uncommon",
+      "cardNum": "81/98"
+    },
+    {
+      "name": "Blaine's Quiz #3",
+      "set": "Challenge from the Darkness",
+      "img": "https://den-cards.pokellector.com/317/Blaines-Quiz-3.B06.82.38502.png",
+      "rarity": "Uncommon",
+      "cardNum": "82/98"
+    },
+    {
+      "name": "Koga's Ninja Trick",
+      "set": "Challenge from the Darkness",
+      "img": "https://den-cards.pokellector.com/317/Kogas-Ninja-Trick.B06.83.38503.png",
+      "rarity": "Rare",
+      "cardNum": "83/98"
+    },
+    {
+      "name": "Tickling Machine",
+      "set": "Challenge from the Darkness",
+      "img": "https://den-cards.pokellector.com/317/Tickling-Machine.B06.84.38504.png",
+      "rarity": "Uncommon",
+      "cardNum": "84/98"
+    },
+    {
+      "name": "Cinnabar City Gym",
+      "set": "Challenge from the Darkness",
+      "img": "https://den-cards.pokellector.com/317/Cinnabar-City-Gym.B06.85.38505.png",
+      "rarity": "Uncommon",
+      "cardNum": "85/98"
+    },
+    {
+      "name": "Fuchsia City Gym",
+      "set": "Challenge from the Darkness",
+      "img": "https://den-cards.pokellector.com/317/Fuchsia-City-Gym.B06.86.38506.png",
+      "rarity": "Uncommon",
+      "cardNum": "86/98"
+    },
+    {
+      "name": "Sabrina's ESP",
+      "set": "Challenge from the Darkness",
+      "img": "https://den-cards.pokellector.com/317/Sabrinas-ESP.B06.87.38507.png",
+      "rarity": "Uncommon",
+      "cardNum": "87/98"
+    },
+    {
+      "name": "Sabrina's Psychic Control",
+      "set": "Challenge from the Darkness",
+      "img": "https://den-cards.pokellector.com/317/Sabrinas-Psychic-Control.B06.88.38508.png",
+      "rarity": "Uncommon",
+      "cardNum": "88/98"
+    },
+    {
+      "name": "Minion of Team Rocket",
+      "set": "Challenge from the Darkness",
+      "img": "https://den-cards.pokellector.com/317/Minion-of-Team-Rocket.B06.89.38509.png",
+      "rarity": "Uncommon",
+      "cardNum": "89/98"
+    },
+    {
+      "name": "Saffron City Gym",
+      "set": "Challenge from the Darkness",
+      "img": "https://den-cards.pokellector.com/317/Saffron-City-Gym.B06.90.38510.png",
+      "rarity": "Uncommon",
+      "cardNum": "90/98"
+    },
+    {
+      "name": "Rocket's Secret Experiment",
+      "set": "Challenge from the Darkness",
+      "img": "https://den-cards.pokellector.com/317/Rockets-Secret-Experiment.B06.91.38511.png",
+      "rarity": "Uncommon",
+      "cardNum": "91/98"
+    },
+    {
+      "name": "Rocket's Minefield Gym",
+      "set": "Challenge from the Darkness",
+      "img": "https://den-cards.pokellector.com/317/Rockets-Minefield-Gym.B06.92.38512.png",
+      "rarity": "Uncommon",
+      "cardNum": "92/98"
+    },
+    {
+      "name": "Blaine",
+      "set": "Challenge from the Darkness",
+      "img": "https://den-cards.pokellector.com/317/Blaine.B06.93.38513.png",
+      "rarity": "Rare",
+      "cardNum": "93/98"
+    },
+    {
+      "name": "Koga",
+      "set": "Challenge from the Darkness",
+      "img": "https://den-cards.pokellector.com/317/Koga.B06.94.38514.png",
+      "rarity": "Rare",
+      "cardNum": "94/98"
+    },
+    {
+      "name": "Giovanni",
+      "set": "Challenge from the Darkness",
+      "img": "https://den-cards.pokellector.com/317/Giovanni.B06.95.38515.png",
+      "rarity": "Rare",
+      "cardNum": "95/98"
+    },
+    {
+      "name": "Giovanni's Last Resort",
+      "set": "Challenge from the Darkness",
+      "img": "https://den-cards.pokellector.com/317/Giovannis-Last-Resort.B06.96.38516.png",
+      "rarity": "Rare",
+      "cardNum": "96/98"
+    },
+    {
+      "name": "Viridian City Gym",
+      "set": "Challenge from the Darkness",
+      "img": "https://den-cards.pokellector.com/317/Viridian-City-Gym.B06.97.38517.png",
+      "rarity": "Rare",
+      "cardNum": "97/98"
+    },
+    {
+      "name": "Sabrina",
+      "set": "Challenge from the Darkness",
+      "img": "https://den-cards.pokellector.com/317/Sabrina.B06.98.38518.png",
+      "rarity": "Rare",
+      "cardNum": "98/98"
+    }
+  ]
+}

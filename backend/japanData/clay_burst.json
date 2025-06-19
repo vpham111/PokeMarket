@@ -1,0 +1,698 @@
+{
+  "setName": "Clay Burst",
+  "cards": [
+    {
+      "name": "Hoppip",
+      "set": "Clay Burst",
+      "img": "https://den-cards.pokellector.com/370/Hoppip.SV2D.1.47294.png",
+      "rarity": "Common",
+      "cardNum": "1/71"
+    },
+    {
+      "name": "Skiploom",
+      "set": "Clay Burst",
+      "img": "https://den-cards.pokellector.com/370/Skiploom.SV2D.2.47293.png",
+      "rarity": "Common",
+      "cardNum": "2/71"
+    },
+    {
+      "name": "Jumpluff",
+      "set": "Clay Burst",
+      "img": "https://den-cards.pokellector.com/370/Jumpluff.SV2D.3.47292.png",
+      "rarity": "Rare",
+      "cardNum": "3/71"
+    },
+    {
+      "name": "Pineco",
+      "set": "Clay Burst",
+      "img": "https://den-cards.pokellector.com/370/Pineco.SV2D.4.47297.png",
+      "rarity": "Common",
+      "cardNum": "4/71"
+    },
+    {
+      "name": "Forretress ex",
+      "set": "Clay Burst",
+      "img": "https://den-cards.pokellector.com/370/Forretress-ex.SV2D.5.47298.png",
+      "rarity": "Double Rare",
+      "cardNum": "5/71"
+    },
+    {
+      "name": "Heracross",
+      "set": "Clay Burst",
+      "img": "https://den-cards.pokellector.com/370/Heracross.SV2D.6.47612.png",
+      "rarity": "Uncommon",
+      "cardNum": "6/71"
+    },
+    {
+      "name": "Tarountula",
+      "set": "Clay Burst",
+      "img": "https://den-cards.pokellector.com/370/Tarountula.SV2D.7.47613.png",
+      "rarity": "Common",
+      "cardNum": "7/71"
+    },
+    {
+      "name": "Tarountula",
+      "set": "Clay Burst",
+      "img": "https://den-cards.pokellector.com/370/Tarountula.SV2D.8.47614.png",
+      "rarity": "Common",
+      "cardNum": "8/71"
+    },
+    {
+      "name": "Spidops",
+      "set": "Clay Burst",
+      "img": "https://den-cards.pokellector.com/370/Spidops.SV2D.9.47615.png",
+      "rarity": "Uncommon",
+      "cardNum": "9/71"
+    },
+    {
+      "name": "Numel",
+      "set": "Clay Burst",
+      "img": "https://den-cards.pokellector.com/370/Numel.SV2D.10.47616.png",
+      "rarity": "Common",
+      "cardNum": "10/71"
+    },
+    {
+      "name": "Camerupt",
+      "set": "Clay Burst",
+      "img": "https://den-cards.pokellector.com/370/Camerupt.SV2D.11.47617.png",
+      "rarity": "Uncommon",
+      "cardNum": "11/71"
+    },
+    {
+      "name": "Fletchinder",
+      "set": "Clay Burst",
+      "img": "https://den-cards.pokellector.com/370/Fletchinder.SV2D.12.47618.png",
+      "rarity": "Common",
+      "cardNum": "12/71"
+    },
+    {
+      "name": "Talonflame",
+      "set": "Clay Burst",
+      "img": "https://den-cards.pokellector.com/370/Talonflame.SV2D.13.47619.png",
+      "rarity": "Uncommon",
+      "cardNum": "13/71"
+    },
+    {
+      "name": "Charcadet",
+      "set": "Clay Burst",
+      "img": "https://den-cards.pokellector.com/370/Charcadet.SV2D.14.47620.png",
+      "rarity": "Common",
+      "cardNum": "14/71"
+    },
+    {
+      "name": "Charcadet",
+      "set": "Clay Burst",
+      "img": "https://den-cards.pokellector.com/370/Charcadet.SV2D.15.47621.png",
+      "rarity": "Common",
+      "cardNum": "15/71"
+    },
+    {
+      "name": "Chi-Yu ex",
+      "set": "Clay Burst",
+      "img": "https://den-cards.pokellector.com/370/Chi-Yu-ex.SV2D.16.47039.png",
+      "rarity": "Double Rare",
+      "cardNum": "16/71"
+    },
+    {
+      "name": "Pikachu",
+      "set": "Clay Burst",
+      "img": "https://den-cards.pokellector.com/370/Pikachu.SV2D.17.47044.png",
+      "rarity": "Common",
+      "cardNum": "17/71"
+    },
+    {
+      "name": "Raichu",
+      "set": "Clay Burst",
+      "img": "https://den-cards.pokellector.com/370/Raichu.SV2D.18.47045.png",
+      "rarity": "Common",
+      "cardNum": "18/71"
+    },
+    {
+      "name": "Shinx",
+      "set": "Clay Burst",
+      "img": "https://den-cards.pokellector.com/370/Shinx.SV2D.19.47622.png",
+      "rarity": "Common",
+      "cardNum": "19/71"
+    },
+    {
+      "name": "Luxio",
+      "set": "Clay Burst",
+      "img": "https://den-cards.pokellector.com/370/Luxio.SV2D.20.47623.png",
+      "rarity": "Common",
+      "cardNum": "20/71"
+    },
+    {
+      "name": "Luxray",
+      "set": "Clay Burst",
+      "img": "https://den-cards.pokellector.com/370/Luxray.SV2D.21.47306.png",
+      "rarity": "Rare",
+      "cardNum": "21/71"
+    },
+    {
+      "name": "Pincurchin",
+      "set": "Clay Burst",
+      "img": "https://den-cards.pokellector.com/370/Pincurchin.SV2D.22.47624.png",
+      "rarity": "Uncommon",
+      "cardNum": "22/71"
+    },
+    {
+      "name": "Tadbulb",
+      "set": "Clay Burst",
+      "img": "https://den-cards.pokellector.com/370/Tadbulb.SV2D.23.47535.png",
+      "rarity": "Common",
+      "cardNum": "23/71"
+    },
+    {
+      "name": "Tadbulb",
+      "set": "Clay Burst",
+      "img": "https://den-cards.pokellector.com/370/Tadbulb.SV2D.24.47534.png",
+      "rarity": "Common",
+      "cardNum": "24/71"
+    },
+    {
+      "name": "Bellibolt ex",
+      "set": "Clay Burst",
+      "img": "https://den-cards.pokellector.com/370/Bellibolt-ex.SV2D.25.47536.png",
+      "rarity": "Double Rare",
+      "cardNum": "25/71"
+    },
+    {
+      "name": "Jigglypuff",
+      "set": "Clay Burst",
+      "img": "https://den-cards.pokellector.com/370/Jigglypuff.SV2D.26.47625.png",
+      "rarity": "Common",
+      "cardNum": "26/71"
+    },
+    {
+      "name": "Wigglytuff",
+      "set": "Clay Burst",
+      "img": "https://den-cards.pokellector.com/370/Wigglytuff.SV2D.27.47626.png",
+      "rarity": "Rare",
+      "cardNum": "27/71"
+    },
+    {
+      "name": "Spiritomb",
+      "set": "Clay Burst",
+      "img": "https://den-cards.pokellector.com/370/Spiritomb.SV2D.28.47296.png",
+      "rarity": "Rare",
+      "cardNum": "28/71"
+    },
+    {
+      "name": "Sandygast",
+      "set": "Clay Burst",
+      "img": "https://den-cards.pokellector.com/370/Sandygast.SV2D.29.47627.png",
+      "rarity": "Common",
+      "cardNum": "29/71"
+    },
+    {
+      "name": "Palossand",
+      "set": "Clay Burst",
+      "img": "https://den-cards.pokellector.com/370/Palossand.SV2D.30.47628.png",
+      "rarity": "Uncommon",
+      "cardNum": "30/71"
+    },
+    {
+      "name": "Ceruledge",
+      "set": "Clay Burst",
+      "img": "https://den-cards.pokellector.com/370/Ceruledge.SV2D.31.47065.png",
+      "rarity": "Rare",
+      "cardNum": "31/71"
+    },
+    {
+      "name": "Tinkatink",
+      "set": "Clay Burst",
+      "img": "https://den-cards.pokellector.com/370/Tinkatink.SV2D.32.47629.png",
+      "rarity": "Common",
+      "cardNum": "32/71"
+    },
+    {
+      "name": "Tinkatink",
+      "set": "Clay Burst",
+      "img": "https://den-cards.pokellector.com/370/Tinkatink.SV2D.33.47630.png",
+      "rarity": "Common",
+      "cardNum": "33/71"
+    },
+    {
+      "name": "Tinkatuff",
+      "set": "Clay Burst",
+      "img": "https://den-cards.pokellector.com/370/Tinkatuff.SV2D.34.47631.png",
+      "rarity": "Common",
+      "cardNum": "34/71"
+    },
+    {
+      "name": "Tinkaton ex",
+      "set": "Clay Burst",
+      "img": "https://den-cards.pokellector.com/370/Tinkaton-ex.SV2D.35.47303.png",
+      "rarity": "Double Rare",
+      "cardNum": "35/71"
+    },
+    {
+      "name": "Larvitar",
+      "set": "Clay Burst",
+      "img": "https://den-cards.pokellector.com/370/Larvitar.SV2D.36.47632.png",
+      "rarity": "Common",
+      "cardNum": "36/71"
+    },
+    {
+      "name": "Pupitar",
+      "set": "Clay Burst",
+      "img": "https://den-cards.pokellector.com/370/Pupitar.SV2D.37.47633.png",
+      "rarity": "Common",
+      "cardNum": "37/71"
+    },
+    {
+      "name": "Barboach",
+      "set": "Clay Burst",
+      "img": "https://den-cards.pokellector.com/370/Barboach.SV2D.38.47634.png",
+      "rarity": "Common",
+      "cardNum": "38/71"
+    },
+    {
+      "name": "Whiscash",
+      "set": "Clay Burst",
+      "img": "https://den-cards.pokellector.com/370/Whiscash.SV2D.39.47635.png",
+      "rarity": "Uncommon",
+      "cardNum": "39/71"
+    },
+    {
+      "name": "Croagunk",
+      "set": "Clay Burst",
+      "img": "https://den-cards.pokellector.com/370/Croagunk.SV2D.40.47636.png",
+      "rarity": "Common",
+      "cardNum": "40/71"
+    },
+    {
+      "name": "Toxicroak",
+      "set": "Clay Burst",
+      "img": "https://den-cards.pokellector.com/370/Toxicroak.SV2D.41.47637.png",
+      "rarity": "Uncommon",
+      "cardNum": "41/71"
+    },
+    {
+      "name": "Crabrawler",
+      "set": "Clay Burst",
+      "img": "https://den-cards.pokellector.com/370/Crabrawler.SV2D.42.47638.png",
+      "rarity": "Common",
+      "cardNum": "42/71"
+    },
+    {
+      "name": "Crabominable",
+      "set": "Clay Burst",
+      "img": "https://den-cards.pokellector.com/370/Crabominable.SV2D.43.47639.png",
+      "rarity": "Uncommon",
+      "cardNum": "43/71"
+    },
+    {
+      "name": "Passimian",
+      "set": "Clay Burst",
+      "img": "https://den-cards.pokellector.com/370/Passimian.SV2D.44.47640.png",
+      "rarity": "Uncommon",
+      "cardNum": "44/71"
+    },
+    {
+      "name": "Nacli",
+      "set": "Clay Burst",
+      "img": "https://den-cards.pokellector.com/370/Nacli.SV2D.45.47041.png",
+      "rarity": "Common",
+      "cardNum": "45/71"
+    },
+    {
+      "name": "Nacli",
+      "set": "Clay Burst",
+      "img": "https://den-cards.pokellector.com/370/Nacli.SV2D.46.47042.png",
+      "rarity": "Common",
+      "cardNum": "46/71"
+    },
+    {
+      "name": "Naclstack",
+      "set": "Clay Burst",
+      "img": "https://den-cards.pokellector.com/370/Naclstack.SV2D.47.47043.png",
+      "rarity": "Common",
+      "cardNum": "47/71"
+    },
+    {
+      "name": "Garganacl",
+      "set": "Clay Burst",
+      "img": "https://den-cards.pokellector.com/370/Garganacl.SV2D.48.47040.png",
+      "rarity": "Rare",
+      "cardNum": "48/71"
+    },
+    {
+      "name": "Ting-Lu ex",
+      "set": "Clay Burst",
+      "img": "https://den-cards.pokellector.com/370/Ting-Lu-ex.SV2D.49.47038.png",
+      "rarity": "Double Rare",
+      "cardNum": "49/71"
+    },
+    {
+      "name": "Sneasel",
+      "set": "Clay Burst",
+      "img": "https://den-cards.pokellector.com/370/Sneasel.SV2D.50.47641.png",
+      "rarity": "Common",
+      "cardNum": "50/71"
+    },
+    {
+      "name": "Weavile",
+      "set": "Clay Burst",
+      "img": "https://den-cards.pokellector.com/370/Weavile.SV2D.51.47642.png",
+      "rarity": "Rare",
+      "cardNum": "51/71"
+    },
+    {
+      "name": "Tyranitar",
+      "set": "Clay Burst",
+      "img": "https://den-cards.pokellector.com/370/Tyranitar.SV2D.52.47643.png",
+      "rarity": "Rare",
+      "cardNum": "52/71"
+    },
+    {
+      "name": "Shroodle",
+      "set": "Clay Burst",
+      "img": "https://den-cards.pokellector.com/370/Shroodle.SV2D.53.47538.png",
+      "rarity": "Common",
+      "cardNum": "53/71"
+    },
+    {
+      "name": "Shroodle",
+      "set": "Clay Burst",
+      "img": "https://den-cards.pokellector.com/370/Shroodle.SV2D.54.47537.png",
+      "rarity": "Common",
+      "cardNum": "54/71"
+    },
+    {
+      "name": "Grafaiai",
+      "set": "Clay Burst",
+      "img": "https://den-cards.pokellector.com/370/Grafaiai.SV2D.55.47539.png",
+      "rarity": "Uncommon",
+      "cardNum": "55/71"
+    },
+    {
+      "name": "Bombirdier",
+      "set": "Clay Burst",
+      "img": "https://den-cards.pokellector.com/370/Bombirdier.SV2D.56.47644.png",
+      "rarity": "Uncommon",
+      "cardNum": "56/71"
+    },
+    {
+      "name": "Noibat",
+      "set": "Clay Burst",
+      "img": "https://den-cards.pokellector.com/370/Noibat.SV2D.57.47645.png",
+      "rarity": "Common",
+      "cardNum": "57/71"
+    },
+    {
+      "name": "Noivern ex",
+      "set": "Clay Burst",
+      "img": "https://den-cards.pokellector.com/370/Noivern-ex.SV2D.58.47543.png",
+      "rarity": "Double Rare",
+      "cardNum": "58/71"
+    },
+    {
+      "name": "Girafarig",
+      "set": "Clay Burst",
+      "img": "https://den-cards.pokellector.com/370/Girafarig.SV2D.59.47646.png",
+      "rarity": "Common",
+      "cardNum": "59/71"
+    },
+    {
+      "name": "Farigiraf",
+      "set": "Clay Burst",
+      "img": "https://den-cards.pokellector.com/370/Farigiraf.SV2D.60.47647.png",
+      "rarity": "Uncommon",
+      "cardNum": "60/71"
+    },
+    {
+      "name": "Fletchling",
+      "set": "Clay Burst",
+      "img": "https://den-cards.pokellector.com/370/Fletchling.SV2D.61.47648.png",
+      "rarity": "Common",
+      "cardNum": "61/71"
+    },
+    {
+      "name": "Tandemaus",
+      "set": "Clay Burst",
+      "img": "https://den-cards.pokellector.com/370/Tandemaus.SV2D.62.47046.png",
+      "rarity": "Common",
+      "cardNum": "62/71"
+    },
+    {
+      "name": "Tandemaus",
+      "set": "Clay Burst",
+      "img": "https://den-cards.pokellector.com/370/Tandemaus.SV2D.63.47047.png",
+      "rarity": "Common",
+      "cardNum": "63/71"
+    },
+    {
+      "name": "Maushold",
+      "set": "Clay Burst",
+      "img": "https://den-cards.pokellector.com/370/Maushold.SV2D.64.47048.png",
+      "rarity": "Uncommon",
+      "cardNum": "64/71"
+    },
+    {
+      "name": "Flamigo",
+      "set": "Clay Burst",
+      "img": "https://den-cards.pokellector.com/370/Flamigo.SV2D.65.47649.png",
+      "rarity": "Uncommon",
+      "cardNum": "65/71"
+    },
+    {
+      "name": "Delivery Drone",
+      "set": "Clay Burst",
+      "img": "https://den-cards.pokellector.com/370/Delivery-Drone.SV2D.66.47305.png",
+      "rarity": "Uncommon",
+      "cardNum": "66/71"
+    },
+    {
+      "name": "Brave Charm",
+      "set": "Clay Burst",
+      "img": "https://den-cards.pokellector.com/370/Brave-Charm.SV2D.67.47050.png",
+      "rarity": "Uncommon",
+      "cardNum": "67/71"
+    },
+    {
+      "name": "Saguaro",
+      "set": "Clay Burst",
+      "img": "https://den-cards.pokellector.com/370/Saguaro.SV2D.68.47650.png",
+      "rarity": "Uncommon",
+      "cardNum": "68/71"
+    },
+    {
+      "name": "Iono",
+      "set": "Clay Burst",
+      "img": "https://den-cards.pokellector.com/370/Iono.SV2D.69.47049.png",
+      "rarity": "Uncommon",
+      "cardNum": "69/71"
+    },
+    {
+      "name": "Calamitous Wasteland",
+      "set": "Clay Burst",
+      "img": "https://den-cards.pokellector.com/370/Calamitous-Wasteland.SV2D.70.47291.png",
+      "rarity": "Uncommon",
+      "cardNum": "70/71"
+    },
+    {
+      "name": "Therapy Energy",
+      "set": "Clay Burst",
+      "img": "https://den-cards.pokellector.com/370/Therapy-Energy.SV2D.71.47540.png",
+      "rarity": "Uncommon",
+      "cardNum": "71/71"
+    },
+    {
+      "name": "Heracross",
+      "set": "Clay Burst",
+      "img": "https://den-cards.pokellector.com/370/Heracross.SV2D.72.47651.png",
+      "rarity": "Secret Rare",
+      "cardNum": "72/71"
+    },
+    {
+      "name": "Fletchinder",
+      "set": "Clay Burst",
+      "img": "https://den-cards.pokellector.com/370/Fletchinder.SV2D.73.47652.png",
+      "rarity": "Secret Rare",
+      "cardNum": "73/71"
+    },
+    {
+      "name": "Raichu",
+      "set": "Clay Burst",
+      "img": "https://den-cards.pokellector.com/370/Raichu.SV2D.74.47051.png",
+      "rarity": "Secret Rare",
+      "cardNum": "74/71"
+    },
+    {
+      "name": "Sandygast",
+      "set": "Clay Burst",
+      "img": "https://den-cards.pokellector.com/370/Sandygast.SV2D.75.47653.png",
+      "rarity": "Secret Rare",
+      "cardNum": "75/71"
+    },
+    {
+      "name": "Tinkatink",
+      "set": "Clay Burst",
+      "img": "https://den-cards.pokellector.com/370/Tinkatink.SV2D.76.47532.png",
+      "rarity": "Secret Rare",
+      "cardNum": "76/71"
+    },
+    {
+      "name": "Tinkatuff",
+      "set": "Clay Burst",
+      "img": "https://den-cards.pokellector.com/370/Tinkatuff.SV2D.77.47531.png",
+      "rarity": "Secret Rare",
+      "cardNum": "77/71"
+    },
+    {
+      "name": "Nacli",
+      "set": "Clay Burst",
+      "img": "https://den-cards.pokellector.com/370/Nacli.SV2D.78.47654.png",
+      "rarity": "Secret Rare",
+      "cardNum": "78/71"
+    },
+    {
+      "name": "Tyranitar",
+      "set": "Clay Burst",
+      "img": "https://den-cards.pokellector.com/370/Tyranitar.SV2D.79.47655.png",
+      "rarity": "Secret Rare",
+      "cardNum": "79/71"
+    },
+    {
+      "name": "Grafaiai",
+      "set": "Clay Burst",
+      "img": "https://den-cards.pokellector.com/370/Grafaiai.SV2D.80.47523.png",
+      "rarity": "Secret Rare",
+      "cardNum": "80/71"
+    },
+    {
+      "name": "Maushold",
+      "set": "Clay Burst",
+      "img": "https://den-cards.pokellector.com/370/Maushold.SV2D.81.47052.png",
+      "rarity": "Secret Rare",
+      "cardNum": "81/71"
+    },
+    {
+      "name": "Flamigo",
+      "set": "Clay Burst",
+      "img": "https://den-cards.pokellector.com/370/Flamigo.SV2D.82.47066.png",
+      "rarity": "Secret Rare",
+      "cardNum": "82/71"
+    },
+    {
+      "name": "Farigiraf",
+      "set": "Clay Burst",
+      "img": "https://den-cards.pokellector.com/370/Farigiraf.SV2D.83.47656.png",
+      "rarity": "Secret Rare",
+      "cardNum": "83/71"
+    },
+    {
+      "name": "Forretress ex",
+      "set": "Clay Burst",
+      "img": "https://den-cards.pokellector.com/370/Forretress-ex.SV2D.84.47657.png",
+      "rarity": "Secret Rare",
+      "cardNum": "84/71"
+    },
+    {
+      "name": "Chi-Yu ex",
+      "set": "Clay Burst",
+      "img": "https://den-cards.pokellector.com/370/Chi-Yu-ex.SV2D.85.47658.png",
+      "rarity": "Secret Rare",
+      "cardNum": "85/71"
+    },
+    {
+      "name": "Bellibolt ex",
+      "set": "Clay Burst",
+      "img": "https://den-cards.pokellector.com/370/Bellibolt-ex.SV2D.86.47659.png",
+      "rarity": "Secret Rare",
+      "cardNum": "86/71"
+    },
+    {
+      "name": "Tinkaton ex",
+      "set": "Clay Burst",
+      "img": "https://den-cards.pokellector.com/370/Tinkaton-ex.SV2D.87.47660.png",
+      "rarity": "Secret Rare",
+      "cardNum": "87/71"
+    },
+    {
+      "name": "Ting-Lu ex",
+      "set": "Clay Burst",
+      "img": "https://den-cards.pokellector.com/370/Ting-Lu-ex.SV2D.88.47661.png",
+      "rarity": "Secret Rare",
+      "cardNum": "88/71"
+    },
+    {
+      "name": "Noivern ex",
+      "set": "Clay Burst",
+      "img": "https://den-cards.pokellector.com/370/Noivern-ex.SV2D.89.47662.png",
+      "rarity": "Secret Rare",
+      "cardNum": "89/71"
+    },
+    {
+      "name": "Saguaro",
+      "set": "Clay Burst",
+      "img": "https://den-cards.pokellector.com/370/Saguaro.SV2D.90.47663.png",
+      "rarity": "Secret Rare",
+      "cardNum": "90/71"
+    },
+    {
+      "name": "Iono",
+      "set": "Clay Burst",
+      "img": "https://den-cards.pokellector.com/370/Iono.SV2D.91.47533.png",
+      "rarity": "Secret Rare",
+      "cardNum": "91/71"
+    },
+    {
+      "name": "Chi-Yu ex",
+      "set": "Clay Burst",
+      "img": "https://den-cards.pokellector.com/370/Chi-Yu-ex.SV2D.92.47312.png",
+      "rarity": "Secret Rare",
+      "cardNum": "92/71"
+    },
+    {
+      "name": "Tinkaton ex",
+      "set": "Clay Burst",
+      "img": "https://den-cards.pokellector.com/370/Tinkaton-ex.SV2D.93.47530.png",
+      "rarity": "Secret Rare",
+      "cardNum": "93/71"
+    },
+    {
+      "name": "Ting-Lu ex",
+      "set": "Clay Burst",
+      "img": "https://den-cards.pokellector.com/370/Ting-Lu-ex.SV2D.94.47313.png",
+      "rarity": "Secret Rare",
+      "cardNum": "94/71"
+    },
+    {
+      "name": "Saguaro",
+      "set": "Clay Burst",
+      "img": "https://den-cards.pokellector.com/370/Saguaro.SV2D.95.47664.png",
+      "rarity": "Secret Rare",
+      "cardNum": "95/71"
+    },
+    {
+      "name": "Iono",
+      "set": "Clay Burst",
+      "img": "https://den-cards.pokellector.com/370/Iono.SV2D.96.47665.png",
+      "rarity": "Secret Rare",
+      "cardNum": "96/71"
+    },
+    {
+      "name": "Ting-Lu ex",
+      "set": "Clay Burst",
+      "img": "https://den-cards.pokellector.com/370/Ting-Lu-ex.SV2D.97.47667.png",
+      "rarity": "Secret Rare",
+      "cardNum": "97/71"
+    },
+    {
+      "name": "Superior Energy Retrieval",
+      "set": "Clay Burst",
+      "img": "https://den-cards.pokellector.com/370/Superior-Energy-Retrieval.SV2D.98.47666.png",
+      "rarity": "Secret Rare",
+      "cardNum": "98/71"
+    },
+    {
+      "name": "Basic Grass Energy",
+      "set": "Clay Burst",
+      "img": "https://den-cards.pokellector.com/370/Basic-Grass-Energy.SV2D.99.47668.png",
+      "rarity": "Secret Rare",
+      "cardNum": "99/71"
+    }
+  ]
+}

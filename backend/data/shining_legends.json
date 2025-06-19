@@ -1,0 +1,551 @@
+{
+  "setName": "Shining Legends",
+  "cards": [
+    {
+      "name": "Bulbasaur",
+      "set": "Shining Legends",
+      "img": "https://den-cards.pokellector.com/231/Bulbasaur.SLG.1.19485.png",
+      "rarity": "Common",
+      "cardNum": "1/73"
+    },
+    {
+      "name": "Ivysaur",
+      "set": "Shining Legends",
+      "img": "https://den-cards.pokellector.com/231/Ivysaur.SLG.2.19486.png",
+      "rarity": "Common",
+      "cardNum": "2/73"
+    },
+    {
+      "name": "Venusaur",
+      "set": "Shining Legends",
+      "img": "https://den-cards.pokellector.com/231/Venusaur.SLG.3.19487.png",
+      "rarity": "Uncommon",
+      "cardNum": "3/73"
+    },
+    {
+      "name": "Shroomish",
+      "set": "Shining Legends",
+      "img": "https://den-cards.pokellector.com/231/Shroomish.SLG.4.19488.png",
+      "rarity": "Common",
+      "cardNum": "4/73"
+    },
+    {
+      "name": "Breloom",
+      "set": "Shining Legends",
+      "img": "https://den-cards.pokellector.com/231/Breloom.SLG.5.19489.png",
+      "rarity": "Common",
+      "cardNum": "5/73"
+    },
+    {
+      "name": "Carnivine",
+      "set": "Shining Legends",
+      "img": "https://den-cards.pokellector.com/231/Carnivine.SLG.6.19490.png",
+      "rarity": "Uncommon",
+      "cardNum": "6/73"
+    },
+    {
+      "name": "Shaymin",
+      "set": "Shining Legends",
+      "img": "https://den-cards.pokellector.com/231/Shaymin.SLG.7.19491.png",
+      "rarity": "Rare",
+      "cardNum": "7/73"
+    },
+    {
+      "name": "Virizion",
+      "set": "Shining Legends",
+      "img": "https://den-cards.pokellector.com/231/Virizion.SLG.8.19492.png",
+      "rarity": "Rare",
+      "cardNum": "8/73"
+    },
+    {
+      "name": "Shining Genesect",
+      "set": "Shining Legends",
+      "img": "https://den-cards.pokellector.com/231/Shining-Genesect.SLG.9.19493.png",
+      "rarity": "Rare",
+      "cardNum": "9/73"
+    },
+    {
+      "name": "Entei GX",
+      "set": "Shining Legends",
+      "img": "https://den-cards.pokellector.com/231/Entei-GX.SLG.10.19494.png",
+      "rarity": "Rare",
+      "cardNum": "10/73"
+    },
+    {
+      "name": "Torkoal",
+      "set": "Shining Legends",
+      "img": "https://den-cards.pokellector.com/231/Torkoal.SLG.11.19495.png",
+      "rarity": "Common",
+      "cardNum": "11/73"
+    },
+    {
+      "name": "Larvesta",
+      "set": "Shining Legends",
+      "img": "https://den-cards.pokellector.com/231/Larvesta.SLG.12.19496.png",
+      "rarity": "Common",
+      "cardNum": "12/73"
+    },
+    {
+      "name": "Volcarona",
+      "set": "Shining Legends",
+      "img": "https://den-cards.pokellector.com/231/Volcarona.SLG.13.19497.png",
+      "rarity": "Uncommon",
+      "cardNum": "13/73"
+    },
+    {
+      "name": "Reshiram",
+      "set": "Shining Legends",
+      "img": "https://den-cards.pokellector.com/231/Reshiram.SLG.14.19305.png",
+      "rarity": "Rare",
+      "cardNum": "14/73"
+    },
+    {
+      "name": "Litten",
+      "set": "Shining Legends",
+      "img": "https://den-cards.pokellector.com/231/Litten.SLG.15.19498.png",
+      "rarity": "Common",
+      "cardNum": "15/73"
+    },
+    {
+      "name": "Torracat",
+      "set": "Shining Legends",
+      "img": "https://den-cards.pokellector.com/231/Torracat.SLG.16.19499.png",
+      "rarity": "Common",
+      "cardNum": "16/73"
+    },
+    {
+      "name": "Incineroar",
+      "set": "Shining Legends",
+      "img": "https://den-cards.pokellector.com/231/Incineroar.SLG.17.19500.png",
+      "rarity": "Uncommon",
+      "cardNum": "17/73"
+    },
+    {
+      "name": "Totodile",
+      "set": "Shining Legends",
+      "img": "https://den-cards.pokellector.com/231/Totodile.SLG.18.19501.png",
+      "rarity": "Common",
+      "cardNum": "18/73"
+    },
+    {
+      "name": "Croconaw",
+      "set": "Shining Legends",
+      "img": "https://den-cards.pokellector.com/231/Croconaw.SLG.19.19502.png",
+      "rarity": "Common",
+      "cardNum": "19/73"
+    },
+    {
+      "name": "Feraligatr",
+      "set": "Shining Legends",
+      "img": "https://den-cards.pokellector.com/231/Feraligatr.SLG.20.19503.png",
+      "rarity": "Uncommon",
+      "cardNum": "20/73"
+    },
+    {
+      "name": "Qwilfish",
+      "set": "Shining Legends",
+      "img": "https://den-cards.pokellector.com/231/Qwilfish.SLG.21.19504.png",
+      "rarity": "Common",
+      "cardNum": "21/73"
+    },
+    {
+      "name": "Buizel",
+      "set": "Shining Legends",
+      "img": "https://den-cards.pokellector.com/231/Buizel.SLG.22.19505.png",
+      "rarity": "Common",
+      "cardNum": "22/73"
+    },
+    {
+      "name": "Floatzel",
+      "set": "Shining Legends",
+      "img": "https://den-cards.pokellector.com/231/Floatzel.SLG.23.19506.png",
+      "rarity": "Uncommon",
+      "cardNum": "23/73"
+    },
+    {
+      "name": "Palkia",
+      "set": "Shining Legends",
+      "img": "https://den-cards.pokellector.com/231/Palkia.SLG.24.19507.png",
+      "rarity": "Rare",
+      "cardNum": "24/73"
+    },
+    {
+      "name": "Manaphy",
+      "set": "Shining Legends",
+      "img": "https://den-cards.pokellector.com/231/Manaphy.SLG.25.19508.png",
+      "rarity": "Rare",
+      "cardNum": "25/73"
+    },
+    {
+      "name": "Keldeo",
+      "set": "Shining Legends",
+      "img": "https://den-cards.pokellector.com/231/Keldeo.SLG.26.19509.png",
+      "rarity": "Rare",
+      "cardNum": "26/73"
+    },
+    {
+      "name": "Shining Volcanion",
+      "set": "Shining Legends",
+      "img": "https://den-cards.pokellector.com/231/Shining-Volcanion.SLG.27.19510.png",
+      "rarity": "Rare",
+      "cardNum": "27/73"
+    },
+    {
+      "name": "Pikachu",
+      "set": "Shining Legends",
+      "img": "https://den-cards.pokellector.com/231/Pikachu.SLG.28.19511.png",
+      "rarity": "Common",
+      "cardNum": "28/73"
+    },
+    {
+      "name": "Raichu GX",
+      "set": "Shining Legends",
+      "img": "https://den-cards.pokellector.com/231/Raichu-GX.SLG.29.19512.png",
+      "rarity": "Rare",
+      "cardNum": "29/73"
+    },
+    {
+      "name": "Voltorb",
+      "set": "Shining Legends",
+      "img": "https://den-cards.pokellector.com/231/Voltorb.SLG.30.19513.png",
+      "rarity": "Common",
+      "cardNum": "30/73"
+    },
+    {
+      "name": "Electrode",
+      "set": "Shining Legends",
+      "img": "https://den-cards.pokellector.com/231/Electrode.SLG.31.19514.png",
+      "rarity": "Uncommon",
+      "cardNum": "31/73"
+    },
+    {
+      "name": "Raikou",
+      "set": "Shining Legends",
+      "img": "https://den-cards.pokellector.com/231/Raikou.SLG.32.19515.png",
+      "rarity": "Rare",
+      "cardNum": "32/73"
+    },
+    {
+      "name": "Plusle",
+      "set": "Shining Legends",
+      "img": "https://den-cards.pokellector.com/231/Plusle.SLG.33.19516.png",
+      "rarity": "Common",
+      "cardNum": "33/73"
+    },
+    {
+      "name": "Minun",
+      "set": "Shining Legends",
+      "img": "https://den-cards.pokellector.com/231/Minun.SLG.34.19517.png",
+      "rarity": "Common",
+      "cardNum": "34/73"
+    },
+    {
+      "name": "Zekrom",
+      "set": "Shining Legends",
+      "img": "https://den-cards.pokellector.com/231/Zekrom.SLG.35.19518.png",
+      "rarity": "Rare",
+      "cardNum": "35/73"
+    },
+    {
+      "name": "Ekans",
+      "set": "Shining Legends",
+      "img": "https://den-cards.pokellector.com/231/Ekans.SLG.36.19519.png",
+      "rarity": "Common",
+      "cardNum": "36/73"
+    },
+    {
+      "name": "Arbok",
+      "set": "Shining Legends",
+      "img": "https://den-cards.pokellector.com/231/Arbok.SLG.37.19520.png",
+      "rarity": "Uncommon",
+      "cardNum": "37/73"
+    },
+    {
+      "name": "Jynx",
+      "set": "Shining Legends",
+      "img": "https://den-cards.pokellector.com/231/Jynx.SLG.38.19521.png",
+      "rarity": "Common",
+      "cardNum": "38/73"
+    },
+    {
+      "name": "Mewtwo GX",
+      "set": "Shining Legends",
+      "img": "https://den-cards.pokellector.com/231/Mewtwo-GX.SLG.39.19306.png",
+      "rarity": "Rare",
+      "cardNum": "39/73"
+    },
+    {
+      "name": "Shining Mew",
+      "set": "Shining Legends",
+      "img": "https://den-cards.pokellector.com/231/Shining-Mew.SLG.40.19522.png",
+      "rarity": "Rare",
+      "cardNum": "40/73"
+    },
+    {
+      "name": "Latios",
+      "set": "Shining Legends",
+      "img": "https://den-cards.pokellector.com/231/Latios.SLG.41.19523.png",
+      "rarity": "Rare",
+      "cardNum": "41/73"
+    },
+    {
+      "name": "Shining Jirachi",
+      "set": "Shining Legends",
+      "img": "https://den-cards.pokellector.com/231/Shining-Jirachi.SLG.42.19524.png",
+      "rarity": "Rare",
+      "cardNum": "42/73"
+    },
+    {
+      "name": "Golett",
+      "set": "Shining Legends",
+      "img": "https://den-cards.pokellector.com/231/Golett.SLG.43.19525.png",
+      "rarity": "Common",
+      "cardNum": "43/73"
+    },
+    {
+      "name": "Golurk",
+      "set": "Shining Legends",
+      "img": "https://den-cards.pokellector.com/231/Golurk.SLG.44.19526.png",
+      "rarity": "Uncommon",
+      "cardNum": "44/73"
+    },
+    {
+      "name": "Marshadow",
+      "set": "Shining Legends",
+      "img": "https://den-cards.pokellector.com/231/Marshadow.SLG.45.19527.png",
+      "rarity": "Rare",
+      "cardNum": "45/73"
+    },
+    {
+      "name": "Stunfisk",
+      "set": "Shining Legends",
+      "img": "https://den-cards.pokellector.com/231/Stunfisk.SLG.46.19528.png",
+      "rarity": "Common",
+      "cardNum": "46/73"
+    },
+    {
+      "name": "Spiritomb",
+      "set": "Shining Legends",
+      "img": "https://den-cards.pokellector.com/231/Spiritomb.SLG.47.19529.png",
+      "rarity": "Uncommon",
+      "cardNum": "47/73"
+    },
+    {
+      "name": "Purrloin",
+      "set": "Shining Legends",
+      "img": "https://den-cards.pokellector.com/231/Purrloin.SLG.48.19530.png",
+      "rarity": "Common",
+      "cardNum": "48/73"
+    },
+    {
+      "name": "Liepard",
+      "set": "Shining Legends",
+      "img": "https://den-cards.pokellector.com/231/Liepard.SLG.49.19531.png",
+      "rarity": "Uncommon",
+      "cardNum": "49/73"
+    },
+    {
+      "name": "Scraggy",
+      "set": "Shining Legends",
+      "img": "https://den-cards.pokellector.com/231/Scraggy.SLG.50.19532.png",
+      "rarity": "Common",
+      "cardNum": "50/73"
+    },
+    {
+      "name": "Scrafty",
+      "set": "Shining Legends",
+      "img": "https://den-cards.pokellector.com/231/Scrafty.SLG.51.19533.png",
+      "rarity": "Uncommon",
+      "cardNum": "51/73"
+    },
+    {
+      "name": "Zorua",
+      "set": "Shining Legends",
+      "img": "https://den-cards.pokellector.com/231/Zorua.SLG.52.19534.png",
+      "rarity": "Common",
+      "cardNum": "52/73"
+    },
+    {
+      "name": "Zoroark GX",
+      "set": "Shining Legends",
+      "img": "https://den-cards.pokellector.com/231/Zoroark-GX.SLG.53.19535.png",
+      "rarity": "Rare",
+      "cardNum": "53/73"
+    },
+    {
+      "name": "Yveltal",
+      "set": "Shining Legends",
+      "img": "https://den-cards.pokellector.com/231/Yveltal.SLG.54.19536.png",
+      "rarity": "Rare",
+      "cardNum": "54/73"
+    },
+    {
+      "name": "Hoopa",
+      "set": "Shining Legends",
+      "img": "https://den-cards.pokellector.com/231/Hoopa.SLG.55.19307.png",
+      "rarity": "Rare",
+      "cardNum": "55/73"
+    },
+    {
+      "name": "Shining Rayquaza",
+      "set": "Shining Legends",
+      "img": "https://den-cards.pokellector.com/231/Shining-Rayquaza.SLG.56.19537.png",
+      "rarity": "Rare",
+      "cardNum": "56/73"
+    },
+    {
+      "name": "Shining Arceus",
+      "set": "Shining Legends",
+      "img": "https://den-cards.pokellector.com/231/Shining-Arceus.SLG.57.19538.png",
+      "rarity": "Rare",
+      "cardNum": "57/73"
+    },
+    {
+      "name": "Damage Mover",
+      "set": "Shining Legends",
+      "img": "https://den-cards.pokellector.com/231/Damage-Mover.SLG.58.19539.png",
+      "rarity": "Uncommon",
+      "cardNum": "58/73"
+    },
+    {
+      "name": "Energy Retrieval",
+      "set": "Shining Legends",
+      "img": "https://den-cards.pokellector.com/231/Energy-Retrieval.SLG.59.19540.png",
+      "rarity": "Uncommon",
+      "cardNum": "59/73"
+    },
+    {
+      "name": "Great Ball",
+      "set": "Shining Legends",
+      "img": "https://den-cards.pokellector.com/231/Great-Ball.SLG.60.19541.png",
+      "rarity": "Uncommon",
+      "cardNum": "60/73"
+    },
+    {
+      "name": "Hau",
+      "set": "Shining Legends",
+      "img": "https://den-cards.pokellector.com/231/Hau.SLG.61.19542.png",
+      "rarity": "Uncommon",
+      "cardNum": "61/73"
+    },
+    {
+      "name": "Lillie",
+      "set": "Shining Legends",
+      "img": "https://den-cards.pokellector.com/231/Lillie.SLG.62.19543.png",
+      "rarity": "Uncommon",
+      "cardNum": "62/73"
+    },
+    {
+      "name": "Pokémon Breeder",
+      "set": "Shining Legends",
+      "img": "https://den-cards.pokellector.com/231/Pokmon-Breeder.SLG.63.19558.png",
+      "rarity": "Uncommon",
+      "cardNum": "63/73"
+    },
+    {
+      "name": "Pokémon Catcher",
+      "set": "Shining Legends",
+      "img": "https://den-cards.pokellector.com/231/Pokmon-Catcher.SLG.64.19559.png",
+      "rarity": "Uncommon",
+      "cardNum": "64/73"
+    },
+    {
+      "name": "Sophocles",
+      "set": "Shining Legends",
+      "img": "https://den-cards.pokellector.com/231/Sophocles.SLG.65.19544.png",
+      "rarity": "Uncommon",
+      "cardNum": "65/73"
+    },
+    {
+      "name": "Super Scoop Up",
+      "set": "Shining Legends",
+      "img": "https://den-cards.pokellector.com/231/Super-Scoop-Up.SLG.66.19545.png",
+      "rarity": "Uncommon",
+      "cardNum": "66/73"
+    },
+    {
+      "name": "Switch",
+      "set": "Shining Legends",
+      "img": "https://den-cards.pokellector.com/231/Switch.SLG.67.19546.png",
+      "rarity": "Uncommon",
+      "cardNum": "67/73"
+    },
+    {
+      "name": "Ultra Ball",
+      "set": "Shining Legends",
+      "img": "https://den-cards.pokellector.com/231/Ultra-Ball.SLG.68.19547.png",
+      "rarity": "Uncommon",
+      "cardNum": "68/73"
+    },
+    {
+      "name": "Double Colorless Energy",
+      "set": "Shining Legends",
+      "img": "https://den-cards.pokellector.com/231/Double-Colorless-Energy.SLG.69.19548.png",
+      "rarity": "Uncommon",
+      "cardNum": "69/73"
+    },
+    {
+      "name": "Warp Energy",
+      "set": "Shining Legends",
+      "img": "https://den-cards.pokellector.com/231/Warp-Energy.SLG.70.19549.png",
+      "rarity": "Uncommon",
+      "cardNum": "70/73"
+    },
+    {
+      "name": "Entei GX",
+      "set": "Shining Legends",
+      "img": "https://den-cards.pokellector.com/231/Entei-GX.SLG.71.19550.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "71/73"
+    },
+    {
+      "name": "Mewtwo GX",
+      "set": "Shining Legends",
+      "img": "https://den-cards.pokellector.com/231/Mewtwo-GX.SLG.72.19551.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "72/73"
+    },
+    {
+      "name": "Pokémon Breeder",
+      "set": "Shining Legends",
+      "img": "https://den-cards.pokellector.com/231/Pokmon-Breeder.SLG.73.19560.png",
+      "rarity": "Rare",
+      "cardNum": "73/73"
+    },
+    {
+      "name": "Entei GX",
+      "set": "Shining Legends",
+      "img": "https://den-cards.pokellector.com/231/Entei-GX.SLG.74.19552.png",
+      "rarity": "Secret Rare",
+      "cardNum": "74/73"
+    },
+    {
+      "name": "Raichu GX",
+      "set": "Shining Legends",
+      "img": "https://den-cards.pokellector.com/231/Raichu-GX.SLG.75.19553.png",
+      "rarity": "Secret Rare",
+      "cardNum": "75/73"
+    },
+    {
+      "name": "Mewtwo GX",
+      "set": "Shining Legends",
+      "img": "https://den-cards.pokellector.com/231/Mewtwo-GX.SLG.76.19554.png",
+      "rarity": "Secret Rare",
+      "cardNum": "76/73"
+    },
+    {
+      "name": "Zoroark GX",
+      "set": "Shining Legends",
+      "img": "https://den-cards.pokellector.com/231/Zoroark-GX.SLG.77.19555.png",
+      "rarity": "Secret Rare",
+      "cardNum": "77/73"
+    },
+    {
+      "name": "Mewtwo GX",
+      "set": "Shining Legends",
+      "img": "https://den-cards.pokellector.com/231/Mewtwo-GX.SLG.78.19556.png",
+      "rarity": "Secret Rare",
+      "cardNum": "78/73"
+    }
+  ]
+}

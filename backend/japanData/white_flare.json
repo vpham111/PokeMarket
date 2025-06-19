@@ -1,0 +1,677 @@
+{
+  "setName": "White Flare",
+  "cards": [
+    {
+      "name": "Sewaddle",
+      "set": "White Flare",
+      "img": "https://den-cards.pokellector.com/415/Sewaddle.SV11W.1.57734.png",
+      "rarity": "Common",
+      "cardNum": "1/86"
+    },
+    {
+      "name": "Swadloon",
+      "set": "White Flare",
+      "img": "https://den-cards.pokellector.com/415/Swadloon.SV11W.2.57735.png",
+      "rarity": "Common",
+      "cardNum": "2/86"
+    },
+    {
+      "name": "Leavanny",
+      "set": "White Flare",
+      "img": "https://den-cards.pokellector.com/415/Leavanny.SV11W.3.57736.png",
+      "rarity": "Uncommon",
+      "cardNum": "3/86"
+    },
+    {
+      "name": "Cottonee",
+      "set": "White Flare",
+      "img": "https://den-cards.pokellector.com/415/Cottonee.SV11W.4.57737.png",
+      "rarity": "Common",
+      "cardNum": "4/86"
+    },
+    {
+      "name": "Whimsicott ex",
+      "set": "White Flare",
+      "img": "https://den-cards.pokellector.com/415/Whimsicott-ex.SV11W.5.57738.png",
+      "rarity": "Double Rare",
+      "cardNum": "5/86"
+    },
+    {
+      "name": "Deerling",
+      "set": "White Flare",
+      "img": "https://den-cards.pokellector.com/415/Deerling.SV11W.6.57739.png",
+      "rarity": "Common",
+      "cardNum": "6/86"
+    },
+    {
+      "name": "Sawsbuck",
+      "set": "White Flare",
+      "img": "https://den-cards.pokellector.com/415/Sawsbuck.SV11W.7.57740.png",
+      "rarity": "Uncommon",
+      "cardNum": "7/86"
+    },
+    {
+      "name": "Shelmet",
+      "set": "White Flare",
+      "img": "https://den-cards.pokellector.com/415/Shelmet.SV11W.8.57741.png",
+      "rarity": "Common",
+      "cardNum": "8/86"
+    },
+    {
+      "name": "Accelgor",
+      "set": "White Flare",
+      "img": "https://den-cards.pokellector.com/415/Accelgor.SV11W.9.57742.png",
+      "rarity": "Uncommon",
+      "cardNum": "9/86"
+    },
+    {
+      "name": "Virizion",
+      "set": "White Flare",
+      "img": "https://den-cards.pokellector.com/415/Virizion.SV11W.10.57743.png",
+      "rarity": "Rare",
+      "cardNum": "10/86"
+    },
+    {
+      "name": "Tepig",
+      "set": "White Flare",
+      "img": "https://den-cards.pokellector.com/415/Tepig.SV11W.11.57197.png",
+      "rarity": "Common",
+      "cardNum": "11/86"
+    },
+    {
+      "name": "Pignite",
+      "set": "White Flare",
+      "img": "https://den-cards.pokellector.com/415/Pignite.SV11W.12.57198.png",
+      "rarity": "Common",
+      "cardNum": "12/86"
+    },
+    {
+      "name": "Emboar",
+      "set": "White Flare",
+      "img": "https://den-cards.pokellector.com/415/Emboar.SV11W.13.57199.png",
+      "rarity": "Rare",
+      "cardNum": "13/86"
+    },
+    {
+      "name": "Pansear",
+      "set": "White Flare",
+      "img": "https://den-cards.pokellector.com/415/Pansear.SV11W.14.57744.png",
+      "rarity": "Common",
+      "cardNum": "14/86"
+    },
+    {
+      "name": "Simisear",
+      "set": "White Flare",
+      "img": "https://den-cards.pokellector.com/415/Simisear.SV11W.15.57745.png",
+      "rarity": "Uncommon",
+      "cardNum": "15/86"
+    },
+    {
+      "name": "Heatmor",
+      "set": "White Flare",
+      "img": "https://den-cards.pokellector.com/415/Heatmor.SV11W.16.57746.png",
+      "rarity": "Uncommon",
+      "cardNum": "16/86"
+    },
+    {
+      "name": "Reshiram ex",
+      "set": "White Flare",
+      "img": "https://den-cards.pokellector.com/415/Reshiram-ex.SV11W.17.57172.png",
+      "rarity": "Double Rare",
+      "cardNum": "17/86"
+    },
+    {
+      "name": "Oshawott",
+      "set": "White Flare",
+      "img": "https://den-cards.pokellector.com/415/Oshawott.SV11W.18.57203.png",
+      "rarity": "Common",
+      "cardNum": "18/86"
+    },
+    {
+      "name": "Dewott",
+      "set": "White Flare",
+      "img": "https://den-cards.pokellector.com/415/Dewott.SV11W.19.57204.png",
+      "rarity": "Common",
+      "cardNum": "19/86"
+    },
+    {
+      "name": "Samurott",
+      "set": "White Flare",
+      "img": "https://den-cards.pokellector.com/415/Samurott.SV11W.20.57205.png",
+      "rarity": "Rare",
+      "cardNum": "20/86"
+    },
+    {
+      "name": "Basculin",
+      "set": "White Flare",
+      "img": "https://den-cards.pokellector.com/415/Basculin.SV11W.21.57747.png",
+      "rarity": "Common",
+      "cardNum": "21/86"
+    },
+    {
+      "name": "Ducklett",
+      "set": "White Flare",
+      "img": "https://den-cards.pokellector.com/415/Ducklett.SV11W.22.57748.png",
+      "rarity": "Common",
+      "cardNum": "22/86"
+    },
+    {
+      "name": "Swanna",
+      "set": "White Flare",
+      "img": "https://den-cards.pokellector.com/415/Swanna.SV11W.23.57749.png",
+      "rarity": "Uncommon",
+      "cardNum": "23/86"
+    },
+    {
+      "name": "Vanillite",
+      "set": "White Flare",
+      "img": "https://den-cards.pokellector.com/415/Vanillite.SV11W.24.57750.png",
+      "rarity": "Common",
+      "cardNum": "24/86"
+    },
+    {
+      "name": "Vanillish",
+      "set": "White Flare",
+      "img": "https://den-cards.pokellector.com/415/Vanillish.SV11W.25.57751.png",
+      "rarity": "Common",
+      "cardNum": "25/86"
+    },
+    {
+      "name": "Vanilluxe",
+      "set": "White Flare",
+      "img": "https://den-cards.pokellector.com/415/Vanilluxe.SV11W.26.57752.png",
+      "rarity": "Uncommon",
+      "cardNum": "26/86"
+    },
+    {
+      "name": "Keldeo ex",
+      "set": "White Flare",
+      "img": "https://den-cards.pokellector.com/415/Keldeo-ex.SV11W.27.57753.png",
+      "rarity": "Double Rare",
+      "cardNum": "27/86"
+    },
+    {
+      "name": "Blitzle",
+      "set": "White Flare",
+      "img": "https://den-cards.pokellector.com/415/Blitzle.SV11W.28.57754.png",
+      "rarity": "Common",
+      "cardNum": "28/86"
+    },
+    {
+      "name": "Zebstrika",
+      "set": "White Flare",
+      "img": "https://den-cards.pokellector.com/415/Zebstrika.SV11W.29.57755.png",
+      "rarity": "Uncommon",
+      "cardNum": "29/86"
+    },
+    {
+      "name": "Joltik",
+      "set": "White Flare",
+      "img": "https://den-cards.pokellector.com/415/Joltik.SV11W.30.57248.png",
+      "rarity": "Common",
+      "cardNum": "30/86"
+    },
+    {
+      "name": "Galvantula",
+      "set": "White Flare",
+      "img": "https://den-cards.pokellector.com/415/Galvantula.SV11W.31.57249.png",
+      "rarity": "Common",
+      "cardNum": "31/86"
+    },
+    {
+      "name": "Stunfisk",
+      "set": "White Flare",
+      "img": "https://den-cards.pokellector.com/415/Stunfisk.SV11W.32.57756.png",
+      "rarity": "Uncommon",
+      "cardNum": "32/86"
+    },
+    {
+      "name": "Woobat",
+      "set": "White Flare",
+      "img": "https://den-cards.pokellector.com/415/Woobat.SV11W.33.57757.png",
+      "rarity": "Common",
+      "cardNum": "33/86"
+    },
+    {
+      "name": "Swoobat",
+      "set": "White Flare",
+      "img": "https://den-cards.pokellector.com/415/Swoobat.SV11W.34.57758.png",
+      "rarity": "Uncommon",
+      "cardNum": "34/86"
+    },
+    {
+      "name": "Sigilyph",
+      "set": "White Flare",
+      "img": "https://den-cards.pokellector.com/415/Sigilyph.SV11W.35.57759.png",
+      "rarity": "Uncommon",
+      "cardNum": "35/86"
+    },
+    {
+      "name": "Yamask",
+      "set": "White Flare",
+      "img": "https://den-cards.pokellector.com/415/Yamask.SV11W.36.57760.png",
+      "rarity": "Common",
+      "cardNum": "36/86"
+    },
+    {
+      "name": "Cofagrigus",
+      "set": "White Flare",
+      "img": "https://den-cards.pokellector.com/415/Cofagrigus.SV11W.37.57761.png",
+      "rarity": "Rare",
+      "cardNum": "37/86"
+    },
+    {
+      "name": "Gothita",
+      "set": "White Flare",
+      "img": "https://den-cards.pokellector.com/415/Gothita.SV11W.38.57762.png",
+      "rarity": "Common",
+      "cardNum": "38/86"
+    },
+    {
+      "name": "Gothorita",
+      "set": "White Flare",
+      "img": "https://den-cards.pokellector.com/415/Gothorita.SV11W.39.57763.png",
+      "rarity": "Common",
+      "cardNum": "39/86"
+    },
+    {
+      "name": "Gothitelle",
+      "set": "White Flare",
+      "img": "https://den-cards.pokellector.com/415/Gothitelle.SV11W.40.57764.png",
+      "rarity": "Rare",
+      "cardNum": "40/86"
+    },
+    {
+      "name": "Frillish",
+      "set": "White Flare",
+      "img": "https://den-cards.pokellector.com/415/Frillish.SV11W.41.57255.png",
+      "rarity": "Common",
+      "cardNum": "41/86"
+    },
+    {
+      "name": "Jellicent ex",
+      "set": "White Flare",
+      "img": "https://den-cards.pokellector.com/415/Jellicent-ex.SV11W.42.57256.png",
+      "rarity": "Double Rare",
+      "cardNum": "42/86"
+    },
+    {
+      "name": "Roggenrola",
+      "set": "White Flare",
+      "img": "https://den-cards.pokellector.com/415/Roggenrola.SV11W.43.57765.png",
+      "rarity": "Common",
+      "cardNum": "43/86"
+    },
+    {
+      "name": "Boldore",
+      "set": "White Flare",
+      "img": "https://den-cards.pokellector.com/415/Boldore.SV11W.44.57766.png",
+      "rarity": "Common",
+      "cardNum": "44/86"
+    },
+    {
+      "name": "Gigalith",
+      "set": "White Flare",
+      "img": "https://den-cards.pokellector.com/415/Gigalith.SV11W.45.57767.png",
+      "rarity": "Uncommon",
+      "cardNum": "45/86"
+    },
+    {
+      "name": "Sawk",
+      "set": "White Flare",
+      "img": "https://den-cards.pokellector.com/415/Sawk.SV11W.46.57768.png",
+      "rarity": "Uncommon",
+      "cardNum": "46/86"
+    },
+    {
+      "name": "Archen",
+      "set": "White Flare",
+      "img": "https://den-cards.pokellector.com/415/Archen.SV11W.47.57769.png",
+      "rarity": "Uncommon",
+      "cardNum": "47/86"
+    },
+    {
+      "name": "Archeops",
+      "set": "White Flare",
+      "img": "https://den-cards.pokellector.com/415/Archeops.SV11W.48.57770.png",
+      "rarity": "Rare",
+      "cardNum": "48/86"
+    },
+    {
+      "name": "Mienfoo",
+      "set": "White Flare",
+      "img": "https://den-cards.pokellector.com/415/Mienfoo.SV11W.49.57771.png",
+      "rarity": "Common",
+      "cardNum": "49/86"
+    },
+    {
+      "name": "Mienshao",
+      "set": "White Flare",
+      "img": "https://den-cards.pokellector.com/415/Mienshao.SV11W.50.57772.png",
+      "rarity": "Uncommon",
+      "cardNum": "50/86"
+    },
+    {
+      "name": "Terrakion",
+      "set": "White Flare",
+      "img": "https://den-cards.pokellector.com/415/Terrakion.SV11W.51.57773.png",
+      "rarity": "Rare",
+      "cardNum": "51/86"
+    },
+    {
+      "name": "Purrloin",
+      "set": "White Flare",
+      "img": "https://den-cards.pokellector.com/415/Purrloin.SV11W.52.57774.png",
+      "rarity": "Common",
+      "cardNum": "52/86"
+    },
+    {
+      "name": "Liepard",
+      "set": "White Flare",
+      "img": "https://den-cards.pokellector.com/415/Liepard.SV11W.53.57775.png",
+      "rarity": "Uncommon",
+      "cardNum": "53/86"
+    },
+    {
+      "name": "Scraggy",
+      "set": "White Flare",
+      "img": "https://den-cards.pokellector.com/415/Scraggy.SV11W.54.57776.png",
+      "rarity": "Common",
+      "cardNum": "54/86"
+    },
+    {
+      "name": "Scrafty",
+      "set": "White Flare",
+      "img": "https://den-cards.pokellector.com/415/Scrafty.SV11W.55.57777.png",
+      "rarity": "Uncommon",
+      "cardNum": "55/86"
+    },
+    {
+      "name": "Trubbish",
+      "set": "White Flare",
+      "img": "https://den-cards.pokellector.com/415/Trubbish.SV11W.56.57778.png",
+      "rarity": "Common",
+      "cardNum": "56/86"
+    },
+    {
+      "name": "Garbodor",
+      "set": "White Flare",
+      "img": "https://den-cards.pokellector.com/415/Garbodor.SV11W.57.57779.png",
+      "rarity": "Uncommon",
+      "cardNum": "57/86"
+    },
+    {
+      "name": "Zorua",
+      "set": "White Flare",
+      "img": "https://den-cards.pokellector.com/415/Zorua.SV11W.58.57246.png",
+      "rarity": "Common",
+      "cardNum": "58/86"
+    },
+    {
+      "name": "Zoroark",
+      "set": "White Flare",
+      "img": "https://den-cards.pokellector.com/415/Zoroark.SV11W.59.57247.png",
+      "rarity": "Rare",
+      "cardNum": "59/86"
+    },
+    {
+      "name": "Deino",
+      "set": "White Flare",
+      "img": "https://den-cards.pokellector.com/415/Deino.SV11W.60.57780.png",
+      "rarity": "Common",
+      "cardNum": "60/86"
+    },
+    {
+      "name": "Zweilous",
+      "set": "White Flare",
+      "img": "https://den-cards.pokellector.com/415/Zweilous.SV11W.61.57781.png",
+      "rarity": "Common",
+      "cardNum": "61/86"
+    },
+    {
+      "name": "Hydreigon ex",
+      "set": "White Flare",
+      "img": "https://den-cards.pokellector.com/415/Hydreigon-ex.SV11W.62.57782.png",
+      "rarity": "Double Rare",
+      "cardNum": "62/86"
+    },
+    {
+      "name": "Ferroseed",
+      "set": "White Flare",
+      "img": "https://den-cards.pokellector.com/415/Ferroseed.SV11W.63.57783.png",
+      "rarity": "Common",
+      "cardNum": "63/86"
+    },
+    {
+      "name": "Ferrothorn",
+      "set": "White Flare",
+      "img": "https://den-cards.pokellector.com/415/Ferrothorn.SV11W.64.57784.png",
+      "rarity": "Uncommon",
+      "cardNum": "64/86"
+    },
+    {
+      "name": "Klink",
+      "set": "White Flare",
+      "img": "https://den-cards.pokellector.com/415/Klink.SV11W.65.57785.png",
+      "rarity": "Common",
+      "cardNum": "65/86"
+    },
+    {
+      "name": "Klang",
+      "set": "White Flare",
+      "img": "https://den-cards.pokellector.com/415/Klang.SV11W.66.57786.png",
+      "rarity": "Common",
+      "cardNum": "66/86"
+    },
+    {
+      "name": "Klinklang",
+      "set": "White Flare",
+      "img": "https://den-cards.pokellector.com/415/Klinklang.SV11W.67.57787.png",
+      "rarity": "Rare",
+      "cardNum": "67/86"
+    },
+    {
+      "name": "Durant",
+      "set": "White Flare",
+      "img": "https://den-cards.pokellector.com/415/Durant.SV11W.68.57788.png",
+      "rarity": "Uncommon",
+      "cardNum": "68/86"
+    },
+    {
+      "name": "Druddigon",
+      "set": "White Flare",
+      "img": "https://den-cards.pokellector.com/415/Druddigon.SV11W.69.57789.png",
+      "rarity": "Uncommon",
+      "cardNum": "69/86"
+    },
+    {
+      "name": "Patrat",
+      "set": "White Flare",
+      "img": "https://den-cards.pokellector.com/415/Patrat.SV11W.70.57790.png",
+      "rarity": "Common",
+      "cardNum": "70/86"
+    },
+    {
+      "name": "Watchog",
+      "set": "White Flare",
+      "img": "https://den-cards.pokellector.com/415/Watchog.SV11W.71.57791.png",
+      "rarity": "Uncommon",
+      "cardNum": "71/86"
+    },
+    {
+      "name": "Lillipup",
+      "set": "White Flare",
+      "img": "https://den-cards.pokellector.com/415/Lillipup.SV11W.72.57194.png",
+      "rarity": "Common",
+      "cardNum": "72/86"
+    },
+    {
+      "name": "Herdier",
+      "set": "White Flare",
+      "img": "https://den-cards.pokellector.com/415/Herdier.SV11W.73.57195.png",
+      "rarity": "Common",
+      "cardNum": "73/86"
+    },
+    {
+      "name": "Stoutland",
+      "set": "White Flare",
+      "img": "https://den-cards.pokellector.com/415/Stoutland.SV11W.74.57196.png",
+      "rarity": "Uncommon",
+      "cardNum": "74/86"
+    },
+    {
+      "name": "Bouffalant ex",
+      "set": "White Flare",
+      "img": "https://den-cards.pokellector.com/415/Bouffalant-ex.SV11W.75.57792.png",
+      "rarity": "Double Rare",
+      "cardNum": "75/86"
+    },
+    {
+      "name": "Rufflet",
+      "set": "White Flare",
+      "img": "https://den-cards.pokellector.com/415/Rufflet.SV11W.76.57793.png",
+      "rarity": "Common",
+      "cardNum": "76/86"
+    },
+    {
+      "name": "Braviary",
+      "set": "White Flare",
+      "img": "https://den-cards.pokellector.com/415/Braviary.SV11W.77.57794.png",
+      "rarity": "Uncommon",
+      "cardNum": "77/86"
+    },
+    {
+      "name": "Tornadus",
+      "set": "White Flare",
+      "img": "https://den-cards.pokellector.com/415/Tornadus.SV11W.78.57795.png",
+      "rarity": "Rare",
+      "cardNum": "78/86"
+    },
+    {
+      "name": "Energy Retrieval",
+      "set": "White Flare",
+      "img": "https://den-cards.pokellector.com/415/Energy-Retrieval.SV11W.79.57192.png",
+      "rarity": "Uncommon",
+      "cardNum": "79/86"
+    },
+    {
+      "name": "Tool Scrapper",
+      "set": "White Flare",
+      "img": "https://den-cards.pokellector.com/415/Tool-Scrapper.SV11W.80.57796.png",
+      "rarity": "Uncommon",
+      "cardNum": "80/86"
+    },
+    {
+      "name": "Antique Plume Fossil",
+      "set": "White Flare",
+      "img": "https://den-cards.pokellector.com/415/Antique-Plume-Fossil.SV11W.81.57797.png",
+      "rarity": "Common",
+      "cardNum": "81/86"
+    },
+    {
+      "name": "Brave Bangle",
+      "set": "White Flare",
+      "img": "https://den-cards.pokellector.com/415/Brave-Bangle.SV11W.82.57798.png",
+      "rarity": "Uncommon",
+      "cardNum": "82/86"
+    },
+    {
+      "name": "Harlequin",
+      "set": "White Flare",
+      "img": "https://den-cards.pokellector.com/415/Harlequin.SV11W.83.57799.png",
+      "rarity": "Uncommon",
+      "cardNum": "83/86"
+    },
+    {
+      "name": "Cheren",
+      "set": "White Flare",
+      "img": "https://den-cards.pokellector.com/415/Cheren.SV11W.84.57193.png",
+      "rarity": "Uncommon",
+      "cardNum": "84/86"
+    },
+    {
+      "name": "Hilda",
+      "set": "White Flare",
+      "img": "https://den-cards.pokellector.com/415/Hilda.SV11W.85.57189.png",
+      "rarity": "Uncommon",
+      "cardNum": "85/86"
+    },
+    {
+      "name": "Ignition Energy",
+      "set": "White Flare",
+      "img": "https://den-cards.pokellector.com/415/Ignition-Energy.SV11W.86.57190.png",
+      "rarity": "Uncommon",
+      "cardNum": "86/86"
+    },
+    {
+      "name": "Leavanny",
+      "set": "White Flare",
+      "img": "https://www.pokellector.com/images/card-placeholder.png",
+      "rarity": "Art Rare",
+      "cardNum": "89/86"
+    },
+    {
+      "name": "Tepig",
+      "set": "White Flare",
+      "img": "https://den-cards.pokellector.com/415/Tepig.SV11W.96.57200.png",
+      "rarity": "Art Rare",
+      "cardNum": "96/86"
+    },
+    {
+      "name": "Pignite",
+      "set": "White Flare",
+      "img": "https://den-cards.pokellector.com/415/Pignite.SV11W.97.57201.png",
+      "rarity": "Art Rare",
+      "cardNum": "97/86"
+    },
+    {
+      "name": "Emboar",
+      "set": "White Flare",
+      "img": "https://den-cards.pokellector.com/415/Emboar.SV11W.98.57202.png",
+      "rarity": "Art Rare",
+      "cardNum": "98/86"
+    },
+    {
+      "name": "Oshawott",
+      "set": "White Flare",
+      "img": "https://den-cards.pokellector.com/415/Oshawott.SV11W.102.57206.png",
+      "rarity": "Art Rare",
+      "cardNum": "102/86"
+    },
+    {
+      "name": "Dewott",
+      "set": "White Flare",
+      "img": "https://den-cards.pokellector.com/415/Dewott.SV11W.103.57207.png",
+      "rarity": "Art Rare",
+      "cardNum": "103/86"
+    },
+    {
+      "name": "Samurott",
+      "set": "White Flare",
+      "img": "https://den-cards.pokellector.com/415/Samurott.SV11W.104.57208.png",
+      "rarity": "Art Rare",
+      "cardNum": "104/86"
+    },
+    {
+      "name": "Zorua",
+      "set": "White Flare",
+      "img": "https://www.pokellector.com/images/card-placeholder.png",
+      "rarity": "Art Rare",
+      "cardNum": "140/86"
+    },
+    {
+      "name": "Tornadus",
+      "set": "White Flare",
+      "img": "https://www.pokellector.com/images/card-placeholder.png",
+      "rarity": "Art Rare",
+      "cardNum": "158/86"
+    },
+    {
+      "name": "Reshiram ex",
+      "set": "White Flare",
+      "img": "https://den-cards.pokellector.com/415/Reshiram-ex.SV11W.174.57174.png",
+      "rarity": "B Double Rare",
+      "cardNum": "174/86"
+    }
+  ]
+}

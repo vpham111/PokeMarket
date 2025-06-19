@@ -1,0 +1,691 @@
+{
+  "setName": "Emerging Powers",
+  "cards": [
+    {
+      "name": "Pansage",
+      "set": "Emerging Powers",
+      "img": "https://den-cards.pokellector.com/3/Pansage.EPO.1.png",
+      "rarity": "Common",
+      "cardNum": "1/98"
+    },
+    {
+      "name": "Simisage",
+      "set": "Emerging Powers",
+      "img": "https://den-cards.pokellector.com/3/Simisage.EPO.2.png",
+      "rarity": "Rare",
+      "cardNum": "2/98"
+    },
+    {
+      "name": "Sewaddle",
+      "set": "Emerging Powers",
+      "img": "https://den-cards.pokellector.com/3/Sewaddle.EPO.3.png",
+      "rarity": "Common",
+      "cardNum": "3/98"
+    },
+    {
+      "name": "Sewaddle",
+      "set": "Emerging Powers",
+      "img": "https://den-cards.pokellector.com/3/Sewaddle.EPO.4.png",
+      "rarity": "Common",
+      "cardNum": "4/98"
+    },
+    {
+      "name": "Swadloon",
+      "set": "Emerging Powers",
+      "img": "https://den-cards.pokellector.com/3/Swadloon.EPO.5.png",
+      "rarity": "Uncommon",
+      "cardNum": "5/98"
+    },
+    {
+      "name": "Swadloon",
+      "set": "Emerging Powers",
+      "img": "https://den-cards.pokellector.com/3/Swadloon.EPO.6.png",
+      "rarity": "Uncommon",
+      "cardNum": "6/98"
+    },
+    {
+      "name": "Leavanny",
+      "set": "Emerging Powers",
+      "img": "https://den-cards.pokellector.com/3/Leavanny.EPO.7.png",
+      "rarity": "Rare",
+      "cardNum": "7/98"
+    },
+    {
+      "name": "Leavanny",
+      "set": "Emerging Powers",
+      "img": "https://den-cards.pokellector.com/3/Leavanny.EPO.8.png",
+      "rarity": "Rare",
+      "cardNum": "8/98"
+    },
+    {
+      "name": "Cottonee",
+      "set": "Emerging Powers",
+      "img": "https://den-cards.pokellector.com/3/Cottonee.EPO.9.png",
+      "rarity": "Common",
+      "cardNum": "9/98"
+    },
+    {
+      "name": "Cottonee",
+      "set": "Emerging Powers",
+      "img": "https://den-cards.pokellector.com/3/Cottonee.EPO.10.png",
+      "rarity": "Common",
+      "cardNum": "10/98"
+    },
+    {
+      "name": "Whimsicott",
+      "set": "Emerging Powers",
+      "img": "https://den-cards.pokellector.com/3/Whimsicott.EPO.11.png",
+      "rarity": "Uncommon",
+      "cardNum": "11/98"
+    },
+    {
+      "name": "Whimsicott",
+      "set": "Emerging Powers",
+      "img": "https://den-cards.pokellector.com/3/Whimsicott.EPO.12.png",
+      "rarity": "Rare",
+      "cardNum": "12/98"
+    },
+    {
+      "name": "Petilil",
+      "set": "Emerging Powers",
+      "img": "https://den-cards.pokellector.com/3/Petilil.EPO.13.png",
+      "rarity": "Common",
+      "cardNum": "13/98"
+    },
+    {
+      "name": "Lilligant",
+      "set": "Emerging Powers",
+      "img": "https://den-cards.pokellector.com/3/Lilligant.EPO.14.png",
+      "rarity": "Uncommon",
+      "cardNum": "14/98"
+    },
+    {
+      "name": "Deerling",
+      "set": "Emerging Powers",
+      "img": "https://den-cards.pokellector.com/3/Deerling.EPO.15.png",
+      "rarity": "Common",
+      "cardNum": "15/98"
+    },
+    {
+      "name": "Sawsbuck",
+      "set": "Emerging Powers",
+      "img": "https://den-cards.pokellector.com/3/Sawsbuck.EPO.16.png",
+      "rarity": "Rare",
+      "cardNum": "16/98"
+    },
+    {
+      "name": "Virizion",
+      "set": "Emerging Powers",
+      "img": "https://den-cards.pokellector.com/3/Virizion.EPO.17.png",
+      "rarity": "Rare",
+      "cardNum": "17/98"
+    },
+    {
+      "name": "Pansear",
+      "set": "Emerging Powers",
+      "img": "https://den-cards.pokellector.com/3/Pansear.EPO.18.png",
+      "rarity": "Common",
+      "cardNum": "18/98"
+    },
+    {
+      "name": "Simisear",
+      "set": "Emerging Powers",
+      "img": "https://den-cards.pokellector.com/3/Simisear.EPO.19.png",
+      "rarity": "Rare",
+      "cardNum": "19/98"
+    },
+    {
+      "name": "Darumaka",
+      "set": "Emerging Powers",
+      "img": "https://den-cards.pokellector.com/3/Darumaka.EPO.20.png",
+      "rarity": "Common",
+      "cardNum": "20/98"
+    },
+    {
+      "name": "Darmanitan",
+      "set": "Emerging Powers",
+      "img": "https://den-cards.pokellector.com/3/Darmanitan.EPO.21.png",
+      "rarity": "Rare",
+      "cardNum": "21/98"
+    },
+    {
+      "name": "Panpour",
+      "set": "Emerging Powers",
+      "img": "https://den-cards.pokellector.com/3/Panpour.EPO.22.png",
+      "rarity": "Common",
+      "cardNum": "22/98"
+    },
+    {
+      "name": "Simipour",
+      "set": "Emerging Powers",
+      "img": "https://den-cards.pokellector.com/3/Simipour.EPO.23.png",
+      "rarity": "Rare",
+      "cardNum": "23/98"
+    },
+    {
+      "name": "Basculin",
+      "set": "Emerging Powers",
+      "img": "https://den-cards.pokellector.com/3/Basculin.EPO.24.png",
+      "rarity": "Common",
+      "cardNum": "24/98"
+    },
+    {
+      "name": "Basculin",
+      "set": "Emerging Powers",
+      "img": "https://den-cards.pokellector.com/3/Basculin.EPO.25.png",
+      "rarity": "Uncommon",
+      "cardNum": "25/98"
+    },
+    {
+      "name": "Ducklett",
+      "set": "Emerging Powers",
+      "img": "https://den-cards.pokellector.com/3/Ducklett.EPO.26.png",
+      "rarity": "Common",
+      "cardNum": "26/98"
+    },
+    {
+      "name": "Swanna",
+      "set": "Emerging Powers",
+      "img": "https://den-cards.pokellector.com/3/Swanna.EPO.27.png",
+      "rarity": "Rare",
+      "cardNum": "27/98"
+    },
+    {
+      "name": "Cubchoo",
+      "set": "Emerging Powers",
+      "img": "https://den-cards.pokellector.com/3/Cubchoo.EPO.28.png",
+      "rarity": "Common",
+      "cardNum": "28/98"
+    },
+    {
+      "name": "Cubchoo",
+      "set": "Emerging Powers",
+      "img": "https://den-cards.pokellector.com/3/Cubchoo.EPO.29.png",
+      "rarity": "Common",
+      "cardNum": "29/98"
+    },
+    {
+      "name": "Beartic",
+      "set": "Emerging Powers",
+      "img": "https://den-cards.pokellector.com/3/Beartic.EPO.30.png",
+      "rarity": "Rare",
+      "cardNum": "30/98"
+    },
+    {
+      "name": "Beartic",
+      "set": "Emerging Powers",
+      "img": "https://den-cards.pokellector.com/3/Beartic.EPO.31.png",
+      "rarity": "Rare",
+      "cardNum": "31/98"
+    },
+    {
+      "name": "Emolga",
+      "set": "Emerging Powers",
+      "img": "https://den-cards.pokellector.com/3/Emolga.EPO.32.png",
+      "rarity": "Common",
+      "cardNum": "32/98"
+    },
+    {
+      "name": "Joltik",
+      "set": "Emerging Powers",
+      "img": "https://den-cards.pokellector.com/3/Joltik.EPO.33.png",
+      "rarity": "Common",
+      "cardNum": "33/98"
+    },
+    {
+      "name": "Galvantula",
+      "set": "Emerging Powers",
+      "img": "https://den-cards.pokellector.com/3/Galvantula.EPO.34.png",
+      "rarity": "Uncommon",
+      "cardNum": "34/98"
+    },
+    {
+      "name": "Thundurus",
+      "set": "Emerging Powers",
+      "img": "https://den-cards.pokellector.com/3/Thundurus.EPO.35.png",
+      "rarity": "Rare",
+      "cardNum": "35/98"
+    },
+    {
+      "name": "Woobat",
+      "set": "Emerging Powers",
+      "img": "https://den-cards.pokellector.com/3/Woobat.EPO.36.png",
+      "rarity": "Common",
+      "cardNum": "36/98"
+    },
+    {
+      "name": "Swoobat",
+      "set": "Emerging Powers",
+      "img": "https://den-cards.pokellector.com/3/Swoobat.EPO.37.png",
+      "rarity": "Rare",
+      "cardNum": "37/98"
+    },
+    {
+      "name": "Venipede",
+      "set": "Emerging Powers",
+      "img": "https://den-cards.pokellector.com/3/Venipede.EPO.38.png",
+      "rarity": "Common",
+      "cardNum": "38/98"
+    },
+    {
+      "name": "Whirlipede",
+      "set": "Emerging Powers",
+      "img": "https://den-cards.pokellector.com/3/Whirlipede.EPO.39.png",
+      "rarity": "Uncommon",
+      "cardNum": "39/98"
+    },
+    {
+      "name": "Scolipede",
+      "set": "Emerging Powers",
+      "img": "https://den-cards.pokellector.com/3/Scolipede.EPO.40.png",
+      "rarity": "Rare",
+      "cardNum": "40/98"
+    },
+    {
+      "name": "Sigilyph",
+      "set": "Emerging Powers",
+      "img": "https://den-cards.pokellector.com/3/Sigilyph.EPO.41.png",
+      "rarity": "Uncommon",
+      "cardNum": "41/98"
+    },
+    {
+      "name": "Sigilyph",
+      "set": "Emerging Powers",
+      "img": "https://den-cards.pokellector.com/3/Sigilyph.EPO.42.png",
+      "rarity": "Uncommon",
+      "cardNum": "42/98"
+    },
+    {
+      "name": "Gothita",
+      "set": "Emerging Powers",
+      "img": "https://den-cards.pokellector.com/3/Gothita.EPO.43.png",
+      "rarity": "Common",
+      "cardNum": "43/98"
+    },
+    {
+      "name": "Gothita",
+      "set": "Emerging Powers",
+      "img": "https://den-cards.pokellector.com/3/Gothita.EPO.44.png",
+      "rarity": "Common",
+      "cardNum": "44/98"
+    },
+    {
+      "name": "Gothorita",
+      "set": "Emerging Powers",
+      "img": "https://den-cards.pokellector.com/3/Gothorita.EPO.45.png",
+      "rarity": "Uncommon",
+      "cardNum": "45/98"
+    },
+    {
+      "name": "Gothorita",
+      "set": "Emerging Powers",
+      "img": "https://den-cards.pokellector.com/3/Gothorita.EPO.46.png",
+      "rarity": "Uncommon",
+      "cardNum": "46/98"
+    },
+    {
+      "name": "Gothitelle",
+      "set": "Emerging Powers",
+      "img": "https://den-cards.pokellector.com/3/Gothitelle.EPO.47.png",
+      "rarity": "Rare",
+      "cardNum": "47/98"
+    },
+    {
+      "name": "Gothitelle",
+      "set": "Emerging Powers",
+      "img": "https://den-cards.pokellector.com/3/Gothitelle.EPO.48.png",
+      "rarity": "Rare",
+      "cardNum": "48/98"
+    },
+    {
+      "name": "Roggenrola",
+      "set": "Emerging Powers",
+      "img": "https://den-cards.pokellector.com/3/Roggenrola.EPO.49.png",
+      "rarity": "Common",
+      "cardNum": "49/98"
+    },
+    {
+      "name": "Roggenrola",
+      "set": "Emerging Powers",
+      "img": "https://den-cards.pokellector.com/3/Roggenrola.EPO.50.png",
+      "rarity": "Common",
+      "cardNum": "50/98"
+    },
+    {
+      "name": "Boldore",
+      "set": "Emerging Powers",
+      "img": "https://den-cards.pokellector.com/3/Boldore.EPO.51.png",
+      "rarity": "Uncommon",
+      "cardNum": "51/98"
+    },
+    {
+      "name": "Boldore",
+      "set": "Emerging Powers",
+      "img": "https://den-cards.pokellector.com/3/Boldore.EPO.52.png",
+      "rarity": "Uncommon",
+      "cardNum": "52/98"
+    },
+    {
+      "name": "Gigalith",
+      "set": "Emerging Powers",
+      "img": "https://den-cards.pokellector.com/3/Gigalith.EPO.53.png",
+      "rarity": "Rare",
+      "cardNum": "53/98"
+    },
+    {
+      "name": "Drilbur",
+      "set": "Emerging Powers",
+      "img": "https://den-cards.pokellector.com/3/Drilbur.EPO.54.png",
+      "rarity": "Uncommon",
+      "cardNum": "54/98"
+    },
+    {
+      "name": "Drilbur",
+      "set": "Emerging Powers",
+      "img": "https://den-cards.pokellector.com/3/Drilbur.EPO.55.png",
+      "rarity": "Common",
+      "cardNum": "55/98"
+    },
+    {
+      "name": "Excadrill",
+      "set": "Emerging Powers",
+      "img": "https://den-cards.pokellector.com/3/Excadrill.EPO.56.png",
+      "rarity": "Rare",
+      "cardNum": "56/98"
+    },
+    {
+      "name": "Excadrill",
+      "set": "Emerging Powers",
+      "img": "https://den-cards.pokellector.com/3/Excadrill.EPO.57.png",
+      "rarity": "Rare",
+      "cardNum": "57/98"
+    },
+    {
+      "name": "Throh",
+      "set": "Emerging Powers",
+      "img": "https://den-cards.pokellector.com/3/Throh.EPO.58.png",
+      "rarity": "Uncommon",
+      "cardNum": "58/98"
+    },
+    {
+      "name": "Sawk",
+      "set": "Emerging Powers",
+      "img": "https://den-cards.pokellector.com/3/Sawk.EPO.59.png",
+      "rarity": "Uncommon",
+      "cardNum": "59/98"
+    },
+    {
+      "name": "Sandile",
+      "set": "Emerging Powers",
+      "img": "https://den-cards.pokellector.com/3/Sandile.EPO.60.png",
+      "rarity": "Common",
+      "cardNum": "60/98"
+    },
+    {
+      "name": "Krokorok",
+      "set": "Emerging Powers",
+      "img": "https://den-cards.pokellector.com/3/Krokorok.EPO.61.png",
+      "rarity": "Uncommon",
+      "cardNum": "61/98"
+    },
+    {
+      "name": "Krookodile",
+      "set": "Emerging Powers",
+      "img": "https://den-cards.pokellector.com/3/Krookodile.EPO.62.png",
+      "rarity": "Rare",
+      "cardNum": "62/98"
+    },
+    {
+      "name": "Terrakion",
+      "set": "Emerging Powers",
+      "img": "https://den-cards.pokellector.com/3/Terrakion.EPO.63.png",
+      "rarity": "Rare",
+      "cardNum": "63/98"
+    },
+    {
+      "name": "Purrloin",
+      "set": "Emerging Powers",
+      "img": "https://den-cards.pokellector.com/3/Purrloin.EPO.64.png",
+      "rarity": "Common",
+      "cardNum": "64/98"
+    },
+    {
+      "name": "Liepard",
+      "set": "Emerging Powers",
+      "img": "https://den-cards.pokellector.com/3/Liepard.EPO.65.png",
+      "rarity": "Rare",
+      "cardNum": "65/98"
+    },
+    {
+      "name": "Zorua",
+      "set": "Emerging Powers",
+      "img": "https://den-cards.pokellector.com/3/Zorua.EPO.66.png",
+      "rarity": "Uncommon",
+      "cardNum": "66/98"
+    },
+    {
+      "name": "Zoroark",
+      "set": "Emerging Powers",
+      "img": "https://den-cards.pokellector.com/3/Zoroark.EPO.67.png",
+      "rarity": "Rare",
+      "cardNum": "67/98"
+    },
+    {
+      "name": "Vullaby",
+      "set": "Emerging Powers",
+      "img": "https://den-cards.pokellector.com/3/Vullaby.EPO.68.png",
+      "rarity": "Common",
+      "cardNum": "68/98"
+    },
+    {
+      "name": "Mandibuzz",
+      "set": "Emerging Powers",
+      "img": "https://den-cards.pokellector.com/3/Mandibuzz.EPO.69.png",
+      "rarity": "Rare",
+      "cardNum": "69/98"
+    },
+    {
+      "name": "Ferroseed",
+      "set": "Emerging Powers",
+      "img": "https://den-cards.pokellector.com/3/Ferroseed.EPO.70.png",
+      "rarity": "Common",
+      "cardNum": "70/98"
+    },
+    {
+      "name": "Ferroseed",
+      "set": "Emerging Powers",
+      "img": "https://den-cards.pokellector.com/3/Ferroseed.EPO.71.png",
+      "rarity": "Common",
+      "cardNum": "71/98"
+    },
+    {
+      "name": "Ferrothorn",
+      "set": "Emerging Powers",
+      "img": "https://den-cards.pokellector.com/3/Ferrothorn.EPO.72.png",
+      "rarity": "Rare",
+      "cardNum": "72/98"
+    },
+    {
+      "name": "Ferrothorn",
+      "set": "Emerging Powers",
+      "img": "https://den-cards.pokellector.com/3/Ferrothorn.EPO.73.png",
+      "rarity": "Uncommon",
+      "cardNum": "73/98"
+    },
+    {
+      "name": "Klink",
+      "set": "Emerging Powers",
+      "img": "https://den-cards.pokellector.com/3/Klink.EPO.74.png",
+      "rarity": "Common",
+      "cardNum": "74/98"
+    },
+    {
+      "name": "Klang",
+      "set": "Emerging Powers",
+      "img": "https://den-cards.pokellector.com/3/Klang.EPO.75.png",
+      "rarity": "Uncommon",
+      "cardNum": "75/98"
+    },
+    {
+      "name": "Klinklang",
+      "set": "Emerging Powers",
+      "img": "https://den-cards.pokellector.com/3/Klinklang.EPO.76.png",
+      "rarity": "Rare",
+      "cardNum": "76/98"
+    },
+    {
+      "name": "Cobalion",
+      "set": "Emerging Powers",
+      "img": "https://den-cards.pokellector.com/3/Cobalion.EPO.77.png",
+      "rarity": "Rare",
+      "cardNum": "77/98"
+    },
+    {
+      "name": "Patrat",
+      "set": "Emerging Powers",
+      "img": "https://den-cards.pokellector.com/3/Patrat.EPO.78.png",
+      "rarity": "Common",
+      "cardNum": "78/98"
+    },
+    {
+      "name": "Watchog",
+      "set": "Emerging Powers",
+      "img": "https://den-cards.pokellector.com/3/Watchog.EPO.79.png",
+      "rarity": "Uncommon",
+      "cardNum": "79/98"
+    },
+    {
+      "name": "Pidove",
+      "set": "Emerging Powers",
+      "img": "https://den-cards.pokellector.com/3/Pidove.EPO.80.png",
+      "rarity": "Common",
+      "cardNum": "80/98"
+    },
+    {
+      "name": "Tranquill",
+      "set": "Emerging Powers",
+      "img": "https://den-cards.pokellector.com/3/Tranquill.EPO.81.png",
+      "rarity": "Uncommon",
+      "cardNum": "81/98"
+    },
+    {
+      "name": "Unfezant",
+      "set": "Emerging Powers",
+      "img": "https://den-cards.pokellector.com/3/Unfezant.EPO.82.png",
+      "rarity": "Rare",
+      "cardNum": "82/98"
+    },
+    {
+      "name": "Audino",
+      "set": "Emerging Powers",
+      "img": "https://den-cards.pokellector.com/3/Audino.EPO.83.png",
+      "rarity": "Uncommon",
+      "cardNum": "83/98"
+    },
+    {
+      "name": "Minccino",
+      "set": "Emerging Powers",
+      "img": "https://den-cards.pokellector.com/3/Minccino.EPO.84.png",
+      "rarity": "Common",
+      "cardNum": "84/98"
+    },
+    {
+      "name": "Cinccino",
+      "set": "Emerging Powers",
+      "img": "https://den-cards.pokellector.com/3/Cinccino.EPO.85.png",
+      "rarity": "Uncommon",
+      "cardNum": "85/98"
+    },
+    {
+      "name": "Rufflet",
+      "set": "Emerging Powers",
+      "img": "https://den-cards.pokellector.com/3/Rufflet.EPO.86.png",
+      "rarity": "Common",
+      "cardNum": "86/98"
+    },
+    {
+      "name": "Rufflet",
+      "set": "Emerging Powers",
+      "img": "https://den-cards.pokellector.com/3/Rufflet.EPO.87.png",
+      "rarity": "Common",
+      "cardNum": "87/98"
+    },
+    {
+      "name": "Braviary",
+      "set": "Emerging Powers",
+      "img": "https://den-cards.pokellector.com/3/Braviary.EPO.88.png",
+      "rarity": "Rare",
+      "cardNum": "88/98"
+    },
+    {
+      "name": "Tornadus",
+      "set": "Emerging Powers",
+      "img": "https://den-cards.pokellector.com/3/Tornadus.EPO.89.png",
+      "rarity": "Rare",
+      "cardNum": "89/98"
+    },
+    {
+      "name": "Bianca",
+      "set": "Emerging Powers",
+      "img": "https://den-cards.pokellector.com/3/Bianca.EPO.90.png",
+      "rarity": "Uncommon",
+      "cardNum": "90/98"
+    },
+    {
+      "name": "Cheren",
+      "set": "Emerging Powers",
+      "img": "https://den-cards.pokellector.com/3/Cheren.EPO.91.png",
+      "rarity": "Uncommon",
+      "cardNum": "91/98"
+    },
+    {
+      "name": "Crushing Hammer",
+      "set": "Emerging Powers",
+      "img": "https://den-cards.pokellector.com/3/Crushing-Hammer.EPO.92.png",
+      "rarity": "Uncommon",
+      "cardNum": "92/98"
+    },
+    {
+      "name": "Great Ball",
+      "set": "Emerging Powers",
+      "img": "https://den-cards.pokellector.com/3/Great-Ball.EPO.93.png",
+      "rarity": "Uncommon",
+      "cardNum": "93/98"
+    },
+    {
+      "name": "Max Potion",
+      "set": "Emerging Powers",
+      "img": "https://den-cards.pokellector.com/3/Max-Potion.EPO.94.png",
+      "rarity": "Uncommon",
+      "cardNum": "94/98"
+    },
+    {
+      "name": "Pokemon Catcher",
+      "set": "Emerging Powers",
+      "img": "https://den-cards.pokellector.com/3/Pokemon-Catcher.EPO.95.png",
+      "rarity": "Uncommon",
+      "cardNum": "95/98"
+    },
+    {
+      "name": "Recycle",
+      "set": "Emerging Powers",
+      "img": "https://den-cards.pokellector.com/3/Recycle.EPO.96.png",
+      "rarity": "Uncommon",
+      "cardNum": "96/98"
+    },
+    {
+      "name": "Thundurus",
+      "set": "Emerging Powers",
+      "img": "https://den-cards.pokellector.com/3/Thundurus.EPO.97.png",
+      "rarity": "Rare",
+      "cardNum": "97/98"
+    },
+    {
+      "name": "Tornadus",
+      "set": "Emerging Powers",
+      "img": "https://den-cards.pokellector.com/3/Tornadus.EPO.98.png",
+      "rarity": "Rare",
+      "cardNum": "98/98"
+    }
+  ]
+}

@@ -1,0 +1,110 @@
+{
+  "setName": "Xerneas Half Deck",
+  "cards": [
+    {
+      "name": "Jigglypuff",
+      "set": "Xerneas Half Deck",
+      "img": "https://den-cards.pokellector.com/154/Jigglypuff.X30.1.png",
+      "rarity": "Common",
+      "cardNum": "1/15"
+    },
+    {
+      "name": "Wigglytuff",
+      "set": "Xerneas Half Deck",
+      "img": "https://den-cards.pokellector.com/154/Wigglytuff.X30.2.png",
+      "rarity": "Common",
+      "cardNum": "2/15"
+    },
+    {
+      "name": "Mr Mime",
+      "set": "Xerneas Half Deck",
+      "img": "https://den-cards.pokellector.com/154/Mr-Mime.X30.3.png",
+      "rarity": "Common",
+      "cardNum": "3/15"
+    },
+    {
+      "name": "FlabÃ©bÃ©",
+      "set": "Xerneas Half Deck",
+      "img": "https://den-cards.pokellector.com/154/Flabb.X30.4.png",
+      "rarity": "Common",
+      "cardNum": "4/15"
+    },
+    {
+      "name": "Floette",
+      "set": "Xerneas Half Deck",
+      "img": "https://den-cards.pokellector.com/154/Floette.X30.5.png",
+      "rarity": "Common",
+      "cardNum": "5/15"
+    },
+    {
+      "name": "Spritzee",
+      "set": "Xerneas Half Deck",
+      "img": "https://den-cards.pokellector.com/154/Spritzee.X30.6.png",
+      "rarity": "Common",
+      "cardNum": "6/15"
+    },
+    {
+      "name": "Xerneas",
+      "set": "Xerneas Half Deck",
+      "img": "https://den-cards.pokellector.com/154/Xerneas.X30.7.png",
+      "rarity": "Common",
+      "cardNum": "7/15"
+    },
+    {
+      "name": "Potion",
+      "set": "Xerneas Half Deck",
+      "img": "https://den-cards.pokellector.com/154/Potion.X30.8.png",
+      "rarity": "Common",
+      "cardNum": "8/15"
+    },
+    {
+      "name": "Great Ball",
+      "set": "Xerneas Half Deck",
+      "img": "https://den-cards.pokellector.com/154/Great-Ball.X30.9.png",
+      "rarity": "Common",
+      "cardNum": "9/15"
+    },
+    {
+      "name": "Switch",
+      "set": "Xerneas Half Deck",
+      "img": "https://den-cards.pokellector.com/154/Switch.X30.10.png",
+      "rarity": "Common",
+      "cardNum": "10/15"
+    },
+    {
+      "name": "Pokemon Catcher",
+      "set": "Xerneas Half Deck",
+      "img": "https://den-cards.pokellector.com/154/Pokemon-Catcher.X30.11.png",
+      "rarity": "Common",
+      "cardNum": "11/15"
+    },
+    {
+      "name": "Shauna",
+      "set": "Xerneas Half Deck",
+      "img": "https://den-cards.pokellector.com/154/Shauna.X30.12.png",
+      "rarity": "Common",
+      "cardNum": "12/15"
+    },
+    {
+      "name": "Tierno",
+      "set": "Xerneas Half Deck",
+      "img": "https://den-cards.pokellector.com/154/Tierno.X30.13.png",
+      "rarity": "Common",
+      "cardNum": "13/15"
+    },
+    {
+      "name": "Fairy Garden",
+      "set": "Xerneas Half Deck",
+      "img": "https://den-cards.pokellector.com/154/Fairy-Garden.X30.14.png",
+      "rarity": "Common",
+      "cardNum": "14/15"
+    },
+    {
+      "name": "Fairy Energy",
+      "set": "Xerneas Half Deck",
+      "img": "https://den-cards.pokellector.com/154/Fairy-Energy.X30.15.png",
+      "rarity": "Common",
+      "cardNum": "15/15"
+    }
+  ]
+}

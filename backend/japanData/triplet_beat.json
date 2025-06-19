@@ -1,0 +1,726 @@
+{
+  "setName": "Triplet Beat",
+  "cards": [
+    {
+      "name": "Tropius",
+      "set": "Triplet Beat",
+      "img": "https://den-cards.pokellector.com/366/Tropius.SV1A.1.46946.png",
+      "rarity": "Common",
+      "cardNum": "1/73"
+    },
+    {
+      "name": "Foongus",
+      "set": "Triplet Beat",
+      "img": "https://den-cards.pokellector.com/366/Foongus.SV1A.2.46948.png",
+      "rarity": "Common",
+      "cardNum": "2/73"
+    },
+    {
+      "name": "Amoonguss",
+      "set": "Triplet Beat",
+      "img": "https://den-cards.pokellector.com/366/Amoonguss.SV1A.3.46949.png",
+      "rarity": "Uncommon",
+      "cardNum": "3/73"
+    },
+    {
+      "name": "Sprigatito",
+      "set": "Triplet Beat",
+      "img": "https://den-cards.pokellector.com/366/Sprigatito.SV1A.4.46844.png",
+      "rarity": "Common",
+      "cardNum": "4/73"
+    },
+    {
+      "name": "Sprigatito",
+      "set": "Triplet Beat",
+      "img": "https://den-cards.pokellector.com/366/Sprigatito.SV1A.5.46845.png",
+      "rarity": "Common",
+      "cardNum": "5/73"
+    },
+    {
+      "name": "Floragato",
+      "set": "Triplet Beat",
+      "img": "https://den-cards.pokellector.com/366/Floragato.SV1A.6.46846.png",
+      "rarity": "Common",
+      "cardNum": "6/73"
+    },
+    {
+      "name": "Meowscarada ex",
+      "set": "Triplet Beat",
+      "img": "https://den-cards.pokellector.com/366/Meowscarada-ex.SV1A.7.46847.png",
+      "rarity": "Double Rare",
+      "cardNum": "7/73"
+    },
+    {
+      "name": "Nymble",
+      "set": "Triplet Beat",
+      "img": "https://den-cards.pokellector.com/366/Nymble.SV1A.8.46950.png",
+      "rarity": "Common",
+      "cardNum": "8/73"
+    },
+    {
+      "name": "Nymble",
+      "set": "Triplet Beat",
+      "img": "https://den-cards.pokellector.com/366/Nymble.SV1A.9.46880.png",
+      "rarity": "Common",
+      "cardNum": "9/73"
+    },
+    {
+      "name": "Lokix",
+      "set": "Triplet Beat",
+      "img": "https://den-cards.pokellector.com/366/Lokix.SV1A.10.46881.png",
+      "rarity": "Rare",
+      "cardNum": "10/73"
+    },
+    {
+      "name": "Paldean Tauros",
+      "set": "Triplet Beat",
+      "img": "https://den-cards.pokellector.com/366/Paldean-Tauros.SV1A.11.46858.png",
+      "rarity": "Uncommon",
+      "cardNum": "11/73"
+    },
+    {
+      "name": "Larvesta",
+      "set": "Triplet Beat",
+      "img": "https://den-cards.pokellector.com/366/Larvesta.SV1A.12.46951.png",
+      "rarity": "Common",
+      "cardNum": "12/73"
+    },
+    {
+      "name": "Volcarona",
+      "set": "Triplet Beat",
+      "img": "https://den-cards.pokellector.com/366/Volcarona.SV1A.13.46952.png",
+      "rarity": "Common",
+      "cardNum": "13/73"
+    },
+    {
+      "name": "Litleo",
+      "set": "Triplet Beat",
+      "img": "https://den-cards.pokellector.com/366/Litleo.SV1A.14.46953.png",
+      "rarity": "Common",
+      "cardNum": "14/73"
+    },
+    {
+      "name": "Pyroar",
+      "set": "Triplet Beat",
+      "img": "https://den-cards.pokellector.com/366/Pyroar.SV1A.15.46954.png",
+      "rarity": "Uncommon",
+      "cardNum": "15/73"
+    },
+    {
+      "name": "Oricorio",
+      "set": "Triplet Beat",
+      "img": "https://den-cards.pokellector.com/366/Oricorio.SV1A.16.46853.png",
+      "rarity": "Rare",
+      "cardNum": "16/73"
+    },
+    {
+      "name": "Fuecoco",
+      "set": "Triplet Beat",
+      "img": "https://den-cards.pokellector.com/366/Fuecoco.SV1A.17.46849.png",
+      "rarity": "Common",
+      "cardNum": "17/73"
+    },
+    {
+      "name": "Fuecoco",
+      "set": "Triplet Beat",
+      "img": "https://den-cards.pokellector.com/366/Fuecoco.SV1A.18.46850.png",
+      "rarity": "Common",
+      "cardNum": "18/73"
+    },
+    {
+      "name": "Crocalor",
+      "set": "Triplet Beat",
+      "img": "https://den-cards.pokellector.com/366/Crocalor.SV1A.19.46851.png",
+      "rarity": "Common",
+      "cardNum": "19/73"
+    },
+    {
+      "name": "Skeledirge ex",
+      "set": "Triplet Beat",
+      "img": "https://den-cards.pokellector.com/366/Skeledirge-ex.SV1A.20.46852.png",
+      "rarity": "Double Rare",
+      "cardNum": "20/73"
+    },
+    {
+      "name": "Paldean Tauros",
+      "set": "Triplet Beat",
+      "img": "https://den-cards.pokellector.com/366/Paldean-Tauros.SV1A.21.46859.png",
+      "rarity": "Uncommon",
+      "cardNum": "21/73"
+    },
+    {
+      "name": "Magikarp",
+      "set": "Triplet Beat",
+      "img": "https://den-cards.pokellector.com/366/Magikarp.SV1A.22.46883.png",
+      "rarity": "Common",
+      "cardNum": "22/73"
+    },
+    {
+      "name": "Gyarados",
+      "set": "Triplet Beat",
+      "img": "https://den-cards.pokellector.com/366/Gyarados.SV1A.23.46882.png",
+      "rarity": "Rare",
+      "cardNum": "23/73"
+    },
+    {
+      "name": "Delibird",
+      "set": "Triplet Beat",
+      "img": "https://den-cards.pokellector.com/366/Delibird.SV1A.24.46955.png",
+      "rarity": "Common",
+      "cardNum": "24/73"
+    },
+    {
+      "name": "Floatzel",
+      "set": "Triplet Beat",
+      "img": "https://den-cards.pokellector.com/366/Floatzel.SV1A.25.46902.png",
+      "rarity": "Common",
+      "cardNum": "25/73"
+    },
+    {
+      "name": "Buizel",
+      "set": "Triplet Beat",
+      "img": "https://den-cards.pokellector.com/366/Buizel.SV1A.26.46903.png",
+      "rarity": "Uncommon",
+      "cardNum": "26/73"
+    },
+    {
+      "name": "Quaxly",
+      "set": "Triplet Beat",
+      "img": "https://den-cards.pokellector.com/366/Quaxly.SV1A.27.46854.png",
+      "rarity": "Common",
+      "cardNum": "27/73"
+    },
+    {
+      "name": "Quaxly",
+      "set": "Triplet Beat",
+      "img": "https://den-cards.pokellector.com/366/Quaxly.SV1A.28.46855.png",
+      "rarity": "Common",
+      "cardNum": "28/73"
+    },
+    {
+      "name": "Quaxwell",
+      "set": "Triplet Beat",
+      "img": "https://den-cards.pokellector.com/366/Quaxwell.SV1A.29.46856.png",
+      "rarity": "Common",
+      "cardNum": "29/73"
+    },
+    {
+      "name": "Quaquaval",
+      "set": "Triplet Beat",
+      "img": "https://den-cards.pokellector.com/366/Quaquaval.SV1A.30.46857.png",
+      "rarity": "Double Rare",
+      "cardNum": "30/73"
+    },
+    {
+      "name": "Wattrel",
+      "set": "Triplet Beat",
+      "img": "https://den-cards.pokellector.com/366/Wattrel.SV1A.31.46956.png",
+      "rarity": "Common",
+      "cardNum": "31/73"
+    },
+    {
+      "name": "Wattrel",
+      "set": "Triplet Beat",
+      "img": "https://den-cards.pokellector.com/366/Wattrel.SV1A.32.46957.png",
+      "rarity": "Common",
+      "cardNum": "32/73"
+    },
+    {
+      "name": "Kilowattrel",
+      "set": "Triplet Beat",
+      "img": "https://den-cards.pokellector.com/366/Kilowattrel.SV1A.33.46958.png",
+      "rarity": "Uncommon",
+      "cardNum": "33/73"
+    },
+    {
+      "name": "Misdreavus",
+      "set": "Triplet Beat",
+      "img": "https://den-cards.pokellector.com/366/Misdreavus.SV1A.34.46959.png",
+      "rarity": "Common",
+      "cardNum": "34/73"
+    },
+    {
+      "name": "Mismagius",
+      "set": "Triplet Beat",
+      "img": "https://den-cards.pokellector.com/366/Mismagius.SV1A.35.46960.png",
+      "rarity": "Uncommon",
+      "cardNum": "35/73"
+    },
+    {
+      "name": "Spoink",
+      "set": "Triplet Beat",
+      "img": "https://den-cards.pokellector.com/366/Spoink.SV1A.36.46961.png",
+      "rarity": "Common",
+      "cardNum": "36/73"
+    },
+    {
+      "name": "Grumpig",
+      "set": "Triplet Beat",
+      "img": "https://den-cards.pokellector.com/366/Grumpig.SV1A.37.46962.png",
+      "rarity": "Uncommon",
+      "cardNum": "37/73"
+    },
+    {
+      "name": "Dedenne ex",
+      "set": "Triplet Beat",
+      "img": "https://den-cards.pokellector.com/366/Dedenne-ex.SV1A.38.46888.png",
+      "rarity": "Double Rare",
+      "cardNum": "38/73"
+    },
+    {
+      "name": "Oranguru",
+      "set": "Triplet Beat",
+      "img": "https://den-cards.pokellector.com/366/Oranguru.SV1A.39.46963.png",
+      "rarity": "Uncommon",
+      "cardNum": "39/73"
+    },
+    {
+      "name": "Tinkatink",
+      "set": "Triplet Beat",
+      "img": "https://den-cards.pokellector.com/366/Tinkatink.SV1A.40.46964.png",
+      "rarity": "Common",
+      "cardNum": "40/73"
+    },
+    {
+      "name": "Tinkatink",
+      "set": "Triplet Beat",
+      "img": "https://den-cards.pokellector.com/366/Tinkatink.SV1A.41.46897.png",
+      "rarity": "Common",
+      "cardNum": "41/73"
+    },
+    {
+      "name": "Tinkatuff",
+      "set": "Triplet Beat",
+      "img": "https://den-cards.pokellector.com/366/Tinkatuff.SV1A.42.46896.png",
+      "rarity": "Common",
+      "cardNum": "42/73"
+    },
+    {
+      "name": "Tinkaton",
+      "set": "Triplet Beat",
+      "img": "https://den-cards.pokellector.com/366/Tinkaton.SV1A.43.46895.png",
+      "rarity": "Rare",
+      "cardNum": "43/73"
+    },
+    {
+      "name": "Diglett",
+      "set": "Triplet Beat",
+      "img": "https://den-cards.pokellector.com/366/Diglett.SV1A.44.46965.png",
+      "rarity": "Common",
+      "cardNum": "44/73"
+    },
+    {
+      "name": "Dugtrio",
+      "set": "Triplet Beat",
+      "img": "https://den-cards.pokellector.com/366/Dugtrio.SV1A.45.46966.png",
+      "rarity": "Uncommon",
+      "cardNum": "45/73"
+    },
+    {
+      "name": "Paldean Tauros",
+      "set": "Triplet Beat",
+      "img": "https://den-cards.pokellector.com/366/Paldean-Tauros.SV1A.46.46860.png",
+      "rarity": "Uncommon",
+      "cardNum": "46/73"
+    },
+    {
+      "name": "Makuhita",
+      "set": "Triplet Beat",
+      "img": "https://den-cards.pokellector.com/366/Makuhita.SV1A.47.46967.png",
+      "rarity": "Common",
+      "cardNum": "47/73"
+    },
+    {
+      "name": "Hariyama",
+      "set": "Triplet Beat",
+      "img": "https://den-cards.pokellector.com/366/Hariyama.SV1A.48.46945.png",
+      "rarity": "Rare",
+      "cardNum": "48/73"
+    },
+    {
+      "name": "Rockruff",
+      "set": "Triplet Beat",
+      "img": "https://den-cards.pokellector.com/366/Rockruff.SV1A.49.46968.png",
+      "rarity": "Common",
+      "cardNum": "49/73"
+    },
+    {
+      "name": "Lycanroc ex",
+      "set": "Triplet Beat",
+      "img": "https://den-cards.pokellector.com/366/Lycanroc-ex.SV1A.50.46943.png",
+      "rarity": "Double Rare",
+      "cardNum": "50/73"
+    },
+    {
+      "name": "Falinks",
+      "set": "Triplet Beat",
+      "img": "https://den-cards.pokellector.com/366/Falinks.SV1A.51.46969.png",
+      "rarity": "Common",
+      "cardNum": "51/73"
+    },
+    {
+      "name": "Paldean Wooper",
+      "set": "Triplet Beat",
+      "img": "https://den-cards.pokellector.com/366/Paldean-Wooper.SV1A.52.46970.png",
+      "rarity": "Common",
+      "cardNum": "52/73"
+    },
+    {
+      "name": "Paldean Wooper",
+      "set": "Triplet Beat",
+      "img": "https://den-cards.pokellector.com/366/Paldean-Wooper.SV1A.53.46971.png",
+      "rarity": "Common",
+      "cardNum": "53/73"
+    },
+    {
+      "name": "Paldean Clodsire ex",
+      "set": "Triplet Beat",
+      "img": "https://den-cards.pokellector.com/366/Paldean-Quagsire-ex.SV1A.54.46889.png",
+      "rarity": "Double Rare",
+      "cardNum": "54/73"
+    },
+    {
+      "name": "Sableye",
+      "set": "Triplet Beat",
+      "img": "https://den-cards.pokellector.com/366/Sableye.SV1A.55.46908.png",
+      "rarity": "Rare",
+      "cardNum": "55/73"
+    },
+    {
+      "name": "Seviper",
+      "set": "Triplet Beat",
+      "img": "https://den-cards.pokellector.com/366/Seviper.SV1A.56.46972.png",
+      "rarity": "Uncommon",
+      "cardNum": "56/73"
+    },
+    {
+      "name": "Deino",
+      "set": "Triplet Beat",
+      "img": "https://den-cards.pokellector.com/366/Deino.SV1A.57.46894.png",
+      "rarity": "Common",
+      "cardNum": "57/73"
+    },
+    {
+      "name": "Zweilous",
+      "set": "Triplet Beat",
+      "img": "https://den-cards.pokellector.com/366/Zweilous.SV1A.58.46893.png",
+      "rarity": "Common",
+      "cardNum": "58/73"
+    },
+    {
+      "name": "Hydreigon",
+      "set": "Triplet Beat",
+      "img": "https://den-cards.pokellector.com/366/Hydreigon.SV1A.59.46892.png",
+      "rarity": "Rare",
+      "cardNum": "59/73"
+    },
+    {
+      "name": "Salandit",
+      "set": "Triplet Beat",
+      "img": "https://den-cards.pokellector.com/366/Salandit.SV1A.60.46973.png",
+      "rarity": "Common",
+      "cardNum": "60/73"
+    },
+    {
+      "name": "Salazzle",
+      "set": "Triplet Beat",
+      "img": "https://den-cards.pokellector.com/366/Salazzle.SV1A.61.46974.png",
+      "rarity": "Uncommon",
+      "cardNum": "61/73"
+    },
+    {
+      "name": "Yungoos",
+      "set": "Triplet Beat",
+      "img": "https://den-cards.pokellector.com/366/Yungoos.SV1A.62.46975.png",
+      "rarity": "Common",
+      "cardNum": "62/73"
+    },
+    {
+      "name": "Gumshoos",
+      "set": "Triplet Beat",
+      "img": "https://den-cards.pokellector.com/366/Gumshoos.SV1A.63.46976.png",
+      "rarity": "Uncommon",
+      "cardNum": "63/73"
+    },
+    {
+      "name": "Superior Energy Retrieval",
+      "set": "Triplet Beat",
+      "img": "https://den-cards.pokellector.com/366/Super-Energy-Retrival.SV1A.64.46848.png",
+      "rarity": "Uncommon",
+      "cardNum": "64/73"
+    },
+    {
+      "name": "Great Ball",
+      "set": "Triplet Beat",
+      "img": "https://den-cards.pokellector.com/366/Great-Ball.SV1A.65.46944.png",
+      "rarity": "Uncommon",
+      "cardNum": "65/73"
+    },
+    {
+      "name": "Dendra",
+      "set": "Triplet Beat",
+      "img": "https://den-cards.pokellector.com/366/Dendra.SV1A.66.46861.png",
+      "rarity": "Uncommon",
+      "cardNum": "66/73"
+    },
+    {
+      "name": "Clavell",
+      "set": "Triplet Beat",
+      "img": "https://den-cards.pokellector.com/366/Clavell.SV1A.67.46862.png",
+      "rarity": "Uncommon",
+      "cardNum": "67/73"
+    },
+    {
+      "name": "Falkner",
+      "set": "Triplet Beat",
+      "img": "https://den-cards.pokellector.com/366/Falkner.SV1A.68.46947.png",
+      "rarity": "Uncommon",
+      "cardNum": "68/73"
+    },
+    {
+      "name": "Boss's Orders (Ghetsis)",
+      "set": "Triplet Beat",
+      "img": "https://den-cards.pokellector.com/366/Bosss-Orders-Ghetsis.SV1A.69.46891.png",
+      "rarity": "Rare",
+      "cardNum": "69/73"
+    },
+    {
+      "name": "Artazon",
+      "set": "Triplet Beat",
+      "img": "https://den-cards.pokellector.com/366/Artazon.SV1A.70.46863.png",
+      "rarity": "Uncommon",
+      "cardNum": "70/73"
+    },
+    {
+      "name": "Lesson Studio",
+      "set": "Triplet Beat",
+      "img": "https://den-cards.pokellector.com/366/Lesson-Studio.SV1A.71.46890.png",
+      "rarity": "Uncommon",
+      "cardNum": "71/73"
+    },
+    {
+      "name": "Jet Energy",
+      "set": "Triplet Beat",
+      "img": "https://den-cards.pokellector.com/366/Jet-Energy.SV1A.72.46977.png",
+      "rarity": "Uncommon",
+      "cardNum": "72/73"
+    },
+    {
+      "name": "Luminous Energy",
+      "set": "Triplet Beat",
+      "img": "https://den-cards.pokellector.com/366/Luminous-Energy.SV1A.73.46864.png",
+      "rarity": "Uncommon",
+      "cardNum": "73/73"
+    },
+    {
+      "name": "Tropius",
+      "set": "Triplet Beat",
+      "img": "https://den-cards.pokellector.com/366/Tropius.SV1A.74.46996.png",
+      "rarity": "Art Rare",
+      "cardNum": "74/73"
+    },
+    {
+      "name": "Sprigatito",
+      "set": "Triplet Beat",
+      "img": "https://den-cards.pokellector.com/366/Sprigatito.SV1A.75.46843.png",
+      "rarity": "Art Rare",
+      "cardNum": "75/73"
+    },
+    {
+      "name": "Floragato",
+      "set": "Triplet Beat",
+      "img": "https://den-cards.pokellector.com/366/Floragato.SV1A.76.46984.png",
+      "rarity": "Art Rare",
+      "cardNum": "76/73"
+    },
+    {
+      "name": "Pyroar",
+      "set": "Triplet Beat",
+      "img": "https://den-cards.pokellector.com/366/Pyroar.SV1A.77.46997.png",
+      "rarity": "Art Rare",
+      "cardNum": "77/73"
+    },
+    {
+      "name": "Fuecoco",
+      "set": "Triplet Beat",
+      "img": "https://den-cards.pokellector.com/366/Fuecoco.SV1A.78.46842.png",
+      "rarity": "Art Rare",
+      "cardNum": "78/73"
+    },
+    {
+      "name": "Crocalor",
+      "set": "Triplet Beat",
+      "img": "https://den-cards.pokellector.com/366/Crocalor.SV1A.79.46990.png",
+      "rarity": "Art Rare",
+      "cardNum": "79/73"
+    },
+    {
+      "name": "Magikarp",
+      "set": "Triplet Beat",
+      "img": "https://den-cards.pokellector.com/366/Magikarp.SV1A.80.46932.png",
+      "rarity": "Art Rare",
+      "cardNum": "80/73"
+    },
+    {
+      "name": "Quaxly",
+      "set": "Triplet Beat",
+      "img": "https://den-cards.pokellector.com/366/Quaxly.SV1A.81.46841.png",
+      "rarity": "Art Rare",
+      "cardNum": "81/73"
+    },
+    {
+      "name": "Quaxwell",
+      "set": "Triplet Beat",
+      "img": "https://den-cards.pokellector.com/366/Quaxwell.SV1A.82.46989.png",
+      "rarity": "Art Rare",
+      "cardNum": "82/73"
+    },
+    {
+      "name": "Mismagius",
+      "set": "Triplet Beat",
+      "img": "https://den-cards.pokellector.com/366/Mismagius.SV1A.83.46926.png",
+      "rarity": "Art Rare",
+      "cardNum": "83/73"
+    },
+    {
+      "name": "Paldean Tauros",
+      "set": "Triplet Beat",
+      "img": "https://den-cards.pokellector.com/366/Paldean-Tauros.SV1A.84.46931.png",
+      "rarity": "Art Rare",
+      "cardNum": "84/73"
+    },
+    {
+      "name": "Paldean Wooper",
+      "set": "Triplet Beat",
+      "img": "https://den-cards.pokellector.com/366/Paldean-Wooper.SV1A.85.46927.png",
+      "rarity": "Art Rare",
+      "cardNum": "85/73"
+    },
+    {
+      "name": "Meowscarada",
+      "set": "Triplet Beat",
+      "img": "https://den-cards.pokellector.com/366/Meowscarada.SV1A.86.46998.png",
+      "rarity": "Super Rare",
+      "cardNum": "86/73"
+    },
+    {
+      "name": "Skeledirge ex",
+      "set": "Triplet Beat",
+      "img": "https://den-cards.pokellector.com/366/Skeledirge-ex.SV1A.87.46999.png",
+      "rarity": "Super Rare",
+      "cardNum": "87/73"
+    },
+    {
+      "name": "Quaquaval",
+      "set": "Triplet Beat",
+      "img": "https://den-cards.pokellector.com/366/Quaquaval.SV1A.88.46986.png",
+      "rarity": "Super Rare",
+      "cardNum": "88/73"
+    },
+    {
+      "name": "Dedenne ex",
+      "set": "Triplet Beat",
+      "img": "https://den-cards.pokellector.com/366/Dedenne-ex.SV1A.89.47000.png",
+      "rarity": "Super Rare",
+      "cardNum": "89/73"
+    },
+    {
+      "name": "Lycanroc ex",
+      "set": "Triplet Beat",
+      "img": "https://den-cards.pokellector.com/366/Lycanroc-ex.SV1A.90.47001.png",
+      "rarity": "Super Rare",
+      "cardNum": "90/73"
+    },
+    {
+      "name": "Paldean Clodsire ex",
+      "set": "Triplet Beat",
+      "img": "https://den-cards.pokellector.com/366/Paldean-Quagsire-ex.SV1A.91.47002.png",
+      "rarity": "Super Rare",
+      "cardNum": "91/73"
+    },
+    {
+      "name": "Dendra",
+      "set": "Triplet Beat",
+      "img": "https://den-cards.pokellector.com/366/Dendra.SV1A.92.46925.png",
+      "rarity": "Super Rare",
+      "cardNum": "92/73"
+    },
+    {
+      "name": "Clavell",
+      "set": "Triplet Beat",
+      "img": "https://den-cards.pokellector.com/366/Clavell.SV1A.93.47003.png",
+      "rarity": "Super Rare",
+      "cardNum": "93/73"
+    },
+    {
+      "name": "Falkner",
+      "set": "Triplet Beat",
+      "img": "https://den-cards.pokellector.com/366/Falkner.SV1A.94.47004.png",
+      "rarity": "Super Rare",
+      "cardNum": "94/73"
+    },
+    {
+      "name": "Boss's Orders (Ghetsis)",
+      "set": "Triplet Beat",
+      "img": "https://den-cards.pokellector.com/366/Bosss-Orders-Ghetsis.SV1A.95.47005.png",
+      "rarity": "Super Rare",
+      "cardNum": "95/73"
+    },
+    {
+      "name": "Meowscarada",
+      "set": "Triplet Beat",
+      "img": "https://den-cards.pokellector.com/366/Meowscarada.SV1A.96.46985.png",
+      "rarity": "Special Art Rare",
+      "cardNum": "96/73"
+    },
+    {
+      "name": "Skeledirge ex",
+      "set": "Triplet Beat",
+      "img": "https://den-cards.pokellector.com/366/Skeledirge-ex.SV1A.97.46987.png",
+      "rarity": "Special Art Rare",
+      "cardNum": "97/73"
+    },
+    {
+      "name": "Quaquaval ex",
+      "set": "Triplet Beat",
+      "img": "https://den-cards.pokellector.com/366/Quaquaval-ex.SV1A.98.46988.png",
+      "rarity": "Special Art Rare",
+      "cardNum": "98/73"
+    },
+    {
+      "name": "Dendra",
+      "set": "Triplet Beat",
+      "img": "https://den-cards.pokellector.com/366/Dendra.SV1A.99.46924.png",
+      "rarity": "Special Art Rare",
+      "cardNum": "99/73"
+    },
+    {
+      "name": "Boss's Orders (Ghetsis)",
+      "set": "Triplet Beat",
+      "img": "https://den-cards.pokellector.com/366/Bosss-Orders-Ghetsis.SV1A.100.47006.png",
+      "rarity": "Special Art Rare",
+      "cardNum": "100/73"
+    },
+    {
+      "name": "Meowscarada ex",
+      "set": "Triplet Beat",
+      "img": "https://den-cards.pokellector.com/366/Meowscarada-ex.SV1A.101.47007.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "101/73"
+    },
+    {
+      "name": "Skeledirge ex",
+      "set": "Triplet Beat",
+      "img": "https://den-cards.pokellector.com/366/Skeledirge-ex.SV1A.102.47008.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "102/73"
+    },
+    {
+      "name": "Quaquaval ex",
+      "set": "Triplet Beat",
+      "img": "https://den-cards.pokellector.com/366/Quaquaval-ex.SV1A.103.47009.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "103/73"
+    }
+  ]
+}

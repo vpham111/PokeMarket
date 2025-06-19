@@ -1,0 +1,901 @@
+{
+  "setName": "Dragons Exalted",
+  "cards": [
+    {
+      "name": "Hoppip",
+      "set": "Dragons Exalted",
+      "img": "https://den-cards.pokellector.com/2/Hoppip.DRX.1.png",
+      "rarity": "Common",
+      "cardNum": "1/124"
+    },
+    {
+      "name": "Skiploom",
+      "set": "Dragons Exalted",
+      "img": "https://den-cards.pokellector.com/2/Skiploom.DRX.2.png",
+      "rarity": "Uncommon",
+      "cardNum": "2/124"
+    },
+    {
+      "name": "Jumpluff",
+      "set": "Dragons Exalted",
+      "img": "https://den-cards.pokellector.com/2/Jumpluff.DRX.3.png",
+      "rarity": "Rare",
+      "cardNum": "3/124"
+    },
+    {
+      "name": "Yanma",
+      "set": "Dragons Exalted",
+      "img": "https://den-cards.pokellector.com/2/Yanma.DRX.4.png",
+      "rarity": "Common",
+      "cardNum": "4/124"
+    },
+    {
+      "name": "Yanmega",
+      "set": "Dragons Exalted",
+      "img": "https://den-cards.pokellector.com/2/Yanmega.DRX.5.png",
+      "rarity": "Rare",
+      "cardNum": "5/124"
+    },
+    {
+      "name": "Wurmple",
+      "set": "Dragons Exalted",
+      "img": "https://den-cards.pokellector.com/2/Wurmple.DRX.6.png",
+      "rarity": "Common",
+      "cardNum": "6/124"
+    },
+    {
+      "name": "Silcoon",
+      "set": "Dragons Exalted",
+      "img": "https://den-cards.pokellector.com/2/Silcoon.DRX.7.png",
+      "rarity": "Uncommon",
+      "cardNum": "7/124"
+    },
+    {
+      "name": "Beautifly",
+      "set": "Dragons Exalted",
+      "img": "https://den-cards.pokellector.com/2/Beautifly.DRX.8.png",
+      "rarity": "Rare",
+      "cardNum": "8/124"
+    },
+    {
+      "name": "Cascoon",
+      "set": "Dragons Exalted",
+      "img": "https://den-cards.pokellector.com/2/Cascoon.DRX.9.png",
+      "rarity": "Uncommon",
+      "cardNum": "9/124"
+    },
+    {
+      "name": "Nincada",
+      "set": "Dragons Exalted",
+      "img": "https://den-cards.pokellector.com/2/Nincada.DRX.10.png",
+      "rarity": "Common",
+      "cardNum": "10/124"
+    },
+    {
+      "name": "Ninjask",
+      "set": "Dragons Exalted",
+      "img": "https://den-cards.pokellector.com/2/Ninjask.DRX.11.png",
+      "rarity": "Uncommon",
+      "cardNum": "11/124"
+    },
+    {
+      "name": "Roselia",
+      "set": "Dragons Exalted",
+      "img": "https://den-cards.pokellector.com/2/Roselia.DRX.12.png",
+      "rarity": "Uncommon",
+      "cardNum": "12/124"
+    },
+    {
+      "name": "Roselia",
+      "set": "Dragons Exalted",
+      "img": "https://den-cards.pokellector.com/2/Roselia.DRX.13.png",
+      "rarity": "Common",
+      "cardNum": "13/124"
+    },
+    {
+      "name": "Roserade",
+      "set": "Dragons Exalted",
+      "img": "https://den-cards.pokellector.com/2/Roserade.DRX.14.png",
+      "rarity": "Uncommon",
+      "cardNum": "14/124"
+    },
+    {
+      "name": "Roserade",
+      "set": "Dragons Exalted",
+      "img": "https://den-cards.pokellector.com/2/Roserade.DRX.15.png",
+      "rarity": "Rare",
+      "cardNum": "15/124"
+    },
+    {
+      "name": "Maractus",
+      "set": "Dragons Exalted",
+      "img": "https://den-cards.pokellector.com/2/Maractus.DRX.16.png",
+      "rarity": "Uncommon",
+      "cardNum": "16/124"
+    },
+    {
+      "name": "Foongus",
+      "set": "Dragons Exalted",
+      "img": "https://den-cards.pokellector.com/2/Foongus.DRX.17.png",
+      "rarity": "Common",
+      "cardNum": "17/124"
+    },
+    {
+      "name": "Vulpix",
+      "set": "Dragons Exalted",
+      "img": "https://den-cards.pokellector.com/2/Vulpix.DRX.18.png",
+      "rarity": "Common",
+      "cardNum": "18/124"
+    },
+    {
+      "name": "Ninetales",
+      "set": "Dragons Exalted",
+      "img": "https://den-cards.pokellector.com/2/Ninetales.DRX.19.png",
+      "rarity": "Rare",
+      "cardNum": "19/124"
+    },
+    {
+      "name": "Magmar",
+      "set": "Dragons Exalted",
+      "img": "https://den-cards.pokellector.com/2/Magmar.DRX.20.png",
+      "rarity": "Common",
+      "cardNum": "20/124"
+    },
+    {
+      "name": "Magmortar",
+      "set": "Dragons Exalted",
+      "img": "https://den-cards.pokellector.com/2/Magmortar.DRX.21.png",
+      "rarity": "Rare",
+      "cardNum": "21/124"
+    },
+    {
+      "name": "Ho-Oh EX",
+      "set": "Dragons Exalted",
+      "img": "https://den-cards.pokellector.com/2/Ho-Oh-EX.DRX.22.png",
+      "rarity": "Rare",
+      "cardNum": "22/124"
+    },
+    {
+      "name": "Magikarp",
+      "set": "Dragons Exalted",
+      "img": "https://den-cards.pokellector.com/2/Magikarp.DRX.23.png",
+      "rarity": "Common",
+      "cardNum": "23/124"
+    },
+    {
+      "name": "Gyarados",
+      "set": "Dragons Exalted",
+      "img": "https://den-cards.pokellector.com/2/Gyarados.DRX.24.png",
+      "rarity": "Rare",
+      "cardNum": "24/124"
+    },
+    {
+      "name": "Wailmer",
+      "set": "Dragons Exalted",
+      "img": "https://den-cards.pokellector.com/2/Wailmer.DRX.25.png",
+      "rarity": "Uncommon",
+      "cardNum": "25/124"
+    },
+    {
+      "name": "Wailord",
+      "set": "Dragons Exalted",
+      "img": "https://den-cards.pokellector.com/2/Wailord.DRX.26.png",
+      "rarity": "Rare",
+      "cardNum": "26/124"
+    },
+    {
+      "name": "Feebas",
+      "set": "Dragons Exalted",
+      "img": "https://den-cards.pokellector.com/2/Feebas.DRX.27.png",
+      "rarity": "Common",
+      "cardNum": "27/124"
+    },
+    {
+      "name": "Milotic",
+      "set": "Dragons Exalted",
+      "img": "https://den-cards.pokellector.com/2/Milotic.DRX.28.png",
+      "rarity": "Rare",
+      "cardNum": "28/124"
+    },
+    {
+      "name": "Spheal",
+      "set": "Dragons Exalted",
+      "img": "https://den-cards.pokellector.com/2/Spheal.DRX.29.png",
+      "rarity": "Common",
+      "cardNum": "29/124"
+    },
+    {
+      "name": "Sealeo",
+      "set": "Dragons Exalted",
+      "img": "https://den-cards.pokellector.com/2/Sealeo.DRX.30.png",
+      "rarity": "Uncommon",
+      "cardNum": "30/124"
+    },
+    {
+      "name": "Walrein",
+      "set": "Dragons Exalted",
+      "img": "https://den-cards.pokellector.com/2/Walrein.DRX.31.png",
+      "rarity": "Rare",
+      "cardNum": "31/124"
+    },
+    {
+      "name": "Buizel",
+      "set": "Dragons Exalted",
+      "img": "https://den-cards.pokellector.com/2/Buizel.DRX.32.png",
+      "rarity": "Common",
+      "cardNum": "32/124"
+    },
+    {
+      "name": "Floatzel",
+      "set": "Dragons Exalted",
+      "img": "https://den-cards.pokellector.com/2/Floatzel.DRX.33.png",
+      "rarity": "Uncommon",
+      "cardNum": "33/124"
+    },
+    {
+      "name": "Tympole",
+      "set": "Dragons Exalted",
+      "img": "https://den-cards.pokellector.com/2/Tympole.DRX.34.png",
+      "rarity": "Common",
+      "cardNum": "34/124"
+    },
+    {
+      "name": "Palpitoad",
+      "set": "Dragons Exalted",
+      "img": "https://den-cards.pokellector.com/2/Palpitoad.DRX.35.png",
+      "rarity": "Uncommon",
+      "cardNum": "35/124"
+    },
+    {
+      "name": "Seismitoad",
+      "set": "Dragons Exalted",
+      "img": "https://den-cards.pokellector.com/2/Seismitoad.DRX.36.png",
+      "rarity": "Rare",
+      "cardNum": "36/124"
+    },
+    {
+      "name": "Alomomola",
+      "set": "Dragons Exalted",
+      "img": "https://den-cards.pokellector.com/2/Alomomola.DRX.37.png",
+      "rarity": "Rare",
+      "cardNum": "37/124"
+    },
+    {
+      "name": "Mareep",
+      "set": "Dragons Exalted",
+      "img": "https://den-cards.pokellector.com/2/Mareep.DRX.38.png",
+      "rarity": "Common",
+      "cardNum": "38/124"
+    },
+    {
+      "name": "Flaaffy",
+      "set": "Dragons Exalted",
+      "img": "https://den-cards.pokellector.com/2/Flaaffy.DRX.39.png",
+      "rarity": "Uncommon",
+      "cardNum": "39/124"
+    },
+    {
+      "name": "Ampharos",
+      "set": "Dragons Exalted",
+      "img": "https://den-cards.pokellector.com/2/Ampharos.DRX.40.png",
+      "rarity": "Rare",
+      "cardNum": "40/124"
+    },
+    {
+      "name": "Electrike",
+      "set": "Dragons Exalted",
+      "img": "https://den-cards.pokellector.com/2/Electrike.DRX.41.png",
+      "rarity": "Common",
+      "cardNum": "41/124"
+    },
+    {
+      "name": "Electrike",
+      "set": "Dragons Exalted",
+      "img": "https://den-cards.pokellector.com/2/Electrike.DRX.42.png",
+      "rarity": "Common",
+      "cardNum": "42/124"
+    },
+    {
+      "name": "Manectric",
+      "set": "Dragons Exalted",
+      "img": "https://den-cards.pokellector.com/2/Manectric.DRX.43.png",
+      "rarity": "Rare",
+      "cardNum": "43/124"
+    },
+    {
+      "name": "Manectric",
+      "set": "Dragons Exalted",
+      "img": "https://den-cards.pokellector.com/2/Manectric.DRX.44.png",
+      "rarity": "Rare",
+      "cardNum": "44/124"
+    },
+    {
+      "name": "Emolga",
+      "set": "Dragons Exalted",
+      "img": "https://den-cards.pokellector.com/2/Emolga.DRX.45.png",
+      "rarity": "Uncommon",
+      "cardNum": "45/124"
+    },
+    {
+      "name": "Mew EX",
+      "set": "Dragons Exalted",
+      "img": "https://den-cards.pokellector.com/2/Mew-EX.DRX.46.png",
+      "rarity": "Rare",
+      "cardNum": "46/124"
+    },
+    {
+      "name": "Dustox",
+      "set": "Dragons Exalted",
+      "img": "https://den-cards.pokellector.com/2/Dustox.DRX.47.png",
+      "rarity": "Rare",
+      "cardNum": "47/124"
+    },
+    {
+      "name": "Shedinja",
+      "set": "Dragons Exalted",
+      "img": "https://den-cards.pokellector.com/2/Shedinja.DRX.48.png",
+      "rarity": "Rare",
+      "cardNum": "48/124"
+    },
+    {
+      "name": "Drifloon",
+      "set": "Dragons Exalted",
+      "img": "https://den-cards.pokellector.com/2/Drifloon.DRX.49.png",
+      "rarity": "Common",
+      "cardNum": "49/124"
+    },
+    {
+      "name": "Drifloon",
+      "set": "Dragons Exalted",
+      "img": "https://den-cards.pokellector.com/2/Drifloon.DRX.50.png",
+      "rarity": "Common",
+      "cardNum": "50/124"
+    },
+    {
+      "name": "Drifblim",
+      "set": "Dragons Exalted",
+      "img": "https://den-cards.pokellector.com/2/Drifblim.DRX.51.png",
+      "rarity": "Rare",
+      "cardNum": "51/124"
+    },
+    {
+      "name": "Sigilyph",
+      "set": "Dragons Exalted",
+      "img": "https://den-cards.pokellector.com/2/Sigilyph.DRX.52.png",
+      "rarity": "Rare",
+      "cardNum": "52/124"
+    },
+    {
+      "name": "Trubbish",
+      "set": "Dragons Exalted",
+      "img": "https://den-cards.pokellector.com/2/Trubbish.DRX.53.png",
+      "rarity": "Common",
+      "cardNum": "53/124"
+    },
+    {
+      "name": "Garbodor",
+      "set": "Dragons Exalted",
+      "img": "https://den-cards.pokellector.com/2/Garbodor.DRX.54.png",
+      "rarity": "Rare",
+      "cardNum": "54/124"
+    },
+    {
+      "name": "Gothita",
+      "set": "Dragons Exalted",
+      "img": "https://den-cards.pokellector.com/2/Gothita.DRX.55.png",
+      "rarity": "Common",
+      "cardNum": "55/124"
+    },
+    {
+      "name": "Gothorita",
+      "set": "Dragons Exalted",
+      "img": "https://den-cards.pokellector.com/2/Gothorita.DRX.56.png",
+      "rarity": "Uncommon",
+      "cardNum": "56/124"
+    },
+    {
+      "name": "Gothitelle",
+      "set": "Dragons Exalted",
+      "img": "https://den-cards.pokellector.com/2/Gothitelle.DRX.57.png",
+      "rarity": "Rare",
+      "cardNum": "57/124"
+    },
+    {
+      "name": "Golett",
+      "set": "Dragons Exalted",
+      "img": "https://den-cards.pokellector.com/2/Golett.DRX.58.png",
+      "rarity": "Common",
+      "cardNum": "58/124"
+    },
+    {
+      "name": "Golurk",
+      "set": "Dragons Exalted",
+      "img": "https://den-cards.pokellector.com/2/Golurk.DRX.59.png",
+      "rarity": "Rare",
+      "cardNum": "59/124"
+    },
+    {
+      "name": "Cubone",
+      "set": "Dragons Exalted",
+      "img": "https://den-cards.pokellector.com/2/Cubone.DRX.60.png",
+      "rarity": "Common",
+      "cardNum": "60/124"
+    },
+    {
+      "name": "Marowak",
+      "set": "Dragons Exalted",
+      "img": "https://den-cards.pokellector.com/2/Marowak.DRX.61.png",
+      "rarity": "Rare",
+      "cardNum": "61/124"
+    },
+    {
+      "name": "Nosepass",
+      "set": "Dragons Exalted",
+      "img": "https://den-cards.pokellector.com/2/Nosepass.DRX.62.png",
+      "rarity": "Common",
+      "cardNum": "62/124"
+    },
+    {
+      "name": "Baltoy",
+      "set": "Dragons Exalted",
+      "img": "https://den-cards.pokellector.com/2/Baltoy.DRX.63.png",
+      "rarity": "Common",
+      "cardNum": "63/124"
+    },
+    {
+      "name": "Claydol",
+      "set": "Dragons Exalted",
+      "img": "https://den-cards.pokellector.com/2/Claydol.DRX.64.png",
+      "rarity": "Rare",
+      "cardNum": "64/124"
+    },
+    {
+      "name": "Roggenrola",
+      "set": "Dragons Exalted",
+      "img": "https://den-cards.pokellector.com/2/Roggenrola.DRX.65.png",
+      "rarity": "Common",
+      "cardNum": "65/124"
+    },
+    {
+      "name": "Boldore",
+      "set": "Dragons Exalted",
+      "img": "https://den-cards.pokellector.com/2/Boldore.DRX.66.png",
+      "rarity": "Uncommon",
+      "cardNum": "66/124"
+    },
+    {
+      "name": "Gigalith",
+      "set": "Dragons Exalted",
+      "img": "https://den-cards.pokellector.com/2/Gigalith.DRX.67.png",
+      "rarity": "Rare",
+      "cardNum": "67/124"
+    },
+    {
+      "name": "Throh",
+      "set": "Dragons Exalted",
+      "img": "https://den-cards.pokellector.com/2/Throh.DRX.68.png",
+      "rarity": "Uncommon",
+      "cardNum": "68/124"
+    },
+    {
+      "name": "Sawk",
+      "set": "Dragons Exalted",
+      "img": "https://den-cards.pokellector.com/2/Sawk.DRX.69.png",
+      "rarity": "Uncommon",
+      "cardNum": "69/124"
+    },
+    {
+      "name": "Stunfisk",
+      "set": "Dragons Exalted",
+      "img": "https://den-cards.pokellector.com/2/Stunfisk.DRX.70.png",
+      "rarity": "Uncommon",
+      "cardNum": "70/124"
+    },
+    {
+      "name": "Terrakion EX",
+      "set": "Dragons Exalted",
+      "img": "https://den-cards.pokellector.com/2/Terrakion-EX.DRX.71.png",
+      "rarity": "Rare",
+      "cardNum": "71/124"
+    },
+    {
+      "name": "Murkrow",
+      "set": "Dragons Exalted",
+      "img": "https://den-cards.pokellector.com/2/Murkrow.DRX.72.png",
+      "rarity": "Common",
+      "cardNum": "72/124"
+    },
+    {
+      "name": "Honchkrow",
+      "set": "Dragons Exalted",
+      "img": "https://den-cards.pokellector.com/2/Honchkrow.DRX.73.png",
+      "rarity": "Rare",
+      "cardNum": "73/124"
+    },
+    {
+      "name": "Houndour",
+      "set": "Dragons Exalted",
+      "img": "https://den-cards.pokellector.com/2/Houndour.DRX.74.png",
+      "rarity": "Common",
+      "cardNum": "74/124"
+    },
+    {
+      "name": "Houndoom",
+      "set": "Dragons Exalted",
+      "img": "https://den-cards.pokellector.com/2/Houndoom.DRX.75.png",
+      "rarity": "Rare",
+      "cardNum": "75/124"
+    },
+    {
+      "name": "Stunky",
+      "set": "Dragons Exalted",
+      "img": "https://den-cards.pokellector.com/2/Stunky.DRX.76.png",
+      "rarity": "Common",
+      "cardNum": "76/124"
+    },
+    {
+      "name": "Skuntank",
+      "set": "Dragons Exalted",
+      "img": "https://den-cards.pokellector.com/2/Skuntank.DRX.77.png",
+      "rarity": "Uncommon",
+      "cardNum": "77/124"
+    },
+    {
+      "name": "Aron",
+      "set": "Dragons Exalted",
+      "img": "https://den-cards.pokellector.com/2/Aron.DRX.78.png",
+      "rarity": "Common",
+      "cardNum": "78/124"
+    },
+    {
+      "name": "Lairon",
+      "set": "Dragons Exalted",
+      "img": "https://den-cards.pokellector.com/2/Lairon.DRX.79.png",
+      "rarity": "Uncommon",
+      "cardNum": "79/124"
+    },
+    {
+      "name": "Aggron",
+      "set": "Dragons Exalted",
+      "img": "https://den-cards.pokellector.com/2/Aggron.DRX.80.80.png",
+      "rarity": "Rare",
+      "cardNum": "80/124"
+    },
+    {
+      "name": "Registeel EX",
+      "set": "Dragons Exalted",
+      "img": "https://den-cards.pokellector.com/2/Registeel-EX.DRX.81.png",
+      "rarity": "Rare",
+      "cardNum": "81/124"
+    },
+    {
+      "name": "Probopass",
+      "set": "Dragons Exalted",
+      "img": "https://den-cards.pokellector.com/2/Probopass.DRX.82.png",
+      "rarity": "Rare",
+      "cardNum": "82/124"
+    },
+    {
+      "name": "Durant",
+      "set": "Dragons Exalted",
+      "img": "https://den-cards.pokellector.com/2/Durant.DRX.83.png",
+      "rarity": "Uncommon",
+      "cardNum": "83/124"
+    },
+    {
+      "name": "Altaria",
+      "set": "Dragons Exalted",
+      "img": "https://den-cards.pokellector.com/2/Altaria.DRX.84.png",
+      "rarity": "Rare",
+      "cardNum": "84/124"
+    },
+    {
+      "name": "Rayquaza EX",
+      "set": "Dragons Exalted",
+      "img": "https://den-cards.pokellector.com/2/Rayquaza-EX.DRX.85.png",
+      "rarity": "Rare",
+      "cardNum": "85/124"
+    },
+    {
+      "name": "Gible",
+      "set": "Dragons Exalted",
+      "img": "https://den-cards.pokellector.com/2/Gible.DRX.86.png",
+      "rarity": "Common",
+      "cardNum": "86/124"
+    },
+    {
+      "name": "Gible",
+      "set": "Dragons Exalted",
+      "img": "https://den-cards.pokellector.com/2/Gible.DRX.87.png",
+      "rarity": "Common",
+      "cardNum": "87/124"
+    },
+    {
+      "name": "Gabite",
+      "set": "Dragons Exalted",
+      "img": "https://den-cards.pokellector.com/2/Gabite.DRX.88.png",
+      "rarity": "Uncommon",
+      "cardNum": "88/124"
+    },
+    {
+      "name": "Gabite",
+      "set": "Dragons Exalted",
+      "img": "https://den-cards.pokellector.com/2/Gabite.DRX.89.png",
+      "rarity": "Uncommon",
+      "cardNum": "89/124"
+    },
+    {
+      "name": "Garchomp",
+      "set": "Dragons Exalted",
+      "img": "https://den-cards.pokellector.com/2/Garchomp.DRX.90.png",
+      "rarity": "Rare",
+      "cardNum": "90/124"
+    },
+    {
+      "name": "Garchomp",
+      "set": "Dragons Exalted",
+      "img": "https://den-cards.pokellector.com/2/Garchomp.DRX.91.png",
+      "rarity": "Rare",
+      "cardNum": "91/124"
+    },
+    {
+      "name": "Giratina EX",
+      "set": "Dragons Exalted",
+      "img": "https://den-cards.pokellector.com/2/Giratina-EX.DRX.92.png",
+      "rarity": "Rare",
+      "cardNum": "92/124"
+    },
+    {
+      "name": "Deino",
+      "set": "Dragons Exalted",
+      "img": "https://den-cards.pokellector.com/2/Deino.DRX.93.png",
+      "rarity": "Common",
+      "cardNum": "93/124"
+    },
+    {
+      "name": "Deino",
+      "set": "Dragons Exalted",
+      "img": "https://den-cards.pokellector.com/2/Deino.DRX.94.png",
+      "rarity": "Common",
+      "cardNum": "94/124"
+    },
+    {
+      "name": "Zweilous",
+      "set": "Dragons Exalted",
+      "img": "https://den-cards.pokellector.com/2/Zweilous.DRX.95.png",
+      "rarity": "Uncommon",
+      "cardNum": "95/124"
+    },
+    {
+      "name": "Zweilous",
+      "set": "Dragons Exalted",
+      "img": "https://den-cards.pokellector.com/2/Zweilous.DRX.96.png",
+      "rarity": "Uncommon",
+      "cardNum": "96/124"
+    },
+    {
+      "name": "Hydreigon",
+      "set": "Dragons Exalted",
+      "img": "https://den-cards.pokellector.com/2/Hydreigon.DRX.97.png",
+      "rarity": "Rare",
+      "cardNum": "97/124"
+    },
+    {
+      "name": "Hydreigon",
+      "set": "Dragons Exalted",
+      "img": "https://den-cards.pokellector.com/2/Hydreigon.DRX.98.png",
+      "rarity": "Rare",
+      "cardNum": "98/124"
+    },
+    {
+      "name": "Aipom",
+      "set": "Dragons Exalted",
+      "img": "https://den-cards.pokellector.com/2/Aipom.DRX.99.png",
+      "rarity": "Common",
+      "cardNum": "99/124"
+    },
+    {
+      "name": "Ambipom",
+      "set": "Dragons Exalted",
+      "img": "https://den-cards.pokellector.com/2/Ambipom.DRX.100.png",
+      "rarity": "Rare",
+      "cardNum": "100/124"
+    },
+    {
+      "name": "Slakoth",
+      "set": "Dragons Exalted",
+      "img": "https://den-cards.pokellector.com/2/Slakoth.DRX.101.png",
+      "rarity": "Common",
+      "cardNum": "101/124"
+    },
+    {
+      "name": "Vigoroth",
+      "set": "Dragons Exalted",
+      "img": "https://den-cards.pokellector.com/2/Vigoroth.DRX.102.png",
+      "rarity": "Uncommon",
+      "cardNum": "102/124"
+    },
+    {
+      "name": "Slaking",
+      "set": "Dragons Exalted",
+      "img": "https://den-cards.pokellector.com/2/Slaking.DRX.103.png",
+      "rarity": "Rare",
+      "cardNum": "103/124"
+    },
+    {
+      "name": "Swablu",
+      "set": "Dragons Exalted",
+      "img": "https://den-cards.pokellector.com/2/Swablu.DRX.104.png",
+      "rarity": "Uncommon",
+      "cardNum": "104/124"
+    },
+    {
+      "name": "Swablu",
+      "set": "Dragons Exalted",
+      "img": "https://den-cards.pokellector.com/2/Swablu.DRX.105.png",
+      "rarity": "Common",
+      "cardNum": "105/124"
+    },
+    {
+      "name": "Bidoof",
+      "set": "Dragons Exalted",
+      "img": "https://den-cards.pokellector.com/2/Bidoof.DRX.106.png",
+      "rarity": "Common",
+      "cardNum": "106/124"
+    },
+    {
+      "name": "Bibarel",
+      "set": "Dragons Exalted",
+      "img": "https://den-cards.pokellector.com/2/Bibarel.DRX.107.png",
+      "rarity": "Uncommon",
+      "cardNum": "107/124"
+    },
+    {
+      "name": "Audino",
+      "set": "Dragons Exalted",
+      "img": "https://den-cards.pokellector.com/2/Audino.DRX.108.png",
+      "rarity": "Uncommon",
+      "cardNum": "108/124"
+    },
+    {
+      "name": "Minccino",
+      "set": "Dragons Exalted",
+      "img": "https://den-cards.pokellector.com/2/Minccino.DRX.109.png",
+      "rarity": "Common",
+      "cardNum": "109/124"
+    },
+    {
+      "name": "Bouffalant",
+      "set": "Dragons Exalted",
+      "img": "https://den-cards.pokellector.com/2/Bouffalant.DRX.110.png",
+      "rarity": "Uncommon",
+      "cardNum": "110/124"
+    },
+    {
+      "name": "Rufflet",
+      "set": "Dragons Exalted",
+      "img": "https://den-cards.pokellector.com/2/Rufflet.DRX.111.png",
+      "rarity": "Common",
+      "cardNum": "111/124"
+    },
+    {
+      "name": "Braviary",
+      "set": "Dragons Exalted",
+      "img": "https://den-cards.pokellector.com/2/Braviary.DRX.112.png",
+      "rarity": "Rare",
+      "cardNum": "112/124"
+    },
+    {
+      "name": "Devolution Spray",
+      "set": "Dragons Exalted",
+      "img": "https://den-cards.pokellector.com/2/Devolution-Spray.DRX.113.png",
+      "rarity": "Uncommon",
+      "cardNum": "113/124"
+    },
+    {
+      "name": "Giant Cape",
+      "set": "Dragons Exalted",
+      "img": "https://den-cards.pokellector.com/2/Giant-Cape.DRX.114.png",
+      "rarity": "Uncommon",
+      "cardNum": "114/124"
+    },
+    {
+      "name": "Rescue Scarf",
+      "set": "Dragons Exalted",
+      "img": "https://den-cards.pokellector.com/2/Rescue-Scarf.DRX.115.png",
+      "rarity": "Uncommon",
+      "cardNum": "115/124"
+    },
+    {
+      "name": "Tool Scrapper",
+      "set": "Dragons Exalted",
+      "img": "https://den-cards.pokellector.com/2/Tool-Scrapper.DRX.116.png",
+      "rarity": "Uncommon",
+      "cardNum": "116/124"
+    },
+    {
+      "name": "Blend Energy GFPD",
+      "set": "Dragons Exalted",
+      "img": "https://den-cards.pokellector.com/2/Blend-Energy-GFPD.DRX.117.png",
+      "rarity": "Uncommon",
+      "cardNum": "117/124"
+    },
+    {
+      "name": "Blend Energy WLFM",
+      "set": "Dragons Exalted",
+      "img": "https://den-cards.pokellector.com/2/Blend-Energy-WLFM.DRX.118.png",
+      "rarity": "Uncommon",
+      "cardNum": "118/124"
+    },
+    {
+      "name": "Ho-Oh EX",
+      "set": "Dragons Exalted",
+      "img": "https://den-cards.pokellector.com/2/Ho-Oh-EX.DRX.119.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "119/124"
+    },
+    {
+      "name": "Mew EX",
+      "set": "Dragons Exalted",
+      "img": "https://den-cards.pokellector.com/2/Mew-EX.DRX.120.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "120/124"
+    },
+    {
+      "name": "Terrakion EX",
+      "set": "Dragons Exalted",
+      "img": "https://den-cards.pokellector.com/2/Terrakion-EX.DRX.121.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "121/124"
+    },
+    {
+      "name": "Registeel EX",
+      "set": "Dragons Exalted",
+      "img": "https://den-cards.pokellector.com/2/Registeel-EX.DRX.122.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "122/124"
+    },
+    {
+      "name": "Rayquaza EX",
+      "set": "Dragons Exalted",
+      "img": "https://den-cards.pokellector.com/2/Rayquaza-EX.DRX.123.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "123/124"
+    },
+    {
+      "name": "Giratina EX",
+      "set": "Dragons Exalted",
+      "img": "https://den-cards.pokellector.com/2/Giratina-EX.DRX.124.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "124/124"
+    },
+    {
+      "name": "Serperior",
+      "set": "Dragons Exalted",
+      "img": "https://den-cards.pokellector.com/2/Serperior.DRX.125.png",
+      "rarity": "Secret Rare",
+      "cardNum": "125/124"
+    },
+    {
+      "name": "Reuniclus",
+      "set": "Dragons Exalted",
+      "img": "https://den-cards.pokellector.com/2/Reuniclus.DRX.126.png",
+      "rarity": "Secret Rare",
+      "cardNum": "126/124"
+    },
+    {
+      "name": "Krookodile",
+      "set": "Dragons Exalted",
+      "img": "https://den-cards.pokellector.com/2/Krookodile.DRX.127.png",
+      "rarity": "Secret Rare",
+      "cardNum": "127/124"
+    },
+    {
+      "name": "Rayquaza",
+      "set": "Dragons Exalted",
+      "img": "https://den-cards.pokellector.com/2/Rayquaza.DRX.128.png",
+      "rarity": "Secret Rare",
+      "cardNum": "128/124"
+    }
+  ]
+}

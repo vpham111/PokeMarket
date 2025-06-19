@@ -1,0 +1,817 @@
+{
+  "setName": "EX FireRed & LeafGreen",
+  "cards": [
+    {
+      "name": "Beedrill",
+      "set": "EX FireRed & LeafGreen",
+      "img": "https://den-cards.pokellector.com/57/Beedrill.RG.1.png",
+      "rarity": "Rare",
+      "cardNum": "1/112"
+    },
+    {
+      "name": "Butterfree",
+      "set": "EX FireRed & LeafGreen",
+      "img": "https://den-cards.pokellector.com/57/Butterfree.RG.2.png",
+      "rarity": "Rare",
+      "cardNum": "2/112"
+    },
+    {
+      "name": "Dewgong",
+      "set": "EX FireRed & LeafGreen",
+      "img": "https://den-cards.pokellector.com/57/Dewgong.RG.3.png",
+      "rarity": "Rare",
+      "cardNum": "3/112"
+    },
+    {
+      "name": "Ditto",
+      "set": "EX FireRed & LeafGreen",
+      "img": "https://den-cards.pokellector.com/57/Ditto.RG.4.png",
+      "rarity": "Rare",
+      "cardNum": "4/112"
+    },
+    {
+      "name": "Exeggutor",
+      "set": "EX FireRed & LeafGreen",
+      "img": "https://den-cards.pokellector.com/57/Exeggutor.RG.5.png",
+      "rarity": "Rare",
+      "cardNum": "5/112"
+    },
+    {
+      "name": "Kangaskhan",
+      "set": "EX FireRed & LeafGreen",
+      "img": "https://den-cards.pokellector.com/57/Kangaskhan.RG.6.png",
+      "rarity": "Rare",
+      "cardNum": "6/112"
+    },
+    {
+      "name": "Marowak",
+      "set": "EX FireRed & LeafGreen",
+      "img": "https://den-cards.pokellector.com/57/Marowak.RG.7.png",
+      "rarity": "Rare",
+      "cardNum": "7/112"
+    },
+    {
+      "name": "Nidoking",
+      "set": "EX FireRed & LeafGreen",
+      "img": "https://den-cards.pokellector.com/57/Nidoking.RG.8.png",
+      "rarity": "Rare",
+      "cardNum": "8/112"
+    },
+    {
+      "name": "Nidoqueen",
+      "set": "EX FireRed & LeafGreen",
+      "img": "https://den-cards.pokellector.com/57/Nidoqueen.RG.9.png",
+      "rarity": "Rare",
+      "cardNum": "9/112"
+    },
+    {
+      "name": "Pidgeot",
+      "set": "EX FireRed & LeafGreen",
+      "img": "https://den-cards.pokellector.com/57/Pidgeot.RG.10.png",
+      "rarity": "Rare",
+      "cardNum": "10/112"
+    },
+    {
+      "name": "Poliwrath",
+      "set": "EX FireRed & LeafGreen",
+      "img": "https://den-cards.pokellector.com/57/Poliwrath.RG.11.png",
+      "rarity": "Rare",
+      "cardNum": "11/112"
+    },
+    {
+      "name": "Raichu",
+      "set": "EX FireRed & LeafGreen",
+      "img": "https://den-cards.pokellector.com/57/Raichu.RG.12.png",
+      "rarity": "Rare",
+      "cardNum": "12/112"
+    },
+    {
+      "name": "Rapidash",
+      "set": "EX FireRed & LeafGreen",
+      "img": "https://den-cards.pokellector.com/57/Rapidash.RG.13.png",
+      "rarity": "Rare",
+      "cardNum": "13/112"
+    },
+    {
+      "name": "Slowbro",
+      "set": "EX FireRed & LeafGreen",
+      "img": "https://den-cards.pokellector.com/57/Slowbro.RG.14.png",
+      "rarity": "Rare",
+      "cardNum": "14/112"
+    },
+    {
+      "name": "Snorlax",
+      "set": "EX FireRed & LeafGreen",
+      "img": "https://den-cards.pokellector.com/57/Snorlax.RG.15.png",
+      "rarity": "Rare",
+      "cardNum": "15/112"
+    },
+    {
+      "name": "Tauros",
+      "set": "EX FireRed & LeafGreen",
+      "img": "https://den-cards.pokellector.com/57/Tauros.RG.16.png",
+      "rarity": "Rare",
+      "cardNum": "16/112"
+    },
+    {
+      "name": "Victreebel",
+      "set": "EX FireRed & LeafGreen",
+      "img": "https://den-cards.pokellector.com/57/Victreebel.RG.17.png",
+      "rarity": "Rare",
+      "cardNum": "17/112"
+    },
+    {
+      "name": "Arcanine",
+      "set": "EX FireRed & LeafGreen",
+      "img": "https://den-cards.pokellector.com/57/Arcanine.RG.18.png",
+      "rarity": "Rare",
+      "cardNum": "18/112"
+    },
+    {
+      "name": "Chansey",
+      "set": "EX FireRed & LeafGreen",
+      "img": "https://den-cards.pokellector.com/57/Chansey.RG.19.png",
+      "rarity": "Rare",
+      "cardNum": "19/112"
+    },
+    {
+      "name": "Cloyster",
+      "set": "EX FireRed & LeafGreen",
+      "img": "https://den-cards.pokellector.com/57/Cloyster.RG.20.png",
+      "rarity": "Rare",
+      "cardNum": "20/112"
+    },
+    {
+      "name": "Dodrio",
+      "set": "EX FireRed & LeafGreen",
+      "img": "https://den-cards.pokellector.com/57/Dodrio.RG.21.png",
+      "rarity": "Rare",
+      "cardNum": "21/112"
+    },
+    {
+      "name": "Dugtrio",
+      "set": "EX FireRed & LeafGreen",
+      "img": "https://den-cards.pokellector.com/57/Dugtrio.RG.22.png",
+      "rarity": "Rare",
+      "cardNum": "22/112"
+    },
+    {
+      "name": "Farfetch'd",
+      "set": "EX FireRed & LeafGreen",
+      "img": "https://den-cards.pokellector.com/57/Farfetchd.RG.23.png",
+      "rarity": "Rare",
+      "cardNum": "23/112"
+    },
+    {
+      "name": "Fearow",
+      "set": "EX FireRed & LeafGreen",
+      "img": "https://den-cards.pokellector.com/57/Fearow.RG.24.png",
+      "rarity": "Rare",
+      "cardNum": "24/112"
+    },
+    {
+      "name": "Hypno",
+      "set": "EX FireRed & LeafGreen",
+      "img": "https://den-cards.pokellector.com/57/Hypno.RG.25.png",
+      "rarity": "Rare",
+      "cardNum": "25/112"
+    },
+    {
+      "name": "Kingler",
+      "set": "EX FireRed & LeafGreen",
+      "img": "https://den-cards.pokellector.com/57/Kingler.RG.26.png",
+      "rarity": "Rare",
+      "cardNum": "26/112"
+    },
+    {
+      "name": "Magneton",
+      "set": "EX FireRed & LeafGreen",
+      "img": "https://den-cards.pokellector.com/57/Magneton.RG.27.png",
+      "rarity": "Rare",
+      "cardNum": "27/112"
+    },
+    {
+      "name": "Primeape",
+      "set": "EX FireRed & LeafGreen",
+      "img": "https://den-cards.pokellector.com/57/Primeape.RG.28.png",
+      "rarity": "Rare",
+      "cardNum": "28/112"
+    },
+    {
+      "name": "Scyther",
+      "set": "EX FireRed & LeafGreen",
+      "img": "https://den-cards.pokellector.com/57/Scyther.RG.29.png",
+      "rarity": "Rare",
+      "cardNum": "29/112"
+    },
+    {
+      "name": "Tangela",
+      "set": "EX FireRed & LeafGreen",
+      "img": "https://den-cards.pokellector.com/57/Tangela.RG.30.png",
+      "rarity": "Rare",
+      "cardNum": "30/112"
+    },
+    {
+      "name": "Charmeleon",
+      "set": "EX FireRed & LeafGreen",
+      "img": "https://den-cards.pokellector.com/57/Charmeleon.RG.31.png",
+      "rarity": "Uncommon",
+      "cardNum": "31/112"
+    },
+    {
+      "name": "Drowzee",
+      "set": "EX FireRed & LeafGreen",
+      "img": "https://den-cards.pokellector.com/57/Drowzee.RG.32.png",
+      "rarity": "Uncommon",
+      "cardNum": "32/112"
+    },
+    {
+      "name": "Exeggcute",
+      "set": "EX FireRed & LeafGreen",
+      "img": "https://den-cards.pokellector.com/57/Exeggcute.RG.33.png",
+      "rarity": "Uncommon",
+      "cardNum": "33/112"
+    },
+    {
+      "name": "Haunter",
+      "set": "EX FireRed & LeafGreen",
+      "img": "https://den-cards.pokellector.com/57/Haunter.RG.34.png",
+      "rarity": "Uncommon",
+      "cardNum": "34/112"
+    },
+    {
+      "name": "Ivysaur",
+      "set": "EX FireRed & LeafGreen",
+      "img": "https://den-cards.pokellector.com/57/Ivysaur.RG.35.png",
+      "rarity": "Uncommon",
+      "cardNum": "35/112"
+    },
+    {
+      "name": "Kakuna",
+      "set": "EX FireRed & LeafGreen",
+      "img": "https://den-cards.pokellector.com/57/Kakuna.RG.36.png",
+      "rarity": "Uncommon",
+      "cardNum": "36/112"
+    },
+    {
+      "name": "Lickitung",
+      "set": "EX FireRed & LeafGreen",
+      "img": "https://den-cards.pokellector.com/57/Lickitung.RG.37.png",
+      "rarity": "Uncommon",
+      "cardNum": "37/112"
+    },
+    {
+      "name": "Mankey",
+      "set": "EX FireRed & LeafGreen",
+      "img": "https://den-cards.pokellector.com/57/Mankey.RG.38.png",
+      "rarity": "Uncommon",
+      "cardNum": "38/112"
+    },
+    {
+      "name": "Metapod",
+      "set": "EX FireRed & LeafGreen",
+      "img": "https://den-cards.pokellector.com/57/Metapod.RG.39.png",
+      "rarity": "Uncommon",
+      "cardNum": "39/112"
+    },
+    {
+      "name": "Nidorina",
+      "set": "EX FireRed & LeafGreen",
+      "img": "https://den-cards.pokellector.com/57/Nidorina.RG.40.png",
+      "rarity": "Uncommon",
+      "cardNum": "40/112"
+    },
+    {
+      "name": "Nidorino",
+      "set": "EX FireRed & LeafGreen",
+      "img": "https://den-cards.pokellector.com/57/Nidorino.RG.41.png",
+      "rarity": "Uncommon",
+      "cardNum": "41/112"
+    },
+    {
+      "name": "Onix",
+      "set": "EX FireRed & LeafGreen",
+      "img": "https://den-cards.pokellector.com/57/Onix.RG.42.png",
+      "rarity": "Uncommon",
+      "cardNum": "42/112"
+    },
+    {
+      "name": "Parasect",
+      "set": "EX FireRed & LeafGreen",
+      "img": "https://den-cards.pokellector.com/57/Parasect.RG.43.png",
+      "rarity": "Uncommon",
+      "cardNum": "43/112"
+    },
+    {
+      "name": "Persian",
+      "set": "EX FireRed & LeafGreen",
+      "img": "https://den-cards.pokellector.com/57/Persian.RG.44.png",
+      "rarity": "Uncommon",
+      "cardNum": "44/112"
+    },
+    {
+      "name": "Pidgeotto",
+      "set": "EX FireRed & LeafGreen",
+      "img": "https://den-cards.pokellector.com/57/Pidgeotto.RG.45.png",
+      "rarity": "Uncommon",
+      "cardNum": "45/112"
+    },
+    {
+      "name": "Poliwhirl",
+      "set": "EX FireRed & LeafGreen",
+      "img": "https://den-cards.pokellector.com/57/Poliwhirl.RG.46.png",
+      "rarity": "Uncommon",
+      "cardNum": "46/112"
+    },
+    {
+      "name": "Porygon",
+      "set": "EX FireRed & LeafGreen",
+      "img": "https://den-cards.pokellector.com/57/Porygon.RG.47.png",
+      "rarity": "Uncommon",
+      "cardNum": "47/112"
+    },
+    {
+      "name": "Raticate",
+      "set": "EX FireRed & LeafGreen",
+      "img": "https://den-cards.pokellector.com/57/Raticate.RG.48.png",
+      "rarity": "Uncommon",
+      "cardNum": "48/112"
+    },
+    {
+      "name": "Venomoth",
+      "set": "EX FireRed & LeafGreen",
+      "img": "https://den-cards.pokellector.com/57/Venomoth.RG.49.png",
+      "rarity": "Uncommon",
+      "cardNum": "49/112"
+    },
+    {
+      "name": "Wartortle",
+      "set": "EX FireRed & LeafGreen",
+      "img": "https://den-cards.pokellector.com/57/Wartortle.RG.50.png",
+      "rarity": "Uncommon",
+      "cardNum": "50/112"
+    },
+    {
+      "name": "Weepinbell",
+      "set": "EX FireRed & LeafGreen",
+      "img": "https://den-cards.pokellector.com/57/Weepinbell.RG.51.png",
+      "rarity": "Uncommon",
+      "cardNum": "51/112"
+    },
+    {
+      "name": "Wigglytuff",
+      "set": "EX FireRed & LeafGreen",
+      "img": "https://den-cards.pokellector.com/57/Wigglytuff.RG.52.png",
+      "rarity": "Uncommon",
+      "cardNum": "52/112"
+    },
+    {
+      "name": "Bellsprout",
+      "set": "EX FireRed & LeafGreen",
+      "img": "https://den-cards.pokellector.com/57/Bellsprout.RG.53.png",
+      "rarity": "Common",
+      "cardNum": "53/112"
+    },
+    {
+      "name": "Bulbasaur",
+      "set": "EX FireRed & LeafGreen",
+      "img": "https://den-cards.pokellector.com/57/Bulbasaur.RG.54.png",
+      "rarity": "Common",
+      "cardNum": "54/112"
+    },
+    {
+      "name": "Bulbasaur",
+      "set": "EX FireRed & LeafGreen",
+      "img": "https://den-cards.pokellector.com/57/Bulbasaur.RG.55.png",
+      "rarity": "Common",
+      "cardNum": "55/112"
+    },
+    {
+      "name": "Caterpie",
+      "set": "EX FireRed & LeafGreen",
+      "img": "https://den-cards.pokellector.com/57/Caterpie.RG.56.png",
+      "rarity": "Common",
+      "cardNum": "56/112"
+    },
+    {
+      "name": "Charmander",
+      "set": "EX FireRed & LeafGreen",
+      "img": "https://den-cards.pokellector.com/57/Charmander.RG.57.png",
+      "rarity": "Common",
+      "cardNum": "57/112"
+    },
+    {
+      "name": "Charmander",
+      "set": "EX FireRed & LeafGreen",
+      "img": "https://den-cards.pokellector.com/57/Charmander.RG.58.png",
+      "rarity": "Common",
+      "cardNum": "58/112"
+    },
+    {
+      "name": "Clefairy",
+      "set": "EX FireRed & LeafGreen",
+      "img": "https://den-cards.pokellector.com/57/Clefairy.RG.59.png",
+      "rarity": "Common",
+      "cardNum": "59/112"
+    },
+    {
+      "name": "Cubone",
+      "set": "EX FireRed & LeafGreen",
+      "img": "https://den-cards.pokellector.com/57/Cubone.RG.60.png",
+      "rarity": "Common",
+      "cardNum": "60/112"
+    },
+    {
+      "name": "Diglett",
+      "set": "EX FireRed & LeafGreen",
+      "img": "https://den-cards.pokellector.com/57/Diglett.RG.61.png",
+      "rarity": "Common",
+      "cardNum": "61/112"
+    },
+    {
+      "name": "Doduo",
+      "set": "EX FireRed & LeafGreen",
+      "img": "https://den-cards.pokellector.com/57/Doduo.RG.62.png",
+      "rarity": "Common",
+      "cardNum": "62/112"
+    },
+    {
+      "name": "Gastly",
+      "set": "EX FireRed & LeafGreen",
+      "img": "https://den-cards.pokellector.com/57/Gastly.RG.63.png",
+      "rarity": "Common",
+      "cardNum": "63/112"
+    },
+    {
+      "name": "Growlithe",
+      "set": "EX FireRed & LeafGreen",
+      "img": "https://den-cards.pokellector.com/57/Growlithe.RG.64.png",
+      "rarity": "Common",
+      "cardNum": "64/112"
+    },
+    {
+      "name": "Jigglypuff",
+      "set": "EX FireRed & LeafGreen",
+      "img": "https://den-cards.pokellector.com/57/Jigglypuff.RG.65.png",
+      "rarity": "Common",
+      "cardNum": "65/112"
+    },
+    {
+      "name": "Krabby",
+      "set": "EX FireRed & LeafGreen",
+      "img": "https://den-cards.pokellector.com/57/Krabby.RG.66.png",
+      "rarity": "Common",
+      "cardNum": "66/112"
+    },
+    {
+      "name": "Magikarp",
+      "set": "EX FireRed & LeafGreen",
+      "img": "https://den-cards.pokellector.com/57/Magikarp.RG.67.png",
+      "rarity": "Common",
+      "cardNum": "67/112"
+    },
+    {
+      "name": "Magnemite",
+      "set": "EX FireRed & LeafGreen",
+      "img": "https://den-cards.pokellector.com/57/Magnemite.RG.68.png",
+      "rarity": "Common",
+      "cardNum": "68/112"
+    },
+    {
+      "name": "Meowth",
+      "set": "EX FireRed & LeafGreen",
+      "img": "https://den-cards.pokellector.com/57/Meowth.RG.69.png",
+      "rarity": "Common",
+      "cardNum": "69/112"
+    },
+    {
+      "name": "Nidoran(F)",
+      "set": "EX FireRed & LeafGreen",
+      "img": "https://den-cards.pokellector.com/57/NidoranF.RG.70.png",
+      "rarity": "Common",
+      "cardNum": "70/112"
+    },
+    {
+      "name": "Nidoran(M)",
+      "set": "EX FireRed & LeafGreen",
+      "img": "https://den-cards.pokellector.com/57/NidoranM.RG.71.png",
+      "rarity": "Common",
+      "cardNum": "71/112"
+    },
+    {
+      "name": "Paras",
+      "set": "EX FireRed & LeafGreen",
+      "img": "https://den-cards.pokellector.com/57/Paras.RG.72.png",
+      "rarity": "Common",
+      "cardNum": "72/112"
+    },
+    {
+      "name": "Pidgey",
+      "set": "EX FireRed & LeafGreen",
+      "img": "https://den-cards.pokellector.com/57/Pidgey.RG.73.png",
+      "rarity": "Common",
+      "cardNum": "73/112"
+    },
+    {
+      "name": "Pikachu",
+      "set": "EX FireRed & LeafGreen",
+      "img": "https://den-cards.pokellector.com/57/Pikachu.RG.74.png",
+      "rarity": "Common",
+      "cardNum": "74/112"
+    },
+    {
+      "name": "Poliwag",
+      "set": "EX FireRed & LeafGreen",
+      "img": "https://den-cards.pokellector.com/57/Poliwag.RG.75.png",
+      "rarity": "Common",
+      "cardNum": "75/112"
+    },
+    {
+      "name": "Ponyta",
+      "set": "EX FireRed & LeafGreen",
+      "img": "https://den-cards.pokellector.com/57/Ponyta.RG.76.png",
+      "rarity": "Common",
+      "cardNum": "76/112"
+    },
+    {
+      "name": "Rattata",
+      "set": "EX FireRed & LeafGreen",
+      "img": "https://den-cards.pokellector.com/57/Rattata.RG.77.png",
+      "rarity": "Common",
+      "cardNum": "77/112"
+    },
+    {
+      "name": "Seel",
+      "set": "EX FireRed & LeafGreen",
+      "img": "https://den-cards.pokellector.com/57/Seel.RG.78.png",
+      "rarity": "Common",
+      "cardNum": "78/112"
+    },
+    {
+      "name": "Shellder",
+      "set": "EX FireRed & LeafGreen",
+      "img": "https://den-cards.pokellector.com/57/Shellder.RG.79.png",
+      "rarity": "Common",
+      "cardNum": "79/112"
+    },
+    {
+      "name": "Slowpoke",
+      "set": "EX FireRed & LeafGreen",
+      "img": "https://den-cards.pokellector.com/57/Slowpoke.RG.80.png",
+      "rarity": "Common",
+      "cardNum": "80/112"
+    },
+    {
+      "name": "Spearow",
+      "set": "EX FireRed & LeafGreen",
+      "img": "https://den-cards.pokellector.com/57/Spearow.RG.81.png",
+      "rarity": "Common",
+      "cardNum": "81/112"
+    },
+    {
+      "name": "Squirtle",
+      "set": "EX FireRed & LeafGreen",
+      "img": "https://den-cards.pokellector.com/57/Squirtle.RG.82.png",
+      "rarity": "Common",
+      "cardNum": "82/112"
+    },
+    {
+      "name": "Squirtle",
+      "set": "EX FireRed & LeafGreen",
+      "img": "https://den-cards.pokellector.com/57/Squirtle.RG.83.png",
+      "rarity": "Common",
+      "cardNum": "83/112"
+    },
+    {
+      "name": "Venonat",
+      "set": "EX FireRed & LeafGreen",
+      "img": "https://den-cards.pokellector.com/57/Venonat.RG.84.png",
+      "rarity": "Common",
+      "cardNum": "84/112"
+    },
+    {
+      "name": "Voltorb",
+      "set": "EX FireRed & LeafGreen",
+      "img": "https://den-cards.pokellector.com/57/Voltorb.RG.85.png",
+      "rarity": "Common",
+      "cardNum": "85/112"
+    },
+    {
+      "name": "Weedle",
+      "set": "EX FireRed & LeafGreen",
+      "img": "https://den-cards.pokellector.com/57/Weedle.RG.86.png",
+      "rarity": "Common",
+      "cardNum": "86/112"
+    },
+    {
+      "name": "Bill's Maintenance",
+      "set": "EX FireRed & LeafGreen",
+      "img": "https://den-cards.pokellector.com/57/Bills-Maintenance.RG.87.png",
+      "rarity": "Uncommon",
+      "cardNum": "87/112"
+    },
+    {
+      "name": "Celio's Network",
+      "set": "EX FireRed & LeafGreen",
+      "img": "https://den-cards.pokellector.com/57/Celios-Network.RG.88.5165.png",
+      "rarity": "Uncommon",
+      "cardNum": "88/112"
+    },
+    {
+      "name": "Energy Removal 2",
+      "set": "EX FireRed & LeafGreen",
+      "img": "https://den-cards.pokellector.com/57/Energy-Removal-2.RG.89.png",
+      "rarity": "Uncommon",
+      "cardNum": "89/112"
+    },
+    {
+      "name": "Energy Switch",
+      "set": "EX FireRed & LeafGreen",
+      "img": "https://den-cards.pokellector.com/57/Energy-Switch.RG.90.png",
+      "rarity": "Uncommon",
+      "cardNum": "90/112"
+    },
+    {
+      "name": "Exp. All",
+      "set": "EX FireRed & LeafGreen",
+      "img": "https://den-cards.pokellector.com/57/Exp-All.RG.91.png",
+      "rarity": "Uncommon",
+      "cardNum": "91/112"
+    },
+    {
+      "name": "Great Ball",
+      "set": "EX FireRed & LeafGreen",
+      "img": "https://den-cards.pokellector.com/57/Great-Ball.RG.92.png",
+      "rarity": "Uncommon",
+      "cardNum": "92/112"
+    },
+    {
+      "name": "Life Herb",
+      "set": "EX FireRed & LeafGreen",
+      "img": "https://den-cards.pokellector.com/57/Life-Herb.RG.93.png",
+      "rarity": "Uncommon",
+      "cardNum": "93/112"
+    },
+    {
+      "name": "Mt. Moon",
+      "set": "EX FireRed & LeafGreen",
+      "img": "https://den-cards.pokellector.com/57/Mt-Moon.RG.94.png",
+      "rarity": "Uncommon",
+      "cardNum": "94/112"
+    },
+    {
+      "name": "Poke Ball",
+      "set": "EX FireRed & LeafGreen",
+      "img": "https://den-cards.pokellector.com/57/Poke-Ball.RG.95.png",
+      "rarity": "Uncommon",
+      "cardNum": "95/112"
+    },
+    {
+      "name": "PokeDex Handy 909",
+      "set": "EX FireRed & LeafGreen",
+      "img": "https://den-cards.pokellector.com/57/PokeDex-Handy-909.RG.96.png",
+      "rarity": "Uncommon",
+      "cardNum": "96/112"
+    },
+    {
+      "name": "Pokemon Reversal",
+      "set": "EX FireRed & LeafGreen",
+      "img": "https://den-cards.pokellector.com/57/Pokemon-Reversal.RG.97.png",
+      "rarity": "Uncommon",
+      "cardNum": "97/112"
+    },
+    {
+      "name": "Prof. Oak's Research",
+      "set": "EX FireRed & LeafGreen",
+      "img": "https://den-cards.pokellector.com/57/Prof-Oaks-Research.RG.98.png",
+      "rarity": "Uncommon",
+      "cardNum": "98/112"
+    },
+    {
+      "name": "Super Scoop Up",
+      "set": "EX FireRed & LeafGreen",
+      "img": "https://den-cards.pokellector.com/57/Super-Scoop-Up.RG.99.png",
+      "rarity": "Uncommon",
+      "cardNum": "99/112"
+    },
+    {
+      "name": "VS Seeker",
+      "set": "EX FireRed & LeafGreen",
+      "img": "https://den-cards.pokellector.com/57/VS-Seeker.RG.100.png",
+      "rarity": "Uncommon",
+      "cardNum": "100/112"
+    },
+    {
+      "name": "Potion",
+      "set": "EX FireRed & LeafGreen",
+      "img": "https://den-cards.pokellector.com/57/Potion.RG.101.png",
+      "rarity": "Common",
+      "cardNum": "101/112"
+    },
+    {
+      "name": "Switch",
+      "set": "EX FireRed & LeafGreen",
+      "img": "https://den-cards.pokellector.com/57/Switch.RG.102.png",
+      "rarity": "Common",
+      "cardNum": "102/112"
+    },
+    {
+      "name": "Multi Energy",
+      "set": "EX FireRed & LeafGreen",
+      "img": "https://den-cards.pokellector.com/57/Multi-Energy.RG.103.png",
+      "rarity": "Rare",
+      "cardNum": "103/112"
+    },
+    {
+      "name": "Blastoise ex",
+      "set": "EX FireRed & LeafGreen",
+      "img": "https://den-cards.pokellector.com/57/Blastoise-ex.RG.104.png",
+      "rarity": "Rare",
+      "cardNum": "104/112"
+    },
+    {
+      "name": "Charizard ex",
+      "set": "EX FireRed & LeafGreen",
+      "img": "https://den-cards.pokellector.com/57/Charizard-ex.RG.105.png",
+      "rarity": "Rare",
+      "cardNum": "105/112"
+    },
+    {
+      "name": "Clefable ex",
+      "set": "EX FireRed & LeafGreen",
+      "img": "https://den-cards.pokellector.com/57/Clefable-ex.RG.106.png",
+      "rarity": "Rare",
+      "cardNum": "106/112"
+    },
+    {
+      "name": "Electrode ex",
+      "set": "EX FireRed & LeafGreen",
+      "img": "https://den-cards.pokellector.com/57/Electrode-ex.RG.107.png",
+      "rarity": "Rare",
+      "cardNum": "107/112"
+    },
+    {
+      "name": "Gengar ex",
+      "set": "EX FireRed & LeafGreen",
+      "img": "https://den-cards.pokellector.com/57/Gengar-ex.RG.108.png",
+      "rarity": "Rare",
+      "cardNum": "108/112"
+    },
+    {
+      "name": "Gyarados ex",
+      "set": "EX FireRed & LeafGreen",
+      "img": "https://den-cards.pokellector.com/57/Gyarados-ex.RG.109.png",
+      "rarity": "Rare",
+      "cardNum": "109/112"
+    },
+    {
+      "name": "Mr. Mime ex",
+      "set": "EX FireRed & LeafGreen",
+      "img": "https://den-cards.pokellector.com/57/Mr-Mime-ex.RG.110.png",
+      "rarity": "Rare",
+      "cardNum": "110/112"
+    },
+    {
+      "name": "Mr. Mime ex",
+      "set": "EX FireRed & LeafGreen",
+      "img": "https://den-cards.pokellector.com/57/Mr-Mime-ex.RG.111.png",
+      "rarity": "Rare",
+      "cardNum": "111/112"
+    },
+    {
+      "name": "Venusaur ex",
+      "set": "EX FireRed & LeafGreen",
+      "img": "https://den-cards.pokellector.com/57/Venusaur-ex.RG.112.png",
+      "rarity": "Rare",
+      "cardNum": "112/112"
+    },
+    {
+      "name": "Charmander",
+      "set": "EX FireRed & LeafGreen",
+      "img": "https://den-cards.pokellector.com/57/Charmander.RG.113.png",
+      "rarity": "Secret Rare",
+      "cardNum": "113/112"
+    },
+    {
+      "name": "Articuno ex",
+      "set": "EX FireRed & LeafGreen",
+      "img": "https://den-cards.pokellector.com/57/Articuno-ex.RG.114.png",
+      "rarity": "Rare",
+      "cardNum": "114/112"
+    },
+    {
+      "name": "Moltres ex",
+      "set": "EX FireRed & LeafGreen",
+      "img": "https://den-cards.pokellector.com/57/Moltres-ex.RG.115.png",
+      "rarity": "Rare",
+      "cardNum": "115/112"
+    },
+    {
+      "name": "Zapdos ex",
+      "set": "EX FireRed & LeafGreen",
+      "img": "https://den-cards.pokellector.com/57/Zapdos-ex.RG.116.png",
+      "rarity": "Rare",
+      "cardNum": "116/112"
+    }
+  ]
+}

@@ -1,0 +1,908 @@
+{
+  "setName": "Fusion ARTS",
+  "cards": [
+    {
+      "name": "Caterpie",
+      "set": "Fusion ARTS",
+      "img": "https://den-cards.pokellector.com/326/Caterpie.S8.1.40388.png",
+      "rarity": "Common",
+      "cardNum": "1/100"
+    },
+    {
+      "name": "Metapod",
+      "set": "Fusion ARTS",
+      "img": "https://den-cards.pokellector.com/326/Metapod.S8.2.40387.png",
+      "rarity": "Common",
+      "cardNum": "2/100"
+    },
+    {
+      "name": "Butterfree",
+      "set": "Fusion ARTS",
+      "img": "https://den-cards.pokellector.com/326/Butterfree.S8.3.40386.png",
+      "rarity": "Rare",
+      "cardNum": "3/100"
+    },
+    {
+      "name": "Shroomish",
+      "set": "Fusion ARTS",
+      "img": "https://den-cards.pokellector.com/326/Shroomish.S8.4.40423.png",
+      "rarity": "Common",
+      "cardNum": "4/100"
+    },
+    {
+      "name": "Breloom",
+      "set": "Fusion ARTS",
+      "img": "https://den-cards.pokellector.com/326/Breloom.S8.5.40424.png",
+      "rarity": "Common",
+      "cardNum": "5/100"
+    },
+    {
+      "name": "Maractus",
+      "set": "Fusion ARTS",
+      "img": "https://den-cards.pokellector.com/326/Maractus.S8.6.40349.png",
+      "rarity": "Uncommon",
+      "cardNum": "6/100"
+    },
+    {
+      "name": "Shelmet",
+      "set": "Fusion ARTS",
+      "img": "https://den-cards.pokellector.com/326/Shelmet.S8.7.40425.png",
+      "rarity": "Common",
+      "cardNum": "7/100"
+    },
+    {
+      "name": "Accelgor",
+      "set": "Fusion ARTS",
+      "img": "https://den-cards.pokellector.com/326/Accelgor.S8.8.40426.png",
+      "rarity": "Uncommon",
+      "cardNum": "8/100"
+    },
+    {
+      "name": "Virizion",
+      "set": "Fusion ARTS",
+      "img": "https://den-cards.pokellector.com/326/Virizion.S8.9.40427.png",
+      "rarity": "Uncommon",
+      "cardNum": "9/100"
+    },
+    {
+      "name": "Grubbin",
+      "set": "Fusion ARTS",
+      "img": "https://den-cards.pokellector.com/326/Grubbin.S8.10.40428.png",
+      "rarity": "Common",
+      "cardNum": "10/100"
+    },
+    {
+      "name": "Tsareena V",
+      "set": "Fusion ARTS",
+      "img": "https://den-cards.pokellector.com/326/Tsareena-V.S8.11.40362.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "11/100"
+    },
+    {
+      "name": "Growlithe",
+      "set": "Fusion ARTS",
+      "img": "https://den-cards.pokellector.com/326/Growlithe.S8.12.40429.png",
+      "rarity": "Common",
+      "cardNum": "12/100"
+    },
+    {
+      "name": "Arcanine",
+      "set": "Fusion ARTS",
+      "img": "https://den-cards.pokellector.com/326/Arcanine.S8.13.40430.png",
+      "rarity": "Uncommon",
+      "cardNum": "13/100"
+    },
+    {
+      "name": "Chandelure V",
+      "set": "Fusion ARTS",
+      "img": "https://den-cards.pokellector.com/326/Chandelure-V.S8.14.40342.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "14/100"
+    },
+    {
+      "name": "Chandelure VMAX",
+      "set": "Fusion ARTS",
+      "img": "https://den-cards.pokellector.com/326/Chandelure-VMAX.S8.15.40343.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "15/100"
+    },
+    {
+      "name": "Heatmor",
+      "set": "Fusion ARTS",
+      "img": "https://den-cards.pokellector.com/326/Heatmor.S8.16.40431.png",
+      "rarity": "Common",
+      "cardNum": "16/100"
+    },
+    {
+      "name": "Oricorio",
+      "set": "Fusion ARTS",
+      "img": "https://den-cards.pokellector.com/326/Oricorio.S8.17.39849.png",
+      "rarity": "Uncommon",
+      "cardNum": "17/100"
+    },
+    {
+      "name": "Staryu",
+      "set": "Fusion ARTS",
+      "img": "https://den-cards.pokellector.com/326/Staryu.S8.18.40348.png",
+      "rarity": "Common",
+      "cardNum": "18/100"
+    },
+    {
+      "name": "Starmie",
+      "set": "Fusion ARTS",
+      "img": "https://den-cards.pokellector.com/326/Starmie.S8.19.40347.png",
+      "rarity": "Rare",
+      "cardNum": "19/100"
+    },
+    {
+      "name": "Totodile",
+      "set": "Fusion ARTS",
+      "img": "https://den-cards.pokellector.com/326/Totodile.S8.20.40432.png",
+      "rarity": "Common",
+      "cardNum": "20/100"
+    },
+    {
+      "name": "Croconaw",
+      "set": "Fusion ARTS",
+      "img": "https://den-cards.pokellector.com/326/Croconaw.S8.21.40433.png",
+      "rarity": "Uncommon",
+      "cardNum": "21/100"
+    },
+    {
+      "name": "Feraligatr",
+      "set": "Fusion ARTS",
+      "img": "https://den-cards.pokellector.com/326/Feraligatr.S8.22.40360.png",
+      "rarity": "Rare",
+      "cardNum": "22/100"
+    },
+    {
+      "name": "Clamperl",
+      "set": "Fusion ARTS",
+      "img": "https://den-cards.pokellector.com/326/Clamperl.S8.23.39846.png",
+      "rarity": "Common",
+      "cardNum": "23/100"
+    },
+    {
+      "name": "Huntail",
+      "set": "Fusion ARTS",
+      "img": "https://den-cards.pokellector.com/326/Huntail.S8.24.39848.png",
+      "rarity": "Uncommon",
+      "cardNum": "24/100"
+    },
+    {
+      "name": "Gorebyss",
+      "set": "Fusion ARTS",
+      "img": "https://den-cards.pokellector.com/326/Gorebyss.S8.25.39847.png",
+      "rarity": "Uncommon",
+      "cardNum": "25/100"
+    },
+    {
+      "name": "Crabominable V",
+      "set": "Fusion ARTS",
+      "img": "https://den-cards.pokellector.com/326/Crabominable-V.S8.26.40434.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "26/100"
+    },
+    {
+      "name": "Pyukumuku",
+      "set": "Fusion ARTS",
+      "img": "https://den-cards.pokellector.com/326/Pyukumuku.S8.27.40435.png",
+      "rarity": "Common",
+      "cardNum": "27/100"
+    },
+    {
+      "name": "Snom",
+      "set": "Fusion ARTS",
+      "img": "https://den-cards.pokellector.com/326/Snom.S8.28.40436.png",
+      "rarity": "Common",
+      "cardNum": "28/100"
+    },
+    {
+      "name": "Frosmoth",
+      "set": "Fusion ARTS",
+      "img": "https://den-cards.pokellector.com/326/Frosmoth.S8.29.40437.png",
+      "rarity": "Uncommon",
+      "cardNum": "29/100"
+    },
+    {
+      "name": "Helioptile",
+      "set": "Fusion ARTS",
+      "img": "https://den-cards.pokellector.com/326/Helioptile.S8.30.40438.png",
+      "rarity": "Common",
+      "cardNum": "30/100"
+    },
+    {
+      "name": "Heliolisk",
+      "set": "Fusion ARTS",
+      "img": "https://den-cards.pokellector.com/326/Heliolisk.S8.31.40439.png",
+      "rarity": "Common",
+      "cardNum": "31/100"
+    },
+    {
+      "name": "Charjabug",
+      "set": "Fusion ARTS",
+      "img": "https://den-cards.pokellector.com/326/Charjabug.S8.32.40440.png",
+      "rarity": "Common",
+      "cardNum": "32/100"
+    },
+    {
+      "name": "Vikavolt",
+      "set": "Fusion ARTS",
+      "img": "https://den-cards.pokellector.com/326/Vikavolt.S8.33.40441.png",
+      "rarity": "Uncommon",
+      "cardNum": "33/100"
+    },
+    {
+      "name": "Boltund V",
+      "set": "Fusion ARTS",
+      "img": "https://den-cards.pokellector.com/326/Boltund-V.S8.34.40366.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "34/100"
+    },
+    {
+      "name": "Boltund VMAX",
+      "set": "Fusion ARTS",
+      "img": "https://den-cards.pokellector.com/326/Boltund-VMAX.S8.35.40442.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "35/100"
+    },
+    {
+      "name": "Toxel",
+      "set": "Fusion ARTS",
+      "img": "https://den-cards.pokellector.com/326/Toxel.S8.36.39850.png",
+      "rarity": "Common",
+      "cardNum": "36/100"
+    },
+    {
+      "name": "Toxtricity",
+      "set": "Fusion ARTS",
+      "img": "https://den-cards.pokellector.com/326/Toxtricity.S8.37.39851.png",
+      "rarity": "Rare",
+      "cardNum": "37/100"
+    },
+    {
+      "name": "Jynx",
+      "set": "Fusion ARTS",
+      "img": "https://den-cards.pokellector.com/326/Jynx.S8.38.40443.png",
+      "rarity": "Common",
+      "cardNum": "38/100"
+    },
+    {
+      "name": "Mew V",
+      "set": "Fusion ARTS",
+      "img": "https://den-cards.pokellector.com/326/Mew-V.S8.39.39839.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "39/100"
+    },
+    {
+      "name": "Mew VMAX",
+      "set": "Fusion ARTS",
+      "img": "https://den-cards.pokellector.com/326/Mew-VMAX.S8.40.39838.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "40/100"
+    },
+    {
+      "name": "Snubbull",
+      "set": "Fusion ARTS",
+      "img": "https://den-cards.pokellector.com/326/Snubbull.S8.41.40368.png",
+      "rarity": "Common",
+      "cardNum": "41/100"
+    },
+    {
+      "name": "Granbull",
+      "set": "Fusion ARTS",
+      "img": "https://den-cards.pokellector.com/326/Granbull.S8.42.40367.png",
+      "rarity": "Uncommon",
+      "cardNum": "42/100"
+    },
+    {
+      "name": "Galarian Corsola",
+      "set": "Fusion ARTS",
+      "img": "https://den-cards.pokellector.com/326/Galarian-Corsola.S8.43.40444.png",
+      "rarity": "Common",
+      "cardNum": "43/100"
+    },
+    {
+      "name": "Galarian Cursola",
+      "set": "Fusion ARTS",
+      "img": "https://den-cards.pokellector.com/326/Galarian-Cursola.S8.44.40445.png",
+      "rarity": "Uncommon",
+      "cardNum": "44/100"
+    },
+    {
+      "name": "Deoxys",
+      "set": "Fusion ARTS",
+      "img": "https://den-cards.pokellector.com/326/Deoxys.S8.45.40344.png",
+      "rarity": "Rare",
+      "cardNum": "45/100"
+    },
+    {
+      "name": "Munna",
+      "set": "Fusion ARTS",
+      "img": "https://den-cards.pokellector.com/326/Munna.S8.46.40446.png",
+      "rarity": "Common",
+      "cardNum": "46/100"
+    },
+    {
+      "name": "Musharna",
+      "set": "Fusion ARTS",
+      "img": "https://den-cards.pokellector.com/326/Musharna.S8.47.40447.png",
+      "rarity": "Common",
+      "cardNum": "47/100"
+    },
+    {
+      "name": "Meloetta",
+      "set": "Fusion ARTS",
+      "img": "https://den-cards.pokellector.com/326/Meloetta.S8.48.39842.png",
+      "rarity": "Uncommon",
+      "cardNum": "48/100"
+    },
+    {
+      "name": "Dreepy",
+      "set": "Fusion ARTS",
+      "img": "https://den-cards.pokellector.com/326/Dreepy.S8.49.39843.png",
+      "rarity": "Common",
+      "cardNum": "49/100"
+    },
+    {
+      "name": "Drakloak",
+      "set": "Fusion ARTS",
+      "img": "https://den-cards.pokellector.com/326/Drakloak.S8.50.39844.png",
+      "rarity": "Uncommon",
+      "cardNum": "50/100"
+    },
+    {
+      "name": "Dragapult",
+      "set": "Fusion ARTS",
+      "img": "https://den-cards.pokellector.com/326/Dragapult.S8.51.39845.png",
+      "rarity": "Rare",
+      "cardNum": "51/100"
+    },
+    {
+      "name": "Geodude",
+      "set": "Fusion ARTS",
+      "img": "https://den-cards.pokellector.com/326/Geodude.S8.52.40448.png",
+      "rarity": "Common",
+      "cardNum": "52/100"
+    },
+    {
+      "name": "Graveler",
+      "set": "Fusion ARTS",
+      "img": "https://den-cards.pokellector.com/326/Graveler.S8.53.40449.png",
+      "rarity": "Common",
+      "cardNum": "53/100"
+    },
+    {
+      "name": "Golem",
+      "set": "Fusion ARTS",
+      "img": "https://den-cards.pokellector.com/326/Golem.S8.54.40450.png",
+      "rarity": "Uncommon",
+      "cardNum": "54/100"
+    },
+    {
+      "name": "Onix",
+      "set": "Fusion ARTS",
+      "img": "https://den-cards.pokellector.com/326/Onix.S8.55.40451.png",
+      "rarity": "Common",
+      "cardNum": "55/100"
+    },
+    {
+      "name": "Steelix",
+      "set": "Fusion ARTS",
+      "img": "https://den-cards.pokellector.com/326/Steelix.S8.56.40452.png",
+      "rarity": "Rare",
+      "cardNum": "56/100"
+    },
+    {
+      "name": "Drilbur",
+      "set": "Fusion ARTS",
+      "img": "https://den-cards.pokellector.com/326/Drilbur.S8.57.40453.png",
+      "rarity": "Common",
+      "cardNum": "57/100"
+    },
+    {
+      "name": "Falinks",
+      "set": "Fusion ARTS",
+      "img": "https://den-cards.pokellector.com/326/Falinks.S8.58.40363.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "58/100"
+    },
+    {
+      "name": "Galarian Zigzagoon",
+      "set": "Fusion ARTS",
+      "img": "https://den-cards.pokellector.com/326/Galarian-Zigzagoon.S8.59.40454.png",
+      "rarity": "Common",
+      "cardNum": "59/100"
+    },
+    {
+      "name": "Galarian Linoone",
+      "set": "Fusion ARTS",
+      "img": "https://den-cards.pokellector.com/326/Galarian-Linoone.S8.60.40455.png",
+      "rarity": "Uncommon",
+      "cardNum": "60/100"
+    },
+    {
+      "name": "Galarian Obstagoon",
+      "set": "Fusion ARTS",
+      "img": "https://den-cards.pokellector.com/326/Galarian-Obstagoon.S8.61.40456.png",
+      "rarity": "Rare",
+      "cardNum": "61/100"
+    },
+    {
+      "name": "Trubbish",
+      "set": "Fusion ARTS",
+      "img": "https://den-cards.pokellector.com/326/Trubbish.S8.62.40457.png",
+      "rarity": "Common",
+      "cardNum": "62/100"
+    },
+    {
+      "name": "Garbodor",
+      "set": "Fusion ARTS",
+      "img": "https://den-cards.pokellector.com/326/Garbodor.S8.63.40458.png",
+      "rarity": "Uncommon",
+      "cardNum": "63/100"
+    },
+    {
+      "name": "Vullaby",
+      "set": "Fusion ARTS",
+      "img": "https://den-cards.pokellector.com/326/Vullaby.S8.64.40459.png",
+      "rarity": "Common",
+      "cardNum": "64/100"
+    },
+    {
+      "name": "Mandibuzz",
+      "set": "Fusion ARTS",
+      "img": "https://den-cards.pokellector.com/326/Mandibuzz.S8.65.40460.png",
+      "rarity": "Common",
+      "cardNum": "65/100"
+    },
+    {
+      "name": "Hoopa V",
+      "set": "Fusion ARTS",
+      "img": "https://den-cards.pokellector.com/326/Hoopa-V.S8.66.39840.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "66/100"
+    },
+    {
+      "name": "Excadrill",
+      "set": "Fusion ARTS",
+      "img": "https://den-cards.pokellector.com/326/Excadrill.S8.67.40461.png",
+      "rarity": "Common",
+      "cardNum": "67/100"
+    },
+    {
+      "name": "Durant",
+      "set": "Fusion ARTS",
+      "img": "https://den-cards.pokellector.com/326/Durant.S8.68.40462.png",
+      "rarity": "Common",
+      "cardNum": "68/100"
+    },
+    {
+      "name": "Genesect V",
+      "set": "Fusion ARTS",
+      "img": "https://den-cards.pokellector.com/326/Genesect-V.S8.69.39841.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "69/100"
+    },
+    {
+      "name": "Togedemaru",
+      "set": "Fusion ARTS",
+      "img": "https://den-cards.pokellector.com/326/Togedemaru.S8.70.40463.png",
+      "rarity": "Common",
+      "cardNum": "70/100"
+    },
+    {
+      "name": "Meltan",
+      "set": "Fusion ARTS",
+      "img": "https://den-cards.pokellector.com/326/Meltan.S8.71.40346.png",
+      "rarity": "Common",
+      "cardNum": "71/100"
+    },
+    {
+      "name": "Melmetal",
+      "set": "Fusion ARTS",
+      "img": "https://den-cards.pokellector.com/326/Melmetal.S8.72.40345.png",
+      "rarity": "Rare",
+      "cardNum": "72/100"
+    },
+    {
+      "name": "Corviknight",
+      "set": "Fusion ARTS",
+      "img": "https://den-cards.pokellector.com/326/Corviknight.S8.73.40464.png",
+      "rarity": "Uncommon",
+      "cardNum": "73/100"
+    },
+    {
+      "name": "Latias",
+      "set": "Fusion ARTS",
+      "img": "https://den-cards.pokellector.com/326/Latias.S8.74.40359.png",
+      "rarity": "Rare",
+      "cardNum": "74/100"
+    },
+    {
+      "name": "Latios",
+      "set": "Fusion ARTS",
+      "img": "https://den-cards.pokellector.com/326/Latios.S8.75.40358.png",
+      "rarity": "Rare",
+      "cardNum": "75/100"
+    },
+    {
+      "name": "Goomy",
+      "set": "Fusion ARTS",
+      "img": "https://den-cards.pokellector.com/326/Goomy.S8.76.40354.png",
+      "rarity": "Common",
+      "cardNum": "76/100"
+    },
+    {
+      "name": "Sligoo",
+      "set": "Fusion ARTS",
+      "img": "https://den-cards.pokellector.com/326/Sligoo.S8.77.40355.png",
+      "rarity": "Common",
+      "cardNum": "77/100"
+    },
+    {
+      "name": "Goodra",
+      "set": "Fusion ARTS",
+      "img": "https://den-cards.pokellector.com/326/Goodra.S8.78.40356.png",
+      "rarity": "Uncommon",
+      "cardNum": "78/100"
+    },
+    {
+      "name": "Dunsparce",
+      "set": "Fusion ARTS",
+      "img": "https://den-cards.pokellector.com/326/Dunsparce.S8.79.40465.png",
+      "rarity": "Uncommon",
+      "cardNum": "79/100"
+    },
+    {
+      "name": "Smeargle",
+      "set": "Fusion ARTS",
+      "img": "https://den-cards.pokellector.com/326/Smeargle.S8.80.39852.png",
+      "rarity": "Common",
+      "cardNum": "80/100"
+    },
+    {
+      "name": "Skitty",
+      "set": "Fusion ARTS",
+      "img": "https://den-cards.pokellector.com/326/Skitty.S8.81.40466.png",
+      "rarity": "Common",
+      "cardNum": "81/100"
+    },
+    {
+      "name": "Delcatty",
+      "set": "Fusion ARTS",
+      "img": "https://den-cards.pokellector.com/326/Delcatty.S8.82.40467.png",
+      "rarity": "Common",
+      "cardNum": "82/100"
+    },
+    {
+      "name": "Bunnelby",
+      "set": "Fusion ARTS",
+      "img": "https://den-cards.pokellector.com/326/Bunnelby.S8.83.40468.png",
+      "rarity": "Common",
+      "cardNum": "83/100"
+    },
+    {
+      "name": "Diggersby",
+      "set": "Fusion ARTS",
+      "img": "https://den-cards.pokellector.com/326/Diggersby.S8.84.40469.png",
+      "rarity": "Common",
+      "cardNum": "84/100"
+    },
+    {
+      "name": "Greedent V",
+      "set": "Fusion ARTS",
+      "img": "https://den-cards.pokellector.com/326/Greedent-V.S8.85.40470.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "85/100"
+    },
+    {
+      "name": "Greedent VMAX",
+      "set": "Fusion ARTS",
+      "img": "https://den-cards.pokellector.com/326/Greedent-VMAX.S8.86.40471.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "86/100"
+    },
+    {
+      "name": "Rookidee",
+      "set": "Fusion ARTS",
+      "img": "https://den-cards.pokellector.com/326/Rookidee.S8.87.40472.png",
+      "rarity": "Common",
+      "cardNum": "87/100"
+    },
+    {
+      "name": "Corvisquire",
+      "set": "Fusion ARTS",
+      "img": "https://den-cards.pokellector.com/326/Corvisquire.S8.88.40473.png",
+      "rarity": "Common",
+      "cardNum": "88/100"
+    },
+    {
+      "name": "Crossceiver",
+      "set": "Fusion ARTS",
+      "img": "https://den-cards.pokellector.com/326/Crossceiver.S8.89.40474.png",
+      "rarity": "Uncommon",
+      "cardNum": "89/100"
+    },
+    {
+      "name": "Cross Switcher",
+      "set": "Fusion ARTS",
+      "img": "https://den-cards.pokellector.com/326/Cross-Switcher.S8.90.40475.png",
+      "rarity": "Uncommon",
+      "cardNum": "90/100"
+    },
+    {
+      "name": "Battle VIP Pass",
+      "set": "Fusion ARTS",
+      "img": "https://den-cards.pokellector.com/326/Battle-VIP-Pass.S8.91.40476.png",
+      "rarity": "Uncommon",
+      "cardNum": "91/100"
+    },
+    {
+      "name": "Power Tablets",
+      "set": "Fusion ARTS",
+      "img": "https://den-cards.pokellector.com/326/Power-Tablets.S8.92.39855.png",
+      "rarity": "Uncommon",
+      "cardNum": "92/100"
+    },
+    {
+      "name": "Sponge Gloves",
+      "set": "Fusion ARTS",
+      "img": "https://den-cards.pokellector.com/326/Sponge-Gloves.S8.93.40477.png",
+      "rarity": "Uncommon",
+      "cardNum": "93/100"
+    },
+    {
+      "name": "Carry-on Carillon",
+      "set": "Fusion ARTS",
+      "img": "https://den-cards.pokellector.com/326/Carry-on-Carillon.S8.94.40369.png",
+      "rarity": "Uncommon",
+      "cardNum": "94/100"
+    },
+    {
+      "name": "Sidney",
+      "set": "Fusion ARTS",
+      "img": "https://den-cards.pokellector.com/326/Sidney.S8.95.40478.png",
+      "rarity": "Uncommon",
+      "cardNum": "95/100"
+    },
+    {
+      "name": "Elesa's Radiance",
+      "set": "Fusion ARTS",
+      "img": "https://den-cards.pokellector.com/326/Elesas-Radiance.S8.96.39853.png",
+      "rarity": "Uncommon",
+      "cardNum": "96/100"
+    },
+    {
+      "name": "Dancer",
+      "set": "Fusion ARTS",
+      "img": "https://den-cards.pokellector.com/326/Dancer.S8.97.40479.png",
+      "rarity": "Uncommon",
+      "cardNum": "97/100"
+    },
+    {
+      "name": "Chili, Cilan & Cress",
+      "set": "Fusion ARTS",
+      "img": "https://den-cards.pokellector.com/326/Chili-Cilan-Cress.S8.98.39854.png",
+      "rarity": "Uncommon",
+      "cardNum": "98/100"
+    },
+    {
+      "name": "Skater's Park",
+      "set": "Fusion ARTS",
+      "img": "https://den-cards.pokellector.com/326/Skaters-Park.S8.99.40480.png",
+      "rarity": "Uncommon",
+      "cardNum": "99/100"
+    },
+    {
+      "name": "Fusion Energy",
+      "set": "Fusion ARTS",
+      "img": "https://den-cards.pokellector.com/326/Fusion-Energy.S8.100.39856.png",
+      "rarity": "Uncommon",
+      "cardNum": "100/100"
+    },
+    {
+      "name": "Tsareena V",
+      "set": "Fusion ARTS",
+      "img": "https://den-cards.pokellector.com/326/Tsareena-V.S8.101.40481.png",
+      "rarity": "Secret Rare",
+      "cardNum": "101/100"
+    },
+    {
+      "name": "Chandelure V",
+      "set": "Fusion ARTS",
+      "img": "https://den-cards.pokellector.com/326/Chandelure-V.S8.102.40482.png",
+      "rarity": "Secret Rare",
+      "cardNum": "102/100"
+    },
+    {
+      "name": "Crabominable V",
+      "set": "Fusion ARTS",
+      "img": "https://den-cards.pokellector.com/326/Crabominable-V.S8.103.40483.png",
+      "rarity": "Secret Rare",
+      "cardNum": "103/100"
+    },
+    {
+      "name": "Boltund V",
+      "set": "Fusion ARTS",
+      "img": "https://den-cards.pokellector.com/326/Boltund-V.S8.104.40484.png",
+      "rarity": "Secret Rare",
+      "cardNum": "104/100"
+    },
+    {
+      "name": "Mew V",
+      "set": "Fusion ARTS",
+      "img": "https://den-cards.pokellector.com/326/Mew-V.S8.105.40485.png",
+      "rarity": "Secret Rare",
+      "cardNum": "105/100"
+    },
+    {
+      "name": "Mew V",
+      "set": "Fusion ARTS",
+      "img": "https://den-cards.pokellector.com/326/Mew-V.S8.106.40486.png",
+      "rarity": "Secret Rare",
+      "cardNum": "106/100"
+    },
+    {
+      "name": "Hoopa V",
+      "set": "Fusion ARTS",
+      "img": "https://den-cards.pokellector.com/326/Hoopa-V.S8.107.40487.png",
+      "rarity": "Secret Rare",
+      "cardNum": "107/100"
+    },
+    {
+      "name": "Genesect V",
+      "set": "Fusion ARTS",
+      "img": "https://den-cards.pokellector.com/326/Genesect-V.S8.108.40488.png",
+      "rarity": "Secret Rare",
+      "cardNum": "108/100"
+    },
+    {
+      "name": "Genesect V",
+      "set": "Fusion ARTS",
+      "img": "https://den-cards.pokellector.com/326/Genesect-V.S8.109.40489.png",
+      "rarity": "Secret Rare",
+      "cardNum": "109/100"
+    },
+    {
+      "name": "Greedent V",
+      "set": "Fusion ARTS",
+      "img": "https://den-cards.pokellector.com/326/Greedent-V.S8.110.40490.png",
+      "rarity": "Secret Rare",
+      "cardNum": "110/100"
+    },
+    {
+      "name": "Greedent V",
+      "set": "Fusion ARTS",
+      "img": "https://den-cards.pokellector.com/326/Greedent-V.S8.111.40491.png",
+      "rarity": "Secret Rare",
+      "cardNum": "111/100"
+    },
+    {
+      "name": "Sidney",
+      "set": "Fusion ARTS",
+      "img": "https://den-cards.pokellector.com/326/Sidney.S8.112.40492.png",
+      "rarity": "Secret Rare",
+      "cardNum": "112/100"
+    },
+    {
+      "name": "Elesa's Sparkle",
+      "set": "Fusion ARTS",
+      "img": "https://den-cards.pokellector.com/326/Elesas-Sparkle.S8.113.40493.png",
+      "rarity": "Secret Rare",
+      "cardNum": "113/100"
+    },
+    {
+      "name": "Dancer",
+      "set": "Fusion ARTS",
+      "img": "https://den-cards.pokellector.com/326/Dancer.S8.114.40494.png",
+      "rarity": "Secret Rare",
+      "cardNum": "114/100"
+    },
+    {
+      "name": "Chili & Cilan & Cress",
+      "set": "Fusion ARTS",
+      "img": "https://den-cards.pokellector.com/326/Chili-Cilan-Cress.S8.115.40495.png",
+      "rarity": "Secret Rare",
+      "cardNum": "115/100"
+    },
+    {
+      "name": "Chandelure VMAX",
+      "set": "Fusion ARTS",
+      "img": "https://den-cards.pokellector.com/326/Chandelure-VMAX.S8.116.40496.png",
+      "rarity": "Secret Rare",
+      "cardNum": "116/100"
+    },
+    {
+      "name": "Boltund VMAX",
+      "set": "Fusion ARTS",
+      "img": "https://den-cards.pokellector.com/326/Boltund-VMAX.S8.117.40497.png",
+      "rarity": "Secret Rare",
+      "cardNum": "117/100"
+    },
+    {
+      "name": "Mew VMAX",
+      "set": "Fusion ARTS",
+      "img": "https://den-cards.pokellector.com/326/Mew-VMAX.S8.118.40498.png",
+      "rarity": "Secret Rare",
+      "cardNum": "118/100"
+    },
+    {
+      "name": "Mew VMAX",
+      "set": "Fusion ARTS",
+      "img": "https://den-cards.pokellector.com/326/Mew-VMAX.S8.119.40499.png",
+      "rarity": "Secret Rare",
+      "cardNum": "119/100"
+    },
+    {
+      "name": "Greedent VMAX",
+      "set": "Fusion ARTS",
+      "img": "https://den-cards.pokellector.com/326/Greedent-VMAX.S8.120.40500.png",
+      "rarity": "Secret Rare",
+      "cardNum": "120/100"
+    },
+    {
+      "name": "Sidney",
+      "set": "Fusion ARTS",
+      "img": "https://den-cards.pokellector.com/326/Sidney.S8.121.40501.png",
+      "rarity": "Secret Rare",
+      "cardNum": "121/100"
+    },
+    {
+      "name": "Elesa's Sparkle",
+      "set": "Fusion ARTS",
+      "img": "https://den-cards.pokellector.com/326/Elesas-Sparkle.S8.122.40502.png",
+      "rarity": "Secret Rare",
+      "cardNum": "122/100"
+    },
+    {
+      "name": "Dancer",
+      "set": "Fusion ARTS",
+      "img": "https://den-cards.pokellector.com/326/Dancer.S8.123.40503.png",
+      "rarity": "Secret Rare",
+      "cardNum": "123/100"
+    },
+    {
+      "name": "Chili & Cilan & Cress",
+      "set": "Fusion ARTS",
+      "img": "https://den-cards.pokellector.com/326/Chili-Cilan-Cress.S8.124.40504.png",
+      "rarity": "Secret Rare",
+      "cardNum": "124/100"
+    },
+    {
+      "name": "Flaaffy",
+      "set": "Fusion ARTS",
+      "img": "https://den-cards.pokellector.com/326/Flaaffy.S8.125.40505.png",
+      "rarity": "Secret Rare",
+      "cardNum": "125/100"
+    },
+    {
+      "name": "Power Tablet",
+      "set": "Fusion ARTS",
+      "img": "https://den-cards.pokellector.com/326/Power-Tablet.S8.126.40506.png",
+      "rarity": "Secret Rare",
+      "cardNum": "126/100"
+    },
+    {
+      "name": "Training Court",
+      "set": "Fusion ARTS",
+      "img": "https://den-cards.pokellector.com/326/Training-Court.S8.127.40507.png",
+      "rarity": "Secret Rare",
+      "cardNum": "127/100"
+    },
+    {
+      "name": "Grass Energy",
+      "set": "Fusion ARTS",
+      "img": "https://den-cards.pokellector.com/326/Grass-Energy.S8.128.40508.png",
+      "rarity": "Secret Rare",
+      "cardNum": "128/100"
+    },
+    {
+      "name": "Fire Energy",
+      "set": "Fusion ARTS",
+      "img": "https://den-cards.pokellector.com/326/Fire-Energy.S8.129.40509.png",
+      "rarity": "Secret Rare",
+      "cardNum": "129/100"
+    }
+  ]
+}

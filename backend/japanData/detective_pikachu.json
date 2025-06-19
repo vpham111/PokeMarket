@@ -1,0 +1,180 @@
+{
+  "setName": "Detective Pikachu",
+  "cards": [
+    {
+      "name": "Bulbasaur",
+      "set": "Detective Pikachu",
+      "img": "https://den-cards.pokellector.com/271/Bulbasaur.SMP2.1.28858.png",
+      "rarity": "Common",
+      "cardNum": "1/24"
+    },
+    {
+      "name": "Bulbasaur",
+      "set": "Detective Pikachu",
+      "img": "https://den-cards.pokellector.com/271/Bulbasaur.SMP2.2.28859.png",
+      "rarity": "Common",
+      "cardNum": "2/24"
+    },
+    {
+      "name": "Ludicolo",
+      "set": "Detective Pikachu",
+      "img": "https://den-cards.pokellector.com/271/Ludicolo.SMP2.3.28860.png",
+      "rarity": "Uncommon",
+      "cardNum": "3/24"
+    },
+    {
+      "name": "Morelull",
+      "set": "Detective Pikachu",
+      "img": "https://den-cards.pokellector.com/271/Morelull.SMP2.4.28861.png",
+      "rarity": "Common",
+      "cardNum": "4/24"
+    },
+    {
+      "name": "Charmander",
+      "set": "Detective Pikachu",
+      "img": "https://den-cards.pokellector.com/271/Charmander.SMP2.5.28862.png",
+      "rarity": "Common",
+      "cardNum": "5/24"
+    },
+    {
+      "name": "Charizard",
+      "set": "Detective Pikachu",
+      "img": "https://den-cards.pokellector.com/271/Charizard.SMP2.6.28863.png",
+      "rarity": "Uncommon",
+      "cardNum": "6/24"
+    },
+    {
+      "name": "Charizard GX",
+      "set": "Detective Pikachu",
+      "img": "https://den-cards.pokellector.com/271/Charizard-GX.SMP2.7.27338.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "7/24"
+    },
+    {
+      "name": "Arcanine",
+      "set": "Detective Pikachu",
+      "img": "https://den-cards.pokellector.com/271/Arcanine.SMP2.8.28864.png",
+      "rarity": "Common",
+      "cardNum": "8/24"
+    },
+    {
+      "name": "Psyduck",
+      "set": "Detective Pikachu",
+      "img": "https://den-cards.pokellector.com/271/Psyduck.SMP2.9.28865.png",
+      "rarity": "Common",
+      "cardNum": "9/24"
+    },
+    {
+      "name": "Psyduck",
+      "set": "Detective Pikachu",
+      "img": "https://den-cards.pokellector.com/271/Psyduck.SMP2.10.28866.png",
+      "rarity": "Common",
+      "cardNum": "10/24"
+    },
+    {
+      "name": "Magikarp",
+      "set": "Detective Pikachu",
+      "img": "https://den-cards.pokellector.com/271/Magikarp.SMP2.10.28867.png",
+      "rarity": "Common",
+      "cardNum": "11/24"
+    },
+    {
+      "name": "Greninja",
+      "set": "Detective Pikachu",
+      "img": "https://den-cards.pokellector.com/271/Greninja.SMP2.12.28868.png",
+      "rarity": "Uncommon",
+      "cardNum": "12/24"
+    },
+    {
+      "name": "Greninja GX",
+      "set": "Detective Pikachu",
+      "img": "https://den-cards.pokellector.com/271/Greninja-GX.SMP2.13.27337.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "13/24"
+    },
+    {
+      "name": "Detective Pikachu",
+      "set": "Detective Pikachu",
+      "img": "https://den-cards.pokellector.com/271/Detective-Pikachu.SMP2.14.27340.png",
+      "rarity": "Uncommon",
+      "cardNum": "14/24"
+    },
+    {
+      "name": "Mr Mime",
+      "set": "Detective Pikachu",
+      "img": "https://den-cards.pokellector.com/271/Mr-Mime.SMP2.15.28869.png",
+      "rarity": "Common",
+      "cardNum": "15/24"
+    },
+    {
+      "name": "Mewtwo",
+      "set": "Detective Pikachu",
+      "img": "https://den-cards.pokellector.com/271/Mewtwo.SMP2.16.28870.png",
+      "rarity": "Uncommon",
+      "cardNum": "16/24"
+    },
+    {
+      "name": "Mewtwo GX",
+      "set": "Detective Pikachu",
+      "img": "https://den-cards.pokellector.com/271/Mewtwo-GX.SMP2.77.27339.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "17/24"
+    },
+    {
+      "name": "Machamp",
+      "set": "Detective Pikachu",
+      "img": "https://den-cards.pokellector.com/271/Machamp.SMP2.18.28871.png",
+      "rarity": "Common",
+      "cardNum": "18/24"
+    },
+    {
+      "name": "Jigglypuff",
+      "set": "Detective Pikachu",
+      "img": "https://den-cards.pokellector.com/271/Jigglypuff.SMP2.19.28872.png",
+      "rarity": "Common",
+      "cardNum": "19/24"
+    },
+    {
+      "name": "Snubbull",
+      "set": "Detective Pikachu",
+      "img": "https://den-cards.pokellector.com/271/Snubbull.SMP2.20.28873.png",
+      "rarity": "Common",
+      "cardNum": "20/24"
+    },
+    {
+      "name": "Snubbull",
+      "set": "Detective Pikachu",
+      "img": "https://den-cards.pokellector.com/271/Snubbull.SMP2.21.28874.png",
+      "rarity": "Common",
+      "cardNum": "21/24"
+    },
+    {
+      "name": "Lickitung",
+      "set": "Detective Pikachu",
+      "img": "https://den-cards.pokellector.com/271/Lickitung.SMP2.22.28875.png",
+      "rarity": "Common",
+      "cardNum": "22/24"
+    },
+    {
+      "name": "Ditto",
+      "set": "Detective Pikachu",
+      "img": "https://den-cards.pokellector.com/271/Ditto.SMP2.23.28876.png",
+      "rarity": "Uncommon",
+      "cardNum": "23/24"
+    },
+    {
+      "name": "Slaking",
+      "set": "Detective Pikachu",
+      "img": "https://den-cards.pokellector.com/271/Slaking.SMP2.24.28877.png",
+      "rarity": "Common",
+      "cardNum": "24/24"
+    },
+    {
+      "name": "Detective Yoshida",
+      "set": "Detective Pikachu",
+      "img": "https://den-cards.pokellector.com/271/Detective-Yoshida.SMP2.25.27696.png",
+      "rarity": "Secret Rare",
+      "cardNum": "25/24"
+    }
+  ]
+}

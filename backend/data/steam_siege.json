@@ -1,0 +1,817 @@
+{
+  "setName": "Steam Siege",
+  "cards": [
+    {
+      "name": "Tangela",
+      "set": "Steam Siege",
+      "img": "https://den-cards.pokellector.com/192/Tangela.STS.1.png",
+      "rarity": "Common",
+      "cardNum": "1/114"
+    },
+    {
+      "name": "Tangrowth",
+      "set": "Steam Siege",
+      "img": "https://den-cards.pokellector.com/192/Tangrowth.STS.2.png",
+      "rarity": "Uncommon",
+      "cardNum": "2/114"
+    },
+    {
+      "name": "Hoppip",
+      "set": "Steam Siege",
+      "img": "https://den-cards.pokellector.com/192/Hoppip.STS.3.png",
+      "rarity": "Common",
+      "cardNum": "3/114"
+    },
+    {
+      "name": "Skiploom",
+      "set": "Steam Siege",
+      "img": "https://den-cards.pokellector.com/192/Skiploom.STS.4.png",
+      "rarity": "Uncommon",
+      "cardNum": "4/114"
+    },
+    {
+      "name": "Jumpluff",
+      "set": "Steam Siege",
+      "img": "https://den-cards.pokellector.com/192/Jumpluff.STS.5.png",
+      "rarity": "Rare",
+      "cardNum": "5/114"
+    },
+    {
+      "name": "Yanma",
+      "set": "Steam Siege",
+      "img": "https://den-cards.pokellector.com/192/Yanma.STS.6.png",
+      "rarity": "Common",
+      "cardNum": "6/114"
+    },
+    {
+      "name": "Yanmega",
+      "set": "Steam Siege",
+      "img": "https://den-cards.pokellector.com/192/Yanmega.STS.7.png",
+      "rarity": "Rare",
+      "cardNum": "7/114"
+    },
+    {
+      "name": "Yanmega BREAK",
+      "set": "Steam Siege",
+      "img": "https://den-cards.pokellector.com/192/Yanmega-BREAK.STS.8.png",
+      "rarity": "Rare",
+      "cardNum": "8/114"
+    },
+    {
+      "name": "Seedot",
+      "set": "Steam Siege",
+      "img": "https://den-cards.pokellector.com/192/Seedot.STS.9.png",
+      "rarity": "Common",
+      "cardNum": "9/114"
+    },
+    {
+      "name": "Nuzleaf",
+      "set": "Steam Siege",
+      "img": "https://den-cards.pokellector.com/192/Nuzleaf.STS.10.png",
+      "rarity": "Uncommon",
+      "cardNum": "10/114"
+    },
+    {
+      "name": "Shiftry",
+      "set": "Steam Siege",
+      "img": "https://den-cards.pokellector.com/192/Shiftry.STS.11.png",
+      "rarity": "Rare",
+      "cardNum": "11/114"
+    },
+    {
+      "name": "Foongus",
+      "set": "Steam Siege",
+      "img": "https://den-cards.pokellector.com/192/Foongus.STS.12.png",
+      "rarity": "Common",
+      "cardNum": "12/114"
+    },
+    {
+      "name": "Amoonguss",
+      "set": "Steam Siege",
+      "img": "https://den-cards.pokellector.com/192/Amoonguss.STS.13.png",
+      "rarity": "Rare",
+      "cardNum": "13/114"
+    },
+    {
+      "name": "Larvesta",
+      "set": "Steam Siege",
+      "img": "https://den-cards.pokellector.com/192/Larvesta.STS.14.png",
+      "rarity": "Common",
+      "cardNum": "14/114"
+    },
+    {
+      "name": "Volcarona",
+      "set": "Steam Siege",
+      "img": "https://den-cards.pokellector.com/192/Volcarona.STS.15.png",
+      "rarity": "Rare",
+      "cardNum": "15/114"
+    },
+    {
+      "name": "Ponyta",
+      "set": "Steam Siege",
+      "img": "https://den-cards.pokellector.com/192/Ponyta.STS.16.png",
+      "rarity": "Common",
+      "cardNum": "16/114"
+    },
+    {
+      "name": "Rapidash",
+      "set": "Steam Siege",
+      "img": "https://den-cards.pokellector.com/192/Rapidash.STS.17.png",
+      "rarity": "Uncommon",
+      "cardNum": "17/114"
+    },
+    {
+      "name": "Chimchar",
+      "set": "Steam Siege",
+      "img": "https://den-cards.pokellector.com/192/Chimchar.STS.18.png",
+      "rarity": "Common",
+      "cardNum": "18/114"
+    },
+    {
+      "name": "Monferno",
+      "set": "Steam Siege",
+      "img": "https://den-cards.pokellector.com/192/Monferno.STS.19.png",
+      "rarity": "Uncommon",
+      "cardNum": "19/114"
+    },
+    {
+      "name": "Infernape",
+      "set": "Steam Siege",
+      "img": "https://den-cards.pokellector.com/192/Infernape.STS.20.png",
+      "rarity": "Rare",
+      "cardNum": "20/114"
+    },
+    {
+      "name": "Talonflame BREAK",
+      "set": "Steam Siege",
+      "img": "https://den-cards.pokellector.com/192/Talonflame-BREAK.STS.21.png",
+      "rarity": "Rare",
+      "cardNum": "21/114"
+    },
+    {
+      "name": "Litleo",
+      "set": "Steam Siege",
+      "img": "https://den-cards.pokellector.com/192/Litleo.STS.22.png",
+      "rarity": "Common",
+      "cardNum": "22/114"
+    },
+    {
+      "name": "Pyroar",
+      "set": "Steam Siege",
+      "img": "https://den-cards.pokellector.com/192/Pyroar.STS.23.png",
+      "rarity": "Rare",
+      "cardNum": "23/114"
+    },
+    {
+      "name": "Pyroar BREAK",
+      "set": "Steam Siege",
+      "img": "https://den-cards.pokellector.com/192/Pyroar-BREAK.STS.24.png",
+      "rarity": "Rare",
+      "cardNum": "24/114"
+    },
+    {
+      "name": "Volcanion",
+      "set": "Steam Siege",
+      "img": "https://den-cards.pokellector.com/192/Volcanion.STS.25.png",
+      "rarity": "Rare",
+      "cardNum": "25/114"
+    },
+    {
+      "name": "Volcanion EX",
+      "set": "Steam Siege",
+      "img": "https://den-cards.pokellector.com/192/Volcanion-EX.STS.26.png",
+      "rarity": "Rare",
+      "cardNum": "26/114"
+    },
+    {
+      "name": "Mantine",
+      "set": "Steam Siege",
+      "img": "https://den-cards.pokellector.com/192/Mantine.STS.27.png",
+      "rarity": "Common",
+      "cardNum": "27/114"
+    },
+    {
+      "name": "Shellos",
+      "set": "Steam Siege",
+      "img": "https://den-cards.pokellector.com/192/Shellos.STS.28.png",
+      "rarity": "Common",
+      "cardNum": "28/114"
+    },
+    {
+      "name": "Gastrodon",
+      "set": "Steam Siege",
+      "img": "https://den-cards.pokellector.com/192/Gastrodon.STS.29.png",
+      "rarity": "Rare",
+      "cardNum": "29/114"
+    },
+    {
+      "name": "Oshawott",
+      "set": "Steam Siege",
+      "img": "https://den-cards.pokellector.com/192/Oshawott.STS.30.png",
+      "rarity": "Common",
+      "cardNum": "30/114"
+    },
+    {
+      "name": "Dewott",
+      "set": "Steam Siege",
+      "img": "https://den-cards.pokellector.com/192/Dewott.STS.31.png",
+      "rarity": "Uncommon",
+      "cardNum": "31/114"
+    },
+    {
+      "name": "Samurott",
+      "set": "Steam Siege",
+      "img": "https://den-cards.pokellector.com/192/Samurott.STS.32.png",
+      "rarity": "Rare",
+      "cardNum": "32/114"
+    },
+    {
+      "name": "Clauncher",
+      "set": "Steam Siege",
+      "img": "https://den-cards.pokellector.com/192/Clauncher.STS.33.png",
+      "rarity": "Common",
+      "cardNum": "33/114"
+    },
+    {
+      "name": "Clawitzer",
+      "set": "Steam Siege",
+      "img": "https://den-cards.pokellector.com/192/Clawitzer.STS.34.png",
+      "rarity": "Rare",
+      "cardNum": "34/114"
+    },
+    {
+      "name": "Clawitzer BREAK",
+      "set": "Steam Siege",
+      "img": "https://den-cards.pokellector.com/192/Clawitzer-BREAK.STS.35.png",
+      "rarity": "Rare",
+      "cardNum": "35/114"
+    },
+    {
+      "name": "Bergmite",
+      "set": "Steam Siege",
+      "img": "https://den-cards.pokellector.com/192/Bergmite.STS.36.png",
+      "rarity": "Common",
+      "cardNum": "36/114"
+    },
+    {
+      "name": "Avalugg",
+      "set": "Steam Siege",
+      "img": "https://den-cards.pokellector.com/192/Avalugg.STS.37.png",
+      "rarity": "Rare",
+      "cardNum": "37/114"
+    },
+    {
+      "name": "Mareep",
+      "set": "Steam Siege",
+      "img": "https://den-cards.pokellector.com/192/Mareep.STS.38.png",
+      "rarity": "Common",
+      "cardNum": "38/114"
+    },
+    {
+      "name": "Flaaffy",
+      "set": "Steam Siege",
+      "img": "https://den-cards.pokellector.com/192/Flaaffy.STS.39.png",
+      "rarity": "Uncommon",
+      "cardNum": "39/114"
+    },
+    {
+      "name": "Ampharos",
+      "set": "Steam Siege",
+      "img": "https://den-cards.pokellector.com/192/Ampharos.STS.40.png",
+      "rarity": "Rare",
+      "cardNum": "40/114"
+    },
+    {
+      "name": "Joltik",
+      "set": "Steam Siege",
+      "img": "https://den-cards.pokellector.com/192/Joltik.STS.41.png",
+      "rarity": "Common",
+      "cardNum": "41/114"
+    },
+    {
+      "name": "Galvantula",
+      "set": "Steam Siege",
+      "img": "https://den-cards.pokellector.com/192/Galvantula.STS.42.png",
+      "rarity": "Rare",
+      "cardNum": "42/114"
+    },
+    {
+      "name": "Nidoran ♂",
+      "set": "Steam Siege",
+      "img": "https://den-cards.pokellector.com/192/Nidoran-.STS.43.png",
+      "rarity": "Common",
+      "cardNum": "43/114"
+    },
+    {
+      "name": "Nidorino",
+      "set": "Steam Siege",
+      "img": "https://den-cards.pokellector.com/192/Nidorino.STS.44.png",
+      "rarity": "Uncommon",
+      "cardNum": "44/114"
+    },
+    {
+      "name": "Nidoking",
+      "set": "Steam Siege",
+      "img": "https://den-cards.pokellector.com/192/Nidoking.STS.45.png",
+      "rarity": "Rare",
+      "cardNum": "45/114"
+    },
+    {
+      "name": "Drifloon",
+      "set": "Steam Siege",
+      "img": "https://den-cards.pokellector.com/192/Drifloon.STS.46.png",
+      "rarity": "Common",
+      "cardNum": "46/114"
+    },
+    {
+      "name": "Drifblim",
+      "set": "Steam Siege",
+      "img": "https://den-cards.pokellector.com/192/Drifblim.STS.47.png",
+      "rarity": "Uncommon",
+      "cardNum": "47/114"
+    },
+    {
+      "name": "Litwick",
+      "set": "Steam Siege",
+      "img": "https://den-cards.pokellector.com/192/Litwick.STS.48.png",
+      "rarity": "Common",
+      "cardNum": "48/114"
+    },
+    {
+      "name": "Lampent",
+      "set": "Steam Siege",
+      "img": "https://den-cards.pokellector.com/192/Lampent.STS.49.png",
+      "rarity": "Uncommon",
+      "cardNum": "49/114"
+    },
+    {
+      "name": "Chandelure",
+      "set": "Steam Siege",
+      "img": "https://den-cards.pokellector.com/192/Chandelure.STS.50.png",
+      "rarity": "Rare",
+      "cardNum": "50/114"
+    },
+    {
+      "name": "Hoopa",
+      "set": "Steam Siege",
+      "img": "https://den-cards.pokellector.com/192/Hoopa.STS.51.png",
+      "rarity": "Rare",
+      "cardNum": "51/114"
+    },
+    {
+      "name": "Mankey",
+      "set": "Steam Siege",
+      "img": "https://den-cards.pokellector.com/192/Mankey.STS.52.png",
+      "rarity": "Common",
+      "cardNum": "52/114"
+    },
+    {
+      "name": "Primeape",
+      "set": "Steam Siege",
+      "img": "https://den-cards.pokellector.com/192/Primeape.STS.53.png",
+      "rarity": "Rare",
+      "cardNum": "53/114"
+    },
+    {
+      "name": "Nosepass",
+      "set": "Steam Siege",
+      "img": "https://den-cards.pokellector.com/192/Nosepass.STS.54.png",
+      "rarity": "Common",
+      "cardNum": "54/114"
+    },
+    {
+      "name": "Probopass",
+      "set": "Steam Siege",
+      "img": "https://den-cards.pokellector.com/192/Probopass.STS.55.png",
+      "rarity": "Rare",
+      "cardNum": "55/114"
+    },
+    {
+      "name": "Anorith",
+      "set": "Steam Siege",
+      "img": "https://den-cards.pokellector.com/192/Anorith.STS.56.png",
+      "rarity": "Uncommon",
+      "cardNum": "56/114"
+    },
+    {
+      "name": "Armaldo",
+      "set": "Steam Siege",
+      "img": "https://den-cards.pokellector.com/192/Armaldo.STS.57.png",
+      "rarity": "Rare",
+      "cardNum": "57/114"
+    },
+    {
+      "name": "Croagunk",
+      "set": "Steam Siege",
+      "img": "https://den-cards.pokellector.com/192/Croagunk.STS.58.png",
+      "rarity": "Common",
+      "cardNum": "58/114"
+    },
+    {
+      "name": "Toxicroak",
+      "set": "Steam Siege",
+      "img": "https://den-cards.pokellector.com/192/Toxicroak.STS.59.png",
+      "rarity": "Rare",
+      "cardNum": "59/114"
+    },
+    {
+      "name": "Sneasel",
+      "set": "Steam Siege",
+      "img": "https://den-cards.pokellector.com/192/Sneasel.STS.60.png",
+      "rarity": "Common",
+      "cardNum": "60/114"
+    },
+    {
+      "name": "Weavile",
+      "set": "Steam Siege",
+      "img": "https://den-cards.pokellector.com/192/Weavile.STS.61.png",
+      "rarity": "Rare",
+      "cardNum": "61/114"
+    },
+    {
+      "name": "Spiritomb",
+      "set": "Steam Siege",
+      "img": "https://den-cards.pokellector.com/192/Spiritomb.STS.62.png",
+      "rarity": "Rare",
+      "cardNum": "62/114"
+    },
+    {
+      "name": "Pawniard",
+      "set": "Steam Siege",
+      "img": "https://den-cards.pokellector.com/192/Pawniard.STS.63.png",
+      "rarity": "Common",
+      "cardNum": "63/114"
+    },
+    {
+      "name": "Bisharp",
+      "set": "Steam Siege",
+      "img": "https://den-cards.pokellector.com/192/Bisharp.STS.64.png",
+      "rarity": "Rare",
+      "cardNum": "64/114"
+    },
+    {
+      "name": "Yveltal",
+      "set": "Steam Siege",
+      "img": "https://den-cards.pokellector.com/192/Yveltal.STS.65.png",
+      "rarity": "Rare",
+      "cardNum": "65/114"
+    },
+    {
+      "name": "Yveltal BREAK",
+      "set": "Steam Siege",
+      "img": "https://den-cards.pokellector.com/192/Yveltal-BREAK.STS.66.png",
+      "rarity": "Rare",
+      "cardNum": "66/114"
+    },
+    {
+      "name": "Steelix EX",
+      "set": "Steam Siege",
+      "img": "https://den-cards.pokellector.com/192/Steelix-EX.STS.67.png",
+      "rarity": "Rare",
+      "cardNum": "67/114"
+    },
+    {
+      "name": "M Steelix EX",
+      "set": "Steam Siege",
+      "img": "https://den-cards.pokellector.com/192/M-Steelix-EX.STS.68.png",
+      "rarity": "Rare",
+      "cardNum": "68/114"
+    },
+    {
+      "name": "Shieldon",
+      "set": "Steam Siege",
+      "img": "https://den-cards.pokellector.com/192/Shieldon.STS.69.png",
+      "rarity": "Uncommon",
+      "cardNum": "69/114"
+    },
+    {
+      "name": "Bastiodon",
+      "set": "Steam Siege",
+      "img": "https://den-cards.pokellector.com/192/Bastiodon.STS.70.png",
+      "rarity": "Rare",
+      "cardNum": "70/114"
+    },
+    {
+      "name": "Klink",
+      "set": "Steam Siege",
+      "img": "https://den-cards.pokellector.com/192/Klink.STS.71.png",
+      "rarity": "Common",
+      "cardNum": "71/114"
+    },
+    {
+      "name": "Klang",
+      "set": "Steam Siege",
+      "img": "https://den-cards.pokellector.com/192/Klang.STS.72.png",
+      "rarity": "Uncommon",
+      "cardNum": "72/114"
+    },
+    {
+      "name": "Klinklang",
+      "set": "Steam Siege",
+      "img": "https://den-cards.pokellector.com/192/Klinklang.STS.73.png",
+      "rarity": "Rare",
+      "cardNum": "73/114"
+    },
+    {
+      "name": "Cobalion",
+      "set": "Steam Siege",
+      "img": "https://den-cards.pokellector.com/192/Cobalion.STS.74.png",
+      "rarity": "Rare",
+      "cardNum": "74/114"
+    },
+    {
+      "name": "Magearna EX",
+      "set": "Steam Siege",
+      "img": "https://den-cards.pokellector.com/192/Magearna-EX.STS.75.png",
+      "rarity": "Rare",
+      "cardNum": "75/114"
+    },
+    {
+      "name": "Marill",
+      "set": "Steam Siege",
+      "img": "https://den-cards.pokellector.com/192/Marill.STS.76.png",
+      "rarity": "Common",
+      "cardNum": "76/114"
+    },
+    {
+      "name": "Azumarill",
+      "set": "Steam Siege",
+      "img": "https://den-cards.pokellector.com/192/Azumarill.STS.77.png",
+      "rarity": "Uncommon",
+      "cardNum": "77/114"
+    },
+    {
+      "name": "Gardevoir EX",
+      "set": "Steam Siege",
+      "img": "https://den-cards.pokellector.com/192/Gardevoir-EX.STS.78.png",
+      "rarity": "Rare",
+      "cardNum": "78/114"
+    },
+    {
+      "name": "M Gardevoir EX",
+      "set": "Steam Siege",
+      "img": "https://den-cards.pokellector.com/192/M-Gardevoir-EX.STS.79.png",
+      "rarity": "Rare",
+      "cardNum": "79/114"
+    },
+    {
+      "name": "Klefki",
+      "set": "Steam Siege",
+      "img": "https://den-cards.pokellector.com/192/Klefki.STS.80.png",
+      "rarity": "Uncommon",
+      "cardNum": "80/114"
+    },
+    {
+      "name": "Xerneas",
+      "set": "Steam Siege",
+      "img": "https://den-cards.pokellector.com/192/Xerneas.STS.81.png",
+      "rarity": "Rare",
+      "cardNum": "81/114"
+    },
+    {
+      "name": "Xerneas BREAK",
+      "set": "Steam Siege",
+      "img": "https://den-cards.pokellector.com/192/Xerneas-BREAK.STS.82.png",
+      "rarity": "Rare",
+      "cardNum": "82/114"
+    },
+    {
+      "name": "Druddigon",
+      "set": "Steam Siege",
+      "img": "https://den-cards.pokellector.com/192/Druddigon.STS.83.png",
+      "rarity": "Rare",
+      "cardNum": "83/114"
+    },
+    {
+      "name": "Deino",
+      "set": "Steam Siege",
+      "img": "https://den-cards.pokellector.com/192/Deino.STS.84.png",
+      "rarity": "Common",
+      "cardNum": "84/114"
+    },
+    {
+      "name": "Zweilous",
+      "set": "Steam Siege",
+      "img": "https://den-cards.pokellector.com/192/Zweilous.STS.85.png",
+      "rarity": "Uncommon",
+      "cardNum": "85/114"
+    },
+    {
+      "name": "Hydreigon",
+      "set": "Steam Siege",
+      "img": "https://den-cards.pokellector.com/192/Hydreigon.STS.86.png",
+      "rarity": "Rare",
+      "cardNum": "86/114"
+    },
+    {
+      "name": "Hydreigon BREAK",
+      "set": "Steam Siege",
+      "img": "https://den-cards.pokellector.com/192/Hydreigon-BREAK.STS.87.png",
+      "rarity": "Rare",
+      "cardNum": "87/114"
+    },
+    {
+      "name": "Meowth",
+      "set": "Steam Siege",
+      "img": "https://den-cards.pokellector.com/192/Meowth.STS.88.png",
+      "rarity": "Common",
+      "cardNum": "88/114"
+    },
+    {
+      "name": "Persian",
+      "set": "Steam Siege",
+      "img": "https://den-cards.pokellector.com/192/Persian.STS.89.png",
+      "rarity": "Uncommon",
+      "cardNum": "89/114"
+    },
+    {
+      "name": "Aipom",
+      "set": "Steam Siege",
+      "img": "https://den-cards.pokellector.com/192/Aipom.STS.90.png",
+      "rarity": "Common",
+      "cardNum": "90/114"
+    },
+    {
+      "name": "Ambipom",
+      "set": "Steam Siege",
+      "img": "https://den-cards.pokellector.com/192/Ambipom.STS.91.png",
+      "rarity": "Uncommon",
+      "cardNum": "91/114"
+    },
+    {
+      "name": "Rufflet",
+      "set": "Steam Siege",
+      "img": "https://den-cards.pokellector.com/192/Rufflet.STS.92.png",
+      "rarity": "Common",
+      "cardNum": "92/114"
+    },
+    {
+      "name": "Braviary",
+      "set": "Steam Siege",
+      "img": "https://den-cards.pokellector.com/192/Braviary.STS.93.png",
+      "rarity": "Uncommon",
+      "cardNum": "93/114"
+    },
+    {
+      "name": "Fletchling",
+      "set": "Steam Siege",
+      "img": "https://den-cards.pokellector.com/192/Fletchling.STS.94.png",
+      "rarity": "Common",
+      "cardNum": "94/114"
+    },
+    {
+      "name": "Fletchinder",
+      "set": "Steam Siege",
+      "img": "https://den-cards.pokellector.com/192/Fletchinder.STS.95.png",
+      "rarity": "Uncommon",
+      "cardNum": "95/114"
+    },
+    {
+      "name": "Talonflame",
+      "set": "Steam Siege",
+      "img": "https://den-cards.pokellector.com/192/Talonflame.STS.96.png",
+      "rarity": "Rare",
+      "cardNum": "96/114"
+    },
+    {
+      "name": "Hawlucha",
+      "set": "Steam Siege",
+      "img": "https://den-cards.pokellector.com/192/Hawlucha.STS.97.png",
+      "rarity": "Uncommon",
+      "cardNum": "97/114"
+    },
+    {
+      "name": "Armor Fossil Shieldon",
+      "set": "Steam Siege",
+      "img": "https://den-cards.pokellector.com/192/Armor-Fossil-Shieldon.STS.98.png",
+      "rarity": "Uncommon",
+      "cardNum": "98/114"
+    },
+    {
+      "name": "Captivating Poke Puff",
+      "set": "Steam Siege",
+      "img": "https://den-cards.pokellector.com/192/Captivating-Poke-Puff.STS.99.png",
+      "rarity": "Uncommon",
+      "cardNum": "99/114"
+    },
+    {
+      "name": "Claw Fossil Anorith",
+      "set": "Steam Siege",
+      "img": "https://den-cards.pokellector.com/192/Claw-Fossil-Anorith.STS.100.png",
+      "rarity": "Uncommon",
+      "cardNum": "100/114"
+    },
+    {
+      "name": "Gardevoir Spirit Link",
+      "set": "Steam Siege",
+      "img": "https://den-cards.pokellector.com/192/Gardevoir-Spirit-Link.STS.101.png",
+      "rarity": "Uncommon",
+      "cardNum": "101/114"
+    },
+    {
+      "name": "Greedy Dice",
+      "set": "Steam Siege",
+      "img": "https://den-cards.pokellector.com/192/Greedy-Dice.STS.102.png",
+      "rarity": "Uncommon",
+      "cardNum": "102/114"
+    },
+    {
+      "name": "Ninja Boy",
+      "set": "Steam Siege",
+      "img": "https://den-cards.pokellector.com/192/Ninja-Boy.STS.103.png",
+      "rarity": "Uncommon",
+      "cardNum": "103/114"
+    },
+    {
+      "name": "Pokémon Ranger",
+      "set": "Steam Siege",
+      "img": "https://den-cards.pokellector.com/192/Pokmon-Ranger.STS.104.png",
+      "rarity": "Uncommon",
+      "cardNum": "104/114"
+    },
+    {
+      "name": "Special Charge",
+      "set": "Steam Siege",
+      "img": "https://den-cards.pokellector.com/192/Special-Charge.STS.105.png",
+      "rarity": "Uncommon",
+      "cardNum": "105/114"
+    },
+    {
+      "name": "Steelix Spirit Link",
+      "set": "Steam Siege",
+      "img": "https://den-cards.pokellector.com/192/Steelix-Spirit-Link.STS.106.png",
+      "rarity": "Uncommon",
+      "cardNum": "106/114"
+    },
+    {
+      "name": "Volcanion EX",
+      "set": "Steam Siege",
+      "img": "https://den-cards.pokellector.com/192/Volcanion-EX.STS.107.png",
+      "rarity": "Rare",
+      "cardNum": "107/114"
+    },
+    {
+      "name": "Steelix EX",
+      "set": "Steam Siege",
+      "img": "https://den-cards.pokellector.com/192/Steelix-EX.STS.108.png",
+      "rarity": "Rare",
+      "cardNum": "108/114"
+    },
+    {
+      "name": "M Steelix EX",
+      "set": "Steam Siege",
+      "img": "https://den-cards.pokellector.com/192/M-Steelix-EX.STS.109.png",
+      "rarity": "Rare",
+      "cardNum": "109/114"
+    },
+    {
+      "name": "Magearna EX",
+      "set": "Steam Siege",
+      "img": "https://den-cards.pokellector.com/192/Magearna-EX.STS.110.png",
+      "rarity": "Rare",
+      "cardNum": "110/114"
+    },
+    {
+      "name": "Gardevoir EX",
+      "set": "Steam Siege",
+      "img": "https://den-cards.pokellector.com/192/Gardevoir-EX.STS.111.png",
+      "rarity": "Rare",
+      "cardNum": "111/114"
+    },
+    {
+      "name": "M Gardevoir EX",
+      "set": "Steam Siege",
+      "img": "https://den-cards.pokellector.com/192/M-Gardevoir-EX.STS.112.png",
+      "rarity": "Rare",
+      "cardNum": "112/114"
+    },
+    {
+      "name": "Pokémon Ranger",
+      "set": "Steam Siege",
+      "img": "https://den-cards.pokellector.com/192/Pokmon-Ranger.STS.113.png",
+      "rarity": "Rare",
+      "cardNum": "113/114"
+    },
+    {
+      "name": "Professor Sycamore",
+      "set": "Steam Siege",
+      "img": "https://den-cards.pokellector.com/192/Professor-Sycamore.STS.114.png",
+      "rarity": "Rare",
+      "cardNum": "114/114"
+    },
+    {
+      "name": "Volcanion EX",
+      "set": "Steam Siege",
+      "img": "https://den-cards.pokellector.com/192/Volcanion-EX.STS.115.png",
+      "rarity": "Secret Rare",
+      "cardNum": "115/114"
+    },
+    {
+      "name": "Gardevoir EX",
+      "set": "Steam Siege",
+      "img": "https://den-cards.pokellector.com/192/Gardevoir-EX.STS.116.png",
+      "rarity": "Secret Rare",
+      "cardNum": "116/114"
+    }
+  ]
+}

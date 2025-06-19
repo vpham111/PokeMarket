@@ -1,0 +1,1426 @@
+{
+  "setName": "Vivid Voltage",
+  "cards": [
+    {
+      "name": "Weedle",
+      "set": "Vivid Voltage",
+      "img": "https://den-cards.pokellector.com/299/Weedle.SWSH0.1.35940.png",
+      "rarity": "Common",
+      "cardNum": "1/185"
+    },
+    {
+      "name": "Kakuna",
+      "set": "Vivid Voltage",
+      "img": "https://den-cards.pokellector.com/299/Kakuna.SWSH0.2.35941.png",
+      "rarity": "Uncommon",
+      "cardNum": "2/185"
+    },
+    {
+      "name": "Beedrill",
+      "set": "Vivid Voltage",
+      "img": "https://den-cards.pokellector.com/299/Beedrill.SWSH0.3.35942.png",
+      "rarity": "Rare",
+      "cardNum": "3/185"
+    },
+    {
+      "name": "Exeggcute",
+      "set": "Vivid Voltage",
+      "img": "https://den-cards.pokellector.com/299/Exeggcute.SWSH0.4.35943.png",
+      "rarity": "Common",
+      "cardNum": "4/185"
+    },
+    {
+      "name": "Exeggutor",
+      "set": "Vivid Voltage",
+      "img": "https://den-cards.pokellector.com/299/Exeggutor.SWSH0.5.35944.png",
+      "rarity": "Rare",
+      "cardNum": "5/185"
+    },
+    {
+      "name": "Yanma",
+      "set": "Vivid Voltage",
+      "img": "https://den-cards.pokellector.com/299/Yanma.SWSH0.6.35945.png",
+      "rarity": "Common",
+      "cardNum": "6/185"
+    },
+    {
+      "name": "Yanmega",
+      "set": "Vivid Voltage",
+      "img": "https://den-cards.pokellector.com/299/Yanmega.SWSH0.7.35946.png",
+      "rarity": "Rare",
+      "cardNum": "7/185"
+    },
+    {
+      "name": "Pineco",
+      "set": "Vivid Voltage",
+      "img": "https://den-cards.pokellector.com/299/Pineco.SWSH0.8.35947.png",
+      "rarity": "Common",
+      "cardNum": "8/185"
+    },
+    {
+      "name": "Celebi",
+      "set": "Vivid Voltage",
+      "img": "https://den-cards.pokellector.com/299/Celebi.SWSH0.9.35948.png",
+      "rarity": "Amazing Rare",
+      "cardNum": "9/185"
+    },
+    {
+      "name": "Seedot",
+      "set": "Vivid Voltage",
+      "img": "https://den-cards.pokellector.com/299/Seedot.SWSH0.10.35949.png",
+      "rarity": "Common",
+      "cardNum": "10/185"
+    },
+    {
+      "name": "Nuzleaf",
+      "set": "Vivid Voltage",
+      "img": "https://den-cards.pokellector.com/299/Nuzleaf.SWSH0.11.35950.png",
+      "rarity": "Uncommon",
+      "cardNum": "11/185"
+    },
+    {
+      "name": "Shiftry",
+      "set": "Vivid Voltage",
+      "img": "https://den-cards.pokellector.com/299/Shiftry.SWSH0.12.35951.png",
+      "rarity": "Rare",
+      "cardNum": "12/185"
+    },
+    {
+      "name": "Nincada",
+      "set": "Vivid Voltage",
+      "img": "https://den-cards.pokellector.com/299/Nincada.SWSH0.13.35952.png",
+      "rarity": "Common",
+      "cardNum": "13/185"
+    },
+    {
+      "name": "Ninjask",
+      "set": "Vivid Voltage",
+      "img": "https://den-cards.pokellector.com/299/Ninjask.SWSH0.14.35953.png",
+      "rarity": "Rare",
+      "cardNum": "14/185"
+    },
+    {
+      "name": "Shaymin",
+      "set": "Vivid Voltage",
+      "img": "https://den-cards.pokellector.com/299/Shaymin.SWSH0.15.35954.png",
+      "rarity": "Rare",
+      "cardNum": "15/185"
+    },
+    {
+      "name": "Genesect",
+      "set": "Vivid Voltage",
+      "img": "https://den-cards.pokellector.com/299/Genesect.SWSH0.16.35955.png",
+      "rarity": "Rare",
+      "cardNum": "16/185"
+    },
+    {
+      "name": "Skiddo",
+      "set": "Vivid Voltage",
+      "img": "https://den-cards.pokellector.com/299/Skiddo.SWSH0.17.35956.png",
+      "rarity": "Common",
+      "cardNum": "17/185"
+    },
+    {
+      "name": "Gogoat",
+      "set": "Vivid Voltage",
+      "img": "https://den-cards.pokellector.com/299/Gogoat.SWSH0.18.35957.png",
+      "rarity": "Uncommon",
+      "cardNum": "18/185"
+    },
+    {
+      "name": "Dhelmise",
+      "set": "Vivid Voltage",
+      "img": "https://den-cards.pokellector.com/299/Dhelmise.SWSH0.19.35958.png",
+      "rarity": "Uncommon",
+      "cardNum": "19/185"
+    },
+    {
+      "name": "Orbeetle V",
+      "set": "Vivid Voltage",
+      "img": "https://den-cards.pokellector.com/299/Orbeetle-V.SWSH0.20.35959.png",
+      "rarity": "Rare",
+      "cardNum": "20/185"
+    },
+    {
+      "name": "Orbeetle VMAX",
+      "set": "Vivid Voltage",
+      "img": "https://den-cards.pokellector.com/299/Orbeetle-VMAX.SWSH0.21.35960.png",
+      "rarity": "Rare",
+      "cardNum": "21/185"
+    },
+    {
+      "name": "Zarude V",
+      "set": "Vivid Voltage",
+      "img": "https://den-cards.pokellector.com/299/Zarude-V.SWSH0.22.35961.png",
+      "rarity": "Rare",
+      "cardNum": "22/185"
+    },
+    {
+      "name": "Charmander",
+      "set": "Vivid Voltage",
+      "img": "https://den-cards.pokellector.com/299/Charmander.SWSH0.23.35962.png",
+      "rarity": "Common",
+      "cardNum": "23/185"
+    },
+    {
+      "name": "Charmeleon",
+      "set": "Vivid Voltage",
+      "img": "https://den-cards.pokellector.com/299/Charmeleon.SWSH0.24.35963.png",
+      "rarity": "Uncommon",
+      "cardNum": "24/185"
+    },
+    {
+      "name": "Charizard",
+      "set": "Vivid Voltage",
+      "img": "https://den-cards.pokellector.com/299/Charizard.SWSH0.25.35964.png",
+      "rarity": "Rare",
+      "cardNum": "25/185"
+    },
+    {
+      "name": "Flareon",
+      "set": "Vivid Voltage",
+      "img": "https://den-cards.pokellector.com/299/Flareon.SWSH0.26.35965.png",
+      "rarity": "Rare",
+      "cardNum": "26/185"
+    },
+    {
+      "name": "Slugma",
+      "set": "Vivid Voltage",
+      "img": "https://den-cards.pokellector.com/299/Slugma.SWSH0.27.35966.png",
+      "rarity": "Common",
+      "cardNum": "27/185"
+    },
+    {
+      "name": "Magcargo",
+      "set": "Vivid Voltage",
+      "img": "https://den-cards.pokellector.com/299/Magcargo.SWSH0.28.35967.png",
+      "rarity": "Uncommon",
+      "cardNum": "28/185"
+    },
+    {
+      "name": "Talonflame V",
+      "set": "Vivid Voltage",
+      "img": "https://den-cards.pokellector.com/299/Talonflame-V.SWSH0.29.35968.png",
+      "rarity": "Rare",
+      "cardNum": "29/185"
+    },
+    {
+      "name": "Vaporeon",
+      "set": "Vivid Voltage",
+      "img": "https://den-cards.pokellector.com/299/Vaporeon.SWSH0.30.35969.png",
+      "rarity": "Rare",
+      "cardNum": "30/185"
+    },
+    {
+      "name": "Wailmer",
+      "set": "Vivid Voltage",
+      "img": "https://den-cards.pokellector.com/299/Wailmer.SWSH0.31.35970.png",
+      "rarity": "Common",
+      "cardNum": "31/185"
+    },
+    {
+      "name": "Wailord",
+      "set": "Vivid Voltage",
+      "img": "https://den-cards.pokellector.com/299/Wailord.SWSH0.32.35971.png",
+      "rarity": "Rare",
+      "cardNum": "32/185"
+    },
+    {
+      "name": "Oshawott",
+      "set": "Vivid Voltage",
+      "img": "https://den-cards.pokellector.com/299/Oshawott.SWSH0.33.35972.png",
+      "rarity": "Common",
+      "cardNum": "33/185"
+    },
+    {
+      "name": "Dewott",
+      "set": "Vivid Voltage",
+      "img": "https://den-cards.pokellector.com/299/Dewott.SWSH0.34.35973.png",
+      "rarity": "Uncommon",
+      "cardNum": "34/185"
+    },
+    {
+      "name": "Samurott",
+      "set": "Vivid Voltage",
+      "img": "https://den-cards.pokellector.com/299/Samurott.SWSH0.35.35974.png",
+      "rarity": "Rare",
+      "cardNum": "35/185"
+    },
+    {
+      "name": "Galarian Darmanitan V",
+      "set": "Vivid Voltage",
+      "img": "https://den-cards.pokellector.com/299/Galarian-Darmanitan-V.SWSH0.36.35975.png",
+      "rarity": "Rare",
+      "cardNum": "36/185"
+    },
+    {
+      "name": "Galarian Darmanitan VMAX",
+      "set": "Vivid Voltage",
+      "img": "https://den-cards.pokellector.com/299/Galarian-Darmanitan-VMAX.SWSH0.37.35976.png",
+      "rarity": "Rare",
+      "cardNum": "37/185"
+    },
+    {
+      "name": "Chewtle",
+      "set": "Vivid Voltage",
+      "img": "https://den-cards.pokellector.com/299/Chewtle.SWSH0.38.35977.png",
+      "rarity": "Common",
+      "cardNum": "38/185"
+    },
+    {
+      "name": "Drednaw",
+      "set": "Vivid Voltage",
+      "img": "https://den-cards.pokellector.com/299/Drednaw.SWSH0.39.35978.png",
+      "rarity": "Rare",
+      "cardNum": "39/185"
+    },
+    {
+      "name": "Cramorant",
+      "set": "Vivid Voltage",
+      "img": "https://den-cards.pokellector.com/299/Cramorant.SWSH0.40.35979.png",
+      "rarity": "Uncommon",
+      "cardNum": "40/185"
+    },
+    {
+      "name": "Arrokuda",
+      "set": "Vivid Voltage",
+      "img": "https://den-cards.pokellector.com/299/Arrokuda.SWSH0.41.35980.png",
+      "rarity": "Common",
+      "cardNum": "41/185"
+    },
+    {
+      "name": "Barraskewda",
+      "set": "Vivid Voltage",
+      "img": "https://den-cards.pokellector.com/299/Barraskewda.SWSH0.42.35981.png",
+      "rarity": "Rare",
+      "cardNum": "42/185"
+    },
+    {
+      "name": "Pikachu V",
+      "set": "Vivid Voltage",
+      "img": "https://den-cards.pokellector.com/299/Pikachu-V.SWSH0.43.35982.png",
+      "rarity": "Rare",
+      "cardNum": "43/185"
+    },
+    {
+      "name": "Pikachu VMAX",
+      "set": "Vivid Voltage",
+      "img": "https://den-cards.pokellector.com/299/Pikachu-VMAX.SWSH0.44.35983.png",
+      "rarity": "Rare",
+      "cardNum": "44/185"
+    },
+    {
+      "name": "Voltorb",
+      "set": "Vivid Voltage",
+      "img": "https://den-cards.pokellector.com/299/Voltorb.SWSH0.45.35984.png",
+      "rarity": "Common",
+      "cardNum": "45/185"
+    },
+    {
+      "name": "Electrode",
+      "set": "Vivid Voltage",
+      "img": "https://den-cards.pokellector.com/299/Electrode.SWSH0.46.35985.png",
+      "rarity": "Rare",
+      "cardNum": "46/185"
+    },
+    {
+      "name": "Jolteon",
+      "set": "Vivid Voltage",
+      "img": "https://den-cards.pokellector.com/299/Jolteon.SWSH0.47.35986.png",
+      "rarity": "Rare",
+      "cardNum": "47/185"
+    },
+    {
+      "name": "Zapdos",
+      "set": "Vivid Voltage",
+      "img": "https://den-cards.pokellector.com/299/Zapdos.SWSH0.48.35987.png",
+      "rarity": "Rare",
+      "cardNum": "48/185"
+    },
+    {
+      "name": "Ampharos V",
+      "set": "Vivid Voltage",
+      "img": "https://den-cards.pokellector.com/299/Ampharos-V.SWSH0.49.35988.png",
+      "rarity": "Rare",
+      "cardNum": "49/185"
+    },
+    {
+      "name": "Raikou",
+      "set": "Vivid Voltage",
+      "img": "https://den-cards.pokellector.com/299/Raikou.SWSH0.50.35989.png",
+      "rarity": "Amazing Rare",
+      "cardNum": "50/185"
+    },
+    {
+      "name": "Electrike",
+      "set": "Vivid Voltage",
+      "img": "https://den-cards.pokellector.com/299/Electrike.SWSH0.51.35990.png",
+      "rarity": "Common",
+      "cardNum": "51/185"
+    },
+    {
+      "name": "Manectric",
+      "set": "Vivid Voltage",
+      "img": "https://den-cards.pokellector.com/299/Manectric.SWSH0.52.35991.png",
+      "rarity": "Rare",
+      "cardNum": "52/185"
+    },
+    {
+      "name": "Blitzle",
+      "set": "Vivid Voltage",
+      "img": "https://den-cards.pokellector.com/299/Blitzle.SWSH0.53.35992.png",
+      "rarity": "Common",
+      "cardNum": "53/185"
+    },
+    {
+      "name": "Zebstrika",
+      "set": "Vivid Voltage",
+      "img": "https://den-cards.pokellector.com/299/Zebstrika.SWSH0.54.35993.png",
+      "rarity": "Uncommon",
+      "cardNum": "54/185"
+    },
+    {
+      "name": "Joltik",
+      "set": "Vivid Voltage",
+      "img": "https://den-cards.pokellector.com/299/Joltik.SWSH0.55.35994.png",
+      "rarity": "Common",
+      "cardNum": "55/185"
+    },
+    {
+      "name": "Galvantula",
+      "set": "Vivid Voltage",
+      "img": "https://den-cards.pokellector.com/299/Galvantula.SWSH0.56.35995.png",
+      "rarity": "Uncommon",
+      "cardNum": "56/185"
+    },
+    {
+      "name": "Tynamo",
+      "set": "Vivid Voltage",
+      "img": "https://den-cards.pokellector.com/299/Tynamo.SWSH0.57.35996.png",
+      "rarity": "Common",
+      "cardNum": "57/185"
+    },
+    {
+      "name": "Eelektrik",
+      "set": "Vivid Voltage",
+      "img": "https://den-cards.pokellector.com/299/Eelektrik.SWSH0.58.35997.png",
+      "rarity": "Uncommon",
+      "cardNum": "58/185"
+    },
+    {
+      "name": "Eelektross",
+      "set": "Vivid Voltage",
+      "img": "https://den-cards.pokellector.com/299/Eelektross.SWSH0.59.35998.png",
+      "rarity": "Rare",
+      "cardNum": "59/185"
+    },
+    {
+      "name": "Zekrom",
+      "set": "Vivid Voltage",
+      "img": "https://den-cards.pokellector.com/299/Zekrom.SWSH0.60.35999.png",
+      "rarity": "Rare",
+      "cardNum": "60/185"
+    },
+    {
+      "name": "Zeraora",
+      "set": "Vivid Voltage",
+      "img": "https://den-cards.pokellector.com/299/Zeraora.SWSH0.61.36000.png",
+      "rarity": "Rare",
+      "cardNum": "61/185"
+    },
+    {
+      "name": "Pincurchin",
+      "set": "Vivid Voltage",
+      "img": "https://den-cards.pokellector.com/299/Pincurchin.SWSH0.62.36001.png",
+      "rarity": "Uncommon",
+      "cardNum": "62/185"
+    },
+    {
+      "name": "Clefairy",
+      "set": "Vivid Voltage",
+      "img": "https://den-cards.pokellector.com/299/Clefairy.SWSH0.63.36002.png",
+      "rarity": "Common",
+      "cardNum": "63/185"
+    },
+    {
+      "name": "Clefable",
+      "set": "Vivid Voltage",
+      "img": "https://den-cards.pokellector.com/299/Clefable.SWSH0.64.36003.png",
+      "rarity": "Rare",
+      "cardNum": "64/185"
+    },
+    {
+      "name": "Girafarig",
+      "set": "Vivid Voltage",
+      "img": "https://den-cards.pokellector.com/299/Girafarig.SWSH0.65.36004.png",
+      "rarity": "Uncommon",
+      "cardNum": "65/185"
+    },
+    {
+      "name": "Shedinja",
+      "set": "Vivid Voltage",
+      "img": "https://den-cards.pokellector.com/299/Shedinja.SWSH0.66.36005.png",
+      "rarity": "Rare",
+      "cardNum": "66/185"
+    },
+    {
+      "name": "Shuppet",
+      "set": "Vivid Voltage",
+      "img": "https://den-cards.pokellector.com/299/Shuppet.SWSH0.67.36006.png",
+      "rarity": "Common",
+      "cardNum": "67/185"
+    },
+    {
+      "name": "Banette",
+      "set": "Vivid Voltage",
+      "img": "https://den-cards.pokellector.com/299/Banette.SWSH0.68.36007.png",
+      "rarity": "Rare",
+      "cardNum": "68/185"
+    },
+    {
+      "name": "Duskull",
+      "set": "Vivid Voltage",
+      "img": "https://den-cards.pokellector.com/299/Duskull.SWSH0.69.36008.png",
+      "rarity": "Common",
+      "cardNum": "69/185"
+    },
+    {
+      "name": "Dusclops",
+      "set": "Vivid Voltage",
+      "img": "https://den-cards.pokellector.com/299/Dusclops.SWSH0.70.36009.png",
+      "rarity": "Uncommon",
+      "cardNum": "70/185"
+    },
+    {
+      "name": "Dusknoir",
+      "set": "Vivid Voltage",
+      "img": "https://den-cards.pokellector.com/299/Dusknoir.SWSH0.71.36010.png",
+      "rarity": "Rare",
+      "cardNum": "71/185"
+    },
+    {
+      "name": "Chimecho",
+      "set": "Vivid Voltage",
+      "img": "https://den-cards.pokellector.com/299/Chimecho.SWSH0.72.36011.png",
+      "rarity": "Common",
+      "cardNum": "72/185"
+    },
+    {
+      "name": "Woobat",
+      "set": "Vivid Voltage",
+      "img": "https://den-cards.pokellector.com/299/Woobat.SWSH0.73.36012.png",
+      "rarity": "Common",
+      "cardNum": "73/185"
+    },
+    {
+      "name": "Swoobat",
+      "set": "Vivid Voltage",
+      "img": "https://den-cards.pokellector.com/299/Swoobat.SWSH0.74.36013.png",
+      "rarity": "Uncommon",
+      "cardNum": "74/185"
+    },
+    {
+      "name": "Cottonee",
+      "set": "Vivid Voltage",
+      "img": "https://den-cards.pokellector.com/299/Cottonee.SWSH0.75.36014.png",
+      "rarity": "Common",
+      "cardNum": "75/185"
+    },
+    {
+      "name": "Whimsicott",
+      "set": "Vivid Voltage",
+      "img": "https://den-cards.pokellector.com/299/Whimsicott.SWSH0.76.36015.png",
+      "rarity": "Rare",
+      "cardNum": "76/185"
+    },
+    {
+      "name": "Dedenne",
+      "set": "Vivid Voltage",
+      "img": "https://den-cards.pokellector.com/299/Dedenne.SWSH0.77.36016.png",
+      "rarity": "Common",
+      "cardNum": "77/185"
+    },
+    {
+      "name": "Xerneas",
+      "set": "Vivid Voltage",
+      "img": "https://den-cards.pokellector.com/299/Xerneas.SWSH0.78.36017.png",
+      "rarity": "Rare",
+      "cardNum": "78/185"
+    },
+    {
+      "name": "Diancie",
+      "set": "Vivid Voltage",
+      "img": "https://den-cards.pokellector.com/299/Diancie.SWSH0.79.36018.png",
+      "rarity": "Rare",
+      "cardNum": "79/185"
+    },
+    {
+      "name": "Milcery",
+      "set": "Vivid Voltage",
+      "img": "https://den-cards.pokellector.com/299/Milcery.SWSH0.80.36019.png",
+      "rarity": "Common",
+      "cardNum": "80/185"
+    },
+    {
+      "name": "Alcremie",
+      "set": "Vivid Voltage",
+      "img": "https://den-cards.pokellector.com/299/Alcremie.SWSH0.81.36020.png",
+      "rarity": "Rare",
+      "cardNum": "81/185"
+    },
+    {
+      "name": "Zacian",
+      "set": "Vivid Voltage",
+      "img": "https://den-cards.pokellector.com/299/Zacian.SWSH0.82.36021.png",
+      "rarity": "Super Secret Rare",
+      "cardNum": "82/185"
+    },
+    {
+      "name": "Wooper",
+      "set": "Vivid Voltage",
+      "img": "https://den-cards.pokellector.com/299/Wooper.SWSH0.83.36022.png",
+      "rarity": "Common",
+      "cardNum": "83/185"
+    },
+    {
+      "name": "Quagsire",
+      "set": "Vivid Voltage",
+      "img": "https://den-cards.pokellector.com/299/Quagsire.SWSH0.84.36023.png",
+      "rarity": "Rare",
+      "cardNum": "84/185"
+    },
+    {
+      "name": "Shuckle",
+      "set": "Vivid Voltage",
+      "img": "https://den-cards.pokellector.com/299/Shuckle.SWSH0.85.36024.png",
+      "rarity": "Uncommon",
+      "cardNum": "85/185"
+    },
+    {
+      "name": "Phanpy",
+      "set": "Vivid Voltage",
+      "img": "https://den-cards.pokellector.com/299/Phanpy.SWSH0.86.36025.png",
+      "rarity": "Common",
+      "cardNum": "86/185"
+    },
+    {
+      "name": "Donphan",
+      "set": "Vivid Voltage",
+      "img": "https://den-cards.pokellector.com/299/Donphan.SWSH0.87.36026.png",
+      "rarity": "Rare",
+      "cardNum": "87/185"
+    },
+    {
+      "name": "Hitmontop",
+      "set": "Vivid Voltage",
+      "img": "https://den-cards.pokellector.com/299/Hitmontop.SWSH0.88.36027.png",
+      "rarity": "Uncommon",
+      "cardNum": "88/185"
+    },
+    {
+      "name": "Regirock",
+      "set": "Vivid Voltage",
+      "img": "https://den-cards.pokellector.com/299/Regirock.SWSH0.89.36028.png",
+      "rarity": "Rare",
+      "cardNum": "89/185"
+    },
+    {
+      "name": "Riolu",
+      "set": "Vivid Voltage",
+      "img": "https://den-cards.pokellector.com/299/Riolu.SWSH0.90.36029.png",
+      "rarity": "Common",
+      "cardNum": "90/185"
+    },
+    {
+      "name": "Drilbur",
+      "set": "Vivid Voltage",
+      "img": "https://den-cards.pokellector.com/299/Drilbur.SWSH0.91.36030.png",
+      "rarity": "Common",
+      "cardNum": "91/185"
+    },
+    {
+      "name": "Terrakion",
+      "set": "Vivid Voltage",
+      "img": "https://den-cards.pokellector.com/299/Terrakion.SWSH0.92.36031.png",
+      "rarity": "Rare",
+      "cardNum": "92/185"
+    },
+    {
+      "name": "Zygarde",
+      "set": "Vivid Voltage",
+      "img": "https://den-cards.pokellector.com/299/Zygarde.SWSH0.93.36032.png",
+      "rarity": "Rare",
+      "cardNum": "93/185"
+    },
+    {
+      "name": "Rockruff",
+      "set": "Vivid Voltage",
+      "img": "https://den-cards.pokellector.com/299/Rockruff.SWSH0.94.36033.png",
+      "rarity": "Common",
+      "cardNum": "94/185"
+    },
+    {
+      "name": "Lycanroc",
+      "set": "Vivid Voltage",
+      "img": "https://den-cards.pokellector.com/299/Lycanroc.SWSH0.95.36034.png",
+      "rarity": "Rare",
+      "cardNum": "95/185"
+    },
+    {
+      "name": "Mudbray",
+      "set": "Vivid Voltage",
+      "img": "https://den-cards.pokellector.com/299/Mudbray.SWSH0.96.36035.png",
+      "rarity": "Common",
+      "cardNum": "96/185"
+    },
+    {
+      "name": "Mudsdale",
+      "set": "Vivid Voltage",
+      "img": "https://den-cards.pokellector.com/299/Mudsdale.SWSH0.97.36036.png",
+      "rarity": "Rare",
+      "cardNum": "97/185"
+    },
+    {
+      "name": "Coalossal V",
+      "set": "Vivid Voltage",
+      "img": "https://den-cards.pokellector.com/299/Coalossal-V.SWSH0.98.36037.png",
+      "rarity": "Rare",
+      "cardNum": "98/185"
+    },
+    {
+      "name": "Coalossal VMAX",
+      "set": "Vivid Voltage",
+      "img": "https://den-cards.pokellector.com/299/Coalossal-VMAX.SWSH0.99.36038.png",
+      "rarity": "Rare",
+      "cardNum": "99/185"
+    },
+    {
+      "name": "Clobbopus",
+      "set": "Vivid Voltage",
+      "img": "https://den-cards.pokellector.com/299/Clobbopus.SWSH0.100.36039.png",
+      "rarity": "Common",
+      "cardNum": "100/185"
+    },
+    {
+      "name": "Grapploct",
+      "set": "Vivid Voltage",
+      "img": "https://den-cards.pokellector.com/299/Grapploct.SWSH0.101.36040.png",
+      "rarity": "Rare",
+      "cardNum": "101/185"
+    },
+    {
+      "name": "Zamazenta",
+      "set": "Vivid Voltage",
+      "img": "https://den-cards.pokellector.com/299/Zamazenta.SWSH0.102.36041.png",
+      "rarity": "Amazing Rare",
+      "cardNum": "102/185"
+    },
+    {
+      "name": "Poochyena",
+      "set": "Vivid Voltage",
+      "img": "https://den-cards.pokellector.com/299/Poochyena.SWSH0.103.36042.png",
+      "rarity": "Common",
+      "cardNum": "103/185"
+    },
+    {
+      "name": "Mightyena",
+      "set": "Vivid Voltage",
+      "img": "https://den-cards.pokellector.com/299/Mightyena.SWSH0.104.36043.png",
+      "rarity": "Uncommon",
+      "cardNum": "104/185"
+    },
+    {
+      "name": "Sableye",
+      "set": "Vivid Voltage",
+      "img": "https://den-cards.pokellector.com/299/Sableye.SWSH0.105.36044.png",
+      "rarity": "Uncommon",
+      "cardNum": "105/185"
+    },
+    {
+      "name": "Drapion V",
+      "set": "Vivid Voltage",
+      "img": "https://den-cards.pokellector.com/299/Drapion-V.SWSH0.106.36045.png",
+      "rarity": "Rare",
+      "cardNum": "106/185"
+    },
+    {
+      "name": "Sandile",
+      "set": "Vivid Voltage",
+      "img": "https://den-cards.pokellector.com/299/Sandile.SWSH0.107.36046.png",
+      "rarity": "Common",
+      "cardNum": "107/185"
+    },
+    {
+      "name": "Krokorok",
+      "set": "Vivid Voltage",
+      "img": "https://den-cards.pokellector.com/299/Krokorok.SWSH0.108.36047.png",
+      "rarity": "Uncommon",
+      "cardNum": "108/185"
+    },
+    {
+      "name": "Krookodile",
+      "set": "Vivid Voltage",
+      "img": "https://den-cards.pokellector.com/299/Krookodile.SWSH0.109.36048.png",
+      "rarity": "Rare",
+      "cardNum": "109/185"
+    },
+    {
+      "name": "Trubbish",
+      "set": "Vivid Voltage",
+      "img": "https://den-cards.pokellector.com/299/Trubbish.SWSH0.110.36049.png",
+      "rarity": "Common",
+      "cardNum": "110/185"
+    },
+    {
+      "name": "Garbodor",
+      "set": "Vivid Voltage",
+      "img": "https://den-cards.pokellector.com/299/Garbodor.SWSH0.111.36050.png",
+      "rarity": "Rare",
+      "cardNum": "111/185"
+    },
+    {
+      "name": "Galarian Meowth",
+      "set": "Vivid Voltage",
+      "img": "https://den-cards.pokellector.com/299/Galarian-Meowth.SWSH0.112.36051.png",
+      "rarity": "Common",
+      "cardNum": "112/185"
+    },
+    {
+      "name": "Galarian Perrserker",
+      "set": "Vivid Voltage",
+      "img": "https://den-cards.pokellector.com/299/Galarian-Perrserker.SWSH0.113.36052.png",
+      "rarity": "Rare",
+      "cardNum": "113/185"
+    },
+    {
+      "name": "Forretress",
+      "set": "Vivid Voltage",
+      "img": "https://den-cards.pokellector.com/299/Forretress.SWSH0.114.36053.png",
+      "rarity": "Rare",
+      "cardNum": "114/185"
+    },
+    {
+      "name": "Steelix V",
+      "set": "Vivid Voltage",
+      "img": "https://den-cards.pokellector.com/299/Steelix-V.SWSH0.115.36054.png",
+      "rarity": "Rare",
+      "cardNum": "115/185"
+    },
+    {
+      "name": "Beldum",
+      "set": "Vivid Voltage",
+      "img": "https://den-cards.pokellector.com/299/Beldum.SWSH0.116.36055.png",
+      "rarity": "Common",
+      "cardNum": "116/185"
+    },
+    {
+      "name": "Metang",
+      "set": "Vivid Voltage",
+      "img": "https://den-cards.pokellector.com/299/Metang.SWSH0.117.36056.png",
+      "rarity": "Uncommon",
+      "cardNum": "117/185"
+    },
+    {
+      "name": "Metagross",
+      "set": "Vivid Voltage",
+      "img": "https://den-cards.pokellector.com/299/Metagross.SWSH0.118.36057.png",
+      "rarity": "Rare",
+      "cardNum": "118/185"
+    },
+    {
+      "name": "Jirachi",
+      "set": "Vivid Voltage",
+      "img": "https://den-cards.pokellector.com/299/Jirachi.SWSH0.119.36058.png",
+      "rarity": "Amazing Rare",
+      "cardNum": "119/185"
+    },
+    {
+      "name": "Lucario",
+      "set": "Vivid Voltage",
+      "img": "https://den-cards.pokellector.com/299/Lucario.SWSH0.120.36059.png",
+      "rarity": "Rare",
+      "cardNum": "120/185"
+    },
+    {
+      "name": "Dialga",
+      "set": "Vivid Voltage",
+      "img": "https://den-cards.pokellector.com/299/Dialga.SWSH0.121.36060.png",
+      "rarity": "Rare",
+      "cardNum": "121/185"
+    },
+    {
+      "name": "Excadrill",
+      "set": "Vivid Voltage",
+      "img": "https://den-cards.pokellector.com/299/Excadrill.SWSH0.122.36061.png",
+      "rarity": "Uncommon",
+      "cardNum": "122/185"
+    },
+    {
+      "name": "Ferroseed",
+      "set": "Vivid Voltage",
+      "img": "https://den-cards.pokellector.com/299/Ferroseed.SWSH0.123.36062.png",
+      "rarity": "Common",
+      "cardNum": "123/185"
+    },
+    {
+      "name": "Ferrothorn",
+      "set": "Vivid Voltage",
+      "img": "https://den-cards.pokellector.com/299/Ferrothorn.SWSH0.124.36063.png",
+      "rarity": "Uncommon",
+      "cardNum": "124/185"
+    },
+    {
+      "name": "Galarian Stunfisk",
+      "set": "Vivid Voltage",
+      "img": "https://den-cards.pokellector.com/299/Galarian-Stunfisk.SWSH0.125.36064.png",
+      "rarity": "Uncommon",
+      "cardNum": "125/185"
+    },
+    {
+      "name": "Aegislash V",
+      "set": "Vivid Voltage",
+      "img": "https://den-cards.pokellector.com/299/Aegislash-V.SWSH0.126.36065.png",
+      "rarity": "Rare",
+      "cardNum": "126/185"
+    },
+    {
+      "name": "Aegislash VMAX",
+      "set": "Vivid Voltage",
+      "img": "https://den-cards.pokellector.com/299/Aegislash-VMAX.SWSH0.127.36066.png",
+      "rarity": "Rare",
+      "cardNum": "127/185"
+    },
+    {
+      "name": "Magearna",
+      "set": "Vivid Voltage",
+      "img": "https://den-cards.pokellector.com/299/Magearna.SWSH0.128.36067.png",
+      "rarity": "Rare",
+      "cardNum": "128/185"
+    },
+    {
+      "name": "Duraludon",
+      "set": "Vivid Voltage",
+      "img": "https://den-cards.pokellector.com/299/Duraludon.SWSH0.129.36068.png",
+      "rarity": "Rare",
+      "cardNum": "129/185"
+    },
+    {
+      "name": "Eevee",
+      "set": "Vivid Voltage",
+      "img": "https://den-cards.pokellector.com/299/Eevee.SWSH0.130.36069.png",
+      "rarity": "Common",
+      "cardNum": "130/185"
+    },
+    {
+      "name": "Snorlax",
+      "set": "Vivid Voltage",
+      "img": "https://den-cards.pokellector.com/299/Snorlax.SWSH0.131.36070.png",
+      "rarity": "Rare",
+      "cardNum": "131/185"
+    },
+    {
+      "name": "Lugia",
+      "set": "Vivid Voltage",
+      "img": "https://den-cards.pokellector.com/299/Lugia.SWSH0.132.36071.png",
+      "rarity": "Rare",
+      "cardNum": "132/185"
+    },
+    {
+      "name": "Taillow",
+      "set": "Vivid Voltage",
+      "img": "https://den-cards.pokellector.com/299/Taillow.SWSH0.133.36072.png",
+      "rarity": "Common",
+      "cardNum": "133/185"
+    },
+    {
+      "name": "Swellow",
+      "set": "Vivid Voltage",
+      "img": "https://den-cards.pokellector.com/299/Swellow.SWSH0.134.36073.png",
+      "rarity": "Uncommon",
+      "cardNum": "134/185"
+    },
+    {
+      "name": "Whismur",
+      "set": "Vivid Voltage",
+      "img": "https://den-cards.pokellector.com/299/Whismur.SWSH0.135.36074.png",
+      "rarity": "Common",
+      "cardNum": "135/185"
+    },
+    {
+      "name": "Loudred",
+      "set": "Vivid Voltage",
+      "img": "https://den-cards.pokellector.com/299/Loudred.SWSH0.136.36075.png",
+      "rarity": "Uncommon",
+      "cardNum": "136/185"
+    },
+    {
+      "name": "Exploud",
+      "set": "Vivid Voltage",
+      "img": "https://den-cards.pokellector.com/299/Exploud.SWSH0.137.36076.png",
+      "rarity": "Rare",
+      "cardNum": "137/185"
+    },
+    {
+      "name": "Rayquaza",
+      "set": "Vivid Voltage",
+      "img": "https://den-cards.pokellector.com/299/Rayquaza.SWSH0.138.36077.png",
+      "rarity": "Amazing Rare",
+      "cardNum": "138/185"
+    },
+    {
+      "name": "Chatot",
+      "set": "Vivid Voltage",
+      "img": "https://den-cards.pokellector.com/299/Chatot.SWSH0.139.36078.png",
+      "rarity": "Common",
+      "cardNum": "139/185"
+    },
+    {
+      "name": "Togekiss V",
+      "set": "Vivid Voltage",
+      "img": "https://den-cards.pokellector.com/299/Togekiss-V.SWSH0.140.36079.png",
+      "rarity": "Rare",
+      "cardNum": "140/185"
+    },
+    {
+      "name": "Togekiss VMAX",
+      "set": "Vivid Voltage",
+      "img": "https://den-cards.pokellector.com/299/Togekiss-VMAX.SWSH0.141.36080.png",
+      "rarity": "Rare",
+      "cardNum": "141/185"
+    },
+    {
+      "name": "Tornadus",
+      "set": "Vivid Voltage",
+      "img": "https://den-cards.pokellector.com/299/Tornadus.SWSH0.142.36081.png",
+      "rarity": "Rare",
+      "cardNum": "142/185"
+    },
+    {
+      "name": "Pikipek",
+      "set": "Vivid Voltage",
+      "img": "https://den-cards.pokellector.com/299/Pikipek.SWSH0.143.36082.png",
+      "rarity": "Common",
+      "cardNum": "143/185"
+    },
+    {
+      "name": "Trumbeak",
+      "set": "Vivid Voltage",
+      "img": "https://den-cards.pokellector.com/299/Trumbeak.SWSH0.144.36083.png",
+      "rarity": "Uncommon",
+      "cardNum": "144/185"
+    },
+    {
+      "name": "Toucannon",
+      "set": "Vivid Voltage",
+      "img": "https://den-cards.pokellector.com/299/Toucannon.SWSH0.145.36084.png",
+      "rarity": "Rare",
+      "cardNum": "145/185"
+    },
+    {
+      "name": "Allister",
+      "set": "Vivid Voltage",
+      "img": "https://den-cards.pokellector.com/299/Allister.SWSH0.146.36085.png",
+      "rarity": "Uncommon",
+      "cardNum": "146/185"
+    },
+    {
+      "name": "Bea",
+      "set": "Vivid Voltage",
+      "img": "https://den-cards.pokellector.com/299/Bea.SWSH0.147.36086.png",
+      "rarity": "Uncommon",
+      "cardNum": "147/185"
+    },
+    {
+      "name": "Beauty",
+      "set": "Vivid Voltage",
+      "img": "https://den-cards.pokellector.com/299/Beauty.SWSH0.148.36087.png",
+      "rarity": "Uncommon",
+      "cardNum": "148/185"
+    },
+    {
+      "name": "Cara Liss",
+      "set": "Vivid Voltage",
+      "img": "https://den-cards.pokellector.com/299/Cara-Liss.SWSH0.149.36088.png",
+      "rarity": "Uncommon",
+      "cardNum": "149/185"
+    },
+    {
+      "name": "Circhester Bath",
+      "set": "Vivid Voltage",
+      "img": "https://den-cards.pokellector.com/299/Circhester-Bath.SWSH0.150.36089.png",
+      "rarity": "Uncommon",
+      "cardNum": "150/185"
+    },
+    {
+      "name": "Drone Rotom",
+      "set": "Vivid Voltage",
+      "img": "https://den-cards.pokellector.com/299/Drone-Rotom.SWSH0.151.36090.png",
+      "rarity": "Uncommon",
+      "cardNum": "151/185"
+    },
+    {
+      "name": "Hero's Medal",
+      "set": "Vivid Voltage",
+      "img": "https://den-cards.pokellector.com/299/Heros-Medal.SWSH0.152.36091.png",
+      "rarity": "Uncommon",
+      "cardNum": "152/185"
+    },
+    {
+      "name": "League Staff",
+      "set": "Vivid Voltage",
+      "img": "https://den-cards.pokellector.com/299/League-Staff.SWSH0.153.36092.png",
+      "rarity": "Uncommon",
+      "cardNum": "153/185"
+    },
+    {
+      "name": "Leon",
+      "set": "Vivid Voltage",
+      "img": "https://den-cards.pokellector.com/299/Leon.SWSH0.154.36093.png",
+      "rarity": "Rare",
+      "cardNum": "154/185"
+    },
+    {
+      "name": "Memory Capsule",
+      "set": "Vivid Voltage",
+      "img": "https://den-cards.pokellector.com/299/Memory-Capsule.SWSH0.155.36094.png",
+      "rarity": "Uncommon",
+      "cardNum": "155/185"
+    },
+    {
+      "name": "Moomoo Cheese",
+      "set": "Vivid Voltage",
+      "img": "https://den-cards.pokellector.com/299/Moomoo-Cheese.SWSH0.156.36095.png",
+      "rarity": "Uncommon",
+      "cardNum": "156/185"
+    },
+    {
+      "name": "Nessa",
+      "set": "Vivid Voltage",
+      "img": "https://den-cards.pokellector.com/299/Nessa.SWSH0.157.36096.png",
+      "rarity": "Uncommon",
+      "cardNum": "157/185"
+    },
+    {
+      "name": "Opal",
+      "set": "Vivid Voltage",
+      "img": "https://den-cards.pokellector.com/299/Opal.SWSH0.158.36097.png",
+      "rarity": "Uncommon",
+      "cardNum": "158/185"
+    },
+    {
+      "name": "Rocky Helmet",
+      "set": "Vivid Voltage",
+      "img": "https://den-cards.pokellector.com/299/Rocky-Helmet.SWSH0.159.36098.png",
+      "rarity": "Uncommon",
+      "cardNum": "159/185"
+    },
+    {
+      "name": "Telescopic Sight",
+      "set": "Vivid Voltage",
+      "img": "https://den-cards.pokellector.com/299/Telescopic-Sight.SWSH0.160.36099.png",
+      "rarity": "Uncommon",
+      "cardNum": "160/185"
+    },
+    {
+      "name": "Wyndon Stadium",
+      "set": "Vivid Voltage",
+      "img": "https://den-cards.pokellector.com/299/Wyndon-Stadium.SWSH0.161.36100.png",
+      "rarity": "Uncommon",
+      "cardNum": "161/185"
+    },
+    {
+      "name": "Aromatic Energy",
+      "set": "Vivid Voltage",
+      "img": "https://den-cards.pokellector.com/299/Aromatic-Energy.SWSH0.162.36101.png",
+      "rarity": "Uncommon",
+      "cardNum": "162/185"
+    },
+    {
+      "name": "Coating Energy",
+      "set": "Vivid Voltage",
+      "img": "https://den-cards.pokellector.com/299/Coating-Energy.SWSH0.163.36102.png",
+      "rarity": "Uncommon",
+      "cardNum": "163/185"
+    },
+    {
+      "name": "Stone Energy",
+      "set": "Vivid Voltage",
+      "img": "https://den-cards.pokellector.com/299/Stone-Energy.SWSH0.164.36103.png",
+      "rarity": "Uncommon",
+      "cardNum": "164/185"
+    },
+    {
+      "name": "Wash Energy",
+      "set": "Vivid Voltage",
+      "img": "https://den-cards.pokellector.com/299/Wash-Energy.SWSH0.165.36104.png",
+      "rarity": "Uncommon",
+      "cardNum": "165/185"
+    },
+    {
+      "name": "Orbeetle V",
+      "set": "Vivid Voltage",
+      "img": "https://den-cards.pokellector.com/299/Orbeetle-V.SWSH0.166.36105.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "166/185"
+    },
+    {
+      "name": "Zarude V",
+      "set": "Vivid Voltage",
+      "img": "https://den-cards.pokellector.com/299/Zarude-V.SWSH0.167.36106.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "167/185"
+    },
+    {
+      "name": "Talonflame V",
+      "set": "Vivid Voltage",
+      "img": "https://den-cards.pokellector.com/299/Talonflame-V.SWSH0.168.36107.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "168/185"
+    },
+    {
+      "name": "Galarian Darmanitan V",
+      "set": "Vivid Voltage",
+      "img": "https://den-cards.pokellector.com/299/Galarian-Darmanitan-V.SWSH0.169.36108.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "169/185"
+    },
+    {
+      "name": "Pikachu V",
+      "set": "Vivid Voltage",
+      "img": "https://den-cards.pokellector.com/299/Pikachu-V.SWSH0.170.36109.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "170/185"
+    },
+    {
+      "name": "Ampharos V",
+      "set": "Vivid Voltage",
+      "img": "https://den-cards.pokellector.com/299/Ampharos-V.SWSH0.171.36110.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "171/185"
+    },
+    {
+      "name": "Alakazam V",
+      "set": "Vivid Voltage",
+      "img": "https://den-cards.pokellector.com/299/Alakazam-V.SWSH0.172.36111.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "172/185"
+    },
+    {
+      "name": "Coalossal V",
+      "set": "Vivid Voltage",
+      "img": "https://den-cards.pokellector.com/299/Coalossal-V.SWSH0.173.36112.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "173/185"
+    },
+    {
+      "name": "Galarian Sirfetch'd V",
+      "set": "Vivid Voltage",
+      "img": "https://den-cards.pokellector.com/299/Galarian-Sirfetchd-V.SWSH0.174.36113.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "174/185"
+    },
+    {
+      "name": "Drapion V",
+      "set": "Vivid Voltage",
+      "img": "https://den-cards.pokellector.com/299/Drapion-V.SWSH0.175.36114.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "175/185"
+    },
+    {
+      "name": "Steelix V",
+      "set": "Vivid Voltage",
+      "img": "https://den-cards.pokellector.com/299/Steelix-V.SWSH0.176.36115.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "176/185"
+    },
+    {
+      "name": "Aegislash V",
+      "set": "Vivid Voltage",
+      "img": "https://den-cards.pokellector.com/299/Aegislash-V.SWSH0.177.36116.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "177/185"
+    },
+    {
+      "name": "Togekiss V",
+      "set": "Vivid Voltage",
+      "img": "https://den-cards.pokellector.com/299/Togekiss-V.SWSH0.178.36117.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "178/185"
+    },
+    {
+      "name": "Allister",
+      "set": "Vivid Voltage",
+      "img": "https://den-cards.pokellector.com/299/Allister.SWSH0.179.36118.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "179/185"
+    },
+    {
+      "name": "Bea",
+      "set": "Vivid Voltage",
+      "img": "https://den-cards.pokellector.com/299/Bea.SWSH0.180.36119.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "180/185"
+    },
+    {
+      "name": "Beauty",
+      "set": "Vivid Voltage",
+      "img": "https://den-cards.pokellector.com/299/Beauty.SWSH0.181.36120.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "181/185"
+    },
+    {
+      "name": "Leon",
+      "set": "Vivid Voltage",
+      "img": "https://den-cards.pokellector.com/299/Leon.SWSH0.182.36121.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "182/185"
+    },
+    {
+      "name": "Nessa",
+      "set": "Vivid Voltage",
+      "img": "https://den-cards.pokellector.com/299/Nessa.SWSH0.183.36122.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "183/185"
+    },
+    {
+      "name": "Opal",
+      "set": "Vivid Voltage",
+      "img": "https://den-cards.pokellector.com/299/Opal.SWSH0.184.36123.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "184/185"
+    },
+    {
+      "name": "Pokémon Center Lady",
+      "set": "Vivid Voltage",
+      "img": "https://den-cards.pokellector.com/299/Pokmon-Center-Lady.SWSH0.185.36124.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "185/185"
+    },
+    {
+      "name": "Orbeetle VMAX",
+      "set": "Vivid Voltage",
+      "img": "https://den-cards.pokellector.com/299/Orbeetle-VMAX.SWSH0.186.36125.png",
+      "rarity": "Secret Rare",
+      "cardNum": "186/185"
+    },
+    {
+      "name": "Galarian Darmanitan VMAX",
+      "set": "Vivid Voltage",
+      "img": "https://den-cards.pokellector.com/299/Galarian-Darmanitan-VMAX.SWSH0.187.36126.png",
+      "rarity": "Secret Rare",
+      "cardNum": "187/185"
+    },
+    {
+      "name": "Pikachu VMAX",
+      "set": "Vivid Voltage",
+      "img": "https://den-cards.pokellector.com/299/Pikachu-VMAX.SWSH0.188.36127.png",
+      "rarity": "Secret Rare",
+      "cardNum": "188/185"
+    },
+    {
+      "name": "Coalossal VMAX",
+      "set": "Vivid Voltage",
+      "img": "https://den-cards.pokellector.com/299/Coalossal-VMAX.SWSH0.189.36128.png",
+      "rarity": "Secret Rare",
+      "cardNum": "189/185"
+    },
+    {
+      "name": "Aegislash VMAX",
+      "set": "Vivid Voltage",
+      "img": "https://den-cards.pokellector.com/299/Aegislash-VMAX.SWSH0.190.36129.png",
+      "rarity": "Secret Rare",
+      "cardNum": "190/185"
+    },
+    {
+      "name": "Togekiss VMAX",
+      "set": "Vivid Voltage",
+      "img": "https://den-cards.pokellector.com/299/Togekiss-VMAX.SWSH0.191.36130.png",
+      "rarity": "Secret Rare",
+      "cardNum": "191/185"
+    },
+    {
+      "name": "Allister",
+      "set": "Vivid Voltage",
+      "img": "https://den-cards.pokellector.com/299/Allister.SWSH0.192.36131.png",
+      "rarity": "Secret Rare",
+      "cardNum": "192/185"
+    },
+    {
+      "name": "Bea",
+      "set": "Vivid Voltage",
+      "img": "https://den-cards.pokellector.com/299/Bea.SWSH0.193.36132.png",
+      "rarity": "Secret Rare",
+      "cardNum": "193/185"
+    },
+    {
+      "name": "Beauty",
+      "set": "Vivid Voltage",
+      "img": "https://den-cards.pokellector.com/299/Beauty.SWSH0.194.36133.png",
+      "rarity": "Secret Rare",
+      "cardNum": "194/185"
+    },
+    {
+      "name": "Leon",
+      "set": "Vivid Voltage",
+      "img": "https://den-cards.pokellector.com/299/Leon.SWSH0.195.36134.png",
+      "rarity": "Secret Rare",
+      "cardNum": "195/185"
+    },
+    {
+      "name": "Nessa",
+      "set": "Vivid Voltage",
+      "img": "https://den-cards.pokellector.com/299/Nessa.SWSH0.196.36135.png",
+      "rarity": "Secret Rare",
+      "cardNum": "196/185"
+    },
+    {
+      "name": "Opal",
+      "set": "Vivid Voltage",
+      "img": "https://den-cards.pokellector.com/299/Opal.SWSH0.197.36136.png",
+      "rarity": "Secret Rare",
+      "cardNum": "197/185"
+    },
+    {
+      "name": "Galarian Obstagoon",
+      "set": "Vivid Voltage",
+      "img": "https://den-cards.pokellector.com/299/Galarian-Obstagoon.SWSH0.198.36137.png",
+      "rarity": "Secret Rare",
+      "cardNum": "198/185"
+    },
+    {
+      "name": "Oranguru",
+      "set": "Vivid Voltage",
+      "img": "https://den-cards.pokellector.com/299/Oranguru.SWSH0.199.36138.png",
+      "rarity": "Secret Rare",
+      "cardNum": "199/185"
+    },
+    {
+      "name": "Cape of Toughness",
+      "set": "Vivid Voltage",
+      "img": "https://den-cards.pokellector.com/299/Cape-of-Toughness.SWSH0.200.36139.png",
+      "rarity": "Secret Rare",
+      "cardNum": "200/185"
+    },
+    {
+      "name": "Hero's Medal",
+      "set": "Vivid Voltage",
+      "img": "https://den-cards.pokellector.com/299/Heros-Medal.SWSH0.201.36140.png",
+      "rarity": "Secret Rare",
+      "cardNum": "201/185"
+    },
+    {
+      "name": "Memory Capsule",
+      "set": "Vivid Voltage",
+      "img": "https://den-cards.pokellector.com/299/Memory-Capsule.SWSH0.202.36141.png",
+      "rarity": "Secret Rare",
+      "cardNum": "202/185"
+    },
+    {
+      "name": "Telescopic Sight",
+      "set": "Vivid Voltage",
+      "img": "https://den-cards.pokellector.com/299/Telescopic-Sight.SWSH0.203.36142.png",
+      "rarity": "Secret Rare",
+      "cardNum": "203/185"
+    }
+  ]
+}

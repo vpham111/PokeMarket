@@ -1,0 +1,719 @@
+{
+  "setName": "Noble Victories",
+  "cards": [
+    {
+      "name": "Sewaddle",
+      "set": "Noble Victories",
+      "img": "https://den-cards.pokellector.com/4/Sewaddle.NVI.1.png",
+      "rarity": "Common",
+      "cardNum": "1/101"
+    },
+    {
+      "name": "Swadloon",
+      "set": "Noble Victories",
+      "img": "https://den-cards.pokellector.com/4/Swadloon.NVI.2.png",
+      "rarity": "Uncommon",
+      "cardNum": "2/101"
+    },
+    {
+      "name": "Leavanny",
+      "set": "Noble Victories",
+      "img": "https://den-cards.pokellector.com/4/Leavanny.NVI.3.png",
+      "rarity": "Rare",
+      "cardNum": "3/101"
+    },
+    {
+      "name": "Petilil",
+      "set": "Noble Victories",
+      "img": "https://den-cards.pokellector.com/4/Petilil.NVI.4.png",
+      "rarity": "Common",
+      "cardNum": "4/101"
+    },
+    {
+      "name": "Lilligant",
+      "set": "Noble Victories",
+      "img": "https://den-cards.pokellector.com/4/Lilligant.NVI.5.png",
+      "rarity": "Rare",
+      "cardNum": "5/101"
+    },
+    {
+      "name": "Dwebble",
+      "set": "Noble Victories",
+      "img": "https://den-cards.pokellector.com/4/Dwebble.NVI.6.png",
+      "rarity": "Common",
+      "cardNum": "6/101"
+    },
+    {
+      "name": "Crustle",
+      "set": "Noble Victories",
+      "img": "https://den-cards.pokellector.com/4/Crustle.NVI.7.png",
+      "rarity": "Uncommon",
+      "cardNum": "7/101"
+    },
+    {
+      "name": "Karrablast",
+      "set": "Noble Victories",
+      "img": "https://den-cards.pokellector.com/4/Karrablast.NVI.8.png",
+      "rarity": "Common",
+      "cardNum": "8/101"
+    },
+    {
+      "name": "Foongus",
+      "set": "Noble Victories",
+      "img": "https://den-cards.pokellector.com/4/Foongus.NVI.9.png",
+      "rarity": "Common",
+      "cardNum": "9/101"
+    },
+    {
+      "name": "Amoonguss",
+      "set": "Noble Victories",
+      "img": "https://den-cards.pokellector.com/4/Amoonguss.NVI.10.png",
+      "rarity": "Uncommon",
+      "cardNum": "10/101"
+    },
+    {
+      "name": "Shelmet",
+      "set": "Noble Victories",
+      "img": "https://den-cards.pokellector.com/4/Shelmet.NVI.11.png",
+      "rarity": "Common",
+      "cardNum": "11/101"
+    },
+    {
+      "name": "Accelgor",
+      "set": "Noble Victories",
+      "img": "https://den-cards.pokellector.com/4/Accelgor.NVI.12.png",
+      "rarity": "Rare",
+      "cardNum": "12/101"
+    },
+    {
+      "name": "Virizion",
+      "set": "Noble Victories",
+      "img": "https://den-cards.pokellector.com/4/Virizion.NVI.13.png",
+      "rarity": "Rare",
+      "cardNum": "13/101"
+    },
+    {
+      "name": "Victini",
+      "set": "Noble Victories",
+      "img": "https://den-cards.pokellector.com/4/Victini.NVI.14.png",
+      "rarity": "Rare",
+      "cardNum": "14/101"
+    },
+    {
+      "name": "Victini",
+      "set": "Noble Victories",
+      "img": "https://den-cards.pokellector.com/4/Victini.NVI.15.png",
+      "rarity": "Rare",
+      "cardNum": "15/101"
+    },
+    {
+      "name": "Pansear",
+      "set": "Noble Victories",
+      "img": "https://den-cards.pokellector.com/4/Pansear.NVI.16.png",
+      "rarity": "Common",
+      "cardNum": "16/101"
+    },
+    {
+      "name": "Simisear",
+      "set": "Noble Victories",
+      "img": "https://den-cards.pokellector.com/4/Simisear.NVI.17.png",
+      "rarity": "Uncommon",
+      "cardNum": "17/101"
+    },
+    {
+      "name": "Heatmor",
+      "set": "Noble Victories",
+      "img": "https://den-cards.pokellector.com/4/Heatmor.NVI.18.png",
+      "rarity": "Uncommon",
+      "cardNum": "18/101"
+    },
+    {
+      "name": "Larvesta",
+      "set": "Noble Victories",
+      "img": "https://den-cards.pokellector.com/4/Larvesta.NVI.19.png",
+      "rarity": "Common",
+      "cardNum": "19/101"
+    },
+    {
+      "name": "Larvesta",
+      "set": "Noble Victories",
+      "img": "https://den-cards.pokellector.com/4/Larvesta.NVI.20.png",
+      "rarity": "Common",
+      "cardNum": "20/101"
+    },
+    {
+      "name": "Volcarona",
+      "set": "Noble Victories",
+      "img": "https://den-cards.pokellector.com/4/Volcarona.NVI.21.png",
+      "rarity": "Rare",
+      "cardNum": "21/101"
+    },
+    {
+      "name": "Tympole",
+      "set": "Noble Victories",
+      "img": "https://den-cards.pokellector.com/4/Tympole.NVI.22.png",
+      "rarity": "Common",
+      "cardNum": "22/101"
+    },
+    {
+      "name": "Palpitoad",
+      "set": "Noble Victories",
+      "img": "https://den-cards.pokellector.com/4/Palpitoad.NVI.23.png",
+      "rarity": "Uncommon",
+      "cardNum": "23/101"
+    },
+    {
+      "name": "Seismitoad",
+      "set": "Noble Victories",
+      "img": "https://den-cards.pokellector.com/4/Seismitoad.NVI.24.png",
+      "rarity": "Rare",
+      "cardNum": "24/101"
+    },
+    {
+      "name": "Tirtouga",
+      "set": "Noble Victories",
+      "img": "https://den-cards.pokellector.com/4/Tirtouga.NVI.25.png",
+      "rarity": "Uncommon",
+      "cardNum": "25/101"
+    },
+    {
+      "name": "Carracosta",
+      "set": "Noble Victories",
+      "img": "https://den-cards.pokellector.com/4/Carracosta.NVI.26.png",
+      "rarity": "Rare",
+      "cardNum": "26/101"
+    },
+    {
+      "name": "Vanillite",
+      "set": "Noble Victories",
+      "img": "https://den-cards.pokellector.com/4/Vanillite.NVI.27.png",
+      "rarity": "Common",
+      "cardNum": "27/101"
+    },
+    {
+      "name": "Vanillish",
+      "set": "Noble Victories",
+      "img": "https://den-cards.pokellector.com/4/Vanillish.NVI.28.png",
+      "rarity": "Uncommon",
+      "cardNum": "28/101"
+    },
+    {
+      "name": "Vanilluxe",
+      "set": "Noble Victories",
+      "img": "https://den-cards.pokellector.com/4/Vanilluxe.NVI.29.png",
+      "rarity": "Rare",
+      "cardNum": "29/101"
+    },
+    {
+      "name": "Frillish",
+      "set": "Noble Victories",
+      "img": "https://den-cards.pokellector.com/4/Frillish.NVI.30.png",
+      "rarity": "Common",
+      "cardNum": "30/101"
+    },
+    {
+      "name": "Jellicent",
+      "set": "Noble Victories",
+      "img": "https://den-cards.pokellector.com/4/Jellicent.NVI.31.png",
+      "rarity": "Rare",
+      "cardNum": "31/101"
+    },
+    {
+      "name": "Cryogonal",
+      "set": "Noble Victories",
+      "img": "https://den-cards.pokellector.com/4/Cryogonal.NVI.32.png",
+      "rarity": "Uncommon",
+      "cardNum": "32/101"
+    },
+    {
+      "name": "Cryogonal",
+      "set": "Noble Victories",
+      "img": "https://den-cards.pokellector.com/4/Cryogonal.NVI.33.png",
+      "rarity": "Rare",
+      "cardNum": "33/101"
+    },
+    {
+      "name": "Kyurem",
+      "set": "Noble Victories",
+      "img": "https://den-cards.pokellector.com/4/Kyurem.NVI.34.png",
+      "rarity": "Rare",
+      "cardNum": "34/101"
+    },
+    {
+      "name": "Blitzle",
+      "set": "Noble Victories",
+      "img": "https://den-cards.pokellector.com/4/Blitzle.NVI.35.669.png",
+      "rarity": "Common",
+      "cardNum": "35/101"
+    },
+    {
+      "name": "Zebstrika",
+      "set": "Noble Victories",
+      "img": "https://den-cards.pokellector.com/4/Zebstrika.NVI.36.png",
+      "rarity": "Rare",
+      "cardNum": "36/101"
+    },
+    {
+      "name": "Emolga",
+      "set": "Noble Victories",
+      "img": "https://den-cards.pokellector.com/4/Emolga.NVI.37.png",
+      "rarity": "Uncommon",
+      "cardNum": "37/101"
+    },
+    {
+      "name": "Tynamo",
+      "set": "Noble Victories",
+      "img": "https://den-cards.pokellector.com/4/Tynamo.NVI.38.png",
+      "rarity": "Common",
+      "cardNum": "38/101"
+    },
+    {
+      "name": "Tynamo",
+      "set": "Noble Victories",
+      "img": "https://den-cards.pokellector.com/4/Tynamo.NVI.39.673.png",
+      "rarity": "Common",
+      "cardNum": "39/101"
+    },
+    {
+      "name": "Eelektrik",
+      "set": "Noble Victories",
+      "img": "https://den-cards.pokellector.com/4/Eelektrik.NVI.40.png",
+      "rarity": "Uncommon",
+      "cardNum": "40/101"
+    },
+    {
+      "name": "Eelektross",
+      "set": "Noble Victories",
+      "img": "https://den-cards.pokellector.com/4/Eelektross.NVI.41.png",
+      "rarity": "Rare",
+      "cardNum": "41/101"
+    },
+    {
+      "name": "Stunfisk",
+      "set": "Noble Victories",
+      "img": "https://den-cards.pokellector.com/4/Stunfisk.NVI.42.png",
+      "rarity": "Common",
+      "cardNum": "42/101"
+    },
+    {
+      "name": "Victini",
+      "set": "Noble Victories",
+      "img": "https://den-cards.pokellector.com/4/Victini.NVI.43.png",
+      "rarity": "Rare",
+      "cardNum": "43/101"
+    },
+    {
+      "name": "Yamask",
+      "set": "Noble Victories",
+      "img": "https://den-cards.pokellector.com/4/Yamask.NVI.44.png",
+      "rarity": "Common",
+      "cardNum": "44/101"
+    },
+    {
+      "name": "Yamask",
+      "set": "Noble Victories",
+      "img": "https://den-cards.pokellector.com/4/Yamask.NVI.45.png",
+      "rarity": "Common",
+      "cardNum": "45/101"
+    },
+    {
+      "name": "Cofagrigus",
+      "set": "Noble Victories",
+      "img": "https://den-cards.pokellector.com/4/Cofagrigus.NVI.46.png",
+      "rarity": "Rare",
+      "cardNum": "46/101"
+    },
+    {
+      "name": "Cofagrigus",
+      "set": "Noble Victories",
+      "img": "https://den-cards.pokellector.com/4/Cofagrigus.NVI.47.png",
+      "rarity": "Rare",
+      "cardNum": "47/101"
+    },
+    {
+      "name": "Trubbish",
+      "set": "Noble Victories",
+      "img": "https://den-cards.pokellector.com/4/Trubbish.NVI.48.png",
+      "rarity": "Common",
+      "cardNum": "48/101"
+    },
+    {
+      "name": "Garbodor",
+      "set": "Noble Victories",
+      "img": "https://den-cards.pokellector.com/4/Garbodor.NVI.49.png",
+      "rarity": "Uncommon",
+      "cardNum": "49/101"
+    },
+    {
+      "name": "Solosis",
+      "set": "Noble Victories",
+      "img": "https://den-cards.pokellector.com/4/Solosis.NVI.50.png",
+      "rarity": "Common",
+      "cardNum": "50/101"
+    },
+    {
+      "name": "Duosion",
+      "set": "Noble Victories",
+      "img": "https://den-cards.pokellector.com/4/Duosion.NVI.51.png",
+      "rarity": "Uncommon",
+      "cardNum": "51/101"
+    },
+    {
+      "name": "Reuniclus",
+      "set": "Noble Victories",
+      "img": "https://den-cards.pokellector.com/4/Reuniclus.NVI.52.png",
+      "rarity": "Rare",
+      "cardNum": "52/101"
+    },
+    {
+      "name": "Reuniclus",
+      "set": "Noble Victories",
+      "img": "https://den-cards.pokellector.com/4/Reuniclus.NVI.53.png",
+      "rarity": "Rare",
+      "cardNum": "53/101"
+    },
+    {
+      "name": "Elgyem",
+      "set": "Noble Victories",
+      "img": "https://den-cards.pokellector.com/4/Elgyem.NVI.54.png",
+      "rarity": "Common",
+      "cardNum": "54/101"
+    },
+    {
+      "name": "Elgyem",
+      "set": "Noble Victories",
+      "img": "https://den-cards.pokellector.com/4/Elgyem.NVI.55.png",
+      "rarity": "Common",
+      "cardNum": "55/101"
+    },
+    {
+      "name": "Beheeyem",
+      "set": "Noble Victories",
+      "img": "https://den-cards.pokellector.com/4/Beheeyem.NVI.56.png",
+      "rarity": "Rare",
+      "cardNum": "56/101"
+    },
+    {
+      "name": "Litwick",
+      "set": "Noble Victories",
+      "img": "https://den-cards.pokellector.com/4/Litwick.NVI.57.png",
+      "rarity": "Common",
+      "cardNum": "57/101"
+    },
+    {
+      "name": "Litwick",
+      "set": "Noble Victories",
+      "img": "https://den-cards.pokellector.com/4/Litwick.NVI.58.png",
+      "rarity": "Common",
+      "cardNum": "58/101"
+    },
+    {
+      "name": "Lampent",
+      "set": "Noble Victories",
+      "img": "https://den-cards.pokellector.com/4/Lampent.NVI.59.png",
+      "rarity": "Uncommon",
+      "cardNum": "59/101"
+    },
+    {
+      "name": "Chandelure",
+      "set": "Noble Victories",
+      "img": "https://den-cards.pokellector.com/4/Chandelure.NVI.60.png",
+      "rarity": "Rare",
+      "cardNum": "60/101"
+    },
+    {
+      "name": "Gigalith",
+      "set": "Noble Victories",
+      "img": "https://den-cards.pokellector.com/4/Gigalith.NVI.61.png",
+      "rarity": "Rare",
+      "cardNum": "61/101"
+    },
+    {
+      "name": "Timburr",
+      "set": "Noble Victories",
+      "img": "https://den-cards.pokellector.com/4/Timburr.NVI.62.png",
+      "rarity": "Common",
+      "cardNum": "62/101"
+    },
+    {
+      "name": "Gurdurr",
+      "set": "Noble Victories",
+      "img": "https://den-cards.pokellector.com/4/Gurdurr.NVI.63.png",
+      "rarity": "Uncommon",
+      "cardNum": "63/101"
+    },
+    {
+      "name": "Conkeldurr",
+      "set": "Noble Victories",
+      "img": "https://den-cards.pokellector.com/4/Conkeldurr.NVI.64.png",
+      "rarity": "Rare",
+      "cardNum": "64/101"
+    },
+    {
+      "name": "Conkeldurr",
+      "set": "Noble Victories",
+      "img": "https://den-cards.pokellector.com/4/Conkeldurr.NVI.65.png",
+      "rarity": "Rare",
+      "cardNum": "65/101"
+    },
+    {
+      "name": "Archen",
+      "set": "Noble Victories",
+      "img": "https://den-cards.pokellector.com/4/Archen.NVI.66.png",
+      "rarity": "Uncommon",
+      "cardNum": "66/101"
+    },
+    {
+      "name": "Archeops",
+      "set": "Noble Victories",
+      "img": "https://den-cards.pokellector.com/4/Archeops.NVI.67.png",
+      "rarity": "Rare",
+      "cardNum": "67/101"
+    },
+    {
+      "name": "Stunfisk",
+      "set": "Noble Victories",
+      "img": "https://den-cards.pokellector.com/4/Stunfisk.NVI.68.png",
+      "rarity": "Uncommon",
+      "cardNum": "68/101"
+    },
+    {
+      "name": "Mienfoo",
+      "set": "Noble Victories",
+      "img": "https://den-cards.pokellector.com/4/Mienfoo.NVI.69.png",
+      "rarity": "Common",
+      "cardNum": "69/101"
+    },
+    {
+      "name": "Mienshao",
+      "set": "Noble Victories",
+      "img": "https://den-cards.pokellector.com/4/Mienshao.NVI.70.png",
+      "rarity": "Uncommon",
+      "cardNum": "70/101"
+    },
+    {
+      "name": "Golett",
+      "set": "Noble Victories",
+      "img": "https://den-cards.pokellector.com/4/Golett.NVI.71.png",
+      "rarity": "Common",
+      "cardNum": "71/101"
+    },
+    {
+      "name": "Golurk",
+      "set": "Noble Victories",
+      "img": "https://den-cards.pokellector.com/4/Golurk.NVI.72.png",
+      "rarity": "Rare",
+      "cardNum": "72/101"
+    },
+    {
+      "name": "Terrakion",
+      "set": "Noble Victories",
+      "img": "https://den-cards.pokellector.com/4/Terrakion.NVI.73.png",
+      "rarity": "Rare",
+      "cardNum": "73/101"
+    },
+    {
+      "name": "Landorus",
+      "set": "Noble Victories",
+      "img": "https://den-cards.pokellector.com/4/Landorus.NVI.74.png",
+      "rarity": "Rare",
+      "cardNum": "74/101"
+    },
+    {
+      "name": "Pawniard",
+      "set": "Noble Victories",
+      "img": "https://den-cards.pokellector.com/4/Pawniard.NVI.75.png",
+      "rarity": "Common",
+      "cardNum": "75/101"
+    },
+    {
+      "name": "Bisharp",
+      "set": "Noble Victories",
+      "img": "https://den-cards.pokellector.com/4/Bisharp.NVI.76.png",
+      "rarity": "Uncommon",
+      "cardNum": "76/101"
+    },
+    {
+      "name": "Deino",
+      "set": "Noble Victories",
+      "img": "https://den-cards.pokellector.com/4/Deino.NVI.77.png",
+      "rarity": "Common",
+      "cardNum": "77/101"
+    },
+    {
+      "name": "Zweilous",
+      "set": "Noble Victories",
+      "img": "https://den-cards.pokellector.com/4/Zweilous.NVI.78.png",
+      "rarity": "Uncommon",
+      "cardNum": "78/101"
+    },
+    {
+      "name": "Hydreigon",
+      "set": "Noble Victories",
+      "img": "https://den-cards.pokellector.com/4/Hydreigon.NVI.79.png",
+      "rarity": "Rare",
+      "cardNum": "79/101"
+    },
+    {
+      "name": "Escavalier",
+      "set": "Noble Victories",
+      "img": "https://den-cards.pokellector.com/4/Escavalier.NVI.80.png",
+      "rarity": "Rare",
+      "cardNum": "80/101"
+    },
+    {
+      "name": "Pawniard",
+      "set": "Noble Victories",
+      "img": "https://den-cards.pokellector.com/4/Pawniard.NVI.81.png",
+      "rarity": "Common",
+      "cardNum": "81/101"
+    },
+    {
+      "name": "Bisharp",
+      "set": "Noble Victories",
+      "img": "https://den-cards.pokellector.com/4/Bisharp.NVI.82.png",
+      "rarity": "Rare",
+      "cardNum": "82/101"
+    },
+    {
+      "name": "Durant",
+      "set": "Noble Victories",
+      "img": "https://den-cards.pokellector.com/4/Durant.NVI.83.png",
+      "rarity": "Uncommon",
+      "cardNum": "83/101"
+    },
+    {
+      "name": "Cobalion",
+      "set": "Noble Victories",
+      "img": "https://den-cards.pokellector.com/4/Cobalion.NVI.84.png",
+      "rarity": "Rare",
+      "cardNum": "84/101"
+    },
+    {
+      "name": "Audino",
+      "set": "Noble Victories",
+      "img": "https://den-cards.pokellector.com/4/Audino.NVI.85.png",
+      "rarity": "Uncommon",
+      "cardNum": "85/101"
+    },
+    {
+      "name": "Axew",
+      "set": "Noble Victories",
+      "img": "https://den-cards.pokellector.com/4/Axew.NVI.86.png",
+      "rarity": "Common",
+      "cardNum": "86/101"
+    },
+    {
+      "name": "Fraxure",
+      "set": "Noble Victories",
+      "img": "https://den-cards.pokellector.com/4/Fraxure.NVI.87.png",
+      "rarity": "Uncommon",
+      "cardNum": "87/101"
+    },
+    {
+      "name": "Haxorus",
+      "set": "Noble Victories",
+      "img": "https://den-cards.pokellector.com/4/Haxorus.NVI.88.png",
+      "rarity": "Rare",
+      "cardNum": "88/101"
+    },
+    {
+      "name": "Druddigon",
+      "set": "Noble Victories",
+      "img": "https://den-cards.pokellector.com/4/Druddigon.NVI.89.png",
+      "rarity": "Rare",
+      "cardNum": "89/101"
+    },
+    {
+      "name": "Cover Fossil",
+      "set": "Noble Victories",
+      "img": "https://den-cards.pokellector.com/4/Cover-Fossil.NVI.90.png",
+      "rarity": "Uncommon",
+      "cardNum": "90/101"
+    },
+    {
+      "name": "Eviolite",
+      "set": "Noble Victories",
+      "img": "https://den-cards.pokellector.com/4/Eviolite.NVI.91.png",
+      "rarity": "Uncommon",
+      "cardNum": "91/101"
+    },
+    {
+      "name": "N",
+      "set": "Noble Victories",
+      "img": "https://den-cards.pokellector.com/4/N.NVI.92.png",
+      "rarity": "Uncommon",
+      "cardNum": "92/101"
+    },
+    {
+      "name": "Plume Fossil",
+      "set": "Noble Victories",
+      "img": "https://den-cards.pokellector.com/4/Plume-Fossil.NVI.93.png",
+      "rarity": "Uncommon",
+      "cardNum": "93/101"
+    },
+    {
+      "name": "Rocky Helmet",
+      "set": "Noble Victories",
+      "img": "https://den-cards.pokellector.com/4/Rocky-Helmet.NVI.94.png",
+      "rarity": "Uncommon",
+      "cardNum": "94/101"
+    },
+    {
+      "name": "Super Rod",
+      "set": "Noble Victories",
+      "img": "https://den-cards.pokellector.com/4/Super-Rod.NVI.95.png",
+      "rarity": "Uncommon",
+      "cardNum": "95/101"
+    },
+    {
+      "name": "Xtransceiver",
+      "set": "Noble Victories",
+      "img": "https://den-cards.pokellector.com/4/Xtransceiver.NVI.96.png",
+      "rarity": "Uncommon",
+      "cardNum": "96/101"
+    },
+    {
+      "name": "Virizion",
+      "set": "Noble Victories",
+      "img": "https://den-cards.pokellector.com/4/Virizion.NVI.97.png",
+      "rarity": "Rare",
+      "cardNum": "97/101"
+    },
+    {
+      "name": "Victini",
+      "set": "Noble Victories",
+      "img": "https://den-cards.pokellector.com/4/Victini.NVI.98.png",
+      "rarity": "Rare",
+      "cardNum": "98/101"
+    },
+    {
+      "name": "Terrakion",
+      "set": "Noble Victories",
+      "img": "https://den-cards.pokellector.com/4/Terrakion.NVI.99.png",
+      "rarity": "Rare",
+      "cardNum": "99/101"
+    },
+    {
+      "name": "Cobalion",
+      "set": "Noble Victories",
+      "img": "https://den-cards.pokellector.com/4/Cobalion.NVI.100.png",
+      "rarity": "Rare",
+      "cardNum": "100/101"
+    },
+    {
+      "name": "N",
+      "set": "Noble Victories",
+      "img": "https://den-cards.pokellector.com/4/N.NVI.101.png",
+      "rarity": "Rare",
+      "cardNum": "101/101"
+    },
+    {
+      "name": "Meowth",
+      "set": "Noble Victories",
+      "img": "https://den-cards.pokellector.com/4/Meowth.NVI.102.png",
+      "rarity": "Secret Rare",
+      "cardNum": "102/101"
+    }
+  ]
+}

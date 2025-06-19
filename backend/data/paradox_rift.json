@@ -1,0 +1,1867 @@
+{
+  "setName": "Paradox Rift",
+  "cards": [
+    {
+      "name": "Surskit",
+      "set": "Paradox Rift",
+      "img": "https://den-cards.pokellector.com/377/Surskit.PAR.1.50290.png",
+      "rarity": "Common",
+      "cardNum": "1/182"
+    },
+    {
+      "name": "Masquerain",
+      "set": "Paradox Rift",
+      "img": "https://den-cards.pokellector.com/377/Masquerain.PAR.2.50291.png",
+      "rarity": "Uncommon",
+      "cardNum": "2/182"
+    },
+    {
+      "name": "Froslass ex",
+      "set": "Paradox Rift",
+      "img": "https://den-cards.pokellector.com/377/Froslass-ex.PAR.3.50292.png",
+      "rarity": "Double Rare",
+      "cardNum": "3/182"
+    },
+    {
+      "name": "Pansage",
+      "set": "Paradox Rift",
+      "img": "https://den-cards.pokellector.com/377/Pansage.PAR.4.50293.png",
+      "rarity": "Common",
+      "cardNum": "4/182"
+    },
+    {
+      "name": "Simisage",
+      "set": "Paradox Rift",
+      "img": "https://den-cards.pokellector.com/377/Simisage.PAR.5.50294.png",
+      "rarity": "Uncommon",
+      "cardNum": "5/182"
+    },
+    {
+      "name": "Dwebble",
+      "set": "Paradox Rift",
+      "img": "https://den-cards.pokellector.com/377/Dwebble.PAR.6.50295.png",
+      "rarity": "Common",
+      "cardNum": "6/182"
+    },
+    {
+      "name": "Crustle",
+      "set": "Paradox Rift",
+      "img": "https://den-cards.pokellector.com/377/Crustle.PAR.7.50296.png",
+      "rarity": "Common",
+      "cardNum": "7/182"
+    },
+    {
+      "name": "Bounsweet",
+      "set": "Paradox Rift",
+      "img": "https://den-cards.pokellector.com/377/Bounsweet.PAR.8.50297.png",
+      "rarity": "Common",
+      "cardNum": "8/182"
+    },
+    {
+      "name": "Steenee",
+      "set": "Paradox Rift",
+      "img": "https://den-cards.pokellector.com/377/Steenee.PAR.9.50298.png",
+      "rarity": "Uncommon",
+      "cardNum": "9/182"
+    },
+    {
+      "name": "Blipbug",
+      "set": "Paradox Rift",
+      "img": "https://den-cards.pokellector.com/377/Blipbug.PAR.10.50299.png",
+      "rarity": "Common",
+      "cardNum": "10/182"
+    },
+    {
+      "name": "Dottler",
+      "set": "Paradox Rift",
+      "img": "https://den-cards.pokellector.com/377/Dottler.PAR.11.50300.png",
+      "rarity": "Common",
+      "cardNum": "11/182"
+    },
+    {
+      "name": "Orbeetle",
+      "set": "Paradox Rift",
+      "img": "https://den-cards.pokellector.com/377/Orbeetle.PAR.12.50301.png",
+      "rarity": "Uncommon",
+      "cardNum": "12/182"
+    },
+    {
+      "name": "Nymble",
+      "set": "Paradox Rift",
+      "img": "https://den-cards.pokellector.com/377/Nymble.PAR.13.50302.png",
+      "rarity": "Common",
+      "cardNum": "13/182"
+    },
+    {
+      "name": "Nymble",
+      "set": "Paradox Rift",
+      "img": "https://den-cards.pokellector.com/377/Nymble.PAR.14.50303.png",
+      "rarity": "Common",
+      "cardNum": "14/182"
+    },
+    {
+      "name": "Toedscool",
+      "set": "Paradox Rift",
+      "img": "https://den-cards.pokellector.com/377/Toedscool.PAR.15.50304.png",
+      "rarity": "Common",
+      "cardNum": "15/182"
+    },
+    {
+      "name": "Toedscool",
+      "set": "Paradox Rift",
+      "img": "https://den-cards.pokellector.com/377/Toedscool.PAR.16.50305.png",
+      "rarity": "Common",
+      "cardNum": "16/182"
+    },
+    {
+      "name": "Toedscruel",
+      "set": "Paradox Rift",
+      "img": "https://den-cards.pokellector.com/377/Toedscruel.PAR.17.50306.png",
+      "rarity": "Uncommon",
+      "cardNum": "17/182"
+    },
+    {
+      "name": "Wo-Chien",
+      "set": "Paradox Rift",
+      "img": "https://den-cards.pokellector.com/377/Wo-Chien.PAR.18.50307.png",
+      "rarity": "Rare",
+      "cardNum": "18/182"
+    },
+    {
+      "name": "Magby",
+      "set": "Paradox Rift",
+      "img": "https://den-cards.pokellector.com/377/Magby.PAR.19.50308.png",
+      "rarity": "Common",
+      "cardNum": "19/182"
+    },
+    {
+      "name": "Pansear",
+      "set": "Paradox Rift",
+      "img": "https://den-cards.pokellector.com/377/Pansear.PAR.20.50309.png",
+      "rarity": "Common",
+      "cardNum": "20/182"
+    },
+    {
+      "name": "Simisear",
+      "set": "Paradox Rift",
+      "img": "https://den-cards.pokellector.com/377/Simisear.PAR.21.50310.png",
+      "rarity": "Uncommon",
+      "cardNum": "21/182"
+    },
+    {
+      "name": "Volcanion",
+      "set": "Paradox Rift",
+      "img": "https://den-cards.pokellector.com/377/Volcanion.PAR.22.50311.png",
+      "rarity": "Rare",
+      "cardNum": "22/182"
+    },
+    {
+      "name": "Fuecoco",
+      "set": "Paradox Rift",
+      "img": "https://den-cards.pokellector.com/377/Fuecoco.PAR.23.50312.png",
+      "rarity": "Common",
+      "cardNum": "23/182"
+    },
+    {
+      "name": "Crocalor",
+      "set": "Paradox Rift",
+      "img": "https://den-cards.pokellector.com/377/Crocalor.PAR.24.50313.png",
+      "rarity": "Uncommon",
+      "cardNum": "24/182"
+    },
+    {
+      "name": "Charcadet",
+      "set": "Paradox Rift",
+      "img": "https://den-cards.pokellector.com/377/Charcadet.PAR.25.50314.png",
+      "rarity": "Common",
+      "cardNum": "25/182"
+    },
+    {
+      "name": "Charcadet",
+      "set": "Paradox Rift",
+      "img": "https://den-cards.pokellector.com/377/Charcadet.PAR.26.50315.png",
+      "rarity": "Common",
+      "cardNum": "26/182"
+    },
+    {
+      "name": "Armarouge ex",
+      "set": "Paradox Rift",
+      "img": "https://den-cards.pokellector.com/377/Armarouge-ex.PAR.27.50316.png",
+      "rarity": "Double Rare",
+      "cardNum": "27/182"
+    },
+    {
+      "name": "Iron Moth",
+      "set": "Paradox Rift",
+      "img": "https://den-cards.pokellector.com/377/Iron-Moth.PAR.28.49256.png",
+      "rarity": "Rare",
+      "cardNum": "28/182"
+    },
+    {
+      "name": "Chi-Yu",
+      "set": "Paradox Rift",
+      "img": "https://den-cards.pokellector.com/377/Chi-Yu.PAR.29.50317.png",
+      "rarity": "Rare",
+      "cardNum": "29/182"
+    },
+    {
+      "name": "Horsea",
+      "set": "Paradox Rift",
+      "img": "https://den-cards.pokellector.com/377/Horsea.PAR.30.50318.png",
+      "rarity": "Common",
+      "cardNum": "30/182"
+    },
+    {
+      "name": "Seadra",
+      "set": "Paradox Rift",
+      "img": "https://den-cards.pokellector.com/377/Seadra.PAR.31.50319.png",
+      "rarity": "Common",
+      "cardNum": "31/182"
+    },
+    {
+      "name": "Kingdra",
+      "set": "Paradox Rift",
+      "img": "https://den-cards.pokellector.com/377/Kingdra.PAR.32.50320.png",
+      "rarity": "Rare",
+      "cardNum": "32/182"
+    },
+    {
+      "name": "Remoraid",
+      "set": "Paradox Rift",
+      "img": "https://den-cards.pokellector.com/377/Remoraid.PAR.33.50321.png",
+      "rarity": "Common",
+      "cardNum": "33/182"
+    },
+    {
+      "name": "Octillery",
+      "set": "Paradox Rift",
+      "img": "https://den-cards.pokellector.com/377/Octillery.PAR.34.50322.png",
+      "rarity": "Common",
+      "cardNum": "34/182"
+    },
+    {
+      "name": "Feebas",
+      "set": "Paradox Rift",
+      "img": "https://den-cards.pokellector.com/377/Feebas.PAR.35.50323.png",
+      "rarity": "Common",
+      "cardNum": "35/182"
+    },
+    {
+      "name": "Milotic",
+      "set": "Paradox Rift",
+      "img": "https://den-cards.pokellector.com/377/Milotic.PAR.36.50324.png",
+      "rarity": "Rare",
+      "cardNum": "36/182"
+    },
+    {
+      "name": "Snorunt",
+      "set": "Paradox Rift",
+      "img": "https://den-cards.pokellector.com/377/Snorunt.PAR.37.50325.png",
+      "rarity": "Common",
+      "cardNum": "37/182"
+    },
+    {
+      "name": "Garchomp ex",
+      "set": "Paradox Rift",
+      "img": "https://den-cards.pokellector.com/377/Garchomp-ex.PAR.38.50326.png",
+      "rarity": "Double Rare",
+      "cardNum": "38/182"
+    },
+    {
+      "name": "Mantyke",
+      "set": "Paradox Rift",
+      "img": "https://den-cards.pokellector.com/377/Mantyke.PAR.39.50327.png",
+      "rarity": "Common",
+      "cardNum": "39/182"
+    },
+    {
+      "name": "Palkia",
+      "set": "Paradox Rift",
+      "img": "https://den-cards.pokellector.com/377/Palkia.PAR.40.50328.png",
+      "rarity": "Rare",
+      "cardNum": "40/182"
+    },
+    {
+      "name": "Panpour",
+      "set": "Paradox Rift",
+      "img": "https://den-cards.pokellector.com/377/Panpour.PAR.41.50329.png",
+      "rarity": "Common",
+      "cardNum": "41/182"
+    },
+    {
+      "name": "Simipour",
+      "set": "Paradox Rift",
+      "img": "https://den-cards.pokellector.com/377/Simipour.PAR.42.50330.png",
+      "rarity": "Uncommon",
+      "cardNum": "42/182"
+    },
+    {
+      "name": "Vanillite",
+      "set": "Paradox Rift",
+      "img": "https://den-cards.pokellector.com/377/Vanillite.PAR.43.50331.png",
+      "rarity": "Common",
+      "cardNum": "43/182"
+    },
+    {
+      "name": "Vanillish",
+      "set": "Paradox Rift",
+      "img": "https://den-cards.pokellector.com/377/Vanillish.PAR.44.50332.png",
+      "rarity": "Common",
+      "cardNum": "44/182"
+    },
+    {
+      "name": "Vanilluxe",
+      "set": "Paradox Rift",
+      "img": "https://den-cards.pokellector.com/377/Vanilluxe.PAR.45.50333.png",
+      "rarity": "Uncommon",
+      "cardNum": "45/182"
+    },
+    {
+      "name": "Tsareena ex",
+      "set": "Paradox Rift",
+      "img": "https://den-cards.pokellector.com/377/Tsareena-ex.PAR.46.50334.png",
+      "rarity": "Double Rare",
+      "cardNum": "46/182"
+    },
+    {
+      "name": "Wimpod",
+      "set": "Paradox Rift",
+      "img": "https://den-cards.pokellector.com/377/Wimpod.PAR.47.50335.png",
+      "rarity": "Common",
+      "cardNum": "47/182"
+    },
+    {
+      "name": "Wimpod",
+      "set": "Paradox Rift",
+      "img": "https://den-cards.pokellector.com/377/Wimpod.PAR.48.50336.png",
+      "rarity": "Common",
+      "cardNum": "48/182"
+    },
+    {
+      "name": "Golisopod",
+      "set": "Paradox Rift",
+      "img": "https://den-cards.pokellector.com/377/Golisopod.PAR.49.50337.png",
+      "rarity": "Rare",
+      "cardNum": "49/182"
+    },
+    {
+      "name": "Golisopod ex",
+      "set": "Paradox Rift",
+      "img": "https://den-cards.pokellector.com/377/Golisopod-ex.PAR.50.50338.png",
+      "rarity": "Double Rare",
+      "cardNum": "50/182"
+    },
+    {
+      "name": "Wiglett",
+      "set": "Paradox Rift",
+      "img": "https://den-cards.pokellector.com/377/Wiglett.PAR.51.50339.png",
+      "rarity": "Common",
+      "cardNum": "51/182"
+    },
+    {
+      "name": "Wiglett",
+      "set": "Paradox Rift",
+      "img": "https://den-cards.pokellector.com/377/Wiglett.PAR.52.50340.png",
+      "rarity": "Common",
+      "cardNum": "52/182"
+    },
+    {
+      "name": "Wugtrio",
+      "set": "Paradox Rift",
+      "img": "https://den-cards.pokellector.com/377/Wugtrio.PAR.53.50341.png",
+      "rarity": "Uncommon",
+      "cardNum": "53/182"
+    },
+    {
+      "name": "Veluza",
+      "set": "Paradox Rift",
+      "img": "https://den-cards.pokellector.com/377/Veluza.PAR.54.50342.png",
+      "rarity": "Uncommon",
+      "cardNum": "54/182"
+    },
+    {
+      "name": "Dondozo",
+      "set": "Paradox Rift",
+      "img": "https://den-cards.pokellector.com/377/Dondozo.PAR.55.50343.png",
+      "rarity": "Uncommon",
+      "cardNum": "55/182"
+    },
+    {
+      "name": "Iron Bundle",
+      "set": "Paradox Rift",
+      "img": "https://den-cards.pokellector.com/377/Iron-Bundle.PAR.56.49255.png",
+      "rarity": "Uncommon",
+      "cardNum": "56/182"
+    },
+    {
+      "name": "Chien-Pao",
+      "set": "Paradox Rift",
+      "img": "https://den-cards.pokellector.com/377/Chien-Pao.PAR.57.50344.png",
+      "rarity": "Rare",
+      "cardNum": "57/182"
+    },
+    {
+      "name": "Mewtwo ex",
+      "set": "Paradox Rift",
+      "img": "https://den-cards.pokellector.com/377/Mewtwo-ex.PAR.58.50345.png",
+      "rarity": "Double Rare",
+      "cardNum": "58/182"
+    },
+    {
+      "name": "Elekid",
+      "set": "Paradox Rift",
+      "img": "https://den-cards.pokellector.com/377/Elekid.PAR.59.50346.png",
+      "rarity": "Common",
+      "cardNum": "59/182"
+    },
+    {
+      "name": "Plusle",
+      "set": "Paradox Rift",
+      "img": "https://den-cards.pokellector.com/377/Plusle.PAR.60.50347.png",
+      "rarity": "Common",
+      "cardNum": "60/182"
+    },
+    {
+      "name": "Minun",
+      "set": "Paradox Rift",
+      "img": "https://den-cards.pokellector.com/377/Minun.PAR.61.50348.png",
+      "rarity": "Common",
+      "cardNum": "61/182"
+    },
+    {
+      "name": "Blitzle",
+      "set": "Paradox Rift",
+      "img": "https://den-cards.pokellector.com/377/Blitzle.PAR.62.50349.png",
+      "rarity": "Common",
+      "cardNum": "62/182"
+    },
+    {
+      "name": "Zebstrika",
+      "set": "Paradox Rift",
+      "img": "https://den-cards.pokellector.com/377/Zebstrika.PAR.63.50350.png",
+      "rarity": "Uncommon",
+      "cardNum": "63/182"
+    },
+    {
+      "name": "Joltik",
+      "set": "Paradox Rift",
+      "img": "https://den-cards.pokellector.com/377/Joltik.PAR.64.50351.png",
+      "rarity": "Common",
+      "cardNum": "64/182"
+    },
+    {
+      "name": "Galvantula",
+      "set": "Paradox Rift",
+      "img": "https://den-cards.pokellector.com/377/Galvantula.PAR.65.50352.png",
+      "rarity": "Common",
+      "cardNum": "65/182"
+    },
+    {
+      "name": "Zekrom",
+      "set": "Paradox Rift",
+      "img": "https://den-cards.pokellector.com/377/Zekrom.PAR.66.50353.png",
+      "rarity": "Rare",
+      "cardNum": "66/182"
+    },
+    {
+      "name": "Oricorio",
+      "set": "Paradox Rift",
+      "img": "https://den-cards.pokellector.com/377/Oricorio.PAR.67.50354.png",
+      "rarity": "Common",
+      "cardNum": "67/182"
+    },
+    {
+      "name": "Tapu Koko ex",
+      "set": "Paradox Rift",
+      "img": "https://den-cards.pokellector.com/377/Tapu-Koko-ex.PAR.68.50355.png",
+      "rarity": "Double Rare",
+      "cardNum": "68/182"
+    },
+    {
+      "name": "Toxel",
+      "set": "Paradox Rift",
+      "img": "https://den-cards.pokellector.com/377/Toxel.PAR.69.50356.png",
+      "rarity": "Common",
+      "cardNum": "69/182"
+    },
+    {
+      "name": "Iron Hands ex",
+      "set": "Paradox Rift",
+      "img": "https://den-cards.pokellector.com/377/Iron-Hands-ex.PAR.70.50357.png",
+      "rarity": "Double Rare",
+      "cardNum": "70/182"
+    },
+    {
+      "name": "Natu",
+      "set": "Paradox Rift",
+      "img": "https://den-cards.pokellector.com/377/Natu.PAR.71.50358.png",
+      "rarity": "Common",
+      "cardNum": "71/182"
+    },
+    {
+      "name": "Xatu",
+      "set": "Paradox Rift",
+      "img": "https://den-cards.pokellector.com/377/Xatu.PAR.72.50359.png",
+      "rarity": "Rare",
+      "cardNum": "72/182"
+    },
+    {
+      "name": "Latios",
+      "set": "Paradox Rift",
+      "img": "https://den-cards.pokellector.com/377/Latios.PAR.73.50360.png",
+      "rarity": "Rare",
+      "cardNum": "73/182"
+    },
+    {
+      "name": "Deoxys",
+      "set": "Paradox Rift",
+      "img": "https://den-cards.pokellector.com/377/Deoxys.PAR.74.50361.png",
+      "rarity": "Rare",
+      "cardNum": "74/182"
+    },
+    {
+      "name": "Yamask",
+      "set": "Paradox Rift",
+      "img": "https://den-cards.pokellector.com/377/Yamask.PAR.75.50362.png",
+      "rarity": "Common",
+      "cardNum": "75/182"
+    },
+    {
+      "name": "Cofagrigus ex",
+      "set": "Paradox Rift",
+      "img": "https://den-cards.pokellector.com/377/Cofagrigus-ex.PAR.76.50363.png",
+      "rarity": "Double Rare",
+      "cardNum": "76/182"
+    },
+    {
+      "name": "Pumpkaboo",
+      "set": "Paradox Rift",
+      "img": "https://den-cards.pokellector.com/377/Pumpkaboo.PAR.77.50364.png",
+      "rarity": "Common",
+      "cardNum": "77/182"
+    },
+    {
+      "name": "Gourgeist",
+      "set": "Paradox Rift",
+      "img": "https://den-cards.pokellector.com/377/Gourgeist.PAR.78.50365.png",
+      "rarity": "Uncommon",
+      "cardNum": "78/182"
+    },
+    {
+      "name": "Flittle",
+      "set": "Paradox Rift",
+      "img": "https://den-cards.pokellector.com/377/Flittle.PAR.79.50366.png",
+      "rarity": "Common",
+      "cardNum": "79/182"
+    },
+    {
+      "name": "Flittle",
+      "set": "Paradox Rift",
+      "img": "https://den-cards.pokellector.com/377/Flittle.PAR.80.50367.png",
+      "rarity": "Common",
+      "cardNum": "80/182"
+    },
+    {
+      "name": "Espathra",
+      "set": "Paradox Rift",
+      "img": "https://den-cards.pokellector.com/377/Espathra.PAR.81.50368.png",
+      "rarity": "Rare",
+      "cardNum": "81/182"
+    },
+    {
+      "name": "Tinkatink",
+      "set": "Paradox Rift",
+      "img": "https://den-cards.pokellector.com/377/Tinkatink.PAR.82.50369.png",
+      "rarity": "Common",
+      "cardNum": "82/182"
+    },
+    {
+      "name": "Tinkatink",
+      "set": "Paradox Rift",
+      "img": "https://den-cards.pokellector.com/377/Tinkatink.PAR.83.50370.png",
+      "rarity": "Common",
+      "cardNum": "83/182"
+    },
+    {
+      "name": "Tinkatuff",
+      "set": "Paradox Rift",
+      "img": "https://den-cards.pokellector.com/377/Tinkatuff.PAR.84.50371.png",
+      "rarity": "Common",
+      "cardNum": "84/182"
+    },
+    {
+      "name": "Tinkaton",
+      "set": "Paradox Rift",
+      "img": "https://den-cards.pokellector.com/377/Tinkaton.PAR.85.50372.png",
+      "rarity": "Uncommon",
+      "cardNum": "85/182"
+    },
+    {
+      "name": "Scream Tail",
+      "set": "Paradox Rift",
+      "img": "https://den-cards.pokellector.com/377/Scream-Tail.PAR.86.49253.png",
+      "rarity": "Uncommon",
+      "cardNum": "86/182"
+    },
+    {
+      "name": "Gimmighoul",
+      "set": "Paradox Rift",
+      "img": "https://den-cards.pokellector.com/377/Gimmighoul.PAR.87.50373.png",
+      "rarity": "Common",
+      "cardNum": "87/182"
+    },
+    {
+      "name": "Gimmighoul",
+      "set": "Paradox Rift",
+      "img": "https://den-cards.pokellector.com/377/Gimmighoul.PAR.88.50374.png",
+      "rarity": "Common",
+      "cardNum": "88/182"
+    },
+    {
+      "name": "Iron Valiant ex",
+      "set": "Paradox Rift",
+      "img": "https://den-cards.pokellector.com/377/Iron-Valient-ex.PAR.89.49251.png",
+      "rarity": "Double Rare",
+      "cardNum": "89/182"
+    },
+    {
+      "name": "Onix",
+      "set": "Paradox Rift",
+      "img": "https://den-cards.pokellector.com/377/Onix.PAR.90.50375.png",
+      "rarity": "Common",
+      "cardNum": "90/182"
+    },
+    {
+      "name": "Gligar",
+      "set": "Paradox Rift",
+      "img": "https://den-cards.pokellector.com/377/Gligar.PAR.91.50376.png",
+      "rarity": "Common",
+      "cardNum": "91/182"
+    },
+    {
+      "name": "Gliscor",
+      "set": "Paradox Rift",
+      "img": "https://den-cards.pokellector.com/377/Gliscor.PAR.92.50377.png",
+      "rarity": "Uncommon",
+      "cardNum": "92/182"
+    },
+    {
+      "name": "Groudon",
+      "set": "Paradox Rift",
+      "img": "https://den-cards.pokellector.com/377/Groudon.PAR.93.50378.png",
+      "rarity": "Rare",
+      "cardNum": "93/182"
+    },
+    {
+      "name": "Gible",
+      "set": "Paradox Rift",
+      "img": "https://den-cards.pokellector.com/377/Gible.PAR.94.50379.png",
+      "rarity": "Common",
+      "cardNum": "94/182"
+    },
+    {
+      "name": "Gabite",
+      "set": "Paradox Rift",
+      "img": "https://den-cards.pokellector.com/377/Gabite.PAR.95.50380.png",
+      "rarity": "Common",
+      "cardNum": "95/182"
+    },
+    {
+      "name": "Mienfoo",
+      "set": "Paradox Rift",
+      "img": "https://den-cards.pokellector.com/377/Mienfoo.PAR.96.50381.png",
+      "rarity": "Common",
+      "cardNum": "96/182"
+    },
+    {
+      "name": "Mienshao",
+      "set": "Paradox Rift",
+      "img": "https://den-cards.pokellector.com/377/Mienshao.PAR.97.50382.png",
+      "rarity": "Uncommon",
+      "cardNum": "97/182"
+    },
+    {
+      "name": "Hoopa ex",
+      "set": "Paradox Rift",
+      "img": "https://den-cards.pokellector.com/377/Hoopa-ex.PAR.98.50383.png",
+      "rarity": "Double Rare",
+      "cardNum": "98/182"
+    },
+    {
+      "name": "Minior",
+      "set": "Paradox Rift",
+      "img": "https://den-cards.pokellector.com/377/Minior.PAR.99.50384.png",
+      "rarity": "Uncommon",
+      "cardNum": "99/182"
+    },
+    {
+      "name": "Toxtricity ex",
+      "set": "Paradox Rift",
+      "img": "https://den-cards.pokellector.com/377/Toxtricity-ex.PAR.100.50385.png",
+      "rarity": "Double Rare",
+      "cardNum": "100/182"
+    },
+    {
+      "name": "Nacli",
+      "set": "Paradox Rift",
+      "img": "https://den-cards.pokellector.com/377/Nacli.PAR.101.50386.png",
+      "rarity": "Common",
+      "cardNum": "101/182"
+    },
+    {
+      "name": "Nacli",
+      "set": "Paradox Rift",
+      "img": "https://den-cards.pokellector.com/377/Nacli.PAR.102.50387.png",
+      "rarity": "Common",
+      "cardNum": "102/182"
+    },
+    {
+      "name": "Naclstack",
+      "set": "Paradox Rift",
+      "img": "https://den-cards.pokellector.com/377/Naclstack.PAR.103.50388.png",
+      "rarity": "Common",
+      "cardNum": "103/182"
+    },
+    {
+      "name": "Garganacl",
+      "set": "Paradox Rift",
+      "img": "https://den-cards.pokellector.com/377/Garganacl.PAR.104.50389.png",
+      "rarity": "Rare",
+      "cardNum": "104/182"
+    },
+    {
+      "name": "Klawf",
+      "set": "Paradox Rift",
+      "img": "https://den-cards.pokellector.com/377/Klawf.PAR.105.50390.png",
+      "rarity": "Uncommon",
+      "cardNum": "105/182"
+    },
+    {
+      "name": "Flamigo",
+      "set": "Paradox Rift",
+      "img": "https://den-cards.pokellector.com/377/Flamigo.PAR.106.50391.png",
+      "rarity": "Common",
+      "cardNum": "106/182"
+    },
+    {
+      "name": "Slither Wing",
+      "set": "Paradox Rift",
+      "img": "https://den-cards.pokellector.com/377/Slither-Wing.PAR.107.50392.png",
+      "rarity": "Uncommon",
+      "cardNum": "107/182"
+    },
+    {
+      "name": "Sandy Shocks ex",
+      "set": "Paradox Rift",
+      "img": "https://den-cards.pokellector.com/377/Sandy-Shocks-ex.PAR.108.50393.png",
+      "rarity": "Double Rare",
+      "cardNum": "108/182"
+    },
+    {
+      "name": "Ting-Lu",
+      "set": "Paradox Rift",
+      "img": "https://den-cards.pokellector.com/377/Ting-Lu.PAR.109.50394.png",
+      "rarity": "Rare",
+      "cardNum": "109/182"
+    },
+    {
+      "name": "Zubat",
+      "set": "Paradox Rift",
+      "img": "https://den-cards.pokellector.com/377/Zubat.PAR.110.50395.png",
+      "rarity": "Common",
+      "cardNum": "110/182"
+    },
+    {
+      "name": "Golbat",
+      "set": "Paradox Rift",
+      "img": "https://den-cards.pokellector.com/377/Golbat.PAR.111.50396.png",
+      "rarity": "Common",
+      "cardNum": "111/182"
+    },
+    {
+      "name": "Crobat",
+      "set": "Paradox Rift",
+      "img": "https://den-cards.pokellector.com/377/Crobat.PAR.112.50397.png",
+      "rarity": "Uncommon",
+      "cardNum": "112/182"
+    },
+    {
+      "name": "Absol",
+      "set": "Paradox Rift",
+      "img": "https://den-cards.pokellector.com/377/Absol.PAR.113.50398.png",
+      "rarity": "Uncommon",
+      "cardNum": "113/182"
+    },
+    {
+      "name": "Purrloin",
+      "set": "Paradox Rift",
+      "img": "https://den-cards.pokellector.com/377/Purrloin.PAR.114.50399.png",
+      "rarity": "Common",
+      "cardNum": "114/182"
+    },
+    {
+      "name": "Liepard",
+      "set": "Paradox Rift",
+      "img": "https://den-cards.pokellector.com/377/Liepard.PAR.115.50400.png",
+      "rarity": "Common",
+      "cardNum": "115/182"
+    },
+    {
+      "name": "Trubbish",
+      "set": "Paradox Rift",
+      "img": "https://den-cards.pokellector.com/377/Trubbish.PAR.116.50401.png",
+      "rarity": "Common",
+      "cardNum": "116/182"
+    },
+    {
+      "name": "Garbodor",
+      "set": "Paradox Rift",
+      "img": "https://den-cards.pokellector.com/377/Garbodor.PAR.117.50402.png",
+      "rarity": "Uncommon",
+      "cardNum": "117/182"
+    },
+    {
+      "name": "Yveltal",
+      "set": "Paradox Rift",
+      "img": "https://den-cards.pokellector.com/377/Yveltal.PAR.118.50403.png",
+      "rarity": "Rare",
+      "cardNum": "118/182"
+    },
+    {
+      "name": "Nickit",
+      "set": "Paradox Rift",
+      "img": "https://den-cards.pokellector.com/377/Nickit.PAR.119.50404.png",
+      "rarity": "Common",
+      "cardNum": "119/182"
+    },
+    {
+      "name": "Thievul",
+      "set": "Paradox Rift",
+      "img": "https://den-cards.pokellector.com/377/Thievul.PAR.120.50405.png",
+      "rarity": "Rare",
+      "cardNum": "120/182"
+    },
+    {
+      "name": "Morpeko",
+      "set": "Paradox Rift",
+      "img": "https://den-cards.pokellector.com/377/Morpeko.PAR.121.50406.png",
+      "rarity": "Rare",
+      "cardNum": "121/182"
+    },
+    {
+      "name": "Lokix",
+      "set": "Paradox Rift",
+      "img": "https://den-cards.pokellector.com/377/Lokix.PAR.122.50407.png",
+      "rarity": "Rare",
+      "cardNum": "122/182"
+    },
+    {
+      "name": "Brute Bonnet",
+      "set": "Paradox Rift",
+      "img": "https://den-cards.pokellector.com/377/Brute-Bonnet.PAR.123.49254.png",
+      "rarity": "Rare",
+      "cardNum": "123/182"
+    },
+    {
+      "name": "Roaring Moon ex",
+      "set": "Paradox Rift",
+      "img": "https://den-cards.pokellector.com/377/Roaring-Moon-ex.PAR.124.49252.png",
+      "rarity": "Double Rare",
+      "cardNum": "124/182"
+    },
+    {
+      "name": "Steelix",
+      "set": "Paradox Rift",
+      "img": "https://den-cards.pokellector.com/377/Steelix.PAR.125.50409.png",
+      "rarity": "Rare",
+      "cardNum": "125/182"
+    },
+    {
+      "name": "Jirachi",
+      "set": "Paradox Rift",
+      "img": "https://den-cards.pokellector.com/377/Jirachi.PAR.126.50410.png",
+      "rarity": "Common",
+      "cardNum": "126/182"
+    },
+    {
+      "name": "Ferroseed",
+      "set": "Paradox Rift",
+      "img": "https://den-cards.pokellector.com/377/Ferroseed.PAR.127.50411.png",
+      "rarity": "Common",
+      "cardNum": "127/182"
+    },
+    {
+      "name": "Ferrothorn",
+      "set": "Paradox Rift",
+      "img": "https://den-cards.pokellector.com/377/Ferrothorn.PAR.128.50412.png",
+      "rarity": "Uncommon",
+      "cardNum": "128/182"
+    },
+    {
+      "name": "Durant",
+      "set": "Paradox Rift",
+      "img": "https://den-cards.pokellector.com/377/Durant.PAR.129.50413.png",
+      "rarity": "Uncommon",
+      "cardNum": "129/182"
+    },
+    {
+      "name": "Honedge",
+      "set": "Paradox Rift",
+      "img": "https://den-cards.pokellector.com/377/Honedge.PAR.130.50414.png",
+      "rarity": "Common",
+      "cardNum": "130/182"
+    },
+    {
+      "name": "Honedge",
+      "set": "Paradox Rift",
+      "img": "https://den-cards.pokellector.com/377/Honedge.PAR.131.50415.png",
+      "rarity": "Common",
+      "cardNum": "131/182"
+    },
+    {
+      "name": "Doublade",
+      "set": "Paradox Rift",
+      "img": "https://den-cards.pokellector.com/377/Doublade.PAR.132.50416.png",
+      "rarity": "Common",
+      "cardNum": "132/182"
+    },
+    {
+      "name": "Doublade",
+      "set": "Paradox Rift",
+      "img": "https://den-cards.pokellector.com/377/Doublade.PAR.133.50417.png",
+      "rarity": "Common",
+      "cardNum": "133/182"
+    },
+    {
+      "name": "Aegislash",
+      "set": "Paradox Rift",
+      "img": "https://den-cards.pokellector.com/377/Aegislash.PAR.134.50418.png",
+      "rarity": "Rare",
+      "cardNum": "134/182"
+    },
+    {
+      "name": "Aegislash ex",
+      "set": "Paradox Rift",
+      "img": "https://den-cards.pokellector.com/377/Aegislash-ex.PAR.135.50419.png",
+      "rarity": "Double Rare",
+      "cardNum": "135/182"
+    },
+    {
+      "name": "Zacian",
+      "set": "Paradox Rift",
+      "img": "https://den-cards.pokellector.com/377/Zacian.PAR.136.50420.png",
+      "rarity": "Rare",
+      "cardNum": "136/182"
+    },
+    {
+      "name": "Skeledirge ex",
+      "set": "Paradox Rift",
+      "img": "https://den-cards.pokellector.com/377/Skeledirge-ex.PAR.137.50421.png",
+      "rarity": "Double Rare",
+      "cardNum": "137/182"
+    },
+    {
+      "name": "Orthworm",
+      "set": "Paradox Rift",
+      "img": "https://den-cards.pokellector.com/377/Orthworm.PAR.138.50422.png",
+      "rarity": "Uncommon",
+      "cardNum": "138/182"
+    },
+    {
+      "name": "Gholdengo ex",
+      "set": "Paradox Rift",
+      "img": "https://den-cards.pokellector.com/377/Gholdengo-ex.PAR.139.50423.png",
+      "rarity": "Double Rare",
+      "cardNum": "139/182"
+    },
+    {
+      "name": "Altaria ex",
+      "set": "Paradox Rift",
+      "img": "https://den-cards.pokellector.com/377/Altaria-ex.PAR.140.50424.png",
+      "rarity": "Double Rare",
+      "cardNum": "140/182"
+    },
+    {
+      "name": "Tatsugiri",
+      "set": "Paradox Rift",
+      "img": "https://den-cards.pokellector.com/377/Tatsugiri.PAR.141.50425.png",
+      "rarity": "Uncommon",
+      "cardNum": "141/182"
+    },
+    {
+      "name": "Porygon",
+      "set": "Paradox Rift",
+      "img": "https://den-cards.pokellector.com/377/Porygon.PAR.142.50426.png",
+      "rarity": "Common",
+      "cardNum": "142/182"
+    },
+    {
+      "name": "Porygon2",
+      "set": "Paradox Rift",
+      "img": "https://den-cards.pokellector.com/377/Porygon2.PAR.143.50427.png",
+      "rarity": "Common",
+      "cardNum": "143/182"
+    },
+    {
+      "name": "Porygon-Z",
+      "set": "Paradox Rift",
+      "img": "https://den-cards.pokellector.com/377/Porygon-Z.PAR.144.50428.png",
+      "rarity": "Rare",
+      "cardNum": "144/182"
+    },
+    {
+      "name": "Aipom",
+      "set": "Paradox Rift",
+      "img": "https://den-cards.pokellector.com/377/Aipom.PAR.145.50429.png",
+      "rarity": "Common",
+      "cardNum": "145/182"
+    },
+    {
+      "name": "Ambipom",
+      "set": "Paradox Rift",
+      "img": "https://den-cards.pokellector.com/377/Ambipom.PAR.146.50430.png",
+      "rarity": "Uncommon",
+      "cardNum": "146/182"
+    },
+    {
+      "name": "Miltank",
+      "set": "Paradox Rift",
+      "img": "https://den-cards.pokellector.com/377/Miltank.PAR.147.50431.png",
+      "rarity": "Common",
+      "cardNum": "147/182"
+    },
+    {
+      "name": "Whismur",
+      "set": "Paradox Rift",
+      "img": "https://den-cards.pokellector.com/377/Whismur.PAR.148.50432.png",
+      "rarity": "Common",
+      "cardNum": "148/182"
+    },
+    {
+      "name": "Loudred",
+      "set": "Paradox Rift",
+      "img": "https://den-cards.pokellector.com/377/Loudred.PAR.149.50433.png",
+      "rarity": "Common",
+      "cardNum": "149/182"
+    },
+    {
+      "name": "Exploud",
+      "set": "Paradox Rift",
+      "img": "https://den-cards.pokellector.com/377/Exploud.PAR.150.50434.png",
+      "rarity": "Uncommon",
+      "cardNum": "150/182"
+    },
+    {
+      "name": "Spinda",
+      "set": "Paradox Rift",
+      "img": "https://den-cards.pokellector.com/377/Spinda.PAR.151.50435.png",
+      "rarity": "Common",
+      "cardNum": "151/182"
+    },
+    {
+      "name": "Swablu",
+      "set": "Paradox Rift",
+      "img": "https://den-cards.pokellector.com/377/Swablu.PAR.152.50436.png",
+      "rarity": "Common",
+      "cardNum": "152/182"
+    },
+    {
+      "name": "Tandemaus",
+      "set": "Paradox Rift",
+      "img": "https://den-cards.pokellector.com/377/Tandemaus.PAR.153.50437.png",
+      "rarity": "Common",
+      "cardNum": "153/182"
+    },
+    {
+      "name": "Tandemaus",
+      "set": "Paradox Rift",
+      "img": "https://den-cards.pokellector.com/377/Tandemaus.PAR.154.50438.png",
+      "rarity": "Common",
+      "cardNum": "154/182"
+    },
+    {
+      "name": "Maushold ex",
+      "set": "Paradox Rift",
+      "img": "https://den-cards.pokellector.com/377/Maushold-ex.PAR.155.50439.png",
+      "rarity": "Double Rare",
+      "cardNum": "155/182"
+    },
+    {
+      "name": "Bombirdier ex",
+      "set": "Paradox Rift",
+      "img": "https://den-cards.pokellector.com/377/Bombirdier-ex.PAR.156.50440.png",
+      "rarity": "Double Rare",
+      "cardNum": "156/182"
+    },
+    {
+      "name": "Cyclizar",
+      "set": "Paradox Rift",
+      "img": "https://den-cards.pokellector.com/377/Cyclizar.PAR.157.50441.png",
+      "rarity": "Uncommon",
+      "cardNum": "157/182"
+    },
+    {
+      "name": "Iron Jugulis",
+      "set": "Paradox Rift",
+      "img": "https://den-cards.pokellector.com/377/Iron-Jugulis.PAR.158.50442.png",
+      "rarity": "Rare",
+      "cardNum": "158/182"
+    },
+    {
+      "name": "Ancient Booster Energy Capsule",
+      "set": "Paradox Rift",
+      "img": "https://den-cards.pokellector.com/377/Ancient-Booster-Energy-Capsule.PAR.159.49286.png",
+      "rarity": "Uncommon",
+      "cardNum": "159/182"
+    },
+    {
+      "name": "Counter Catcher",
+      "set": "Paradox Rift",
+      "img": "https://den-cards.pokellector.com/377/Counter-Catcher.PAR.160.50443.png",
+      "rarity": "Uncommon",
+      "cardNum": "160/182"
+    },
+    {
+      "name": "Cursed Duster",
+      "set": "Paradox Rift",
+      "img": "https://den-cards.pokellector.com/377/Cursed-Duster.PAR.161.50444.png",
+      "rarity": "Uncommon",
+      "cardNum": "161/182"
+    },
+    {
+      "name": "Defiance Vest",
+      "set": "Paradox Rift",
+      "img": "https://den-cards.pokellector.com/377/Defiance-Vest.PAR.162.50445.png",
+      "rarity": "Uncommon",
+      "cardNum": "162/182"
+    },
+    {
+      "name": "Earthen Vessel",
+      "set": "Paradox Rift",
+      "img": "https://den-cards.pokellector.com/377/Earthen-Vessel.PAR.163.50446.png",
+      "rarity": "Uncommon",
+      "cardNum": "163/182"
+    },
+    {
+      "name": "Future Booster Energy Capsule",
+      "set": "Paradox Rift",
+      "img": "https://den-cards.pokellector.com/377/Future-Booster-Energy-Capsule.PAR.164.49287.png",
+      "rarity": "Uncommon",
+      "cardNum": "164/182"
+    },
+    {
+      "name": "Larry",
+      "set": "Paradox Rift",
+      "img": "https://den-cards.pokellector.com/377/Larry.PAR.165.50447.png",
+      "rarity": "Common",
+      "cardNum": "165/182"
+    },
+    {
+      "name": "Luxurious Cape",
+      "set": "Paradox Rift",
+      "img": "https://den-cards.pokellector.com/377/Luxurious-Cape.PAR.166.50448.png",
+      "rarity": "Uncommon",
+      "cardNum": "166/182"
+    },
+    {
+      "name": "Mela",
+      "set": "Paradox Rift",
+      "img": "https://den-cards.pokellector.com/377/Mela.PAR.167.50449.png",
+      "rarity": "Uncommon",
+      "cardNum": "167/182"
+    },
+    {
+      "name": "Norman",
+      "set": "Paradox Rift",
+      "img": "https://den-cards.pokellector.com/377/Norman.PAR.168.50450.png",
+      "rarity": "Uncommon",
+      "cardNum": "168/182"
+    },
+    {
+      "name": "Parasol Lady",
+      "set": "Paradox Rift",
+      "img": "https://den-cards.pokellector.com/377/Parasol-Lady.PAR.169.50451.png",
+      "rarity": "Common",
+      "cardNum": "169/182"
+    },
+    {
+      "name": "Professor Sada's Vitality",
+      "set": "Paradox Rift",
+      "img": "https://den-cards.pokellector.com/377/Professor-Sadas-Vitality.PAR.170.50452.png",
+      "rarity": "Uncommon",
+      "cardNum": "170/182"
+    },
+    {
+      "name": "Professor Turo's Scenario",
+      "set": "Paradox Rift",
+      "img": "https://den-cards.pokellector.com/377/Professor-Turos-Scenario.PAR.171.50453.png",
+      "rarity": "Uncommon",
+      "cardNum": "171/182"
+    },
+    {
+      "name": "Rika",
+      "set": "Paradox Rift",
+      "img": "https://den-cards.pokellector.com/377/Rika.PAR.172.50454.png",
+      "rarity": "Uncommon",
+      "cardNum": "172/182"
+    },
+    {
+      "name": "Roark",
+      "set": "Paradox Rift",
+      "img": "https://den-cards.pokellector.com/377/Roark.PAR.173.50455.png",
+      "rarity": "Uncommon",
+      "cardNum": "173/182"
+    },
+    {
+      "name": "Shauntal",
+      "set": "Paradox Rift",
+      "img": "https://den-cards.pokellector.com/377/Shauntal.PAR.174.50456.png",
+      "rarity": "Uncommon",
+      "cardNum": "174/182"
+    },
+    {
+      "name": "Snorlax Doll",
+      "set": "Paradox Rift",
+      "img": "https://den-cards.pokellector.com/377/Snorlax-Doll.PAR.175.50457.png",
+      "rarity": "Uncommon",
+      "cardNum": "175/182"
+    },
+    {
+      "name": "Technical Machine: Blindside",
+      "set": "Paradox Rift",
+      "img": "https://den-cards.pokellector.com/377/Technical-Machine-Blindside.PAR.176.50458.png",
+      "rarity": "Uncommon",
+      "cardNum": "176/182"
+    },
+    {
+      "name": "Technical Machine: Devolution",
+      "set": "Paradox Rift",
+      "img": "https://den-cards.pokellector.com/377/Technical-Machine-Devolution.PAR.177.50459.png",
+      "rarity": "Uncommon",
+      "cardNum": "177/182"
+    },
+    {
+      "name": "Technical Machine: Evolution",
+      "set": "Paradox Rift",
+      "img": "https://den-cards.pokellector.com/377/Technical-Machine-Evolution.PAR.178.50460.png",
+      "rarity": "Uncommon",
+      "cardNum": "178/182"
+    },
+    {
+      "name": "Technical Machine: Turbo Energize",
+      "set": "Paradox Rift",
+      "img": "https://den-cards.pokellector.com/377/Technical-Machine-Turbo-Energize.PAR.179.50461.png",
+      "rarity": "Uncommon",
+      "cardNum": "179/182"
+    },
+    {
+      "name": "Techno Radar",
+      "set": "Paradox Rift",
+      "img": "https://den-cards.pokellector.com/377/Techno-Radar.PAR.180.50462.png",
+      "rarity": "Uncommon",
+      "cardNum": "180/182"
+    },
+    {
+      "name": "Tulip",
+      "set": "Paradox Rift",
+      "img": "https://den-cards.pokellector.com/377/Tulip.PAR.181.50463.png",
+      "rarity": "Uncommon",
+      "cardNum": "181/182"
+    },
+    {
+      "name": "Medical Energy",
+      "set": "Paradox Rift",
+      "img": "https://den-cards.pokellector.com/377/Medical-Energy.PAR.182.50464.png",
+      "rarity": "Uncommon",
+      "cardNum": "182/182"
+    },
+    {
+      "name": "Crustle",
+      "set": "Paradox Rift",
+      "img": "https://den-cards.pokellector.com/377/Crustle.PAR.183.50465.png",
+      "rarity": "Illustration Rare",
+      "cardNum": "183/182"
+    },
+    {
+      "name": "Dottler",
+      "set": "Paradox Rift",
+      "img": "https://den-cards.pokellector.com/377/Dottler.PAR.184.50466.png",
+      "rarity": "Illustration Rare",
+      "cardNum": "184/182"
+    },
+    {
+      "name": "Toedscruel",
+      "set": "Paradox Rift",
+      "img": "https://den-cards.pokellector.com/377/Toedscruel.PAR.185.50467.png",
+      "rarity": "Illustration Rare",
+      "cardNum": "185/182"
+    },
+    {
+      "name": "Magby",
+      "set": "Paradox Rift",
+      "img": "https://den-cards.pokellector.com/377/Brute-Bonnet.PAR.186.49258.png",
+      "rarity": "Illustration Rare",
+      "cardNum": "186/182"
+    },
+    {
+      "name": "Iron Moth",
+      "set": "Paradox Rift",
+      "img": "https://den-cards.pokellector.com/377/Iron-Moth.PAR.187.49257.png",
+      "rarity": "Illustration Rare",
+      "cardNum": "187/182"
+    },
+    {
+      "name": "Snorunt",
+      "set": "Paradox Rift",
+      "img": "https://den-cards.pokellector.com/377/Snorunt.PAR.188.50468.png",
+      "rarity": "Illustration Rare",
+      "cardNum": "188/182"
+    },
+    {
+      "name": "Mantyke",
+      "set": "Paradox Rift",
+      "img": "https://den-cards.pokellector.com/377/Mantyke.PAR.189.50469.png",
+      "rarity": "Illustration Rare",
+      "cardNum": "189/182"
+    },
+    {
+      "name": "Vanillish",
+      "set": "Paradox Rift",
+      "img": "https://den-cards.pokellector.com/377/Vanillish.PAR.190.50470.png",
+      "rarity": "Illustration Rare",
+      "cardNum": "190/182"
+    },
+    {
+      "name": "Wimpod",
+      "set": "Paradox Rift",
+      "img": "https://den-cards.pokellector.com/377/Wimpod.PAR.191.50471.png",
+      "rarity": "Illustration Rare",
+      "cardNum": "191/182"
+    },
+    {
+      "name": "Veluza",
+      "set": "Paradox Rift",
+      "img": "https://den-cards.pokellector.com/377/Veluza.PAR.192.50472.png",
+      "rarity": "Illustration Rare",
+      "cardNum": "192/182"
+    },
+    {
+      "name": "Plusle",
+      "set": "Paradox Rift",
+      "img": "https://den-cards.pokellector.com/377/Plusle.PAR.193.50473.png",
+      "rarity": "Illustration Rare",
+      "cardNum": "193/182"
+    },
+    {
+      "name": "Minun",
+      "set": "Paradox Rift",
+      "img": "https://den-cards.pokellector.com/377/Minun.PAR.194.50474.png",
+      "rarity": "Illustration Rare",
+      "cardNum": "194/182"
+    },
+    {
+      "name": "Blitzle",
+      "set": "Paradox Rift",
+      "img": "https://den-cards.pokellector.com/377/Blitzle.PAR.195.50475.png",
+      "rarity": "Illustration Rare",
+      "cardNum": "195/182"
+    },
+    {
+      "name": "Joltik",
+      "set": "Paradox Rift",
+      "img": "https://den-cards.pokellector.com/377/Joltik.PAR.196.50476.png",
+      "rarity": "Illustration Rare",
+      "cardNum": "196/182"
+    },
+    {
+      "name": "Espathra",
+      "set": "Paradox Rift",
+      "img": "https://den-cards.pokellector.com/377/Espathra.PAR.197.50477.png",
+      "rarity": "Illustration Rare",
+      "cardNum": "197/182"
+    },
+    {
+      "name": "Gimmighoul",
+      "set": "Paradox Rift",
+      "img": "https://den-cards.pokellector.com/377/Gimmighoul.PAR.198.50478.png",
+      "rarity": "Illustration Rare",
+      "cardNum": "198/182"
+    },
+    {
+      "name": "Groudon",
+      "set": "Paradox Rift",
+      "img": "https://den-cards.pokellector.com/377/Groudon.PAR.199.50479.png",
+      "rarity": "Illustration Rare",
+      "cardNum": "199/182"
+    },
+    {
+      "name": "Mienshao",
+      "set": "Paradox Rift",
+      "img": "https://den-cards.pokellector.com/377/Mienshao.PAR.200.50480.png",
+      "rarity": "Illustration Rare",
+      "cardNum": "200/182"
+    },
+    {
+      "name": "Minior",
+      "set": "Paradox Rift",
+      "img": "https://den-cards.pokellector.com/377/Minior.PAR.201.50481.png",
+      "rarity": "Illustration Rare",
+      "cardNum": "201/182"
+    },
+    {
+      "name": "Garganacl",
+      "set": "Paradox Rift",
+      "img": "https://den-cards.pokellector.com/377/Garganacl.PAR.202.50482.png",
+      "rarity": "Illustration Rare",
+      "cardNum": "202/182"
+    },
+    {
+      "name": "Slither Wing",
+      "set": "Paradox Rift",
+      "img": "https://den-cards.pokellector.com/377/Slither-Wing.PAR.203.50483.png",
+      "rarity": "Illustration Rare",
+      "cardNum": "203/182"
+    },
+    {
+      "name": "Garbodor",
+      "set": "Paradox Rift",
+      "img": "https://den-cards.pokellector.com/377/Garbodor.PAR.204.50484.png",
+      "rarity": "Illustration Rare",
+      "cardNum": "204/182"
+    },
+    {
+      "name": "Yveltal",
+      "set": "Paradox Rift",
+      "img": "https://den-cards.pokellector.com/377/Yveltal.PAR.205.50485.png",
+      "rarity": "Illustration Rare",
+      "cardNum": "205/182"
+    },
+    {
+      "name": "Morpeko",
+      "set": "Paradox Rift",
+      "img": "https://den-cards.pokellector.com/377/Morpeko.PAR.206.50486.png",
+      "rarity": "Illustration Rare",
+      "cardNum": "206/182"
+    },
+    {
+      "name": "Brute Bonnet",
+      "set": "Paradox Rift",
+      "img": "https://den-cards.pokellector.com/377/Brute-Bonnet.PAR.207.49259.png",
+      "rarity": "Illustration Rare",
+      "cardNum": "207/182"
+    },
+    {
+      "name": "Steelix",
+      "set": "Paradox Rift",
+      "img": "https://den-cards.pokellector.com/377/Steelix.PAR.208.50487.png",
+      "rarity": "Illustration Rare",
+      "cardNum": "208/182"
+    },
+    {
+      "name": "Ferrothorn",
+      "set": "Paradox Rift",
+      "img": "https://den-cards.pokellector.com/377/Ferrothorn.PAR.209.50488.png",
+      "rarity": "Illustration Rare",
+      "cardNum": "209/182"
+    },
+    {
+      "name": "Aegislash",
+      "set": "Paradox Rift",
+      "img": "https://den-cards.pokellector.com/377/Aegislash.PAR.210.50489.png",
+      "rarity": "Illustration Rare",
+      "cardNum": "210/182"
+    },
+    {
+      "name": "Aipom",
+      "set": "Paradox Rift",
+      "img": "https://den-cards.pokellector.com/377/Aipom.PAR.211.50490.png",
+      "rarity": "Illustration Rare",
+      "cardNum": "211/182"
+    },
+    {
+      "name": "Loudred",
+      "set": "Paradox Rift",
+      "img": "https://den-cards.pokellector.com/377/Loudred.PAR.212.50491.png",
+      "rarity": "Illustration Rare",
+      "cardNum": "212/182"
+    },
+    {
+      "name": "Swablu",
+      "set": "Paradox Rift",
+      "img": "https://den-cards.pokellector.com/377/Swablu.PAR.213.50492.png",
+      "rarity": "Illustration Rare",
+      "cardNum": "213/182"
+    },
+    {
+      "name": "Porygon-Z",
+      "set": "Paradox Rift",
+      "img": "https://den-cards.pokellector.com/377/Porygon-Z.PAR.214.50493.png",
+      "rarity": "Illustration Rare",
+      "cardNum": "214/182"
+    },
+    {
+      "name": "Cyclizar",
+      "set": "Paradox Rift",
+      "img": "https://den-cards.pokellector.com/377/Cyclizar.PAR.215.50494.png",
+      "rarity": "Illustration Rare",
+      "cardNum": "215/182"
+    },
+    {
+      "name": "Iron Jugulis",
+      "set": "Paradox Rift",
+      "img": "https://den-cards.pokellector.com/377/Iron-Jugulis.PAR.216.50495.png",
+      "rarity": "Illustration Rare",
+      "cardNum": "216/182"
+    },
+    {
+      "name": "Froslass ex",
+      "set": "Paradox Rift",
+      "img": "https://den-cards.pokellector.com/377/Froslass-ex.PAR.217.50496.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "217/182"
+    },
+    {
+      "name": "Armarouge ex",
+      "set": "Paradox Rift",
+      "img": "https://den-cards.pokellector.com/377/Armarouge-ex.PAR.218.50497.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "218/182"
+    },
+    {
+      "name": "Garchomp ex",
+      "set": "Paradox Rift",
+      "img": "https://den-cards.pokellector.com/377/Garchomp-ex.PAR.219.50498.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "219/182"
+    },
+    {
+      "name": "Tsareena ex",
+      "set": "Paradox Rift",
+      "img": "https://den-cards.pokellector.com/377/Tsareena-ex.PAR.220.50499.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "220/182"
+    },
+    {
+      "name": "Golisopod ex",
+      "set": "Paradox Rift",
+      "img": "https://den-cards.pokellector.com/377/Golisopod-ex.PAR.221.50500.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "221/182"
+    },
+    {
+      "name": "Tapu Koko ex",
+      "set": "Paradox Rift",
+      "img": "https://den-cards.pokellector.com/377/Tapu-Koko-ex.PAR.222.50501.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "222/182"
+    },
+    {
+      "name": "Iron Hands ex",
+      "set": "Paradox Rift",
+      "img": "https://den-cards.pokellector.com/377/Iron-Hands-ex.PAR.223.50502.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "223/182"
+    },
+    {
+      "name": "Cofagrigus ex",
+      "set": "Paradox Rift",
+      "img": "https://den-cards.pokellector.com/377/Cofagrigus-ex.PAR.224.50503.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "224/182"
+    },
+    {
+      "name": "Iron Valiant ex",
+      "set": "Paradox Rift",
+      "img": "https://den-cards.pokellector.com/377/Iron-Valiant-ex.PAR.225.50504.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "225/182"
+    },
+    {
+      "name": "Hoopa ex",
+      "set": "Paradox Rift",
+      "img": "https://den-cards.pokellector.com/377/Hoopa-ex.PAR.226.50505.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "226/182"
+    },
+    {
+      "name": "Toxtricity ex",
+      "set": "Paradox Rift",
+      "img": "https://den-cards.pokellector.com/377/Toxtricity-ex.PAR.227.50506.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "227/182"
+    },
+    {
+      "name": "Sandy Shocks ex",
+      "set": "Paradox Rift",
+      "img": "https://den-cards.pokellector.com/377/Sandy-Shocks-ex.PAR.228.50507.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "228/182"
+    },
+    {
+      "name": "Roaring Moon ex",
+      "set": "Paradox Rift",
+      "img": "https://den-cards.pokellector.com/377/Roaring-Moon-ex.PAR.229.50508.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "229/182"
+    },
+    {
+      "name": "Aegislash ex",
+      "set": "Paradox Rift",
+      "img": "https://den-cards.pokellector.com/377/Aegislash-ex.PAR.230.50509.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "230/182"
+    },
+    {
+      "name": "Gholdengo ex",
+      "set": "Paradox Rift",
+      "img": "https://den-cards.pokellector.com/377/Gholdengo-ex.PAR.231.50510.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "231/182"
+    },
+    {
+      "name": "Altaria ex",
+      "set": "Paradox Rift",
+      "img": "https://den-cards.pokellector.com/377/Altaria-ex.PAR.232.50511.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "232/182"
+    },
+    {
+      "name": "Maushold ex",
+      "set": "Paradox Rift",
+      "img": "https://den-cards.pokellector.com/377/Maushold-ex.PAR.233.50512.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "233/182"
+    },
+    {
+      "name": "Bombirdier ex",
+      "set": "Paradox Rift",
+      "img": "https://den-cards.pokellector.com/377/Bombirdier-ex.PAR.234.50513.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "234/182"
+    },
+    {
+      "name": "Larry",
+      "set": "Paradox Rift",
+      "img": "https://den-cards.pokellector.com/377/Larry.PAR.235.50514.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "235/182"
+    },
+    {
+      "name": "Mela",
+      "set": "Paradox Rift",
+      "img": "https://den-cards.pokellector.com/377/Mela.PAR.236.50515.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "236/182"
+    },
+    {
+      "name": "Norman",
+      "set": "Paradox Rift",
+      "img": "https://den-cards.pokellector.com/377/Norman.PAR.237.50516.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "237/182"
+    },
+    {
+      "name": "Parasol Lady",
+      "set": "Paradox Rift",
+      "img": "https://den-cards.pokellector.com/377/Parasol-Lady.PAR.238.50517.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "238/182"
+    },
+    {
+      "name": "Professor Sada's Vitality",
+      "set": "Paradox Rift",
+      "img": "https://den-cards.pokellector.com/377/Professor-Sadas-Vitality.PAR.239.50518.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "239/182"
+    },
+    {
+      "name": "Professor Turo's Scenario",
+      "set": "Paradox Rift",
+      "img": "https://den-cards.pokellector.com/377/Professor-Turos-Scenario.PAR.240.50519.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "240/182"
+    },
+    {
+      "name": "Rika",
+      "set": "Paradox Rift",
+      "img": "https://den-cards.pokellector.com/377/Rika.PAR.241.50520.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "241/182"
+    },
+    {
+      "name": "Roark",
+      "set": "Paradox Rift",
+      "img": "https://den-cards.pokellector.com/377/Roark.PAR.242.50521.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "242/182"
+    },
+    {
+      "name": "Shauntal",
+      "set": "Paradox Rift",
+      "img": "https://den-cards.pokellector.com/377/Shauntal.PAR.243.50522.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "243/182"
+    },
+    {
+      "name": "Tulip",
+      "set": "Paradox Rift",
+      "img": "https://den-cards.pokellector.com/377/Tulip.PAR.244.50523.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "244/182"
+    },
+    {
+      "name": "Garchomp ex",
+      "set": "Paradox Rift",
+      "img": "https://den-cards.pokellector.com/377/Garchomp-ex.PAR.245.50524.png",
+      "rarity": "Special Illustration Rare",
+      "cardNum": "245/182"
+    },
+    {
+      "name": "Golisopod ex",
+      "set": "Paradox Rift",
+      "img": "https://den-cards.pokellector.com/377/Golisopod-ex.PAR.246.50525.png",
+      "rarity": "Special Illustration Rare",
+      "cardNum": "246/182"
+    },
+    {
+      "name": "Tapu Koko ex",
+      "set": "Paradox Rift",
+      "img": "https://den-cards.pokellector.com/377/Tapu-Koko-ex.PAR.247.50526.png",
+      "rarity": "Special Illustration Rare",
+      "cardNum": "247/182"
+    },
+    {
+      "name": "Iron Hands ex",
+      "set": "Paradox Rift",
+      "img": "https://den-cards.pokellector.com/377/Iron-Hands-ex.PAR.248.50527.png",
+      "rarity": "Special Illustration Rare",
+      "cardNum": "248/182"
+    },
+    {
+      "name": "Iron Valiant ex",
+      "set": "Paradox Rift",
+      "img": "https://den-cards.pokellector.com/377/Iron-Valiant-ex.PAR.249.50528.png",
+      "rarity": "Special Illustration Rare",
+      "cardNum": "249/182"
+    },
+    {
+      "name": "Sandy Shocks ex",
+      "set": "Paradox Rift",
+      "img": "https://den-cards.pokellector.com/377/Sandy-Shocks-ex.PAR.250.50529.png",
+      "rarity": "Special Illustration Rare",
+      "cardNum": "250/182"
+    },
+    {
+      "name": "Roaring Moon ex",
+      "set": "Paradox Rift",
+      "img": "https://den-cards.pokellector.com/377/Roaring-Moon-ex.PAR.251.50530.png",
+      "rarity": "Special Illustration Rare",
+      "cardNum": "251/182"
+    },
+    {
+      "name": "Gholdengo ex",
+      "set": "Paradox Rift",
+      "img": "https://den-cards.pokellector.com/377/Gholdengo-ex.PAR.252.50531.png",
+      "rarity": "Special Illustration Rare",
+      "cardNum": "252/182"
+    },
+    {
+      "name": "Altaria ex",
+      "set": "Paradox Rift",
+      "img": "https://den-cards.pokellector.com/377/Altaria-ex.PAR.253.50532.png",
+      "rarity": "Special Illustration Rare",
+      "cardNum": "253/182"
+    },
+    {
+      "name": "Mela",
+      "set": "Paradox Rift",
+      "img": "https://den-cards.pokellector.com/377/Mela.PAR.254.50533.png",
+      "rarity": "Special Illustration Rare",
+      "cardNum": "254/182"
+    },
+    {
+      "name": "Parasol Lady",
+      "set": "Paradox Rift",
+      "img": "https://den-cards.pokellector.com/377/Parasol-Lady.PAR.255.50534.png",
+      "rarity": "Special Illustration Rare",
+      "cardNum": "255/182"
+    },
+    {
+      "name": "Professor Sada's Vitality",
+      "set": "Paradox Rift",
+      "img": "https://den-cards.pokellector.com/377/Professor-Sadas-Vitality.PAR.256.50535.png",
+      "rarity": "Special Illustration Rare",
+      "cardNum": "256/182"
+    },
+    {
+      "name": "Professor Turo's Scenario",
+      "set": "Paradox Rift",
+      "img": "https://den-cards.pokellector.com/377/Professor-Turos-Scenario.PAR.257.50536.png",
+      "rarity": "Special Illustration Rare",
+      "cardNum": "257/182"
+    },
+    {
+      "name": "Rika",
+      "set": "Paradox Rift",
+      "img": "https://den-cards.pokellector.com/377/Rika.PAR.258.50537.png",
+      "rarity": "Special Illustration Rare",
+      "cardNum": "258/182"
+    },
+    {
+      "name": "Tulip",
+      "set": "Paradox Rift",
+      "img": "https://den-cards.pokellector.com/377/Tulip.PAR.259.50538.png",
+      "rarity": "Special Illustration Rare",
+      "cardNum": "259/182"
+    },
+    {
+      "name": "Garchomp ex",
+      "set": "Paradox Rift",
+      "img": "https://den-cards.pokellector.com/377/Garchomp-ex.PAR.260.50539.png",
+      "rarity": "Hyper Rare",
+      "cardNum": "260/182"
+    },
+    {
+      "name": "Iron Valiant ex",
+      "set": "Paradox Rift",
+      "img": "https://den-cards.pokellector.com/377/Iron-Valiant-ex.PAR.261.50540.png",
+      "rarity": "Hyper Rare",
+      "cardNum": "261/182"
+    },
+    {
+      "name": "Roaring Moon ex",
+      "set": "Paradox Rift",
+      "img": "https://den-cards.pokellector.com/377/Roaring-Moon-ex.PAR.262.50541.png",
+      "rarity": "Hyper Rare",
+      "cardNum": "262/182"
+    },
+    {
+      "name": "Beach Court",
+      "set": "Paradox Rift",
+      "img": "https://den-cards.pokellector.com/377/Beach-Court.PAR.263.50542.png",
+      "rarity": "Hyper Rare",
+      "cardNum": "263/182"
+    },
+    {
+      "name": "Counter Catcher",
+      "set": "Paradox Rift",
+      "img": "https://den-cards.pokellector.com/377/Counter-Catcher.PAR.264.50543.png",
+      "rarity": "Hyper Rare",
+      "cardNum": "264/182"
+    },
+    {
+      "name": "Luxurious Cape",
+      "set": "Paradox Rift",
+      "img": "https://den-cards.pokellector.com/377/Luxurious-Cape.PAR.265.50544.png",
+      "rarity": "Hyper Rare",
+      "cardNum": "265/182"
+    },
+    {
+      "name": "Reversal Energy",
+      "set": "Paradox Rift",
+      "img": "https://den-cards.pokellector.com/377/Reversal-Energy.PAR.266.50545.png",
+      "rarity": "Hyper Rare",
+      "cardNum": "266/182"
+    }
+  ]
+}

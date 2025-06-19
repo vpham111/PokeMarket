@@ -1,0 +1,411 @@
+{
+  "setName": "Thunder Knuckle",
+  "cards": [
+    {
+      "name": "Weedle",
+      "set": "Thunder Knuckle",
+      "img": "https://den-cards.pokellector.com/28/Weedle.BW8.1.png",
+      "rarity": "Common",
+      "cardNum": "1/51"
+    },
+    {
+      "name": "Kakuna",
+      "set": "Thunder Knuckle",
+      "img": "https://den-cards.pokellector.com/28/Kakuna.BW8.2.png",
+      "rarity": "Common",
+      "cardNum": "2/51"
+    },
+    {
+      "name": "Beedrill",
+      "set": "Thunder Knuckle",
+      "img": "https://den-cards.pokellector.com/28/Beedrill.BW8.3.png",
+      "rarity": "Uncommon",
+      "cardNum": "3/51"
+    },
+    {
+      "name": "Cacnea",
+      "set": "Thunder Knuckle",
+      "img": "https://den-cards.pokellector.com/28/Cacnea.BW8.4.png",
+      "rarity": "Common",
+      "cardNum": "4/51"
+    },
+    {
+      "name": "Cacturne",
+      "set": "Thunder Knuckle",
+      "img": "https://den-cards.pokellector.com/28/Cacturne.BW8.5.png",
+      "rarity": "Uncommon",
+      "cardNum": "5/51"
+    },
+    {
+      "name": "Leafeon",
+      "set": "Thunder Knuckle",
+      "img": "https://den-cards.pokellector.com/28/Leafeon.BW8.6.png",
+      "rarity": "Uncommon",
+      "cardNum": "6/51"
+    },
+    {
+      "name": "Flareon",
+      "set": "Thunder Knuckle",
+      "img": "https://den-cards.pokellector.com/28/Flareon.BW8.7.png",
+      "rarity": "Uncommon",
+      "cardNum": "7/51"
+    },
+    {
+      "name": "Reshiram",
+      "set": "Thunder Knuckle",
+      "img": "https://den-cards.pokellector.com/28/Reshiram.BW8.8.png",
+      "rarity": "Rare",
+      "cardNum": "8/51"
+    },
+    {
+      "name": "Vaporeon",
+      "set": "Thunder Knuckle",
+      "img": "https://den-cards.pokellector.com/28/Vaporeon.BW8.9.png",
+      "rarity": "Uncommon",
+      "cardNum": "9/51"
+    },
+    {
+      "name": "Wooper",
+      "set": "Thunder Knuckle",
+      "img": "https://den-cards.pokellector.com/28/Wooper.BW8.10.png",
+      "rarity": "Common",
+      "cardNum": "10/51"
+    },
+    {
+      "name": "Quagsire",
+      "set": "Thunder Knuckle",
+      "img": "https://den-cards.pokellector.com/28/Quagsire.BW8.11.png",
+      "rarity": "Uncommon",
+      "cardNum": "11/51"
+    },
+    {
+      "name": "Vanillite",
+      "set": "Thunder Knuckle",
+      "img": "https://den-cards.pokellector.com/28/Vanillite.BW8.12.png",
+      "rarity": "Common",
+      "cardNum": "12/51"
+    },
+    {
+      "name": "Vanillish",
+      "set": "Thunder Knuckle",
+      "img": "https://den-cards.pokellector.com/28/Vanillish.BW8.13.png",
+      "rarity": "Common",
+      "cardNum": "13/51"
+    },
+    {
+      "name": "Vanilluxe",
+      "set": "Thunder Knuckle",
+      "img": "https://den-cards.pokellector.com/28/Vanilluxe.BW8.14.png",
+      "rarity": "Uncommon",
+      "cardNum": "14/51"
+    },
+    {
+      "name": "Cryogonal",
+      "set": "Thunder Knuckle",
+      "img": "https://den-cards.pokellector.com/28/Cryogonal.BW8.15.png",
+      "rarity": "Uncommon",
+      "cardNum": "15/51"
+    },
+    {
+      "name": "Kyurem",
+      "set": "Thunder Knuckle",
+      "img": "https://den-cards.pokellector.com/28/Kyurem.BW8.16.png",
+      "rarity": "Rare",
+      "cardNum": "16/51"
+    },
+    {
+      "name": "Voltorb",
+      "set": "Thunder Knuckle",
+      "img": "https://den-cards.pokellector.com/28/Voltorb.BW8.17.png",
+      "rarity": "Common",
+      "cardNum": "17/51"
+    },
+    {
+      "name": "Electrode",
+      "set": "Thunder Knuckle",
+      "img": "https://den-cards.pokellector.com/28/Electrode.BW8.18.png",
+      "rarity": "Rare",
+      "cardNum": "18/51"
+    },
+    {
+      "name": "Pachirisu",
+      "set": "Thunder Knuckle",
+      "img": "https://den-cards.pokellector.com/28/Pachirisu.BW8.19.png",
+      "rarity": "Common",
+      "cardNum": "19/51"
+    },
+    {
+      "name": "Thundurus EX",
+      "set": "Thunder Knuckle",
+      "img": "https://den-cards.pokellector.com/28/Thundurus-EX.BW8.20.png",
+      "rarity": "Rare",
+      "cardNum": "20/51"
+    },
+    {
+      "name": "Nidoran (m)",
+      "set": "Thunder Knuckle",
+      "img": "https://den-cards.pokellector.com/28/Nidoran-m.BW8.21.png",
+      "rarity": "Common",
+      "cardNum": "21/51"
+    },
+    {
+      "name": "Nidorino",
+      "set": "Thunder Knuckle",
+      "img": "https://den-cards.pokellector.com/28/Nidorino.BW8.22.png",
+      "rarity": "Common",
+      "cardNum": "22/51"
+    },
+    {
+      "name": "Grimer",
+      "set": "Thunder Knuckle",
+      "img": "https://den-cards.pokellector.com/28/Grimer.BW8.23.png",
+      "rarity": "Common",
+      "cardNum": "23/51"
+    },
+    {
+      "name": "Muk",
+      "set": "Thunder Knuckle",
+      "img": "https://den-cards.pokellector.com/28/Muk.BW8.24.png",
+      "rarity": "Uncommon",
+      "cardNum": "24/51"
+    },
+    {
+      "name": "Beldum",
+      "set": "Thunder Knuckle",
+      "img": "https://den-cards.pokellector.com/28/Beldum.BW8.25.png",
+      "rarity": "Common",
+      "cardNum": "25/51"
+    },
+    {
+      "name": "Metang",
+      "set": "Thunder Knuckle",
+      "img": "https://den-cards.pokellector.com/28/Metang.BW8.26.png",
+      "rarity": "Common",
+      "cardNum": "26/51"
+    },
+    {
+      "name": "Metagross",
+      "set": "Thunder Knuckle",
+      "img": "https://den-cards.pokellector.com/28/Metagross.BW8.27.png",
+      "rarity": "Rare",
+      "cardNum": "27/51"
+    },
+    {
+      "name": "Nidoking",
+      "set": "Thunder Knuckle",
+      "img": "https://den-cards.pokellector.com/28/Nidoking.BW8.28.png",
+      "rarity": "Uncommon",
+      "cardNum": "28/51"
+    },
+    {
+      "name": "Makuhita",
+      "set": "Thunder Knuckle",
+      "img": "https://den-cards.pokellector.com/28/Makuhita.BW8.29.png",
+      "rarity": "Common",
+      "cardNum": "29/51"
+    },
+    {
+      "name": "Hariyama",
+      "set": "Thunder Knuckle",
+      "img": "https://den-cards.pokellector.com/28/Hariyama.BW8.30.png",
+      "rarity": "Common",
+      "cardNum": "30/51"
+    },
+    {
+      "name": "Umbreon",
+      "set": "Thunder Knuckle",
+      "img": "https://den-cards.pokellector.com/28/Umbreon.BW8.31.png",
+      "rarity": "Rare",
+      "cardNum": "31/51"
+    },
+    {
+      "name": "Pawniard",
+      "set": "Thunder Knuckle",
+      "img": "https://den-cards.pokellector.com/28/Pawniard.BW8.32.png",
+      "rarity": "Common",
+      "cardNum": "32/51"
+    },
+    {
+      "name": "Bisharp",
+      "set": "Thunder Knuckle",
+      "img": "https://den-cards.pokellector.com/28/Bisharp.BW8.33.png",
+      "rarity": "Uncommon",
+      "cardNum": "33/51"
+    },
+    {
+      "name": "Deino",
+      "set": "Thunder Knuckle",
+      "img": "https://den-cards.pokellector.com/28/Deino.BW8.34.png",
+      "rarity": "Common",
+      "cardNum": "34/51"
+    },
+    {
+      "name": "Zweilous",
+      "set": "Thunder Knuckle",
+      "img": "https://den-cards.pokellector.com/28/Zweilous.BW8.35.png",
+      "rarity": "Common",
+      "cardNum": "35/51"
+    },
+    {
+      "name": "Hydreigon",
+      "set": "Thunder Knuckle",
+      "img": "https://den-cards.pokellector.com/28/Hydreigon.BW8.36.png",
+      "rarity": "Rare",
+      "cardNum": "36/51"
+    },
+    {
+      "name": "Mawile",
+      "set": "Thunder Knuckle",
+      "img": "https://den-cards.pokellector.com/28/Mawile.BW8.37.png",
+      "rarity": "Common",
+      "cardNum": "37/51"
+    },
+    {
+      "name": "Dratini",
+      "set": "Thunder Knuckle",
+      "img": "https://den-cards.pokellector.com/28/Dratini.BW8.38.png",
+      "rarity": "Common",
+      "cardNum": "38/51"
+    },
+    {
+      "name": "Dragonair",
+      "set": "Thunder Knuckle",
+      "img": "https://den-cards.pokellector.com/28/Dragonair.BW8.39.png",
+      "rarity": "Common",
+      "cardNum": "39/51"
+    },
+    {
+      "name": "Dragonite",
+      "set": "Thunder Knuckle",
+      "img": "https://den-cards.pokellector.com/28/Dragonite.BW8.40.png",
+      "rarity": "Rare",
+      "cardNum": "40/51"
+    },
+    {
+      "name": "Latias EX",
+      "set": "Thunder Knuckle",
+      "img": "https://den-cards.pokellector.com/28/Latias-EX.BW8.41.png",
+      "rarity": "Rare",
+      "cardNum": "41/51"
+    },
+    {
+      "name": "Eevee",
+      "set": "Thunder Knuckle",
+      "img": "https://den-cards.pokellector.com/28/Eevee.BW8.42.png",
+      "rarity": "Common",
+      "cardNum": "42/51"
+    },
+    {
+      "name": "Starly",
+      "set": "Thunder Knuckle",
+      "img": "https://den-cards.pokellector.com/28/Starly.BW8.43.png",
+      "rarity": "Common",
+      "cardNum": "43/51"
+    },
+    {
+      "name": "Staravia",
+      "set": "Thunder Knuckle",
+      "img": "https://den-cards.pokellector.com/28/Staravia.BW8.44.png",
+      "rarity": "Common",
+      "cardNum": "44/51"
+    },
+    {
+      "name": "Staraptor",
+      "set": "Thunder Knuckle",
+      "img": "https://den-cards.pokellector.com/28/Staraptor.BW8.45.png",
+      "rarity": "Uncommon",
+      "cardNum": "45/51"
+    },
+    {
+      "name": "Tornadus EX",
+      "set": "Thunder Knuckle",
+      "img": "https://den-cards.pokellector.com/28/Tornadus-EX.BW8.46.png",
+      "rarity": "Rare",
+      "cardNum": "46/51"
+    },
+    {
+      "name": "Team Plasma's Poke Ball",
+      "set": "Thunder Knuckle",
+      "img": "https://den-cards.pokellector.com/28/Team-Plasmas-Poke-Ball.BW8.47.png",
+      "rarity": "Uncommon",
+      "cardNum": "47/51"
+    },
+    {
+      "name": "Float Stone",
+      "set": "Thunder Knuckle",
+      "img": "https://den-cards.pokellector.com/28/Float-Stone.BW8.48.png",
+      "rarity": "Uncommon",
+      "cardNum": "48/51"
+    },
+    {
+      "name": "Shadow Triad",
+      "set": "Thunder Knuckle",
+      "img": "https://den-cards.pokellector.com/28/Shadow-Triad.BW8.49.png",
+      "rarity": "Uncommon",
+      "cardNum": "49/51"
+    },
+    {
+      "name": "Life Droplets",
+      "set": "Thunder Knuckle",
+      "img": "https://den-cards.pokellector.com/28/Life-Droplets.BW8.50.png",
+      "rarity": "Rare",
+      "cardNum": "50/51"
+    },
+    {
+      "name": "Plasma Energy",
+      "set": "Thunder Knuckle",
+      "img": "https://den-cards.pokellector.com/28/Plasma-Energy.BW8.51.png",
+      "rarity": "Uncommon",
+      "cardNum": "51/51"
+    },
+    {
+      "name": "Thundurus EX",
+      "set": "Thunder Knuckle",
+      "img": "https://den-cards.pokellector.com/28/Thundurus-EX.BW8.52.png",
+      "rarity": "Secret Rare",
+      "cardNum": "52/51"
+    },
+    {
+      "name": "Latias EX",
+      "set": "Thunder Knuckle",
+      "img": "https://den-cards.pokellector.com/28/Latias-EX.BW8.53.png",
+      "rarity": "Secret Rare",
+      "cardNum": "53/51"
+    },
+    {
+      "name": "Tornadus EX",
+      "set": "Thunder Knuckle",
+      "img": "https://den-cards.pokellector.com/28/Tornadus-EX.BW8.54.png",
+      "rarity": "Secret Rare",
+      "cardNum": "54/51"
+    },
+    {
+      "name": "Professor Juniper",
+      "set": "Thunder Knuckle",
+      "img": "https://den-cards.pokellector.com/28/Professor-Juniper.BW8.55.png",
+      "rarity": "Secret Rare",
+      "cardNum": "55/51"
+    },
+    {
+      "name": "Garbodor",
+      "set": "Thunder Knuckle",
+      "img": "https://den-cards.pokellector.com/28/Garbodor.BW8.56.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "56/51"
+    },
+    {
+      "name": "Garchomp",
+      "set": "Thunder Knuckle",
+      "img": "https://den-cards.pokellector.com/28/Garchomp.BW8.57.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "57/51"
+    },
+    {
+      "name": "Max Potion",
+      "set": "Thunder Knuckle",
+      "img": "https://den-cards.pokellector.com/28/Max-Potion.BW8.58.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "58/51"
+    }
+  ]
+}

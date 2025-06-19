@@ -1,0 +1,859 @@
+{
+  "setName": "Plasma Freeze",
+  "cards": [
+    {
+      "name": "Weedle",
+      "set": "Plasma Freeze",
+      "img": "https://den-cards.pokellector.com/51/Weedle.PLF.1.png",
+      "rarity": "Common",
+      "cardNum": "1/116"
+    },
+    {
+      "name": "Kakuna",
+      "set": "Plasma Freeze",
+      "img": "https://den-cards.pokellector.com/51/Kakuna.PLF.2.png",
+      "rarity": "Uncommon",
+      "cardNum": "2/116"
+    },
+    {
+      "name": "Beedrill",
+      "set": "Plasma Freeze",
+      "img": "https://den-cards.pokellector.com/51/Beedrill.PLF.3.png",
+      "rarity": "Rare",
+      "cardNum": "3/116"
+    },
+    {
+      "name": "Exeggcute",
+      "set": "Plasma Freeze",
+      "img": "https://den-cards.pokellector.com/51/Exeggcute.PLF.4.png",
+      "rarity": "Uncommon",
+      "cardNum": "4/116"
+    },
+    {
+      "name": "Exeggutor",
+      "set": "Plasma Freeze",
+      "img": "https://den-cards.pokellector.com/51/Exeggutor.PLF.5.png",
+      "rarity": "Rare",
+      "cardNum": "5/116"
+    },
+    {
+      "name": "Treecko",
+      "set": "Plasma Freeze",
+      "img": "https://den-cards.pokellector.com/51/Treecko.PLF.6.png",
+      "rarity": "Common",
+      "cardNum": "6/116"
+    },
+    {
+      "name": "Grovyle",
+      "set": "Plasma Freeze",
+      "img": "https://den-cards.pokellector.com/51/Grovyle.PLF.7.png",
+      "rarity": "Uncommon",
+      "cardNum": "7/116"
+    },
+    {
+      "name": "Sceptile",
+      "set": "Plasma Freeze",
+      "img": "https://den-cards.pokellector.com/51/Sceptile.PLF.8.png",
+      "rarity": "Rare",
+      "cardNum": "8/116"
+    },
+    {
+      "name": "Cacnea",
+      "set": "Plasma Freeze",
+      "img": "https://den-cards.pokellector.com/51/Cacnea.PLF.9.png",
+      "rarity": "Common",
+      "cardNum": "9/116"
+    },
+    {
+      "name": "Cacturne",
+      "set": "Plasma Freeze",
+      "img": "https://den-cards.pokellector.com/51/Cacturne.PLF.10.png",
+      "rarity": "Uncommon",
+      "cardNum": "10/116"
+    },
+    {
+      "name": "Leafeon",
+      "set": "Plasma Freeze",
+      "img": "https://den-cards.pokellector.com/51/Leafeon.PLF.11.png",
+      "rarity": "Rare",
+      "cardNum": "11/116"
+    },
+    {
+      "name": "Flareon",
+      "set": "Plasma Freeze",
+      "img": "https://den-cards.pokellector.com/51/Flareon.PLF.12.png",
+      "rarity": "Uncommon",
+      "cardNum": "12/116"
+    },
+    {
+      "name": "Heatran EX",
+      "set": "Plasma Freeze",
+      "img": "https://den-cards.pokellector.com/51/Heatran-EX.PLF.13.png",
+      "rarity": "Rare",
+      "cardNum": "13/116"
+    },
+    {
+      "name": "Litwick",
+      "set": "Plasma Freeze",
+      "img": "https://den-cards.pokellector.com/51/Litwick.PLF.14.png",
+      "rarity": "Common",
+      "cardNum": "14/116"
+    },
+    {
+      "name": "Lampent",
+      "set": "Plasma Freeze",
+      "img": "https://den-cards.pokellector.com/51/Lampent.PLF.15.png",
+      "rarity": "Uncommon",
+      "cardNum": "15/116"
+    },
+    {
+      "name": "Chandelure",
+      "set": "Plasma Freeze",
+      "img": "https://den-cards.pokellector.com/51/Chandelure.PLF.16.png",
+      "rarity": "Rare",
+      "cardNum": "16/116"
+    },
+    {
+      "name": "Reshiram",
+      "set": "Plasma Freeze",
+      "img": "https://den-cards.pokellector.com/51/Reshiram.PLF.17.png",
+      "rarity": "Rare",
+      "cardNum": "17/116"
+    },
+    {
+      "name": "Horsea",
+      "set": "Plasma Freeze",
+      "img": "https://den-cards.pokellector.com/51/Horsea.PLF.18.png",
+      "rarity": "Common",
+      "cardNum": "18/116"
+    },
+    {
+      "name": "Seadra",
+      "set": "Plasma Freeze",
+      "img": "https://den-cards.pokellector.com/51/Seadra.PLF.19.png",
+      "rarity": "Uncommon",
+      "cardNum": "19/116"
+    },
+    {
+      "name": "Vaporeon",
+      "set": "Plasma Freeze",
+      "img": "https://den-cards.pokellector.com/51/Vaporeon.PLF.20.png",
+      "rarity": "Uncommon",
+      "cardNum": "20/116"
+    },
+    {
+      "name": "Wooper",
+      "set": "Plasma Freeze",
+      "img": "https://den-cards.pokellector.com/51/Wooper.PLF.21.png",
+      "rarity": "Common",
+      "cardNum": "21/116"
+    },
+    {
+      "name": "Quagsire",
+      "set": "Plasma Freeze",
+      "img": "https://den-cards.pokellector.com/51/Quagsire.PLF.22.png",
+      "rarity": "Rare",
+      "cardNum": "22/116"
+    },
+    {
+      "name": "Glaceon",
+      "set": "Plasma Freeze",
+      "img": "https://den-cards.pokellector.com/51/Glaceon.PLF.23.png",
+      "rarity": "Rare",
+      "cardNum": "23/116"
+    },
+    {
+      "name": "Tympole",
+      "set": "Plasma Freeze",
+      "img": "https://den-cards.pokellector.com/51/Tympole.PLF.24.png",
+      "rarity": "Common",
+      "cardNum": "24/116"
+    },
+    {
+      "name": "Palpitoad",
+      "set": "Plasma Freeze",
+      "img": "https://den-cards.pokellector.com/51/Palpitoad.PLF.25.png",
+      "rarity": "Uncommon",
+      "cardNum": "25/116"
+    },
+    {
+      "name": "Seismitoad",
+      "set": "Plasma Freeze",
+      "img": "https://den-cards.pokellector.com/51/Seismitoad.PLF.26.png",
+      "rarity": "Rare",
+      "cardNum": "26/116"
+    },
+    {
+      "name": "Vanillite",
+      "set": "Plasma Freeze",
+      "img": "https://den-cards.pokellector.com/51/Vanillite.PLF.27.png",
+      "rarity": "Common",
+      "cardNum": "27/116"
+    },
+    {
+      "name": "Vanillish",
+      "set": "Plasma Freeze",
+      "img": "https://den-cards.pokellector.com/51/Vanillish.PLF.28.png",
+      "rarity": "Uncommon",
+      "cardNum": "28/116"
+    },
+    {
+      "name": "Vanilluxe",
+      "set": "Plasma Freeze",
+      "img": "https://den-cards.pokellector.com/51/Vanilluxe.PLF.29.png",
+      "rarity": "Rare",
+      "cardNum": "29/116"
+    },
+    {
+      "name": "Cryogonal",
+      "set": "Plasma Freeze",
+      "img": "https://den-cards.pokellector.com/51/Cryogonal.PLF.30.png",
+      "rarity": "Uncommon",
+      "cardNum": "30/116"
+    },
+    {
+      "name": "Kyurem",
+      "set": "Plasma Freeze",
+      "img": "https://den-cards.pokellector.com/51/Kyurem.PLF.31.png",
+      "rarity": "Rare",
+      "cardNum": "31/116"
+    },
+    {
+      "name": "Voltorb",
+      "set": "Plasma Freeze",
+      "img": "https://den-cards.pokellector.com/51/Voltorb.PLF.32.png",
+      "rarity": "Common",
+      "cardNum": "32/116"
+    },
+    {
+      "name": "Electrode",
+      "set": "Plasma Freeze",
+      "img": "https://den-cards.pokellector.com/51/Electrode.PLF.33.png",
+      "rarity": "Rare",
+      "cardNum": "33/116"
+    },
+    {
+      "name": "Jolteon",
+      "set": "Plasma Freeze",
+      "img": "https://den-cards.pokellector.com/51/Jolteon.PLF.34.png",
+      "rarity": "Uncommon",
+      "cardNum": "34/116"
+    },
+    {
+      "name": "Chinchou",
+      "set": "Plasma Freeze",
+      "img": "https://den-cards.pokellector.com/51/Chinchou.PLF.35.png",
+      "rarity": "Common",
+      "cardNum": "35/116"
+    },
+    {
+      "name": "Lanturn",
+      "set": "Plasma Freeze",
+      "img": "https://den-cards.pokellector.com/51/Lanturn.PLF.36.png",
+      "rarity": "Uncommon",
+      "cardNum": "36/116"
+    },
+    {
+      "name": "Pachirisu",
+      "set": "Plasma Freeze",
+      "img": "https://den-cards.pokellector.com/51/Pachirisu.PLF.37.png",
+      "rarity": "Common",
+      "cardNum": "37/116"
+    },
+    {
+      "name": "Thundurus EX",
+      "set": "Plasma Freeze",
+      "img": "https://den-cards.pokellector.com/51/Thundurus-EX.PLF.38.png",
+      "rarity": "Rare",
+      "cardNum": "38/116"
+    },
+    {
+      "name": "Zekrom",
+      "set": "Plasma Freeze",
+      "img": "https://den-cards.pokellector.com/51/Zekrom.PLF.39.png",
+      "rarity": "Rare",
+      "cardNum": "39/116"
+    },
+    {
+      "name": "Nidoran (f)",
+      "set": "Plasma Freeze",
+      "img": "https://den-cards.pokellector.com/51/Nidoran-f.PLF.40.png",
+      "rarity": "Common",
+      "cardNum": "40/116"
+    },
+    {
+      "name": "Nidorina",
+      "set": "Plasma Freeze",
+      "img": "https://den-cards.pokellector.com/51/Nidorina.PLF.41.png",
+      "rarity": "Uncommon",
+      "cardNum": "41/116"
+    },
+    {
+      "name": "Nidoqueen",
+      "set": "Plasma Freeze",
+      "img": "https://den-cards.pokellector.com/51/Nidoqueen.PLF.42.png",
+      "rarity": "Rare",
+      "cardNum": "42/116"
+    },
+    {
+      "name": "Nidoran (m)",
+      "set": "Plasma Freeze",
+      "img": "https://den-cards.pokellector.com/51/Nidoran-m.PLF.43.png",
+      "rarity": "Common",
+      "cardNum": "43/116"
+    },
+    {
+      "name": "Nidorino",
+      "set": "Plasma Freeze",
+      "img": "https://den-cards.pokellector.com/51/Nidorino.PLF.44.png",
+      "rarity": "Uncommon",
+      "cardNum": "44/116"
+    },
+    {
+      "name": "Grimer",
+      "set": "Plasma Freeze",
+      "img": "https://den-cards.pokellector.com/51/Grimer.PLF.45.png",
+      "rarity": "Common",
+      "cardNum": "45/116"
+    },
+    {
+      "name": "Muk",
+      "set": "Plasma Freeze",
+      "img": "https://den-cards.pokellector.com/51/Muk.PLF.46.png",
+      "rarity": "Rare",
+      "cardNum": "46/116"
+    },
+    {
+      "name": "Mr. Mime",
+      "set": "Plasma Freeze",
+      "img": "https://den-cards.pokellector.com/51/Mr-Mime.PLF.47.png",
+      "rarity": "Rare",
+      "cardNum": "47/116"
+    },
+    {
+      "name": "Espeon",
+      "set": "Plasma Freeze",
+      "img": "https://den-cards.pokellector.com/51/Espeon.PLF.48.png",
+      "rarity": "Uncommon",
+      "cardNum": "48/116"
+    },
+    {
+      "name": "Sableye",
+      "set": "Plasma Freeze",
+      "img": "https://den-cards.pokellector.com/51/Sableye.PLF.49.png",
+      "rarity": "Rare",
+      "cardNum": "49/116"
+    },
+    {
+      "name": "Beldum",
+      "set": "Plasma Freeze",
+      "img": "https://den-cards.pokellector.com/51/Beldum.PLF.50.png",
+      "rarity": "Common",
+      "cardNum": "50/116"
+    },
+    {
+      "name": "Metang",
+      "set": "Plasma Freeze",
+      "img": "https://den-cards.pokellector.com/51/Metang.PLF.51.png",
+      "rarity": "Uncommon",
+      "cardNum": "51/116"
+    },
+    {
+      "name": "Metagross",
+      "set": "Plasma Freeze",
+      "img": "https://den-cards.pokellector.com/51/Metagross.PLF.52.png",
+      "rarity": "Rare",
+      "cardNum": "52/116"
+    },
+    {
+      "name": "Deoxys EX",
+      "set": "Plasma Freeze",
+      "img": "https://den-cards.pokellector.com/51/Deoxys-EX.PLF.53.png",
+      "rarity": "Rare",
+      "cardNum": "53/116"
+    },
+    {
+      "name": "Yamask",
+      "set": "Plasma Freeze",
+      "img": "https://den-cards.pokellector.com/51/Yamask.PLF.54.png",
+      "rarity": "Common",
+      "cardNum": "54/116"
+    },
+    {
+      "name": "Yamask",
+      "set": "Plasma Freeze",
+      "img": "https://den-cards.pokellector.com/51/Yamask.PLF.55.png",
+      "rarity": "Common",
+      "cardNum": "55/116"
+    },
+    {
+      "name": "Cofagrigus",
+      "set": "Plasma Freeze",
+      "img": "https://den-cards.pokellector.com/51/Cofagrigus.PLF.56.png",
+      "rarity": "Rare",
+      "cardNum": "56/116"
+    },
+    {
+      "name": "Cofagrigus",
+      "set": "Plasma Freeze",
+      "img": "https://den-cards.pokellector.com/51/Cofagrigus.PLF.57.png",
+      "rarity": "Rare",
+      "cardNum": "57/116"
+    },
+    {
+      "name": "Nidoking",
+      "set": "Plasma Freeze",
+      "img": "https://den-cards.pokellector.com/51/Nidoking.PLF.58.png",
+      "rarity": "Rare",
+      "cardNum": "58/116"
+    },
+    {
+      "name": "Mankey",
+      "set": "Plasma Freeze",
+      "img": "https://den-cards.pokellector.com/51/Mankey.PLF.59.png",
+      "rarity": "Common",
+      "cardNum": "59/116"
+    },
+    {
+      "name": "Primeape",
+      "set": "Plasma Freeze",
+      "img": "https://den-cards.pokellector.com/51/Primeape.PLF.60.png",
+      "rarity": "Common",
+      "cardNum": "60/116"
+    },
+    {
+      "name": "Onix",
+      "set": "Plasma Freeze",
+      "img": "https://den-cards.pokellector.com/51/Onix.PLF.61.png",
+      "rarity": "Uncommon",
+      "cardNum": "61/116"
+    },
+    {
+      "name": "Makuhita",
+      "set": "Plasma Freeze",
+      "img": "https://den-cards.pokellector.com/51/Makuhita.PLF.62.png",
+      "rarity": "Common",
+      "cardNum": "62/116"
+    },
+    {
+      "name": "Hariyama",
+      "set": "Plasma Freeze",
+      "img": "https://den-cards.pokellector.com/51/Hariyama.PLF.63.png",
+      "rarity": "Rare",
+      "cardNum": "63/116"
+    },
+    {
+      "name": "Umbreon",
+      "set": "Plasma Freeze",
+      "img": "https://den-cards.pokellector.com/51/Umbreon.PLF.64.png",
+      "rarity": "Rare",
+      "cardNum": "64/116"
+    },
+    {
+      "name": "Sneasel",
+      "set": "Plasma Freeze",
+      "img": "https://den-cards.pokellector.com/51/Sneasel.PLF.65.png",
+      "rarity": "Common",
+      "cardNum": "65/116"
+    },
+    {
+      "name": "Weavile",
+      "set": "Plasma Freeze",
+      "img": "https://den-cards.pokellector.com/51/Weavile.PLF.66.png",
+      "rarity": "Rare",
+      "cardNum": "66/116"
+    },
+    {
+      "name": "Absol",
+      "set": "Plasma Freeze",
+      "img": "https://den-cards.pokellector.com/51/Absol.PLF.67.png",
+      "rarity": "Rare",
+      "cardNum": "67/116"
+    },
+    {
+      "name": "Sandile",
+      "set": "Plasma Freeze",
+      "img": "https://den-cards.pokellector.com/51/Sandile.PLF.68.png",
+      "rarity": "Common",
+      "cardNum": "68/116"
+    },
+    {
+      "name": "Krokorok",
+      "set": "Plasma Freeze",
+      "img": "https://den-cards.pokellector.com/51/Krokorok.PLF.69.png",
+      "rarity": "Uncommon",
+      "cardNum": "69/116"
+    },
+    {
+      "name": "Krookodile",
+      "set": "Plasma Freeze",
+      "img": "https://den-cards.pokellector.com/51/Krookodile.PLF.70.png",
+      "rarity": "Rare",
+      "cardNum": "70/116"
+    },
+    {
+      "name": "Pawniard",
+      "set": "Plasma Freeze",
+      "img": "https://den-cards.pokellector.com/51/Pawniard.PLF.71.png",
+      "rarity": "Common",
+      "cardNum": "71/116"
+    },
+    {
+      "name": "Pawniard",
+      "set": "Plasma Freeze",
+      "img": "https://den-cards.pokellector.com/51/Pawniard.PLF.72.png",
+      "rarity": "Common",
+      "cardNum": "72/116"
+    },
+    {
+      "name": "Bisharp",
+      "set": "Plasma Freeze",
+      "img": "https://den-cards.pokellector.com/51/Bisharp.PLF.73.png",
+      "rarity": "Rare",
+      "cardNum": "73/116"
+    },
+    {
+      "name": "Bisharp",
+      "set": "Plasma Freeze",
+      "img": "https://den-cards.pokellector.com/51/Bisharp.PLF.74.png",
+      "rarity": "Uncommon",
+      "cardNum": "74/116"
+    },
+    {
+      "name": "Deino",
+      "set": "Plasma Freeze",
+      "img": "https://den-cards.pokellector.com/51/Deino.PLF.75.png",
+      "rarity": "Common",
+      "cardNum": "75/116"
+    },
+    {
+      "name": "Deino",
+      "set": "Plasma Freeze",
+      "img": "https://den-cards.pokellector.com/51/Deino.PLF.76.png",
+      "rarity": "Common",
+      "cardNum": "76/116"
+    },
+    {
+      "name": "Zweilous",
+      "set": "Plasma Freeze",
+      "img": "https://den-cards.pokellector.com/51/Zweilous.PLF.77.png",
+      "rarity": "Uncommon",
+      "cardNum": "77/116"
+    },
+    {
+      "name": "Hydreigon",
+      "set": "Plasma Freeze",
+      "img": "https://den-cards.pokellector.com/51/Hydreigon.PLF.78.png",
+      "rarity": "Rare",
+      "cardNum": "78/116"
+    },
+    {
+      "name": "Steelix",
+      "set": "Plasma Freeze",
+      "img": "https://den-cards.pokellector.com/51/Steelix.PLF.79.png",
+      "rarity": "Rare",
+      "cardNum": "79/116"
+    },
+    {
+      "name": "Mawile",
+      "set": "Plasma Freeze",
+      "img": "https://den-cards.pokellector.com/51/Mawile.PLF.80.png",
+      "rarity": "Uncommon",
+      "cardNum": "80/116"
+    },
+    {
+      "name": "Dratini",
+      "set": "Plasma Freeze",
+      "img": "https://den-cards.pokellector.com/51/Dratini.PLF.81.png",
+      "rarity": "Common",
+      "cardNum": "81/116"
+    },
+    {
+      "name": "Dragonair",
+      "set": "Plasma Freeze",
+      "img": "https://den-cards.pokellector.com/51/Dragonair.PLF.82.png",
+      "rarity": "Uncommon",
+      "cardNum": "82/116"
+    },
+    {
+      "name": "Dragonite",
+      "set": "Plasma Freeze",
+      "img": "https://den-cards.pokellector.com/51/Dragonite.PLF.83.png",
+      "rarity": "Rare",
+      "cardNum": "83/116"
+    },
+    {
+      "name": "Kingdra",
+      "set": "Plasma Freeze",
+      "img": "https://den-cards.pokellector.com/51/Kingdra.PLF.84.png",
+      "rarity": "Rare",
+      "cardNum": "84/116"
+    },
+    {
+      "name": "Latias EX",
+      "set": "Plasma Freeze",
+      "img": "https://den-cards.pokellector.com/51/Latias-EX.PLF.85.png",
+      "rarity": "Rare",
+      "cardNum": "85/116"
+    },
+    {
+      "name": "Latios EX",
+      "set": "Plasma Freeze",
+      "img": "https://den-cards.pokellector.com/51/Latios-EX.PLF.86.png",
+      "rarity": "Rare",
+      "cardNum": "86/116"
+    },
+    {
+      "name": "Rattata",
+      "set": "Plasma Freeze",
+      "img": "https://den-cards.pokellector.com/51/Rattata.PLF.87.png",
+      "rarity": "Common",
+      "cardNum": "87/116"
+    },
+    {
+      "name": "Raticate",
+      "set": "Plasma Freeze",
+      "img": "https://den-cards.pokellector.com/51/Raticate.PLF.88.png",
+      "rarity": "Rare",
+      "cardNum": "88/116"
+    },
+    {
+      "name": "Eevee",
+      "set": "Plasma Freeze",
+      "img": "https://den-cards.pokellector.com/51/Eevee.PLF.89.png",
+      "rarity": "Common",
+      "cardNum": "89/116"
+    },
+    {
+      "name": "Eevee",
+      "set": "Plasma Freeze",
+      "img": "https://den-cards.pokellector.com/51/Eevee.PLF.90.png",
+      "rarity": "Common",
+      "cardNum": "90/116"
+    },
+    {
+      "name": "Hoothoot",
+      "set": "Plasma Freeze",
+      "img": "https://den-cards.pokellector.com/51/Hoothoot.PLF.91.png",
+      "rarity": "Common",
+      "cardNum": "91/116"
+    },
+    {
+      "name": "Noctowl",
+      "set": "Plasma Freeze",
+      "img": "https://den-cards.pokellector.com/51/Noctowl.PLF.92.png",
+      "rarity": "Uncommon",
+      "cardNum": "92/116"
+    },
+    {
+      "name": "Miltank",
+      "set": "Plasma Freeze",
+      "img": "https://den-cards.pokellector.com/51/Miltank.PLF.93.png",
+      "rarity": "Uncommon",
+      "cardNum": "93/116"
+    },
+    {
+      "name": "Kecleon",
+      "set": "Plasma Freeze",
+      "img": "https://den-cards.pokellector.com/51/Kecleon.PLF.94.png",
+      "rarity": "Rare",
+      "cardNum": "94/116"
+    },
+    {
+      "name": "Starly",
+      "set": "Plasma Freeze",
+      "img": "https://den-cards.pokellector.com/51/Starly.PLF.95.png",
+      "rarity": "Common",
+      "cardNum": "95/116"
+    },
+    {
+      "name": "Staravia",
+      "set": "Plasma Freeze",
+      "img": "https://den-cards.pokellector.com/51/Staravia.PLF.96.png",
+      "rarity": "Uncommon",
+      "cardNum": "96/116"
+    },
+    {
+      "name": "Staraptor",
+      "set": "Plasma Freeze",
+      "img": "https://den-cards.pokellector.com/51/Staraptor.PLF.97.png",
+      "rarity": "Rare",
+      "cardNum": "97/116"
+    },
+    {
+      "name": "Tornadus EX",
+      "set": "Plasma Freeze",
+      "img": "https://den-cards.pokellector.com/51/Tornadus-EX.PLF.98.png",
+      "rarity": "Rare",
+      "cardNum": "98/116"
+    },
+    {
+      "name": "Float Stone",
+      "set": "Plasma Freeze",
+      "img": "https://den-cards.pokellector.com/51/Float-Stone.PLF.99.png",
+      "rarity": "Uncommon",
+      "cardNum": "99/116"
+    },
+    {
+      "name": "Frozen City",
+      "set": "Plasma Freeze",
+      "img": "https://den-cards.pokellector.com/51/Frozen-City.PLF.100.png",
+      "rarity": "Uncommon",
+      "cardNum": "100/116"
+    },
+    {
+      "name": "Ghetsis",
+      "set": "Plasma Freeze",
+      "img": "https://den-cards.pokellector.com/51/Ghetsis.PLF.101.png",
+      "rarity": "Rare",
+      "cardNum": "101/116"
+    },
+    {
+      "name": "Shadow Triad",
+      "set": "Plasma Freeze",
+      "img": "https://den-cards.pokellector.com/51/Shadow-Triad.PLF.102.png",
+      "rarity": "Uncommon",
+      "cardNum": "102/116"
+    },
+    {
+      "name": "Superior Energy Retrieval",
+      "set": "Plasma Freeze",
+      "img": "https://den-cards.pokellector.com/51/Superior-Energy-Retrieval.PLF.103.png",
+      "rarity": "Uncommon",
+      "cardNum": "103/116"
+    },
+    {
+      "name": "Team Plasma Badge",
+      "set": "Plasma Freeze",
+      "img": "https://den-cards.pokellector.com/51/Team-Plasma-Badge.PLF.104.png",
+      "rarity": "Uncommon",
+      "cardNum": "104/116"
+    },
+    {
+      "name": "Team Plasma Ball",
+      "set": "Plasma Freeze",
+      "img": "https://den-cards.pokellector.com/51/Team-Plasma-Ball.PLF.105.png",
+      "rarity": "Uncommon",
+      "cardNum": "105/116"
+    },
+    {
+      "name": "Plasma Energy",
+      "set": "Plasma Freeze",
+      "img": "https://den-cards.pokellector.com/51/Plasma-Energy.PLF.106.png",
+      "rarity": "Uncommon",
+      "cardNum": "106/116"
+    },
+    {
+      "name": "Life Dew",
+      "set": "Plasma Freeze",
+      "img": "https://den-cards.pokellector.com/51/Life-Dew.PLF.107.png",
+      "rarity": "Rare",
+      "cardNum": "107/116"
+    },
+    {
+      "name": "Rock Guard",
+      "set": "Plasma Freeze",
+      "img": "https://den-cards.pokellector.com/51/Rock-Guard.PLF.108.png",
+      "rarity": "Rare",
+      "cardNum": "108/116"
+    },
+    {
+      "name": "Heatran EX",
+      "set": "Plasma Freeze",
+      "img": "https://den-cards.pokellector.com/51/Heatran-EX.PLF.109.png",
+      "rarity": "Rare",
+      "cardNum": "109/116"
+    },
+    {
+      "name": "Thundurus EX",
+      "set": "Plasma Freeze",
+      "img": "https://den-cards.pokellector.com/51/Thundurus-EX.PLF.110.png",
+      "rarity": "Rare",
+      "cardNum": "110/116"
+    },
+    {
+      "name": "Deoxys EX",
+      "set": "Plasma Freeze",
+      "img": "https://den-cards.pokellector.com/51/Deoxys-EX.PLF.111.png",
+      "rarity": "Rare",
+      "cardNum": "111/116"
+    },
+    {
+      "name": "Latias EX",
+      "set": "Plasma Freeze",
+      "img": "https://den-cards.pokellector.com/51/Latias-EX.PLF.112.png",
+      "rarity": "Rare",
+      "cardNum": "112/116"
+    },
+    {
+      "name": "Latios EX",
+      "set": "Plasma Freeze",
+      "img": "https://den-cards.pokellector.com/51/Latios-EX.PLF.113.png",
+      "rarity": "Rare",
+      "cardNum": "113/116"
+    },
+    {
+      "name": "Tornadus EX",
+      "set": "Plasma Freeze",
+      "img": "https://den-cards.pokellector.com/51/Tornadus-EX.PLF.114.png",
+      "rarity": "Rare",
+      "cardNum": "114/116"
+    },
+    {
+      "name": "Ghetsis",
+      "set": "Plasma Freeze",
+      "img": "https://den-cards.pokellector.com/51/Ghetsis.PLF.115.png",
+      "rarity": "Rare",
+      "cardNum": "115/116"
+    },
+    {
+      "name": "Professor Juniper",
+      "set": "Plasma Freeze",
+      "img": "https://den-cards.pokellector.com/51/Professor-Juniper.PLF.116.png",
+      "rarity": "Rare",
+      "cardNum": "116/116"
+    },
+    {
+      "name": "Empoleon",
+      "set": "Plasma Freeze",
+      "img": "https://den-cards.pokellector.com/51/Empoleon.PLF.117.png",
+      "rarity": "Secret Rare",
+      "cardNum": "117/116"
+    },
+    {
+      "name": "Sigilyph",
+      "set": "Plasma Freeze",
+      "img": "https://den-cards.pokellector.com/51/Sigilyph.PLF.118.png",
+      "rarity": "Secret Rare",
+      "cardNum": "118/116"
+    },
+    {
+      "name": "Garbodor",
+      "set": "Plasma Freeze",
+      "img": "https://den-cards.pokellector.com/51/Garbodor.PLF.119.png",
+      "rarity": "Secret Rare",
+      "cardNum": "119/116"
+    },
+    {
+      "name": "Garchomp",
+      "set": "Plasma Freeze",
+      "img": "https://den-cards.pokellector.com/51/Garchomp.PLF.120.png",
+      "rarity": "Secret Rare",
+      "cardNum": "120/116"
+    },
+    {
+      "name": "Max Potion",
+      "set": "Plasma Freeze",
+      "img": "https://den-cards.pokellector.com/51/Max-Potion.PLF.121.png",
+      "rarity": "Secret Rare",
+      "cardNum": "121/116"
+    },
+    {
+      "name": "Ultra Ball",
+      "set": "Plasma Freeze",
+      "img": "https://den-cards.pokellector.com/51/Ultra-Ball.PLF.122.png",
+      "rarity": "Secret Rare",
+      "cardNum": "122/116"
+    }
+  ]
+}

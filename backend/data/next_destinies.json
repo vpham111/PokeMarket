@@ -1,0 +1,726 @@
+{
+  "setName": "Next Destinies",
+  "cards": [
+    {
+      "name": "Pinsir",
+      "set": "Next Destinies",
+      "img": "https://den-cards.pokellector.com/5/Pinsir.NXD.1.png",
+      "rarity": "Rare",
+      "cardNum": "1/99"
+    },
+    {
+      "name": "Seedot",
+      "set": "Next Destinies",
+      "img": "https://den-cards.pokellector.com/5/Seedot.NXD.2.png",
+      "rarity": "Common",
+      "cardNum": "2/99"
+    },
+    {
+      "name": "Kricketot",
+      "set": "Next Destinies",
+      "img": "https://den-cards.pokellector.com/5/Kricketot.NXD.3.png",
+      "rarity": "Common",
+      "cardNum": "3/99"
+    },
+    {
+      "name": "Kricketune",
+      "set": "Next Destinies",
+      "img": "https://den-cards.pokellector.com/5/Kricketune.NXD.4.png",
+      "rarity": "Uncommon",
+      "cardNum": "4/99"
+    },
+    {
+      "name": "Shaymin EX",
+      "set": "Next Destinies",
+      "img": "https://den-cards.pokellector.com/5/Shaymin-EX.NXD.5.png",
+      "rarity": "Rare",
+      "cardNum": "5/99"
+    },
+    {
+      "name": "Pansage",
+      "set": "Next Destinies",
+      "img": "https://den-cards.pokellector.com/5/Pansage.NXD.6.png",
+      "rarity": "Common",
+      "cardNum": "6/99"
+    },
+    {
+      "name": "Simisage",
+      "set": "Next Destinies",
+      "img": "https://den-cards.pokellector.com/5/Simisage.NXD.7.png",
+      "rarity": "Rare",
+      "cardNum": "7/99"
+    },
+    {
+      "name": "Foongus",
+      "set": "Next Destinies",
+      "img": "https://den-cards.pokellector.com/5/Foongus.NXD.8.png",
+      "rarity": "Common",
+      "cardNum": "8/99"
+    },
+    {
+      "name": "Amoonguss",
+      "set": "Next Destinies",
+      "img": "https://den-cards.pokellector.com/5/Amoonguss.NXD.9.png",
+      "rarity": "Rare",
+      "cardNum": "9/99"
+    },
+    {
+      "name": "Growlithe",
+      "set": "Next Destinies",
+      "img": "https://den-cards.pokellector.com/5/Growlithe.NXD.10.png",
+      "rarity": "Common",
+      "cardNum": "10/99"
+    },
+    {
+      "name": "Growlithe",
+      "set": "Next Destinies",
+      "img": "https://den-cards.pokellector.com/5/Growlithe.NXD.11.png",
+      "rarity": "Common",
+      "cardNum": "11/99"
+    },
+    {
+      "name": "Arcanine",
+      "set": "Next Destinies",
+      "img": "https://den-cards.pokellector.com/5/Arcanine.NXD.12.png",
+      "rarity": "Rare",
+      "cardNum": "12/99"
+    },
+    {
+      "name": "Arcanine",
+      "set": "Next Destinies",
+      "img": "https://den-cards.pokellector.com/5/Arcanine.NXD.13.png",
+      "rarity": "Uncommon",
+      "cardNum": "13/99"
+    },
+    {
+      "name": "Moltres",
+      "set": "Next Destinies",
+      "img": "https://den-cards.pokellector.com/5/Moltres.NXD.14.png",
+      "rarity": "Rare",
+      "cardNum": "14/99"
+    },
+    {
+      "name": "Pansear",
+      "set": "Next Destinies",
+      "img": "https://den-cards.pokellector.com/5/Pansear.NXD.15.png",
+      "rarity": "Common",
+      "cardNum": "15/99"
+    },
+    {
+      "name": "Simisear",
+      "set": "Next Destinies",
+      "img": "https://den-cards.pokellector.com/5/Simisear.NXD.16.png",
+      "rarity": "Rare",
+      "cardNum": "16/99"
+    },
+    {
+      "name": "Darumaka",
+      "set": "Next Destinies",
+      "img": "https://den-cards.pokellector.com/5/Darumaka.NXD.17.png",
+      "rarity": "Common",
+      "cardNum": "17/99"
+    },
+    {
+      "name": "Litwick",
+      "set": "Next Destinies",
+      "img": "https://den-cards.pokellector.com/5/Litwick.NXD.18.png",
+      "rarity": "Common",
+      "cardNum": "18/99"
+    },
+    {
+      "name": "Lampent",
+      "set": "Next Destinies",
+      "img": "https://den-cards.pokellector.com/5/Lampent.NXD.19.png",
+      "rarity": "Uncommon",
+      "cardNum": "19/99"
+    },
+    {
+      "name": "Chandelure",
+      "set": "Next Destinies",
+      "img": "https://den-cards.pokellector.com/5/Chandelure.NXD.20.png",
+      "rarity": "Rare",
+      "cardNum": "20/99"
+    },
+    {
+      "name": "Reshiram",
+      "set": "Next Destinies",
+      "img": "https://den-cards.pokellector.com/5/Reshiram.NXD.21.png",
+      "rarity": "Rare",
+      "cardNum": "21/99"
+    },
+    {
+      "name": "Reshiram EX",
+      "set": "Next Destinies",
+      "img": "https://den-cards.pokellector.com/5/Reshiram-EX.NXD.22.png",
+      "rarity": "Rare",
+      "cardNum": "22/99"
+    },
+    {
+      "name": "Staryu",
+      "set": "Next Destinies",
+      "img": "https://den-cards.pokellector.com/5/Staryu.NXD.23.png",
+      "rarity": "Common",
+      "cardNum": "23/99"
+    },
+    {
+      "name": "Starmie",
+      "set": "Next Destinies",
+      "img": "https://den-cards.pokellector.com/5/Starmie.NXD.24.png",
+      "rarity": "Uncommon",
+      "cardNum": "24/99"
+    },
+    {
+      "name": "Lapras",
+      "set": "Next Destinies",
+      "img": "https://den-cards.pokellector.com/5/Lapras.NXD.25.png",
+      "rarity": "Rare",
+      "cardNum": "25/99"
+    },
+    {
+      "name": "Lapras",
+      "set": "Next Destinies",
+      "img": "https://den-cards.pokellector.com/5/Lapras.NXD.26.png",
+      "rarity": "Uncommon",
+      "cardNum": "26/99"
+    },
+    {
+      "name": "Articuno",
+      "set": "Next Destinies",
+      "img": "https://den-cards.pokellector.com/5/Articuno.NXD.27.png",
+      "rarity": "Rare",
+      "cardNum": "27/99"
+    },
+    {
+      "name": "Panpour",
+      "set": "Next Destinies",
+      "img": "https://den-cards.pokellector.com/5/Panpour.NXD.28.png",
+      "rarity": "Common",
+      "cardNum": "28/99"
+    },
+    {
+      "name": "Simipour",
+      "set": "Next Destinies",
+      "img": "https://den-cards.pokellector.com/5/Simipour.NXD.29.png",
+      "rarity": "Rare",
+      "cardNum": "29/99"
+    },
+    {
+      "name": "Basculin",
+      "set": "Next Destinies",
+      "img": "https://den-cards.pokellector.com/5/Basculin.NXD.30.png",
+      "rarity": "Uncommon",
+      "cardNum": "30/99"
+    },
+    {
+      "name": "Vanillite",
+      "set": "Next Destinies",
+      "img": "https://den-cards.pokellector.com/5/Vanillite.NXD.31.png",
+      "rarity": "Common",
+      "cardNum": "31/99"
+    },
+    {
+      "name": "Vanillish",
+      "set": "Next Destinies",
+      "img": "https://den-cards.pokellector.com/5/Vanillish.NXD.32.png",
+      "rarity": "Uncommon",
+      "cardNum": "32/99"
+    },
+    {
+      "name": "Vanilluxe",
+      "set": "Next Destinies",
+      "img": "https://den-cards.pokellector.com/5/Vanilluxe.NXD.33.png",
+      "rarity": "Rare",
+      "cardNum": "33/99"
+    },
+    {
+      "name": "Frillish",
+      "set": "Next Destinies",
+      "img": "https://den-cards.pokellector.com/5/Frillish.NXD.34.png",
+      "rarity": "Uncommon",
+      "cardNum": "34/99"
+    },
+    {
+      "name": "Jellicent",
+      "set": "Next Destinies",
+      "img": "https://den-cards.pokellector.com/5/Jellicent.NXD.35.png",
+      "rarity": "Rare",
+      "cardNum": "35/99"
+    },
+    {
+      "name": "Cubchoo",
+      "set": "Next Destinies",
+      "img": "https://den-cards.pokellector.com/5/Cubchoo.NXD.36.png",
+      "rarity": "Common",
+      "cardNum": "36/99"
+    },
+    {
+      "name": "Beartic",
+      "set": "Next Destinies",
+      "img": "https://den-cards.pokellector.com/5/Beartic.NXD.37.png",
+      "rarity": "Rare",
+      "cardNum": "37/99"
+    },
+    {
+      "name": "Kyurem EX",
+      "set": "Next Destinies",
+      "img": "https://den-cards.pokellector.com/5/Kyurem-EX.NXD.38.png",
+      "rarity": "Rare",
+      "cardNum": "38/99"
+    },
+    {
+      "name": "Pikachu",
+      "set": "Next Destinies",
+      "img": "https://den-cards.pokellector.com/5/Pikachu.NXD.39.png",
+      "rarity": "Common",
+      "cardNum": "39/99"
+    },
+    {
+      "name": "Raichu",
+      "set": "Next Destinies",
+      "img": "https://den-cards.pokellector.com/5/Raichu.NXD.40.png",
+      "rarity": "Uncommon",
+      "cardNum": "40/99"
+    },
+    {
+      "name": "Zapdos",
+      "set": "Next Destinies",
+      "img": "https://den-cards.pokellector.com/5/Zapdos.NXD.41.png",
+      "rarity": "Rare",
+      "cardNum": "41/99"
+    },
+    {
+      "name": "Shinx",
+      "set": "Next Destinies",
+      "img": "https://den-cards.pokellector.com/5/Shinx.NXD.42.png",
+      "rarity": "Common",
+      "cardNum": "42/99"
+    },
+    {
+      "name": "Shinx",
+      "set": "Next Destinies",
+      "img": "https://den-cards.pokellector.com/5/Shinx.NXD.43.png",
+      "rarity": "Common",
+      "cardNum": "43/99"
+    },
+    {
+      "name": "Luxio",
+      "set": "Next Destinies",
+      "img": "https://den-cards.pokellector.com/5/Luxio.NXD.44.png",
+      "rarity": "Uncommon",
+      "cardNum": "44/99"
+    },
+    {
+      "name": "Luxio",
+      "set": "Next Destinies",
+      "img": "https://den-cards.pokellector.com/5/Luxio.NXD.45.png",
+      "rarity": "Uncommon",
+      "cardNum": "45/99"
+    },
+    {
+      "name": "Luxray",
+      "set": "Next Destinies",
+      "img": "https://den-cards.pokellector.com/5/Luxray.NXD.46.png",
+      "rarity": "Rare",
+      "cardNum": "46/99"
+    },
+    {
+      "name": "Blitzle",
+      "set": "Next Destinies",
+      "img": "https://den-cards.pokellector.com/5/Blitzle.NXD.47.png",
+      "rarity": "Common",
+      "cardNum": "47/99"
+    },
+    {
+      "name": "Zebstrika",
+      "set": "Next Destinies",
+      "img": "https://den-cards.pokellector.com/5/Zebstrika.NXD.48.png",
+      "rarity": "Rare",
+      "cardNum": "48/99"
+    },
+    {
+      "name": "Emolga",
+      "set": "Next Destinies",
+      "img": "https://den-cards.pokellector.com/5/Emolga.NXD.49.png",
+      "rarity": "Uncommon",
+      "cardNum": "49/99"
+    },
+    {
+      "name": "Zekrom",
+      "set": "Next Destinies",
+      "img": "https://den-cards.pokellector.com/5/Zekrom.NXD.50.png",
+      "rarity": "Rare",
+      "cardNum": "50/99"
+    },
+    {
+      "name": "Zekrom EX",
+      "set": "Next Destinies",
+      "img": "https://den-cards.pokellector.com/5/Zekrom-EX.NXD.51.png",
+      "rarity": "Rare",
+      "cardNum": "51/99"
+    },
+    {
+      "name": "Grimer",
+      "set": "Next Destinies",
+      "img": "https://den-cards.pokellector.com/5/Grimer.NXD.52.png",
+      "rarity": "Common",
+      "cardNum": "52/99"
+    },
+    {
+      "name": "Muk",
+      "set": "Next Destinies",
+      "img": "https://den-cards.pokellector.com/5/Muk.NXD.53.png",
+      "rarity": "Rare",
+      "cardNum": "53/99"
+    },
+    {
+      "name": "Mewtwo EX",
+      "set": "Next Destinies",
+      "img": "https://den-cards.pokellector.com/5/Mewtwo-EX.NXD.54.png",
+      "rarity": "Rare",
+      "cardNum": "54/99"
+    },
+    {
+      "name": "Ralts",
+      "set": "Next Destinies",
+      "img": "https://den-cards.pokellector.com/5/Ralts.NXD.55.png",
+      "rarity": "Common",
+      "cardNum": "55/99"
+    },
+    {
+      "name": "Kirlia",
+      "set": "Next Destinies",
+      "img": "https://den-cards.pokellector.com/5/Kirlia.NXD.56.png",
+      "rarity": "Uncommon",
+      "cardNum": "56/99"
+    },
+    {
+      "name": "Gardevoir",
+      "set": "Next Destinies",
+      "img": "https://den-cards.pokellector.com/5/Gardevoir.NXD.57.png",
+      "rarity": "Rare",
+      "cardNum": "57/99"
+    },
+    {
+      "name": "Munna",
+      "set": "Next Destinies",
+      "img": "https://den-cards.pokellector.com/5/Munna.NXD.58.png",
+      "rarity": "Common",
+      "cardNum": "58/99"
+    },
+    {
+      "name": "Musharna",
+      "set": "Next Destinies",
+      "img": "https://den-cards.pokellector.com/5/Musharna.NXD.59.png",
+      "rarity": "Rare",
+      "cardNum": "59/99"
+    },
+    {
+      "name": "Darmanitan",
+      "set": "Next Destinies",
+      "img": "https://den-cards.pokellector.com/5/Darmanitan.NXD.60.png",
+      "rarity": "Rare",
+      "cardNum": "60/99"
+    },
+    {
+      "name": "Elgyem",
+      "set": "Next Destinies",
+      "img": "https://den-cards.pokellector.com/5/Elgyem.NXD.61.png",
+      "rarity": "Common",
+      "cardNum": "61/99"
+    },
+    {
+      "name": "Beheeyem",
+      "set": "Next Destinies",
+      "img": "https://den-cards.pokellector.com/5/Beheeyem.NXD.62.png",
+      "rarity": "Rare",
+      "cardNum": "62/99"
+    },
+    {
+      "name": "Riolu",
+      "set": "Next Destinies",
+      "img": "https://den-cards.pokellector.com/5/Riolu.NXD.63.png",
+      "rarity": "Common",
+      "cardNum": "63/99"
+    },
+    {
+      "name": "Lucario",
+      "set": "Next Destinies",
+      "img": "https://den-cards.pokellector.com/5/Lucario.NXD.64.png",
+      "rarity": "Rare",
+      "cardNum": "64/99"
+    },
+    {
+      "name": "Hippopotas",
+      "set": "Next Destinies",
+      "img": "https://den-cards.pokellector.com/5/Hippopotas.NXD.65.png",
+      "rarity": "Common",
+      "cardNum": "65/99"
+    },
+    {
+      "name": "Hippowdon",
+      "set": "Next Destinies",
+      "img": "https://den-cards.pokellector.com/5/Hippowdon.NXD.66.png",
+      "rarity": "Uncommon",
+      "cardNum": "66/99"
+    },
+    {
+      "name": "Mienfoo",
+      "set": "Next Destinies",
+      "img": "https://den-cards.pokellector.com/5/Mienfoo.NXD.67.png",
+      "rarity": "Common",
+      "cardNum": "67/99"
+    },
+    {
+      "name": "Mienshao",
+      "set": "Next Destinies",
+      "img": "https://den-cards.pokellector.com/5/Mienshao.NXD.68.png",
+      "rarity": "Uncommon",
+      "cardNum": "68/99"
+    },
+    {
+      "name": "Sneasel",
+      "set": "Next Destinies",
+      "img": "https://den-cards.pokellector.com/5/Sneasel.NXD.69.png",
+      "rarity": "Common",
+      "cardNum": "69/99"
+    },
+    {
+      "name": "Weavile",
+      "set": "Next Destinies",
+      "img": "https://den-cards.pokellector.com/5/Weavile.NXD.70.png",
+      "rarity": "Rare",
+      "cardNum": "70/99"
+    },
+    {
+      "name": "Nuzleaf",
+      "set": "Next Destinies",
+      "img": "https://den-cards.pokellector.com/5/Nuzleaf.NXD.71.png",
+      "rarity": "Uncommon",
+      "cardNum": "71/99"
+    },
+    {
+      "name": "Shiftry",
+      "set": "Next Destinies",
+      "img": "https://den-cards.pokellector.com/5/Shiftry.NXD.72.png",
+      "rarity": "Rare",
+      "cardNum": "72/99"
+    },
+    {
+      "name": "Scraggy",
+      "set": "Next Destinies",
+      "img": "https://den-cards.pokellector.com/5/Scraggy.NXD.73.png",
+      "rarity": "Uncommon",
+      "cardNum": "73/99"
+    },
+    {
+      "name": "Scrafty",
+      "set": "Next Destinies",
+      "img": "https://den-cards.pokellector.com/5/Scrafty.NXD.74.png",
+      "rarity": "Rare",
+      "cardNum": "74/99"
+    },
+    {
+      "name": "Bronzor",
+      "set": "Next Destinies",
+      "img": "https://den-cards.pokellector.com/5/Bronzor.NXD.75.png",
+      "rarity": "Common",
+      "cardNum": "75/99"
+    },
+    {
+      "name": "Bronzong",
+      "set": "Next Destinies",
+      "img": "https://den-cards.pokellector.com/5/Bronzong.NXD.76.png",
+      "rarity": "Rare",
+      "cardNum": "76/99"
+    },
+    {
+      "name": "Ferroseed",
+      "set": "Next Destinies",
+      "img": "https://den-cards.pokellector.com/5/Ferroseed.NXD.77.png",
+      "rarity": "Common",
+      "cardNum": "77/99"
+    },
+    {
+      "name": "Jigglypuff",
+      "set": "Next Destinies",
+      "img": "https://den-cards.pokellector.com/5/Jigglypuff.NXD.78.png",
+      "rarity": "Uncommon",
+      "cardNum": "78/99"
+    },
+    {
+      "name": "Wigglytuff",
+      "set": "Next Destinies",
+      "img": "https://den-cards.pokellector.com/5/Wigglytuff.NXD.79.png",
+      "rarity": "Rare",
+      "cardNum": "79/99"
+    },
+    {
+      "name": "Meowth",
+      "set": "Next Destinies",
+      "img": "https://den-cards.pokellector.com/5/Meowth.NXD.80.png",
+      "rarity": "Common",
+      "cardNum": "80/99"
+    },
+    {
+      "name": "Persian",
+      "set": "Next Destinies",
+      "img": "https://den-cards.pokellector.com/5/Persian.NXD.81.png",
+      "rarity": "Rare",
+      "cardNum": "81/99"
+    },
+    {
+      "name": "Regigigas EX",
+      "set": "Next Destinies",
+      "img": "https://den-cards.pokellector.com/5/Regigigas-EX.NXD.82.png",
+      "rarity": "Rare",
+      "cardNum": "82/99"
+    },
+    {
+      "name": "Pidove",
+      "set": "Next Destinies",
+      "img": "https://den-cards.pokellector.com/5/Pidove.NXD.83.png",
+      "rarity": "Common",
+      "cardNum": "83/99"
+    },
+    {
+      "name": "Minccino",
+      "set": "Next Destinies",
+      "img": "https://den-cards.pokellector.com/5/Minccino.NXD.84.png",
+      "rarity": "Uncommon",
+      "cardNum": "84/99"
+    },
+    {
+      "name": "Cinccino",
+      "set": "Next Destinies",
+      "img": "https://den-cards.pokellector.com/5/Cinccino.NXD.85.png",
+      "rarity": "Rare",
+      "cardNum": "85/99"
+    },
+    {
+      "name": "Cilan",
+      "set": "Next Destinies",
+      "img": "https://den-cards.pokellector.com/5/Cilan.NXD.86.png",
+      "rarity": "Uncommon",
+      "cardNum": "86/99"
+    },
+    {
+      "name": "Exp. Share",
+      "set": "Next Destinies",
+      "img": "https://den-cards.pokellector.com/5/Exp-Share.NXD.87.png",
+      "rarity": "Uncommon",
+      "cardNum": "87/99"
+    },
+    {
+      "name": "Heavy Ball",
+      "set": "Next Destinies",
+      "img": "https://den-cards.pokellector.com/5/Heavy-Ball.NXD.88.png",
+      "rarity": "Uncommon",
+      "cardNum": "88/99"
+    },
+    {
+      "name": "Level Ball",
+      "set": "Next Destinies",
+      "img": "https://den-cards.pokellector.com/5/Level-Ball.NXD.89.png",
+      "rarity": "Uncommon",
+      "cardNum": "89/99"
+    },
+    {
+      "name": "Pokemon Center",
+      "set": "Next Destinies",
+      "img": "https://den-cards.pokellector.com/5/Pokemon-Center.NXD.90.png",
+      "rarity": "Uncommon",
+      "cardNum": "90/99"
+    },
+    {
+      "name": "Skyarrow Bridge",
+      "set": "Next Destinies",
+      "img": "https://den-cards.pokellector.com/5/Skyarrow-Bridge.NXD.91.png",
+      "rarity": "Uncommon",
+      "cardNum": "91/99"
+    },
+    {
+      "name": "Double Colorless Energy",
+      "set": "Next Destinies",
+      "img": "https://den-cards.pokellector.com/5/Double-Colorless-Energy.NXD.92.png",
+      "rarity": "Uncommon",
+      "cardNum": "92/99"
+    },
+    {
+      "name": "Prism Energy",
+      "set": "Next Destinies",
+      "img": "https://den-cards.pokellector.com/5/Prism-Energy.NXD.93.png",
+      "rarity": "Uncommon",
+      "cardNum": "93/99"
+    },
+    {
+      "name": "Shaymin EX",
+      "set": "Next Destinies",
+      "img": "https://den-cards.pokellector.com/5/Shaymin-EX.NXD.94.png",
+      "rarity": "Rare",
+      "cardNum": "94/99"
+    },
+    {
+      "name": "Reshiram EX",
+      "set": "Next Destinies",
+      "img": "https://den-cards.pokellector.com/5/Reshiram-EX.NXD.95.png",
+      "rarity": "Rare",
+      "cardNum": "95/99"
+    },
+    {
+      "name": "Kyurem EX",
+      "set": "Next Destinies",
+      "img": "https://den-cards.pokellector.com/5/Kyurem-EX.NXD.96.png",
+      "rarity": "Rare",
+      "cardNum": "96/99"
+    },
+    {
+      "name": "Zekrom EX",
+      "set": "Next Destinies",
+      "img": "https://den-cards.pokellector.com/5/Zekrom-EX.NXD.97.png",
+      "rarity": "Rare",
+      "cardNum": "97/99"
+    },
+    {
+      "name": "Mewtwo EX",
+      "set": "Next Destinies",
+      "img": "https://den-cards.pokellector.com/5/Mewtwo-EX.NXD.98.png",
+      "rarity": "Rare",
+      "cardNum": "98/99"
+    },
+    {
+      "name": "Regigigas EX",
+      "set": "Next Destinies",
+      "img": "https://den-cards.pokellector.com/5/Regigigas-EX.NXD.99.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "99/99"
+    },
+    {
+      "name": "Emboar",
+      "set": "Next Destinies",
+      "img": "https://den-cards.pokellector.com/5/Emboar.NXD.100.png",
+      "rarity": "Secret Rare",
+      "cardNum": "100/99"
+    },
+    {
+      "name": "Chandelure",
+      "set": "Next Destinies",
+      "img": "https://den-cards.pokellector.com/5/Chandelure.NXD.101.png",
+      "rarity": "Secret Rare",
+      "cardNum": "101/99"
+    },
+    {
+      "name": "Zoroark",
+      "set": "Next Destinies",
+      "img": "https://den-cards.pokellector.com/5/Zoroark.NXD.102.png",
+      "rarity": "Secret Rare",
+      "cardNum": "102/99"
+    },
+    {
+      "name": "Hydreigon",
+      "set": "Next Destinies",
+      "img": "https://den-cards.pokellector.com/5/Hydreigon.NXD.103.png",
+      "rarity": "Secret Rare",
+      "cardNum": "103/99"
+    }
+  ]
+}

@@ -1,0 +1,1188 @@
+{
+  "setName": "Guardians Rising",
+  "cards": [
+    {
+      "name": "Bellsprout",
+      "set": "Guardians Rising",
+      "img": "https://den-cards.pokellector.com/220/Bellsprout.GRI.1.17718.png",
+      "rarity": "Common",
+      "cardNum": "1/145"
+    },
+    {
+      "name": "Weepinbell",
+      "set": "Guardians Rising",
+      "img": "https://den-cards.pokellector.com/220/Weepinbell.GRI.2.17719.png",
+      "rarity": "Uncommon",
+      "cardNum": "2/145"
+    },
+    {
+      "name": "Victreebel",
+      "set": "Guardians Rising",
+      "img": "https://den-cards.pokellector.com/220/Victreebel.GRI.3.17720.png",
+      "rarity": "Rare",
+      "cardNum": "3/145"
+    },
+    {
+      "name": "Petilil",
+      "set": "Guardians Rising",
+      "img": "https://den-cards.pokellector.com/220/Petilil.GRI.4.17721.png",
+      "rarity": "Common",
+      "cardNum": "4/145"
+    },
+    {
+      "name": "Lilligant",
+      "set": "Guardians Rising",
+      "img": "https://den-cards.pokellector.com/220/Lilligant.GRI.5.17722.png",
+      "rarity": "Rare",
+      "cardNum": "5/145"
+    },
+    {
+      "name": "Phantump",
+      "set": "Guardians Rising",
+      "img": "https://den-cards.pokellector.com/220/Phantump.GRI.6.17723.png",
+      "rarity": "Common",
+      "cardNum": "6/145"
+    },
+    {
+      "name": "Trevenant",
+      "set": "Guardians Rising",
+      "img": "https://den-cards.pokellector.com/220/Trevenant.GRI.7.17724.png",
+      "rarity": "Rare",
+      "cardNum": "7/145"
+    },
+    {
+      "name": "Wimpod",
+      "set": "Guardians Rising",
+      "img": "https://den-cards.pokellector.com/220/Wimpod.GRI.8.17725.png",
+      "rarity": "Common",
+      "cardNum": "8/145"
+    },
+    {
+      "name": "Golisopod",
+      "set": "Guardians Rising",
+      "img": "https://den-cards.pokellector.com/220/Golisopod.GRI.9.17726.png",
+      "rarity": "Rare",
+      "cardNum": "9/145"
+    },
+    {
+      "name": "Victini",
+      "set": "Guardians Rising",
+      "img": "https://den-cards.pokellector.com/220/Victini.GRI.10.17727.png",
+      "rarity": "Rare",
+      "cardNum": "10/145"
+    },
+    {
+      "name": "Litwick",
+      "set": "Guardians Rising",
+      "img": "https://den-cards.pokellector.com/220/Litwick.GRI.11.17728.png",
+      "rarity": "Common",
+      "cardNum": "11/145"
+    },
+    {
+      "name": "Lampent",
+      "set": "Guardians Rising",
+      "img": "https://den-cards.pokellector.com/220/Lampent.GRI.12.17729.png",
+      "rarity": "Uncommon",
+      "cardNum": "12/145"
+    },
+    {
+      "name": "Chandelure",
+      "set": "Guardians Rising",
+      "img": "https://den-cards.pokellector.com/220/Chandelure.GRI.13.17730.png",
+      "rarity": "Rare",
+      "cardNum": "13/145"
+    },
+    {
+      "name": "Oricorio",
+      "set": "Guardians Rising",
+      "img": "https://den-cards.pokellector.com/220/Oricorio.GRI.14.17731.png",
+      "rarity": "Rare",
+      "cardNum": "14/145"
+    },
+    {
+      "name": "Salandit",
+      "set": "Guardians Rising",
+      "img": "https://den-cards.pokellector.com/220/Salandit.GRI.15.17732.png",
+      "rarity": "Common",
+      "cardNum": "15/145"
+    },
+    {
+      "name": "Salazzle",
+      "set": "Guardians Rising",
+      "img": "https://den-cards.pokellector.com/220/Salazzle.GRI.16.17733.png",
+      "rarity": "Rare",
+      "cardNum": "16/145"
+    },
+    {
+      "name": "Turtonator",
+      "set": "Guardians Rising",
+      "img": "https://den-cards.pokellector.com/220/Turtonator.GRI.17.17734.png",
+      "rarity": "Rare",
+      "cardNum": "17/145"
+    },
+    {
+      "name": "Turtonator GX",
+      "set": "Guardians Rising",
+      "img": "https://den-cards.pokellector.com/220/Turtonator-GX.GRI.18.17735.png",
+      "rarity": "Rare",
+      "cardNum": "18/145"
+    },
+    {
+      "name": "Alolan Sandshrew",
+      "set": "Guardians Rising",
+      "img": "https://den-cards.pokellector.com/220/Alolan-Sandshrew.GRI.19.17736.png",
+      "rarity": "Common",
+      "cardNum": "19/145"
+    },
+    {
+      "name": "Alolan Sandslash",
+      "set": "Guardians Rising",
+      "img": "https://den-cards.pokellector.com/220/Alolan-Sandslash.GRI.20.17737.png",
+      "rarity": "Rare",
+      "cardNum": "20/145"
+    },
+    {
+      "name": "Alolan Vulpix",
+      "set": "Guardians Rising",
+      "img": "https://den-cards.pokellector.com/220/Alolan-Vulpix.GRI.21.17738.png",
+      "rarity": "Common",
+      "cardNum": "21/145"
+    },
+    {
+      "name": "Alolan Ninetales GX",
+      "set": "Guardians Rising",
+      "img": "https://den-cards.pokellector.com/220/Alolan-Vulpix-GX.GRI.22.17370.png",
+      "rarity": "Rare",
+      "cardNum": "22/145"
+    },
+    {
+      "name": "Tentacool",
+      "set": "Guardians Rising",
+      "img": "https://den-cards.pokellector.com/220/Tentacool.GRI.23.17739.png",
+      "rarity": "Common",
+      "cardNum": "23/145"
+    },
+    {
+      "name": "Tentacruel",
+      "set": "Guardians Rising",
+      "img": "https://den-cards.pokellector.com/220/Tentacruel.GRI.24.17740.png",
+      "rarity": "Uncommon",
+      "cardNum": "24/145"
+    },
+    {
+      "name": "Politoed",
+      "set": "Guardians Rising",
+      "img": "https://den-cards.pokellector.com/220/Politoed.GRI.25.17741.png",
+      "rarity": "Rare",
+      "cardNum": "25/145"
+    },
+    {
+      "name": "Delibird",
+      "set": "Guardians Rising",
+      "img": "https://den-cards.pokellector.com/220/Delibird.GRI.26.17742.png",
+      "rarity": "Common",
+      "cardNum": "26/145"
+    },
+    {
+      "name": "Carvanha",
+      "set": "Guardians Rising",
+      "img": "https://den-cards.pokellector.com/220/Carvanha.GRI.27.17743.png",
+      "rarity": "Common",
+      "cardNum": "27/145"
+    },
+    {
+      "name": "Sharpedo",
+      "set": "Guardians Rising",
+      "img": "https://den-cards.pokellector.com/220/Sharpedo.GRI.28.17744.png",
+      "rarity": "Rare",
+      "cardNum": "28/145"
+    },
+    {
+      "name": "Wailmer",
+      "set": "Guardians Rising",
+      "img": "https://den-cards.pokellector.com/220/Wailmer.GRI.29.17745.png",
+      "rarity": "Common",
+      "cardNum": "29/145"
+    },
+    {
+      "name": "Wailord",
+      "set": "Guardians Rising",
+      "img": "https://den-cards.pokellector.com/220/Wailord.GRI.30.17746.png",
+      "rarity": "Rare",
+      "cardNum": "30/145"
+    },
+    {
+      "name": "Snorunt",
+      "set": "Guardians Rising",
+      "img": "https://den-cards.pokellector.com/220/Snorunt.GRI.31.17747.png",
+      "rarity": "Common",
+      "cardNum": "31/145"
+    },
+    {
+      "name": "Glalie",
+      "set": "Guardians Rising",
+      "img": "https://den-cards.pokellector.com/220/Glalie.GRI.32.17748.png",
+      "rarity": "Uncommon",
+      "cardNum": "32/145"
+    },
+    {
+      "name": "Vanillite",
+      "set": "Guardians Rising",
+      "img": "https://den-cards.pokellector.com/220/Vanillite.GRI.33.17749.png",
+      "rarity": "Common",
+      "cardNum": "33/145"
+    },
+    {
+      "name": "Vanillish",
+      "set": "Guardians Rising",
+      "img": "https://den-cards.pokellector.com/220/Vanillish.GRI.34.17750.png",
+      "rarity": "Uncommon",
+      "cardNum": "34/145"
+    },
+    {
+      "name": "Vanilluxe",
+      "set": "Guardians Rising",
+      "img": "https://den-cards.pokellector.com/220/Vanilluxe.GRI.35.17751.png",
+      "rarity": "Rare",
+      "cardNum": "35/145"
+    },
+    {
+      "name": "Alomomola",
+      "set": "Guardians Rising",
+      "img": "https://den-cards.pokellector.com/220/Alomomola.GRI.36.17752.png",
+      "rarity": "Uncommon",
+      "cardNum": "36/145"
+    },
+    {
+      "name": "Wishiwashi",
+      "set": "Guardians Rising",
+      "img": "https://den-cards.pokellector.com/220/Wishiwashi.GRI.37.17753.png",
+      "rarity": "Common",
+      "cardNum": "37/145"
+    },
+    {
+      "name": "Wishiwashi GX",
+      "set": "Guardians Rising",
+      "img": "https://den-cards.pokellector.com/220/Wishiwashi-GX.GRI.38.17754.png",
+      "rarity": "Rare",
+      "cardNum": "38/145"
+    },
+    {
+      "name": "Mareanie",
+      "set": "Guardians Rising",
+      "img": "https://den-cards.pokellector.com/220/Mareanie.GRI.39.17755.png",
+      "rarity": "Uncommon",
+      "cardNum": "39/145"
+    },
+    {
+      "name": "Alolan Geodude",
+      "set": "Guardians Rising",
+      "img": "https://den-cards.pokellector.com/220/Alolan-Geodude.GRI.40.17756.png",
+      "rarity": "Common",
+      "cardNum": "40/145"
+    },
+    {
+      "name": "Alolan Graveler",
+      "set": "Guardians Rising",
+      "img": "https://den-cards.pokellector.com/220/Alolan-Graveler.GRI.41.17757.png",
+      "rarity": "Uncommon",
+      "cardNum": "41/145"
+    },
+    {
+      "name": "Alolan Golem",
+      "set": "Guardians Rising",
+      "img": "https://den-cards.pokellector.com/220/Alolan-Golem.GRI.42.17758.png",
+      "rarity": "Rare",
+      "cardNum": "42/145"
+    },
+    {
+      "name": "Helioptile",
+      "set": "Guardians Rising",
+      "img": "https://den-cards.pokellector.com/220/Helioptile.GRI.43.17759.png",
+      "rarity": "Common",
+      "cardNum": "43/145"
+    },
+    {
+      "name": "Heliolisk",
+      "set": "Guardians Rising",
+      "img": "https://den-cards.pokellector.com/220/Heliolisk.GRI.44.17760.png",
+      "rarity": "Rare",
+      "cardNum": "44/145"
+    },
+    {
+      "name": "Vikavolt GX",
+      "set": "Guardians Rising",
+      "img": "https://den-cards.pokellector.com/220/Vikavolt-GX.GRI.45.17761.png",
+      "rarity": "Rare",
+      "cardNum": "45/145"
+    },
+    {
+      "name": "Oricorio",
+      "set": "Guardians Rising",
+      "img": "https://den-cards.pokellector.com/220/Oricorio.GRI.46.17762.png",
+      "rarity": "Rare",
+      "cardNum": "46/145"
+    },
+    {
+      "name": "Tapu Koko GX",
+      "set": "Guardians Rising",
+      "img": "https://den-cards.pokellector.com/220/Tapu-Koko-GX.GRI.47.17763.png",
+      "rarity": "Rare",
+      "cardNum": "47/145"
+    },
+    {
+      "name": "Slowpoke",
+      "set": "Guardians Rising",
+      "img": "https://den-cards.pokellector.com/220/Slowpoke.GRI.48.17764.png",
+      "rarity": "Common",
+      "cardNum": "48/145"
+    },
+    {
+      "name": "Slowbro",
+      "set": "Guardians Rising",
+      "img": "https://den-cards.pokellector.com/220/Slowbro.GRI.49.17765.png",
+      "rarity": "Uncommon",
+      "cardNum": "49/145"
+    },
+    {
+      "name": "Trubbish",
+      "set": "Guardians Rising",
+      "img": "https://den-cards.pokellector.com/220/Trubbish.GRI.50.17766.png",
+      "rarity": "Common",
+      "cardNum": "50/145"
+    },
+    {
+      "name": "Garbodor",
+      "set": "Guardians Rising",
+      "img": "https://den-cards.pokellector.com/220/Garbodor.GRI.51.17767.png",
+      "rarity": "Rare",
+      "cardNum": "51/145"
+    },
+    {
+      "name": "Gothita",
+      "set": "Guardians Rising",
+      "img": "https://den-cards.pokellector.com/220/Gothita.GRI.52.17768.png",
+      "rarity": "Common",
+      "cardNum": "52/145"
+    },
+    {
+      "name": "Gothorita",
+      "set": "Guardians Rising",
+      "img": "https://den-cards.pokellector.com/220/Gothorita.GRI.53.17769.png",
+      "rarity": "Uncommon",
+      "cardNum": "53/145"
+    },
+    {
+      "name": "Gothitelle",
+      "set": "Guardians Rising",
+      "img": "https://den-cards.pokellector.com/220/Gothitelle.GRI.54.17770.png",
+      "rarity": "Rare",
+      "cardNum": "54/145"
+    },
+    {
+      "name": "Oricorio",
+      "set": "Guardians Rising",
+      "img": "https://den-cards.pokellector.com/220/Oricorio.GRI.55.17771.png",
+      "rarity": "Rare",
+      "cardNum": "55/145"
+    },
+    {
+      "name": "Oricorio",
+      "set": "Guardians Rising",
+      "img": "https://den-cards.pokellector.com/220/Oricorio.GRI.56.17772.png",
+      "rarity": "Rare",
+      "cardNum": "56/145"
+    },
+    {
+      "name": "Toxapex GX",
+      "set": "Guardians Rising",
+      "img": "https://den-cards.pokellector.com/220/Toxapex-GX.GRI.57.17773.png",
+      "rarity": "Rare",
+      "cardNum": "57/145"
+    },
+    {
+      "name": "Mimikyu",
+      "set": "Guardians Rising",
+      "img": "https://den-cards.pokellector.com/220/Mimikyu.GRI.58.17774.png",
+      "rarity": "Rare",
+      "cardNum": "58/145"
+    },
+    {
+      "name": "Dhelmise",
+      "set": "Guardians Rising",
+      "img": "https://den-cards.pokellector.com/220/Dhelmise.GRI.59.17775.png",
+      "rarity": "Rare",
+      "cardNum": "59/145"
+    },
+    {
+      "name": "Tapu Lele GX",
+      "set": "Guardians Rising",
+      "img": "https://den-cards.pokellector.com/220/Tapu-Lele-GX.GRI.60.17369.png",
+      "rarity": "Rare",
+      "cardNum": "60/145"
+    },
+    {
+      "name": "Lunala",
+      "set": "Guardians Rising",
+      "img": "https://den-cards.pokellector.com/220/Lunala.GRI.61.17776.png",
+      "rarity": "Rare",
+      "cardNum": "61/145"
+    },
+    {
+      "name": "Machop",
+      "set": "Guardians Rising",
+      "img": "https://den-cards.pokellector.com/220/Machop.GRI.62.17777.png",
+      "rarity": "Common",
+      "cardNum": "62/145"
+    },
+    {
+      "name": "Machop",
+      "set": "Guardians Rising",
+      "img": "https://den-cards.pokellector.com/220/Machop.GRI.63.17778.png",
+      "rarity": "Common",
+      "cardNum": "63/145"
+    },
+    {
+      "name": "Machoke",
+      "set": "Guardians Rising",
+      "img": "https://den-cards.pokellector.com/220/Machoke.GRI.64.17779.png",
+      "rarity": "Uncommon",
+      "cardNum": "64/145"
+    },
+    {
+      "name": "Machamp",
+      "set": "Guardians Rising",
+      "img": "https://den-cards.pokellector.com/220/Machamp.GRI.65.17780.png",
+      "rarity": "Rare",
+      "cardNum": "65/145"
+    },
+    {
+      "name": "Sudowoodo",
+      "set": "Guardians Rising",
+      "img": "https://den-cards.pokellector.com/220/Sudowoodo.GRI.66.17781.png",
+      "rarity": "Uncommon",
+      "cardNum": "66/145"
+    },
+    {
+      "name": "Gligar",
+      "set": "Guardians Rising",
+      "img": "https://den-cards.pokellector.com/220/Gligar.GRI.67.17782.png",
+      "rarity": "Common",
+      "cardNum": "67/145"
+    },
+    {
+      "name": "Gliscor",
+      "set": "Guardians Rising",
+      "img": "https://den-cards.pokellector.com/220/Gliscor.GRI.68.17783.png",
+      "rarity": "Uncommon",
+      "cardNum": "68/145"
+    },
+    {
+      "name": "Nosepass",
+      "set": "Guardians Rising",
+      "img": "https://den-cards.pokellector.com/220/Nosepass.GRI.69.17784.png",
+      "rarity": "Common",
+      "cardNum": "69/145"
+    },
+    {
+      "name": "Barboach",
+      "set": "Guardians Rising",
+      "img": "https://den-cards.pokellector.com/220/Barboach.GRI.70.17785.png",
+      "rarity": "Common",
+      "cardNum": "70/145"
+    },
+    {
+      "name": "Whiscash",
+      "set": "Guardians Rising",
+      "img": "https://den-cards.pokellector.com/220/Whiscash.GRI.71.17786.png",
+      "rarity": "Rare",
+      "cardNum": "71/145"
+    },
+    {
+      "name": "Pancham",
+      "set": "Guardians Rising",
+      "img": "https://den-cards.pokellector.com/220/Pancham.GRI.72.17787.png",
+      "rarity": "Common",
+      "cardNum": "72/145"
+    },
+    {
+      "name": "Rockruff",
+      "set": "Guardians Rising",
+      "img": "https://den-cards.pokellector.com/220/Rockruff.GRI.73.17788.png",
+      "rarity": "Common",
+      "cardNum": "73/145"
+    },
+    {
+      "name": "Lycanroc GX",
+      "set": "Guardians Rising",
+      "img": "https://den-cards.pokellector.com/220/Lycanroc-GX.GRI.74.17368.png",
+      "rarity": "Rare",
+      "cardNum": "74/145"
+    },
+    {
+      "name": "Mudbray",
+      "set": "Guardians Rising",
+      "img": "https://den-cards.pokellector.com/220/Mudbray.GRI.75.17789.png",
+      "rarity": "Common",
+      "cardNum": "75/145"
+    },
+    {
+      "name": "Mudsdale",
+      "set": "Guardians Rising",
+      "img": "https://den-cards.pokellector.com/220/Mudsdale.GRI.76.17790.png",
+      "rarity": "Rare",
+      "cardNum": "76/145"
+    },
+    {
+      "name": "Minior",
+      "set": "Guardians Rising",
+      "img": "https://den-cards.pokellector.com/220/Minior.GRI.77.17791.png",
+      "rarity": "Rare",
+      "cardNum": "77/145"
+    },
+    {
+      "name": "Murkrow",
+      "set": "Guardians Rising",
+      "img": "https://den-cards.pokellector.com/220/Murkrow.GRI.78.17792.png",
+      "rarity": "Common",
+      "cardNum": "78/145"
+    },
+    {
+      "name": "Honchkrow",
+      "set": "Guardians Rising",
+      "img": "https://den-cards.pokellector.com/220/Honchkrow.GRI.79.17793.png",
+      "rarity": "Rare",
+      "cardNum": "79/145"
+    },
+    {
+      "name": "Sableye",
+      "set": "Guardians Rising",
+      "img": "https://den-cards.pokellector.com/220/Sableye.GRI.80.17794.png",
+      "rarity": "Uncommon",
+      "cardNum": "80/145"
+    },
+    {
+      "name": "Absol",
+      "set": "Guardians Rising",
+      "img": "https://den-cards.pokellector.com/220/Absol.GRI.81.17795.png",
+      "rarity": "Rare",
+      "cardNum": "81/145"
+    },
+    {
+      "name": "Pangoro",
+      "set": "Guardians Rising",
+      "img": "https://den-cards.pokellector.com/220/Pangoro.GRI.82.17796.png",
+      "rarity": "Rare",
+      "cardNum": "82/145"
+    },
+    {
+      "name": "Beldum",
+      "set": "Guardians Rising",
+      "img": "https://den-cards.pokellector.com/220/Beldum.GRI.83.17797.png",
+      "rarity": "Common",
+      "cardNum": "83/145"
+    },
+    {
+      "name": "Metang",
+      "set": "Guardians Rising",
+      "img": "https://den-cards.pokellector.com/220/Metang.GRI.84.17798.png",
+      "rarity": "Uncommon",
+      "cardNum": "84/145"
+    },
+    {
+      "name": "Metagross GX",
+      "set": "Guardians Rising",
+      "img": "https://den-cards.pokellector.com/220/Metagross-GX.GRI.85.17371.png",
+      "rarity": "Rare",
+      "cardNum": "85/145"
+    },
+    {
+      "name": "Probopass",
+      "set": "Guardians Rising",
+      "img": "https://den-cards.pokellector.com/220/Probopass.GRI.86.17799.png",
+      "rarity": "Rare",
+      "cardNum": "86/145"
+    },
+    {
+      "name": "Solgaleo",
+      "set": "Guardians Rising",
+      "img": "https://den-cards.pokellector.com/220/Solgaleo.GRI.87.17800.png",
+      "rarity": "Rare",
+      "cardNum": "87/145"
+    },
+    {
+      "name": "Clefairy",
+      "set": "Guardians Rising",
+      "img": "https://den-cards.pokellector.com/220/Clefairy.GRI.88.17801.png",
+      "rarity": "Common",
+      "cardNum": "88/145"
+    },
+    {
+      "name": "Clefable",
+      "set": "Guardians Rising",
+      "img": "https://den-cards.pokellector.com/220/Clefable.GRI.89.17802.png",
+      "rarity": "Uncommon",
+      "cardNum": "89/145"
+    },
+    {
+      "name": "Cottonee",
+      "set": "Guardians Rising",
+      "img": "https://den-cards.pokellector.com/220/Cottonee.GRI.90.17803.png",
+      "rarity": "Common",
+      "cardNum": "90/145"
+    },
+    {
+      "name": "Whimsicott",
+      "set": "Guardians Rising",
+      "img": "https://den-cards.pokellector.com/220/Whimsicott.GRI.91.17804.png",
+      "rarity": "Uncommon",
+      "cardNum": "91/145"
+    },
+    {
+      "name": "Sylveon GX",
+      "set": "Guardians Rising",
+      "img": "https://den-cards.pokellector.com/220/Sylveon-GX.GRI.92.17805.png",
+      "rarity": "Rare",
+      "cardNum": "92/145"
+    },
+    {
+      "name": "Comfey",
+      "set": "Guardians Rising",
+      "img": "https://den-cards.pokellector.com/220/Comfey.GRI.93.17423.png",
+      "rarity": "Rare",
+      "cardNum": "93/145"
+    },
+    {
+      "name": "Goomy",
+      "set": "Guardians Rising",
+      "img": "https://den-cards.pokellector.com/220/Goomy.GRI.94.17806.png",
+      "rarity": "Common",
+      "cardNum": "94/145"
+    },
+    {
+      "name": "Sliggoo",
+      "set": "Guardians Rising",
+      "img": "https://den-cards.pokellector.com/220/Sliggoo.GRI.95.17807.png",
+      "rarity": "Uncommon",
+      "cardNum": "95/145"
+    },
+    {
+      "name": "Goodra",
+      "set": "Guardians Rising",
+      "img": "https://den-cards.pokellector.com/220/Goodra.GRI.96.17808.png",
+      "rarity": "Rare",
+      "cardNum": "96/145"
+    },
+    {
+      "name": "Drampa",
+      "set": "Guardians Rising",
+      "img": "https://den-cards.pokellector.com/220/Drampa.GRI.97.17809.png",
+      "rarity": "Rare",
+      "cardNum": "97/145"
+    },
+    {
+      "name": "Jangmo-o",
+      "set": "Guardians Rising",
+      "img": "https://den-cards.pokellector.com/220/Jangmo-o.GRI.98.17810.png",
+      "rarity": "Common",
+      "cardNum": "98/145"
+    },
+    {
+      "name": "Hakamo-o",
+      "set": "Guardians Rising",
+      "img": "https://den-cards.pokellector.com/220/Hakamo-o.GRI.99.17811.png",
+      "rarity": "Uncommon",
+      "cardNum": "99/145"
+    },
+    {
+      "name": "Kommo-o GX",
+      "set": "Guardians Rising",
+      "img": "https://den-cards.pokellector.com/220/Kommo-o-GX.GRI.100.17424.png",
+      "rarity": "Rare",
+      "cardNum": "100/145"
+    },
+    {
+      "name": "Chansey",
+      "set": "Guardians Rising",
+      "img": "https://den-cards.pokellector.com/220/Chansey.GRI.101.17812.png",
+      "rarity": "Common",
+      "cardNum": "101/145"
+    },
+    {
+      "name": "Blissey",
+      "set": "Guardians Rising",
+      "img": "https://den-cards.pokellector.com/220/Blissey.GRI.102.17813.png",
+      "rarity": "Rare",
+      "cardNum": "102/145"
+    },
+    {
+      "name": "Taillow",
+      "set": "Guardians Rising",
+      "img": "https://den-cards.pokellector.com/220/Taillow.GRI.103.17814.png",
+      "rarity": "Common",
+      "cardNum": "103/145"
+    },
+    {
+      "name": "Swellow",
+      "set": "Guardians Rising",
+      "img": "https://den-cards.pokellector.com/220/Swellow.GRI.104.17815.png",
+      "rarity": "Rare",
+      "cardNum": "104/145"
+    },
+    {
+      "name": "Castform",
+      "set": "Guardians Rising",
+      "img": "https://den-cards.pokellector.com/220/Castform.GRI.105.17816.png",
+      "rarity": "Common",
+      "cardNum": "105/145"
+    },
+    {
+      "name": "Rayquaza",
+      "set": "Guardians Rising",
+      "img": "https://den-cards.pokellector.com/220/Rayquaza.GRI.106.17817.png",
+      "rarity": "Rare",
+      "cardNum": "106/145"
+    },
+    {
+      "name": "Patrat",
+      "set": "Guardians Rising",
+      "img": "https://den-cards.pokellector.com/220/Patrat.GRI.107.17818.png",
+      "rarity": "Common",
+      "cardNum": "107/145"
+    },
+    {
+      "name": "Watchog",
+      "set": "Guardians Rising",
+      "img": "https://den-cards.pokellector.com/220/Watchog.GRI.108.17819.png",
+      "rarity": "Uncommon",
+      "cardNum": "108/145"
+    },
+    {
+      "name": "Fletchling",
+      "set": "Guardians Rising",
+      "img": "https://den-cards.pokellector.com/220/Fletchling.GRI.109.17820.png",
+      "rarity": "Common",
+      "cardNum": "109/145"
+    },
+    {
+      "name": "Fletchinder",
+      "set": "Guardians Rising",
+      "img": "https://den-cards.pokellector.com/220/Fletchinder.GRI.110.17821.png",
+      "rarity": "Uncommon",
+      "cardNum": "110/145"
+    },
+    {
+      "name": "Talonflame",
+      "set": "Guardians Rising",
+      "img": "https://den-cards.pokellector.com/220/Talonflame.GRI.111.17822.png",
+      "rarity": "Rare",
+      "cardNum": "111/145"
+    },
+    {
+      "name": "Stufful",
+      "set": "Guardians Rising",
+      "img": "https://den-cards.pokellector.com/220/Stufful.GRI.112.17823.png",
+      "rarity": "Common",
+      "cardNum": "112/145"
+    },
+    {
+      "name": "Bewear",
+      "set": "Guardians Rising",
+      "img": "https://den-cards.pokellector.com/220/Bewear.GRI.113.17824.png",
+      "rarity": "Uncommon",
+      "cardNum": "113/145"
+    },
+    {
+      "name": "Komala",
+      "set": "Guardians Rising",
+      "img": "https://den-cards.pokellector.com/220/Komala.GRI.114.17825.png",
+      "rarity": "Uncommon",
+      "cardNum": "114/145"
+    },
+    {
+      "name": "Drampa GX",
+      "set": "Guardians Rising",
+      "img": "https://den-cards.pokellector.com/220/Drampa-GX.GRI.115.17826.png",
+      "rarity": "Rare",
+      "cardNum": "115/145"
+    },
+    {
+      "name": "Aether Paradise Conservation Area",
+      "set": "Guardians Rising",
+      "img": "https://den-cards.pokellector.com/220/Aether-Paradise-Conservation-Area.GRI.116.17827.png",
+      "rarity": "Uncommon",
+      "cardNum": "116/145"
+    },
+    {
+      "name": "Altar of the Moone",
+      "set": "Guardians Rising",
+      "img": "https://den-cards.pokellector.com/220/Altar-of-the-Moone.GRI.117.17464.png",
+      "rarity": "Uncommon",
+      "cardNum": "117/145"
+    },
+    {
+      "name": "Altar of the Sunne",
+      "set": "Guardians Rising",
+      "img": "https://den-cards.pokellector.com/220/Altar-of-the-Sunne.GRI.118.17465.png",
+      "rarity": "Uncommon",
+      "cardNum": "118/145"
+    },
+    {
+      "name": "Aqua Patch",
+      "set": "Guardians Rising",
+      "img": "https://den-cards.pokellector.com/220/Aqua-Patch.GRI.119.17466.png",
+      "rarity": "Uncommon",
+      "cardNum": "119/145"
+    },
+    {
+      "name": "Brooklet Hill",
+      "set": "Guardians Rising",
+      "img": "https://den-cards.pokellector.com/220/Brooklet-Hill.GRI.120.17828.png",
+      "rarity": "Uncommon",
+      "cardNum": "120/145"
+    },
+    {
+      "name": "Choice Band",
+      "set": "Guardians Rising",
+      "img": "https://den-cards.pokellector.com/220/Choice-Band.GRI.121.17829.png",
+      "rarity": "Uncommon",
+      "cardNum": "121/145"
+    },
+    {
+      "name": "Energy Loto",
+      "set": "Guardians Rising",
+      "img": "https://den-cards.pokellector.com/220/Energy-Loto.GRI.122.17830.png",
+      "rarity": "Uncommon",
+      "cardNum": "122/145"
+    },
+    {
+      "name": "Energy Recycler",
+      "set": "Guardians Rising",
+      "img": "https://den-cards.pokellector.com/220/Energy-Recycler.GRI.123.17831.png",
+      "rarity": "Uncommon",
+      "cardNum": "123/145"
+    },
+    {
+      "name": "Enhanced Hammer",
+      "set": "Guardians Rising",
+      "img": "https://den-cards.pokellector.com/220/Enhanced-Hammer.GRI.124.17832.png",
+      "rarity": "Uncommon",
+      "cardNum": "124/145"
+    },
+    {
+      "name": "Field Blower",
+      "set": "Guardians Rising",
+      "img": "https://den-cards.pokellector.com/220/Field-Blower.GRI.125.17833.png",
+      "rarity": "Uncommon",
+      "cardNum": "125/145"
+    },
+    {
+      "name": "Hala",
+      "set": "Guardians Rising",
+      "img": "https://den-cards.pokellector.com/220/Hala.GRI.126.17834.png",
+      "rarity": "Uncommon",
+      "cardNum": "126/145"
+    },
+    {
+      "name": "Mallow",
+      "set": "Guardians Rising",
+      "img": "https://den-cards.pokellector.com/220/Mallow.GRI.127.17835.png",
+      "rarity": "Uncommon",
+      "cardNum": "127/145"
+    },
+    {
+      "name": "Max Potion",
+      "set": "Guardians Rising",
+      "img": "https://den-cards.pokellector.com/220/Max-Potion.GRI.128.17836.png",
+      "rarity": "Uncommon",
+      "cardNum": "128/145"
+    },
+    {
+      "name": "Multi Switch",
+      "set": "Guardians Rising",
+      "img": "https://den-cards.pokellector.com/220/Multi-Switch.GRI.129.17837.png",
+      "rarity": "Uncommon",
+      "cardNum": "129/145"
+    },
+    {
+      "name": "Rescue Stretcher",
+      "set": "Guardians Rising",
+      "img": "https://den-cards.pokellector.com/220/Rescue-Stretcher.GRI.130.17838.png",
+      "rarity": "Uncommon",
+      "cardNum": "130/145"
+    },
+    {
+      "name": "Turtonator GX",
+      "set": "Guardians Rising",
+      "img": "https://den-cards.pokellector.com/220/Turtonator-GX.GRI.131.17839.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "131/145"
+    },
+    {
+      "name": "Alolan Ninetales GX",
+      "set": "Guardians Rising",
+      "img": "https://den-cards.pokellector.com/220/Alolan-Ninetales-GX.GRI.132.17840.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "132/145"
+    },
+    {
+      "name": "Wishiwashi GX",
+      "set": "Guardians Rising",
+      "img": "https://den-cards.pokellector.com/220/Wishiwashi-GX.GRI.133.17841.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "133/145"
+    },
+    {
+      "name": "Vikavolt GX",
+      "set": "Guardians Rising",
+      "img": "https://den-cards.pokellector.com/220/Vikavolt-GX.GRI.134.17842.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "134/145"
+    },
+    {
+      "name": "Tapu Koko GX",
+      "set": "Guardians Rising",
+      "img": "https://den-cards.pokellector.com/220/Tapu-Koko-GX.GRI.135.17843.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "135/145"
+    },
+    {
+      "name": "Toxapex GX",
+      "set": "Guardians Rising",
+      "img": "https://den-cards.pokellector.com/220/Toxapex-GX-GX.GRI.136.17844.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "136/145"
+    },
+    {
+      "name": "Tapu Lele GX",
+      "set": "Guardians Rising",
+      "img": "https://den-cards.pokellector.com/220/Tapu-Lele-GX.GRI.137.17845.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "137/145"
+    },
+    {
+      "name": "Lycanroc GX",
+      "set": "Guardians Rising",
+      "img": "https://den-cards.pokellector.com/220/Lycanroc-GX.GRI.138.17846.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "138/145"
+    },
+    {
+      "name": "Metagross GX",
+      "set": "Guardians Rising",
+      "img": "https://den-cards.pokellector.com/220/Metagross-GX.GRI.139.17847.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "139/145"
+    },
+    {
+      "name": "Sylveon GX",
+      "set": "Guardians Rising",
+      "img": "https://den-cards.pokellector.com/220/Sylveon-GX.GRI.140.17848.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "140/145"
+    },
+    {
+      "name": "Kommo-o GX",
+      "set": "Guardians Rising",
+      "img": "https://den-cards.pokellector.com/220/Kommo-o-GX.GRI.141.17849.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "141/145"
+    },
+    {
+      "name": "Drampa GX",
+      "set": "Guardians Rising",
+      "img": "https://den-cards.pokellector.com/220/Drampa-GX.GRI.142.17850.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "142/145"
+    },
+    {
+      "name": "Hala",
+      "set": "Guardians Rising",
+      "img": "https://den-cards.pokellector.com/220/Hala.GRI.143.17425.png",
+      "rarity": "Rare",
+      "cardNum": "143/145"
+    },
+    {
+      "name": "Hau",
+      "set": "Guardians Rising",
+      "img": "https://den-cards.pokellector.com/220/Hau.GRI.144.17851.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "144/145"
+    },
+    {
+      "name": "Mallow",
+      "set": "Guardians Rising",
+      "img": "https://den-cards.pokellector.com/220/Mallow.GRI.145.17852.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "145/145"
+    },
+    {
+      "name": "Decidueye GX",
+      "set": "Guardians Rising",
+      "img": "https://den-cards.pokellector.com/220/Decidueye-GX.GRI.146.17853.png",
+      "rarity": "Secret Rare",
+      "cardNum": "146/145"
+    },
+    {
+      "name": "Incineroar GX",
+      "set": "Guardians Rising",
+      "img": "https://den-cards.pokellector.com/220/Incineroar-GX.GRI.147.17854.png",
+      "rarity": "Secret Rare",
+      "cardNum": "147/145"
+    },
+    {
+      "name": "Turtonator GX",
+      "set": "Guardians Rising",
+      "img": "https://den-cards.pokellector.com/220/Turtonator-GX.GRI.148.17855.png",
+      "rarity": "Secret Rare",
+      "cardNum": "148/145"
+    },
+    {
+      "name": "Primarina GX",
+      "set": "Guardians Rising",
+      "img": "https://den-cards.pokellector.com/220/Primarina-GX.GRI.149.17857.png",
+      "rarity": "Secret Rare",
+      "cardNum": "149/145"
+    },
+    {
+      "name": "Alolan Ninetales GX",
+      "set": "Guardians Rising",
+      "img": "https://den-cards.pokellector.com/220/Alolan-Ninetales-GX.GRI.150.17856.png",
+      "rarity": "Secret Rare",
+      "cardNum": "150/145"
+    },
+    {
+      "name": "Wishiwashi GX",
+      "set": "Guardians Rising",
+      "img": "https://den-cards.pokellector.com/220/Wishiwashi-GX.GRI.151.17858.png",
+      "rarity": "Secret Rare",
+      "cardNum": "151/145"
+    },
+    {
+      "name": "Vikavolt GX",
+      "set": "Guardians Rising",
+      "img": "https://den-cards.pokellector.com/220/Vikavolt-GX.GRI.152.17859.png",
+      "rarity": "Secret Rare",
+      "cardNum": "152/145"
+    },
+    {
+      "name": "Tapu Koko GX",
+      "set": "Guardians Rising",
+      "img": "https://den-cards.pokellector.com/220/Tapu-Koko-GX.GRI.153.17860.png",
+      "rarity": "Secret Rare",
+      "cardNum": "153/145"
+    },
+    {
+      "name": "Toxapex GX",
+      "set": "Guardians Rising",
+      "img": "https://den-cards.pokellector.com/220/Toxapex-GX.GRI.154.17861.png",
+      "rarity": "Secret Rare",
+      "cardNum": "154/145"
+    },
+    {
+      "name": "Tapu Lele GX",
+      "set": "Guardians Rising",
+      "img": "https://den-cards.pokellector.com/220/Tapu-Lele-GX.GRI.155.17862.png",
+      "rarity": "Secret Rare",
+      "cardNum": "155/145"
+    },
+    {
+      "name": "Lycanroc GX",
+      "set": "Guardians Rising",
+      "img": "https://den-cards.pokellector.com/220/Lycanroc-GX.GRI.156.17863.png",
+      "rarity": "Secret Rare",
+      "cardNum": "156/145"
+    },
+    {
+      "name": "Metagross GX",
+      "set": "Guardians Rising",
+      "img": "https://den-cards.pokellector.com/220/Metagross-GX.GRI.157.17864.png",
+      "rarity": "Secret Rare",
+      "cardNum": "157/145"
+    },
+    {
+      "name": "Sylveon GX",
+      "set": "Guardians Rising",
+      "img": "https://den-cards.pokellector.com/220/Sylveon-GX.GRI.158.17865.png",
+      "rarity": "Secret Rare",
+      "cardNum": "158/145"
+    },
+    {
+      "name": "Kommo-o GX",
+      "set": "Guardians Rising",
+      "img": "https://den-cards.pokellector.com/220/Kommo-o-GX.GRI.159.17866.png",
+      "rarity": "Secret Rare",
+      "cardNum": "159/145"
+    },
+    {
+      "name": "Drampa GX",
+      "set": "Guardians Rising",
+      "img": "https://den-cards.pokellector.com/220/Drampa-GX.GRI.160.17867.png",
+      "rarity": "Secret Rare",
+      "cardNum": "160/145"
+    },
+    {
+      "name": "Aqua Patch",
+      "set": "Guardians Rising",
+      "img": "https://den-cards.pokellector.com/220/Aqua-Patch.GRI.161.17868.png",
+      "rarity": "Secret Rare",
+      "cardNum": "161/145"
+    },
+    {
+      "name": "Enhanced Hammer",
+      "set": "Guardians Rising",
+      "img": "https://den-cards.pokellector.com/220/Enhanced-Hammer.GRI.162.17869.png",
+      "rarity": "Secret Rare",
+      "cardNum": "162/145"
+    },
+    {
+      "name": "Field Blower",
+      "set": "Guardians Rising",
+      "img": "https://den-cards.pokellector.com/220/Field-Blower.GRI.163.17870.png",
+      "rarity": "Secret Rare",
+      "cardNum": "163/145"
+    },
+    {
+      "name": "Max Potion",
+      "set": "Guardians Rising",
+      "img": "https://den-cards.pokellector.com/220/Max-Potion.GRI.164.17871.png",
+      "rarity": "Secret Rare",
+      "cardNum": "164/145"
+    },
+    {
+      "name": "Rare Candy",
+      "set": "Guardians Rising",
+      "img": "https://den-cards.pokellector.com/220/Rare-Candy.GRI.165.17872.png",
+      "rarity": "Secret Rare",
+      "cardNum": "165/145"
+    },
+    {
+      "name": "Double Colorless Energy",
+      "set": "Guardians Rising",
+      "img": "https://den-cards.pokellector.com/220/Double-Colorless-Energy.GRI.166.17876.png",
+      "rarity": "Secret Rare",
+      "cardNum": "166/145"
+    },
+    {
+      "name": "Grass Energy",
+      "set": "Guardians Rising",
+      "img": "https://den-cards.pokellector.com/220/Grass-Energy.GRI.167.17873.png",
+      "rarity": "Secret Rare",
+      "cardNum": "167/145"
+    },
+    {
+      "name": "Lightning Energy",
+      "set": "Guardians Rising",
+      "img": "https://den-cards.pokellector.com/220/Lightning-Energy.GRI.168.17874.png",
+      "rarity": "Secret Rare",
+      "cardNum": "168/145"
+    },
+    {
+      "name": "Fighting Energy",
+      "set": "Guardians Rising",
+      "img": "https://den-cards.pokellector.com/220/Fighting-Energy.GRI.169.17875.png",
+      "rarity": "Secret Rare",
+      "cardNum": "169/145"
+    }
+  ]
+}

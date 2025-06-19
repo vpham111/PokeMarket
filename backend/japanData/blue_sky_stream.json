@@ -1,0 +1,635 @@
+{
+  "setName": "Blue Sky Stream",
+  "cards": [
+    {
+      "name": "Hoppip",
+      "set": "Blue Sky Stream",
+      "img": "https://den-cards.pokellector.com/319/Hoppip.S7R.1.39406.png",
+      "rarity": "Common",
+      "cardNum": "1/67"
+    },
+    {
+      "name": "Skiploom",
+      "set": "Blue Sky Stream",
+      "img": "https://den-cards.pokellector.com/319/Skiploom.S7R.2.39407.png",
+      "rarity": "Common",
+      "cardNum": "2/67"
+    },
+    {
+      "name": "Jumpluff",
+      "set": "Blue Sky Stream",
+      "img": "https://den-cards.pokellector.com/319/Jumpluff.S7R.3.39408.png",
+      "rarity": "Rare",
+      "cardNum": "3/67"
+    },
+    {
+      "name": "Tropius",
+      "set": "Blue Sky Stream",
+      "img": "https://den-cards.pokellector.com/319/Tropius.S7R.4.39204.png",
+      "rarity": "Common",
+      "cardNum": "4/67"
+    },
+    {
+      "name": "Pansage",
+      "set": "Blue Sky Stream",
+      "img": "https://den-cards.pokellector.com/319/Pansage.S7R.5.39471.png",
+      "rarity": "Common",
+      "cardNum": "5/67"
+    },
+    {
+      "name": "Simisage",
+      "set": "Blue Sky Stream",
+      "img": "https://den-cards.pokellector.com/319/Simisage.S7R.6.39472.png",
+      "rarity": "Common",
+      "cardNum": "6/67"
+    },
+    {
+      "name": "Trevenant V",
+      "set": "Blue Sky Stream",
+      "img": "https://den-cards.pokellector.com/319/Trevenant-V.S7R.7.39473.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "7/67"
+    },
+    {
+      "name": "Trevenant VMAX",
+      "set": "Blue Sky Stream",
+      "img": "https://den-cards.pokellector.com/319/Trevenant-VMAX.S7R.8.39474.png",
+      "rarity": "Common",
+      "cardNum": "8/67"
+    },
+    {
+      "name": "Applin",
+      "set": "Blue Sky Stream",
+      "img": "https://den-cards.pokellector.com/319/Applin.S7R.9.38991.png",
+      "rarity": "Common",
+      "cardNum": "9/67"
+    },
+    {
+      "name": "Vulpix",
+      "set": "Blue Sky Stream",
+      "img": "https://den-cards.pokellector.com/319/Vulpix.S7R.10.39475.png",
+      "rarity": "Common",
+      "cardNum": "10/67"
+    },
+    {
+      "name": "Ninetales",
+      "set": "Blue Sky Stream",
+      "img": "https://den-cards.pokellector.com/319/Ninetales.S7R.11.39476.png",
+      "rarity": "Common",
+      "cardNum": "11/67"
+    },
+    {
+      "name": "Victini",
+      "set": "Blue Sky Stream",
+      "img": "https://den-cards.pokellector.com/319/Victini.S7R.12.39203.png",
+      "rarity": "Rare",
+      "cardNum": "12/67"
+    },
+    {
+      "name": "Pansear",
+      "set": "Blue Sky Stream",
+      "img": "https://den-cards.pokellector.com/319/Pansear.S7R.13.39477.png",
+      "rarity": "Common",
+      "cardNum": "13/67"
+    },
+    {
+      "name": "Simisear",
+      "set": "Blue Sky Stream",
+      "img": "https://den-cards.pokellector.com/319/Simisear.S7R.14.39478.png",
+      "rarity": "Common",
+      "cardNum": "14/67"
+    },
+    {
+      "name": "Volcarona V",
+      "set": "Blue Sky Stream",
+      "img": "https://den-cards.pokellector.com/319/Volcarona-V.S7R.15.39404.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "15/67"
+    },
+    {
+      "name": "Sizzlipede",
+      "set": "Blue Sky Stream",
+      "img": "https://den-cards.pokellector.com/319/Sizzlipede.S7R.16.39479.png",
+      "rarity": "Common",
+      "cardNum": "16/67"
+    },
+    {
+      "name": "Centiscorch",
+      "set": "Blue Sky Stream",
+      "img": "https://den-cards.pokellector.com/319/Centiscorch.S7R.17.39480.png",
+      "rarity": "Uncommon",
+      "cardNum": "17/67"
+    },
+    {
+      "name": "Shellder",
+      "set": "Blue Sky Stream",
+      "img": "https://den-cards.pokellector.com/319/Shellder.S7R.18.39410.png",
+      "rarity": "Common",
+      "cardNum": "18/67"
+    },
+    {
+      "name": "Cloyster",
+      "set": "Blue Sky Stream",
+      "img": "https://den-cards.pokellector.com/319/Cloyster.S7R.19.39411.png",
+      "rarity": "Common",
+      "cardNum": "19/67"
+    },
+    {
+      "name": "Gyarados V",
+      "set": "Blue Sky Stream",
+      "img": "https://den-cards.pokellector.com/319/Gyarados-V.S7R.20.39402.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "20/67"
+    },
+    {
+      "name": "Gyarados VMAX",
+      "set": "Blue Sky Stream",
+      "img": "https://den-cards.pokellector.com/319/Gyarados-VMAX.S7R.21.39403.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "21/67"
+    },
+    {
+      "name": "Galarian Darumaka",
+      "set": "Blue Sky Stream",
+      "img": "https://den-cards.pokellector.com/319/Galarian-Darumaka.S7R.22.39196.png",
+      "rarity": "Common",
+      "cardNum": "22/67"
+    },
+    {
+      "name": "Galarian Darmanitan",
+      "set": "Blue Sky Stream",
+      "img": "https://den-cards.pokellector.com/319/Galarian-Darmanitan.S7R.23.39195.png",
+      "rarity": "Common",
+      "cardNum": "23/67"
+    },
+    {
+      "name": "Cryogonal",
+      "set": "Blue Sky Stream",
+      "img": "https://den-cards.pokellector.com/319/Cryogonal.S7R.24.39197.png",
+      "rarity": "Common",
+      "cardNum": "24/67"
+    },
+    {
+      "name": "Wishiwashi",
+      "set": "Blue Sky Stream",
+      "img": "https://den-cards.pokellector.com/319/Wishiwashi.S7R.25.39429.png",
+      "rarity": "Uncommon",
+      "cardNum": "25/67"
+    },
+    {
+      "name": "Mareep",
+      "set": "Blue Sky Stream",
+      "img": "https://den-cards.pokellector.com/319/Mareep.S7R.26.38988.png",
+      "rarity": "Common",
+      "cardNum": "26/67"
+    },
+    {
+      "name": "Flaaffy",
+      "set": "Blue Sky Stream",
+      "img": "https://den-cards.pokellector.com/319/Flaaffy.S7R.27.38987.png",
+      "rarity": "Uncommon",
+      "cardNum": "27/67"
+    },
+    {
+      "name": "Ampharos",
+      "set": "Blue Sky Stream",
+      "img": "https://den-cards.pokellector.com/319/Ampharos.S7R.28.38986.png",
+      "rarity": "Uncommon",
+      "cardNum": "28/67"
+    },
+    {
+      "name": "Plusle",
+      "set": "Blue Sky Stream",
+      "img": "https://den-cards.pokellector.com/319/Plusle.S7R.29.39482.png",
+      "rarity": "Common",
+      "cardNum": "29/67"
+    },
+    {
+      "name": "Minun",
+      "set": "Blue Sky Stream",
+      "img": "https://den-cards.pokellector.com/319/Minun.S7R.30.39483.png",
+      "rarity": "Common",
+      "cardNum": "30/67"
+    },
+    {
+      "name": "Toxel",
+      "set": "Blue Sky Stream",
+      "img": "https://den-cards.pokellector.com/319/Toxel.S7R.31.39484.png",
+      "rarity": "Common",
+      "cardNum": "31/67"
+    },
+    {
+      "name": "Toxtricity",
+      "set": "Blue Sky Stream",
+      "img": "https://den-cards.pokellector.com/319/Toxtricity.S7R.32.39485.png",
+      "rarity": "Rare",
+      "cardNum": "32/67"
+    },
+    {
+      "name": "Regieleki",
+      "set": "Blue Sky Stream",
+      "img": "https://den-cards.pokellector.com/319/Regieleki.S7R.33.39486.png",
+      "rarity": "Rare",
+      "cardNum": "33/67"
+    },
+    {
+      "name": "Sandshrew",
+      "set": "Blue Sky Stream",
+      "img": "https://den-cards.pokellector.com/319/Sandshrew.S7R.34.39217.png",
+      "rarity": "Common",
+      "cardNum": "34/67"
+    },
+    {
+      "name": "Sandslash",
+      "set": "Blue Sky Stream",
+      "img": "https://den-cards.pokellector.com/319/Sandslash.S7R.35.39487.png",
+      "rarity": "Common",
+      "cardNum": "35/67"
+    },
+    {
+      "name": "Medicham V",
+      "set": "Blue Sky Stream",
+      "img": "https://den-cards.pokellector.com/319/Medicham-V.S7R.36.39405.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "36/67"
+    },
+    {
+      "name": "Baltoy",
+      "set": "Blue Sky Stream",
+      "img": "https://den-cards.pokellector.com/319/Baltoy.S7R.37.39488.png",
+      "rarity": "Common",
+      "cardNum": "37/67"
+    },
+    {
+      "name": "Claydol",
+      "set": "Blue Sky Stream",
+      "img": "https://den-cards.pokellector.com/319/Claydol.S7R.38.39489.png",
+      "rarity": "Uncommon",
+      "cardNum": "38/67"
+    },
+    {
+      "name": "Landorus",
+      "set": "Blue Sky Stream",
+      "img": "https://den-cards.pokellector.com/319/Landorus.S7R.39.39490.png",
+      "rarity": "Rare",
+      "cardNum": "39/67"
+    },
+    {
+      "name": "Stufful",
+      "set": "Blue Sky Stream",
+      "img": "https://den-cards.pokellector.com/319/Stufful.S7R.40.39491.png",
+      "rarity": "Common",
+      "cardNum": "40/67"
+    },
+    {
+      "name": "Bewear",
+      "set": "Blue Sky Stream",
+      "img": "https://den-cards.pokellector.com/319/Bewear.S7R.41.39492.png",
+      "rarity": "Common",
+      "cardNum": "41/67"
+    },
+    {
+      "name": "Dragonite V",
+      "set": "Blue Sky Stream",
+      "img": "https://den-cards.pokellector.com/319/Dragonite-V.S7R.42.38985.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "42/67"
+    },
+    {
+      "name": "Bagon",
+      "set": "Blue Sky Stream",
+      "img": "https://den-cards.pokellector.com/319/Bagon.S7R.43.39493.png",
+      "rarity": "Common",
+      "cardNum": "43/67"
+    },
+    {
+      "name": "Shelgon",
+      "set": "Blue Sky Stream",
+      "img": "https://den-cards.pokellector.com/319/Shelgon.S7R.44.39494.png",
+      "rarity": "Common",
+      "cardNum": "44/67"
+    },
+    {
+      "name": "Salamence",
+      "set": "Blue Sky Stream",
+      "img": "https://den-cards.pokellector.com/319/Salamence.S7R.45.39495.png",
+      "rarity": "Rare",
+      "cardNum": "45/67"
+    },
+    {
+      "name": "Rayquaza V",
+      "set": "Blue Sky Stream",
+      "img": "https://den-cards.pokellector.com/319/Rayquaza-V.S7R.46.38984.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "46/67"
+    },
+    {
+      "name": "Rayquaza VMAX",
+      "set": "Blue Sky Stream",
+      "img": "https://den-cards.pokellector.com/319/Rayquaza-VMAX.S7R.47.38983.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "47/67"
+    },
+    {
+      "name": "Zygarde",
+      "set": "Blue Sky Stream",
+      "img": "https://den-cards.pokellector.com/319/Zygarde.S7R.48.39430.png",
+      "rarity": "Rare",
+      "cardNum": "48/67"
+    },
+    {
+      "name": "Turtonator",
+      "set": "Blue Sky Stream",
+      "img": "https://den-cards.pokellector.com/319/Turtonator.S7R.49.39496.png",
+      "rarity": "Uncommon",
+      "cardNum": "49/67"
+    },
+    {
+      "name": "Flapple",
+      "set": "Blue Sky Stream",
+      "img": "https://den-cards.pokellector.com/319/Flapple.S7R.50.38989.png",
+      "rarity": "Uncommon",
+      "cardNum": "50/67"
+    },
+    {
+      "name": "Appletun",
+      "set": "Blue Sky Stream",
+      "img": "https://den-cards.pokellector.com/319/Appletun.S7R.51.38990.png",
+      "rarity": "Uncommon",
+      "cardNum": "51/67"
+    },
+    {
+      "name": "Regidrago",
+      "set": "Blue Sky Stream",
+      "img": "https://den-cards.pokellector.com/319/Regidrago.S7R.52.39497.png",
+      "rarity": "Rare",
+      "cardNum": "52/67"
+    },
+    {
+      "name": "Chansey",
+      "set": "Blue Sky Stream",
+      "img": "https://den-cards.pokellector.com/319/Chansey.S7R.53.39218.png",
+      "rarity": "Common",
+      "cardNum": "53/67"
+    },
+    {
+      "name": "Blissey",
+      "set": "Blue Sky Stream",
+      "img": "https://den-cards.pokellector.com/319/Blissey.S7R.54.39219.png",
+      "rarity": "Uncommon",
+      "cardNum": "54/67"
+    },
+    {
+      "name": "Stantler",
+      "set": "Blue Sky Stream",
+      "img": "https://den-cards.pokellector.com/319/Stantler.S7R.55.39498.png",
+      "rarity": "Common",
+      "cardNum": "55/67"
+    },
+    {
+      "name": "Lucky Ice Pop",
+      "set": "Blue Sky Stream",
+      "img": "https://den-cards.pokellector.com/319/Lucky-Ice-Pop.S7R.56.39499.png",
+      "rarity": "Uncommon",
+      "cardNum": "56/67"
+    },
+    {
+      "name": "Great Ball",
+      "set": "Blue Sky Stream",
+      "img": "https://den-cards.pokellector.com/319/Great-Ball.S7R.57.39500.png",
+      "rarity": "Uncommon",
+      "cardNum": "57/67"
+    },
+    {
+      "name": "Toy Catcher",
+      "set": "Blue Sky Stream",
+      "img": "https://den-cards.pokellector.com/319/Toy-Catcher.S7R.58.39501.png",
+      "rarity": "Uncommon",
+      "cardNum": "58/67"
+    },
+    {
+      "name": "Switch",
+      "set": "Blue Sky Stream",
+      "img": "https://den-cards.pokellector.com/319/Switch.S7R.59.39502.png",
+      "rarity": "Uncommon",
+      "cardNum": "59/67"
+    },
+    {
+      "name": "Rubber Gloves",
+      "set": "Blue Sky Stream",
+      "img": "https://den-cards.pokellector.com/319/Rubber-Gloves.S7R.60.39503.png",
+      "rarity": "Uncommon",
+      "cardNum": "60/67"
+    },
+    {
+      "name": "Spirit Mask",
+      "set": "Blue Sky Stream",
+      "img": "https://den-cards.pokellector.com/319/Underworld-Mask.S7R.61.39504.png",
+      "rarity": "Uncommon",
+      "cardNum": "61/67"
+    },
+    {
+      "name": "Rapid Strike Scroll of Wyverns",
+      "set": "Blue Sky Stream",
+      "img": "https://den-cards.pokellector.com/319/Rapid-Strike-Scroll-of-Wyverns.S7R.62.39409.png",
+      "rarity": "Uncommon",
+      "cardNum": "62/67"
+    },
+    {
+      "name": "Shauna",
+      "set": "Blue Sky Stream",
+      "img": "https://den-cards.pokellector.com/319/Shauna.S7R.63.39505.png",
+      "rarity": "Common",
+      "cardNum": "63/67"
+    },
+    {
+      "name": "School Boy",
+      "set": "Blue Sky Stream",
+      "img": "https://den-cards.pokellector.com/319/School-Boy.S7R.64.39506.png",
+      "rarity": "Common",
+      "cardNum": "64/67"
+    },
+    {
+      "name": "Zinnia's Resolution",
+      "set": "Blue Sky Stream",
+      "img": "https://den-cards.pokellector.com/319/Zinnias-Resolution.S7R.65.38992.png",
+      "rarity": "Uncommon",
+      "cardNum": "65/67"
+    },
+    {
+      "name": "Tempest Range",
+      "set": "Blue Sky Stream",
+      "img": "https://den-cards.pokellector.com/319/Tempest-Range.S7R.66.38993.png",
+      "rarity": "Uncommon",
+      "cardNum": "66/67"
+    },
+    {
+      "name": "Aurora Energy",
+      "set": "Blue Sky Stream",
+      "img": "https://den-cards.pokellector.com/319/Aurora-Energy.S7R.67.39507.png",
+      "rarity": "Uncommon",
+      "cardNum": "67/67"
+    },
+    {
+      "name": "Trevenant V",
+      "set": "Blue Sky Stream",
+      "img": "https://den-cards.pokellector.com/319/Trevenant-V.S7R.68.39553.png",
+      "rarity": "Secret Rare",
+      "cardNum": "68/67"
+    },
+    {
+      "name": "Volcarona V",
+      "set": "Blue Sky Stream",
+      "img": "https://den-cards.pokellector.com/319/Volcarona-V.S7R.69.39554.png",
+      "rarity": "Secret Rare",
+      "cardNum": "69/67"
+    },
+    {
+      "name": "Gyarados V",
+      "set": "Blue Sky Stream",
+      "img": "https://den-cards.pokellector.com/319/Gyarados-V.S7R.70.39555.png",
+      "rarity": "Secret Rare",
+      "cardNum": "70/67"
+    },
+    {
+      "name": "Medicham V",
+      "set": "Blue Sky Stream",
+      "img": "https://den-cards.pokellector.com/319/Medicham-V.S7R.71.39556.png",
+      "rarity": "Secret Rare",
+      "cardNum": "71/67"
+    },
+    {
+      "name": "Medicham V",
+      "set": "Blue Sky Stream",
+      "img": "https://den-cards.pokellector.com/319/Medicham-V.S7R.72.39557.png",
+      "rarity": "Secret Rare",
+      "cardNum": "72/67"
+    },
+    {
+      "name": "Dragonite V",
+      "set": "Blue Sky Stream",
+      "img": "https://den-cards.pokellector.com/319/Dragonite-V.S7R.73.39558.png",
+      "rarity": "Secret Rare",
+      "cardNum": "73/67"
+    },
+    {
+      "name": "Dragonite V",
+      "set": "Blue Sky Stream",
+      "img": "https://den-cards.pokellector.com/319/Dragonite-V.S7R.74.39559.png",
+      "rarity": "Secret Rare",
+      "cardNum": "74/67"
+    },
+    {
+      "name": "Rayquaza V",
+      "set": "Blue Sky Stream",
+      "img": "https://den-cards.pokellector.com/319/Rayquaza-V.S7R.75.39560.png",
+      "rarity": "Secret Rare",
+      "cardNum": "75/67"
+    },
+    {
+      "name": "Rayquaza V",
+      "set": "Blue Sky Stream",
+      "img": "https://den-cards.pokellector.com/319/Rayquaza-V.S7R.76.39561.png",
+      "rarity": "Secret Rare",
+      "cardNum": "76/67"
+    },
+    {
+      "name": "Shauna",
+      "set": "Blue Sky Stream",
+      "img": "https://den-cards.pokellector.com/319/Shauna.S7R.77.39562.png",
+      "rarity": "Secret Rare",
+      "cardNum": "77/67"
+    },
+    {
+      "name": "School Boy",
+      "set": "Blue Sky Stream",
+      "img": "https://den-cards.pokellector.com/319/School-Boy.S7R.78.39563.png",
+      "rarity": "Secret Rare",
+      "cardNum": "78/67"
+    },
+    {
+      "name": "Zinnia's Resolution",
+      "set": "Blue Sky Stream",
+      "img": "https://den-cards.pokellector.com/319/Zinnias-Resolution.S7R.79.39564.png",
+      "rarity": "Secret Rare",
+      "cardNum": "79/67"
+    },
+    {
+      "name": "Trevenant VMAX",
+      "set": "Blue Sky Stream",
+      "img": "https://den-cards.pokellector.com/319/Trevenant-VMAX.S7R.80.39565.png",
+      "rarity": "Secret Rare",
+      "cardNum": "80/67"
+    },
+    {
+      "name": "Gyarados VMAX",
+      "set": "Blue Sky Stream",
+      "img": "https://den-cards.pokellector.com/319/Gyarados-VMAX.S7R.81.39566.png",
+      "rarity": "Secret Rare",
+      "cardNum": "81/67"
+    },
+    {
+      "name": "Rayquaza VMAX",
+      "set": "Blue Sky Stream",
+      "img": "https://den-cards.pokellector.com/319/Rayquaza-VMAX.S7R.82.39567.png",
+      "rarity": "Secret Rare",
+      "cardNum": "82/67"
+    },
+    {
+      "name": "Rayquaza VMAX",
+      "set": "Blue Sky Stream",
+      "img": "https://den-cards.pokellector.com/319/Rayquaza-VMAX.S7R.83.39568.png",
+      "rarity": "Secret Rare",
+      "cardNum": "83/67"
+    },
+    {
+      "name": "Shauna",
+      "set": "Blue Sky Stream",
+      "img": "https://den-cards.pokellector.com/319/Shauna.S7R.84.39569.png",
+      "rarity": "Secret Rare",
+      "cardNum": "84/67"
+    },
+    {
+      "name": "School Boy",
+      "set": "Blue Sky Stream",
+      "img": "https://den-cards.pokellector.com/319/School-Boy.S7R.85.39570.png",
+      "rarity": "Secret Rare",
+      "cardNum": "85/67"
+    },
+    {
+      "name": "Zinnia's Resolution",
+      "set": "Blue Sky Stream",
+      "img": "https://den-cards.pokellector.com/319/Zinnias-Resolution.S7R.86.39571.png",
+      "rarity": "Secret Rare",
+      "cardNum": "86/67"
+    },
+    {
+      "name": "Froslass",
+      "set": "Blue Sky Stream",
+      "img": "https://den-cards.pokellector.com/319/Froslass.S7R.87.39572.png",
+      "rarity": "Secret Rare",
+      "cardNum": "87/67"
+    },
+    {
+      "name": "Toy Catcher",
+      "set": "Blue Sky Stream",
+      "img": "https://den-cards.pokellector.com/319/Toy-Catcher.S7R.88.39573.png",
+      "rarity": "Secret Rare",
+      "cardNum": "88/67"
+    },
+    {
+      "name": "Tempest Range",
+      "set": "Blue Sky Stream",
+      "img": "https://den-cards.pokellector.com/319/Tempest-Range.S7R.89.39574.png",
+      "rarity": "Secret Rare",
+      "cardNum": "89/67"
+    },
+    {
+      "name": "Lightning Energy",
+      "set": "Blue Sky Stream",
+      "img": "https://den-cards.pokellector.com/319/Lightning-Energy.S7R.90.39575.png",
+      "rarity": "Secret Rare",
+      "cardNum": "90/67"
+    }
+  ]
+}

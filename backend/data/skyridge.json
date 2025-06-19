@@ -1,0 +1,1279 @@
+{
+  "setName": "Skyridge",
+  "cards": [
+    {
+      "name": "Aerodactyl",
+      "set": "Skyridge",
+      "img": "https://den-cards.pokellector.com/111/Aerodactyl.SK.1.png",
+      "rarity": "Rare",
+      "cardNum": "1/144"
+    },
+    {
+      "name": "Alakazam",
+      "set": "Skyridge",
+      "img": "https://den-cards.pokellector.com/111/Alakazam.SK.2.png",
+      "rarity": "Rare",
+      "cardNum": "2/144"
+    },
+    {
+      "name": "Arcanine",
+      "set": "Skyridge",
+      "img": "https://den-cards.pokellector.com/111/Arcanine.SK.3.6931.png",
+      "rarity": "Rare",
+      "cardNum": "3/144"
+    },
+    {
+      "name": "Articuno",
+      "set": "Skyridge",
+      "img": "https://den-cards.pokellector.com/111/Articuno.SK.4.6932.png",
+      "rarity": "Rare",
+      "cardNum": "4/144"
+    },
+    {
+      "name": "Beedrill",
+      "set": "Skyridge",
+      "img": "https://den-cards.pokellector.com/111/Beedrill.SK.5.6933.png",
+      "rarity": "Rare",
+      "cardNum": "5/144"
+    },
+    {
+      "name": "Crobat",
+      "set": "Skyridge",
+      "img": "https://den-cards.pokellector.com/111/Crobat.SK.6.6934.png",
+      "rarity": "Rare",
+      "cardNum": "6/144"
+    },
+    {
+      "name": "Dewgong",
+      "set": "Skyridge",
+      "img": "https://den-cards.pokellector.com/111/Dewgong.SK.7.6935.png",
+      "rarity": "Rare",
+      "cardNum": "7/144"
+    },
+    {
+      "name": "Flareon",
+      "set": "Skyridge",
+      "img": "https://den-cards.pokellector.com/111/Flareon.SK.8.6936.png",
+      "rarity": "Rare",
+      "cardNum": "8/144"
+    },
+    {
+      "name": "Forretress",
+      "set": "Skyridge",
+      "img": "https://den-cards.pokellector.com/111/Forretress.SK.9.6937.png",
+      "rarity": "Rare",
+      "cardNum": "9/144"
+    },
+    {
+      "name": "Gengar",
+      "set": "Skyridge",
+      "img": "https://den-cards.pokellector.com/111/Gengar.SK.10.6938.png",
+      "rarity": "Rare",
+      "cardNum": "10/144"
+    },
+    {
+      "name": "Gyarados",
+      "set": "Skyridge",
+      "img": "https://den-cards.pokellector.com/111/Gyarados.SK.11.6939.png",
+      "rarity": "Rare",
+      "cardNum": "11/144"
+    },
+    {
+      "name": "Houndoom",
+      "set": "Skyridge",
+      "img": "https://den-cards.pokellector.com/111/Houndoom.SK.12.6940.png",
+      "rarity": "Rare",
+      "cardNum": "12/144"
+    },
+    {
+      "name": "Jolteon",
+      "set": "Skyridge",
+      "img": "https://den-cards.pokellector.com/111/Jolteon.SK.13.6941.png",
+      "rarity": "Rare",
+      "cardNum": "13/144"
+    },
+    {
+      "name": "Kabutops",
+      "set": "Skyridge",
+      "img": "https://den-cards.pokellector.com/111/Kabutops.SK.14.6942.png",
+      "rarity": "Rare",
+      "cardNum": "14/144"
+    },
+    {
+      "name": "Ledian",
+      "set": "Skyridge",
+      "img": "https://den-cards.pokellector.com/111/Ledian.SK.15.6943.png",
+      "rarity": "Rare",
+      "cardNum": "15/144"
+    },
+    {
+      "name": "Machamp",
+      "set": "Skyridge",
+      "img": "https://den-cards.pokellector.com/111/Machamp.SK.16.6944.png",
+      "rarity": "Rare",
+      "cardNum": "16/144"
+    },
+    {
+      "name": "Magcargo",
+      "set": "Skyridge",
+      "img": "https://den-cards.pokellector.com/111/Magcargo.SK.17.6945.png",
+      "rarity": "Rare",
+      "cardNum": "17/144"
+    },
+    {
+      "name": "Magcargo",
+      "set": "Skyridge",
+      "img": "https://den-cards.pokellector.com/111/Magcargo.SK.18.6946.png",
+      "rarity": "Rare",
+      "cardNum": "18/144"
+    },
+    {
+      "name": "Magneton",
+      "set": "Skyridge",
+      "img": "https://den-cards.pokellector.com/111/Magneton.SK.19.png",
+      "rarity": "Rare",
+      "cardNum": "19/144"
+    },
+    {
+      "name": "Magneton",
+      "set": "Skyridge",
+      "img": "https://den-cards.pokellector.com/111/Magneton.SK.20.6948.png",
+      "rarity": "Rare",
+      "cardNum": "20/144"
+    },
+    {
+      "name": "Moltres",
+      "set": "Skyridge",
+      "img": "https://den-cards.pokellector.com/111/Moltres.SK.21.6949.png",
+      "rarity": "Rare",
+      "cardNum": "21/144"
+    },
+    {
+      "name": "Nidoqueen",
+      "set": "Skyridge",
+      "img": "https://den-cards.pokellector.com/111/Nidoqueen.SK.22.png",
+      "rarity": "Rare",
+      "cardNum": "22/144"
+    },
+    {
+      "name": "Omastar",
+      "set": "Skyridge",
+      "img": "https://den-cards.pokellector.com/111/Omastar.SK.23.6951.png",
+      "rarity": "Rare",
+      "cardNum": "23/144"
+    },
+    {
+      "name": "Piloswine",
+      "set": "Skyridge",
+      "img": "https://den-cards.pokellector.com/111/Piloswine.SK.24.6952.png",
+      "rarity": "Rare",
+      "cardNum": "24/144"
+    },
+    {
+      "name": "Politoed",
+      "set": "Skyridge",
+      "img": "https://den-cards.pokellector.com/111/Politoed.SK.25.png",
+      "rarity": "Rare",
+      "cardNum": "25/144"
+    },
+    {
+      "name": "Poliwrath",
+      "set": "Skyridge",
+      "img": "https://den-cards.pokellector.com/111/Poliwrath.SK.26.6954.png",
+      "rarity": "Rare",
+      "cardNum": "26/144"
+    },
+    {
+      "name": "Raichu",
+      "set": "Skyridge",
+      "img": "https://den-cards.pokellector.com/111/Raichu.SK.27.6955.png",
+      "rarity": "Rare",
+      "cardNum": "27/144"
+    },
+    {
+      "name": "Raikou",
+      "set": "Skyridge",
+      "img": "https://den-cards.pokellector.com/111/Raikou.SK.28.6956.png",
+      "rarity": "Rare",
+      "cardNum": "28/144"
+    },
+    {
+      "name": "Rhydon",
+      "set": "Skyridge",
+      "img": "https://den-cards.pokellector.com/111/Rhydon.SK.29.png",
+      "rarity": "Rare",
+      "cardNum": "29/144"
+    },
+    {
+      "name": "Starmie",
+      "set": "Skyridge",
+      "img": "https://den-cards.pokellector.com/111/Starmie.SK.30.6958.png",
+      "rarity": "Rare",
+      "cardNum": "30/144"
+    },
+    {
+      "name": "Steelix",
+      "set": "Skyridge",
+      "img": "https://den-cards.pokellector.com/111/Steelix.SK.31.6959.png",
+      "rarity": "Rare",
+      "cardNum": "31/144"
+    },
+    {
+      "name": "Umbreon",
+      "set": "Skyridge",
+      "img": "https://den-cards.pokellector.com/111/Umbreon.SK.32.6960.png",
+      "rarity": "Rare",
+      "cardNum": "32/144"
+    },
+    {
+      "name": "Vaporeon",
+      "set": "Skyridge",
+      "img": "https://den-cards.pokellector.com/111/Vaporeon.SK.33.6961.png",
+      "rarity": "Rare",
+      "cardNum": "33/144"
+    },
+    {
+      "name": "Wigglytuff",
+      "set": "Skyridge",
+      "img": "https://den-cards.pokellector.com/111/Wigglytuff.SK.34.6962.png",
+      "rarity": "Rare",
+      "cardNum": "34/144"
+    },
+    {
+      "name": "Xatu",
+      "set": "Skyridge",
+      "img": "https://den-cards.pokellector.com/111/Xatu.SK.35.6963.png",
+      "rarity": "Rare",
+      "cardNum": "35/144"
+    },
+    {
+      "name": "Electrode",
+      "set": "Skyridge",
+      "img": "https://den-cards.pokellector.com/111/Electrode.SK.36.6964.png",
+      "rarity": "Uncommon",
+      "cardNum": "36/144"
+    },
+    {
+      "name": "Kabuto",
+      "set": "Skyridge",
+      "img": "https://den-cards.pokellector.com/111/Kabuto.SK.37.6965.png",
+      "rarity": "Uncommon",
+      "cardNum": "37/144"
+    },
+    {
+      "name": "Machoke",
+      "set": "Skyridge",
+      "img": "https://den-cards.pokellector.com/111/Machoke.SK.38.6966.png",
+      "rarity": "Uncommon",
+      "cardNum": "38/144"
+    },
+    {
+      "name": "Misdreavus",
+      "set": "Skyridge",
+      "img": "https://den-cards.pokellector.com/111/Misdreavus.SK.39.png",
+      "rarity": "Uncommon",
+      "cardNum": "39/144"
+    },
+    {
+      "name": "Noctowl",
+      "set": "Skyridge",
+      "img": "https://den-cards.pokellector.com/111/Noctowl.SK.40.6968.png",
+      "rarity": "Uncommon",
+      "cardNum": "40/144"
+    },
+    {
+      "name": "Omanyte",
+      "set": "Skyridge",
+      "img": "https://den-cards.pokellector.com/111/Omanyte.SK.41.6969.png",
+      "rarity": "Uncommon",
+      "cardNum": "41/144"
+    },
+    {
+      "name": "Persian",
+      "set": "Skyridge",
+      "img": "https://den-cards.pokellector.com/111/Persian.SK.42.6970.png",
+      "rarity": "Uncommon",
+      "cardNum": "42/144"
+    },
+    {
+      "name": "Piloswine",
+      "set": "Skyridge",
+      "img": "https://den-cards.pokellector.com/111/Piloswine.SK.43.6971.png",
+      "rarity": "Uncommon",
+      "cardNum": "43/144"
+    },
+    {
+      "name": "Starmie",
+      "set": "Skyridge",
+      "img": "https://den-cards.pokellector.com/111/Starmie.SK.44.6972.png",
+      "rarity": "Uncommon",
+      "cardNum": "44/144"
+    },
+    {
+      "name": "Wobbuffet",
+      "set": "Skyridge",
+      "img": "https://den-cards.pokellector.com/111/Wobbuffet.SK.45.6973.png",
+      "rarity": "Uncommon",
+      "cardNum": "45/144"
+    },
+    {
+      "name": "Abra",
+      "set": "Skyridge",
+      "img": "https://den-cards.pokellector.com/111/Abra.SK.46.png",
+      "rarity": "Common",
+      "cardNum": "46/144"
+    },
+    {
+      "name": "Buried Fossil",
+      "set": "Skyridge",
+      "img": "https://den-cards.pokellector.com/111/Buried-Fossil.SK.47.png",
+      "rarity": "Common",
+      "cardNum": "47/144"
+    },
+    {
+      "name": "Cleffa",
+      "set": "Skyridge",
+      "img": "https://den-cards.pokellector.com/111/Cleffa.SK.48.6976.png",
+      "rarity": "Common",
+      "cardNum": "48/144"
+    },
+    {
+      "name": "Delibird",
+      "set": "Skyridge",
+      "img": "https://den-cards.pokellector.com/111/Delibird.SK.49.png",
+      "rarity": "Common",
+      "cardNum": "49/144"
+    },
+    {
+      "name": "Diglett",
+      "set": "Skyridge",
+      "img": "https://den-cards.pokellector.com/111/Diglett.SK.50.6978.png",
+      "rarity": "Common",
+      "cardNum": "50/144"
+    },
+    {
+      "name": "Ditto",
+      "set": "Skyridge",
+      "img": "https://den-cards.pokellector.com/111/Ditto.SK.51.6979.png",
+      "rarity": "Common",
+      "cardNum": "51/144"
+    },
+    {
+      "name": "Dugtrio",
+      "set": "Skyridge",
+      "img": "https://den-cards.pokellector.com/111/Dugtrio.SK.52.6980.png",
+      "rarity": "Common",
+      "cardNum": "52/144"
+    },
+    {
+      "name": "Dunsparce",
+      "set": "Skyridge",
+      "img": "https://den-cards.pokellector.com/111/Dunsparce.SK.53.6981.png",
+      "rarity": "Common",
+      "cardNum": "53/144"
+    },
+    {
+      "name": "Eevee",
+      "set": "Skyridge",
+      "img": "https://den-cards.pokellector.com/111/Eevee.SK.54.6982.png",
+      "rarity": "Common",
+      "cardNum": "54/144"
+    },
+    {
+      "name": "Farfetch'd",
+      "set": "Skyridge",
+      "img": "https://den-cards.pokellector.com/111/Farfetchd.SK.55.6983.png",
+      "rarity": "Common",
+      "cardNum": "55/144"
+    },
+    {
+      "name": "Forretress",
+      "set": "Skyridge",
+      "img": "https://den-cards.pokellector.com/111/Forretress.SK.56.6984.png",
+      "rarity": "Common",
+      "cardNum": "56/144"
+    },
+    {
+      "name": "Gastly",
+      "set": "Skyridge",
+      "img": "https://den-cards.pokellector.com/111/Gastly.SK.57.6985.png",
+      "rarity": "Common",
+      "cardNum": "57/144"
+    },
+    {
+      "name": "Girafarig",
+      "set": "Skyridge",
+      "img": "https://den-cards.pokellector.com/111/Girafarig.SK.58.6986.png",
+      "rarity": "Common",
+      "cardNum": "58/144"
+    },
+    {
+      "name": "Gligar",
+      "set": "Skyridge",
+      "img": "https://den-cards.pokellector.com/111/Gligar.SK.59.6987.png",
+      "rarity": "Common",
+      "cardNum": "59/144"
+    },
+    {
+      "name": "Golbat",
+      "set": "Skyridge",
+      "img": "https://den-cards.pokellector.com/111/Golbat.SK.60.6988.png",
+      "rarity": "Common",
+      "cardNum": "60/144"
+    },
+    {
+      "name": "Granbull",
+      "set": "Skyridge",
+      "img": "https://den-cards.pokellector.com/111/Granbull.SK.61.6989.png",
+      "rarity": "Common",
+      "cardNum": "61/144"
+    },
+    {
+      "name": "Growlithe",
+      "set": "Skyridge",
+      "img": "https://den-cards.pokellector.com/111/Growlithe.SK.62.6990.png",
+      "rarity": "Common",
+      "cardNum": "62/144"
+    },
+    {
+      "name": "Haunter",
+      "set": "Skyridge",
+      "img": "https://den-cards.pokellector.com/111/Haunter.SK.63.png",
+      "rarity": "Common",
+      "cardNum": "63/144"
+    },
+    {
+      "name": "Heracross",
+      "set": "Skyridge",
+      "img": "https://den-cards.pokellector.com/111/Heracross.SK.64.6992.png",
+      "rarity": "Common",
+      "cardNum": "64/144"
+    },
+    {
+      "name": "Hoothoot",
+      "set": "Skyridge",
+      "img": "https://den-cards.pokellector.com/111/Hoothoot.SK.65.6993.png",
+      "rarity": "Common",
+      "cardNum": "65/144"
+    },
+    {
+      "name": "Houndour",
+      "set": "Skyridge",
+      "img": "https://den-cards.pokellector.com/111/Houndour.SK.66.6994.png",
+      "rarity": "Common",
+      "cardNum": "66/144"
+    },
+    {
+      "name": "Igglybuff",
+      "set": "Skyridge",
+      "img": "https://den-cards.pokellector.com/111/Igglybuff.SK.67.6995.png",
+      "rarity": "Common",
+      "cardNum": "67/144"
+    },
+    {
+      "name": "Jigglypuff",
+      "set": "Skyridge",
+      "img": "https://den-cards.pokellector.com/111/Jigglypuff.SK.68.6996.png",
+      "rarity": "Common",
+      "cardNum": "68/144"
+    },
+    {
+      "name": "Kadabra",
+      "set": "Skyridge",
+      "img": "https://den-cards.pokellector.com/111/Kadabra.SK.69.png",
+      "rarity": "Common",
+      "cardNum": "69/144"
+    },
+    {
+      "name": "Kakuna",
+      "set": "Skyridge",
+      "img": "https://den-cards.pokellector.com/111/Kakuna.SK.70.6998.png",
+      "rarity": "Common",
+      "cardNum": "70/144"
+    },
+    {
+      "name": "Lapras",
+      "set": "Skyridge",
+      "img": "https://den-cards.pokellector.com/111/Lapras.SK.71.png",
+      "rarity": "Common",
+      "cardNum": "71/144"
+    },
+    {
+      "name": "Ledyba",
+      "set": "Skyridge",
+      "img": "https://den-cards.pokellector.com/111/Ledyba.SK.72.7000.png",
+      "rarity": "Common",
+      "cardNum": "72/144"
+    },
+    {
+      "name": "Ledyba",
+      "set": "Skyridge",
+      "img": "https://den-cards.pokellector.com/111/Ledyba.SK.73.7001.png",
+      "rarity": "Common",
+      "cardNum": "73/144"
+    },
+    {
+      "name": "Machop",
+      "set": "Skyridge",
+      "img": "https://den-cards.pokellector.com/111/Machop.SK.74.7002.png",
+      "rarity": "Common",
+      "cardNum": "74/144"
+    },
+    {
+      "name": "Magikarp",
+      "set": "Skyridge",
+      "img": "https://den-cards.pokellector.com/111/Magikarp.SK.75.7003.png",
+      "rarity": "Common",
+      "cardNum": "75/144"
+    },
+    {
+      "name": "Magnemite",
+      "set": "Skyridge",
+      "img": "https://den-cards.pokellector.com/111/Magnemite.SK.76.7004.png",
+      "rarity": "Common",
+      "cardNum": "76/144"
+    },
+    {
+      "name": "Mantine",
+      "set": "Skyridge",
+      "img": "https://den-cards.pokellector.com/111/Mantine.SK.77.7005.png",
+      "rarity": "Common",
+      "cardNum": "77/144"
+    },
+    {
+      "name": "Meowth",
+      "set": "Skyridge",
+      "img": "https://den-cards.pokellector.com/111/Meowth.SK.78.7006.png",
+      "rarity": "Common",
+      "cardNum": "78/144"
+    },
+    {
+      "name": "Murkrow",
+      "set": "Skyridge",
+      "img": "https://den-cards.pokellector.com/111/Murkrow.SK.79.7007.png",
+      "rarity": "Common",
+      "cardNum": "79/144"
+    },
+    {
+      "name": "Natu",
+      "set": "Skyridge",
+      "img": "https://den-cards.pokellector.com/111/Natu.SK.80.7008.png",
+      "rarity": "Common",
+      "cardNum": "80/144"
+    },
+    {
+      "name": "Nidoran (f)",
+      "set": "Skyridge",
+      "img": "https://den-cards.pokellector.com/111/Nidoran-f.SK.81.7009.png",
+      "rarity": "Common",
+      "cardNum": "81/144"
+    },
+    {
+      "name": "Nidoran (f)",
+      "set": "Skyridge",
+      "img": "https://den-cards.pokellector.com/111/Nidoran-f.SK.82.7010.png",
+      "rarity": "Common",
+      "cardNum": "82/144"
+    },
+    {
+      "name": "Nidorina",
+      "set": "Skyridge",
+      "img": "https://den-cards.pokellector.com/111/Nidorina.SK.83.7011.png",
+      "rarity": "Common",
+      "cardNum": "83/144"
+    },
+    {
+      "name": "Pikachu",
+      "set": "Skyridge",
+      "img": "https://den-cards.pokellector.com/111/Pikachu.SK.84.png",
+      "rarity": "Common",
+      "cardNum": "84/144"
+    },
+    {
+      "name": "Pineco",
+      "set": "Skyridge",
+      "img": "https://den-cards.pokellector.com/111/Pineco.SK.85.7013.png",
+      "rarity": "Common",
+      "cardNum": "85/144"
+    },
+    {
+      "name": "Pineco",
+      "set": "Skyridge",
+      "img": "https://den-cards.pokellector.com/111/Pineco.SK.86.7014.png",
+      "rarity": "Common",
+      "cardNum": "86/144"
+    },
+    {
+      "name": "Poliwag",
+      "set": "Skyridge",
+      "img": "https://den-cards.pokellector.com/111/Poliwag.SK.87.7015.png",
+      "rarity": "Common",
+      "cardNum": "87/144"
+    },
+    {
+      "name": "Poliwhirl",
+      "set": "Skyridge",
+      "img": "https://den-cards.pokellector.com/111/Poliwhirl.SK.88.7016.png",
+      "rarity": "Common",
+      "cardNum": "88/144"
+    },
+    {
+      "name": "Raticate",
+      "set": "Skyridge",
+      "img": "https://den-cards.pokellector.com/111/Raticate.SK.89.7017.png",
+      "rarity": "Common",
+      "cardNum": "89/144"
+    },
+    {
+      "name": "Rattata",
+      "set": "Skyridge",
+      "img": "https://den-cards.pokellector.com/111/Rattata.SK.90.7018.png",
+      "rarity": "Common",
+      "cardNum": "90/144"
+    },
+    {
+      "name": "Rhyhorn",
+      "set": "Skyridge",
+      "img": "https://den-cards.pokellector.com/111/Rhyhorn.SK.91.7019.png",
+      "rarity": "Common",
+      "cardNum": "91/144"
+    },
+    {
+      "name": "Sandshrew",
+      "set": "Skyridge",
+      "img": "https://den-cards.pokellector.com/111/Sandshrew.SK.92.7020.png",
+      "rarity": "Common",
+      "cardNum": "92/144"
+    },
+    {
+      "name": "Sandslash",
+      "set": "Skyridge",
+      "img": "https://den-cards.pokellector.com/111/Sandslash.SK.93.7021.png",
+      "rarity": "Common",
+      "cardNum": "93/144"
+    },
+    {
+      "name": "Seel",
+      "set": "Skyridge",
+      "img": "https://den-cards.pokellector.com/111/Seel.SK.94.7022.png",
+      "rarity": "Common",
+      "cardNum": "94/144"
+    },
+    {
+      "name": "Seel",
+      "set": "Skyridge",
+      "img": "https://den-cards.pokellector.com/111/Seel.SK.95.7023.png",
+      "rarity": "Common",
+      "cardNum": "95/144"
+    },
+    {
+      "name": "Shuckle",
+      "set": "Skyridge",
+      "img": "https://den-cards.pokellector.com/111/Shuckle.SK.96.7024.png",
+      "rarity": "Common",
+      "cardNum": "96/144"
+    },
+    {
+      "name": "Skarmory",
+      "set": "Skyridge",
+      "img": "https://den-cards.pokellector.com/111/Skarmory.SK.97.7025.png",
+      "rarity": "Common",
+      "cardNum": "97/144"
+    },
+    {
+      "name": "Slugma",
+      "set": "Skyridge",
+      "img": "https://den-cards.pokellector.com/111/Slugma.SK.98.7026.png",
+      "rarity": "Common",
+      "cardNum": "98/144"
+    },
+    {
+      "name": "Slugma",
+      "set": "Skyridge",
+      "img": "https://den-cards.pokellector.com/111/Slugma.SK.99.7027.png",
+      "rarity": "Common",
+      "cardNum": "99/144"
+    },
+    {
+      "name": "Snorlax",
+      "set": "Skyridge",
+      "img": "https://den-cards.pokellector.com/111/Snorlax.SK.100.7028.png",
+      "rarity": "Common",
+      "cardNum": "100/144"
+    },
+    {
+      "name": "Snubbull",
+      "set": "Skyridge",
+      "img": "https://den-cards.pokellector.com/111/Snubbull.SK.101.7029.png",
+      "rarity": "Common",
+      "cardNum": "101/144"
+    },
+    {
+      "name": "Stantler",
+      "set": "Skyridge",
+      "img": "https://den-cards.pokellector.com/111/Stantler.SK.102.7030.png",
+      "rarity": "Common",
+      "cardNum": "102/144"
+    },
+    {
+      "name": "Staryu",
+      "set": "Skyridge",
+      "img": "https://den-cards.pokellector.com/111/Staryu.SK.103.7031.png",
+      "rarity": "Common",
+      "cardNum": "103/144"
+    },
+    {
+      "name": "Staryu",
+      "set": "Skyridge",
+      "img": "https://den-cards.pokellector.com/111/Staryu.SK.104.7032.png",
+      "rarity": "Common",
+      "cardNum": "104/144"
+    },
+    {
+      "name": "Sunflora",
+      "set": "Skyridge",
+      "img": "https://den-cards.pokellector.com/111/Sunflora.SK.105.png",
+      "rarity": "Common",
+      "cardNum": "105/144"
+    },
+    {
+      "name": "Sunkern",
+      "set": "Skyridge",
+      "img": "https://den-cards.pokellector.com/111/Sunkern.SK.106.7034.png",
+      "rarity": "Common",
+      "cardNum": "106/144"
+    },
+    {
+      "name": "Swinub",
+      "set": "Skyridge",
+      "img": "https://den-cards.pokellector.com/111/Swinub.SK.107.7035.png",
+      "rarity": "Common",
+      "cardNum": "107/144"
+    },
+    {
+      "name": "Swinub",
+      "set": "Skyridge",
+      "img": "https://den-cards.pokellector.com/111/Swinub.SK.108.7036.png",
+      "rarity": "Common",
+      "cardNum": "108/144"
+    },
+    {
+      "name": "Teddiursa",
+      "set": "Skyridge",
+      "img": "https://den-cards.pokellector.com/111/Teddiursa.SK.109.7037.png",
+      "rarity": "Common",
+      "cardNum": "109/144"
+    },
+    {
+      "name": "Ursaring",
+      "set": "Skyridge",
+      "img": "https://den-cards.pokellector.com/111/Ursaring.SK.110.7038.png",
+      "rarity": "Common",
+      "cardNum": "110/144"
+    },
+    {
+      "name": "Venomoth",
+      "set": "Skyridge",
+      "img": "https://den-cards.pokellector.com/111/Venomoth.SK.111.7039.png",
+      "rarity": "Common",
+      "cardNum": "111/144"
+    },
+    {
+      "name": "Venonat",
+      "set": "Skyridge",
+      "img": "https://den-cards.pokellector.com/111/Venonat.SK.112.7040.png",
+      "rarity": "Common",
+      "cardNum": "112/144"
+    },
+    {
+      "name": "Voltorb",
+      "set": "Skyridge",
+      "img": "https://den-cards.pokellector.com/111/Voltorb.SK.113.7041.png",
+      "rarity": "Common",
+      "cardNum": "113/144"
+    },
+    {
+      "name": "Weedle",
+      "set": "Skyridge",
+      "img": "https://den-cards.pokellector.com/111/Weedle.SK.114.7042.png",
+      "rarity": "Common",
+      "cardNum": "114/144"
+    },
+    {
+      "name": "Weedle",
+      "set": "Skyridge",
+      "img": "https://den-cards.pokellector.com/111/Weedle.SK.115.7043.png",
+      "rarity": "Common",
+      "cardNum": "115/144"
+    },
+    {
+      "name": "Yanma",
+      "set": "Skyridge",
+      "img": "https://den-cards.pokellector.com/111/Yanma.SK.116.png",
+      "rarity": "Common",
+      "cardNum": "116/144"
+    },
+    {
+      "name": "Zubat",
+      "set": "Skyridge",
+      "img": "https://den-cards.pokellector.com/111/Zubat.SK.117.7045.png",
+      "rarity": "Common",
+      "cardNum": "117/144"
+    },
+    {
+      "name": "Zubat",
+      "set": "Skyridge",
+      "img": "https://den-cards.pokellector.com/111/Zubat.SK.118.7046.png",
+      "rarity": "Common",
+      "cardNum": "118/144"
+    },
+    {
+      "name": "Ancient Ruins",
+      "set": "Skyridge",
+      "img": "https://den-cards.pokellector.com/111/Ancient-Ruins.SK.119.png",
+      "rarity": "Uncommon",
+      "cardNum": "119/144"
+    },
+    {
+      "name": "Relic Hunter",
+      "set": "Skyridge",
+      "img": "https://den-cards.pokellector.com/111/Relic-Hunter.SK.120.png",
+      "rarity": "Uncommon",
+      "cardNum": "120/144"
+    },
+    {
+      "name": "Apricorn Maker",
+      "set": "Skyridge",
+      "img": "https://den-cards.pokellector.com/111/Apricorn-Maker.SK.121.png",
+      "rarity": "Uncommon",
+      "cardNum": "121/144"
+    },
+    {
+      "name": "Crystal Shard",
+      "set": "Skyridge",
+      "img": "https://den-cards.pokellector.com/111/Crystal-Shard.SK.122.7050.png",
+      "rarity": "Uncommon",
+      "cardNum": "122/144"
+    },
+    {
+      "name": "Desert Shaman",
+      "set": "Skyridge",
+      "img": "https://den-cards.pokellector.com/111/Desert-Shaman.SK.123.png",
+      "rarity": "Uncommon",
+      "cardNum": "123/144"
+    },
+    {
+      "name": "Fast Ball",
+      "set": "Skyridge",
+      "img": "https://den-cards.pokellector.com/111/Fast-Ball.SK.124.png",
+      "rarity": "Uncommon",
+      "cardNum": "124/144"
+    },
+    {
+      "name": "Fisherman",
+      "set": "Skyridge",
+      "img": "https://den-cards.pokellector.com/111/Fisherman.SK.125.png",
+      "rarity": "Uncommon",
+      "cardNum": "125/144"
+    },
+    {
+      "name": "Friend Ball",
+      "set": "Skyridge",
+      "img": "https://den-cards.pokellector.com/111/Friend-Ball.SK.126.png",
+      "rarity": "Uncommon",
+      "cardNum": "126/144"
+    },
+    {
+      "name": "Hyper Potion",
+      "set": "Skyridge",
+      "img": "https://den-cards.pokellector.com/111/Hyper-Potion.SK.127.png",
+      "rarity": "Uncommon",
+      "cardNum": "127/144"
+    },
+    {
+      "name": "Lure Ball",
+      "set": "Skyridge",
+      "img": "https://den-cards.pokellector.com/111/Lure-Ball.SK.128.7056.png",
+      "rarity": "Uncommon",
+      "cardNum": "128/144"
+    },
+    {
+      "name": "Miracle Sphere (Alpha)",
+      "set": "Skyridge",
+      "img": "https://den-cards.pokellector.com/111/Miracle-Shere-Alpha.SK.129.png",
+      "rarity": "Uncommon",
+      "cardNum": "129/144"
+    },
+    {
+      "name": "Miracle Sphere (Beta)",
+      "set": "Skyridge",
+      "img": "https://den-cards.pokellector.com/111/Miracle-Shere-Beta.SK.130.png",
+      "rarity": "Uncommon",
+      "cardNum": "130/144"
+    },
+    {
+      "name": "Miracle Sphere (Gamma)",
+      "set": "Skyridge",
+      "img": "https://den-cards.pokellector.com/111/Miracle-Shere-Gamma.SK.131.png",
+      "rarity": "Uncommon",
+      "cardNum": "131/144"
+    },
+    {
+      "name": "Mirage Stadium",
+      "set": "Skyridge",
+      "img": "https://den-cards.pokellector.com/111/Mirage-Stadium.SK.132.7060.png",
+      "rarity": "Uncommon",
+      "cardNum": "132/144"
+    },
+    {
+      "name": "Mystery Plate (Alpha)",
+      "set": "Skyridge",
+      "img": "https://den-cards.pokellector.com/111/Mystery-Plate-Alpha.SK.133.png",
+      "rarity": "Uncommon",
+      "cardNum": "133/144"
+    },
+    {
+      "name": "Mystery Plate (Beta)",
+      "set": "Skyridge",
+      "img": "https://den-cards.pokellector.com/111/Mystery-Plate-Beta.SK.134.7062.png",
+      "rarity": "Uncommon",
+      "cardNum": "134/144"
+    },
+    {
+      "name": "Mystery Plate (Gamma)",
+      "set": "Skyridge",
+      "img": "https://den-cards.pokellector.com/111/Mystery-Plate-Gamma.SK.135.7063.png",
+      "rarity": "Uncommon",
+      "cardNum": "135/144"
+    },
+    {
+      "name": "Mystery Plate (Delta)",
+      "set": "Skyridge",
+      "img": "https://den-cards.pokellector.com/111/Mystery-Plate-Delta.SK.136.png",
+      "rarity": "Uncommon",
+      "cardNum": "136/144"
+    },
+    {
+      "name": "Mystery Zone",
+      "set": "Skyridge",
+      "img": "https://den-cards.pokellector.com/111/Mystery-Zone.SK.137.png",
+      "rarity": "Uncommon",
+      "cardNum": "137/144"
+    },
+    {
+      "name": "Oracle",
+      "set": "Skyridge",
+      "img": "https://den-cards.pokellector.com/111/Oracle.SK.138.png",
+      "rarity": "Uncommon",
+      "cardNum": "138/144"
+    },
+    {
+      "name": "Star Piece",
+      "set": "Skyridge",
+      "img": "https://den-cards.pokellector.com/111/Star-Piece.SK.139.png",
+      "rarity": "Uncommon",
+      "cardNum": "139/144"
+    },
+    {
+      "name": "Underground Expedition",
+      "set": "Skyridge",
+      "img": "https://den-cards.pokellector.com/111/Underground-Expedition.SK.140.png",
+      "rarity": "Uncommon",
+      "cardNum": "140/144"
+    },
+    {
+      "name": "Underground Lake",
+      "set": "Skyridge",
+      "img": "https://den-cards.pokellector.com/111/Underground-Lake.SK.141.png",
+      "rarity": "Uncommon",
+      "cardNum": "141/144"
+    },
+    {
+      "name": "Bounce Energy",
+      "set": "Skyridge",
+      "img": "https://den-cards.pokellector.com/111/Bounce-Energy.SK.142.7070.png",
+      "rarity": "Uncommon",
+      "cardNum": "142/144"
+    },
+    {
+      "name": "Cyclone Energy",
+      "set": "Skyridge",
+      "img": "https://den-cards.pokellector.com/111/Cyclone-Energy.SK.143.7071.png",
+      "rarity": "Uncommon",
+      "cardNum": "143/144"
+    },
+    {
+      "name": "Retro Energy",
+      "set": "Skyridge",
+      "img": "https://den-cards.pokellector.com/111/Retro-Energy.SK.144.7072.png",
+      "rarity": "Uncommon",
+      "cardNum": "144/144"
+    },
+    {
+      "name": "Celebi",
+      "set": "Skyridge",
+      "img": "https://den-cards.pokellector.com/111/Celebi.SK.145.7073.png",
+      "rarity": "Secret Rare",
+      "cardNum": "145/144"
+    },
+    {
+      "name": "Charizard",
+      "set": "Skyridge",
+      "img": "https://den-cards.pokellector.com/111/Charizard.SK.146.7074.png",
+      "rarity": "Secret Rare",
+      "cardNum": "146/144"
+    },
+    {
+      "name": "Crobat",
+      "set": "Skyridge",
+      "img": "https://den-cards.pokellector.com/111/Crobat.SK.147.7075.png",
+      "rarity": "Secret Rare",
+      "cardNum": "147/144"
+    },
+    {
+      "name": "Golem",
+      "set": "Skyridge",
+      "img": "https://den-cards.pokellector.com/111/Golem.SK.148.7076.png",
+      "rarity": "Secret Rare",
+      "cardNum": "148/144"
+    },
+    {
+      "name": "Ho-oh",
+      "set": "Skyridge",
+      "img": "https://den-cards.pokellector.com/111/Ho-oh.SK.149.7077.png",
+      "rarity": "Secret Rare",
+      "cardNum": "149/144"
+    },
+    {
+      "name": "Kabutops",
+      "set": "Skyridge",
+      "img": "https://den-cards.pokellector.com/111/Kabutops.SK.150.7078.png",
+      "rarity": "Secret Rare",
+      "cardNum": "150/144"
+    },
+    {
+      "name": "Alakazam",
+      "set": "Skyridge",
+      "img": "https://den-cards.pokellector.com/111/Alakazam.SK.H1.6897.png",
+      "rarity": "Rare",
+      "cardNum": "H1"
+    },
+    {
+      "name": "Arcanine",
+      "set": "Skyridge",
+      "img": "https://www.pokellector.com/images/card-placeholder.png",
+      "rarity": "Rare",
+      "cardNum": "H2"
+    },
+    {
+      "name": "Articuno",
+      "set": "Skyridge",
+      "img": "https://www.pokellector.com/images/card-placeholder.png",
+      "rarity": "Rare",
+      "cardNum": "H3"
+    },
+    {
+      "name": "Beedrill",
+      "set": "Skyridge",
+      "img": "https://www.pokellector.com/images/card-placeholder.png",
+      "rarity": "Rare",
+      "cardNum": "H4"
+    },
+    {
+      "name": "Crobat",
+      "set": "Skyridge",
+      "img": "https://www.pokellector.com/images/card-placeholder.png",
+      "rarity": "Rare",
+      "cardNum": "H5"
+    },
+    {
+      "name": "Dewgong",
+      "set": "Skyridge",
+      "img": "https://www.pokellector.com/images/card-placeholder.png",
+      "rarity": "Rare",
+      "cardNum": "H6"
+    },
+    {
+      "name": "Flareon",
+      "set": "Skyridge",
+      "img": "https://www.pokellector.com/images/card-placeholder.png",
+      "rarity": "Rare",
+      "cardNum": "H7"
+    },
+    {
+      "name": "Forretress",
+      "set": "Skyridge",
+      "img": "https://www.pokellector.com/images/card-placeholder.png",
+      "rarity": "Rare",
+      "cardNum": "H8"
+    },
+    {
+      "name": "Gengar",
+      "set": "Skyridge",
+      "img": "https://www.pokellector.com/images/card-placeholder.png",
+      "rarity": "Rare",
+      "cardNum": "H9"
+    },
+    {
+      "name": "Gyarados",
+      "set": "Skyridge",
+      "img": "https://www.pokellector.com/images/card-placeholder.png",
+      "rarity": "Rare",
+      "cardNum": "H10"
+    },
+    {
+      "name": "Houndoom",
+      "set": "Skyridge",
+      "img": "https://www.pokellector.com/images/card-placeholder.png",
+      "rarity": "Rare",
+      "cardNum": "H11"
+    },
+    {
+      "name": "Jolteon",
+      "set": "Skyridge",
+      "img": "https://www.pokellector.com/images/card-placeholder.png",
+      "rarity": "Rare",
+      "cardNum": "H12"
+    },
+    {
+      "name": "Kabutops",
+      "set": "Skyridge",
+      "img": "https://www.pokellector.com/images/card-placeholder.png",
+      "rarity": "Rare",
+      "cardNum": "H13"
+    },
+    {
+      "name": "Ledian",
+      "set": "Skyridge",
+      "img": "https://www.pokellector.com/images/card-placeholder.png",
+      "rarity": "Rare",
+      "cardNum": "H14"
+    },
+    {
+      "name": "Machamp",
+      "set": "Skyridge",
+      "img": "https://www.pokellector.com/images/card-placeholder.png",
+      "rarity": "Rare",
+      "cardNum": "H15"
+    },
+    {
+      "name": "Magcargo",
+      "set": "Skyridge",
+      "img": "https://www.pokellector.com/images/card-placeholder.png",
+      "rarity": "Rare",
+      "cardNum": "H16"
+    },
+    {
+      "name": "Magcargo",
+      "set": "Skyridge",
+      "img": "https://www.pokellector.com/images/card-placeholder.png",
+      "rarity": "Rare",
+      "cardNum": "H17"
+    },
+    {
+      "name": "Magneton",
+      "set": "Skyridge",
+      "img": "https://www.pokellector.com/images/card-placeholder.png",
+      "rarity": "Rare",
+      "cardNum": "H18"
+    },
+    {
+      "name": "Magneton",
+      "set": "Skyridge",
+      "img": "https://www.pokellector.com/images/card-placeholder.png",
+      "rarity": "Rare",
+      "cardNum": "H19"
+    },
+    {
+      "name": "Moltres",
+      "set": "Skyridge",
+      "img": "https://www.pokellector.com/images/card-placeholder.png",
+      "rarity": "Rare",
+      "cardNum": "H20"
+    },
+    {
+      "name": "Nidoqueen",
+      "set": "Skyridge",
+      "img": "https://www.pokellector.com/images/card-placeholder.png",
+      "rarity": "Rare",
+      "cardNum": "H21"
+    },
+    {
+      "name": "Piloswine",
+      "set": "Skyridge",
+      "img": "https://den-cards.pokellector.com/111/Piloswine.SK.22.png",
+      "rarity": "Rare",
+      "cardNum": "H22"
+    },
+    {
+      "name": "Politoed",
+      "set": "Skyridge",
+      "img": "https://www.pokellector.com/images/card-placeholder.png",
+      "rarity": "Rare",
+      "cardNum": "H23"
+    },
+    {
+      "name": "Poliwrath",
+      "set": "Skyridge",
+      "img": "https://www.pokellector.com/images/card-placeholder.png",
+      "rarity": "Rare",
+      "cardNum": "H24"
+    },
+    {
+      "name": "Raichu",
+      "set": "Skyridge",
+      "img": "https://www.pokellector.com/images/card-placeholder.png",
+      "rarity": "Rare",
+      "cardNum": "H25"
+    },
+    {
+      "name": "Raikou",
+      "set": "Skyridge",
+      "img": "https://www.pokellector.com/images/card-placeholder.png",
+      "rarity": "Rare",
+      "cardNum": "H26"
+    },
+    {
+      "name": "Rhydon",
+      "set": "Skyridge",
+      "img": "https://www.pokellector.com/images/card-placeholder.png",
+      "rarity": "Rare",
+      "cardNum": "H27"
+    },
+    {
+      "name": "Starmie",
+      "set": "Skyridge",
+      "img": "https://www.pokellector.com/images/card-placeholder.png",
+      "rarity": "Rare",
+      "cardNum": "H28"
+    },
+    {
+      "name": "Steelix",
+      "set": "Skyridge",
+      "img": "https://den-cards.pokellector.com/111/Steelix.SK.29.png",
+      "rarity": "Rare",
+      "cardNum": "H29"
+    },
+    {
+      "name": "Umbreon",
+      "set": "Skyridge",
+      "img": "https://www.pokellector.com/images/card-placeholder.png",
+      "rarity": "Rare",
+      "cardNum": "H30"
+    },
+    {
+      "name": "Vaporeon",
+      "set": "Skyridge",
+      "img": "https://www.pokellector.com/images/card-placeholder.png",
+      "rarity": "Rare",
+      "cardNum": "H31"
+    },
+    {
+      "name": "Xatu",
+      "set": "Skyridge",
+      "img": "https://www.pokellector.com/images/card-placeholder.png",
+      "rarity": "Rare",
+      "cardNum": "H32"
+    }
+  ]
+}

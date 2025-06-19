@@ -1,0 +1,453 @@
+{
+  "setName": "Jungle",
+  "cards": [
+    {
+      "name": "Clefable",
+      "set": "Jungle",
+      "img": "https://den-cards.pokellector.com/120/Clefable.JU.1.png",
+      "rarity": "Rare",
+      "cardNum": "1/64"
+    },
+    {
+      "name": "Electrode",
+      "set": "Jungle",
+      "img": "https://den-cards.pokellector.com/120/Electrode.JU.2.png",
+      "rarity": "Rare",
+      "cardNum": "2/64"
+    },
+    {
+      "name": "Flareon",
+      "set": "Jungle",
+      "img": "https://den-cards.pokellector.com/120/Flareon.JU.3.png",
+      "rarity": "Rare",
+      "cardNum": "3/64"
+    },
+    {
+      "name": "Jolteon",
+      "set": "Jungle",
+      "img": "https://den-cards.pokellector.com/120/Jolteon.JU.4.png",
+      "rarity": "Rare",
+      "cardNum": "4/64"
+    },
+    {
+      "name": "Kangaskhan",
+      "set": "Jungle",
+      "img": "https://den-cards.pokellector.com/120/Kangaskhan.JU.5.png",
+      "rarity": "Rare",
+      "cardNum": "5/64"
+    },
+    {
+      "name": "Mr. Mime",
+      "set": "Jungle",
+      "img": "https://den-cards.pokellector.com/120/Mr-Mime.JU.6.png",
+      "rarity": "Rare",
+      "cardNum": "6/64"
+    },
+    {
+      "name": "Nidoqueen",
+      "set": "Jungle",
+      "img": "https://den-cards.pokellector.com/120/Nidoqueen.JU.7.png",
+      "rarity": "Rare",
+      "cardNum": "7/64"
+    },
+    {
+      "name": "Pidgeot",
+      "set": "Jungle",
+      "img": "https://den-cards.pokellector.com/120/Pidgeot.JU.8.png",
+      "rarity": "Rare",
+      "cardNum": "8/64"
+    },
+    {
+      "name": "Pinsir",
+      "set": "Jungle",
+      "img": "https://den-cards.pokellector.com/120/Pinsir.JU.9.png",
+      "rarity": "Rare",
+      "cardNum": "9/64"
+    },
+    {
+      "name": "Scyther",
+      "set": "Jungle",
+      "img": "https://den-cards.pokellector.com/120/Scyther.JU.10.png",
+      "rarity": "Rare",
+      "cardNum": "10/64"
+    },
+    {
+      "name": "Snorlax",
+      "set": "Jungle",
+      "img": "https://den-cards.pokellector.com/120/Snorlax.JU.11.png",
+      "rarity": "Rare",
+      "cardNum": "11/64"
+    },
+    {
+      "name": "Vaporeon",
+      "set": "Jungle",
+      "img": "https://den-cards.pokellector.com/120/Vaporeon.JU.12.png",
+      "rarity": "Rare",
+      "cardNum": "12/64"
+    },
+    {
+      "name": "Venomoth",
+      "set": "Jungle",
+      "img": "https://den-cards.pokellector.com/120/Venomoth.JU.13.png",
+      "rarity": "Rare",
+      "cardNum": "13/64"
+    },
+    {
+      "name": "Victreebel",
+      "set": "Jungle",
+      "img": "https://den-cards.pokellector.com/120/Victreebel.JU.14.png",
+      "rarity": "Rare",
+      "cardNum": "14/64"
+    },
+    {
+      "name": "Vileplume",
+      "set": "Jungle",
+      "img": "https://den-cards.pokellector.com/120/Vileplume.JU.15.png",
+      "rarity": "Rare",
+      "cardNum": "15/64"
+    },
+    {
+      "name": "Wigglytuff",
+      "set": "Jungle",
+      "img": "https://den-cards.pokellector.com/120/Wigglytuff.JU.16.png",
+      "rarity": "Rare",
+      "cardNum": "16/64"
+    },
+    {
+      "name": "Clefable",
+      "set": "Jungle",
+      "img": "https://den-cards.pokellector.com/120/Clefable.JU.17.png",
+      "rarity": "Rare",
+      "cardNum": "17/64"
+    },
+    {
+      "name": "Electrode",
+      "set": "Jungle",
+      "img": "https://den-cards.pokellector.com/120/Electrode.JU.18.png",
+      "rarity": "Rare",
+      "cardNum": "18/64"
+    },
+    {
+      "name": "Flareon",
+      "set": "Jungle",
+      "img": "https://den-cards.pokellector.com/120/Flareon.JU.19.png",
+      "rarity": "Rare",
+      "cardNum": "19/64"
+    },
+    {
+      "name": "Jolteon",
+      "set": "Jungle",
+      "img": "https://den-cards.pokellector.com/120/Jolteon.JU.20.png",
+      "rarity": "Rare",
+      "cardNum": "20/64"
+    },
+    {
+      "name": "Kangaskhan",
+      "set": "Jungle",
+      "img": "https://den-cards.pokellector.com/120/Kangaskhan.JU.21.png",
+      "rarity": "Rare",
+      "cardNum": "21/64"
+    },
+    {
+      "name": "Mr. Mime",
+      "set": "Jungle",
+      "img": "https://den-cards.pokellector.com/120/Mr-Mime.JU.22.png",
+      "rarity": "Rare",
+      "cardNum": "22/64"
+    },
+    {
+      "name": "Nidoqueen",
+      "set": "Jungle",
+      "img": "https://den-cards.pokellector.com/120/Nidoqueen.JU.23.png",
+      "rarity": "Rare",
+      "cardNum": "23/64"
+    },
+    {
+      "name": "Pidgeot",
+      "set": "Jungle",
+      "img": "https://den-cards.pokellector.com/120/Pidgeot.JU.24.png",
+      "rarity": "Rare",
+      "cardNum": "24/64"
+    },
+    {
+      "name": "Pinsir",
+      "set": "Jungle",
+      "img": "https://den-cards.pokellector.com/120/Pinsir.JU.25.png",
+      "rarity": "Rare",
+      "cardNum": "25/64"
+    },
+    {
+      "name": "Scyther",
+      "set": "Jungle",
+      "img": "https://den-cards.pokellector.com/120/Scyther.JU.26.png",
+      "rarity": "Rare",
+      "cardNum": "26/64"
+    },
+    {
+      "name": "Snorlax",
+      "set": "Jungle",
+      "img": "https://den-cards.pokellector.com/120/Snorlax.JU.27.png",
+      "rarity": "Rare",
+      "cardNum": "27/64"
+    },
+    {
+      "name": "Vaporeon",
+      "set": "Jungle",
+      "img": "https://den-cards.pokellector.com/120/Vaporeon.JU.28.png",
+      "rarity": "Rare",
+      "cardNum": "28/64"
+    },
+    {
+      "name": "Venomoth",
+      "set": "Jungle",
+      "img": "https://den-cards.pokellector.com/120/Venomoth.JU.29.png",
+      "rarity": "Rare",
+      "cardNum": "29/64"
+    },
+    {
+      "name": "Victreebel",
+      "set": "Jungle",
+      "img": "https://den-cards.pokellector.com/120/Victreebel.JU.30.png",
+      "rarity": "Rare",
+      "cardNum": "30/64"
+    },
+    {
+      "name": "Vileplume",
+      "set": "Jungle",
+      "img": "https://den-cards.pokellector.com/120/Vileplume.JU.31.png",
+      "rarity": "Rare",
+      "cardNum": "31/64"
+    },
+    {
+      "name": "Wigglytuff",
+      "set": "Jungle",
+      "img": "https://den-cards.pokellector.com/120/Wigglytuff.JU.32.png",
+      "rarity": "Rare",
+      "cardNum": "32/64"
+    },
+    {
+      "name": "Butterfree",
+      "set": "Jungle",
+      "img": "https://den-cards.pokellector.com/120/Butterfree.JU.33.png",
+      "rarity": "Uncommon",
+      "cardNum": "33/64"
+    },
+    {
+      "name": "Dodrio",
+      "set": "Jungle",
+      "img": "https://den-cards.pokellector.com/120/Dodrio.JU.34.png",
+      "rarity": "Uncommon",
+      "cardNum": "34/64"
+    },
+    {
+      "name": "Exeggutor",
+      "set": "Jungle",
+      "img": "https://den-cards.pokellector.com/120/Exeggutor.JU.35.png",
+      "rarity": "Uncommon",
+      "cardNum": "35/64"
+    },
+    {
+      "name": "Fearow",
+      "set": "Jungle",
+      "img": "https://den-cards.pokellector.com/120/Fearow.JU.36.png",
+      "rarity": "Uncommon",
+      "cardNum": "36/64"
+    },
+    {
+      "name": "Gloom",
+      "set": "Jungle",
+      "img": "https://den-cards.pokellector.com/120/Gloom.JU.37.png",
+      "rarity": "Uncommon",
+      "cardNum": "37/64"
+    },
+    {
+      "name": "Lickitung",
+      "set": "Jungle",
+      "img": "https://den-cards.pokellector.com/120/Lickitung.JU.38.png",
+      "rarity": "Uncommon",
+      "cardNum": "38/64"
+    },
+    {
+      "name": "Marowak",
+      "set": "Jungle",
+      "img": "https://den-cards.pokellector.com/120/Marowak.JU.39.png",
+      "rarity": "Uncommon",
+      "cardNum": "39/64"
+    },
+    {
+      "name": "Nidorina",
+      "set": "Jungle",
+      "img": "https://den-cards.pokellector.com/120/Nidorina.JU.40.png",
+      "rarity": "Uncommon",
+      "cardNum": "40/64"
+    },
+    {
+      "name": "Parasect",
+      "set": "Jungle",
+      "img": "https://den-cards.pokellector.com/120/Parasect.JU.41.png",
+      "rarity": "Uncommon",
+      "cardNum": "41/64"
+    },
+    {
+      "name": "Persian",
+      "set": "Jungle",
+      "img": "https://den-cards.pokellector.com/120/Persian.JU.42.png",
+      "rarity": "Uncommon",
+      "cardNum": "42/64"
+    },
+    {
+      "name": "Primeape",
+      "set": "Jungle",
+      "img": "https://den-cards.pokellector.com/120/Primeape.JU.43.png",
+      "rarity": "Uncommon",
+      "cardNum": "43/64"
+    },
+    {
+      "name": "Rapidash",
+      "set": "Jungle",
+      "img": "https://den-cards.pokellector.com/120/Rapidash.JU.44.png",
+      "rarity": "Uncommon",
+      "cardNum": "44/64"
+    },
+    {
+      "name": "Rhydon",
+      "set": "Jungle",
+      "img": "https://den-cards.pokellector.com/120/Rhydon.JU.45.png",
+      "rarity": "Uncommon",
+      "cardNum": "45/64"
+    },
+    {
+      "name": "Seaking",
+      "set": "Jungle",
+      "img": "https://den-cards.pokellector.com/120/Seaking.JU.46.png",
+      "rarity": "Uncommon",
+      "cardNum": "46/64"
+    },
+    {
+      "name": "Tauros",
+      "set": "Jungle",
+      "img": "https://den-cards.pokellector.com/120/Tauros.JU.47.png",
+      "rarity": "Uncommon",
+      "cardNum": "47/64"
+    },
+    {
+      "name": "Weepinbell",
+      "set": "Jungle",
+      "img": "https://den-cards.pokellector.com/120/Weepinbell.JU.48.png",
+      "rarity": "Uncommon",
+      "cardNum": "48/64"
+    },
+    {
+      "name": "Bellsprout",
+      "set": "Jungle",
+      "img": "https://den-cards.pokellector.com/120/Bellsprout.JU.49.png",
+      "rarity": "Common",
+      "cardNum": "49/64"
+    },
+    {
+      "name": "Cubone",
+      "set": "Jungle",
+      "img": "https://den-cards.pokellector.com/120/Cubone.JU.50.png",
+      "rarity": "Common",
+      "cardNum": "50/64"
+    },
+    {
+      "name": "Eevee",
+      "set": "Jungle",
+      "img": "https://den-cards.pokellector.com/120/Eevee.JU.51.png",
+      "rarity": "Common",
+      "cardNum": "51/64"
+    },
+    {
+      "name": "Exeggcute",
+      "set": "Jungle",
+      "img": "https://den-cards.pokellector.com/120/Exeggcute.JU.52.png",
+      "rarity": "Common",
+      "cardNum": "52/64"
+    },
+    {
+      "name": "Goldeen",
+      "set": "Jungle",
+      "img": "https://den-cards.pokellector.com/120/Goldeen.JU.53.png",
+      "rarity": "Common",
+      "cardNum": "53/64"
+    },
+    {
+      "name": "Jigglypuff",
+      "set": "Jungle",
+      "img": "https://den-cards.pokellector.com/120/Jigglypuff.JU.54.png",
+      "rarity": "Common",
+      "cardNum": "54/64"
+    },
+    {
+      "name": "Mankey",
+      "set": "Jungle",
+      "img": "https://den-cards.pokellector.com/120/Mankey.JU.55.png",
+      "rarity": "Common",
+      "cardNum": "55/64"
+    },
+    {
+      "name": "Meowth",
+      "set": "Jungle",
+      "img": "https://den-cards.pokellector.com/120/Meowth.JU.56.png",
+      "rarity": "Common",
+      "cardNum": "56/64"
+    },
+    {
+      "name": "Nidoran F",
+      "set": "Jungle",
+      "img": "https://den-cards.pokellector.com/120/Nidoran-F.JU.57.png",
+      "rarity": "Common",
+      "cardNum": "57/64"
+    },
+    {
+      "name": "Oddish",
+      "set": "Jungle",
+      "img": "https://den-cards.pokellector.com/120/Oddish.JU.58.png",
+      "rarity": "Common",
+      "cardNum": "58/64"
+    },
+    {
+      "name": "Paras",
+      "set": "Jungle",
+      "img": "https://den-cards.pokellector.com/120/Paras.JU.59.png",
+      "rarity": "Common",
+      "cardNum": "59/64"
+    },
+    {
+      "name": "Pikachu",
+      "set": "Jungle",
+      "img": "https://den-cards.pokellector.com/120/Pikachu.JU.60.png",
+      "rarity": "Common",
+      "cardNum": "60/64"
+    },
+    {
+      "name": "Rhyhorn",
+      "set": "Jungle",
+      "img": "https://den-cards.pokellector.com/120/Rhyhorn.JU.61.png",
+      "rarity": "Common",
+      "cardNum": "61/64"
+    },
+    {
+      "name": "Spearow",
+      "set": "Jungle",
+      "img": "https://den-cards.pokellector.com/120/Spearow.JU.62.png",
+      "rarity": "Common",
+      "cardNum": "62/64"
+    },
+    {
+      "name": "Venonat",
+      "set": "Jungle",
+      "img": "https://den-cards.pokellector.com/120/Venonat.JU.63.png",
+      "rarity": "Common",
+      "cardNum": "63/64"
+    },
+    {
+      "name": "Poke Ball",
+      "set": "Jungle",
+      "img": "https://den-cards.pokellector.com/120/Poke-Ball.JU.64.png",
+      "rarity": "Common",
+      "cardNum": "64/64"
+    }
+  ]
+}

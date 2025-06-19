@@ -1,0 +1,712 @@
+{
+  "setName": "Pokemon GO",
+  "cards": [
+    {
+      "name": "Bulbasaur",
+      "set": "Pokemon GO",
+      "img": "https://den-cards.pokellector.com/347/Bulbasaur.S10B.1.44107.png",
+      "rarity": "Common",
+      "cardNum": "1/71"
+    },
+    {
+      "name": "Ivysaur",
+      "set": "Pokemon GO",
+      "img": "https://den-cards.pokellector.com/347/Ivysaur.S10B.2.44108.png",
+      "rarity": "Uncommon",
+      "cardNum": "2/71"
+    },
+    {
+      "name": "Venusaur",
+      "set": "Pokemon GO",
+      "img": "https://den-cards.pokellector.com/347/Venusaur.S10B.3.44109.png",
+      "rarity": "Rare",
+      "cardNum": "3/71"
+    },
+    {
+      "name": "Radiant Venusaur",
+      "set": "Pokemon GO",
+      "img": "https://den-cards.pokellector.com/347/Radiant-Venusaur.S10B.4.44110.png",
+      "rarity": "Rare",
+      "cardNum": "4/71"
+    },
+    {
+      "name": "Alolan Exeggutor V",
+      "set": "Pokemon GO",
+      "img": "https://den-cards.pokellector.com/347/Alolan-Exeggutor-V.S10B.5.43538.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "5/71"
+    },
+    {
+      "name": "Spinarak",
+      "set": "Pokemon GO",
+      "img": "https://den-cards.pokellector.com/347/Spinarak.S10B.6.44111.png",
+      "rarity": "Common",
+      "cardNum": "6/71"
+    },
+    {
+      "name": "Ariados",
+      "set": "Pokemon GO",
+      "img": "https://den-cards.pokellector.com/347/Ariados.S10B.7.44112.png",
+      "rarity": "Common",
+      "cardNum": "7/71"
+    },
+    {
+      "name": "Charmander",
+      "set": "Pokemon GO",
+      "img": "https://den-cards.pokellector.com/347/Charmander.S10B.8.44113.png",
+      "rarity": "Common",
+      "cardNum": "8/71"
+    },
+    {
+      "name": "Charmeleon",
+      "set": "Pokemon GO",
+      "img": "https://den-cards.pokellector.com/347/Charmeleon.S10B.9.44114.png",
+      "rarity": "Uncommon",
+      "cardNum": "9/71"
+    },
+    {
+      "name": "Charizard",
+      "set": "Pokemon GO",
+      "img": "https://den-cards.pokellector.com/347/Charizard.S10B.10.44115.png",
+      "rarity": "Rare",
+      "cardNum": "10/71"
+    },
+    {
+      "name": "Radiant Charizard",
+      "set": "Pokemon GO",
+      "img": "https://den-cards.pokellector.com/347/Radiant-Charizard.S10B.11.44116.png",
+      "rarity": "Rare",
+      "cardNum": "11/71"
+    },
+    {
+      "name": "Moltres",
+      "set": "Pokemon GO",
+      "img": "https://den-cards.pokellector.com/347/Moltres.S10B.12.43890.png",
+      "rarity": "Rare",
+      "cardNum": "12/71"
+    },
+    {
+      "name": "Numel",
+      "set": "Pokemon GO",
+      "img": "https://den-cards.pokellector.com/347/Numel.S10B.13.44069.png",
+      "rarity": "Common",
+      "cardNum": "13/71"
+    },
+    {
+      "name": "Camerupt",
+      "set": "Pokemon GO",
+      "img": "https://den-cards.pokellector.com/347/Camerupt.S10B.14.44068.png",
+      "rarity": "Common",
+      "cardNum": "14/71"
+    },
+    {
+      "name": "Squirtle",
+      "set": "Pokemon GO",
+      "img": "https://den-cards.pokellector.com/347/Squirtle.S10B.15.44117.png",
+      "rarity": "Common",
+      "cardNum": "15/71"
+    },
+    {
+      "name": "Wartortle",
+      "set": "Pokemon GO",
+      "img": "https://den-cards.pokellector.com/347/Wartortle.S10B.16.44118.png",
+      "rarity": "Uncommon",
+      "cardNum": "16/71"
+    },
+    {
+      "name": "Blastoise",
+      "set": "Pokemon GO",
+      "img": "https://den-cards.pokellector.com/347/Blastoise.S10B.17.44119.png",
+      "rarity": "Rare",
+      "cardNum": "17/71"
+    },
+    {
+      "name": "Radiant Blastoise",
+      "set": "Pokemon GO",
+      "img": "https://den-cards.pokellector.com/347/Radiant-Blastoise.S10B.18.44120.png",
+      "rarity": "Rare",
+      "cardNum": "18/71"
+    },
+    {
+      "name": "Slowpoke",
+      "set": "Pokemon GO",
+      "img": "https://den-cards.pokellector.com/347/Slowpoke.S10B.19.44121.png",
+      "rarity": "Common",
+      "cardNum": "19/71"
+    },
+    {
+      "name": "Slowbro",
+      "set": "Pokemon GO",
+      "img": "https://den-cards.pokellector.com/347/Slowbro.S10B.20.44122.png",
+      "rarity": "Uncommon",
+      "cardNum": "20/71"
+    },
+    {
+      "name": "Magikarp",
+      "set": "Pokemon GO",
+      "img": "https://den-cards.pokellector.com/347/Magikarp.S10B.21.43519.png",
+      "rarity": "Common",
+      "cardNum": "21/71"
+    },
+    {
+      "name": "Gyarados",
+      "set": "Pokemon GO",
+      "img": "https://den-cards.pokellector.com/347/Gyarados.S10B.22.43520.png",
+      "rarity": "Rare",
+      "cardNum": "22/71"
+    },
+    {
+      "name": "Lapras",
+      "set": "Pokemon GO",
+      "img": "https://den-cards.pokellector.com/347/Lapras.S10B.23.44123.png",
+      "rarity": "Rare",
+      "cardNum": "23/71"
+    },
+    {
+      "name": "Articuno",
+      "set": "Pokemon GO",
+      "img": "https://den-cards.pokellector.com/347/Articuno.S10B.24.43888.png",
+      "rarity": "Rare",
+      "cardNum": "24/71"
+    },
+    {
+      "name": "Wimpod",
+      "set": "Pokemon GO",
+      "img": "https://den-cards.pokellector.com/347/Wimpod.S10B.25.44124.png",
+      "rarity": "Common",
+      "cardNum": "25/71"
+    },
+    {
+      "name": "Golisopod",
+      "set": "Pokemon GO",
+      "img": "https://den-cards.pokellector.com/347/Golisopod.S10B.26.44125.png",
+      "rarity": "Rare",
+      "cardNum": "26/71"
+    },
+    {
+      "name": "Pikachu",
+      "set": "Pokemon GO",
+      "img": "https://den-cards.pokellector.com/347/Pikachu.S10B.27.43517.png",
+      "rarity": "Common",
+      "cardNum": "27/71"
+    },
+    {
+      "name": "Pikachu",
+      "set": "Pokemon GO",
+      "img": "https://den-cards.pokellector.com/347/Pikachu.S10B.28.44126.png",
+      "rarity": "Rare",
+      "cardNum": "28/71"
+    },
+    {
+      "name": "Zapdos",
+      "set": "Pokemon GO",
+      "img": "https://den-cards.pokellector.com/347/Zapdos.S10B.29.43889.png",
+      "rarity": "Rare",
+      "cardNum": "29/71"
+    },
+    {
+      "name": "Mewtwo V",
+      "set": "Pokemon GO",
+      "img": "https://den-cards.pokellector.com/347/Mewtwo-V.S10B.30.43535.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "30/71"
+    },
+    {
+      "name": "Mewtwo VSTAR",
+      "set": "Pokemon GO",
+      "img": "https://den-cards.pokellector.com/347/Mewtwo-VSTAR.S10B.31.43536.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "31/71"
+    },
+    {
+      "name": "Natu",
+      "set": "Pokemon GO",
+      "img": "https://den-cards.pokellector.com/347/Natu.S10B.32.44127.png",
+      "rarity": "Common",
+      "cardNum": "32/71"
+    },
+    {
+      "name": "Xatu",
+      "set": "Pokemon GO",
+      "img": "https://den-cards.pokellector.com/347/Xatu.S10B.33.44128.png",
+      "rarity": "Uncommon",
+      "cardNum": "33/71"
+    },
+    {
+      "name": "Lunatone",
+      "set": "Pokemon GO",
+      "img": "https://den-cards.pokellector.com/347/Lunatone.S10B.34.44071.png",
+      "rarity": "Uncommon",
+      "cardNum": "34/71"
+    },
+    {
+      "name": "Sylveon",
+      "set": "Pokemon GO",
+      "img": "https://den-cards.pokellector.com/347/Sylveon.S10B.35.44129.png",
+      "rarity": "Rare",
+      "cardNum": "35/71"
+    },
+    {
+      "name": "Onix",
+      "set": "Pokemon GO",
+      "img": "https://den-cards.pokellector.com/347/Onix.S10B.36.44073.png",
+      "rarity": "Common",
+      "cardNum": "36/71"
+    },
+    {
+      "name": "Larvitar",
+      "set": "Pokemon GO",
+      "img": "https://den-cards.pokellector.com/347/Larvitar.S10B.37.44104.png",
+      "rarity": "Common",
+      "cardNum": "37/71"
+    },
+    {
+      "name": "Pupitar",
+      "set": "Pokemon GO",
+      "img": "https://den-cards.pokellector.com/347/Pupitar.S10B.38.44105.png",
+      "rarity": "Uncommon",
+      "cardNum": "38/71"
+    },
+    {
+      "name": "Solrock",
+      "set": "Pokemon GO",
+      "img": "https://den-cards.pokellector.com/347/Solrock.S10B.39.44070.png",
+      "rarity": "Uncommon",
+      "cardNum": "39/71"
+    },
+    {
+      "name": "Conkeldurr V",
+      "set": "Pokemon GO",
+      "img": "https://den-cards.pokellector.com/347/Conkeldurr-V.S10B.40.44067.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "40/71"
+    },
+    {
+      "name": "Alolan Rattata",
+      "set": "Pokemon GO",
+      "img": "https://den-cards.pokellector.com/347/Alolan-Rattata.S10B.41.44075.png",
+      "rarity": "Common",
+      "cardNum": "41/71"
+    },
+    {
+      "name": "Alolan Raticate",
+      "set": "Pokemon GO",
+      "img": "https://den-cards.pokellector.com/347/Alolan-Raticate.S10B.42.44076.png",
+      "rarity": "Common",
+      "cardNum": "42/71"
+    },
+    {
+      "name": "Tyranitar",
+      "set": "Pokemon GO",
+      "img": "https://den-cards.pokellector.com/347/Tyranitar.S10B.43.44106.png",
+      "rarity": "Rare",
+      "cardNum": "43/71"
+    },
+    {
+      "name": "Steelix",
+      "set": "Pokemon GO",
+      "img": "https://den-cards.pokellector.com/347/Steelix.S10B.44.44072.png",
+      "rarity": "Uncommon",
+      "cardNum": "44/71"
+    },
+    {
+      "name": "Meltan",
+      "set": "Pokemon GO",
+      "img": "https://den-cards.pokellector.com/347/Meltan.S10B.45.43522.png",
+      "rarity": "Common",
+      "cardNum": "45/71"
+    },
+    {
+      "name": "Melmetal",
+      "set": "Pokemon GO",
+      "img": "https://den-cards.pokellector.com/347/Melmetal.S10B.46.43523.png",
+      "rarity": "Rare",
+      "cardNum": "46/71"
+    },
+    {
+      "name": "Melmetal V",
+      "set": "Pokemon GO",
+      "img": "https://den-cards.pokellector.com/347/Melmetal-V.S10B.47.43537.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "47/71"
+    },
+    {
+      "name": "Melmetal VMAX",
+      "set": "Pokemon GO",
+      "img": "https://den-cards.pokellector.com/347/Melmetal-VMAX.S10B.48.43891.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "48/71"
+    },
+    {
+      "name": "Dragonite V",
+      "set": "Pokemon GO",
+      "img": "https://den-cards.pokellector.com/347/Dragonite-V.S10B.49.44130.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "49/71"
+    },
+    {
+      "name": "Dragonite VSTAR",
+      "set": "Pokemon GO",
+      "img": "https://den-cards.pokellector.com/347/Dragonite-VSTAR.S10B.50.44131.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "50/71"
+    },
+    {
+      "name": "Chansey",
+      "set": "Pokemon GO",
+      "img": "https://den-cards.pokellector.com/347/Chansey.S10B.51.43524.png",
+      "rarity": "Uncommon",
+      "cardNum": "51/71"
+    },
+    {
+      "name": "Blissey",
+      "set": "Pokemon GO",
+      "img": "https://den-cards.pokellector.com/347/Blissey.S10B.52.43525.png",
+      "rarity": "Rare",
+      "cardNum": "52/71"
+    },
+    {
+      "name": "Ditto",
+      "set": "Pokemon GO",
+      "img": "https://den-cards.pokellector.com/347/Ditto.S10B.53.43894.png",
+      "rarity": "Rare",
+      "cardNum": "53/71"
+    },
+    {
+      "name": "Eevee",
+      "set": "Pokemon GO",
+      "img": "https://den-cards.pokellector.com/347/Eevee.S10B.54.43518.png",
+      "rarity": "Common",
+      "cardNum": "54/71"
+    },
+    {
+      "name": "Radiant Eevee",
+      "set": "Pokemon GO",
+      "img": "https://den-cards.pokellector.com/347/Radiant-Eevee.S10B.55.43516.png",
+      "rarity": "Rare",
+      "cardNum": "55/71"
+    },
+    {
+      "name": "Snorlax",
+      "set": "Pokemon GO",
+      "img": "https://den-cards.pokellector.com/347/Snorlax.S10B.56.43521.png",
+      "rarity": "Rare",
+      "cardNum": "56/71"
+    },
+    {
+      "name": "Aipom",
+      "set": "Pokemon GO",
+      "img": "https://den-cards.pokellector.com/347/Aipom.S10B.57.43526.png",
+      "rarity": "Common",
+      "cardNum": "57/71"
+    },
+    {
+      "name": "Ambipom",
+      "set": "Pokemon GO",
+      "img": "https://den-cards.pokellector.com/347/Ambipom.S10B.58.43539.png",
+      "rarity": "Common",
+      "cardNum": "58/71"
+    },
+    {
+      "name": "Slaking",
+      "set": "Pokemon GO",
+      "img": "https://den-cards.pokellector.com/347/Slaking.S10B.59.44132.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "59/71"
+    },
+    {
+      "name": "Bidoof",
+      "set": "Pokemon GO",
+      "img": "https://den-cards.pokellector.com/347/Bidoof.S10B.60.43892.png",
+      "rarity": "Common",
+      "cardNum": "60/71"
+    },
+    {
+      "name": "Bibarel",
+      "set": "Pokemon GO",
+      "img": "https://den-cards.pokellector.com/347/Bibarel.S10B.61.43893.png",
+      "rarity": "Common",
+      "cardNum": "61/71"
+    },
+    {
+      "name": "Pidove",
+      "set": "Pokemon GO",
+      "img": "https://den-cards.pokellector.com/347/Pidove.S10B.62.44133.png",
+      "rarity": "Common",
+      "cardNum": "62/71"
+    },
+    {
+      "name": "Tranquill",
+      "set": "Pokemon GO",
+      "img": "https://den-cards.pokellector.com/347/Trainquill.S10B.63.44134.png",
+      "rarity": "Rare",
+      "cardNum": "63/71"
+    },
+    {
+      "name": "Unfezant",
+      "set": "Pokemon GO",
+      "img": "https://den-cards.pokellector.com/347/Unfezant.S10B.64.44135.png",
+      "rarity": "Uncommon",
+      "cardNum": "64/71"
+    },
+    {
+      "name": "Egg Incubator",
+      "set": "Pokemon GO",
+      "img": "https://den-cards.pokellector.com/347/Egg-Incubator.S10B.65.44136.png",
+      "rarity": "Uncommon",
+      "cardNum": "65/71"
+    },
+    {
+      "name": "Rare Candy",
+      "set": "Pokemon GO",
+      "img": "https://den-cards.pokellector.com/347/Rare-Candy.S10B.66.44137.png",
+      "rarity": "Uncommon",
+      "cardNum": "66/71"
+    },
+    {
+      "name": "Lure Module",
+      "set": "Pokemon GO",
+      "img": "https://den-cards.pokellector.com/347/Lure-Module.S10B.67.43528.png",
+      "rarity": "Uncommon",
+      "cardNum": "67/71"
+    },
+    {
+      "name": "Candela",
+      "set": "Pokemon GO",
+      "img": "https://den-cards.pokellector.com/347/Candela.S10B.68.43529.png",
+      "rarity": "Uncommon",
+      "cardNum": "68/71"
+    },
+    {
+      "name": "Spark",
+      "set": "Pokemon GO",
+      "img": "https://den-cards.pokellector.com/347/Spark.S10B.69.43530.png",
+      "rarity": "Uncommon",
+      "cardNum": "69/71"
+    },
+    {
+      "name": "Blanche",
+      "set": "Pokemon GO",
+      "img": "https://den-cards.pokellector.com/347/Blanche.S10B.70.43531.png",
+      "rarity": "Uncommon",
+      "cardNum": "70/71"
+    },
+    {
+      "name": "Pokestop",
+      "set": "Pokemon GO",
+      "img": "https://den-cards.pokellector.com/347/Pokestop.S10B.71.43527.png",
+      "rarity": "Uncommon",
+      "cardNum": "71/71"
+    },
+    {
+      "name": "Alolan Exeggutor V",
+      "set": "Pokemon GO",
+      "img": "https://den-cards.pokellector.com/347/Alolan-Exeggutor-V.S10B.72.44152.png",
+      "rarity": "Secret Rare",
+      "cardNum": "72/71"
+    },
+    {
+      "name": "Mewtwo V",
+      "set": "Pokemon GO",
+      "img": "https://den-cards.pokellector.com/347/Mewtwo-V.S10B.72.44153.png",
+      "rarity": "Secret Rare",
+      "cardNum": "73/71"
+    },
+    {
+      "name": "Mewtwo V",
+      "set": "Pokemon GO",
+      "img": "https://den-cards.pokellector.com/347/Mewtwo-V.S10B.74.44154.png",
+      "rarity": "Secret Rare",
+      "cardNum": "74/71"
+    },
+    {
+      "name": "Conkeldurr V",
+      "set": "Pokemon GO",
+      "img": "https://den-cards.pokellector.com/347/Conkeldurr-V.S10B.75.44289.png",
+      "rarity": "Secret Rare",
+      "cardNum": "75/71"
+    },
+    {
+      "name": "Conkeldurr V",
+      "set": "Pokemon GO",
+      "img": "https://den-cards.pokellector.com/347/Conkeldurr-V.S10B.76.44147.png",
+      "rarity": "Secret Rare",
+      "cardNum": "76/71"
+    },
+    {
+      "name": "Melmetal V",
+      "set": "Pokemon GO",
+      "img": "https://den-cards.pokellector.com/347/Melmetal-V.S10B.77.44155.png",
+      "rarity": "Secret Rare",
+      "cardNum": "77/71"
+    },
+    {
+      "name": "Dragonite V",
+      "set": "Pokemon GO",
+      "img": "https://den-cards.pokellector.com/347/Dragonite-V.S10B.78.44156.png",
+      "rarity": "Secret Rare",
+      "cardNum": "78/71"
+    },
+    {
+      "name": "Slaking V",
+      "set": "Pokemon GO",
+      "img": "https://den-cards.pokellector.com/347/Slaking-V.S10B.79.44157.png",
+      "rarity": "Secret Rare",
+      "cardNum": "79/71"
+    },
+    {
+      "name": "Candela",
+      "set": "Pokemon GO",
+      "img": "https://den-cards.pokellector.com/347/Candela.S10B.80.43534.png",
+      "rarity": "Secret Rare",
+      "cardNum": "80/71"
+    },
+    {
+      "name": "Spark",
+      "set": "Pokemon GO",
+      "img": "https://den-cards.pokellector.com/347/Spark.S10B.81.43533.png",
+      "rarity": "Secret Rare",
+      "cardNum": "81/71"
+    },
+    {
+      "name": "Professor's Research (Professor Willow)",
+      "set": "Pokemon GO",
+      "img": "https://den-cards.pokellector.com/347/Professors-Research-Professor-Willow.S10B.82.44148.png",
+      "rarity": "Secret Rare",
+      "cardNum": "82/71"
+    },
+    {
+      "name": "Blanche",
+      "set": "Pokemon GO",
+      "img": "https://den-cards.pokellector.com/347/Blanche.S10B.83.43532.png",
+      "rarity": "Secret Rare",
+      "cardNum": "83/71"
+    },
+    {
+      "name": "Mewtwo VSTAR",
+      "set": "Pokemon GO",
+      "img": "https://den-cards.pokellector.com/347/Mewtwo-VSTAR.S10B.84.44158.png",
+      "rarity": "Secret Rare",
+      "cardNum": "84/71"
+    },
+    {
+      "name": "Melmetal VMAX",
+      "set": "Pokemon GO",
+      "img": "https://den-cards.pokellector.com/347/Melmetal-VMAX.S10B.85.44159.png",
+      "rarity": "Secret Rare",
+      "cardNum": "85/71"
+    },
+    {
+      "name": "Dragonite VSTAR",
+      "set": "Pokemon GO",
+      "img": "https://den-cards.pokellector.com/347/Dragonite-VSTAR.S10B.86.44160.png",
+      "rarity": "Secret Rare",
+      "cardNum": "86/71"
+    },
+    {
+      "name": "Candela",
+      "set": "Pokemon GO",
+      "img": "https://den-cards.pokellector.com/347/Candela.S10B.87.44161.png",
+      "rarity": "Secret Rare",
+      "cardNum": "87/71"
+    },
+    {
+      "name": "Spark",
+      "set": "Pokemon GO",
+      "img": "https://den-cards.pokellector.com/347/Spark.S10B.88.44162.png",
+      "rarity": "Secret Rare",
+      "cardNum": "88/71"
+    },
+    {
+      "name": "Professor's Research (Professor Willow)",
+      "set": "Pokemon GO",
+      "img": "https://den-cards.pokellector.com/347/Professors-Research-Professor-Willow.S10B.89.44163.png",
+      "rarity": "Secret Rare",
+      "cardNum": "89/71"
+    },
+    {
+      "name": "Blanche",
+      "set": "Pokemon GO",
+      "img": "https://den-cards.pokellector.com/347/Blanche.S10B.90.44164.png",
+      "rarity": "Secret Rare",
+      "cardNum": "90/71"
+    },
+    {
+      "name": "Mewtwo VSTAR",
+      "set": "Pokemon GO",
+      "img": "https://den-cards.pokellector.com/347/Mewtwo-VSTAR.S10B.91.44165.png",
+      "rarity": "Secret Rare",
+      "cardNum": "91/71"
+    },
+    {
+      "name": "Egg Incubator",
+      "set": "Pokemon GO",
+      "img": "https://den-cards.pokellector.com/347/Egg-Incubator.S10B.92.44166.png",
+      "rarity": "Secret Rare",
+      "cardNum": "92/71"
+    },
+    {
+      "name": "Lure Module",
+      "set": "Pokemon GO",
+      "img": "https://den-cards.pokellector.com/347/Lure-Module.S10B.93.44167.png",
+      "rarity": "Secret Rare",
+      "cardNum": "93/71"
+    },
+    {
+      "name": "Dark Energy",
+      "set": "Pokemon GO",
+      "img": "https://den-cards.pokellector.com/347/Dark-Energy.S10B.DAR0.44144.png",
+      "rarity": "Common",
+      "cardNum": ""
+    },
+    {
+      "name": "Fighting Energy",
+      "set": "Pokemon GO",
+      "img": "https://den-cards.pokellector.com/347/Fighting-Energy.S10B.FIG0.44142.png",
+      "rarity": "Common",
+      "cardNum": ""
+    },
+    {
+      "name": "Fire Energy",
+      "set": "Pokemon GO",
+      "img": "https://den-cards.pokellector.com/347/Fire-Energy.S10B.FIR0.44140.png",
+      "rarity": "Common",
+      "cardNum": ""
+    },
+    {
+      "name": "Grass Energy",
+      "set": "Pokemon GO",
+      "img": "https://den-cards.pokellector.com/347/Grass-Energy.S10B.GRA0.44138.png",
+      "rarity": "Common",
+      "cardNum": ""
+    },
+    {
+      "name": "Lightning Energy",
+      "set": "Pokemon GO",
+      "img": "https://den-cards.pokellector.com/347/Electric-Energy.S10B.LIG0.44141.png",
+      "rarity": "Rare",
+      "cardNum": ""
+    },
+    {
+      "name": "Metal Energy",
+      "set": "Pokemon GO",
+      "img": "https://den-cards.pokellector.com/347/Steel-Energy.S10B.MET0.44145.png",
+      "rarity": "Rare",
+      "cardNum": ""
+    },
+    {
+      "name": "Psychic Energy",
+      "set": "Pokemon GO",
+      "img": "https://den-cards.pokellector.com/347/Psychic-Energy.S10B.PSY0.44143.png",
+      "rarity": "Common",
+      "cardNum": ""
+    },
+    {
+      "name": "Water Energy",
+      "set": "Pokemon GO",
+      "img": "https://den-cards.pokellector.com/347/Water-Energy.S10B.WAT0.44139.png",
+      "rarity": "Common",
+      "cardNum": ""
+    }
+  ]
+}

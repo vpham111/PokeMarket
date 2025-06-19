@@ -1,0 +1,460 @@
+{
+  "setName": "Red Flash",
+  "cards": [
+    {
+      "name": "Paras",
+      "set": "Red Flash",
+      "img": "https://den-cards.pokellector.com/175/Paras.XY8.1.png",
+      "rarity": "Common",
+      "cardNum": "1/59"
+    },
+    {
+      "name": "Parasect",
+      "set": "Red Flash",
+      "img": "https://den-cards.pokellector.com/175/Parasect.XY8.2.png",
+      "rarity": "Uncommon",
+      "cardNum": "2/59"
+    },
+    {
+      "name": "Chespin",
+      "set": "Red Flash",
+      "img": "https://den-cards.pokellector.com/175/Chespin.XY8.3.png",
+      "rarity": "Common",
+      "cardNum": "3/59"
+    },
+    {
+      "name": "Quilladin",
+      "set": "Red Flash",
+      "img": "https://den-cards.pokellector.com/175/Quilladin.XY8.4.png",
+      "rarity": "Common",
+      "cardNum": "4/59"
+    },
+    {
+      "name": "Chesnaught",
+      "set": "Red Flash",
+      "img": "https://den-cards.pokellector.com/175/Chestnaught.XY8.5.png",
+      "rarity": "Rare",
+      "cardNum": "5/59"
+    },
+    {
+      "name": "Chesnaught BREAK",
+      "set": "Red Flash",
+      "img": "https://den-cards.pokellector.com/175/Chesnaught-BREAK.XY8.6.png",
+      "rarity": "Rare",
+      "cardNum": "6/59"
+    },
+    {
+      "name": "Skiddo",
+      "set": "Red Flash",
+      "img": "https://den-cards.pokellector.com/175/Skiddo.XY8.7.png",
+      "rarity": "Common",
+      "cardNum": "7/59"
+    },
+    {
+      "name": "Gogoat",
+      "set": "Red Flash",
+      "img": "https://den-cards.pokellector.com/175/Gogoat.XY8.8.png",
+      "rarity": "Common",
+      "cardNum": "8/59"
+    },
+    {
+      "name": "Houndoom EX",
+      "set": "Red Flash",
+      "img": "https://den-cards.pokellector.com/175/Houndoom-EX.XY8.9.png",
+      "rarity": "Rare",
+      "cardNum": "9/59"
+    },
+    {
+      "name": "M Houndoom EX",
+      "set": "Red Flash",
+      "img": "https://den-cards.pokellector.com/175/M-Houndoom-EX.XY8.10.png",
+      "rarity": "Rare",
+      "cardNum": "10/59"
+    },
+    {
+      "name": "Pansear",
+      "set": "Red Flash",
+      "img": "https://den-cards.pokellector.com/175/Pansear.XY8.11.png",
+      "rarity": "Common",
+      "cardNum": "11/59"
+    },
+    {
+      "name": "Simisear",
+      "set": "Red Flash",
+      "img": "https://den-cards.pokellector.com/175/Simisear.XY8.12.png",
+      "rarity": "Common",
+      "cardNum": "12/59"
+    },
+    {
+      "name": "Goldeen",
+      "set": "Red Flash",
+      "img": "https://den-cards.pokellector.com/175/Goldeen.XY8.13.png",
+      "rarity": "Common",
+      "cardNum": "13/59"
+    },
+    {
+      "name": "Seaking",
+      "set": "Red Flash",
+      "img": "https://den-cards.pokellector.com/175/Seaking.XY8.14.png",
+      "rarity": "Common",
+      "cardNum": "14/59"
+    },
+    {
+      "name": "Staryu",
+      "set": "Red Flash",
+      "img": "https://den-cards.pokellector.com/175/Staryu.XY8.15.png",
+      "rarity": "Common",
+      "cardNum": "15/59"
+    },
+    {
+      "name": "Starmie",
+      "set": "Red Flash",
+      "img": "https://den-cards.pokellector.com/175/Starmie.XY8.16.png",
+      "rarity": "Uncommon",
+      "cardNum": "16/59"
+    },
+    {
+      "name": "Remoraid",
+      "set": "Red Flash",
+      "img": "https://den-cards.pokellector.com/175/Remoraid.XY8.17.png",
+      "rarity": "Common",
+      "cardNum": "17/59"
+    },
+    {
+      "name": "Piplup",
+      "set": "Red Flash",
+      "img": "https://den-cards.pokellector.com/175/Piplup.XY8.18.png",
+      "rarity": "Common",
+      "cardNum": "18/59"
+    },
+    {
+      "name": "Prinplup",
+      "set": "Red Flash",
+      "img": "https://den-cards.pokellector.com/175/Prinplup.XY8.19.png",
+      "rarity": "Common",
+      "cardNum": "19/59"
+    },
+    {
+      "name": "Empoleon",
+      "set": "Red Flash",
+      "img": "https://den-cards.pokellector.com/175/Empoleon.XY8.20.png",
+      "rarity": "Rare",
+      "cardNum": "20/59"
+    },
+    {
+      "name": "Snover",
+      "set": "Red Flash",
+      "img": "https://den-cards.pokellector.com/175/Snover.XY8.21.png",
+      "rarity": "Common",
+      "cardNum": "21/59"
+    },
+    {
+      "name": "Abomasnow",
+      "set": "Red Flash",
+      "img": "https://den-cards.pokellector.com/175/Abomasnow.XY8.22.png",
+      "rarity": "Uncommon",
+      "cardNum": "22/59"
+    },
+    {
+      "name": "Magnemite",
+      "set": "Red Flash",
+      "img": "https://den-cards.pokellector.com/175/Magnemite.XY8.23.png",
+      "rarity": "Common",
+      "cardNum": "23/59"
+    },
+    {
+      "name": "Magneton",
+      "set": "Red Flash",
+      "img": "https://den-cards.pokellector.com/175/Magneton.XY8.24.png",
+      "rarity": "Common",
+      "cardNum": "24/59"
+    },
+    {
+      "name": "Magnezone",
+      "set": "Red Flash",
+      "img": "https://den-cards.pokellector.com/175/Magnezone.XY8.25.png",
+      "rarity": "Rare",
+      "cardNum": "25/59"
+    },
+    {
+      "name": "Raikou",
+      "set": "Red Flash",
+      "img": "https://den-cards.pokellector.com/175/Raikou.XY8.26.png",
+      "rarity": "Rare",
+      "cardNum": "26/59"
+    },
+    {
+      "name": "Mewtwo EX",
+      "set": "Red Flash",
+      "img": "https://den-cards.pokellector.com/175/Mewtwo-EX.XY8.27.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "27/59"
+    },
+    {
+      "name": "M Mewtwo EX",
+      "set": "Red Flash",
+      "img": "https://den-cards.pokellector.com/175/M-Mewtwo-EX.XY8.28.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "28/59"
+    },
+    {
+      "name": "Misdreavus",
+      "set": "Red Flash",
+      "img": "https://den-cards.pokellector.com/175/Misdreavus.XY8.29.png",
+      "rarity": "Common",
+      "cardNum": "29/59"
+    },
+    {
+      "name": "Mismagius",
+      "set": "Red Flash",
+      "img": "https://den-cards.pokellector.com/175/Mismagius.XY8.30.png",
+      "rarity": "Rare",
+      "cardNum": "30/59"
+    },
+    {
+      "name": "Ralts",
+      "set": "Red Flash",
+      "img": "https://den-cards.pokellector.com/175/Ralts.XY8.31.png",
+      "rarity": "Common",
+      "cardNum": "31/59"
+    },
+    {
+      "name": "Kirlia",
+      "set": "Red Flash",
+      "img": "https://den-cards.pokellector.com/175/Kirlia.XY8.32.png",
+      "rarity": "Uncommon",
+      "cardNum": "32/59"
+    },
+    {
+      "name": "Cresselia",
+      "set": "Red Flash",
+      "img": "https://den-cards.pokellector.com/175/Cresselia.XY8.33.png",
+      "rarity": "Common",
+      "cardNum": "33/59"
+    },
+    {
+      "name": "Cubone",
+      "set": "Red Flash",
+      "img": "https://den-cards.pokellector.com/175/Cubone.XY8.34.png",
+      "rarity": "Common",
+      "cardNum": "34/59"
+    },
+    {
+      "name": "Marowak",
+      "set": "Red Flash",
+      "img": "https://den-cards.pokellector.com/175/Marowak.XY8.35.png",
+      "rarity": "Uncommon",
+      "cardNum": "35/59"
+    },
+    {
+      "name": "Marowak BREAK",
+      "set": "Red Flash",
+      "img": "https://den-cards.pokellector.com/175/Marowak-BREAK.XY8.36.png",
+      "rarity": "Rare",
+      "cardNum": "36/59"
+    },
+    {
+      "name": "Swinub",
+      "set": "Red Flash",
+      "img": "https://den-cards.pokellector.com/175/Swinub.XY8.37.png",
+      "rarity": "Common",
+      "cardNum": "37/59"
+    },
+    {
+      "name": "Piloswine",
+      "set": "Red Flash",
+      "img": "https://den-cards.pokellector.com/175/Piloswine.XY8.38.png",
+      "rarity": "Uncommon",
+      "cardNum": "38/59"
+    },
+    {
+      "name": "Mamoswine",
+      "set": "Red Flash",
+      "img": "https://den-cards.pokellector.com/175/Mamoswine.XY8.39.png",
+      "rarity": "Rare",
+      "cardNum": "39/59"
+    },
+    {
+      "name": "Gallade",
+      "set": "Red Flash",
+      "img": "https://den-cards.pokellector.com/175/Gallade.XY8.40.png",
+      "rarity": "Rare",
+      "cardNum": "40/59"
+    },
+    {
+      "name": "Zorua",
+      "set": "Red Flash",
+      "img": "https://den-cards.pokellector.com/175/Zorua.XY8.41.png",
+      "rarity": "Common",
+      "cardNum": "41/59"
+    },
+    {
+      "name": "Yveltal",
+      "set": "Red Flash",
+      "img": "https://den-cards.pokellector.com/175/Yveltal.XY8.42.png",
+      "rarity": "Rare",
+      "cardNum": "42/59"
+    },
+    {
+      "name": "Bronzor",
+      "set": "Red Flash",
+      "img": "https://den-cards.pokellector.com/175/Bronzor.XY8.43.png",
+      "rarity": "Common",
+      "cardNum": "43/59"
+    },
+    {
+      "name": "Bronzong",
+      "set": "Red Flash",
+      "img": "https://den-cards.pokellector.com/175/Bronzong.XY8.44.png",
+      "rarity": "Uncommon",
+      "cardNum": "44/59"
+    },
+    {
+      "name": "Mr Mime",
+      "set": "Red Flash",
+      "img": "https://den-cards.pokellector.com/175/Mr-Mime.XY8.45.png",
+      "rarity": "Common",
+      "cardNum": "45/59"
+    },
+    {
+      "name": "Spritzee",
+      "set": "Red Flash",
+      "img": "https://den-cards.pokellector.com/175/Spritzee.XY8.46.png",
+      "rarity": "Common",
+      "cardNum": "46/59"
+    },
+    {
+      "name": "Aromatisse",
+      "set": "Red Flash",
+      "img": "https://den-cards.pokellector.com/175/Aromatisse.XY8.47.png",
+      "rarity": "Uncommon",
+      "cardNum": "47/59"
+    },
+    {
+      "name": "Axew",
+      "set": "Red Flash",
+      "img": "https://den-cards.pokellector.com/175/Axew.XY8.48.png",
+      "rarity": "Common",
+      "cardNum": "48/59"
+    },
+    {
+      "name": "Doduo",
+      "set": "Red Flash",
+      "img": "https://den-cards.pokellector.com/175/Doduo.XY8.49.png",
+      "rarity": "Common",
+      "cardNum": "49/59"
+    },
+    {
+      "name": "Dodrio",
+      "set": "Red Flash",
+      "img": "https://den-cards.pokellector.com/175/Dodrio.XY8.50.png",
+      "rarity": "Uncommon",
+      "cardNum": "50/59"
+    },
+    {
+      "name": "Starly",
+      "set": "Red Flash",
+      "img": "https://den-cards.pokellector.com/175/Starly.XY8.51.png",
+      "rarity": "Common",
+      "cardNum": "51/59"
+    },
+    {
+      "name": "Staravia",
+      "set": "Red Flash",
+      "img": "https://den-cards.pokellector.com/175/Staravia.XY8.52.png",
+      "rarity": "Common",
+      "cardNum": "52/59"
+    },
+    {
+      "name": "Staraptor",
+      "set": "Red Flash",
+      "img": "https://den-cards.pokellector.com/175/Staraptor.XY8.53.png",
+      "rarity": "Uncommon",
+      "cardNum": "53/59"
+    },
+    {
+      "name": "Heavy Ball",
+      "set": "Red Flash",
+      "img": "https://den-cards.pokellector.com/175/Heavy-Ball.XY8.54.png",
+      "rarity": "Uncommon",
+      "cardNum": "54/59"
+    },
+    {
+      "name": "Assault Vest",
+      "set": "Red Flash",
+      "img": "https://den-cards.pokellector.com/175/Assault-Vest.XY8.55.png",
+      "rarity": "Uncommon",
+      "cardNum": "55/59"
+    },
+    {
+      "name": "Houndoom Spirit Link",
+      "set": "Red Flash",
+      "img": "https://den-cards.pokellector.com/175/Houndoom-Spirit-Link.XY8.56.png",
+      "rarity": "Uncommon",
+      "cardNum": "56/59"
+    },
+    {
+      "name": "Mewtwo Spirit Link",
+      "set": "Red Flash",
+      "img": "https://den-cards.pokellector.com/175/Mewtwo-Spirit-Link.XY8.57.png",
+      "rarity": "Uncommon",
+      "cardNum": "57/59"
+    },
+    {
+      "name": "Giovanni's Plan",
+      "set": "Red Flash",
+      "img": "https://den-cards.pokellector.com/175/Giovannis-Plan.XY8.58.png",
+      "rarity": "Uncommon",
+      "cardNum": "58/59"
+    },
+    {
+      "name": "Burning Energy",
+      "set": "Red Flash",
+      "img": "https://den-cards.pokellector.com/175/Burning-Energy.XY8.59.png",
+      "rarity": "Uncommon",
+      "cardNum": "59/59"
+    },
+    {
+      "name": "Houndoom EX",
+      "set": "Red Flash",
+      "img": "https://den-cards.pokellector.com/175/Houndoom-EX.XY8.60.png",
+      "rarity": "Secret Rare",
+      "cardNum": "60/59"
+    },
+    {
+      "name": "M Houndoom EX",
+      "set": "Red Flash",
+      "img": "https://den-cards.pokellector.com/175/M-Houndoom-EX.XY8.61.png",
+      "rarity": "Secret Rare",
+      "cardNum": "61/59"
+    },
+    {
+      "name": "Mewtwo EX",
+      "set": "Red Flash",
+      "img": "https://den-cards.pokellector.com/175/Mewtwo-EX.XY8.62.png",
+      "rarity": "Secret Rare",
+      "cardNum": "62/59"
+    },
+    {
+      "name": "M Mewtwo EX",
+      "set": "Red Flash",
+      "img": "https://den-cards.pokellector.com/175/M-Mewtwo-EX.XY8.63.png",
+      "rarity": "Secret Rare",
+      "cardNum": "63/59"
+    },
+    {
+      "name": "Giovanni's Plan",
+      "set": "Red Flash",
+      "img": "https://den-cards.pokellector.com/175/Giovannis-Plan.XY8.64.png",
+      "rarity": "Secret Rare",
+      "cardNum": "64/59"
+    },
+    {
+      "name": "Mewtwo EX",
+      "set": "Red Flash",
+      "img": "https://den-cards.pokellector.com/175/Mewtwo-EX.XY8.65.png",
+      "rarity": "Common",
+      "cardNum": "65/59"
+    }
+  ]
+}

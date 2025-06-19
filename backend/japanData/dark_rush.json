@@ -1,0 +1,537 @@
+{
+  "setName": "Dark Rush",
+  "cards": [
+    {
+      "name": "Bulbasaur",
+      "set": "Dark Rush",
+      "img": "https://den-cards.pokellector.com/20/Bulbasaur.BW4.1.png",
+      "rarity": "Common",
+      "cardNum": "1/69"
+    },
+    {
+      "name": "Ivysaur",
+      "set": "Dark Rush",
+      "img": "https://den-cards.pokellector.com/20/Ivysaur.BW4.2.png",
+      "rarity": "Common",
+      "cardNum": "2/69"
+    },
+    {
+      "name": "Venusaur",
+      "set": "Dark Rush",
+      "img": "https://den-cards.pokellector.com/20/Venusaur.BW4.3.png",
+      "rarity": "Rare",
+      "cardNum": "3/69"
+    },
+    {
+      "name": "Carnivine",
+      "set": "Dark Rush",
+      "img": "https://den-cards.pokellector.com/20/Carnivine.BW4.4.png",
+      "rarity": "Uncommon",
+      "cardNum": "4/69"
+    },
+    {
+      "name": "Karrablast",
+      "set": "Dark Rush",
+      "img": "https://den-cards.pokellector.com/20/Karrablast.BW4.5.png",
+      "rarity": "Common",
+      "cardNum": "5/69"
+    },
+    {
+      "name": "Shelmet",
+      "set": "Dark Rush",
+      "img": "https://den-cards.pokellector.com/20/Shelmet.BW4.6.png",
+      "rarity": "Common",
+      "cardNum": "6/69"
+    },
+    {
+      "name": "Accelgor",
+      "set": "Dark Rush",
+      "img": "https://den-cards.pokellector.com/20/Accelgor.BW4.7.png",
+      "rarity": "Uncommon",
+      "cardNum": "7/69"
+    },
+    {
+      "name": "Flareon",
+      "set": "Dark Rush",
+      "img": "https://den-cards.pokellector.com/20/Flareon.BW4.8.png",
+      "rarity": "Common",
+      "cardNum": "8/69"
+    },
+    {
+      "name": "Entei EX",
+      "set": "Dark Rush",
+      "img": "https://den-cards.pokellector.com/20/Entei-EX.BW4.9.png",
+      "rarity": "Rare",
+      "cardNum": "9/69"
+    },
+    {
+      "name": "Torchic",
+      "set": "Dark Rush",
+      "img": "https://den-cards.pokellector.com/20/Torchic.BW4.10.png",
+      "rarity": "Common",
+      "cardNum": "10/69"
+    },
+    {
+      "name": "Combusken",
+      "set": "Dark Rush",
+      "img": "https://den-cards.pokellector.com/20/Combusken.BW4.11.png",
+      "rarity": "Common",
+      "cardNum": "11/69"
+    },
+    {
+      "name": "Blaziken",
+      "set": "Dark Rush",
+      "img": "https://den-cards.pokellector.com/20/Blaziken.BW4.12.png",
+      "rarity": "Rare",
+      "cardNum": "12/69"
+    },
+    {
+      "name": "Heatmor",
+      "set": "Dark Rush",
+      "img": "https://den-cards.pokellector.com/20/Heatmor.BW4.13.png",
+      "rarity": "Uncommon",
+      "cardNum": "13/69"
+    },
+    {
+      "name": "Larvesta",
+      "set": "Dark Rush",
+      "img": "https://den-cards.pokellector.com/20/Larvesta.BW4.14.png",
+      "rarity": "Common",
+      "cardNum": "14/69"
+    },
+    {
+      "name": "Volcarona",
+      "set": "Dark Rush",
+      "img": "https://den-cards.pokellector.com/20/Volcarona.BW4.15.png",
+      "rarity": "Rare",
+      "cardNum": "15/69"
+    },
+    {
+      "name": "Slowpoke",
+      "set": "Dark Rush",
+      "img": "https://den-cards.pokellector.com/20/Slowpoke.BW4.16.png",
+      "rarity": "Common",
+      "cardNum": "16/69"
+    },
+    {
+      "name": "Slowbro",
+      "set": "Dark Rush",
+      "img": "https://den-cards.pokellector.com/20/Slowbro.BW4.17.png",
+      "rarity": "Uncommon",
+      "cardNum": "17/69"
+    },
+    {
+      "name": "Vaporeon",
+      "set": "Dark Rush",
+      "img": "https://den-cards.pokellector.com/20/Vaporeon.BW4.18.png",
+      "rarity": "Common",
+      "cardNum": "18/69"
+    },
+    {
+      "name": "Piplup",
+      "set": "Dark Rush",
+      "img": "https://den-cards.pokellector.com/20/Piplup.BW4.19.png",
+      "rarity": "Common",
+      "cardNum": "19/69"
+    },
+    {
+      "name": "Prinplup",
+      "set": "Dark Rush",
+      "img": "https://den-cards.pokellector.com/20/Prinplup.BW4.20.png",
+      "rarity": "Common",
+      "cardNum": "20/69"
+    },
+    {
+      "name": "Empoleon",
+      "set": "Dark Rush",
+      "img": "https://den-cards.pokellector.com/20/Empoleon.BW4.21.png",
+      "rarity": "Rare",
+      "cardNum": "21/69"
+    },
+    {
+      "name": "Ducklett",
+      "set": "Dark Rush",
+      "img": "https://den-cards.pokellector.com/20/Ducklett.BW4.22.png",
+      "rarity": "Common",
+      "cardNum": "22/69"
+    },
+    {
+      "name": "Swanna",
+      "set": "Dark Rush",
+      "img": "https://den-cards.pokellector.com/20/Swanna.BW4.23.png",
+      "rarity": "Uncommon",
+      "cardNum": "23/69"
+    },
+    {
+      "name": "Jolteon",
+      "set": "Dark Rush",
+      "img": "https://den-cards.pokellector.com/20/Jolteon.BW4.24.png",
+      "rarity": "Common",
+      "cardNum": "24/69"
+    },
+    {
+      "name": "Raikou EX",
+      "set": "Dark Rush",
+      "img": "https://den-cards.pokellector.com/20/Raikou-EX.BW4.25.png",
+      "rarity": "Rare",
+      "cardNum": "25/69"
+    },
+    {
+      "name": "Plusle",
+      "set": "Dark Rush",
+      "img": "https://den-cards.pokellector.com/20/Plusle.BW4.26.png",
+      "rarity": "Common",
+      "cardNum": "26/69"
+    },
+    {
+      "name": "Minun",
+      "set": "Dark Rush",
+      "img": "https://den-cards.pokellector.com/20/Minun.BW4.27.png",
+      "rarity": "Common",
+      "cardNum": "27/69"
+    },
+    {
+      "name": "Joltik",
+      "set": "Dark Rush",
+      "img": "https://den-cards.pokellector.com/20/Joltik.BW4.28.png",
+      "rarity": "Common",
+      "cardNum": "28/69"
+    },
+    {
+      "name": "Galvantula",
+      "set": "Dark Rush",
+      "img": "https://den-cards.pokellector.com/20/Galvantula.BW4.29.png",
+      "rarity": "Uncommon",
+      "cardNum": "29/69"
+    },
+    {
+      "name": "Tynamo",
+      "set": "Dark Rush",
+      "img": "https://den-cards.pokellector.com/20/Tynamo.BW4.30.png",
+      "rarity": "Common",
+      "cardNum": "30/69"
+    },
+    {
+      "name": "Eelektrik",
+      "set": "Dark Rush",
+      "img": "https://den-cards.pokellector.com/20/Eelektrik.BW4.31.png",
+      "rarity": "Common",
+      "cardNum": "31/69"
+    },
+    {
+      "name": "Eelektross",
+      "set": "Dark Rush",
+      "img": "https://den-cards.pokellector.com/20/Eelektross.BW4.32.png",
+      "rarity": "Rare",
+      "cardNum": "32/69"
+    },
+    {
+      "name": "Espeon",
+      "set": "Dark Rush",
+      "img": "https://den-cards.pokellector.com/20/Espeon.BW4.33.png",
+      "rarity": "Uncommon",
+      "cardNum": "33/69"
+    },
+    {
+      "name": "Slowking",
+      "set": "Dark Rush",
+      "img": "https://den-cards.pokellector.com/20/Slowking.BW4.34.png",
+      "rarity": "Uncommon",
+      "cardNum": "34/69"
+    },
+    {
+      "name": "Woobat",
+      "set": "Dark Rush",
+      "img": "https://den-cards.pokellector.com/20/Woobat.BW4.35.png",
+      "rarity": "Common",
+      "cardNum": "35/69"
+    },
+    {
+      "name": "Swoobat",
+      "set": "Dark Rush",
+      "img": "https://den-cards.pokellector.com/20/Swoobat.BW4.36.png",
+      "rarity": "Common",
+      "cardNum": "36/69"
+    },
+    {
+      "name": "Yamask",
+      "set": "Dark Rush",
+      "img": "https://den-cards.pokellector.com/20/Yamask.BW4.37.png",
+      "rarity": "Common",
+      "cardNum": "37/69"
+    },
+    {
+      "name": "Cofagrigus",
+      "set": "Dark Rush",
+      "img": "https://den-cards.pokellector.com/20/Cofagrigus.BW4.38.png",
+      "rarity": "Uncommon",
+      "cardNum": "38/69"
+    },
+    {
+      "name": "Aerodactyl",
+      "set": "Dark Rush",
+      "img": "https://den-cards.pokellector.com/20/Aerodactyl.BW4.39.png",
+      "rarity": "Uncommon",
+      "cardNum": "39/69"
+    },
+    {
+      "name": "Drilbur",
+      "set": "Dark Rush",
+      "img": "https://den-cards.pokellector.com/20/Drilbur.BW4.40.png",
+      "rarity": "Common",
+      "cardNum": "40/69"
+    },
+    {
+      "name": "Excadrill",
+      "set": "Dark Rush",
+      "img": "https://den-cards.pokellector.com/20/Excadrill.BW4.41.png",
+      "rarity": "Uncommon",
+      "cardNum": "41/69"
+    },
+    {
+      "name": "Umbreon",
+      "set": "Dark Rush",
+      "img": "https://den-cards.pokellector.com/20/Umbreon.BW4.42.png",
+      "rarity": "Uncommon",
+      "cardNum": "42/69"
+    },
+    {
+      "name": "Sableye",
+      "set": "Dark Rush",
+      "img": "https://den-cards.pokellector.com/20/Sableye.BW4.43.png",
+      "rarity": "Uncommon",
+      "cardNum": "43/69"
+    },
+    {
+      "name": "Darkrai EX",
+      "set": "Dark Rush",
+      "img": "https://den-cards.pokellector.com/20/Darkrai-EX.BW4.44.png",
+      "rarity": "Rare",
+      "cardNum": "44/69"
+    },
+    {
+      "name": "Sandile",
+      "set": "Dark Rush",
+      "img": "https://den-cards.pokellector.com/20/Sandile.BW4.45.png",
+      "rarity": "Common",
+      "cardNum": "45/69"
+    },
+    {
+      "name": "Krokorok",
+      "set": "Dark Rush",
+      "img": "https://den-cards.pokellector.com/20/Krokorok.BW4.46.png",
+      "rarity": "Uncommon",
+      "cardNum": "46/69"
+    },
+    {
+      "name": "Krookodile",
+      "set": "Dark Rush",
+      "img": "https://den-cards.pokellector.com/20/Krookodile.BW4.47.png",
+      "rarity": "Rare",
+      "cardNum": "47/69"
+    },
+    {
+      "name": "Zorua",
+      "set": "Dark Rush",
+      "img": "https://den-cards.pokellector.com/20/Zorua.BW4.48.png",
+      "rarity": "Common",
+      "cardNum": "48/69"
+    },
+    {
+      "name": "Zoroark",
+      "set": "Dark Rush",
+      "img": "https://den-cards.pokellector.com/20/Zoroark.BW4.49.png",
+      "rarity": "Rare",
+      "cardNum": "49/69"
+    },
+    {
+      "name": "Vullaby",
+      "set": "Dark Rush",
+      "img": "https://den-cards.pokellector.com/20/Vullaby.BW4.50.png",
+      "rarity": "Common",
+      "cardNum": "50/69"
+    },
+    {
+      "name": "Mandibuzz",
+      "set": "Dark Rush",
+      "img": "https://den-cards.pokellector.com/20/Mandibuzz.BW4.51.png",
+      "rarity": "Uncommon",
+      "cardNum": "51/69"
+    },
+    {
+      "name": "Escavalier",
+      "set": "Dark Rush",
+      "img": "https://den-cards.pokellector.com/20/Escavalier.BW4.52.png",
+      "rarity": "Uncommon",
+      "cardNum": "52/69"
+    },
+    {
+      "name": "Klink",
+      "set": "Dark Rush",
+      "img": "https://den-cards.pokellector.com/20/Klink.BW4.53.png",
+      "rarity": "Common",
+      "cardNum": "53/69"
+    },
+    {
+      "name": "Klang",
+      "set": "Dark Rush",
+      "img": "https://den-cards.pokellector.com/20/Klang.BW4.54.png",
+      "rarity": "Common",
+      "cardNum": "54/69"
+    },
+    {
+      "name": "Klinklang",
+      "set": "Dark Rush",
+      "img": "https://den-cards.pokellector.com/20/Klinklang.BW4.55.png",
+      "rarity": "Rare",
+      "cardNum": "55/69"
+    },
+    {
+      "name": "Chansey",
+      "set": "Dark Rush",
+      "img": "https://den-cards.pokellector.com/20/Chansey.BW4.56.png",
+      "rarity": "Common",
+      "cardNum": "56/69"
+    },
+    {
+      "name": "Blissey",
+      "set": "Dark Rush",
+      "img": "https://den-cards.pokellector.com/20/Blissey.BW4.57.png",
+      "rarity": "Rare",
+      "cardNum": "57/69"
+    },
+    {
+      "name": "Eevee",
+      "set": "Dark Rush",
+      "img": "https://den-cards.pokellector.com/20/Eevee.BW4.58.png",
+      "rarity": "Common",
+      "cardNum": "58/69"
+    },
+    {
+      "name": "Lillipup",
+      "set": "Dark Rush",
+      "img": "https://den-cards.pokellector.com/20/Lillipup.BW4.59.png",
+      "rarity": "Common",
+      "cardNum": "59/69"
+    },
+    {
+      "name": "Herdier",
+      "set": "Dark Rush",
+      "img": "https://den-cards.pokellector.com/20/Herdier.BW4.60.png",
+      "rarity": "Common",
+      "cardNum": "60/69"
+    },
+    {
+      "name": "Stoutland",
+      "set": "Dark Rush",
+      "img": "https://den-cards.pokellector.com/20/Stoutland.BW4.61.png",
+      "rarity": "Uncommon",
+      "cardNum": "61/69"
+    },
+    {
+      "name": "Tornadus EX",
+      "set": "Dark Rush",
+      "img": "https://den-cards.pokellector.com/20/Tornadus-EX.BW4.62.png",
+      "rarity": "Rare",
+      "cardNum": "62/69"
+    },
+    {
+      "name": "Enhanced Hammer",
+      "set": "Dark Rush",
+      "img": "https://den-cards.pokellector.com/20/Enhanced-Hammer.BW4.63.png",
+      "rarity": "Uncommon",
+      "cardNum": "63/69"
+    },
+    {
+      "name": "Dark Patch",
+      "set": "Dark Rush",
+      "img": "https://den-cards.pokellector.com/20/Dark-Patch.BW4.64.png",
+      "rarity": "Uncommon",
+      "cardNum": "64/69"
+    },
+    {
+      "name": "Rare Candy",
+      "set": "Dark Rush",
+      "img": "https://den-cards.pokellector.com/20/Rare-Candy.BW4.65.png",
+      "rarity": "Uncommon",
+      "cardNum": "65/69"
+    },
+    {
+      "name": "Old Amber Aerodactyl",
+      "set": "Dark Rush",
+      "img": "https://den-cards.pokellector.com/20/Old-Amber-Aerodactyl.BW4.66.png",
+      "rarity": "Uncommon",
+      "cardNum": "66/69"
+    },
+    {
+      "name": "Dark Claw",
+      "set": "Dark Rush",
+      "img": "https://den-cards.pokellector.com/20/Dark-Claw.BW4.67.png",
+      "rarity": "Uncommon",
+      "cardNum": "67/69"
+    },
+    {
+      "name": "Hooligans Jim & Cas",
+      "set": "Dark Rush",
+      "img": "https://den-cards.pokellector.com/20/Hooligans-Jim-Cas.BW4.68.png",
+      "rarity": "Uncommon",
+      "cardNum": "68/69"
+    },
+    {
+      "name": "Twist Mountain",
+      "set": "Dark Rush",
+      "img": "https://den-cards.pokellector.com/20/Twist-Mountain.BW4.69.png",
+      "rarity": "Uncommon",
+      "cardNum": "69/69"
+    },
+    {
+      "name": "Entei EX",
+      "set": "Dark Rush",
+      "img": "https://den-cards.pokellector.com/20/Entei-EX.BW4.70.png",
+      "rarity": "Secret Rare",
+      "cardNum": "70/69"
+    },
+    {
+      "name": "Raikou EX",
+      "set": "Dark Rush",
+      "img": "https://den-cards.pokellector.com/20/Raikou-EX.BW4.71.png",
+      "rarity": "Secret Rare",
+      "cardNum": "71/69"
+    },
+    {
+      "name": "Darkrai EX",
+      "set": "Dark Rush",
+      "img": "https://den-cards.pokellector.com/20/Darkrai-EX.BW4.72.png",
+      "rarity": "Secret Rare",
+      "cardNum": "72/69"
+    },
+    {
+      "name": "Tornadus EX",
+      "set": "Dark Rush",
+      "img": "https://den-cards.pokellector.com/20/Tornadus-EX.BW4.73.png",
+      "rarity": "Secret Rare",
+      "cardNum": "73/69"
+    },
+    {
+      "name": "Gardevoir",
+      "set": "Dark Rush",
+      "img": "https://den-cards.pokellector.com/20/Gardevoir.BW4.74.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "74/69"
+    },
+    {
+      "name": "Archeops",
+      "set": "Dark Rush",
+      "img": "https://den-cards.pokellector.com/20/Archeops.BW4.75.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "75/69"
+    },
+    {
+      "name": "Pokemon Catcher",
+      "set": "Dark Rush",
+      "img": "https://den-cards.pokellector.com/20/Pokemon-Catcher.BW4.76.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "76/69"
+    }
+  ]
+}

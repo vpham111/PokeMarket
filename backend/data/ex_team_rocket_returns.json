@@ -1,0 +1,782 @@
+{
+  "setName": "EX Team Rocket Returns",
+  "cards": [
+    {
+      "name": "Azumarill",
+      "set": "EX Team Rocket Returns",
+      "img": "https://den-cards.pokellector.com/58/Azumarill.RR.1.png",
+      "rarity": "Rare",
+      "cardNum": "1/109"
+    },
+    {
+      "name": "Dark Ampharos",
+      "set": "EX Team Rocket Returns",
+      "img": "https://den-cards.pokellector.com/58/Dark-Ampharos.RR.2.png",
+      "rarity": "Rare",
+      "cardNum": "2/109"
+    },
+    {
+      "name": "Dark Crobat",
+      "set": "EX Team Rocket Returns",
+      "img": "https://den-cards.pokellector.com/58/Dark-Crobat.RR.3.png",
+      "rarity": "Rare",
+      "cardNum": "3/109"
+    },
+    {
+      "name": "Dark Electrode",
+      "set": "EX Team Rocket Returns",
+      "img": "https://den-cards.pokellector.com/58/Dark-Electrode.RR.4.png",
+      "rarity": "Rare",
+      "cardNum": "4/109"
+    },
+    {
+      "name": "Dark Houndoom",
+      "set": "EX Team Rocket Returns",
+      "img": "https://den-cards.pokellector.com/58/Dark-Houndoom.RR.5.png",
+      "rarity": "Rare",
+      "cardNum": "5/109"
+    },
+    {
+      "name": "Dark Hypno",
+      "set": "EX Team Rocket Returns",
+      "img": "https://den-cards.pokellector.com/58/Dark-Hypno.RR.6.png",
+      "rarity": "Rare",
+      "cardNum": "6/109"
+    },
+    {
+      "name": "Dark Marowak",
+      "set": "EX Team Rocket Returns",
+      "img": "https://den-cards.pokellector.com/58/Dark-Marowak.RR.7.png",
+      "rarity": "Rare",
+      "cardNum": "7/109"
+    },
+    {
+      "name": "Dark Octillery",
+      "set": "EX Team Rocket Returns",
+      "img": "https://den-cards.pokellector.com/58/Dark-Octillery.RR.8.png",
+      "rarity": "Rare",
+      "cardNum": "8/109"
+    },
+    {
+      "name": "Dark Slowking",
+      "set": "EX Team Rocket Returns",
+      "img": "https://den-cards.pokellector.com/58/Dark-Slowking.RR.9.png",
+      "rarity": "Rare",
+      "cardNum": "9/109"
+    },
+    {
+      "name": "Dark Steelix",
+      "set": "EX Team Rocket Returns",
+      "img": "https://den-cards.pokellector.com/58/Dark-Steelix.RR.10.png",
+      "rarity": "Rare",
+      "cardNum": "10/109"
+    },
+    {
+      "name": "Jumpluff",
+      "set": "EX Team Rocket Returns",
+      "img": "https://den-cards.pokellector.com/58/Jumpluff.RR.11.png",
+      "rarity": "Rare",
+      "cardNum": "11/109"
+    },
+    {
+      "name": "Kingdra",
+      "set": "EX Team Rocket Returns",
+      "img": "https://den-cards.pokellector.com/58/Kingdra.RR.12.png",
+      "rarity": "Rare",
+      "cardNum": "12/109"
+    },
+    {
+      "name": "Piloswine",
+      "set": "EX Team Rocket Returns",
+      "img": "https://den-cards.pokellector.com/58/Piloswine.RR.13.png",
+      "rarity": "Rare",
+      "cardNum": "13/109"
+    },
+    {
+      "name": "Togetic",
+      "set": "EX Team Rocket Returns",
+      "img": "https://den-cards.pokellector.com/58/Togetic.RR.14.png",
+      "rarity": "Rare",
+      "cardNum": "14/109"
+    },
+    {
+      "name": "Dark Dragonite",
+      "set": "EX Team Rocket Returns",
+      "img": "https://den-cards.pokellector.com/58/Dark-Dragonite.RR.15.png",
+      "rarity": "Rare",
+      "cardNum": "15/109"
+    },
+    {
+      "name": "Dark Muk",
+      "set": "EX Team Rocket Returns",
+      "img": "https://den-cards.pokellector.com/58/Dark-Muk.RR.16.png",
+      "rarity": "Rare",
+      "cardNum": "16/109"
+    },
+    {
+      "name": "Dark Raticate",
+      "set": "EX Team Rocket Returns",
+      "img": "https://den-cards.pokellector.com/58/Dark-Raticate.RR.17.png",
+      "rarity": "Rare",
+      "cardNum": "17/109"
+    },
+    {
+      "name": "Dark Sandslash",
+      "set": "EX Team Rocket Returns",
+      "img": "https://den-cards.pokellector.com/58/Dark-Sandslash.RR.18.png",
+      "rarity": "Rare",
+      "cardNum": "18/109"
+    },
+    {
+      "name": "Dark Tyranitar",
+      "set": "EX Team Rocket Returns",
+      "img": "https://den-cards.pokellector.com/58/Dark-Tyranitar.RR.19.png",
+      "rarity": "Rare",
+      "cardNum": "19/109"
+    },
+    {
+      "name": "Dark Tyranitar",
+      "set": "EX Team Rocket Returns",
+      "img": "https://den-cards.pokellector.com/58/Dark-Tyranitar.RR.20.png",
+      "rarity": "Rare",
+      "cardNum": "20/109"
+    },
+    {
+      "name": "Delibird",
+      "set": "EX Team Rocket Returns",
+      "img": "https://den-cards.pokellector.com/58/Delibird.RR.21.png",
+      "rarity": "Rare",
+      "cardNum": "21/109"
+    },
+    {
+      "name": "Furret",
+      "set": "EX Team Rocket Returns",
+      "img": "https://den-cards.pokellector.com/58/Furret.RR.22.png",
+      "rarity": "Rare",
+      "cardNum": "22/109"
+    },
+    {
+      "name": "Ledian",
+      "set": "EX Team Rocket Returns",
+      "img": "https://den-cards.pokellector.com/58/Ledian.RR.23.png",
+      "rarity": "Rare",
+      "cardNum": "23/109"
+    },
+    {
+      "name": "Magby",
+      "set": "EX Team Rocket Returns",
+      "img": "https://den-cards.pokellector.com/58/Magby.RR.24.png",
+      "rarity": "Rare",
+      "cardNum": "24/109"
+    },
+    {
+      "name": "Misdreavus",
+      "set": "EX Team Rocket Returns",
+      "img": "https://den-cards.pokellector.com/58/Misdreavus.RR.25.png",
+      "rarity": "Rare",
+      "cardNum": "25/109"
+    },
+    {
+      "name": "Quagsire",
+      "set": "EX Team Rocket Returns",
+      "img": "https://den-cards.pokellector.com/58/Quagsire.RR.26.png",
+      "rarity": "Rare",
+      "cardNum": "26/109"
+    },
+    {
+      "name": "Qwilfish",
+      "set": "EX Team Rocket Returns",
+      "img": "https://den-cards.pokellector.com/58/Qwilfish.RR.27.png",
+      "rarity": "Rare",
+      "cardNum": "27/109"
+    },
+    {
+      "name": "Yanma",
+      "set": "EX Team Rocket Returns",
+      "img": "https://den-cards.pokellector.com/58/Yanma.RR.28.png",
+      "rarity": "Rare",
+      "cardNum": "28/109"
+    },
+    {
+      "name": "Dark Arbok",
+      "set": "EX Team Rocket Returns",
+      "img": "https://den-cards.pokellector.com/58/Dark-Arbok.RR.29.png",
+      "rarity": "Uncommon",
+      "cardNum": "29/109"
+    },
+    {
+      "name": "Dark Ariados",
+      "set": "EX Team Rocket Returns",
+      "img": "https://den-cards.pokellector.com/58/Dark-Ariados.RR.30.png",
+      "rarity": "Uncommon",
+      "cardNum": "30/109"
+    },
+    {
+      "name": "Dark Dragonair",
+      "set": "EX Team Rocket Returns",
+      "img": "https://den-cards.pokellector.com/58/Dark-Dragonair.RR.31.png",
+      "rarity": "Uncommon",
+      "cardNum": "31/109"
+    },
+    {
+      "name": "Dark Dragonair",
+      "set": "EX Team Rocket Returns",
+      "img": "https://den-cards.pokellector.com/58/Dark-Dragonair.RR.32.png",
+      "rarity": "Uncommon",
+      "cardNum": "32/109"
+    },
+    {
+      "name": "Dark Flaaffy",
+      "set": "EX Team Rocket Returns",
+      "img": "https://den-cards.pokellector.com/58/Dark-Flaaffy.RR.33.png",
+      "rarity": "Uncommon",
+      "cardNum": "33/109"
+    },
+    {
+      "name": "Dark Golbat",
+      "set": "EX Team Rocket Returns",
+      "img": "https://den-cards.pokellector.com/58/Dark-Golbat.RR.34.png",
+      "rarity": "Uncommon",
+      "cardNum": "34/109"
+    },
+    {
+      "name": "Dark Golduck",
+      "set": "EX Team Rocket Returns",
+      "img": "https://den-cards.pokellector.com/58/Dark-Golduck.RR.35.png",
+      "rarity": "Uncommon",
+      "cardNum": "35/109"
+    },
+    {
+      "name": "Dark Gyarados",
+      "set": "EX Team Rocket Returns",
+      "img": "https://den-cards.pokellector.com/58/Dark-Gyarados.RR.36.png",
+      "rarity": "Uncommon",
+      "cardNum": "36/109"
+    },
+    {
+      "name": "Dark Houndoom",
+      "set": "EX Team Rocket Returns",
+      "img": "https://den-cards.pokellector.com/58/Dark-Houndoom.RR.37.png",
+      "rarity": "Uncommon",
+      "cardNum": "37/109"
+    },
+    {
+      "name": "Dark Magcargo",
+      "set": "EX Team Rocket Returns",
+      "img": "https://den-cards.pokellector.com/58/Dark-Magcargo.RR.38.png",
+      "rarity": "Uncommon",
+      "cardNum": "38/109"
+    },
+    {
+      "name": "Dark Magneton",
+      "set": "EX Team Rocket Returns",
+      "img": "https://den-cards.pokellector.com/58/Dark-Magneton.RR.39.png",
+      "rarity": "Uncommon",
+      "cardNum": "39/109"
+    },
+    {
+      "name": "Dark Pupitar",
+      "set": "EX Team Rocket Returns",
+      "img": "https://den-cards.pokellector.com/58/Dark-Pupitar.RR.40.png",
+      "rarity": "Uncommon",
+      "cardNum": "40/109"
+    },
+    {
+      "name": "Dark Pupitar",
+      "set": "EX Team Rocket Returns",
+      "img": "https://den-cards.pokellector.com/58/Dark-Pupitar.RR.41.png",
+      "rarity": "Uncommon",
+      "cardNum": "41/109"
+    },
+    {
+      "name": "Dark Weezing",
+      "set": "EX Team Rocket Returns",
+      "img": "https://den-cards.pokellector.com/58/Dark-Weezing.RR.42.png",
+      "rarity": "Uncommon",
+      "cardNum": "42/109"
+    },
+    {
+      "name": "Heracross",
+      "set": "EX Team Rocket Returns",
+      "img": "https://den-cards.pokellector.com/58/Heracross.RR.43.png",
+      "rarity": "Uncommon",
+      "cardNum": "43/109"
+    },
+    {
+      "name": "Magmar",
+      "set": "EX Team Rocket Returns",
+      "img": "https://den-cards.pokellector.com/58/Magmar.RR.44.png",
+      "rarity": "Uncommon",
+      "cardNum": "44/109"
+    },
+    {
+      "name": "Mantine",
+      "set": "EX Team Rocket Returns",
+      "img": "https://den-cards.pokellector.com/58/Mantine.RR.45.png",
+      "rarity": "Uncommon",
+      "cardNum": "45/109"
+    },
+    {
+      "name": "Rocket's Meowth",
+      "set": "EX Team Rocket Returns",
+      "img": "https://den-cards.pokellector.com/58/Rockets-Meowth.RR.46.png",
+      "rarity": "Uncommon",
+      "cardNum": "46/109"
+    },
+    {
+      "name": "Rocket's Wobbuffet",
+      "set": "EX Team Rocket Returns",
+      "img": "https://den-cards.pokellector.com/58/Rockets-Wobbuffet.RR.47.png",
+      "rarity": "Uncommon",
+      "cardNum": "47/109"
+    },
+    {
+      "name": "Seadra",
+      "set": "EX Team Rocket Returns",
+      "img": "https://den-cards.pokellector.com/58/Seadra.RR.48.png",
+      "rarity": "Uncommon",
+      "cardNum": "48/109"
+    },
+    {
+      "name": "Skiploom",
+      "set": "EX Team Rocket Returns",
+      "img": "https://den-cards.pokellector.com/58/Skiploom.RR.49.png",
+      "rarity": "Uncommon",
+      "cardNum": "49/109"
+    },
+    {
+      "name": "Togepi",
+      "set": "EX Team Rocket Returns",
+      "img": "https://den-cards.pokellector.com/58/Togepi.RR.50.png",
+      "rarity": "Uncommon",
+      "cardNum": "50/109"
+    },
+    {
+      "name": "Cubone",
+      "set": "EX Team Rocket Returns",
+      "img": "https://den-cards.pokellector.com/58/Cubone.RR.51.png",
+      "rarity": "Common",
+      "cardNum": "51/109"
+    },
+    {
+      "name": "Dratini",
+      "set": "EX Team Rocket Returns",
+      "img": "https://den-cards.pokellector.com/58/Dratini.RR.52.png",
+      "rarity": "Common",
+      "cardNum": "52/109"
+    },
+    {
+      "name": "Dratini",
+      "set": "EX Team Rocket Returns",
+      "img": "https://den-cards.pokellector.com/58/Dratini.RR.53.png",
+      "rarity": "Common",
+      "cardNum": "53/109"
+    },
+    {
+      "name": "Drowzee",
+      "set": "EX Team Rocket Returns",
+      "img": "https://den-cards.pokellector.com/58/Drowzee.RR.54.png",
+      "rarity": "Common",
+      "cardNum": "54/109"
+    },
+    {
+      "name": "Ekans",
+      "set": "EX Team Rocket Returns",
+      "img": "https://den-cards.pokellector.com/58/Ekans.RR.55.png",
+      "rarity": "Common",
+      "cardNum": "55/109"
+    },
+    {
+      "name": "Grimer",
+      "set": "EX Team Rocket Returns",
+      "img": "https://den-cards.pokellector.com/58/Grimer.RR.56.png",
+      "rarity": "Common",
+      "cardNum": "56/109"
+    },
+    {
+      "name": "Hoppip",
+      "set": "EX Team Rocket Returns",
+      "img": "https://den-cards.pokellector.com/58/Hoppip.RR.57.png",
+      "rarity": "Common",
+      "cardNum": "57/109"
+    },
+    {
+      "name": "Horsea",
+      "set": "EX Team Rocket Returns",
+      "img": "https://den-cards.pokellector.com/58/Horsea.RR.58.png",
+      "rarity": "Common",
+      "cardNum": "58/109"
+    },
+    {
+      "name": "Houndour",
+      "set": "EX Team Rocket Returns",
+      "img": "https://den-cards.pokellector.com/58/Houndour.RR.59.png",
+      "rarity": "Common",
+      "cardNum": "59/109"
+    },
+    {
+      "name": "Houndour",
+      "set": "EX Team Rocket Returns",
+      "img": "https://den-cards.pokellector.com/58/Houndour.RR.60.png",
+      "rarity": "Common",
+      "cardNum": "60/109"
+    },
+    {
+      "name": "Koffing",
+      "set": "EX Team Rocket Returns",
+      "img": "https://den-cards.pokellector.com/58/Koffing.RR.61.png",
+      "rarity": "Common",
+      "cardNum": "61/109"
+    },
+    {
+      "name": "Larvitar",
+      "set": "EX Team Rocket Returns",
+      "img": "https://den-cards.pokellector.com/58/Larvitar.RR.62.png",
+      "rarity": "Common",
+      "cardNum": "62/109"
+    },
+    {
+      "name": "Larvitar",
+      "set": "EX Team Rocket Returns",
+      "img": "https://den-cards.pokellector.com/58/Larvitar.RR.63.png",
+      "rarity": "Common",
+      "cardNum": "63/109"
+    },
+    {
+      "name": "Ledyba",
+      "set": "EX Team Rocket Returns",
+      "img": "https://den-cards.pokellector.com/58/Ledyba.RR.64.png",
+      "rarity": "Common",
+      "cardNum": "64/109"
+    },
+    {
+      "name": "Magikarp",
+      "set": "EX Team Rocket Returns",
+      "img": "https://den-cards.pokellector.com/58/Magikarp.RR.65.png",
+      "rarity": "Common",
+      "cardNum": "65/109"
+    },
+    {
+      "name": "Magnemite",
+      "set": "EX Team Rocket Returns",
+      "img": "https://den-cards.pokellector.com/58/Magnemite.RR.66.png",
+      "rarity": "Common",
+      "cardNum": "66/109"
+    },
+    {
+      "name": "Mareep",
+      "set": "EX Team Rocket Returns",
+      "img": "https://den-cards.pokellector.com/58/Mareep.RR.67.png",
+      "rarity": "Common",
+      "cardNum": "67/109"
+    },
+    {
+      "name": "Marill",
+      "set": "EX Team Rocket Returns",
+      "img": "https://den-cards.pokellector.com/58/Marill.RR.68.png",
+      "rarity": "Common",
+      "cardNum": "68/109"
+    },
+    {
+      "name": "Onix",
+      "set": "EX Team Rocket Returns",
+      "img": "https://den-cards.pokellector.com/58/Onix.RR.69.png",
+      "rarity": "Common",
+      "cardNum": "69/109"
+    },
+    {
+      "name": "Psyduck",
+      "set": "EX Team Rocket Returns",
+      "img": "https://den-cards.pokellector.com/58/Psyduck.RR.70.png",
+      "rarity": "Common",
+      "cardNum": "70/109"
+    },
+    {
+      "name": "Rattata",
+      "set": "EX Team Rocket Returns",
+      "img": "https://den-cards.pokellector.com/58/Rattata.RR.71.png",
+      "rarity": "Common",
+      "cardNum": "71/109"
+    },
+    {
+      "name": "Rattata",
+      "set": "EX Team Rocket Returns",
+      "img": "https://den-cards.pokellector.com/58/Rattata.RR.72.png",
+      "rarity": "Common",
+      "cardNum": "72/109"
+    },
+    {
+      "name": "Remoraid",
+      "set": "EX Team Rocket Returns",
+      "img": "https://den-cards.pokellector.com/58/Remoraid.RR.73.png",
+      "rarity": "Common",
+      "cardNum": "73/109"
+    },
+    {
+      "name": "Sandshrew",
+      "set": "EX Team Rocket Returns",
+      "img": "https://den-cards.pokellector.com/58/Sandshrew.RR.74.png",
+      "rarity": "Common",
+      "cardNum": "74/109"
+    },
+    {
+      "name": "Sentret",
+      "set": "EX Team Rocket Returns",
+      "img": "https://den-cards.pokellector.com/58/Sentret.RR.75.png",
+      "rarity": "Common",
+      "cardNum": "75/109"
+    },
+    {
+      "name": "Slowpoke",
+      "set": "EX Team Rocket Returns",
+      "img": "https://den-cards.pokellector.com/58/Slowpoke.RR.76.png",
+      "rarity": "Common",
+      "cardNum": "76/109"
+    },
+    {
+      "name": "Slugma",
+      "set": "EX Team Rocket Returns",
+      "img": "https://den-cards.pokellector.com/58/Slugma.RR.77.png",
+      "rarity": "Common",
+      "cardNum": "77/109"
+    },
+    {
+      "name": "Spinarak",
+      "set": "EX Team Rocket Returns",
+      "img": "https://den-cards.pokellector.com/58/Spinarak.RR.78.png",
+      "rarity": "Common",
+      "cardNum": "78/109"
+    },
+    {
+      "name": "Swinub",
+      "set": "EX Team Rocket Returns",
+      "img": "https://den-cards.pokellector.com/58/Swinub.RR.79.png",
+      "rarity": "Common",
+      "cardNum": "79/109"
+    },
+    {
+      "name": "Voltorb",
+      "set": "EX Team Rocket Returns",
+      "img": "https://den-cards.pokellector.com/58/Voltorb.RR.80.png",
+      "rarity": "Common",
+      "cardNum": "80/109"
+    },
+    {
+      "name": "Wooper",
+      "set": "EX Team Rocket Returns",
+      "img": "https://den-cards.pokellector.com/58/Wooper.RR.81.png",
+      "rarity": "Common",
+      "cardNum": "81/109"
+    },
+    {
+      "name": "Zubat",
+      "set": "EX Team Rocket Returns",
+      "img": "https://den-cards.pokellector.com/58/Zubat.RR.82.png",
+      "rarity": "Common",
+      "cardNum": "82/109"
+    },
+    {
+      "name": "Copycat",
+      "set": "EX Team Rocket Returns",
+      "img": "https://den-cards.pokellector.com/58/Copycat.RR.83.png",
+      "rarity": "Uncommon",
+      "cardNum": "83/109"
+    },
+    {
+      "name": "Pokemon Retriever",
+      "set": "EX Team Rocket Returns",
+      "img": "https://den-cards.pokellector.com/58/Pokemon-Retriever.RR.84.png",
+      "rarity": "Uncommon",
+      "cardNum": "84/109"
+    },
+    {
+      "name": "Pow! Hand Extension",
+      "set": "EX Team Rocket Returns",
+      "img": "https://den-cards.pokellector.com/58/Pow-Hand-Extension.RR.85.png",
+      "rarity": "Uncommon",
+      "cardNum": "85/109"
+    },
+    {
+      "name": "Rocket's Admin",
+      "set": "EX Team Rocket Returns",
+      "img": "https://den-cards.pokellector.com/58/Rockets-Admin.RR.86.png",
+      "rarity": "Uncommon",
+      "cardNum": "86/109"
+    },
+    {
+      "name": "Rocket's Hideout",
+      "set": "EX Team Rocket Returns",
+      "img": "https://den-cards.pokellector.com/58/Rockets-Hideout.RR.87.png",
+      "rarity": "Uncommon",
+      "cardNum": "87/109"
+    },
+    {
+      "name": "Rocket's Mission",
+      "set": "EX Team Rocket Returns",
+      "img": "https://den-cards.pokellector.com/58/Rockets-Mission.RR.88.png",
+      "rarity": "Uncommon",
+      "cardNum": "88/109"
+    },
+    {
+      "name": "Rocket's Poke Ball",
+      "set": "EX Team Rocket Returns",
+      "img": "https://den-cards.pokellector.com/58/Rockets-Poke-Ball.RR.89.png",
+      "rarity": "Uncommon",
+      "cardNum": "89/109"
+    },
+    {
+      "name": "Rocket's Tricky Gym",
+      "set": "EX Team Rocket Returns",
+      "img": "https://den-cards.pokellector.com/58/Rockets-Tricky-Gym.RR.90.png",
+      "rarity": "Uncommon",
+      "cardNum": "90/109"
+    },
+    {
+      "name": "Surprise! Time Machine",
+      "set": "EX Team Rocket Returns",
+      "img": "https://den-cards.pokellector.com/58/Surprise-Time-Machine.RR.91.png",
+      "rarity": "Uncommon",
+      "cardNum": "91/109"
+    },
+    {
+      "name": "Swoop! Teleporter",
+      "set": "EX Team Rocket Returns",
+      "img": "https://den-cards.pokellector.com/58/Swoop-Teleporter.RR.92.png",
+      "rarity": "Uncommon",
+      "cardNum": "92/109"
+    },
+    {
+      "name": "Venture Bomb",
+      "set": "EX Team Rocket Returns",
+      "img": "https://den-cards.pokellector.com/58/Venture-Bomb.RR.93.png",
+      "rarity": "Uncommon",
+      "cardNum": "93/109"
+    },
+    {
+      "name": "Dark Metal Energy",
+      "set": "EX Team Rocket Returns",
+      "img": "https://den-cards.pokellector.com/58/Dark-Metal-Energy.RR.94.png",
+      "rarity": "Uncommon",
+      "cardNum": "94/109"
+    },
+    {
+      "name": "R Energy",
+      "set": "EX Team Rocket Returns",
+      "img": "https://den-cards.pokellector.com/58/R-Energy.RR.95.png",
+      "rarity": "Uncommon",
+      "cardNum": "95/109"
+    },
+    {
+      "name": "Rocket's Articuno ex",
+      "set": "EX Team Rocket Returns",
+      "img": "https://den-cards.pokellector.com/58/Rockets-Articuno-ex.RR.96.png",
+      "rarity": "Rare",
+      "cardNum": "96/109"
+    },
+    {
+      "name": "Rocket's Entei ex",
+      "set": "EX Team Rocket Returns",
+      "img": "https://den-cards.pokellector.com/58/Rockets-Entei-ex.RR.97.png",
+      "rarity": "Rare",
+      "cardNum": "97/109"
+    },
+    {
+      "name": "Rocket's Hitmonchan ex",
+      "set": "EX Team Rocket Returns",
+      "img": "https://den-cards.pokellector.com/58/Rockets-Hitmonchan-ex.RR.98.png",
+      "rarity": "Rare",
+      "cardNum": "98/109"
+    },
+    {
+      "name": "Rocket's Mewtwo ex",
+      "set": "EX Team Rocket Returns",
+      "img": "https://den-cards.pokellector.com/58/Rockets-Mewtwo-ex.RR.99.png",
+      "rarity": "Rare",
+      "cardNum": "99/109"
+    },
+    {
+      "name": "Rocket's Moltres ex",
+      "set": "EX Team Rocket Returns",
+      "img": "https://den-cards.pokellector.com/58/Rockets-Moltres-ex.RR.100.png",
+      "rarity": "Rare",
+      "cardNum": "100/109"
+    },
+    {
+      "name": "Rocket's Scizor ex",
+      "set": "EX Team Rocket Returns",
+      "img": "https://den-cards.pokellector.com/58/Rockets-Scizor-ex.RR.101.png",
+      "rarity": "Rare",
+      "cardNum": "101/109"
+    },
+    {
+      "name": "Rocket's Scyther ex",
+      "set": "EX Team Rocket Returns",
+      "img": "https://den-cards.pokellector.com/58/Rockets-Scyther-ex.RR.102.png",
+      "rarity": "Rare",
+      "cardNum": "102/109"
+    },
+    {
+      "name": "Rocket's Sneasel ex",
+      "set": "EX Team Rocket Returns",
+      "img": "https://den-cards.pokellector.com/58/Rockets-Sneasel-ex.RR.103.png",
+      "rarity": "Rare",
+      "cardNum": "103/109"
+    },
+    {
+      "name": "Rocket's Snorlax ex",
+      "set": "EX Team Rocket Returns",
+      "img": "https://den-cards.pokellector.com/58/Rockets-Snorlax-ex.RR.104.png",
+      "rarity": "Rare",
+      "cardNum": "104/109"
+    },
+    {
+      "name": "Rocket's Suicune ex",
+      "set": "EX Team Rocket Returns",
+      "img": "https://den-cards.pokellector.com/58/Rockets-Suicune-ex.RR.105.png",
+      "rarity": "Rare",
+      "cardNum": "105/109"
+    },
+    {
+      "name": "Rocket's Zapdos ex",
+      "set": "EX Team Rocket Returns",
+      "img": "https://den-cards.pokellector.com/58/Rockets-Zapdos-ex.RR.106.png",
+      "rarity": "Rare",
+      "cardNum": "106/109"
+    },
+    {
+      "name": "Mudkip *",
+      "set": "EX Team Rocket Returns",
+      "img": "https://den-cards.pokellector.com/58/Mudkip-.RR.107.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "107/109"
+    },
+    {
+      "name": "Torchic *",
+      "set": "EX Team Rocket Returns",
+      "img": "https://den-cards.pokellector.com/58/Torchic-.RR.108.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "108/109"
+    },
+    {
+      "name": "Treecko *",
+      "set": "EX Team Rocket Returns",
+      "img": "https://den-cards.pokellector.com/58/Treecko-.RR.109.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "109/109"
+    },
+    {
+      "name": "Charmeleon",
+      "set": "EX Team Rocket Returns",
+      "img": "https://den-cards.pokellector.com/58/Charmeleon.RR.110.png",
+      "rarity": "Secret Rare",
+      "cardNum": "110/109"
+    },
+    {
+      "name": "Here Comes Team Rocket",
+      "set": "EX Team Rocket Returns",
+      "img": "https://den-cards.pokellector.com/58/Here-Comes-Team-Rocket.RR.111.png",
+      "rarity": "Secret Rare",
+      "cardNum": "111/109"
+    }
+  ]
+}

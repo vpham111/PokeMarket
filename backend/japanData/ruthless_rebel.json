@@ -1,0 +1,418 @@
+{
+  "setName": "Ruthless Rebel",
+  "cards": [
+    {
+      "name": "Tangela",
+      "set": "Ruthless Rebel",
+      "img": "https://den-cards.pokellector.com/193/Tangela.XY11.1.png",
+      "rarity": "Common",
+      "cardNum": "1/54"
+    },
+    {
+      "name": "Tangrowth",
+      "set": "Ruthless Rebel",
+      "img": "https://den-cards.pokellector.com/193/Tangrowth.XY11.2.png",
+      "rarity": "Uncommon",
+      "cardNum": "2/54"
+    },
+    {
+      "name": "Hoppip",
+      "set": "Ruthless Rebel",
+      "img": "https://den-cards.pokellector.com/193/Hoppip.XY11.3.png",
+      "rarity": "Common",
+      "cardNum": "3/54"
+    },
+    {
+      "name": "Skiploom",
+      "set": "Ruthless Rebel",
+      "img": "https://den-cards.pokellector.com/193/Skiploom.XY11.4.png",
+      "rarity": "Common",
+      "cardNum": "4/54"
+    },
+    {
+      "name": "Jumpluff",
+      "set": "Ruthless Rebel",
+      "img": "https://den-cards.pokellector.com/193/Jumpluff.XY11.5.png",
+      "rarity": "Uncommon",
+      "cardNum": "5/54"
+    },
+    {
+      "name": "Yanma",
+      "set": "Ruthless Rebel",
+      "img": "https://den-cards.pokellector.com/193/Yanma.XY11.6.png",
+      "rarity": "Common",
+      "cardNum": "6/54"
+    },
+    {
+      "name": "Yanmega",
+      "set": "Ruthless Rebel",
+      "img": "https://den-cards.pokellector.com/193/Yanmega.XY11.7.png",
+      "rarity": "Uncommon",
+      "cardNum": "7/54"
+    },
+    {
+      "name": "Yanmega BREAK",
+      "set": "Ruthless Rebel",
+      "img": "https://den-cards.pokellector.com/193/Yanmega-BREAK.XY11.8.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "8/54"
+    },
+    {
+      "name": "Larvesta",
+      "set": "Ruthless Rebel",
+      "img": "https://den-cards.pokellector.com/193/Larvesta.XY11.9.png",
+      "rarity": "Common",
+      "cardNum": "9/54"
+    },
+    {
+      "name": "Volcarona",
+      "set": "Ruthless Rebel",
+      "img": "https://den-cards.pokellector.com/193/Volcarona.XY11.10.png",
+      "rarity": "Uncommon",
+      "cardNum": "10/54"
+    },
+    {
+      "name": "Chimchar",
+      "set": "Ruthless Rebel",
+      "img": "https://den-cards.pokellector.com/193/Chimchar.XY11.11.png",
+      "rarity": "Common",
+      "cardNum": "11/54"
+    },
+    {
+      "name": "Monferno",
+      "set": "Ruthless Rebel",
+      "img": "https://den-cards.pokellector.com/193/Monferno.XY11.12.png",
+      "rarity": "Common",
+      "cardNum": "12/54"
+    },
+    {
+      "name": "Infernape",
+      "set": "Ruthless Rebel",
+      "img": "https://den-cards.pokellector.com/193/Infernape.XY11.13.png",
+      "rarity": "Rare",
+      "cardNum": "13/54"
+    },
+    {
+      "name": "Mantine",
+      "set": "Ruthless Rebel",
+      "img": "https://den-cards.pokellector.com/193/Mantine.XY11.14.png",
+      "rarity": "Common",
+      "cardNum": "14/54"
+    },
+    {
+      "name": "Bergmite",
+      "set": "Ruthless Rebel",
+      "img": "https://den-cards.pokellector.com/193/Bergmite.XY11.15.png",
+      "rarity": "Common",
+      "cardNum": "15/54"
+    },
+    {
+      "name": "Avalugg",
+      "set": "Ruthless Rebel",
+      "img": "https://den-cards.pokellector.com/193/Avalugg.XY11.16.png",
+      "rarity": "Uncommon",
+      "cardNum": "16/54"
+    },
+    {
+      "name": "Mareep",
+      "set": "Ruthless Rebel",
+      "img": "https://den-cards.pokellector.com/193/Mareep.XY11.17.png",
+      "rarity": "Common",
+      "cardNum": "17/54"
+    },
+    {
+      "name": "Flaaffy",
+      "set": "Ruthless Rebel",
+      "img": "https://den-cards.pokellector.com/193/Flaaffy.XY11.18.png",
+      "rarity": "Common",
+      "cardNum": "18/54"
+    },
+    {
+      "name": "Ampharos",
+      "set": "Ruthless Rebel",
+      "img": "https://den-cards.pokellector.com/193/Ampharos.XY11.19.png",
+      "rarity": "Rare",
+      "cardNum": "19/54"
+    },
+    {
+      "name": "Nidoran ♂",
+      "set": "Ruthless Rebel",
+      "img": "https://den-cards.pokellector.com/193/Nidoran.XY11.20.png",
+      "rarity": "Common",
+      "cardNum": "20/54"
+    },
+    {
+      "name": "Nidorino",
+      "set": "Ruthless Rebel",
+      "img": "https://den-cards.pokellector.com/193/Nidorino.XY11.21.png",
+      "rarity": "Common",
+      "cardNum": "21/54"
+    },
+    {
+      "name": "Nidoking",
+      "set": "Ruthless Rebel",
+      "img": "https://den-cards.pokellector.com/193/Nidoking.XY11.34.png",
+      "rarity": "Uncommon",
+      "cardNum": "22/54"
+    },
+    {
+      "name": "Hoopa",
+      "set": "Ruthless Rebel",
+      "img": "https://den-cards.pokellector.com/193/Hoopa.XY11.23.png",
+      "rarity": "Rare",
+      "cardNum": "23/54"
+    },
+    {
+      "name": "Mankey",
+      "set": "Ruthless Rebel",
+      "img": "https://den-cards.pokellector.com/193/Mankey.XY11.24.png",
+      "rarity": "Common",
+      "cardNum": "24/54"
+    },
+    {
+      "name": "Primeape",
+      "set": "Ruthless Rebel",
+      "img": "https://den-cards.pokellector.com/193/Primeape.XY11.25.png",
+      "rarity": "Uncommon",
+      "cardNum": "25/54"
+    },
+    {
+      "name": "Anorith",
+      "set": "Ruthless Rebel",
+      "img": "https://den-cards.pokellector.com/193/Anorith.XY11.26.png",
+      "rarity": "Common",
+      "cardNum": "26/54"
+    },
+    {
+      "name": "Armaldo",
+      "set": "Ruthless Rebel",
+      "img": "https://den-cards.pokellector.com/193/Armaldo.XY11.27.png",
+      "rarity": "Uncommon",
+      "cardNum": "27/54"
+    },
+    {
+      "name": "Sneasel",
+      "set": "Ruthless Rebel",
+      "img": "https://den-cards.pokellector.com/193/Sneasel.XY11.28.png",
+      "rarity": "Common",
+      "cardNum": "28/54"
+    },
+    {
+      "name": "Weavile",
+      "set": "Ruthless Rebel",
+      "img": "https://den-cards.pokellector.com/193/Weavile.XY11.29.png",
+      "rarity": "Uncommon",
+      "cardNum": "29/54"
+    },
+    {
+      "name": "Spiritomb",
+      "set": "Ruthless Rebel",
+      "img": "https://den-cards.pokellector.com/193/Spiritomb.XY11.30.png",
+      "rarity": "Common",
+      "cardNum": "30/54"
+    },
+    {
+      "name": "Pawniard",
+      "set": "Ruthless Rebel",
+      "img": "https://den-cards.pokellector.com/193/Pawniard.XY11.31.png",
+      "rarity": "Common",
+      "cardNum": "31/54"
+    },
+    {
+      "name": "Bisharp",
+      "set": "Ruthless Rebel",
+      "img": "https://den-cards.pokellector.com/193/Bisharp.XY11.32.png",
+      "rarity": "Rare",
+      "cardNum": "32/54"
+    },
+    {
+      "name": "Yveltal",
+      "set": "Ruthless Rebel",
+      "img": "https://den-cards.pokellector.com/193/Yveltal.XY11.33.png",
+      "rarity": "Rare",
+      "cardNum": "33/54"
+    },
+    {
+      "name": "Yveltal BREAK",
+      "set": "Ruthless Rebel",
+      "img": "https://den-cards.pokellector.com/193/Yveltal-BREAK.XY11.34.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "34/54"
+    },
+    {
+      "name": "Magearna EX",
+      "set": "Ruthless Rebel",
+      "img": "https://den-cards.pokellector.com/193/Magearna-EX.XY11.35.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "35/54"
+    },
+    {
+      "name": "Marill",
+      "set": "Ruthless Rebel",
+      "img": "https://den-cards.pokellector.com/193/Marill.XY11.36.png",
+      "rarity": "Common",
+      "cardNum": "36/54"
+    },
+    {
+      "name": "Azumarill",
+      "set": "Ruthless Rebel",
+      "img": "https://den-cards.pokellector.com/193/Azumarill.XY11.37.png",
+      "rarity": "Uncommon",
+      "cardNum": "37/54"
+    },
+    {
+      "name": "Gardevoir EX",
+      "set": "Ruthless Rebel",
+      "img": "https://den-cards.pokellector.com/193/Gardevoir-EX.XY11.38.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "38/54"
+    },
+    {
+      "name": "M Gardevoir EX",
+      "set": "Ruthless Rebel",
+      "img": "https://den-cards.pokellector.com/193/M-Gardevoir-EX.XY11.39.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "39/54"
+    },
+    {
+      "name": "Deino",
+      "set": "Ruthless Rebel",
+      "img": "https://den-cards.pokellector.com/193/Deino.XY11.40.png",
+      "rarity": "Common",
+      "cardNum": "40/54"
+    },
+    {
+      "name": "Zweilous",
+      "set": "Ruthless Rebel",
+      "img": "https://den-cards.pokellector.com/193/Zweilous.XY11.41.png",
+      "rarity": "Common",
+      "cardNum": "41/54"
+    },
+    {
+      "name": "Hydreigon",
+      "set": "Ruthless Rebel",
+      "img": "https://den-cards.pokellector.com/193/Hydreigon.XY11.42.png",
+      "rarity": "Rare",
+      "cardNum": "42/54"
+    },
+    {
+      "name": "Hydreigon BREAK",
+      "set": "Ruthless Rebel",
+      "img": "https://den-cards.pokellector.com/193/Hydreigon-BREAK.XY11.43.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "43/54"
+    },
+    {
+      "name": "Meowth",
+      "set": "Ruthless Rebel",
+      "img": "https://den-cards.pokellector.com/193/Meowth.XY11.44.png",
+      "rarity": "Common",
+      "cardNum": "44/54"
+    },
+    {
+      "name": "Persian",
+      "set": "Ruthless Rebel",
+      "img": "https://den-cards.pokellector.com/193/Persian.XY11.45.png",
+      "rarity": "Common",
+      "cardNum": "45/54"
+    },
+    {
+      "name": "Rufflet",
+      "set": "Ruthless Rebel",
+      "img": "https://den-cards.pokellector.com/193/Rufflet.XY11.46.png",
+      "rarity": "Common",
+      "cardNum": "46/54"
+    },
+    {
+      "name": "Braviary",
+      "set": "Ruthless Rebel",
+      "img": "https://den-cards.pokellector.com/193/Braviary.XY11.47.png",
+      "rarity": "Uncommon",
+      "cardNum": "47/54"
+    },
+    {
+      "name": "Hawlucha",
+      "set": "Ruthless Rebel",
+      "img": "https://den-cards.pokellector.com/193/Hawlucha.XY11.48.png",
+      "rarity": "Common",
+      "cardNum": "48/54"
+    },
+    {
+      "name": "Claw Fossil Anorith",
+      "set": "Ruthless Rebel",
+      "img": "https://den-cards.pokellector.com/193/Claw-Fossil-Anorith.XY11.49.png",
+      "rarity": "Common",
+      "cardNum": "49/54"
+    },
+    {
+      "name": "Special Charge",
+      "set": "Ruthless Rebel",
+      "img": "https://den-cards.pokellector.com/193/Special-Charge.XY11.50.png",
+      "rarity": "Uncommon",
+      "cardNum": "50/54"
+    },
+    {
+      "name": "Greedy Die",
+      "set": "Ruthless Rebel",
+      "img": "https://den-cards.pokellector.com/193/Greedy-Die.XY11.51.png",
+      "rarity": "Uncommon",
+      "cardNum": "51/54"
+    },
+    {
+      "name": "Gardevoir Spirit Link",
+      "set": "Ruthless Rebel",
+      "img": "https://den-cards.pokellector.com/193/Gardevoir-Spirit-Link.XY11.52.png",
+      "rarity": "Uncommon",
+      "cardNum": "52/54"
+    },
+    {
+      "name": "Ninja Boy",
+      "set": "Ruthless Rebel",
+      "img": "https://den-cards.pokellector.com/193/Ninja-Boy.XY11.53.png",
+      "rarity": "Uncommon",
+      "cardNum": "53/54"
+    },
+    {
+      "name": "Pokemon Ranger",
+      "set": "Ruthless Rebel",
+      "img": "https://den-cards.pokellector.com/193/Pokemon-Ranger.XY11.54.png",
+      "rarity": "Uncommon",
+      "cardNum": "54/54"
+    },
+    {
+      "name": "Magearna EX",
+      "set": "Ruthless Rebel",
+      "img": "https://den-cards.pokellector.com/193/Magearna-EX.XY11.55.png",
+      "rarity": "Secret Rare",
+      "cardNum": "55/54"
+    },
+    {
+      "name": "Gardevoir EX",
+      "set": "Ruthless Rebel",
+      "img": "https://den-cards.pokellector.com/193/Gardevoir-EX.XY11.56.png",
+      "rarity": "Secret Rare",
+      "cardNum": "56/54"
+    },
+    {
+      "name": "M Gardevoir EX",
+      "set": "Ruthless Rebel",
+      "img": "https://den-cards.pokellector.com/193/M-Gardevoir-EX.XY11.57.png",
+      "rarity": "Secret Rare",
+      "cardNum": "57/54"
+    },
+    {
+      "name": "Pokemon Ranger",
+      "set": "Ruthless Rebel",
+      "img": "https://den-cards.pokellector.com/193/Pokemon-Ranger.XY11.58.png",
+      "rarity": "Secret Rare",
+      "cardNum": "58/54"
+    },
+    {
+      "name": "Gardevoir EX",
+      "set": "Ruthless Rebel",
+      "img": "https://den-cards.pokellector.com/193/Gardevoir-EX.XY11.59.png",
+      "rarity": "Secret Rare",
+      "cardNum": "59/54"
+    }
+  ]
+}

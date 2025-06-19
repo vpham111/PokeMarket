@@ -1,0 +1,488 @@
+{
+  "setName": "Sky Legend",
+  "cards": [
+    {
+      "name": "Rowlet & Alolan Exeggutor GX",
+      "set": "Sky Legend",
+      "img": "https://den-cards.pokellector.com/268/Rowlet-Alolan-Exeggutor-GX.SM10B.1.27632.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "1/54"
+    },
+    {
+      "name": "Dwebble",
+      "set": "Sky Legend",
+      "img": "https://den-cards.pokellector.com/268/Dwebble.SM10B.2.27649.png",
+      "rarity": "Common",
+      "cardNum": "2/54"
+    },
+    {
+      "name": "Crustle",
+      "set": "Sky Legend",
+      "img": "https://den-cards.pokellector.com/268/Crustle.SM10B.3.27650.png",
+      "rarity": "Uncommon",
+      "cardNum": "3/54"
+    },
+    {
+      "name": "Fomantis",
+      "set": "Sky Legend",
+      "img": "https://den-cards.pokellector.com/268/Fomantis.SM10B.4.27651.png",
+      "rarity": "Common",
+      "cardNum": "4/54"
+    },
+    {
+      "name": "Lurantis",
+      "set": "Sky Legend",
+      "img": "https://den-cards.pokellector.com/268/Lurantis.SM10B.5.27652.png",
+      "rarity": "Common",
+      "cardNum": "5/54"
+    },
+    {
+      "name": "Bounsweet",
+      "set": "Sky Legend",
+      "img": "https://den-cards.pokellector.com/268/Bounsweet.SM10B.6.27653.png",
+      "rarity": "Common",
+      "cardNum": "6/54"
+    },
+    {
+      "name": "Steenee",
+      "set": "Sky Legend",
+      "img": "https://den-cards.pokellector.com/268/Steenee.SM10B.7.27654.png",
+      "rarity": "Common",
+      "cardNum": "7/54"
+    },
+    {
+      "name": "Tsareena",
+      "set": "Sky Legend",
+      "img": "https://den-cards.pokellector.com/268/Gardevoir.SM10B.8.27633.png",
+      "rarity": "Rare",
+      "cardNum": "8/54"
+    },
+    {
+      "name": "Numel",
+      "set": "Sky Legend",
+      "img": "https://den-cards.pokellector.com/268/Numel.SM10B.9.27655.png",
+      "rarity": "Common",
+      "cardNum": "9/54"
+    },
+    {
+      "name": "Camerupt",
+      "set": "Sky Legend",
+      "img": "https://den-cards.pokellector.com/268/Camerupt.SM10B.10.27656.png",
+      "rarity": "Uncommon",
+      "cardNum": "10/54"
+    },
+    {
+      "name": "Victini",
+      "set": "Sky Legend",
+      "img": "https://den-cards.pokellector.com/268/Victini.SM10B.11.27627.png",
+      "rarity": "Rare",
+      "cardNum": "11/54"
+    },
+    {
+      "name": "Fletchinder",
+      "set": "Sky Legend",
+      "img": "https://den-cards.pokellector.com/268/Fletchinder.SM10B.12.27657.png",
+      "rarity": "Common",
+      "cardNum": "12/54"
+    },
+    {
+      "name": "Talonflame",
+      "set": "Sky Legend",
+      "img": "https://den-cards.pokellector.com/268/Talonflame.SM10B.13.27658.png",
+      "rarity": "Uncommon",
+      "cardNum": "13/54"
+    },
+    {
+      "name": "Snorunt",
+      "set": "Sky Legend",
+      "img": "https://den-cards.pokellector.com/268/Snorunt.SM10B.14.27659.png",
+      "rarity": "Common",
+      "cardNum": "14/54"
+    },
+    {
+      "name": "Froslass",
+      "set": "Sky Legend",
+      "img": "https://den-cards.pokellector.com/268/Froslass.SM10B.15.27660.png",
+      "rarity": "Rare",
+      "cardNum": "15/54"
+    },
+    {
+      "name": "Snover",
+      "set": "Sky Legend",
+      "img": "https://den-cards.pokellector.com/268/Snover.SM10B.16.27661.png",
+      "rarity": "Common",
+      "cardNum": "16/54"
+    },
+    {
+      "name": "Abomasnow",
+      "set": "Sky Legend",
+      "img": "https://den-cards.pokellector.com/268/Abomasnow.SM10B.17.27662.png",
+      "rarity": "Uncommon",
+      "cardNum": "17/54"
+    },
+    {
+      "name": "Cryogonal",
+      "set": "Sky Legend",
+      "img": "https://den-cards.pokellector.com/268/Cryogonal.SM10B.18.27663.png",
+      "rarity": "Common",
+      "cardNum": "18/54"
+    },
+    {
+      "name": "Keldeo GX",
+      "set": "Sky Legend",
+      "img": "https://den-cards.pokellector.com/268/Keldeo-GX.SM10B.19.27634.png",
+      "rarity": "Secret Rare",
+      "cardNum": "19/54"
+    },
+    {
+      "name": "Tapu Fini",
+      "set": "Sky Legend",
+      "img": "https://den-cards.pokellector.com/268/Tapu-Fini.SM10B.20.27664.png",
+      "rarity": "Uncommon",
+      "cardNum": "20/54"
+    },
+    {
+      "name": "Magnemite",
+      "set": "Sky Legend",
+      "img": "https://den-cards.pokellector.com/268/Magnemite.SM10B.21.27665.png",
+      "rarity": "Common",
+      "cardNum": "21/54"
+    },
+    {
+      "name": "Magneton",
+      "set": "Sky Legend",
+      "img": "https://den-cards.pokellector.com/268/Magneton.SM10B.22.27666.png",
+      "rarity": "Common",
+      "cardNum": "22/54"
+    },
+    {
+      "name": "Magnezone",
+      "set": "Sky Legend",
+      "img": "https://den-cards.pokellector.com/268/Magnezone.SM10B.23.27667.png",
+      "rarity": "Rare",
+      "cardNum": "23/54"
+    },
+    {
+      "name": "Xurkitree",
+      "set": "Sky Legend",
+      "img": "https://den-cards.pokellector.com/268/Xurkitree.SM10B.24.27668.png",
+      "rarity": "Uncommon",
+      "cardNum": "24/54"
+    },
+    {
+      "name": "Ekans",
+      "set": "Sky Legend",
+      "img": "https://den-cards.pokellector.com/268/Ekans.SM10B.25.27669.png",
+      "rarity": "Common",
+      "cardNum": "25/54"
+    },
+    {
+      "name": "Arbok",
+      "set": "Sky Legend",
+      "img": "https://den-cards.pokellector.com/268/Arbok.SM10B.26.27670.png",
+      "rarity": "Uncommon",
+      "cardNum": "26/54"
+    },
+    {
+      "name": "Koffing",
+      "set": "Sky Legend",
+      "img": "https://den-cards.pokellector.com/268/Koffing.SM10B.27.27671.png",
+      "rarity": "Common",
+      "cardNum": "27/54"
+    },
+    {
+      "name": "Weezing",
+      "set": "Sky Legend",
+      "img": "https://den-cards.pokellector.com/268/Weezing.SM10B.28.27672.png",
+      "rarity": "Uncommon",
+      "cardNum": "28/54"
+    },
+    {
+      "name": "Uxie",
+      "set": "Sky Legend",
+      "img": "https://den-cards.pokellector.com/268/Uxie.SM10B.29.27673.png",
+      "rarity": "Rare",
+      "cardNum": "29/54"
+    },
+    {
+      "name": "Mesprit",
+      "set": "Sky Legend",
+      "img": "https://den-cards.pokellector.com/268/Mesprit.SM10B.30.27674.png",
+      "rarity": "Common",
+      "cardNum": "30/54"
+    },
+    {
+      "name": "Azelf",
+      "set": "Sky Legend",
+      "img": "https://den-cards.pokellector.com/268/Azelf.SM10B.31.27675.png",
+      "rarity": "Common",
+      "cardNum": "31/54"
+    },
+    {
+      "name": "Poipole",
+      "set": "Sky Legend",
+      "img": "https://den-cards.pokellector.com/268/Poipole.SM10B.32.27676.png",
+      "rarity": "Common",
+      "cardNum": "32/54"
+    },
+    {
+      "name": "Druddigon",
+      "set": "Sky Legend",
+      "img": "https://den-cards.pokellector.com/268/Druddigon.SM10B.33.27677.png",
+      "rarity": "Common",
+      "cardNum": "33/54"
+    },
+    {
+      "name": "Naganadel GX",
+      "set": "Sky Legend",
+      "img": "https://den-cards.pokellector.com/268/Naganadel-GX.SM10B.34.27678.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "34/54"
+    },
+    {
+      "name": "Moltres & Zapdos & Articuno GX",
+      "set": "Sky Legend",
+      "img": "https://den-cards.pokellector.com/268/Moltres-Zapdos-Articuno-GX.SM10B.35.27626.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "35/54"
+    },
+    {
+      "name": "Lickitung",
+      "set": "Sky Legend",
+      "img": "https://den-cards.pokellector.com/268/Lickitung.SM10B.36.27679.png",
+      "rarity": "Common",
+      "cardNum": "36/54"
+    },
+    {
+      "name": "Lickilicky",
+      "set": "Sky Legend",
+      "img": "https://den-cards.pokellector.com/268/Lickilicky.SM10B.37.27680.png",
+      "rarity": "Uncommon",
+      "cardNum": "37/54"
+    },
+    {
+      "name": "Hoothoot",
+      "set": "Sky Legend",
+      "img": "https://den-cards.pokellector.com/268/Hoothoot.SM10B.38.27681.png",
+      "rarity": "Common",
+      "cardNum": "38/54"
+    },
+    {
+      "name": "Noctowl",
+      "set": "Sky Legend",
+      "img": "https://den-cards.pokellector.com/268/Noctowl.SM10B.39.27682.png",
+      "rarity": "Common",
+      "cardNum": "39/54"
+    },
+    {
+      "name": "Audino",
+      "set": "Sky Legend",
+      "img": "https://den-cards.pokellector.com/268/Audino.SM10B.40.27683.png",
+      "rarity": "Uncommon",
+      "cardNum": "40/54"
+    },
+    {
+      "name": "Fletchling",
+      "set": "Sky Legend",
+      "img": "https://den-cards.pokellector.com/268/Fletchling.SM10B.41.27684.png",
+      "rarity": "Common",
+      "cardNum": "41/54"
+    },
+    {
+      "name": "Type: Null",
+      "set": "Sky Legend",
+      "img": "https://den-cards.pokellector.com/268/Type-Null.SM10B.42.27685.png",
+      "rarity": "Common",
+      "cardNum": "42/54"
+    },
+    {
+      "name": "Silvally",
+      "set": "Sky Legend",
+      "img": "https://den-cards.pokellector.com/268/Silvally.SM10B.43.27686.png",
+      "rarity": "Rare",
+      "cardNum": "43/54"
+    },
+    {
+      "name": "Normalium Z Tackle",
+      "set": "Sky Legend",
+      "img": "https://den-cards.pokellector.com/268/Normalium-Z-Tackle.SM10B.44.27687.png",
+      "rarity": "Uncommon",
+      "cardNum": "44/54"
+    },
+    {
+      "name": "Flyinium Z Air Slash",
+      "set": "Sky Legend",
+      "img": "https://den-cards.pokellector.com/268/Flyinium-Z-Air-Slash.SM10B.45.27688.png",
+      "rarity": "Uncommon",
+      "cardNum": "45/54"
+    },
+    {
+      "name": "U-Turn Board",
+      "set": "Sky Legend",
+      "img": "https://den-cards.pokellector.com/268/U-Turn-Board.SM10B.46.27689.png",
+      "rarity": "Uncommon",
+      "cardNum": "46/54"
+    },
+    {
+      "name": "Poké Maniac",
+      "set": "Sky Legend",
+      "img": "https://den-cards.pokellector.com/268/Pok-Maniac.SM10B.47.27695.png",
+      "rarity": "Uncommon",
+      "cardNum": "47/54"
+    },
+    {
+      "name": "Jesse & James",
+      "set": "Sky Legend",
+      "img": "https://den-cards.pokellector.com/268/Jesse-James.SM10B.48.27628.png",
+      "rarity": "Rare",
+      "cardNum": "48/54"
+    },
+    {
+      "name": "Blizzard Town",
+      "set": "Sky Legend",
+      "img": "https://den-cards.pokellector.com/268/Blizzard-Town.SM10B.49.27690.png",
+      "rarity": "Uncommon",
+      "cardNum": "49/54"
+    },
+    {
+      "name": "Recycle Energy",
+      "set": "Sky Legend",
+      "img": "https://den-cards.pokellector.com/268/Recycle-Energy.SM10B.50.27691.png",
+      "rarity": "Uncommon",
+      "cardNum": "50/54"
+    },
+    {
+      "name": "Net Ball",
+      "set": "Sky Legend",
+      "img": "https://den-cards.pokellector.com/268/Net-Ball.SM10B.51.27692.png",
+      "rarity": "Rare",
+      "cardNum": "51/54"
+    },
+    {
+      "name": "Gladion",
+      "set": "Sky Legend",
+      "img": "https://den-cards.pokellector.com/268/Gladion.SM10B.52.27693.png",
+      "rarity": "Rare",
+      "cardNum": "52/54"
+    },
+    {
+      "name": "Lillie",
+      "set": "Sky Legend",
+      "img": "https://den-cards.pokellector.com/268/Lillie.SM10B.53.27694.png",
+      "rarity": "Rare",
+      "cardNum": "53/54"
+    },
+    {
+      "name": "Lusamine",
+      "set": "Sky Legend",
+      "img": "https://den-cards.pokellector.com/268/Lusamine.SM10B.54.27546.png",
+      "rarity": "Rare",
+      "cardNum": "54/54"
+    },
+    {
+      "name": "Rowlet & Alolan Exeggutor GX",
+      "set": "Sky Legend",
+      "img": "https://den-cards.pokellector.com/268/Rowlet-Alolan-Exeggutor-GX.SM10B.55.27991.png",
+      "rarity": "Secret Rare",
+      "cardNum": "55/54"
+    },
+    {
+      "name": "Rowlet & Alolan Exeggutor GX",
+      "set": "Sky Legend",
+      "img": "https://den-cards.pokellector.com/268/Rowlet-Alolan-Exeggutor-GX.SM10B.56.27992.png",
+      "rarity": "Secret Rare",
+      "cardNum": "56/54"
+    },
+    {
+      "name": "Keldeo GX",
+      "set": "Sky Legend",
+      "img": "https://den-cards.pokellector.com/268/Keldeo-GX.SM10B.57.27993.png",
+      "rarity": "Secret Rare",
+      "cardNum": "57/54"
+    },
+    {
+      "name": "Naganadel GX",
+      "set": "Sky Legend",
+      "img": "https://den-cards.pokellector.com/268/Naganadel-GX.SM10B.58.27994.png",
+      "rarity": "Secret Rare",
+      "cardNum": "58/54"
+    },
+    {
+      "name": "Moltres & Zapdos & Articuno GX",
+      "set": "Sky Legend",
+      "img": "https://den-cards.pokellector.com/268/Moltres-Zapdos-Articuno-GX.SM10B.59.27995.png",
+      "rarity": "Secret Rare",
+      "cardNum": "59/54"
+    },
+    {
+      "name": "Moltres & Zapdos & Articuno GX",
+      "set": "Sky Legend",
+      "img": "https://den-cards.pokellector.com/268/Moltres-Zapdos-Articuno-GX.SM10B.60.27996.png",
+      "rarity": "Secret Rare",
+      "cardNum": "60/54"
+    },
+    {
+      "name": "Poké Maniac",
+      "set": "Sky Legend",
+      "img": "https://den-cards.pokellector.com/268/Pok-Maniac.SM10B.61.27997.png",
+      "rarity": "Secret Rare",
+      "cardNum": "61/54"
+    },
+    {
+      "name": "Jessie & James",
+      "set": "Sky Legend",
+      "img": "https://den-cards.pokellector.com/268/Jessie-James.SM10B.62.27990.png",
+      "rarity": "Secret Rare",
+      "cardNum": "62/54"
+    },
+    {
+      "name": "Rowlet & Alolan Exeggutor GX",
+      "set": "Sky Legend",
+      "img": "https://den-cards.pokellector.com/268/Rowlet-Alolan-Exeggutor-GX.SM10B.63.27998.png",
+      "rarity": "Secret Rare",
+      "cardNum": "63/54"
+    },
+    {
+      "name": "Keldeo GX",
+      "set": "Sky Legend",
+      "img": "https://den-cards.pokellector.com/268/Keldeo-GX.SM10B.64.27999.png",
+      "rarity": "Secret Rare",
+      "cardNum": "64/54"
+    },
+    {
+      "name": "Naganadel GX",
+      "set": "Sky Legend",
+      "img": "https://den-cards.pokellector.com/268/Naganadel-GX.SM10B.65.28000.png",
+      "rarity": "Secret Rare",
+      "cardNum": "65/54"
+    },
+    {
+      "name": "Moltres & Zapdos & Articuno GX",
+      "set": "Sky Legend",
+      "img": "https://den-cards.pokellector.com/268/Moltres-Zapdos-Articuno-GX.SM10B.66.28001.png",
+      "rarity": "Secret Rare",
+      "cardNum": "66/54"
+    },
+    {
+      "name": "U-Turn Board",
+      "set": "Sky Legend",
+      "img": "https://den-cards.pokellector.com/268/U-Turn-Board.SM10B.67.28002.png",
+      "rarity": "Secret Rare",
+      "cardNum": "67/54"
+    },
+    {
+      "name": "Viridian Forest",
+      "set": "Sky Legend",
+      "img": "https://den-cards.pokellector.com/268/Viridian-Forest.SM10B.68.28003.png",
+      "rarity": "Secret Rare",
+      "cardNum": "68/54"
+    },
+    {
+      "name": "Recycle Energy",
+      "set": "Sky Legend",
+      "img": "https://den-cards.pokellector.com/268/Recycle-Energy.SM10B.69.28004.png",
+      "rarity": "Secret Rare",
+      "cardNum": "69/54"
+    }
+  ]
+}

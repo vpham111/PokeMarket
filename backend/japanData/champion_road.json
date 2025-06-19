@@ -1,0 +1,607 @@
+{
+  "setName": "Champion Road",
+  "cards": [
+    {
+      "name": "Bellsprout",
+      "set": "Champion Road",
+      "img": "https://den-cards.pokellector.com/237/Bellsprout.SM6B.1.20868.png",
+      "rarity": "Common",
+      "cardNum": "1/66"
+    },
+    {
+      "name": "Weepinbell",
+      "set": "Champion Road",
+      "img": "https://den-cards.pokellector.com/237/Weepinbell.SM6B.2.20869.png",
+      "rarity": "Uncommon",
+      "cardNum": "2/66"
+    },
+    {
+      "name": "Victreebel",
+      "set": "Champion Road",
+      "img": "https://den-cards.pokellector.com/237/Victreebel.SM6B.3.20870.png",
+      "rarity": "Rare",
+      "cardNum": "3/66"
+    },
+    {
+      "name": "Scyther",
+      "set": "Champion Road",
+      "img": "https://den-cards.pokellector.com/237/Scyther.SM6B.4.20871.png",
+      "rarity": "Common",
+      "cardNum": "4/66"
+    },
+    {
+      "name": "Spinarak",
+      "set": "Champion Road",
+      "img": "https://den-cards.pokellector.com/237/Spinarak.SM6B.5.20872.png",
+      "rarity": "Common",
+      "cardNum": "5/66"
+    },
+    {
+      "name": "Ariados",
+      "set": "Champion Road",
+      "img": "https://den-cards.pokellector.com/237/Ariados.SM6B.6.20873.png",
+      "rarity": "Rare",
+      "cardNum": "6/66"
+    },
+    {
+      "name": "Cacnea",
+      "set": "Champion Road",
+      "img": "https://den-cards.pokellector.com/237/Cacnea.SM6B.7.20874.png",
+      "rarity": "Common",
+      "cardNum": "7/66"
+    },
+    {
+      "name": "Cacturne",
+      "set": "Champion Road",
+      "img": "https://den-cards.pokellector.com/237/Cacturne.SM6B.8.20875.png",
+      "rarity": "Uncommon",
+      "cardNum": "8/66"
+    },
+    {
+      "name": "Slugma",
+      "set": "Champion Road",
+      "img": "https://den-cards.pokellector.com/237/Slugma.SM6B.9.20876.png",
+      "rarity": "Common",
+      "cardNum": "9/66"
+    },
+    {
+      "name": "Magcargo",
+      "set": "Champion Road",
+      "img": "https://den-cards.pokellector.com/237/Magcargo.SM6B.10.20877.png",
+      "rarity": "Uncommon",
+      "cardNum": "10/66"
+    },
+    {
+      "name": "Torchic",
+      "set": "Champion Road",
+      "img": "https://den-cards.pokellector.com/237/Torchic.SM6B.11.20878.png",
+      "rarity": "Common",
+      "cardNum": "11/66"
+    },
+    {
+      "name": "Combusken",
+      "set": "Champion Road",
+      "img": "https://den-cards.pokellector.com/237/Combusken.SM6B.12.20879.png",
+      "rarity": "Uncommon",
+      "cardNum": "12/66"
+    },
+    {
+      "name": "Blaziken",
+      "set": "Champion Road",
+      "img": "https://den-cards.pokellector.com/237/Blaziken.SM6B.13.20704.png",
+      "rarity": "Rare",
+      "cardNum": "13/66"
+    },
+    {
+      "name": "Articuno GX",
+      "set": "Champion Road",
+      "img": "https://den-cards.pokellector.com/237/Articuno-GX.SM6B.14.20635.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "14/66"
+    },
+    {
+      "name": "Totodile",
+      "set": "Champion Road",
+      "img": "https://den-cards.pokellector.com/237/Totodile.SM6B.15.20880.png",
+      "rarity": "Common",
+      "cardNum": "15/66"
+    },
+    {
+      "name": "Croconaw",
+      "set": "Champion Road",
+      "img": "https://den-cards.pokellector.com/237/Croconaw.SM6B.16.20881.png",
+      "rarity": "Uncommon",
+      "cardNum": "16/66"
+    },
+    {
+      "name": "Feraligatr",
+      "set": "Champion Road",
+      "img": "https://den-cards.pokellector.com/237/Feraligatr.SM6B.17.20703.png",
+      "rarity": "Rare",
+      "cardNum": "17/66"
+    },
+    {
+      "name": "Lotad",
+      "set": "Champion Road",
+      "img": "https://den-cards.pokellector.com/237/Lotad.SM6B.18.20882.png",
+      "rarity": "Common",
+      "cardNum": "18/66"
+    },
+    {
+      "name": "Lombre",
+      "set": "Champion Road",
+      "img": "https://den-cards.pokellector.com/237/Lombre.SM6B.19.20883.png",
+      "rarity": "Uncommon",
+      "cardNum": "19/66"
+    },
+    {
+      "name": "Ludicolo",
+      "set": "Champion Road",
+      "img": "https://den-cards.pokellector.com/237/Ludicolo.SM6B.20.20884.png",
+      "rarity": "Rare",
+      "cardNum": "20/66"
+    },
+    {
+      "name": "Voltorb",
+      "set": "Champion Road",
+      "img": "https://den-cards.pokellector.com/237/Voltorb.SM6B.21.20885.png",
+      "rarity": "Common",
+      "cardNum": "21/66"
+    },
+    {
+      "name": "Electrode GX",
+      "set": "Champion Road",
+      "img": "https://den-cards.pokellector.com/237/Electrode-GX.SM6B.22.20706.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "22/66"
+    },
+    {
+      "name": "Chinchou",
+      "set": "Champion Road",
+      "img": "https://den-cards.pokellector.com/237/Chinchou.SM6B.23.20886.png",
+      "rarity": "Common",
+      "cardNum": "23/66"
+    },
+    {
+      "name": "Lanturn",
+      "set": "Champion Road",
+      "img": "https://den-cards.pokellector.com/237/Lanturn.SM6B.24.20887.png",
+      "rarity": "Common",
+      "cardNum": "24/66"
+    },
+    {
+      "name": "Mr Mime GX",
+      "set": "Champion Road",
+      "img": "https://den-cards.pokellector.com/237/Mr-Mime-GX.SM6B.25.20866.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "25/66"
+    },
+    {
+      "name": "Gulpin",
+      "set": "Champion Road",
+      "img": "https://den-cards.pokellector.com/237/Gulpin.SM6B.26.20888.png",
+      "rarity": "Common",
+      "cardNum": "26/66"
+    },
+    {
+      "name": "Swalot",
+      "set": "Champion Road",
+      "img": "https://den-cards.pokellector.com/237/Swalot.SM6B.27.20889.png",
+      "rarity": "Common",
+      "cardNum": "27/66"
+    },
+    {
+      "name": "Lunatone",
+      "set": "Champion Road",
+      "img": "https://den-cards.pokellector.com/237/Lunatone.SM6B.28.20890.png",
+      "rarity": "Rare",
+      "cardNum": "28/66"
+    },
+    {
+      "name": "Solrock",
+      "set": "Champion Road",
+      "img": "https://den-cards.pokellector.com/237/Solrock.SM6B.29.20891.png",
+      "rarity": "Common",
+      "cardNum": "29/66"
+    },
+    {
+      "name": "Shuppet",
+      "set": "Champion Road",
+      "img": "https://den-cards.pokellector.com/237/Shuppet.SM6B.30.20892.png",
+      "rarity": "Common",
+      "cardNum": "30/66"
+    },
+    {
+      "name": "Banette GX",
+      "set": "Champion Road",
+      "img": "https://den-cards.pokellector.com/237/Banette-GX.SM6B.31.20705.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "31/66"
+    },
+    {
+      "name": "Onix",
+      "set": "Champion Road",
+      "img": "https://den-cards.pokellector.com/237/Onix.SM6B.32.20893.png",
+      "rarity": "Common",
+      "cardNum": "32/66"
+    },
+    {
+      "name": "Phanpy",
+      "set": "Champion Road",
+      "img": "https://den-cards.pokellector.com/237/Phanpy.SM6B.33.20894.png",
+      "rarity": "Common",
+      "cardNum": "33/66"
+    },
+    {
+      "name": "Donphan",
+      "set": "Champion Road",
+      "img": "https://den-cards.pokellector.com/237/Donphan.SM6B.34.20895.png",
+      "rarity": "Common",
+      "cardNum": "34/66"
+    },
+    {
+      "name": "Larvitar",
+      "set": "Champion Road",
+      "img": "https://den-cards.pokellector.com/237/Larvitar.SM6B.35.20896.png",
+      "rarity": "Common",
+      "cardNum": "35/66"
+    },
+    {
+      "name": "Pupitar",
+      "set": "Champion Road",
+      "img": "https://den-cards.pokellector.com/237/Pupitar.SM6B.36.20897.png",
+      "rarity": "Uncommon",
+      "cardNum": "36/66"
+    },
+    {
+      "name": "Sneasel",
+      "set": "Champion Road",
+      "img": "https://den-cards.pokellector.com/237/Sneasel.SM6B.37.20898.png",
+      "rarity": "Common",
+      "cardNum": "37/66"
+    },
+    {
+      "name": "Tyranitar",
+      "set": "Champion Road",
+      "img": "https://den-cards.pokellector.com/237/Tyranitar.SM6B.38.20899.png",
+      "rarity": "Rare",
+      "cardNum": "38/66"
+    },
+    {
+      "name": "Sableye",
+      "set": "Champion Road",
+      "img": "https://den-cards.pokellector.com/237/Sableye.SM6B.39.20865.png",
+      "rarity": "Uncommon",
+      "cardNum": "39/66"
+    },
+    {
+      "name": "Steelix",
+      "set": "Champion Road",
+      "img": "https://den-cards.pokellector.com/237/Steelix.SM6B.40.20900.png",
+      "rarity": "Rare",
+      "cardNum": "40/66"
+    },
+    {
+      "name": "Scizor GX",
+      "set": "Champion Road",
+      "img": "https://den-cards.pokellector.com/237/Scisor-GX.SM6B.41.20700.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "41/66"
+    },
+    {
+      "name": "Mawile",
+      "set": "Champion Road",
+      "img": "https://den-cards.pokellector.com/237/Mawile.SM6B.42.20901.png",
+      "rarity": "Common",
+      "cardNum": "42/66"
+    },
+    {
+      "name": "Bagon",
+      "set": "Champion Road",
+      "img": "https://den-cards.pokellector.com/237/Bagon.SM6B.43.20902.png",
+      "rarity": "Common",
+      "cardNum": "43/66"
+    },
+    {
+      "name": "Shelgon",
+      "set": "Champion Road",
+      "img": "https://den-cards.pokellector.com/237/Shelgon.SM6B.44.20903.png",
+      "rarity": "Uncommon",
+      "cardNum": "44/66"
+    },
+    {
+      "name": "Salamence GX",
+      "set": "Champion Road",
+      "img": "https://den-cards.pokellector.com/237/Salamence-GX.SM6B.45.20636.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "45/66"
+    },
+    {
+      "name": "Kangaskhan",
+      "set": "Champion Road",
+      "img": "https://den-cards.pokellector.com/237/Kangaskhan.SM6B.46.20904.png",
+      "rarity": "Common",
+      "cardNum": "46/66"
+    },
+    {
+      "name": "Dunsparce",
+      "set": "Champion Road",
+      "img": "https://den-cards.pokellector.com/237/Dunsparce.SM6B.47.20905.png",
+      "rarity": "Common",
+      "cardNum": "47/66"
+    },
+    {
+      "name": "Ho-Oh",
+      "set": "Champion Road",
+      "img": "https://den-cards.pokellector.com/237/Ho-Oh.SM6B.48.20906.png",
+      "rarity": "Uncommon",
+      "cardNum": "48/66"
+    },
+    {
+      "name": "Slakoth",
+      "set": "Champion Road",
+      "img": "https://den-cards.pokellector.com/237/Slakoth.SM6B.49.20907.png",
+      "rarity": "Common",
+      "cardNum": "49/66"
+    },
+    {
+      "name": "Vigoroth",
+      "set": "Champion Road",
+      "img": "https://den-cards.pokellector.com/237/Vigoroth.SM6B.50.20908.png",
+      "rarity": "Uncommon",
+      "cardNum": "50/66"
+    },
+    {
+      "name": "Slaking",
+      "set": "Champion Road",
+      "img": "https://den-cards.pokellector.com/237/Slaking.SM6B.51.20909.png",
+      "rarity": "Rare",
+      "cardNum": "51/66"
+    },
+    {
+      "name": "Energy Recycle System",
+      "set": "Champion Road",
+      "img": "https://den-cards.pokellector.com/237/Energy-Recycle-System.SM6B.52.20910.png",
+      "rarity": "Common",
+      "cardNum": "52/66"
+    },
+    {
+      "name": "Energy Switch",
+      "set": "Champion Road",
+      "img": "https://den-cards.pokellector.com/237/Energy-Switch.SM6B.53.20699.png",
+      "rarity": "Uncommon",
+      "cardNum": "53/66"
+    },
+    {
+      "name": "Super Scoop Up",
+      "set": "Champion Road",
+      "img": "https://den-cards.pokellector.com/237/Super-Scoop-Up.SM6B.54.20911.png",
+      "rarity": "Uncommon",
+      "cardNum": "54/66"
+    },
+    {
+      "name": "Rare Candy",
+      "set": "Champion Road",
+      "img": "https://den-cards.pokellector.com/237/Rare-Candy.SM6B.55.20912.png",
+      "rarity": "Uncommon",
+      "cardNum": "55/66"
+    },
+    {
+      "name": "Life Herb",
+      "set": "Champion Road",
+      "img": "https://den-cards.pokellector.com/237/Life-Herb.SM6B.56.20913.png",
+      "rarity": "Uncommon",
+      "cardNum": "56/66"
+    },
+    {
+      "name": "Friend Ball",
+      "set": "Champion Road",
+      "img": "https://den-cards.pokellector.com/237/Friend-Ball.SM6B.57.20914.png",
+      "rarity": "Common",
+      "cardNum": "57/66"
+    },
+    {
+      "name": "PokéNav",
+      "set": "Champion Road",
+      "img": "https://den-cards.pokellector.com/237/PokeacuteNav.SM6B.58.20915.png",
+      "rarity": "Uncommon",
+      "cardNum": "58/66"
+    },
+    {
+      "name": "Switch",
+      "set": "Champion Road",
+      "img": "https://den-cards.pokellector.com/237/Switch.SM6B.59.20916.png",
+      "rarity": "Uncommon",
+      "cardNum": "59/66"
+    },
+    {
+      "name": "Lure Ball",
+      "set": "Champion Road",
+      "img": "https://den-cards.pokellector.com/237/Lure-Ball.SM6B.60.20917.png",
+      "rarity": "Uncommon",
+      "cardNum": "60/66"
+    },
+    {
+      "name": "Underground Expedition",
+      "set": "Champion Road",
+      "img": "https://den-cards.pokellector.com/237/Underground-Expedition.SM6B.61.20918.png",
+      "rarity": "Uncommon",
+      "cardNum": "61/66"
+    },
+    {
+      "name": "TV Reporter",
+      "set": "Champion Road",
+      "img": "https://den-cards.pokellector.com/237/TV-Reporter.SM6B.62.20701.png",
+      "rarity": "Common",
+      "cardNum": "62/66"
+    },
+    {
+      "name": "Apricorn Maker",
+      "set": "Champion Road",
+      "img": "https://den-cards.pokellector.com/237/Apricorn-Maker.SM6B.63.20919.png",
+      "rarity": "Uncommon",
+      "cardNum": "63/66"
+    },
+    {
+      "name": "Bill's Maintenance",
+      "set": "Champion Road",
+      "img": "https://den-cards.pokellector.com/237/Bills-Maintenance.SM6B.64.20920.png",
+      "rarity": "Common",
+      "cardNum": "64/66"
+    },
+    {
+      "name": "Copycat",
+      "set": "Champion Road",
+      "img": "https://den-cards.pokellector.com/237/Copycat.SM6B.65.20921.png",
+      "rarity": "Uncommon",
+      "cardNum": "65/66"
+    },
+    {
+      "name": "Rainbow Energy",
+      "set": "Champion Road",
+      "img": "https://den-cards.pokellector.com/237/Rainbow-Energy.SM6B.66.20922.png",
+      "rarity": "Uncommon",
+      "cardNum": "66/66"
+    },
+    {
+      "name": "Articuno GX",
+      "set": "Champion Road",
+      "img": "https://den-cards.pokellector.com/237/Articuno-GX.SM6B.67.20923.png",
+      "rarity": "Secret Rare",
+      "cardNum": "67/66"
+    },
+    {
+      "name": "Electrode GX",
+      "set": "Champion Road",
+      "img": "https://den-cards.pokellector.com/237/Electrode-GX.SM6B.68.20924.png",
+      "rarity": "Secret Rare",
+      "cardNum": "68/66"
+    },
+    {
+      "name": "Mr. Mime GX",
+      "set": "Champion Road",
+      "img": "https://den-cards.pokellector.com/237/Mr-Mime-GX.SM6B.69.20925.png",
+      "rarity": "Secret Rare",
+      "cardNum": "69/66"
+    },
+    {
+      "name": "Banette GX",
+      "set": "Champion Road",
+      "img": "https://den-cards.pokellector.com/237/Banette-GX.SM6B.70.20926.png",
+      "rarity": "Secret Rare",
+      "cardNum": "70/66"
+    },
+    {
+      "name": "Scizor GX",
+      "set": "Champion Road",
+      "img": "https://den-cards.pokellector.com/237/Scizor-GX.SM6B.71.20927.png",
+      "rarity": "Secret Rare",
+      "cardNum": "71/66"
+    },
+    {
+      "name": "Salamence GX",
+      "set": "Champion Road",
+      "img": "https://den-cards.pokellector.com/237/Salamence-GX.SM6B.72.20928.png",
+      "rarity": "Secret Rare",
+      "cardNum": "72/66"
+    },
+    {
+      "name": "Underground Expedition",
+      "set": "Champion Road",
+      "img": "https://den-cards.pokellector.com/237/Underground-Expedition.SM6B.73.20929.png",
+      "rarity": "Secret Rare",
+      "cardNum": "73/66"
+    },
+    {
+      "name": "TV Reporter",
+      "set": "Champion Road",
+      "img": "https://den-cards.pokellector.com/237/TV-Reporter.SM6B.74.20702.png",
+      "rarity": "Secret Rare",
+      "cardNum": "74/66"
+    },
+    {
+      "name": "Apricorn Maker",
+      "set": "Champion Road",
+      "img": "https://den-cards.pokellector.com/237/Apricorn-Maker.SM6B.75.20940.png",
+      "rarity": "Secret Rare",
+      "cardNum": "75/66"
+    },
+    {
+      "name": "Bill's Maintenance",
+      "set": "Champion Road",
+      "img": "https://den-cards.pokellector.com/237/Bills-Maintenance.SM6B.76.20867.png",
+      "rarity": "Secret Rare",
+      "cardNum": "76/66"
+    },
+    {
+      "name": "Copycat",
+      "set": "Champion Road",
+      "img": "https://den-cards.pokellector.com/237/Copycat.SM6B.77.20938.png",
+      "rarity": "Secret Rare",
+      "cardNum": "77/66"
+    },
+    {
+      "name": "Articuno GX",
+      "set": "Champion Road",
+      "img": "https://den-cards.pokellector.com/237/Articuno-GX.SM6B.78.20934.png",
+      "rarity": "Secret Rare",
+      "cardNum": "78/66"
+    },
+    {
+      "name": "Electrode GX",
+      "set": "Champion Road",
+      "img": "https://den-cards.pokellector.com/237/Electrode-GX.SM6B.79.20935.png",
+      "rarity": "Secret Rare",
+      "cardNum": "79/66"
+    },
+    {
+      "name": "Mr Mime GX",
+      "set": "Champion Road",
+      "img": "https://den-cards.pokellector.com/237/Mr-Mime-GX.SM6B.80.20936.png",
+      "rarity": "Secret Rare",
+      "cardNum": "80/66"
+    },
+    {
+      "name": "Banette GX",
+      "set": "Champion Road",
+      "img": "https://den-cards.pokellector.com/237/Banette-GX.SM6B.81.20932.png",
+      "rarity": "Secret Rare",
+      "cardNum": "81/66"
+    },
+    {
+      "name": "Scisor GX",
+      "set": "Champion Road",
+      "img": "https://den-cards.pokellector.com/237/Scisor-GX.SM6B.82.20931.png",
+      "rarity": "Secret Rare",
+      "cardNum": "82/66"
+    },
+    {
+      "name": "Salamence GX",
+      "set": "Champion Road",
+      "img": "https://den-cards.pokellector.com/237/Salamence-GX.SM6B.83.20937.png",
+      "rarity": "Secret Rare",
+      "cardNum": "83/66"
+    },
+    {
+      "name": "Life Herb",
+      "set": "Champion Road",
+      "img": "https://den-cards.pokellector.com/237/Life-Herb.SM6B.84.20939.png",
+      "rarity": "Secret Rare",
+      "cardNum": "84/66"
+    },
+    {
+      "name": "PokéNav",
+      "set": "Champion Road",
+      "img": "https://den-cards.pokellector.com/237/PokNav.SM6B.85.20933.png",
+      "rarity": "Secret Rare",
+      "cardNum": "85/66"
+    },
+    {
+      "name": "Rainbow Energy",
+      "set": "Champion Road",
+      "img": "https://den-cards.pokellector.com/237/Rainbow-Energy.SM6B.86.20930.png",
+      "rarity": "Secret Rare",
+      "cardNum": "86/66"
+    }
+  ]
+}

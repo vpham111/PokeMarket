@@ -1,0 +1,1153 @@
+{
+  "setName": "Primal Clash",
+  "cards": [
+    {
+      "name": "Weedle",
+      "set": "Primal Clash",
+      "img": "https://den-cards.pokellector.com/166/Weedle.PCL.1.png",
+      "rarity": "Common",
+      "cardNum": "1/160"
+    },
+    {
+      "name": "Kakuna",
+      "set": "Primal Clash",
+      "img": "https://den-cards.pokellector.com/166/Kakuna.PCL.2.png",
+      "rarity": "Uncommon",
+      "cardNum": "2/160"
+    },
+    {
+      "name": "Beedrill",
+      "set": "Primal Clash",
+      "img": "https://den-cards.pokellector.com/166/Beedrill.PCL.3.png",
+      "rarity": "Rare",
+      "cardNum": "3/160"
+    },
+    {
+      "name": "Tangela",
+      "set": "Primal Clash",
+      "img": "https://den-cards.pokellector.com/166/Tangela.PCL.4.png",
+      "rarity": "Common",
+      "cardNum": "4/160"
+    },
+    {
+      "name": "Tangrowth",
+      "set": "Primal Clash",
+      "img": "https://den-cards.pokellector.com/166/Tangrowth.PCL.5.png",
+      "rarity": "Rare",
+      "cardNum": "5/160"
+    },
+    {
+      "name": "Treecko",
+      "set": "Primal Clash",
+      "img": "https://den-cards.pokellector.com/166/Treecko.PCL.6.png",
+      "rarity": "Common",
+      "cardNum": "6/160"
+    },
+    {
+      "name": "Grovyle",
+      "set": "Primal Clash",
+      "img": "https://den-cards.pokellector.com/166/Grovyle.PCL.7.png",
+      "rarity": "Uncommon",
+      "cardNum": "7/160"
+    },
+    {
+      "name": "Sceptile",
+      "set": "Primal Clash",
+      "img": "https://den-cards.pokellector.com/166/Sceptile.PCL.8.png",
+      "rarity": "Rare",
+      "cardNum": "8/160"
+    },
+    {
+      "name": "Sceptile",
+      "set": "Primal Clash",
+      "img": "https://den-cards.pokellector.com/166/Sceptile.PCL.9.png",
+      "rarity": "Rare",
+      "cardNum": "9/160"
+    },
+    {
+      "name": "Lotad",
+      "set": "Primal Clash",
+      "img": "https://den-cards.pokellector.com/166/Lotad.PCL.10.png",
+      "rarity": "Common",
+      "cardNum": "10/160"
+    },
+    {
+      "name": "Lombre",
+      "set": "Primal Clash",
+      "img": "https://den-cards.pokellector.com/166/Lombre.PCL.11.png",
+      "rarity": "Uncommon",
+      "cardNum": "11/160"
+    },
+    {
+      "name": "Ludicolo",
+      "set": "Primal Clash",
+      "img": "https://den-cards.pokellector.com/166/Ludicolo.PCL.12.png",
+      "rarity": "Rare",
+      "cardNum": "12/160"
+    },
+    {
+      "name": "Surskit",
+      "set": "Primal Clash",
+      "img": "https://den-cards.pokellector.com/166/Surskit.PCL.13.png",
+      "rarity": "Common",
+      "cardNum": "13/160"
+    },
+    {
+      "name": "Masquerain",
+      "set": "Primal Clash",
+      "img": "https://den-cards.pokellector.com/166/Masquerain.PCL.14.png",
+      "rarity": "Uncommon",
+      "cardNum": "14/160"
+    },
+    {
+      "name": "Shroomish",
+      "set": "Primal Clash",
+      "img": "https://den-cards.pokellector.com/166/Shroomish.PCL.15.png",
+      "rarity": "Common",
+      "cardNum": "15/160"
+    },
+    {
+      "name": "Breloom",
+      "set": "Primal Clash",
+      "img": "https://den-cards.pokellector.com/166/Breloom.PCL.16.png",
+      "rarity": "Rare",
+      "cardNum": "16/160"
+    },
+    {
+      "name": "Volbeat",
+      "set": "Primal Clash",
+      "img": "https://den-cards.pokellector.com/166/Volbeat.PCL.17.png",
+      "rarity": "Common",
+      "cardNum": "17/160"
+    },
+    {
+      "name": "Illumise",
+      "set": "Primal Clash",
+      "img": "https://den-cards.pokellector.com/166/Illumise.PCL.18.png",
+      "rarity": "Common",
+      "cardNum": "18/160"
+    },
+    {
+      "name": "Trevenant EX",
+      "set": "Primal Clash",
+      "img": "https://den-cards.pokellector.com/166/Trevenant-EX.PCL.19.png",
+      "rarity": "Rare",
+      "cardNum": "19/160"
+    },
+    {
+      "name": "Vulpix",
+      "set": "Primal Clash",
+      "img": "https://den-cards.pokellector.com/166/Vulpix.PCL.20.png",
+      "rarity": "Common",
+      "cardNum": "20/160"
+    },
+    {
+      "name": "Ninetales",
+      "set": "Primal Clash",
+      "img": "https://den-cards.pokellector.com/166/Ninetales.PCL.21.png",
+      "rarity": "Rare",
+      "cardNum": "21/160"
+    },
+    {
+      "name": "Slugma",
+      "set": "Primal Clash",
+      "img": "https://den-cards.pokellector.com/166/Slugma.PCL.22.png",
+      "rarity": "Common",
+      "cardNum": "22/160"
+    },
+    {
+      "name": "Magcargo",
+      "set": "Primal Clash",
+      "img": "https://den-cards.pokellector.com/166/Magcargo.PCL.23.png",
+      "rarity": "Uncommon",
+      "cardNum": "23/160"
+    },
+    {
+      "name": "Magcargo",
+      "set": "Primal Clash",
+      "img": "https://den-cards.pokellector.com/166/Magcargo.PCL.24.png",
+      "rarity": "Rare",
+      "cardNum": "24/160"
+    },
+    {
+      "name": "Torchic",
+      "set": "Primal Clash",
+      "img": "https://den-cards.pokellector.com/166/Torchic.PCL.25.png",
+      "rarity": "Common",
+      "cardNum": "25/160"
+    },
+    {
+      "name": "Torchic",
+      "set": "Primal Clash",
+      "img": "https://den-cards.pokellector.com/166/Torchic.PCL.26.png",
+      "rarity": "Uncommon",
+      "cardNum": "26/160"
+    },
+    {
+      "name": "Combusken",
+      "set": "Primal Clash",
+      "img": "https://den-cards.pokellector.com/166/Combusken.PCL.27.png",
+      "rarity": "Uncommon",
+      "cardNum": "27/160"
+    },
+    {
+      "name": "Blaziken",
+      "set": "Primal Clash",
+      "img": "https://den-cards.pokellector.com/166/Blaziken.PRC.28.png",
+      "rarity": "Rare",
+      "cardNum": "28/160"
+    },
+    {
+      "name": "Camerupt EX",
+      "set": "Primal Clash",
+      "img": "https://den-cards.pokellector.com/166/Camerupt-EX.PCL.29.png",
+      "rarity": "Rare",
+      "cardNum": "29/160"
+    },
+    {
+      "name": "Horsea",
+      "set": "Primal Clash",
+      "img": "https://den-cards.pokellector.com/166/Horsea.PCL.30.png",
+      "rarity": "Common",
+      "cardNum": "30/160"
+    },
+    {
+      "name": "Seadra",
+      "set": "Primal Clash",
+      "img": "https://den-cards.pokellector.com/166/Seadra.PCL.31.png",
+      "rarity": "Uncommon",
+      "cardNum": "31/160"
+    },
+    {
+      "name": "Staryu",
+      "set": "Primal Clash",
+      "img": "https://den-cards.pokellector.com/166/Staryu.PCL.32.png",
+      "rarity": "Common",
+      "cardNum": "32/160"
+    },
+    {
+      "name": "Mudkip",
+      "set": "Primal Clash",
+      "img": "https://den-cards.pokellector.com/166/Mudkip.PCL.33.png",
+      "rarity": "Common",
+      "cardNum": "33/160"
+    },
+    {
+      "name": "Marshtomp",
+      "set": "Primal Clash",
+      "img": "https://den-cards.pokellector.com/166/Marshtomp.PCL.34.png",
+      "rarity": "Uncommon",
+      "cardNum": "34/160"
+    },
+    {
+      "name": "Swampert",
+      "set": "Primal Clash",
+      "img": "https://den-cards.pokellector.com/166/Swampert.PCL.35.png",
+      "rarity": "Rare",
+      "cardNum": "35/160"
+    },
+    {
+      "name": "Swampert",
+      "set": "Primal Clash",
+      "img": "https://den-cards.pokellector.com/166/Swampert.PCL.36.png",
+      "rarity": "Rare",
+      "cardNum": "36/160"
+    },
+    {
+      "name": "Ludicolo",
+      "set": "Primal Clash",
+      "img": "https://den-cards.pokellector.com/166/Ludicolo.PCL.37.png",
+      "rarity": "Rare",
+      "cardNum": "37/160"
+    },
+    {
+      "name": "Wailord EX",
+      "set": "Primal Clash",
+      "img": "https://den-cards.pokellector.com/166/Wailord-EX.PCL.38.png",
+      "rarity": "Rare",
+      "cardNum": "38/160"
+    },
+    {
+      "name": "Barboach",
+      "set": "Primal Clash",
+      "img": "https://den-cards.pokellector.com/166/Barboach.PCL.39.png",
+      "rarity": "Common",
+      "cardNum": "39/160"
+    },
+    {
+      "name": "Whiscash",
+      "set": "Primal Clash",
+      "img": "https://den-cards.pokellector.com/166/Whiscash.PCL.40.png",
+      "rarity": "Uncommon",
+      "cardNum": "40/160"
+    },
+    {
+      "name": "Whiscash",
+      "set": "Primal Clash",
+      "img": "https://den-cards.pokellector.com/166/Whiscash.PCL.41.png",
+      "rarity": "Rare",
+      "cardNum": "41/160"
+    },
+    {
+      "name": "Corphish",
+      "set": "Primal Clash",
+      "img": "https://den-cards.pokellector.com/166/Corphish.PCL.42.png",
+      "rarity": "Common",
+      "cardNum": "42/160"
+    },
+    {
+      "name": "Feebas",
+      "set": "Primal Clash",
+      "img": "https://den-cards.pokellector.com/166/Feebas.PCL.43.png",
+      "rarity": "Common",
+      "cardNum": "43/160"
+    },
+    {
+      "name": "Milotic",
+      "set": "Primal Clash",
+      "img": "https://den-cards.pokellector.com/166/Milotic.PCL.44.png",
+      "rarity": "Rare",
+      "cardNum": "44/160"
+    },
+    {
+      "name": "Spheal",
+      "set": "Primal Clash",
+      "img": "https://den-cards.pokellector.com/166/Spheal.PCL.45.png",
+      "rarity": "Common",
+      "cardNum": "45/160"
+    },
+    {
+      "name": "Spheal",
+      "set": "Primal Clash",
+      "img": "https://den-cards.pokellector.com/166/Spheal.PCL.46.png",
+      "rarity": "Common",
+      "cardNum": "46/160"
+    },
+    {
+      "name": "Sealeo",
+      "set": "Primal Clash",
+      "img": "https://den-cards.pokellector.com/166/Sealeo.PCL.47.png",
+      "rarity": "Uncommon",
+      "cardNum": "47/160"
+    },
+    {
+      "name": "Walrein",
+      "set": "Primal Clash",
+      "img": "https://den-cards.pokellector.com/166/Walrein.PCL.48.png",
+      "rarity": "Rare",
+      "cardNum": "48/160"
+    },
+    {
+      "name": "Clamperl",
+      "set": "Primal Clash",
+      "img": "https://den-cards.pokellector.com/166/Clamperl.PCL.49.png",
+      "rarity": "Common",
+      "cardNum": "49/160"
+    },
+    {
+      "name": "Huntail",
+      "set": "Primal Clash",
+      "img": "https://den-cards.pokellector.com/166/Huntail.PCL.50.png",
+      "rarity": "Rare",
+      "cardNum": "50/160"
+    },
+    {
+      "name": "Gorebyss",
+      "set": "Primal Clash",
+      "img": "https://den-cards.pokellector.com/166/Gorebyss.PCL.51.png",
+      "rarity": "Uncommon",
+      "cardNum": "51/160"
+    },
+    {
+      "name": "Gorebyss",
+      "set": "Primal Clash",
+      "img": "https://den-cards.pokellector.com/166/Gorebyss.PCL.52.png",
+      "rarity": "Rare",
+      "cardNum": "52/160"
+    },
+    {
+      "name": "Kyogre",
+      "set": "Primal Clash",
+      "img": "https://den-cards.pokellector.com/166/Kyogre.PCL.53.png",
+      "rarity": "Rare",
+      "cardNum": "53/160"
+    },
+    {
+      "name": "Kyogre EX",
+      "set": "Primal Clash",
+      "img": "https://den-cards.pokellector.com/166/Kyogre-EX.PCL.54.png",
+      "rarity": "Rare",
+      "cardNum": "54/160"
+    },
+    {
+      "name": "Primal Kyogre EX",
+      "set": "Primal Clash",
+      "img": "https://den-cards.pokellector.com/166/M-Primal-Kyogre-EX..55.png",
+      "rarity": "Rare",
+      "cardNum": "55/160"
+    },
+    {
+      "name": "Manaphy",
+      "set": "Primal Clash",
+      "img": "https://den-cards.pokellector.com/166/Manaphy.PCL.56.png",
+      "rarity": "Rare",
+      "cardNum": "56/160"
+    },
+    {
+      "name": "Chinchou",
+      "set": "Primal Clash",
+      "img": "https://den-cards.pokellector.com/166/Chinchou.PCL.57.png",
+      "rarity": "Common",
+      "cardNum": "57/160"
+    },
+    {
+      "name": "Lanturn",
+      "set": "Primal Clash",
+      "img": "https://den-cards.pokellector.com/166/Lanturn.PCL.58.png",
+      "rarity": "Uncommon",
+      "cardNum": "58/160"
+    },
+    {
+      "name": "Electrike",
+      "set": "Primal Clash",
+      "img": "https://den-cards.pokellector.com/166/Electrike.PCL.59.png",
+      "rarity": "Common",
+      "cardNum": "59/160"
+    },
+    {
+      "name": "Electrike",
+      "set": "Primal Clash",
+      "img": "https://den-cards.pokellector.com/166/Electrike.PCL.60.png",
+      "rarity": "Uncommon",
+      "cardNum": "60/160"
+    },
+    {
+      "name": "Manectric",
+      "set": "Primal Clash",
+      "img": "https://den-cards.pokellector.com/166/Manectric.PCL.61.png",
+      "rarity": "Rare",
+      "cardNum": "61/160"
+    },
+    {
+      "name": "Tynamo",
+      "set": "Primal Clash",
+      "img": "https://den-cards.pokellector.com/166/Tynamo.PCL.62.png",
+      "rarity": "Common",
+      "cardNum": "62/160"
+    },
+    {
+      "name": "Eelektrik",
+      "set": "Primal Clash",
+      "img": "https://den-cards.pokellector.com/166/Eelektrik.PCL.63.png",
+      "rarity": "Uncommon",
+      "cardNum": "63/160"
+    },
+    {
+      "name": "Eelektrik",
+      "set": "Primal Clash",
+      "img": "https://den-cards.pokellector.com/166/Eelektrik.PCL.64.png",
+      "rarity": "Rare",
+      "cardNum": "64/160"
+    },
+    {
+      "name": "Eelektross",
+      "set": "Primal Clash",
+      "img": "https://den-cards.pokellector.com/166/Eelektross.PCL.65.png",
+      "rarity": "Rare",
+      "cardNum": "65/160"
+    },
+    {
+      "name": "Nidoran (f)",
+      "set": "Primal Clash",
+      "img": "https://den-cards.pokellector.com/166/Nidoran-f.PCL.66.png",
+      "rarity": "Common",
+      "cardNum": "66/160"
+    },
+    {
+      "name": "Nidorina",
+      "set": "Primal Clash",
+      "img": "https://den-cards.pokellector.com/166/Nidorina.PCL.67.png",
+      "rarity": "Uncommon",
+      "cardNum": "67/160"
+    },
+    {
+      "name": "Nidoqueen",
+      "set": "Primal Clash",
+      "img": "https://den-cards.pokellector.com/166/Nidoqueen.PCL.68.png",
+      "rarity": "Uncommon",
+      "cardNum": "68/160"
+    },
+    {
+      "name": "Nidoqueen",
+      "set": "Primal Clash",
+      "img": "https://den-cards.pokellector.com/166/Nidoqueen.PCL.69.png",
+      "rarity": "Rare",
+      "cardNum": "69/160"
+    },
+    {
+      "name": "Tentacool",
+      "set": "Primal Clash",
+      "img": "https://den-cards.pokellector.com/166/Tentacool.PCL.70.png",
+      "rarity": "Common",
+      "cardNum": "70/160"
+    },
+    {
+      "name": "Tentacool",
+      "set": "Primal Clash",
+      "img": "https://den-cards.pokellector.com/166/Tentacool.PCL.71.png",
+      "rarity": "Uncommon",
+      "cardNum": "71/160"
+    },
+    {
+      "name": "Tentacruel",
+      "set": "Primal Clash",
+      "img": "https://den-cards.pokellector.com/166/Tentacruel.PCL.72.png",
+      "rarity": "Rare",
+      "cardNum": "72/160"
+    },
+    {
+      "name": "Starmie",
+      "set": "Primal Clash",
+      "img": "https://den-cards.pokellector.com/166/Starmie.PCL.73.png",
+      "rarity": "Rare",
+      "cardNum": "73/160"
+    },
+    {
+      "name": "Rhyhorn",
+      "set": "Primal Clash",
+      "img": "https://den-cards.pokellector.com/166/Rhyhorn.PCL.74.png",
+      "rarity": "Common",
+      "cardNum": "74/160"
+    },
+    {
+      "name": "Rhydon",
+      "set": "Primal Clash",
+      "img": "https://den-cards.pokellector.com/166/Rhydon.PCL.75.png",
+      "rarity": "Uncommon",
+      "cardNum": "75/160"
+    },
+    {
+      "name": "Rhyperior",
+      "set": "Primal Clash",
+      "img": "https://den-cards.pokellector.com/166/Rhyperior.PCL.76.png",
+      "rarity": "Rare",
+      "cardNum": "76/160"
+    },
+    {
+      "name": "Rhyperior",
+      "set": "Primal Clash",
+      "img": "https://den-cards.pokellector.com/166/Rhyperior.PCL.77.png",
+      "rarity": "Rare",
+      "cardNum": "77/160"
+    },
+    {
+      "name": "Nosepass",
+      "set": "Primal Clash",
+      "img": "https://den-cards.pokellector.com/166/Nosepass.PCL.78.png",
+      "rarity": "Common",
+      "cardNum": "78/160"
+    },
+    {
+      "name": "Meditite",
+      "set": "Primal Clash",
+      "img": "https://den-cards.pokellector.com/166/Meditite.PCL.79.png",
+      "rarity": "Common",
+      "cardNum": "79/160"
+    },
+    {
+      "name": "Medicham",
+      "set": "Primal Clash",
+      "img": "https://den-cards.pokellector.com/166/Medicham.PCL.80.png",
+      "rarity": "Rare",
+      "cardNum": "80/160"
+    },
+    {
+      "name": "Medicham",
+      "set": "Primal Clash",
+      "img": "https://den-cards.pokellector.com/166/Medicham.PCL.81.png",
+      "rarity": "Rare",
+      "cardNum": "81/160"
+    },
+    {
+      "name": "Trapinch",
+      "set": "Primal Clash",
+      "img": "https://den-cards.pokellector.com/166/Trapinch.PCL.82.png",
+      "rarity": "Common",
+      "cardNum": "82/160"
+    },
+    {
+      "name": "Solrock",
+      "set": "Primal Clash",
+      "img": "https://den-cards.pokellector.com/166/Solrock.PCL.83.png",
+      "rarity": "Common",
+      "cardNum": "83/160"
+    },
+    {
+      "name": "Groudon",
+      "set": "Primal Clash",
+      "img": "https://den-cards.pokellector.com/166/Groudon.PCL.84.png",
+      "rarity": "Rare",
+      "cardNum": "84/160"
+    },
+    {
+      "name": "Groudon EX",
+      "set": "Primal Clash",
+      "img": "https://den-cards.pokellector.com/166/Groudon-EX.PCL.85.png",
+      "rarity": "Rare",
+      "cardNum": "85/160"
+    },
+    {
+      "name": "Primal Groudon EX",
+      "set": "Primal Clash",
+      "img": "https://den-cards.pokellector.com/166/Primal-Groudon-EX.PCL.86.png",
+      "rarity": "Rare",
+      "cardNum": "86/160"
+    },
+    {
+      "name": "Hippopotas",
+      "set": "Primal Clash",
+      "img": "https://den-cards.pokellector.com/166/Hippopotas.PCL.87.png",
+      "rarity": "Common",
+      "cardNum": "87/160"
+    },
+    {
+      "name": "Hippowdon",
+      "set": "Primal Clash",
+      "img": "https://den-cards.pokellector.com/166/Hippowdon.PCL.88.png",
+      "rarity": "Rare",
+      "cardNum": "88/160"
+    },
+    {
+      "name": "Drilbur",
+      "set": "Primal Clash",
+      "img": "https://den-cards.pokellector.com/166/Drilbur.PCL.89.png",
+      "rarity": "Common",
+      "cardNum": "89/160"
+    },
+    {
+      "name": "Diggersby",
+      "set": "Primal Clash",
+      "img": "https://den-cards.pokellector.com/166/Diggersby.PCL.90.png",
+      "rarity": "Rare",
+      "cardNum": "90/160"
+    },
+    {
+      "name": "Sharpedo EX",
+      "set": "Primal Clash",
+      "img": "https://den-cards.pokellector.com/166/Sharpedo-EX.PCL.91.png",
+      "rarity": "Rare",
+      "cardNum": "91/160"
+    },
+    {
+      "name": "Crawdaunt",
+      "set": "Primal Clash",
+      "img": "https://den-cards.pokellector.com/166/Crawdaunt.PCL.92.png",
+      "rarity": "Rare",
+      "cardNum": "92/160"
+    },
+    {
+      "name": "Aggron EX",
+      "set": "Primal Clash",
+      "img": "https://den-cards.pokellector.com/166/Aggron-EX.PCL.93.png",
+      "rarity": "Rare",
+      "cardNum": "93/160"
+    },
+    {
+      "name": "M Aggron EX",
+      "set": "Primal Clash",
+      "img": "https://den-cards.pokellector.com/166/M-Aggron-EX.PCL.94.png",
+      "rarity": "Rare",
+      "cardNum": "94/160"
+    },
+    {
+      "name": "Probopass",
+      "set": "Primal Clash",
+      "img": "https://den-cards.pokellector.com/166/Probopass.PCL.95.png",
+      "rarity": "Rare",
+      "cardNum": "95/160"
+    },
+    {
+      "name": "Excadrill",
+      "set": "Primal Clash",
+      "img": "https://den-cards.pokellector.com/166/Excadrill.PCL.96.png",
+      "rarity": "Rare",
+      "cardNum": "96/160"
+    },
+    {
+      "name": "Excadrill",
+      "set": "Primal Clash",
+      "img": "https://den-cards.pokellector.com/166/Excadrill.PCL.97.png",
+      "rarity": "Rare",
+      "cardNum": "97/160"
+    },
+    {
+      "name": "Honedge",
+      "set": "Primal Clash",
+      "img": "https://den-cards.pokellector.com/166/Honedge.PCL.98.png",
+      "rarity": "Common",
+      "cardNum": "98/160"
+    },
+    {
+      "name": "Doublade",
+      "set": "Primal Clash",
+      "img": "https://den-cards.pokellector.com/166/Doublade.PCL.99.png",
+      "rarity": "Uncommon",
+      "cardNum": "99/160"
+    },
+    {
+      "name": "Aegislash",
+      "set": "Primal Clash",
+      "img": "https://den-cards.pokellector.com/166/Aegislash.PCL.100.png",
+      "rarity": "Rare",
+      "cardNum": "100/160"
+    },
+    {
+      "name": "Mr. Mime",
+      "set": "Primal Clash",
+      "img": "https://den-cards.pokellector.com/166/Mr-Mime.PCL.101.png",
+      "rarity": "Uncommon",
+      "cardNum": "101/160"
+    },
+    {
+      "name": "Marill",
+      "set": "Primal Clash",
+      "img": "https://den-cards.pokellector.com/166/Marill.PCL.102.png",
+      "rarity": "Common",
+      "cardNum": "102/160"
+    },
+    {
+      "name": "Azumarill",
+      "set": "Primal Clash",
+      "img": "https://den-cards.pokellector.com/166/Azumarill.PCL.103.png",
+      "rarity": "Rare",
+      "cardNum": "103/160"
+    },
+    {
+      "name": "Azumarill",
+      "set": "Primal Clash",
+      "img": "https://den-cards.pokellector.com/166/Azumarill.PRC.104.png",
+      "rarity": "Rare",
+      "cardNum": "104/160"
+    },
+    {
+      "name": "Gardevoir EX",
+      "set": "Primal Clash",
+      "img": "https://den-cards.pokellector.com/166/Gardevoir-EX.PCL.105.png",
+      "rarity": "Rare",
+      "cardNum": "105/160"
+    },
+    {
+      "name": "M Gardevoir EX",
+      "set": "Primal Clash",
+      "img": "https://den-cards.pokellector.com/166/M-Gardevoir-EX.PCL.106.png",
+      "rarity": "Rare",
+      "cardNum": "106/160"
+    },
+    {
+      "name": "Kingdra",
+      "set": "Primal Clash",
+      "img": "https://den-cards.pokellector.com/166/Kingdra.PCL.107.png",
+      "rarity": "Rare",
+      "cardNum": "107/160"
+    },
+    {
+      "name": "Kingdra",
+      "set": "Primal Clash",
+      "img": "https://den-cards.pokellector.com/166/Kingdra.PCL.108.png",
+      "rarity": "Rare",
+      "cardNum": "108/160"
+    },
+    {
+      "name": "Vibrava",
+      "set": "Primal Clash",
+      "img": "https://den-cards.pokellector.com/166/Vibrava.PCL.109.png",
+      "rarity": "Uncommon",
+      "cardNum": "109/160"
+    },
+    {
+      "name": "Flygon",
+      "set": "Primal Clash",
+      "img": "https://den-cards.pokellector.com/166/Flygon.PCL.110.png",
+      "rarity": "Rare",
+      "cardNum": "110/160"
+    },
+    {
+      "name": "Zigzagoon",
+      "set": "Primal Clash",
+      "img": "https://den-cards.pokellector.com/166/Zigzagoon.PCL.111.png",
+      "rarity": "Common",
+      "cardNum": "111/160"
+    },
+    {
+      "name": "Linoone",
+      "set": "Primal Clash",
+      "img": "https://den-cards.pokellector.com/166/Linoone.PCL.112.png",
+      "rarity": "Uncommon",
+      "cardNum": "112/160"
+    },
+    {
+      "name": "Skitty",
+      "set": "Primal Clash",
+      "img": "https://den-cards.pokellector.com/166/Skitty.PCL.113.png",
+      "rarity": "Common",
+      "cardNum": "113/160"
+    },
+    {
+      "name": "Delcatty",
+      "set": "Primal Clash",
+      "img": "https://den-cards.pokellector.com/166/Delcatty.PCL.114.png",
+      "rarity": "Rare",
+      "cardNum": "114/160"
+    },
+    {
+      "name": "Spinda",
+      "set": "Primal Clash",
+      "img": "https://den-cards.pokellector.com/166/Spinda.PCL.115.png",
+      "rarity": "Common",
+      "cardNum": "115/160"
+    },
+    {
+      "name": "Bidoof",
+      "set": "Primal Clash",
+      "img": "https://den-cards.pokellector.com/166/Bidoof.PCL.116.png",
+      "rarity": "Common",
+      "cardNum": "116/160"
+    },
+    {
+      "name": "Bidoof",
+      "set": "Primal Clash",
+      "img": "https://den-cards.pokellector.com/166/Bidoof.PRC.117.png",
+      "rarity": "Uncommon",
+      "cardNum": "117/160"
+    },
+    {
+      "name": "Bibarel",
+      "set": "Primal Clash",
+      "img": "https://den-cards.pokellector.com/166/Bibarel.PCL.118.png",
+      "rarity": "Uncommon",
+      "cardNum": "118/160"
+    },
+    {
+      "name": "Bouffalant",
+      "set": "Primal Clash",
+      "img": "https://den-cards.pokellector.com/166/Bouffalant.PCL.119.png",
+      "rarity": "Uncommon",
+      "cardNum": "119/160"
+    },
+    {
+      "name": "Bunnelby",
+      "set": "Primal Clash",
+      "img": "https://den-cards.pokellector.com/166/Bunnelby.PCL.120.png",
+      "rarity": "Common",
+      "cardNum": "120/160"
+    },
+    {
+      "name": "Bunnelby",
+      "set": "Primal Clash",
+      "img": "https://den-cards.pokellector.com/166/Bunnelby.PCL.121.png",
+      "rarity": "Uncommon",
+      "cardNum": "121/160"
+    },
+    {
+      "name": "Acro Bike",
+      "set": "Primal Clash",
+      "img": "https://den-cards.pokellector.com/166/Acro-Bike.PCL.122.png",
+      "rarity": "Uncommon",
+      "cardNum": "122/160"
+    },
+    {
+      "name": "Aggron Spirit Link",
+      "set": "Primal Clash",
+      "img": "https://den-cards.pokellector.com/166/Aggron-Spirit-Link.PCL.123.png",
+      "rarity": "Uncommon",
+      "cardNum": "123/160"
+    },
+    {
+      "name": "Archie's Ace in the Hole",
+      "set": "Primal Clash",
+      "img": "https://den-cards.pokellector.com/166/Archies-Ace-in-the-Hole.PCL.124.png",
+      "rarity": "Uncommon",
+      "cardNum": "124/160"
+    },
+    {
+      "name": "Dive Ball",
+      "set": "Primal Clash",
+      "img": "https://den-cards.pokellector.com/166/Dive-Ball.PCL.125.png",
+      "rarity": "Uncommon",
+      "cardNum": "125/160"
+    },
+    {
+      "name": "Energy Retrieval",
+      "set": "Primal Clash",
+      "img": "https://den-cards.pokellector.com/166/Energy-Retrieval.PCL.126.png",
+      "rarity": "Uncommon",
+      "cardNum": "126/160"
+    },
+    {
+      "name": "Escape Rope",
+      "set": "Primal Clash",
+      "img": "https://den-cards.pokellector.com/166/Escape-Rope.PCL.127.png",
+      "rarity": "Uncommon",
+      "cardNum": "127/160"
+    },
+    {
+      "name": "Exp. Share",
+      "set": "Primal Clash",
+      "img": "https://den-cards.pokellector.com/166/Exp-Share.PCL.128.png",
+      "rarity": "Uncommon",
+      "cardNum": "128/160"
+    },
+    {
+      "name": "Fresh Water Set",
+      "set": "Primal Clash",
+      "img": "https://den-cards.pokellector.com/166/Fresh-Water-Set.PCL.129.png",
+      "rarity": "Uncommon",
+      "cardNum": "129/160"
+    },
+    {
+      "name": "Gardevoir Spirit Link",
+      "set": "Primal Clash",
+      "img": "https://den-cards.pokellector.com/166/Gardevoir-Spirit-Link.PCL.130.png",
+      "rarity": "Uncommon",
+      "cardNum": "130/160"
+    },
+    {
+      "name": "Groudon Spirit Link",
+      "set": "Primal Clash",
+      "img": "https://den-cards.pokellector.com/166/Groudon-Spirit-Link.PCL.131.png",
+      "rarity": "Uncommon",
+      "cardNum": "131/160"
+    },
+    {
+      "name": "Kyogre Spirit Link",
+      "set": "Primal Clash",
+      "img": "https://den-cards.pokellector.com/166/Kyogre-Spirit-Link.PCL.132.png",
+      "rarity": "Uncommon",
+      "cardNum": "132/160"
+    },
+    {
+      "name": "Maxie's Hidden Ball Trick",
+      "set": "Primal Clash",
+      "img": "https://den-cards.pokellector.com/166/Maxies-Hidden-Ball-Trick.PCL.133.png",
+      "rarity": "Uncommon",
+      "cardNum": "133/160"
+    },
+    {
+      "name": "Professor Birch's Observations",
+      "set": "Primal Clash",
+      "img": "https://den-cards.pokellector.com/166/Professor-Birchs-Observations.PCL.134.png",
+      "rarity": "Uncommon",
+      "cardNum": "134/160"
+    },
+    {
+      "name": "Rare Candy",
+      "set": "Primal Clash",
+      "img": "https://den-cards.pokellector.com/166/Rare-Candy.PCL.135.png",
+      "rarity": "Uncommon",
+      "cardNum": "135/160"
+    },
+    {
+      "name": "Repeat Ball",
+      "set": "Primal Clash",
+      "img": "https://den-cards.pokellector.com/166/Repeat-Ball.PCL.136.png",
+      "rarity": "Uncommon",
+      "cardNum": "136/160"
+    },
+    {
+      "name": "Rough Seas",
+      "set": "Primal Clash",
+      "img": "https://den-cards.pokellector.com/166/Rough-Seas.PCL.137.png",
+      "rarity": "Uncommon",
+      "cardNum": "137/160"
+    },
+    {
+      "name": "Scorched Earth",
+      "set": "Primal Clash",
+      "img": "https://den-cards.pokellector.com/166/Scorched-Earth.PCL.138.png",
+      "rarity": "Uncommon",
+      "cardNum": "138/160"
+    },
+    {
+      "name": "Shrine of Memories",
+      "set": "Primal Clash",
+      "img": "https://den-cards.pokellector.com/166/Shrine-of-Memories.PCL.139.png",
+      "rarity": "Uncommon",
+      "cardNum": "139/160"
+    },
+    {
+      "name": "Silent Lab",
+      "set": "Primal Clash",
+      "img": "https://den-cards.pokellector.com/166/Silent-Lab.PCL.140.png",
+      "rarity": "Uncommon",
+      "cardNum": "140/160"
+    },
+    {
+      "name": "Teammates",
+      "set": "Primal Clash",
+      "img": "https://den-cards.pokellector.com/166/Teammates.PCL.141.png",
+      "rarity": "Uncommon",
+      "cardNum": "141/160"
+    },
+    {
+      "name": "Weakness Policy",
+      "set": "Primal Clash",
+      "img": "https://den-cards.pokellector.com/166/Weakness-Policy.PCL.142.png",
+      "rarity": "Uncommon",
+      "cardNum": "142/160"
+    },
+    {
+      "name": "Shield Energy",
+      "set": "Primal Clash",
+      "img": "https://den-cards.pokellector.com/166/Shield-Energy.PCL.143.png",
+      "rarity": "Uncommon",
+      "cardNum": "143/160"
+    },
+    {
+      "name": "Wonder Energy",
+      "set": "Primal Clash",
+      "img": "https://den-cards.pokellector.com/166/Wonder-Energy.PCL.144.png",
+      "rarity": "Uncommon",
+      "cardNum": "144/160"
+    },
+    {
+      "name": "Trevenant EX",
+      "set": "Primal Clash",
+      "img": "https://den-cards.pokellector.com/166/Trevenant-EX.PCL.145.png",
+      "rarity": "Rare",
+      "cardNum": "145/160"
+    },
+    {
+      "name": "Camerupt EX",
+      "set": "Primal Clash",
+      "img": "https://den-cards.pokellector.com/166/Camerupt-EX.PCL.146.png",
+      "rarity": "Rare",
+      "cardNum": "146/160"
+    },
+    {
+      "name": "Wailord EX",
+      "set": "Primal Clash",
+      "img": "https://den-cards.pokellector.com/166/Wailord-EX.PCL.147.png",
+      "rarity": "Rare",
+      "cardNum": "147/160"
+    },
+    {
+      "name": "Kyogre EX",
+      "set": "Primal Clash",
+      "img": "https://den-cards.pokellector.com/166/Kyogre-EX.PCL.148.png",
+      "rarity": "Rare",
+      "cardNum": "148/160"
+    },
+    {
+      "name": "Primal Kyogre EX",
+      "set": "Primal Clash",
+      "img": "https://den-cards.pokellector.com/166/Primal-Kyogre-EX.PCL.149.png",
+      "rarity": "Rare",
+      "cardNum": "149/160"
+    },
+    {
+      "name": "Groudon EX",
+      "set": "Primal Clash",
+      "img": "https://den-cards.pokellector.com/166/Groudon-EX.PCL.150.png",
+      "rarity": "Rare",
+      "cardNum": "150/160"
+    },
+    {
+      "name": "Primal Groudon EX",
+      "set": "Primal Clash",
+      "img": "https://den-cards.pokellector.com/166/Primal-Groudon-EX.PCL.151.png",
+      "rarity": "Rare",
+      "cardNum": "151/160"
+    },
+    {
+      "name": "Sharpedo EX",
+      "set": "Primal Clash",
+      "img": "https://den-cards.pokellector.com/166/Sharpedo-EX.PCL.152.png",
+      "rarity": "Rare",
+      "cardNum": "152/160"
+    },
+    {
+      "name": "Aggron EX",
+      "set": "Primal Clash",
+      "img": "https://den-cards.pokellector.com/166/Aggron-EX.PCL.153.png",
+      "rarity": "Rare",
+      "cardNum": "153/160"
+    },
+    {
+      "name": "M Aggron EX",
+      "set": "Primal Clash",
+      "img": "https://den-cards.pokellector.com/166/M-Aggron-EX.PCL.154.png",
+      "rarity": "Rare",
+      "cardNum": "154/160"
+    },
+    {
+      "name": "Gardevoir EX",
+      "set": "Primal Clash",
+      "img": "https://den-cards.pokellector.com/166/Gardevoir-EX.PCL.155.png",
+      "rarity": "Rare",
+      "cardNum": "155/160"
+    },
+    {
+      "name": "M Gardevoir EX",
+      "set": "Primal Clash",
+      "img": "https://den-cards.pokellector.com/166/M-Gardevoir-EX.PRC.156.png",
+      "rarity": "Rare",
+      "cardNum": "156/160"
+    },
+    {
+      "name": "Archie's Ace in the Hole",
+      "set": "Primal Clash",
+      "img": "https://den-cards.pokellector.com/166/Archies-Ace-in-the-Hole.PCL.157.png",
+      "rarity": "Rare",
+      "cardNum": "157/160"
+    },
+    {
+      "name": "Maxie's Hidden Ball Trick",
+      "set": "Primal Clash",
+      "img": "https://den-cards.pokellector.com/166/Maxies-Hidden-Ball-Trick.PCL.158.png",
+      "rarity": "Rare",
+      "cardNum": "158/160"
+    },
+    {
+      "name": "Professor Birch's Observations",
+      "set": "Primal Clash",
+      "img": "https://den-cards.pokellector.com/166/Professor-Birchs-Observations.PCL.159.png",
+      "rarity": "Rare",
+      "cardNum": "159/160"
+    },
+    {
+      "name": "Teammates",
+      "set": "Primal Clash",
+      "img": "https://den-cards.pokellector.com/166/Teammates.PCL.160.png",
+      "rarity": "Rare",
+      "cardNum": "160/160"
+    },
+    {
+      "name": "Dive Ball",
+      "set": "Primal Clash",
+      "img": "https://den-cards.pokellector.com/166/Dive-Ball.PCL.161.png",
+      "rarity": "Secret Rare",
+      "cardNum": "161/160"
+    },
+    {
+      "name": "Enhanced Hammer",
+      "set": "Primal Clash",
+      "img": "https://den-cards.pokellector.com/166/Enhanced-Hammer.PCL.162.png",
+      "rarity": "Secret Rare",
+      "cardNum": "162/160"
+    },
+    {
+      "name": "Switch",
+      "set": "Primal Clash",
+      "img": "https://den-cards.pokellector.com/166/Switch.PCL.163.png",
+      "rarity": "Secret Rare",
+      "cardNum": "163/160"
+    },
+    {
+      "name": "Weakness Policy",
+      "set": "Primal Clash",
+      "img": "https://den-cards.pokellector.com/166/Weakness-Policy.PCL.164.png",
+      "rarity": "Secret Rare",
+      "cardNum": "164/160"
+    }
+  ]
+}

@@ -1,0 +1,530 @@
+{
+  "setName": "Shield",
+  "cards": [
+    {
+      "name": "Blipbug",
+      "set": "Shield",
+      "img": "https://den-cards.pokellector.com/284/Blipbug.S1H.1.31278.png",
+      "rarity": "Common",
+      "cardNum": "1/60"
+    },
+    {
+      "name": "Dottler",
+      "set": "Shield",
+      "img": "https://den-cards.pokellector.com/284/Dottler.S1H.2.31279.png",
+      "rarity": "Common",
+      "cardNum": "2/60"
+    },
+    {
+      "name": "Orbeetle",
+      "set": "Shield",
+      "img": "https://den-cards.pokellector.com/284/Orbeetle.S1H.3.31280.png",
+      "rarity": "Uncommon",
+      "cardNum": "3/60"
+    },
+    {
+      "name": "Gossifleur",
+      "set": "Shield",
+      "img": "https://den-cards.pokellector.com/284/Gossifleur.S1H.4.31281.png",
+      "rarity": "Common",
+      "cardNum": "4/60"
+    },
+    {
+      "name": "Eldegoss",
+      "set": "Shield",
+      "img": "https://den-cards.pokellector.com/284/Eldegoss.S1H.5.31282.png",
+      "rarity": "Common",
+      "cardNum": "5/60"
+    },
+    {
+      "name": "Torkoal V",
+      "set": "Shield",
+      "img": "https://den-cards.pokellector.com/284/Torkoal-V.S1H.6.31283.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "6/60"
+    },
+    {
+      "name": "Scorbunny",
+      "set": "Shield",
+      "img": "https://den-cards.pokellector.com/284/Scorbunny.S1H.7.31284.png",
+      "rarity": "Common",
+      "cardNum": "7/60"
+    },
+    {
+      "name": "Raboot",
+      "set": "Shield",
+      "img": "https://den-cards.pokellector.com/284/Raboot.S1H.8.31285.png",
+      "rarity": "Uncommon",
+      "cardNum": "8/60"
+    },
+    {
+      "name": "Cinderace",
+      "set": "Shield",
+      "img": "https://den-cards.pokellector.com/284/Cinderace.S1H.9.31198.png",
+      "rarity": "Rare",
+      "cardNum": "9/60"
+    },
+    {
+      "name": "Goldeen",
+      "set": "Shield",
+      "img": "https://den-cards.pokellector.com/284/Goldeen.S1H.10.31286.png",
+      "rarity": "Common",
+      "cardNum": "10/60"
+    },
+    {
+      "name": "Seaking",
+      "set": "Shield",
+      "img": "https://den-cards.pokellector.com/284/Seaking.S1H.11.31287.png",
+      "rarity": "Common",
+      "cardNum": "11/60"
+    },
+    {
+      "name": "Qwilfish",
+      "set": "Shield",
+      "img": "https://den-cards.pokellector.com/284/Qwilfish.S1H.12.31288.png",
+      "rarity": "Common",
+      "cardNum": "12/60"
+    },
+    {
+      "name": "Chewtle",
+      "set": "Shield",
+      "img": "https://den-cards.pokellector.com/284/Chewtle.S1H.13.31289.png",
+      "rarity": "Common",
+      "cardNum": "13/60"
+    },
+    {
+      "name": "Drednaw",
+      "set": "Shield",
+      "img": "https://den-cards.pokellector.com/284/Drednaw.S1H.14.31290.png",
+      "rarity": "Uncommon",
+      "cardNum": "14/60"
+    },
+    {
+      "name": "Snom",
+      "set": "Shield",
+      "img": "https://den-cards.pokellector.com/284/Snom.S1H.15.31291.png",
+      "rarity": "Common",
+      "cardNum": "15/60"
+    },
+    {
+      "name": "Frosmoth",
+      "set": "Shield",
+      "img": "https://den-cards.pokellector.com/284/Frosmoth.S1H.16.31292.png",
+      "rarity": "Rare",
+      "cardNum": "16/60"
+    },
+    {
+      "name": "Chinchou",
+      "set": "Shield",
+      "img": "https://den-cards.pokellector.com/284/Chinchou.S1H.17.31293.png",
+      "rarity": "Common",
+      "cardNum": "17/60"
+    },
+    {
+      "name": "Lanturn",
+      "set": "Shield",
+      "img": "https://den-cards.pokellector.com/284/Lanturn.S1H.18.31294.png",
+      "rarity": "Uncommon",
+      "cardNum": "18/60"
+    },
+    {
+      "name": "Morpeko V",
+      "set": "Shield",
+      "img": "https://den-cards.pokellector.com/284/Morpeko-V.S1H.19.31295.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "19/60"
+    },
+    {
+      "name": "Morpeko VMAX",
+      "set": "Shield",
+      "img": "https://den-cards.pokellector.com/284/Morpeko-VMAX.S1H.20.31296.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "20/60"
+    },
+    {
+      "name": "Galarian Ponyta",
+      "set": "Shield",
+      "img": "https://den-cards.pokellector.com/284/Galarian-Ponyta.S1H.21.31297.png",
+      "rarity": "Common",
+      "cardNum": "21/60"
+    },
+    {
+      "name": "Galarian Rapidash",
+      "set": "Shield",
+      "img": "https://den-cards.pokellector.com/284/Galarian-Rapidash.S1H.22.31298.png",
+      "rarity": "Uncommon",
+      "cardNum": "22/60"
+    },
+    {
+      "name": "Munna",
+      "set": "Shield",
+      "img": "https://den-cards.pokellector.com/284/Munna.S1H.23.31299.png",
+      "rarity": "Common",
+      "cardNum": "23/60"
+    },
+    {
+      "name": "Musharna",
+      "set": "Shield",
+      "img": "https://den-cards.pokellector.com/284/Musharna.S1H.24.31300.png",
+      "rarity": "Uncommon",
+      "cardNum": "24/60"
+    },
+    {
+      "name": "Indeedee V",
+      "set": "Shield",
+      "img": "https://den-cards.pokellector.com/284/Indeedee-V.S1H.25.31202.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "25/60"
+    },
+    {
+      "name": "Hitmonlee",
+      "set": "Shield",
+      "img": "https://den-cards.pokellector.com/284/Hitmonlee.S1H.26.31301.png",
+      "rarity": "Common",
+      "cardNum": "26/60"
+    },
+    {
+      "name": "Hitmonchan",
+      "set": "Shield",
+      "img": "https://den-cards.pokellector.com/284/Hitmonchan.S1H.27.31302.png",
+      "rarity": "Common",
+      "cardNum": "27/60"
+    },
+    {
+      "name": "Rhyhorn",
+      "set": "Shield",
+      "img": "https://den-cards.pokellector.com/284/Rhyhorn.S1H.28.31303.png",
+      "rarity": "Common",
+      "cardNum": "28/60"
+    },
+    {
+      "name": "Rhydon",
+      "set": "Shield",
+      "img": "https://den-cards.pokellector.com/284/Rhydon.S1H.29.31304.png",
+      "rarity": "Uncommon",
+      "cardNum": "29/60"
+    },
+    {
+      "name": "Rhyperior",
+      "set": "Shield",
+      "img": "https://den-cards.pokellector.com/284/Rhyperior.S1H.30.31305.png",
+      "rarity": "Rare",
+      "cardNum": "30/60"
+    },
+    {
+      "name": "Silicobra",
+      "set": "Shield",
+      "img": "https://den-cards.pokellector.com/284/Silicobra.S1H.31.31306.png",
+      "rarity": "Common",
+      "cardNum": "31/60"
+    },
+    {
+      "name": "Sandaconda",
+      "set": "Shield",
+      "img": "https://den-cards.pokellector.com/284/Sandaconda.S1H.32.31307.png",
+      "rarity": "Uncommon",
+      "cardNum": "32/60"
+    },
+    {
+      "name": "Galarian Zigzagoon",
+      "set": "Shield",
+      "img": "https://den-cards.pokellector.com/284/Galarian-Zigzagoon.S1H.33.31199.png",
+      "rarity": "Common",
+      "cardNum": "33/60"
+    },
+    {
+      "name": "Galarian Linoone",
+      "set": "Shield",
+      "img": "https://den-cards.pokellector.com/284/Galarian-Linoone.S1H.34.31308.png",
+      "rarity": "Uncommon",
+      "cardNum": "34/60"
+    },
+    {
+      "name": "Galarian Obstagoon",
+      "set": "Shield",
+      "img": "https://den-cards.pokellector.com/284/Galarian-Obstagoon.S1H.35.31309.png",
+      "rarity": "Rare",
+      "cardNum": "35/60"
+    },
+    {
+      "name": "Sableye V",
+      "set": "Shield",
+      "img": "https://den-cards.pokellector.com/284/Sableye-V.S1H.36.31310.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "36/60"
+    },
+    {
+      "name": "Skorupi",
+      "set": "Shield",
+      "img": "https://den-cards.pokellector.com/284/Skorupi.S1H.37.31311.png",
+      "rarity": "Common",
+      "cardNum": "37/60"
+    },
+    {
+      "name": "Drapion",
+      "set": "Shield",
+      "img": "https://den-cards.pokellector.com/284/Drapion.S1H.38.31312.png",
+      "rarity": "Uncommon",
+      "cardNum": "38/60"
+    },
+    {
+      "name": "Mawile",
+      "set": "Shield",
+      "img": "https://den-cards.pokellector.com/284/Mawile.S1H.39.31313.png",
+      "rarity": "Common",
+      "cardNum": "39/60"
+    },
+    {
+      "name": "Pawniard",
+      "set": "Shield",
+      "img": "https://den-cards.pokellector.com/284/Pawniard.S1H.40.31314.png",
+      "rarity": "Common",
+      "cardNum": "40/60"
+    },
+    {
+      "name": "Bisharp",
+      "set": "Shield",
+      "img": "https://den-cards.pokellector.com/284/Bisharp.S1H.41.31315.png",
+      "rarity": "Common",
+      "cardNum": "41/60"
+    },
+    {
+      "name": "Cufant",
+      "set": "Shield",
+      "img": "https://den-cards.pokellector.com/284/Cufant.S1H.42.31316.png",
+      "rarity": "Common",
+      "cardNum": "42/60"
+    },
+    {
+      "name": "Copperajah",
+      "set": "Shield",
+      "img": "https://den-cards.pokellector.com/284/Copperajah.S1H.43.31317.png",
+      "rarity": "Rare",
+      "cardNum": "43/60"
+    },
+    {
+      "name": "Zamazenta V",
+      "set": "Shield",
+      "img": "https://den-cards.pokellector.com/284/Zamazenta-V.S1H.44.31194.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "44/60"
+    },
+    {
+      "name": "Snorlax V",
+      "set": "Shield",
+      "img": "https://den-cards.pokellector.com/284/Snorlax-V.S1H.45.31189.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "45/60"
+    },
+    {
+      "name": "Snorlax VMAX",
+      "set": "Shield",
+      "img": "https://den-cards.pokellector.com/284/Snorlax-V-MAX.S1H.46.31190.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "46/60"
+    },
+    {
+      "name": "Hoothoot",
+      "set": "Shield",
+      "img": "https://den-cards.pokellector.com/284/Hoothoot.S1H.47.31318.png",
+      "rarity": "Common",
+      "cardNum": "47/60"
+    },
+    {
+      "name": "Noctowl",
+      "set": "Shield",
+      "img": "https://den-cards.pokellector.com/284/Noctowl.S1H.48.31319.png",
+      "rarity": "Uncommon",
+      "cardNum": "48/60"
+    },
+    {
+      "name": "Oranguru",
+      "set": "Shield",
+      "img": "https://den-cards.pokellector.com/284/Oranguru.S1H.49.31320.png",
+      "rarity": "Rare",
+      "cardNum": "49/60"
+    },
+    {
+      "name": "Wooloo",
+      "set": "Shield",
+      "img": "https://den-cards.pokellector.com/284/Wooloo.S1H.50.31321.png",
+      "rarity": "Common",
+      "cardNum": "50/60"
+    },
+    {
+      "name": "Dubwool",
+      "set": "Shield",
+      "img": "https://den-cards.pokellector.com/284/Dubwool.S1H.51.31322.png",
+      "rarity": "Common",
+      "cardNum": "51/60"
+    },
+    {
+      "name": "Quick Ball",
+      "set": "Shield",
+      "img": "https://den-cards.pokellector.com/284/Quick-Ball.S1H.52.31323.png",
+      "rarity": "Uncommon",
+      "cardNum": "52/60"
+    },
+    {
+      "name": "Rare Candy",
+      "set": "Shield",
+      "img": "https://den-cards.pokellector.com/284/Rare-Candy.S1H.53.31324.png",
+      "rarity": "Uncommon",
+      "cardNum": "53/60"
+    },
+    {
+      "name": "Steel Saucer",
+      "set": "Shield",
+      "img": "https://den-cards.pokellector.com/284/Steel-Saucer.S1H.54.31203.png",
+      "rarity": "Uncommon",
+      "cardNum": "54/60"
+    },
+    {
+      "name": "Sitrus Berry",
+      "set": "Shield",
+      "img": "https://den-cards.pokellector.com/284/Sitrus-Berry.S1H.55.31325.png",
+      "rarity": "Uncommon",
+      "cardNum": "55/60"
+    },
+    {
+      "name": "Fine Band",
+      "set": "Shield",
+      "img": "https://den-cards.pokellector.com/284/Fine-Band.S1H.56.31326.png",
+      "rarity": "Uncommon",
+      "cardNum": "56/60"
+    },
+    {
+      "name": "Lucky Egg",
+      "set": "Shield",
+      "img": "https://den-cards.pokellector.com/284/Lucky-Egg.S1H.57.31327.png",
+      "rarity": "Uncommon",
+      "cardNum": "57/60"
+    },
+    {
+      "name": "Team Yell Grunt",
+      "set": "Shield",
+      "img": "https://den-cards.pokellector.com/284/Team-Yell-Grunt.S1H.58.31204.png",
+      "rarity": "Uncommon",
+      "cardNum": "58/60"
+    },
+    {
+      "name": "Marnie",
+      "set": "Shield",
+      "img": "https://den-cards.pokellector.com/284/Marnie.S1H.59.31205.png",
+      "rarity": "Rare",
+      "cardNum": "59/60"
+    },
+    {
+      "name": "Aurora Energy",
+      "set": "Shield",
+      "img": "https://den-cards.pokellector.com/284/Aurora-Energy.S1H.60.31328.png",
+      "rarity": "Uncommon",
+      "cardNum": "60/60"
+    },
+    {
+      "name": "Torkoal V",
+      "set": "Shield",
+      "img": "https://den-cards.pokellector.com/284/Torkoal-V.S1H.61.31354.png",
+      "rarity": "Secret Rare",
+      "cardNum": "61/60"
+    },
+    {
+      "name": "Morpeko V",
+      "set": "Shield",
+      "img": "https://den-cards.pokellector.com/284/Morpeko-V.S1H.62.31361.png",
+      "rarity": "Secret Rare",
+      "cardNum": "62/60"
+    },
+    {
+      "name": "Indeedee V",
+      "set": "Shield",
+      "img": "https://den-cards.pokellector.com/284/Indeedee-V.S1H.63.31351.png",
+      "rarity": "Secret Rare",
+      "cardNum": "63/60"
+    },
+    {
+      "name": "Sableye V",
+      "set": "Shield",
+      "img": "https://den-cards.pokellector.com/284/Sableye-V.S1H.64.31357.png",
+      "rarity": "Secret Rare",
+      "cardNum": "64/60"
+    },
+    {
+      "name": "Zamazenta V",
+      "set": "Shield",
+      "img": "https://den-cards.pokellector.com/284/Zamazenta-V.S1H.65.31358.png",
+      "rarity": "Secret Rare",
+      "cardNum": "65/60"
+    },
+    {
+      "name": "Snorlax V",
+      "set": "Shield",
+      "img": "https://den-cards.pokellector.com/284/Snorlax-V.S1H.66.31362.png",
+      "rarity": "Secret Rare",
+      "cardNum": "66/60"
+    },
+    {
+      "name": "Team Yell Grunt",
+      "set": "Shield",
+      "img": "https://den-cards.pokellector.com/284/Team-Yell-Grunt.S1H.67.31359.png",
+      "rarity": "Secret Rare",
+      "cardNum": "67/60"
+    },
+    {
+      "name": "Marnie",
+      "set": "Shield",
+      "img": "https://den-cards.pokellector.com/284/Marnie.S1H.68.31219.png",
+      "rarity": "Secret Rare",
+      "cardNum": "68/60"
+    },
+    {
+      "name": "Morpeko VMAX",
+      "set": "Shield",
+      "img": "https://den-cards.pokellector.com/284/Morpeko-VMAX.S1H.69.31369.png",
+      "rarity": "Secret Rare",
+      "cardNum": "69/60"
+    },
+    {
+      "name": "Snorlax VMAX",
+      "set": "Shield",
+      "img": "https://den-cards.pokellector.com/284/Snorlax-VMAX.S1H.70.31363.png",
+      "rarity": "Secret Rare",
+      "cardNum": "70/60"
+    },
+    {
+      "name": "Team Yell Grunt",
+      "set": "Shield",
+      "img": "https://den-cards.pokellector.com/284/Team-Yell-Grunt.S1H.71.31374.png",
+      "rarity": "Secret Rare",
+      "cardNum": "71/60"
+    },
+    {
+      "name": "Marnie",
+      "set": "Shield",
+      "img": "https://den-cards.pokellector.com/284/Marnie.S1H.72.31368.png",
+      "rarity": "Secret Rare",
+      "cardNum": "72/60"
+    },
+    {
+      "name": "Zamazenta V",
+      "set": "Shield",
+      "img": "https://den-cards.pokellector.com/284/Zamazenta-V.S1H.73.31377.png",
+      "rarity": "Secret Rare",
+      "cardNum": "73/60"
+    },
+    {
+      "name": "Quick Ball",
+      "set": "Shield",
+      "img": "https://den-cards.pokellector.com/284/Quick-Ball.S1H.74.31375.png",
+      "rarity": "Secret Rare",
+      "cardNum": "74/60"
+    },
+    {
+      "name": "Steel Saucer",
+      "set": "Shield",
+      "img": "https://den-cards.pokellector.com/284/Steel-Saucer.S1H.75.31376.png",
+      "rarity": "Secret Rare",
+      "cardNum": "75/60"
+    }
+  ]
+}

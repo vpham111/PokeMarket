@@ -1,0 +1,460 @@
+{
+  "setName": "Dark Order",
+  "cards": [
+    {
+      "name": "Litten",
+      "set": "Dark Order",
+      "img": "https://den-cards.pokellector.com/245/Litten.SM8A.1.24113.png",
+      "rarity": "Common",
+      "cardNum": "1/52"
+    },
+    {
+      "name": "Torracat",
+      "set": "Dark Order",
+      "img": "https://den-cards.pokellector.com/245/Torracat.SM8A.2.24114.png",
+      "rarity": "Common",
+      "cardNum": "2/52"
+    },
+    {
+      "name": "Zapdos",
+      "set": "Dark Order",
+      "img": "https://den-cards.pokellector.com/245/Zapdos.SM8A.3.24115.png",
+      "rarity": "Rare",
+      "cardNum": "3/52"
+    },
+    {
+      "name": "Mareep",
+      "set": "Dark Order",
+      "img": "https://den-cards.pokellector.com/245/Mareep.SM8A.4.24116.png",
+      "rarity": "Common",
+      "cardNum": "4/52"
+    },
+    {
+      "name": "Flaaffy",
+      "set": "Dark Order",
+      "img": "https://den-cards.pokellector.com/245/Flaaffy.SM8A.5.24117.png",
+      "rarity": "Common",
+      "cardNum": "5/52"
+    },
+    {
+      "name": "Ampharos GX",
+      "set": "Dark Order",
+      "img": "https://den-cards.pokellector.com/245/Ampharos-GX.SM8A.6.24118.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "6/52"
+    },
+    {
+      "name": "Blitzle",
+      "set": "Dark Order",
+      "img": "https://den-cards.pokellector.com/245/Blitzle.SM8A.7.24001.png",
+      "rarity": "Common",
+      "cardNum": "7/52"
+    },
+    {
+      "name": "Zebstrika",
+      "set": "Dark Order",
+      "img": "https://den-cards.pokellector.com/245/Zebstrika.SM8A.8.24002.png",
+      "rarity": "Uncommon",
+      "cardNum": "8/52"
+    },
+    {
+      "name": "Emolga",
+      "set": "Dark Order",
+      "img": "https://den-cards.pokellector.com/245/Emolga.SM8A.9.24119.png",
+      "rarity": "Common",
+      "cardNum": "9/52"
+    },
+    {
+      "name": "Joltik",
+      "set": "Dark Order",
+      "img": "https://den-cards.pokellector.com/245/Joltik.SM8A.10.24120.png",
+      "rarity": "Common",
+      "cardNum": "10/52"
+    },
+    {
+      "name": "Galvantula",
+      "set": "Dark Order",
+      "img": "https://den-cards.pokellector.com/245/Galvantula.SM8A.11.24121.png",
+      "rarity": "Uncommon",
+      "cardNum": "11/52"
+    },
+    {
+      "name": "Helioptile",
+      "set": "Dark Order",
+      "img": "https://den-cards.pokellector.com/245/Helioptile.SM8A.12.24122.png",
+      "rarity": "Common",
+      "cardNum": "12/52"
+    },
+    {
+      "name": "Heliolisk",
+      "set": "Dark Order",
+      "img": "https://den-cards.pokellector.com/245/Heliolisk.SM8A.13.24123.png",
+      "rarity": "Common",
+      "cardNum": "13/52"
+    },
+    {
+      "name": "Tapu Koko",
+      "set": "Dark Order",
+      "img": "https://den-cards.pokellector.com/245/Tapu-Koko.SM8A.14.24124.png",
+      "rarity": "Common",
+      "cardNum": "14/52"
+    },
+    {
+      "name": "Larvitar",
+      "set": "Dark Order",
+      "img": "https://den-cards.pokellector.com/245/Larvitar.SM8A.15.24125.png",
+      "rarity": "Common",
+      "cardNum": "15/52"
+    },
+    {
+      "name": "Pupitar",
+      "set": "Dark Order",
+      "img": "https://den-cards.pokellector.com/245/Pupitar.SM8A.16.24126.png",
+      "rarity": "Common",
+      "cardNum": "16/52"
+    },
+    {
+      "name": "Pancham",
+      "set": "Dark Order",
+      "img": "https://den-cards.pokellector.com/245/Pancham.SM8A.17.24127.png",
+      "rarity": "Common",
+      "cardNum": "17/52"
+    },
+    {
+      "name": "Alolan Grimer",
+      "set": "Dark Order",
+      "img": "https://den-cards.pokellector.com/245/Alolan-Grimer.SM8A.18.23937.png",
+      "rarity": "Common",
+      "cardNum": "18/52"
+    },
+    {
+      "name": "Alolan Muk",
+      "set": "Dark Order",
+      "img": "https://den-cards.pokellector.com/245/Alolan-Muk.SM8A.19.23938.png",
+      "rarity": "Uncommon",
+      "cardNum": "19/52"
+    },
+    {
+      "name": "Tyranitar",
+      "set": "Dark Order",
+      "img": "https://den-cards.pokellector.com/245/Tyranitar.SM8A.20.24004.png",
+      "rarity": "Rare",
+      "cardNum": "20/52"
+    },
+    {
+      "name": "Poochyena",
+      "set": "Dark Order",
+      "img": "https://den-cards.pokellector.com/245/Poochyena.SM8A.21.24128.png",
+      "rarity": "Common",
+      "cardNum": "21/52"
+    },
+    {
+      "name": "Mightyena",
+      "set": "Dark Order",
+      "img": "https://den-cards.pokellector.com/245/Mightyena.SM8A.22.24129.png",
+      "rarity": "Uncommon",
+      "cardNum": "22/52"
+    },
+    {
+      "name": "Absol",
+      "set": "Dark Order",
+      "img": "https://den-cards.pokellector.com/245/Absol.SM8A.23.24130.png",
+      "rarity": "Rare",
+      "cardNum": "23/52"
+    },
+    {
+      "name": "Spiritomb",
+      "set": "Dark Order",
+      "img": "https://den-cards.pokellector.com/245/Spiritomb.SM8A.24.23835.png",
+      "rarity": "Common",
+      "cardNum": "24/52"
+    },
+    {
+      "name": "Zorua",
+      "set": "Dark Order",
+      "img": "https://den-cards.pokellector.com/245/Zorua.SM8A.25.24131.png",
+      "rarity": "Common",
+      "cardNum": "25/52"
+    },
+    {
+      "name": "Zoroark",
+      "set": "Dark Order",
+      "img": "https://den-cards.pokellector.com/245/Zoroark.SM8A.26.23836.png",
+      "rarity": "Rare",
+      "cardNum": "26/52"
+    },
+    {
+      "name": "Vullaby",
+      "set": "Dark Order",
+      "img": "https://den-cards.pokellector.com/245/Vullaby.SM8A.27.24132.png",
+      "rarity": "Common",
+      "cardNum": "27/52"
+    },
+    {
+      "name": "Mandibuzz",
+      "set": "Dark Order",
+      "img": "https://den-cards.pokellector.com/245/Mandibuzz.SM8A.28.24133.png",
+      "rarity": "Uncommon",
+      "cardNum": "28/52"
+    },
+    {
+      "name": "Pangoro",
+      "set": "Dark Order",
+      "img": "https://den-cards.pokellector.com/245/Pangoro.SM8A.29.24134.png",
+      "rarity": "Uncommon",
+      "cardNum": "29/52"
+    },
+    {
+      "name": "Yveltal",
+      "set": "Dark Order",
+      "img": "https://den-cards.pokellector.com/245/Yveltal.SM8A.30.23936.png",
+      "rarity": "Rare",
+      "cardNum": "30/52"
+    },
+    {
+      "name": "Hoopa GX",
+      "set": "Dark Order",
+      "img": "https://den-cards.pokellector.com/245/Hoopa-GX.SM8A.31.23935.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "31/52"
+    },
+    {
+      "name": "Incineroar GX",
+      "set": "Dark Order",
+      "img": "https://den-cards.pokellector.com/245/Inceneroar-GX.SM8A.32.23934.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "32/52"
+    },
+    {
+      "name": "Skarmory",
+      "set": "Dark Order",
+      "img": "https://den-cards.pokellector.com/245/Skarmory.SM8A.33.24135.png",
+      "rarity": "Uncommon",
+      "cardNum": "33/52"
+    },
+    {
+      "name": "Jirachi",
+      "set": "Dark Order",
+      "img": "https://den-cards.pokellector.com/245/Jirachi.SM8A.34.24005.png",
+      "rarity": "Rare",
+      "cardNum": "34/52"
+    },
+    {
+      "name": "Bronzor",
+      "set": "Dark Order",
+      "img": "https://den-cards.pokellector.com/245/Bronzor.SM8A.35.24136.png",
+      "rarity": "Common",
+      "cardNum": "35/52"
+    },
+    {
+      "name": "Bronzong",
+      "set": "Dark Order",
+      "img": "https://den-cards.pokellector.com/245/Bronzong.SM8A.36.24137.png",
+      "rarity": "Uncommon",
+      "cardNum": "36/52"
+    },
+    {
+      "name": "Ferroseed",
+      "set": "Dark Order",
+      "img": "https://den-cards.pokellector.com/245/Ferroseed.SM8A.37.24138.png",
+      "rarity": "Common",
+      "cardNum": "37/52"
+    },
+    {
+      "name": "Ferrothorn",
+      "set": "Dark Order",
+      "img": "https://den-cards.pokellector.com/245/Ferrothorn.SM8A.38.24139.png",
+      "rarity": "Uncommon",
+      "cardNum": "38/52"
+    },
+    {
+      "name": "Pawniard",
+      "set": "Dark Order",
+      "img": "https://den-cards.pokellector.com/245/Pawniard.SM8A.39.24140.png",
+      "rarity": "Common",
+      "cardNum": "39/52"
+    },
+    {
+      "name": "Bisharp",
+      "set": "Dark Order",
+      "img": "https://den-cards.pokellector.com/245/Bisharp.SM8A.40.24003.png",
+      "rarity": "Uncommon",
+      "cardNum": "40/52"
+    },
+    {
+      "name": "Cobalion GX",
+      "set": "Dark Order",
+      "img": "https://den-cards.pokellector.com/245/Cobalion-GX.SM8A.41.24141.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "41/52"
+    },
+    {
+      "name": "Honedge",
+      "set": "Dark Order",
+      "img": "https://den-cards.pokellector.com/245/Honedge.SM8A.42.24142.png",
+      "rarity": "Common",
+      "cardNum": "42/52"
+    },
+    {
+      "name": "Doublade",
+      "set": "Dark Order",
+      "img": "https://den-cards.pokellector.com/245/Doublade.SM8A.43.24143.png",
+      "rarity": "Common",
+      "cardNum": "43/52"
+    },
+    {
+      "name": "Aegislash",
+      "set": "Dark Order",
+      "img": "https://den-cards.pokellector.com/245/Aegislash.SM8A.44.24144.png",
+      "rarity": "Rare",
+      "cardNum": "44/52"
+    },
+    {
+      "name": "Klefki",
+      "set": "Dark Order",
+      "img": "https://den-cards.pokellector.com/245/Klefki.SM8A.45.24145.png",
+      "rarity": "Common",
+      "cardNum": "45/52"
+    },
+    {
+      "name": "Electric Charger",
+      "set": "Dark Order",
+      "img": "https://den-cards.pokellector.com/245/Electric-Charger.SM8A.46.24146.png",
+      "rarity": "Uncommon",
+      "cardNum": "46/52"
+    },
+    {
+      "name": "Electripower",
+      "set": "Dark Order",
+      "img": "https://den-cards.pokellector.com/245/Electripower.SM8A.47.24147.png",
+      "rarity": "Uncommon",
+      "cardNum": "47/52"
+    },
+    {
+      "name": "Dangerous Drill",
+      "set": "Dark Order",
+      "img": "https://den-cards.pokellector.com/245/Dangerous-Drill.SM8A.48.24148.png",
+      "rarity": "Uncommon",
+      "cardNum": "48/52"
+    },
+    {
+      "name": "Metal Goggles",
+      "set": "Dark Order",
+      "img": "https://den-cards.pokellector.com/245/Metal-Goggles.SM8A.49.24149.png",
+      "rarity": "Uncommon",
+      "cardNum": "49/52"
+    },
+    {
+      "name": "Nanu",
+      "set": "Dark Order",
+      "img": "https://den-cards.pokellector.com/245/Nanu.SM8A.50.24150.png",
+      "rarity": "Uncommon",
+      "cardNum": "50/52"
+    },
+    {
+      "name": "Jasmine",
+      "set": "Dark Order",
+      "img": "https://den-cards.pokellector.com/245/Jasmine.SM8A.51.24151.png",
+      "rarity": "Uncommon",
+      "cardNum": "51/52"
+    },
+    {
+      "name": "Black Market Prism Star",
+      "set": "Dark Order",
+      "img": "https://den-cards.pokellector.com/245/Black-Market-Prism-Star.SM8A.52.23837.png",
+      "rarity": "Prism Star",
+      "cardNum": "52/52"
+    },
+    {
+      "name": "Ampharos GX",
+      "set": "Dark Order",
+      "img": "https://den-cards.pokellector.com/245/Ampharos-GX.SM8A.53.24152.png",
+      "rarity": "Secret Rare",
+      "cardNum": "53/52"
+    },
+    {
+      "name": "Hoopa GX",
+      "set": "Dark Order",
+      "img": "https://den-cards.pokellector.com/245/Hoopa-GX.SM8A.54.24153.png",
+      "rarity": "Secret Rare",
+      "cardNum": "54/52"
+    },
+    {
+      "name": "Incineroar GX",
+      "set": "Dark Order",
+      "img": "https://den-cards.pokellector.com/245/Inceneroar-GX.SM8A.55.23203.png",
+      "rarity": "Secret Rare",
+      "cardNum": "55/52"
+    },
+    {
+      "name": "Cobalion GX",
+      "set": "Dark Order",
+      "img": "https://den-cards.pokellector.com/245/Cobalion-GX.SM8A.56.24154.png",
+      "rarity": "Secret Rare",
+      "cardNum": "56/52"
+    },
+    {
+      "name": "Nanu",
+      "set": "Dark Order",
+      "img": "https://den-cards.pokellector.com/245/Nanu.SM8A.57.24271.png",
+      "rarity": "Secret Rare",
+      "cardNum": "57/52"
+    },
+    {
+      "name": "Jasmine",
+      "set": "Dark Order",
+      "img": "https://den-cards.pokellector.com/245/Jasmine.SM8A.58.24272.png",
+      "rarity": "Secret Rare",
+      "cardNum": "58/52"
+    },
+    {
+      "name": "Ampharos GX",
+      "set": "Dark Order",
+      "img": "https://den-cards.pokellector.com/245/Ampharos-GX.SM8A.59.24273.png",
+      "rarity": "Secret Rare",
+      "cardNum": "59/52"
+    },
+    {
+      "name": "Hoopa GX",
+      "set": "Dark Order",
+      "img": "https://den-cards.pokellector.com/245/Hoopa-GX.SM8A.60.24274.png",
+      "rarity": "Secret Rare",
+      "cardNum": "60/52"
+    },
+    {
+      "name": "Incineroar GX",
+      "set": "Dark Order",
+      "img": "https://den-cards.pokellector.com/245/Inceneroar-GX.SM8A.61.24275.png",
+      "rarity": "Secret Rare",
+      "cardNum": "61/52"
+    },
+    {
+      "name": "Cobalion GX",
+      "set": "Dark Order",
+      "img": "https://den-cards.pokellector.com/245/Cobalion-GX.SM8A.62.24276.png",
+      "rarity": "Secret Rare",
+      "cardNum": "62/52"
+    },
+    {
+      "name": "Electric Charger",
+      "set": "Dark Order",
+      "img": "https://den-cards.pokellector.com/245/Electric-Charger.SM8A.63.24277.png",
+      "rarity": "Secret Rare",
+      "cardNum": "63/52"
+    },
+    {
+      "name": "Dangerous Drill",
+      "set": "Dark Order",
+      "img": "https://den-cards.pokellector.com/245/Dangerous-Drill.SM8A.64.24278.png",
+      "rarity": "Secret Rare",
+      "cardNum": "64/52"
+    },
+    {
+      "name": "Metal Goggles",
+      "set": "Dark Order",
+      "img": "https://den-cards.pokellector.com/245/Metal-Goggles.SM8A.65.24279.png",
+      "rarity": "Secret Rare",
+      "cardNum": "65/52"
+    }
+  ]
+}

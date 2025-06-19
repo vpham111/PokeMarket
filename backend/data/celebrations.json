@@ -1,0 +1,355 @@
+{
+  "setName": "Celebrations",
+  "cards": [
+    {
+      "name": "Ho-Oh",
+      "set": "Celebrations",
+      "img": "https://den-cards.pokellector.com/329/Ho-Oh.25TH.1.40540.png",
+      "rarity": "Rare",
+      "cardNum": "1/25"
+    },
+    {
+      "name": "Reshiram",
+      "set": "Celebrations",
+      "img": "https://den-cards.pokellector.com/329/Reshiram.25TH.2.40541.png",
+      "rarity": "Rare",
+      "cardNum": "2/25"
+    },
+    {
+      "name": "Kyogre",
+      "set": "Celebrations",
+      "img": "https://den-cards.pokellector.com/329/Kyogre.25TH.3.40542.png",
+      "rarity": "Rare",
+      "cardNum": "3/25"
+    },
+    {
+      "name": "Palkia",
+      "set": "Celebrations",
+      "img": "https://den-cards.pokellector.com/329/Palkia.25TH.4.40543.png",
+      "rarity": "Rare",
+      "cardNum": "4/25"
+    },
+    {
+      "name": "Pikachu",
+      "set": "Celebrations",
+      "img": "https://den-cards.pokellector.com/329/Pikachu.25TH.5.40544.png",
+      "rarity": "Rare",
+      "cardNum": "5/25"
+    },
+    {
+      "name": "Flying Pikachu V",
+      "set": "Celebrations",
+      "img": "https://den-cards.pokellector.com/329/Flying-Pikachu-V.25TH.6.40545.png",
+      "rarity": "Rare",
+      "cardNum": "6/25"
+    },
+    {
+      "name": "Flying Pikachu VMAX",
+      "set": "Celebrations",
+      "img": "https://den-cards.pokellector.com/329/Flying-Pikachu-VMAX.25TH.7.40546.png",
+      "rarity": "Common",
+      "cardNum": "7/25"
+    },
+    {
+      "name": "Surfing Pikachu V",
+      "set": "Celebrations",
+      "img": "https://den-cards.pokellector.com/329/Surfing-Pikachu-V.25TH.8.40547.png",
+      "rarity": "Rare",
+      "cardNum": "8/25"
+    },
+    {
+      "name": "Surfing Pikachu VMAX",
+      "set": "Celebrations",
+      "img": "https://den-cards.pokellector.com/329/Surfing-Pikachu-VMAX.25TH.9.40548.png",
+      "rarity": "Common",
+      "cardNum": "9/25"
+    },
+    {
+      "name": "Zekrom",
+      "set": "Celebrations",
+      "img": "https://den-cards.pokellector.com/329/Zekrom.25TH.10.40549.png",
+      "rarity": "Rare",
+      "cardNum": "10/25"
+    },
+    {
+      "name": "Mew",
+      "set": "Celebrations",
+      "img": "https://den-cards.pokellector.com/329/Mew.25TH.11.40550.png",
+      "rarity": "Rare",
+      "cardNum": "11/25"
+    },
+    {
+      "name": "Xerneas",
+      "set": "Celebrations",
+      "img": "https://den-cards.pokellector.com/329/Xerneas.25TH.12.40551.png",
+      "rarity": "Rare",
+      "cardNum": "12/25"
+    },
+    {
+      "name": "Cosmog",
+      "set": "Celebrations",
+      "img": "https://den-cards.pokellector.com/329/Cosmog.25TH.13.40552.png",
+      "rarity": "Rare",
+      "cardNum": "13/25"
+    },
+    {
+      "name": "Cosmoem",
+      "set": "Celebrations",
+      "img": "https://den-cards.pokellector.com/329/Cosmoem.25TH.14.40553.png",
+      "rarity": "Rare",
+      "cardNum": "14/25"
+    },
+    {
+      "name": "Lunala",
+      "set": "Celebrations",
+      "img": "https://den-cards.pokellector.com/329/Lunala.25TH.15.40554.png",
+      "rarity": "Rare",
+      "cardNum": "15/25"
+    },
+    {
+      "name": "Zacian V",
+      "set": "Celebrations",
+      "img": "https://den-cards.pokellector.com/329/Zacian-V.25TH.16.40516.png",
+      "rarity": "Rare",
+      "cardNum": "16/25"
+    },
+    {
+      "name": "Groudon",
+      "set": "Celebrations",
+      "img": "https://den-cards.pokellector.com/329/Groudon.25TH.17.40555.png",
+      "rarity": "Rare",
+      "cardNum": "17/25"
+    },
+    {
+      "name": "Zamazenta V",
+      "set": "Celebrations",
+      "img": "https://den-cards.pokellector.com/329/Zamazenta-V.25TH.18.40556.png",
+      "rarity": "Rare",
+      "cardNum": "18/25"
+    },
+    {
+      "name": "Yveltal",
+      "set": "Celebrations",
+      "img": "https://den-cards.pokellector.com/329/Yveltal.25TH.19.40557.png",
+      "rarity": "Rare",
+      "cardNum": "19/25"
+    },
+    {
+      "name": "Dialga",
+      "set": "Celebrations",
+      "img": "https://den-cards.pokellector.com/329/Dialga.25TH.20.40558.png",
+      "rarity": "Rare",
+      "cardNum": "20/25"
+    },
+    {
+      "name": "Solgaleo",
+      "set": "Celebrations",
+      "img": "https://den-cards.pokellector.com/329/Solgaleo.25TH.21.40559.png",
+      "rarity": "Rare",
+      "cardNum": "21/25"
+    },
+    {
+      "name": "Lugia",
+      "set": "Celebrations",
+      "img": "https://den-cards.pokellector.com/329/Lugia.25TH.22.40560.png",
+      "rarity": "Rare",
+      "cardNum": "22/25"
+    },
+    {
+      "name": "Professor's Research",
+      "set": "Celebrations",
+      "img": "https://den-cards.pokellector.com/329/Professors-Research.25TH.23.40561.png",
+      "rarity": "Rare",
+      "cardNum": "23/25"
+    },
+    {
+      "name": "Professor's Research",
+      "set": "Celebrations",
+      "img": "https://den-cards.pokellector.com/329/Professors-Research.25TH.24.40562.png",
+      "rarity": "Rare",
+      "cardNum": "24/25"
+    },
+    {
+      "name": "Mew",
+      "set": "Celebrations",
+      "img": "https://den-cards.pokellector.com/329/Mew.25TH.25.40563.png",
+      "rarity": "Rare",
+      "cardNum": "25/25"
+    },
+    {
+      "name": "Charizard",
+      "set": "Base Set",
+      "img": "https://den-cards.pokellector.com/119/Charizard.BS.4.png",
+      "rarity": "Rare",
+      "cardNum": "4/102"
+    },
+    {
+      "name": "Venusaur",
+      "set": "Base Set",
+      "img": "https://den-cards.pokellector.com/119/Venusaur.BS.15.png",
+      "rarity": "Rare",
+      "cardNum": "15/102"
+    },
+    {
+      "name": "Blastoise",
+      "set": "Base Set",
+      "img": "https://den-cards.pokellector.com/119/Blastoise.BS.2.png",
+      "rarity": "Rare",
+      "cardNum": "2/102"
+    },
+    {
+      "name": "Imposter Professor Oak",
+      "set": "Base Set",
+      "img": "https://den-cards.pokellector.com/119/Imposter-Professor-Oak.BS.73.png",
+      "rarity": "Rare",
+      "cardNum": "73/102"
+    },
+    {
+      "name": "Dark Gyarados",
+      "set": "Team Rocket",
+      "img": "https://den-cards.pokellector.com/123/Dark-Gyarados.TR.8.png",
+      "rarity": "Rare",
+      "cardNum": "8/82"
+    },
+    {
+      "name": "Here Comes Team Rocket",
+      "set": "Team Rocket",
+      "img": "https://den-cards.pokellector.com/123/Here-Comes-Team-Rocket.TR.15.png",
+      "rarity": "Rare",
+      "cardNum": "15/82"
+    },
+    {
+      "name": "_____'s Pikachu",
+      "set": "Wizards of the Coast Promos",
+      "img": "https://den-cards.pokellector.com/125/___s-Pikachu.WOTC.24.png",
+      "rarity": "Common",
+      "cardNum": "24/53"
+    },
+    {
+      "name": "Rocket's Zapdos",
+      "set": "Gym Challenge",
+      "img": "https://den-cards.pokellector.com/118/Rockets-Zapdos.G2.15.png",
+      "rarity": "Rare",
+      "cardNum": "15/132"
+    },
+    {
+      "name": "Cleffa",
+      "set": "Neo Genesis",
+      "img": "https://den-cards.pokellector.com/113/Cleffa.N1.20.png",
+      "rarity": "Rare",
+      "cardNum": "20/111"
+    },
+    {
+      "name": "Shining Magikarp",
+      "set": "Neo Revelation",
+      "img": "https://den-cards.pokellector.com/115/Shining-Magikarp.N3.66.7440.png",
+      "rarity": "Secret Rare",
+      "cardNum": "66/64"
+    },
+    {
+      "name": "Team Magma's Groudon",
+      "set": "EX Team Magma vs Team Aqua",
+      "img": "https://den-cards.pokellector.com/55/Team-Magmas-Groudon.MA.9.png",
+      "rarity": "Rare",
+      "cardNum": "9/95"
+    },
+    {
+      "name": "Umbreon *",
+      "set": "POP Series 5",
+      "img": "https://den-cards.pokellector.com/102/Umbreon-.POP5.17.6456.png",
+      "rarity": "Rare",
+      "cardNum": "17/17"
+    },
+    {
+      "name": "Rocket's Admin",
+      "set": "EX Team Rocket Returns",
+      "img": "https://den-cards.pokellector.com/58/Rockets-Admin.RR.86.png",
+      "rarity": "Uncommon",
+      "cardNum": "86/109"
+    },
+    {
+      "name": "Mew ex",
+      "set": "EX Legend Maker",
+      "img": "https://den-cards.pokellector.com/63/Mew-ex.LM.88.png",
+      "rarity": "Rare",
+      "cardNum": "88/92"
+    },
+    {
+      "name": "Gardevoir ex (delta species)",
+      "set": "EX Dragon Frontiers",
+      "img": "https://den-cards.pokellector.com/66/Gardevoir-ex-delta-species.DF.93.png",
+      "rarity": "Rare",
+      "cardNum": "93/101"
+    },
+    {
+      "name": "Claydol",
+      "set": "Great Encounters",
+      "img": "https://den-cards.pokellector.com/45/Claydol.GE.15.png",
+      "rarity": "Rare",
+      "cardNum": "15/106"
+    },
+    {
+      "name": "Luxray GL LV. X",
+      "set": "Platinum - Rising Rivals",
+      "img": "https://den-cards.pokellector.com/39/Luxray-GL-LV-X.RR.109.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "109/111"
+    },
+    {
+      "name": "Garchomp C LV. X",
+      "set": "Platinum - Supreme Victors",
+      "img": "https://den-cards.pokellector.com/40/Garchomp-C-LV-X.SV.145.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "145/147"
+    },
+    {
+      "name": "Donphan",
+      "set": "HeartGold SoulSilver",
+      "img": "https://den-cards.pokellector.com/34/Donphan.HGSS.107.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "107/123"
+    },
+    {
+      "name": "Reshiram",
+      "set": "Black & White",
+      "img": "https://den-cards.pokellector.com/1/Reshiram.BLW.113.png",
+      "rarity": "Rare",
+      "cardNum": "113/114"
+    },
+    {
+      "name": "Zekrom",
+      "set": "Black & White",
+      "img": "https://den-cards.pokellector.com/1/Zekrom.BLW.114.png",
+      "rarity": "Rare",
+      "cardNum": "114/114"
+    },
+    {
+      "name": "Mewtwo EX",
+      "set": "Next Destinies",
+      "img": "https://den-cards.pokellector.com/5/Mewtwo-EX.NXD.54.png",
+      "rarity": "Rare",
+      "cardNum": "54/99"
+    },
+    {
+      "name": "Xerneas EX",
+      "set": "XY",
+      "img": "https://den-cards.pokellector.com/142/Xerneas-EX.XY.97.png",
+      "rarity": "Rare",
+      "cardNum": "97/146"
+    },
+    {
+      "name": "M Rayquaza EX",
+      "set": "Roaring Skies",
+      "img": "https://den-cards.pokellector.com/169/M-Rayquaza-EX.RSK.76.png",
+      "rarity": "Rare",
+      "cardNum": "76/108"
+    },
+    {
+      "name": "Tapu Lele GX",
+      "set": "Guardians Rising",
+      "img": "https://den-cards.pokellector.com/220/Tapu-Lele-GX.GRI.60.17369.png",
+      "rarity": "Rare",
+      "cardNum": "60/145"
+    }
+  ]
+}

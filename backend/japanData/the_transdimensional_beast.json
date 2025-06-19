@@ -1,0 +1,439 @@
+{
+  "setName": "The Transdimensional Beast",
+  "cards": [
+    {
+      "name": "Weedle",
+      "set": "The Transdimensional Beast",
+      "img": "https://den-cards.pokellector.com/227/Weedle.SM4A.1.19402.png",
+      "rarity": "Common",
+      "cardNum": "1/50"
+    },
+    {
+      "name": "Kakuna",
+      "set": "The Transdimensional Beast",
+      "img": "https://den-cards.pokellector.com/227/Kakuna.SM4A.2.19403.png",
+      "rarity": "Common",
+      "cardNum": "2/50"
+    },
+    {
+      "name": "Beedrill",
+      "set": "The Transdimensional Beast",
+      "img": "https://den-cards.pokellector.com/227/Beedrill.SM4A.3.19334.png",
+      "rarity": "Uncommon",
+      "cardNum": "3/50"
+    },
+    {
+      "name": "Exeggcute",
+      "set": "The Transdimensional Beast",
+      "img": "https://den-cards.pokellector.com/227/Exeggcute.SM4A.4.19404.png",
+      "rarity": "Common",
+      "cardNum": "4/50"
+    },
+    {
+      "name": "Shelmet",
+      "set": "The Transdimensional Beast",
+      "img": "https://den-cards.pokellector.com/227/Shelmet.SM4A.5.19405.png",
+      "rarity": "Common",
+      "cardNum": "5/50"
+    },
+    {
+      "name": "Accelgor",
+      "set": "The Transdimensional Beast",
+      "img": "https://den-cards.pokellector.com/227/Accelgor.SM4A.6.19406.png",
+      "rarity": "Common",
+      "cardNum": "6/50"
+    },
+    {
+      "name": "Magikarp",
+      "set": "The Transdimensional Beast",
+      "img": "https://den-cards.pokellector.com/227/Magikarp.SM4A.7.19407.png",
+      "rarity": "Common",
+      "cardNum": "7/50"
+    },
+    {
+      "name": "Gyarados GX",
+      "set": "The Transdimensional Beast",
+      "img": "https://den-cards.pokellector.com/227/Gyarados-GX.SM4A.8.19342.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "8/50"
+    },
+    {
+      "name": "Swinub",
+      "set": "The Transdimensional Beast",
+      "img": "https://den-cards.pokellector.com/227/Swinub.SM4A.9.19408.png",
+      "rarity": "Common",
+      "cardNum": "9/50"
+    },
+    {
+      "name": "Piloswine",
+      "set": "The Transdimensional Beast",
+      "img": "https://den-cards.pokellector.com/227/Piloswine.SM4A.10.19409.png",
+      "rarity": "Common",
+      "cardNum": "10/50"
+    },
+    {
+      "name": "Mamoswine",
+      "set": "The Transdimensional Beast",
+      "img": "https://den-cards.pokellector.com/227/Mamoswine.SM4A.11.19410.png",
+      "rarity": "Uncommon",
+      "cardNum": "11/50"
+    },
+    {
+      "name": "Feebas",
+      "set": "The Transdimensional Beast",
+      "img": "https://den-cards.pokellector.com/227/Feebas.SM4A.12.19411.png",
+      "rarity": "Common",
+      "cardNum": "12/50"
+    },
+    {
+      "name": "Milotic",
+      "set": "The Transdimensional Beast",
+      "img": "https://den-cards.pokellector.com/227/Milotic.SM4A.13.19412.png",
+      "rarity": "Rare",
+      "cardNum": "13/50"
+    },
+    {
+      "name": "Regice",
+      "set": "The Transdimensional Beast",
+      "img": "https://den-cards.pokellector.com/227/Regice.SM4A.14.19312.png",
+      "rarity": "Rare",
+      "cardNum": "14/50"
+    },
+    {
+      "name": "Pikachu",
+      "set": "The Transdimensional Beast",
+      "img": "https://den-cards.pokellector.com/227/Pikachu.SM4A.15.18593.png",
+      "rarity": "Common",
+      "cardNum": "15/50"
+    },
+    {
+      "name": "Alolan Raichu",
+      "set": "The Transdimensional Beast",
+      "img": "https://den-cards.pokellector.com/227/Alolan-Raichu.SM4A.16.19304.png",
+      "rarity": "Rare",
+      "cardNum": "16/50"
+    },
+    {
+      "name": "Misdreavus",
+      "set": "The Transdimensional Beast",
+      "img": "https://den-cards.pokellector.com/227/Misdreavus.SM4A.17.19413.png",
+      "rarity": "Common",
+      "cardNum": "17/50"
+    },
+    {
+      "name": "Mismagius",
+      "set": "The Transdimensional Beast",
+      "img": "https://den-cards.pokellector.com/227/Mismagius.SM4A.18.19414.png",
+      "rarity": "Uncommon",
+      "cardNum": "18/50"
+    },
+    {
+      "name": "Spoink",
+      "set": "The Transdimensional Beast",
+      "img": "https://den-cards.pokellector.com/227/Spoink.SM4A.19.19415.png",
+      "rarity": "Common",
+      "cardNum": "19/50"
+    },
+    {
+      "name": "Grumpig",
+      "set": "The Transdimensional Beast",
+      "img": "https://den-cards.pokellector.com/227/Grumpig.SM4A.20.19416.png",
+      "rarity": "Common",
+      "cardNum": "20/50"
+    },
+    {
+      "name": "Oranguru",
+      "set": "The Transdimensional Beast",
+      "img": "https://den-cards.pokellector.com/227/Oranguru.SM4A.21.19417.png",
+      "rarity": "Uncommon",
+      "cardNum": "21/50"
+    },
+    {
+      "name": "Nihilego GX",
+      "set": "The Transdimensional Beast",
+      "img": "https://den-cards.pokellector.com/227/Nihilego-GX.SM4A.22.18612.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "22/50"
+    },
+    {
+      "name": "Mankey",
+      "set": "The Transdimensional Beast",
+      "img": "https://den-cards.pokellector.com/227/Mankey.SM4A.23.19418.png",
+      "rarity": "Common",
+      "cardNum": "23/50"
+    },
+    {
+      "name": "Primeape",
+      "set": "The Transdimensional Beast",
+      "img": "https://den-cards.pokellector.com/227/Primeape.SM4A.24.18594.png",
+      "rarity": "Uncommon",
+      "cardNum": "24/50"
+    },
+    {
+      "name": "Regirock",
+      "set": "The Transdimensional Beast",
+      "img": "https://den-cards.pokellector.com/227/Regirock.SM4A.25.19330.png",
+      "rarity": "Uncommon",
+      "cardNum": "25/50"
+    },
+    {
+      "name": "Stufful",
+      "set": "The Transdimensional Beast",
+      "img": "https://den-cards.pokellector.com/227/Stufful.SM4A.26.19419.png",
+      "rarity": "Common",
+      "cardNum": "26/50"
+    },
+    {
+      "name": "Bewear",
+      "set": "The Transdimensional Beast",
+      "img": "https://den-cards.pokellector.com/227/Bewear.SM4A.27.18585.png",
+      "rarity": "Rare",
+      "cardNum": "27/50"
+    },
+    {
+      "name": "Houndour",
+      "set": "The Transdimensional Beast",
+      "img": "https://den-cards.pokellector.com/227/Houndour.SM4A.28.19420.png",
+      "rarity": "Common",
+      "cardNum": "28/50"
+    },
+    {
+      "name": "Houndoom",
+      "set": "The Transdimensional Beast",
+      "img": "https://den-cards.pokellector.com/227/Houndoom.SM4A.29.19421.png",
+      "rarity": "Uncommon",
+      "cardNum": "29/50"
+    },
+    {
+      "name": "Deino",
+      "set": "The Transdimensional Beast",
+      "img": "https://den-cards.pokellector.com/227/Deino.SM4A.30.19422.png",
+      "rarity": "Common",
+      "cardNum": "30/50"
+    },
+    {
+      "name": "Zweilous",
+      "set": "The Transdimensional Beast",
+      "img": "https://den-cards.pokellector.com/227/Zweilous.SM4A.31.19423.png",
+      "rarity": "Uncommon",
+      "cardNum": "31/50"
+    },
+    {
+      "name": "Hydreigon",
+      "set": "The Transdimensional Beast",
+      "img": "https://den-cards.pokellector.com/227/Hydreigon.SM4A.32.19332.png",
+      "rarity": "Rare",
+      "cardNum": "32/50"
+    },
+    {
+      "name": "Guzzlord GX",
+      "set": "The Transdimensional Beast",
+      "img": "https://den-cards.pokellector.com/227/Guzzlord-GX.SM4A.33.18613.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "33/50"
+    },
+    {
+      "name": "Jigglypuff",
+      "set": "The Transdimensional Beast",
+      "img": "https://den-cards.pokellector.com/227/Jigglypuff.SM4A.34.19424.png",
+      "rarity": "Common",
+      "cardNum": "34/50"
+    },
+    {
+      "name": "Wigglytuff",
+      "set": "The Transdimensional Beast",
+      "img": "https://den-cards.pokellector.com/227/Wigglytuff.SM4A.35.19425.png",
+      "rarity": "Uncommon",
+      "cardNum": "35/50"
+    },
+    {
+      "name": "Xerneas",
+      "set": "The Transdimensional Beast",
+      "img": "https://den-cards.pokellector.com/227/Xerneas.SM4A.36.19426.png",
+      "rarity": "Rare",
+      "cardNum": "36/50"
+    },
+    {
+      "name": "Alolan Exeggutor GX",
+      "set": "The Transdimensional Beast",
+      "img": "https://den-cards.pokellector.com/227/Alolan-Exeggutor-GX.SM4A.37.19329.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "37/50"
+    },
+    {
+      "name": "Jangmo-o",
+      "set": "The Transdimensional Beast",
+      "img": "https://den-cards.pokellector.com/227/Jangmo-o.SM4A.38.19427.png",
+      "rarity": "Common",
+      "cardNum": "38/50"
+    },
+    {
+      "name": "Hakamo-o",
+      "set": "The Transdimensional Beast",
+      "img": "https://den-cards.pokellector.com/227/Hakamo-o.SM4A.39.19428.png",
+      "rarity": "Uncommon",
+      "cardNum": "39/50"
+    },
+    {
+      "name": "Kommo-o",
+      "set": "The Transdimensional Beast",
+      "img": "https://den-cards.pokellector.com/227/Kommo-o.SM4A.40.19429.png",
+      "rarity": "Rare",
+      "cardNum": "40/50"
+    },
+    {
+      "name": "Miltank",
+      "set": "The Transdimensional Beast",
+      "img": "https://den-cards.pokellector.com/227/Miltank.SM4A.41.19430.png",
+      "rarity": "Common",
+      "cardNum": "41/50"
+    },
+    {
+      "name": "Swablu",
+      "set": "The Transdimensional Beast",
+      "img": "https://den-cards.pokellector.com/227/Swablu.SM4A.42.19431.png",
+      "rarity": "Common",
+      "cardNum": "42/50"
+    },
+    {
+      "name": "Altaria",
+      "set": "The Transdimensional Beast",
+      "img": "https://den-cards.pokellector.com/227/Altaria.SM4A.43.19432.png",
+      "rarity": "Uncommon",
+      "cardNum": "43/50"
+    },
+    {
+      "name": "Bunnelby",
+      "set": "The Transdimensional Beast",
+      "img": "https://den-cards.pokellector.com/227/Bunnelby.SM4A.44.19433.png",
+      "rarity": "Common",
+      "cardNum": "44/50"
+    },
+    {
+      "name": "Diggersby",
+      "set": "The Transdimensional Beast",
+      "img": "https://den-cards.pokellector.com/227/Diggersby.SM4A.45.19434.png",
+      "rarity": "Common",
+      "cardNum": "45/50"
+    },
+    {
+      "name": "Dash Pouch",
+      "set": "The Transdimensional Beast",
+      "img": "https://den-cards.pokellector.com/227/Dash-Pouch.SM4A.46.18599.png",
+      "rarity": "Uncommon",
+      "cardNum": "46/50"
+    },
+    {
+      "name": "Lusamine",
+      "set": "The Transdimensional Beast",
+      "img": "https://den-cards.pokellector.com/227/Lusamine.SM4A.47.19317.png",
+      "rarity": "Uncommon",
+      "cardNum": "47/50"
+    },
+    {
+      "name": "Sea Of Emptiness",
+      "set": "The Transdimensional Beast",
+      "img": "https://den-cards.pokellector.com/227/Sea-Of-Emptiness.SM4A.48.19343.png",
+      "rarity": "Uncommon",
+      "cardNum": "48/50"
+    },
+    {
+      "name": "Ravaged Plains",
+      "set": "The Transdimensional Beast",
+      "img": "https://den-cards.pokellector.com/227/Ravaged-Plains.SM4A.49.19299.png",
+      "rarity": "Uncommon",
+      "cardNum": "49/50"
+    },
+    {
+      "name": "Counter Energy",
+      "set": "The Transdimensional Beast",
+      "img": "https://den-cards.pokellector.com/227/Counter-Energy.SM4A.50.19349.png",
+      "rarity": "Common",
+      "cardNum": "50/50"
+    },
+    {
+      "name": "Gyarados GX",
+      "set": "The Transdimensional Beast",
+      "img": "https://den-cards.pokellector.com/227/Gyarados-GX.SM4A.51.19435.png",
+      "rarity": "Secret Rare",
+      "cardNum": "51/50"
+    },
+    {
+      "name": "Nihilego GX",
+      "set": "The Transdimensional Beast",
+      "img": "https://den-cards.pokellector.com/227/Nihilego-GX.SM4A.52.19436.png",
+      "rarity": "Secret Rare",
+      "cardNum": "52/50"
+    },
+    {
+      "name": "Guzzlord GX",
+      "set": "The Transdimensional Beast",
+      "img": "https://den-cards.pokellector.com/227/Guzzlord-GX.SM4A.53.19328.png",
+      "rarity": "Secret Rare",
+      "cardNum": "53/50"
+    },
+    {
+      "name": "Alolan Exeggutor GX",
+      "set": "The Transdimensional Beast",
+      "img": "https://den-cards.pokellector.com/227/Alolan-Exeggutor-GX.SM4A.54.19437.png",
+      "rarity": "Secret Rare",
+      "cardNum": "54/50"
+    },
+    {
+      "name": "Lusamine",
+      "set": "The Transdimensional Beast",
+      "img": "https://den-cards.pokellector.com/227/Lusamine.SM4A.55.19356.png",
+      "rarity": "Secret Rare",
+      "cardNum": "55/50"
+    },
+    {
+      "name": "Gyarados GX",
+      "set": "The Transdimensional Beast",
+      "img": "https://den-cards.pokellector.com/227/Gyarados-GX.SM4A.56.19438.png",
+      "rarity": "Secret Rare",
+      "cardNum": "56/50"
+    },
+    {
+      "name": "Nihilego GX",
+      "set": "The Transdimensional Beast",
+      "img": "https://den-cards.pokellector.com/227/Nihilego-GX.SM4A.57.19439.png",
+      "rarity": "Secret Rare",
+      "cardNum": "57/50"
+    },
+    {
+      "name": "Guzzlord GX",
+      "set": "The Transdimensional Beast",
+      "img": "https://den-cards.pokellector.com/227/Guzzlord-GX.SM4A.58.19440.png",
+      "rarity": "Secret Rare",
+      "cardNum": "58/50"
+    },
+    {
+      "name": "Alolan Exeggutor GX",
+      "set": "The Transdimensional Beast",
+      "img": "https://den-cards.pokellector.com/227/Alolan-Exeggutor-GX.SM4A.59.19441.png",
+      "rarity": "Secret Rare",
+      "cardNum": "59/50"
+    },
+    {
+      "name": "Wishful Baton",
+      "set": "The Transdimensional Beast",
+      "img": "https://den-cards.pokellector.com/227/Wishful-Baton.SM4A.60.19442.png",
+      "rarity": "Secret Rare",
+      "cardNum": "60/50"
+    },
+    {
+      "name": "Counter Energy",
+      "set": "The Transdimensional Beast",
+      "img": "https://den-cards.pokellector.com/227/Counter-Energy.SM4A.61.19443.png",
+      "rarity": "Secret Rare",
+      "cardNum": "61/50"
+    },
+    {
+      "name": "Water Energy",
+      "set": "The Transdimensional Beast",
+      "img": "https://den-cards.pokellector.com/227/Water-Energy.SM4A.62.19444.png",
+      "rarity": "Secret Rare",
+      "cardNum": "62/50"
+    }
+  ]
+}

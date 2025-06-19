@@ -1,0 +1,649 @@
+{
+  "setName": "Raging Surf",
+  "cards": [
+    {
+      "name": "Froslass ex",
+      "set": "Raging Surf",
+      "img": "https://den-cards.pokellector.com/376/Froslass-ex.SV3A.1.49239.png",
+      "rarity": "Double Rare",
+      "cardNum": "1/62"
+    },
+    {
+      "name": "Lapras",
+      "set": "Raging Surf",
+      "img": "https://den-cards.pokellector.com/376/Lapras.SV3A.2.49355.png",
+      "rarity": "Common",
+      "cardNum": "2/62"
+    },
+    {
+      "name": "Remoraid",
+      "set": "Raging Surf",
+      "img": "https://den-cards.pokellector.com/376/Remoraid.SV3A.3.49356.png",
+      "rarity": "Common",
+      "cardNum": "3/62"
+    },
+    {
+      "name": "Octillery",
+      "set": "Raging Surf",
+      "img": "https://den-cards.pokellector.com/376/Octillery.SV3A.4.49357.png",
+      "rarity": "Common",
+      "cardNum": "4/62"
+    },
+    {
+      "name": "Snorunt",
+      "set": "Raging Surf",
+      "img": "https://den-cards.pokellector.com/376/Snorunt.SV3A.5.49240.png",
+      "rarity": "Common",
+      "cardNum": "5/62"
+    },
+    {
+      "name": "Garchomp ex",
+      "set": "Raging Surf",
+      "img": "https://den-cards.pokellector.com/376/Garchomp-ex.SV3A.6.49235.png",
+      "rarity": "Double Rare",
+      "cardNum": "6/62"
+    },
+    {
+      "name": "Mantyke",
+      "set": "Raging Surf",
+      "img": "https://den-cards.pokellector.com/376/Mantyke.SV3A.7.49358.png",
+      "rarity": "Common",
+      "cardNum": "7/62"
+    },
+    {
+      "name": "Palkia",
+      "set": "Raging Surf",
+      "img": "https://den-cards.pokellector.com/376/Palkia.SV3A.8.49342.png",
+      "rarity": "Rare",
+      "cardNum": "8/62"
+    },
+    {
+      "name": "Wimpod",
+      "set": "Raging Surf",
+      "img": "https://den-cards.pokellector.com/376/Wimpod.SV3A.9.49359.png",
+      "rarity": "Common",
+      "cardNum": "9/62"
+    },
+    {
+      "name": "Golisopod",
+      "set": "Raging Surf",
+      "img": "https://den-cards.pokellector.com/376/Golisopod.SV3A.10.49360.png",
+      "rarity": "Rare",
+      "cardNum": "10/62"
+    },
+    {
+      "name": "Dondozo",
+      "set": "Raging Surf",
+      "img": "https://den-cards.pokellector.com/376/Dondozo.SV3A.11.49361.png",
+      "rarity": "Uncommon",
+      "cardNum": "11/62"
+    },
+    {
+      "name": "Chinchou",
+      "set": "Raging Surf",
+      "img": "https://den-cards.pokellector.com/376/Chinchou.SV3A.12.49362.png",
+      "rarity": "Common",
+      "cardNum": "12/62"
+    },
+    {
+      "name": "Lanturn",
+      "set": "Raging Surf",
+      "img": "https://den-cards.pokellector.com/376/Lanturn.SV3A.13.49363.png",
+      "rarity": "Uncommon",
+      "cardNum": "13/62"
+    },
+    {
+      "name": "Plusle",
+      "set": "Raging Surf",
+      "img": "https://den-cards.pokellector.com/376/Plusle.SV3A.14.49364.png",
+      "rarity": "Common",
+      "cardNum": "14/62"
+    },
+    {
+      "name": "Minun",
+      "set": "Raging Surf",
+      "img": "https://den-cards.pokellector.com/376/Minun.SV3A.15.49365.png",
+      "rarity": "Common",
+      "cardNum": "15/62"
+    },
+    {
+      "name": "Joltik",
+      "set": "Raging Surf",
+      "img": "https://den-cards.pokellector.com/376/Joltik.SV3A.16.49366.png",
+      "rarity": "Common",
+      "cardNum": "16/62"
+    },
+    {
+      "name": "Galvantula",
+      "set": "Raging Surf",
+      "img": "https://den-cards.pokellector.com/376/Galvantula.SV3A.17.49367.png",
+      "rarity": "Common",
+      "cardNum": "17/62"
+    },
+    {
+      "name": "Zekrom",
+      "set": "Raging Surf",
+      "img": "https://den-cards.pokellector.com/376/Zekrom.SV3A.18.49353.png",
+      "rarity": "Rare",
+      "cardNum": "18/62"
+    },
+    {
+      "name": "Tapu Koko ex",
+      "set": "Raging Surf",
+      "img": "https://den-cards.pokellector.com/376/Tapu-Koko-ex.SV3A.19.49368.png",
+      "rarity": "Double Rare",
+      "cardNum": "19/62"
+    },
+    {
+      "name": "Gimmighoul",
+      "set": "Raging Surf",
+      "img": "https://den-cards.pokellector.com/376/Gimmighoul.SV3A.20.49369.png",
+      "rarity": "Common",
+      "cardNum": "20/62"
+    },
+    {
+      "name": "Gimmighoul",
+      "set": "Raging Surf",
+      "img": "https://den-cards.pokellector.com/376/Gimmighoul.SV3A.21.49370.png",
+      "rarity": "Common",
+      "cardNum": "21/62"
+    },
+    {
+      "name": "Gligar",
+      "set": "Raging Surf",
+      "img": "https://den-cards.pokellector.com/376/Gligar.SV3A.22.49371.png",
+      "rarity": "Common",
+      "cardNum": "22/62"
+    },
+    {
+      "name": "Gliscor",
+      "set": "Raging Surf",
+      "img": "https://den-cards.pokellector.com/376/Gliscor.SV3A.23.49372.png",
+      "rarity": "Uncommon",
+      "cardNum": "23/62"
+    },
+    {
+      "name": "Phanpy",
+      "set": "Raging Surf",
+      "img": "https://den-cards.pokellector.com/376/Phanpy.SV3A.24.49373.png",
+      "rarity": "Common",
+      "cardNum": "24/62"
+    },
+    {
+      "name": "Donphan",
+      "set": "Raging Surf",
+      "img": "https://den-cards.pokellector.com/376/Donphan.SV3A.25.49374.png",
+      "rarity": "Uncommon",
+      "cardNum": "25/62"
+    },
+    {
+      "name": "Groudon",
+      "set": "Raging Surf",
+      "img": "https://den-cards.pokellector.com/376/Groudon.SV3A.26.49238.png",
+      "rarity": "Rare",
+      "cardNum": "26/62"
+    },
+    {
+      "name": "Gible",
+      "set": "Raging Surf",
+      "img": "https://den-cards.pokellector.com/376/Gible.SV3A.27.49236.png",
+      "rarity": "Common",
+      "cardNum": "27/62"
+    },
+    {
+      "name": "Gabite",
+      "set": "Raging Surf",
+      "img": "https://den-cards.pokellector.com/376/Gabite.SV3A.28.49237.png",
+      "rarity": "Common",
+      "cardNum": "28/62"
+    },
+    {
+      "name": "Hoopa ex",
+      "set": "Raging Surf",
+      "img": "https://den-cards.pokellector.com/376/Gholdengo-ex.SV3A.29.49303.png",
+      "rarity": "Double Rare",
+      "cardNum": "29/62"
+    },
+    {
+      "name": "Minior",
+      "set": "Raging Surf",
+      "img": "https://den-cards.pokellector.com/376/Minior.SV3A.30.49311.png",
+      "rarity": "Uncommon",
+      "cardNum": "30/62"
+    },
+    {
+      "name": "Klawf",
+      "set": "Raging Surf",
+      "img": "https://den-cards.pokellector.com/376/Klawf.SV3A.31.49375.png",
+      "rarity": "Uncommon",
+      "cardNum": "31/62"
+    },
+    {
+      "name": "Flamigo",
+      "set": "Raging Surf",
+      "img": "https://den-cards.pokellector.com/376/Flamigo.SV3A.32.49376.png",
+      "rarity": "Common",
+      "cardNum": "32/62"
+    },
+    {
+      "name": "Gastly",
+      "set": "Raging Surf",
+      "img": "https://den-cards.pokellector.com/376/Gastly.SV3A.33.49307.png",
+      "rarity": "Common",
+      "cardNum": "33/62"
+    },
+    {
+      "name": "Haunter",
+      "set": "Raging Surf",
+      "img": "https://den-cards.pokellector.com/376/Haunter.SV3A.34.49308.png",
+      "rarity": "Common",
+      "cardNum": "34/62"
+    },
+    {
+      "name": "Gengar",
+      "set": "Raging Surf",
+      "img": "https://den-cards.pokellector.com/376/Gengar.SV3A.35.49309.png",
+      "rarity": "Uncommon",
+      "cardNum": "35/62"
+    },
+    {
+      "name": "Absol",
+      "set": "Raging Surf",
+      "img": "https://den-cards.pokellector.com/376/Absol.SV3A.36.49281.png",
+      "rarity": "Uncommon",
+      "cardNum": "36/62"
+    },
+    {
+      "name": "Scraggy",
+      "set": "Raging Surf",
+      "img": "https://den-cards.pokellector.com/376/Scraggy.SV3A.37.49377.png",
+      "rarity": "Common",
+      "cardNum": "37/62"
+    },
+    {
+      "name": "Scrafty",
+      "set": "Raging Surf",
+      "img": "https://den-cards.pokellector.com/376/Scrafty.SV3A.38.49378.png",
+      "rarity": "Uncommon",
+      "cardNum": "38/62"
+    },
+    {
+      "name": "Yveltal",
+      "set": "Raging Surf",
+      "img": "https://den-cards.pokellector.com/376/Yveltal.SV3A.39.49379.png",
+      "rarity": "Rare",
+      "cardNum": "39/62"
+    },
+    {
+      "name": "Nickit",
+      "set": "Raging Surf",
+      "img": "https://den-cards.pokellector.com/376/Nickit.SV3A.40.49380.png",
+      "rarity": "Common",
+      "cardNum": "40/62"
+    },
+    {
+      "name": "Thievul",
+      "set": "Raging Surf",
+      "img": "https://den-cards.pokellector.com/376/Thievul.SV3A.41.49381.png",
+      "rarity": "Rare",
+      "cardNum": "41/62"
+    },
+    {
+      "name": "Jirachi",
+      "set": "Raging Surf",
+      "img": "https://den-cards.pokellector.com/376/Jirachi.SV3A.42.49382.png",
+      "rarity": "Common",
+      "cardNum": "42/62"
+    },
+    {
+      "name": "Ferroseed",
+      "set": "Raging Surf",
+      "img": "https://den-cards.pokellector.com/376/Ferroseed.SV3A.43.49383.png",
+      "rarity": "Common",
+      "cardNum": "43/62"
+    },
+    {
+      "name": "Ferrothorn",
+      "set": "Raging Surf",
+      "img": "https://den-cards.pokellector.com/376/Ferrothorn.SV3A.44.49384.png",
+      "rarity": "Uncommon",
+      "cardNum": "44/62"
+    },
+    {
+      "name": "Honedge",
+      "set": "Raging Surf",
+      "img": "https://den-cards.pokellector.com/376/Honedge.SV3A.45.49346.png",
+      "rarity": "Common",
+      "cardNum": "45/62"
+    },
+    {
+      "name": "Doublade",
+      "set": "Raging Surf",
+      "img": "https://den-cards.pokellector.com/376/Doublade.SV3A.46.49347.png",
+      "rarity": "Common",
+      "cardNum": "46/62"
+    },
+    {
+      "name": "Aegislash",
+      "set": "Raging Surf",
+      "img": "https://den-cards.pokellector.com/376/Aegislash.SV3A.47.49348.png",
+      "rarity": "Rare",
+      "cardNum": "47/62"
+    },
+    {
+      "name": "Zacian",
+      "set": "Raging Surf",
+      "img": "https://den-cards.pokellector.com/376/Zacian.SV3A.48.49352.png",
+      "rarity": "Rare",
+      "cardNum": "48/62"
+    },
+    {
+      "name": "Orthworm",
+      "set": "Raging Surf",
+      "img": "https://den-cards.pokellector.com/376/Orthworm.SV3A.49.49385.png",
+      "rarity": "Uncommon",
+      "cardNum": "49/62"
+    },
+    {
+      "name": "Gholdengo ex",
+      "set": "Raging Surf",
+      "img": "https://den-cards.pokellector.com/376/Gholdengo-ex.SV3A.50.49304.png",
+      "rarity": "Double Rare",
+      "cardNum": "50/62"
+    },
+    {
+      "name": "Bombirdier ex",
+      "set": "Raging Surf",
+      "img": "https://den-cards.pokellector.com/376/Bombirdier-ex.SV3A.51.49386.png",
+      "rarity": "Double Rare",
+      "cardNum": "51/62"
+    },
+    {
+      "name": "Cyclizar",
+      "set": "Raging Surf",
+      "img": "https://den-cards.pokellector.com/376/Cyclizar.SV3A.52.49387.png",
+      "rarity": "Uncommon",
+      "cardNum": "52/62"
+    },
+    {
+      "name": "Rare Candy",
+      "set": "Raging Surf",
+      "img": "https://den-cards.pokellector.com/376/Rare-Candy.SV3A.53.49282.png",
+      "rarity": "Uncommon",
+      "cardNum": "53/62"
+    },
+    {
+      "name": "Switch",
+      "set": "Raging Surf",
+      "img": "https://den-cards.pokellector.com/376/Switch.SV3A.54.49283.png",
+      "rarity": "Uncommon",
+      "cardNum": "54/62"
+    },
+    {
+      "name": "Gorgeous Cape",
+      "set": "Raging Surf",
+      "img": "https://den-cards.pokellector.com/376/Gorgeous-Cape.SV3A.55.49388.png",
+      "rarity": "Uncommon",
+      "cardNum": "55/62"
+    },
+    {
+      "name": "TM: Turbo Energize",
+      "set": "Raging Surf",
+      "img": "https://den-cards.pokellector.com/376/TM-Turbo-Energize.SV3A.56.49242.png",
+      "rarity": "Uncommon",
+      "cardNum": "56/62"
+    },
+    {
+      "name": "TM: Blindside",
+      "set": "Raging Surf",
+      "img": "https://den-cards.pokellector.com/376/TM-Blindside.SV3A.57.49241.png",
+      "rarity": "Uncommon",
+      "cardNum": "57/62"
+    },
+    {
+      "name": "Larry",
+      "set": "Raging Surf",
+      "img": "https://den-cards.pokellector.com/376/Larry.SV3A.58.49243.png",
+      "rarity": "Common",
+      "cardNum": "58/62"
+    },
+    {
+      "name": "Shauntal",
+      "set": "Raging Surf",
+      "img": "https://den-cards.pokellector.com/376/Shauntal.SV3A.59.49305.png",
+      "rarity": "Uncommon",
+      "cardNum": "59/62"
+    },
+    {
+      "name": "Rika",
+      "set": "Raging Surf",
+      "img": "https://den-cards.pokellector.com/376/Rika.SV3A.60.49244.png",
+      "rarity": "Uncommon",
+      "cardNum": "60/62"
+    },
+    {
+      "name": "Parasol Lady",
+      "set": "Raging Surf",
+      "img": "https://den-cards.pokellector.com/376/Parasol-Lady.SV3A.61.49306.png",
+      "rarity": "Common",
+      "cardNum": "61/62"
+    },
+    {
+      "name": "Medical Energy",
+      "set": "Raging Surf",
+      "img": "https://den-cards.pokellector.com/376/Medical-Energy.SV3A.62.49389.png",
+      "rarity": "Uncommon",
+      "cardNum": "62/62"
+    },
+    {
+      "name": "Snorunt",
+      "set": "Raging Surf",
+      "img": "https://den-cards.pokellector.com/376/Snorunt.SV3A.63.49350.png",
+      "rarity": "Art Rare",
+      "cardNum": "63/62"
+    },
+    {
+      "name": "Mantyke",
+      "set": "Raging Surf",
+      "img": "https://den-cards.pokellector.com/376/Mantyke.SV3A.64.49302.png",
+      "rarity": "Art Rare",
+      "cardNum": "64/62"
+    },
+    {
+      "name": "Plusle",
+      "set": "Raging Surf",
+      "img": "https://den-cards.pokellector.com/376/Plusle.SV3A.65.49299.png",
+      "rarity": "Art Rare",
+      "cardNum": "65/62"
+    },
+    {
+      "name": "Minun",
+      "set": "Raging Surf",
+      "img": "https://den-cards.pokellector.com/376/Minun.SV3A.66.49300.png",
+      "rarity": "Art Rare",
+      "cardNum": "66/62"
+    },
+    {
+      "name": "Joltik",
+      "set": "Raging Surf",
+      "img": "https://den-cards.pokellector.com/376/Joltik.SV3A.67.49390.png",
+      "rarity": "Art Rare",
+      "cardNum": "67/62"
+    },
+    {
+      "name": "Gimmighoul",
+      "set": "Raging Surf",
+      "img": "https://den-cards.pokellector.com/376/Gimmighoul.SV3A.68.49391.png",
+      "rarity": "Art Rare",
+      "cardNum": "68/62"
+    },
+    {
+      "name": "Groudon",
+      "set": "Raging Surf",
+      "img": "https://den-cards.pokellector.com/376/Groudon.SV3A.69.49351.png",
+      "rarity": "Art Rare",
+      "cardNum": "69/62"
+    },
+    {
+      "name": "Minior",
+      "set": "Raging Surf",
+      "img": "https://den-cards.pokellector.com/376/Minior.SV3A.70.49310.png",
+      "rarity": "Art Rare",
+      "cardNum": "70/62"
+    },
+    {
+      "name": "Yveltal",
+      "set": "Raging Surf",
+      "img": "https://den-cards.pokellector.com/376/Yveltal.SV3A.71.49301.png",
+      "rarity": "Art Rare",
+      "cardNum": "71/62"
+    },
+    {
+      "name": "Ferrothorn",
+      "set": "Raging Surf",
+      "img": "https://den-cards.pokellector.com/376/Ferrothorn.SV3A.72.49392.png",
+      "rarity": "Art Rare",
+      "cardNum": "72/62"
+    },
+    {
+      "name": "Aegislash",
+      "set": "Raging Surf",
+      "img": "https://den-cards.pokellector.com/376/Aegislash.SV3A.73.49345.png",
+      "rarity": "Art Rare",
+      "cardNum": "73/62"
+    },
+    {
+      "name": "Cyclizar",
+      "set": "Raging Surf",
+      "img": "https://den-cards.pokellector.com/376/Cyclizar.SV3A.74.49393.png",
+      "rarity": "Art Rare",
+      "cardNum": "74/62"
+    },
+    {
+      "name": "Froslass ex",
+      "set": "Raging Surf",
+      "img": "https://den-cards.pokellector.com/376/Froslass-ex.SV3A.75.49394.png",
+      "rarity": "Super Rare",
+      "cardNum": "75/62"
+    },
+    {
+      "name": "Garchomp ex",
+      "set": "Raging Surf",
+      "img": "https://den-cards.pokellector.com/376/Garchomp-ex.SV3A.76.49395.png",
+      "rarity": "Super Rare",
+      "cardNum": "76/62"
+    },
+    {
+      "name": "Tapu Koko ex",
+      "set": "Raging Surf",
+      "img": "https://den-cards.pokellector.com/376/Tapu-Koko-ex.SV3A.77.49396.png",
+      "rarity": "Super Rare",
+      "cardNum": "77/62"
+    },
+    {
+      "name": "Hoopa ex",
+      "set": "Raging Surf",
+      "img": "https://den-cards.pokellector.com/376/Hoopa-ex.SV3A.78.49397.png",
+      "rarity": "Super Rare",
+      "cardNum": "78/62"
+    },
+    {
+      "name": "Gholdengo ex",
+      "set": "Raging Surf",
+      "img": "https://den-cards.pokellector.com/376/Gholdengo-ex.SV3A.79.49398.png",
+      "rarity": "Super Rare",
+      "cardNum": "79/62"
+    },
+    {
+      "name": "Bombirdier ex",
+      "set": "Raging Surf",
+      "img": "https://den-cards.pokellector.com/376/Bombirdier-ex.SV3A.80.49399.png",
+      "rarity": "Super Rare",
+      "cardNum": "80/62"
+    },
+    {
+      "name": "Larry",
+      "set": "Raging Surf",
+      "img": "https://den-cards.pokellector.com/376/Larry.SV3A.81.49400.png",
+      "rarity": "Super Rare",
+      "cardNum": "81/62"
+    },
+    {
+      "name": "Shauntal",
+      "set": "Raging Surf",
+      "img": "https://den-cards.pokellector.com/376/Shauntal.SV3A.82.49401.png",
+      "rarity": "Super Rare",
+      "cardNum": "82/62"
+    },
+    {
+      "name": "Rika",
+      "set": "Raging Surf",
+      "img": "https://den-cards.pokellector.com/376/Rika.SV3A.83.49402.png",
+      "rarity": "Super Rare",
+      "cardNum": "83/62"
+    },
+    {
+      "name": "Parasol Lady",
+      "set": "Raging Surf",
+      "img": "https://den-cards.pokellector.com/376/Parasol-Lady.SV3A.84.49297.png",
+      "rarity": "Super Rare",
+      "cardNum": "84/62"
+    },
+    {
+      "name": "Garchomp ex",
+      "set": "Raging Surf",
+      "img": "https://den-cards.pokellector.com/376/Garchomp-ex.SV3A.85.49298.png",
+      "rarity": "Special Art Rare",
+      "cardNum": "85/62"
+    },
+    {
+      "name": "Tapu Koko ex",
+      "set": "Raging Surf",
+      "img": "https://den-cards.pokellector.com/376/Tapu-Koko-ex.SV3A.86.49403.png",
+      "rarity": "Special Art Rare",
+      "cardNum": "86/62"
+    },
+    {
+      "name": "Gholdengo ex",
+      "set": "Raging Surf",
+      "img": "https://den-cards.pokellector.com/376/Gholdengo-ex.SV3A.87.49404.png",
+      "rarity": "Special Art Rare",
+      "cardNum": "87/62"
+    },
+    {
+      "name": "Rika",
+      "set": "Raging Surf",
+      "img": "https://den-cards.pokellector.com/376/Rika.SV3A.88.49405.png",
+      "rarity": "Special Art Rare",
+      "cardNum": "88/62"
+    },
+    {
+      "name": "Parasol Lady",
+      "set": "Raging Surf",
+      "img": "https://den-cards.pokellector.com/376/Parasol-Lady.SV3A.89.49406.png",
+      "rarity": "Special Art Rare",
+      "cardNum": "89/62"
+    },
+    {
+      "name": "Garchomp ex",
+      "set": "Raging Surf",
+      "img": "https://den-cards.pokellector.com/376/Garchomp-ex.SV3A.90.49407.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "90/62"
+    },
+    {
+      "name": "Beach Court",
+      "set": "Raging Surf",
+      "img": "https://den-cards.pokellector.com/376/Beach-Court.SV3A.91.49408.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "91/62"
+    },
+    {
+      "name": "Reversal Energy",
+      "set": "Raging Surf",
+      "img": "https://den-cards.pokellector.com/376/Reversal-Energy.SV3A.92.49409.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "92/62"
+    }
+  ]
+}

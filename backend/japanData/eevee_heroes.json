@@ -1,0 +1,712 @@
+{
+  "setName": "Eevee Heroes",
+  "cards": [
+    {
+      "name": "Pinsir",
+      "set": "Eevee Heroes",
+      "img": "https://den-cards.pokellector.com/322/Pinsir.S6A.1.38923.png",
+      "rarity": "Uncommon",
+      "cardNum": "1/69"
+    },
+    {
+      "name": "Leafeon V",
+      "set": "Eevee Heroes",
+      "img": "https://den-cards.pokellector.com/322/Leafeon-V.S6A.2.38832.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "2/69"
+    },
+    {
+      "name": "Leafeon VMAX",
+      "set": "Eevee Heroes",
+      "img": "https://den-cards.pokellector.com/322/Leafeon-VMAX.S6A.3.38924.png",
+      "rarity": "Common",
+      "cardNum": "3/69"
+    },
+    {
+      "name": "Sewaddle",
+      "set": "Eevee Heroes",
+      "img": "https://den-cards.pokellector.com/322/Sewaddle.S6A.4.38826.png",
+      "rarity": "Common",
+      "cardNum": "4/69"
+    },
+    {
+      "name": "Swadloon",
+      "set": "Eevee Heroes",
+      "img": "https://den-cards.pokellector.com/322/Swadloon.S6A.5.38825.png",
+      "rarity": "Common",
+      "cardNum": "5/69"
+    },
+    {
+      "name": "Leavanny",
+      "set": "Eevee Heroes",
+      "img": "https://den-cards.pokellector.com/322/Leavanny.S6A.6.38824.png",
+      "rarity": "Uncommon",
+      "cardNum": "6/69"
+    },
+    {
+      "name": "Dewpider",
+      "set": "Eevee Heroes",
+      "img": "https://den-cards.pokellector.com/322/Dewpider.S6A.7.38871.png",
+      "rarity": "Common",
+      "cardNum": "7/69"
+    },
+    {
+      "name": "Araquanid",
+      "set": "Eevee Heroes",
+      "img": "https://den-cards.pokellector.com/322/Araquanid.S6A.8.38872.png",
+      "rarity": "Common",
+      "cardNum": "8/69"
+    },
+    {
+      "name": "Gossifleur",
+      "set": "Eevee Heroes",
+      "img": "https://den-cards.pokellector.com/322/Gossifleur.S6A.9.38876.png",
+      "rarity": "Common",
+      "cardNum": "9/69"
+    },
+    {
+      "name": "Eldegoss",
+      "set": "Eevee Heroes",
+      "img": "https://den-cards.pokellector.com/322/Eldegoss.S6A.10.38875.png",
+      "rarity": "Rare",
+      "cardNum": "10/69"
+    },
+    {
+      "name": "Flareon V",
+      "set": "Eevee Heroes",
+      "img": "https://den-cards.pokellector.com/322/Flareon-V.S6A.11.38829.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "11/69"
+    },
+    {
+      "name": "Slugma",
+      "set": "Eevee Heroes",
+      "img": "https://den-cards.pokellector.com/322/Slugma.S6A.12.38925.png",
+      "rarity": "Common",
+      "cardNum": "12/69"
+    },
+    {
+      "name": "Magcargo",
+      "set": "Eevee Heroes",
+      "img": "https://den-cards.pokellector.com/322/Magcargo.S6A.13.38926.png",
+      "rarity": "Common",
+      "cardNum": "13/69"
+    },
+    {
+      "name": "Entei",
+      "set": "Eevee Heroes",
+      "img": "https://den-cards.pokellector.com/322/Entei.S6A.14.38836.png",
+      "rarity": "Rare",
+      "cardNum": "14/69"
+    },
+    {
+      "name": "Vaporeon V",
+      "set": "Eevee Heroes",
+      "img": "https://den-cards.pokellector.com/322/Vaporeon-V.S6A.15.38827.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "15/69"
+    },
+    {
+      "name": "Marill",
+      "set": "Eevee Heroes",
+      "img": "https://den-cards.pokellector.com/322/Marill.S6A.16.38927.png",
+      "rarity": "Common",
+      "cardNum": "16/69"
+    },
+    {
+      "name": "Azumarill",
+      "set": "Eevee Heroes",
+      "img": "https://den-cards.pokellector.com/322/Azumarill.S6A.17.38928.png",
+      "rarity": "Common",
+      "cardNum": "17/69"
+    },
+    {
+      "name": "Mantine",
+      "set": "Eevee Heroes",
+      "img": "https://den-cards.pokellector.com/322/Mantine.S6A.18.38929.png",
+      "rarity": "Common",
+      "cardNum": "18/69"
+    },
+    {
+      "name": "Mudkip",
+      "set": "Eevee Heroes",
+      "img": "https://den-cards.pokellector.com/322/Mudkip.S6A.19.38848.png",
+      "rarity": "Common",
+      "cardNum": "19/69"
+    },
+    {
+      "name": "Marshtomp",
+      "set": "Eevee Heroes",
+      "img": "https://den-cards.pokellector.com/322/Marshtomp.S6A.20.38849.png",
+      "rarity": "Uncommon",
+      "cardNum": "20/69"
+    },
+    {
+      "name": "Swampert",
+      "set": "Eevee Heroes",
+      "img": "https://den-cards.pokellector.com/322/Swampert.S6A.21.38860.png",
+      "rarity": "Rare",
+      "cardNum": "21/69"
+    },
+    {
+      "name": "Feebas",
+      "set": "Eevee Heroes",
+      "img": "https://den-cards.pokellector.com/322/Feebas.S6A.22.38930.png",
+      "rarity": "Common",
+      "cardNum": "22/69"
+    },
+    {
+      "name": "Milotic",
+      "set": "Eevee Heroes",
+      "img": "https://den-cards.pokellector.com/322/Milotic.S6A.23.38931.png",
+      "rarity": "Uncommon",
+      "cardNum": "23/69"
+    },
+    {
+      "name": "Glaceon V",
+      "set": "Eevee Heroes",
+      "img": "https://den-cards.pokellector.com/322/Glaceon-V.S6A.24.38833.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "24/69"
+    },
+    {
+      "name": "Glaceon VMAX",
+      "set": "Eevee Heroes",
+      "img": "https://den-cards.pokellector.com/322/Glaceon-VMAX.S6A.25.38852.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "25/69"
+    },
+    {
+      "name": "Pikachu",
+      "set": "Eevee Heroes",
+      "img": "https://den-cards.pokellector.com/322/Pikachu.S6A.26.38870.png",
+      "rarity": "Common",
+      "cardNum": "26/69"
+    },
+    {
+      "name": "Raichu",
+      "set": "Eevee Heroes",
+      "img": "https://den-cards.pokellector.com/322/Raichu.S6A.27.38869.png",
+      "rarity": "Rare",
+      "cardNum": "27/69"
+    },
+    {
+      "name": "Voltorb",
+      "set": "Eevee Heroes",
+      "img": "https://den-cards.pokellector.com/322/Voltorb.S6A.28.38838.png",
+      "rarity": "Common",
+      "cardNum": "28/69"
+    },
+    {
+      "name": "Electrode",
+      "set": "Eevee Heroes",
+      "img": "https://den-cards.pokellector.com/322/Electrode.S6A.29.38837.png",
+      "rarity": "Uncommon",
+      "cardNum": "29/69"
+    },
+    {
+      "name": "Jolteon V",
+      "set": "Eevee Heroes",
+      "img": "https://den-cards.pokellector.com/322/Jolteon-V.S6A.30.38828.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "30/69"
+    },
+    {
+      "name": "Rotom",
+      "set": "Eevee Heroes",
+      "img": "https://den-cards.pokellector.com/322/Rotom.S6A.31.38932.png",
+      "rarity": "Common",
+      "cardNum": "31/69"
+    },
+    {
+      "name": "Tynamo",
+      "set": "Eevee Heroes",
+      "img": "https://den-cards.pokellector.com/322/Tynamo.S6A.32.38933.png",
+      "rarity": "Common",
+      "cardNum": "32/69"
+    },
+    {
+      "name": "Eelektrik",
+      "set": "Eevee Heroes",
+      "img": "https://den-cards.pokellector.com/322/Eelektrik.S6A.33.38934.png",
+      "rarity": "Common",
+      "cardNum": "33/69"
+    },
+    {
+      "name": "Eelektross",
+      "set": "Eevee Heroes",
+      "img": "https://den-cards.pokellector.com/322/Eelektross.S6A.34.38935.png",
+      "rarity": "Uncommon",
+      "cardNum": "34/69"
+    },
+    {
+      "name": "Espeon V",
+      "set": "Eevee Heroes",
+      "img": "https://den-cards.pokellector.com/322/Espeon-V.S6A.35.38830.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "35/69"
+    },
+    {
+      "name": "Mawile",
+      "set": "Eevee Heroes",
+      "img": "https://den-cards.pokellector.com/322/Mawile.S6A.36.38936.png",
+      "rarity": "Common",
+      "cardNum": "36/69"
+    },
+    {
+      "name": "Flabébé",
+      "set": "Eevee Heroes",
+      "img": "https://den-cards.pokellector.com/322/Flabb.S6A.37.38845.png",
+      "rarity": "Common",
+      "cardNum": "37/69"
+    },
+    {
+      "name": "Floette",
+      "set": "Eevee Heroes",
+      "img": "https://den-cards.pokellector.com/322/Floette.S6A.38.38844.png",
+      "rarity": "Uncommon",
+      "cardNum": "38/69"
+    },
+    {
+      "name": "Florges",
+      "set": "Eevee Heroes",
+      "img": "https://den-cards.pokellector.com/322/Florges.S6A.39.38843.png",
+      "rarity": "Rare",
+      "cardNum": "39/69"
+    },
+    {
+      "name": "Sylveon V",
+      "set": "Eevee Heroes",
+      "img": "https://den-cards.pokellector.com/322/Sylveon-V.S6A.40.38834.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "40/69"
+    },
+    {
+      "name": "Sylveon VMAX",
+      "set": "Eevee Heroes",
+      "img": "https://den-cards.pokellector.com/322/Sylveon-VMAX.S6A.41.38937.png",
+      "rarity": "Common",
+      "cardNum": "41/69"
+    },
+    {
+      "name": "Sandygast",
+      "set": "Eevee Heroes",
+      "img": "https://den-cards.pokellector.com/322/Sandygast.S6A.42.38850.png",
+      "rarity": "Common",
+      "cardNum": "42/69"
+    },
+    {
+      "name": "Palossand",
+      "set": "Eevee Heroes",
+      "img": "https://den-cards.pokellector.com/322/Palossand.S6A.43.38862.png",
+      "rarity": "Uncommon",
+      "cardNum": "43/69"
+    },
+    {
+      "name": "Marshadow",
+      "set": "Eevee Heroes",
+      "img": "https://den-cards.pokellector.com/322/Marshadow.S6A.44.38842.png",
+      "rarity": "Rare",
+      "cardNum": "44/69"
+    },
+    {
+      "name": "Indeedee",
+      "set": "Eevee Heroes",
+      "img": "https://den-cards.pokellector.com/322/Indeedee.S6A.45.38938.png",
+      "rarity": "Common",
+      "cardNum": "45/69"
+    },
+    {
+      "name": "Pancham",
+      "set": "Eevee Heroes",
+      "img": "https://den-cards.pokellector.com/322/Pancham.S6A.46.38939.png",
+      "rarity": "Common",
+      "cardNum": "46/69"
+    },
+    {
+      "name": "Umbreon V",
+      "set": "Eevee Heroes",
+      "img": "https://den-cards.pokellector.com/322/Umbreon-V.S6A.47.38831.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "47/69"
+    },
+    {
+      "name": "Umbreon VMAX",
+      "set": "Eevee Heroes",
+      "img": "https://den-cards.pokellector.com/322/Umbreon-VMAX.S6A.48.38851.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "48/69"
+    },
+    {
+      "name": "Zorua",
+      "set": "Eevee Heroes",
+      "img": "https://den-cards.pokellector.com/322/Zorua.S6A.49.38879.png",
+      "rarity": "Common",
+      "cardNum": "49/69"
+    },
+    {
+      "name": "Zoroark",
+      "set": "Eevee Heroes",
+      "img": "https://den-cards.pokellector.com/322/Zoroark.S6A.50.38861.png",
+      "rarity": "Rare",
+      "cardNum": "50/69"
+    },
+    {
+      "name": "Pangoro",
+      "set": "Eevee Heroes",
+      "img": "https://den-cards.pokellector.com/322/Pangoro.S6A.51.38940.png",
+      "rarity": "Common",
+      "cardNum": "51/69"
+    },
+    {
+      "name": "Impidimp",
+      "set": "Eevee Heroes",
+      "img": "https://den-cards.pokellector.com/322/Impidimp.S6A.52.38841.png",
+      "rarity": "Common",
+      "cardNum": "52/69"
+    },
+    {
+      "name": "Morgrem",
+      "set": "Eevee Heroes",
+      "img": "https://den-cards.pokellector.com/322/Morgrem.S6A.53.38840.png",
+      "rarity": "Uncommon",
+      "cardNum": "53/69"
+    },
+    {
+      "name": "Grimmsnarl",
+      "set": "Eevee Heroes",
+      "img": "https://den-cards.pokellector.com/322/Grimmsnarl.S6A.54.38839.png",
+      "rarity": "Rare",
+      "cardNum": "54/69"
+    },
+    {
+      "name": "Meowth",
+      "set": "Eevee Heroes",
+      "img": "https://den-cards.pokellector.com/322/Meowth.S6A.55.38941.png",
+      "rarity": "Common",
+      "cardNum": "55/69"
+    },
+    {
+      "name": "Persian",
+      "set": "Eevee Heroes",
+      "img": "https://den-cards.pokellector.com/322/Persian.S6A.56.38942.png",
+      "rarity": "Uncommon",
+      "cardNum": "56/69"
+    },
+    {
+      "name": "Kangaskhan",
+      "set": "Eevee Heroes",
+      "img": "https://den-cards.pokellector.com/322/Kangaskhan.S6A.57.38847.png",
+      "rarity": "Uncommon",
+      "cardNum": "57/69"
+    },
+    {
+      "name": "Eevee",
+      "set": "Eevee Heroes",
+      "img": "https://den-cards.pokellector.com/322/Eevee.S6A.58.38835.png",
+      "rarity": "Common",
+      "cardNum": "58/69"
+    },
+    {
+      "name": "Smeargle",
+      "set": "Eevee Heroes",
+      "img": "https://den-cards.pokellector.com/322/Smeargle.S6A.59.38877.png",
+      "rarity": "Common",
+      "cardNum": "59/69"
+    },
+    {
+      "name": "Rapid Shake",
+      "set": "Eevee Heroes",
+      "img": "https://den-cards.pokellector.com/322/Rapid-Shake.S6A.60.38943.png",
+      "rarity": "Uncommon",
+      "cardNum": "60/69"
+    },
+    {
+      "name": "Dream Ball",
+      "set": "Eevee Heroes",
+      "img": "https://den-cards.pokellector.com/322/Dream-Ball.S6A.61.38873.png",
+      "rarity": "Uncommon",
+      "cardNum": "61/69"
+    },
+    {
+      "name": "Elemental Badge",
+      "set": "Eevee Heroes",
+      "img": "https://den-cards.pokellector.com/322/Elemental-Badge.S6A.62.38855.png",
+      "rarity": "Uncommon",
+      "cardNum": "62/69"
+    },
+    {
+      "name": "Frozen Leaf Badge",
+      "set": "Eevee Heroes",
+      "img": "https://den-cards.pokellector.com/322/Frozen-Leaf-Badge.S6A.63.38853.png",
+      "rarity": "Uncommon",
+      "cardNum": "63/69"
+    },
+    {
+      "name": "Moon and Sun Badge",
+      "set": "Eevee Heroes",
+      "img": "https://den-cards.pokellector.com/322/Moon-and-Sun-Badge.S6A.64.38854.png",
+      "rarity": "Uncommon",
+      "cardNum": "64/69"
+    },
+    {
+      "name": "Ribbon Badge",
+      "set": "Eevee Heroes",
+      "img": "https://den-cards.pokellector.com/322/Ribbon-Badge.S6A.65.38856.png",
+      "rarity": "Uncommon",
+      "cardNum": "65/69"
+    },
+    {
+      "name": "Aroma Lady",
+      "set": "Eevee Heroes",
+      "img": "https://den-cards.pokellector.com/322/Aroma-Lady.S6A.66.38944.png",
+      "rarity": "Uncommon",
+      "cardNum": "66/69"
+    },
+    {
+      "name": "Gordie",
+      "set": "Eevee Heroes",
+      "img": "https://den-cards.pokellector.com/322/Gordie.S6A.67.38878.png",
+      "rarity": "Uncommon",
+      "cardNum": "67/69"
+    },
+    {
+      "name": "Fashion Mall",
+      "set": "Eevee Heroes",
+      "img": "https://den-cards.pokellector.com/322/Fashion-Mall.S6A.68.38945.png",
+      "rarity": "Uncommon",
+      "cardNum": "68/69"
+    },
+    {
+      "name": "Treasure Energy",
+      "set": "Eevee Heroes",
+      "img": "https://den-cards.pokellector.com/322/Treasure-Energy.S6A.69.38874.png",
+      "rarity": "Uncommon",
+      "cardNum": "69/69"
+    },
+    {
+      "name": "Leafeon V",
+      "set": "Eevee Heroes",
+      "img": "https://den-cards.pokellector.com/322/Leafeon-V.S6A.70.38946.png",
+      "rarity": "Secret Rare",
+      "cardNum": "70/69"
+    },
+    {
+      "name": "Leafeon V",
+      "set": "Eevee Heroes",
+      "img": "https://den-cards.pokellector.com/322/Leafeon-V.S6A.71.38947.png",
+      "rarity": "Secret Rare",
+      "cardNum": "71/69"
+    },
+    {
+      "name": "Flareon V",
+      "set": "Eevee Heroes",
+      "img": "https://den-cards.pokellector.com/322/Flareon-V.S6A.72.38948.png",
+      "rarity": "Secret Rare",
+      "cardNum": "72/69"
+    },
+    {
+      "name": "Flareon V",
+      "set": "Eevee Heroes",
+      "img": "https://den-cards.pokellector.com/322/Flareon-V.S6A.73.38949.png",
+      "rarity": "Secret Rare",
+      "cardNum": "73/69"
+    },
+    {
+      "name": "Vaporeon V",
+      "set": "Eevee Heroes",
+      "img": "https://den-cards.pokellector.com/322/Vaporeon-V.S6A.74.38950.png",
+      "rarity": "Secret Rare",
+      "cardNum": "74/69"
+    },
+    {
+      "name": "Vaporeon V",
+      "set": "Eevee Heroes",
+      "img": "https://den-cards.pokellector.com/322/Vaporeon-V.S6A.75.38951.png",
+      "rarity": "Secret Rare",
+      "cardNum": "75/69"
+    },
+    {
+      "name": "Glaceon V",
+      "set": "Eevee Heroes",
+      "img": "https://den-cards.pokellector.com/322/Glaceon-V.S6A.76.38952.png",
+      "rarity": "Secret Rare",
+      "cardNum": "76/69"
+    },
+    {
+      "name": "Glaceon V",
+      "set": "Eevee Heroes",
+      "img": "https://den-cards.pokellector.com/322/Glaceon-V.S6A.77.38953.png",
+      "rarity": "Secret Rare",
+      "cardNum": "77/69"
+    },
+    {
+      "name": "Jolteon V",
+      "set": "Eevee Heroes",
+      "img": "https://den-cards.pokellector.com/322/Jolteon-V.S6A.78.38954.png",
+      "rarity": "Secret Rare",
+      "cardNum": "78/69"
+    },
+    {
+      "name": "Jolteon V",
+      "set": "Eevee Heroes",
+      "img": "https://den-cards.pokellector.com/322/Jolteon-V.S6A.79.38955.png",
+      "rarity": "Secret Rare",
+      "cardNum": "79/69"
+    },
+    {
+      "name": "Espeon V",
+      "set": "Eevee Heroes",
+      "img": "https://den-cards.pokellector.com/322/Espeon-V.S6A.80.38956.png",
+      "rarity": "Secret Rare",
+      "cardNum": "80/69"
+    },
+    {
+      "name": "Espeon V",
+      "set": "Eevee Heroes",
+      "img": "https://den-cards.pokellector.com/322/Espeon-V.S6A.81.38957.png",
+      "rarity": "Secret Rare",
+      "cardNum": "81/69"
+    },
+    {
+      "name": "Sylveon V",
+      "set": "Eevee Heroes",
+      "img": "https://den-cards.pokellector.com/322/Sylveon-V.S6A.82.38958.png",
+      "rarity": "Secret Rare",
+      "cardNum": "82/69"
+    },
+    {
+      "name": "Sylveon V",
+      "set": "Eevee Heroes",
+      "img": "https://den-cards.pokellector.com/322/Sylveon-V.S6A.83.38959.png",
+      "rarity": "Secret Rare",
+      "cardNum": "83/69"
+    },
+    {
+      "name": "Umbreon V",
+      "set": "Eevee Heroes",
+      "img": "https://den-cards.pokellector.com/322/Umbreon-V.S6A.84.38960.png",
+      "rarity": "Secret Rare",
+      "cardNum": "84/69"
+    },
+    {
+      "name": "Umbreon V",
+      "set": "Eevee Heroes",
+      "img": "https://den-cards.pokellector.com/322/Umbreon-V.S6A.85.38961.png",
+      "rarity": "Secret Rare",
+      "cardNum": "85/69"
+    },
+    {
+      "name": "Aroma Lady",
+      "set": "Eevee Heroes",
+      "img": "https://den-cards.pokellector.com/322/Aroma-Lady.S6A.86.38962.png",
+      "rarity": "Secret Rare",
+      "cardNum": "86/69"
+    },
+    {
+      "name": "Gordie",
+      "set": "Eevee Heroes",
+      "img": "https://den-cards.pokellector.com/322/Gordie.S6A.87.38963.png",
+      "rarity": "Secret Rare",
+      "cardNum": "87/69"
+    },
+    {
+      "name": "Leafeon VMAX",
+      "set": "Eevee Heroes",
+      "img": "https://den-cards.pokellector.com/322/Leafeon-VMAX.S6A.88.38964.png",
+      "rarity": "Secret Rare",
+      "cardNum": "88/69"
+    },
+    {
+      "name": "Leafeon VMAX",
+      "set": "Eevee Heroes",
+      "img": "https://den-cards.pokellector.com/322/Leafeon-VMAX.S6A.89.38965.png",
+      "rarity": "Secret Rare",
+      "cardNum": "89/69"
+    },
+    {
+      "name": "Glaceon VMAX",
+      "set": "Eevee Heroes",
+      "img": "https://den-cards.pokellector.com/322/Glaceon-VMAX.S6A.90.38966.png",
+      "rarity": "Secret Rare",
+      "cardNum": "90/69"
+    },
+    {
+      "name": "Glaceon VMAX",
+      "set": "Eevee Heroes",
+      "img": "https://den-cards.pokellector.com/322/Glaceon-VMAX.S6A.91.38967.png",
+      "rarity": "Secret Rare",
+      "cardNum": "91/69"
+    },
+    {
+      "name": "Sylveon VMAX",
+      "set": "Eevee Heroes",
+      "img": "https://den-cards.pokellector.com/322/Sylveon-VMAX.S6A.92.38968.png",
+      "rarity": "Secret Rare",
+      "cardNum": "92/69"
+    },
+    {
+      "name": "Sylveon VMAX",
+      "set": "Eevee Heroes",
+      "img": "https://den-cards.pokellector.com/322/Sylveon-VMAX.S6A.93.38969.png",
+      "rarity": "Secret Rare",
+      "cardNum": "93/69"
+    },
+    {
+      "name": "Umbreon VMAX",
+      "set": "Eevee Heroes",
+      "img": "https://den-cards.pokellector.com/322/Umbreon-VMAX.S6A.94.38970.png",
+      "rarity": "Secret Rare",
+      "cardNum": "94/69"
+    },
+    {
+      "name": "Umbreon VMAX",
+      "set": "Eevee Heroes",
+      "img": "https://den-cards.pokellector.com/322/Umbreon-VMAX.S6A.95.38971.png",
+      "rarity": "Secret Rare",
+      "cardNum": "95/69"
+    },
+    {
+      "name": "Aroma Lady",
+      "set": "Eevee Heroes",
+      "img": "https://den-cards.pokellector.com/322/Aroma-Lady.S6A.96.38972.png",
+      "rarity": "Secret Rare",
+      "cardNum": "96/69"
+    },
+    {
+      "name": "Gordie",
+      "set": "Eevee Heroes",
+      "img": "https://den-cards.pokellector.com/322/Gordie.S6A.97.38973.png",
+      "rarity": "Secret Rare",
+      "cardNum": "97/69"
+    },
+    {
+      "name": "Inteleon",
+      "set": "Eevee Heroes",
+      "img": "https://den-cards.pokellector.com/322/Inteleon.S6A.98.38974.png",
+      "rarity": "Secret Rare",
+      "cardNum": "98/69"
+    },
+    {
+      "name": "Vigor Shake",
+      "set": "Eevee Heroes",
+      "img": "https://den-cards.pokellector.com/322/Vigor-Shake.S6A.99.38975.png",
+      "rarity": "Secret Rare",
+      "cardNum": "99/69"
+    },
+    {
+      "name": "Turffield Stadium",
+      "set": "Eevee Heroes",
+      "img": "https://den-cards.pokellector.com/322/Turffield-Stadium.S6A.100.38976.png",
+      "rarity": "Secret Rare",
+      "cardNum": "100/69"
+    },
+    {
+      "name": "Darkness Energy",
+      "set": "Eevee Heroes",
+      "img": "https://den-cards.pokellector.com/322/Darkness-Energy.S6A.101.38977.png",
+      "rarity": "Secret Rare",
+      "cardNum": "101/69"
+    }
+  ]
+}

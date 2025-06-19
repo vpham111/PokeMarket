@@ -1,0 +1,852 @@
+{
+  "setName": "Electrifying Tackle",
+  "cards": [
+    {
+      "name": "Seedot",
+      "set": "Electrifying Tackle",
+      "img": "https://den-cards.pokellector.com/297/Seedot.S4.1.35585.png",
+      "rarity": "Common",
+      "cardNum": "1/100"
+    },
+    {
+      "name": "Nuzleaf",
+      "set": "Electrifying Tackle",
+      "img": "https://den-cards.pokellector.com/297/Nuzleaf.S4.2.35586.png",
+      "rarity": "Common",
+      "cardNum": "2/100"
+    },
+    {
+      "name": "Shiftry",
+      "set": "Electrifying Tackle",
+      "img": "https://den-cards.pokellector.com/297/Shiftry.S4.3.35587.png",
+      "rarity": "Uncommon",
+      "cardNum": "3/100"
+    },
+    {
+      "name": "Nincada",
+      "set": "Electrifying Tackle",
+      "img": "https://den-cards.pokellector.com/297/Nincada.S4.4.35570.png",
+      "rarity": "Common",
+      "cardNum": "4/100"
+    },
+    {
+      "name": "Ninjask",
+      "set": "Electrifying Tackle",
+      "img": "https://den-cards.pokellector.com/297/Ninjask.S4.5.35571.png",
+      "rarity": "Uncommon",
+      "cardNum": "5/100"
+    },
+    {
+      "name": "Skiddo",
+      "set": "Electrifying Tackle",
+      "img": "https://den-cards.pokellector.com/297/Skiddo.S4.6.35588.png",
+      "rarity": "Common",
+      "cardNum": "6/100"
+    },
+    {
+      "name": "Gogoat",
+      "set": "Electrifying Tackle",
+      "img": "https://den-cards.pokellector.com/297/Gogoat.S4.7.35589.png",
+      "rarity": "Common",
+      "cardNum": "7/100"
+    },
+    {
+      "name": "Orbeetle V",
+      "set": "Electrifying Tackle",
+      "img": "https://den-cards.pokellector.com/297/Orbeetle-V.S4.8.35337.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "8/100"
+    },
+    {
+      "name": "Orbeetle VMAX",
+      "set": "Electrifying Tackle",
+      "img": "https://den-cards.pokellector.com/297/Orbeetle-VMAX.S4.9.35338.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "9/100"
+    },
+    {
+      "name": "Charmander",
+      "set": "Electrifying Tackle",
+      "img": "https://den-cards.pokellector.com/297/Charmander.S4.10.35590.png",
+      "rarity": "Common",
+      "cardNum": "10/100"
+    },
+    {
+      "name": "Charmeleon",
+      "set": "Electrifying Tackle",
+      "img": "https://den-cards.pokellector.com/297/Charmeleon.S4.11.35591.png",
+      "rarity": "Uncommon",
+      "cardNum": "11/100"
+    },
+    {
+      "name": "Charizard",
+      "set": "Electrifying Tackle",
+      "img": "https://den-cards.pokellector.com/297/Charizard.S4.12.35539.png",
+      "rarity": "Rare",
+      "cardNum": "12/100"
+    },
+    {
+      "name": "Flareon",
+      "set": "Electrifying Tackle",
+      "img": "https://den-cards.pokellector.com/297/Flareon.S4.13.35582.png",
+      "rarity": "Uncommon",
+      "cardNum": "13/100"
+    },
+    {
+      "name": "Slugma",
+      "set": "Electrifying Tackle",
+      "img": "https://den-cards.pokellector.com/297/Slugma.S4.14.35592.png",
+      "rarity": "Common",
+      "cardNum": "14/100"
+    },
+    {
+      "name": "Magcargo",
+      "set": "Electrifying Tackle",
+      "img": "https://den-cards.pokellector.com/297/Magcargo.S4.15.35593.png",
+      "rarity": "Common",
+      "cardNum": "15/100"
+    },
+    {
+      "name": "Talonflame V",
+      "set": "Electrifying Tackle",
+      "img": "https://den-cards.pokellector.com/297/Talonflame-V.S4.16.35594.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "16/100"
+    },
+    {
+      "name": "Vaporeon",
+      "set": "Electrifying Tackle",
+      "img": "https://den-cards.pokellector.com/297/Vaporeon.S4.17.35583.png",
+      "rarity": "Uncommon",
+      "cardNum": "17/100"
+    },
+    {
+      "name": "Wailmer",
+      "set": "Electrifying Tackle",
+      "img": "https://den-cards.pokellector.com/297/Wailmer.S4.18.35558.png",
+      "rarity": "Common",
+      "cardNum": "18/100"
+    },
+    {
+      "name": "Wailord",
+      "set": "Electrifying Tackle",
+      "img": "https://den-cards.pokellector.com/297/Wailord.S4.19.35559.png",
+      "rarity": "Rare",
+      "cardNum": "19/100"
+    },
+    {
+      "name": "Oshawott",
+      "set": "Electrifying Tackle",
+      "img": "https://den-cards.pokellector.com/297/Oshawott.S4.20.35595.png",
+      "rarity": "Common",
+      "cardNum": "20/100"
+    },
+    {
+      "name": "Dewott",
+      "set": "Electrifying Tackle",
+      "img": "https://den-cards.pokellector.com/297/Dewott.S4.21.35596.png",
+      "rarity": "Common",
+      "cardNum": "21/100"
+    },
+    {
+      "name": "Samurott",
+      "set": "Electrifying Tackle",
+      "img": "https://den-cards.pokellector.com/297/Samurott.S4.22.35574.png",
+      "rarity": "Uncommon",
+      "cardNum": "22/100"
+    },
+    {
+      "name": "Galarian Darmanitan V",
+      "set": "Electrifying Tackle",
+      "img": "https://den-cards.pokellector.com/297/Galarian-Darmanitan-V.S4.23.35597.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "23/100"
+    },
+    {
+      "name": "Galarian Darmanitan VMAX",
+      "set": "Electrifying Tackle",
+      "img": "https://den-cards.pokellector.com/297/Galarian-Darmanitan-VMAX.S4.24.35598.png",
+      "rarity": "Common",
+      "cardNum": "24/100"
+    },
+    {
+      "name": "Chewtle",
+      "set": "Electrifying Tackle",
+      "img": "https://den-cards.pokellector.com/297/Chewtle.S4.25.35599.png",
+      "rarity": "Common",
+      "cardNum": "25/100"
+    },
+    {
+      "name": "Drednaw",
+      "set": "Electrifying Tackle",
+      "img": "https://den-cards.pokellector.com/297/Drednaw.S4.26.35542.png",
+      "rarity": "Uncommon",
+      "cardNum": "26/100"
+    },
+    {
+      "name": "Cramorant",
+      "set": "Electrifying Tackle",
+      "img": "https://den-cards.pokellector.com/297/Cramorant.S4.27.35547.png",
+      "rarity": "Common",
+      "cardNum": "27/100"
+    },
+    {
+      "name": "Arrokuda",
+      "set": "Electrifying Tackle",
+      "img": "https://den-cards.pokellector.com/297/Arrokuda.S4.28.35548.png",
+      "rarity": "Common",
+      "cardNum": "28/100"
+    },
+    {
+      "name": "Barraskewda",
+      "set": "Electrifying Tackle",
+      "img": "https://den-cards.pokellector.com/297/Barraskewda.S4.29.35339.png",
+      "rarity": "Uncommon",
+      "cardNum": "29/100"
+    },
+    {
+      "name": "Pikachu V",
+      "set": "Electrifying Tackle",
+      "img": "https://den-cards.pokellector.com/297/Pikachu-V.S4.30.35335.png",
+      "rarity": "Rare",
+      "cardNum": "30/100"
+    },
+    {
+      "name": "Pikachu VMAX",
+      "set": "Electrifying Tackle",
+      "img": "https://den-cards.pokellector.com/297/Pikachu-VMAX.S4.31.35334.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "31/100"
+    },
+    {
+      "name": "Voltorb",
+      "set": "Electrifying Tackle",
+      "img": "https://den-cards.pokellector.com/297/Voltorb.S4.32.35600.png",
+      "rarity": "Common",
+      "cardNum": "32/100"
+    },
+    {
+      "name": "Electrode",
+      "set": "Electrifying Tackle",
+      "img": "https://den-cards.pokellector.com/297/Electrode.S4.33.35336.png",
+      "rarity": "Rare",
+      "cardNum": "33/100"
+    },
+    {
+      "name": "Jolteon",
+      "set": "Electrifying Tackle",
+      "img": "https://den-cards.pokellector.com/297/Jolteon.S4.34.35584.png",
+      "rarity": "Uncommon",
+      "cardNum": "34/100"
+    },
+    {
+      "name": "Zapdos",
+      "set": "Electrifying Tackle",
+      "img": "https://den-cards.pokellector.com/297/Zapdos.S4.35.35601.png",
+      "rarity": "Rare",
+      "cardNum": "35/100"
+    },
+    {
+      "name": "Blitzle",
+      "set": "Electrifying Tackle",
+      "img": "https://den-cards.pokellector.com/297/Blitzle.S4.36.35602.png",
+      "rarity": "Common",
+      "cardNum": "36/100"
+    },
+    {
+      "name": "Zebstrika",
+      "set": "Electrifying Tackle",
+      "img": "https://den-cards.pokellector.com/297/Zebstrika.S4.37.35603.png",
+      "rarity": "Common",
+      "cardNum": "37/100"
+    },
+    {
+      "name": "Tynamo",
+      "set": "Electrifying Tackle",
+      "img": "https://den-cards.pokellector.com/297/Tynamo.S4.38.35604.png",
+      "rarity": "Common",
+      "cardNum": "38/100"
+    },
+    {
+      "name": "Eelektrik",
+      "set": "Electrifying Tackle",
+      "img": "https://den-cards.pokellector.com/297/Eelektrik.S4.39.35605.png",
+      "rarity": "Common",
+      "cardNum": "39/100"
+    },
+    {
+      "name": "Eelektross",
+      "set": "Electrifying Tackle",
+      "img": "https://den-cards.pokellector.com/297/Eelektross.S4.40.35606.png",
+      "rarity": "Uncommon",
+      "cardNum": "40/100"
+    },
+    {
+      "name": "Alakazam V",
+      "set": "Electrifying Tackle",
+      "img": "https://den-cards.pokellector.com/297/Alakazam-V.S4.41.35607.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "41/100"
+    },
+    {
+      "name": "Shedinja",
+      "set": "Electrifying Tackle",
+      "img": "https://den-cards.pokellector.com/297/Shedinja.S4.42.35568.png",
+      "rarity": "Uncommon",
+      "cardNum": "42/100"
+    },
+    {
+      "name": "Duskull",
+      "set": "Electrifying Tackle",
+      "img": "https://den-cards.pokellector.com/297/Duskull.S4.43.35608.png",
+      "rarity": "Common",
+      "cardNum": "43/100"
+    },
+    {
+      "name": "Dusclops",
+      "set": "Electrifying Tackle",
+      "img": "https://den-cards.pokellector.com/297/Dusclops.S4.44.35609.png",
+      "rarity": "Uncommon",
+      "cardNum": "44/100"
+    },
+    {
+      "name": "Dusknoir",
+      "set": "Electrifying Tackle",
+      "img": "https://den-cards.pokellector.com/297/Dusknoir.S4.45.35610.png",
+      "rarity": "Rare",
+      "cardNum": "45/100"
+    },
+    {
+      "name": "Chimecho",
+      "set": "Electrifying Tackle",
+      "img": "https://den-cards.pokellector.com/297/Chimecho.S4.46.35611.png",
+      "rarity": "Common",
+      "cardNum": "46/100"
+    },
+    {
+      "name": "Woobat",
+      "set": "Electrifying Tackle",
+      "img": "https://den-cards.pokellector.com/297/Woobat.S4.47.35612.png",
+      "rarity": "Common",
+      "cardNum": "47/100"
+    },
+    {
+      "name": "Swoobat",
+      "set": "Electrifying Tackle",
+      "img": "https://den-cards.pokellector.com/297/Swoobat.S4.48.35613.png",
+      "rarity": "Uncommon",
+      "cardNum": "48/100"
+    },
+    {
+      "name": "Cottonee",
+      "set": "Electrifying Tackle",
+      "img": "https://den-cards.pokellector.com/297/Cottonee.S4.49.35614.png",
+      "rarity": "Common",
+      "cardNum": "49/100"
+    },
+    {
+      "name": "Whimsicott",
+      "set": "Electrifying Tackle",
+      "img": "https://den-cards.pokellector.com/297/Whimsicott.S4.50.35572.png",
+      "rarity": "Uncommon",
+      "cardNum": "50/100"
+    },
+    {
+      "name": "Milcery",
+      "set": "Electrifying Tackle",
+      "img": "https://den-cards.pokellector.com/297/Milcery.S4.51.35615.png",
+      "rarity": "Common",
+      "cardNum": "51/100"
+    },
+    {
+      "name": "Alcremie",
+      "set": "Electrifying Tackle",
+      "img": "https://den-cards.pokellector.com/297/Alcremie.S4.52.35616.png",
+      "rarity": "Uncommon",
+      "cardNum": "52/100"
+    },
+    {
+      "name": "Machop",
+      "set": "Electrifying Tackle",
+      "img": "https://den-cards.pokellector.com/297/Machop.S4.53.35617.png",
+      "rarity": "Common",
+      "cardNum": "53/100"
+    },
+    {
+      "name": "Machoke",
+      "set": "Electrifying Tackle",
+      "img": "https://den-cards.pokellector.com/297/Machoke.S4.54.35618.png",
+      "rarity": "Uncommon",
+      "cardNum": "54/100"
+    },
+    {
+      "name": "Machamp",
+      "set": "Electrifying Tackle",
+      "img": "https://den-cards.pokellector.com/297/Machamp.S4.55.35579.png",
+      "rarity": "Rare",
+      "cardNum": "55/100"
+    },
+    {
+      "name": "Phanpy",
+      "set": "Electrifying Tackle",
+      "img": "https://den-cards.pokellector.com/297/Phanpy.S4.56.35557.png",
+      "rarity": "Common",
+      "cardNum": "56/100"
+    },
+    {
+      "name": "Donphan",
+      "set": "Electrifying Tackle",
+      "img": "https://den-cards.pokellector.com/297/Donphan.S4.57.35619.png",
+      "rarity": "Uncommon",
+      "cardNum": "57/100"
+    },
+    {
+      "name": "Hitmontop",
+      "set": "Electrifying Tackle",
+      "img": "https://den-cards.pokellector.com/297/Hitmontop.S4.58.35543.png",
+      "rarity": "Common",
+      "cardNum": "58/100"
+    },
+    {
+      "name": "Drilbur",
+      "set": "Electrifying Tackle",
+      "img": "https://den-cards.pokellector.com/297/Drilbur.S4.59.35620.png",
+      "rarity": "Common",
+      "cardNum": "59/100"
+    },
+    {
+      "name": "Terrakion",
+      "set": "Electrifying Tackle",
+      "img": "https://den-cards.pokellector.com/297/Terrakion.S4.60.35621.png",
+      "rarity": "Rare",
+      "cardNum": "60/100"
+    },
+    {
+      "name": "Mudbray",
+      "set": "Electrifying Tackle",
+      "img": "https://den-cards.pokellector.com/297/Mudbray.S4.61.35622.png",
+      "rarity": "Common",
+      "cardNum": "61/100"
+    },
+    {
+      "name": "Mudsdale",
+      "set": "Electrifying Tackle",
+      "img": "https://den-cards.pokellector.com/297/Mudsdale.S4.62.35623.png",
+      "rarity": "Uncommon",
+      "cardNum": "62/100"
+    },
+    {
+      "name": "Clobbopus",
+      "set": "Electrifying Tackle",
+      "img": "https://den-cards.pokellector.com/297/Clobbopus.S4.63.35624.png",
+      "rarity": "Common",
+      "cardNum": "63/100"
+    },
+    {
+      "name": "Grapploct",
+      "set": "Electrifying Tackle",
+      "img": "https://den-cards.pokellector.com/297/Grapploct.S4.64.35625.png",
+      "rarity": "Uncommon",
+      "cardNum": "64/100"
+    },
+    {
+      "name": "Galarian Sirfetch'd V",
+      "set": "Electrifying Tackle",
+      "img": "https://den-cards.pokellector.com/297/Galarian-Sirfetchd-V.S4.65.35545.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "65/100"
+    },
+    {
+      "name": "Poochyena",
+      "set": "Electrifying Tackle",
+      "img": "https://den-cards.pokellector.com/297/Poochyena.S4.66.35626.png",
+      "rarity": "Common",
+      "cardNum": "66/100"
+    },
+    {
+      "name": "Mightyena",
+      "set": "Electrifying Tackle",
+      "img": "https://den-cards.pokellector.com/297/Mightyena.S4.67.35627.png",
+      "rarity": "Common",
+      "cardNum": "67/100"
+    },
+    {
+      "name": "Sableye",
+      "set": "Electrifying Tackle",
+      "img": "https://den-cards.pokellector.com/297/Sableye.S4.68.35628.png",
+      "rarity": "Common",
+      "cardNum": "68/100"
+    },
+    {
+      "name": "Drapion V",
+      "set": "Electrifying Tackle",
+      "img": "https://den-cards.pokellector.com/297/Drapion-V.S4.69.35629.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "69/100"
+    },
+    {
+      "name": "Sandile",
+      "set": "Electrifying Tackle",
+      "img": "https://den-cards.pokellector.com/297/Sandile.S4.70.35630.png",
+      "rarity": "Common",
+      "cardNum": "70/100"
+    },
+    {
+      "name": "Krokorok",
+      "set": "Electrifying Tackle",
+      "img": "https://den-cards.pokellector.com/297/Krokorok.S4.71.35631.png",
+      "rarity": "Common",
+      "cardNum": "71/100"
+    },
+    {
+      "name": "Krookodile",
+      "set": "Electrifying Tackle",
+      "img": "https://den-cards.pokellector.com/297/Krookodile.S4.72.35632.png",
+      "rarity": "Uncommon",
+      "cardNum": "72/100"
+    },
+    {
+      "name": "Trubbish",
+      "set": "Electrifying Tackle",
+      "img": "https://den-cards.pokellector.com/297/Trubbish.S4.73.35633.png",
+      "rarity": "Common",
+      "cardNum": "73/100"
+    },
+    {
+      "name": "Garbodor",
+      "set": "Electrifying Tackle",
+      "img": "https://den-cards.pokellector.com/297/Garbodor.S4.74.35569.png",
+      "rarity": "Uncommon",
+      "cardNum": "74/100"
+    },
+    {
+      "name": "Galarian Meowth",
+      "set": "Electrifying Tackle",
+      "img": "https://den-cards.pokellector.com/297/Galarian-Meowth.S4.75.35576.png",
+      "rarity": "Common",
+      "cardNum": "75/100"
+    },
+    {
+      "name": "Galarian Perrserker",
+      "set": "Electrifying Tackle",
+      "img": "https://den-cards.pokellector.com/297/Galarian-Perrserker.S4.76.35577.png",
+      "rarity": "Uncommon",
+      "cardNum": "76/100"
+    },
+    {
+      "name": "Excadrill",
+      "set": "Electrifying Tackle",
+      "img": "https://den-cards.pokellector.com/297/Excadrill.S4.77.35634.png",
+      "rarity": "Common",
+      "cardNum": "77/100"
+    },
+    {
+      "name": "Ferroseed",
+      "set": "Electrifying Tackle",
+      "img": "https://den-cards.pokellector.com/297/Ferroseed.S4.78.35635.png",
+      "rarity": "Common",
+      "cardNum": "78/100"
+    },
+    {
+      "name": "Ferrothorn",
+      "set": "Electrifying Tackle",
+      "img": "https://den-cards.pokellector.com/297/Ferrothorn.S4.79.35636.png",
+      "rarity": "Uncommon",
+      "cardNum": "79/100"
+    },
+    {
+      "name": "Aegislash V",
+      "set": "Electrifying Tackle",
+      "img": "https://den-cards.pokellector.com/297/Aegislash-V.S4.80.35637.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "80/100"
+    },
+    {
+      "name": "Aegislash VMAX",
+      "set": "Electrifying Tackle",
+      "img": "https://den-cards.pokellector.com/297/Aegislash-VMAX.S4.81.35638.png",
+      "rarity": "Common",
+      "cardNum": "81/100"
+    },
+    {
+      "name": "Duraludon",
+      "set": "Electrifying Tackle",
+      "img": "https://den-cards.pokellector.com/297/Duraludon.S4.82.35639.png",
+      "rarity": "Rare",
+      "cardNum": "82/100"
+    },
+    {
+      "name": "Eevee",
+      "set": "Electrifying Tackle",
+      "img": "https://den-cards.pokellector.com/297/Eevee.S4.83.35640.png",
+      "rarity": "Common",
+      "cardNum": "83/100"
+    },
+    {
+      "name": "Snorlax",
+      "set": "Electrifying Tackle",
+      "img": "https://den-cards.pokellector.com/297/Snorlax.S4.84.35573.png",
+      "rarity": "Rare",
+      "cardNum": "84/100"
+    },
+    {
+      "name": "Taillow",
+      "set": "Electrifying Tackle",
+      "img": "https://den-cards.pokellector.com/297/Taillow.S4.85.35549.png",
+      "rarity": "Common",
+      "cardNum": "85/100"
+    },
+    {
+      "name": "Swellow",
+      "set": "Electrifying Tackle",
+      "img": "https://den-cards.pokellector.com/297/Swellow.S4.86.35550.png",
+      "rarity": "Common",
+      "cardNum": "86/100"
+    },
+    {
+      "name": "Whismur",
+      "set": "Electrifying Tackle",
+      "img": "https://den-cards.pokellector.com/297/Whismur.S4.87.35641.png",
+      "rarity": "Common",
+      "cardNum": "87/100"
+    },
+    {
+      "name": "Loudred",
+      "set": "Electrifying Tackle",
+      "img": "https://den-cards.pokellector.com/297/Loudred.S4.88.35642.png",
+      "rarity": "Common",
+      "cardNum": "88/100"
+    },
+    {
+      "name": "Exploud",
+      "set": "Electrifying Tackle",
+      "img": "https://den-cards.pokellector.com/297/Exploud.S4.89.35643.png",
+      "rarity": "Uncommon",
+      "cardNum": "89/100"
+    },
+    {
+      "name": "Drone Rotom",
+      "set": "Electrifying Tackle",
+      "img": "https://den-cards.pokellector.com/297/Drone-Rotom.S4.90.35644.png",
+      "rarity": "Uncommon",
+      "cardNum": "90/100"
+    },
+    {
+      "name": "Telephoto Scope",
+      "set": "Electrifying Tackle",
+      "img": "https://den-cards.pokellector.com/297/Telephoto-Scope.S4.91.35645.png",
+      "rarity": "Uncommon",
+      "cardNum": "91/100"
+    },
+    {
+      "name": "Memory Capsule",
+      "set": "Electrifying Tackle",
+      "img": "https://den-cards.pokellector.com/297/Memory-Capsule.S4.92.35556.png",
+      "rarity": "Uncommon",
+      "cardNum": "92/100"
+    },
+    {
+      "name": "Bea",
+      "set": "Electrifying Tackle",
+      "img": "https://den-cards.pokellector.com/297/Bea.S4.93.35544.png",
+      "rarity": "Uncommon",
+      "cardNum": "93/100"
+    },
+    {
+      "name": "Leon",
+      "set": "Electrifying Tackle",
+      "img": "https://den-cards.pokellector.com/297/Leon.S4.94.35540.png",
+      "rarity": "Rare",
+      "cardNum": "94/100"
+    },
+    {
+      "name": "League Staff",
+      "set": "Electrifying Tackle",
+      "img": "https://den-cards.pokellector.com/297/League-Staff.S4.95.35646.png",
+      "rarity": "Uncommon",
+      "cardNum": "95/100"
+    },
+    {
+      "name": "Nessa",
+      "set": "Electrifying Tackle",
+      "img": "https://den-cards.pokellector.com/297/Nessa.S4.96.35541.png",
+      "rarity": "Uncommon",
+      "cardNum": "96/100"
+    },
+    {
+      "name": "Hero's Bath",
+      "set": "Electrifying Tackle",
+      "img": "https://den-cards.pokellector.com/297/Heros-Bath.S4.97.35647.png",
+      "rarity": "Uncommon",
+      "cardNum": "97/100"
+    },
+    {
+      "name": "Wyndon Stadium",
+      "set": "Electrifying Tackle",
+      "img": "https://den-cards.pokellector.com/297/Wyndon-Stadium.S4.98.35340.png",
+      "rarity": "Uncommon",
+      "cardNum": "98/100"
+    },
+    {
+      "name": "Wash Water Energy",
+      "set": "Electrifying Tackle",
+      "img": "https://den-cards.pokellector.com/297/Wash-Water-Energy.S4.99.35575.png",
+      "rarity": "Uncommon",
+      "cardNum": "99/100"
+    },
+    {
+      "name": "Coating Metal Energy",
+      "set": "Electrifying Tackle",
+      "img": "https://den-cards.pokellector.com/297/Coating-Metal-Energy.S4.100.35578.png",
+      "rarity": "Uncommon",
+      "cardNum": "100/100"
+    },
+    {
+      "name": "Orbeetle V",
+      "set": "Electrifying Tackle",
+      "img": "https://den-cards.pokellector.com/297/Orbeetle-V.S4.101.35667.png",
+      "rarity": "Secret Rare",
+      "cardNum": "101/100"
+    },
+    {
+      "name": "Talonflame V",
+      "set": "Electrifying Tackle",
+      "img": "https://den-cards.pokellector.com/297/Talonflame-V.S4.102.35668.png",
+      "rarity": "Secret Rare",
+      "cardNum": "102/100"
+    },
+    {
+      "name": "Galarian Darmanitan V",
+      "set": "Electrifying Tackle",
+      "img": "https://den-cards.pokellector.com/297/Galarian-Darmanitan-V.S4.103.35669.png",
+      "rarity": "Secret Rare",
+      "cardNum": "103/100"
+    },
+    {
+      "name": "Pikachu V",
+      "set": "Electrifying Tackle",
+      "img": "https://den-cards.pokellector.com/297/Pikachu-V.S4.104.35670.png",
+      "rarity": "Secret Rare",
+      "cardNum": "104/100"
+    },
+    {
+      "name": "Alakazam V",
+      "set": "Electrifying Tackle",
+      "img": "https://den-cards.pokellector.com/297/Alakazam-V.S4.105.35671.png",
+      "rarity": "Secret Rare",
+      "cardNum": "105/100"
+    },
+    {
+      "name": "Galarian Sirfetch'd V",
+      "set": "Electrifying Tackle",
+      "img": "https://den-cards.pokellector.com/297/Galarian-Sirfetchd-V.S4.106.35672.png",
+      "rarity": "Secret Rare",
+      "cardNum": "106/100"
+    },
+    {
+      "name": "Drapion V",
+      "set": "Electrifying Tackle",
+      "img": "https://den-cards.pokellector.com/297/Drapion-V.S4.107.35673.png",
+      "rarity": "Secret Rare",
+      "cardNum": "107/100"
+    },
+    {
+      "name": "Aegislash V",
+      "set": "Electrifying Tackle",
+      "img": "https://den-cards.pokellector.com/297/Aegislash-V.S4.108.35674.png",
+      "rarity": "Secret Rare",
+      "cardNum": "108/100"
+    },
+    {
+      "name": "Bea",
+      "set": "Electrifying Tackle",
+      "img": "https://den-cards.pokellector.com/297/Bea.S4.109.35675.png",
+      "rarity": "Secret Rare",
+      "cardNum": "109/100"
+    },
+    {
+      "name": "Leon",
+      "set": "Electrifying Tackle",
+      "img": "https://den-cards.pokellector.com/297/Leon.S4.110.35676.png",
+      "rarity": "Secret Rare",
+      "cardNum": "110/100"
+    },
+    {
+      "name": "Nessa",
+      "set": "Electrifying Tackle",
+      "img": "https://den-cards.pokellector.com/297/Nessa.S4.111.35677.png",
+      "rarity": "Secret Rare",
+      "cardNum": "111/100"
+    },
+    {
+      "name": "Orbeetle VMAX",
+      "set": "Electrifying Tackle",
+      "img": "https://den-cards.pokellector.com/297/Orbeetle-VMAX.S4.112.35678.png",
+      "rarity": "Secret Rare",
+      "cardNum": "112/100"
+    },
+    {
+      "name": "Galarian Darmanitan VMAX",
+      "set": "Electrifying Tackle",
+      "img": "https://den-cards.pokellector.com/297/Galarian-Darmanitan-VMAX.S4.113.35679.png",
+      "rarity": "Secret Rare",
+      "cardNum": "113/100"
+    },
+    {
+      "name": "Pikachu VMAX",
+      "set": "Electrifying Tackle",
+      "img": "https://den-cards.pokellector.com/297/Pikachu-VMAX.S4.114.35680.png",
+      "rarity": "Secret Rare",
+      "cardNum": "114/100"
+    },
+    {
+      "name": "Aegislash VMAX",
+      "set": "Electrifying Tackle",
+      "img": "https://den-cards.pokellector.com/297/Aegislash-VMAX.S4.115.35681.png",
+      "rarity": "Secret Rare",
+      "cardNum": "115/100"
+    },
+    {
+      "name": "Bea",
+      "set": "Electrifying Tackle",
+      "img": "https://den-cards.pokellector.com/297/Bea.S4.116.35682.png",
+      "rarity": "Secret Rare",
+      "cardNum": "116/100"
+    },
+    {
+      "name": "Leon",
+      "set": "Electrifying Tackle",
+      "img": "https://den-cards.pokellector.com/297/Leon.S4.117.35683.png",
+      "rarity": "Secret Rare",
+      "cardNum": "117/100"
+    },
+    {
+      "name": "Nessa",
+      "set": "Electrifying Tackle",
+      "img": "https://den-cards.pokellector.com/297/Nessa.S4.118.35684.png",
+      "rarity": "Secret Rare",
+      "cardNum": "118/100"
+    },
+    {
+      "name": "Galarian Obstagoon",
+      "set": "Electrifying Tackle",
+      "img": "https://den-cards.pokellector.com/297/Galarian-Obstagoon.S4.119.35685.png",
+      "rarity": "Secret Rare",
+      "cardNum": "119/100"
+    },
+    {
+      "name": "Telephoto Scope",
+      "set": "Electrifying Tackle",
+      "img": "https://den-cards.pokellector.com/297/Telephoto-Scope.S4.120.35686.png",
+      "rarity": "Secret Rare",
+      "cardNum": "120/100"
+    },
+    {
+      "name": "Memory Capsule",
+      "set": "Electrifying Tackle",
+      "img": "https://den-cards.pokellector.com/297/Memory-Capsule.S4.121.35687.png",
+      "rarity": "Secret Rare",
+      "cardNum": "121/100"
+    }
+  ]
+}

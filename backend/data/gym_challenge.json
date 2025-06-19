@@ -1,0 +1,929 @@
+{
+  "setName": "Gym Challenge",
+  "cards": [
+    {
+      "name": "Blaine's Arcanine",
+      "set": "Gym Challenge",
+      "img": "https://den-cards.pokellector.com/118/Blaines-Arcanine.G2.1.png",
+      "rarity": "Rare",
+      "cardNum": "1/132"
+    },
+    {
+      "name": "Blaine's Charizard",
+      "set": "Gym Challenge",
+      "img": "https://den-cards.pokellector.com/118/Blaines-Charizard.G2.2.png",
+      "rarity": "Rare",
+      "cardNum": "2/132"
+    },
+    {
+      "name": "Brock's Ninetales",
+      "set": "Gym Challenge",
+      "img": "https://den-cards.pokellector.com/118/Brocks-Ninetales.G2.3.png",
+      "rarity": "Rare",
+      "cardNum": "3/132"
+    },
+    {
+      "name": "Erika's Venusaur",
+      "set": "Gym Challenge",
+      "img": "https://den-cards.pokellector.com/118/Erikas-Venusaur.G2.4.png",
+      "rarity": "Rare",
+      "cardNum": "4/132"
+    },
+    {
+      "name": "Giovanni's Gyarados",
+      "set": "Gym Challenge",
+      "img": "https://den-cards.pokellector.com/118/Giovannis-Gyarados.G2.5.png",
+      "rarity": "Rare",
+      "cardNum": "5/132"
+    },
+    {
+      "name": "Giovanni's Machamp",
+      "set": "Gym Challenge",
+      "img": "https://den-cards.pokellector.com/118/Giovannis-Machamp.G2.6.png",
+      "rarity": "Rare",
+      "cardNum": "6/132"
+    },
+    {
+      "name": "Giovanni's Nidoking",
+      "set": "Gym Challenge",
+      "img": "https://den-cards.pokellector.com/118/Giovannis-Nidoking.G2.7.png",
+      "rarity": "Rare",
+      "cardNum": "7/132"
+    },
+    {
+      "name": "Giovanni's Persian",
+      "set": "Gym Challenge",
+      "img": "https://den-cards.pokellector.com/118/Giovannis-Persian.G2.8.png",
+      "rarity": "Rare",
+      "cardNum": "8/132"
+    },
+    {
+      "name": "Koga's Beedrill",
+      "set": "Gym Challenge",
+      "img": "https://den-cards.pokellector.com/118/Kogas-Beedrill.G2.9.png",
+      "rarity": "Rare",
+      "cardNum": "9/132"
+    },
+    {
+      "name": "Koga's Ditto",
+      "set": "Gym Challenge",
+      "img": "https://den-cards.pokellector.com/118/Kogas-Ditto.G2.10.png",
+      "rarity": "Rare",
+      "cardNum": "10/132"
+    },
+    {
+      "name": "Lt. Surge's Raichu",
+      "set": "Gym Challenge",
+      "img": "https://den-cards.pokellector.com/118/Lt-Surges-Raichu.G2.11.png",
+      "rarity": "Rare",
+      "cardNum": "11/132"
+    },
+    {
+      "name": "Misty's Golduck",
+      "set": "Gym Challenge",
+      "img": "https://den-cards.pokellector.com/118/Mistys-Golduck.G2.12.png",
+      "rarity": "Rare",
+      "cardNum": "12/132"
+    },
+    {
+      "name": "Misty's Gyarados",
+      "set": "Gym Challenge",
+      "img": "https://den-cards.pokellector.com/118/Mistys-Gyarados.G2.13.png",
+      "rarity": "Rare",
+      "cardNum": "13/132"
+    },
+    {
+      "name": "Rocket's Mewtwo",
+      "set": "Gym Challenge",
+      "img": "https://den-cards.pokellector.com/118/Rockets-Mewtwo.G2.14.png",
+      "rarity": "Rare",
+      "cardNum": "14/132"
+    },
+    {
+      "name": "Rocket's Zapdos",
+      "set": "Gym Challenge",
+      "img": "https://den-cards.pokellector.com/118/Rockets-Zapdos.G2.15.png",
+      "rarity": "Rare",
+      "cardNum": "15/132"
+    },
+    {
+      "name": "Sabrina's Alakazam",
+      "set": "Gym Challenge",
+      "img": "https://den-cards.pokellector.com/118/Sabrinas-Alakazam.G2.16.png",
+      "rarity": "Rare",
+      "cardNum": "16/132"
+    },
+    {
+      "name": "Blaine",
+      "set": "Gym Challenge",
+      "img": "https://den-cards.pokellector.com/118/Blaine.G2.17.png",
+      "rarity": "Rare",
+      "cardNum": "17/132"
+    },
+    {
+      "name": "Giovanni",
+      "set": "Gym Challenge",
+      "img": "https://den-cards.pokellector.com/118/Giovanni.G2.18.png",
+      "rarity": "Rare",
+      "cardNum": "18/132"
+    },
+    {
+      "name": "Koga",
+      "set": "Gym Challenge",
+      "img": "https://den-cards.pokellector.com/118/Koga.G2.19.png",
+      "rarity": "Rare",
+      "cardNum": "19/132"
+    },
+    {
+      "name": "Sabrina",
+      "set": "Gym Challenge",
+      "img": "https://den-cards.pokellector.com/118/Sabrina.G2.20.png",
+      "rarity": "Rare",
+      "cardNum": "20/132"
+    },
+    {
+      "name": "Blaine's Ninetales",
+      "set": "Gym Challenge",
+      "img": "https://den-cards.pokellector.com/118/Blaines-Ninetales.G2.21.png",
+      "rarity": "Rare",
+      "cardNum": "21/132"
+    },
+    {
+      "name": "Brock's Dugtrio",
+      "set": "Gym Challenge",
+      "img": "https://den-cards.pokellector.com/118/Brocks-Dugtrio.G2.22.png",
+      "rarity": "Rare",
+      "cardNum": "22/132"
+    },
+    {
+      "name": "Giovanni's Nidoqueen",
+      "set": "Gym Challenge",
+      "img": "https://den-cards.pokellector.com/118/Giovannis-Nidoqueen.G2.23.png",
+      "rarity": "Rare",
+      "cardNum": "23/132"
+    },
+    {
+      "name": "Giovanni's Pinsir",
+      "set": "Gym Challenge",
+      "img": "https://den-cards.pokellector.com/118/Giovannis-Pinsir.G2.24.png",
+      "rarity": "Rare",
+      "cardNum": "24/132"
+    },
+    {
+      "name": "Koga's Arbok",
+      "set": "Gym Challenge",
+      "img": "https://den-cards.pokellector.com/118/Kogas-Arbok.G2.25.png",
+      "rarity": "Rare",
+      "cardNum": "25/132"
+    },
+    {
+      "name": "Koga's Muk",
+      "set": "Gym Challenge",
+      "img": "https://den-cards.pokellector.com/118/Kogas-Muk.G2.26.png",
+      "rarity": "Rare",
+      "cardNum": "26/132"
+    },
+    {
+      "name": "Koga's Pidgeotto",
+      "set": "Gym Challenge",
+      "img": "https://den-cards.pokellector.com/118/Kogas-Pidgeotto.G2.27.png",
+      "rarity": "Rare",
+      "cardNum": "27/132"
+    },
+    {
+      "name": "Lt. Surge's Jolteon",
+      "set": "Gym Challenge",
+      "img": "https://den-cards.pokellector.com/118/Lt-Surges-Jolteon.G2.28.png",
+      "rarity": "Rare",
+      "cardNum": "28/132"
+    },
+    {
+      "name": "Sabrina's Gengar",
+      "set": "Gym Challenge",
+      "img": "https://den-cards.pokellector.com/118/Sabrinas-Gengar.G2.29.png",
+      "rarity": "Rare",
+      "cardNum": "29/132"
+    },
+    {
+      "name": "Sabrina's Golduck",
+      "set": "Gym Challenge",
+      "img": "https://den-cards.pokellector.com/118/Sabrinas-Golduck.G2.30.png",
+      "rarity": "Rare",
+      "cardNum": "30/132"
+    },
+    {
+      "name": "Blaine's Charmeleon",
+      "set": "Gym Challenge",
+      "img": "https://den-cards.pokellector.com/118/Blaines-Charmeleon.G2.31.png",
+      "rarity": "Uncommon",
+      "cardNum": "31/132"
+    },
+    {
+      "name": "Blaine's Dodrio",
+      "set": "Gym Challenge",
+      "img": "https://den-cards.pokellector.com/118/Blaines-Dodrio.G2.32.png",
+      "rarity": "Uncommon",
+      "cardNum": "32/132"
+    },
+    {
+      "name": "Blaine's Rapidash",
+      "set": "Gym Challenge",
+      "img": "https://den-cards.pokellector.com/118/Blaines-Rapidash.G2.33.png",
+      "rarity": "Uncommon",
+      "cardNum": "33/132"
+    },
+    {
+      "name": "Brock's Graveler",
+      "set": "Gym Challenge",
+      "img": "https://den-cards.pokellector.com/118/Brocks-Graveler.G2.34.png",
+      "rarity": "Uncommon",
+      "cardNum": "34/132"
+    },
+    {
+      "name": "Brock's Primeape",
+      "set": "Gym Challenge",
+      "img": "https://den-cards.pokellector.com/118/Brocks-Primeape.G2.35.png",
+      "rarity": "Uncommon",
+      "cardNum": "35/132"
+    },
+    {
+      "name": "Brock's Sandslash",
+      "set": "Gym Challenge",
+      "img": "https://den-cards.pokellector.com/118/Brocks-Sandslash.G2.36.png",
+      "rarity": "Uncommon",
+      "cardNum": "36/132"
+    },
+    {
+      "name": "Brock's Vulpix",
+      "set": "Gym Challenge",
+      "img": "https://den-cards.pokellector.com/118/Brocks-Vulpix.G2.37.png",
+      "rarity": "Uncommon",
+      "cardNum": "37/132"
+    },
+    {
+      "name": "Erika's Bellsprout",
+      "set": "Gym Challenge",
+      "img": "https://den-cards.pokellector.com/118/Erikas-Bellsprout.G2.38.png",
+      "rarity": "Uncommon",
+      "cardNum": "38/132"
+    },
+    {
+      "name": "Erika's Bulbasaur",
+      "set": "Gym Challenge",
+      "img": "https://den-cards.pokellector.com/118/Erikas-Bulbasaur.G2.39.png",
+      "rarity": "Uncommon",
+      "cardNum": "39/132"
+    },
+    {
+      "name": "Erika's Clefairy",
+      "set": "Gym Challenge",
+      "img": "https://den-cards.pokellector.com/118/Erikas-Clefairy.G2.40.png",
+      "rarity": "Uncommon",
+      "cardNum": "40/132"
+    },
+    {
+      "name": "Erika's Ivysaur",
+      "set": "Gym Challenge",
+      "img": "https://den-cards.pokellector.com/118/Erikas-Ivysaur.G2.41.png",
+      "rarity": "Uncommon",
+      "cardNum": "41/132"
+    },
+    {
+      "name": "Giovanni's Machoke",
+      "set": "Gym Challenge",
+      "img": "https://den-cards.pokellector.com/118/Giovannis-Machoke.G2.42.png",
+      "rarity": "Uncommon",
+      "cardNum": "42/132"
+    },
+    {
+      "name": "Giovanni's Meowth (Lv 12)",
+      "set": "Gym Challenge",
+      "img": "https://den-cards.pokellector.com/118/Giovannis-Meowth-Lv-12.G2.43.png",
+      "rarity": "Uncommon",
+      "cardNum": "43/132"
+    },
+    {
+      "name": "Giovanni's Nidorina",
+      "set": "Gym Challenge",
+      "img": "https://den-cards.pokellector.com/118/Giovannis-Nidorina.G2.44.png",
+      "rarity": "Uncommon",
+      "cardNum": "44/132"
+    },
+    {
+      "name": "Giovanni's Nidorino",
+      "set": "Gym Challenge",
+      "img": "https://den-cards.pokellector.com/118/Giovannis-Nidorino.G2.45.png",
+      "rarity": "Uncommon",
+      "cardNum": "45/132"
+    },
+    {
+      "name": "Koga's Golbat",
+      "set": "Gym Challenge",
+      "img": "https://den-cards.pokellector.com/118/Kogas-Golbat.G2.46.png",
+      "rarity": "Uncommon",
+      "cardNum": "46/132"
+    },
+    {
+      "name": "Koga's Kakuna",
+      "set": "Gym Challenge",
+      "img": "https://den-cards.pokellector.com/118/Kogas-Kakuna.G2.47.png",
+      "rarity": "Uncommon",
+      "cardNum": "47/132"
+    },
+    {
+      "name": "Koga's Koffing",
+      "set": "Gym Challenge",
+      "img": "https://den-cards.pokellector.com/118/Kogas-Koffing.G2.48.png",
+      "rarity": "Uncommon",
+      "cardNum": "48/132"
+    },
+    {
+      "name": "Koga's Pidgey (Lv 9)",
+      "set": "Gym Challenge",
+      "img": "https://den-cards.pokellector.com/118/Kogas-Pidgey-Lv-9.G2.49.png",
+      "rarity": "Uncommon",
+      "cardNum": "49/132"
+    },
+    {
+      "name": "Koga's Weezing",
+      "set": "Gym Challenge",
+      "img": "https://den-cards.pokellector.com/118/Kogas-Weezing.G2.50.png",
+      "rarity": "Uncommon",
+      "cardNum": "50/132"
+    },
+    {
+      "name": "Lt. Surge's Eevee",
+      "set": "Gym Challenge",
+      "img": "https://den-cards.pokellector.com/118/Lt-Surges-Eevee.G2.51.png",
+      "rarity": "Uncommon",
+      "cardNum": "51/132"
+    },
+    {
+      "name": "Lt. Surge's Electrode",
+      "set": "Gym Challenge",
+      "img": "https://den-cards.pokellector.com/118/Lt-Surges-Electrode.G2.52.png",
+      "rarity": "Uncommon",
+      "cardNum": "52/132"
+    },
+    {
+      "name": "Lt. Surge's Raticate",
+      "set": "Gym Challenge",
+      "img": "https://den-cards.pokellector.com/118/Lt-Surges-Raticate.G2.53.png",
+      "rarity": "Uncommon",
+      "cardNum": "53/132"
+    },
+    {
+      "name": "Misty's Dewgong",
+      "set": "Gym Challenge",
+      "img": "https://den-cards.pokellector.com/118/Mistys-Dewgong.G2.54.png",
+      "rarity": "Uncommon",
+      "cardNum": "54/132"
+    },
+    {
+      "name": "Sabrina's Haunter",
+      "set": "Gym Challenge",
+      "img": "https://den-cards.pokellector.com/118/Sabrinas-Haunter.G2.55.png",
+      "rarity": "Uncommon",
+      "cardNum": "55/132"
+    },
+    {
+      "name": "Sabrina's Hypno",
+      "set": "Gym Challenge",
+      "img": "https://den-cards.pokellector.com/118/Sabrinas-Hypno.G2.56.png",
+      "rarity": "Uncommon",
+      "cardNum": "56/132"
+    },
+    {
+      "name": "Sabrina's Jynx",
+      "set": "Gym Challenge",
+      "img": "https://den-cards.pokellector.com/118/Sabrinas-Jynx.G2.57.png",
+      "rarity": "Uncommon",
+      "cardNum": "57/132"
+    },
+    {
+      "name": "Sabrina's Kadabra",
+      "set": "Gym Challenge",
+      "img": "https://den-cards.pokellector.com/118/Sabrinas-Kadabra.G2.58.png",
+      "rarity": "Uncommon",
+      "cardNum": "58/132"
+    },
+    {
+      "name": "Sabrina's Mr. Mime",
+      "set": "Gym Challenge",
+      "img": "https://den-cards.pokellector.com/118/Sabrinas-Mr-Mime.G2.59.png",
+      "rarity": "Uncommon",
+      "cardNum": "59/132"
+    },
+    {
+      "name": "Blaine's Charmander",
+      "set": "Gym Challenge",
+      "img": "https://den-cards.pokellector.com/118/Blaines-Charmander.G2.60.png",
+      "rarity": "Common",
+      "cardNum": "60/132"
+    },
+    {
+      "name": "Blaine's Doduo",
+      "set": "Gym Challenge",
+      "img": "https://den-cards.pokellector.com/118/Blaines-Doduo.G2.61.png",
+      "rarity": "Common",
+      "cardNum": "61/132"
+    },
+    {
+      "name": "Blaine's Growlithe",
+      "set": "Gym Challenge",
+      "img": "https://den-cards.pokellector.com/118/Blaines-Growlithe.G2.62.png",
+      "rarity": "Common",
+      "cardNum": "62/132"
+    },
+    {
+      "name": "Blaine's Mankey",
+      "set": "Gym Challenge",
+      "img": "https://den-cards.pokellector.com/118/Blaines-Mankey.G2.63.png",
+      "rarity": "Common",
+      "cardNum": "63/132"
+    },
+    {
+      "name": "Blaine's Ponyta",
+      "set": "Gym Challenge",
+      "img": "https://den-cards.pokellector.com/118/Blaines-Ponyta.G2.64.png",
+      "rarity": "Common",
+      "cardNum": "64/132"
+    },
+    {
+      "name": "Blaine's Rhyhorn",
+      "set": "Gym Challenge",
+      "img": "https://den-cards.pokellector.com/118/Blaines-Rhyhorn.G2.65.png",
+      "rarity": "Common",
+      "cardNum": "65/132"
+    },
+    {
+      "name": "Blaine's Vulpix",
+      "set": "Gym Challenge",
+      "img": "https://den-cards.pokellector.com/118/Blaines-Vulpix.G2.66.png",
+      "rarity": "Common",
+      "cardNum": "66/132"
+    },
+    {
+      "name": "Brock's Diglett",
+      "set": "Gym Challenge",
+      "img": "https://den-cards.pokellector.com/118/Brocks-Diglett.G2.67.png",
+      "rarity": "Common",
+      "cardNum": "67/132"
+    },
+    {
+      "name": "Brock's Geodude",
+      "set": "Gym Challenge",
+      "img": "https://den-cards.pokellector.com/118/Brocks-Geodude.G2.68.png",
+      "rarity": "Common",
+      "cardNum": "68/132"
+    },
+    {
+      "name": "Erika's Jigglypuff",
+      "set": "Gym Challenge",
+      "img": "https://den-cards.pokellector.com/118/Erikas-Jigglypuff.G2.69.png",
+      "rarity": "Common",
+      "cardNum": "69/132"
+    },
+    {
+      "name": "Erika's Oddish",
+      "set": "Gym Challenge",
+      "img": "https://den-cards.pokellector.com/118/Erikas-Oddish.G2.70.png",
+      "rarity": "Common",
+      "cardNum": "70/132"
+    },
+    {
+      "name": "Erika's Paras",
+      "set": "Gym Challenge",
+      "img": "https://den-cards.pokellector.com/118/Erikas-Paras.G2.71.png",
+      "rarity": "Common",
+      "cardNum": "71/132"
+    },
+    {
+      "name": "Giovanni's Machop",
+      "set": "Gym Challenge",
+      "img": "https://den-cards.pokellector.com/118/Giovannis-Machop.G2.72.png",
+      "rarity": "Common",
+      "cardNum": "72/132"
+    },
+    {
+      "name": "Giovanni's Magikarp",
+      "set": "Gym Challenge",
+      "img": "https://den-cards.pokellector.com/118/Giovannis-Magikarp.G2.73.png",
+      "rarity": "Common",
+      "cardNum": "73/132"
+    },
+    {
+      "name": "Giovanni's Meowth (Lv 17)",
+      "set": "Gym Challenge",
+      "img": "https://den-cards.pokellector.com/118/Giovannis-Meowth-Lv-17.G2.74.png",
+      "rarity": "Common",
+      "cardNum": "74/132"
+    },
+    {
+      "name": "Giovanni's Nidoran F",
+      "set": "Gym Challenge",
+      "img": "https://den-cards.pokellector.com/118/Giovannis-Nidoran-F.G2.75.png",
+      "rarity": "Common",
+      "cardNum": "75/132"
+    },
+    {
+      "name": "Giovanni's Nidoran M",
+      "set": "Gym Challenge",
+      "img": "https://den-cards.pokellector.com/118/Giovannis-Nidoran-M.G2.76.png",
+      "rarity": "Common",
+      "cardNum": "76/132"
+    },
+    {
+      "name": "Koga's Ekans",
+      "set": "Gym Challenge",
+      "img": "https://den-cards.pokellector.com/118/Kogas-Ekans.G2.77.png",
+      "rarity": "Common",
+      "cardNum": "77/132"
+    },
+    {
+      "name": "Koga's Grimer",
+      "set": "Gym Challenge",
+      "img": "https://den-cards.pokellector.com/118/Kogas-Grimer.G2.78.png",
+      "rarity": "Common",
+      "cardNum": "78/132"
+    },
+    {
+      "name": "Koga's Koffing",
+      "set": "Gym Challenge",
+      "img": "https://den-cards.pokellector.com/118/Kogas-Koffing.G2.79.png",
+      "rarity": "Common",
+      "cardNum": "79/132"
+    },
+    {
+      "name": "Koga's Pidgey (Lv 15)",
+      "set": "Gym Challenge",
+      "img": "https://den-cards.pokellector.com/118/Kogas-Pidgey-Lv-15.G2.80.png",
+      "rarity": "Common",
+      "cardNum": "80/132"
+    },
+    {
+      "name": "Koga's Tangela",
+      "set": "Gym Challenge",
+      "img": "https://den-cards.pokellector.com/118/Kogas-Tangela.G2.81.png",
+      "rarity": "Common",
+      "cardNum": "81/132"
+    },
+    {
+      "name": "Koga's Weedle",
+      "set": "Gym Challenge",
+      "img": "https://den-cards.pokellector.com/118/Kogas-Weedle.G2.82.png",
+      "rarity": "Common",
+      "cardNum": "82/132"
+    },
+    {
+      "name": "Koga's Zubat",
+      "set": "Gym Challenge",
+      "img": "https://den-cards.pokellector.com/118/Kogas-Zubat.G2.83.png",
+      "rarity": "Common",
+      "cardNum": "83/132"
+    },
+    {
+      "name": "Lt. Surge's Pikachu",
+      "set": "Gym Challenge",
+      "img": "https://den-cards.pokellector.com/118/Lt-Surges-Pikachu.G2.84.png",
+      "rarity": "Common",
+      "cardNum": "84/132"
+    },
+    {
+      "name": "Lt. Surge's Rattata",
+      "set": "Gym Challenge",
+      "img": "https://den-cards.pokellector.com/118/Lt-Surges-Rattata.G2.85.png",
+      "rarity": "Common",
+      "cardNum": "85/132"
+    },
+    {
+      "name": "Lt. Surge's Voltorb",
+      "set": "Gym Challenge",
+      "img": "https://den-cards.pokellector.com/118/Lt-Surges-Voltorb.G2.86.png",
+      "rarity": "Common",
+      "cardNum": "86/132"
+    },
+    {
+      "name": "Misty's Horsea",
+      "set": "Gym Challenge",
+      "img": "https://den-cards.pokellector.com/118/Mistys-Horsea.G2.87.png",
+      "rarity": "Common",
+      "cardNum": "87/132"
+    },
+    {
+      "name": "Misty's Magikarp",
+      "set": "Gym Challenge",
+      "img": "https://den-cards.pokellector.com/118/Mistys-Magikarp.G2.88.png",
+      "rarity": "Common",
+      "cardNum": "88/132"
+    },
+    {
+      "name": "Misty's Poliwag",
+      "set": "Gym Challenge",
+      "img": "https://den-cards.pokellector.com/118/Mistys-Poliwag.G2.89.png",
+      "rarity": "Common",
+      "cardNum": "89/132"
+    },
+    {
+      "name": "Misty's Psyduck",
+      "set": "Gym Challenge",
+      "img": "https://den-cards.pokellector.com/118/Mistys-Psyduck.G2.90.png",
+      "rarity": "Common",
+      "cardNum": "90/132"
+    },
+    {
+      "name": "Misty's Seel",
+      "set": "Gym Challenge",
+      "img": "https://den-cards.pokellector.com/118/Mistys-Seel.G2.91.png",
+      "rarity": "Common",
+      "cardNum": "91/132"
+    },
+    {
+      "name": "Misty's Staryu",
+      "set": "Gym Challenge",
+      "img": "https://den-cards.pokellector.com/118/Mistys-Staryu.G2.92.png",
+      "rarity": "Common",
+      "cardNum": "92/132"
+    },
+    {
+      "name": "Sabrina's Abra (Lv 12)",
+      "set": "Gym Challenge",
+      "img": "https://den-cards.pokellector.com/118/Sabrinas-Abra-Lv-12.G2.93.png",
+      "rarity": "Common",
+      "cardNum": "93/132"
+    },
+    {
+      "name": "Sabrina's Abra (Lv 18)",
+      "set": "Gym Challenge",
+      "img": "https://den-cards.pokellector.com/118/Sabrinas-Abra-Lv-18.G2.94.png",
+      "rarity": "Common",
+      "cardNum": "94/132"
+    },
+    {
+      "name": "Sabrina's Drowzee",
+      "set": "Gym Challenge",
+      "img": "https://den-cards.pokellector.com/118/Sabrinas-Drowzee.G2.95.png",
+      "rarity": "Common",
+      "cardNum": "95/132"
+    },
+    {
+      "name": "Sabrina's Gastly (Lv 9)",
+      "set": "Gym Challenge",
+      "img": "https://den-cards.pokellector.com/118/Sabrinas-Gastly-Lv-9.G2.96.png",
+      "rarity": "Common",
+      "cardNum": "96/132"
+    },
+    {
+      "name": "Sabrina's Gastly (Lv 10)",
+      "set": "Gym Challenge",
+      "img": "https://den-cards.pokellector.com/118/Sabrinas-Gastly-Lv-10.G2.97.png",
+      "rarity": "Common",
+      "cardNum": "97/132"
+    },
+    {
+      "name": "Sabrina's Porygon",
+      "set": "Gym Challenge",
+      "img": "https://den-cards.pokellector.com/118/Sabrinas-Porygon.G2.98.png",
+      "rarity": "Common",
+      "cardNum": "98/132"
+    },
+    {
+      "name": "Sabrina's Psyduck",
+      "set": "Gym Challenge",
+      "img": "https://den-cards.pokellector.com/118/Sabrinas-Psyduck.G2.99.png",
+      "rarity": "Common",
+      "cardNum": "99/132"
+    },
+    {
+      "name": "Blaine",
+      "set": "Gym Challenge",
+      "img": "https://den-cards.pokellector.com/118/Blaine.G2.100.png",
+      "rarity": "Rare",
+      "cardNum": "100/132"
+    },
+    {
+      "name": "Brock's Protection",
+      "set": "Gym Challenge",
+      "img": "https://den-cards.pokellector.com/118/Brocks-Protection.G2.101.png",
+      "rarity": "Rare",
+      "cardNum": "101/132"
+    },
+    {
+      "name": "Chaos Gym",
+      "set": "Gym Challenge",
+      "img": "https://den-cards.pokellector.com/118/Chaos-Gym.G2.102.png",
+      "rarity": "Rare",
+      "cardNum": "102/132"
+    },
+    {
+      "name": "Erika's Kindness",
+      "set": "Gym Challenge",
+      "img": "https://den-cards.pokellector.com/118/Erikas-Kindness.G2.103.png",
+      "rarity": "Rare",
+      "cardNum": "103/132"
+    },
+    {
+      "name": "Giovanni",
+      "set": "Gym Challenge",
+      "img": "https://den-cards.pokellector.com/118/Giovanni.G2.104.png",
+      "rarity": "Rare",
+      "cardNum": "104/132"
+    },
+    {
+      "name": "Giovanni's Last Resort",
+      "set": "Gym Challenge",
+      "img": "https://den-cards.pokellector.com/118/Giovannis-Last-Resort.G2.105.png",
+      "rarity": "Rare",
+      "cardNum": "105/132"
+    },
+    {
+      "name": "Koga",
+      "set": "Gym Challenge",
+      "img": "https://den-cards.pokellector.com/118/Koga.G2.106.png",
+      "rarity": "Rare",
+      "cardNum": "106/132"
+    },
+    {
+      "name": "Lt. Surge's Secret Plan",
+      "set": "Gym Challenge",
+      "img": "https://den-cards.pokellector.com/118/Lt-Surges-Secret-Plan.G2.107.png",
+      "rarity": "Rare",
+      "cardNum": "107/132"
+    },
+    {
+      "name": "Misty's Wish",
+      "set": "Gym Challenge",
+      "img": "https://den-cards.pokellector.com/118/Mistys-Wish.G2.108.png",
+      "rarity": "Rare",
+      "cardNum": "108/132"
+    },
+    {
+      "name": "Resistance Gym",
+      "set": "Gym Challenge",
+      "img": "https://den-cards.pokellector.com/118/Resistance-Gym.G2.109.png",
+      "rarity": "Rare",
+      "cardNum": "109/132"
+    },
+    {
+      "name": "Sabrina",
+      "set": "Gym Challenge",
+      "img": "https://den-cards.pokellector.com/118/Sabrina.G2.110.png",
+      "rarity": "Rare",
+      "cardNum": "110/132"
+    },
+    {
+      "name": "Blaine's Quiz #2",
+      "set": "Gym Challenge",
+      "img": "https://den-cards.pokellector.com/118/Blaines-Quiz-2.G2.111.png",
+      "rarity": "Uncommon",
+      "cardNum": "111/132"
+    },
+    {
+      "name": "Blaine's Quiz #3",
+      "set": "Gym Challenge",
+      "img": "https://den-cards.pokellector.com/118/Blaines-Quiz-3.G2.112.png",
+      "rarity": "Uncommon",
+      "cardNum": "112/132"
+    },
+    {
+      "name": "Cinnabar City Gym",
+      "set": "Gym Challenge",
+      "img": "https://den-cards.pokellector.com/118/Cinnabar-City-Gym.G2.113.png",
+      "rarity": "Uncommon",
+      "cardNum": "113/132"
+    },
+    {
+      "name": "Fuchsia City Gym",
+      "set": "Gym Challenge",
+      "img": "https://den-cards.pokellector.com/118/Fuchsia-City-Gym.G2.114.png",
+      "rarity": "Uncommon",
+      "cardNum": "114/132"
+    },
+    {
+      "name": "Koga's Ninja Trick",
+      "set": "Gym Challenge",
+      "img": "https://den-cards.pokellector.com/118/Kogas-Ninja-Trick.G2.115.png",
+      "rarity": "Uncommon",
+      "cardNum": "115/132"
+    },
+    {
+      "name": "Master Ball",
+      "set": "Gym Challenge",
+      "img": "https://den-cards.pokellector.com/118/Master-Ball.G2.116.png",
+      "rarity": "Uncommon",
+      "cardNum": "116/132"
+    },
+    {
+      "name": "Max Revive",
+      "set": "Gym Challenge",
+      "img": "https://den-cards.pokellector.com/118/Max-Revive.G2.117.png",
+      "rarity": "Uncommon",
+      "cardNum": "117/132"
+    },
+    {
+      "name": "Misty's Tears",
+      "set": "Gym Challenge",
+      "img": "https://den-cards.pokellector.com/118/Mistys-Tears.G2.118.png",
+      "rarity": "Uncommon",
+      "cardNum": "118/132"
+    },
+    {
+      "name": "Rocket's Minefield Gym",
+      "set": "Gym Challenge",
+      "img": "https://den-cards.pokellector.com/118/Rockets-Minefield-Gym.G2.119.png",
+      "rarity": "Uncommon",
+      "cardNum": "119/132"
+    },
+    {
+      "name": "Rocket's Secret Experiment",
+      "set": "Gym Challenge",
+      "img": "https://den-cards.pokellector.com/118/Rockets-Secret-Experiment.G2.120.png",
+      "rarity": "Uncommon",
+      "cardNum": "120/132"
+    },
+    {
+      "name": "Sabrina's Psychic Control",
+      "set": "Gym Challenge",
+      "img": "https://den-cards.pokellector.com/118/Sabrinas-Psychic-Control.G2.121.png",
+      "rarity": "Uncommon",
+      "cardNum": "121/132"
+    },
+    {
+      "name": "Saffron City Gym",
+      "set": "Gym Challenge",
+      "img": "https://den-cards.pokellector.com/118/Saffron-City-Gym.G2.122.png",
+      "rarity": "Uncommon",
+      "cardNum": "122/132"
+    },
+    {
+      "name": "Viridian City Gym",
+      "set": "Gym Challenge",
+      "img": "https://den-cards.pokellector.com/118/Viridian-City-Gym.G2.123.png",
+      "rarity": "Uncommon",
+      "cardNum": "123/132"
+    },
+    {
+      "name": "Fervor",
+      "set": "Gym Challenge",
+      "img": "https://den-cards.pokellector.com/118/Fervor.G2.124.png",
+      "rarity": "Common",
+      "cardNum": "124/132"
+    },
+    {
+      "name": "Transparent Walls",
+      "set": "Gym Challenge",
+      "img": "https://den-cards.pokellector.com/118/Transparent-Walls.G2.125.png",
+      "rarity": "Common",
+      "cardNum": "125/132"
+    },
+    {
+      "name": "Warp Point",
+      "set": "Gym Challenge",
+      "img": "https://den-cards.pokellector.com/118/Warp-Point.G2.126.png",
+      "rarity": "Common",
+      "cardNum": "126/132"
+    },
+    {
+      "name": "Fighting Energy",
+      "set": "Gym Challenge",
+      "img": "https://den-cards.pokellector.com/118/Fighting-Energy.G2.127.png",
+      "rarity": "Common",
+      "cardNum": "127/132"
+    },
+    {
+      "name": "Fire Energy",
+      "set": "Gym Challenge",
+      "img": "https://den-cards.pokellector.com/118/Fire-Energy.G2.128.png",
+      "rarity": "Common",
+      "cardNum": "128/132"
+    },
+    {
+      "name": "Grass Energy",
+      "set": "Gym Challenge",
+      "img": "https://den-cards.pokellector.com/118/Grass-Energy.G2.129.png",
+      "rarity": "Common",
+      "cardNum": "129/132"
+    },
+    {
+      "name": "Lightning Energy",
+      "set": "Gym Challenge",
+      "img": "https://den-cards.pokellector.com/118/Lightning-Energy.G2.130.png",
+      "rarity": "Common",
+      "cardNum": "130/132"
+    },
+    {
+      "name": "Psychic Energy",
+      "set": "Gym Challenge",
+      "img": "https://den-cards.pokellector.com/118/Psychic-Energy.G2.131.png",
+      "rarity": "Common",
+      "cardNum": "131/132"
+    },
+    {
+      "name": "Water Energy",
+      "set": "Gym Challenge",
+      "img": "https://den-cards.pokellector.com/118/Water-Energy.G2.132.png",
+      "rarity": "Common",
+      "cardNum": "132/132"
+    }
+  ]
+}

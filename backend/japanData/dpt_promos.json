@@ -1,0 +1,33 @@
+{
+  "setName": "DPt Promos",
+  "cards": [
+    {
+      "name": "Bronzong",
+      "set": "DPt Promos",
+      "img": "https://den-cards.pokellector.com/136/Bronzong.DPTP.6.8963.png",
+      "rarity": "Common",
+      "cardNum": "6/51"
+    },
+    {
+      "name": "Cyrus's Conspiracy",
+      "set": "DPt Promos",
+      "img": "https://den-cards.pokellector.com/136/Cyruss-Conspiracy.DPTP.7.8924.png",
+      "rarity": "Common",
+      "cardNum": "7/51"
+    },
+    {
+      "name": "Mismagius",
+      "set": "DPt Promos",
+      "img": "https://den-cards.pokellector.com/136/LVX.DPTP.11.png",
+      "rarity": "Common",
+      "cardNum": "11/51"
+    },
+    {
+      "name": "Arceus",
+      "set": "DPt Promos",
+      "img": "https://den-cards.pokellector.com/136/Arceus.DPTP.41.png",
+      "rarity": "Common",
+      "cardNum": "41/51"
+    }
+  ]
+}

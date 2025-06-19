@@ -1,0 +1,642 @@
+{
+  "setName": "Emerald Break",
+  "cards": [
+    {
+      "name": "Exeggcute",
+      "set": "Emerald Break",
+      "img": "https://den-cards.pokellector.com/167/Exeggcute.XY6.1.png",
+      "rarity": "Common",
+      "cardNum": "1/78"
+    },
+    {
+      "name": "Exeggutor",
+      "set": "Emerald Break",
+      "img": "https://den-cards.pokellector.com/167/Exeggutor.XY6.2.png",
+      "rarity": "Common",
+      "cardNum": "2/78"
+    },
+    {
+      "name": "Wurmple",
+      "set": "Emerald Break",
+      "img": "https://den-cards.pokellector.com/167/Wurmple.XY6.3.png",
+      "rarity": "Common",
+      "cardNum": "3/78"
+    },
+    {
+      "name": "Silcoon",
+      "set": "Emerald Break",
+      "img": "https://den-cards.pokellector.com/167/Silcoon.XY6.4.png",
+      "rarity": "Common",
+      "cardNum": "4/78"
+    },
+    {
+      "name": "Beautifly",
+      "set": "Emerald Break",
+      "img": "https://den-cards.pokellector.com/167/Beautifly.XY6.5.png",
+      "rarity": "Common",
+      "cardNum": "5/78"
+    },
+    {
+      "name": "Cascoon",
+      "set": "Emerald Break",
+      "img": "https://den-cards.pokellector.com/167/Cascoon.XY6.6.png",
+      "rarity": "Common",
+      "cardNum": "6/78"
+    },
+    {
+      "name": "Dustox",
+      "set": "Emerald Break",
+      "img": "https://den-cards.pokellector.com/167/Dustox.XY6.7.png",
+      "rarity": "Common",
+      "cardNum": "7/78"
+    },
+    {
+      "name": "Dustox",
+      "set": "Emerald Break",
+      "img": "https://den-cards.pokellector.com/167/Dustox.XY6.8.png",
+      "rarity": "Common",
+      "cardNum": "8/78"
+    },
+    {
+      "name": "Nincada",
+      "set": "Emerald Break",
+      "img": "https://den-cards.pokellector.com/167/Nincada.XY6.9.png",
+      "rarity": "Common",
+      "cardNum": "9/78"
+    },
+    {
+      "name": "Ninjask",
+      "set": "Emerald Break",
+      "img": "https://den-cards.pokellector.com/167/Ninjask.XY6.10.png",
+      "rarity": "Common",
+      "cardNum": "10/78"
+    },
+    {
+      "name": "Shedinja",
+      "set": "Emerald Break",
+      "img": "https://den-cards.pokellector.com/167/Shedinja.XY6.11.png",
+      "rarity": "Uncommon",
+      "cardNum": "11/78"
+    },
+    {
+      "name": "Tropius",
+      "set": "Emerald Break",
+      "img": "https://den-cards.pokellector.com/167/Tropius.XY6.12.png",
+      "rarity": "Common",
+      "cardNum": "12/78"
+    },
+    {
+      "name": "Fletchinder",
+      "set": "Emerald Break",
+      "img": "https://den-cards.pokellector.com/167/Fletchinder.XY6.13.png",
+      "rarity": "Common",
+      "cardNum": "13/78"
+    },
+    {
+      "name": "Talonflame",
+      "set": "Emerald Break",
+      "img": "https://den-cards.pokellector.com/167/Talonflame.XY6.14.png",
+      "rarity": "Uncommon",
+      "cardNum": "14/78"
+    },
+    {
+      "name": "Articuno",
+      "set": "Emerald Break",
+      "img": "https://den-cards.pokellector.com/167/Articuno.XY6.15.png",
+      "rarity": "Uncommon",
+      "cardNum": "15/78"
+    },
+    {
+      "name": "Articuno",
+      "set": "Emerald Break",
+      "img": "https://den-cards.pokellector.com/167/Articuno.XY6.16.png",
+      "rarity": "Uncommon",
+      "cardNum": "16/78"
+    },
+    {
+      "name": "Wingull",
+      "set": "Emerald Break",
+      "img": "https://den-cards.pokellector.com/167/Wingull.XY6.17.png",
+      "rarity": "Common",
+      "cardNum": "17/78"
+    },
+    {
+      "name": "Pelipper",
+      "set": "Emerald Break",
+      "img": "https://den-cards.pokellector.com/167/Pelipper.XY6.18.png",
+      "rarity": "Common",
+      "cardNum": "18/78"
+    },
+    {
+      "name": "Voltorb",
+      "set": "Emerald Break",
+      "img": "https://den-cards.pokellector.com/167/Voltorb.XY6.19.png",
+      "rarity": "Common",
+      "cardNum": "19/78"
+    },
+    {
+      "name": "Electrode",
+      "set": "Emerald Break",
+      "img": "https://den-cards.pokellector.com/167/Electrode.XY6.20.png",
+      "rarity": "Common",
+      "cardNum": "20/78"
+    },
+    {
+      "name": "Zapdos",
+      "set": "Emerald Break",
+      "img": "https://den-cards.pokellector.com/167/Zapdos.XY6.21.png",
+      "rarity": "Uncommon",
+      "cardNum": "21/78"
+    },
+    {
+      "name": "Thundurus EX",
+      "set": "Emerald Break",
+      "img": "https://den-cards.pokellector.com/167/Thundurus-EX.XY6.22.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "22/78"
+    },
+    {
+      "name": "Natu",
+      "set": "Emerald Break",
+      "img": "https://den-cards.pokellector.com/167/Natu.XY6.23.png",
+      "rarity": "Common",
+      "cardNum": "23/78"
+    },
+    {
+      "name": "Natu",
+      "set": "Emerald Break",
+      "img": "https://den-cards.pokellector.com/167/Natu.XY6.24.png",
+      "rarity": "Common",
+      "cardNum": "24/78"
+    },
+    {
+      "name": "Xatu",
+      "set": "Emerald Break",
+      "img": "https://den-cards.pokellector.com/167/Xatu.XY6.25.png",
+      "rarity": "Common",
+      "cardNum": "25/78"
+    },
+    {
+      "name": "Shuppet",
+      "set": "Emerald Break",
+      "img": "https://den-cards.pokellector.com/167/Shuppet.XY6.26.png",
+      "rarity": "Common",
+      "cardNum": "26/78"
+    },
+    {
+      "name": "Banette",
+      "set": "Emerald Break",
+      "img": "https://den-cards.pokellector.com/167/Banette.XY6.27.png",
+      "rarity": "Uncommon",
+      "cardNum": "27/78"
+    },
+    {
+      "name": "Banette",
+      "set": "Emerald Break",
+      "img": "https://den-cards.pokellector.com/167/Banette.XY6.28.png",
+      "rarity": "Uncommon",
+      "cardNum": "28/78"
+    },
+    {
+      "name": "Deoxys",
+      "set": "Emerald Break",
+      "img": "https://den-cards.pokellector.com/167/Deoxys.XY6.29.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "29/78"
+    },
+    {
+      "name": "Gallade EX",
+      "set": "Emerald Break",
+      "img": "https://den-cards.pokellector.com/167/Gallade-EX.XY6.30.png",
+      "rarity": "Common",
+      "cardNum": "30/78"
+    },
+    {
+      "name": "M Gallade EX",
+      "set": "Emerald Break",
+      "img": "https://den-cards.pokellector.com/167/M-Gallade-EX.XY6.31.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "31/78"
+    },
+    {
+      "name": "Gligar",
+      "set": "Emerald Break",
+      "img": "https://den-cards.pokellector.com/167/Gligar.XY6.32.png",
+      "rarity": "Common",
+      "cardNum": "32/78"
+    },
+    {
+      "name": "Gliscor",
+      "set": "Emerald Break",
+      "img": "https://den-cards.pokellector.com/167/Gliscor.XY6.33.png",
+      "rarity": "Common",
+      "cardNum": "33/78"
+    },
+    {
+      "name": "Absol",
+      "set": "Emerald Break",
+      "img": "https://den-cards.pokellector.com/167/Absol.XY6.34.png",
+      "rarity": "Rare",
+      "cardNum": "34/78"
+    },
+    {
+      "name": "Jirachi",
+      "set": "Emerald Break",
+      "img": "https://den-cards.pokellector.com/167/Jirachi.XY6.35.png",
+      "rarity": "Rare",
+      "cardNum": "35/78"
+    },
+    {
+      "name": "Togepi",
+      "set": "Emerald Break",
+      "img": "https://den-cards.pokellector.com/167/Togepi.XY6.36.png",
+      "rarity": "Common",
+      "cardNum": "36/78"
+    },
+    {
+      "name": "Togetic",
+      "set": "Emerald Break",
+      "img": "https://den-cards.pokellector.com/167/Togetic.XY6.37.png",
+      "rarity": "Common",
+      "cardNum": "37/78"
+    },
+    {
+      "name": "Togekiss",
+      "set": "Emerald Break",
+      "img": "https://den-cards.pokellector.com/167/Togekiss.XY6.38.png",
+      "rarity": "Uncommon",
+      "cardNum": "38/78"
+    },
+    {
+      "name": "Togekiss",
+      "set": "Emerald Break",
+      "img": "https://den-cards.pokellector.com/167/Togekiss.XY6.39.png",
+      "rarity": "Rare",
+      "cardNum": "39/78"
+    },
+    {
+      "name": "Dratini",
+      "set": "Emerald Break",
+      "img": "https://den-cards.pokellector.com/167/Dratini.XY6.40.png",
+      "rarity": "Common",
+      "cardNum": "40/78"
+    },
+    {
+      "name": "Dragonair",
+      "set": "Emerald Break",
+      "img": "https://den-cards.pokellector.com/167/Dragonair.XY6.41.png",
+      "rarity": "Common",
+      "cardNum": "41/78"
+    },
+    {
+      "name": "Dragonite",
+      "set": "Emerald Break",
+      "img": "https://den-cards.pokellector.com/167/Dragonite.XY6.42.png",
+      "rarity": "Uncommon",
+      "cardNum": "42/78"
+    },
+    {
+      "name": "Dragonite",
+      "set": "Emerald Break",
+      "img": "https://den-cards.pokellector.com/167/Dragonite.XY6.43.png",
+      "rarity": "Rare",
+      "cardNum": "43/78"
+    },
+    {
+      "name": "Altaria",
+      "set": "Emerald Break",
+      "img": "https://den-cards.pokellector.com/167/Altaria.XY6.44.png",
+      "rarity": "Common",
+      "cardNum": "44/78"
+    },
+    {
+      "name": "Bagon",
+      "set": "Emerald Break",
+      "img": "https://den-cards.pokellector.com/167/Bagon.XY6.45.png",
+      "rarity": "Common",
+      "cardNum": "45/78"
+    },
+    {
+      "name": "Shelgon",
+      "set": "Emerald Break",
+      "img": "https://den-cards.pokellector.com/167/Shelgon.XY6.46.png",
+      "rarity": "Uncommon",
+      "cardNum": "46/78"
+    },
+    {
+      "name": "Salamence",
+      "set": "Emerald Break",
+      "img": "https://den-cards.pokellector.com/167/Salamence.XY6.47.png",
+      "rarity": "Rare",
+      "cardNum": "47/78"
+    },
+    {
+      "name": "Latios EX",
+      "set": "Emerald Break",
+      "img": "https://den-cards.pokellector.com/167/Latios-EX.XY6.48.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "48/78"
+    },
+    {
+      "name": "M Latios EX",
+      "set": "Emerald Break",
+      "img": "https://den-cards.pokellector.com/167/M-Latios-EX.XY6.49.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "49/78"
+    },
+    {
+      "name": "Hydreigon EX",
+      "set": "Emerald Break",
+      "img": "https://den-cards.pokellector.com/167/Hydreigon-EX.XY6.50.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "50/78"
+    },
+    {
+      "name": "Reshiram",
+      "set": "Emerald Break",
+      "img": "https://den-cards.pokellector.com/167/Reshiram.XY6.51.png",
+      "rarity": "Rare",
+      "cardNum": "51/78"
+    },
+    {
+      "name": "Spearow",
+      "set": "Emerald Break",
+      "img": "https://den-cards.pokellector.com/167/Spearow.XY6.52.png",
+      "rarity": "Common",
+      "cardNum": "52/78"
+    },
+    {
+      "name": "Fearow",
+      "set": "Emerald Break",
+      "img": "https://den-cards.pokellector.com/167/Fearow.XY6.53.png",
+      "rarity": "Common",
+      "cardNum": "53/78"
+    },
+    {
+      "name": "Dunsparce",
+      "set": "Emerald Break",
+      "img": "https://den-cards.pokellector.com/167/Dunsparce.XY6.54.png",
+      "rarity": "Common",
+      "cardNum": "54/78"
+    },
+    {
+      "name": "Skarmory",
+      "set": "Emerald Break",
+      "img": "https://den-cards.pokellector.com/167/Skarmory.XY6.55.png",
+      "rarity": "Common",
+      "cardNum": "55/78"
+    },
+    {
+      "name": "Taillow",
+      "set": "Emerald Break",
+      "img": "https://den-cards.pokellector.com/167/Taillow.XY6.56.png",
+      "rarity": "Common",
+      "cardNum": "56/78"
+    },
+    {
+      "name": "Swellow",
+      "set": "Emerald Break",
+      "img": "https://den-cards.pokellector.com/167/Swellow.XY6.57.png",
+      "rarity": "Uncommon",
+      "cardNum": "57/78"
+    },
+    {
+      "name": "Swellow",
+      "set": "Emerald Break",
+      "img": "https://den-cards.pokellector.com/167/Swellow.XY6.58.png",
+      "rarity": "Rare",
+      "cardNum": "58/78"
+    },
+    {
+      "name": "Swablu",
+      "set": "Emerald Break",
+      "img": "https://den-cards.pokellector.com/167/Swablu.XY6.59.png",
+      "rarity": "Common",
+      "cardNum": "59/78"
+    },
+    {
+      "name": "Altaria",
+      "set": "Emerald Break",
+      "img": "https://den-cards.pokellector.com/167/Altaria.XY6.60.png",
+      "rarity": "Uncommon",
+      "cardNum": "60/78"
+    },
+    {
+      "name": "Rayquaza EX",
+      "set": "Emerald Break",
+      "img": "https://den-cards.pokellector.com/167/Rayquaza-EX.XY6.61.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "61/78"
+    },
+    {
+      "name": "M Rayquaza EX",
+      "set": "Emerald Break",
+      "img": "https://den-cards.pokellector.com/167/M-Rayquaza-EX.XY6.62.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "62/78"
+    },
+    {
+      "name": "Shaymin EX",
+      "set": "Emerald Break",
+      "img": "https://den-cards.pokellector.com/167/Shaymin-EX.XY6.63.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "63/78"
+    },
+    {
+      "name": "Pidove",
+      "set": "Emerald Break",
+      "img": "https://den-cards.pokellector.com/167/Pidove.XY6.64.png",
+      "rarity": "Common",
+      "cardNum": "64/78"
+    },
+    {
+      "name": "Tranquill",
+      "set": "Emerald Break",
+      "img": "https://den-cards.pokellector.com/167/Tranquill.XY6.65.png",
+      "rarity": "Common",
+      "cardNum": "65/78"
+    },
+    {
+      "name": "Unfezant",
+      "set": "Emerald Break",
+      "img": "https://den-cards.pokellector.com/167/Unfezant.XY6.66.png",
+      "rarity": "Common",
+      "cardNum": "66/78"
+    },
+    {
+      "name": "Unfezant",
+      "set": "Emerald Break",
+      "img": "https://den-cards.pokellector.com/167/Unfezant.XY6.67.png",
+      "rarity": "Common",
+      "cardNum": "67/78"
+    },
+    {
+      "name": "Fletchling",
+      "set": "Emerald Break",
+      "img": "https://den-cards.pokellector.com/167/Fletchling.XY6.68.png",
+      "rarity": "Common",
+      "cardNum": "68/78"
+    },
+    {
+      "name": "Revive",
+      "set": "Emerald Break",
+      "img": "https://den-cards.pokellector.com/167/Revive.XY6.69.png",
+      "rarity": "Uncommon",
+      "cardNum": "69/78"
+    },
+    {
+      "name": "Trainer's Post",
+      "set": "Emerald Break",
+      "img": "https://den-cards.pokellector.com/167/Trainers-Post.XY6.70.png",
+      "rarity": "Uncommon",
+      "cardNum": "70/78"
+    },
+    {
+      "name": "Mega Turbo",
+      "set": "Emerald Break",
+      "img": "https://den-cards.pokellector.com/167/Mega-Turbo.XY6.71.png",
+      "rarity": "Uncommon",
+      "cardNum": "71/78"
+    },
+    {
+      "name": "Wide Lens",
+      "set": "Emerald Break",
+      "img": "https://den-cards.pokellector.com/167/Wide-Lens.XY6.72.png",
+      "rarity": "Uncommon",
+      "cardNum": "72/78"
+    },
+    {
+      "name": "Gallade Sprit Link",
+      "set": "Emerald Break",
+      "img": "https://den-cards.pokellector.com/167/Gallade-Sprit-Link.XY6.73.png",
+      "rarity": "Uncommon",
+      "cardNum": "73/78"
+    },
+    {
+      "name": "Latios Spirit Link",
+      "set": "Emerald Break",
+      "img": "https://den-cards.pokellector.com/167/Latios-Spirit-Link.XY6.74.png",
+      "rarity": "Uncommon",
+      "cardNum": "74/78"
+    },
+    {
+      "name": "Winona",
+      "set": "Emerald Break",
+      "img": "https://den-cards.pokellector.com/167/Winona.XY6.75.png",
+      "rarity": "Uncommon",
+      "cardNum": "75/78"
+    },
+    {
+      "name": "Wally",
+      "set": "Emerald Break",
+      "img": "https://den-cards.pokellector.com/167/Wally.XY6.76.png",
+      "rarity": "Uncommon",
+      "cardNum": "76/78"
+    },
+    {
+      "name": "Sky Field",
+      "set": "Emerald Break",
+      "img": "https://den-cards.pokellector.com/167/Sky-Field.XY6.77.png",
+      "rarity": "Uncommon",
+      "cardNum": "77/78"
+    },
+    {
+      "name": "Double Dragon Energy",
+      "set": "Emerald Break",
+      "img": "https://den-cards.pokellector.com/167/Double-Dragon-Energy.XY6.78.png",
+      "rarity": "Uncommon",
+      "cardNum": "78/78"
+    },
+    {
+      "name": "Thundurus EX",
+      "set": "Emerald Break",
+      "img": "https://den-cards.pokellector.com/167/Thundurus-EX.XY6.79.png",
+      "rarity": "Secret Rare",
+      "cardNum": "79/78"
+    },
+    {
+      "name": "Gallade EX",
+      "set": "Emerald Break",
+      "img": "https://den-cards.pokellector.com/167/Gallade-EX.XY6.80.png",
+      "rarity": "Secret Rare",
+      "cardNum": "80/78"
+    },
+    {
+      "name": "M Gallade EX",
+      "set": "Emerald Break",
+      "img": "https://den-cards.pokellector.com/167/M-Gallade-EX.XY6.81.png",
+      "rarity": "Secret Rare",
+      "cardNum": "81/78"
+    },
+    {
+      "name": "Latios EX",
+      "set": "Emerald Break",
+      "img": "https://den-cards.pokellector.com/167/Latios-EX.XY6.82.png",
+      "rarity": "Secret Rare",
+      "cardNum": "82/78"
+    },
+    {
+      "name": "M Latios EX",
+      "set": "Emerald Break",
+      "img": "https://den-cards.pokellector.com/167/M-Latios-EX.XY6.83.png",
+      "rarity": "Secret Rare",
+      "cardNum": "83/78"
+    },
+    {
+      "name": "Hydreigon EX",
+      "set": "Emerald Break",
+      "img": "https://den-cards.pokellector.com/167/Hydreigon-EX.XY6.84.png",
+      "rarity": "Secret Rare",
+      "cardNum": "84/78"
+    },
+    {
+      "name": "Rayquaza EX",
+      "set": "Emerald Break",
+      "img": "https://den-cards.pokellector.com/167/Rayquaza-EX.XY6.85.png",
+      "rarity": "Secret Rare",
+      "cardNum": "85/78"
+    },
+    {
+      "name": "M Rayquaza EX",
+      "set": "Emerald Break",
+      "img": "https://den-cards.pokellector.com/167/M-Rayquaza-EX.XY6.86.png",
+      "rarity": "Secret Rare",
+      "cardNum": "86/78"
+    },
+    {
+      "name": "Shaymin EX",
+      "set": "Emerald Break",
+      "img": "https://den-cards.pokellector.com/167/Shaymin-EX.XY6.87.png",
+      "rarity": "Secret Rare",
+      "cardNum": "87/78"
+    },
+    {
+      "name": "Winona",
+      "set": "Emerald Break",
+      "img": "https://den-cards.pokellector.com/167/Winona.XY6.88.png",
+      "rarity": "Secret Rare",
+      "cardNum": "88/78"
+    },
+    {
+      "name": "Wally",
+      "set": "Emerald Break",
+      "img": "https://den-cards.pokellector.com/167/Wally.XY6.89.png",
+      "rarity": "Secret Rare",
+      "cardNum": "89/78"
+    },
+    {
+      "name": "Energy Switch",
+      "set": "Emerald Break",
+      "img": "https://den-cards.pokellector.com/167/Energy-Switch.XY6.90.png",
+      "rarity": "Common",
+      "cardNum": "90/78"
+    },
+    {
+      "name": "VS Seeker",
+      "set": "Emerald Break",
+      "img": "https://den-cards.pokellector.com/167/VS-Seeker.XY6.91.png",
+      "rarity": "Common",
+      "cardNum": "91/78"
+    }
+  ]
+}

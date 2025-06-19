@@ -1,0 +1,180 @@
+{
+  "setName": "Shiny Collection",
+  "cards": [
+    {
+      "name": "Snivy",
+      "set": "Shiny Collection",
+      "img": "https://den-cards.pokellector.com/32/Snivy.SC.1.png",
+      "rarity": "Common",
+      "cardNum": "1/20"
+    },
+    {
+      "name": "Servine",
+      "set": "Shiny Collection",
+      "img": "https://den-cards.pokellector.com/32/Servine.SC.2.png",
+      "rarity": "Common",
+      "cardNum": "2/20"
+    },
+    {
+      "name": "Serperior",
+      "set": "Shiny Collection",
+      "img": "https://den-cards.pokellector.com/32/Serperior.SC.3.png",
+      "rarity": "Uncommon",
+      "cardNum": "3/20"
+    },
+    {
+      "name": "Growlithe",
+      "set": "Shiny Collection",
+      "img": "https://den-cards.pokellector.com/32/Growlithe.SC.4.png",
+      "rarity": "Uncommon",
+      "cardNum": "4/20"
+    },
+    {
+      "name": "Torchic",
+      "set": "Shiny Collection",
+      "img": "https://den-cards.pokellector.com/32/Torchic.SC.5.png",
+      "rarity": "Common",
+      "cardNum": "5/20"
+    },
+    {
+      "name": "Piplup",
+      "set": "Shiny Collection",
+      "img": "https://den-cards.pokellector.com/32/Piplup.SC.6.png",
+      "rarity": "Uncommon",
+      "cardNum": "6/20"
+    },
+    {
+      "name": "Pikachu",
+      "set": "Shiny Collection",
+      "img": "https://den-cards.pokellector.com/32/Pikachu.SC.7.png",
+      "rarity": "Uncommon",
+      "cardNum": "7/20"
+    },
+    {
+      "name": "Ralts",
+      "set": "Shiny Collection",
+      "img": "https://den-cards.pokellector.com/32/Ralts.SC.8.png",
+      "rarity": "Common",
+      "cardNum": "8/20"
+    },
+    {
+      "name": "Kirlia",
+      "set": "Shiny Collection",
+      "img": "https://den-cards.pokellector.com/32/Kirlia.SC.9.png",
+      "rarity": "Common",
+      "cardNum": "9/20"
+    },
+    {
+      "name": "Gardevoir",
+      "set": "Shiny Collection",
+      "img": "https://den-cards.pokellector.com/32/Gardevoir.SC.10.png",
+      "rarity": "Uncommon",
+      "cardNum": "10/20"
+    },
+    {
+      "name": "Meloetta EX",
+      "set": "Shiny Collection",
+      "img": "https://den-cards.pokellector.com/32/Meloetta-EX.SC.11.png",
+      "rarity": "Rare",
+      "cardNum": "11/20"
+    },
+    {
+      "name": "Stunfisk",
+      "set": "Shiny Collection",
+      "img": "https://den-cards.pokellector.com/32/Stunfisk.SC.12.png",
+      "rarity": "Uncommon",
+      "cardNum": "12/20"
+    },
+    {
+      "name": "Purrloin",
+      "set": "Shiny Collection",
+      "img": "https://den-cards.pokellector.com/32/Purrloin.SC.13.png",
+      "rarity": "Uncommon",
+      "cardNum": "13/20"
+    },
+    {
+      "name": "Eevee",
+      "set": "Shiny Collection",
+      "img": "https://den-cards.pokellector.com/32/Eevee.SC.14.png",
+      "rarity": "Uncommon",
+      "cardNum": "14/20"
+    },
+    {
+      "name": "Teddiursa",
+      "set": "Shiny Collection",
+      "img": "https://den-cards.pokellector.com/32/Teddiursa.SC.15.png",
+      "rarity": "Common",
+      "cardNum": "15/20"
+    },
+    {
+      "name": "Ursaring",
+      "set": "Shiny Collection",
+      "img": "https://den-cards.pokellector.com/32/Ursaring.SC.16.png",
+      "rarity": "Common",
+      "cardNum": "16/20"
+    },
+    {
+      "name": "Audino",
+      "set": "Shiny Collection",
+      "img": "https://den-cards.pokellector.com/32/Audino.SC.17.png",
+      "rarity": "Uncommon",
+      "cardNum": "17/20"
+    },
+    {
+      "name": "Minccino",
+      "set": "Shiny Collection",
+      "img": "https://den-cards.pokellector.com/32/Minccino.SC.18.png",
+      "rarity": "Common",
+      "cardNum": "18/20"
+    },
+    {
+      "name": "Cinccino",
+      "set": "Shiny Collection",
+      "img": "https://den-cards.pokellector.com/32/Cinccino.SC.19.png",
+      "rarity": "Uncommon",
+      "cardNum": "19/20"
+    },
+    {
+      "name": "Elesa",
+      "set": "Shiny Collection",
+      "img": "https://den-cards.pokellector.com/32/Elesa.SC.20.png",
+      "rarity": "Common",
+      "cardNum": "20/20"
+    },
+    {
+      "name": "Shaymin EX",
+      "set": "Shiny Collection",
+      "img": "https://den-cards.pokellector.com/32/Shaymin-EX.SC.21.png",
+      "rarity": "Secret Rare",
+      "cardNum": "21/20"
+    },
+    {
+      "name": "Reshiram EX",
+      "set": "Shiny Collection",
+      "img": "https://den-cards.pokellector.com/32/Reshiram-EX.SC.22.png",
+      "rarity": "Secret Rare",
+      "cardNum": "22/20"
+    },
+    {
+      "name": "Emolga",
+      "set": "Shiny Collection",
+      "img": "https://den-cards.pokellector.com/32/Emolga.SC.23.png",
+      "rarity": "Secret Rare",
+      "cardNum": "23/20"
+    },
+    {
+      "name": "Mew EX",
+      "set": "Shiny Collection",
+      "img": "https://den-cards.pokellector.com/32/Mew-EX.SC.24.png",
+      "rarity": "Secret Rare",
+      "cardNum": "24/20"
+    },
+    {
+      "name": "Meloetta EX",
+      "set": "Shiny Collection",
+      "img": "https://den-cards.pokellector.com/32/Meloetta-EX.SC.25.png",
+      "rarity": "Secret Rare",
+      "cardNum": "25/20"
+    }
+  ]
+}

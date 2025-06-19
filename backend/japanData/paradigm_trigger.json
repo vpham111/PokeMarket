@@ -1,0 +1,880 @@
+{
+  "setName": "Paradigm Trigger",
+  "cards": [
+    {
+      "name": "Oddish",
+      "set": "Paradigm Trigger",
+      "img": "https://den-cards.pokellector.com/351/Oddish.S12.1.45193.png",
+      "rarity": "Common",
+      "cardNum": "1/98"
+    },
+    {
+      "name": "Gloom",
+      "set": "Paradigm Trigger",
+      "img": "https://den-cards.pokellector.com/351/Gloom.S12.2.45194.png",
+      "rarity": "Common",
+      "cardNum": "2/98"
+    },
+    {
+      "name": "Bellossom",
+      "set": "Paradigm Trigger",
+      "img": "https://den-cards.pokellector.com/351/Bellossom.S12.3.45195.png",
+      "rarity": "Uncommon",
+      "cardNum": "3/98"
+    },
+    {
+      "name": "Tangela",
+      "set": "Paradigm Trigger",
+      "img": "https://den-cards.pokellector.com/351/Tangela.S12.4.45196.png",
+      "rarity": "Common",
+      "cardNum": "4/98"
+    },
+    {
+      "name": "Tangrowth",
+      "set": "Paradigm Trigger",
+      "img": "https://den-cards.pokellector.com/351/Tangrowth.S12.5.45197.png",
+      "rarity": "Uncommon",
+      "cardNum": "5/98"
+    },
+    {
+      "name": "Spinarak",
+      "set": "Paradigm Trigger",
+      "img": "https://den-cards.pokellector.com/351/Spinarak.S12.6.45164.png",
+      "rarity": "Common",
+      "cardNum": "6/98"
+    },
+    {
+      "name": "Ariados",
+      "set": "Paradigm Trigger",
+      "img": "https://den-cards.pokellector.com/351/Ariados.S12.7.45165.png",
+      "rarity": "Rare",
+      "cardNum": "7/98"
+    },
+    {
+      "name": "Virizion",
+      "set": "Paradigm Trigger",
+      "img": "https://den-cards.pokellector.com/351/Virizion.S12.8.45161.png",
+      "rarity": "Common",
+      "cardNum": "8/98"
+    },
+    {
+      "name": "Chesnaught V",
+      "set": "Paradigm Trigger",
+      "img": "https://den-cards.pokellector.com/351/Chesnaught-V.S12.9.45198.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "9/98"
+    },
+    {
+      "name": "Ponyta",
+      "set": "Paradigm Trigger",
+      "img": "https://den-cards.pokellector.com/351/Ponyta.S12.10.45199.png",
+      "rarity": "Common",
+      "cardNum": "10/98"
+    },
+    {
+      "name": "Rapidash",
+      "set": "Paradigm Trigger",
+      "img": "https://den-cards.pokellector.com/351/Rapidash.S12.11.45200.png",
+      "rarity": "Rare",
+      "cardNum": "11/98"
+    },
+    {
+      "name": "Victini",
+      "set": "Paradigm Trigger",
+      "img": "https://den-cards.pokellector.com/351/Victini.S12.12.45201.png",
+      "rarity": "Common",
+      "cardNum": "12/98"
+    },
+    {
+      "name": "Larvesta",
+      "set": "Paradigm Trigger",
+      "img": "https://den-cards.pokellector.com/351/Larvesta.S12.13.45202.png",
+      "rarity": "Common",
+      "cardNum": "13/98"
+    },
+    {
+      "name": "Volcarona",
+      "set": "Paradigm Trigger",
+      "img": "https://den-cards.pokellector.com/351/Volcarona.S12.14.45203.png",
+      "rarity": "Uncommon",
+      "cardNum": "14/98"
+    },
+    {
+      "name": "Litten",
+      "set": "Paradigm Trigger",
+      "img": "https://den-cards.pokellector.com/351/Litten.S12.15.45166.png",
+      "rarity": "Common",
+      "cardNum": "15/98"
+    },
+    {
+      "name": "Torracat",
+      "set": "Paradigm Trigger",
+      "img": "https://den-cards.pokellector.com/351/Torracat.S12.16.45167.png",
+      "rarity": "Common",
+      "cardNum": "16/98"
+    },
+    {
+      "name": "Incineroar",
+      "set": "Paradigm Trigger",
+      "img": "https://den-cards.pokellector.com/351/Incineroar.S12.17.45168.png",
+      "rarity": "Uncommon",
+      "cardNum": "17/98"
+    },
+    {
+      "name": "Omastar V",
+      "set": "Paradigm Trigger",
+      "img": "https://den-cards.pokellector.com/351/Omastar-V.S12.18.45204.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "18/98"
+    },
+    {
+      "name": "Snorunt",
+      "set": "Paradigm Trigger",
+      "img": "https://den-cards.pokellector.com/351/Snorunt.S12.19.45177.png",
+      "rarity": "Common",
+      "cardNum": "19/98"
+    },
+    {
+      "name": "Glalie",
+      "set": "Paradigm Trigger",
+      "img": "https://den-cards.pokellector.com/351/Glalie.S12.20.45179.png",
+      "rarity": "Uncommon",
+      "cardNum": "20/98"
+    },
+    {
+      "name": "Frosslass",
+      "set": "Paradigm Trigger",
+      "img": "https://den-cards.pokellector.com/351/Frosslass.S12.21.45178.png",
+      "rarity": "Uncommon",
+      "cardNum": "21/98"
+    },
+    {
+      "name": "Relicanth",
+      "set": "Paradigm Trigger",
+      "img": "https://den-cards.pokellector.com/351/Relicanth.S12.22.45205.png",
+      "rarity": "Common",
+      "cardNum": "22/98"
+    },
+    {
+      "name": "Keldeo",
+      "set": "Paradigm Trigger",
+      "img": "https://den-cards.pokellector.com/351/Keldeo.S12.23.45159.png",
+      "rarity": "Uncommon",
+      "cardNum": "23/98"
+    },
+    {
+      "name": "Pikachu",
+      "set": "Paradigm Trigger",
+      "img": "https://den-cards.pokellector.com/351/Pikachu.S12.24.45149.png",
+      "rarity": "Common",
+      "cardNum": "24/98"
+    },
+    {
+      "name": "Raichu",
+      "set": "Paradigm Trigger",
+      "img": "https://den-cards.pokellector.com/351/Raichu.S12.25.45206.png",
+      "rarity": "Uncommon",
+      "cardNum": "25/98"
+    },
+    {
+      "name": "Shinx",
+      "set": "Paradigm Trigger",
+      "img": "https://den-cards.pokellector.com/351/Shinx.S12.26.45207.png",
+      "rarity": "Common",
+      "cardNum": "26/98"
+    },
+    {
+      "name": "Luxio",
+      "set": "Paradigm Trigger",
+      "img": "https://den-cards.pokellector.com/351/Luxio.S12.27.45208.png",
+      "rarity": "Common",
+      "cardNum": "27/98"
+    },
+    {
+      "name": "Luxray",
+      "set": "Paradigm Trigger",
+      "img": "https://den-cards.pokellector.com/351/Luxray.S12.28.45209.png",
+      "rarity": "Uncommon",
+      "cardNum": "28/98"
+    },
+    {
+      "name": "Stunfisk",
+      "set": "Paradigm Trigger",
+      "img": "https://den-cards.pokellector.com/351/Stunfisk.S12.29.45210.png",
+      "rarity": "Common",
+      "cardNum": "29/98"
+    },
+    {
+      "name": "Helioptile",
+      "set": "Paradigm Trigger",
+      "img": "https://den-cards.pokellector.com/351/Helioptile.S12.30.45211.png",
+      "rarity": "Common",
+      "cardNum": "30/98"
+    },
+    {
+      "name": "Heliolisk",
+      "set": "Paradigm Trigger",
+      "img": "https://den-cards.pokellector.com/351/Heliolisk.S12.31.45212.png",
+      "rarity": "Common",
+      "cardNum": "31/98"
+    },
+    {
+      "name": "Zeraora",
+      "set": "Paradigm Trigger",
+      "img": "https://den-cards.pokellector.com/351/Zeraora.S12.32.45213.png",
+      "rarity": "Uncommon",
+      "cardNum": "32/98"
+    },
+    {
+      "name": "Regieleki V",
+      "set": "Paradigm Trigger",
+      "img": "https://den-cards.pokellector.com/351/Regieleki-V.S12.33.45172.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "33/98"
+    },
+    {
+      "name": "Regieleki VMAX",
+      "set": "Paradigm Trigger",
+      "img": "https://den-cards.pokellector.com/351/Regieleki-VMAX.S12.34.45174.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "34/98"
+    },
+    {
+      "name": "Unown V",
+      "set": "Paradigm Trigger",
+      "img": "https://den-cards.pokellector.com/351/Unown-V.S13.35.45139.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "35/98"
+    },
+    {
+      "name": "Unown VSTAR",
+      "set": "Paradigm Trigger",
+      "img": "https://den-cards.pokellector.com/351/Unown-VSTAR.S13.36.45140.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "36/98"
+    },
+    {
+      "name": "Meditite",
+      "set": "Paradigm Trigger",
+      "img": "https://den-cards.pokellector.com/351/Meditite.S13.37.45144.png",
+      "rarity": "Common",
+      "cardNum": "37/98"
+    },
+    {
+      "name": "Medicham",
+      "set": "Paradigm Trigger",
+      "img": "https://den-cards.pokellector.com/351/Medicham.S13.38.45143.png",
+      "rarity": "Rare",
+      "cardNum": "38/98"
+    },
+    {
+      "name": "Sigilyph",
+      "set": "Paradigm Trigger",
+      "img": "https://den-cards.pokellector.com/351/Sigilyph.S12.39.45214.png",
+      "rarity": "Common",
+      "cardNum": "39/98"
+    },
+    {
+      "name": "Solosis",
+      "set": "Paradigm Trigger",
+      "img": "https://den-cards.pokellector.com/351/Solosis.S12.40.45215.png",
+      "rarity": "Common",
+      "cardNum": "40/98"
+    },
+    {
+      "name": "Duosion",
+      "set": "Paradigm Trigger",
+      "img": "https://den-cards.pokellector.com/351/Duosion.S12.41.45216.png",
+      "rarity": "Common",
+      "cardNum": "41/98"
+    },
+    {
+      "name": "Reuniclus",
+      "set": "Paradigm Trigger",
+      "img": "https://den-cards.pokellector.com/351/Reuniclus.S12.42.45217.png",
+      "rarity": "Rare",
+      "cardNum": "42/98"
+    },
+    {
+      "name": "Elgyem",
+      "set": "Paradigm Trigger",
+      "img": "https://den-cards.pokellector.com/351/Elgyem.S13.43.45141.png",
+      "rarity": "Common",
+      "cardNum": "43/98"
+    },
+    {
+      "name": "Beheeyem",
+      "set": "Paradigm Trigger",
+      "img": "https://den-cards.pokellector.com/351/Beheeyem.S13.44.45142.png",
+      "rarity": "Uncommon",
+      "cardNum": "44/98"
+    },
+    {
+      "name": "Dedenne",
+      "set": "Paradigm Trigger",
+      "img": "https://den-cards.pokellector.com/351/Dedenne.S13.45.45148.png",
+      "rarity": "Common",
+      "cardNum": "45/98"
+    },
+    {
+      "name": "Hisuian Arcanine V",
+      "set": "Paradigm Trigger",
+      "img": "https://den-cards.pokellector.com/351/Hisuian-Arcanine-V.S12.46.45218.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "46/98"
+    },
+    {
+      "name": "Baltoy",
+      "set": "Paradigm Trigger",
+      "img": "https://den-cards.pokellector.com/351/Baltoy.S12.47.45219.png",
+      "rarity": "Common",
+      "cardNum": "47/98"
+    },
+    {
+      "name": "Claydol",
+      "set": "Paradigm Trigger",
+      "img": "https://den-cards.pokellector.com/351/Claydol.S12.48.45220.png",
+      "rarity": "Uncommon",
+      "cardNum": "48/98"
+    },
+    {
+      "name": "Anorith",
+      "set": "Paradigm Trigger",
+      "img": "https://den-cards.pokellector.com/351/Anorith.S12.49.45221.png",
+      "rarity": "Common",
+      "cardNum": "49/98"
+    },
+    {
+      "name": "Armaldo",
+      "set": "Paradigm Trigger",
+      "img": "https://den-cards.pokellector.com/351/Armaldo.S12.50.45222.png",
+      "rarity": "Uncommon",
+      "cardNum": "50/98"
+    },
+    {
+      "name": "Terrakion",
+      "set": "Paradigm Trigger",
+      "img": "https://den-cards.pokellector.com/351/Terrakion.S12.51.45162.png",
+      "rarity": "Rare",
+      "cardNum": "51/98"
+    },
+    {
+      "name": "Pancham",
+      "set": "Paradigm Trigger",
+      "img": "https://den-cards.pokellector.com/351/Pancham.S12.52.45223.png",
+      "rarity": "Common",
+      "cardNum": "52/98"
+    },
+    {
+      "name": "Rockruff",
+      "set": "Paradigm Trigger",
+      "img": "https://den-cards.pokellector.com/351/Rockruff.S12.53.45224.png",
+      "rarity": "Common",
+      "cardNum": "53/98"
+    },
+    {
+      "name": "Lycanroc",
+      "set": "Paradigm Trigger",
+      "img": "https://den-cards.pokellector.com/351/Lycanroc.S12.54.45225.png",
+      "rarity": "Uncommon",
+      "cardNum": "54/98"
+    },
+    {
+      "name": "Stonjourner",
+      "set": "Paradigm Trigger",
+      "img": "https://den-cards.pokellector.com/351/Stonjourner.S12.55.45226.png",
+      "rarity": "Uncommon",
+      "cardNum": "55/98"
+    },
+    {
+      "name": "Skuntank V",
+      "set": "Paradigm Trigger",
+      "img": "https://den-cards.pokellector.com/351/Skuntank-V.S12.56.45181.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "56/98"
+    },
+    {
+      "name": "Purrloin",
+      "set": "Paradigm Trigger",
+      "img": "https://den-cards.pokellector.com/351/Purrloin.S12.57.45227.png",
+      "rarity": "Common",
+      "cardNum": "57/98"
+    },
+    {
+      "name": "Liepard",
+      "set": "Paradigm Trigger",
+      "img": "https://den-cards.pokellector.com/351/Liepard.S12.58.45228.png",
+      "rarity": "Uncommon",
+      "cardNum": "58/98"
+    },
+    {
+      "name": "Pangoro",
+      "set": "Paradigm Trigger",
+      "img": "https://den-cards.pokellector.com/351/Pangoro.S12.59.45229.png",
+      "rarity": "Uncommon",
+      "cardNum": "59/98"
+    },
+    {
+      "name": "Skrelp",
+      "set": "Paradigm Trigger",
+      "img": "https://den-cards.pokellector.com/351/Skrelp.S12.60.45230.png",
+      "rarity": "Common",
+      "cardNum": "60/98"
+    },
+    {
+      "name": "Dragalge",
+      "set": "Paradigm Trigger",
+      "img": "https://den-cards.pokellector.com/351/Dragalge.S12.61.45231.png",
+      "rarity": "Uncommon",
+      "cardNum": "61/98"
+    },
+    {
+      "name": "Morpeko",
+      "set": "Paradigm Trigger",
+      "img": "https://den-cards.pokellector.com/351/Morpeko.S13.62.45150.png",
+      "rarity": "Common",
+      "cardNum": "62/98"
+    },
+    {
+      "name": "Galarian Meowth",
+      "set": "Paradigm Trigger",
+      "img": "https://den-cards.pokellector.com/351/Galarian-Meowth.S12.63.45232.png",
+      "rarity": "Common",
+      "cardNum": "63/98"
+    },
+    {
+      "name": "Galarian Perrserker",
+      "set": "Paradigm Trigger",
+      "img": "https://den-cards.pokellector.com/351/Galarian-Perrserker.S12.64.45233.png",
+      "rarity": "Uncommon",
+      "cardNum": "64/98"
+    },
+    {
+      "name": "Aron",
+      "set": "Paradigm Trigger",
+      "img": "https://den-cards.pokellector.com/351/Aron.S12.65.45234.png",
+      "rarity": "Common",
+      "cardNum": "65/98"
+    },
+    {
+      "name": "Lairon",
+      "set": "Paradigm Trigger",
+      "img": "https://den-cards.pokellector.com/351/Lairon.S12.66.45235.png",
+      "rarity": "Uncommon",
+      "cardNum": "66/98"
+    },
+    {
+      "name": "Aggron",
+      "set": "Paradigm Trigger",
+      "img": "https://den-cards.pokellector.com/351/Aggron.S12.67.45236.png",
+      "rarity": "Rare",
+      "cardNum": "67/98"
+    },
+    {
+      "name": "Cobalion",
+      "set": "Paradigm Trigger",
+      "img": "https://den-cards.pokellector.com/351/Cobalion.S12.68.45160.png",
+      "rarity": "Common",
+      "cardNum": "68/98"
+    },
+    {
+      "name": "Togedemaru",
+      "set": "Paradigm Trigger",
+      "img": "https://den-cards.pokellector.com/351/Togedemaru.S13.69.45147.png",
+      "rarity": "Common",
+      "cardNum": "69/98"
+    },
+    {
+      "name": "Dratini",
+      "set": "Paradigm Trigger",
+      "img": "https://den-cards.pokellector.com/351/Dratini.S12.70.45237.png",
+      "rarity": "Common",
+      "cardNum": "70/98"
+    },
+    {
+      "name": "Dragonair",
+      "set": "Paradigm Trigger",
+      "img": "https://den-cards.pokellector.com/351/Dragonair.S12.71.45238.png",
+      "rarity": "Uncommon",
+      "cardNum": "71/98"
+    },
+    {
+      "name": "Dragonite",
+      "set": "Paradigm Trigger",
+      "img": "https://den-cards.pokellector.com/351/Dragonite.S12.72.45239.png",
+      "rarity": "Rare",
+      "cardNum": "72/98"
+    },
+    {
+      "name": "Noibat",
+      "set": "Paradigm Trigger",
+      "img": "https://den-cards.pokellector.com/351/Noibat.S12.73.45240.png",
+      "rarity": "Common",
+      "cardNum": "73/98"
+    },
+    {
+      "name": "Noivern",
+      "set": "Paradigm Trigger",
+      "img": "https://den-cards.pokellector.com/351/Noivern.S12.74.45241.png",
+      "rarity": "Uncommon",
+      "cardNum": "74/98"
+    },
+    {
+      "name": "Zygarde",
+      "set": "Paradigm Trigger",
+      "img": "https://den-cards.pokellector.com/351/Zygarde.S12.75.45242.png",
+      "rarity": "Common",
+      "cardNum": "75/98"
+    },
+    {
+      "name": "Regidrago V",
+      "set": "Paradigm Trigger",
+      "img": "https://den-cards.pokellector.com/351/Regidrago-V.S12.76.45173.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "76/98"
+    },
+    {
+      "name": "Regidrago VSTAR",
+      "set": "Paradigm Trigger",
+      "img": "https://den-cards.pokellector.com/351/Regidrago-VSTAR.S12.77.45175.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "77/98"
+    },
+    {
+      "name": "Tauros",
+      "set": "Paradigm Trigger",
+      "img": "https://den-cards.pokellector.com/351/Tauros.S12.78.45243.png",
+      "rarity": "Uncommon",
+      "cardNum": "78/98"
+    },
+    {
+      "name": "Lugia V",
+      "set": "Paradigm Trigger",
+      "img": "https://den-cards.pokellector.com/351/Lugia-V.S13.79.45134.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "79/98"
+    },
+    {
+      "name": "Lugia VSTAR",
+      "set": "Paradigm Trigger",
+      "img": "https://den-cards.pokellector.com/351/Lugia-VSTAR.S13.80.45135.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "80/98"
+    },
+    {
+      "name": "Shaymin",
+      "set": "Paradigm Trigger",
+      "img": "https://den-cards.pokellector.com/351/Shaymin.S12.81.45244.png",
+      "rarity": "Common",
+      "cardNum": "81/98"
+    },
+    {
+      "name": "Archen",
+      "set": "Paradigm Trigger",
+      "img": "https://den-cards.pokellector.com/351/Archen.S13.82.45137.png",
+      "rarity": "Common",
+      "cardNum": "82/98"
+    },
+    {
+      "name": "Archeops",
+      "set": "Paradigm Trigger",
+      "img": "https://den-cards.pokellector.com/351/Archeops.S13.83.45136.png",
+      "rarity": "Rare",
+      "cardNum": "83/98"
+    },
+    {
+      "name": "Rufflet",
+      "set": "Paradigm Trigger",
+      "img": "https://den-cards.pokellector.com/351/Rufflet.S12.84.45245.png",
+      "rarity": "Common",
+      "cardNum": "84/98"
+    },
+    {
+      "name": "Hisuian Braviary",
+      "set": "Paradigm Trigger",
+      "img": "https://den-cards.pokellector.com/351/Hisuian-Braviary.S12.85.45246.png",
+      "rarity": "Uncommon",
+      "cardNum": "85/98"
+    },
+    {
+      "name": "Yungoos",
+      "set": "Paradigm Trigger",
+      "img": "https://den-cards.pokellector.com/351/Yungoos.S12.86.45247.png",
+      "rarity": "Common",
+      "cardNum": "86/98"
+    },
+    {
+      "name": "Gumshoos",
+      "set": "Paradigm Trigger",
+      "img": "https://den-cards.pokellector.com/351/Gumshoos.S12.87.45248.png",
+      "rarity": "Uncommon",
+      "cardNum": "87/98"
+    },
+    {
+      "name": "Oranguru",
+      "set": "Paradigm Trigger",
+      "img": "https://den-cards.pokellector.com/351/Oranguru.S12.88.45249.png",
+      "rarity": "Common",
+      "cardNum": "88/98"
+    },
+    {
+      "name": "Quad Stone",
+      "set": "Paradigm Trigger",
+      "img": "https://den-cards.pokellector.com/351/Quad-Stone.S12.89.45250.png",
+      "rarity": "Uncommon",
+      "cardNum": "89/98"
+    },
+    {
+      "name": "Unidentified Fossil",
+      "set": "Paradigm Trigger",
+      "img": "https://den-cards.pokellector.com/351/Unidentified-Fossil.S13.90.45138.png",
+      "rarity": "Common",
+      "cardNum": "90/98"
+    },
+    {
+      "name": "Earth Tablet",
+      "set": "Paradigm Trigger",
+      "img": "https://den-cards.pokellector.com/351/Earth-Tablet.S13.91.45145.png",
+      "rarity": "Rare",
+      "cardNum": "91/98"
+    },
+    {
+      "name": "Grove Tablet",
+      "set": "Paradigm Trigger",
+      "img": "https://den-cards.pokellector.com/351/Grove-Tablet.S13.92.45146.png",
+      "rarity": "Rare",
+      "cardNum": "92/98"
+    },
+    {
+      "name": "Worker",
+      "set": "Paradigm Trigger",
+      "img": "https://den-cards.pokellector.com/351/Worker.S12.93.45251.png",
+      "rarity": "Uncommon",
+      "cardNum": "93/98"
+    },
+    {
+      "name": "Brandon",
+      "set": "Paradigm Trigger",
+      "img": "https://den-cards.pokellector.com/351/Brandon.S12.94.45252.png",
+      "rarity": "Uncommon",
+      "cardNum": "94/98"
+    },
+    {
+      "name": "Candice",
+      "set": "Paradigm Trigger",
+      "img": "https://den-cards.pokellector.com/351/Candice.S12.95.45180.png",
+      "rarity": "Uncommon",
+      "cardNum": "95/98"
+    },
+    {
+      "name": "Lance",
+      "set": "Paradigm Trigger",
+      "img": "https://den-cards.pokellector.com/351/Lance.S12.96.45253.png",
+      "rarity": "Uncommon",
+      "cardNum": "96/98"
+    },
+    {
+      "name": "Lost Altar",
+      "set": "Paradigm Trigger",
+      "img": "https://den-cards.pokellector.com/351/Lost-Altar.S12.97.45254.png",
+      "rarity": "Uncommon",
+      "cardNum": "97/98"
+    },
+    {
+      "name": "Regain Energy",
+      "set": "Paradigm Trigger",
+      "img": "https://den-cards.pokellector.com/351/Regain-Energy.S12.98.45163.png",
+      "rarity": "Uncommon",
+      "cardNum": "98/98"
+    },
+    {
+      "name": "Chesnaught V",
+      "set": "Paradigm Trigger",
+      "img": "https://den-cards.pokellector.com/351/Chesnaught-V.S12.99.45267.png",
+      "rarity": "Secret Rare",
+      "cardNum": "99/98"
+    },
+    {
+      "name": "Omastar V",
+      "set": "Paradigm Trigger",
+      "img": "https://den-cards.pokellector.com/351/Omastar-V.S12.100.45169.png",
+      "rarity": "Secret Rare",
+      "cardNum": "100/98"
+    },
+    {
+      "name": "Regieleki V",
+      "set": "Paradigm Trigger",
+      "img": "https://den-cards.pokellector.com/351/Regieleki.S12.101.45171.png",
+      "rarity": "Secret Rare",
+      "cardNum": "101/98"
+    },
+    {
+      "name": "Unown V",
+      "set": "Paradigm Trigger",
+      "img": "https://den-cards.pokellector.com/351/Unown-V.S13.102.45132.png",
+      "rarity": "Secret Rare",
+      "cardNum": "102/98"
+    },
+    {
+      "name": "Unown V",
+      "set": "Paradigm Trigger",
+      "img": "https://den-cards.pokellector.com/351/Unown-V.S12.103.45284.png",
+      "rarity": "Secret Rare",
+      "cardNum": "103/98"
+    },
+    {
+      "name": "Hisuian Arcanine V",
+      "set": "Paradigm Trigger",
+      "img": "https://den-cards.pokellector.com/351/Hisuian-Arcanine-V.S12.104.45285.png",
+      "rarity": "Secret Rare",
+      "cardNum": "104/98"
+    },
+    {
+      "name": "Skuntank V",
+      "set": "Paradigm Trigger",
+      "img": "https://den-cards.pokellector.com/351/Skuntank-V.S12.105.45268.png",
+      "rarity": "Secret Rare",
+      "cardNum": "105/98"
+    },
+    {
+      "name": "Skuntank V",
+      "set": "Paradigm Trigger",
+      "img": "https://den-cards.pokellector.com/351/Skuntank-V.S12.106.45269.png",
+      "rarity": "Secret Rare",
+      "cardNum": "106/98"
+    },
+    {
+      "name": "Regidrago V",
+      "set": "Paradigm Trigger",
+      "img": "https://den-cards.pokellector.com/351/Regidrago.S12.107.45170.png",
+      "rarity": "Secret Rare",
+      "cardNum": "107/98"
+    },
+    {
+      "name": "Regidrago V",
+      "set": "Paradigm Trigger",
+      "img": "https://den-cards.pokellector.com/351/Regidrago-V.S12.108.45191.png",
+      "rarity": "Secret Rare",
+      "cardNum": "108/98"
+    },
+    {
+      "name": "Lugia V",
+      "set": "Paradigm Trigger",
+      "img": "https://den-cards.pokellector.com/351/Lugia-V.S13.109.45133.png",
+      "rarity": "Secret Rare",
+      "cardNum": "109/98"
+    },
+    {
+      "name": "Lugia V",
+      "set": "Paradigm Trigger",
+      "img": "https://den-cards.pokellector.com/351/Lugia-V.S12.110.45190.png",
+      "rarity": "Secret Rare",
+      "cardNum": "110/98"
+    },
+    {
+      "name": "Worker",
+      "set": "Paradigm Trigger",
+      "img": "https://den-cards.pokellector.com/351/Worker.S12.111.45192.png",
+      "rarity": "Secret Rare",
+      "cardNum": "111/98"
+    },
+    {
+      "name": "Brandon",
+      "set": "Paradigm Trigger",
+      "img": "https://den-cards.pokellector.com/351/Brandon.S12.112.45270.png",
+      "rarity": "Secret Rare",
+      "cardNum": "112/98"
+    },
+    {
+      "name": "Candice",
+      "set": "Paradigm Trigger",
+      "img": "https://den-cards.pokellector.com/351/Candice.S12.113.45271.png",
+      "rarity": "Secret Rare",
+      "cardNum": "113/98"
+    },
+    {
+      "name": "Lance",
+      "set": "Paradigm Trigger",
+      "img": "https://den-cards.pokellector.com/351/Lance.S12.114.45272.png",
+      "rarity": "Secret Rare",
+      "cardNum": "114/98"
+    },
+    {
+      "name": "Regieleki VMAX",
+      "set": "Paradigm Trigger",
+      "img": "https://den-cards.pokellector.com/351/Regieleki-VMAX.S12.115.45273.png",
+      "rarity": "Secret Rare",
+      "cardNum": "115/98"
+    },
+    {
+      "name": "Unown VSTAR",
+      "set": "Paradigm Trigger",
+      "img": "https://den-cards.pokellector.com/351/Unown-VSTAR.S12.116.45274.png",
+      "rarity": "Secret Rare",
+      "cardNum": "116/98"
+    },
+    {
+      "name": "Regidrago VSTAR",
+      "set": "Paradigm Trigger",
+      "img": "https://den-cards.pokellector.com/351/Regidrago-VSTAR.S12.117.45275.png",
+      "rarity": "Secret Rare",
+      "cardNum": "117/98"
+    },
+    {
+      "name": "Lugia VSTAR",
+      "set": "Paradigm Trigger",
+      "img": "https://den-cards.pokellector.com/351/Lugia-VSTAR.S12.118.45276.png",
+      "rarity": "Secret Rare",
+      "cardNum": "118/98"
+    },
+    {
+      "name": "Worker",
+      "set": "Paradigm Trigger",
+      "img": "https://den-cards.pokellector.com/351/Worker.S12.119.45277.png",
+      "rarity": "Secret Rare",
+      "cardNum": "119/98"
+    },
+    {
+      "name": "Brandon",
+      "set": "Paradigm Trigger",
+      "img": "https://den-cards.pokellector.com/351/Brandon.S12.120.45278.png",
+      "rarity": "Secret Rare",
+      "cardNum": "120/98"
+    },
+    {
+      "name": "Candice",
+      "set": "Paradigm Trigger",
+      "img": "https://den-cards.pokellector.com/351/Candice.S12.121.45279.png",
+      "rarity": "Secret Rare",
+      "cardNum": "121/98"
+    },
+    {
+      "name": "Lance",
+      "set": "Paradigm Trigger",
+      "img": "https://den-cards.pokellector.com/351/Lance.S12.122.45280.png",
+      "rarity": "Secret Rare",
+      "cardNum": "122/98"
+    },
+    {
+      "name": "Lugia VSTAR",
+      "set": "Paradigm Trigger",
+      "img": "https://den-cards.pokellector.com/351/Lugia-VSTAR.S12.123.45281.png",
+      "rarity": "Secret Rare",
+      "cardNum": "123/98"
+    },
+    {
+      "name": "Leafy Poncho",
+      "set": "Paradigm Trigger",
+      "img": "https://den-cards.pokellector.com/351/Leafy-Poncho.S12.124.45282.png",
+      "rarity": "Secret Rare",
+      "cardNum": "124/98"
+    },
+    {
+      "name": "Gapejaw Bog",
+      "set": "Paradigm Trigger",
+      "img": "https://den-cards.pokellector.com/351/Gapejaw-Bog.S12.125.45283.png",
+      "rarity": "Secret Rare",
+      "cardNum": "125/98"
+    }
+  ]
+}

@@ -1,0 +1,530 @@
+{
+  "setName": "Sword",
+  "cards": [
+    {
+      "name": "Roselia",
+      "set": "Sword",
+      "img": "https://den-cards.pokellector.com/283/Roselia.S1W.1.31221.png",
+      "rarity": "Common",
+      "cardNum": "1/60"
+    },
+    {
+      "name": "Roserade",
+      "set": "Sword",
+      "img": "https://den-cards.pokellector.com/283/Roserade.S1W.2.31222.png",
+      "rarity": "Uncommon",
+      "cardNum": "2/60"
+    },
+    {
+      "name": "Maractus",
+      "set": "Sword",
+      "img": "https://den-cards.pokellector.com/283/Maractus.S1W.3.31223.png",
+      "rarity": "Common",
+      "cardNum": "3/60"
+    },
+    {
+      "name": "Dhelmise V",
+      "set": "Sword",
+      "img": "https://den-cards.pokellector.com/283/Dhelmise-V.S1W.4.31224.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "4/60"
+    },
+    {
+      "name": "Grookey",
+      "set": "Sword",
+      "img": "https://den-cards.pokellector.com/283/Grookey.S1W.5.31225.png",
+      "rarity": "Common",
+      "cardNum": "5/60"
+    },
+    {
+      "name": "Thwackey",
+      "set": "Sword",
+      "img": "https://den-cards.pokellector.com/283/Thwackey.S1W.6.31226.png",
+      "rarity": "Uncommon",
+      "cardNum": "6/60"
+    },
+    {
+      "name": "Rillaboom",
+      "set": "Sword",
+      "img": "https://den-cards.pokellector.com/283/Rillaboom.S1W.7.31196.png",
+      "rarity": "Rare",
+      "cardNum": "7/60"
+    },
+    {
+      "name": "Salandit",
+      "set": "Sword",
+      "img": "https://den-cards.pokellector.com/283/Salandit.S1W.8.31227.png",
+      "rarity": "Common",
+      "cardNum": "8/60"
+    },
+    {
+      "name": "Salazzle",
+      "set": "Sword",
+      "img": "https://den-cards.pokellector.com/283/Salazzle.S1W.9.31228.png",
+      "rarity": "Common",
+      "cardNum": "9/60"
+    },
+    {
+      "name": "Sizzlipede",
+      "set": "Sword",
+      "img": "https://den-cards.pokellector.com/283/Sizzlipede.S1W.10.31229.png",
+      "rarity": "Common",
+      "cardNum": "10/60"
+    },
+    {
+      "name": "Centiskorch",
+      "set": "Sword",
+      "img": "https://den-cards.pokellector.com/283/Centiskorch.S1W.11.31230.png",
+      "rarity": "Uncommon",
+      "cardNum": "11/60"
+    },
+    {
+      "name": "Krabby",
+      "set": "Sword",
+      "img": "https://den-cards.pokellector.com/283/Krabby.S1W.12.31231.png",
+      "rarity": "Common",
+      "cardNum": "12/60"
+    },
+    {
+      "name": "Kingler",
+      "set": "Sword",
+      "img": "https://den-cards.pokellector.com/283/Kingler.S1W.13.31232.png",
+      "rarity": "Common",
+      "cardNum": "13/60"
+    },
+    {
+      "name": "Lapras V",
+      "set": "Sword",
+      "img": "https://den-cards.pokellector.com/283/Lapras-V.S1W.14.31191.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "14/60"
+    },
+    {
+      "name": "Lapras V MAX",
+      "set": "Sword",
+      "img": "https://den-cards.pokellector.com/283/Lapras-V-MAX.S1W.15.31192.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "15/60"
+    },
+    {
+      "name": "Mantine",
+      "set": "Sword",
+      "img": "https://den-cards.pokellector.com/283/Mantine.S1W.16.31233.png",
+      "rarity": "Common",
+      "cardNum": "16/60"
+    },
+    {
+      "name": "Sobble",
+      "set": "Sword",
+      "img": "https://den-cards.pokellector.com/283/Sobble.S1W.17.31234.png",
+      "rarity": "Common",
+      "cardNum": "17/60"
+    },
+    {
+      "name": "Drizzile",
+      "set": "Sword",
+      "img": "https://den-cards.pokellector.com/283/Drizzile.S1W.18.31235.png",
+      "rarity": "Uncommon",
+      "cardNum": "18/60"
+    },
+    {
+      "name": "Inteleon",
+      "set": "Sword",
+      "img": "https://den-cards.pokellector.com/283/Inteleon.S1W.19.31197.png",
+      "rarity": "Rare",
+      "cardNum": "19/60"
+    },
+    {
+      "name": "Yamper",
+      "set": "Sword",
+      "img": "https://den-cards.pokellector.com/283/Yamper.S1W.20.31236.png",
+      "rarity": "Common",
+      "cardNum": "20/60"
+    },
+    {
+      "name": "Boltund",
+      "set": "Sword",
+      "img": "https://den-cards.pokellector.com/283/Boltund.S1W.21.31238.png",
+      "rarity": "Rare",
+      "cardNum": "21/60"
+    },
+    {
+      "name": "Pincurchin",
+      "set": "Sword",
+      "img": "https://den-cards.pokellector.com/283/Pincurchin.S1W.22.31237.png",
+      "rarity": "Common",
+      "cardNum": "22/60"
+    },
+    {
+      "name": "Gastly",
+      "set": "Sword",
+      "img": "https://den-cards.pokellector.com/283/Gastly.S1W.23.31239.png",
+      "rarity": "Common",
+      "cardNum": "23/60"
+    },
+    {
+      "name": "Haunter",
+      "set": "Sword",
+      "img": "https://den-cards.pokellector.com/283/Haunter.S1W.24.31240.png",
+      "rarity": "Uncommon",
+      "cardNum": "24/60"
+    },
+    {
+      "name": "Gengar",
+      "set": "Sword",
+      "img": "https://den-cards.pokellector.com/283/Gengar.S1W.25.31241.png",
+      "rarity": "Rare",
+      "cardNum": "25/60"
+    },
+    {
+      "name": "Wobbuffet V",
+      "set": "Sword",
+      "img": "https://den-cards.pokellector.com/283/Wobbuffet-V.S1W.26.31242.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "26/60"
+    },
+    {
+      "name": "Sinistea",
+      "set": "Sword",
+      "img": "https://den-cards.pokellector.com/283/Sinistea.S1W.27.31243.png",
+      "rarity": "Common",
+      "cardNum": "27/60"
+    },
+    {
+      "name": "Polteageist",
+      "set": "Sword",
+      "img": "https://den-cards.pokellector.com/283/Polteageist.S1W.28.31244.png",
+      "rarity": "Uncommon",
+      "cardNum": "28/60"
+    },
+    {
+      "name": "Sudowoodo",
+      "set": "Sword",
+      "img": "https://den-cards.pokellector.com/283/Sudowoodo.S1W.29.31245.png",
+      "rarity": "Common",
+      "cardNum": "29/60"
+    },
+    {
+      "name": "Baltoy",
+      "set": "Sword",
+      "img": "https://den-cards.pokellector.com/283/Baltoy.S1W.30.31246.png",
+      "rarity": "Common",
+      "cardNum": "30/60"
+    },
+    {
+      "name": "Claydol",
+      "set": "Sword",
+      "img": "https://den-cards.pokellector.com/283/Claydol.S1W.31.31247.png",
+      "rarity": "Uncommon",
+      "cardNum": "31/60"
+    },
+    {
+      "name": "Clobbopus",
+      "set": "Sword",
+      "img": "https://den-cards.pokellector.com/283/Clobbopus.S1W.32.31248.png",
+      "rarity": "Common",
+      "cardNum": "32/60"
+    },
+    {
+      "name": "Grapploct",
+      "set": "Sword",
+      "img": "https://den-cards.pokellector.com/283/Grapploct.S1W.33.31249.png",
+      "rarity": "Uncommon",
+      "cardNum": "33/60"
+    },
+    {
+      "name": "Stonjourner V",
+      "set": "Sword",
+      "img": "https://den-cards.pokellector.com/283/Stonjourner-V.S1W.34.31195.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "34/60"
+    },
+    {
+      "name": "Stonjourner V MAX",
+      "set": "Sword",
+      "img": "https://den-cards.pokellector.com/283/Stonjourner-V-MAX.S1W.35.31250.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "35/60"
+    },
+    {
+      "name": "Croagunk",
+      "set": "Sword",
+      "img": "https://den-cards.pokellector.com/283/Croagunk.S1W.36.31251.png",
+      "rarity": "Common",
+      "cardNum": "36/60"
+    },
+    {
+      "name": "Toxicroak",
+      "set": "Sword",
+      "img": "https://den-cards.pokellector.com/283/Toxicroak.S1W.37.31252.png",
+      "rarity": "Rare",
+      "cardNum": "37/60"
+    },
+    {
+      "name": "Nickit",
+      "set": "Sword",
+      "img": "https://den-cards.pokellector.com/283/Nickit.S1W.38.31253.png",
+      "rarity": "Common",
+      "cardNum": "38/60"
+    },
+    {
+      "name": "Thievul",
+      "set": "Sword",
+      "img": "https://den-cards.pokellector.com/283/Thievul.S1W.39.31254.png",
+      "rarity": "Uncommon",
+      "cardNum": "39/60"
+    },
+    {
+      "name": "Galarian Meowth",
+      "set": "Sword",
+      "img": "https://den-cards.pokellector.com/283/Galarian-Meowth.S1W.40.31255.png",
+      "rarity": "Common",
+      "cardNum": "40/60"
+    },
+    {
+      "name": "Galarian Perrserker",
+      "set": "Sword",
+      "img": "https://den-cards.pokellector.com/283/Galarian-Perrserker.S1W.41.31256.png",
+      "rarity": "Rare",
+      "cardNum": "41/60"
+    },
+    {
+      "name": "Ferroseed",
+      "set": "Sword",
+      "img": "https://den-cards.pokellector.com/283/Ferroseed.S1W.42.31257.png",
+      "rarity": "Common",
+      "cardNum": "42/60"
+    },
+    {
+      "name": "Ferrothorn",
+      "set": "Sword",
+      "img": "https://den-cards.pokellector.com/283/Ferrothorn.S1W.43.31258.png",
+      "rarity": "Common",
+      "cardNum": "43/60"
+    },
+    {
+      "name": "Galarian Stunfisk",
+      "set": "Sword",
+      "img": "https://den-cards.pokellector.com/283/Galarian-Stunfisk.S1W.44.31259.png",
+      "rarity": "Common",
+      "cardNum": "44/60"
+    },
+    {
+      "name": "Corviknight",
+      "set": "Sword",
+      "img": "https://den-cards.pokellector.com/283/Corviknight.S1W.45.31260.png",
+      "rarity": "Uncommon",
+      "cardNum": "45/60"
+    },
+    {
+      "name": "Zacian V",
+      "set": "Sword",
+      "img": "https://den-cards.pokellector.com/283/Zacian-V.S1W.46.31193.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "46/60"
+    },
+    {
+      "name": "Mincinno",
+      "set": "Sword",
+      "img": "https://den-cards.pokellector.com/283/Mincinno.S1W.47.31261.png",
+      "rarity": "Common",
+      "cardNum": "47/60"
+    },
+    {
+      "name": "Cinccino",
+      "set": "Sword",
+      "img": "https://den-cards.pokellector.com/283/Cinccino.S1W.48.31262.png",
+      "rarity": "Uncommon",
+      "cardNum": "48/60"
+    },
+    {
+      "name": "Rookidee",
+      "set": "Sword",
+      "img": "https://den-cards.pokellector.com/283/Rookidee.S1W.49.31263.png",
+      "rarity": "Common",
+      "cardNum": "49/60"
+    },
+    {
+      "name": "Corvisquire",
+      "set": "Sword",
+      "img": "https://den-cards.pokellector.com/283/Corvisquire.S1W.50.31264.png",
+      "rarity": "Common",
+      "cardNum": "50/60"
+    },
+    {
+      "name": "Cramorant V",
+      "set": "Sword",
+      "img": "https://den-cards.pokellector.com/283/Cramorant-V.S1W.51.31265.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "51/60"
+    },
+    {
+      "name": "Evolution Incense",
+      "set": "Sword",
+      "img": "https://den-cards.pokellector.com/283/Evolution-Incense.S1W.52.31266.png",
+      "rarity": "Uncommon",
+      "cardNum": "52/60"
+    },
+    {
+      "name": "Hyper Potion",
+      "set": "Sword",
+      "img": "https://den-cards.pokellector.com/283/Hyper-Potion.S1W.53.31267.png",
+      "rarity": "Uncommon",
+      "cardNum": "53/60"
+    },
+    {
+      "name": "Fishing Rod",
+      "set": "Sword",
+      "img": "https://den-cards.pokellector.com/283/Fishing-Rod.S1W.54.31206.png",
+      "rarity": "Uncommon",
+      "cardNum": "54/60"
+    },
+    {
+      "name": "Rotom Bike",
+      "set": "Sword",
+      "img": "https://den-cards.pokellector.com/283/Rotom-Bike.S1W.55.31268.png",
+      "rarity": "Uncommon",
+      "cardNum": "55/60"
+    },
+    {
+      "name": "Giant Charm",
+      "set": "Sword",
+      "img": "https://den-cards.pokellector.com/283/Giant-Charm.S1W.56.31269.png",
+      "rarity": "Uncommon",
+      "cardNum": "56/60"
+    },
+    {
+      "name": "Air Balloon",
+      "set": "Sword",
+      "img": "https://den-cards.pokellector.com/283/Air-Balloon.S1W.57.31270.png",
+      "rarity": "Uncommon",
+      "cardNum": "57/60"
+    },
+    {
+      "name": "Lum Berry",
+      "set": "Sword",
+      "img": "https://den-cards.pokellector.com/283/Lum-Berry.S1W.58.31271.png",
+      "rarity": "Uncommon",
+      "cardNum": "58/60"
+    },
+    {
+      "name": "Professor's Research",
+      "set": "Sword",
+      "img": "https://den-cards.pokellector.com/283/Professors-Research.S1W.59.31208.png",
+      "rarity": "Uncommon",
+      "cardNum": "59/60"
+    },
+    {
+      "name": "Bede",
+      "set": "Sword",
+      "img": "https://den-cards.pokellector.com/283/Bede.S1W.60.31207.png",
+      "rarity": "Uncommon",
+      "cardNum": "60/60"
+    },
+    {
+      "name": "Dhelmise V",
+      "set": "Sword",
+      "img": "https://den-cards.pokellector.com/283/Dhelmise-V.S1W.61.31350.png",
+      "rarity": "Secret Rare",
+      "cardNum": "61/60"
+    },
+    {
+      "name": "Lapras V",
+      "set": "Sword",
+      "img": "https://den-cards.pokellector.com/283/Lapras-V.S1W.62.31360.png",
+      "rarity": "Secret Rare",
+      "cardNum": "62/60"
+    },
+    {
+      "name": "Wobbuffet V",
+      "set": "Sword",
+      "img": "https://den-cards.pokellector.com/283/Wobbuffet-V.S1W.63.31355.png",
+      "rarity": "Secret Rare",
+      "cardNum": "63/60"
+    },
+    {
+      "name": "Stonjourner V",
+      "set": "Sword",
+      "img": "https://den-cards.pokellector.com/283/Stonjourner-V.S1W.64.31352.png",
+      "rarity": "Secret Rare",
+      "cardNum": "64/60"
+    },
+    {
+      "name": "Zacian V",
+      "set": "Sword",
+      "img": "https://den-cards.pokellector.com/283/Zacian-V.S1W.65.31353.png",
+      "rarity": "Secret Rare",
+      "cardNum": "65/60"
+    },
+    {
+      "name": "Cramorant V",
+      "set": "Sword",
+      "img": "https://den-cards.pokellector.com/283/Cramorant-V.S1W.66.31356.png",
+      "rarity": "Secret Rare",
+      "cardNum": "66/60"
+    },
+    {
+      "name": "Professor's Research",
+      "set": "Sword",
+      "img": "https://den-cards.pokellector.com/283/Professors-Research.S1W.67.31220.png",
+      "rarity": "Secret Rare",
+      "cardNum": "67/60"
+    },
+    {
+      "name": "Bede",
+      "set": "Sword",
+      "img": "https://den-cards.pokellector.com/283/Bede.S1W.68.31348.png",
+      "rarity": "Secret Rare",
+      "cardNum": "68/60"
+    },
+    {
+      "name": "Lapras VMAX",
+      "set": "Sword",
+      "img": "https://den-cards.pokellector.com/283/Lapras-VMAX.S1W.69.31371.png",
+      "rarity": "Secret Rare",
+      "cardNum": "69/60"
+    },
+    {
+      "name": "Sonjourner VMAX",
+      "set": "Sword",
+      "img": "https://den-cards.pokellector.com/283/Sonjourner-VMAX.S1W.70.31373.png",
+      "rarity": "Secret Rare",
+      "cardNum": "70/60"
+    },
+    {
+      "name": "Professor's Research",
+      "set": "Sword",
+      "img": "https://den-cards.pokellector.com/283/Professors-Research.S1W.71.31372.png",
+      "rarity": "Secret Rare",
+      "cardNum": "71/60"
+    },
+    {
+      "name": "Bede",
+      "set": "Sword",
+      "img": "https://den-cards.pokellector.com/283/Bede.S1W.72.31370.png",
+      "rarity": "Secret Rare",
+      "cardNum": "72/60"
+    },
+    {
+      "name": "Zacian V",
+      "set": "Sword",
+      "img": "https://den-cards.pokellector.com/283/Zacian-V.S1W.73.31378.png",
+      "rarity": "Secret Rare",
+      "cardNum": "73/60"
+    },
+    {
+      "name": "Fishing Rod",
+      "set": "Sword",
+      "img": "https://den-cards.pokellector.com/283/Fishing-Rod.S1W.74.31365.png",
+      "rarity": "Secret Rare",
+      "cardNum": "74/60"
+    },
+    {
+      "name": "Paper Balloon",
+      "set": "Sword",
+      "img": "https://den-cards.pokellector.com/283/Paper-Balloon.S1W.75.31367.png",
+      "rarity": "Secret Rare",
+      "cardNum": "75/60"
+    }
+  ]
+}

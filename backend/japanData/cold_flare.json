@@ -1,0 +1,460 @@
+{
+  "setName": "Cold Flare",
+  "cards": [
+    {
+      "name": "Tangela",
+      "set": "Cold Flare",
+      "img": "https://den-cards.pokellector.com/23/Tangela.BW6.1.png",
+      "rarity": "Common",
+      "cardNum": "1/59"
+    },
+    {
+      "name": "Tangrowth",
+      "set": "Cold Flare",
+      "img": "https://den-cards.pokellector.com/23/Tangrowth.BW6.2.png",
+      "rarity": "Rare",
+      "cardNum": "2/59"
+    },
+    {
+      "name": "Scyther",
+      "set": "Cold Flare",
+      "img": "https://den-cards.pokellector.com/23/Scyther.BW6.3.png",
+      "rarity": "Common",
+      "cardNum": "3/59"
+    },
+    {
+      "name": "Celebi EX",
+      "set": "Cold Flare",
+      "img": "https://den-cards.pokellector.com/23/Celebi-EX.BW6.4.png",
+      "rarity": "Rare",
+      "cardNum": "4/59"
+    },
+    {
+      "name": "Sewaddle",
+      "set": "Cold Flare",
+      "img": "https://den-cards.pokellector.com/23/Sewaddle.BW6.5.png",
+      "rarity": "Common",
+      "cardNum": "5/59"
+    },
+    {
+      "name": "Swadloon",
+      "set": "Cold Flare",
+      "img": "https://den-cards.pokellector.com/23/Swadloon.BW6.6.png",
+      "rarity": "Common",
+      "cardNum": "6/59"
+    },
+    {
+      "name": "Leavanny",
+      "set": "Cold Flare",
+      "img": "https://den-cards.pokellector.com/23/Leavanny.BW6.7.png",
+      "rarity": "Uncommon",
+      "cardNum": "7/59"
+    },
+    {
+      "name": "Petilil",
+      "set": "Cold Flare",
+      "img": "https://den-cards.pokellector.com/23/Petilil.BW6.8.png",
+      "rarity": "Common",
+      "cardNum": "8/59"
+    },
+    {
+      "name": "Lilligant",
+      "set": "Cold Flare",
+      "img": "https://den-cards.pokellector.com/23/Lilligant.BW6.9.png",
+      "rarity": "Uncommon",
+      "cardNum": "9/59"
+    },
+    {
+      "name": "Numel",
+      "set": "Cold Flare",
+      "img": "https://den-cards.pokellector.com/23/Numel.BW6.10.png",
+      "rarity": "Common",
+      "cardNum": "10/59"
+    },
+    {
+      "name": "Camerupt",
+      "set": "Cold Flare",
+      "img": "https://den-cards.pokellector.com/23/Camerupt.BW6.11.png",
+      "rarity": "Uncommon",
+      "cardNum": "11/59"
+    },
+    {
+      "name": "Squirtle",
+      "set": "Cold Flare",
+      "img": "https://den-cards.pokellector.com/23/Squirtle.BW6.12.png",
+      "rarity": "Common",
+      "cardNum": "12/59"
+    },
+    {
+      "name": "Wartortle",
+      "set": "Cold Flare",
+      "img": "https://den-cards.pokellector.com/23/Wartortle.BW6.13.png",
+      "rarity": "Common",
+      "cardNum": "13/59"
+    },
+    {
+      "name": "Blastoise",
+      "set": "Cold Flare",
+      "img": "https://den-cards.pokellector.com/23/Blastoise.BW6.14.png",
+      "rarity": "Rare",
+      "cardNum": "14/59"
+    },
+    {
+      "name": "Psyduck",
+      "set": "Cold Flare",
+      "img": "https://den-cards.pokellector.com/23/Psyduck.BW6.15.png",
+      "rarity": "Common",
+      "cardNum": "15/59"
+    },
+    {
+      "name": "Golduck",
+      "set": "Cold Flare",
+      "img": "https://den-cards.pokellector.com/23/Golduck.BW6.16.png",
+      "rarity": "Uncommon",
+      "cardNum": "16/59"
+    },
+    {
+      "name": "Ducklett",
+      "set": "Cold Flare",
+      "img": "https://den-cards.pokellector.com/23/Ducklett.BW6.17.png",
+      "rarity": "Common",
+      "cardNum": "17/59"
+    },
+    {
+      "name": "Swanna",
+      "set": "Cold Flare",
+      "img": "https://den-cards.pokellector.com/23/Swanna.BW6.18.png",
+      "rarity": "Uncommon",
+      "cardNum": "18/59"
+    },
+    {
+      "name": "Keldeo EX",
+      "set": "Cold Flare",
+      "img": "https://den-cards.pokellector.com/23/Keldeo-EX.BW6.19.png",
+      "rarity": "Rare",
+      "cardNum": "19/59"
+    },
+    {
+      "name": "Electabuzz",
+      "set": "Cold Flare",
+      "img": "https://den-cards.pokellector.com/23/Electabuzz.BW6.20.png",
+      "rarity": "Common",
+      "cardNum": "20/59"
+    },
+    {
+      "name": "Electivire",
+      "set": "Cold Flare",
+      "img": "https://den-cards.pokellector.com/23/Electivire.BW6.21.png",
+      "rarity": "Rare",
+      "cardNum": "21/59"
+    },
+    {
+      "name": "Joltik",
+      "set": "Cold Flare",
+      "img": "https://den-cards.pokellector.com/23/Joltik.BW6.22.png",
+      "rarity": "Common",
+      "cardNum": "22/59"
+    },
+    {
+      "name": "Galvantula",
+      "set": "Cold Flare",
+      "img": "https://den-cards.pokellector.com/23/Galvantula.BW6.23.png",
+      "rarity": "Uncommon",
+      "cardNum": "23/59"
+    },
+    {
+      "name": "Duskull",
+      "set": "Cold Flare",
+      "img": "https://den-cards.pokellector.com/23/Duskull.BW6.24.png",
+      "rarity": "Common",
+      "cardNum": "24/59"
+    },
+    {
+      "name": "Dusclops",
+      "set": "Cold Flare",
+      "img": "https://den-cards.pokellector.com/23/Dusclops.BW6.25.png",
+      "rarity": "Uncommon",
+      "cardNum": "25/59"
+    },
+    {
+      "name": "Dusknoir",
+      "set": "Cold Flare",
+      "img": "https://den-cards.pokellector.com/23/Dusknoir.BW6.26.png",
+      "rarity": "Rare",
+      "cardNum": "26/59"
+    },
+    {
+      "name": "Croagunk",
+      "set": "Cold Flare",
+      "img": "https://den-cards.pokellector.com/23/Croagunk.BW6.27.png",
+      "rarity": "Common",
+      "cardNum": "27/59"
+    },
+    {
+      "name": "Toxicroak",
+      "set": "Cold Flare",
+      "img": "https://den-cards.pokellector.com/23/Toxicroak.BW6.28.png",
+      "rarity": "Uncommon",
+      "cardNum": "28/59"
+    },
+    {
+      "name": "Woobat",
+      "set": "Cold Flare",
+      "img": "https://den-cards.pokellector.com/23/Woobat.BW6.29.png",
+      "rarity": "Common",
+      "cardNum": "29/59"
+    },
+    {
+      "name": "Swoobat",
+      "set": "Cold Flare",
+      "img": "https://den-cards.pokellector.com/23/Swoobat.BW6.30.png",
+      "rarity": "Uncommon",
+      "cardNum": "30/59"
+    },
+    {
+      "name": "Sandshrew",
+      "set": "Cold Flare",
+      "img": "https://den-cards.pokellector.com/23/Sandshrew.BW6.31.png",
+      "rarity": "Common",
+      "cardNum": "31/59"
+    },
+    {
+      "name": "Sandslash",
+      "set": "Cold Flare",
+      "img": "https://den-cards.pokellector.com/23/Sandslash.BW6.32.png",
+      "rarity": "Common",
+      "cardNum": "32/59"
+    },
+    {
+      "name": "Solrock",
+      "set": "Cold Flare",
+      "img": "https://den-cards.pokellector.com/23/Solrock.BW6.33.png",
+      "rarity": "Uncommon",
+      "cardNum": "33/59"
+    },
+    {
+      "name": "Timburr",
+      "set": "Cold Flare",
+      "img": "https://den-cards.pokellector.com/23/Timburr.BW6.34.png",
+      "rarity": "Common",
+      "cardNum": "34/59"
+    },
+    {
+      "name": "Gurdurr",
+      "set": "Cold Flare",
+      "img": "https://den-cards.pokellector.com/23/Gurdurr.BW6.35.png",
+      "rarity": "Uncommon",
+      "cardNum": "35/59"
+    },
+    {
+      "name": "Conkeldurr",
+      "set": "Cold Flare",
+      "img": "https://den-cards.pokellector.com/23/Conkeldurr.BW6.36.png",
+      "rarity": "Uncommon",
+      "cardNum": "36/59"
+    },
+    {
+      "name": "Dwebble",
+      "set": "Cold Flare",
+      "img": "https://den-cards.pokellector.com/23/Dwebble.BW6.37.png",
+      "rarity": "Common",
+      "cardNum": "37/59"
+    },
+    {
+      "name": "Crustle",
+      "set": "Cold Flare",
+      "img": "https://den-cards.pokellector.com/23/Crustle.BW6.38.png",
+      "rarity": "Rare",
+      "cardNum": "38/59"
+    },
+    {
+      "name": "Scizor",
+      "set": "Cold Flare",
+      "img": "https://den-cards.pokellector.com/23/Scizor.BW6.39.png",
+      "rarity": "Rare",
+      "cardNum": "39/59"
+    },
+    {
+      "name": "Skarmory",
+      "set": "Cold Flare",
+      "img": "https://den-cards.pokellector.com/23/Skarmory.BW6.40.png",
+      "rarity": "Common",
+      "cardNum": "40/59"
+    },
+    {
+      "name": "White Kyurem EX",
+      "set": "Cold Flare",
+      "img": "https://den-cards.pokellector.com/23/White-Kyurem-EX.BW6.41.png",
+      "rarity": "Rare",
+      "cardNum": "41/59"
+    },
+    {
+      "name": "Ditto",
+      "set": "Cold Flare",
+      "img": "https://den-cards.pokellector.com/23/Ditto.BW6.42.png",
+      "rarity": "Rare",
+      "cardNum": "42/59"
+    },
+    {
+      "name": "Dunsparce",
+      "set": "Cold Flare",
+      "img": "https://den-cards.pokellector.com/23/Dunsparce.BW6.43.png",
+      "rarity": "Common",
+      "cardNum": "43/59"
+    },
+    {
+      "name": "Whismur",
+      "set": "Cold Flare",
+      "img": "https://den-cards.pokellector.com/23/Whismur.BW6.44.png",
+      "rarity": "Common",
+      "cardNum": "44/59"
+    },
+    {
+      "name": "Loudred",
+      "set": "Cold Flare",
+      "img": "https://den-cards.pokellector.com/23/Loudred.BW6.45.png",
+      "rarity": "Common",
+      "cardNum": "45/59"
+    },
+    {
+      "name": "Exploud",
+      "set": "Cold Flare",
+      "img": "https://den-cards.pokellector.com/23/Exploud.BW6.46.png",
+      "rarity": "Uncommon",
+      "cardNum": "46/59"
+    },
+    {
+      "name": "Skitty",
+      "set": "Cold Flare",
+      "img": "https://den-cards.pokellector.com/23/Skitty.BW6.47.png",
+      "rarity": "Common",
+      "cardNum": "47/59"
+    },
+    {
+      "name": "Delcatty",
+      "set": "Cold Flare",
+      "img": "https://den-cards.pokellector.com/23/Delcatty.BW6.48.png",
+      "rarity": "Uncommon",
+      "cardNum": "48/59"
+    },
+    {
+      "name": "Patrat",
+      "set": "Cold Flare",
+      "img": "https://den-cards.pokellector.com/23/Patrat.BW6.49.png",
+      "rarity": "Common",
+      "cardNum": "49/59"
+    },
+    {
+      "name": "Watchog",
+      "set": "Cold Flare",
+      "img": "https://den-cards.pokellector.com/23/Watchog.BW6.50.png",
+      "rarity": "Common",
+      "cardNum": "50/59"
+    },
+    {
+      "name": "Lillipup",
+      "set": "Cold Flare",
+      "img": "https://den-cards.pokellector.com/23/Lillipup.BW6.51.png",
+      "rarity": "Common",
+      "cardNum": "51/59"
+    },
+    {
+      "name": "Herdier",
+      "set": "Cold Flare",
+      "img": "https://den-cards.pokellector.com/23/Herdier.BW6.52.png",
+      "rarity": "Common",
+      "cardNum": "52/59"
+    },
+    {
+      "name": "Stoutland",
+      "set": "Cold Flare",
+      "img": "https://den-cards.pokellector.com/23/Stoutland.BW6.53.png",
+      "rarity": "Rare",
+      "cardNum": "53/59"
+    },
+    {
+      "name": "Bicycle",
+      "set": "Cold Flare",
+      "img": "https://den-cards.pokellector.com/23/Bicycle.BW6.54.png",
+      "rarity": "Uncommon",
+      "cardNum": "54/59"
+    },
+    {
+      "name": "Ether",
+      "set": "Cold Flare",
+      "img": "https://den-cards.pokellector.com/23/Ether.BW6.55.png",
+      "rarity": "Uncommon",
+      "cardNum": "55/59"
+    },
+    {
+      "name": "Skyla",
+      "set": "Cold Flare",
+      "img": "https://den-cards.pokellector.com/23/Skyla.BW6.56.png",
+      "rarity": "Uncommon",
+      "cardNum": "56/59"
+    },
+    {
+      "name": "Aspertia City Gym",
+      "set": "Cold Flare",
+      "img": "https://den-cards.pokellector.com/23/Aspertia-City-Gym.BW6.57.png",
+      "rarity": "Uncommon",
+      "cardNum": "57/59"
+    },
+    {
+      "name": "Computer Search",
+      "set": "Cold Flare",
+      "img": "https://den-cards.pokellector.com/23/Computer-Search.BW6.58.png",
+      "rarity": "Rare",
+      "cardNum": "58/59"
+    },
+    {
+      "name": "Crystal Edge",
+      "set": "Cold Flare",
+      "img": "https://den-cards.pokellector.com/23/Crystal-Edge.BW6.59.png",
+      "rarity": "Rare",
+      "cardNum": "59/59"
+    },
+    {
+      "name": "Celebi EX",
+      "set": "Cold Flare",
+      "img": "https://den-cards.pokellector.com/23/Celebi-EX.BW6.60.png",
+      "rarity": "Secret Rare",
+      "cardNum": "60/59"
+    },
+    {
+      "name": "Keldeo EX",
+      "set": "Cold Flare",
+      "img": "https://den-cards.pokellector.com/23/Keldeo-EX.BW6.61.png",
+      "rarity": "Secret Rare",
+      "cardNum": "61/59"
+    },
+    {
+      "name": "White Kyurem EX",
+      "set": "Cold Flare",
+      "img": "https://den-cards.pokellector.com/23/White-Kyurem-EX.BW6.62.png",
+      "rarity": "Secret Rare",
+      "cardNum": "62/59"
+    },
+    {
+      "name": "Bianca",
+      "set": "Cold Flare",
+      "img": "https://den-cards.pokellector.com/23/Bianca.BW6.63.png",
+      "rarity": "Secret Rare",
+      "cardNum": "63/59"
+    },
+    {
+      "name": "Terrakion",
+      "set": "Cold Flare",
+      "img": "https://den-cards.pokellector.com/23/Terrakion.BW6.64.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "64/59"
+    },
+    {
+      "name": "Altaria",
+      "set": "Cold Flare",
+      "img": "https://den-cards.pokellector.com/23/Altaria.BW6.65.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "65/59"
+    }
+  ]
+}

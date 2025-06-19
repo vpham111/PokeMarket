@@ -1,0 +1,460 @@
+{
+  "setName": "Rocket Gang",
+  "cards": [
+    {
+      "name": "Ekans",
+      "set": "Rocket Gang",
+      "img": "https://den-cards.pokellector.com/315/Ekans.B04.1.38260.png",
+      "rarity": "Common",
+      "cardNum": "1/65"
+    },
+    {
+      "name": "Zubat",
+      "set": "Rocket Gang",
+      "img": "https://den-cards.pokellector.com/315/Zubat.B04.2.38261.png",
+      "rarity": "Common",
+      "cardNum": "2/65"
+    },
+    {
+      "name": "Oddish",
+      "set": "Rocket Gang",
+      "img": "https://den-cards.pokellector.com/315/Oddish.B04.3.38262.png",
+      "rarity": "Common",
+      "cardNum": "3/65"
+    },
+    {
+      "name": "Grimer",
+      "set": "Rocket Gang",
+      "img": "https://den-cards.pokellector.com/315/Grimer.B04.4.38263.png",
+      "rarity": "Common",
+      "cardNum": "4/65"
+    },
+    {
+      "name": "Koffing",
+      "set": "Rocket Gang",
+      "img": "https://den-cards.pokellector.com/315/Koffing.B04.5.38264.png",
+      "rarity": "Common",
+      "cardNum": "5/65"
+    },
+    {
+      "name": "Dark Gloom",
+      "set": "Rocket Gang",
+      "img": "https://den-cards.pokellector.com/315/Dark-Gloom.B04.6.38265.png",
+      "rarity": "Uncommon",
+      "cardNum": "6/65"
+    },
+    {
+      "name": "Dark Muk",
+      "set": "Rocket Gang",
+      "img": "https://den-cards.pokellector.com/315/Dark-Muk.B04.7.38266.png",
+      "rarity": "Uncommon",
+      "cardNum": "7/65"
+    },
+    {
+      "name": "Dark Arbok",
+      "set": "Rocket Gang",
+      "img": "https://den-cards.pokellector.com/315/Dark-Arbok.B04.8.38267.png",
+      "rarity": "Rare",
+      "cardNum": "8/65"
+    },
+    {
+      "name": "Dark Golbat",
+      "set": "Rocket Gang",
+      "img": "https://den-cards.pokellector.com/315/Dark-Golbat.B04.9.38268.png",
+      "rarity": "Rare",
+      "cardNum": "9/65"
+    },
+    {
+      "name": "Dark Vileplume",
+      "set": "Rocket Gang",
+      "img": "https://den-cards.pokellector.com/315/Dark-Vileplume.B04.10.38269.png",
+      "rarity": "Rare",
+      "cardNum": "10/65"
+    },
+    {
+      "name": "Dark Weezing",
+      "set": "Rocket Gang",
+      "img": "https://den-cards.pokellector.com/315/Dark-Weezing.B04.11.38270.png",
+      "rarity": "Rare",
+      "cardNum": "11/65"
+    },
+    {
+      "name": "Charmander",
+      "set": "Rocket Gang",
+      "img": "https://den-cards.pokellector.com/315/Charmander.B04.12.38271.png",
+      "rarity": "Common",
+      "cardNum": "12/65"
+    },
+    {
+      "name": "Ponyta",
+      "set": "Rocket Gang",
+      "img": "https://den-cards.pokellector.com/315/Ponyta.B04.13.38272.png",
+      "rarity": "Common",
+      "cardNum": "13/65"
+    },
+    {
+      "name": "Dark Rapidash",
+      "set": "Rocket Gang",
+      "img": "https://den-cards.pokellector.com/315/Dark-Rapidash.B04.14.38273.png",
+      "rarity": "Common",
+      "cardNum": "14/65"
+    },
+    {
+      "name": "Dark Charmeleon",
+      "set": "Rocket Gang",
+      "img": "https://den-cards.pokellector.com/315/Dark-Charmeleon.B04.15.38274.png",
+      "rarity": "Uncommon",
+      "cardNum": "15/65"
+    },
+    {
+      "name": "Dark Flareon",
+      "set": "Rocket Gang",
+      "img": "https://den-cards.pokellector.com/315/Dark-Flareon.B04.16.38275.png",
+      "rarity": "Uncommon",
+      "cardNum": "16/65"
+    },
+    {
+      "name": "Dark Charizard",
+      "set": "Rocket Gang",
+      "img": "https://den-cards.pokellector.com/315/Dark-Charizard.B04.17.38276.png",
+      "rarity": "Rare",
+      "cardNum": "17/65"
+    },
+    {
+      "name": "Squirtle",
+      "set": "Rocket Gang",
+      "img": "https://den-cards.pokellector.com/315/Squirtle.B04.18.38277.png",
+      "rarity": "Common",
+      "cardNum": "18/65"
+    },
+    {
+      "name": "Psyduck",
+      "set": "Rocket Gang",
+      "img": "https://den-cards.pokellector.com/315/Psyduck.B04.19.38278.png",
+      "rarity": "Common",
+      "cardNum": "19/65"
+    },
+    {
+      "name": "Magikarp",
+      "set": "Rocket Gang",
+      "img": "https://den-cards.pokellector.com/315/Magikarp.B04.20.38279.png",
+      "rarity": "Common",
+      "cardNum": "20/65"
+    },
+    {
+      "name": "Dark Wartortle",
+      "set": "Rocket Gang",
+      "img": "https://den-cards.pokellector.com/315/Dark-Wartortle.B04.21.38280.png",
+      "rarity": "Uncommon",
+      "cardNum": "21/65"
+    },
+    {
+      "name": "Dark Golduck",
+      "set": "Rocket Gang",
+      "img": "https://den-cards.pokellector.com/315/Dark-Golduck.B04.22.38281.png",
+      "rarity": "Uncommon",
+      "cardNum": "22/65"
+    },
+    {
+      "name": "Dark Vaporeon",
+      "set": "Rocket Gang",
+      "img": "https://den-cards.pokellector.com/315/Dark-Vaporeon.B04.23.38282.png",
+      "rarity": "Uncommon",
+      "cardNum": "23/65"
+    },
+    {
+      "name": "Dark Blastoise",
+      "set": "Rocket Gang",
+      "img": "https://den-cards.pokellector.com/315/Dark-Blastoise.B04.24.38283.png",
+      "rarity": "Rare",
+      "cardNum": "24/65"
+    },
+    {
+      "name": "Dark Gyarados",
+      "set": "Rocket Gang",
+      "img": "https://den-cards.pokellector.com/315/Dark-Gyarados.B04.25.38284.png",
+      "rarity": "Rare",
+      "cardNum": "25/65"
+    },
+    {
+      "name": "Magnemite",
+      "set": "Rocket Gang",
+      "img": "https://den-cards.pokellector.com/315/Magnemite.B04.26.38285.png",
+      "rarity": "Common",
+      "cardNum": "26/65"
+    },
+    {
+      "name": "Voltorb",
+      "set": "Rocket Gang",
+      "img": "https://den-cards.pokellector.com/315/Voltorb.B04.27.38286.png",
+      "rarity": "Common",
+      "cardNum": "27/65"
+    },
+    {
+      "name": "Dark Electrode",
+      "set": "Rocket Gang",
+      "img": "https://den-cards.pokellector.com/315/Dark-Electrode.B04.28.38287.png",
+      "rarity": "Uncommon",
+      "cardNum": "28/65"
+    },
+    {
+      "name": "Dark Jolteon",
+      "set": "Rocket Gang",
+      "img": "https://den-cards.pokellector.com/315/Dark-Jolteon.B04.29.38288.png",
+      "rarity": "Uncommon",
+      "cardNum": "29/65"
+    },
+    {
+      "name": "Dark Magneton",
+      "set": "Rocket Gang",
+      "img": "https://den-cards.pokellector.com/315/Dark-Magneton.B04.30.38289.png",
+      "rarity": "Rare",
+      "cardNum": "30/65"
+    },
+    {
+      "name": "Abra",
+      "set": "Rocket Gang",
+      "img": "https://den-cards.pokellector.com/315/Abra.B04.31.38290.png",
+      "rarity": "Common",
+      "cardNum": "31/65"
+    },
+    {
+      "name": "Slowpoke",
+      "set": "Rocket Gang",
+      "img": "https://den-cards.pokellector.com/315/Slowpoke.B04.32.38291.png",
+      "rarity": "Common",
+      "cardNum": "32/65"
+    },
+    {
+      "name": "Drowzee",
+      "set": "Rocket Gang",
+      "img": "https://den-cards.pokellector.com/315/Drowzee.B04.33.38292.png",
+      "rarity": "Common",
+      "cardNum": "33/65"
+    },
+    {
+      "name": "Dark Kadabra",
+      "set": "Rocket Gang",
+      "img": "https://den-cards.pokellector.com/315/Dark-Kadabra.B04.34.38293.png",
+      "rarity": "Uncommon",
+      "cardNum": "34/65"
+    },
+    {
+      "name": "Dark Alakazam",
+      "set": "Rocket Gang",
+      "img": "https://den-cards.pokellector.com/315/Dark-Alakazam.B04.35.38294.png",
+      "rarity": "Rare",
+      "cardNum": "35/65"
+    },
+    {
+      "name": "Dark Slowbro",
+      "set": "Rocket Gang",
+      "img": "https://den-cards.pokellector.com/315/Dark-Slowbro.B04.36.38295.png",
+      "rarity": "Rare",
+      "cardNum": "36/65"
+    },
+    {
+      "name": "Dark Hypno",
+      "set": "Rocket Gang",
+      "img": "https://den-cards.pokellector.com/315/Dark-Hypno.B04.37.38296.png",
+      "rarity": "Rare",
+      "cardNum": "37/65"
+    },
+    {
+      "name": "Diglett",
+      "set": "Rocket Gang",
+      "img": "https://den-cards.pokellector.com/315/Diglett.B04.38.38297.png",
+      "rarity": "Common",
+      "cardNum": "38/65"
+    },
+    {
+      "name": "Mankey",
+      "set": "Rocket Gang",
+      "img": "https://den-cards.pokellector.com/315/Mankey.B04.39.38298.png",
+      "rarity": "Common",
+      "cardNum": "39/65"
+    },
+    {
+      "name": "Machop",
+      "set": "Rocket Gang",
+      "img": "https://den-cards.pokellector.com/315/Machop.B04.40.38299.png",
+      "rarity": "Common",
+      "cardNum": "40/65"
+    },
+    {
+      "name": "Dark Primeape",
+      "set": "Rocket Gang",
+      "img": "https://den-cards.pokellector.com/315/Dark-Primeape.B04.41.38300.png",
+      "rarity": "Uncommon",
+      "cardNum": "41/65"
+    },
+    {
+      "name": "Dark Machoke",
+      "set": "Rocket Gang",
+      "img": "https://den-cards.pokellector.com/315/Dark-Machoke.B04.42.38301.png",
+      "rarity": "Uncommon",
+      "cardNum": "42/65"
+    },
+    {
+      "name": "Dark Dugtrio",
+      "set": "Rocket Gang",
+      "img": "https://den-cards.pokellector.com/315/Dark-Dugtrio.B04.43.38302.png",
+      "rarity": "Rare",
+      "cardNum": "43/65"
+    },
+    {
+      "name": "Dark Machamp",
+      "set": "Rocket Gang",
+      "img": "https://den-cards.pokellector.com/315/Dark-Machamp.B04.44.38303.png",
+      "rarity": "Rare",
+      "cardNum": "44/65"
+    },
+    {
+      "name": "Rattata",
+      "set": "Rocket Gang",
+      "img": "https://den-cards.pokellector.com/315/Rattata.B04.45.38304.png",
+      "rarity": "Common",
+      "cardNum": "45/65"
+    },
+    {
+      "name": "Dark Raticate",
+      "set": "Rocket Gang",
+      "img": "https://den-cards.pokellector.com/315/Dark-Raticate.B04.46.38305.png",
+      "rarity": "Common",
+      "cardNum": "46/65"
+    },
+    {
+      "name": "Meowth",
+      "set": "Rocket Gang",
+      "img": "https://den-cards.pokellector.com/315/Meowth.B04.47.38306.png",
+      "rarity": "Common",
+      "cardNum": "47/65"
+    },
+    {
+      "name": "Dark Persian",
+      "set": "Rocket Gang",
+      "img": "https://den-cards.pokellector.com/315/Dark-Persian.B04.48.38307.png",
+      "rarity": "Common",
+      "cardNum": "48/65"
+    },
+    {
+      "name": "Eevee",
+      "set": "Rocket Gang",
+      "img": "https://den-cards.pokellector.com/315/Eevee.B04.49.38308.png",
+      "rarity": "Common",
+      "cardNum": "49/65"
+    },
+    {
+      "name": "Porygon",
+      "set": "Rocket Gang",
+      "img": "https://den-cards.pokellector.com/315/Porygon.B04.50.38309.png",
+      "rarity": "Common",
+      "cardNum": "50/65"
+    },
+    {
+      "name": "Dratini",
+      "set": "Rocket Gang",
+      "img": "https://den-cards.pokellector.com/315/Dratini.B04.51.38310.png",
+      "rarity": "Common",
+      "cardNum": "51/65"
+    },
+    {
+      "name": "Dark Dragonair",
+      "set": "Rocket Gang",
+      "img": "https://den-cards.pokellector.com/315/Dark-Dragonair.B04.52.38311.png",
+      "rarity": "Uncommon",
+      "cardNum": "52/65"
+    },
+    {
+      "name": "Dark Dragonite",
+      "set": "Rocket Gang",
+      "img": "https://den-cards.pokellector.com/315/Dark-Dragonite.B04.53.38312.png",
+      "rarity": "Rare",
+      "cardNum": "53/65"
+    },
+    {
+      "name": "Sleep!",
+      "set": "Rocket Gang",
+      "img": "https://den-cards.pokellector.com/315/Sleep.B04.54.38313.png",
+      "rarity": "Common",
+      "cardNum": "54/65"
+    },
+    {
+      "name": "Digger",
+      "set": "Rocket Gang",
+      "img": "https://den-cards.pokellector.com/315/Digger.B04.55.38314.png",
+      "rarity": "Common",
+      "cardNum": "55/65"
+    },
+    {
+      "name": "Goop Gas Attack",
+      "set": "Rocket Gang",
+      "img": "https://den-cards.pokellector.com/315/Goop-Gas-Attack.B04.56.38315.png",
+      "rarity": "Common",
+      "cardNum": "56/65"
+    },
+    {
+      "name": "Nightly Garbage Run",
+      "set": "Rocket Gang",
+      "img": "https://den-cards.pokellector.com/315/Nightly-Garbage-Run.B04.57.38316.png",
+      "rarity": "Common",
+      "cardNum": "57/65"
+    },
+    {
+      "name": "Challenge!",
+      "set": "Rocket Gang",
+      "img": "https://den-cards.pokellector.com/315/Challenge.B04.58.38317.png",
+      "rarity": "Uncommon",
+      "cardNum": "58/65"
+    },
+    {
+      "name": "Imposter Oak's Revenge",
+      "set": "Rocket Gang",
+      "img": "https://den-cards.pokellector.com/315/Imposter-Oaks-Revenge.B04.59.38318.png",
+      "rarity": "Uncommon",
+      "cardNum": "59/65"
+    },
+    {
+      "name": "The Boss's Way",
+      "set": "Rocket Gang",
+      "img": "https://den-cards.pokellector.com/315/The-Bosss-Way.B04.60.38319.png",
+      "rarity": "Uncommon",
+      "cardNum": "60/65"
+    },
+    {
+      "name": "Rocket's Sneak Attack",
+      "set": "Rocket Gang",
+      "img": "https://den-cards.pokellector.com/315/Rockets-Sneak-Attack.B04.61.38320.png",
+      "rarity": "Rare",
+      "cardNum": "61/65"
+    },
+    {
+      "name": "Here Comes Team Rocket!",
+      "set": "Rocket Gang",
+      "img": "https://den-cards.pokellector.com/315/Here-Comes-Team-Rocket.B04.62.38321.png",
+      "rarity": "Common",
+      "cardNum": "62/65"
+    },
+    {
+      "name": "Potion Energy",
+      "set": "Rocket Gang",
+      "img": "https://den-cards.pokellector.com/315/Potion-Energy.B04.63.38322.png",
+      "rarity": "Common",
+      "cardNum": "63/65"
+    },
+    {
+      "name": "Full Heal Energy",
+      "set": "Rocket Gang",
+      "img": "https://den-cards.pokellector.com/315/Full-Heal-Energy.B04.64.38323.png",
+      "rarity": "Common",
+      "cardNum": "64/65"
+    },
+    {
+      "name": "Rainbow Energy",
+      "set": "Rocket Gang",
+      "img": "https://den-cards.pokellector.com/315/Rainbow-Energy.B04.65.38324.png",
+      "rarity": "Rare",
+      "cardNum": "65/65"
+    }
+  ]
+}

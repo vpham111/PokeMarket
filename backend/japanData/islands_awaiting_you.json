@@ -1,0 +1,439 @@
+{
+  "setName": "Islands Awaiting You",
+  "cards": [
+    {
+      "name": "Bellsprout",
+      "set": "Islands Awaiting You",
+      "img": "https://den-cards.pokellector.com/211/Bellsprout.SM2K.1.17322.png",
+      "rarity": "Common",
+      "cardNum": "1/50"
+    },
+    {
+      "name": "Weepinbell",
+      "set": "Islands Awaiting You",
+      "img": "https://den-cards.pokellector.com/211/Weepinbell.SM2K.2.17323.png",
+      "rarity": "Common",
+      "cardNum": "2/50"
+    },
+    {
+      "name": "Victreebel",
+      "set": "Islands Awaiting You",
+      "img": "https://den-cards.pokellector.com/211/Victreebel.SM2K.3.17324.png",
+      "rarity": "Uncommon",
+      "cardNum": "3/50"
+    },
+    {
+      "name": "Petilil",
+      "set": "Islands Awaiting You",
+      "img": "https://den-cards.pokellector.com/211/Petilil.SM2K.4.17325.png",
+      "rarity": "Common",
+      "cardNum": "4/50"
+    },
+    {
+      "name": "Lilligant",
+      "set": "Islands Awaiting You",
+      "img": "https://den-cards.pokellector.com/211/Lilligant.SM2K.5.17326.png",
+      "rarity": "Common",
+      "cardNum": "5/50"
+    },
+    {
+      "name": "Wimpod",
+      "set": "Islands Awaiting You",
+      "img": "https://den-cards.pokellector.com/211/Wimpod.SM2K.6.17327.png",
+      "rarity": "Common",
+      "cardNum": "6/50"
+    },
+    {
+      "name": "Golisopod",
+      "set": "Islands Awaiting You",
+      "img": "https://den-cards.pokellector.com/211/Golisopod.SM2K.7.17328.png",
+      "rarity": "Rare",
+      "cardNum": "7/50"
+    },
+    {
+      "name": "Victini",
+      "set": "Islands Awaiting You",
+      "img": "https://den-cards.pokellector.com/211/Victini.SM2K.8.17329.png",
+      "rarity": "Rare",
+      "cardNum": "8/50"
+    },
+    {
+      "name": "Turtonator GX",
+      "set": "Islands Awaiting You",
+      "img": "https://den-cards.pokellector.com/211/Turtonator-GX.SM2K.9.16509.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "9/50"
+    },
+    {
+      "name": "Alolan Sandshrew",
+      "set": "Islands Awaiting You",
+      "img": "https://den-cards.pokellector.com/211/Alolan-Sandshrew.SM2K.10.16526.png",
+      "rarity": "Common",
+      "cardNum": "10/50"
+    },
+    {
+      "name": "Alolan Sandslash",
+      "set": "Islands Awaiting You",
+      "img": "https://den-cards.pokellector.com/211/Alolan-Sandslash.SM2K.11.16510.png",
+      "rarity": "Uncommon",
+      "cardNum": "11/50"
+    },
+    {
+      "name": "Alolan Vulpix",
+      "set": "Islands Awaiting You",
+      "img": "https://den-cards.pokellector.com/211/Alolan-Vulpix.SM2K.12.17253.png",
+      "rarity": "Common",
+      "cardNum": "12/50"
+    },
+    {
+      "name": "Alolan Ninetales GX",
+      "set": "Islands Awaiting You",
+      "img": "https://den-cards.pokellector.com/211/Alolan-Ninetales-GC.SM2K.13.17254.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "13/50"
+    },
+    {
+      "name": "Delibird",
+      "set": "Islands Awaiting You",
+      "img": "https://den-cards.pokellector.com/211/Delibird.SM2K.14.17330.png",
+      "rarity": "Common",
+      "cardNum": "14/50"
+    },
+    {
+      "name": "Snorunt",
+      "set": "Islands Awaiting You",
+      "img": "https://den-cards.pokellector.com/211/Snorunt.SM2K.15.17331.png",
+      "rarity": "Common",
+      "cardNum": "15/50"
+    },
+    {
+      "name": "Glalie",
+      "set": "Islands Awaiting You",
+      "img": "https://den-cards.pokellector.com/211/Glalie.SM2K.16.17249.png",
+      "rarity": "Uncommon",
+      "cardNum": "16/50"
+    },
+    {
+      "name": "Vanillite",
+      "set": "Islands Awaiting You",
+      "img": "https://den-cards.pokellector.com/211/Vanillite.SM2K.17.17332.png",
+      "rarity": "Common",
+      "cardNum": "17/50"
+    },
+    {
+      "name": "Vanillish",
+      "set": "Islands Awaiting You",
+      "img": "https://den-cards.pokellector.com/211/Vanillish.SM2K.18.17333.png",
+      "rarity": "Common",
+      "cardNum": "18/50"
+    },
+    {
+      "name": "Vanilluxe",
+      "set": "Islands Awaiting You",
+      "img": "https://den-cards.pokellector.com/211/Vanilluxe.SM2K.19.16531.png",
+      "rarity": "Uncommon",
+      "cardNum": "19/50"
+    },
+    {
+      "name": "Helioptile",
+      "set": "Islands Awaiting You",
+      "img": "https://den-cards.pokellector.com/211/Helioptile.SM2K.20.17334.png",
+      "rarity": "Common",
+      "cardNum": "20/50"
+    },
+    {
+      "name": "Heliolisk",
+      "set": "Islands Awaiting You",
+      "img": "https://den-cards.pokellector.com/211/Heliolisk.SM2K.21.17335.png",
+      "rarity": "Uncommon",
+      "cardNum": "21/50"
+    },
+    {
+      "name": "Tapu Koko GX",
+      "set": "Islands Awaiting You",
+      "img": "https://den-cards.pokellector.com/211/Tapu-Koko-GX.SM2K.22.16508.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "22/50"
+    },
+    {
+      "name": "Slowpoke",
+      "set": "Islands Awaiting You",
+      "img": "https://den-cards.pokellector.com/211/Slowpoke.SM2K.23.17336.png",
+      "rarity": "Common",
+      "cardNum": "23/50"
+    },
+    {
+      "name": "Slowbro",
+      "set": "Islands Awaiting You",
+      "img": "https://den-cards.pokellector.com/211/Slowbro.SM2K.24.17337.png",
+      "rarity": "Uncommon",
+      "cardNum": "24/50"
+    },
+    {
+      "name": "Gothita",
+      "set": "Islands Awaiting You",
+      "img": "https://den-cards.pokellector.com/211/Gothita.SM2K.25.17338.png",
+      "rarity": "Common",
+      "cardNum": "25/50"
+    },
+    {
+      "name": "Gothorita",
+      "set": "Islands Awaiting You",
+      "img": "https://den-cards.pokellector.com/211/Gothorita.SM2K.26.17339.png",
+      "rarity": "Common",
+      "cardNum": "26/50"
+    },
+    {
+      "name": "Gothitelle",
+      "set": "Islands Awaiting You",
+      "img": "https://den-cards.pokellector.com/211/Gothitelle.SM2K.27.17340.png",
+      "rarity": "Uncommon",
+      "cardNum": "27/50"
+    },
+    {
+      "name": "Machop",
+      "set": "Islands Awaiting You",
+      "img": "https://den-cards.pokellector.com/211/Machop.SM2K.28.17259.png",
+      "rarity": "Common",
+      "cardNum": "28/50"
+    },
+    {
+      "name": "Machoke",
+      "set": "Islands Awaiting You",
+      "img": "https://den-cards.pokellector.com/211/Machoke.SM2K.29.17260.png",
+      "rarity": "Uncommon",
+      "cardNum": "29/50"
+    },
+    {
+      "name": "Machamp",
+      "set": "Islands Awaiting You",
+      "img": "https://den-cards.pokellector.com/211/Machamp.SM2K.30.17261.png",
+      "rarity": "Rare",
+      "cardNum": "30/50"
+    },
+    {
+      "name": "Nosepass",
+      "set": "Islands Awaiting You",
+      "img": "https://den-cards.pokellector.com/211/Nosepass.SM2K.31.17341.png",
+      "rarity": "Common",
+      "cardNum": "31/50"
+    },
+    {
+      "name": "Barboach",
+      "set": "Islands Awaiting You",
+      "img": "https://den-cards.pokellector.com/211/Barboach.SM2K.32.17342.png",
+      "rarity": "Common",
+      "cardNum": "32/50"
+    },
+    {
+      "name": "Whiscash",
+      "set": "Islands Awaiting You",
+      "img": "https://den-cards.pokellector.com/211/Whiscash.SM2K.33.17343.png",
+      "rarity": "Uncommon",
+      "cardNum": "33/50"
+    },
+    {
+      "name": "Probopass",
+      "set": "Islands Awaiting You",
+      "img": "https://den-cards.pokellector.com/211/Probopass.SM2K.34.17344.png",
+      "rarity": "Uncommon",
+      "cardNum": "34/50"
+    },
+    {
+      "name": "Clefairy",
+      "set": "Islands Awaiting You",
+      "img": "https://den-cards.pokellector.com/211/Clefairy.SM2K.35.17345.png",
+      "rarity": "Common",
+      "cardNum": "35/50"
+    },
+    {
+      "name": "Clefable",
+      "set": "Islands Awaiting You",
+      "img": "https://den-cards.pokellector.com/211/Clefable.SM2K.36.17346.png",
+      "rarity": "Common",
+      "cardNum": "36/50"
+    },
+    {
+      "name": "Comfey",
+      "set": "Islands Awaiting You",
+      "img": "https://den-cards.pokellector.com/211/Comfey.SM2K.37.16530.png",
+      "rarity": "Rare",
+      "cardNum": "37/50"
+    },
+    {
+      "name": "Drampa",
+      "set": "Islands Awaiting You",
+      "img": "https://den-cards.pokellector.com/211/Drampa.SM2K.38.17347.png",
+      "rarity": "Rare",
+      "cardNum": "38/50"
+    },
+    {
+      "name": "Jangmo-o",
+      "set": "Islands Awaiting You",
+      "img": "https://den-cards.pokellector.com/211/Jangmo-o.SM2K.39.17348.png",
+      "rarity": "Common",
+      "cardNum": "39/50"
+    },
+    {
+      "name": "Hakamo-o",
+      "set": "Islands Awaiting You",
+      "img": "https://den-cards.pokellector.com/211/Hakamo-o.SM2K.40.17349.png",
+      "rarity": "Common",
+      "cardNum": "40/50"
+    },
+    {
+      "name": "Kommo-o GX",
+      "set": "Islands Awaiting You",
+      "img": "https://den-cards.pokellector.com/211/Kommo-o-GX.SM2K.41.17350.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "41/50"
+    },
+    {
+      "name": "Chansey",
+      "set": "Islands Awaiting You",
+      "img": "https://den-cards.pokellector.com/211/Chansey.SM2K.42.17351.png",
+      "rarity": "Common",
+      "cardNum": "42/50"
+    },
+    {
+      "name": "Blissey",
+      "set": "Islands Awaiting You",
+      "img": "https://den-cards.pokellector.com/211/Blissey.SM2K.43.17352.png",
+      "rarity": "Rare",
+      "cardNum": "43/50"
+    },
+    {
+      "name": "Taillow",
+      "set": "Islands Awaiting You",
+      "img": "https://den-cards.pokellector.com/211/Taillow.SM2K.44.17353.png",
+      "rarity": "Common",
+      "cardNum": "44/50"
+    },
+    {
+      "name": "Swellow",
+      "set": "Islands Awaiting You",
+      "img": "https://den-cards.pokellector.com/211/Swellow.SM2K.45.17354.png",
+      "rarity": "Uncommon",
+      "cardNum": "45/50"
+    },
+    {
+      "name": "Komala",
+      "set": "Islands Awaiting You",
+      "img": "https://den-cards.pokellector.com/211/Komala.SM2K.46.16511.png",
+      "rarity": "Uncommon",
+      "cardNum": "46/50"
+    },
+    {
+      "name": "Aqua Patch",
+      "set": "Islands Awaiting You",
+      "img": "https://den-cards.pokellector.com/211/Aqua-Patch.SM2K.47.17258.png",
+      "rarity": "Uncommon",
+      "cardNum": "47/50"
+    },
+    {
+      "name": "Field Blower",
+      "set": "Islands Awaiting You",
+      "img": "https://den-cards.pokellector.com/211/Field-Blower.SM2K.48.17355.png",
+      "rarity": "Uncommon",
+      "cardNum": "48/50"
+    },
+    {
+      "name": "Hala",
+      "set": "Islands Awaiting You",
+      "img": "https://den-cards.pokellector.com/211/Hala.SM2K.49.14658.png",
+      "rarity": "Uncommon",
+      "cardNum": "49/50"
+    },
+    {
+      "name": "Aether Paradise Conservation Area",
+      "set": "Islands Awaiting You",
+      "img": "https://den-cards.pokellector.com/211/Aether-Paradise-Conservation-Area.SM2K.50.16517.png",
+      "rarity": "Uncommon",
+      "cardNum": "50/50"
+    },
+    {
+      "name": "Turtonator GX",
+      "set": "Islands Awaiting You",
+      "img": "https://den-cards.pokellector.com/211/Turtonator-GX.SM2K.51.17356.png",
+      "rarity": "Secret Rare",
+      "cardNum": "51/50"
+    },
+    {
+      "name": "Alolan Ninetales GX",
+      "set": "Islands Awaiting You",
+      "img": "https://den-cards.pokellector.com/211/Alolan-Ninetales-GX.SM2K.52.17357.png",
+      "rarity": "Secret Rare",
+      "cardNum": "52/50"
+    },
+    {
+      "name": "Tapu Koko GX",
+      "set": "Islands Awaiting You",
+      "img": "https://den-cards.pokellector.com/211/Tapu-Koko-GX.SM2K.53.17358.png",
+      "rarity": "Secret Rare",
+      "cardNum": "53/50"
+    },
+    {
+      "name": "Kommo-o GX",
+      "set": "Islands Awaiting You",
+      "img": "https://den-cards.pokellector.com/211/Kommo-o-GX.SM2K.54.17359.png",
+      "rarity": "Secret Rare",
+      "cardNum": "54/50"
+    },
+    {
+      "name": "Hala",
+      "set": "Islands Awaiting You",
+      "img": "https://den-cards.pokellector.com/211/Hala.SM2K.55.17360.png",
+      "rarity": "Secret Rare",
+      "cardNum": "55/50"
+    },
+    {
+      "name": "Turtonator GX",
+      "set": "Islands Awaiting You",
+      "img": "https://den-cards.pokellector.com/211/Turtonator-GX.SM2K.56.17361.png",
+      "rarity": "Secret Rare",
+      "cardNum": "56/50"
+    },
+    {
+      "name": "Alolan Ninetales GX",
+      "set": "Islands Awaiting You",
+      "img": "https://den-cards.pokellector.com/211/Alolan-Ninetales-GX.SM2K.57.17362.png",
+      "rarity": "Secret Rare",
+      "cardNum": "57/50"
+    },
+    {
+      "name": "Tapu Koko GX",
+      "set": "Islands Awaiting You",
+      "img": "https://den-cards.pokellector.com/211/Tapu-Koko-GX.SM2K.58.17363.png",
+      "rarity": "Secret Rare",
+      "cardNum": "58/50"
+    },
+    {
+      "name": "Kommo-o GX",
+      "set": "Islands Awaiting You",
+      "img": "https://den-cards.pokellector.com/211/Kommo-o-GX.SM2K.59.17364.png",
+      "rarity": "Secret Rare",
+      "cardNum": "59/50"
+    },
+    {
+      "name": "Field Blower",
+      "set": "Islands Awaiting You",
+      "img": "https://den-cards.pokellector.com/211/Field-Blower.SM2K.60.17365.png",
+      "rarity": "Secret Rare",
+      "cardNum": "60/50"
+    },
+    {
+      "name": "Max Potion",
+      "set": "Islands Awaiting You",
+      "img": "https://den-cards.pokellector.com/211/Max-Potion.SM2K.61.17366.png",
+      "rarity": "Secret Rare",
+      "cardNum": "61/50"
+    },
+    {
+      "name": "Lightning Energy",
+      "set": "Islands Awaiting You",
+      "img": "https://den-cards.pokellector.com/211/Lightning-Energy.SM2K.62.17367.png",
+      "rarity": "Secret Rare",
+      "cardNum": "62/50"
+    }
+  ]
+}

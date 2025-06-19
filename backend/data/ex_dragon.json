@@ -1,0 +1,705 @@
+{
+  "setName": "EX Dragon",
+  "cards": [
+    {
+      "name": "Absol",
+      "set": "EX Dragon",
+      "img": "https://den-cards.pokellector.com/54/Absol.DR.1.png",
+      "rarity": "Rare",
+      "cardNum": "1/97"
+    },
+    {
+      "name": "Altaria",
+      "set": "EX Dragon",
+      "img": "https://den-cards.pokellector.com/54/Altaria.DR.2.png",
+      "rarity": "Rare",
+      "cardNum": "2/97"
+    },
+    {
+      "name": "Crawdaunt",
+      "set": "EX Dragon",
+      "img": "https://den-cards.pokellector.com/54/Crawdaunt.DR.3.png",
+      "rarity": "Rare",
+      "cardNum": "3/97"
+    },
+    {
+      "name": "Flygon",
+      "set": "EX Dragon",
+      "img": "https://den-cards.pokellector.com/54/Flygon.DR.4.png",
+      "rarity": "Rare",
+      "cardNum": "4/97"
+    },
+    {
+      "name": "Golem",
+      "set": "EX Dragon",
+      "img": "https://den-cards.pokellector.com/54/Golem.DR.5.png",
+      "rarity": "Rare",
+      "cardNum": "5/97"
+    },
+    {
+      "name": "Grumpig",
+      "set": "EX Dragon",
+      "img": "https://den-cards.pokellector.com/54/Grumpig.DR.6.png",
+      "rarity": "Rare",
+      "cardNum": "6/97"
+    },
+    {
+      "name": "Minun",
+      "set": "EX Dragon",
+      "img": "https://den-cards.pokellector.com/54/Minun.DR.7.png",
+      "rarity": "Rare",
+      "cardNum": "7/97"
+    },
+    {
+      "name": "Plusle",
+      "set": "EX Dragon",
+      "img": "https://den-cards.pokellector.com/54/Plusle.DR.8.png",
+      "rarity": "Rare",
+      "cardNum": "8/97"
+    },
+    {
+      "name": "Roselia",
+      "set": "EX Dragon",
+      "img": "https://den-cards.pokellector.com/54/Roselia.DR.9.png",
+      "rarity": "Rare",
+      "cardNum": "9/97"
+    },
+    {
+      "name": "Salamence",
+      "set": "EX Dragon",
+      "img": "https://den-cards.pokellector.com/54/Salamence.DR.10.png",
+      "rarity": "Rare",
+      "cardNum": "10/97"
+    },
+    {
+      "name": "Shedinja",
+      "set": "EX Dragon",
+      "img": "https://den-cards.pokellector.com/54/Shedinja.DR.11.png",
+      "rarity": "Rare",
+      "cardNum": "11/97"
+    },
+    {
+      "name": "Torkoal",
+      "set": "EX Dragon",
+      "img": "https://den-cards.pokellector.com/54/Torkoal.DR.12.png",
+      "rarity": "Rare",
+      "cardNum": "12/97"
+    },
+    {
+      "name": "Crawdaunt",
+      "set": "EX Dragon",
+      "img": "https://den-cards.pokellector.com/54/Crawdaunt.DR.13.png",
+      "rarity": "Rare",
+      "cardNum": "13/97"
+    },
+    {
+      "name": "Dragonair",
+      "set": "EX Dragon",
+      "img": "https://den-cards.pokellector.com/54/Dragonair.DR.14.png",
+      "rarity": "Rare",
+      "cardNum": "14/97"
+    },
+    {
+      "name": "Flygon",
+      "set": "EX Dragon",
+      "img": "https://den-cards.pokellector.com/54/Flygon.DR.15.png",
+      "rarity": "Rare",
+      "cardNum": "15/97"
+    },
+    {
+      "name": "Girafarig",
+      "set": "EX Dragon",
+      "img": "https://den-cards.pokellector.com/54/Girafarig.DR.16.png",
+      "rarity": "Rare",
+      "cardNum": "16/97"
+    },
+    {
+      "name": "Magneton",
+      "set": "EX Dragon",
+      "img": "https://den-cards.pokellector.com/54/Magneton.DR.17.png",
+      "rarity": "Rare",
+      "cardNum": "17/97"
+    },
+    {
+      "name": "Ninjask",
+      "set": "EX Dragon",
+      "img": "https://den-cards.pokellector.com/54/Ninjask.DR.18.png",
+      "rarity": "Rare",
+      "cardNum": "18/97"
+    },
+    {
+      "name": "Salamence",
+      "set": "EX Dragon",
+      "img": "https://den-cards.pokellector.com/54/Salamence.DR.19.png",
+      "rarity": "Rare",
+      "cardNum": "19/97"
+    },
+    {
+      "name": "Shelgon",
+      "set": "EX Dragon",
+      "img": "https://den-cards.pokellector.com/54/Shelgon.DR.20.png",
+      "rarity": "Rare",
+      "cardNum": "20/97"
+    },
+    {
+      "name": "Skarmory",
+      "set": "EX Dragon",
+      "img": "https://den-cards.pokellector.com/54/Skarmory.DR.21.png",
+      "rarity": "Rare",
+      "cardNum": "21/97"
+    },
+    {
+      "name": "Vibrava",
+      "set": "EX Dragon",
+      "img": "https://den-cards.pokellector.com/54/Vibrava.DR.22.png",
+      "rarity": "Rare",
+      "cardNum": "22/97"
+    },
+    {
+      "name": "Bagon",
+      "set": "EX Dragon",
+      "img": "https://den-cards.pokellector.com/54/Bagon.DR.23.png",
+      "rarity": "Uncommon",
+      "cardNum": "23/97"
+    },
+    {
+      "name": "Camerupt",
+      "set": "EX Dragon",
+      "img": "https://den-cards.pokellector.com/54/Camerupt.DR.24.png",
+      "rarity": "Uncommon",
+      "cardNum": "24/97"
+    },
+    {
+      "name": "Combusken",
+      "set": "EX Dragon",
+      "img": "https://den-cards.pokellector.com/54/Combusken.DR.25.png",
+      "rarity": "Uncommon",
+      "cardNum": "25/97"
+    },
+    {
+      "name": "Dratini",
+      "set": "EX Dragon",
+      "img": "https://den-cards.pokellector.com/54/Dratini.DR.26.png",
+      "rarity": "Uncommon",
+      "cardNum": "26/97"
+    },
+    {
+      "name": "Flaaffy",
+      "set": "EX Dragon",
+      "img": "https://den-cards.pokellector.com/54/Flaaffy.DR.27.png",
+      "rarity": "Uncommon",
+      "cardNum": "27/97"
+    },
+    {
+      "name": "Forretress",
+      "set": "EX Dragon",
+      "img": "https://den-cards.pokellector.com/54/Forretress.DR.28.png",
+      "rarity": "Uncommon",
+      "cardNum": "28/97"
+    },
+    {
+      "name": "Graveler",
+      "set": "EX Dragon",
+      "img": "https://den-cards.pokellector.com/54/Graveler.DR.29.png",
+      "rarity": "Uncommon",
+      "cardNum": "29/97"
+    },
+    {
+      "name": "Graveler",
+      "set": "EX Dragon",
+      "img": "https://den-cards.pokellector.com/54/Graveler.DR.30.png",
+      "rarity": "Uncommon",
+      "cardNum": "30/97"
+    },
+    {
+      "name": "Grovyle",
+      "set": "EX Dragon",
+      "img": "https://den-cards.pokellector.com/54/Grovyle.DR.31.png",
+      "rarity": "Uncommon",
+      "cardNum": "31/97"
+    },
+    {
+      "name": "Gyarados",
+      "set": "EX Dragon",
+      "img": "https://den-cards.pokellector.com/54/Gyarados.DR.32.png",
+      "rarity": "Uncommon",
+      "cardNum": "32/97"
+    },
+    {
+      "name": "Horsea",
+      "set": "EX Dragon",
+      "img": "https://den-cards.pokellector.com/54/Horsea.DR.33.png",
+      "rarity": "Uncommon",
+      "cardNum": "33/97"
+    },
+    {
+      "name": "Houndoom",
+      "set": "EX Dragon",
+      "img": "https://den-cards.pokellector.com/54/Houndoom.DR.34.png",
+      "rarity": "Uncommon",
+      "cardNum": "34/97"
+    },
+    {
+      "name": "Magneton",
+      "set": "EX Dragon",
+      "img": "https://den-cards.pokellector.com/54/Magneton.DR.35.png",
+      "rarity": "Uncommon",
+      "cardNum": "35/97"
+    },
+    {
+      "name": "Marshtomp",
+      "set": "EX Dragon",
+      "img": "https://den-cards.pokellector.com/54/Marshtomp.DR.36.png",
+      "rarity": "Uncommon",
+      "cardNum": "36/97"
+    },
+    {
+      "name": "Meditite",
+      "set": "EX Dragon",
+      "img": "https://den-cards.pokellector.com/54/Meditite.DR.37.png",
+      "rarity": "Uncommon",
+      "cardNum": "37/97"
+    },
+    {
+      "name": "Ninjask",
+      "set": "EX Dragon",
+      "img": "https://den-cards.pokellector.com/54/Ninjask.DR.38.png",
+      "rarity": "Uncommon",
+      "cardNum": "38/97"
+    },
+    {
+      "name": "Seadra",
+      "set": "EX Dragon",
+      "img": "https://den-cards.pokellector.com/54/Seadra.DR.39.png",
+      "rarity": "Uncommon",
+      "cardNum": "39/97"
+    },
+    {
+      "name": "Seadra",
+      "set": "EX Dragon",
+      "img": "https://den-cards.pokellector.com/54/Seadra.DR.40.png",
+      "rarity": "Uncommon",
+      "cardNum": "40/97"
+    },
+    {
+      "name": "Shelgon",
+      "set": "EX Dragon",
+      "img": "https://den-cards.pokellector.com/54/Shelgon.DR.41.png",
+      "rarity": "Uncommon",
+      "cardNum": "41/97"
+    },
+    {
+      "name": "Shelgon",
+      "set": "EX Dragon",
+      "img": "https://den-cards.pokellector.com/54/Shelgon.DR.42.png",
+      "rarity": "Uncommon",
+      "cardNum": "42/97"
+    },
+    {
+      "name": "Shuppet",
+      "set": "EX Dragon",
+      "img": "https://den-cards.pokellector.com/54/Shuppet.DR.43.png",
+      "rarity": "Uncommon",
+      "cardNum": "43/97"
+    },
+    {
+      "name": "Snorunt",
+      "set": "EX Dragon",
+      "img": "https://den-cards.pokellector.com/54/Snorunt.DR.44.png",
+      "rarity": "Uncommon",
+      "cardNum": "44/97"
+    },
+    {
+      "name": "Swellow",
+      "set": "EX Dragon",
+      "img": "https://den-cards.pokellector.com/54/Swellow.DR.45.png",
+      "rarity": "Uncommon",
+      "cardNum": "45/97"
+    },
+    {
+      "name": "Vibrava",
+      "set": "EX Dragon",
+      "img": "https://den-cards.pokellector.com/54/Vibrava.DR.46.png",
+      "rarity": "Uncommon",
+      "cardNum": "46/97"
+    },
+    {
+      "name": "Vibrava",
+      "set": "EX Dragon",
+      "img": "https://den-cards.pokellector.com/54/Vibrava.DR.47.png",
+      "rarity": "Uncommon",
+      "cardNum": "47/97"
+    },
+    {
+      "name": "Whiscash",
+      "set": "EX Dragon",
+      "img": "https://den-cards.pokellector.com/54/Whiscash.DR.48.png",
+      "rarity": "Uncommon",
+      "cardNum": "48/97"
+    },
+    {
+      "name": "Bagon",
+      "set": "EX Dragon",
+      "img": "https://den-cards.pokellector.com/54/Bagon.DR.49.png",
+      "rarity": "Common",
+      "cardNum": "49/97"
+    },
+    {
+      "name": "Bagon",
+      "set": "EX Dragon",
+      "img": "https://den-cards.pokellector.com/54/Bagon.DR.50.png",
+      "rarity": "Common",
+      "cardNum": "50/97"
+    },
+    {
+      "name": "Barboach",
+      "set": "EX Dragon",
+      "img": "https://den-cards.pokellector.com/54/Barboach.DR.51.png",
+      "rarity": "Common",
+      "cardNum": "51/97"
+    },
+    {
+      "name": "Corphish",
+      "set": "EX Dragon",
+      "img": "https://den-cards.pokellector.com/54/Corphish.DR.52.png",
+      "rarity": "Common",
+      "cardNum": "52/97"
+    },
+    {
+      "name": "Corphish",
+      "set": "EX Dragon",
+      "img": "https://den-cards.pokellector.com/54/Corphish.DR.53.png",
+      "rarity": "Common",
+      "cardNum": "53/97"
+    },
+    {
+      "name": "Corphish",
+      "set": "EX Dragon",
+      "img": "https://den-cards.pokellector.com/54/Corphish.DR.54.png",
+      "rarity": "Common",
+      "cardNum": "54/97"
+    },
+    {
+      "name": "Geodude",
+      "set": "EX Dragon",
+      "img": "https://den-cards.pokellector.com/54/Geodude.DR.55.png",
+      "rarity": "Common",
+      "cardNum": "55/97"
+    },
+    {
+      "name": "Geodude",
+      "set": "EX Dragon",
+      "img": "https://den-cards.pokellector.com/54/Geodude.DR.56.png",
+      "rarity": "Common",
+      "cardNum": "56/97"
+    },
+    {
+      "name": "Grimer",
+      "set": "EX Dragon",
+      "img": "https://den-cards.pokellector.com/54/Grimer.DR.57.png",
+      "rarity": "Common",
+      "cardNum": "57/97"
+    },
+    {
+      "name": "Horsea",
+      "set": "EX Dragon",
+      "img": "https://den-cards.pokellector.com/54/Horsea.DR.58.png",
+      "rarity": "Common",
+      "cardNum": "58/97"
+    },
+    {
+      "name": "Houndour",
+      "set": "EX Dragon",
+      "img": "https://den-cards.pokellector.com/54/Houndour.DR.59.png",
+      "rarity": "Common",
+      "cardNum": "59/97"
+    },
+    {
+      "name": "Magikarp",
+      "set": "EX Dragon",
+      "img": "https://den-cards.pokellector.com/54/Magikarp.DR.60.png",
+      "rarity": "Common",
+      "cardNum": "60/97"
+    },
+    {
+      "name": "Magnemite",
+      "set": "EX Dragon",
+      "img": "https://den-cards.pokellector.com/54/Magnemite.DR.61.png",
+      "rarity": "Common",
+      "cardNum": "61/97"
+    },
+    {
+      "name": "Magnemite",
+      "set": "EX Dragon",
+      "img": "https://den-cards.pokellector.com/54/Magnemite.DR.62.png",
+      "rarity": "Common",
+      "cardNum": "62/97"
+    },
+    {
+      "name": "Magnemite",
+      "set": "EX Dragon",
+      "img": "https://den-cards.pokellector.com/54/Magnemite.DR.63.png",
+      "rarity": "Common",
+      "cardNum": "63/97"
+    },
+    {
+      "name": "Mareep",
+      "set": "EX Dragon",
+      "img": "https://den-cards.pokellector.com/54/Mareep.DR.64.png",
+      "rarity": "Common",
+      "cardNum": "64/97"
+    },
+    {
+      "name": "Mudkip",
+      "set": "EX Dragon",
+      "img": "https://den-cards.pokellector.com/54/Mudkip.DR.65.png",
+      "rarity": "Common",
+      "cardNum": "65/97"
+    },
+    {
+      "name": "Nincada",
+      "set": "EX Dragon",
+      "img": "https://den-cards.pokellector.com/54/Nincada.DR.66.png",
+      "rarity": "Common",
+      "cardNum": "66/97"
+    },
+    {
+      "name": "Nincada",
+      "set": "EX Dragon",
+      "img": "https://den-cards.pokellector.com/54/Nincada.DR.67.png",
+      "rarity": "Common",
+      "cardNum": "67/97"
+    },
+    {
+      "name": "Nincada",
+      "set": "EX Dragon",
+      "img": "https://den-cards.pokellector.com/54/Nincada.DR.68.png",
+      "rarity": "Common",
+      "cardNum": "68/97"
+    },
+    {
+      "name": "Numel",
+      "set": "EX Dragon",
+      "img": "https://den-cards.pokellector.com/54/Numel.DR.69.png",
+      "rarity": "Common",
+      "cardNum": "69/97"
+    },
+    {
+      "name": "Numel",
+      "set": "EX Dragon",
+      "img": "https://den-cards.pokellector.com/54/Numel.DR.70.png",
+      "rarity": "Common",
+      "cardNum": "70/97"
+    },
+    {
+      "name": "Pineco",
+      "set": "EX Dragon",
+      "img": "https://den-cards.pokellector.com/54/Pineco.DR.71.png",
+      "rarity": "Common",
+      "cardNum": "71/97"
+    },
+    {
+      "name": "Slugma",
+      "set": "EX Dragon",
+      "img": "https://den-cards.pokellector.com/54/Slugma.DR.72.png",
+      "rarity": "Common",
+      "cardNum": "72/97"
+    },
+    {
+      "name": "Spoink",
+      "set": "EX Dragon",
+      "img": "https://den-cards.pokellector.com/54/Spoink.DR.73.png",
+      "rarity": "Common",
+      "cardNum": "73/97"
+    },
+    {
+      "name": "Spoink",
+      "set": "EX Dragon",
+      "img": "https://den-cards.pokellector.com/54/Spoink.DR.74.png",
+      "rarity": "Common",
+      "cardNum": "74/97"
+    },
+    {
+      "name": "Swablu",
+      "set": "EX Dragon",
+      "img": "https://den-cards.pokellector.com/54/Swablu.DR.75.png",
+      "rarity": "Common",
+      "cardNum": "75/97"
+    },
+    {
+      "name": "Taillow",
+      "set": "EX Dragon",
+      "img": "https://den-cards.pokellector.com/54/Taillow.DR.76.png",
+      "rarity": "Common",
+      "cardNum": "76/97"
+    },
+    {
+      "name": "Torchic",
+      "set": "EX Dragon",
+      "img": "https://den-cards.pokellector.com/54/Torchic.DR.77.png",
+      "rarity": "Common",
+      "cardNum": "77/97"
+    },
+    {
+      "name": "Trapinch",
+      "set": "EX Dragon",
+      "img": "https://den-cards.pokellector.com/54/Trapinch.DR.78.png",
+      "rarity": "Common",
+      "cardNum": "78/97"
+    },
+    {
+      "name": "Trapinch",
+      "set": "EX Dragon",
+      "img": "https://den-cards.pokellector.com/54/Trapinch.DR.79.png",
+      "rarity": "Common",
+      "cardNum": "79/97"
+    },
+    {
+      "name": "Treecko",
+      "set": "EX Dragon",
+      "img": "https://den-cards.pokellector.com/54/Treecko.DR.80.png",
+      "rarity": "Common",
+      "cardNum": "80/97"
+    },
+    {
+      "name": "Wurmple",
+      "set": "EX Dragon",
+      "img": "https://den-cards.pokellector.com/54/Wurmple.DR.81.png",
+      "rarity": "Common",
+      "cardNum": "81/97"
+    },
+    {
+      "name": "Balloon Berry",
+      "set": "EX Dragon",
+      "img": "https://den-cards.pokellector.com/54/Balloon-Berry.DR.82.png",
+      "rarity": "Uncommon",
+      "cardNum": "82/97"
+    },
+    {
+      "name": "Buffer Piece",
+      "set": "EX Dragon",
+      "img": "https://den-cards.pokellector.com/54/Buffer-Piece.DR.83.png",
+      "rarity": "Uncommon",
+      "cardNum": "83/97"
+    },
+    {
+      "name": "Energy Recycle System",
+      "set": "EX Dragon",
+      "img": "https://den-cards.pokellector.com/54/Energy-Recycle-System.DR.84.png",
+      "rarity": "Uncommon",
+      "cardNum": "84/97"
+    },
+    {
+      "name": "High Pressure System",
+      "set": "EX Dragon",
+      "img": "https://den-cards.pokellector.com/54/High-Pressure-System.DR.85.png",
+      "rarity": "Uncommon",
+      "cardNum": "85/97"
+    },
+    {
+      "name": "Low Pressure System",
+      "set": "EX Dragon",
+      "img": "https://den-cards.pokellector.com/54/Low-Pressure-System.DR.86.png",
+      "rarity": "Uncommon",
+      "cardNum": "86/97"
+    },
+    {
+      "name": "Mr. Briney's Compassion",
+      "set": "EX Dragon",
+      "img": "https://den-cards.pokellector.com/54/Mr-Brineys-Compassion.DR.87.png",
+      "rarity": "Uncommon",
+      "cardNum": "87/97"
+    },
+    {
+      "name": "TV Reporter",
+      "set": "EX Dragon",
+      "img": "https://den-cards.pokellector.com/54/TV-Reporter.DR.88.png",
+      "rarity": "Uncommon",
+      "cardNum": "88/97"
+    },
+    {
+      "name": "Ampharos EX",
+      "set": "EX Dragon",
+      "img": "https://den-cards.pokellector.com/54/Ampharos-EX.DR.89.png",
+      "rarity": "Rare",
+      "cardNum": "89/97"
+    },
+    {
+      "name": "Dragonite EX",
+      "set": "EX Dragon",
+      "img": "https://den-cards.pokellector.com/54/Dragonite-EX.DR.90.png",
+      "rarity": "Rare",
+      "cardNum": "90/97"
+    },
+    {
+      "name": "Golem ex",
+      "set": "EX Dragon",
+      "img": "https://den-cards.pokellector.com/54/Golem-ex.DR.91.png",
+      "rarity": "Rare",
+      "cardNum": "91/97"
+    },
+    {
+      "name": "Kingdra EX",
+      "set": "EX Dragon",
+      "img": "https://den-cards.pokellector.com/54/Kingdra-EX.DR.92.png",
+      "rarity": "Rare",
+      "cardNum": "92/97"
+    },
+    {
+      "name": "Latias EX",
+      "set": "EX Dragon",
+      "img": "https://den-cards.pokellector.com/54/Latias-EX.DR.93.png",
+      "rarity": "Rare",
+      "cardNum": "93/97"
+    },
+    {
+      "name": "Latios EX",
+      "set": "EX Dragon",
+      "img": "https://den-cards.pokellector.com/54/Latios-EX.DR.94.png",
+      "rarity": "Rare",
+      "cardNum": "94/97"
+    },
+    {
+      "name": "Magcargo EX",
+      "set": "EX Dragon",
+      "img": "https://den-cards.pokellector.com/54/Magcargo-EX.DR.95.png",
+      "rarity": "Rare",
+      "cardNum": "95/97"
+    },
+    {
+      "name": "Muk EX",
+      "set": "EX Dragon",
+      "img": "https://den-cards.pokellector.com/54/Muk-EX.DR.96.png",
+      "rarity": "Rare",
+      "cardNum": "96/97"
+    },
+    {
+      "name": "Rayquaza EX",
+      "set": "EX Dragon",
+      "img": "https://den-cards.pokellector.com/54/Rayquaza-EX.DR.97.png",
+      "rarity": "Rare",
+      "cardNum": "97/97"
+    },
+    {
+      "name": "Charmander",
+      "set": "EX Dragon",
+      "img": "https://den-cards.pokellector.com/54/Charmander.DR.98.png",
+      "rarity": "Secret Rare",
+      "cardNum": "98/97"
+    },
+    {
+      "name": "Charmeleon",
+      "set": "EX Dragon",
+      "img": "https://den-cards.pokellector.com/54/Charmeleon.DR.99.png",
+      "rarity": "Secret Rare",
+      "cardNum": "99/97"
+    },
+    {
+      "name": "Charizard",
+      "set": "EX Dragon",
+      "img": "https://den-cards.pokellector.com/54/Charizard.DR.100.png",
+      "rarity": "Secret Rare",
+      "cardNum": "100/97"
+    }
+  ]
+}

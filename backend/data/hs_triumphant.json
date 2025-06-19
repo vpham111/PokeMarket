@@ -1,0 +1,726 @@
+{
+  "setName": "HS Triumphant",
+  "cards": [
+    {
+      "name": "Aggron",
+      "set": "HS Triumphant",
+      "img": "https://den-cards.pokellector.com/37/Aggron.TM.1.png",
+      "rarity": "Rare",
+      "cardNum": "1/102"
+    },
+    {
+      "name": "Altaria",
+      "set": "HS Triumphant",
+      "img": "https://den-cards.pokellector.com/37/Altaria.TM.2.png",
+      "rarity": "Rare",
+      "cardNum": "2/102"
+    },
+    {
+      "name": "Celebi",
+      "set": "HS Triumphant",
+      "img": "https://den-cards.pokellector.com/37/Celebi.TM.3.png",
+      "rarity": "Rare",
+      "cardNum": "3/102"
+    },
+    {
+      "name": "Drapion",
+      "set": "HS Triumphant",
+      "img": "https://den-cards.pokellector.com/37/Drapion.TM.4.png",
+      "rarity": "Rare",
+      "cardNum": "4/102"
+    },
+    {
+      "name": "Mamoswine",
+      "set": "HS Triumphant",
+      "img": "https://den-cards.pokellector.com/37/Mamoswine.TM.5.png",
+      "rarity": "Rare",
+      "cardNum": "5/102"
+    },
+    {
+      "name": "Nidoking",
+      "set": "HS Triumphant",
+      "img": "https://den-cards.pokellector.com/37/Nidoking.TM.6.png",
+      "rarity": "Rare",
+      "cardNum": "6/102"
+    },
+    {
+      "name": "Porygon-Z",
+      "set": "HS Triumphant",
+      "img": "https://den-cards.pokellector.com/37/Porygon-Z.TM.7.png",
+      "rarity": "Rare",
+      "cardNum": "7/102"
+    },
+    {
+      "name": "Rapidash",
+      "set": "HS Triumphant",
+      "img": "https://den-cards.pokellector.com/37/Rapidash.TM.8.png",
+      "rarity": "Rare",
+      "cardNum": "8/102"
+    },
+    {
+      "name": "Solrock",
+      "set": "HS Triumphant",
+      "img": "https://den-cards.pokellector.com/37/Solrock.TM.9.png",
+      "rarity": "Rare",
+      "cardNum": "9/102"
+    },
+    {
+      "name": "Spiritomb",
+      "set": "HS Triumphant",
+      "img": "https://den-cards.pokellector.com/37/Spiritomb.TM.10.png",
+      "rarity": "Rare",
+      "cardNum": "10/102"
+    },
+    {
+      "name": "Venomoth",
+      "set": "HS Triumphant",
+      "img": "https://den-cards.pokellector.com/37/Venomoth.TM.11.2367.png",
+      "rarity": "Rare",
+      "cardNum": "11/102"
+    },
+    {
+      "name": "Victreebel",
+      "set": "HS Triumphant",
+      "img": "https://den-cards.pokellector.com/37/Victreebel.TM.12.png",
+      "rarity": "Rare",
+      "cardNum": "12/102"
+    },
+    {
+      "name": "Ambipom",
+      "set": "HS Triumphant",
+      "img": "https://den-cards.pokellector.com/37/Ambipom.TM.13.png",
+      "rarity": "Rare",
+      "cardNum": "13/102"
+    },
+    {
+      "name": "Banette",
+      "set": "HS Triumphant",
+      "img": "https://den-cards.pokellector.com/37/Banette.TM.14.png",
+      "rarity": "Rare",
+      "cardNum": "14/102"
+    },
+    {
+      "name": "Bronzong",
+      "set": "HS Triumphant",
+      "img": "https://den-cards.pokellector.com/37/Bronzong.TM.15.png",
+      "rarity": "Rare",
+      "cardNum": "15/102"
+    },
+    {
+      "name": "Carnivine",
+      "set": "HS Triumphant",
+      "img": "https://den-cards.pokellector.com/37/Carnivine.TM.16.png",
+      "rarity": "Rare",
+      "cardNum": "16/102"
+    },
+    {
+      "name": "Ditto",
+      "set": "HS Triumphant",
+      "img": "https://den-cards.pokellector.com/37/Ditto.TM.17.png",
+      "rarity": "Rare",
+      "cardNum": "17/102"
+    },
+    {
+      "name": "Dragonite",
+      "set": "HS Triumphant",
+      "img": "https://den-cards.pokellector.com/37/Dragonite.TM.18.png",
+      "rarity": "Rare",
+      "cardNum": "18/102"
+    },
+    {
+      "name": "Dugtrio",
+      "set": "HS Triumphant",
+      "img": "https://den-cards.pokellector.com/37/Dugtrio.TM.19.png",
+      "rarity": "Rare",
+      "cardNum": "19/102"
+    },
+    {
+      "name": "Electivire",
+      "set": "HS Triumphant",
+      "img": "https://den-cards.pokellector.com/37/Electivire.TM.20.png",
+      "rarity": "Rare",
+      "cardNum": "20/102"
+    },
+    {
+      "name": "Elekid",
+      "set": "HS Triumphant",
+      "img": "https://den-cards.pokellector.com/37/Elekid.TM.21.png",
+      "rarity": "Rare",
+      "cardNum": "21/102"
+    },
+    {
+      "name": "Golduck",
+      "set": "HS Triumphant",
+      "img": "https://den-cards.pokellector.com/37/Golduck.TM.22.png",
+      "rarity": "Rare",
+      "cardNum": "22/102"
+    },
+    {
+      "name": "Grumpig",
+      "set": "HS Triumphant",
+      "img": "https://den-cards.pokellector.com/37/Grumpig.TM.23.png",
+      "rarity": "Rare",
+      "cardNum": "23/102"
+    },
+    {
+      "name": "Kricketune",
+      "set": "HS Triumphant",
+      "img": "https://den-cards.pokellector.com/37/Kricketune.TM.24.png",
+      "rarity": "Rare",
+      "cardNum": "24/102"
+    },
+    {
+      "name": "Lunatone",
+      "set": "HS Triumphant",
+      "img": "https://den-cards.pokellector.com/37/Lunatone.TM.25.png",
+      "rarity": "Rare",
+      "cardNum": "25/102"
+    },
+    {
+      "name": "Machamp",
+      "set": "HS Triumphant",
+      "img": "https://den-cards.pokellector.com/37/Machamp.TM.26.png",
+      "rarity": "Rare",
+      "cardNum": "26/102"
+    },
+    {
+      "name": "Magmortar",
+      "set": "HS Triumphant",
+      "img": "https://den-cards.pokellector.com/37/Magmortar.TM.27.png",
+      "rarity": "Rare",
+      "cardNum": "27/102"
+    },
+    {
+      "name": "Nidoqueen",
+      "set": "HS Triumphant",
+      "img": "https://den-cards.pokellector.com/37/Nidoqueen.TM.28.png",
+      "rarity": "Rare",
+      "cardNum": "28/102"
+    },
+    {
+      "name": "Pidgeot",
+      "set": "HS Triumphant",
+      "img": "https://den-cards.pokellector.com/37/Pidgeot.TM.29.png",
+      "rarity": "Rare",
+      "cardNum": "29/102"
+    },
+    {
+      "name": "Sharpedo",
+      "set": "HS Triumphant",
+      "img": "https://den-cards.pokellector.com/37/Sharpedo.TM.30.png",
+      "rarity": "Rare",
+      "cardNum": "30/102"
+    },
+    {
+      "name": "Wailord",
+      "set": "HS Triumphant",
+      "img": "https://den-cards.pokellector.com/37/Wailord.TM.31.png",
+      "rarity": "Rare",
+      "cardNum": "31/102"
+    },
+    {
+      "name": "Dragonair",
+      "set": "HS Triumphant",
+      "img": "https://den-cards.pokellector.com/37/Dragonair.TM.32.png",
+      "rarity": "Uncommon",
+      "cardNum": "32/102"
+    },
+    {
+      "name": "Electabuzz",
+      "set": "HS Triumphant",
+      "img": "https://den-cards.pokellector.com/37/Electabuzz.TM.33.png",
+      "rarity": "Uncommon",
+      "cardNum": "33/102"
+    },
+    {
+      "name": "Electrode",
+      "set": "HS Triumphant",
+      "img": "https://den-cards.pokellector.com/37/Electrode.TM.34.png",
+      "rarity": "Uncommon",
+      "cardNum": "34/102"
+    },
+    {
+      "name": "Haunter",
+      "set": "HS Triumphant",
+      "img": "https://den-cards.pokellector.com/37/Haunter.TM.35.png",
+      "rarity": "Uncommon",
+      "cardNum": "35/102"
+    },
+    {
+      "name": "Kangaskhan",
+      "set": "HS Triumphant",
+      "img": "https://den-cards.pokellector.com/37/Kangaskhan.TM.36.png",
+      "rarity": "Uncommon",
+      "cardNum": "36/102"
+    },
+    {
+      "name": "Lairon",
+      "set": "HS Triumphant",
+      "img": "https://den-cards.pokellector.com/37/Lairon.TM.37.png",
+      "rarity": "Uncommon",
+      "cardNum": "37/102"
+    },
+    {
+      "name": "Lickilicky",
+      "set": "HS Triumphant",
+      "img": "https://den-cards.pokellector.com/37/Lickilicky.TM.38.png",
+      "rarity": "Uncommon",
+      "cardNum": "38/102"
+    },
+    {
+      "name": "Luvdisc",
+      "set": "HS Triumphant",
+      "img": "https://den-cards.pokellector.com/37/Luvdisc.TM.39.png",
+      "rarity": "Uncommon",
+      "cardNum": "39/102"
+    },
+    {
+      "name": "Machoke",
+      "set": "HS Triumphant",
+      "img": "https://den-cards.pokellector.com/37/Machoke.TM.40.png",
+      "rarity": "Uncommon",
+      "cardNum": "40/102"
+    },
+    {
+      "name": "Magby",
+      "set": "HS Triumphant",
+      "img": "https://den-cards.pokellector.com/37/Magby.TM.41.png",
+      "rarity": "Uncommon",
+      "cardNum": "41/102"
+    },
+    {
+      "name": "Magmar",
+      "set": "HS Triumphant",
+      "img": "https://den-cards.pokellector.com/37/Magmar.TM.42.png",
+      "rarity": "Uncommon",
+      "cardNum": "42/102"
+    },
+    {
+      "name": "Magneton",
+      "set": "HS Triumphant",
+      "img": "https://den-cards.pokellector.com/37/Magneton.TM.43.png",
+      "rarity": "Uncommon",
+      "cardNum": "43/102"
+    },
+    {
+      "name": "Marowak",
+      "set": "HS Triumphant",
+      "img": "https://den-cards.pokellector.com/37/Marowak.TM.44.png",
+      "rarity": "Uncommon",
+      "cardNum": "44/102"
+    },
+    {
+      "name": "Nidorina",
+      "set": "HS Triumphant",
+      "img": "https://den-cards.pokellector.com/37/Nidorina.TM.45.png",
+      "rarity": "Uncommon",
+      "cardNum": "45/102"
+    },
+    {
+      "name": "Nidorino",
+      "set": "HS Triumphant",
+      "img": "https://den-cards.pokellector.com/37/Nidorino.TM.46.png",
+      "rarity": "Uncommon",
+      "cardNum": "46/102"
+    },
+    {
+      "name": "Pidgeotto",
+      "set": "HS Triumphant",
+      "img": "https://den-cards.pokellector.com/37/Pidgeotto.TM.47.png",
+      "rarity": "Uncommon",
+      "cardNum": "47/102"
+    },
+    {
+      "name": "Piloswine",
+      "set": "HS Triumphant",
+      "img": "https://den-cards.pokellector.com/37/Piloswine.TM.48.png",
+      "rarity": "Uncommon",
+      "cardNum": "48/102"
+    },
+    {
+      "name": "Porygon 2",
+      "set": "HS Triumphant",
+      "img": "https://den-cards.pokellector.com/37/Porygon-2.TM.49.png",
+      "rarity": "Uncommon",
+      "cardNum": "49/102"
+    },
+    {
+      "name": "Tentacruel",
+      "set": "HS Triumphant",
+      "img": "https://den-cards.pokellector.com/37/Tentacruel.TM.50.png",
+      "rarity": "Uncommon",
+      "cardNum": "50/102"
+    },
+    {
+      "name": "Unown",
+      "set": "HS Triumphant",
+      "img": "https://den-cards.pokellector.com/37/Unown.TM.51.png",
+      "rarity": "Uncommon",
+      "cardNum": "51/102"
+    },
+    {
+      "name": "Wailmer",
+      "set": "HS Triumphant",
+      "img": "https://den-cards.pokellector.com/37/Wailmer.TM.52.png",
+      "rarity": "Uncommon",
+      "cardNum": "52/102"
+    },
+    {
+      "name": "Weepinbell",
+      "set": "HS Triumphant",
+      "img": "https://den-cards.pokellector.com/37/Weepinbell.TM.53.png",
+      "rarity": "Uncommon",
+      "cardNum": "53/102"
+    },
+    {
+      "name": "Yanmega",
+      "set": "HS Triumphant",
+      "img": "https://den-cards.pokellector.com/37/Yanmega.TM.54.png",
+      "rarity": "Uncommon",
+      "cardNum": "54/102"
+    },
+    {
+      "name": "Aipom",
+      "set": "HS Triumphant",
+      "img": "https://den-cards.pokellector.com/37/Aipom.TM.55.png",
+      "rarity": "Common",
+      "cardNum": "55/102"
+    },
+    {
+      "name": "Aron",
+      "set": "HS Triumphant",
+      "img": "https://den-cards.pokellector.com/37/Aron.TM.56.png",
+      "rarity": "Common",
+      "cardNum": "56/102"
+    },
+    {
+      "name": "Bellsprout",
+      "set": "HS Triumphant",
+      "img": "https://den-cards.pokellector.com/37/Bellsprout.TM.57.png",
+      "rarity": "Common",
+      "cardNum": "57/102"
+    },
+    {
+      "name": "Bronzor",
+      "set": "HS Triumphant",
+      "img": "https://den-cards.pokellector.com/37/Bronzor.TM.58.png",
+      "rarity": "Common",
+      "cardNum": "58/102"
+    },
+    {
+      "name": "Carvanha",
+      "set": "HS Triumphant",
+      "img": "https://den-cards.pokellector.com/37/Carvanha.TM.59.png",
+      "rarity": "Common",
+      "cardNum": "59/102"
+    },
+    {
+      "name": "Cubone",
+      "set": "HS Triumphant",
+      "img": "https://den-cards.pokellector.com/37/Cubone.TM.60.png",
+      "rarity": "Common",
+      "cardNum": "60/102"
+    },
+    {
+      "name": "Diglett",
+      "set": "HS Triumphant",
+      "img": "https://den-cards.pokellector.com/37/Diglett.TM.61.png",
+      "rarity": "Common",
+      "cardNum": "61/102"
+    },
+    {
+      "name": "Dratini",
+      "set": "HS Triumphant",
+      "img": "https://den-cards.pokellector.com/37/Dratini.TM.62.png",
+      "rarity": "Common",
+      "cardNum": "62/102"
+    },
+    {
+      "name": "Gastly",
+      "set": "HS Triumphant",
+      "img": "https://den-cards.pokellector.com/37/Gastly.TM.63.png",
+      "rarity": "Common",
+      "cardNum": "63/102"
+    },
+    {
+      "name": "Illumise",
+      "set": "HS Triumphant",
+      "img": "https://den-cards.pokellector.com/37/Illumise.TM.64.png",
+      "rarity": "Common",
+      "cardNum": "64/102"
+    },
+    {
+      "name": "Kricketot",
+      "set": "HS Triumphant",
+      "img": "https://den-cards.pokellector.com/37/Kricketot.TM.65.png",
+      "rarity": "Common",
+      "cardNum": "65/102"
+    },
+    {
+      "name": "Lickitung",
+      "set": "HS Triumphant",
+      "img": "https://den-cards.pokellector.com/37/Lickitung.TM.66.png",
+      "rarity": "Common",
+      "cardNum": "66/102"
+    },
+    {
+      "name": "Machop",
+      "set": "HS Triumphant",
+      "img": "https://den-cards.pokellector.com/37/Machop.TM.67.png",
+      "rarity": "Common",
+      "cardNum": "67/102"
+    },
+    {
+      "name": "Magnemite",
+      "set": "HS Triumphant",
+      "img": "https://den-cards.pokellector.com/37/Magnemite.TM.68.png",
+      "rarity": "Common",
+      "cardNum": "68/102"
+    },
+    {
+      "name": "Nidoran F",
+      "set": "HS Triumphant",
+      "img": "https://den-cards.pokellector.com/37/Nidoran-F.TM.69.png",
+      "rarity": "Common",
+      "cardNum": "69/102"
+    },
+    {
+      "name": "Nidoran M",
+      "set": "HS Triumphant",
+      "img": "https://den-cards.pokellector.com/37/Nidoran-M.TM.70.png",
+      "rarity": "Common",
+      "cardNum": "70/102"
+    },
+    {
+      "name": "Pidgey",
+      "set": "HS Triumphant",
+      "img": "https://den-cards.pokellector.com/37/Pidgey.TM.71.png",
+      "rarity": "Common",
+      "cardNum": "71/102"
+    },
+    {
+      "name": "Ponyta",
+      "set": "HS Triumphant",
+      "img": "https://den-cards.pokellector.com/37/Ponyta.TM.72.png",
+      "rarity": "Common",
+      "cardNum": "72/102"
+    },
+    {
+      "name": "Porygon",
+      "set": "HS Triumphant",
+      "img": "https://den-cards.pokellector.com/37/Porygon.TM.73.png",
+      "rarity": "Common",
+      "cardNum": "73/102"
+    },
+    {
+      "name": "Psyduck",
+      "set": "HS Triumphant",
+      "img": "https://den-cards.pokellector.com/37/Psyduck.TM.74.png",
+      "rarity": "Common",
+      "cardNum": "74/102"
+    },
+    {
+      "name": "Shuppet",
+      "set": "HS Triumphant",
+      "img": "https://den-cards.pokellector.com/37/Shuppet.TM.75.png",
+      "rarity": "Common",
+      "cardNum": "75/102"
+    },
+    {
+      "name": "Skorupi",
+      "set": "HS Triumphant",
+      "img": "https://den-cards.pokellector.com/37/Skorupi.TM.76.png",
+      "rarity": "Common",
+      "cardNum": "76/102"
+    },
+    {
+      "name": "Spoink",
+      "set": "HS Triumphant",
+      "img": "https://den-cards.pokellector.com/37/Spoink.TM.77.png",
+      "rarity": "Common",
+      "cardNum": "77/102"
+    },
+    {
+      "name": "Swablu",
+      "set": "HS Triumphant",
+      "img": "https://den-cards.pokellector.com/37/Swablu.TM.78.png",
+      "rarity": "Common",
+      "cardNum": "78/102"
+    },
+    {
+      "name": "Swinub",
+      "set": "HS Triumphant",
+      "img": "https://den-cards.pokellector.com/37/Swinub.TM.79.png",
+      "rarity": "Common",
+      "cardNum": "79/102"
+    },
+    {
+      "name": "Tentacool",
+      "set": "HS Triumphant",
+      "img": "https://den-cards.pokellector.com/37/Tentacool.TM.80.png",
+      "rarity": "Common",
+      "cardNum": "80/102"
+    },
+    {
+      "name": "Venonat",
+      "set": "HS Triumphant",
+      "img": "https://den-cards.pokellector.com/37/Venonat.TM.81.png",
+      "rarity": "Common",
+      "cardNum": "81/102"
+    },
+    {
+      "name": "Volbeat",
+      "set": "HS Triumphant",
+      "img": "https://den-cards.pokellector.com/37/Volbeat.TM.82.png",
+      "rarity": "Common",
+      "cardNum": "82/102"
+    },
+    {
+      "name": "Voltorb",
+      "set": "HS Triumphant",
+      "img": "https://den-cards.pokellector.com/37/Voltorb.TM.83.png",
+      "rarity": "Common",
+      "cardNum": "83/102"
+    },
+    {
+      "name": "Yanma",
+      "set": "HS Triumphant",
+      "img": "https://den-cards.pokellector.com/37/Yanma.TM.84.png",
+      "rarity": "Common",
+      "cardNum": "84/102"
+    },
+    {
+      "name": "Black Belt",
+      "set": "HS Triumphant",
+      "img": "https://den-cards.pokellector.com/37/Black-Belt.TM.85.png",
+      "rarity": "Uncommon",
+      "cardNum": "85/102"
+    },
+    {
+      "name": "Indigo Plateau",
+      "set": "HS Triumphant",
+      "img": "https://den-cards.pokellector.com/37/Indigo-Plateau.TM.86.png",
+      "rarity": "Uncommon",
+      "cardNum": "86/102"
+    },
+    {
+      "name": "Junk Arm",
+      "set": "HS Triumphant",
+      "img": "https://den-cards.pokellector.com/37/Junk-Arm.TM.87.png",
+      "rarity": "Uncommon",
+      "cardNum": "87/102"
+    },
+    {
+      "name": "Seeker",
+      "set": "HS Triumphant",
+      "img": "https://den-cards.pokellector.com/37/Seeker.TM.88.png",
+      "rarity": "Uncommon",
+      "cardNum": "88/102"
+    },
+    {
+      "name": "Twins",
+      "set": "HS Triumphant",
+      "img": "https://den-cards.pokellector.com/37/Twins.TM.89.png",
+      "rarity": "Uncommon",
+      "cardNum": "89/102"
+    },
+    {
+      "name": "Rescue Energy",
+      "set": "HS Triumphant",
+      "img": "https://den-cards.pokellector.com/37/Rescue-Energy.TM.90.png",
+      "rarity": "Uncommon",
+      "cardNum": "90/102"
+    },
+    {
+      "name": "Absol",
+      "set": "HS Triumphant",
+      "img": "https://den-cards.pokellector.com/37/Absol.TM.91.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "91/102"
+    },
+    {
+      "name": "Celebi",
+      "set": "HS Triumphant",
+      "img": "https://den-cards.pokellector.com/37/Celebi.TM.92.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "92/102"
+    },
+    {
+      "name": "Electrode",
+      "set": "HS Triumphant",
+      "img": "https://den-cards.pokellector.com/37/Electrode.TM.93.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "93/102"
+    },
+    {
+      "name": "Gengar",
+      "set": "HS Triumphant",
+      "img": "https://den-cards.pokellector.com/37/Gengar.TM.94.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "94/102"
+    },
+    {
+      "name": "Machamp",
+      "set": "HS Triumphant",
+      "img": "https://den-cards.pokellector.com/37/Machamp.TM.95.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "95/102"
+    },
+    {
+      "name": "Magnezone",
+      "set": "HS Triumphant",
+      "img": "https://den-cards.pokellector.com/37/Magnezone.TM.96.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "96/102"
+    },
+    {
+      "name": "Mew",
+      "set": "HS Triumphant",
+      "img": "https://den-cards.pokellector.com/37/Mew.TM.97.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "97/102"
+    },
+    {
+      "name": "Yanmega",
+      "set": "HS Triumphant",
+      "img": "https://den-cards.pokellector.com/37/Yanmega.TM.98.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "98/102"
+    },
+    {
+      "name": "Darkrai & Cresselia LEGEND (top)",
+      "set": "HS Triumphant",
+      "img": "https://den-cards.pokellector.com/37/Darkrai-Cresselia-LEGEND-top.TM.99.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "99/102"
+    },
+    {
+      "name": "Darkrai & Cresselia LEGEND (bottom)",
+      "set": "HS Triumphant",
+      "img": "https://den-cards.pokellector.com/37/Darkrai-Cresselia-LEGEND-bottom.TM.100.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "100/102"
+    },
+    {
+      "name": "Palkia & Dialga LEGEND (top)",
+      "set": "HS Triumphant",
+      "img": "https://den-cards.pokellector.com/37/Palkia-Dialga-LEGEND-top.TM.101.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "101/102"
+    },
+    {
+      "name": "Palkia & Dialga LEGEND (bottom)",
+      "set": "HS Triumphant",
+      "img": "https://den-cards.pokellector.com/37/Palkia-Dialga-LEGEND-bottom.TM.102.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "102/102"
+    },
+    {
+      "name": "Alph Lithograph",
+      "set": "HS Triumphant",
+      "img": "https://den-cards.pokellector.com/37/Alph-Lithograph.TM.0.png",
+      "rarity": "Secret Rare",
+      "cardNum": "FOUR"
+    }
+  ]
+}

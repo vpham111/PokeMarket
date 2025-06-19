@@ -1,0 +1,684 @@
+{
+  "setName": "Bandit Ring",
+  "cards": [
+    {
+      "name": "Oddish",
+      "set": "Bandit Ring",
+      "img": "https://den-cards.pokellector.com/171/Oddish.XY7.1.png",
+      "rarity": "Common",
+      "cardNum": "1/81"
+    },
+    {
+      "name": "Gloom",
+      "set": "Bandit Ring",
+      "img": "https://den-cards.pokellector.com/171/Gloom.XY7.2.png",
+      "rarity": "Common",
+      "cardNum": "2/81"
+    },
+    {
+      "name": "Vileplume",
+      "set": "Bandit Ring",
+      "img": "https://den-cards.pokellector.com/171/Vileplume.XY7.3.png",
+      "rarity": "Uncommon",
+      "cardNum": "3/81"
+    },
+    {
+      "name": "Bellossom",
+      "set": "Bandit Ring",
+      "img": "https://den-cards.pokellector.com/171/Bellossom.XY7.4.png",
+      "rarity": "Common",
+      "cardNum": "4/81"
+    },
+    {
+      "name": "Spinarak",
+      "set": "Bandit Ring",
+      "img": "https://den-cards.pokellector.com/171/Spinarak.XY7.5.png",
+      "rarity": "Common",
+      "cardNum": "5/81"
+    },
+    {
+      "name": "Ariados",
+      "set": "Bandit Ring",
+      "img": "https://den-cards.pokellector.com/171/Ariados.XY7.6.png",
+      "rarity": "Common",
+      "cardNum": "6/81"
+    },
+    {
+      "name": "Sceptile EX",
+      "set": "Bandit Ring",
+      "img": "https://den-cards.pokellector.com/171/Sceptile-EX.XY7.7.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "7/81"
+    },
+    {
+      "name": "M Sceptile EX",
+      "set": "Bandit Ring",
+      "img": "https://den-cards.pokellector.com/171/M-Sceptile-EX.XY7.8.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "8/81"
+    },
+    {
+      "name": "Combee",
+      "set": "Bandit Ring",
+      "img": "https://den-cards.pokellector.com/171/Combee.XY7.9.png",
+      "rarity": "Common",
+      "cardNum": "9/81"
+    },
+    {
+      "name": "Vespiquen",
+      "set": "Bandit Ring",
+      "img": "https://den-cards.pokellector.com/171/Vespiquen.XY7.10.png",
+      "rarity": "Common",
+      "cardNum": "10/81"
+    },
+    {
+      "name": "Vespiquen",
+      "set": "Bandit Ring",
+      "img": "https://den-cards.pokellector.com/171/Vespiquen.XY7.11.png",
+      "rarity": "Common",
+      "cardNum": "11/81"
+    },
+    {
+      "name": "Virizion",
+      "set": "Bandit Ring",
+      "img": "https://den-cards.pokellector.com/171/Virizion.XY7.12.png",
+      "rarity": "Rare",
+      "cardNum": "12/81"
+    },
+    {
+      "name": "Flareon",
+      "set": "Bandit Ring",
+      "img": "https://den-cards.pokellector.com/171/Flareon.XY7.13.png",
+      "rarity": "Common",
+      "cardNum": "13/81"
+    },
+    {
+      "name": "Entei",
+      "set": "Bandit Ring",
+      "img": "https://den-cards.pokellector.com/171/Entei.XY7.14.png",
+      "rarity": "Uncommon",
+      "cardNum": "14/81"
+    },
+    {
+      "name": "Entei",
+      "set": "Bandit Ring",
+      "img": "https://den-cards.pokellector.com/171/Entei.XY7.15.png",
+      "rarity": "Rare",
+      "cardNum": "15/81"
+    },
+    {
+      "name": "Larvesta",
+      "set": "Bandit Ring",
+      "img": "https://den-cards.pokellector.com/171/Larvesta.XY7.16.png",
+      "rarity": "Common",
+      "cardNum": "16/81"
+    },
+    {
+      "name": "Volcarona",
+      "set": "Bandit Ring",
+      "img": "https://den-cards.pokellector.com/171/Volcarona.XY7.17.png",
+      "rarity": "Rare",
+      "cardNum": "17/81"
+    },
+    {
+      "name": "Volcarona",
+      "set": "Bandit Ring",
+      "img": "https://den-cards.pokellector.com/171/Volcarona.XY7.18.png",
+      "rarity": "Uncommon",
+      "cardNum": "18/81"
+    },
+    {
+      "name": "Magikarp",
+      "set": "Bandit Ring",
+      "img": "https://den-cards.pokellector.com/171/Magikarp.XY7.19.png",
+      "rarity": "Common",
+      "cardNum": "19/81"
+    },
+    {
+      "name": "Gyarados",
+      "set": "Bandit Ring",
+      "img": "https://den-cards.pokellector.com/171/Gyarados.XY7.20.png",
+      "rarity": "Uncommon",
+      "cardNum": "20/81"
+    },
+    {
+      "name": "Gyarados",
+      "set": "Bandit Ring",
+      "img": "https://den-cards.pokellector.com/171/Gyarados.XY7.21.png",
+      "rarity": "Rare",
+      "cardNum": "21/81"
+    },
+    {
+      "name": "Vaporeon",
+      "set": "Bandit Ring",
+      "img": "https://den-cards.pokellector.com/171/Vaporeon.XY7.22.png",
+      "rarity": "Common",
+      "cardNum": "22/81"
+    },
+    {
+      "name": "Relicanth",
+      "set": "Bandit Ring",
+      "img": "https://den-cards.pokellector.com/171/Relicanth.XY7.23.png",
+      "rarity": "Common",
+      "cardNum": "23/81"
+    },
+    {
+      "name": "Regice",
+      "set": "Bandit Ring",
+      "img": "https://den-cards.pokellector.com/171/Regice.XY7.24.png",
+      "rarity": "Uncommon",
+      "cardNum": "24/81"
+    },
+    {
+      "name": "Kyurem EX",
+      "set": "Bandit Ring",
+      "img": "https://den-cards.pokellector.com/171/Kyurem-EX.XY7.25.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "25/81"
+    },
+    {
+      "name": "Jolteon",
+      "set": "Bandit Ring",
+      "img": "https://den-cards.pokellector.com/171/Jolteon.XY7.26.png",
+      "rarity": "Rare",
+      "cardNum": "26/81"
+    },
+    {
+      "name": "Ampharos EX",
+      "set": "Bandit Ring",
+      "img": "https://den-cards.pokellector.com/171/Ampharos-EX.XY7.27.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "27/81"
+    },
+    {
+      "name": "M Ampharos EX",
+      "set": "Bandit Ring",
+      "img": "https://den-cards.pokellector.com/171/M-Ampharos-EX.XY7.28.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "28/81"
+    },
+    {
+      "name": "Rotom",
+      "set": "Bandit Ring",
+      "img": "https://den-cards.pokellector.com/171/Rotom.XY7.29.png",
+      "rarity": "Common",
+      "cardNum": "29/81"
+    },
+    {
+      "name": "Unown",
+      "set": "Bandit Ring",
+      "img": "https://den-cards.pokellector.com/171/Unown.XY7.30.png",
+      "rarity": "Common",
+      "cardNum": "30/81"
+    },
+    {
+      "name": "Baltoy",
+      "set": "Bandit Ring",
+      "img": "https://den-cards.pokellector.com/171/Baltoy.XY7.31.png",
+      "rarity": "Common",
+      "cardNum": "31/81"
+    },
+    {
+      "name": "Baltoy",
+      "set": "Bandit Ring",
+      "img": "https://den-cards.pokellector.com/171/Baltoy.XY7.32.png",
+      "rarity": "Common",
+      "cardNum": "32/81"
+    },
+    {
+      "name": "Claydol",
+      "set": "Bandit Ring",
+      "img": "https://den-cards.pokellector.com/171/Claydol.XY7.33.png",
+      "rarity": "Uncommon",
+      "cardNum": "33/81"
+    },
+    {
+      "name": "Golett",
+      "set": "Bandit Ring",
+      "img": "https://den-cards.pokellector.com/171/Golett.XY7.34.png",
+      "rarity": "Common",
+      "cardNum": "34/81"
+    },
+    {
+      "name": "Golurk",
+      "set": "Bandit Ring",
+      "img": "https://den-cards.pokellector.com/171/Golurk.XY7.35.png",
+      "rarity": "Uncommon",
+      "cardNum": "35/81"
+    },
+    {
+      "name": "Hoopa EX",
+      "set": "Bandit Ring",
+      "img": "https://den-cards.pokellector.com/171/Hoopa-EX.XY7.36.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "36/81"
+    },
+    {
+      "name": "Machamp EX",
+      "set": "Bandit Ring",
+      "img": "https://den-cards.pokellector.com/171/Machamp-EX.XY7.37.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "37/81"
+    },
+    {
+      "name": "Wooper",
+      "set": "Bandit Ring",
+      "img": "https://den-cards.pokellector.com/171/Wooper.XY7.38.png",
+      "rarity": "Common",
+      "cardNum": "38/81"
+    },
+    {
+      "name": "Quagsire",
+      "set": "Bandit Ring",
+      "img": "https://den-cards.pokellector.com/171/Quagsire.XY7.39.png",
+      "rarity": "Common",
+      "cardNum": "39/81"
+    },
+    {
+      "name": "Regirock",
+      "set": "Bandit Ring",
+      "img": "https://den-cards.pokellector.com/171/Regirock.XY7.40.png",
+      "rarity": "Uncommon",
+      "cardNum": "40/81"
+    },
+    {
+      "name": "Golurk",
+      "set": "Bandit Ring",
+      "img": "https://den-cards.pokellector.com/171/Golurk.XY7.41.png",
+      "rarity": "Common",
+      "cardNum": "41/81"
+    },
+    {
+      "name": "Tyranitar EX",
+      "set": "Bandit Ring",
+      "img": "https://den-cards.pokellector.com/171/Tyranitar-EX.XY7.42.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "42/81"
+    },
+    {
+      "name": "M Tyranitar EX",
+      "set": "Bandit Ring",
+      "img": "https://den-cards.pokellector.com/171/M-Tyranitar-EX.XY7.43.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "43/81"
+    },
+    {
+      "name": "Sableye",
+      "set": "Bandit Ring",
+      "img": "https://den-cards.pokellector.com/171/Sableye.XY7.44.png",
+      "rarity": "Common",
+      "cardNum": "44/81"
+    },
+    {
+      "name": "Inkay",
+      "set": "Bandit Ring",
+      "img": "https://den-cards.pokellector.com/171/Inkay.XY7.45.png",
+      "rarity": "Common",
+      "cardNum": "45/81"
+    },
+    {
+      "name": "Malamar",
+      "set": "Bandit Ring",
+      "img": "https://den-cards.pokellector.com/171/Malamar.XY7.46.png",
+      "rarity": "Common",
+      "cardNum": "46/81"
+    },
+    {
+      "name": "Beldum",
+      "set": "Bandit Ring",
+      "img": "https://den-cards.pokellector.com/171/Beldum.XY7.47.png",
+      "rarity": "Common",
+      "cardNum": "47/81"
+    },
+    {
+      "name": "Metang",
+      "set": "Bandit Ring",
+      "img": "https://den-cards.pokellector.com/171/Metang.XY7.48.png",
+      "rarity": "Common",
+      "cardNum": "48/81"
+    },
+    {
+      "name": "Metagross",
+      "set": "Bandit Ring",
+      "img": "https://den-cards.pokellector.com/171/Metagross.XY7.49.png",
+      "rarity": "Rare",
+      "cardNum": "49/81"
+    },
+    {
+      "name": "Metagross",
+      "set": "Bandit Ring",
+      "img": "https://den-cards.pokellector.com/171/Metagross.XY7.50.png",
+      "rarity": "Uncommon",
+      "cardNum": "50/81"
+    },
+    {
+      "name": "Registeel",
+      "set": "Bandit Ring",
+      "img": "https://den-cards.pokellector.com/171/Registeel.XY7.51.png",
+      "rarity": "Uncommon",
+      "cardNum": "51/81"
+    },
+    {
+      "name": "Ralts",
+      "set": "Bandit Ring",
+      "img": "https://den-cards.pokellector.com/171/Ralts.XY7.52.png",
+      "rarity": "Common",
+      "cardNum": "52/81"
+    },
+    {
+      "name": "Kirlia",
+      "set": "Bandit Ring",
+      "img": "https://den-cards.pokellector.com/171/Kirlia.XY7.53.png",
+      "rarity": "Common",
+      "cardNum": "53/81"
+    },
+    {
+      "name": "Gardevoir",
+      "set": "Bandit Ring",
+      "img": "https://den-cards.pokellector.com/171/Gardevoir.XY7.54.png",
+      "rarity": "Rare",
+      "cardNum": "54/81"
+    },
+    {
+      "name": "Cottonee",
+      "set": "Bandit Ring",
+      "img": "https://den-cards.pokellector.com/171/Cottonee.XY7.55.png",
+      "rarity": "Common",
+      "cardNum": "55/81"
+    },
+    {
+      "name": "Whimsicott",
+      "set": "Bandit Ring",
+      "img": "https://den-cards.pokellector.com/171/Whimsicott.XY7.56.png",
+      "rarity": "Common",
+      "cardNum": "56/81"
+    },
+    {
+      "name": "Giratina EX",
+      "set": "Bandit Ring",
+      "img": "https://den-cards.pokellector.com/171/Giratina-EX.XY7.57.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "57/81"
+    },
+    {
+      "name": "Goomy",
+      "set": "Bandit Ring",
+      "img": "https://den-cards.pokellector.com/171/Goomy.XY7.58.png",
+      "rarity": "Common",
+      "cardNum": "58/81"
+    },
+    {
+      "name": "Sliggoo",
+      "set": "Bandit Ring",
+      "img": "https://den-cards.pokellector.com/171/Sliggoo.XY7.59.png",
+      "rarity": "Common",
+      "cardNum": "59/81"
+    },
+    {
+      "name": "Goodra",
+      "set": "Bandit Ring",
+      "img": "https://den-cards.pokellector.com/171/Goodra.XY7.60.png",
+      "rarity": "Rare",
+      "cardNum": "60/81"
+    },
+    {
+      "name": "Meowth",
+      "set": "Bandit Ring",
+      "img": "https://den-cards.pokellector.com/171/Meowth.XY7.61.png",
+      "rarity": "Common",
+      "cardNum": "61/81"
+    },
+    {
+      "name": "Persian",
+      "set": "Bandit Ring",
+      "img": "https://den-cards.pokellector.com/171/Persian.XY7.62.png",
+      "rarity": "Uncommon",
+      "cardNum": "62/81"
+    },
+    {
+      "name": "Eevee",
+      "set": "Bandit Ring",
+      "img": "https://den-cards.pokellector.com/171/Eevee.XY7.63.png",
+      "rarity": "Common",
+      "cardNum": "63/81"
+    },
+    {
+      "name": "Porygon",
+      "set": "Bandit Ring",
+      "img": "https://den-cards.pokellector.com/171/Porygon.XY7.64.png",
+      "rarity": "Common",
+      "cardNum": "64/81"
+    },
+    {
+      "name": "Porygon2",
+      "set": "Bandit Ring",
+      "img": "https://den-cards.pokellector.com/171/Porygon2.XY7.65.png",
+      "rarity": "Common",
+      "cardNum": "65/81"
+    },
+    {
+      "name": "Porygon-Z",
+      "set": "Bandit Ring",
+      "img": "https://den-cards.pokellector.com/171/Porygon-Z.XY7.66.png",
+      "rarity": "Uncommon",
+      "cardNum": "66/81"
+    },
+    {
+      "name": "Porygon-Z",
+      "set": "Bandit Ring",
+      "img": "https://den-cards.pokellector.com/171/Porygon-Z.XY7.67.png",
+      "rarity": "Rare",
+      "cardNum": "67/81"
+    },
+    {
+      "name": "Lugia EX",
+      "set": "Bandit Ring",
+      "img": "https://den-cards.pokellector.com/171/Lugia-EX.XY7.68.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "68/81"
+    },
+    {
+      "name": "Eco Arm",
+      "set": "Bandit Ring",
+      "img": "https://den-cards.pokellector.com/171/Eco-Arm.XY7.69.png",
+      "rarity": "Uncommon",
+      "cardNum": "69/81"
+    },
+    {
+      "name": "Paint Roller",
+      "set": "Bandit Ring",
+      "img": "https://den-cards.pokellector.com/171/Paint-Roller.XY7.70.png",
+      "rarity": "Uncommon",
+      "cardNum": "70/81"
+    },
+    {
+      "name": "Level Ball",
+      "set": "Bandit Ring",
+      "img": "https://den-cards.pokellector.com/171/Level-Ball.XY7.71.png",
+      "rarity": "Uncommon",
+      "cardNum": "71/81"
+    },
+    {
+      "name": "Lucky Helmet",
+      "set": "Bandit Ring",
+      "img": "https://den-cards.pokellector.com/171/Lucky-Helmet.XY7.72.png",
+      "rarity": "Uncommon",
+      "cardNum": "72/81"
+    },
+    {
+      "name": "Sceptile Spirit Link",
+      "set": "Bandit Ring",
+      "img": "https://den-cards.pokellector.com/171/Sceptile-Spirit-Link.XY7.73.png",
+      "rarity": "Uncommon",
+      "cardNum": "73/81"
+    },
+    {
+      "name": "Ampharos Spirit Link",
+      "set": "Bandit Ring",
+      "img": "https://den-cards.pokellector.com/171/Ampharos-Spirit-Link.XY7.74.png",
+      "rarity": "Uncommon",
+      "cardNum": "74/81"
+    },
+    {
+      "name": "Tyranitar Spirit Link",
+      "set": "Bandit Ring",
+      "img": "https://den-cards.pokellector.com/171/Tyranitar-Spirit-Link.XY7.75.png",
+      "rarity": "Uncommon",
+      "cardNum": "75/81"
+    },
+    {
+      "name": "Ace Trainer",
+      "set": "Bandit Ring",
+      "img": "https://den-cards.pokellector.com/171/Ace-Trainer.XY7.76.png",
+      "rarity": "Uncommon",
+      "cardNum": "76/81"
+    },
+    {
+      "name": "Hex Maniac",
+      "set": "Bandit Ring",
+      "img": "https://den-cards.pokellector.com/171/Hex-Maniac.XY7.77.png",
+      "rarity": "Uncommon",
+      "cardNum": "77/81"
+    },
+    {
+      "name": "Town of Lost Color",
+      "set": "Bandit Ring",
+      "img": "https://den-cards.pokellector.com/171/Town-of-Lost-Color.XY7.78.png",
+      "rarity": "Uncommon",
+      "cardNum": "78/81"
+    },
+    {
+      "name": "Giant Plant Forest",
+      "set": "Bandit Ring",
+      "img": "https://den-cards.pokellector.com/171/Forest-of-Giant-Plants.XY7.79.png",
+      "rarity": "Uncommon",
+      "cardNum": "79/81"
+    },
+    {
+      "name": "Flash Energy",
+      "set": "Bandit Ring",
+      "img": "https://den-cards.pokellector.com/171/Flash-Energy.XY7.80.png",
+      "rarity": "Uncommon",
+      "cardNum": "80/81"
+    },
+    {
+      "name": "Bad Energy",
+      "set": "Bandit Ring",
+      "img": "https://den-cards.pokellector.com/171/Bad-Energy.XY7.81.png",
+      "rarity": "Uncommon",
+      "cardNum": "81/81"
+    },
+    {
+      "name": "Sceptile EX",
+      "set": "Bandit Ring",
+      "img": "https://den-cards.pokellector.com/171/Sceptile-EX.XY7.82.png",
+      "rarity": "Secret Rare",
+      "cardNum": "82/81"
+    },
+    {
+      "name": "M Sceptile EX",
+      "set": "Bandit Ring",
+      "img": "https://den-cards.pokellector.com/171/M-Sceptile-EX.XY7.83.png",
+      "rarity": "Secret Rare",
+      "cardNum": "83/81"
+    },
+    {
+      "name": "Kyurem EX",
+      "set": "Bandit Ring",
+      "img": "https://den-cards.pokellector.com/171/Kyurem-EX.XY7.84.png",
+      "rarity": "Secret Rare",
+      "cardNum": "84/81"
+    },
+    {
+      "name": "Ampharos EX",
+      "set": "Bandit Ring",
+      "img": "https://den-cards.pokellector.com/171/Ampharos-EX.XY7.85.png",
+      "rarity": "Secret Rare",
+      "cardNum": "85/81"
+    },
+    {
+      "name": "M Ampharos EX",
+      "set": "Bandit Ring",
+      "img": "https://den-cards.pokellector.com/171/M-Ampharos-EX.XY7.86.png",
+      "rarity": "Secret Rare",
+      "cardNum": "86/81"
+    },
+    {
+      "name": "Hoopa EX",
+      "set": "Bandit Ring",
+      "img": "https://den-cards.pokellector.com/171/Hoopa-EX.XY7.87.png",
+      "rarity": "Secret Rare",
+      "cardNum": "87/81"
+    },
+    {
+      "name": "Machamp EX",
+      "set": "Bandit Ring",
+      "img": "https://den-cards.pokellector.com/171/Machamp-EX.XY7.88.png",
+      "rarity": "Secret Rare",
+      "cardNum": "88/81"
+    },
+    {
+      "name": "Tyranitar EX",
+      "set": "Bandit Ring",
+      "img": "https://den-cards.pokellector.com/171/Tyranitar-EX.XY7.89.png",
+      "rarity": "Secret Rare",
+      "cardNum": "89/81"
+    },
+    {
+      "name": "M Tyranitar EX",
+      "set": "Bandit Ring",
+      "img": "https://den-cards.pokellector.com/171/M-Tyranitar-EX.XY7.90.png",
+      "rarity": "Secret Rare",
+      "cardNum": "90/81"
+    },
+    {
+      "name": "Giratina EX",
+      "set": "Bandit Ring",
+      "img": "https://den-cards.pokellector.com/171/Giratina-EX.XY7.91.png",
+      "rarity": "Secret Rare",
+      "cardNum": "91/81"
+    },
+    {
+      "name": "Lugia EX",
+      "set": "Bandit Ring",
+      "img": "https://den-cards.pokellector.com/171/Lugia-EX.XY7.92.png",
+      "rarity": "Secret Rare",
+      "cardNum": "92/81"
+    },
+    {
+      "name": "Primal Kyogre EX",
+      "set": "Bandit Ring",
+      "img": "https://den-cards.pokellector.com/171/M-Kyogre-EX.XY7.93.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "93/81"
+    },
+    {
+      "name": "Primal Groudon EX",
+      "set": "Bandit Ring",
+      "img": "https://den-cards.pokellector.com/171/M-Groudon-EX.XY7.94.png",
+      "rarity": "Secret Rare",
+      "cardNum": "94/81"
+    },
+    {
+      "name": "M Rayquaza EX",
+      "set": "Bandit Ring",
+      "img": "https://den-cards.pokellector.com/171/M-Rayquaza-EX.XY7.95.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "95/81"
+    },
+    {
+      "name": "Energy Retrieval",
+      "set": "Bandit Ring",
+      "img": "https://den-cards.pokellector.com/171/Energy-Retrieval.XY7.96.png",
+      "rarity": "Secret Rare",
+      "cardNum": "96/81"
+    },
+    {
+      "name": "Trainer's Mail",
+      "set": "Bandit Ring",
+      "img": "https://den-cards.pokellector.com/171/Trainers-Mail.XY7.97.png",
+      "rarity": "Secret Rare",
+      "cardNum": "97/81"
+    }
+  ]
+}

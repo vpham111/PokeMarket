@@ -1,0 +1,404 @@
+{
+  "setName": "Awakening Legends",
+  "cards": [
+    {
+      "name": "Zubat",
+      "set": "Awakening Legends",
+      "img": "https://den-cards.pokellector.com/332/Zubat.NEO3.1.39650.png",
+      "rarity": "Common",
+      "cardNum": "1/57"
+    },
+    {
+      "name": "Paras",
+      "set": "Awakening Legends",
+      "img": "https://den-cards.pokellector.com/332/Paras.NEO3.2.39651.png",
+      "rarity": "Common",
+      "cardNum": "2/57"
+    },
+    {
+      "name": "Skiploom",
+      "set": "Awakening Legends",
+      "img": "https://den-cards.pokellector.com/332/Skiploom.NEO3.3.39652.png",
+      "rarity": "Common",
+      "cardNum": "3/57"
+    },
+    {
+      "name": "Golbat",
+      "set": "Awakening Legends",
+      "img": "https://den-cards.pokellector.com/332/Golbat.NEO3.4.39653.png",
+      "rarity": "Uncommon",
+      "cardNum": "4/57"
+    },
+    {
+      "name": "Parasect",
+      "set": "Awakening Legends",
+      "img": "https://den-cards.pokellector.com/332/Parasect.NEO3.5.39654.png",
+      "rarity": "Uncommon",
+      "cardNum": "5/57"
+    },
+    {
+      "name": "Crobat",
+      "set": "Awakening Legends",
+      "img": "https://den-cards.pokellector.com/332/Crobat.NEO3.6.39655.png",
+      "rarity": "Rare",
+      "cardNum": "6/57"
+    },
+    {
+      "name": "Jumpluff",
+      "set": "Awakening Legends",
+      "img": "https://den-cards.pokellector.com/332/Jumpluff.NEO3.7.39656.png",
+      "rarity": "Rare",
+      "cardNum": "7/57"
+    },
+    {
+      "name": "Slugma",
+      "set": "Awakening Legends",
+      "img": "https://den-cards.pokellector.com/332/Slugma.NEO3.8.39657.png",
+      "rarity": "Common",
+      "cardNum": "8/57"
+    },
+    {
+      "name": "Magcargo",
+      "set": "Awakening Legends",
+      "img": "https://den-cards.pokellector.com/332/Magcargo.NEO3.9.39658.png",
+      "rarity": "Uncommon",
+      "cardNum": "9/57"
+    },
+    {
+      "name": "Entei",
+      "set": "Awakening Legends",
+      "img": "https://den-cards.pokellector.com/332/Entei.NEO3.10.39659.png",
+      "rarity": "Rare",
+      "cardNum": "10/57"
+    },
+    {
+      "name": "Ho-Oh",
+      "set": "Awakening Legends",
+      "img": "https://den-cards.pokellector.com/332/Ho-Oh.NEO3.11.39660.png",
+      "rarity": "Rare",
+      "cardNum": "11/57"
+    },
+    {
+      "name": "Goldeen",
+      "set": "Awakening Legends",
+      "img": "https://den-cards.pokellector.com/332/Goldeen.NEO3.12.39661.png",
+      "rarity": "Common",
+      "cardNum": "12/57"
+    },
+    {
+      "name": "Staryu",
+      "set": "Awakening Legends",
+      "img": "https://den-cards.pokellector.com/332/Staryu.NEO3.13.39662.png",
+      "rarity": "Common",
+      "cardNum": "13/57"
+    },
+    {
+      "name": "Quagsire",
+      "set": "Awakening Legends",
+      "img": "https://den-cards.pokellector.com/332/Quagsire.NEO3.14.39663.png",
+      "rarity": "Common",
+      "cardNum": "14/57"
+    },
+    {
+      "name": "Qwilfish",
+      "set": "Awakening Legends",
+      "img": "https://den-cards.pokellector.com/332/Qwilfish.NEO3.15.39664.png",
+      "rarity": "Common",
+      "cardNum": "15/57"
+    },
+    {
+      "name": "Remoraid",
+      "set": "Awakening Legends",
+      "img": "https://den-cards.pokellector.com/332/Remoraid.NEO3.16.39665.png",
+      "rarity": "Common",
+      "cardNum": "16/57"
+    },
+    {
+      "name": "Seaking",
+      "set": "Awakening Legends",
+      "img": "https://den-cards.pokellector.com/332/Seaking.NEO3.17.39666.png",
+      "rarity": "Uncommon",
+      "cardNum": "17/57"
+    },
+    {
+      "name": "Jynx",
+      "set": "Awakening Legends",
+      "img": "https://den-cards.pokellector.com/332/Jynx.NEO3.18.39667.png",
+      "rarity": "Uncommon",
+      "cardNum": "18/57"
+    },
+    {
+      "name": "Octillery",
+      "set": "Awakening Legends",
+      "img": "https://den-cards.pokellector.com/332/Octillery.NEO3.19.39668.png",
+      "rarity": "Uncommon",
+      "cardNum": "19/57"
+    },
+    {
+      "name": "Kingdra",
+      "set": "Awakening Legends",
+      "img": "https://den-cards.pokellector.com/332/Kingdra.NEO3.20.39669.png",
+      "rarity": "Rare",
+      "cardNum": "20/57"
+    },
+    {
+      "name": "Suicune",
+      "set": "Awakening Legends",
+      "img": "https://den-cards.pokellector.com/332/Suicune.NEO3.21.39670.png",
+      "rarity": "Rare",
+      "cardNum": "21/57"
+    },
+    {
+      "name": "Shining Magikarp",
+      "set": "Awakening Legends",
+      "img": "https://den-cards.pokellector.com/332/Shining-Magikarp.NEO3.22.39671.png",
+      "rarity": "Rare",
+      "cardNum": "22/57"
+    },
+    {
+      "name": "Shining Gyarados",
+      "set": "Awakening Legends",
+      "img": "https://den-cards.pokellector.com/332/Shining-Gyarados.NEO3.23.39672.png",
+      "rarity": "Rare",
+      "cardNum": "23/57"
+    },
+    {
+      "name": "Chinchou",
+      "set": "Awakening Legends",
+      "img": "https://den-cards.pokellector.com/332/Chinchou.NEO3.24.39673.png",
+      "rarity": "Common",
+      "cardNum": "24/57"
+    },
+    {
+      "name": "Raichu",
+      "set": "Awakening Legends",
+      "img": "https://den-cards.pokellector.com/332/Raichu.NEO3.25.39674.png",
+      "rarity": "Uncommon",
+      "cardNum": "25/57"
+    },
+    {
+      "name": "Lanturn",
+      "set": "Awakening Legends",
+      "img": "https://den-cards.pokellector.com/332/Lanturn.NEO3.26.39675.png",
+      "rarity": "Uncommon",
+      "cardNum": "26/57"
+    },
+    {
+      "name": "Flaaffy",
+      "set": "Awakening Legends",
+      "img": "https://den-cards.pokellector.com/332/Flaaffy.NEO3.27.39676.png",
+      "rarity": "Uncommon",
+      "cardNum": "27/57"
+    },
+    {
+      "name": "Ampharos",
+      "set": "Awakening Legends",
+      "img": "https://den-cards.pokellector.com/332/Ampharos.NEO3.28.39677.png",
+      "rarity": "Rare",
+      "cardNum": "28/57"
+    },
+    {
+      "name": "Raikou",
+      "set": "Awakening Legends",
+      "img": "https://den-cards.pokellector.com/332/Raikou.NEO3.29.39678.png",
+      "rarity": "Rare",
+      "cardNum": "29/57"
+    },
+    {
+      "name": "Unown K",
+      "set": "Awakening Legends",
+      "img": "https://den-cards.pokellector.com/332/Unown-K.NEO3.30.39679.png",
+      "rarity": "Common",
+      "cardNum": "30/57"
+    },
+    {
+      "name": "Smoochum",
+      "set": "Awakening Legends",
+      "img": "https://den-cards.pokellector.com/332/Smoochum.NEO3.31.39680.png",
+      "rarity": "Common",
+      "cardNum": "31/57"
+    },
+    {
+      "name": "Unown B",
+      "set": "Awakening Legends",
+      "img": "https://den-cards.pokellector.com/332/Unown-B.NEO3.32.39681.png",
+      "rarity": "Uncommon",
+      "cardNum": "32/57"
+    },
+    {
+      "name": "Unown Y",
+      "set": "Awakening Legends",
+      "img": "https://den-cards.pokellector.com/332/Unown-Y.NEO3.33.39682.png",
+      "rarity": "Uncommon",
+      "cardNum": "33/57"
+    },
+    {
+      "name": "Starmie",
+      "set": "Awakening Legends",
+      "img": "https://den-cards.pokellector.com/332/Starmie.NEO3.34.39683.png",
+      "rarity": "Rare",
+      "cardNum": "34/57"
+    },
+    {
+      "name": "Misdreavus",
+      "set": "Awakening Legends",
+      "img": "https://den-cards.pokellector.com/332/Misdreavus.NEO3.35.39684.png",
+      "rarity": "Rare",
+      "cardNum": "35/57"
+    },
+    {
+      "name": "Celebi",
+      "set": "Awakening Legends",
+      "img": "https://den-cards.pokellector.com/332/Celebi.NEO3.36.39685.png",
+      "rarity": "Rare",
+      "cardNum": "36/57"
+    },
+    {
+      "name": "Geodude",
+      "set": "Awakening Legends",
+      "img": "https://den-cards.pokellector.com/332/Geodude.NEO3.37.39686.png",
+      "rarity": "Common",
+      "cardNum": "37/57"
+    },
+    {
+      "name": "Swinub",
+      "set": "Awakening Legends",
+      "img": "https://den-cards.pokellector.com/332/Swinub.NEO3.38.39687.png",
+      "rarity": "Common",
+      "cardNum": "38/57"
+    },
+    {
+      "name": "Graveler",
+      "set": "Awakening Legends",
+      "img": "https://den-cards.pokellector.com/332/Graveler.NEO3.39.39688.png",
+      "rarity": "Uncommon",
+      "cardNum": "39/57"
+    },
+    {
+      "name": "Shuckle",
+      "set": "Awakening Legends",
+      "img": "https://den-cards.pokellector.com/332/Shuckle.NEO3.40.39689.png",
+      "rarity": "Uncommon",
+      "cardNum": "40/57"
+    },
+    {
+      "name": "Piloswine",
+      "set": "Awakening Legends",
+      "img": "https://den-cards.pokellector.com/332/Piloswine.NEO3.41.39690.png",
+      "rarity": "Uncommon",
+      "cardNum": "41/57"
+    },
+    {
+      "name": "Aerodactyl",
+      "set": "Awakening Legends",
+      "img": "https://den-cards.pokellector.com/332/Aerodactyl.NEO3.42.39691.png",
+      "rarity": "Rare",
+      "cardNum": "42/57"
+    },
+    {
+      "name": "Murkrow",
+      "set": "Awakening Legends",
+      "img": "https://den-cards.pokellector.com/332/Murkrow.NEO3.43.39692.png",
+      "rarity": "Common",
+      "cardNum": "43/57"
+    },
+    {
+      "name": "Houndoom",
+      "set": "Awakening Legends",
+      "img": "https://den-cards.pokellector.com/332/Houndoom.NEO3.44.39693.png",
+      "rarity": "Rare",
+      "cardNum": "44/57"
+    },
+    {
+      "name": "Magneton",
+      "set": "Awakening Legends",
+      "img": "https://den-cards.pokellector.com/332/Magneton.NEO3.45.39694.png",
+      "rarity": "Rare",
+      "cardNum": "45/57"
+    },
+    {
+      "name": "Farfetch'd",
+      "set": "Awakening Legends",
+      "img": "https://den-cards.pokellector.com/332/Farfetchd.NEO3.46.39695.png",
+      "rarity": "Common",
+      "cardNum": "46/57"
+    },
+    {
+      "name": "Aipom",
+      "set": "Awakening Legends",
+      "img": "https://den-cards.pokellector.com/332/Aipom.NEO3.47.39696.png",
+      "rarity": "Common",
+      "cardNum": "47/57"
+    },
+    {
+      "name": "Snubbull",
+      "set": "Awakening Legends",
+      "img": "https://den-cards.pokellector.com/332/Snubbull.NEO3.48.39697.png",
+      "rarity": "Common",
+      "cardNum": "48/57"
+    },
+    {
+      "name": "Stantler",
+      "set": "Awakening Legends",
+      "img": "https://den-cards.pokellector.com/332/Stantler.NEO3.49.39698.png",
+      "rarity": "Uncommon",
+      "cardNum": "49/57"
+    },
+    {
+      "name": "Delibird",
+      "set": "Awakening Legends",
+      "img": "https://den-cards.pokellector.com/332/Delibird.NEO3.50.39699.png",
+      "rarity": "Rare",
+      "cardNum": "50/57"
+    },
+    {
+      "name": "Porygon2",
+      "set": "Awakening Legends",
+      "img": "https://den-cards.pokellector.com/332/Porygon2.NEO3.51.39700.png",
+      "rarity": "Rare",
+      "cardNum": "51/57"
+    },
+    {
+      "name": "Blissey",
+      "set": "Awakening Legends",
+      "img": "https://den-cards.pokellector.com/332/Blissey.NEO3.52.39701.png",
+      "rarity": "Rare",
+      "cardNum": "52/57"
+    },
+    {
+      "name": "Old Rod",
+      "set": "Awakening Legends",
+      "img": "https://den-cards.pokellector.com/332/Old-Rod.NEO3.53.39702.png",
+      "rarity": "Common",
+      "cardNum": "53/57"
+    },
+    {
+      "name": "Healing Field",
+      "set": "Awakening Legends",
+      "img": "https://den-cards.pokellector.com/332/Healing-Field.NEO3.54.39703.png",
+      "rarity": "Uncommon",
+      "cardNum": "54/57"
+    },
+    {
+      "name": "Balloon Berry",
+      "set": "Awakening Legends",
+      "img": "https://den-cards.pokellector.com/332/Balloon-Berry.NEO3.55.39704.png",
+      "rarity": "Uncommon",
+      "cardNum": "55/57"
+    },
+    {
+      "name": "Pokémon Breeder Fields",
+      "set": "Awakening Legends",
+      "img": "https://den-cards.pokellector.com/332/Pokmon-Breeder-Fields.NEO3.56.39705.png",
+      "rarity": "Uncommon",
+      "cardNum": "56/57"
+    },
+    {
+      "name": "Rocket's Hideout",
+      "set": "Awakening Legends",
+      "img": "https://den-cards.pokellector.com/332/Rockets-Hideout.NEO3.57.39706.png",
+      "rarity": "Uncommon",
+      "cardNum": "57/57"
+    }
+  ]
+}

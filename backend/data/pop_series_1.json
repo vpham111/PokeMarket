@@ -1,0 +1,124 @@
+{
+  "setName": "POP Series 1",
+  "cards": [
+    {
+      "name": "Blaziken",
+      "set": "POP Series 1",
+      "img": "https://den-cards.pokellector.com/68/Blaziken.POP1.1.png",
+      "rarity": "Rare",
+      "cardNum": "1/17"
+    },
+    {
+      "name": "Metagross",
+      "set": "POP Series 1",
+      "img": "https://den-cards.pokellector.com/68/Metagross.POP1.2.png",
+      "rarity": "Rare",
+      "cardNum": "2/17"
+    },
+    {
+      "name": "Rayquaza",
+      "set": "POP Series 1",
+      "img": "https://den-cards.pokellector.com/68/Rayquaza.POP1.3.png",
+      "rarity": "Rare",
+      "cardNum": "3/17"
+    },
+    {
+      "name": "Sceptile",
+      "set": "POP Series 1",
+      "img": "https://den-cards.pokellector.com/68/Sceptile.POP1.4.png",
+      "rarity": "Rare",
+      "cardNum": "4/17"
+    },
+    {
+      "name": "Swampert",
+      "set": "POP Series 1",
+      "img": "https://den-cards.pokellector.com/68/Swampert.POP1.5.png",
+      "rarity": "Rare",
+      "cardNum": "5/17"
+    },
+    {
+      "name": "Beautifly",
+      "set": "POP Series 1",
+      "img": "https://den-cards.pokellector.com/68/Beautifly.POP1.6.png",
+      "rarity": "Uncommon",
+      "cardNum": "6/17"
+    },
+    {
+      "name": "Masquerain",
+      "set": "POP Series 1",
+      "img": "https://den-cards.pokellector.com/68/Masquerain.POP1.7.png",
+      "rarity": "Uncommon",
+      "cardNum": "7/17"
+    },
+    {
+      "name": "Murkrow",
+      "set": "POP Series 1",
+      "img": "https://den-cards.pokellector.com/68/Murkrow.POP1.8.png",
+      "rarity": "Uncommon",
+      "cardNum": "8/17"
+    },
+    {
+      "name": "Pupitar",
+      "set": "POP Series 1",
+      "img": "https://den-cards.pokellector.com/68/Pupitar.POP1.9.png",
+      "rarity": "Uncommon",
+      "cardNum": "9/17"
+    },
+    {
+      "name": "Torkoal",
+      "set": "POP Series 1",
+      "img": "https://den-cards.pokellector.com/68/Torkoal.POP1.10.png",
+      "rarity": "Uncommon",
+      "cardNum": "10/17"
+    },
+    {
+      "name": "Larvitar",
+      "set": "POP Series 1",
+      "img": "https://den-cards.pokellector.com/68/Larvitar.POP1.11.png",
+      "rarity": "Common",
+      "cardNum": "11/17"
+    },
+    {
+      "name": "Minun",
+      "set": "POP Series 1",
+      "img": "https://den-cards.pokellector.com/68/Minun.POP1.12.png",
+      "rarity": "Common",
+      "cardNum": "12/17"
+    },
+    {
+      "name": "Plusle",
+      "set": "POP Series 1",
+      "img": "https://den-cards.pokellector.com/68/Plusle.POP1.13.png",
+      "rarity": "Common",
+      "cardNum": "13/17"
+    },
+    {
+      "name": "Surskit",
+      "set": "POP Series 1",
+      "img": "https://den-cards.pokellector.com/68/Surskit.POP1.14.png",
+      "rarity": "Common",
+      "cardNum": "14/17"
+    },
+    {
+      "name": "Swellow",
+      "set": "POP Series 1",
+      "img": "https://den-cards.pokellector.com/68/Swellow.POP1.15.png",
+      "rarity": "Common",
+      "cardNum": "15/17"
+    },
+    {
+      "name": "Armaldo ex",
+      "set": "POP Series 1",
+      "img": "https://den-cards.pokellector.com/68/Armaldo-ex.POP1.16.png",
+      "rarity": "Rare",
+      "cardNum": "16/17"
+    },
+    {
+      "name": "Tyranitar ex",
+      "set": "POP Series 1",
+      "img": "https://den-cards.pokellector.com/68/Tyranitar-ex.POP1.17.png",
+      "rarity": "Rare",
+      "cardNum": "17/17"
+    }
+  ]
+}

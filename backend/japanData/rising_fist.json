@@ -1,0 +1,740 @@
+{
+  "setName": "Rising Fist",
+  "cards": [
+    {
+      "name": "Bellsprout",
+      "set": "Rising Fist",
+      "img": "https://den-cards.pokellector.com/157/Bellsprout.XY3.1.png",
+      "rarity": "Common",
+      "cardNum": "1/96"
+    },
+    {
+      "name": "Weepinbell",
+      "set": "Rising Fist",
+      "img": "https://den-cards.pokellector.com/157/Weepinbell.XY3.2.png",
+      "rarity": "Common",
+      "cardNum": "2/96"
+    },
+    {
+      "name": "Victreebel",
+      "set": "Rising Fist",
+      "img": "https://den-cards.pokellector.com/157/Victreebel.XY3.3.png",
+      "rarity": "Rare",
+      "cardNum": "3/96"
+    },
+    {
+      "name": "Heracross EX",
+      "set": "Rising Fist",
+      "img": "https://den-cards.pokellector.com/157/Heracross-EX.XY3.4.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "4/96"
+    },
+    {
+      "name": "M Heracross EX",
+      "set": "Rising Fist",
+      "img": "https://den-cards.pokellector.com/157/M-Heracross-EX.XY3.5.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "5/96"
+    },
+    {
+      "name": "Shroomish",
+      "set": "Rising Fist",
+      "img": "https://den-cards.pokellector.com/157/Shroomish.XY3.6.png",
+      "rarity": "Common",
+      "cardNum": "6/96"
+    },
+    {
+      "name": "Leafeon",
+      "set": "Rising Fist",
+      "img": "https://den-cards.pokellector.com/157/Leafeon.XY3.7.png",
+      "rarity": "Uncommon",
+      "cardNum": "7/96"
+    },
+    {
+      "name": "Shelmet",
+      "set": "Rising Fist",
+      "img": "https://den-cards.pokellector.com/157/Shelmet.XY3.8.png",
+      "rarity": "Common",
+      "cardNum": "8/96"
+    },
+    {
+      "name": "Accelgor",
+      "set": "Rising Fist",
+      "img": "https://den-cards.pokellector.com/157/Accelgor.XY3.9.png",
+      "rarity": "Common",
+      "cardNum": "9/96"
+    },
+    {
+      "name": "Magmar",
+      "set": "Rising Fist",
+      "img": "https://den-cards.pokellector.com/157/Magmar.XY3.10.png",
+      "rarity": "Common",
+      "cardNum": "10/96"
+    },
+    {
+      "name": "Magmortar",
+      "set": "Rising Fist",
+      "img": "https://den-cards.pokellector.com/157/Magmortar.XY3.11.png",
+      "rarity": "Uncommon",
+      "cardNum": "11/96"
+    },
+    {
+      "name": "Torchic",
+      "set": "Rising Fist",
+      "img": "https://den-cards.pokellector.com/157/Torchic.XY3.12.png",
+      "rarity": "Common",
+      "cardNum": "12/96"
+    },
+    {
+      "name": "Combusken",
+      "set": "Rising Fist",
+      "img": "https://den-cards.pokellector.com/157/Combusken.XY3.13.png",
+      "rarity": "Common",
+      "cardNum": "13/96"
+    },
+    {
+      "name": "Blaziken",
+      "set": "Rising Fist",
+      "img": "https://den-cards.pokellector.com/157/Blaziken.XY3.14.png",
+      "rarity": "Rare",
+      "cardNum": "14/96"
+    },
+    {
+      "name": "Poliwag",
+      "set": "Rising Fist",
+      "img": "https://den-cards.pokellector.com/157/Poliwag.XY3.15.png",
+      "rarity": "Common",
+      "cardNum": "15/96"
+    },
+    {
+      "name": "Poliwhirl",
+      "set": "Rising Fist",
+      "img": "https://den-cards.pokellector.com/157/Poliwhirl.XY3.16.png",
+      "rarity": "Common",
+      "cardNum": "16/96"
+    },
+    {
+      "name": "Poliwrath",
+      "set": "Rising Fist",
+      "img": "https://den-cards.pokellector.com/157/Poliwrath.XY3.17.png",
+      "rarity": "Rare",
+      "cardNum": "17/96"
+    },
+    {
+      "name": "Politoed",
+      "set": "Rising Fist",
+      "img": "https://den-cards.pokellector.com/157/Politoed.XY3.18.png",
+      "rarity": "Uncommon",
+      "cardNum": "18/96"
+    },
+    {
+      "name": "Glaceon",
+      "set": "Rising Fist",
+      "img": "https://den-cards.pokellector.com/157/Glaceon.XY3.19.png",
+      "rarity": "Uncommon",
+      "cardNum": "19/96"
+    },
+    {
+      "name": "Seismitoad EX",
+      "set": "Rising Fist",
+      "img": "https://den-cards.pokellector.com/157/Seismitoad-EX.XY3.20.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "20/96"
+    },
+    {
+      "name": "Cubchoo",
+      "set": "Rising Fist",
+      "img": "https://den-cards.pokellector.com/157/Cubchoo.XY3.21.png",
+      "rarity": "Common",
+      "cardNum": "21/96"
+    },
+    {
+      "name": "Beartic",
+      "set": "Rising Fist",
+      "img": "https://den-cards.pokellector.com/157/Beartic.XY3.22.png",
+      "rarity": "Uncommon",
+      "cardNum": "22/96"
+    },
+    {
+      "name": "Clauncher",
+      "set": "Rising Fist",
+      "img": "https://den-cards.pokellector.com/157/Clauncher.XY3.23.png",
+      "rarity": "Common",
+      "cardNum": "23/96"
+    },
+    {
+      "name": "Clawitzer",
+      "set": "Rising Fist",
+      "img": "https://den-cards.pokellector.com/157/Clawitzer.XY3.24.png",
+      "rarity": "Rare",
+      "cardNum": "24/96"
+    },
+    {
+      "name": "Amaura",
+      "set": "Rising Fist",
+      "img": "https://den-cards.pokellector.com/157/Amaura.XY3.25.png",
+      "rarity": "Common",
+      "cardNum": "25/96"
+    },
+    {
+      "name": "Aurorus",
+      "set": "Rising Fist",
+      "img": "https://den-cards.pokellector.com/157/Aurorus.XY3.26.png",
+      "rarity": "Uncommon",
+      "cardNum": "26/96"
+    },
+    {
+      "name": "Electabuzz",
+      "set": "Rising Fist",
+      "img": "https://den-cards.pokellector.com/157/Electabuzz.XY3.27.png",
+      "rarity": "Common",
+      "cardNum": "27/96"
+    },
+    {
+      "name": "Electivire",
+      "set": "Rising Fist",
+      "img": "https://den-cards.pokellector.com/157/Electivire.XY3.28.png",
+      "rarity": "Uncommon",
+      "cardNum": "28/96"
+    },
+    {
+      "name": "Plusle",
+      "set": "Rising Fist",
+      "img": "https://den-cards.pokellector.com/157/Plusle.XY3.29.png",
+      "rarity": "Common",
+      "cardNum": "29/96"
+    },
+    {
+      "name": "Minun",
+      "set": "Rising Fist",
+      "img": "https://den-cards.pokellector.com/157/Minun.XY3.30.png",
+      "rarity": "Common",
+      "cardNum": "30/96"
+    },
+    {
+      "name": "Thundurus",
+      "set": "Rising Fist",
+      "img": "https://den-cards.pokellector.com/157/Thundurus.XY3.31.png",
+      "rarity": "Uncommon",
+      "cardNum": "31/96"
+    },
+    {
+      "name": "Dedenne",
+      "set": "Rising Fist",
+      "img": "https://den-cards.pokellector.com/157/Dedenne.XY3.32.png",
+      "rarity": "Uncommon",
+      "cardNum": "32/96"
+    },
+    {
+      "name": "Drowzee",
+      "set": "Rising Fist",
+      "img": "https://den-cards.pokellector.com/157/Drowzee.XY3.33.png",
+      "rarity": "Common",
+      "cardNum": "33/96"
+    },
+    {
+      "name": "Hypno",
+      "set": "Rising Fist",
+      "img": "https://den-cards.pokellector.com/157/Hypno.XY3.34.png",
+      "rarity": "Uncommon",
+      "cardNum": "34/96"
+    },
+    {
+      "name": "Jynx",
+      "set": "Rising Fist",
+      "img": "https://den-cards.pokellector.com/157/Jynx.XY3.35.png",
+      "rarity": "Uncommon",
+      "cardNum": "35/96"
+    },
+    {
+      "name": "Skorupi",
+      "set": "Rising Fist",
+      "img": "https://den-cards.pokellector.com/157/Skorupi.XY3.36.png",
+      "rarity": "Common",
+      "cardNum": "36/96"
+    },
+    {
+      "name": "Gothita",
+      "set": "Rising Fist",
+      "img": "https://den-cards.pokellector.com/157/Gothita.XY3.37.png",
+      "rarity": "Common",
+      "cardNum": "37/96"
+    },
+    {
+      "name": "Gothorita",
+      "set": "Rising Fist",
+      "img": "https://den-cards.pokellector.com/157/Gothorita.XY3.38.png",
+      "rarity": "Common",
+      "cardNum": "38/96"
+    },
+    {
+      "name": "Gothitelle",
+      "set": "Rising Fist",
+      "img": "https://den-cards.pokellector.com/157/Gothitelle.XY3.39.png",
+      "rarity": "Uncommon",
+      "cardNum": "39/96"
+    },
+    {
+      "name": "Golett",
+      "set": "Rising Fist",
+      "img": "https://den-cards.pokellector.com/157/Golett.XY3.40.png",
+      "rarity": "Common",
+      "cardNum": "40/96"
+    },
+    {
+      "name": "Golurk",
+      "set": "Rising Fist",
+      "img": "https://den-cards.pokellector.com/157/Golurk.XY3.41.png",
+      "rarity": "Uncommon",
+      "cardNum": "41/96"
+    },
+    {
+      "name": "Machop",
+      "set": "Rising Fist",
+      "img": "https://den-cards.pokellector.com/157/Machop.XY3.42.png",
+      "rarity": "Common",
+      "cardNum": "42/96"
+    },
+    {
+      "name": "Machoke",
+      "set": "Rising Fist",
+      "img": "https://den-cards.pokellector.com/157/Machoke.XY3.43.png",
+      "rarity": "Common",
+      "cardNum": "43/96"
+    },
+    {
+      "name": "Machamp",
+      "set": "Rising Fist",
+      "img": "https://den-cards.pokellector.com/157/Machamp.XY3.44.png",
+      "rarity": "Rare",
+      "cardNum": "44/96"
+    },
+    {
+      "name": "Hitmonlee",
+      "set": "Rising Fist",
+      "img": "https://den-cards.pokellector.com/157/Hitmonlee.XY3.45.png",
+      "rarity": "Common",
+      "cardNum": "45/96"
+    },
+    {
+      "name": "Hitmonchan",
+      "set": "Rising Fist",
+      "img": "https://den-cards.pokellector.com/157/Hitmonchan.XY3.46.png",
+      "rarity": "Common",
+      "cardNum": "46/96"
+    },
+    {
+      "name": "Hitmontop",
+      "set": "Rising Fist",
+      "img": "https://den-cards.pokellector.com/157/Hitmontop.XY3.47.png",
+      "rarity": "Common",
+      "cardNum": "47/96"
+    },
+    {
+      "name": "Breloom",
+      "set": "Rising Fist",
+      "img": "https://den-cards.pokellector.com/157/Breloom.XY3.48.png",
+      "rarity": "Uncommon",
+      "cardNum": "48/96"
+    },
+    {
+      "name": "Makuhita",
+      "set": "Rising Fist",
+      "img": "https://den-cards.pokellector.com/157/Makuhita.XY3.49.png",
+      "rarity": "Common",
+      "cardNum": "49/96"
+    },
+    {
+      "name": "Hariyama",
+      "set": "Rising Fist",
+      "img": "https://den-cards.pokellector.com/157/Hariyama.XY3.50.png",
+      "rarity": "Uncommon",
+      "cardNum": "50/96"
+    },
+    {
+      "name": "Trapinch",
+      "set": "Rising Fist",
+      "img": "https://den-cards.pokellector.com/157/Trapinch.XY3.51.png",
+      "rarity": "Common",
+      "cardNum": "51/96"
+    },
+    {
+      "name": "Lucario EX",
+      "set": "Rising Fist",
+      "img": "https://den-cards.pokellector.com/157/Lucario-EX.XY3.52.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "52/96"
+    },
+    {
+      "name": "M Lucario EX",
+      "set": "Rising Fist",
+      "img": "https://den-cards.pokellector.com/157/M-Lucario-EX.XY3.53.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "53/96"
+    },
+    {
+      "name": "Mienfoo",
+      "set": "Rising Fist",
+      "img": "https://den-cards.pokellector.com/157/Mienfoo.XY3.54.png",
+      "rarity": "Common",
+      "cardNum": "54/96"
+    },
+    {
+      "name": "Mienshao",
+      "set": "Rising Fist",
+      "img": "https://den-cards.pokellector.com/157/Mienshao.XY3.55.png",
+      "rarity": "Common",
+      "cardNum": "55/96"
+    },
+    {
+      "name": "Landorus",
+      "set": "Rising Fist",
+      "img": "https://den-cards.pokellector.com/157/Landorus.XY3.56.png",
+      "rarity": "Rare",
+      "cardNum": "56/96"
+    },
+    {
+      "name": "Pancham",
+      "set": "Rising Fist",
+      "img": "https://den-cards.pokellector.com/157/Pancham.XY3.57.png",
+      "rarity": "Common",
+      "cardNum": "57/96"
+    },
+    {
+      "name": "Tyrunt",
+      "set": "Rising Fist",
+      "img": "https://den-cards.pokellector.com/157/Tyrunt.XY3.58.png",
+      "rarity": "Common",
+      "cardNum": "58/96"
+    },
+    {
+      "name": "Tyrantrum",
+      "set": "Rising Fist",
+      "img": "https://den-cards.pokellector.com/157/Tyrantrum.XY3.59.png",
+      "rarity": "Uncommon",
+      "cardNum": "59/96"
+    },
+    {
+      "name": "Hawlucha",
+      "set": "Rising Fist",
+      "img": "https://den-cards.pokellector.com/157/Hawlucha.XY3.60.png",
+      "rarity": "Rare",
+      "cardNum": "60/96"
+    },
+    {
+      "name": "Drapion",
+      "set": "Rising Fist",
+      "img": "https://den-cards.pokellector.com/157/Drapion.XY3.61.png",
+      "rarity": "Uncommon",
+      "cardNum": "61/96"
+    },
+    {
+      "name": "Scraggy",
+      "set": "Rising Fist",
+      "img": "https://den-cards.pokellector.com/157/Scraggy.XY3.62.png",
+      "rarity": "Common",
+      "cardNum": "62/96"
+    },
+    {
+      "name": "Scrafty",
+      "set": "Rising Fist",
+      "img": "https://den-cards.pokellector.com/157/Scrafty.XY3.63.png",
+      "rarity": "Common",
+      "cardNum": "63/96"
+    },
+    {
+      "name": "Pangoro",
+      "set": "Rising Fist",
+      "img": "https://den-cards.pokellector.com/157/Pangoro.XY3.64.png",
+      "rarity": "Rare",
+      "cardNum": "64/96"
+    },
+    {
+      "name": "Clefairy",
+      "set": "Rising Fist",
+      "img": "https://den-cards.pokellector.com/157/Clefairy.XY3.65.png",
+      "rarity": "Common",
+      "cardNum": "65/96"
+    },
+    {
+      "name": "Clefable",
+      "set": "Rising Fist",
+      "img": "https://den-cards.pokellector.com/157/Clefable.XY3.66.png",
+      "rarity": "Common",
+      "cardNum": "66/96"
+    },
+    {
+      "name": "Sylveon",
+      "set": "Rising Fist",
+      "img": "https://den-cards.pokellector.com/157/Sylveon.XY3.67.png",
+      "rarity": "Rare",
+      "cardNum": "67/96"
+    },
+    {
+      "name": "Klefki",
+      "set": "Rising Fist",
+      "img": "https://den-cards.pokellector.com/157/Klefki.XY3.68.png",
+      "rarity": "Common",
+      "cardNum": "68/96"
+    },
+    {
+      "name": "Dragonite EX",
+      "set": "Rising Fist",
+      "img": "https://den-cards.pokellector.com/157/Dragonite-EX.XY3.69.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "69/96"
+    },
+    {
+      "name": "Vibrava",
+      "set": "Rising Fist",
+      "img": "https://den-cards.pokellector.com/157/Vibrava.XY3.70.png",
+      "rarity": "Common",
+      "cardNum": "70/96"
+    },
+    {
+      "name": "Flygon",
+      "set": "Rising Fist",
+      "img": "https://den-cards.pokellector.com/157/Flygon.XY3.71.png",
+      "rarity": "Uncommon",
+      "cardNum": "71/96"
+    },
+    {
+      "name": "Noivern",
+      "set": "Rising Fist",
+      "img": "https://den-cards.pokellector.com/157/Noivern.XY3.72.png",
+      "rarity": "Rare",
+      "cardNum": "72/96"
+    },
+    {
+      "name": "Lickitung",
+      "set": "Rising Fist",
+      "img": "https://den-cards.pokellector.com/157/Lickitung.XY3.73.png",
+      "rarity": "Common",
+      "cardNum": "73/96"
+    },
+    {
+      "name": "Lickilicky",
+      "set": "Rising Fist",
+      "img": "https://den-cards.pokellector.com/157/Lickilicky.XY3.74.png",
+      "rarity": "Common",
+      "cardNum": "74/96"
+    },
+    {
+      "name": "Eevee",
+      "set": "Rising Fist",
+      "img": "https://den-cards.pokellector.com/157/Eevee.XY3.75.png",
+      "rarity": "Common",
+      "cardNum": "75/96"
+    },
+    {
+      "name": "Slakoth",
+      "set": "Rising Fist",
+      "img": "https://den-cards.pokellector.com/157/Slakoth.XY3.76.png",
+      "rarity": "Common",
+      "cardNum": "76/96"
+    },
+    {
+      "name": "Vigoroth",
+      "set": "Rising Fist",
+      "img": "https://den-cards.pokellector.com/157/Vigoroth.XY3.77.png",
+      "rarity": "Common",
+      "cardNum": "77/96"
+    },
+    {
+      "name": "Slaking",
+      "set": "Rising Fist",
+      "img": "https://den-cards.pokellector.com/157/Slaking.XY3.78.png",
+      "rarity": "Rare",
+      "cardNum": "78/96"
+    },
+    {
+      "name": "Patrat",
+      "set": "Rising Fist",
+      "img": "https://den-cards.pokellector.com/157/Patrat.XY3.79.png",
+      "rarity": "Common",
+      "cardNum": "79/96"
+    },
+    {
+      "name": "Watchog",
+      "set": "Rising Fist",
+      "img": "https://den-cards.pokellector.com/157/Watchog.XY3.80.png",
+      "rarity": "Common",
+      "cardNum": "80/96"
+    },
+    {
+      "name": "Tornadus",
+      "set": "Rising Fist",
+      "img": "https://den-cards.pokellector.com/157/Tornadus.XY3.81.png",
+      "rarity": "Uncommon",
+      "cardNum": "81/96"
+    },
+    {
+      "name": "Noibat",
+      "set": "Rising Fist",
+      "img": "https://den-cards.pokellector.com/157/Noibat.XY3.82.png",
+      "rarity": "Common",
+      "cardNum": "82/96"
+    },
+    {
+      "name": "Tool Strip",
+      "set": "Rising Fist",
+      "img": "https://den-cards.pokellector.com/157/Tool-Strip.XY3.83.png",
+      "rarity": "Uncommon",
+      "cardNum": "83/96"
+    },
+    {
+      "name": "Maintenance",
+      "set": "Rising Fist",
+      "img": "https://den-cards.pokellector.com/157/Maintenance.XY3.84.png",
+      "rarity": "Uncommon",
+      "cardNum": "84/96"
+    },
+    {
+      "name": "Jaw Fossil",
+      "set": "Rising Fist",
+      "img": "https://den-cards.pokellector.com/157/Jaw-Fossil.XY3.85.png",
+      "rarity": "Uncommon",
+      "cardNum": "85/96"
+    },
+    {
+      "name": "Sail Fossil",
+      "set": "Rising Fist",
+      "img": "https://den-cards.pokellector.com/157/Sail-Fossil.XY3.86.png",
+      "rarity": "Uncommon",
+      "cardNum": "86/96"
+    },
+    {
+      "name": "Shining Gown",
+      "set": "Rising Fist",
+      "img": "https://den-cards.pokellector.com/157/Shining-Gown.XY3.87.png",
+      "rarity": "Uncommon",
+      "cardNum": "87/96"
+    },
+    {
+      "name": "Focus Sash",
+      "set": "Rising Fist",
+      "img": "https://den-cards.pokellector.com/157/Focus-Sash.XY3.88.png",
+      "rarity": "Uncommon",
+      "cardNum": "88/96"
+    },
+    {
+      "name": "Fossil Researcher",
+      "set": "Rising Fist",
+      "img": "https://den-cards.pokellector.com/157/Fossil-Researcher.XY3.89.png",
+      "rarity": "Uncommon",
+      "cardNum": "89/96"
+    },
+    {
+      "name": "Korrina",
+      "set": "Rising Fist",
+      "img": "https://den-cards.pokellector.com/157/Korrina.XY3.90.png",
+      "rarity": "Uncommon",
+      "cardNum": "90/96"
+    },
+    {
+      "name": "Battle Reporter",
+      "set": "Rising Fist",
+      "img": "https://den-cards.pokellector.com/157/Battle-Reporter.XY3.91.png",
+      "rarity": "Uncommon",
+      "cardNum": "91/96"
+    },
+    {
+      "name": "Training Center",
+      "set": "Rising Fist",
+      "img": "https://den-cards.pokellector.com/157/Training-Center.XY3.92.png",
+      "rarity": "Uncommon",
+      "cardNum": "92/96"
+    },
+    {
+      "name": "Fighting Stadium",
+      "set": "Rising Fist",
+      "img": "https://den-cards.pokellector.com/157/Fighting-Stadium.XY3.93.png",
+      "rarity": "Uncommon",
+      "cardNum": "93/96"
+    },
+    {
+      "name": "Mountain Ring",
+      "set": "Rising Fist",
+      "img": "https://den-cards.pokellector.com/157/Mountain-Ring.XY3.94.png",
+      "rarity": "Uncommon",
+      "cardNum": "94/96"
+    },
+    {
+      "name": "Herb Energy",
+      "set": "Rising Fist",
+      "img": "https://den-cards.pokellector.com/157/Herb-Energy.XY3.95.png",
+      "rarity": "Uncommon",
+      "cardNum": "95/96"
+    },
+    {
+      "name": "Strong Energy",
+      "set": "Rising Fist",
+      "img": "https://den-cards.pokellector.com/157/Strong-Energy.XY3.96.png",
+      "rarity": "Uncommon",
+      "cardNum": "96/96"
+    },
+    {
+      "name": "Heracross EX",
+      "set": "Rising Fist",
+      "img": "https://den-cards.pokellector.com/157/Heracross-EX.XY3.97.png",
+      "rarity": "Secret Rare",
+      "cardNum": "97/96"
+    },
+    {
+      "name": "Seismitoad EX",
+      "set": "Rising Fist",
+      "img": "https://den-cards.pokellector.com/157/Seismitoad-EX.XY3.98.png",
+      "rarity": "Secret Rare",
+      "cardNum": "98/96"
+    },
+    {
+      "name": "Lucario EX",
+      "set": "Rising Fist",
+      "img": "https://den-cards.pokellector.com/157/Lucario-EX.XY3.99.png",
+      "rarity": "Secret Rare",
+      "cardNum": "99/96"
+    },
+    {
+      "name": "Dragonite EX",
+      "set": "Rising Fist",
+      "img": "https://den-cards.pokellector.com/157/Dragonite-EX.XY3.100.png",
+      "rarity": "Secret Rare",
+      "cardNum": "100/96"
+    },
+    {
+      "name": "Fossil Researcher",
+      "set": "Rising Fist",
+      "img": "https://den-cards.pokellector.com/157/Fossil-Researcher.XY3.101.png",
+      "rarity": "Secret Rare",
+      "cardNum": "101/96"
+    },
+    {
+      "name": "Korrina",
+      "set": "Rising Fist",
+      "img": "https://den-cards.pokellector.com/157/Korrina.XY3.102.png",
+      "rarity": "Secret Rare",
+      "cardNum": "102/96"
+    },
+    {
+      "name": "Battle Reporter",
+      "set": "Rising Fist",
+      "img": "https://den-cards.pokellector.com/157/Battle-Reporter.XY3.103.png",
+      "rarity": "Secret Rare",
+      "cardNum": "103/96"
+    },
+    {
+      "name": "M Heracross EX",
+      "set": "Rising Fist",
+      "img": "https://den-cards.pokellector.com/157/M-Heracross-EX.XY3.104.png",
+      "rarity": "Secret Rare",
+      "cardNum": "104/96"
+    },
+    {
+      "name": "M Lucario EX",
+      "set": "Rising Fist",
+      "img": "https://den-cards.pokellector.com/157/M-Lucario-EX.XY3.105.png",
+      "rarity": "Secret Rare",
+      "cardNum": "105/96"
+    }
+  ]
+}

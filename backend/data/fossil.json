@@ -1,0 +1,439 @@
+{
+  "setName": "Fossil",
+  "cards": [
+    {
+      "name": "Aerodactyl",
+      "set": "Fossil",
+      "img": "https://den-cards.pokellector.com/121/Aerodactlyl.FO.1.png",
+      "rarity": "Rare",
+      "cardNum": "1/62"
+    },
+    {
+      "name": "Articuno",
+      "set": "Fossil",
+      "img": "https://den-cards.pokellector.com/121/Articuno.FO.2.png",
+      "rarity": "Rare",
+      "cardNum": "2/62"
+    },
+    {
+      "name": "Ditto",
+      "set": "Fossil",
+      "img": "https://den-cards.pokellector.com/121/Ditto.FO.3.png",
+      "rarity": "Rare",
+      "cardNum": "3/62"
+    },
+    {
+      "name": "Dragonite",
+      "set": "Fossil",
+      "img": "https://den-cards.pokellector.com/121/Dragonite.FO.4.png",
+      "rarity": "Rare",
+      "cardNum": "4/62"
+    },
+    {
+      "name": "Gengar",
+      "set": "Fossil",
+      "img": "https://den-cards.pokellector.com/121/Gengar.FO.5.png",
+      "rarity": "Rare",
+      "cardNum": "5/62"
+    },
+    {
+      "name": "Haunter",
+      "set": "Fossil",
+      "img": "https://den-cards.pokellector.com/121/Haunter.FO.6.png",
+      "rarity": "Rare",
+      "cardNum": "6/62"
+    },
+    {
+      "name": "Hitmonlee",
+      "set": "Fossil",
+      "img": "https://den-cards.pokellector.com/121/Hitmonlee.FO.7.png",
+      "rarity": "Rare",
+      "cardNum": "7/62"
+    },
+    {
+      "name": "Hypno",
+      "set": "Fossil",
+      "img": "https://den-cards.pokellector.com/121/Hypno.FO.8.png",
+      "rarity": "Rare",
+      "cardNum": "8/62"
+    },
+    {
+      "name": "Kabutops",
+      "set": "Fossil",
+      "img": "https://den-cards.pokellector.com/121/Kabutops.FO.9.png",
+      "rarity": "Rare",
+      "cardNum": "9/62"
+    },
+    {
+      "name": "Lapras",
+      "set": "Fossil",
+      "img": "https://den-cards.pokellector.com/121/Lapras.FO.10.png",
+      "rarity": "Rare",
+      "cardNum": "10/62"
+    },
+    {
+      "name": "Magneton",
+      "set": "Fossil",
+      "img": "https://den-cards.pokellector.com/121/Magneton.FO.11.png",
+      "rarity": "Rare",
+      "cardNum": "11/62"
+    },
+    {
+      "name": "Moltres",
+      "set": "Fossil",
+      "img": "https://den-cards.pokellector.com/121/Moltres.FO.12.png",
+      "rarity": "Rare",
+      "cardNum": "12/62"
+    },
+    {
+      "name": "Muk",
+      "set": "Fossil",
+      "img": "https://den-cards.pokellector.com/121/Muk.FO.13.png",
+      "rarity": "Rare",
+      "cardNum": "13/62"
+    },
+    {
+      "name": "Raichu",
+      "set": "Fossil",
+      "img": "https://den-cards.pokellector.com/121/Raichu.FO.14.png",
+      "rarity": "Rare",
+      "cardNum": "14/62"
+    },
+    {
+      "name": "Zapdos",
+      "set": "Fossil",
+      "img": "https://den-cards.pokellector.com/121/Zapdos.FO.15.png",
+      "rarity": "Rare",
+      "cardNum": "15/62"
+    },
+    {
+      "name": "Aerodactyl",
+      "set": "Fossil",
+      "img": "https://den-cards.pokellector.com/121/Aerodactlyl.FO.16.png",
+      "rarity": "Rare",
+      "cardNum": "16/62"
+    },
+    {
+      "name": "Articuno",
+      "set": "Fossil",
+      "img": "https://den-cards.pokellector.com/121/Articuno.FO.17.png",
+      "rarity": "Rare",
+      "cardNum": "17/62"
+    },
+    {
+      "name": "Ditto",
+      "set": "Fossil",
+      "img": "https://den-cards.pokellector.com/121/Ditto.FO.18.png",
+      "rarity": "Rare",
+      "cardNum": "18/62"
+    },
+    {
+      "name": "Dragonite",
+      "set": "Fossil",
+      "img": "https://den-cards.pokellector.com/121/Dragonite.FO.19.png",
+      "rarity": "Rare",
+      "cardNum": "19/62"
+    },
+    {
+      "name": "Gengar",
+      "set": "Fossil",
+      "img": "https://den-cards.pokellector.com/121/Gengar.FO.20.png",
+      "rarity": "Rare",
+      "cardNum": "20/62"
+    },
+    {
+      "name": "Haunter",
+      "set": "Fossil",
+      "img": "https://den-cards.pokellector.com/121/Haunter.FO.21.png",
+      "rarity": "Rare",
+      "cardNum": "21/62"
+    },
+    {
+      "name": "Hitmonlee",
+      "set": "Fossil",
+      "img": "https://den-cards.pokellector.com/121/Hitmonlee.FO.22.png",
+      "rarity": "Rare",
+      "cardNum": "22/62"
+    },
+    {
+      "name": "Hypno",
+      "set": "Fossil",
+      "img": "https://den-cards.pokellector.com/121/Hypno.FO.23.png",
+      "rarity": "Rare",
+      "cardNum": "23/62"
+    },
+    {
+      "name": "Kabutops",
+      "set": "Fossil",
+      "img": "https://den-cards.pokellector.com/121/Kabutops.FO.24.png",
+      "rarity": "Rare",
+      "cardNum": "24/62"
+    },
+    {
+      "name": "Lapras",
+      "set": "Fossil",
+      "img": "https://den-cards.pokellector.com/121/Lapras.FO.25.png",
+      "rarity": "Rare",
+      "cardNum": "25/62"
+    },
+    {
+      "name": "Magneton",
+      "set": "Fossil",
+      "img": "https://den-cards.pokellector.com/121/Magneton.FO.26.png",
+      "rarity": "Rare",
+      "cardNum": "26/62"
+    },
+    {
+      "name": "Moltres",
+      "set": "Fossil",
+      "img": "https://den-cards.pokellector.com/121/Moltres.FO.27.png",
+      "rarity": "Rare",
+      "cardNum": "27/62"
+    },
+    {
+      "name": "Muk",
+      "set": "Fossil",
+      "img": "https://den-cards.pokellector.com/121/Muk.FO.28.png",
+      "rarity": "Rare",
+      "cardNum": "28/62"
+    },
+    {
+      "name": "Raichu",
+      "set": "Fossil",
+      "img": "https://den-cards.pokellector.com/121/Raichu.FO.29.png",
+      "rarity": "Rare",
+      "cardNum": "29/62"
+    },
+    {
+      "name": "Zapdos",
+      "set": "Fossil",
+      "img": "https://den-cards.pokellector.com/121/Zapdos.FO.30.8034.png",
+      "rarity": "Rare",
+      "cardNum": "30/62"
+    },
+    {
+      "name": "Arbok",
+      "set": "Fossil",
+      "img": "https://den-cards.pokellector.com/121/Arbok.FO.31.png",
+      "rarity": "Uncommon",
+      "cardNum": "31/62"
+    },
+    {
+      "name": "Cloyster",
+      "set": "Fossil",
+      "img": "https://den-cards.pokellector.com/121/Cloyster.FO.32.png",
+      "rarity": "Uncommon",
+      "cardNum": "32/62"
+    },
+    {
+      "name": "Gastly",
+      "set": "Fossil",
+      "img": "https://den-cards.pokellector.com/121/Gastly.FO.33.png",
+      "rarity": "Uncommon",
+      "cardNum": "33/62"
+    },
+    {
+      "name": "Golbat",
+      "set": "Fossil",
+      "img": "https://den-cards.pokellector.com/121/Golbat.FO.34.png",
+      "rarity": "Uncommon",
+      "cardNum": "34/62"
+    },
+    {
+      "name": "Golduck",
+      "set": "Fossil",
+      "img": "https://den-cards.pokellector.com/121/Golduck.FO.35.png",
+      "rarity": "Uncommon",
+      "cardNum": "35/62"
+    },
+    {
+      "name": "Golem",
+      "set": "Fossil",
+      "img": "https://den-cards.pokellector.com/121/Golem.FO.36.png",
+      "rarity": "Uncommon",
+      "cardNum": "36/62"
+    },
+    {
+      "name": "Graveler",
+      "set": "Fossil",
+      "img": "https://den-cards.pokellector.com/121/Graveler.FO.37.png",
+      "rarity": "Uncommon",
+      "cardNum": "37/62"
+    },
+    {
+      "name": "Kingler",
+      "set": "Fossil",
+      "img": "https://den-cards.pokellector.com/121/Kingler.FO.38.png",
+      "rarity": "Uncommon",
+      "cardNum": "38/62"
+    },
+    {
+      "name": "Magmar",
+      "set": "Fossil",
+      "img": "https://den-cards.pokellector.com/121/Magmar.FO.39.png",
+      "rarity": "Uncommon",
+      "cardNum": "39/62"
+    },
+    {
+      "name": "Omastar",
+      "set": "Fossil",
+      "img": "https://den-cards.pokellector.com/121/Omastar.FO.40.png",
+      "rarity": "Uncommon",
+      "cardNum": "40/62"
+    },
+    {
+      "name": "Sandslash",
+      "set": "Fossil",
+      "img": "https://den-cards.pokellector.com/121/Sandslash.FO.41.png",
+      "rarity": "Uncommon",
+      "cardNum": "41/62"
+    },
+    {
+      "name": "Seadra",
+      "set": "Fossil",
+      "img": "https://den-cards.pokellector.com/121/Seadra.FO.42.png",
+      "rarity": "Uncommon",
+      "cardNum": "42/62"
+    },
+    {
+      "name": "Slowbro",
+      "set": "Fossil",
+      "img": "https://den-cards.pokellector.com/121/Slowbro.FO.43.png",
+      "rarity": "Uncommon",
+      "cardNum": "43/62"
+    },
+    {
+      "name": "Tentacruel",
+      "set": "Fossil",
+      "img": "https://den-cards.pokellector.com/121/Tentacruel.FO.44.png",
+      "rarity": "Uncommon",
+      "cardNum": "44/62"
+    },
+    {
+      "name": "Weezing",
+      "set": "Fossil",
+      "img": "https://den-cards.pokellector.com/121/Weezing.FO.45.png",
+      "rarity": "Uncommon",
+      "cardNum": "45/62"
+    },
+    {
+      "name": "Ekans",
+      "set": "Fossil",
+      "img": "https://den-cards.pokellector.com/121/Ekans.FO.46.png",
+      "rarity": "Common",
+      "cardNum": "46/62"
+    },
+    {
+      "name": "Geodude",
+      "set": "Fossil",
+      "img": "https://den-cards.pokellector.com/121/Geodude.FO.47.png",
+      "rarity": "Common",
+      "cardNum": "47/62"
+    },
+    {
+      "name": "Grimer",
+      "set": "Fossil",
+      "img": "https://den-cards.pokellector.com/121/Grimer.FO.48.png",
+      "rarity": "Common",
+      "cardNum": "48/62"
+    },
+    {
+      "name": "Horsea",
+      "set": "Fossil",
+      "img": "https://den-cards.pokellector.com/121/Horsea.FO.49.png",
+      "rarity": "Common",
+      "cardNum": "49/62"
+    },
+    {
+      "name": "Kabuto",
+      "set": "Fossil",
+      "img": "https://den-cards.pokellector.com/121/Kabuto.FO.50.png",
+      "rarity": "Common",
+      "cardNum": "50/62"
+    },
+    {
+      "name": "Krabby",
+      "set": "Fossil",
+      "img": "https://den-cards.pokellector.com/121/Krabby.FO.51.png",
+      "rarity": "Common",
+      "cardNum": "51/62"
+    },
+    {
+      "name": "Omanyte",
+      "set": "Fossil",
+      "img": "https://den-cards.pokellector.com/121/Omanyte.FO.52.png",
+      "rarity": "Common",
+      "cardNum": "52/62"
+    },
+    {
+      "name": "Psyduck",
+      "set": "Fossil",
+      "img": "https://den-cards.pokellector.com/121/Psyduck.FO.53.png",
+      "rarity": "Common",
+      "cardNum": "53/62"
+    },
+    {
+      "name": "Shellder",
+      "set": "Fossil",
+      "img": "https://den-cards.pokellector.com/121/Shellder.FO.54.png",
+      "rarity": "Common",
+      "cardNum": "54/62"
+    },
+    {
+      "name": "Slowpoke",
+      "set": "Fossil",
+      "img": "https://den-cards.pokellector.com/121/Slowpoke.FO.55.png",
+      "rarity": "Common",
+      "cardNum": "55/62"
+    },
+    {
+      "name": "Tentacool",
+      "set": "Fossil",
+      "img": "https://den-cards.pokellector.com/121/Tentacool.FO.56.png",
+      "rarity": "Common",
+      "cardNum": "56/62"
+    },
+    {
+      "name": "Zubat",
+      "set": "Fossil",
+      "img": "https://den-cards.pokellector.com/121/Zubat.FO.57.png",
+      "rarity": "Common",
+      "cardNum": "57/62"
+    },
+    {
+      "name": "Mr. Fuji",
+      "set": "Fossil",
+      "img": "https://den-cards.pokellector.com/121/Mr-Fuji.FO.58.png",
+      "rarity": "Uncommon",
+      "cardNum": "58/62"
+    },
+    {
+      "name": "Energy Search",
+      "set": "Fossil",
+      "img": "https://den-cards.pokellector.com/121/Energy-Search.FO.59.png",
+      "rarity": "Common",
+      "cardNum": "59/62"
+    },
+    {
+      "name": "Gambler",
+      "set": "Fossil",
+      "img": "https://den-cards.pokellector.com/121/Gambler.FO.60.png",
+      "rarity": "Common",
+      "cardNum": "60/62"
+    },
+    {
+      "name": "Recycle",
+      "set": "Fossil",
+      "img": "https://den-cards.pokellector.com/121/Recycle.FO.61.png",
+      "rarity": "Common",
+      "cardNum": "61/62"
+    },
+    {
+      "name": "Mysterious Fossil",
+      "set": "Fossil",
+      "img": "https://den-cards.pokellector.com/121/Mysterious-Fossil.FO.62.png",
+      "rarity": "Common",
+      "cardNum": "62/62"
+    }
+  ]
+}

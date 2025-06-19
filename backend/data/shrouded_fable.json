@@ -1,0 +1,698 @@
+{
+  "setName": "Shrouded Fable",
+  "cards": [
+    {
+      "name": "Joltik",
+      "set": "Shrouded Fable",
+      "img": "https://den-cards.pokellector.com/399/Joltik.SFA.1.53796.png",
+      "rarity": "Common",
+      "cardNum": "1/64"
+    },
+    {
+      "name": "Galvantula",
+      "set": "Shrouded Fable",
+      "img": "https://den-cards.pokellector.com/399/Galvantula.SFA.2.53797.png",
+      "rarity": "Uncommon",
+      "cardNum": "2/64"
+    },
+    {
+      "name": "Rowlet",
+      "set": "Shrouded Fable",
+      "img": "https://den-cards.pokellector.com/399/Rowlet.SFA.3.53798.png",
+      "rarity": "Common",
+      "cardNum": "3/64"
+    },
+    {
+      "name": "Dartrix",
+      "set": "Shrouded Fable",
+      "img": "https://den-cards.pokellector.com/399/Dartrix.SFA.4.53799.png",
+      "rarity": "Common",
+      "cardNum": "4/64"
+    },
+    {
+      "name": "Decidueye",
+      "set": "Shrouded Fable",
+      "img": "https://den-cards.pokellector.com/399/Decidueye.SFA.5.53800.png",
+      "rarity": "Uncommon",
+      "cardNum": "5/64"
+    },
+    {
+      "name": "Tapu Bulu",
+      "set": "Shrouded Fable",
+      "img": "https://den-cards.pokellector.com/399/Tapu-Bulu.SFA.6.53801.png",
+      "rarity": "Rare",
+      "cardNum": "6/64"
+    },
+    {
+      "name": "Houndour",
+      "set": "Shrouded Fable",
+      "img": "https://den-cards.pokellector.com/399/Houndour.SFA.7.53802.png",
+      "rarity": "Common",
+      "cardNum": "7/64"
+    },
+    {
+      "name": "Houndoom",
+      "set": "Shrouded Fable",
+      "img": "https://den-cards.pokellector.com/399/Houndoom.SFA.8.53803.png",
+      "rarity": "Common",
+      "cardNum": "8/64"
+    },
+    {
+      "name": "Iron Moth",
+      "set": "Shrouded Fable",
+      "img": "https://den-cards.pokellector.com/399/Iron-Moth.SFA.9.53804.png",
+      "rarity": "Uncommon",
+      "cardNum": "9/64"
+    },
+    {
+      "name": "Horsea",
+      "set": "Shrouded Fable",
+      "img": "https://den-cards.pokellector.com/399/Horsea.SFA.10.53805.png",
+      "rarity": "Common",
+      "cardNum": "10/64"
+    },
+    {
+      "name": "Seadra",
+      "set": "Shrouded Fable",
+      "img": "https://den-cards.pokellector.com/399/Seadra.SFA.11.53806.png",
+      "rarity": "Common",
+      "cardNum": "11/64"
+    },
+    {
+      "name": "Kingdra ex",
+      "set": "Shrouded Fable",
+      "img": "https://den-cards.pokellector.com/399/Kingdra-ex.SFA.12.53807.png",
+      "rarity": "Double Rare",
+      "cardNum": "12/64"
+    },
+    {
+      "name": "Sneasel",
+      "set": "Shrouded Fable",
+      "img": "https://den-cards.pokellector.com/399/Sneasel.SFA.13.53808.png",
+      "rarity": "Common",
+      "cardNum": "13/64"
+    },
+    {
+      "name": "Weavile",
+      "set": "Shrouded Fable",
+      "img": "https://den-cards.pokellector.com/399/Weavile.SFA.14.53809.png",
+      "rarity": "Uncommon",
+      "cardNum": "14/64"
+    },
+    {
+      "name": "Revavroom ex",
+      "set": "Shrouded Fable",
+      "img": "https://den-cards.pokellector.com/399/Revavroom-ex.SFA.15.53810.png",
+      "rarity": "Double Rare",
+      "cardNum": "15/64"
+    },
+    {
+      "name": "Drowzee",
+      "set": "Shrouded Fable",
+      "img": "https://den-cards.pokellector.com/399/Drowzee.SFA.16.53811.png",
+      "rarity": "Common",
+      "cardNum": "16/64"
+    },
+    {
+      "name": "Hypno",
+      "set": "Shrouded Fable",
+      "img": "https://den-cards.pokellector.com/399/Hypno.SFA.17.53812.png",
+      "rarity": "Uncommon",
+      "cardNum": "17/64"
+    },
+    {
+      "name": "Duskull",
+      "set": "Shrouded Fable",
+      "img": "https://den-cards.pokellector.com/399/Duskull.SFA.18.53813.png",
+      "rarity": "Common",
+      "cardNum": "18/64"
+    },
+    {
+      "name": "Dusclops",
+      "set": "Shrouded Fable",
+      "img": "https://den-cards.pokellector.com/399/Dusclops.SFA.19.53814.png",
+      "rarity": "Common",
+      "cardNum": "19/64"
+    },
+    {
+      "name": "Dusknoir",
+      "set": "Shrouded Fable",
+      "img": "https://den-cards.pokellector.com/399/Dusknoir.SFA.20.53815.png",
+      "rarity": "Rare",
+      "cardNum": "20/64"
+    },
+    {
+      "name": "Cresselia",
+      "set": "Shrouded Fable",
+      "img": "https://den-cards.pokellector.com/399/Cresselia.SFA.21.53816.png",
+      "rarity": "Rare",
+      "cardNum": "21/64"
+    },
+    {
+      "name": "Sylveon",
+      "set": "Shrouded Fable",
+      "img": "https://den-cards.pokellector.com/399/Sylveon.SFA.22.53817.png",
+      "rarity": "Uncommon",
+      "cardNum": "22/64"
+    },
+    {
+      "name": "Croagunk",
+      "set": "Shrouded Fable",
+      "img": "https://den-cards.pokellector.com/399/Croagunk.SFA.23.53818.png",
+      "rarity": "Common",
+      "cardNum": "23/64"
+    },
+    {
+      "name": "Toxicroak",
+      "set": "Shrouded Fable",
+      "img": "https://den-cards.pokellector.com/399/Toxicroak.SFA.24.53819.png",
+      "rarity": "Common",
+      "cardNum": "24/64"
+    },
+    {
+      "name": "Bloodmoon Ursaluna",
+      "set": "Shrouded Fable",
+      "img": "https://den-cards.pokellector.com/399/Bloodmoon-Ursaluna.SFA.25.53820.png",
+      "rarity": "Rare",
+      "cardNum": "25/64"
+    },
+    {
+      "name": "Slither Wing",
+      "set": "Shrouded Fable",
+      "img": "https://den-cards.pokellector.com/399/Slither-Wing.SFA.26.53821.png",
+      "rarity": "Uncommon",
+      "cardNum": "26/64"
+    },
+    {
+      "name": "Zubat",
+      "set": "Shrouded Fable",
+      "img": "https://den-cards.pokellector.com/399/Zubat.SFA.27.53822.png",
+      "rarity": "Common",
+      "cardNum": "27/64"
+    },
+    {
+      "name": "Golbat",
+      "set": "Shrouded Fable",
+      "img": "https://den-cards.pokellector.com/399/Golbat.SFA.28.53823.png",
+      "rarity": "Common",
+      "cardNum": "28/64"
+    },
+    {
+      "name": "Crobat",
+      "set": "Shrouded Fable",
+      "img": "https://den-cards.pokellector.com/399/Crobat.SFA.29.53824.png",
+      "rarity": "Uncommon",
+      "cardNum": "29/64"
+    },
+    {
+      "name": "Absol",
+      "set": "Shrouded Fable",
+      "img": "https://den-cards.pokellector.com/399/Absol.SFA.30.53825.png",
+      "rarity": "Common",
+      "cardNum": "30/64"
+    },
+    {
+      "name": "Zorua",
+      "set": "Shrouded Fable",
+      "img": "https://den-cards.pokellector.com/399/Zorua.SFA.31.53826.png",
+      "rarity": "Common",
+      "cardNum": "31/64"
+    },
+    {
+      "name": "Zoroark",
+      "set": "Shrouded Fable",
+      "img": "https://den-cards.pokellector.com/399/Zoroark.SFA.32.53827.png",
+      "rarity": "Rare",
+      "cardNum": "32/64"
+    },
+    {
+      "name": "Inkay",
+      "set": "Shrouded Fable",
+      "img": "https://den-cards.pokellector.com/399/Inkay.SFA.33.53828.png",
+      "rarity": "Common",
+      "cardNum": "33/64"
+    },
+    {
+      "name": "Malamar",
+      "set": "Shrouded Fable",
+      "img": "https://den-cards.pokellector.com/399/Malamar.SFA.34.53829.png",
+      "rarity": "Uncommon",
+      "cardNum": "34/64"
+    },
+    {
+      "name": "Yveltal",
+      "set": "Shrouded Fable",
+      "img": "https://den-cards.pokellector.com/399/Yveltal.SFA.35.53830.png",
+      "rarity": "Uncommon",
+      "cardNum": "35/64"
+    },
+    {
+      "name": "Okidogi ex",
+      "set": "Shrouded Fable",
+      "img": "https://den-cards.pokellector.com/399/Okidogi-ex.SFA.36.53831.png",
+      "rarity": "Double Rare",
+      "cardNum": "36/64"
+    },
+    {
+      "name": "Munkidori ex",
+      "set": "Shrouded Fable",
+      "img": "https://den-cards.pokellector.com/399/Munkidori-ex.SFA.37.53832.png",
+      "rarity": "Double Rare",
+      "cardNum": "37/64"
+    },
+    {
+      "name": "Fezandipiti ex",
+      "set": "Shrouded Fable",
+      "img": "https://den-cards.pokellector.com/399/Fezandipiti-ex.SFA.38.53833.png",
+      "rarity": "Double Rare",
+      "cardNum": "38/64"
+    },
+    {
+      "name": "Pecharunt ex",
+      "set": "Shrouded Fable",
+      "img": "https://den-cards.pokellector.com/399/Pecharunt-ex.SFA.39.53834.png",
+      "rarity": "Double Rare",
+      "cardNum": "39/64"
+    },
+    {
+      "name": "Genesect",
+      "set": "Shrouded Fable",
+      "img": "https://den-cards.pokellector.com/399/Genesect.SFA.40.53835.png",
+      "rarity": "Uncommon",
+      "cardNum": "40/64"
+    },
+    {
+      "name": "Cufant",
+      "set": "Shrouded Fable",
+      "img": "https://den-cards.pokellector.com/399/Cufant.SFA.41.53836.png",
+      "rarity": "Common",
+      "cardNum": "41/64"
+    },
+    {
+      "name": "Copperajah",
+      "set": "Shrouded Fable",
+      "img": "https://den-cards.pokellector.com/399/Copperajah.SFA.42.53837.png",
+      "rarity": "Rare",
+      "cardNum": "42/64"
+    },
+    {
+      "name": "Varoom",
+      "set": "Shrouded Fable",
+      "img": "https://den-cards.pokellector.com/399/Varoom.SFA.43.53838.png",
+      "rarity": "Common",
+      "cardNum": "43/64"
+    },
+    {
+      "name": "Axew",
+      "set": "Shrouded Fable",
+      "img": "https://den-cards.pokellector.com/399/Axew.SFA.44.53839.png",
+      "rarity": "Common",
+      "cardNum": "44/64"
+    },
+    {
+      "name": "Fraxure",
+      "set": "Shrouded Fable",
+      "img": "https://den-cards.pokellector.com/399/Fraxure.SFA.45.53840.png",
+      "rarity": "Common",
+      "cardNum": "45/64"
+    },
+    {
+      "name": "Haxorus",
+      "set": "Shrouded Fable",
+      "img": "https://den-cards.pokellector.com/399/Haxorus.SFA.46.53841.png",
+      "rarity": "Rare",
+      "cardNum": "46/64"
+    },
+    {
+      "name": "Kyurem",
+      "set": "Shrouded Fable",
+      "img": "https://den-cards.pokellector.com/399/Kyurem.SFA.47.53842.png",
+      "rarity": "Uncommon",
+      "cardNum": "47/64"
+    },
+    {
+      "name": "Meowth",
+      "set": "Shrouded Fable",
+      "img": "https://den-cards.pokellector.com/399/Meowth.SFA.48.53843.png",
+      "rarity": "Common",
+      "cardNum": "48/64"
+    },
+    {
+      "name": "Persian",
+      "set": "Shrouded Fable",
+      "img": "https://den-cards.pokellector.com/399/Persian.SFA.49.53844.png",
+      "rarity": "Common",
+      "cardNum": "49/64"
+    },
+    {
+      "name": "Eevee",
+      "set": "Shrouded Fable",
+      "img": "https://den-cards.pokellector.com/399/Eevee.SFA.50.53845.png",
+      "rarity": "Common",
+      "cardNum": "50/64"
+    },
+    {
+      "name": "Furfrou",
+      "set": "Shrouded Fable",
+      "img": "https://den-cards.pokellector.com/399/Furfrou.SFA.51.53846.png",
+      "rarity": "Common",
+      "cardNum": "51/64"
+    },
+    {
+      "name": "Stufful",
+      "set": "Shrouded Fable",
+      "img": "https://den-cards.pokellector.com/399/Stufful.SFA.52.53847.png",
+      "rarity": "Common",
+      "cardNum": "52/64"
+    },
+    {
+      "name": "Bewear",
+      "set": "Shrouded Fable",
+      "img": "https://den-cards.pokellector.com/399/Bewear.SFA.53.53848.png",
+      "rarity": "Common",
+      "cardNum": "53/64"
+    },
+    {
+      "name": "Academy at Night",
+      "set": "Shrouded Fable",
+      "img": "https://den-cards.pokellector.com/399/Academy-at-Night.SFA.54.53849.png",
+      "rarity": "Uncommon",
+      "cardNum": "54/64"
+    },
+    {
+      "name": "Binding Mochi",
+      "set": "Shrouded Fable",
+      "img": "https://den-cards.pokellector.com/399/Binding-Mochi.SFA.55.53850.png",
+      "rarity": "Uncommon",
+      "cardNum": "55/64"
+    },
+    {
+      "name": "Cassiopeia",
+      "set": "Shrouded Fable",
+      "img": "https://den-cards.pokellector.com/399/Cassiopeia.SFA.56.53851.png",
+      "rarity": "Uncommon",
+      "cardNum": "56/64"
+    },
+    {
+      "name": "Colress's Tenacity",
+      "set": "Shrouded Fable",
+      "img": "https://den-cards.pokellector.com/399/Colresss-Tenacity.SFA.57.53852.png",
+      "rarity": "Uncommon",
+      "cardNum": "57/64"
+    },
+    {
+      "name": "Dangerous Laser",
+      "set": "Shrouded Fable",
+      "img": "https://den-cards.pokellector.com/399/Dangerous-Laser.SFA.58.53853.png",
+      "rarity": "Ace Spec",
+      "cardNum": "58/64"
+    },
+    {
+      "name": "Janine's Secret Art",
+      "set": "Shrouded Fable",
+      "img": "https://den-cards.pokellector.com/399/Janines-Secret-Art.SFA.59.53854.png",
+      "rarity": "Uncommon",
+      "cardNum": "59/64"
+    },
+    {
+      "name": "Neutralization Zone",
+      "set": "Shrouded Fable",
+      "img": "https://den-cards.pokellector.com/399/Neutralization-Zone.SFA.60.53855.png",
+      "rarity": "Ace Spec",
+      "cardNum": "60/64"
+    },
+    {
+      "name": "Night Stretcher",
+      "set": "Shrouded Fable",
+      "img": "https://den-cards.pokellector.com/399/Night-Stretcher.SFA.61.53856.png",
+      "rarity": "Uncommon",
+      "cardNum": "61/64"
+    },
+    {
+      "name": "Poke Vital A",
+      "set": "Shrouded Fable",
+      "img": "https://den-cards.pokellector.com/399/Poke-Vital-A.SFA.62.53857.png",
+      "rarity": "Ace Spec",
+      "cardNum": "62/64"
+    },
+    {
+      "name": "Powerglass",
+      "set": "Shrouded Fable",
+      "img": "https://den-cards.pokellector.com/399/Powerglass.SFA.63.53858.png",
+      "rarity": "Uncommon",
+      "cardNum": "63/64"
+    },
+    {
+      "name": "Xerosic's Machinations",
+      "set": "Shrouded Fable",
+      "img": "https://den-cards.pokellector.com/399/Xerosics-Machinations.SFA.64.53859.png",
+      "rarity": "Uncommon",
+      "cardNum": "64/64"
+    },
+    {
+      "name": "Tapu Bulu",
+      "set": "Shrouded Fable",
+      "img": "https://den-cards.pokellector.com/399/Tapu-Bulu.SFA.65.53860.png",
+      "rarity": "Illustration Rare",
+      "cardNum": "65/64"
+    },
+    {
+      "name": "Houndoom",
+      "set": "Shrouded Fable",
+      "img": "https://den-cards.pokellector.com/399/Houndoom.SFA.66.53709.png",
+      "rarity": "Illustration Rare",
+      "cardNum": "66/64"
+    },
+    {
+      "name": "Horsea",
+      "set": "Shrouded Fable",
+      "img": "https://den-cards.pokellector.com/399/Horsea.SFA.67.53861.png",
+      "rarity": "Illustration Rare",
+      "cardNum": "67/64"
+    },
+    {
+      "name": "Duskull",
+      "set": "Shrouded Fable",
+      "img": "https://den-cards.pokellector.com/399/Duskull.SFA.68.53862.png",
+      "rarity": "Illustration Rare",
+      "cardNum": "68/64"
+    },
+    {
+      "name": "Dusclops",
+      "set": "Shrouded Fable",
+      "img": "https://den-cards.pokellector.com/399/Dusclops.SFA.69.53863.png",
+      "rarity": "Illustration Rare",
+      "cardNum": "69/64"
+    },
+    {
+      "name": "Dusknoir",
+      "set": "Shrouded Fable",
+      "img": "https://den-cards.pokellector.com/399/Dusknoir.SFA.70.53864.png",
+      "rarity": "Illustration Rare",
+      "cardNum": "70/64"
+    },
+    {
+      "name": "Cresselia",
+      "set": "Shrouded Fable",
+      "img": "https://den-cards.pokellector.com/399/Cresselia.SFA.71.53865.png",
+      "rarity": "Illustration Rare",
+      "cardNum": "71/64"
+    },
+    {
+      "name": "Munkidori",
+      "set": "Shrouded Fable",
+      "img": "https://den-cards.pokellector.com/399/Munkidori.SFA.72.53866.png",
+      "rarity": "Illustration Rare",
+      "cardNum": "72/64"
+    },
+    {
+      "name": "Fezandipiti",
+      "set": "Shrouded Fable",
+      "img": "https://den-cards.pokellector.com/399/Fezandipiti.SFA.73.53867.png",
+      "rarity": "Illustration Rare",
+      "cardNum": "73/64"
+    },
+    {
+      "name": "Okidogi",
+      "set": "Shrouded Fable",
+      "img": "https://den-cards.pokellector.com/399/Okidogi.SFA.74.53868.png",
+      "rarity": "Illustration Rare",
+      "cardNum": "74/64"
+    },
+    {
+      "name": "Zorua",
+      "set": "Shrouded Fable",
+      "img": "https://den-cards.pokellector.com/399/Zorua.SFA.75.53869.png",
+      "rarity": "Illustration Rare",
+      "cardNum": "75/64"
+    },
+    {
+      "name": "Cufant",
+      "set": "Shrouded Fable",
+      "img": "https://den-cards.pokellector.com/399/Cufant.SFA.76.53870.png",
+      "rarity": "Illustration Rare",
+      "cardNum": "76/64"
+    },
+    {
+      "name": "Fraxure",
+      "set": "Shrouded Fable",
+      "img": "https://den-cards.pokellector.com/399/Fraxure.SFA.77.53871.png",
+      "rarity": "Illustration Rare",
+      "cardNum": "77/64"
+    },
+    {
+      "name": "Persian",
+      "set": "Shrouded Fable",
+      "img": "https://den-cards.pokellector.com/399/Persian.SFA.78.53872.png",
+      "rarity": "Illustration Rare",
+      "cardNum": "78/64"
+    },
+    {
+      "name": "Bewear",
+      "set": "Shrouded Fable",
+      "img": "https://den-cards.pokellector.com/399/Bewear.SFA.79.53873.png",
+      "rarity": "Illustration Rare",
+      "cardNum": "79/64"
+    },
+    {
+      "name": "Kingdra ex",
+      "set": "Shrouded Fable",
+      "img": "https://den-cards.pokellector.com/399/Kingdra-ex.SFA.80.53874.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "80/64"
+    },
+    {
+      "name": "Revavroom ex",
+      "set": "Shrouded Fable",
+      "img": "https://den-cards.pokellector.com/399/Revavroom-ex.SFA.81.53875.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "81/64"
+    },
+    {
+      "name": "Okidogi ex",
+      "set": "Shrouded Fable",
+      "img": "https://den-cards.pokellector.com/399/Okidogi-ex.SFA.82.53876.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "82/64"
+    },
+    {
+      "name": "Munkidori ex",
+      "set": "Shrouded Fable",
+      "img": "https://den-cards.pokellector.com/399/Munkidori-ex.SFA.83.53877.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "83/64"
+    },
+    {
+      "name": "Fezandipiti ex",
+      "set": "Shrouded Fable",
+      "img": "https://den-cards.pokellector.com/399/Fezandipiti-ex.SFA.84.53878.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "84/64"
+    },
+    {
+      "name": "Pecharunt ex",
+      "set": "Shrouded Fable",
+      "img": "https://den-cards.pokellector.com/399/Pecharunt-ex.SFA.85.53879.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "85/64"
+    },
+    {
+      "name": "Cassiopeia",
+      "set": "Shrouded Fable",
+      "img": "https://den-cards.pokellector.com/399/Cassiopeia.SFA.86.53880.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "86/64"
+    },
+    {
+      "name": "Colress's Tenacity",
+      "set": "Shrouded Fable",
+      "img": "https://den-cards.pokellector.com/399/Colresss-Tenacity.SFA.87.53881.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "87/64"
+    },
+    {
+      "name": "Janine's Secret Art",
+      "set": "Shrouded Fable",
+      "img": "https://den-cards.pokellector.com/399/Janines-Secret-Art.SFA.88.53882.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "88/64"
+    },
+    {
+      "name": "Xerosic's Machinations",
+      "set": "Shrouded Fable",
+      "img": "https://den-cards.pokellector.com/399/Xerosics-Machinations.SFA.89.53883.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "89/64"
+    },
+    {
+      "name": "Okidogi ex",
+      "set": "Shrouded Fable",
+      "img": "https://den-cards.pokellector.com/399/Okidogi-ex.SFA.90.53884.png",
+      "rarity": "Special Illustration Rare",
+      "cardNum": "90/64"
+    },
+    {
+      "name": "Munkidori ex",
+      "set": "Shrouded Fable",
+      "img": "https://den-cards.pokellector.com/399/Munkidori-ex.SFA.91.53885.png",
+      "rarity": "Special Illustration Rare",
+      "cardNum": "91/64"
+    },
+    {
+      "name": "Fezandipiti ex",
+      "set": "Shrouded Fable",
+      "img": "https://den-cards.pokellector.com/399/Fezandipiti-ex.SFA.92.53886.png",
+      "rarity": "Special Illustration Rare",
+      "cardNum": "92/64"
+    },
+    {
+      "name": "Pecharunt ex",
+      "set": "Shrouded Fable",
+      "img": "https://den-cards.pokellector.com/399/Pecharunt-ex.SFA.93.53712.png",
+      "rarity": "Special Illustration Rare",
+      "cardNum": "93/64"
+    },
+    {
+      "name": "Cassiopeia",
+      "set": "Shrouded Fable",
+      "img": "https://den-cards.pokellector.com/399/Cassiopeia.SFA.94.53887.png",
+      "rarity": "Special Illustration Rare",
+      "cardNum": "94/64"
+    },
+    {
+      "name": "Pecharunt ex",
+      "set": "Shrouded Fable",
+      "img": "https://den-cards.pokellector.com/399/Pecharunt-ex.SFA.95.53888.png",
+      "rarity": "Hyper Rare",
+      "cardNum": "95/64"
+    },
+    {
+      "name": "Earthen Vessel",
+      "set": "Shrouded Fable",
+      "img": "https://den-cards.pokellector.com/399/Earthen-Vessel.SFA.96.53889.png",
+      "rarity": "Hyper Rare",
+      "cardNum": "96/64"
+    },
+    {
+      "name": "Powerglass",
+      "set": "Shrouded Fable",
+      "img": "https://den-cards.pokellector.com/399/Powerglass.SFA.97.53639.png",
+      "rarity": "Hyper Rare",
+      "cardNum": "97/64"
+    },
+    {
+      "name": "Basic Darkness Energy",
+      "set": "Shrouded Fable",
+      "img": "https://den-cards.pokellector.com/399/Basic-Darkness-Energy.SFA.98.53890.png",
+      "rarity": "Hyper Rare",
+      "cardNum": "98/64"
+    },
+    {
+      "name": "Basic Metal Energy",
+      "set": "Shrouded Fable",
+      "img": "https://den-cards.pokellector.com/399/Basic-Metal-Energy.SFA.99.53891.png",
+      "rarity": "Hyper Rare",
+      "cardNum": "99/64"
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "setName": "VMAX Special Set",
+  "cards": [
+    {
+      "name": "Dhelmise VMAX",
+      "set": "VMAX Special Set",
+      "img": "https://den-cards.pokellector.com/302/Dhelmise-VMAX.SP2.1.35890.png",
+      "rarity": "Common",
+      "cardNum": "1/4"
+    },
+    {
+      "name": "Cinderace VMAX",
+      "set": "VMAX Special Set",
+      "img": "https://den-cards.pokellector.com/302/Cinderace-VMAX.SP2.2.35892.png",
+      "rarity": "Common",
+      "cardNum": "2/4"
+    },
+    {
+      "name": "Morpeko VMAX",
+      "set": "VMAX Special Set",
+      "img": "https://den-cards.pokellector.com/302/Morpeko-VMAX.SP2.3.35893.png",
+      "rarity": "Common",
+      "cardNum": "3/4"
+    },
+    {
+      "name": "Cramorant VMAX",
+      "set": "VMAX Special Set",
+      "img": "https://den-cards.pokellector.com/302/Cramorant-VMAX.SP2.4.35891.png",
+      "rarity": "Common",
+      "cardNum": "4/4"
+    },
+    {
+      "name": "Fire Energy",
+      "set": "VMAX Special Set",
+      "img": "https://den-cards.pokellector.com/302/Fire-Energy.SP2.FIR0.35896.png",
+      "rarity": "Common",
+      "cardNum": ""
+    },
+    {
+      "name": "Grass Energy",
+      "set": "VMAX Special Set",
+      "img": "https://den-cards.pokellector.com/302/Grass-Energy.SP2.GRA0.35894.png",
+      "rarity": "Common",
+      "cardNum": ""
+    },
+    {
+      "name": "Electric Energy",
+      "set": "VMAX Special Set",
+      "img": "https://den-cards.pokellector.com/302/Electric-Energy.SP2.LIG0.35897.png",
+      "rarity": "Common",
+      "cardNum": ""
+    },
+    {
+      "name": "Water Energy",
+      "set": "VMAX Special Set",
+      "img": "https://den-cards.pokellector.com/302/Water-Energy.SP2.WAT0.35895.png",
+      "rarity": "Common",
+      "cardNum": ""
+    }
+  ]
+}

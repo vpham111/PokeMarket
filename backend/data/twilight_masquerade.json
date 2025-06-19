@@ -1,0 +1,1587 @@
+{
+  "setName": "Twilight Masquerade",
+  "cards": [
+    {
+      "name": "Tangela",
+      "set": "Twilight Masquerade",
+      "img": "https://den-cards.pokellector.com/392/Tangela.TWM.1.53158.png",
+      "rarity": "Common",
+      "cardNum": "1/167"
+    },
+    {
+      "name": "Tangrowth",
+      "set": "Twilight Masquerade",
+      "img": "https://den-cards.pokellector.com/392/Tangrowth.TWM.2.53159.png",
+      "rarity": "Common",
+      "cardNum": "2/167"
+    },
+    {
+      "name": "Pinsir",
+      "set": "Twilight Masquerade",
+      "img": "https://den-cards.pokellector.com/392/Pinsir.TWM.3.53160.png",
+      "rarity": "Common",
+      "cardNum": "3/167"
+    },
+    {
+      "name": "Spinarak",
+      "set": "Twilight Masquerade",
+      "img": "https://den-cards.pokellector.com/392/Spinarak.TWM.4.53161.png",
+      "rarity": "Common",
+      "cardNum": "4/167"
+    },
+    {
+      "name": "Ariados",
+      "set": "Twilight Masquerade",
+      "img": "https://den-cards.pokellector.com/392/Ariados.TWM.5.53162.png",
+      "rarity": "Uncommon",
+      "cardNum": "5/167"
+    },
+    {
+      "name": "Sunkern",
+      "set": "Twilight Masquerade",
+      "img": "https://den-cards.pokellector.com/392/Sunkern.TWM.6.53163.png",
+      "rarity": "Common",
+      "cardNum": "6/167"
+    },
+    {
+      "name": "Sunflora",
+      "set": "Twilight Masquerade",
+      "img": "https://den-cards.pokellector.com/392/Sunflora.TWM.7.53164.png",
+      "rarity": "Uncommon",
+      "cardNum": "7/167"
+    },
+    {
+      "name": "Heracross",
+      "set": "Twilight Masquerade",
+      "img": "https://den-cards.pokellector.com/392/Heracross.TWM.8.53165.png",
+      "rarity": "Uncommon",
+      "cardNum": "8/167"
+    },
+    {
+      "name": "Volbeat",
+      "set": "Twilight Masquerade",
+      "img": "https://den-cards.pokellector.com/392/Volbeat.TWM.9.53166.png",
+      "rarity": "Common",
+      "cardNum": "9/167"
+    },
+    {
+      "name": "Illumise",
+      "set": "Twilight Masquerade",
+      "img": "https://den-cards.pokellector.com/392/Illumise.TWM.10.53167.png",
+      "rarity": "Common",
+      "cardNum": "10/167"
+    },
+    {
+      "name": "Leafeon",
+      "set": "Twilight Masquerade",
+      "img": "https://den-cards.pokellector.com/392/Leafeon.TWM.11.53168.png",
+      "rarity": "Uncommon",
+      "cardNum": "11/167"
+    },
+    {
+      "name": "Phantump",
+      "set": "Twilight Masquerade",
+      "img": "https://den-cards.pokellector.com/392/Phantump.TWM.12.53169.png",
+      "rarity": "Common",
+      "cardNum": "12/167"
+    },
+    {
+      "name": "Trevenant",
+      "set": "Twilight Masquerade",
+      "img": "https://den-cards.pokellector.com/392/Trevenant.TWM.13.53170.png",
+      "rarity": "Common",
+      "cardNum": "13/167"
+    },
+    {
+      "name": "Grookey",
+      "set": "Twilight Masquerade",
+      "img": "https://den-cards.pokellector.com/392/Grookey.TWM.14.53171.png",
+      "rarity": "Common",
+      "cardNum": "14/167"
+    },
+    {
+      "name": "Thwackey",
+      "set": "Twilight Masquerade",
+      "img": "https://den-cards.pokellector.com/392/Thwackey.TWM.15.53172.png",
+      "rarity": "Common",
+      "cardNum": "15/167"
+    },
+    {
+      "name": "Rillaboom",
+      "set": "Twilight Masquerade",
+      "img": "https://den-cards.pokellector.com/392/Rillaboom.TWM.16.53173.png",
+      "rarity": "Uncommon",
+      "cardNum": "16/167"
+    },
+    {
+      "name": "Applin",
+      "set": "Twilight Masquerade",
+      "img": "https://den-cards.pokellector.com/392/Applin.TWM.17.53174.png",
+      "rarity": "Common",
+      "cardNum": "17/167"
+    },
+    {
+      "name": "Dipplin",
+      "set": "Twilight Masquerade",
+      "img": "https://den-cards.pokellector.com/392/Dipplin.TWM.18.53175.png",
+      "rarity": "Uncommon",
+      "cardNum": "18/167"
+    },
+    {
+      "name": "Iron Leaves",
+      "set": "Twilight Masquerade",
+      "img": "https://den-cards.pokellector.com/392/Iron-Leaves.TWM.19.53176.png",
+      "rarity": "Rare",
+      "cardNum": "19/167"
+    },
+    {
+      "name": "Poltchageist",
+      "set": "Twilight Masquerade",
+      "img": "https://den-cards.pokellector.com/392/Poltchageist.TWM.20.53177.png",
+      "rarity": "Common",
+      "cardNum": "20/167"
+    },
+    {
+      "name": "Poltchageist",
+      "set": "Twilight Masquerade",
+      "img": "https://den-cards.pokellector.com/392/Poltchageist.TWM.21.53178.png",
+      "rarity": "Common",
+      "cardNum": "21/167"
+    },
+    {
+      "name": "Sinistcha",
+      "set": "Twilight Masquerade",
+      "img": "https://den-cards.pokellector.com/392/Sinistcha.TWM.22.53179.png",
+      "rarity": "Rare",
+      "cardNum": "22/167"
+    },
+    {
+      "name": "Sinistcha ex",
+      "set": "Twilight Masquerade",
+      "img": "https://den-cards.pokellector.com/392/Sinistcha-ex.TWM.23.53180.png",
+      "rarity": "Double Rare",
+      "cardNum": "23/167"
+    },
+    {
+      "name": "Teal Mask Ogerpon",
+      "set": "Twilight Masquerade",
+      "img": "https://den-cards.pokellector.com/392/Teal-Mask-Ogerpon.TWM.24.52755.png",
+      "rarity": "Rare",
+      "cardNum": "24/167"
+    },
+    {
+      "name": "Teal Mask Ogerpon ex",
+      "set": "Twilight Masquerade",
+      "img": "https://den-cards.pokellector.com/392/Teal-Mask-Ogerpon-ex.TWM.25.52756.png",
+      "rarity": "Double Rare",
+      "cardNum": "25/167"
+    },
+    {
+      "name": "Vulpix",
+      "set": "Twilight Masquerade",
+      "img": "https://den-cards.pokellector.com/392/Vulpix.TWM.26.53181.png",
+      "rarity": "Common",
+      "cardNum": "26/167"
+    },
+    {
+      "name": "Ninetales",
+      "set": "Twilight Masquerade",
+      "img": "https://den-cards.pokellector.com/392/Ninetales.TWM.27.53182.png",
+      "rarity": "Common",
+      "cardNum": "27/167"
+    },
+    {
+      "name": "Slugma",
+      "set": "Twilight Masquerade",
+      "img": "https://den-cards.pokellector.com/392/Slugma.TWM.28.53183.png",
+      "rarity": "Common",
+      "cardNum": "28/167"
+    },
+    {
+      "name": "Magcargo ex",
+      "set": "Twilight Masquerade",
+      "img": "https://den-cards.pokellector.com/392/Magcargo-ex.TWM.29.53184.png",
+      "rarity": "Double Rare",
+      "cardNum": "29/167"
+    },
+    {
+      "name": "Torkoal",
+      "set": "Twilight Masquerade",
+      "img": "https://den-cards.pokellector.com/392/Torkoal.TWM.30.53185.png",
+      "rarity": "Common",
+      "cardNum": "30/167"
+    },
+    {
+      "name": "Chimchar",
+      "set": "Twilight Masquerade",
+      "img": "https://den-cards.pokellector.com/392/Chimchar.TWM.31.53186.png",
+      "rarity": "Common",
+      "cardNum": "31/167"
+    },
+    {
+      "name": "Monferno",
+      "set": "Twilight Masquerade",
+      "img": "https://den-cards.pokellector.com/392/Monferno.TWM.32.53187.png",
+      "rarity": "Common",
+      "cardNum": "32/167"
+    },
+    {
+      "name": "Infernape",
+      "set": "Twilight Masquerade",
+      "img": "https://den-cards.pokellector.com/392/Infernape.TWM.33.53188.png",
+      "rarity": "Rare",
+      "cardNum": "33/167"
+    },
+    {
+      "name": "Darumaka",
+      "set": "Twilight Masquerade",
+      "img": "https://den-cards.pokellector.com/392/Darumaka.TWM.34.53189.png",
+      "rarity": "Common",
+      "cardNum": "34/167"
+    },
+    {
+      "name": "Darmanitan",
+      "set": "Twilight Masquerade",
+      "img": "https://den-cards.pokellector.com/392/Darmanitan.TWM.35.53190.png",
+      "rarity": "Uncommon",
+      "cardNum": "35/167"
+    },
+    {
+      "name": "Litwick",
+      "set": "Twilight Masquerade",
+      "img": "https://den-cards.pokellector.com/392/Litwick.TWM.36.53191.png",
+      "rarity": "Common",
+      "cardNum": "36/167"
+    },
+    {
+      "name": "Lampent",
+      "set": "Twilight Masquerade",
+      "img": "https://den-cards.pokellector.com/392/Lampent.TWM.37.53192.png",
+      "rarity": "Common",
+      "cardNum": "37/167"
+    },
+    {
+      "name": "Chandelure",
+      "set": "Twilight Masquerade",
+      "img": "https://den-cards.pokellector.com/392/Chandelure.TWM.38.53193.png",
+      "rarity": "Rare",
+      "cardNum": "38/167"
+    },
+    {
+      "name": "Chi-Yu",
+      "set": "Twilight Masquerade",
+      "img": "https://den-cards.pokellector.com/392/Chi-Yu.TWM.39.53194.png",
+      "rarity": "Uncommon",
+      "cardNum": "39/167"
+    },
+    {
+      "name": "Heartflame Mask Ogerpon ex",
+      "set": "Twilight Masquerade",
+      "img": "https://den-cards.pokellector.com/392/Heartflame-Mask-Ogerpon-ex.TWM.40.52757.png",
+      "rarity": "Double Rare",
+      "cardNum": "40/167"
+    },
+    {
+      "name": "Poliwag",
+      "set": "Twilight Masquerade",
+      "img": "https://den-cards.pokellector.com/392/Poliwag.TWM.41.53195.png",
+      "rarity": "Common",
+      "cardNum": "41/167"
+    },
+    {
+      "name": "Poliwhirl",
+      "set": "Twilight Masquerade",
+      "img": "https://den-cards.pokellector.com/392/Poliwhirl.TWM.42.53196.png",
+      "rarity": "Common",
+      "cardNum": "42/167"
+    },
+    {
+      "name": "Poliwrath",
+      "set": "Twilight Masquerade",
+      "img": "https://den-cards.pokellector.com/392/Poliwrath.TWM.43.53197.png",
+      "rarity": "Uncommon",
+      "cardNum": "43/167"
+    },
+    {
+      "name": "Goldeen",
+      "set": "Twilight Masquerade",
+      "img": "https://den-cards.pokellector.com/392/Goldeen.TWM.44.53198.png",
+      "rarity": "Common",
+      "cardNum": "44/167"
+    },
+    {
+      "name": "Seaking",
+      "set": "Twilight Masquerade",
+      "img": "https://den-cards.pokellector.com/392/Seaking.TWM.45.53199.png",
+      "rarity": "Common",
+      "cardNum": "45/167"
+    },
+    {
+      "name": "Jynx",
+      "set": "Twilight Masquerade",
+      "img": "https://den-cards.pokellector.com/392/Jynx.TWM.46.53200.png",
+      "rarity": "Common",
+      "cardNum": "46/167"
+    },
+    {
+      "name": "Corphish",
+      "set": "Twilight Masquerade",
+      "img": "https://den-cards.pokellector.com/392/Corphish.TWM.47.53201.png",
+      "rarity": "Common",
+      "cardNum": "47/167"
+    },
+    {
+      "name": "Crawdaunt",
+      "set": "Twilight Masquerade",
+      "img": "https://den-cards.pokellector.com/392/Crawdaunt.TWM.48.53202.png",
+      "rarity": "Common",
+      "cardNum": "48/167"
+    },
+    {
+      "name": "Feebas",
+      "set": "Twilight Masquerade",
+      "img": "https://den-cards.pokellector.com/392/Feebas.TWM.49.53203.png",
+      "rarity": "Common",
+      "cardNum": "49/167"
+    },
+    {
+      "name": "Milotic",
+      "set": "Twilight Masquerade",
+      "img": "https://den-cards.pokellector.com/392/Milotic.TWM.50.53204.png",
+      "rarity": "Uncommon",
+      "cardNum": "50/167"
+    },
+    {
+      "name": "Snorunt",
+      "set": "Twilight Masquerade",
+      "img": "https://den-cards.pokellector.com/392/Snorunt.TWM.51.53205.png",
+      "rarity": "Common",
+      "cardNum": "51/167"
+    },
+    {
+      "name": "Glalie",
+      "set": "Twilight Masquerade",
+      "img": "https://den-cards.pokellector.com/392/Glalie.TWM.52.53206.png",
+      "rarity": "Uncommon",
+      "cardNum": "52/167"
+    },
+    {
+      "name": "Froslass",
+      "set": "Twilight Masquerade",
+      "img": "https://den-cards.pokellector.com/392/Froslass.TWM.53.53207.png",
+      "rarity": "Rare",
+      "cardNum": "53/167"
+    },
+    {
+      "name": "Glaceon",
+      "set": "Twilight Masquerade",
+      "img": "https://den-cards.pokellector.com/392/Glaceon.TWM.54.53208.png",
+      "rarity": "Uncommon",
+      "cardNum": "54/167"
+    },
+    {
+      "name": "Phione",
+      "set": "Twilight Masquerade",
+      "img": "https://den-cards.pokellector.com/392/Phione.TWM.55.53209.png",
+      "rarity": "Common",
+      "cardNum": "55/167"
+    },
+    {
+      "name": "Froakie",
+      "set": "Twilight Masquerade",
+      "img": "https://den-cards.pokellector.com/392/Froakie.TWM.56.53210.png",
+      "rarity": "Common",
+      "cardNum": "56/167"
+    },
+    {
+      "name": "Frogadier",
+      "set": "Twilight Masquerade",
+      "img": "https://den-cards.pokellector.com/392/Frogadier.TWM.57.53211.png",
+      "rarity": "Common",
+      "cardNum": "57/167"
+    },
+    {
+      "name": "Cramorant",
+      "set": "Twilight Masquerade",
+      "img": "https://den-cards.pokellector.com/392/Cramorant.TWM.58.53212.png",
+      "rarity": "Uncommon",
+      "cardNum": "58/167"
+    },
+    {
+      "name": "Finizen",
+      "set": "Twilight Masquerade",
+      "img": "https://den-cards.pokellector.com/392/Finizen.TWM.59.53213.png",
+      "rarity": "Common",
+      "cardNum": "59/167"
+    },
+    {
+      "name": "Palafin",
+      "set": "Twilight Masquerade",
+      "img": "https://den-cards.pokellector.com/392/Palafin.TWM.60.53214.png",
+      "rarity": "Uncommon",
+      "cardNum": "60/167"
+    },
+    {
+      "name": "Palafin ex",
+      "set": "Twilight Masquerade",
+      "img": "https://den-cards.pokellector.com/392/Palafin-ex.TWM.61.53215.png",
+      "rarity": "Double Rare",
+      "cardNum": "61/167"
+    },
+    {
+      "name": "Iron Bundle",
+      "set": "Twilight Masquerade",
+      "img": "https://den-cards.pokellector.com/392/Iron-Bundle.TWM.62.53216.png",
+      "rarity": "Uncommon",
+      "cardNum": "62/167"
+    },
+    {
+      "name": "Walking Wake",
+      "set": "Twilight Masquerade",
+      "img": "https://den-cards.pokellector.com/392/Walking-Wake.TWM.63.53217.png",
+      "rarity": "Rare",
+      "cardNum": "63/167"
+    },
+    {
+      "name": "Wellspring Mask Ogerpon ex",
+      "set": "Twilight Masquerade",
+      "img": "https://den-cards.pokellector.com/392/Wellspring-Mask-Ogerpon-ex.TWM.64.52758.png",
+      "rarity": "Double Rare",
+      "cardNum": "64/167"
+    },
+    {
+      "name": "Zapdos",
+      "set": "Twilight Masquerade",
+      "img": "https://den-cards.pokellector.com/392/Zapdos.TWM.65.53218.png",
+      "rarity": "Rare",
+      "cardNum": "65/167"
+    },
+    {
+      "name": "Shinx",
+      "set": "Twilight Masquerade",
+      "img": "https://den-cards.pokellector.com/392/Shinx.TWM.66.53219.png",
+      "rarity": "Common",
+      "cardNum": "66/167"
+    },
+    {
+      "name": "Luxio",
+      "set": "Twilight Masquerade",
+      "img": "https://den-cards.pokellector.com/392/Luxio.TWM.67.53220.png",
+      "rarity": "Common",
+      "cardNum": "67/167"
+    },
+    {
+      "name": "Luxray ex",
+      "set": "Twilight Masquerade",
+      "img": "https://den-cards.pokellector.com/392/Luxray-ex.TWM.68.53221.png",
+      "rarity": "Double Rare",
+      "cardNum": "68/167"
+    },
+    {
+      "name": "Emolga",
+      "set": "Twilight Masquerade",
+      "img": "https://den-cards.pokellector.com/392/Emolga.TWM.69.53222.png",
+      "rarity": "Common",
+      "cardNum": "69/167"
+    },
+    {
+      "name": "Helioptile",
+      "set": "Twilight Masquerade",
+      "img": "https://den-cards.pokellector.com/392/Helioptile.TWM.70.53223.png",
+      "rarity": "Common",
+      "cardNum": "70/167"
+    },
+    {
+      "name": "Heliolisk",
+      "set": "Twilight Masquerade",
+      "img": "https://den-cards.pokellector.com/392/Heliolisk.TWM.71.53224.png",
+      "rarity": "Common",
+      "cardNum": "71/167"
+    },
+    {
+      "name": "Morpeko",
+      "set": "Twilight Masquerade",
+      "img": "https://den-cards.pokellector.com/392/Morpeko.TWM.72.53225.png",
+      "rarity": "Uncommon",
+      "cardNum": "72/167"
+    },
+    {
+      "name": "Tadbulb",
+      "set": "Twilight Masquerade",
+      "img": "https://den-cards.pokellector.com/392/Tadbulb.TWM.73.53226.png",
+      "rarity": "Common",
+      "cardNum": "73/167"
+    },
+    {
+      "name": "Bellibolt",
+      "set": "Twilight Masquerade",
+      "img": "https://den-cards.pokellector.com/392/Bellibolt.TWM.74.53227.png",
+      "rarity": "Uncommon",
+      "cardNum": "74/167"
+    },
+    {
+      "name": "Wattrel",
+      "set": "Twilight Masquerade",
+      "img": "https://den-cards.pokellector.com/392/Wattrel.TWM.75.53228.png",
+      "rarity": "Common",
+      "cardNum": "75/167"
+    },
+    {
+      "name": "Kilowattrel",
+      "set": "Twilight Masquerade",
+      "img": "https://den-cards.pokellector.com/392/Kilowattrel.TWM.76.53229.png",
+      "rarity": "Uncommon",
+      "cardNum": "76/167"
+    },
+    {
+      "name": "Iron Thorns ex",
+      "set": "Twilight Masquerade",
+      "img": "https://den-cards.pokellector.com/392/Iron-Thorns-ex.TWM.77.53230.png",
+      "rarity": "Double Rare",
+      "cardNum": "77/167"
+    },
+    {
+      "name": "Clefairy",
+      "set": "Twilight Masquerade",
+      "img": "https://den-cards.pokellector.com/392/Clefairy.TWM.78.53231.png",
+      "rarity": "Common",
+      "cardNum": "78/167"
+    },
+    {
+      "name": "Clefable",
+      "set": "Twilight Masquerade",
+      "img": "https://den-cards.pokellector.com/392/Clefable.TWM.79.53232.png",
+      "rarity": "Uncommon",
+      "cardNum": "79/167"
+    },
+    {
+      "name": "Abra",
+      "set": "Twilight Masquerade",
+      "img": "https://den-cards.pokellector.com/392/Abra.TWM.80.53233.png",
+      "rarity": "Common",
+      "cardNum": "80/167"
+    },
+    {
+      "name": "Kadabra",
+      "set": "Twilight Masquerade",
+      "img": "https://den-cards.pokellector.com/392/Kadabra.TWM.81.53234.png",
+      "rarity": "Common",
+      "cardNum": "81/167"
+    },
+    {
+      "name": "Alakazam",
+      "set": "Twilight Masquerade",
+      "img": "https://den-cards.pokellector.com/392/Alakazam.TWM.82.53235.png",
+      "rarity": "Rare",
+      "cardNum": "82/167"
+    },
+    {
+      "name": "Girafarig",
+      "set": "Twilight Masquerade",
+      "img": "https://den-cards.pokellector.com/392/Girafarig.TWM.83.53236.png",
+      "rarity": "Common",
+      "cardNum": "83/167"
+    },
+    {
+      "name": "Farigiraf",
+      "set": "Twilight Masquerade",
+      "img": "https://den-cards.pokellector.com/392/Farigiraf.TWM.84.53237.png",
+      "rarity": "Uncommon",
+      "cardNum": "84/167"
+    },
+    {
+      "name": "Chimecho",
+      "set": "Twilight Masquerade",
+      "img": "https://den-cards.pokellector.com/392/Chimecho.TWM.85.53238.png",
+      "rarity": "Common",
+      "cardNum": "85/167"
+    },
+    {
+      "name": "Flabébé",
+      "set": "Twilight Masquerade",
+      "img": "https://den-cards.pokellector.com/392/Flabb.TWM.86.53239.png",
+      "rarity": "Common",
+      "cardNum": "86/167"
+    },
+    {
+      "name": "Floette",
+      "set": "Twilight Masquerade",
+      "img": "https://den-cards.pokellector.com/392/Floette.TWM.87.53240.png",
+      "rarity": "Common",
+      "cardNum": "87/167"
+    },
+    {
+      "name": "Florges",
+      "set": "Twilight Masquerade",
+      "img": "https://den-cards.pokellector.com/392/Florges.TWM.88.53241.png",
+      "rarity": "Uncommon",
+      "cardNum": "88/167"
+    },
+    {
+      "name": "Swirlix",
+      "set": "Twilight Masquerade",
+      "img": "https://den-cards.pokellector.com/392/Swirlix.TWM.89.53242.png",
+      "rarity": "Common",
+      "cardNum": "89/167"
+    },
+    {
+      "name": "Slurpuff",
+      "set": "Twilight Masquerade",
+      "img": "https://den-cards.pokellector.com/392/Slurpuff.TWM.90.53243.png",
+      "rarity": "Uncommon",
+      "cardNum": "90/167"
+    },
+    {
+      "name": "Sandygast",
+      "set": "Twilight Masquerade",
+      "img": "https://den-cards.pokellector.com/392/Sandygast.TWM.91.53244.png",
+      "rarity": "Common",
+      "cardNum": "91/167"
+    },
+    {
+      "name": "Palossand",
+      "set": "Twilight Masquerade",
+      "img": "https://den-cards.pokellector.com/392/Palossand.TWM.92.53245.png",
+      "rarity": "Common",
+      "cardNum": "92/167"
+    },
+    {
+      "name": "Enamorus",
+      "set": "Twilight Masquerade",
+      "img": "https://den-cards.pokellector.com/392/Enamorus.TWM.93.53246.png",
+      "rarity": "Rare",
+      "cardNum": "93/167"
+    },
+    {
+      "name": "Scream Tail ex",
+      "set": "Twilight Masquerade",
+      "img": "https://den-cards.pokellector.com/392/Scream-Tail-ex.TWM.94.53247.png",
+      "rarity": "Double Rare",
+      "cardNum": "94/167"
+    },
+    {
+      "name": "Munkidori",
+      "set": "Twilight Masquerade",
+      "img": "https://den-cards.pokellector.com/392/Munkidori.TWM.95.53248.png",
+      "rarity": "Rare",
+      "cardNum": "95/167"
+    },
+    {
+      "name": "Fezandipiti",
+      "set": "Twilight Masquerade",
+      "img": "https://den-cards.pokellector.com/392/Fezandipiti.TWM.96.53249.png",
+      "rarity": "Rare",
+      "cardNum": "96/167"
+    },
+    {
+      "name": "Sandshrew",
+      "set": "Twilight Masquerade",
+      "img": "https://den-cards.pokellector.com/392/Sandshrew.TWM.97.53250.png",
+      "rarity": "Common",
+      "cardNum": "97/167"
+    },
+    {
+      "name": "Sandslash",
+      "set": "Twilight Masquerade",
+      "img": "https://den-cards.pokellector.com/392/Sandslash.TWM.98.53251.png",
+      "rarity": "Uncommon",
+      "cardNum": "98/167"
+    },
+    {
+      "name": "Hisuian Growlithe",
+      "set": "Twilight Masquerade",
+      "img": "https://den-cards.pokellector.com/392/Hisuian-Growlithe.TWM.99.53252.png",
+      "rarity": "Common",
+      "cardNum": "99/167"
+    },
+    {
+      "name": "Hisuian Arcanine",
+      "set": "Twilight Masquerade",
+      "img": "https://den-cards.pokellector.com/392/Hisuian-Arcanine.TWM.100.53253.png",
+      "rarity": "Rare",
+      "cardNum": "100/167"
+    },
+    {
+      "name": "Nosepass",
+      "set": "Twilight Masquerade",
+      "img": "https://den-cards.pokellector.com/392/Nosepass.TWM.101.53254.png",
+      "rarity": "Common",
+      "cardNum": "101/167"
+    },
+    {
+      "name": "Probopass",
+      "set": "Twilight Masquerade",
+      "img": "https://den-cards.pokellector.com/392/Probopass.TWM.102.53255.png",
+      "rarity": "Uncommon",
+      "cardNum": "102/167"
+    },
+    {
+      "name": "Timburr",
+      "set": "Twilight Masquerade",
+      "img": "https://den-cards.pokellector.com/392/Timburr.TWM.103.53256.png",
+      "rarity": "Common",
+      "cardNum": "103/167"
+    },
+    {
+      "name": "Gurdurr",
+      "set": "Twilight Masquerade",
+      "img": "https://den-cards.pokellector.com/392/Gurdurr.TWM.104.53257.png",
+      "rarity": "Common",
+      "cardNum": "104/167"
+    },
+    {
+      "name": "Conkeldurr",
+      "set": "Twilight Masquerade",
+      "img": "https://den-cards.pokellector.com/392/Conkeldurr.TWM.105.53258.png",
+      "rarity": "Uncommon",
+      "cardNum": "105/167"
+    },
+    {
+      "name": "Greninja ex",
+      "set": "Twilight Masquerade",
+      "img": "https://den-cards.pokellector.com/392/Greninja-ex.TWM.106.53259.png",
+      "rarity": "Double Rare",
+      "cardNum": "106/167"
+    },
+    {
+      "name": "Hawlucha",
+      "set": "Twilight Masquerade",
+      "img": "https://den-cards.pokellector.com/392/Hawlucha.TWM.107.53260.png",
+      "rarity": "Common",
+      "cardNum": "107/167"
+    },
+    {
+      "name": "Glimmet",
+      "set": "Twilight Masquerade",
+      "img": "https://den-cards.pokellector.com/392/Glimmet.TWM.108.53261.png",
+      "rarity": "Common",
+      "cardNum": "108/167"
+    },
+    {
+      "name": "Glimmora",
+      "set": "Twilight Masquerade",
+      "img": "https://den-cards.pokellector.com/392/Glimmora.TWM.109.53262.png",
+      "rarity": "Uncommon",
+      "cardNum": "109/167"
+    },
+    {
+      "name": "Ting-Lu",
+      "set": "Twilight Masquerade",
+      "img": "https://den-cards.pokellector.com/392/Ting-Lu.TWM.110.53263.png",
+      "rarity": "Rare",
+      "cardNum": "110/167"
+    },
+    {
+      "name": "Okidogi",
+      "set": "Twilight Masquerade",
+      "img": "https://den-cards.pokellector.com/392/Okidogi.TWM.111.53264.png",
+      "rarity": "Rare",
+      "cardNum": "111/167"
+    },
+    {
+      "name": "Cornerstone Mask Ogerpon ex",
+      "set": "Twilight Masquerade",
+      "img": "https://den-cards.pokellector.com/392/Cornerstone-Mask-Ogerpon-ex.TWM.112.52759.png",
+      "rarity": "Double Rare",
+      "cardNum": "112/167"
+    },
+    {
+      "name": "Poochyena",
+      "set": "Twilight Masquerade",
+      "img": "https://den-cards.pokellector.com/392/Poochyena.TWM.113.53265.png",
+      "rarity": "Common",
+      "cardNum": "113/167"
+    },
+    {
+      "name": "Mightyena",
+      "set": "Twilight Masquerade",
+      "img": "https://den-cards.pokellector.com/392/Mightyena.TWM.114.53266.png",
+      "rarity": "Uncommon",
+      "cardNum": "114/167"
+    },
+    {
+      "name": "Venipede",
+      "set": "Twilight Masquerade",
+      "img": "https://den-cards.pokellector.com/392/Venipede.TWM.115.53267.png",
+      "rarity": "Common",
+      "cardNum": "115/167"
+    },
+    {
+      "name": "Whirlipede",
+      "set": "Twilight Masquerade",
+      "img": "https://den-cards.pokellector.com/392/Whirlipede.TWM.116.53268.png",
+      "rarity": "Common",
+      "cardNum": "116/167"
+    },
+    {
+      "name": "Scolipede",
+      "set": "Twilight Masquerade",
+      "img": "https://den-cards.pokellector.com/392/Scolipede.TWM.117.53269.png",
+      "rarity": "Uncommon",
+      "cardNum": "117/167"
+    },
+    {
+      "name": "Brute Bonnet",
+      "set": "Twilight Masquerade",
+      "img": "https://den-cards.pokellector.com/392/Brute-Bonnet.TWM.118.53270.png",
+      "rarity": "Uncommon",
+      "cardNum": "118/167"
+    },
+    {
+      "name": "Skarmory",
+      "set": "Twilight Masquerade",
+      "img": "https://den-cards.pokellector.com/392/Skarmory.TWM.119.53271.png",
+      "rarity": "Common",
+      "cardNum": "119/167"
+    },
+    {
+      "name": "Aron",
+      "set": "Twilight Masquerade",
+      "img": "https://den-cards.pokellector.com/392/Aron.TWM.120.53272.png",
+      "rarity": "Common",
+      "cardNum": "120/167"
+    },
+    {
+      "name": "Lairon",
+      "set": "Twilight Masquerade",
+      "img": "https://den-cards.pokellector.com/392/Lairon.TWM.121.53273.png",
+      "rarity": "Common",
+      "cardNum": "121/167"
+    },
+    {
+      "name": "Aggron",
+      "set": "Twilight Masquerade",
+      "img": "https://den-cards.pokellector.com/392/Aggron.TWM.122.53274.png",
+      "rarity": "Uncommon",
+      "cardNum": "122/167"
+    },
+    {
+      "name": "Heatran",
+      "set": "Twilight Masquerade",
+      "img": "https://den-cards.pokellector.com/392/Heatran.TWM.123.53275.png",
+      "rarity": "Rare",
+      "cardNum": "123/167"
+    },
+    {
+      "name": "Varoom",
+      "set": "Twilight Masquerade",
+      "img": "https://den-cards.pokellector.com/392/Varoom.TWM.124.53276.png",
+      "rarity": "Common",
+      "cardNum": "124/167"
+    },
+    {
+      "name": "Revavroom",
+      "set": "Twilight Masquerade",
+      "img": "https://den-cards.pokellector.com/392/Revavroom.TWM.125.53277.png",
+      "rarity": "Uncommon",
+      "cardNum": "125/167"
+    },
+    {
+      "name": "Applin",
+      "set": "Twilight Masquerade",
+      "img": "https://den-cards.pokellector.com/392/Applin.TWM.126.53278.png",
+      "rarity": "Common",
+      "cardNum": "126/167"
+    },
+    {
+      "name": "Dipplin",
+      "set": "Twilight Masquerade",
+      "img": "https://den-cards.pokellector.com/392/Dipplin.TWM.127.53279.png",
+      "rarity": "Uncommon",
+      "cardNum": "127/167"
+    },
+    {
+      "name": "Dreepy",
+      "set": "Twilight Masquerade",
+      "img": "https://den-cards.pokellector.com/392/Dreepy.TWM.128.53280.png",
+      "rarity": "Common",
+      "cardNum": "128/167"
+    },
+    {
+      "name": "Drakloak",
+      "set": "Twilight Masquerade",
+      "img": "https://den-cards.pokellector.com/392/Drakloak.TWM.129.53133.png",
+      "rarity": "Common",
+      "cardNum": "129/167"
+    },
+    {
+      "name": "Dragapult ex",
+      "set": "Twilight Masquerade",
+      "img": "https://den-cards.pokellector.com/392/Dragapult-ex.TWM.130.53281.png",
+      "rarity": "Double Rare",
+      "cardNum": "130/167"
+    },
+    {
+      "name": "Tatsugiri",
+      "set": "Twilight Masquerade",
+      "img": "https://den-cards.pokellector.com/392/Tatsugiri.TWM.131.53282.png",
+      "rarity": "Uncommon",
+      "cardNum": "131/167"
+    },
+    {
+      "name": "Farfetch'd",
+      "set": "Twilight Masquerade",
+      "img": "https://den-cards.pokellector.com/392/Farfetchd.TWM.132.53283.png",
+      "rarity": "Common",
+      "cardNum": "132/167"
+    },
+    {
+      "name": "Chansey",
+      "set": "Twilight Masquerade",
+      "img": "https://den-cards.pokellector.com/392/Chansey.TWM.133.53284.png",
+      "rarity": "Common",
+      "cardNum": "133/167"
+    },
+    {
+      "name": "Blissey ex",
+      "set": "Twilight Masquerade",
+      "img": "https://den-cards.pokellector.com/392/Blissey-ex.TWM.134.52888.png",
+      "rarity": "Double Rare",
+      "cardNum": "134/167"
+    },
+    {
+      "name": "Eevee",
+      "set": "Twilight Masquerade",
+      "img": "https://den-cards.pokellector.com/392/Eevee.TWM.135.53285.png",
+      "rarity": "Common",
+      "cardNum": "135/167"
+    },
+    {
+      "name": "Snorlax",
+      "set": "Twilight Masquerade",
+      "img": "https://den-cards.pokellector.com/392/Snorlax.TWM.136.53286.png",
+      "rarity": "Uncommon",
+      "cardNum": "136/167"
+    },
+    {
+      "name": "Aipom",
+      "set": "Twilight Masquerade",
+      "img": "https://den-cards.pokellector.com/392/Aipom.TWM.137.53287.png",
+      "rarity": "Common",
+      "cardNum": "137/167"
+    },
+    {
+      "name": "Ambipom",
+      "set": "Twilight Masquerade",
+      "img": "https://den-cards.pokellector.com/392/Ambipom.TWM.138.53288.png",
+      "rarity": "Uncommon",
+      "cardNum": "138/167"
+    },
+    {
+      "name": "Ducklett",
+      "set": "Twilight Masquerade",
+      "img": "https://den-cards.pokellector.com/392/Ducklett.TWM.139.53289.png",
+      "rarity": "Common",
+      "cardNum": "139/167"
+    },
+    {
+      "name": "Swanna",
+      "set": "Twilight Masquerade",
+      "img": "https://den-cards.pokellector.com/392/Swanna.TWM.140.53290.png",
+      "rarity": "Uncommon",
+      "cardNum": "140/167"
+    },
+    {
+      "name": "Bloodmoon Ursaluna ex",
+      "set": "Twilight Masquerade",
+      "img": "https://den-cards.pokellector.com/392/Bloodmoon-Ursaluna-ex.TWM.141.53291.png",
+      "rarity": "Double Rare",
+      "cardNum": "141/167"
+    },
+    {
+      "name": "Accompanying Flute",
+      "set": "Twilight Masquerade",
+      "img": "https://den-cards.pokellector.com/392/Accompanying-Flute.TWM.142.53292.png",
+      "rarity": "Uncommon",
+      "cardNum": "142/167"
+    },
+    {
+      "name": "Bug Catching Set",
+      "set": "Twilight Masquerade",
+      "img": "https://den-cards.pokellector.com/392/Bug-Catching-Set.TWM.143.53293.png",
+      "rarity": "Uncommon",
+      "cardNum": "143/167"
+    },
+    {
+      "name": "Caretaker",
+      "set": "Twilight Masquerade",
+      "img": "https://den-cards.pokellector.com/392/Caretaker.TWM.144.53294.png",
+      "rarity": "Common",
+      "cardNum": "144/167"
+    },
+    {
+      "name": "Carmine",
+      "set": "Twilight Masquerade",
+      "img": "https://den-cards.pokellector.com/392/Carmine.TWM.145.53295.png",
+      "rarity": "Uncommon",
+      "cardNum": "145/167"
+    },
+    {
+      "name": "Community Center",
+      "set": "Twilight Masquerade",
+      "img": "https://den-cards.pokellector.com/392/Community-Center.TWM.146.53296.png",
+      "rarity": "Uncommon",
+      "cardNum": "146/167"
+    },
+    {
+      "name": "Cook",
+      "set": "Twilight Masquerade",
+      "img": "https://den-cards.pokellector.com/392/Cook.TWM.147.53297.png",
+      "rarity": "Uncommon",
+      "cardNum": "147/167"
+    },
+    {
+      "name": "Enhanced Hammer",
+      "set": "Twilight Masquerade",
+      "img": "https://den-cards.pokellector.com/392/Enhanced-Hammer.TWM.148.53298.png",
+      "rarity": "Uncommon",
+      "cardNum": "148/167"
+    },
+    {
+      "name": "Festival Grounds",
+      "set": "Twilight Masquerade",
+      "img": "https://den-cards.pokellector.com/392/Festival-Grounds.TWM.149.53299.png",
+      "rarity": "Uncommon",
+      "cardNum": "149/167"
+    },
+    {
+      "name": "Handheld Fan",
+      "set": "Twilight Masquerade",
+      "img": "https://den-cards.pokellector.com/392/Handheld-Fan.TWM.150.53300.png",
+      "rarity": "Uncommon",
+      "cardNum": "150/167"
+    },
+    {
+      "name": "Hassel",
+      "set": "Twilight Masquerade",
+      "img": "https://den-cards.pokellector.com/392/Hassel.TWM.151.53301.png",
+      "rarity": "Uncommon",
+      "cardNum": "151/167"
+    },
+    {
+      "name": "Hyper Aroma",
+      "set": "Twilight Masquerade",
+      "img": "https://den-cards.pokellector.com/392/Hyper-Aroma.TWM.152.53302.png",
+      "rarity": "Ace Spec",
+      "cardNum": "152/167"
+    },
+    {
+      "name": "Jamming Tower",
+      "set": "Twilight Masquerade",
+      "img": "https://den-cards.pokellector.com/392/Jamming-Tower.TWM.153.53303.png",
+      "rarity": "Uncommon",
+      "cardNum": "153/167"
+    },
+    {
+      "name": "Kieran",
+      "set": "Twilight Masquerade",
+      "img": "https://den-cards.pokellector.com/392/Kieran.TWM.154.53304.png",
+      "rarity": "Uncommon",
+      "cardNum": "154/167"
+    },
+    {
+      "name": "Lana's Aid",
+      "set": "Twilight Masquerade",
+      "img": "https://den-cards.pokellector.com/392/Lanas-Aid.TWM.155.53305.png",
+      "rarity": "Uncommon",
+      "cardNum": "155/167"
+    },
+    {
+      "name": "Love Ball",
+      "set": "Twilight Masquerade",
+      "img": "https://den-cards.pokellector.com/392/Love-Ball.TWM.156.53306.png",
+      "rarity": "Uncommon",
+      "cardNum": "156/167"
+    },
+    {
+      "name": "Lucian",
+      "set": "Twilight Masquerade",
+      "img": "https://den-cards.pokellector.com/392/Lucian.TWM.157.53307.png",
+      "rarity": "Uncommon",
+      "cardNum": "157/167"
+    },
+    {
+      "name": "Lucky Helmet",
+      "set": "Twilight Masquerade",
+      "img": "https://den-cards.pokellector.com/392/Lucky-Helmet.TWM.158.53308.png",
+      "rarity": "Uncommon",
+      "cardNum": "158/167"
+    },
+    {
+      "name": "Ogre's Mask",
+      "set": "Twilight Masquerade",
+      "img": "https://den-cards.pokellector.com/392/Ogres-Mask.TWM.159.52760.png",
+      "rarity": "Uncommon",
+      "cardNum": "159/167"
+    },
+    {
+      "name": "Perrin",
+      "set": "Twilight Masquerade",
+      "img": "https://den-cards.pokellector.com/392/Perrin.TWM.160.53309.png",
+      "rarity": "Uncommon",
+      "cardNum": "160/167"
+    },
+    {
+      "name": "Raifort",
+      "set": "Twilight Masquerade",
+      "img": "https://den-cards.pokellector.com/392/Raifort.TWM.161.53310.png",
+      "rarity": "Uncommon",
+      "cardNum": "161/167"
+    },
+    {
+      "name": "Scoop Up Cyclone",
+      "set": "Twilight Masquerade",
+      "img": "https://den-cards.pokellector.com/392/Scoop-Up-Cyclone.TWM.162.53311.png",
+      "rarity": "Ace Spec",
+      "cardNum": "162/167"
+    },
+    {
+      "name": "Secret Box",
+      "set": "Twilight Masquerade",
+      "img": "https://den-cards.pokellector.com/392/Secret-Box.TWM.163.53132.png",
+      "rarity": "Ace Spec",
+      "cardNum": "163/167"
+    },
+    {
+      "name": "Survival Brace",
+      "set": "Twilight Masquerade",
+      "img": "https://den-cards.pokellector.com/392/Survival-Brace.TWM.164.53312.png",
+      "rarity": "Ace Spec",
+      "cardNum": "164/167"
+    },
+    {
+      "name": "Unfair Stamp",
+      "set": "Twilight Masquerade",
+      "img": "https://den-cards.pokellector.com/392/Unfair-Stamp.TWM.165.53313.png",
+      "rarity": "Ace Spec",
+      "cardNum": "165/167"
+    },
+    {
+      "name": "Boomerang Energy",
+      "set": "Twilight Masquerade",
+      "img": "https://den-cards.pokellector.com/392/Boomerang-Energy.TWM.166.53314.png",
+      "rarity": "Uncommon",
+      "cardNum": "166/167"
+    },
+    {
+      "name": "Legacy Energy",
+      "set": "Twilight Masquerade",
+      "img": "https://den-cards.pokellector.com/392/Legacy-Energy.TWM.167.53315.png",
+      "rarity": "Ace Spec",
+      "cardNum": "167/167"
+    },
+    {
+      "name": "Pinsir",
+      "set": "Twilight Masquerade",
+      "img": "https://den-cards.pokellector.com/392/Pinsir.TWM.168.53124.png",
+      "rarity": "Illustration Rare",
+      "cardNum": "168/167"
+    },
+    {
+      "name": "Sunflora",
+      "set": "Twilight Masquerade",
+      "img": "https://den-cards.pokellector.com/392/Sunflora.TWM.169.53316.png",
+      "rarity": "Illustration Rare",
+      "cardNum": "169/167"
+    },
+    {
+      "name": "Dipplin",
+      "set": "Twilight Masquerade",
+      "img": "https://den-cards.pokellector.com/392/Dipplin.TWM.170.53317.png",
+      "rarity": "Illustration Rare",
+      "cardNum": "170/167"
+    },
+    {
+      "name": "Poltchageist",
+      "set": "Twilight Masquerade",
+      "img": "https://den-cards.pokellector.com/392/Poltchageist.TWM.171.53318.png",
+      "rarity": "Illustration Rare",
+      "cardNum": "171/167"
+    },
+    {
+      "name": "Torkoal",
+      "set": "Twilight Masquerade",
+      "img": "https://den-cards.pokellector.com/392/Torkoal.TWM.172.52972.png",
+      "rarity": "Illustration Rare",
+      "cardNum": "172/167"
+    },
+    {
+      "name": "Infernape",
+      "set": "Twilight Masquerade",
+      "img": "https://den-cards.pokellector.com/392/Infernape.TWM.173.53319.png",
+      "rarity": "Illustration Rare",
+      "cardNum": "173/167"
+    },
+    {
+      "name": "Froslass",
+      "set": "Twilight Masquerade",
+      "img": "https://den-cards.pokellector.com/392/Froslass.TWM.174.53125.png",
+      "rarity": "Illustration Rare",
+      "cardNum": "174/167"
+    },
+    {
+      "name": "Phione",
+      "set": "Twilight Masquerade",
+      "img": "https://den-cards.pokellector.com/392/Phione.TWM.175.53320.png",
+      "rarity": "Illustration Rare",
+      "cardNum": "175/167"
+    },
+    {
+      "name": "Cramorant",
+      "set": "Twilight Masquerade",
+      "img": "https://den-cards.pokellector.com/392/Cramorant.TWM.176.52902.png",
+      "rarity": "Special Illustration Rare",
+      "cardNum": "176/167"
+    },
+    {
+      "name": "Heliolisk",
+      "set": "Twilight Masquerade",
+      "img": "https://den-cards.pokellector.com/392/Heliolisk.TWM.177.53321.png",
+      "rarity": "Illustration Rare",
+      "cardNum": "177/167"
+    },
+    {
+      "name": "Wattrel",
+      "set": "Twilight Masquerade",
+      "img": "https://den-cards.pokellector.com/392/Wattrel.TWM.178.53322.png",
+      "rarity": "Illustration Rare",
+      "cardNum": "178/167"
+    },
+    {
+      "name": "Chimecho",
+      "set": "Twilight Masquerade",
+      "img": "https://den-cards.pokellector.com/392/Chimecho.TWM.179.53323.png",
+      "rarity": "Illustration Rare",
+      "cardNum": "179/167"
+    },
+    {
+      "name": "Enamorus",
+      "set": "Twilight Masquerade",
+      "img": "https://den-cards.pokellector.com/392/Enamorus.TWM.180.53324.png",
+      "rarity": "Illustration Rare",
+      "cardNum": "180/167"
+    },
+    {
+      "name": "Hisuian Growlithe",
+      "set": "Twilight Masquerade",
+      "img": "https://den-cards.pokellector.com/392/Hisuian-Growlithe.TWM.181.53325.png",
+      "rarity": "Illustration Rare",
+      "cardNum": "181/167"
+    },
+    {
+      "name": "Probopass",
+      "set": "Twilight Masquerade",
+      "img": "https://den-cards.pokellector.com/392/Probopass.TWM.182.53099.png",
+      "rarity": "Illustration Rare",
+      "cardNum": "182/167"
+    },
+    {
+      "name": "Timburr",
+      "set": "Twilight Masquerade",
+      "img": "https://den-cards.pokellector.com/392/Timburr.TWM.183.53326.png",
+      "rarity": "Illustration Rare",
+      "cardNum": "183/167"
+    },
+    {
+      "name": "Lairon",
+      "set": "Twilight Masquerade",
+      "img": "https://den-cards.pokellector.com/392/Lairon.TWM.184.53327.png",
+      "rarity": "Illustration Rare",
+      "cardNum": "184/167"
+    },
+    {
+      "name": "Applin",
+      "set": "Twilight Masquerade",
+      "img": "https://den-cards.pokellector.com/392/Applin.TWM.185.53328.png",
+      "rarity": "Illustration Rare",
+      "cardNum": "185/167"
+    },
+    {
+      "name": "Tatsugiri",
+      "set": "Twilight Masquerade",
+      "img": "https://den-cards.pokellector.com/392/Tatsugiri.TWM.186.52885.png",
+      "rarity": "Illustration Rare",
+      "cardNum": "186/167"
+    },
+    {
+      "name": "Chansey",
+      "set": "Twilight Masquerade",
+      "img": "https://den-cards.pokellector.com/392/Chansey.TWM.187.53329.png",
+      "rarity": "Illustration Rare",
+      "cardNum": "187/167"
+    },
+    {
+      "name": "Eevee",
+      "set": "Twilight Masquerade",
+      "img": "https://den-cards.pokellector.com/392/Eevee.TWM.188.53330.png",
+      "rarity": "Illustration Rare",
+      "cardNum": "188/167"
+    },
+    {
+      "name": "Sinistcha ex",
+      "set": "Twilight Masquerade",
+      "img": "https://den-cards.pokellector.com/392/Sinistcha-ex.TWM.189.53331.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "189/167"
+    },
+    {
+      "name": "Teal Mask Ogerpon ex",
+      "set": "Twilight Masquerade",
+      "img": "https://den-cards.pokellector.com/392/Teal-Mask-Ogerpon-ex.TWM.190.53332.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "190/167"
+    },
+    {
+      "name": "Magcargo ex",
+      "set": "Twilight Masquerade",
+      "img": "https://den-cards.pokellector.com/392/Magcargo-ex.TWM.191.53131.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "191/167"
+    },
+    {
+      "name": "Hearthflame Mask Ogerpon ex",
+      "set": "Twilight Masquerade",
+      "img": "https://den-cards.pokellector.com/392/Hearthflame-Mask-Ogerpon-ex.TWM.192.53333.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "192/167"
+    },
+    {
+      "name": "Palafin ex",
+      "set": "Twilight Masquerade",
+      "img": "https://den-cards.pokellector.com/392/Palafin-ex.TWM.193.53334.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "193/167"
+    },
+    {
+      "name": "Wellspring Mask Ogerpon ex",
+      "set": "Twilight Masquerade",
+      "img": "https://den-cards.pokellector.com/392/Wellspring-Mask-Ogerpon-ex.TWM.194.53335.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "194/167"
+    },
+    {
+      "name": "Luxray ex",
+      "set": "Twilight Masquerade",
+      "img": "https://den-cards.pokellector.com/392/Luxray-ex.TWM.195.53336.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "195/167"
+    },
+    {
+      "name": "Iron Thorns ex",
+      "set": "Twilight Masquerade",
+      "img": "https://den-cards.pokellector.com/392/Iron-Thorns-ex.TWM.196.53337.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "196/167"
+    },
+    {
+      "name": "Scream Tail ex",
+      "set": "Twilight Masquerade",
+      "img": "https://den-cards.pokellector.com/392/Scream-Tail-ex.TWM.197.53338.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "197/167"
+    },
+    {
+      "name": "Greninja ex",
+      "set": "Twilight Masquerade",
+      "img": "https://den-cards.pokellector.com/392/Greninja-ex.TWM.198.53339.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "198/167"
+    },
+    {
+      "name": "Cornerstone Mask Ogerpon ex",
+      "set": "Twilight Masquerade",
+      "img": "https://den-cards.pokellector.com/392/Cornerstone-Mask-Ogerpon-ex.TWM.199.53340.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "199/167"
+    },
+    {
+      "name": "Dragapult ex",
+      "set": "Twilight Masquerade",
+      "img": "https://den-cards.pokellector.com/392/Dragapult-ex.TWM.200.53341.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "200/167"
+    },
+    {
+      "name": "Blissey ex",
+      "set": "Twilight Masquerade",
+      "img": "https://den-cards.pokellector.com/392/Blissey-ex.TWM.201.53342.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "201/167"
+    },
+    {
+      "name": "Bloodmoon Ursaluna ex",
+      "set": "Twilight Masquerade",
+      "img": "https://den-cards.pokellector.com/392/Bloodmoon-Ursaluna-ex.TWM.202.53343.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "202/167"
+    },
+    {
+      "name": "Caretaker",
+      "set": "Twilight Masquerade",
+      "img": "https://den-cards.pokellector.com/392/Caretaker.TWM.203.53344.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "203/167"
+    },
+    {
+      "name": "Carmine",
+      "set": "Twilight Masquerade",
+      "img": "https://den-cards.pokellector.com/392/Carmine.TWM.204.53345.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "204/167"
+    },
+    {
+      "name": "Hassel",
+      "set": "Twilight Masquerade",
+      "img": "https://den-cards.pokellector.com/392/Hassel.TWM.205.53346.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "205/167"
+    },
+    {
+      "name": "Kieran",
+      "set": "Twilight Masquerade",
+      "img": "https://den-cards.pokellector.com/392/Kieran.TWM.206.53098.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "206/167"
+    },
+    {
+      "name": "Lana's Aid",
+      "set": "Twilight Masquerade",
+      "img": "https://den-cards.pokellector.com/392/Lanas-Aid.TWM.207.53347.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "207/167"
+    },
+    {
+      "name": "Lucian",
+      "set": "Twilight Masquerade",
+      "img": "https://den-cards.pokellector.com/392/Lucian.TWM.208.53348.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "208/167"
+    },
+    {
+      "name": "Perrin",
+      "set": "Twilight Masquerade",
+      "img": "https://den-cards.pokellector.com/392/Perrin.TWM.209.53349.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "209/167"
+    },
+    {
+      "name": "Sinistcha ex",
+      "set": "Twilight Masquerade",
+      "img": "https://den-cards.pokellector.com/392/Sinistcha-ex.TWM.210.53350.png",
+      "rarity": "Special Illustration Rare",
+      "cardNum": "210/167"
+    },
+    {
+      "name": "Teal Mask Ogerpon ex",
+      "set": "Twilight Masquerade",
+      "img": "https://den-cards.pokellector.com/392/Teal-Mask-Ogerpon-ex.TWM.211.53351.png",
+      "rarity": "Special Illustration Rare",
+      "cardNum": "211/167"
+    },
+    {
+      "name": "Hearthflame Mask Ogerpon ex",
+      "set": "Twilight Masquerade",
+      "img": "https://den-cards.pokellector.com/392/Hearthflame-Mask-Ogerpon-ex.TWM.212.53135.png",
+      "rarity": "Special Illustration Rare",
+      "cardNum": "212/167"
+    },
+    {
+      "name": "Wellspring Mask Ogerpon ex",
+      "set": "Twilight Masquerade",
+      "img": "https://den-cards.pokellector.com/392/Wellspring-Mask-Ogerpon-ex.TWM.213.53134.png",
+      "rarity": "Special Illustration Rare",
+      "cardNum": "213/167"
+    },
+    {
+      "name": "Greninja ex",
+      "set": "Twilight Masquerade",
+      "img": "https://den-cards.pokellector.com/392/Greninja-ex.TWM.214.52862.png",
+      "rarity": "Special Illustration Rare",
+      "cardNum": "214/167"
+    },
+    {
+      "name": "Cornerstone Mask Ogerpon ex",
+      "set": "Twilight Masquerade",
+      "img": "https://den-cards.pokellector.com/392/Cornerstone-Mask-Ogerpon-ex.TWM.215.53352.png",
+      "rarity": "Special Illustration Rare",
+      "cardNum": "215/167"
+    },
+    {
+      "name": "Bloodmoon Ursaluna ex",
+      "set": "Twilight Masquerade",
+      "img": "https://den-cards.pokellector.com/392/Bloodmoon-Ursaluna-ex.TWM.216.53353.png",
+      "rarity": "Special Illustration Rare",
+      "cardNum": "216/167"
+    },
+    {
+      "name": "Carmine",
+      "set": "Twilight Masquerade",
+      "img": "https://den-cards.pokellector.com/392/Carmine.TWM.217.53144.png",
+      "rarity": "Special Illustration Rare",
+      "cardNum": "217/167"
+    },
+    {
+      "name": "Kieran",
+      "set": "Twilight Masquerade",
+      "img": "https://den-cards.pokellector.com/392/Kieran.TWM.218.53354.png",
+      "rarity": "Special Illustration Rare",
+      "cardNum": "218/167"
+    },
+    {
+      "name": "Lana's Aid",
+      "set": "Twilight Masquerade",
+      "img": "https://den-cards.pokellector.com/392/Lanas-Aid.TWM.219.53355.png",
+      "rarity": "Special Illustration Rare",
+      "cardNum": "219/167"
+    },
+    {
+      "name": "Perrin",
+      "set": "Twilight Masquerade",
+      "img": "https://den-cards.pokellector.com/392/Perrin.TWM.220.53356.png",
+      "rarity": "Special Illustration Rare",
+      "cardNum": "220/167"
+    },
+    {
+      "name": "Teal Mask Ogerpon ex",
+      "set": "Twilight Masquerade",
+      "img": "https://den-cards.pokellector.com/392/Teal-Mask-Ogerpon-ex.TWM.221.53357.png",
+      "rarity": "Hyper Rare",
+      "cardNum": "221/167"
+    },
+    {
+      "name": "Bloodmoon Ursaluna ex",
+      "set": "Twilight Masquerade",
+      "img": "https://den-cards.pokellector.com/392/Bloodmoon-Ursaluna-ex.TWM.222.53358.png",
+      "rarity": "Hyper Rare",
+      "cardNum": "222/167"
+    },
+    {
+      "name": "Buddy-Buddy Poffin",
+      "set": "Twilight Masquerade",
+      "img": "https://den-cards.pokellector.com/392/Buddy-Buddy-Poffin.TWM.223.53359.png",
+      "rarity": "Hyper Rare",
+      "cardNum": "223/167"
+    },
+    {
+      "name": "Enhanced Hammer",
+      "set": "Twilight Masquerade",
+      "img": "https://den-cards.pokellector.com/392/Enhanced-Hammer.TWM.224.53360.png",
+      "rarity": "Hyper Rare",
+      "cardNum": "224/167"
+    },
+    {
+      "name": "Rescue Board",
+      "set": "Twilight Masquerade",
+      "img": "https://den-cards.pokellector.com/392/Rescue-Board.TWM.225.53361.png",
+      "rarity": "Hyper Rare",
+      "cardNum": "225/167"
+    },
+    {
+      "name": "Luminous Energy",
+      "set": "Twilight Masquerade",
+      "img": "https://den-cards.pokellector.com/392/Luminous-Energy.TWM.226.53362.png",
+      "rarity": "Hyper Rare",
+      "cardNum": "226/167"
+    }
+  ]
+}

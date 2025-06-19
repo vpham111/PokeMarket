@@ -1,0 +1,1468 @@
+{
+  "setName": "Rebel Clash",
+  "cards": [
+    {
+      "name": "Caterpie",
+      "set": "Rebel Clash",
+      "img": "https://den-cards.pokellector.com/292/Caterpie.SWSH2.1.34432.png",
+      "rarity": "Common",
+      "cardNum": "1/192"
+    },
+    {
+      "name": "Metapod",
+      "set": "Rebel Clash",
+      "img": "https://den-cards.pokellector.com/292/Metapod.SWSH2.2.34433.png",
+      "rarity": "Uncommon",
+      "cardNum": "2/192"
+    },
+    {
+      "name": "Butterfree",
+      "set": "Rebel Clash",
+      "img": "https://den-cards.pokellector.com/292/Butterfree.SWSH2.3.34434.png",
+      "rarity": "Rare",
+      "cardNum": "3/192"
+    },
+    {
+      "name": "Scyther",
+      "set": "Rebel Clash",
+      "img": "https://den-cards.pokellector.com/292/Scyther.SWSH2.4.34435.png",
+      "rarity": "Common",
+      "cardNum": "4/192"
+    },
+    {
+      "name": "Shuckle",
+      "set": "Rebel Clash",
+      "img": "https://den-cards.pokellector.com/292/Shuckle.SWSH2.5.34436.png",
+      "rarity": "Uncommon",
+      "cardNum": "5/192"
+    },
+    {
+      "name": "Heracross",
+      "set": "Rebel Clash",
+      "img": "https://den-cards.pokellector.com/292/Heracross.SWSH2.6.34437.png",
+      "rarity": "Uncommon",
+      "cardNum": "6/192"
+    },
+    {
+      "name": "Lotad",
+      "set": "Rebel Clash",
+      "img": "https://den-cards.pokellector.com/292/Lotad.SWSH2.7.34438.png",
+      "rarity": "Common",
+      "cardNum": "7/192"
+    },
+    {
+      "name": "Lombre",
+      "set": "Rebel Clash",
+      "img": "https://den-cards.pokellector.com/292/Lombre.SWSH2.8.34439.png",
+      "rarity": "Uncommon",
+      "cardNum": "8/192"
+    },
+    {
+      "name": "Ludicolo",
+      "set": "Rebel Clash",
+      "img": "https://den-cards.pokellector.com/292/Ludicolo.SWSH2.9.34440.png",
+      "rarity": "Rare",
+      "cardNum": "9/192"
+    },
+    {
+      "name": "Surskit",
+      "set": "Rebel Clash",
+      "img": "https://den-cards.pokellector.com/292/Surskit.SWSH2.10.34441.png",
+      "rarity": "Common",
+      "cardNum": "10/192"
+    },
+    {
+      "name": "Masquerain",
+      "set": "Rebel Clash",
+      "img": "https://den-cards.pokellector.com/292/Masquerain.SWSH2.11.34442.png",
+      "rarity": "Uncommon",
+      "cardNum": "11/192"
+    },
+    {
+      "name": "Snover",
+      "set": "Rebel Clash",
+      "img": "https://den-cards.pokellector.com/292/Snover.SWSH2.12.34443.png",
+      "rarity": "Common",
+      "cardNum": "12/192"
+    },
+    {
+      "name": "Abomasnow",
+      "set": "Rebel Clash",
+      "img": "https://den-cards.pokellector.com/292/Abomasnow.SWSH2.13.34444.png",
+      "rarity": "Rare",
+      "cardNum": "13/192"
+    },
+    {
+      "name": "Phantump",
+      "set": "Rebel Clash",
+      "img": "https://den-cards.pokellector.com/292/Phantump.SWSH2.14.34331.png",
+      "rarity": "Common",
+      "cardNum": "14/192"
+    },
+    {
+      "name": "Trevenant",
+      "set": "Rebel Clash",
+      "img": "https://den-cards.pokellector.com/292/Trevenant.SWSH2.15.34445.png",
+      "rarity": "Rare",
+      "cardNum": "15/192"
+    },
+    {
+      "name": "Grubbin",
+      "set": "Rebel Clash",
+      "img": "https://den-cards.pokellector.com/292/Grubbin.SWSH2.16.34446.png",
+      "rarity": "Common",
+      "cardNum": "16/192"
+    },
+    {
+      "name": "Rillaboom V",
+      "set": "Rebel Clash",
+      "img": "https://den-cards.pokellector.com/292/Rillaboom-V.SWSH2.17.34447.png",
+      "rarity": "Rare",
+      "cardNum": "17/192"
+    },
+    {
+      "name": "Rillaboom VMAX",
+      "set": "Rebel Clash",
+      "img": "https://den-cards.pokellector.com/292/Rillaboom-VMAX.SWSH2.18.34305.png",
+      "rarity": "Rare",
+      "cardNum": "18/192"
+    },
+    {
+      "name": "Eldegoss V",
+      "set": "Rebel Clash",
+      "img": "https://den-cards.pokellector.com/292/Eldegoss-V.SWSH2.19.34448.png",
+      "rarity": "Rare",
+      "cardNum": "19/192"
+    },
+    {
+      "name": "Applin",
+      "set": "Rebel Clash",
+      "img": "https://den-cards.pokellector.com/292/Applin.SWSH2.20.34449.png",
+      "rarity": "Common",
+      "cardNum": "20/192"
+    },
+    {
+      "name": "Applin",
+      "set": "Rebel Clash",
+      "img": "https://den-cards.pokellector.com/292/Applin.SWSH2.21.34450.png",
+      "rarity": "Common",
+      "cardNum": "21/192"
+    },
+    {
+      "name": "Flapple",
+      "set": "Rebel Clash",
+      "img": "https://den-cards.pokellector.com/292/Flapple.SWSH2.22.34326.png",
+      "rarity": "Rare",
+      "cardNum": "22/192"
+    },
+    {
+      "name": "Appletun",
+      "set": "Rebel Clash",
+      "img": "https://den-cards.pokellector.com/292/Appletun.SWSH2.23.34325.png",
+      "rarity": "Rare",
+      "cardNum": "23/192"
+    },
+    {
+      "name": "Vulpix",
+      "set": "Rebel Clash",
+      "img": "https://den-cards.pokellector.com/292/Vulpix.SWSH2.24.34332.png",
+      "rarity": "Common",
+      "cardNum": "24/192"
+    },
+    {
+      "name": "Ninetales",
+      "set": "Rebel Clash",
+      "img": "https://den-cards.pokellector.com/292/Ninetales.SWSH2.25.34451.png",
+      "rarity": "Rare",
+      "cardNum": "25/192"
+    },
+    {
+      "name": "Ninetales V",
+      "set": "Rebel Clash",
+      "img": "https://den-cards.pokellector.com/292/Ninetales-V.SWSH2.26.34452.png",
+      "rarity": "Rare",
+      "cardNum": "26/192"
+    },
+    {
+      "name": "Growlithe",
+      "set": "Rebel Clash",
+      "img": "https://den-cards.pokellector.com/292/Growlithe.SWSH2.27.34453.png",
+      "rarity": "Common",
+      "cardNum": "27/192"
+    },
+    {
+      "name": "Arcanine",
+      "set": "Rebel Clash",
+      "img": "https://den-cards.pokellector.com/292/Arcanine.SWSH2.28.34454.png",
+      "rarity": "Rare",
+      "cardNum": "28/192"
+    },
+    {
+      "name": "Magmar",
+      "set": "Rebel Clash",
+      "img": "https://den-cards.pokellector.com/292/Magmar.SWSH2.29.34455.png",
+      "rarity": "Common",
+      "cardNum": "29/192"
+    },
+    {
+      "name": "Magmortar",
+      "set": "Rebel Clash",
+      "img": "https://den-cards.pokellector.com/292/Magmortar.SWSH2.30.34456.png",
+      "rarity": "Rare",
+      "cardNum": "30/192"
+    },
+    {
+      "name": "Litwick",
+      "set": "Rebel Clash",
+      "img": "https://den-cards.pokellector.com/292/Litwick.SWSH2.31.34457.png",
+      "rarity": "Common",
+      "cardNum": "31/192"
+    },
+    {
+      "name": "Lampent",
+      "set": "Rebel Clash",
+      "img": "https://den-cards.pokellector.com/292/Lampent.SWSH2.32.34333.png",
+      "rarity": "Uncommon",
+      "cardNum": "32/192"
+    },
+    {
+      "name": "Chandelure",
+      "set": "Rebel Clash",
+      "img": "https://den-cards.pokellector.com/292/Chandelure.SWSH2.33.34458.png",
+      "rarity": "Rare",
+      "cardNum": "33/192"
+    },
+    {
+      "name": "Heatmor",
+      "set": "Rebel Clash",
+      "img": "https://den-cards.pokellector.com/292/Heatmor.SWSH2.34.34459.png",
+      "rarity": "Uncommon",
+      "cardNum": "34/192"
+    },
+    {
+      "name": "Cinderace V",
+      "set": "Rebel Clash",
+      "img": "https://den-cards.pokellector.com/292/Cinderace-V.SWSH2.35.34460.png",
+      "rarity": "Rare",
+      "cardNum": "35/192"
+    },
+    {
+      "name": "Cinderace VMAX",
+      "set": "Rebel Clash",
+      "img": "https://den-cards.pokellector.com/292/Cinderace-VMAX.SWSH2.36.34307.png",
+      "rarity": "Rare",
+      "cardNum": "36/192"
+    },
+    {
+      "name": "Galarian Mr. Mime",
+      "set": "Rebel Clash",
+      "img": "https://den-cards.pokellector.com/292/Galarian-Mr-Mime.SWSH2.37.34327.png",
+      "rarity": "Common",
+      "cardNum": "37/192"
+    },
+    {
+      "name": "Galarian Mr. Rime",
+      "set": "Rebel Clash",
+      "img": "https://den-cards.pokellector.com/292/Galarian-Mr-Rime.SWSH2.38.34328.png",
+      "rarity": "Rare",
+      "cardNum": "38/192"
+    },
+    {
+      "name": "Magikarp",
+      "set": "Rebel Clash",
+      "img": "https://den-cards.pokellector.com/292/Magikarp.SWSH2.39.34461.png",
+      "rarity": "Common",
+      "cardNum": "39/192"
+    },
+    {
+      "name": "Gyarados",
+      "set": "Rebel Clash",
+      "img": "https://den-cards.pokellector.com/292/Gyarados.SWSH2.40.34462.png",
+      "rarity": "Rare",
+      "cardNum": "40/192"
+    },
+    {
+      "name": "Wingull",
+      "set": "Rebel Clash",
+      "img": "https://den-cards.pokellector.com/292/Wingull.SWSH2.41.34463.png",
+      "rarity": "Common",
+      "cardNum": "41/192"
+    },
+    {
+      "name": "Pelipper",
+      "set": "Rebel Clash",
+      "img": "https://den-cards.pokellector.com/292/Pelipper.SWSH2.42.34464.png",
+      "rarity": "Uncommon",
+      "cardNum": "42/192"
+    },
+    {
+      "name": "Milotic V",
+      "set": "Rebel Clash",
+      "img": "https://den-cards.pokellector.com/292/Milotic-V.SWSH2.43.34334.png",
+      "rarity": "Rare",
+      "cardNum": "43/192"
+    },
+    {
+      "name": "Tympole",
+      "set": "Rebel Clash",
+      "img": "https://den-cards.pokellector.com/292/Tympole.SWSH2.44.34335.png",
+      "rarity": "Common",
+      "cardNum": "44/192"
+    },
+    {
+      "name": "Palpitoad",
+      "set": "Rebel Clash",
+      "img": "https://den-cards.pokellector.com/292/Palpitoad.SWSH2.45.34465.png",
+      "rarity": "Uncommon",
+      "cardNum": "45/192"
+    },
+    {
+      "name": "Seismitoad",
+      "set": "Rebel Clash",
+      "img": "https://den-cards.pokellector.com/292/Seismitoad.SWSH2.46.34466.png",
+      "rarity": "Rare",
+      "cardNum": "46/192"
+    },
+    {
+      "name": "Galarian Darumaka",
+      "set": "Rebel Clash",
+      "img": "https://den-cards.pokellector.com/292/Galarian-Darumaka.SWSH2.47.34467.png",
+      "rarity": "Common",
+      "cardNum": "47/192"
+    },
+    {
+      "name": "Galarian Darmanitan",
+      "set": "Rebel Clash",
+      "img": "https://den-cards.pokellector.com/292/Galarian-Darmanitan.SWSH2.48.34468.png",
+      "rarity": "Rare",
+      "cardNum": "48/192"
+    },
+    {
+      "name": "Inteleon V",
+      "set": "Rebel Clash",
+      "img": "https://den-cards.pokellector.com/292/Inteleon-V.SWSH2.49.34469.png",
+      "rarity": "Rare",
+      "cardNum": "49/192"
+    },
+    {
+      "name": "Inteleon VMAX",
+      "set": "Rebel Clash",
+      "img": "https://den-cards.pokellector.com/292/Inteleon-VMAX.SWSH2.50.34308.png",
+      "rarity": "Rare",
+      "cardNum": "50/192"
+    },
+    {
+      "name": "Cramorant",
+      "set": "Rebel Clash",
+      "img": "https://den-cards.pokellector.com/292/Cramorant.SWSH2.51.34470.png",
+      "rarity": "Rare",
+      "cardNum": "51/192"
+    },
+    {
+      "name": "Arrokuda",
+      "set": "Rebel Clash",
+      "img": "https://den-cards.pokellector.com/292/Arrokuda.SWSH2.52.34471.png",
+      "rarity": "Common",
+      "cardNum": "52/192"
+    },
+    {
+      "name": "Barraskewda",
+      "set": "Rebel Clash",
+      "img": "https://den-cards.pokellector.com/292/Barraskewda.SWSH2.53.34472.png",
+      "rarity": "Rare",
+      "cardNum": "53/192"
+    },
+    {
+      "name": "Eiscue",
+      "set": "Rebel Clash",
+      "img": "https://den-cards.pokellector.com/292/Eiscue.SWSH2.54.34473.png",
+      "rarity": "Rare",
+      "cardNum": "54/192"
+    },
+    {
+      "name": "Eiscue V",
+      "set": "Rebel Clash",
+      "img": "https://den-cards.pokellector.com/292/Eiscue-V.SWSH2.55.34474.png",
+      "rarity": "Rare",
+      "cardNum": "55/192"
+    },
+    {
+      "name": "Voltorb",
+      "set": "Rebel Clash",
+      "img": "https://den-cards.pokellector.com/292/Voltorb.SWSH2.56.34475.png",
+      "rarity": "Common",
+      "cardNum": "56/192"
+    },
+    {
+      "name": "Electrode",
+      "set": "Rebel Clash",
+      "img": "https://den-cards.pokellector.com/292/Electrode.SWSH2.57.34476.png",
+      "rarity": "Uncommon",
+      "cardNum": "57/192"
+    },
+    {
+      "name": "Electabuzz",
+      "set": "Rebel Clash",
+      "img": "https://den-cards.pokellector.com/292/Electabuzz.SWSH2.58.34477.png",
+      "rarity": "Common",
+      "cardNum": "58/192"
+    },
+    {
+      "name": "Electivire",
+      "set": "Rebel Clash",
+      "img": "https://den-cards.pokellector.com/292/Electivire.SWSH2.59.34478.png",
+      "rarity": "Rare",
+      "cardNum": "59/192"
+    },
+    {
+      "name": "Shinx",
+      "set": "Rebel Clash",
+      "img": "https://den-cards.pokellector.com/292/Shinx.SWSH2.60.34479.png",
+      "rarity": "Common",
+      "cardNum": "60/192"
+    },
+    {
+      "name": "Luxio",
+      "set": "Rebel Clash",
+      "img": "https://den-cards.pokellector.com/292/Luxio.SWSH2.61.34480.png",
+      "rarity": "Uncommon",
+      "cardNum": "61/192"
+    },
+    {
+      "name": "Luxray",
+      "set": "Rebel Clash",
+      "img": "https://den-cards.pokellector.com/292/Luxray.SWSH2.62.34481.png",
+      "rarity": "Rare",
+      "cardNum": "62/192"
+    },
+    {
+      "name": "Helioptile",
+      "set": "Rebel Clash",
+      "img": "https://den-cards.pokellector.com/292/Helioptile.SWSH2.63.34482.png",
+      "rarity": "Common",
+      "cardNum": "63/192"
+    },
+    {
+      "name": "Heliolisk",
+      "set": "Rebel Clash",
+      "img": "https://den-cards.pokellector.com/292/Heliolisk.SWSH2.64.34483.png",
+      "rarity": "Uncommon",
+      "cardNum": "64/192"
+    },
+    {
+      "name": "Charjabug",
+      "set": "Rebel Clash",
+      "img": "https://den-cards.pokellector.com/292/Charjabug.SWSH2.65.34336.png",
+      "rarity": "Uncommon",
+      "cardNum": "65/192"
+    },
+    {
+      "name": "Vikavolt",
+      "set": "Rebel Clash",
+      "img": "https://den-cards.pokellector.com/292/Vikavolt.SWSH2.66.34484.png",
+      "rarity": "Rare",
+      "cardNum": "66/192"
+    },
+    {
+      "name": "Boltund V",
+      "set": "Rebel Clash",
+      "img": "https://den-cards.pokellector.com/292/Boltund-V.SWSH2.67.34337.png",
+      "rarity": "Rare",
+      "cardNum": "67/192"
+    },
+    {
+      "name": "Toxel",
+      "set": "Rebel Clash",
+      "img": "https://den-cards.pokellector.com/292/Toxel.SWSH2.68.34485.png",
+      "rarity": "Common",
+      "cardNum": "68/192"
+    },
+    {
+      "name": "Toxtricity",
+      "set": "Rebel Clash",
+      "img": "https://den-cards.pokellector.com/292/Toxtricity.SWSH2.69.34486.png",
+      "rarity": "Rare",
+      "cardNum": "69/192"
+    },
+    {
+      "name": "Toxtricity V",
+      "set": "Rebel Clash",
+      "img": "https://den-cards.pokellector.com/292/Toxtricity-V.SWSH2.70.34338.png",
+      "rarity": "Rare",
+      "cardNum": "70/192"
+    },
+    {
+      "name": "Toxtricity VMAX",
+      "set": "Rebel Clash",
+      "img": "https://den-cards.pokellector.com/292/Toxtricity-VMAX.SWSH2.71.34339.png",
+      "rarity": "Rare",
+      "cardNum": "71/192"
+    },
+    {
+      "name": "Pincurchin V",
+      "set": "Rebel Clash",
+      "img": "https://den-cards.pokellector.com/292/Pincurchin-V.SWSH2.72.34487.png",
+      "rarity": "Rare",
+      "cardNum": "72/192"
+    },
+    {
+      "name": "Morpeko",
+      "set": "Rebel Clash",
+      "img": "https://den-cards.pokellector.com/292/Morpeko.SWSH2.73.34488.png",
+      "rarity": "Uncommon",
+      "cardNum": "73/192"
+    },
+    {
+      "name": "Clefairy",
+      "set": "Rebel Clash",
+      "img": "https://den-cards.pokellector.com/292/Clefairy.SWSH2.74.34489.png",
+      "rarity": "Common",
+      "cardNum": "74/192"
+    },
+    {
+      "name": "Clefable",
+      "set": "Rebel Clash",
+      "img": "https://den-cards.pokellector.com/292/Clefable.SWSH2.75.34490.png",
+      "rarity": "Rare",
+      "cardNum": "75/192"
+    },
+    {
+      "name": "Natu",
+      "set": "Rebel Clash",
+      "img": "https://den-cards.pokellector.com/292/Natu.SWSH2.76.34491.png",
+      "rarity": "Common",
+      "cardNum": "76/192"
+    },
+    {
+      "name": "Xatu",
+      "set": "Rebel Clash",
+      "img": "https://den-cards.pokellector.com/292/Xatu.SWSH2.77.34492.png",
+      "rarity": "Uncommon",
+      "cardNum": "77/192"
+    },
+    {
+      "name": "Galarian Corsola",
+      "set": "Rebel Clash",
+      "img": "https://den-cards.pokellector.com/292/Galarian-Corsola.SWSH2.78.34493.png",
+      "rarity": "Common",
+      "cardNum": "78/192"
+    },
+    {
+      "name": "Galarian Cursola",
+      "set": "Rebel Clash",
+      "img": "https://den-cards.pokellector.com/292/Galarian-Cursola.SWSH2.79.34494.png",
+      "rarity": "Rare",
+      "cardNum": "79/192"
+    },
+    {
+      "name": "Sigilyph",
+      "set": "Rebel Clash",
+      "img": "https://den-cards.pokellector.com/292/Sigilyph.SWSH2.80.34495.png",
+      "rarity": "Rare",
+      "cardNum": "80/192"
+    },
+    {
+      "name": "Sandygast",
+      "set": "Rebel Clash",
+      "img": "https://den-cards.pokellector.com/292/Sandygast.SWSH2.81.34496.png",
+      "rarity": "Common",
+      "cardNum": "81/192"
+    },
+    {
+      "name": "Palossand",
+      "set": "Rebel Clash",
+      "img": "https://den-cards.pokellector.com/292/Palossand.SWSH2.82.34497.png",
+      "rarity": "Uncommon",
+      "cardNum": "82/192"
+    },
+    {
+      "name": "Hatenna",
+      "set": "Rebel Clash",
+      "img": "https://den-cards.pokellector.com/292/Hatenna.SWSH2.83.34498.png",
+      "rarity": "Common",
+      "cardNum": "83/192"
+    },
+    {
+      "name": "Hattrem",
+      "set": "Rebel Clash",
+      "img": "https://den-cards.pokellector.com/292/Hattrem.SWSH2.84.34340.png",
+      "rarity": "Uncommon",
+      "cardNum": "84/192"
+    },
+    {
+      "name": "Hatterene",
+      "set": "Rebel Clash",
+      "img": "https://den-cards.pokellector.com/292/Hatterene.SWSH2.85.34499.png",
+      "rarity": "Rare",
+      "cardNum": "85/192"
+    },
+    {
+      "name": "Milcery",
+      "set": "Rebel Clash",
+      "img": "https://den-cards.pokellector.com/292/Milcery.SWSH2.86.34500.png",
+      "rarity": "Common",
+      "cardNum": "86/192"
+    },
+    {
+      "name": "Alcremie",
+      "set": "Rebel Clash",
+      "img": "https://den-cards.pokellector.com/292/Alcremie.SWSH2.87.34501.png",
+      "rarity": "Rare",
+      "cardNum": "87/192"
+    },
+    {
+      "name": "Indeedee",
+      "set": "Rebel Clash",
+      "img": "https://den-cards.pokellector.com/292/Indeedee.SWSH2.88.34341.png",
+      "rarity": "Uncommon",
+      "cardNum": "88/192"
+    },
+    {
+      "name": "Dreepy",
+      "set": "Rebel Clash",
+      "img": "https://den-cards.pokellector.com/292/Dreepy.SWSH2.89.34342.png",
+      "rarity": "Common",
+      "cardNum": "89/192"
+    },
+    {
+      "name": "Drakloak",
+      "set": "Rebel Clash",
+      "img": "https://den-cards.pokellector.com/292/Drakloak.SWSH2.90.34502.png",
+      "rarity": "Uncommon",
+      "cardNum": "90/192"
+    },
+    {
+      "name": "Dragapult",
+      "set": "Rebel Clash",
+      "img": "https://den-cards.pokellector.com/292/Dragapult.SWSH2.91.34503.png",
+      "rarity": "Rare",
+      "cardNum": "91/192"
+    },
+    {
+      "name": "Dragapult V",
+      "set": "Rebel Clash",
+      "img": "https://den-cards.pokellector.com/292/Dragapult-V.SWSH2.92.34343.png",
+      "rarity": "Rare",
+      "cardNum": "92/192"
+    },
+    {
+      "name": "Dragapult VMAX",
+      "set": "Rebel Clash",
+      "img": "https://den-cards.pokellector.com/292/Dragapult-VMAX.SWSH2.93.34306.png",
+      "rarity": "Rare",
+      "cardNum": "93/192"
+    },
+    {
+      "name": "Galarian Farfetch'd",
+      "set": "Rebel Clash",
+      "img": "https://den-cards.pokellector.com/292/Galarian-Farfetchd.SWSH2.94.34344.png",
+      "rarity": "Common",
+      "cardNum": "94/192"
+    },
+    {
+      "name": "Galarian Sirfetch'd",
+      "set": "Rebel Clash",
+      "img": "https://den-cards.pokellector.com/292/Galarian-Sirfetchd.SWSH2.95.34504.png",
+      "rarity": "Rare",
+      "cardNum": "95/192"
+    },
+    {
+      "name": "Nosepass",
+      "set": "Rebel Clash",
+      "img": "https://den-cards.pokellector.com/292/Nosepass.SWSH2.96.34505.png",
+      "rarity": "Common",
+      "cardNum": "96/192"
+    },
+    {
+      "name": "Meditite",
+      "set": "Rebel Clash",
+      "img": "https://den-cards.pokellector.com/292/Meditite.SWSH2.97.34506.png",
+      "rarity": "Common",
+      "cardNum": "97/192"
+    },
+    {
+      "name": "Medicham",
+      "set": "Rebel Clash",
+      "img": "https://den-cards.pokellector.com/292/Medicham.SWSH2.98.34507.png",
+      "rarity": "Uncommon",
+      "cardNum": "98/192"
+    },
+    {
+      "name": "Barboach",
+      "set": "Rebel Clash",
+      "img": "https://den-cards.pokellector.com/292/Barboach.SWSH2.99.34508.png",
+      "rarity": "Common",
+      "cardNum": "99/192"
+    },
+    {
+      "name": "Whiscash",
+      "set": "Rebel Clash",
+      "img": "https://den-cards.pokellector.com/292/Whiscash.SWSH2.100.34509.png",
+      "rarity": "Rare",
+      "cardNum": "100/192"
+    },
+    {
+      "name": "Galarian Yamask",
+      "set": "Rebel Clash",
+      "img": "https://den-cards.pokellector.com/292/Galarian-Yamask.SWSH2.101.34510.png",
+      "rarity": "Common",
+      "cardNum": "101/192"
+    },
+    {
+      "name": "Galarian Runerigus",
+      "set": "Rebel Clash",
+      "img": "https://den-cards.pokellector.com/292/Galarian-Runerigus.SWSH2.102.34511.png",
+      "rarity": "Rare",
+      "cardNum": "102/192"
+    },
+    {
+      "name": "Binacle",
+      "set": "Rebel Clash",
+      "img": "https://den-cards.pokellector.com/292/Binacle.SWSH2.103.34512.png",
+      "rarity": "Common",
+      "cardNum": "103/192"
+    },
+    {
+      "name": "Barbaracle",
+      "set": "Rebel Clash",
+      "img": "https://den-cards.pokellector.com/292/Barbaracle.SWSH2.104.34513.png",
+      "rarity": "Rare",
+      "cardNum": "104/192"
+    },
+    {
+      "name": "Rolycoly",
+      "set": "Rebel Clash",
+      "img": "https://den-cards.pokellector.com/292/Rolycoly.SWSH2.105.34514.png",
+      "rarity": "Common",
+      "cardNum": "105/192"
+    },
+    {
+      "name": "Carkol",
+      "set": "Rebel Clash",
+      "img": "https://den-cards.pokellector.com/292/Carkol.SWSH2.106.34515.png",
+      "rarity": "Uncommon",
+      "cardNum": "106/192"
+    },
+    {
+      "name": "Coalossal",
+      "set": "Rebel Clash",
+      "img": "https://den-cards.pokellector.com/292/Coalossal.SWSH2.107.34516.png",
+      "rarity": "Rare",
+      "cardNum": "107/192"
+    },
+    {
+      "name": "Sandaconda V",
+      "set": "Rebel Clash",
+      "img": "https://den-cards.pokellector.com/292/Sandaconda-V.SWSH2.108.34345.png",
+      "rarity": "Rare",
+      "cardNum": "108/192"
+    },
+    {
+      "name": "Falinks",
+      "set": "Rebel Clash",
+      "img": "https://den-cards.pokellector.com/292/Falinks.SWSH2.109.34517.png",
+      "rarity": "Uncommon",
+      "cardNum": "109/192"
+    },
+    {
+      "name": "Falinks V",
+      "set": "Rebel Clash",
+      "img": "https://den-cards.pokellector.com/292/Falinks-V.SWSH2.110.34346.png",
+      "rarity": "Rare",
+      "cardNum": "110/192"
+    },
+    {
+      "name": "Stonjourner",
+      "set": "Rebel Clash",
+      "img": "https://den-cards.pokellector.com/292/Stonjourner.SWSH2.111.34518.png",
+      "rarity": "Rare",
+      "cardNum": "111/192"
+    },
+    {
+      "name": "Koffing",
+      "set": "Rebel Clash",
+      "img": "https://den-cards.pokellector.com/292/Koffing.SWSH2.112.34519.png",
+      "rarity": "Common",
+      "cardNum": "112/192"
+    },
+    {
+      "name": "Galarian Weezing",
+      "set": "Rebel Clash",
+      "img": "https://den-cards.pokellector.com/292/Galarian-Weezing.SWSH2.113.34520.png",
+      "rarity": "Rare",
+      "cardNum": "113/192"
+    },
+    {
+      "name": "Stunky",
+      "set": "Rebel Clash",
+      "img": "https://den-cards.pokellector.com/292/Stunky.SWSH2.114.34521.png",
+      "rarity": "Common",
+      "cardNum": "114/192"
+    },
+    {
+      "name": "Skuntank",
+      "set": "Rebel Clash",
+      "img": "https://den-cards.pokellector.com/292/Skuntank.SWSH2.115.34522.png",
+      "rarity": "Uncommon",
+      "cardNum": "115/192"
+    },
+    {
+      "name": "Spiritomb",
+      "set": "Rebel Clash",
+      "img": "https://den-cards.pokellector.com/292/Spiritomb.SWSH2.116.34523.png",
+      "rarity": "Rare",
+      "cardNum": "116/192"
+    },
+    {
+      "name": "Trubbish",
+      "set": "Rebel Clash",
+      "img": "https://den-cards.pokellector.com/292/Trubbish.SWSH2.117.34524.png",
+      "rarity": "Common",
+      "cardNum": "117/192"
+    },
+    {
+      "name": "Garbodor",
+      "set": "Rebel Clash",
+      "img": "https://den-cards.pokellector.com/292/Garbodor.SWSH2.118.34347.png",
+      "rarity": "Rare",
+      "cardNum": "118/192"
+    },
+    {
+      "name": "Vullaby",
+      "set": "Rebel Clash",
+      "img": "https://den-cards.pokellector.com/292/Vullaby.SWSH2.119.34348.png",
+      "rarity": "Common",
+      "cardNum": "119/192"
+    },
+    {
+      "name": "Mandibuzz",
+      "set": "Rebel Clash",
+      "img": "https://den-cards.pokellector.com/292/Mandibuzz.SWSH2.120.34525.png",
+      "rarity": "Rare",
+      "cardNum": "120/192"
+    },
+    {
+      "name": "Malamar V",
+      "set": "Rebel Clash",
+      "img": "https://den-cards.pokellector.com/292/Malamar-V.SWSH2.121.34329.png",
+      "rarity": "Rare",
+      "cardNum": "121/192"
+    },
+    {
+      "name": "Malamar VMAX",
+      "set": "Rebel Clash",
+      "img": "https://den-cards.pokellector.com/292/Malamar-VMAX.SWSH2.122.34330.png",
+      "rarity": "Rare",
+      "cardNum": "122/192"
+    },
+    {
+      "name": "Impidimp",
+      "set": "Rebel Clash",
+      "img": "https://den-cards.pokellector.com/292/Impidimp.SWSH2.123.34526.png",
+      "rarity": "Common",
+      "cardNum": "123/192"
+    },
+    {
+      "name": "Morgrem",
+      "set": "Rebel Clash",
+      "img": "https://den-cards.pokellector.com/292/Morgrem.SWSH2.124.34527.png",
+      "rarity": "Uncommon",
+      "cardNum": "124/192"
+    },
+    {
+      "name": "Grimmsnarl",
+      "set": "Rebel Clash",
+      "img": "https://den-cards.pokellector.com/292/Grimmsnarl.SWSH2.125.34528.png",
+      "rarity": "Rare",
+      "cardNum": "125/192"
+    },
+    {
+      "name": "Galarian Meowth",
+      "set": "Rebel Clash",
+      "img": "https://den-cards.pokellector.com/292/Galarian-Meowth.SWSH2.126.34529.png",
+      "rarity": "Common",
+      "cardNum": "126/192"
+    },
+    {
+      "name": "Galarian Perrserker",
+      "set": "Rebel Clash",
+      "img": "https://den-cards.pokellector.com/292/Galarian-Perrserker.SWSH2.127.34530.png",
+      "rarity": "Rare",
+      "cardNum": "127/192"
+    },
+    {
+      "name": "Scizor",
+      "set": "Rebel Clash",
+      "img": "https://den-cards.pokellector.com/292/Scizor.SWSH2.128.34531.png",
+      "rarity": "Rare",
+      "cardNum": "128/192"
+    },
+    {
+      "name": "Bronzor",
+      "set": "Rebel Clash",
+      "img": "https://den-cards.pokellector.com/292/Bronzor.SWSH2.129.34532.png",
+      "rarity": "Common",
+      "cardNum": "129/192"
+    },
+    {
+      "name": "Bronzong",
+      "set": "Rebel Clash",
+      "img": "https://den-cards.pokellector.com/292/Bronzong.SWSH2.130.34533.png",
+      "rarity": "Uncommon",
+      "cardNum": "130/192"
+    },
+    {
+      "name": "Probopass",
+      "set": "Rebel Clash",
+      "img": "https://den-cards.pokellector.com/292/Probopass.SWSH2.131.34534.png",
+      "rarity": "Rare",
+      "cardNum": "131/192"
+    },
+    {
+      "name": "Durant",
+      "set": "Rebel Clash",
+      "img": "https://den-cards.pokellector.com/292/Durant.SWSH2.132.34535.png",
+      "rarity": "Uncommon",
+      "cardNum": "132/192"
+    },
+    {
+      "name": "Honedge",
+      "set": "Rebel Clash",
+      "img": "https://den-cards.pokellector.com/292/Honedge.SWSH2.133.34349.png",
+      "rarity": "Common",
+      "cardNum": "133/192"
+    },
+    {
+      "name": "Doublade",
+      "set": "Rebel Clash",
+      "img": "https://den-cards.pokellector.com/292/Doublade.SWSH2.134.34536.png",
+      "rarity": "Uncommon",
+      "cardNum": "134/192"
+    },
+    {
+      "name": "Aegislash",
+      "set": "Rebel Clash",
+      "img": "https://den-cards.pokellector.com/292/Aegislash.SWSH2.135.34537.png",
+      "rarity": "Rare",
+      "cardNum": "135/192"
+    },
+    {
+      "name": "Copperajah V",
+      "set": "Rebel Clash",
+      "img": "https://den-cards.pokellector.com/292/Copperajah-V.SWSH2.136.34538.png",
+      "rarity": "Rare",
+      "cardNum": "136/192"
+    },
+    {
+      "name": "Copperajah VMAX",
+      "set": "Rebel Clash",
+      "img": "https://den-cards.pokellector.com/292/Copperajah-VMAX.SWSH2.137.34350.png",
+      "rarity": "Rare",
+      "cardNum": "137/192"
+    },
+    {
+      "name": "Duraludon",
+      "set": "Rebel Clash",
+      "img": "https://den-cards.pokellector.com/292/Duraludon.SWSH2.138.34539.png",
+      "rarity": "Rare",
+      "cardNum": "138/192"
+    },
+    {
+      "name": "Zacian",
+      "set": "Rebel Clash",
+      "img": "https://den-cards.pokellector.com/292/Zacian.SWSH2.139.31871.png",
+      "rarity": "Rare",
+      "cardNum": "139/192"
+    },
+    {
+      "name": "Zamazenta",
+      "set": "Rebel Clash",
+      "img": "https://den-cards.pokellector.com/292/Zamazenta.SWSH2.140.31872.png",
+      "rarity": "Rare",
+      "cardNum": "140/192"
+    },
+    {
+      "name": "Snorlax",
+      "set": "Rebel Clash",
+      "img": "https://den-cards.pokellector.com/292/Snorlax.SWSH2.141.34540.png",
+      "rarity": "Rare",
+      "cardNum": "141/192"
+    },
+    {
+      "name": "Chatot",
+      "set": "Rebel Clash",
+      "img": "https://den-cards.pokellector.com/292/Chatot.SWSH2.142.34541.png",
+      "rarity": "Uncommon",
+      "cardNum": "142/192"
+    },
+    {
+      "name": "Pidove",
+      "set": "Rebel Clash",
+      "img": "https://den-cards.pokellector.com/292/Pidove.SWSH2.143.34542.png",
+      "rarity": "Common",
+      "cardNum": "143/192"
+    },
+    {
+      "name": "Tranquill",
+      "set": "Rebel Clash",
+      "img": "https://den-cards.pokellector.com/292/Tranquill.SWSH2.144.34543.png",
+      "rarity": "Uncommon",
+      "cardNum": "144/192"
+    },
+    {
+      "name": "Unfezant",
+      "set": "Rebel Clash",
+      "img": "https://den-cards.pokellector.com/292/Unfezant.SWSH2.145.34544.png",
+      "rarity": "Rare",
+      "cardNum": "145/192"
+    },
+    {
+      "name": "Bunnelby",
+      "set": "Rebel Clash",
+      "img": "https://den-cards.pokellector.com/292/Bunnelby.SWSH2.146.34545.png",
+      "rarity": "Common",
+      "cardNum": "146/192"
+    },
+    {
+      "name": "Diggersby",
+      "set": "Rebel Clash",
+      "img": "https://den-cards.pokellector.com/292/Diggersby.SWSH2.147.34546.png",
+      "rarity": "Rare",
+      "cardNum": "147/192"
+    },
+    {
+      "name": "Hawlucha",
+      "set": "Rebel Clash",
+      "img": "https://den-cards.pokellector.com/292/Hawlucha.SWSH2.148.34351.png",
+      "rarity": "Uncommon",
+      "cardNum": "148/192"
+    },
+    {
+      "name": "Stufful",
+      "set": "Rebel Clash",
+      "img": "https://den-cards.pokellector.com/292/Stufful.SWSH2.149.34547.png",
+      "rarity": "Common",
+      "cardNum": "149/192"
+    },
+    {
+      "name": "Bewear",
+      "set": "Rebel Clash",
+      "img": "https://den-cards.pokellector.com/292/Bewear.SWSH2.150.34548.png",
+      "rarity": "Uncommon",
+      "cardNum": "150/192"
+    },
+    {
+      "name": "Skwovet",
+      "set": "Rebel Clash",
+      "img": "https://den-cards.pokellector.com/292/Skwovet.SWSH2.151.34352.png",
+      "rarity": "Common",
+      "cardNum": "151/192"
+    },
+    {
+      "name": "Greedent",
+      "set": "Rebel Clash",
+      "img": "https://den-cards.pokellector.com/292/Greedent.SWSH2.152.34549.png",
+      "rarity": "Rare",
+      "cardNum": "152/192"
+    },
+    {
+      "name": "Dubwool V",
+      "set": "Rebel Clash",
+      "img": "https://den-cards.pokellector.com/292/Dubwool-V.SWSH2.153.34353.png",
+      "rarity": "Rare",
+      "cardNum": "153/192"
+    },
+    {
+      "name": "Boss's Orders",
+      "set": "Rebel Clash",
+      "img": "https://den-cards.pokellector.com/292/Bosss-Orders.SWSH2.154.34550.png",
+      "rarity": "Rare",
+      "cardNum": "154/192"
+    },
+    {
+      "name": "Burning Scarf",
+      "set": "Rebel Clash",
+      "img": "https://den-cards.pokellector.com/292/Burning-Scarf.SWSH2.155.34551.png",
+      "rarity": "Uncommon",
+      "cardNum": "155/192"
+    },
+    {
+      "name": "Capacious Bucket",
+      "set": "Rebel Clash",
+      "img": "https://den-cards.pokellector.com/292/Capacious-Bucket.SWSH2.156.34552.png",
+      "rarity": "Uncommon",
+      "cardNum": "156/192"
+    },
+    {
+      "name": "Cursed Shovel",
+      "set": "Rebel Clash",
+      "img": "https://den-cards.pokellector.com/292/Cursed-Shovel.SWSH2.157.34553.png",
+      "rarity": "Uncommon",
+      "cardNum": "157/192"
+    },
+    {
+      "name": "Dan",
+      "set": "Rebel Clash",
+      "img": "https://den-cards.pokellector.com/292/Dan.SWSH2.158.34554.png",
+      "rarity": "Uncommon",
+      "cardNum": "158/192"
+    },
+    {
+      "name": "Full Heal",
+      "set": "Rebel Clash",
+      "img": "https://den-cards.pokellector.com/292/Full-Heal.SWSH2.159.34555.png",
+      "rarity": "Uncommon",
+      "cardNum": "159/192"
+    },
+    {
+      "name": "Galar Mine",
+      "set": "Rebel Clash",
+      "img": "https://den-cards.pokellector.com/292/Galar-Mine.SWSH2.160.34556.png",
+      "rarity": "Uncommon",
+      "cardNum": "160/192"
+    },
+    {
+      "name": "Milo",
+      "set": "Rebel Clash",
+      "img": "https://den-cards.pokellector.com/292/Milo.SWSH2.161.34557.png",
+      "rarity": "Uncommon",
+      "cardNum": "161/192"
+    },
+    {
+      "name": "Nugget",
+      "set": "Rebel Clash",
+      "img": "https://den-cards.pokellector.com/292/Nugget.SWSH2.162.34558.png",
+      "rarity": "Uncommon",
+      "cardNum": "162/192"
+    },
+    {
+      "name": "Oleana",
+      "set": "Rebel Clash",
+      "img": "https://den-cards.pokellector.com/292/Oleana.SWSH2.163.34559.png",
+      "rarity": "Uncommon",
+      "cardNum": "163/192"
+    },
+    {
+      "name": "Poké Ball",
+      "set": "Rebel Clash",
+      "img": "https://den-cards.pokellector.com/292/Pok-Ball.SWSH2.164.34354.png",
+      "rarity": "Uncommon",
+      "cardNum": "164/192"
+    },
+    {
+      "name": "Scoop Up Net",
+      "set": "Rebel Clash",
+      "img": "https://den-cards.pokellector.com/292/Scoop-Up-Net.SWSH2.165.34560.png",
+      "rarity": "Uncommon",
+      "cardNum": "165/192"
+    },
+    {
+      "name": "Skyla",
+      "set": "Rebel Clash",
+      "img": "https://den-cards.pokellector.com/292/Skyla.SWSH2.166.34561.png",
+      "rarity": "Uncommon",
+      "cardNum": "166/192"
+    },
+    {
+      "name": "Sonia",
+      "set": "Rebel Clash",
+      "img": "https://den-cards.pokellector.com/292/Sonia.SWSH2.167.34562.png",
+      "rarity": "Uncommon",
+      "cardNum": "167/192"
+    },
+    {
+      "name": "Tool Scrapper",
+      "set": "Rebel Clash",
+      "img": "https://den-cards.pokellector.com/292/Tool-Scrapper.SWSH2.168.34355.png",
+      "rarity": "Uncommon",
+      "cardNum": "168/192"
+    },
+    {
+      "name": "Training Court",
+      "set": "Rebel Clash",
+      "img": "https://den-cards.pokellector.com/292/Training-Court.SWSH2.169.34563.png",
+      "rarity": "Uncommon",
+      "cardNum": "169/192"
+    },
+    {
+      "name": "Turffield Stadium",
+      "set": "Rebel Clash",
+      "img": "https://den-cards.pokellector.com/292/Turffield-Stadium.SWSH2.170.34564.png",
+      "rarity": "Uncommon",
+      "cardNum": "170/192"
+    },
+    {
+      "name": "Capture Energy",
+      "set": "Rebel Clash",
+      "img": "https://den-cards.pokellector.com/292/Capture-Energy.SWSH2.171.34356.png",
+      "rarity": "Uncommon",
+      "cardNum": "171/192"
+    },
+    {
+      "name": "Horror P Energy",
+      "set": "Rebel Clash",
+      "img": "https://den-cards.pokellector.com/292/Horror-P-Energy.SWSH2.172.34565.png",
+      "rarity": "Uncommon",
+      "cardNum": "172/192"
+    },
+    {
+      "name": "Speed L Energy",
+      "set": "Rebel Clash",
+      "img": "https://den-cards.pokellector.com/292/Speed-L-Energy.SWSH2.173.34566.png",
+      "rarity": "Uncommon",
+      "cardNum": "173/192"
+    },
+    {
+      "name": "Twin Energy",
+      "set": "Rebel Clash",
+      "img": "https://den-cards.pokellector.com/292/Twin-Energy.SWSH2.174.34357.png",
+      "rarity": "Uncommon",
+      "cardNum": "174/192"
+    },
+    {
+      "name": "Rillaboom V",
+      "set": "Rebel Clash",
+      "img": "https://den-cards.pokellector.com/292/Rillaboom-V.SWSH2.175.34567.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "175/192"
+    },
+    {
+      "name": "Eldegoss V",
+      "set": "Rebel Clash",
+      "img": "https://den-cards.pokellector.com/292/Eldegoss-V.SWSH2.176.34568.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "176/192"
+    },
+    {
+      "name": "Ninetales V",
+      "set": "Rebel Clash",
+      "img": "https://den-cards.pokellector.com/292/Ninetales-V.SWSH2.177.34569.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "177/192"
+    },
+    {
+      "name": "Cinderace V",
+      "set": "Rebel Clash",
+      "img": "https://den-cards.pokellector.com/292/Cinderace-V.SWSH2.178.34570.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "178/192"
+    },
+    {
+      "name": "Milotic V",
+      "set": "Rebel Clash",
+      "img": "https://den-cards.pokellector.com/292/Milotic-V.SWSH2.179.34571.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "179/192"
+    },
+    {
+      "name": "Inteleon V",
+      "set": "Rebel Clash",
+      "img": "https://den-cards.pokellector.com/292/Inteleon-V.SWSH2.180.34572.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "180/192"
+    },
+    {
+      "name": "Boltund V",
+      "set": "Rebel Clash",
+      "img": "https://den-cards.pokellector.com/292/Boltund-V.SWSH2.181.34573.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "181/192"
+    },
+    {
+      "name": "Toxtricity V",
+      "set": "Rebel Clash",
+      "img": "https://den-cards.pokellector.com/292/Toxtricity-V.SWSH2.182.34574.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "182/192"
+    },
+    {
+      "name": "Dragapult V",
+      "set": "Rebel Clash",
+      "img": "https://den-cards.pokellector.com/292/Dragapult-V.SWSH2.183.34575.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "183/192"
+    },
+    {
+      "name": "Sandaconda V",
+      "set": "Rebel Clash",
+      "img": "https://den-cards.pokellector.com/292/Sandaconda-V.SWSH2.184.34576.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "184/192"
+    },
+    {
+      "name": "Falinks V",
+      "set": "Rebel Clash",
+      "img": "https://den-cards.pokellector.com/292/Falinks-V.SWSH2.185.34577.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "185/192"
+    },
+    {
+      "name": "Malamar V",
+      "set": "Rebel Clash",
+      "img": "https://den-cards.pokellector.com/292/Malamar-V.SWSH2.186.34578.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "186/192"
+    },
+    {
+      "name": "Copperajah V",
+      "set": "Rebel Clash",
+      "img": "https://den-cards.pokellector.com/292/Copperajah-V.SWSH2.187.34579.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "187/192"
+    },
+    {
+      "name": "Dubwool V",
+      "set": "Rebel Clash",
+      "img": "https://den-cards.pokellector.com/292/Dubwool-V.SWSH2.188.34580.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "188/192"
+    },
+    {
+      "name": "Boss's Order",
+      "set": "Rebel Clash",
+      "img": "https://den-cards.pokellector.com/292/Bosss-Order.SWSH2.189.34358.png",
+      "rarity": "Rare",
+      "cardNum": "189/192"
+    },
+    {
+      "name": "Milo",
+      "set": "Rebel Clash",
+      "img": "https://den-cards.pokellector.com/292/Milo.SWSH2.190.34581.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "190/192"
+    },
+    {
+      "name": "Oleana",
+      "set": "Rebel Clash",
+      "img": "https://den-cards.pokellector.com/292/Oleana.SWSH2.191.34359.png",
+      "rarity": "Rare",
+      "cardNum": "191/192"
+    },
+    {
+      "name": "Sonia",
+      "set": "Rebel Clash",
+      "img": "https://den-cards.pokellector.com/292/Sonia.SWSH2.192.34582.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "192/192"
+    },
+    {
+      "name": "Rillaboom VMAX",
+      "set": "Rebel Clash",
+      "img": "https://den-cards.pokellector.com/292/Rillaboom-VMAX.SWSH2.193.34583.png",
+      "rarity": "Secret Rare",
+      "cardNum": "193/192"
+    },
+    {
+      "name": "Cinderace VMAX",
+      "set": "Rebel Clash",
+      "img": "https://den-cards.pokellector.com/292/Cinderace-VMAX.SWSH2.194.34584.png",
+      "rarity": "Secret Rare",
+      "cardNum": "194/192"
+    },
+    {
+      "name": "Inteleon VMAX",
+      "set": "Rebel Clash",
+      "img": "https://den-cards.pokellector.com/292/Inteleon-VMAX.SWSH2.195.34585.png",
+      "rarity": "Secret Rare",
+      "cardNum": "195/192"
+    },
+    {
+      "name": "Toxtricity VMAX",
+      "set": "Rebel Clash",
+      "img": "https://den-cards.pokellector.com/292/Toxtricity-VMAX.SWSH2.196.34586.png",
+      "rarity": "Secret Rare",
+      "cardNum": "196/192"
+    },
+    {
+      "name": "Dragapult VMAX",
+      "set": "Rebel Clash",
+      "img": "https://den-cards.pokellector.com/292/Dragapult-VMAX.SWSH2.197.34587.png",
+      "rarity": "Secret Rare",
+      "cardNum": "197/192"
+    },
+    {
+      "name": "Malamar VMAX",
+      "set": "Rebel Clash",
+      "img": "https://den-cards.pokellector.com/292/Malamar-VMAX.SWSH2.198.34588.png",
+      "rarity": "Secret Rare",
+      "cardNum": "198/192"
+    },
+    {
+      "name": "Copperajah VMAX",
+      "set": "Rebel Clash",
+      "img": "https://den-cards.pokellector.com/292/Copperajah-VMAX.SWSH2.199.34589.png",
+      "rarity": "Secret Rare",
+      "cardNum": "199/192"
+    },
+    {
+      "name": "Boss's Orders",
+      "set": "Rebel Clash",
+      "img": "https://den-cards.pokellector.com/292/Bosss-Orders.SWSH2.200.34590.png",
+      "rarity": "Secret Rare",
+      "cardNum": "200/192"
+    },
+    {
+      "name": "Milo",
+      "set": "Rebel Clash",
+      "img": "https://den-cards.pokellector.com/292/Milo.SWSH2.201.34591.png",
+      "rarity": "Secret Rare",
+      "cardNum": "201/192"
+    },
+    {
+      "name": "Oleana",
+      "set": "Rebel Clash",
+      "img": "https://den-cards.pokellector.com/292/Oleana.SWSH2.202.34592.png",
+      "rarity": "Secret Rare",
+      "cardNum": "202/192"
+    },
+    {
+      "name": "Sonia",
+      "set": "Rebel Clash",
+      "img": "https://den-cards.pokellector.com/292/Sonia.SWSH2.203.34593.png",
+      "rarity": "Secret Rare",
+      "cardNum": "203/192"
+    },
+    {
+      "name": "Frosmoth",
+      "set": "Rebel Clash",
+      "img": "https://den-cards.pokellector.com/292/Frosmoth.SWSH2.204.34594.png",
+      "rarity": "Secret Rare",
+      "cardNum": "204/192"
+    },
+    {
+      "name": "Galarian Perrserker",
+      "set": "Rebel Clash",
+      "img": "https://den-cards.pokellector.com/292/Galarian-Perrserker.SWSH2.205.34595.png",
+      "rarity": "Secret Rare",
+      "cardNum": "205/192"
+    },
+    {
+      "name": "Big Charm",
+      "set": "Rebel Clash",
+      "img": "https://den-cards.pokellector.com/292/Big-Charm.SWSH2.206.34596.png",
+      "rarity": "Secret Rare",
+      "cardNum": "206/192"
+    },
+    {
+      "name": "Scoop Up Net",
+      "set": "Rebel Clash",
+      "img": "https://den-cards.pokellector.com/292/Scoop-Up-Net.SWSH2.207.34597.png",
+      "rarity": "Secret Rare",
+      "cardNum": "207/192"
+    },
+    {
+      "name": "Tool Scrapper",
+      "set": "Rebel Clash",
+      "img": "https://den-cards.pokellector.com/292/Tool-Scrapper.SWSH2.208.34598.png",
+      "rarity": "Secret Rare",
+      "cardNum": "208/192"
+    },
+    {
+      "name": "Twin Energy",
+      "set": "Rebel Clash",
+      "img": "https://den-cards.pokellector.com/292/Twin-Energy.SWSH2.209.34599.png",
+      "rarity": "Secret Rare",
+      "cardNum": "209/192"
+    }
+  ]
+}

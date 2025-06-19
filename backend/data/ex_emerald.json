@@ -1,0 +1,754 @@
+{
+  "setName": "EX Emerald",
+  "cards": [
+    {
+      "name": "Blaziken",
+      "set": "EX Emerald",
+      "img": "https://den-cards.pokellector.com/60/Blaziken.EM.1.png",
+      "rarity": "Rare",
+      "cardNum": "1/106"
+    },
+    {
+      "name": "Deoxys",
+      "set": "EX Emerald",
+      "img": "https://den-cards.pokellector.com/60/Deoxys.EM.2.png",
+      "rarity": "Rare",
+      "cardNum": "2/106"
+    },
+    {
+      "name": "Exploud",
+      "set": "EX Emerald",
+      "img": "https://den-cards.pokellector.com/60/Exploud.EM.3.png",
+      "rarity": "Rare",
+      "cardNum": "3/106"
+    },
+    {
+      "name": "Gardevoir",
+      "set": "EX Emerald",
+      "img": "https://den-cards.pokellector.com/60/Gardevoir.EM.4.png",
+      "rarity": "Rare",
+      "cardNum": "4/106"
+    },
+    {
+      "name": "Groudon",
+      "set": "EX Emerald",
+      "img": "https://den-cards.pokellector.com/60/Groudon.EM.5.png",
+      "rarity": "Rare",
+      "cardNum": "5/106"
+    },
+    {
+      "name": "Kyogre",
+      "set": "EX Emerald",
+      "img": "https://den-cards.pokellector.com/60/Kyogre.EM.6.png",
+      "rarity": "Rare",
+      "cardNum": "6/106"
+    },
+    {
+      "name": "Manectric",
+      "set": "EX Emerald",
+      "img": "https://den-cards.pokellector.com/60/Manectric.EM.7.png",
+      "rarity": "Rare",
+      "cardNum": "7/106"
+    },
+    {
+      "name": "Milotic",
+      "set": "EX Emerald",
+      "img": "https://den-cards.pokellector.com/60/Milotic.EM.8.png",
+      "rarity": "Rare",
+      "cardNum": "8/106"
+    },
+    {
+      "name": "Rayquaza",
+      "set": "EX Emerald",
+      "img": "https://den-cards.pokellector.com/60/Rayquaza.EM.9.png",
+      "rarity": "Rare",
+      "cardNum": "9/106"
+    },
+    {
+      "name": "Sceptile",
+      "set": "EX Emerald",
+      "img": "https://den-cards.pokellector.com/60/Sceptile.EM.10.png",
+      "rarity": "Rare",
+      "cardNum": "10/106"
+    },
+    {
+      "name": "Swampert",
+      "set": "EX Emerald",
+      "img": "https://den-cards.pokellector.com/60/Swampert.EM.11.png",
+      "rarity": "Rare",
+      "cardNum": "11/106"
+    },
+    {
+      "name": "Chimecho",
+      "set": "EX Emerald",
+      "img": "https://den-cards.pokellector.com/60/Chimecho.EM.12.png",
+      "rarity": "Rare",
+      "cardNum": "12/106"
+    },
+    {
+      "name": "Glalie",
+      "set": "EX Emerald",
+      "img": "https://den-cards.pokellector.com/60/Glalie.EM.13.png",
+      "rarity": "Rare",
+      "cardNum": "13/106"
+    },
+    {
+      "name": "Groudon",
+      "set": "EX Emerald",
+      "img": "https://den-cards.pokellector.com/60/Groudon.EM.14.png",
+      "rarity": "Rare",
+      "cardNum": "14/106"
+    },
+    {
+      "name": "Kyogre",
+      "set": "EX Emerald",
+      "img": "https://den-cards.pokellector.com/60/Kyogre.EM.15.png",
+      "rarity": "Rare",
+      "cardNum": "15/106"
+    },
+    {
+      "name": "Manectric",
+      "set": "EX Emerald",
+      "img": "https://den-cards.pokellector.com/60/Manectric.EM.16.png",
+      "rarity": "Rare",
+      "cardNum": "16/106"
+    },
+    {
+      "name": "Nosepass",
+      "set": "EX Emerald",
+      "img": "https://den-cards.pokellector.com/60/Nosepass.EM.17.png",
+      "rarity": "Rare",
+      "cardNum": "17/106"
+    },
+    {
+      "name": "Relicanth",
+      "set": "EX Emerald",
+      "img": "https://den-cards.pokellector.com/60/Relicanth.EM.18.png",
+      "rarity": "Rare",
+      "cardNum": "18/106"
+    },
+    {
+      "name": "Rhydon",
+      "set": "EX Emerald",
+      "img": "https://den-cards.pokellector.com/60/Rhydon.EM.19.png",
+      "rarity": "Rare",
+      "cardNum": "19/106"
+    },
+    {
+      "name": "Seviper",
+      "set": "EX Emerald",
+      "img": "https://den-cards.pokellector.com/60/Seviper.EM.20.png",
+      "rarity": "Rare",
+      "cardNum": "20/106"
+    },
+    {
+      "name": "Zangoose",
+      "set": "EX Emerald",
+      "img": "https://den-cards.pokellector.com/60/Zangoose.EM.21.png",
+      "rarity": "Rare",
+      "cardNum": "21/106"
+    },
+    {
+      "name": "Breloom",
+      "set": "EX Emerald",
+      "img": "https://den-cards.pokellector.com/60/Breloom.EM.22.png",
+      "rarity": "Uncommon",
+      "cardNum": "22/106"
+    },
+    {
+      "name": "Camerupt",
+      "set": "EX Emerald",
+      "img": "https://den-cards.pokellector.com/60/Camerupt.EM.23.png",
+      "rarity": "Uncommon",
+      "cardNum": "23/106"
+    },
+    {
+      "name": "Claydol",
+      "set": "EX Emerald",
+      "img": "https://den-cards.pokellector.com/60/Claydol.EM.24.png",
+      "rarity": "Uncommon",
+      "cardNum": "24/106"
+    },
+    {
+      "name": "Combusken",
+      "set": "EX Emerald",
+      "img": "https://den-cards.pokellector.com/60/Combusken.EM.25.png",
+      "rarity": "Uncommon",
+      "cardNum": "25/106"
+    },
+    {
+      "name": "Dodrio",
+      "set": "EX Emerald",
+      "img": "https://den-cards.pokellector.com/60/Dodrio.EM.26.png",
+      "rarity": "Uncommon",
+      "cardNum": "26/106"
+    },
+    {
+      "name": "Electrode",
+      "set": "EX Emerald",
+      "img": "https://den-cards.pokellector.com/60/Electrode.EM.27.png",
+      "rarity": "Uncommon",
+      "cardNum": "27/106"
+    },
+    {
+      "name": "Grovyle",
+      "set": "EX Emerald",
+      "img": "https://den-cards.pokellector.com/60/Grovyle.EM.28.png",
+      "rarity": "Uncommon",
+      "cardNum": "28/106"
+    },
+    {
+      "name": "Grumpig",
+      "set": "EX Emerald",
+      "img": "https://den-cards.pokellector.com/60/Grumpig.EM.29.png",
+      "rarity": "Uncommon",
+      "cardNum": "29/106"
+    },
+    {
+      "name": "Grumpig",
+      "set": "EX Emerald",
+      "img": "https://den-cards.pokellector.com/60/Grumpig.EM.30.png",
+      "rarity": "Uncommon",
+      "cardNum": "30/106"
+    },
+    {
+      "name": "Hariyama",
+      "set": "EX Emerald",
+      "img": "https://den-cards.pokellector.com/60/Hariyama.EM.31.png",
+      "rarity": "Uncommon",
+      "cardNum": "31/106"
+    },
+    {
+      "name": "Illumise",
+      "set": "EX Emerald",
+      "img": "https://den-cards.pokellector.com/60/Illumise.EM.32.png",
+      "rarity": "Uncommon",
+      "cardNum": "32/106"
+    },
+    {
+      "name": "Kirlia",
+      "set": "EX Emerald",
+      "img": "https://den-cards.pokellector.com/60/Kirlia.EM.33.png",
+      "rarity": "Uncommon",
+      "cardNum": "33/106"
+    },
+    {
+      "name": "Linoone",
+      "set": "EX Emerald",
+      "img": "https://den-cards.pokellector.com/60/Linoone.EM.34.png",
+      "rarity": "Uncommon",
+      "cardNum": "34/106"
+    },
+    {
+      "name": "Loudred",
+      "set": "EX Emerald",
+      "img": "https://den-cards.pokellector.com/60/Loudred.EM.35.png",
+      "rarity": "Uncommon",
+      "cardNum": "35/106"
+    },
+    {
+      "name": "Marshtomp",
+      "set": "EX Emerald",
+      "img": "https://den-cards.pokellector.com/60/Marshtomp.EM.36.png",
+      "rarity": "Uncommon",
+      "cardNum": "36/106"
+    },
+    {
+      "name": "Minun",
+      "set": "EX Emerald",
+      "img": "https://den-cards.pokellector.com/60/Minun.EM.37.png",
+      "rarity": "Uncommon",
+      "cardNum": "37/106"
+    },
+    {
+      "name": "Ninetales",
+      "set": "EX Emerald",
+      "img": "https://den-cards.pokellector.com/60/Ninetales.EM.38.png",
+      "rarity": "Uncommon",
+      "cardNum": "38/106"
+    },
+    {
+      "name": "Plusle",
+      "set": "EX Emerald",
+      "img": "https://den-cards.pokellector.com/60/Plusle.EM.39.png",
+      "rarity": "Uncommon",
+      "cardNum": "39/106"
+    },
+    {
+      "name": "Swalot",
+      "set": "EX Emerald",
+      "img": "https://den-cards.pokellector.com/60/Swalot.EM.40.png",
+      "rarity": "Uncommon",
+      "cardNum": "40/106"
+    },
+    {
+      "name": "Swellow",
+      "set": "EX Emerald",
+      "img": "https://den-cards.pokellector.com/60/Swellow.EM.41.png",
+      "rarity": "Uncommon",
+      "cardNum": "41/106"
+    },
+    {
+      "name": "Volbeat",
+      "set": "EX Emerald",
+      "img": "https://den-cards.pokellector.com/60/Volbeat.EM.42.png",
+      "rarity": "Uncommon",
+      "cardNum": "42/106"
+    },
+    {
+      "name": "Baltoy",
+      "set": "EX Emerald",
+      "img": "https://den-cards.pokellector.com/60/Baltoy.EM.43.png",
+      "rarity": "Common",
+      "cardNum": "43/106"
+    },
+    {
+      "name": "Cacnea",
+      "set": "EX Emerald",
+      "img": "https://den-cards.pokellector.com/60/Cacnea.EM.44.png",
+      "rarity": "Common",
+      "cardNum": "44/106"
+    },
+    {
+      "name": "Doduo",
+      "set": "EX Emerald",
+      "img": "https://den-cards.pokellector.com/60/Doduo.EM.45.png",
+      "rarity": "Common",
+      "cardNum": "45/106"
+    },
+    {
+      "name": "Duskull",
+      "set": "EX Emerald",
+      "img": "https://den-cards.pokellector.com/60/Duskull.EM.46.png",
+      "rarity": "Common",
+      "cardNum": "46/106"
+    },
+    {
+      "name": "Electrike",
+      "set": "EX Emerald",
+      "img": "https://den-cards.pokellector.com/60/Electrike.EM.47.png",
+      "rarity": "Common",
+      "cardNum": "47/106"
+    },
+    {
+      "name": "Electrike",
+      "set": "EX Emerald",
+      "img": "https://den-cards.pokellector.com/60/Electrike.EM.48.png",
+      "rarity": "Common",
+      "cardNum": "48/106"
+    },
+    {
+      "name": "Feebas",
+      "set": "EX Emerald",
+      "img": "https://den-cards.pokellector.com/60/Feebas.EM.49.png",
+      "rarity": "Common",
+      "cardNum": "49/106"
+    },
+    {
+      "name": "Feebas",
+      "set": "EX Emerald",
+      "img": "https://den-cards.pokellector.com/60/Feebas.EM.50.png",
+      "rarity": "Common",
+      "cardNum": "50/106"
+    },
+    {
+      "name": "Gulpin",
+      "set": "EX Emerald",
+      "img": "https://den-cards.pokellector.com/60/Gulpin.EM.51.png",
+      "rarity": "Common",
+      "cardNum": "51/106"
+    },
+    {
+      "name": "Larvitar",
+      "set": "EX Emerald",
+      "img": "https://den-cards.pokellector.com/60/Larvitar.EM.52.png",
+      "rarity": "Common",
+      "cardNum": "52/106"
+    },
+    {
+      "name": "Luvdisc",
+      "set": "EX Emerald",
+      "img": "https://den-cards.pokellector.com/60/Luvdisc.EM.53.png",
+      "rarity": "Common",
+      "cardNum": "53/106"
+    },
+    {
+      "name": "Makuhita",
+      "set": "EX Emerald",
+      "img": "https://den-cards.pokellector.com/60/Makuhita.EM.54.png",
+      "rarity": "Common",
+      "cardNum": "54/106"
+    },
+    {
+      "name": "Meditite",
+      "set": "EX Emerald",
+      "img": "https://den-cards.pokellector.com/60/Meditite.EM.55.png",
+      "rarity": "Common",
+      "cardNum": "55/106"
+    },
+    {
+      "name": "Mudkip",
+      "set": "EX Emerald",
+      "img": "https://den-cards.pokellector.com/60/Mudkip.EM.56.png",
+      "rarity": "Common",
+      "cardNum": "56/106"
+    },
+    {
+      "name": "Numel",
+      "set": "EX Emerald",
+      "img": "https://den-cards.pokellector.com/60/Numel.EM.57.png",
+      "rarity": "Common",
+      "cardNum": "57/106"
+    },
+    {
+      "name": "Numel",
+      "set": "EX Emerald",
+      "img": "https://den-cards.pokellector.com/60/Numel.EM.58.png",
+      "rarity": "Common",
+      "cardNum": "58/106"
+    },
+    {
+      "name": "Pichu",
+      "set": "EX Emerald",
+      "img": "https://den-cards.pokellector.com/60/Pichu.EM.59.png",
+      "rarity": "Common",
+      "cardNum": "59/106"
+    },
+    {
+      "name": "Pikachu",
+      "set": "EX Emerald",
+      "img": "https://den-cards.pokellector.com/60/Pikachu.EM.60.png",
+      "rarity": "Common",
+      "cardNum": "60/106"
+    },
+    {
+      "name": "Ralts",
+      "set": "EX Emerald",
+      "img": "https://den-cards.pokellector.com/60/Ralts.EM.61.png",
+      "rarity": "Common",
+      "cardNum": "61/106"
+    },
+    {
+      "name": "Rhyhorn",
+      "set": "EX Emerald",
+      "img": "https://den-cards.pokellector.com/60/Rhyhorn.EM.62.png",
+      "rarity": "Common",
+      "cardNum": "62/106"
+    },
+    {
+      "name": "Shroomish",
+      "set": "EX Emerald",
+      "img": "https://den-cards.pokellector.com/60/Shroomish.EM.63.png",
+      "rarity": "Common",
+      "cardNum": "63/106"
+    },
+    {
+      "name": "Snorunt",
+      "set": "EX Emerald",
+      "img": "https://den-cards.pokellector.com/60/Snorunt.EM.64.png",
+      "rarity": "Common",
+      "cardNum": "64/106"
+    },
+    {
+      "name": "Spoink",
+      "set": "EX Emerald",
+      "img": "https://den-cards.pokellector.com/60/Spoink.EM.65.png",
+      "rarity": "Common",
+      "cardNum": "65/106"
+    },
+    {
+      "name": "Spoink",
+      "set": "EX Emerald",
+      "img": "https://den-cards.pokellector.com/60/Spoink.EM.66.png",
+      "rarity": "Common",
+      "cardNum": "66/106"
+    },
+    {
+      "name": "Swablu",
+      "set": "EX Emerald",
+      "img": "https://den-cards.pokellector.com/60/Swablu.EM.67.png",
+      "rarity": "Common",
+      "cardNum": "67/106"
+    },
+    {
+      "name": "Taillow",
+      "set": "EX Emerald",
+      "img": "https://den-cards.pokellector.com/60/Taillow.EM.68.png",
+      "rarity": "Common",
+      "cardNum": "68/106"
+    },
+    {
+      "name": "Torchic",
+      "set": "EX Emerald",
+      "img": "https://den-cards.pokellector.com/60/Torchic.EM.69.png",
+      "rarity": "Common",
+      "cardNum": "69/106"
+    },
+    {
+      "name": "Treecko",
+      "set": "EX Emerald",
+      "img": "https://den-cards.pokellector.com/60/Treecko.EM.70.png",
+      "rarity": "Common",
+      "cardNum": "70/106"
+    },
+    {
+      "name": "Voltorb",
+      "set": "EX Emerald",
+      "img": "https://den-cards.pokellector.com/60/Voltorb.EM.71.png",
+      "rarity": "Common",
+      "cardNum": "71/106"
+    },
+    {
+      "name": "Vulpix",
+      "set": "EX Emerald",
+      "img": "https://den-cards.pokellector.com/60/Vulpix.EM.72.png",
+      "rarity": "Common",
+      "cardNum": "72/106"
+    },
+    {
+      "name": "Whismur",
+      "set": "EX Emerald",
+      "img": "https://den-cards.pokellector.com/60/Whismur.EM.73.png",
+      "rarity": "Common",
+      "cardNum": "73/106"
+    },
+    {
+      "name": "Zigzagoon",
+      "set": "EX Emerald",
+      "img": "https://den-cards.pokellector.com/60/Zigzagoon.EM.74.png",
+      "rarity": "Common",
+      "cardNum": "74/106"
+    },
+    {
+      "name": "Battle Frontier",
+      "set": "EX Emerald",
+      "img": "https://den-cards.pokellector.com/60/Battle-Frontier.EM.75.png",
+      "rarity": "Uncommon",
+      "cardNum": "75/106"
+    },
+    {
+      "name": "Double Full Heal",
+      "set": "EX Emerald",
+      "img": "https://den-cards.pokellector.com/60/Double-Full-Heal.EM.76.png",
+      "rarity": "Uncommon",
+      "cardNum": "76/106"
+    },
+    {
+      "name": "Lanette's Net Search",
+      "set": "EX Emerald",
+      "img": "https://den-cards.pokellector.com/60/Lanettes-Net-Search.EM.77.png",
+      "rarity": "Uncommon",
+      "cardNum": "77/106"
+    },
+    {
+      "name": "Lum Berry",
+      "set": "EX Emerald",
+      "img": "https://den-cards.pokellector.com/60/Lum-Berry.EM.78.png",
+      "rarity": "Uncommon",
+      "cardNum": "78/106"
+    },
+    {
+      "name": "Mr. Stone's Project",
+      "set": "EX Emerald",
+      "img": "https://den-cards.pokellector.com/60/Mr-Stones-Project.EM.79.png",
+      "rarity": "Uncommon",
+      "cardNum": "79/106"
+    },
+    {
+      "name": "Oran Berry",
+      "set": "EX Emerald",
+      "img": "https://den-cards.pokellector.com/60/Oran-Berry.EM.80.png",
+      "rarity": "Uncommon",
+      "cardNum": "80/106"
+    },
+    {
+      "name": "Pokenav",
+      "set": "EX Emerald",
+      "img": "https://den-cards.pokellector.com/60/Pokenav.EM.81.png",
+      "rarity": "Uncommon",
+      "cardNum": "81/106"
+    },
+    {
+      "name": "Professor Birch",
+      "set": "EX Emerald",
+      "img": "https://den-cards.pokellector.com/60/Professor-Birch.EM.82.png",
+      "rarity": "Uncommon",
+      "cardNum": "82/106"
+    },
+    {
+      "name": "Rare Candy",
+      "set": "EX Emerald",
+      "img": "https://den-cards.pokellector.com/60/Rare-Candy.EM.83.png",
+      "rarity": "Uncommon",
+      "cardNum": "83/106"
+    },
+    {
+      "name": "Scott",
+      "set": "EX Emerald",
+      "img": "https://den-cards.pokellector.com/60/Scott.EM.84.png",
+      "rarity": "Uncommon",
+      "cardNum": "84/106"
+    },
+    {
+      "name": "Wally's Training",
+      "set": "EX Emerald",
+      "img": "https://den-cards.pokellector.com/60/Wallys-Training.EM.85.png",
+      "rarity": "Uncommon",
+      "cardNum": "85/106"
+    },
+    {
+      "name": "Darkness Energy",
+      "set": "EX Emerald",
+      "img": "https://den-cards.pokellector.com/60/Darkness-Energy.EM.86.png",
+      "rarity": "Rare",
+      "cardNum": "86/106"
+    },
+    {
+      "name": "Double Rainbow Energy",
+      "set": "EX Emerald",
+      "img": "https://den-cards.pokellector.com/60/Double-Rainbow-Energy.EM.87.png",
+      "rarity": "Rare",
+      "cardNum": "87/106"
+    },
+    {
+      "name": "Metal Energy",
+      "set": "EX Emerald",
+      "img": "https://den-cards.pokellector.com/60/Metal-Energy.EM.88.png",
+      "rarity": "Rare",
+      "cardNum": "88/106"
+    },
+    {
+      "name": "Multi Energy",
+      "set": "EX Emerald",
+      "img": "https://den-cards.pokellector.com/60/Multi-Energy.EM.89.png",
+      "rarity": "Rare",
+      "cardNum": "89/106"
+    },
+    {
+      "name": "Altaria ex",
+      "set": "EX Emerald",
+      "img": "https://den-cards.pokellector.com/60/Altaria-ex.EM.90.png",
+      "rarity": "Rare",
+      "cardNum": "90/106"
+    },
+    {
+      "name": "Cacturne ex",
+      "set": "EX Emerald",
+      "img": "https://den-cards.pokellector.com/60/Cacturne-ex.EM.91.png",
+      "rarity": "Rare",
+      "cardNum": "91/106"
+    },
+    {
+      "name": "Camerupt ex",
+      "set": "EX Emerald",
+      "img": "https://den-cards.pokellector.com/60/Camerupt-ex.EM.92.png",
+      "rarity": "Rare",
+      "cardNum": "92/106"
+    },
+    {
+      "name": "Deoxys ex",
+      "set": "EX Emerald",
+      "img": "https://den-cards.pokellector.com/60/Deoxys-ex.EM.93.png",
+      "rarity": "Rare",
+      "cardNum": "93/106"
+    },
+    {
+      "name": "Dusclops ex",
+      "set": "EX Emerald",
+      "img": "https://den-cards.pokellector.com/60/Dusclops-ex.EM.94.png",
+      "rarity": "Rare",
+      "cardNum": "94/106"
+    },
+    {
+      "name": "Medicham ex",
+      "set": "EX Emerald",
+      "img": "https://den-cards.pokellector.com/60/Medicham-ex.EM.95.png",
+      "rarity": "Rare",
+      "cardNum": "95/106"
+    },
+    {
+      "name": "Milotic ex",
+      "set": "EX Emerald",
+      "img": "https://den-cards.pokellector.com/60/Milotic-ex.EM.96.png",
+      "rarity": "Rare",
+      "cardNum": "96/106"
+    },
+    {
+      "name": "Raichu ex",
+      "set": "EX Emerald",
+      "img": "https://den-cards.pokellector.com/60/Raichu-ex.EM.97.png",
+      "rarity": "Rare",
+      "cardNum": "97/106"
+    },
+    {
+      "name": "Regice ex",
+      "set": "EX Emerald",
+      "img": "https://den-cards.pokellector.com/60/Regice-ex.EM.98.png",
+      "rarity": "Rare",
+      "cardNum": "98/106"
+    },
+    {
+      "name": "Regirock ex",
+      "set": "EX Emerald",
+      "img": "https://den-cards.pokellector.com/60/Regirock-ex.EM.99.png",
+      "rarity": "Rare",
+      "cardNum": "99/106"
+    },
+    {
+      "name": "Registeel ex",
+      "set": "EX Emerald",
+      "img": "https://den-cards.pokellector.com/60/Registeel-ex.EM.100.png",
+      "rarity": "Rare",
+      "cardNum": "100/106"
+    },
+    {
+      "name": "Grass Energy",
+      "set": "EX Emerald",
+      "img": "https://den-cards.pokellector.com/60/Grass-Energy.EM.101.png",
+      "rarity": "Rare",
+      "cardNum": "101/106"
+    },
+    {
+      "name": "Fire Energy",
+      "set": "EX Emerald",
+      "img": "https://den-cards.pokellector.com/60/Fire-Energy.EM.102.png",
+      "rarity": "Rare",
+      "cardNum": "102/106"
+    },
+    {
+      "name": "Water Energy",
+      "set": "EX Emerald",
+      "img": "https://den-cards.pokellector.com/60/Water-Energy.EM.103.png",
+      "rarity": "Rare",
+      "cardNum": "103/106"
+    },
+    {
+      "name": "Lightning Energy",
+      "set": "EX Emerald",
+      "img": "https://den-cards.pokellector.com/60/Lightning-Energy.EM.104.png",
+      "rarity": "Rare",
+      "cardNum": "104/106"
+    },
+    {
+      "name": "Psychic Energy",
+      "set": "EX Emerald",
+      "img": "https://den-cards.pokellector.com/60/Psychic-Energy.EM.105.png",
+      "rarity": "Rare",
+      "cardNum": "105/106"
+    },
+    {
+      "name": "Fighting Energy",
+      "set": "EX Emerald",
+      "img": "https://den-cards.pokellector.com/60/Fighting-Energy.EM.106.png",
+      "rarity": "Rare",
+      "cardNum": "106/106"
+    },
+    {
+      "name": "Farfetch'd",
+      "set": "EX Emerald",
+      "img": "https://den-cards.pokellector.com/60/Farfetchd.EM.107.png",
+      "rarity": "Secret Rare",
+      "cardNum": "107/106"
+    }
+  ]
+}

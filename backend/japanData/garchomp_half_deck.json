@@ -1,0 +1,131 @@
+{
+  "setName": "Garchomp Half Deck",
+  "cards": [
+    {
+      "name": "Magikarp",
+      "set": "Garchomp Half Deck",
+      "img": "https://den-cards.pokellector.com/134/Magikarp.GBR.1.png",
+      "rarity": "Common",
+      "cardNum": "1/18"
+    },
+    {
+      "name": "Gyarados",
+      "set": "Garchomp Half Deck",
+      "img": "https://den-cards.pokellector.com/134/Gyarados.GBR.2.png",
+      "rarity": "Common",
+      "cardNum": "2/18"
+    },
+    {
+      "name": "Electrike",
+      "set": "Garchomp Half Deck",
+      "img": "https://den-cards.pokellector.com/134/Electrike.GBR.3.png",
+      "rarity": "Common",
+      "cardNum": "3/18"
+    },
+    {
+      "name": "Manectric",
+      "set": "Garchomp Half Deck",
+      "img": "https://den-cards.pokellector.com/134/Manectric.GBR.4.png",
+      "rarity": "Common",
+      "cardNum": "4/18"
+    },
+    {
+      "name": "Gible",
+      "set": "Garchomp Half Deck",
+      "img": "https://den-cards.pokellector.com/134/Gible.GBR.5.png",
+      "rarity": "Common",
+      "cardNum": "5/18"
+    },
+    {
+      "name": "Gabite",
+      "set": "Garchomp Half Deck",
+      "img": "https://den-cards.pokellector.com/134/Gabite.GBR.6.png",
+      "rarity": "Common",
+      "cardNum": "6/18"
+    },
+    {
+      "name": "Garchomp",
+      "set": "Garchomp Half Deck",
+      "img": "https://den-cards.pokellector.com/134/Garchomp.GBR.7.png",
+      "rarity": "Common",
+      "cardNum": "7/18"
+    },
+    {
+      "name": "Swablu",
+      "set": "Garchomp Half Deck",
+      "img": "https://den-cards.pokellector.com/134/Swablu.GBR.8.png",
+      "rarity": "Common",
+      "cardNum": "8/18"
+    },
+    {
+      "name": "Minccino",
+      "set": "Garchomp Half Deck",
+      "img": "https://den-cards.pokellector.com/134/Minccino.GBR.9.png",
+      "rarity": "Common",
+      "cardNum": "9/18"
+    },
+    {
+      "name": "Ultra Ball",
+      "set": "Garchomp Half Deck",
+      "img": "https://den-cards.pokellector.com/134/Ultra-Ball.GBR.10.png",
+      "rarity": "Common",
+      "cardNum": "10/18"
+    },
+    {
+      "name": "Rare Candy",
+      "set": "Garchomp Half Deck",
+      "img": "https://den-cards.pokellector.com/134/Rare-Candy.GBR.11.png",
+      "rarity": "Common",
+      "cardNum": "11/18"
+    },
+    {
+      "name": "Giant Cape",
+      "set": "Garchomp Half Deck",
+      "img": "https://den-cards.pokellector.com/134/Giant-Cape.GBR.12.png",
+      "rarity": "Common",
+      "cardNum": "12/18"
+    },
+    {
+      "name": "Professor Juniper",
+      "set": "Garchomp Half Deck",
+      "img": "https://den-cards.pokellector.com/134/Professor-Juniper.GBR.13.png",
+      "rarity": "Common",
+      "cardNum": "13/18"
+    },
+    {
+      "name": "Cheren",
+      "set": "Garchomp Half Deck",
+      "img": "https://den-cards.pokellector.com/134/Cheren.GBR.14.png",
+      "rarity": "Common",
+      "cardNum": "14/18"
+    },
+    {
+      "name": "Blend Energy WLFM",
+      "set": "Garchomp Half Deck",
+      "img": "https://den-cards.pokellector.com/134/Blend-Energy-WLFM.GBR.15.png",
+      "rarity": "Common",
+      "cardNum": "15/18"
+    },
+    {
+      "name": "Water Energy",
+      "set": "Garchomp Half Deck",
+      "img": "https://den-cards.pokellector.com/134/Water-Energy.GBR.16.png",
+      "rarity": "Common",
+      "cardNum": "16/18"
+    },
+    {
+      "name": "Lightning Energy",
+      "set": "Garchomp Half Deck",
+      "img": "https://den-cards.pokellector.com/134/Lightning-Energy.GBR.17.png",
+      "rarity": "Common",
+      "cardNum": "17/18"
+    },
+    {
+      "name": "Fighting Energy",
+      "set": "Garchomp Half Deck",
+      "img": "https://den-cards.pokellector.com/134/Fighting-Energy.GBR.18.png",
+      "rarity": "Common",
+      "cardNum": "18/18"
+    }
+  ]
+}

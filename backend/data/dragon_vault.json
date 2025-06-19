@@ -1,0 +1,152 @@
+{
+  "setName": "Dragon Vault",
+  "cards": [
+    {
+      "name": "Dratini",
+      "set": "Dragon Vault",
+      "img": "https://den-cards.pokellector.com/8/Dratini.DRV.1.png",
+      "rarity": "Common",
+      "cardNum": "1/20"
+    },
+    {
+      "name": "Dratini",
+      "set": "Dragon Vault",
+      "img": "https://den-cards.pokellector.com/8/Dratini.DRV.2.png",
+      "rarity": "Common",
+      "cardNum": "2/20"
+    },
+    {
+      "name": "Dragonair",
+      "set": "Dragon Vault",
+      "img": "https://den-cards.pokellector.com/8/Dragonair.DRV.3.png",
+      "rarity": "Common",
+      "cardNum": "3/20"
+    },
+    {
+      "name": "Dragonair",
+      "set": "Dragon Vault",
+      "img": "https://den-cards.pokellector.com/8/Dragonair.DRV.4.png",
+      "rarity": "Common",
+      "cardNum": "4/20"
+    },
+    {
+      "name": "Dragonite",
+      "set": "Dragon Vault",
+      "img": "https://den-cards.pokellector.com/8/Dragonite.DRV.5.png",
+      "rarity": "Common",
+      "cardNum": "5/20"
+    },
+    {
+      "name": "Bagon",
+      "set": "Dragon Vault",
+      "img": "https://den-cards.pokellector.com/8/Bagon.DRV.6.png",
+      "rarity": "Common",
+      "cardNum": "6/20"
+    },
+    {
+      "name": "Shelgon",
+      "set": "Dragon Vault",
+      "img": "https://den-cards.pokellector.com/8/Shelgon.DRV.7.png",
+      "rarity": "Common",
+      "cardNum": "7/20"
+    },
+    {
+      "name": "Salamence",
+      "set": "Dragon Vault",
+      "img": "https://den-cards.pokellector.com/8/Salamence.DRV.8.png",
+      "rarity": "Common",
+      "cardNum": "8/20"
+    },
+    {
+      "name": "Latias",
+      "set": "Dragon Vault",
+      "img": "https://den-cards.pokellector.com/8/Latias.DRV.9.png",
+      "rarity": "Common",
+      "cardNum": "9/20"
+    },
+    {
+      "name": "Latios",
+      "set": "Dragon Vault",
+      "img": "https://den-cards.pokellector.com/8/Latios.DRV.10.png",
+      "rarity": "Common",
+      "cardNum": "10/20"
+    },
+    {
+      "name": "Rayquaza",
+      "set": "Dragon Vault",
+      "img": "https://den-cards.pokellector.com/8/Rayquaza.DRV.11.png",
+      "rarity": "Common",
+      "cardNum": "11/20"
+    },
+    {
+      "name": "Axew",
+      "set": "Dragon Vault",
+      "img": "https://den-cards.pokellector.com/8/Axew.DRV.12.png",
+      "rarity": "Common",
+      "cardNum": "12/20"
+    },
+    {
+      "name": "Axew",
+      "set": "Dragon Vault",
+      "img": "https://den-cards.pokellector.com/8/Axew.DRV.13.png",
+      "rarity": "Common",
+      "cardNum": "13/20"
+    },
+    {
+      "name": "Fraxure",
+      "set": "Dragon Vault",
+      "img": "https://den-cards.pokellector.com/8/Fraxure.DRV.14.png",
+      "rarity": "Common",
+      "cardNum": "14/20"
+    },
+    {
+      "name": "Fraxure",
+      "set": "Dragon Vault",
+      "img": "https://den-cards.pokellector.com/8/Fraxure.DRV.15.png",
+      "rarity": "Common",
+      "cardNum": "15/20"
+    },
+    {
+      "name": "Haxorus",
+      "set": "Dragon Vault",
+      "img": "https://den-cards.pokellector.com/8/Haxorus.DRV.16.png",
+      "rarity": "Common",
+      "cardNum": "16/20"
+    },
+    {
+      "name": "Druddigon",
+      "set": "Dragon Vault",
+      "img": "https://den-cards.pokellector.com/8/Druddigon.DRV.17.png",
+      "rarity": "Common",
+      "cardNum": "17/20"
+    },
+    {
+      "name": "EXP Share",
+      "set": "Dragon Vault",
+      "img": "https://den-cards.pokellector.com/8/EXP-Share.DRV.18.png",
+      "rarity": "Common",
+      "cardNum": "18/20"
+    },
+    {
+      "name": "First Ticket",
+      "set": "Dragon Vault",
+      "img": "https://den-cards.pokellector.com/8/First-Ticket.DRV.19.png",
+      "rarity": "Common",
+      "cardNum": "19/20"
+    },
+    {
+      "name": "Super Rod",
+      "set": "Dragon Vault",
+      "img": "https://den-cards.pokellector.com/8/Super-Rod.DRV.20.png",
+      "rarity": "Common",
+      "cardNum": "20/20"
+    },
+    {
+      "name": "Kyurem",
+      "set": "Dragon Vault",
+      "img": "https://den-cards.pokellector.com/8/Kyurem.DRV.21.png",
+      "rarity": "Secret Rare",
+      "cardNum": "21/20"
+    }
+  ]
+}

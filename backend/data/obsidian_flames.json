@@ -1,0 +1,1615 @@
+{
+  "setName": "Obsidian Flames",
+  "cards": [
+    {
+      "name": "Oddish",
+      "set": "Obsidian Flames",
+      "img": "https://den-cards.pokellector.com/373/Oddish.OBF.1.48824.png",
+      "rarity": "Common",
+      "cardNum": "1/197"
+    },
+    {
+      "name": "Gloom",
+      "set": "Obsidian Flames",
+      "img": "https://den-cards.pokellector.com/373/Gloom.OBF.2.48825.png",
+      "rarity": "Common",
+      "cardNum": "2/197"
+    },
+    {
+      "name": "Bellossom",
+      "set": "Obsidian Flames",
+      "img": "https://den-cards.pokellector.com/373/Bellossom.OBF.3.48826.png",
+      "rarity": "Uncommon",
+      "cardNum": "3/197"
+    },
+    {
+      "name": "Scyther",
+      "set": "Obsidian Flames",
+      "img": "https://den-cards.pokellector.com/373/Scyther.OBF.4.48827.png",
+      "rarity": "Common",
+      "cardNum": "4/197"
+    },
+    {
+      "name": "Shuckle",
+      "set": "Obsidian Flames",
+      "img": "https://den-cards.pokellector.com/373/Shuckle.OBF.5.48828.png",
+      "rarity": "Common",
+      "cardNum": "5/197"
+    },
+    {
+      "name": "Surskit",
+      "set": "Obsidian Flames",
+      "img": "https://den-cards.pokellector.com/373/Surskit.OBF.6.48829.png",
+      "rarity": "Common",
+      "cardNum": "6/197"
+    },
+    {
+      "name": "Masquerain",
+      "set": "Obsidian Flames",
+      "img": "https://den-cards.pokellector.com/373/Masquerain.OBF.7.48830.png",
+      "rarity": "Uncommon",
+      "cardNum": "7/197"
+    },
+    {
+      "name": "Combee",
+      "set": "Obsidian Flames",
+      "img": "https://den-cards.pokellector.com/373/Combee.OBF.8.48831.png",
+      "rarity": "Common",
+      "cardNum": "8/197"
+    },
+    {
+      "name": "Foongus",
+      "set": "Obsidian Flames",
+      "img": "https://den-cards.pokellector.com/373/Foongus.OBF.9.48832.png",
+      "rarity": "Common",
+      "cardNum": "9/197"
+    },
+    {
+      "name": "Amoonguss",
+      "set": "Obsidian Flames",
+      "img": "https://den-cards.pokellector.com/373/Amoonguss.OBF.10.48833.png",
+      "rarity": "Uncommon",
+      "cardNum": "10/197"
+    },
+    {
+      "name": "Phantump",
+      "set": "Obsidian Flames",
+      "img": "https://den-cards.pokellector.com/373/Phantump.OBF.11.48834.png",
+      "rarity": "Common",
+      "cardNum": "11/197"
+    },
+    {
+      "name": "Trevenant",
+      "set": "Obsidian Flames",
+      "img": "https://den-cards.pokellector.com/373/Trevenant.OBF.12.48835.png",
+      "rarity": "Uncommon",
+      "cardNum": "12/197"
+    },
+    {
+      "name": "Rowlet",
+      "set": "Obsidian Flames",
+      "img": "https://den-cards.pokellector.com/373/Rowlet.OBF.13.48619.png",
+      "rarity": "Common",
+      "cardNum": "13/197"
+    },
+    {
+      "name": "Dartrix",
+      "set": "Obsidian Flames",
+      "img": "https://den-cards.pokellector.com/373/Dartrix.OBF.14.48620.png",
+      "rarity": "Uncommon",
+      "cardNum": "14/197"
+    },
+    {
+      "name": "Decidueye ex",
+      "set": "Obsidian Flames",
+      "img": "https://den-cards.pokellector.com/373/Decidueye-ex.OBF.15.48621.png",
+      "rarity": "Double Rare",
+      "cardNum": "15/197"
+    },
+    {
+      "name": "Bounsweet",
+      "set": "Obsidian Flames",
+      "img": "https://den-cards.pokellector.com/373/Bounsweet.OBF.16.48836.png",
+      "rarity": "Common",
+      "cardNum": "16/197"
+    },
+    {
+      "name": "Steenee",
+      "set": "Obsidian Flames",
+      "img": "https://den-cards.pokellector.com/373/Steenee.OBF.17.48837.png",
+      "rarity": "Common",
+      "cardNum": "17/197"
+    },
+    {
+      "name": "Tsareena",
+      "set": "Obsidian Flames",
+      "img": "https://den-cards.pokellector.com/373/Tsareena.OBF.18.48838.png",
+      "rarity": "Uncommon",
+      "cardNum": "18/197"
+    },
+    {
+      "name": "Smoliv",
+      "set": "Obsidian Flames",
+      "img": "https://den-cards.pokellector.com/373/Smoliv.OBF.19.48839.png",
+      "rarity": "Common",
+      "cardNum": "19/197"
+    },
+    {
+      "name": "Dolliv",
+      "set": "Obsidian Flames",
+      "img": "https://den-cards.pokellector.com/373/Dolliv.OBF.20.48840.png",
+      "rarity": "Common",
+      "cardNum": "20/197"
+    },
+    {
+      "name": "Arboliva",
+      "set": "Obsidian Flames",
+      "img": "https://den-cards.pokellector.com/373/Arboliva.OBF.21.48841.png",
+      "rarity": "Uncommon",
+      "cardNum": "21/197"
+    },
+    {
+      "name": "Toedscruel ex",
+      "set": "Obsidian Flames",
+      "img": "https://den-cards.pokellector.com/373/Toedscruel-ex.OBF.22.48842.png",
+      "rarity": "Double Rare",
+      "cardNum": "22/197"
+    },
+    {
+      "name": "Capsakid",
+      "set": "Obsidian Flames",
+      "img": "https://den-cards.pokellector.com/373/Capsakid.OBF.23.48843.png",
+      "rarity": "Common",
+      "cardNum": "23/197"
+    },
+    {
+      "name": "Capsakid",
+      "set": "Obsidian Flames",
+      "img": "https://den-cards.pokellector.com/373/Capsakid.OBF.24.48844.png",
+      "rarity": "Common",
+      "cardNum": "24/197"
+    },
+    {
+      "name": "Scovillain",
+      "set": "Obsidian Flames",
+      "img": "https://den-cards.pokellector.com/373/Scovillain.OBF.25.48845.png",
+      "rarity": "Rare",
+      "cardNum": "25/197"
+    },
+    {
+      "name": "Charmander",
+      "set": "Obsidian Flames",
+      "img": "https://den-cards.pokellector.com/373/Charmander.OBF.26.48846.png",
+      "rarity": "Common",
+      "cardNum": "26/197"
+    },
+    {
+      "name": "Charmeleon",
+      "set": "Obsidian Flames",
+      "img": "https://den-cards.pokellector.com/373/Charmeleon.OBF.27.48847.png",
+      "rarity": "Uncommon",
+      "cardNum": "27/197"
+    },
+    {
+      "name": "Vulpix",
+      "set": "Obsidian Flames",
+      "img": "https://den-cards.pokellector.com/373/Vulpix.OBF.28.48848.png",
+      "rarity": "Common",
+      "cardNum": "28/197"
+    },
+    {
+      "name": "Ninetales",
+      "set": "Obsidian Flames",
+      "img": "https://den-cards.pokellector.com/373/Ninetales.OBF.29.48849.png",
+      "rarity": "Uncommon",
+      "cardNum": "29/197"
+    },
+    {
+      "name": "Entei",
+      "set": "Obsidian Flames",
+      "img": "https://den-cards.pokellector.com/373/Entei.OBF.30.48850.png",
+      "rarity": "Rare",
+      "cardNum": "30/197"
+    },
+    {
+      "name": "Numel",
+      "set": "Obsidian Flames",
+      "img": "https://den-cards.pokellector.com/373/Numel.OBF.31.48851.png",
+      "rarity": "Common",
+      "cardNum": "31/197"
+    },
+    {
+      "name": "Camerupt",
+      "set": "Obsidian Flames",
+      "img": "https://den-cards.pokellector.com/373/Camerupt.OBF.32.48852.png",
+      "rarity": "Uncommon",
+      "cardNum": "32/197"
+    },
+    {
+      "name": "Victini ex",
+      "set": "Obsidian Flames",
+      "img": "https://den-cards.pokellector.com/373/Victini-ex.OBF.33.48628.png",
+      "rarity": "Double Rare",
+      "cardNum": "33/197"
+    },
+    {
+      "name": "Darumaka",
+      "set": "Obsidian Flames",
+      "img": "https://den-cards.pokellector.com/373/Darumaka.OBF.34.48853.png",
+      "rarity": "Common",
+      "cardNum": "34/197"
+    },
+    {
+      "name": "Darmanitan",
+      "set": "Obsidian Flames",
+      "img": "https://den-cards.pokellector.com/373/Darmanitan.OBF.35.48854.png",
+      "rarity": "Uncommon",
+      "cardNum": "35/197"
+    },
+    {
+      "name": "Litwick",
+      "set": "Obsidian Flames",
+      "img": "https://den-cards.pokellector.com/373/Litwick.OBF.36.48855.png",
+      "rarity": "Common",
+      "cardNum": "36/197"
+    },
+    {
+      "name": "Lampent",
+      "set": "Obsidian Flames",
+      "img": "https://den-cards.pokellector.com/373/Lampent.OBF.37.48856.png",
+      "rarity": "Common",
+      "cardNum": "37/197"
+    },
+    {
+      "name": "Chandelure",
+      "set": "Obsidian Flames",
+      "img": "https://den-cards.pokellector.com/373/Chandelure.OBF.38.48857.png",
+      "rarity": "Uncommon",
+      "cardNum": "38/197"
+    },
+    {
+      "name": "Heatmor",
+      "set": "Obsidian Flames",
+      "img": "https://den-cards.pokellector.com/373/Heatmor.OBF.39.48858.png",
+      "rarity": "Common",
+      "cardNum": "39/197"
+    },
+    {
+      "name": "Larvesta",
+      "set": "Obsidian Flames",
+      "img": "https://den-cards.pokellector.com/373/Larvesta.OBF.40.48859.png",
+      "rarity": "Common",
+      "cardNum": "40/197"
+    },
+    {
+      "name": "Volcarona",
+      "set": "Obsidian Flames",
+      "img": "https://den-cards.pokellector.com/373/Volcarona.OBF.41.48860.png",
+      "rarity": "Uncommon",
+      "cardNum": "41/197"
+    },
+    {
+      "name": "Eiscue ex",
+      "set": "Obsidian Flames",
+      "img": "https://den-cards.pokellector.com/373/Eiscue-ex.OBF.42.48861.png",
+      "rarity": "Double Rare",
+      "cardNum": "42/197"
+    },
+    {
+      "name": "Charcadet",
+      "set": "Obsidian Flames",
+      "img": "https://den-cards.pokellector.com/373/Charcadet.OBF.43.48627.png",
+      "rarity": "Common",
+      "cardNum": "43/197"
+    },
+    {
+      "name": "Armarouge",
+      "set": "Obsidian Flames",
+      "img": "https://den-cards.pokellector.com/373/Armarouge.OBF.44.48626.png",
+      "rarity": "Uncommon",
+      "cardNum": "44/197"
+    },
+    {
+      "name": "Lapras",
+      "set": "Obsidian Flames",
+      "img": "https://den-cards.pokellector.com/373/Lapras.OBF.45.48862.png",
+      "rarity": "Uncommon",
+      "cardNum": "45/197"
+    },
+    {
+      "name": "Carvanha",
+      "set": "Obsidian Flames",
+      "img": "https://den-cards.pokellector.com/373/Carvanha.OBF.46.48863.png",
+      "rarity": "Common",
+      "cardNum": "46/197"
+    },
+    {
+      "name": "Sharpedo",
+      "set": "Obsidian Flames",
+      "img": "https://den-cards.pokellector.com/373/Sharpedo.OBF.47.48864.png",
+      "rarity": "Uncommon",
+      "cardNum": "47/197"
+    },
+    {
+      "name": "Buizel",
+      "set": "Obsidian Flames",
+      "img": "https://den-cards.pokellector.com/373/Buizel.OBF.48.48865.png",
+      "rarity": "Common",
+      "cardNum": "48/197"
+    },
+    {
+      "name": "Floatzel",
+      "set": "Obsidian Flames",
+      "img": "https://den-cards.pokellector.com/373/Floatzel.OBF.49.48866.png",
+      "rarity": "Uncommon",
+      "cardNum": "49/197"
+    },
+    {
+      "name": "Tympole",
+      "set": "Obsidian Flames",
+      "img": "https://den-cards.pokellector.com/373/Tympole.OBF.50.48867.png",
+      "rarity": "Common",
+      "cardNum": "50/197"
+    },
+    {
+      "name": "Palpitoad",
+      "set": "Obsidian Flames",
+      "img": "https://den-cards.pokellector.com/373/Palpitoad.OBF.51.48868.png",
+      "rarity": "Common",
+      "cardNum": "51/197"
+    },
+    {
+      "name": "Seismitoad",
+      "set": "Obsidian Flames",
+      "img": "https://den-cards.pokellector.com/373/Seismitoad.OBF.52.48869.png",
+      "rarity": "Uncommon",
+      "cardNum": "52/197"
+    },
+    {
+      "name": "Cubchoo",
+      "set": "Obsidian Flames",
+      "img": "https://den-cards.pokellector.com/373/Cubchoo.OBF.53.48870.png",
+      "rarity": "Common",
+      "cardNum": "53/197"
+    },
+    {
+      "name": "Beartic",
+      "set": "Obsidian Flames",
+      "img": "https://den-cards.pokellector.com/373/Beartic.OBF.54.48871.png",
+      "rarity": "Uncommon",
+      "cardNum": "54/197"
+    },
+    {
+      "name": "Cryogonal",
+      "set": "Obsidian Flames",
+      "img": "https://den-cards.pokellector.com/373/Cryogonal.OBF.55.48872.png",
+      "rarity": "Common",
+      "cardNum": "55/197"
+    },
+    {
+      "name": "Froakie",
+      "set": "Obsidian Flames",
+      "img": "https://den-cards.pokellector.com/373/Froakie.OBF.56.48873.png",
+      "rarity": "Common",
+      "cardNum": "56/197"
+    },
+    {
+      "name": "Frogadier",
+      "set": "Obsidian Flames",
+      "img": "https://den-cards.pokellector.com/373/Frogadier.OBF.57.48874.png",
+      "rarity": "Uncommon",
+      "cardNum": "57/197"
+    },
+    {
+      "name": "Wiglett",
+      "set": "Obsidian Flames",
+      "img": "https://den-cards.pokellector.com/373/Wiglett.OBF.58.48875.png",
+      "rarity": "Common",
+      "cardNum": "58/197"
+    },
+    {
+      "name": "Wugtrio",
+      "set": "Obsidian Flames",
+      "img": "https://den-cards.pokellector.com/373/Wugtrio.OBF.59.48876.png",
+      "rarity": "Uncommon",
+      "cardNum": "59/197"
+    },
+    {
+      "name": "Finizen",
+      "set": "Obsidian Flames",
+      "img": "https://den-cards.pokellector.com/373/Finizen.OBF.60.48701.png",
+      "rarity": "Common",
+      "cardNum": "60/197"
+    },
+    {
+      "name": "Finizen",
+      "set": "Obsidian Flames",
+      "img": "https://den-cards.pokellector.com/373/Finizen.OBF.61.48877.png",
+      "rarity": "Common",
+      "cardNum": "61/197"
+    },
+    {
+      "name": "Palafin",
+      "set": "Obsidian Flames",
+      "img": "https://den-cards.pokellector.com/373/Palafin.OBF.62.48878.png",
+      "rarity": "Rare",
+      "cardNum": "62/197"
+    },
+    {
+      "name": "Magnemite",
+      "set": "Obsidian Flames",
+      "img": "https://den-cards.pokellector.com/373/Magnemite.OBF.63.48879.png",
+      "rarity": "Common",
+      "cardNum": "63/197"
+    },
+    {
+      "name": "Magneton",
+      "set": "Obsidian Flames",
+      "img": "https://den-cards.pokellector.com/373/Magneton.OBF.64.48880.png",
+      "rarity": "Common",
+      "cardNum": "64/197"
+    },
+    {
+      "name": "Magnezone",
+      "set": "Obsidian Flames",
+      "img": "https://den-cards.pokellector.com/373/Magnezone.OBF.65.48881.png",
+      "rarity": "Uncommon",
+      "cardNum": "65/197"
+    },
+    {
+      "name": "Tyranitar ex",
+      "set": "Obsidian Flames",
+      "img": "https://den-cards.pokellector.com/373/Tyranitar-ex.OBF.66.48882.png",
+      "rarity": "Double Rare",
+      "cardNum": "66/197"
+    },
+    {
+      "name": "Tynamo",
+      "set": "Obsidian Flames",
+      "img": "https://den-cards.pokellector.com/373/Tynamo.OBF.67.48883.png",
+      "rarity": "Common",
+      "cardNum": "67/197"
+    },
+    {
+      "name": "Eelektrik",
+      "set": "Obsidian Flames",
+      "img": "https://den-cards.pokellector.com/373/Eelektrik.OBF.68.48884.png",
+      "rarity": "Common",
+      "cardNum": "68/197"
+    },
+    {
+      "name": "Eelektross",
+      "set": "Obsidian Flames",
+      "img": "https://den-cards.pokellector.com/373/Eelektross.OBF.69.48885.png",
+      "rarity": "Uncommon",
+      "cardNum": "69/197"
+    },
+    {
+      "name": "Thundurus",
+      "set": "Obsidian Flames",
+      "img": "https://den-cards.pokellector.com/373/Thundurus.OBF.70.48886.png",
+      "rarity": "Rare",
+      "cardNum": "70/197"
+    },
+    {
+      "name": "Toxel",
+      "set": "Obsidian Flames",
+      "img": "https://den-cards.pokellector.com/373/Toxel.OBF.71.48887.png",
+      "rarity": "Common",
+      "cardNum": "71/197"
+    },
+    {
+      "name": "Toxtricity",
+      "set": "Obsidian Flames",
+      "img": "https://den-cards.pokellector.com/373/Toxtricity.OBF.72.48888.png",
+      "rarity": "Rare",
+      "cardNum": "72/197"
+    },
+    {
+      "name": "Pawmot ex",
+      "set": "Obsidian Flames",
+      "img": "https://den-cards.pokellector.com/373/Pawmot-ex.OBF.73.48889.png",
+      "rarity": "Double Rare",
+      "cardNum": "73/197"
+    },
+    {
+      "name": "Tadbulb",
+      "set": "Obsidian Flames",
+      "img": "https://den-cards.pokellector.com/373/Tadbulb.OBF.74.48890.png",
+      "rarity": "Common",
+      "cardNum": "74/197"
+    },
+    {
+      "name": "Tadbulb",
+      "set": "Obsidian Flames",
+      "img": "https://den-cards.pokellector.com/373/Tadbulb.OBF.75.48891.png",
+      "rarity": "Common",
+      "cardNum": "75/197"
+    },
+    {
+      "name": "Tadbulb",
+      "set": "Obsidian Flames",
+      "img": "https://den-cards.pokellector.com/373/Tadbulb.OBF.76.48892.png",
+      "rarity": "Common",
+      "cardNum": "76/197"
+    },
+    {
+      "name": "Bellibolt",
+      "set": "Obsidian Flames",
+      "img": "https://den-cards.pokellector.com/373/Bellibolt.OBF.77.48893.png",
+      "rarity": "Uncommon",
+      "cardNum": "77/197"
+    },
+    {
+      "name": "Bellibolt",
+      "set": "Obsidian Flames",
+      "img": "https://den-cards.pokellector.com/373/Bellibolt.OBF.78.48894.png",
+      "rarity": "Uncommon",
+      "cardNum": "78/197"
+    },
+    {
+      "name": "Miraidon ex",
+      "set": "Obsidian Flames",
+      "img": "https://den-cards.pokellector.com/373/Miraidon-ex.OBF.79.48629.png",
+      "rarity": "Double Rare",
+      "cardNum": "79/197"
+    },
+    {
+      "name": "Cleffa",
+      "set": "Obsidian Flames",
+      "img": "https://den-cards.pokellector.com/373/Cleffa.OBF.80.48631.png",
+      "rarity": "Common",
+      "cardNum": "80/197"
+    },
+    {
+      "name": "Clefairy",
+      "set": "Obsidian Flames",
+      "img": "https://den-cards.pokellector.com/373/Clefairy.OBF.81.48632.png",
+      "rarity": "Common",
+      "cardNum": "81/197"
+    },
+    {
+      "name": "Clefable ex",
+      "set": "Obsidian Flames",
+      "img": "https://den-cards.pokellector.com/373/Clefable-ex.OBF.82.48633.png",
+      "rarity": "Double Rare",
+      "cardNum": "82/197"
+    },
+    {
+      "name": "Togepi",
+      "set": "Obsidian Flames",
+      "img": "https://den-cards.pokellector.com/373/Togepi.OBF.83.48895.png",
+      "rarity": "Common",
+      "cardNum": "83/197"
+    },
+    {
+      "name": "Togetic",
+      "set": "Obsidian Flames",
+      "img": "https://den-cards.pokellector.com/373/Togetic.OBF.84.48548.png",
+      "rarity": "Uncommon",
+      "cardNum": "84/197"
+    },
+    {
+      "name": "Togekiss",
+      "set": "Obsidian Flames",
+      "img": "https://den-cards.pokellector.com/373/Togekiss.OBF.85.48896.png",
+      "rarity": "Rare",
+      "cardNum": "85/197"
+    },
+    {
+      "name": "Espeon",
+      "set": "Obsidian Flames",
+      "img": "https://den-cards.pokellector.com/373/Espeon.OBF.86.48897.png",
+      "rarity": "Uncommon",
+      "cardNum": "86/197"
+    },
+    {
+      "name": "Snubbull",
+      "set": "Obsidian Flames",
+      "img": "https://den-cards.pokellector.com/373/Snubbull.OBF.87.48898.png",
+      "rarity": "Common",
+      "cardNum": "87/197"
+    },
+    {
+      "name": "Granbull",
+      "set": "Obsidian Flames",
+      "img": "https://den-cards.pokellector.com/373/Granbull.OBF.88.48899.png",
+      "rarity": "Uncommon",
+      "cardNum": "88/197"
+    },
+    {
+      "name": "Mawile",
+      "set": "Obsidian Flames",
+      "img": "https://den-cards.pokellector.com/373/Mawile.OBF.89.48900.png",
+      "rarity": "Common",
+      "cardNum": "89/197"
+    },
+    {
+      "name": "Spoink",
+      "set": "Obsidian Flames",
+      "img": "https://den-cards.pokellector.com/373/Spoink.OBF.90.48901.png",
+      "rarity": "Common",
+      "cardNum": "90/197"
+    },
+    {
+      "name": "Grumpig",
+      "set": "Obsidian Flames",
+      "img": "https://den-cards.pokellector.com/373/Grumpig.OBF.91.48902.png",
+      "rarity": "Uncommon",
+      "cardNum": "91/197"
+    },
+    {
+      "name": "Lunatone",
+      "set": "Obsidian Flames",
+      "img": "https://den-cards.pokellector.com/373/Lunatone.OBF.92.48903.png",
+      "rarity": "Uncommon",
+      "cardNum": "92/197"
+    },
+    {
+      "name": "Solrock",
+      "set": "Obsidian Flames",
+      "img": "https://den-cards.pokellector.com/373/Solrock.OBF.93.48904.png",
+      "rarity": "Uncommon",
+      "cardNum": "93/197"
+    },
+    {
+      "name": "Baltoy",
+      "set": "Obsidian Flames",
+      "img": "https://den-cards.pokellector.com/373/Baltoy.OBF.94.48905.png",
+      "rarity": "Common",
+      "cardNum": "94/197"
+    },
+    {
+      "name": "Claydol",
+      "set": "Obsidian Flames",
+      "img": "https://den-cards.pokellector.com/373/Claydol.OBF.95.48906.png",
+      "rarity": "Rare",
+      "cardNum": "95/197"
+    },
+    {
+      "name": "Vespiquen ex",
+      "set": "Obsidian Flames",
+      "img": "https://den-cards.pokellector.com/373/Vespiquen-ex.OBF.96.48907.png",
+      "rarity": "Double Rare",
+      "cardNum": "96/197"
+    },
+    {
+      "name": "Sinistea",
+      "set": "Obsidian Flames",
+      "img": "https://den-cards.pokellector.com/373/Sinistea.OBF.97.48642.png",
+      "rarity": "Common",
+      "cardNum": "97/197"
+    },
+    {
+      "name": "Polteageist",
+      "set": "Obsidian Flames",
+      "img": "https://den-cards.pokellector.com/373/Polteageist.OBF.98.48908.png",
+      "rarity": "Uncommon",
+      "cardNum": "98/197"
+    },
+    {
+      "name": "Greavard",
+      "set": "Obsidian Flames",
+      "img": "https://den-cards.pokellector.com/373/Greavard.OBF.99.48909.png",
+      "rarity": "Common",
+      "cardNum": "99/197"
+    },
+    {
+      "name": "Greavard",
+      "set": "Obsidian Flames",
+      "img": "https://den-cards.pokellector.com/373/Greavard.OBF.100.48910.png",
+      "rarity": "Common",
+      "cardNum": "100/197"
+    },
+    {
+      "name": "Houndstone",
+      "set": "Obsidian Flames",
+      "img": "https://den-cards.pokellector.com/373/Houndstone.OBF.101.48911.png",
+      "rarity": "Uncommon",
+      "cardNum": "101/197"
+    },
+    {
+      "name": "Houndstone ex",
+      "set": "Obsidian Flames",
+      "img": "https://den-cards.pokellector.com/373/Houndstone-ex.OBF.102.48912.png",
+      "rarity": "Double Rare",
+      "cardNum": "102/197"
+    },
+    {
+      "name": "Diglett",
+      "set": "Obsidian Flames",
+      "img": "https://den-cards.pokellector.com/373/Diglett.OBF.103.48913.png",
+      "rarity": "Common",
+      "cardNum": "103/197"
+    },
+    {
+      "name": "Dugtrio",
+      "set": "Obsidian Flames",
+      "img": "https://den-cards.pokellector.com/373/Dugtrio.OBF.104.48914.png",
+      "rarity": "Uncommon",
+      "cardNum": "104/197"
+    },
+    {
+      "name": "Larvitar",
+      "set": "Obsidian Flames",
+      "img": "https://den-cards.pokellector.com/373/Larvitar.OBF.105.48915.png",
+      "rarity": "Common",
+      "cardNum": "105/197"
+    },
+    {
+      "name": "Pupitar",
+      "set": "Obsidian Flames",
+      "img": "https://den-cards.pokellector.com/373/Pupitar.OBF.106.48916.png",
+      "rarity": "Uncommon",
+      "cardNum": "106/197"
+    },
+    {
+      "name": "Nosepass",
+      "set": "Obsidian Flames",
+      "img": "https://den-cards.pokellector.com/373/Nosepass.OBF.107.48917.png",
+      "rarity": "Common",
+      "cardNum": "107/197"
+    },
+    {
+      "name": "Barboach",
+      "set": "Obsidian Flames",
+      "img": "https://den-cards.pokellector.com/373/Barboach.OBF.108.48918.png",
+      "rarity": "Common",
+      "cardNum": "108/197"
+    },
+    {
+      "name": "Whiscash",
+      "set": "Obsidian Flames",
+      "img": "https://den-cards.pokellector.com/373/Whiscash.OBF.109.48919.png",
+      "rarity": "Uncommon",
+      "cardNum": "109/197"
+    },
+    {
+      "name": "Bonsly",
+      "set": "Obsidian Flames",
+      "img": "https://den-cards.pokellector.com/373/Bonsly.OBF.110.48920.png",
+      "rarity": "Common",
+      "cardNum": "110/197"
+    },
+    {
+      "name": "Drilbur",
+      "set": "Obsidian Flames",
+      "img": "https://den-cards.pokellector.com/373/Drilbur.OBF.111.48921.png",
+      "rarity": "Common",
+      "cardNum": "111/197"
+    },
+    {
+      "name": "Stunfisk",
+      "set": "Obsidian Flames",
+      "img": "https://den-cards.pokellector.com/373/Stunfisk.OBF.112.48922.png",
+      "rarity": "Uncommon",
+      "cardNum": "112/197"
+    },
+    {
+      "name": "Diggersby",
+      "set": "Obsidian Flames",
+      "img": "https://den-cards.pokellector.com/373/Diggersby.OBF.113.48923.png",
+      "rarity": "Uncommon",
+      "cardNum": "113/197"
+    },
+    {
+      "name": "Crabrawler",
+      "set": "Obsidian Flames",
+      "img": "https://den-cards.pokellector.com/373/Crabrawler.OBF.114.48924.png",
+      "rarity": "Common",
+      "cardNum": "114/197"
+    },
+    {
+      "name": "Crabominable",
+      "set": "Obsidian Flames",
+      "img": "https://den-cards.pokellector.com/373/Crabominable.OBF.115.48925.png",
+      "rarity": "Uncommon",
+      "cardNum": "115/197"
+    },
+    {
+      "name": "Rockruff",
+      "set": "Obsidian Flames",
+      "img": "https://den-cards.pokellector.com/373/Rockruff.OBF.116.48926.png",
+      "rarity": "Common",
+      "cardNum": "116/197"
+    },
+    {
+      "name": "Lycanroc",
+      "set": "Obsidian Flames",
+      "img": "https://den-cards.pokellector.com/373/Lycanroc.OBF.117.48927.png",
+      "rarity": "Uncommon",
+      "cardNum": "117/197"
+    },
+    {
+      "name": "Toedscool",
+      "set": "Obsidian Flames",
+      "img": "https://den-cards.pokellector.com/373/Toedscool.OBF.118.48928.png",
+      "rarity": "Common",
+      "cardNum": "118/197"
+    },
+    {
+      "name": "Toedscruel",
+      "set": "Obsidian Flames",
+      "img": "https://den-cards.pokellector.com/373/Toedscruel.OBF.119.48549.png",
+      "rarity": "Uncommon",
+      "cardNum": "119/197"
+    },
+    {
+      "name": "Klawf ex",
+      "set": "Obsidian Flames",
+      "img": "https://den-cards.pokellector.com/373/Klawf-ex.OBF.120.48672.png",
+      "rarity": "Double Rare",
+      "cardNum": "120/197"
+    },
+    {
+      "name": "Glimmet",
+      "set": "Obsidian Flames",
+      "img": "https://den-cards.pokellector.com/373/Glimmet.OBF.121.48929.png",
+      "rarity": "Common",
+      "cardNum": "121/197"
+    },
+    {
+      "name": "Glimmet",
+      "set": "Obsidian Flames",
+      "img": "https://den-cards.pokellector.com/373/Glimmet.OBF.122.48930.png",
+      "rarity": "Common",
+      "cardNum": "122/197"
+    },
+    {
+      "name": "Glimmora ex",
+      "set": "Obsidian Flames",
+      "img": "https://den-cards.pokellector.com/373/Glimmora-ex.MEW.123.48661.png",
+      "rarity": "Double Rare",
+      "cardNum": "123/197"
+    },
+    {
+      "name": "Koraidon ex",
+      "set": "Obsidian Flames",
+      "img": "https://den-cards.pokellector.com/373/Koraidon-ex.OBF.124.48630.png",
+      "rarity": "Double Rare",
+      "cardNum": "124/197"
+    },
+    {
+      "name": "Charizard ex",
+      "set": "Obsidian Flames",
+      "img": "https://den-cards.pokellector.com/373/Charizard-ex.OBF.125.48634.png",
+      "rarity": "Double Rare",
+      "cardNum": "125/197"
+    },
+    {
+      "name": "Paldean Wooper",
+      "set": "Obsidian Flames",
+      "img": "https://den-cards.pokellector.com/373/Paldean-Wooper.OBF.126.48931.png",
+      "rarity": "Common",
+      "cardNum": "126/197"
+    },
+    {
+      "name": "Paldean Wooper",
+      "set": "Obsidian Flames",
+      "img": "https://den-cards.pokellector.com/373/Paldean-Wooper.OBF.127.48932.png",
+      "rarity": "Common",
+      "cardNum": "127/197"
+    },
+    {
+      "name": "Paldean Clodsire",
+      "set": "Obsidian Flames",
+      "img": "https://den-cards.pokellector.com/373/Paldean-Clodsire.MEW.128.48667.png",
+      "rarity": "Uncommon",
+      "cardNum": "128/197"
+    },
+    {
+      "name": "Paldean Clodsire",
+      "set": "Obsidian Flames",
+      "img": "https://den-cards.pokellector.com/373/Paldean-Clodsire.OBF.129.48933.png",
+      "rarity": "Uncommon",
+      "cardNum": "129/197"
+    },
+    {
+      "name": "Umbreon",
+      "set": "Obsidian Flames",
+      "img": "https://den-cards.pokellector.com/373/Umbreon.OBF.130.48934.png",
+      "rarity": "Uncommon",
+      "cardNum": "130/197"
+    },
+    {
+      "name": "Houndour",
+      "set": "Obsidian Flames",
+      "img": "https://den-cards.pokellector.com/373/Houndour.OBF.131.48935.png",
+      "rarity": "Common",
+      "cardNum": "131/197"
+    },
+    {
+      "name": "Houndour",
+      "set": "Obsidian Flames",
+      "img": "https://den-cards.pokellector.com/373/Houndour.OBF.132.48936.png",
+      "rarity": "Common",
+      "cardNum": "132/197"
+    },
+    {
+      "name": "Houndoom",
+      "set": "Obsidian Flames",
+      "img": "https://den-cards.pokellector.com/373/Houndoom.OBF.133.48937.png",
+      "rarity": "Uncommon",
+      "cardNum": "133/197"
+    },
+    {
+      "name": "Houndoom ex",
+      "set": "Obsidian Flames",
+      "img": "https://den-cards.pokellector.com/373/Houndoom-ex.OBF.134.48938.png",
+      "rarity": "Double Rare",
+      "cardNum": "134/197"
+    },
+    {
+      "name": "Absol ex",
+      "set": "Obsidian Flames",
+      "img": "https://den-cards.pokellector.com/373/Absol-ex.OBF.135.48939.png",
+      "rarity": "Double Rare",
+      "cardNum": "135/197"
+    },
+    {
+      "name": "Darkrai",
+      "set": "Obsidian Flames",
+      "img": "https://den-cards.pokellector.com/373/Darkrai.OBF.136.48940.png",
+      "rarity": "Rare",
+      "cardNum": "136/197"
+    },
+    {
+      "name": "Inkay",
+      "set": "Obsidian Flames",
+      "img": "https://den-cards.pokellector.com/373/Inkay.OBF.137.48941.png",
+      "rarity": "Common",
+      "cardNum": "137/197"
+    },
+    {
+      "name": "Malamar",
+      "set": "Obsidian Flames",
+      "img": "https://den-cards.pokellector.com/373/Malamar.OBF.138.48942.png",
+      "rarity": "Uncommon",
+      "cardNum": "138/197"
+    },
+    {
+      "name": "Salandit",
+      "set": "Obsidian Flames",
+      "img": "https://den-cards.pokellector.com/373/Salandit.OBF.139.48943.png",
+      "rarity": "Common",
+      "cardNum": "139/197"
+    },
+    {
+      "name": "Salazzle",
+      "set": "Obsidian Flames",
+      "img": "https://den-cards.pokellector.com/373/Salazzle.OBF.140.48944.png",
+      "rarity": "Uncommon",
+      "cardNum": "140/197"
+    },
+    {
+      "name": "Scizor",
+      "set": "Obsidian Flames",
+      "img": "https://den-cards.pokellector.com/373/Scizor.MEW.141.48662.png",
+      "rarity": "Rare",
+      "cardNum": "141/197"
+    },
+    {
+      "name": "Skarmory",
+      "set": "Obsidian Flames",
+      "img": "https://den-cards.pokellector.com/373/Skarmory.OBF.142.48945.png",
+      "rarity": "Uncommon",
+      "cardNum": "142/197"
+    },
+    {
+      "name": "Mawile",
+      "set": "Obsidian Flames",
+      "img": "https://den-cards.pokellector.com/373/Mawile.MEW.143.48663.png",
+      "rarity": "Uncommon",
+      "cardNum": "143/197"
+    },
+    {
+      "name": "Bronzor",
+      "set": "Obsidian Flames",
+      "img": "https://den-cards.pokellector.com/373/Bronzor.OBF.144.48946.png",
+      "rarity": "Common",
+      "cardNum": "144/197"
+    },
+    {
+      "name": "Bronzong",
+      "set": "Obsidian Flames",
+      "img": "https://den-cards.pokellector.com/373/Bronzong.OBF.145.48947.png",
+      "rarity": "Uncommon",
+      "cardNum": "145/197"
+    },
+    {
+      "name": "Probopass",
+      "set": "Obsidian Flames",
+      "img": "https://den-cards.pokellector.com/373/Probopass.OBF.146.48948.png",
+      "rarity": "Uncommon",
+      "cardNum": "146/197"
+    },
+    {
+      "name": "Excadrill",
+      "set": "Obsidian Flames",
+      "img": "https://den-cards.pokellector.com/373/Excadrill.OBF.147.48949.png",
+      "rarity": "Uncommon",
+      "cardNum": "147/197"
+    },
+    {
+      "name": "Pawniard",
+      "set": "Obsidian Flames",
+      "img": "https://den-cards.pokellector.com/373/Pawniard.OBF.148.48950.png",
+      "rarity": "Common",
+      "cardNum": "148/197"
+    },
+    {
+      "name": "Bisharp",
+      "set": "Obsidian Flames",
+      "img": "https://den-cards.pokellector.com/373/Bisharp.OBF.149.48951.png",
+      "rarity": "Common",
+      "cardNum": "149/197"
+    },
+    {
+      "name": "Kingambit",
+      "set": "Obsidian Flames",
+      "img": "https://den-cards.pokellector.com/373/Kingambit.OBF.150.48952.png",
+      "rarity": "Uncommon",
+      "cardNum": "150/197"
+    },
+    {
+      "name": "Togedemaru",
+      "set": "Obsidian Flames",
+      "img": "https://den-cards.pokellector.com/373/Togedemaru.OBF.151.48953.png",
+      "rarity": "Common",
+      "cardNum": "151/197"
+    },
+    {
+      "name": "Meltan",
+      "set": "Obsidian Flames",
+      "img": "https://den-cards.pokellector.com/373/Meltan.OBF.152.48954.png",
+      "rarity": "Common",
+      "cardNum": "152/197"
+    },
+    {
+      "name": "Melmetal ex",
+      "set": "Obsidian Flames",
+      "img": "https://den-cards.pokellector.com/373/Melmetal-ex.OBF.153.48955.png",
+      "rarity": "Double Rare",
+      "cardNum": "153/197"
+    },
+    {
+      "name": "Varoom",
+      "set": "Obsidian Flames",
+      "img": "https://den-cards.pokellector.com/373/Varoom.OBF.154.48956.png",
+      "rarity": "Common",
+      "cardNum": "154/197"
+    },
+    {
+      "name": "Varoom",
+      "set": "Obsidian Flames",
+      "img": "https://den-cards.pokellector.com/373/Varoom.OBF.155.48957.png",
+      "rarity": "Common",
+      "cardNum": "155/197"
+    },
+    {
+      "name": "Revavroom ex",
+      "set": "Obsidian Flames",
+      "img": "https://den-cards.pokellector.com/373/Revavroom-ex.OBF.156.48635.png",
+      "rarity": "Double Rare",
+      "cardNum": "156/197"
+    },
+    {
+      "name": "Dratini",
+      "set": "Obsidian Flames",
+      "img": "https://den-cards.pokellector.com/373/Dratini.OBF.157.48958.png",
+      "rarity": "Common",
+      "cardNum": "157/197"
+    },
+    {
+      "name": "Dragonair",
+      "set": "Obsidian Flames",
+      "img": "https://den-cards.pokellector.com/373/Dragonair.OBF.158.48959.png",
+      "rarity": "Uncommon",
+      "cardNum": "158/197"
+    },
+    {
+      "name": "Dragonite ex",
+      "set": "Obsidian Flames",
+      "img": "https://den-cards.pokellector.com/373/Dragonite-ex.OBF.159.48960.png",
+      "rarity": "Double Rare",
+      "cardNum": "159/197"
+    },
+    {
+      "name": "Altaria",
+      "set": "Obsidian Flames",
+      "img": "https://den-cards.pokellector.com/373/Altaria.OBF.160.48961.png",
+      "rarity": "Uncommon",
+      "cardNum": "160/197"
+    },
+    {
+      "name": "Drampa",
+      "set": "Obsidian Flames",
+      "img": "https://den-cards.pokellector.com/373/Drampa.OBF.161.48962.png",
+      "rarity": "Uncommon",
+      "cardNum": "161/197"
+    },
+    {
+      "name": "Pidgey",
+      "set": "Obsidian Flames",
+      "img": "https://den-cards.pokellector.com/373/Pidgey.OBF.162.48963.png",
+      "rarity": "Common",
+      "cardNum": "162/197"
+    },
+    {
+      "name": "Pidgeotto",
+      "set": "Obsidian Flames",
+      "img": "https://den-cards.pokellector.com/373/Pidgeotto.OBF.163.48550.png",
+      "rarity": "Uncommon",
+      "cardNum": "163/197"
+    },
+    {
+      "name": "Pidgeot ex",
+      "set": "Obsidian Flames",
+      "img": "https://den-cards.pokellector.com/373/Pidgeot-ex.OBF.164.48964.png",
+      "rarity": "Double Rare",
+      "cardNum": "164/197"
+    },
+    {
+      "name": "Kangaskhan",
+      "set": "Obsidian Flames",
+      "img": "https://den-cards.pokellector.com/373/Kangaskhan.OBF.165.48965.png",
+      "rarity": "Uncommon",
+      "cardNum": "165/197"
+    },
+    {
+      "name": "Eevee",
+      "set": "Obsidian Flames",
+      "img": "https://den-cards.pokellector.com/373/Eevee.OBF.166.48966.png",
+      "rarity": "Common",
+      "cardNum": "166/197"
+    },
+    {
+      "name": "Zigzagoon",
+      "set": "Obsidian Flames",
+      "img": "https://den-cards.pokellector.com/373/Zigzagoon.OBF.167.48967.png",
+      "rarity": "Common",
+      "cardNum": "167/197"
+    },
+    {
+      "name": "Linoone",
+      "set": "Obsidian Flames",
+      "img": "https://den-cards.pokellector.com/373/Linoone.OBF.168.48968.png",
+      "rarity": "Uncommon",
+      "cardNum": "168/197"
+    },
+    {
+      "name": "Swablu",
+      "set": "Obsidian Flames",
+      "img": "https://den-cards.pokellector.com/373/Swablu.OBF.169.48969.png",
+      "rarity": "Common",
+      "cardNum": "169/197"
+    },
+    {
+      "name": "Lillipup",
+      "set": "Obsidian Flames",
+      "img": "https://den-cards.pokellector.com/373/Lillipup.OBF.170.48970.png",
+      "rarity": "Common",
+      "cardNum": "170/197"
+    },
+    {
+      "name": "Herdier",
+      "set": "Obsidian Flames",
+      "img": "https://den-cards.pokellector.com/373/Herdier.OBF.171.48971.png",
+      "rarity": "Common",
+      "cardNum": "171/197"
+    },
+    {
+      "name": "Stoutland",
+      "set": "Obsidian Flames",
+      "img": "https://den-cards.pokellector.com/373/Stoutland.OBF.172.48972.png",
+      "rarity": "Uncommon",
+      "cardNum": "172/197"
+    },
+    {
+      "name": "Audino",
+      "set": "Obsidian Flames",
+      "img": "https://den-cards.pokellector.com/373/Audino.OBF.173.48973.png",
+      "rarity": "Common",
+      "cardNum": "173/197"
+    },
+    {
+      "name": "Bouffalant",
+      "set": "Obsidian Flames",
+      "img": "https://den-cards.pokellector.com/373/Bouffalant.OBF.174.48974.png",
+      "rarity": "Uncommon",
+      "cardNum": "174/197"
+    },
+    {
+      "name": "Bunnelby",
+      "set": "Obsidian Flames",
+      "img": "https://den-cards.pokellector.com/373/Bunnelby.OBF.175.48975.png",
+      "rarity": "Common",
+      "cardNum": "175/197"
+    },
+    {
+      "name": "Yungoos",
+      "set": "Obsidian Flames",
+      "img": "https://den-cards.pokellector.com/373/Yungoos.OBF.176.48976.png",
+      "rarity": "Common",
+      "cardNum": "176/197"
+    },
+    {
+      "name": "Gumshoos",
+      "set": "Obsidian Flames",
+      "img": "https://den-cards.pokellector.com/373/Gumshoos.OBF.177.48977.png",
+      "rarity": "Uncommon",
+      "cardNum": "177/197"
+    },
+    {
+      "name": "Skwovet",
+      "set": "Obsidian Flames",
+      "img": "https://den-cards.pokellector.com/373/Skwovet.OBF.178.48978.png",
+      "rarity": "Common",
+      "cardNum": "178/197"
+    },
+    {
+      "name": "Greedent ex",
+      "set": "Obsidian Flames",
+      "img": "https://den-cards.pokellector.com/373/Greedent-ex.OBF.179.48979.png",
+      "rarity": "Double Rare",
+      "cardNum": "179/197"
+    },
+    {
+      "name": "Lechonk",
+      "set": "Obsidian Flames",
+      "img": "https://den-cards.pokellector.com/373/Lechonk.OBF.180.48980.png",
+      "rarity": "Common",
+      "cardNum": "180/197"
+    },
+    {
+      "name": "Lechonk",
+      "set": "Obsidian Flames",
+      "img": "https://den-cards.pokellector.com/373/Lechonk.OBF.181.48981.png",
+      "rarity": "Common",
+      "cardNum": "181/197"
+    },
+    {
+      "name": "Lechonk",
+      "set": "Obsidian Flames",
+      "img": "https://den-cards.pokellector.com/373/Lechonk.OBF.182.48982.png",
+      "rarity": "Common",
+      "cardNum": "182/197"
+    },
+    {
+      "name": "Oinkologne",
+      "set": "Obsidian Flames",
+      "img": "https://den-cards.pokellector.com/373/Oinkologne.OBF.183.48983.png",
+      "rarity": "Uncommon",
+      "cardNum": "183/197"
+    },
+    {
+      "name": "Oinkologne",
+      "set": "Obsidian Flames",
+      "img": "https://den-cards.pokellector.com/373/Oinkologne.OBF.184.48984.png",
+      "rarity": "Uncommon",
+      "cardNum": "184/197"
+    },
+    {
+      "name": "Flamigo",
+      "set": "Obsidian Flames",
+      "img": "https://den-cards.pokellector.com/373/Flamigo.OBF.185.48985.png",
+      "rarity": "Uncommon",
+      "cardNum": "185/197"
+    },
+    {
+      "name": "Arven",
+      "set": "Obsidian Flames",
+      "img": "https://den-cards.pokellector.com/373/Arven.OBF.186.48986.png",
+      "rarity": "Uncommon",
+      "cardNum": "186/197"
+    },
+    {
+      "name": "Brassius",
+      "set": "Obsidian Flames",
+      "img": "https://den-cards.pokellector.com/373/Brassius.OBF.187.48987.png",
+      "rarity": "Uncommon",
+      "cardNum": "187/197"
+    },
+    {
+      "name": "Geeta",
+      "set": "Obsidian Flames",
+      "img": "https://den-cards.pokellector.com/373/Geeta.OBF.188.48988.png",
+      "rarity": "Rare",
+      "cardNum": "188/197"
+    },
+    {
+      "name": "Letter of Encouragement",
+      "set": "Obsidian Flames",
+      "img": "https://den-cards.pokellector.com/373/Letter-of-Encouragement.OBF.189.48989.png",
+      "rarity": "Uncommon",
+      "cardNum": "189/197"
+    },
+    {
+      "name": "Ortega",
+      "set": "Obsidian Flames",
+      "img": "https://den-cards.pokellector.com/373/Ortega.OBF.190.48990.png",
+      "rarity": "Uncommon",
+      "cardNum": "190/197"
+    },
+    {
+      "name": "Patrol Cap",
+      "set": "Obsidian Flames",
+      "img": "https://den-cards.pokellector.com/373/Patrol-Cap.OBF.191.48991.png",
+      "rarity": "Uncommon",
+      "cardNum": "191/197"
+    },
+    {
+      "name": "Pokémon League Headquarters",
+      "set": "Obsidian Flames",
+      "img": "https://den-cards.pokellector.com/373/Pokmon-League-Headquarters.OBF.192.48992.png",
+      "rarity": "Uncommon",
+      "cardNum": "192/197"
+    },
+    {
+      "name": "Poppy",
+      "set": "Obsidian Flames",
+      "img": "https://den-cards.pokellector.com/373/Poppy.OBF.193.48993.png",
+      "rarity": "Uncommon",
+      "cardNum": "193/197"
+    },
+    {
+      "name": "Ryme",
+      "set": "Obsidian Flames",
+      "img": "https://den-cards.pokellector.com/373/Ryme.OBF.194.48994.png",
+      "rarity": "Common",
+      "cardNum": "194/197"
+    },
+    {
+      "name": "Team Star Grunt",
+      "set": "Obsidian Flames",
+      "img": "https://den-cards.pokellector.com/373/Team-Star-Grunt.OBF.195.48995.png",
+      "rarity": "Uncommon",
+      "cardNum": "195/197"
+    },
+    {
+      "name": "Town Store",
+      "set": "Obsidian Flames",
+      "img": "https://den-cards.pokellector.com/373/Town-Store.OBF.196.48996.png",
+      "rarity": "Common",
+      "cardNum": "196/197"
+    },
+    {
+      "name": "Vengeful Punch",
+      "set": "Obsidian Flames",
+      "img": "https://den-cards.pokellector.com/373/Vengeful-Punch.OBF.197.48997.png",
+      "rarity": "Uncommon",
+      "cardNum": "197/197"
+    },
+    {
+      "name": "Gloom",
+      "set": "Obsidian Flames",
+      "img": "https://den-cards.pokellector.com/373/Gloom.OBF.198.48998.png",
+      "rarity": "Illustration Rare",
+      "cardNum": "198/197"
+    },
+    {
+      "name": "Ninetales",
+      "set": "Obsidian Flames",
+      "img": "https://den-cards.pokellector.com/373/Ninetales.OBF.199.48999.png",
+      "rarity": "Illustration Rare",
+      "cardNum": "199/197"
+    },
+    {
+      "name": "Palafin",
+      "set": "Obsidian Flames",
+      "img": "https://den-cards.pokellector.com/373/Palafin.MEW.200.48700.png",
+      "rarity": "Illustration Rare",
+      "cardNum": "200/197"
+    },
+    {
+      "name": "Bellibolt",
+      "set": "Obsidian Flames",
+      "img": "https://den-cards.pokellector.com/373/Bellibolt.OBF.201.49000.png",
+      "rarity": "Illustration Rare",
+      "cardNum": "201/197"
+    },
+    {
+      "name": "Cleffa",
+      "set": "Obsidian Flames",
+      "img": "https://den-cards.pokellector.com/373/Cleffa.OBF.202.48551.png",
+      "rarity": "Illustration Rare",
+      "cardNum": "202/197"
+    },
+    {
+      "name": "Larvitar",
+      "set": "Obsidian Flames",
+      "img": "https://den-cards.pokellector.com/373/Larvitar.OBF.203.49001.png",
+      "rarity": "Illustration Rare",
+      "cardNum": "203/197"
+    },
+    {
+      "name": "Houndour",
+      "set": "Obsidian Flames",
+      "img": "https://den-cards.pokellector.com/373/Houndour.OBF.204.49002.png",
+      "rarity": "Illustration Rare",
+      "cardNum": "204/197"
+    },
+    {
+      "name": "Scizor",
+      "set": "Obsidian Flames",
+      "img": "https://den-cards.pokellector.com/373/Scizor.OBF.205.49003.png",
+      "rarity": "Illustration Rare",
+      "cardNum": "205/197"
+    },
+    {
+      "name": "Varoom",
+      "set": "Obsidian Flames",
+      "img": "https://den-cards.pokellector.com/373/Varoom.OBF.206.49004.png",
+      "rarity": "Illustration Rare",
+      "cardNum": "206/197"
+    },
+    {
+      "name": "Pidgey",
+      "set": "Obsidian Flames",
+      "img": "https://den-cards.pokellector.com/373/Pidgey.OBF.207.49005.png",
+      "rarity": "Illustration Rare",
+      "cardNum": "207/197"
+    },
+    {
+      "name": "Pidgeotto",
+      "set": "Obsidian Flames",
+      "img": "https://den-cards.pokellector.com/373/Pidgeotto.OBF.208.48552.png",
+      "rarity": "Illustration Rare",
+      "cardNum": "208/197"
+    },
+    {
+      "name": "Lechonk",
+      "set": "Obsidian Flames",
+      "img": "https://den-cards.pokellector.com/373/Lechonk.OBF.209.48553.png",
+      "rarity": "Illustration Rare",
+      "cardNum": "209/197"
+    },
+    {
+      "name": "Eiscue ex",
+      "set": "Obsidian Flames",
+      "img": "https://den-cards.pokellector.com/373/Eiscue-ex.OBF.210.49006.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "210/197"
+    },
+    {
+      "name": "Tyranitar ex",
+      "set": "Obsidian Flames",
+      "img": "https://den-cards.pokellector.com/373/Tyranitar-ex.OBF.211.49007.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "211/197"
+    },
+    {
+      "name": "Vespiquen ex",
+      "set": "Obsidian Flames",
+      "img": "https://den-cards.pokellector.com/373/Vespiquen-ex.OBF.212.49008.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "212/197"
+    },
+    {
+      "name": "Glimmora ex",
+      "set": "Obsidian Flames",
+      "img": "https://den-cards.pokellector.com/373/Glimmora-ex.OBF.213.49009.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "213/197"
+    },
+    {
+      "name": "Absol ex",
+      "set": "Obsidian Flames",
+      "img": "https://den-cards.pokellector.com/373/Absol-ex.OBF.214.49010.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "214/197"
+    },
+    {
+      "name": "Charizard ex",
+      "set": "Obsidian Flames",
+      "img": "https://den-cards.pokellector.com/373/Charizard-ex.OBF.215.49011.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "215/197"
+    },
+    {
+      "name": "Revavroom ex",
+      "set": "Obsidian Flames",
+      "img": "https://den-cards.pokellector.com/373/Revavroom-ex.OBF.216.49012.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "216/197"
+    },
+    {
+      "name": "Pidgeot ex",
+      "set": "Obsidian Flames",
+      "img": "https://den-cards.pokellector.com/373/Pidgeot-ex.OBF.217.49013.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "217/197"
+    },
+    {
+      "name": "Geeta",
+      "set": "Obsidian Flames",
+      "img": "https://den-cards.pokellector.com/373/Geeta.OBF.218.49014.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "218/197"
+    },
+    {
+      "name": "Ortega",
+      "set": "Obsidian Flames",
+      "img": "https://den-cards.pokellector.com/373/Ortega.OBF.219.49015.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "219/197"
+    },
+    {
+      "name": "Poppy",
+      "set": "Obsidian Flames",
+      "img": "https://den-cards.pokellector.com/373/Poppy.OBF.220.49016.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "220/197"
+    },
+    {
+      "name": "Ryme",
+      "set": "Obsidian Flames",
+      "img": "https://den-cards.pokellector.com/373/Ryme.MEW.221.48660.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "221/197"
+    },
+    {
+      "name": "Eiscue ex",
+      "set": "Obsidian Flames",
+      "img": "https://den-cards.pokellector.com/373/Eiscue-ex.OBF.222.49017.png",
+      "rarity": "Special Illustration Rare",
+      "cardNum": "222/197"
+    },
+    {
+      "name": "Charizard ex",
+      "set": "Obsidian Flames",
+      "img": "https://den-cards.pokellector.com/373/Charizard-ex.OBF.223.48657.png",
+      "rarity": "Special Illustration Rare",
+      "cardNum": "223/197"
+    },
+    {
+      "name": "Revavroom ex",
+      "set": "Obsidian Flames",
+      "img": "https://den-cards.pokellector.com/373/Revavroom-ex.OBF.224.49018.png",
+      "rarity": "Special Illustration Rare",
+      "cardNum": "224/197"
+    },
+    {
+      "name": "Pidgeot ex",
+      "set": "Obsidian Flames",
+      "img": "https://den-cards.pokellector.com/373/Pidgeot-ex.OBF.225.49019.png",
+      "rarity": "Special Illustration Rare",
+      "cardNum": "225/197"
+    },
+    {
+      "name": "Geeta",
+      "set": "Obsidian Flames",
+      "img": "https://den-cards.pokellector.com/373/Geeta.OBF.226.49020.png",
+      "rarity": "Special Illustration Rare",
+      "cardNum": "226/197"
+    },
+    {
+      "name": "Poppy",
+      "set": "Obsidian Flames",
+      "img": "https://den-cards.pokellector.com/373/Poppy.OBF.227.49021.png",
+      "rarity": "Special Illustration Rare",
+      "cardNum": "227/197"
+    },
+    {
+      "name": "Charizard ex",
+      "set": "Obsidian Flames",
+      "img": "https://den-cards.pokellector.com/373/Charizard-ex.OBF.228.48554.png",
+      "rarity": "Hyper Rare",
+      "cardNum": "228/197"
+    },
+    {
+      "name": "Artazon",
+      "set": "Obsidian Flames",
+      "img": "https://den-cards.pokellector.com/373/Artazon.OBF.229.49022.png",
+      "rarity": "Hyper Rare",
+      "cardNum": "229/197"
+    },
+    {
+      "name": "Basic Fire Energy",
+      "set": "Obsidian Flames",
+      "img": "https://den-cards.pokellector.com/373/Basic-Fire-Energy.OBF.230.49023.png",
+      "rarity": "Hyper Rare",
+      "cardNum": "230/197"
+    }
+  ]
+}

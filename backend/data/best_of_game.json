@@ -1,0 +1,68 @@
+{
+  "setName": "Best of Game",
+  "cards": [
+    {
+      "name": "Electabuzz",
+      "set": "Best of Game",
+      "img": "https://den-cards.pokellector.com/196/Electabuzz.BEST.1.12946.png",
+      "rarity": "Common",
+      "cardNum": "1/9"
+    },
+    {
+      "name": "Hitmonchan",
+      "set": "Best of Game",
+      "img": "https://den-cards.pokellector.com/196/Hitmonchan.BEST.2.12947.png",
+      "rarity": "Common",
+      "cardNum": "2/9"
+    },
+    {
+      "name": "Professor Elm",
+      "set": "Best of Game",
+      "img": "https://den-cards.pokellector.com/196/Professor-Elm.BEST.3.12948.png",
+      "rarity": "Common",
+      "cardNum": "3/9"
+    },
+    {
+      "name": "Rocket's Scizor",
+      "set": "Best of Game",
+      "img": "https://den-cards.pokellector.com/196/Rockets-Scizor.BEST.4.12949.png",
+      "rarity": "Common",
+      "cardNum": "4/9"
+    },
+    {
+      "name": "Rocket's Sneasel",
+      "set": "Best of Game",
+      "img": "https://den-cards.pokellector.com/196/Rockets-Sneasel.BEST.5.12950.png",
+      "rarity": "Common",
+      "cardNum": "5/9"
+    },
+    {
+      "name": "Dark Ivysaur",
+      "set": "Best of Game",
+      "img": "https://den-cards.pokellector.com/196/Dark-Ivysaur.BEST.6.12951.png",
+      "rarity": "Common",
+      "cardNum": "6/9"
+    },
+    {
+      "name": "Dark Venusaur",
+      "set": "Best of Game",
+      "img": "https://den-cards.pokellector.com/196/Dark-Venusaur.BEST.7.png",
+      "rarity": "Common",
+      "cardNum": "7/9"
+    },
+    {
+      "name": "Rocket's Mewtwo",
+      "set": "Best of Game",
+      "img": "https://den-cards.pokellector.com/196/Rockets-Mewtwo.BEST.8.12953.png",
+      "rarity": "Common",
+      "cardNum": "8/9"
+    },
+    {
+      "name": "Rocket's Hitmonchan",
+      "set": "Best of Game",
+      "img": "https://den-cards.pokellector.com/196/Rockets-Hitmonchan.BEST.9.12954.png",
+      "rarity": "Common",
+      "cardNum": "9/9"
+    }
+  ]
+}

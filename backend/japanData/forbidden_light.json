@@ -1,0 +1,775 @@
+{
+  "setName": "Forbidden Light",
+  "cards": [
+    {
+      "name": "Exeggcute",
+      "set": "Forbidden Light",
+      "img": "https://den-cards.pokellector.com/235/Exeggcute.SM6.1.20488.png",
+      "rarity": "Common",
+      "cardNum": "1/94"
+    },
+    {
+      "name": "Alolan Exeggutor",
+      "set": "Forbidden Light",
+      "img": "https://den-cards.pokellector.com/235/Alolan-Exeggutor.SM6.2.20489.png",
+      "rarity": "Rare",
+      "cardNum": "2/94"
+    },
+    {
+      "name": "Scatterbug",
+      "set": "Forbidden Light",
+      "img": "https://den-cards.pokellector.com/235/Scatterbug.SM6.3.20490.png",
+      "rarity": "Common",
+      "cardNum": "3/94"
+    },
+    {
+      "name": "Scatterbug",
+      "set": "Forbidden Light",
+      "img": "https://den-cards.pokellector.com/235/Scatterbug.SM6.4.20491.png",
+      "rarity": "Common",
+      "cardNum": "4/94"
+    },
+    {
+      "name": "Spewpa",
+      "set": "Forbidden Light",
+      "img": "https://den-cards.pokellector.com/235/Spewpa.SM6.5.20492.png",
+      "rarity": "Common",
+      "cardNum": "5/94"
+    },
+    {
+      "name": "Vivillon",
+      "set": "Forbidden Light",
+      "img": "https://den-cards.pokellector.com/235/Vivillon.SM6.6.20493.png",
+      "rarity": "Common",
+      "cardNum": "6/94"
+    },
+    {
+      "name": "Skiddo",
+      "set": "Forbidden Light",
+      "img": "https://den-cards.pokellector.com/235/Skiddo.SM6.7.20494.png",
+      "rarity": "Common",
+      "cardNum": "7/94"
+    },
+    {
+      "name": "Gogoat",
+      "set": "Forbidden Light",
+      "img": "https://den-cards.pokellector.com/235/Gogoat.SM6.8.20495.png",
+      "rarity": "Common",
+      "cardNum": "8/94"
+    },
+    {
+      "name": "Pheromosa",
+      "set": "Forbidden Light",
+      "img": "https://den-cards.pokellector.com/235/Pheromosa.SM6.9.20496.png",
+      "rarity": "Rare",
+      "cardNum": "9/94"
+    },
+    {
+      "name": "Alolan Marowak",
+      "set": "Forbidden Light",
+      "img": "https://den-cards.pokellector.com/235/Alolan-Marowak.SM6.10.20451.png",
+      "rarity": "Uncommon",
+      "cardNum": "10/94"
+    },
+    {
+      "name": "Fennekin",
+      "set": "Forbidden Light",
+      "img": "https://den-cards.pokellector.com/235/Fennekin.SM6.11.20442.png",
+      "rarity": "Common",
+      "cardNum": "11/94"
+    },
+    {
+      "name": "Fennekin",
+      "set": "Forbidden Light",
+      "img": "https://den-cards.pokellector.com/235/Fennekin.SM6.12.20443.png",
+      "rarity": "Common",
+      "cardNum": "12/94"
+    },
+    {
+      "name": "Braixen",
+      "set": "Forbidden Light",
+      "img": "https://den-cards.pokellector.com/235/Braixen.SM6.13.20457.png",
+      "rarity": "Common",
+      "cardNum": "13/94"
+    },
+    {
+      "name": "Delphox",
+      "set": "Forbidden Light",
+      "img": "https://den-cards.pokellector.com/235/Delphox.SM6.14.20458.png",
+      "rarity": "Rare",
+      "cardNum": "14/94"
+    },
+    {
+      "name": "Litleo",
+      "set": "Forbidden Light",
+      "img": "https://den-cards.pokellector.com/235/Litleo.SM6.15.20497.png",
+      "rarity": "Common",
+      "cardNum": "15/94"
+    },
+    {
+      "name": "Pyroar",
+      "set": "Forbidden Light",
+      "img": "https://den-cards.pokellector.com/235/Pyroar.SM6.16.20448.png",
+      "rarity": "Rare",
+      "cardNum": "16/94"
+    },
+    {
+      "name": "Froakie",
+      "set": "Forbidden Light",
+      "img": "https://den-cards.pokellector.com/235/Froakie.SM6.17.20446.png",
+      "rarity": "Common",
+      "cardNum": "17/94"
+    },
+    {
+      "name": "Froakie",
+      "set": "Forbidden Light",
+      "img": "https://den-cards.pokellector.com/235/Froakie.SM6.18.20447.png",
+      "rarity": "Common",
+      "cardNum": "18/94"
+    },
+    {
+      "name": "Frogadier",
+      "set": "Forbidden Light",
+      "img": "https://den-cards.pokellector.com/235/Frogadier.SM6.19.20454.png",
+      "rarity": "Common",
+      "cardNum": "19/94"
+    },
+    {
+      "name": "Greninja GX",
+      "set": "Forbidden Light",
+      "img": "https://den-cards.pokellector.com/235/Greninja-GX.SM6.20.20484.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "20/94"
+    },
+    {
+      "name": "Clauncher",
+      "set": "Forbidden Light",
+      "img": "https://den-cards.pokellector.com/235/Clauncher.SM6.21.20498.png",
+      "rarity": "Common",
+      "cardNum": "21/94"
+    },
+    {
+      "name": "Clawitzer",
+      "set": "Forbidden Light",
+      "img": "https://den-cards.pokellector.com/235/Clawitzer.SM6.22.20499.png",
+      "rarity": "Uncommon",
+      "cardNum": "22/94"
+    },
+    {
+      "name": "Amaura",
+      "set": "Forbidden Light",
+      "img": "https://den-cards.pokellector.com/235/Amaura.SM6.23.20500.png",
+      "rarity": "Uncommon",
+      "cardNum": "23/94"
+    },
+    {
+      "name": "Aurorus",
+      "set": "Forbidden Light",
+      "img": "https://den-cards.pokellector.com/235/Aurorus.SM6.24.20501.png",
+      "rarity": "Rare",
+      "cardNum": "24/94"
+    },
+    {
+      "name": "Bergmite",
+      "set": "Forbidden Light",
+      "img": "https://den-cards.pokellector.com/235/Bergmite.SM6.25.20502.png",
+      "rarity": "Common",
+      "cardNum": "25/94"
+    },
+    {
+      "name": "Avalugg",
+      "set": "Forbidden Light",
+      "img": "https://den-cards.pokellector.com/235/Avalugg.SM6.26.20503.png",
+      "rarity": "Common",
+      "cardNum": "26/94"
+    },
+    {
+      "name": "Volcanion Prism Star",
+      "set": "Forbidden Light",
+      "img": "https://den-cards.pokellector.com/235/Volcanion-Prism-Star.SM6.27.20482.png",
+      "rarity": "Prism Star",
+      "cardNum": "27/94"
+    },
+    {
+      "name": "Helioptile",
+      "set": "Forbidden Light",
+      "img": "https://den-cards.pokellector.com/235/Helioptile.SM6.28.20504.png",
+      "rarity": "Common",
+      "cardNum": "28/94"
+    },
+    {
+      "name": "Heliolisk",
+      "set": "Forbidden Light",
+      "img": "https://den-cards.pokellector.com/235/Heliolisk.SM6.29.20505.png",
+      "rarity": "Common",
+      "cardNum": "29/94"
+    },
+    {
+      "name": "Espurr",
+      "set": "Forbidden Light",
+      "img": "https://den-cards.pokellector.com/235/Espurr.SM6.30.20473.png",
+      "rarity": "Common",
+      "cardNum": "30/94"
+    },
+    {
+      "name": "Meowstic",
+      "set": "Forbidden Light",
+      "img": "https://den-cards.pokellector.com/235/Meowstic.SM6.31.20474.png",
+      "rarity": "Common",
+      "cardNum": "31/94"
+    },
+    {
+      "name": "Honedge",
+      "set": "Forbidden Light",
+      "img": "https://den-cards.pokellector.com/235/Honedge.SM6.32.20506.png",
+      "rarity": "Common",
+      "cardNum": "32/94"
+    },
+    {
+      "name": "Honedge",
+      "set": "Forbidden Light",
+      "img": "https://den-cards.pokellector.com/235/Honedge.SM6.33.20507.png",
+      "rarity": "Common",
+      "cardNum": "33/94"
+    },
+    {
+      "name": "Doublade",
+      "set": "Forbidden Light",
+      "img": "https://den-cards.pokellector.com/235/Doublade.SM6.34.20508.png",
+      "rarity": "Common",
+      "cardNum": "34/94"
+    },
+    {
+      "name": "Aegislash",
+      "set": "Forbidden Light",
+      "img": "https://den-cards.pokellector.com/235/Aegislash.SM6.35.20485.png",
+      "rarity": "Uncommon",
+      "cardNum": "35/94"
+    },
+    {
+      "name": "Inkay",
+      "set": "Forbidden Light",
+      "img": "https://den-cards.pokellector.com/235/Inkay.SM6.36.20509.png",
+      "rarity": "Common",
+      "cardNum": "36/94"
+    },
+    {
+      "name": "Malamar",
+      "set": "Forbidden Light",
+      "img": "https://den-cards.pokellector.com/235/Malamar.SM6.37.20420.png",
+      "rarity": "Uncommon",
+      "cardNum": "37/94"
+    },
+    {
+      "name": "Skrelp",
+      "set": "Forbidden Light",
+      "img": "https://den-cards.pokellector.com/235/Skrelp.SM6.38.20510.png",
+      "rarity": "Common",
+      "cardNum": "38/94"
+    },
+    {
+      "name": "Dragalge",
+      "set": "Forbidden Light",
+      "img": "https://den-cards.pokellector.com/235/Dragalge.SM6.39.20511.png",
+      "rarity": "Common",
+      "cardNum": "39/94"
+    },
+    {
+      "name": "Hoopa",
+      "set": "Forbidden Light",
+      "img": "https://den-cards.pokellector.com/235/Hoopa.SM6.40.20475.png",
+      "rarity": "Common",
+      "cardNum": "40/94"
+    },
+    {
+      "name": "Cubone",
+      "set": "Forbidden Light",
+      "img": "https://den-cards.pokellector.com/235/Cubone.SM6.41.20450.png",
+      "rarity": "Common",
+      "cardNum": "41/94"
+    },
+    {
+      "name": "Pancham",
+      "set": "Forbidden Light",
+      "img": "https://den-cards.pokellector.com/235/Pancham.SM6.42.20459.png",
+      "rarity": "Common",
+      "cardNum": "42/94"
+    },
+    {
+      "name": "Binacle",
+      "set": "Forbidden Light",
+      "img": "https://den-cards.pokellector.com/235/Binacle.SM6.43.20512.png",
+      "rarity": "Common",
+      "cardNum": "43/94"
+    },
+    {
+      "name": "Barbaracle",
+      "set": "Forbidden Light",
+      "img": "https://den-cards.pokellector.com/235/Barbaracle.SM6.44.20513.png",
+      "rarity": "Uncommon",
+      "cardNum": "44/94"
+    },
+    {
+      "name": "Tyrunt",
+      "set": "Forbidden Light",
+      "img": "https://den-cards.pokellector.com/235/Tyrunt.SM6.45.20514.png",
+      "rarity": "Uncommon",
+      "cardNum": "45/94"
+    },
+    {
+      "name": "Tyrantrum",
+      "set": "Forbidden Light",
+      "img": "https://den-cards.pokellector.com/235/Tyrantrum.SM6.46.20515.png",
+      "rarity": "Rare",
+      "cardNum": "46/94"
+    },
+    {
+      "name": "Hawlucha",
+      "set": "Forbidden Light",
+      "img": "https://den-cards.pokellector.com/235/Hawlucha.SM6.47.20516.png",
+      "rarity": "Common",
+      "cardNum": "47/94"
+    },
+    {
+      "name": "Zygarde",
+      "set": "Forbidden Light",
+      "img": "https://den-cards.pokellector.com/235/Zygarde.SM6.48.20517.png",
+      "rarity": "Common",
+      "cardNum": "48/94"
+    },
+    {
+      "name": "Zygarde",
+      "set": "Forbidden Light",
+      "img": "https://den-cards.pokellector.com/235/Zygarde.SM6.49.20518.png",
+      "rarity": "Uncommon",
+      "cardNum": "49/94"
+    },
+    {
+      "name": "Zygarde GX",
+      "set": "Forbidden Light",
+      "img": "https://den-cards.pokellector.com/235/Zygarde-GX.SM6.50.20421.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "50/94"
+    },
+    {
+      "name": "Diancie Prism Star",
+      "set": "Forbidden Light",
+      "img": "https://den-cards.pokellector.com/235/Diancie-Prism-Star.SM6.51.20422.png",
+      "rarity": "Prism Star",
+      "cardNum": "51/94"
+    },
+    {
+      "name": "Rockruff",
+      "set": "Forbidden Light",
+      "img": "https://den-cards.pokellector.com/235/Rockruff.SM6.52.20479.png",
+      "rarity": "Common",
+      "cardNum": "52/94"
+    },
+    {
+      "name": "Lycanroc",
+      "set": "Forbidden Light",
+      "img": "https://den-cards.pokellector.com/235/Lycanroc.SM6.53.20480.png",
+      "rarity": "Rare",
+      "cardNum": "53/94"
+    },
+    {
+      "name": "Pangoro",
+      "set": "Forbidden Light",
+      "img": "https://den-cards.pokellector.com/235/Pangoro.SM6.54.20460.png",
+      "rarity": "Uncommon",
+      "cardNum": "54/94"
+    },
+    {
+      "name": "Yveltal GX",
+      "set": "Forbidden Light",
+      "img": "https://den-cards.pokellector.com/235/Yveltal-GX.SM6.55.20469.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "55/94"
+    },
+    {
+      "name": "Guzzlord",
+      "set": "Forbidden Light",
+      "img": "https://den-cards.pokellector.com/235/Guzzlord.SM6.56.20519.png",
+      "rarity": "Rare",
+      "cardNum": "56/94"
+    },
+    {
+      "name": "Flabébé",
+      "set": "Forbidden Light",
+      "img": "https://den-cards.pokellector.com/235/Flabeacutebeacute.SM6.57.20520.png",
+      "rarity": "Common",
+      "cardNum": "57/94"
+    },
+    {
+      "name": "Flabébé",
+      "set": "Forbidden Light",
+      "img": "https://den-cards.pokellector.com/235/Flabeacutebeacute.SM6.58.20521.png",
+      "rarity": "Common",
+      "cardNum": "58/94"
+    },
+    {
+      "name": "Floette",
+      "set": "Forbidden Light",
+      "img": "https://den-cards.pokellector.com/235/Floette.SM6.59.20522.png",
+      "rarity": "Common",
+      "cardNum": "59/94"
+    },
+    {
+      "name": "Florges",
+      "set": "Forbidden Light",
+      "img": "https://den-cards.pokellector.com/235/Florges.SM6.60.20523.png",
+      "rarity": "Uncommon",
+      "cardNum": "60/94"
+    },
+    {
+      "name": "Sylveon",
+      "set": "Forbidden Light",
+      "img": "https://den-cards.pokellector.com/235/Sylveon.SM6.61.20456.png",
+      "rarity": "Uncommon",
+      "cardNum": "61/94"
+    },
+    {
+      "name": "Dedenne",
+      "set": "Forbidden Light",
+      "img": "https://den-cards.pokellector.com/235/Dedenne.SM6.62.20444.png",
+      "rarity": "Common",
+      "cardNum": "62/94"
+    },
+    {
+      "name": "Klefki",
+      "set": "Forbidden Light",
+      "img": "https://den-cards.pokellector.com/235/Klefki.SM6.63.20524.png",
+      "rarity": "Common",
+      "cardNum": "63/94"
+    },
+    {
+      "name": "Xerneas GX",
+      "set": "Forbidden Light",
+      "img": "https://den-cards.pokellector.com/235/Xerneas-GX.SM6.64.20472.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "64/94"
+    },
+    {
+      "name": "Goomy",
+      "set": "Forbidden Light",
+      "img": "https://den-cards.pokellector.com/235/Goomy.SM6.65.20525.png",
+      "rarity": "Common",
+      "cardNum": "65/94"
+    },
+    {
+      "name": "Goomy",
+      "set": "Forbidden Light",
+      "img": "https://den-cards.pokellector.com/235/Goomy.SM6.66.20526.png",
+      "rarity": "Common",
+      "cardNum": "66/94"
+    },
+    {
+      "name": "Sliggoo",
+      "set": "Forbidden Light",
+      "img": "https://den-cards.pokellector.com/235/Sliggoo.SM6.67.20527.png",
+      "rarity": "Common",
+      "cardNum": "67/94"
+    },
+    {
+      "name": "Goodra",
+      "set": "Forbidden Light",
+      "img": "https://den-cards.pokellector.com/235/Goodra.SM6.68.20478.png",
+      "rarity": "Rare",
+      "cardNum": "68/94"
+    },
+    {
+      "name": "Ultra Necrozma GX",
+      "set": "Forbidden Light",
+      "img": "https://den-cards.pokellector.com/235/Ultra-Necrozma-GX.SM6.69.20068.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "69/94"
+    },
+    {
+      "name": "Eevee",
+      "set": "Forbidden Light",
+      "img": "https://den-cards.pokellector.com/235/Eevee.SM6.70.20455.png",
+      "rarity": "Common",
+      "cardNum": "70/94"
+    },
+    {
+      "name": "Bunnelby",
+      "set": "Forbidden Light",
+      "img": "https://den-cards.pokellector.com/235/Bunnelby.SM6.71.20528.png",
+      "rarity": "Common",
+      "cardNum": "71/94"
+    },
+    {
+      "name": "Diggersby",
+      "set": "Forbidden Light",
+      "img": "https://den-cards.pokellector.com/235/Diggersby.SM6.72.20529.png",
+      "rarity": "Common",
+      "cardNum": "72/94"
+    },
+    {
+      "name": "Furfrou",
+      "set": "Forbidden Light",
+      "img": "https://den-cards.pokellector.com/235/Furfrou.SM6.73.20530.png",
+      "rarity": "Common",
+      "cardNum": "73/94"
+    },
+    {
+      "name": "Noibat",
+      "set": "Forbidden Light",
+      "img": "https://den-cards.pokellector.com/235/Noibat.SM6.74.20531.png",
+      "rarity": "Common",
+      "cardNum": "74/94"
+    },
+    {
+      "name": "Noivern",
+      "set": "Forbidden Light",
+      "img": "https://den-cards.pokellector.com/235/Noivern.SM6.75.20532.png",
+      "rarity": "Uncommon",
+      "cardNum": "75/94"
+    },
+    {
+      "name": "Eneporter",
+      "set": "Forbidden Light",
+      "img": "https://den-cards.pokellector.com/235/Eneporter.SM6.76.20533.png",
+      "rarity": "Uncommon",
+      "cardNum": "76/94"
+    },
+    {
+      "name": "Fossil Excavation Map",
+      "set": "Forbidden Light",
+      "img": "https://den-cards.pokellector.com/235/Fossil-Excavation-Map.SM6.77.20445.png",
+      "rarity": "Uncommon",
+      "cardNum": "77/94"
+    },
+    {
+      "name": "Unidentified Fossil",
+      "set": "Forbidden Light",
+      "img": "https://den-cards.pokellector.com/235/Unidentified-Fossil.SM6.78.20534.png",
+      "rarity": "Common",
+      "cardNum": "78/94"
+    },
+    {
+      "name": "Ultra Ball",
+      "set": "Forbidden Light",
+      "img": "https://den-cards.pokellector.com/235/Rare-Candy.SM6.79.20535.png",
+      "rarity": "Uncommon",
+      "cardNum": "79/94"
+    },
+    {
+      "name": "Rare Candy",
+      "set": "Forbidden Light",
+      "img": "https://den-cards.pokellector.com/235/Ultra-Ball.SM6.80.20536.png",
+      "rarity": "Common",
+      "cardNum": "80/94"
+    },
+    {
+      "name": "Switch",
+      "set": "Forbidden Light",
+      "img": "https://den-cards.pokellector.com/235/Switch.SM6.81.20537.png",
+      "rarity": "Common",
+      "cardNum": "81/94"
+    },
+    {
+      "name": "Pokemon Catcher",
+      "set": "Forbidden Light",
+      "img": "https://den-cards.pokellector.com/235/Pokemon-Catcher.SM6.82.20487.png",
+      "rarity": "Uncommon",
+      "cardNum": "82/94"
+    },
+    {
+      "name": "Mystery Treasure",
+      "set": "Forbidden Light",
+      "img": "https://den-cards.pokellector.com/235/Mystery-Treasure.SM6.83.20069.png",
+      "rarity": "Uncommon",
+      "cardNum": "83/94"
+    },
+    {
+      "name": "Choice Band",
+      "set": "Forbidden Light",
+      "img": "https://den-cards.pokellector.com/235/Choice-Band.SM6.84.20538.png",
+      "rarity": "Common",
+      "cardNum": "84/94"
+    },
+    {
+      "name": "Lady",
+      "set": "Forbidden Light",
+      "img": "https://den-cards.pokellector.com/235/Lady.SM6.85.20462.png",
+      "rarity": "Uncommon",
+      "cardNum": "85/94"
+    },
+    {
+      "name": "Diantha",
+      "set": "Forbidden Light",
+      "img": "https://den-cards.pokellector.com/235/Diantha.SM6.86.20461.png",
+      "rarity": "Rare",
+      "cardNum": "86/94"
+    },
+    {
+      "name": "Judge",
+      "set": "Forbidden Light",
+      "img": "https://den-cards.pokellector.com/235/Judge.SM6.87.20539.png",
+      "rarity": "Uncommon",
+      "cardNum": "87/94"
+    },
+    {
+      "name": "Hau",
+      "set": "Forbidden Light",
+      "img": "https://den-cards.pokellector.com/235/Hau.SM6.88.20540.png",
+      "rarity": "Common",
+      "cardNum": "88/94"
+    },
+    {
+      "name": "Lysandre Prism Star",
+      "set": "Forbidden Light",
+      "img": "https://den-cards.pokellector.com/235/Lysandre-Prism-Star.SM6.89.20481.png",
+      "rarity": "Prism Star",
+      "cardNum": "89/94"
+    },
+    {
+      "name": "Bonnie",
+      "set": "Forbidden Light",
+      "img": "https://den-cards.pokellector.com/235/Bonnie.SM6.90.20423.png",
+      "rarity": "Uncommon",
+      "cardNum": "90/94"
+    },
+    {
+      "name": "Lillie",
+      "set": "Forbidden Light",
+      "img": "https://den-cards.pokellector.com/235/Lillie.SM6.91.20541.png",
+      "rarity": "Common",
+      "cardNum": "91/94"
+    },
+    {
+      "name": "Lysandre Labs",
+      "set": "Forbidden Light",
+      "img": "https://den-cards.pokellector.com/235/Lysandre-Labs.SM6.92.20449.png",
+      "rarity": "Uncommon",
+      "cardNum": "92/94"
+    },
+    {
+      "name": "Double Colorless Energy",
+      "set": "Forbidden Light",
+      "img": "https://den-cards.pokellector.com/235/Double-Colorless-Energy.SM6.93.20542.png",
+      "rarity": "Common",
+      "cardNum": "93/94"
+    },
+    {
+      "name": "Unit Energy",
+      "set": "Forbidden Light",
+      "img": "https://den-cards.pokellector.com/235/Unit-Energy.SM6.94.20543.png",
+      "rarity": "Uncommon",
+      "cardNum": "94/94"
+    },
+    {
+      "name": "Greninja GX",
+      "set": "Forbidden Light",
+      "img": "https://den-cards.pokellector.com/235/Greninja-GX.SM6.95.20544.png",
+      "rarity": "Secret Rare",
+      "cardNum": "95/94"
+    },
+    {
+      "name": "Zygarde GX",
+      "set": "Forbidden Light",
+      "img": "https://den-cards.pokellector.com/235/Zygarde-GX.SM6.96.20546.png",
+      "rarity": "Secret Rare",
+      "cardNum": "96/94"
+    },
+    {
+      "name": "Yveltal GX",
+      "set": "Forbidden Light",
+      "img": "https://den-cards.pokellector.com/235/Yveltal-GX.SM6.97.20545.png",
+      "rarity": "Secret Rare",
+      "cardNum": "97/94"
+    },
+    {
+      "name": "Xerneas GX",
+      "set": "Forbidden Light",
+      "img": "https://den-cards.pokellector.com/235/Xerneas-GX.SM6.98.20547.png",
+      "rarity": "Secret Rare",
+      "cardNum": "98/94"
+    },
+    {
+      "name": "Ultra Necrozma GX",
+      "set": "Forbidden Light",
+      "img": "https://den-cards.pokellector.com/235/Ultra-Necrozma-GX.SM6.99.20548.png",
+      "rarity": "Secret Rare",
+      "cardNum": "99/94"
+    },
+    {
+      "name": "Lady",
+      "set": "Forbidden Light",
+      "img": "https://den-cards.pokellector.com/235/Lady.SM6.100.20470.png",
+      "rarity": "Secret Rare",
+      "cardNum": "100/94"
+    },
+    {
+      "name": "Diantha",
+      "set": "Forbidden Light",
+      "img": "https://den-cards.pokellector.com/235/Diantha.SM6.101.20477.png",
+      "rarity": "Secret Rare",
+      "cardNum": "101/94"
+    },
+    {
+      "name": "Bonnie",
+      "set": "Forbidden Light",
+      "img": "https://den-cards.pokellector.com/235/Bonnie.SM6.102.20549.png",
+      "rarity": "Secret Rare",
+      "cardNum": "102/94"
+    },
+    {
+      "name": "Greninja GX",
+      "set": "Forbidden Light",
+      "img": "https://den-cards.pokellector.com/235/Greninja-GX.SM6.103.20550.png",
+      "rarity": "Secret Rare",
+      "cardNum": "103/94"
+    },
+    {
+      "name": "Zygarde GX",
+      "set": "Forbidden Light",
+      "img": "https://den-cards.pokellector.com/235/Zygarde-GX.SM6.104.20552.png",
+      "rarity": "Secret Rare",
+      "cardNum": "104/94"
+    },
+    {
+      "name": "Yveltal GX",
+      "set": "Forbidden Light",
+      "img": "https://den-cards.pokellector.com/235/Yveltal-GX.SM6.105.20551.png",
+      "rarity": "Secret Rare",
+      "cardNum": "105/94"
+    },
+    {
+      "name": "Xerneas GX",
+      "set": "Forbidden Light",
+      "img": "https://den-cards.pokellector.com/235/Xerneas-GX.SM6.106.20553.png",
+      "rarity": "Secret Rare",
+      "cardNum": "106/94"
+    },
+    {
+      "name": "Ultra Necrozma GX",
+      "set": "Forbidden Light",
+      "img": "https://den-cards.pokellector.com/235/Ultra-Necrozma-GX.SM6.107.20554.png",
+      "rarity": "Secret Rare",
+      "cardNum": "107/94"
+    },
+    {
+      "name": "Eneporter",
+      "set": "Forbidden Light",
+      "img": "https://den-cards.pokellector.com/235/Eneporter.SM6.108.20555.png",
+      "rarity": "Secret Rare",
+      "cardNum": "108/94"
+    },
+    {
+      "name": "Mystery Treasure",
+      "set": "Forbidden Light",
+      "img": "https://den-cards.pokellector.com/235/Mystery-Treasure.SM6.109.20556.png",
+      "rarity": "Secret Rare",
+      "cardNum": "109/94"
+    },
+    {
+      "name": "Unit Energy",
+      "set": "Forbidden Light",
+      "img": "https://den-cards.pokellector.com/235/Unit-Energy.SM6.110.20557.png",
+      "rarity": "Secret Rare",
+      "cardNum": "110/94"
+    }
+  ]
+}

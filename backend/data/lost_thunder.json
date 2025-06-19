@@ -1,0 +1,1657 @@
+{
+  "setName": "Lost Thunder",
+  "cards": [
+    {
+      "name": "Tangela",
+      "set": "Lost Thunder",
+      "img": "https://den-cards.pokellector.com/259/Tangela.LOT.1.24585.png",
+      "rarity": "Common",
+      "cardNum": "1/214"
+    },
+    {
+      "name": "Tangrowth",
+      "set": "Lost Thunder",
+      "img": "https://den-cards.pokellector.com/259/Tangrowth.LOT.2.24586.png",
+      "rarity": "Rare",
+      "cardNum": "2/214"
+    },
+    {
+      "name": "Scyther",
+      "set": "Lost Thunder",
+      "img": "https://den-cards.pokellector.com/259/Scyther.LOT.3.24587.png",
+      "rarity": "Common",
+      "cardNum": "3/214"
+    },
+    {
+      "name": "Pinsir",
+      "set": "Lost Thunder",
+      "img": "https://den-cards.pokellector.com/259/Pinsir.LOT.4.24588.png",
+      "rarity": "Uncommon",
+      "cardNum": "4/214"
+    },
+    {
+      "name": "Chikorita",
+      "set": "Lost Thunder",
+      "img": "https://den-cards.pokellector.com/259/Chikorita.LOT.5.24589.png",
+      "rarity": "Common",
+      "cardNum": "5/214"
+    },
+    {
+      "name": "Chikorita",
+      "set": "Lost Thunder",
+      "img": "https://den-cards.pokellector.com/259/Chikorita.LOT.6.24590.png",
+      "rarity": "Common",
+      "cardNum": "6/214"
+    },
+    {
+      "name": "Bayleef",
+      "set": "Lost Thunder",
+      "img": "https://den-cards.pokellector.com/259/Bayleef.LOT.7.24591.png",
+      "rarity": "Uncommon",
+      "cardNum": "7/214"
+    },
+    {
+      "name": "Meganium",
+      "set": "Lost Thunder",
+      "img": "https://den-cards.pokellector.com/259/Meganium.LOT.8.24592.png",
+      "rarity": "Rare",
+      "cardNum": "8/214"
+    },
+    {
+      "name": "Spinarak",
+      "set": "Lost Thunder",
+      "img": "https://den-cards.pokellector.com/259/Spinarak.LOT.9.24593.png",
+      "rarity": "Common",
+      "cardNum": "9/214"
+    },
+    {
+      "name": "Ariados",
+      "set": "Lost Thunder",
+      "img": "https://den-cards.pokellector.com/259/Ariados.LOT.10.24594.png",
+      "rarity": "Uncommon",
+      "cardNum": "10/214"
+    },
+    {
+      "name": "Hoppip",
+      "set": "Lost Thunder",
+      "img": "https://den-cards.pokellector.com/259/Hoppip.LOT.11.24595.png",
+      "rarity": "Common",
+      "cardNum": "11/214"
+    },
+    {
+      "name": "Hoppip",
+      "set": "Lost Thunder",
+      "img": "https://den-cards.pokellector.com/259/Hoppip.LOT.12.24596.png",
+      "rarity": "Common",
+      "cardNum": "12/214"
+    },
+    {
+      "name": "Skiploom",
+      "set": "Lost Thunder",
+      "img": "https://den-cards.pokellector.com/259/Skiploom.LOT.13.24597.png",
+      "rarity": "Uncommon",
+      "cardNum": "13/214"
+    },
+    {
+      "name": "Jumpluff",
+      "set": "Lost Thunder",
+      "img": "https://den-cards.pokellector.com/259/Jumpluff.LOT.14.24386.png",
+      "rarity": "Rare",
+      "cardNum": "14/214"
+    },
+    {
+      "name": "Pineco",
+      "set": "Lost Thunder",
+      "img": "https://den-cards.pokellector.com/259/Pineco.LOT.15.24598.png",
+      "rarity": "Common",
+      "cardNum": "15/214"
+    },
+    {
+      "name": "Shuckle",
+      "set": "Lost Thunder",
+      "img": "https://den-cards.pokellector.com/259/Shuckle.LOT.16.24599.png",
+      "rarity": "Uncommon",
+      "cardNum": "16/214"
+    },
+    {
+      "name": "Shuckle GX",
+      "set": "Lost Thunder",
+      "img": "https://den-cards.pokellector.com/259/Shuckle-GX.LOT.17.24600.png",
+      "rarity": "Rare",
+      "cardNum": "17/214"
+    },
+    {
+      "name": "Heracross",
+      "set": "Lost Thunder",
+      "img": "https://den-cards.pokellector.com/259/Heracross.LOT.18.24601.png",
+      "rarity": "Uncommon",
+      "cardNum": "18/214"
+    },
+    {
+      "name": "Celebi Prism Star",
+      "set": "Lost Thunder",
+      "img": "https://den-cards.pokellector.com/259/Celebi.LOT.19.24602.png",
+      "rarity": "Rare",
+      "cardNum": "19/214"
+    },
+    {
+      "name": "Treecko",
+      "set": "Lost Thunder",
+      "img": "https://den-cards.pokellector.com/259/Treecko.LOT.20.24603.png",
+      "rarity": "Common",
+      "cardNum": "20/214"
+    },
+    {
+      "name": "Grovyle",
+      "set": "Lost Thunder",
+      "img": "https://den-cards.pokellector.com/259/Grovyle.LOT.21.24604.png",
+      "rarity": "Uncommon",
+      "cardNum": "21/214"
+    },
+    {
+      "name": "Sceptile GX",
+      "set": "Lost Thunder",
+      "img": "https://den-cards.pokellector.com/259/Sceptile-GX.LOT.22.24605.png",
+      "rarity": "Rare",
+      "cardNum": "22/214"
+    },
+    {
+      "name": "Wurmple",
+      "set": "Lost Thunder",
+      "img": "https://den-cards.pokellector.com/259/Wurmple.LOT.23.24606.png",
+      "rarity": "Common",
+      "cardNum": "23/214"
+    },
+    {
+      "name": "Wurmple",
+      "set": "Lost Thunder",
+      "img": "https://den-cards.pokellector.com/259/Wurmple.LOT.24.24607.png",
+      "rarity": "Common",
+      "cardNum": "24/214"
+    },
+    {
+      "name": "Silcoon",
+      "set": "Lost Thunder",
+      "img": "https://den-cards.pokellector.com/259/Silcoon.LOT.25.24608.png",
+      "rarity": "Uncommon",
+      "cardNum": "25/214"
+    },
+    {
+      "name": "Beautifly",
+      "set": "Lost Thunder",
+      "img": "https://den-cards.pokellector.com/259/Beautifly.LOT.26.24609.png",
+      "rarity": "Rare",
+      "cardNum": "26/214"
+    },
+    {
+      "name": "Cascoon",
+      "set": "Lost Thunder",
+      "img": "https://den-cards.pokellector.com/259/Cascoon.LOT.27.24610.png",
+      "rarity": "Uncommon",
+      "cardNum": "27/214"
+    },
+    {
+      "name": "Dustox",
+      "set": "Lost Thunder",
+      "img": "https://den-cards.pokellector.com/259/Dustox.LOT.28.24611.png",
+      "rarity": "Rare",
+      "cardNum": "28/214"
+    },
+    {
+      "name": "Nincada",
+      "set": "Lost Thunder",
+      "img": "https://den-cards.pokellector.com/259/Nincada.LOT.29.24612.png",
+      "rarity": "Common",
+      "cardNum": "29/214"
+    },
+    {
+      "name": "Ninjask",
+      "set": "Lost Thunder",
+      "img": "https://den-cards.pokellector.com/259/Ninjask.LOT.30.24613.png",
+      "rarity": "Uncommon",
+      "cardNum": "30/214"
+    },
+    {
+      "name": "Combee",
+      "set": "Lost Thunder",
+      "img": "https://den-cards.pokellector.com/259/Combee.LOT.31.24614.png",
+      "rarity": "Common",
+      "cardNum": "31/214"
+    },
+    {
+      "name": "Vespiquen",
+      "set": "Lost Thunder",
+      "img": "https://den-cards.pokellector.com/259/Vespiquen.LOT.32.24615.png",
+      "rarity": "Uncommon",
+      "cardNum": "32/214"
+    },
+    {
+      "name": "Shaymin",
+      "set": "Lost Thunder",
+      "img": "https://den-cards.pokellector.com/259/Shaymin.LOT.33.24616.png",
+      "rarity": "Rare",
+      "cardNum": "33/214"
+    },
+    {
+      "name": "Virizion GX",
+      "set": "Lost Thunder",
+      "img": "https://den-cards.pokellector.com/259/Virizion-GX.LOT.34.24617.png",
+      "rarity": "Rare",
+      "cardNum": "34/214"
+    },
+    {
+      "name": "Skiddo",
+      "set": "Lost Thunder",
+      "img": "https://den-cards.pokellector.com/259/Skiddo.LOT.35.24618.png",
+      "rarity": "Common",
+      "cardNum": "35/214"
+    },
+    {
+      "name": "Gogoat",
+      "set": "Lost Thunder",
+      "img": "https://den-cards.pokellector.com/259/Gogoat.LOT.36.24619.png",
+      "rarity": "Uncommon",
+      "cardNum": "36/214"
+    },
+    {
+      "name": "Tapu Bulu",
+      "set": "Lost Thunder",
+      "img": "https://den-cards.pokellector.com/259/Tapu-Bulu.LOT.37.24620.png",
+      "rarity": "Rare",
+      "cardNum": "37/214"
+    },
+    {
+      "name": "Moltres",
+      "set": "Lost Thunder",
+      "img": "https://den-cards.pokellector.com/259/Moltres.LOT.38.24621.png",
+      "rarity": "Rare",
+      "cardNum": "38/214"
+    },
+    {
+      "name": "Cyndaquil",
+      "set": "Lost Thunder",
+      "img": "https://den-cards.pokellector.com/259/Cyndaquil.LOT.39.24622.png",
+      "rarity": "Common",
+      "cardNum": "39/214"
+    },
+    {
+      "name": "Cyndaquil",
+      "set": "Lost Thunder",
+      "img": "https://den-cards.pokellector.com/259/Cyndaquil.LOT.40.24623.png",
+      "rarity": "Common",
+      "cardNum": "40/214"
+    },
+    {
+      "name": "Quilava",
+      "set": "Lost Thunder",
+      "img": "https://den-cards.pokellector.com/259/Quilava.LOT.41.24624.png",
+      "rarity": "Uncommon",
+      "cardNum": "41/214"
+    },
+    {
+      "name": "Typhlosion",
+      "set": "Lost Thunder",
+      "img": "https://den-cards.pokellector.com/259/Typhlosion.LOT.42.24625.png",
+      "rarity": "Rare",
+      "cardNum": "42/214"
+    },
+    {
+      "name": "Slugma",
+      "set": "Lost Thunder",
+      "img": "https://den-cards.pokellector.com/259/Slugma.LOT.43.24626.png",
+      "rarity": "Common",
+      "cardNum": "43/214"
+    },
+    {
+      "name": "Magcargo GX",
+      "set": "Lost Thunder",
+      "img": "https://den-cards.pokellector.com/259/Magcargo-GX.LOT.44.24627.png",
+      "rarity": "Rare",
+      "cardNum": "44/214"
+    },
+    {
+      "name": "Houndour",
+      "set": "Lost Thunder",
+      "img": "https://den-cards.pokellector.com/259/Houndour.LOT.45.24628.png",
+      "rarity": "Common",
+      "cardNum": "45/214"
+    },
+    {
+      "name": "Houndoom",
+      "set": "Lost Thunder",
+      "img": "https://den-cards.pokellector.com/259/Houndoom.LOT.46.24629.png",
+      "rarity": "Rare",
+      "cardNum": "46/214"
+    },
+    {
+      "name": "Entei",
+      "set": "Lost Thunder",
+      "img": "https://den-cards.pokellector.com/259/Entei.LOT.47.24630.png",
+      "rarity": "Rare",
+      "cardNum": "47/214"
+    },
+    {
+      "name": "Heatran",
+      "set": "Lost Thunder",
+      "img": "https://den-cards.pokellector.com/259/Heatran.LOT.48.24631.png",
+      "rarity": "Rare",
+      "cardNum": "48/214"
+    },
+    {
+      "name": "Victini",
+      "set": "Lost Thunder",
+      "img": "https://den-cards.pokellector.com/259/Victini.LOT.49.24632.png",
+      "rarity": "Rare",
+      "cardNum": "49/214"
+    },
+    {
+      "name": "Litleo",
+      "set": "Lost Thunder",
+      "img": "https://den-cards.pokellector.com/259/Litleo.LOT.50.24633.png",
+      "rarity": "Common",
+      "cardNum": "50/214"
+    },
+    {
+      "name": "Pyroar",
+      "set": "Lost Thunder",
+      "img": "https://den-cards.pokellector.com/259/Pyroar.LOT.51.24634.png",
+      "rarity": "Rare",
+      "cardNum": "51/214"
+    },
+    {
+      "name": "Blacephalon GX",
+      "set": "Lost Thunder",
+      "img": "https://den-cards.pokellector.com/259/Blacephalon-GX.LOT.52.24267.png",
+      "rarity": "Rare",
+      "cardNum": "52/214"
+    },
+    {
+      "name": "Alolan Vulpix",
+      "set": "Lost Thunder",
+      "img": "https://den-cards.pokellector.com/259/Alolan-Vulpix.LOT.53.24635.png",
+      "rarity": "Common",
+      "cardNum": "53/214"
+    },
+    {
+      "name": "Slowpoke",
+      "set": "Lost Thunder",
+      "img": "https://den-cards.pokellector.com/259/Slowpoke.LOT.54.24636.png",
+      "rarity": "Common",
+      "cardNum": "54/214"
+    },
+    {
+      "name": "Slowking",
+      "set": "Lost Thunder",
+      "img": "https://den-cards.pokellector.com/259/Slowking.LOT.55.24637.png",
+      "rarity": "Rare",
+      "cardNum": "55/214"
+    },
+    {
+      "name": "Lapras",
+      "set": "Lost Thunder",
+      "img": "https://den-cards.pokellector.com/259/Lapras.LOT.56.24638.png",
+      "rarity": "Rare",
+      "cardNum": "56/214"
+    },
+    {
+      "name": "Delibird",
+      "set": "Lost Thunder",
+      "img": "https://den-cards.pokellector.com/259/Delibird.LOT.57.24639.png",
+      "rarity": "Uncommon",
+      "cardNum": "57/214"
+    },
+    {
+      "name": "Mantine",
+      "set": "Lost Thunder",
+      "img": "https://den-cards.pokellector.com/259/Mantine.LOT.58.24640.png",
+      "rarity": "Uncommon",
+      "cardNum": "58/214"
+    },
+    {
+      "name": "Suicune",
+      "set": "Lost Thunder",
+      "img": "https://den-cards.pokellector.com/259/Suicune.LOT.59.24641.png",
+      "rarity": "Rare",
+      "cardNum": "59/214"
+    },
+    {
+      "name": "Suicune GX",
+      "set": "Lost Thunder",
+      "img": "https://den-cards.pokellector.com/259/Suicune-GX.LOT.60.24268.png",
+      "rarity": "Rare",
+      "cardNum": "60/214"
+    },
+    {
+      "name": "Cubchoo",
+      "set": "Lost Thunder",
+      "img": "https://den-cards.pokellector.com/259/Cubchoo.LOT.61.24642.png",
+      "rarity": "Common",
+      "cardNum": "61/214"
+    },
+    {
+      "name": "Beartic",
+      "set": "Lost Thunder",
+      "img": "https://den-cards.pokellector.com/259/Beartic.LOT.62.24643.png",
+      "rarity": "Rare",
+      "cardNum": "62/214"
+    },
+    {
+      "name": "White Kyurem",
+      "set": "Lost Thunder",
+      "img": "https://den-cards.pokellector.com/259/White-Kyurem.LOT.63.24644.png",
+      "rarity": "Rare",
+      "cardNum": "63/214"
+    },
+    {
+      "name": "Popplio",
+      "set": "Lost Thunder",
+      "img": "https://den-cards.pokellector.com/259/Popplio.LOT.64.24645.png",
+      "rarity": "Common",
+      "cardNum": "64/214"
+    },
+    {
+      "name": "Popplio",
+      "set": "Lost Thunder",
+      "img": "https://den-cards.pokellector.com/259/Popplio.LOT.65.24646.png",
+      "rarity": "Common",
+      "cardNum": "65/214"
+    },
+    {
+      "name": "Brionne",
+      "set": "Lost Thunder",
+      "img": "https://den-cards.pokellector.com/259/Brionne.LOT.66.24647.png",
+      "rarity": "Uncommon",
+      "cardNum": "66/214"
+    },
+    {
+      "name": "Primarina",
+      "set": "Lost Thunder",
+      "img": "https://den-cards.pokellector.com/259/Primarina.LOT.67.24648.png",
+      "rarity": "Rare",
+      "cardNum": "67/214"
+    },
+    {
+      "name": "Mareanie",
+      "set": "Lost Thunder",
+      "img": "https://den-cards.pokellector.com/259/Mareanie.LOT.68.24649.png",
+      "rarity": "Common",
+      "cardNum": "68/214"
+    },
+    {
+      "name": "Toxapex",
+      "set": "Lost Thunder",
+      "img": "https://den-cards.pokellector.com/259/Toxapex.LOT.69.24650.png",
+      "rarity": "Rare",
+      "cardNum": "69/214"
+    },
+    {
+      "name": "Bruxish",
+      "set": "Lost Thunder",
+      "img": "https://den-cards.pokellector.com/259/Bruxish.LOT.70.24651.png",
+      "rarity": "Common",
+      "cardNum": "70/214"
+    },
+    {
+      "name": "Electabuzz",
+      "set": "Lost Thunder",
+      "img": "https://den-cards.pokellector.com/259/Electabuzz.LOT.71.24652.png",
+      "rarity": "Uncommon",
+      "cardNum": "71/214"
+    },
+    {
+      "name": "Electivire",
+      "set": "Lost Thunder",
+      "img": "https://den-cards.pokellector.com/259/Electivire.LOT.72.24653.png",
+      "rarity": "Rare",
+      "cardNum": "72/214"
+    },
+    {
+      "name": "Chinchou",
+      "set": "Lost Thunder",
+      "img": "https://den-cards.pokellector.com/259/Chinchou.LOT.73.24654.png",
+      "rarity": "Common",
+      "cardNum": "73/214"
+    },
+    {
+      "name": "Lanturn",
+      "set": "Lost Thunder",
+      "img": "https://den-cards.pokellector.com/259/Lanturn.LOT.74.24655.png",
+      "rarity": "Rare",
+      "cardNum": "74/214"
+    },
+    {
+      "name": "Mareep",
+      "set": "Lost Thunder",
+      "img": "https://den-cards.pokellector.com/259/Mareep.LOT.75.24656.png",
+      "rarity": "Common",
+      "cardNum": "75/214"
+    },
+    {
+      "name": "Mareep",
+      "set": "Lost Thunder",
+      "img": "https://den-cards.pokellector.com/259/Mareep.LOT.76.24657.png",
+      "rarity": "Common",
+      "cardNum": "76/214"
+    },
+    {
+      "name": "Flaaffy",
+      "set": "Lost Thunder",
+      "img": "https://den-cards.pokellector.com/259/Flaaffy.LOT.77.24658.png",
+      "rarity": "Uncommon",
+      "cardNum": "77/214"
+    },
+    {
+      "name": "Ampharos",
+      "set": "Lost Thunder",
+      "img": "https://den-cards.pokellector.com/259/Ampharos.LOT.78.24659.png",
+      "rarity": "Rare",
+      "cardNum": "78/214"
+    },
+    {
+      "name": "Raikou",
+      "set": "Lost Thunder",
+      "img": "https://den-cards.pokellector.com/259/Raikou.LOT.79.24660.png",
+      "rarity": "Rare",
+      "cardNum": "79/214"
+    },
+    {
+      "name": "Pachirisu",
+      "set": "Lost Thunder",
+      "img": "https://den-cards.pokellector.com/259/Pachirisu.LOT.80.24661.png",
+      "rarity": "Common",
+      "cardNum": "80/214"
+    },
+    {
+      "name": "Blitzle",
+      "set": "Lost Thunder",
+      "img": "https://den-cards.pokellector.com/259/Blitzle.LOT.81.24662.png",
+      "rarity": "Common",
+      "cardNum": "81/214"
+    },
+    {
+      "name": "Zebstrika",
+      "set": "Lost Thunder",
+      "img": "https://den-cards.pokellector.com/259/Zebstrika.LOT.82.24663.png",
+      "rarity": "Rare",
+      "cardNum": "82/214"
+    },
+    {
+      "name": "Stunfisk",
+      "set": "Lost Thunder",
+      "img": "https://den-cards.pokellector.com/259/Stunfisk.LOT.83.24664.png",
+      "rarity": "Common",
+      "cardNum": "83/214"
+    },
+    {
+      "name": "Dedenne",
+      "set": "Lost Thunder",
+      "img": "https://den-cards.pokellector.com/259/Dedenne.LOT.84.24665.png",
+      "rarity": "Common",
+      "cardNum": "84/214"
+    },
+    {
+      "name": "Tapu Koko",
+      "set": "Lost Thunder",
+      "img": "https://den-cards.pokellector.com/259/Tapu-Koko.LOT.85.24666.png",
+      "rarity": "Rare",
+      "cardNum": "85/214"
+    },
+    {
+      "name": "Zeraora GX",
+      "set": "Lost Thunder",
+      "img": "https://den-cards.pokellector.com/259/Zeraora-GX.LOT.86.23832.png",
+      "rarity": "Rare",
+      "cardNum": "86/214"
+    },
+    {
+      "name": "Natu",
+      "set": "Lost Thunder",
+      "img": "https://den-cards.pokellector.com/259/Natu.LOT.87.24667.png",
+      "rarity": "Common",
+      "cardNum": "87/214"
+    },
+    {
+      "name": "Xatu",
+      "set": "Lost Thunder",
+      "img": "https://den-cards.pokellector.com/259/Xatu.LOT.88.24668.png",
+      "rarity": "Uncommon",
+      "cardNum": "88/214"
+    },
+    {
+      "name": "Espeon",
+      "set": "Lost Thunder",
+      "img": "https://den-cards.pokellector.com/259/Espeon.LOT.89.24669.png",
+      "rarity": "Rare",
+      "cardNum": "89/214"
+    },
+    {
+      "name": "Unown",
+      "set": "Lost Thunder",
+      "img": "https://den-cards.pokellector.com/259/Unown.LOT.90.24670.png",
+      "rarity": "Rare",
+      "cardNum": "90/214"
+    },
+    {
+      "name": "Unown",
+      "set": "Lost Thunder",
+      "img": "https://den-cards.pokellector.com/259/Unown.LOT.91.24671.png",
+      "rarity": "Rare",
+      "cardNum": "91/214"
+    },
+    {
+      "name": "Unown",
+      "set": "Lost Thunder",
+      "img": "https://den-cards.pokellector.com/259/Unown.LOT.92.24672.png",
+      "rarity": "Rare",
+      "cardNum": "92/214"
+    },
+    {
+      "name": "Wobbuffet",
+      "set": "Lost Thunder",
+      "img": "https://den-cards.pokellector.com/259/Wobbuffet.LOT.93.24673.png",
+      "rarity": "Rare",
+      "cardNum": "93/214"
+    },
+    {
+      "name": "Girafarig",
+      "set": "Lost Thunder",
+      "img": "https://den-cards.pokellector.com/259/Girafarig.LOT.94.24674.png",
+      "rarity": "Uncommon",
+      "cardNum": "94/214"
+    },
+    {
+      "name": "Shedinja",
+      "set": "Lost Thunder",
+      "img": "https://den-cards.pokellector.com/259/Shedinja.LOT.95.24675.png",
+      "rarity": "Rare",
+      "cardNum": "95/214"
+    },
+    {
+      "name": "Sableye",
+      "set": "Lost Thunder",
+      "img": "https://den-cards.pokellector.com/259/Sableye.LOT.96.24676.png",
+      "rarity": "Uncommon",
+      "cardNum": "96/214"
+    },
+    {
+      "name": "Giratina",
+      "set": "Lost Thunder",
+      "img": "https://den-cards.pokellector.com/259/Giratina.LOT.97.24677.png",
+      "rarity": "Rare",
+      "cardNum": "97/214"
+    },
+    {
+      "name": "Sigilyph GX",
+      "set": "Lost Thunder",
+      "img": "https://den-cards.pokellector.com/259/Sigilyph-GX.LOT.98.24678.png",
+      "rarity": "Rare",
+      "cardNum": "98/214"
+    },
+    {
+      "name": "Yamask",
+      "set": "Lost Thunder",
+      "img": "https://den-cards.pokellector.com/259/Yamask.LOT.99.24679.png",
+      "rarity": "Common",
+      "cardNum": "99/214"
+    },
+    {
+      "name": "Cofagrigus",
+      "set": "Lost Thunder",
+      "img": "https://den-cards.pokellector.com/259/Cofagrigus.LOT.100.24680.png",
+      "rarity": "Rare",
+      "cardNum": "100/214"
+    },
+    {
+      "name": "Litwick",
+      "set": "Lost Thunder",
+      "img": "https://den-cards.pokellector.com/259/Litwick.LOT.101.24681.png",
+      "rarity": "Common",
+      "cardNum": "101/214"
+    },
+    {
+      "name": "Lampent",
+      "set": "Lost Thunder",
+      "img": "https://den-cards.pokellector.com/259/Lampent.LOT.102.24682.png",
+      "rarity": "Uncommon",
+      "cardNum": "102/214"
+    },
+    {
+      "name": "Chandelure",
+      "set": "Lost Thunder",
+      "img": "https://den-cards.pokellector.com/259/Chandelure.LOT.103.24683.png",
+      "rarity": "Rare",
+      "cardNum": "103/214"
+    },
+    {
+      "name": "Meloetta",
+      "set": "Lost Thunder",
+      "img": "https://den-cards.pokellector.com/259/Meloetta.LOT.104.24684.png",
+      "rarity": "Rare",
+      "cardNum": "104/214"
+    },
+    {
+      "name": "Mareanie",
+      "set": "Lost Thunder",
+      "img": "https://den-cards.pokellector.com/259/Mareanie.LOT.105.24685.png",
+      "rarity": "Common",
+      "cardNum": "105/214"
+    },
+    {
+      "name": "Nihilego",
+      "set": "Lost Thunder",
+      "img": "https://den-cards.pokellector.com/259/Nihilego.LOT.106.24686.png",
+      "rarity": "Rare",
+      "cardNum": "106/214"
+    },
+    {
+      "name": "Poipole",
+      "set": "Lost Thunder",
+      "img": "https://den-cards.pokellector.com/259/Poipole.LOT.107.24687.png",
+      "rarity": "Common",
+      "cardNum": "107/214"
+    },
+    {
+      "name": "Naganadel",
+      "set": "Lost Thunder",
+      "img": "https://den-cards.pokellector.com/259/Naganadel.LOT.108.24688.png",
+      "rarity": "Rare",
+      "cardNum": "108/214"
+    },
+    {
+      "name": "Onix",
+      "set": "Lost Thunder",
+      "img": "https://den-cards.pokellector.com/259/Onix.LOT.109.24689.png",
+      "rarity": "Common",
+      "cardNum": "109/214"
+    },
+    {
+      "name": "Sudowoodo",
+      "set": "Lost Thunder",
+      "img": "https://den-cards.pokellector.com/259/Sudowoodo.LOT.110.24690.png",
+      "rarity": "Uncommon",
+      "cardNum": "110/214"
+    },
+    {
+      "name": "Phanpy",
+      "set": "Lost Thunder",
+      "img": "https://den-cards.pokellector.com/259/Phanpy.LOT.111.24691.png",
+      "rarity": "Common",
+      "cardNum": "111/214"
+    },
+    {
+      "name": "Donphan",
+      "set": "Lost Thunder",
+      "img": "https://den-cards.pokellector.com/259/Donphan.LOT.112.24692.png",
+      "rarity": "Rare",
+      "cardNum": "112/214"
+    },
+    {
+      "name": "Hitmontop",
+      "set": "Lost Thunder",
+      "img": "https://den-cards.pokellector.com/259/Hitmontop.LOT.113.24693.png",
+      "rarity": "Uncommon",
+      "cardNum": "113/214"
+    },
+    {
+      "name": "Larvitar",
+      "set": "Lost Thunder",
+      "img": "https://den-cards.pokellector.com/259/Larvitar.LOT.114.24694.png",
+      "rarity": "Common",
+      "cardNum": "114/214"
+    },
+    {
+      "name": "Larvitar",
+      "set": "Lost Thunder",
+      "img": "https://den-cards.pokellector.com/259/Larvitar.LOT.115.24695.png",
+      "rarity": "Common",
+      "cardNum": "115/214"
+    },
+    {
+      "name": "Pupitar",
+      "set": "Lost Thunder",
+      "img": "https://den-cards.pokellector.com/259/Pupitar.LOT.116.24696.png",
+      "rarity": "Uncommon",
+      "cardNum": "116/214"
+    },
+    {
+      "name": "Carbink",
+      "set": "Lost Thunder",
+      "img": "https://den-cards.pokellector.com/259/Carbink.LOT.117.24697.png",
+      "rarity": "Common",
+      "cardNum": "117/214"
+    },
+    {
+      "name": "Alolan Meowth",
+      "set": "Lost Thunder",
+      "img": "https://den-cards.pokellector.com/259/Alolan-Meowth.LOT.118.24698.png",
+      "rarity": "Common",
+      "cardNum": "118/214"
+    },
+    {
+      "name": "Alolan Persian",
+      "set": "Lost Thunder",
+      "img": "https://den-cards.pokellector.com/259/Alolan-Persian.LOT.119.24699.png",
+      "rarity": "Rare",
+      "cardNum": "119/214"
+    },
+    {
+      "name": "Umbreon",
+      "set": "Lost Thunder",
+      "img": "https://den-cards.pokellector.com/259/Umbreon.LOT.120.24700.png",
+      "rarity": "Rare",
+      "cardNum": "120/214"
+    },
+    {
+      "name": "Tyranitar GX",
+      "set": "Lost Thunder",
+      "img": "https://den-cards.pokellector.com/259/Tyranitar-GX.LOT.121.24389.png",
+      "rarity": "Rare",
+      "cardNum": "121/214"
+    },
+    {
+      "name": "Alolan Diglett",
+      "set": "Lost Thunder",
+      "img": "https://den-cards.pokellector.com/259/Alolan-Diglett.LOT.122.24701.png",
+      "rarity": "Common",
+      "cardNum": "122/214"
+    },
+    {
+      "name": "Alolan Dugtrio",
+      "set": "Lost Thunder",
+      "img": "https://den-cards.pokellector.com/259/Alolan-Dugtrio.LOT.123.24702.png",
+      "rarity": "Uncommon",
+      "cardNum": "123/214"
+    },
+    {
+      "name": "Forretress",
+      "set": "Lost Thunder",
+      "img": "https://den-cards.pokellector.com/259/Forretress.LOT.124.24703.png",
+      "rarity": "Rare",
+      "cardNum": "124/214"
+    },
+    {
+      "name": "Steelix",
+      "set": "Lost Thunder",
+      "img": "https://den-cards.pokellector.com/259/Steelix.LOT.125.24704.png",
+      "rarity": "Rare",
+      "cardNum": "125/214"
+    },
+    {
+      "name": "Scizor",
+      "set": "Lost Thunder",
+      "img": "https://den-cards.pokellector.com/259/Scizor.LOT.126.24705.png",
+      "rarity": "Rare",
+      "cardNum": "126/214"
+    },
+    {
+      "name": "Dialga",
+      "set": "Lost Thunder",
+      "img": "https://den-cards.pokellector.com/259/Dialga.LOT.127.24706.png",
+      "rarity": "Rare",
+      "cardNum": "127/214"
+    },
+    {
+      "name": "Durant",
+      "set": "Lost Thunder",
+      "img": "https://den-cards.pokellector.com/259/Durant.LOT.128.24707.png",
+      "rarity": "Common",
+      "cardNum": "128/214"
+    },
+    {
+      "name": "Cobalion",
+      "set": "Lost Thunder",
+      "img": "https://den-cards.pokellector.com/259/Cobalion.LOT.129.24708.png",
+      "rarity": "Rare",
+      "cardNum": "129/214"
+    },
+    {
+      "name": "Genesect GX",
+      "set": "Lost Thunder",
+      "img": "https://den-cards.pokellector.com/259/Genesect-GX.LOT.130.24385.png",
+      "rarity": "Rare",
+      "cardNum": "130/214"
+    },
+    {
+      "name": "Magearna",
+      "set": "Lost Thunder",
+      "img": "https://den-cards.pokellector.com/259/Magearna.LOT.131.24709.png",
+      "rarity": "Uncommon",
+      "cardNum": "131/214"
+    },
+    {
+      "name": "Alolan Ninetales GX",
+      "set": "Lost Thunder",
+      "img": "https://den-cards.pokellector.com/259/Alolan-Ninetales-GX.LOT.132.24583.png",
+      "rarity": "Rare",
+      "cardNum": "132/214"
+    },
+    {
+      "name": "Jigglypuff",
+      "set": "Lost Thunder",
+      "img": "https://den-cards.pokellector.com/259/Jigglypuff.LOT.133.24710.png",
+      "rarity": "Common",
+      "cardNum": "133/214"
+    },
+    {
+      "name": "Wigglytuff",
+      "set": "Lost Thunder",
+      "img": "https://den-cards.pokellector.com/259/Wigglytuff.LOT.134.24711.png",
+      "rarity": "Rare",
+      "cardNum": "134/214"
+    },
+    {
+      "name": "Marill",
+      "set": "Lost Thunder",
+      "img": "https://den-cards.pokellector.com/259/Marill.LOT.135.24712.png",
+      "rarity": "Common",
+      "cardNum": "135/214"
+    },
+    {
+      "name": "Azumarill",
+      "set": "Lost Thunder",
+      "img": "https://den-cards.pokellector.com/259/Azumarill.LOT.136.24713.png",
+      "rarity": "Rare",
+      "cardNum": "136/214"
+    },
+    {
+      "name": "Snubbull",
+      "set": "Lost Thunder",
+      "img": "https://den-cards.pokellector.com/259/Snubbull.LOT.137.24714.png",
+      "rarity": "Common",
+      "cardNum": "137/214"
+    },
+    {
+      "name": "Granbull",
+      "set": "Lost Thunder",
+      "img": "https://den-cards.pokellector.com/259/Granbull.LOT.138.24715.png",
+      "rarity": "Rare",
+      "cardNum": "138/214"
+    },
+    {
+      "name": "Ralts",
+      "set": "Lost Thunder",
+      "img": "https://den-cards.pokellector.com/259/Ralts.LOT.139.24716.png",
+      "rarity": "Common",
+      "cardNum": "139/214"
+    },
+    {
+      "name": "Kirlia",
+      "set": "Lost Thunder",
+      "img": "https://den-cards.pokellector.com/259/Kirlia.LOT.140.24717.png",
+      "rarity": "Uncommon",
+      "cardNum": "140/214"
+    },
+    {
+      "name": "Gardevoir",
+      "set": "Lost Thunder",
+      "img": "https://den-cards.pokellector.com/259/Gardevoir.LOT.141.24718.png",
+      "rarity": "Rare",
+      "cardNum": "141/214"
+    },
+    {
+      "name": "Dedenne",
+      "set": "Lost Thunder",
+      "img": "https://den-cards.pokellector.com/259/Dedenne.LOT.142.24719.png",
+      "rarity": "Uncommon",
+      "cardNum": "142/214"
+    },
+    {
+      "name": "Carbink",
+      "set": "Lost Thunder",
+      "img": "https://den-cards.pokellector.com/259/Carbink.LOT.143.24720.png",
+      "rarity": "Uncommon",
+      "cardNum": "143/214"
+    },
+    {
+      "name": "Xerneas",
+      "set": "Lost Thunder",
+      "img": "https://den-cards.pokellector.com/259/Xerneas.LOT.144.24721.png",
+      "rarity": "Rare",
+      "cardNum": "144/214"
+    },
+    {
+      "name": "Cutiefly",
+      "set": "Lost Thunder",
+      "img": "https://den-cards.pokellector.com/259/Cutiefly.LOT.145.24722.png",
+      "rarity": "Common",
+      "cardNum": "145/214"
+    },
+    {
+      "name": "Ribombee",
+      "set": "Lost Thunder",
+      "img": "https://den-cards.pokellector.com/259/Ribombee.LOT.146.24723.png",
+      "rarity": "Rare",
+      "cardNum": "146/214"
+    },
+    {
+      "name": "Morelull",
+      "set": "Lost Thunder",
+      "img": "https://den-cards.pokellector.com/259/Morelull.LOT.147.24724.png",
+      "rarity": "Common",
+      "cardNum": "147/214"
+    },
+    {
+      "name": "Shiinotic",
+      "set": "Lost Thunder",
+      "img": "https://den-cards.pokellector.com/259/Shiinotic.LOT.148.24725.png",
+      "rarity": "Uncommon",
+      "cardNum": "148/214"
+    },
+    {
+      "name": "Mimikyu GX",
+      "set": "Lost Thunder",
+      "img": "https://den-cards.pokellector.com/259/Mimikyu-GX.LOT.149.24726.png",
+      "rarity": "Rare",
+      "cardNum": "149/214"
+    },
+    {
+      "name": "Tapu Lele",
+      "set": "Lost Thunder",
+      "img": "https://den-cards.pokellector.com/259/Tapu-Lele.LOT.150.24727.png",
+      "rarity": "Rare",
+      "cardNum": "150/214"
+    },
+    {
+      "name": "Tapu Fini",
+      "set": "Lost Thunder",
+      "img": "https://den-cards.pokellector.com/259/Tapu-Fini.LOT.151.24728.png",
+      "rarity": "Rare",
+      "cardNum": "151/214"
+    },
+    {
+      "name": "Chansey",
+      "set": "Lost Thunder",
+      "img": "https://den-cards.pokellector.com/259/Chansey.LOT.152.24729.png",
+      "rarity": "Common",
+      "cardNum": "152/214"
+    },
+    {
+      "name": "Blissey",
+      "set": "Lost Thunder",
+      "img": "https://den-cards.pokellector.com/259/Blissey.LOT.153.24730.png",
+      "rarity": "Rare",
+      "cardNum": "153/214"
+    },
+    {
+      "name": "Ditto Prism Star",
+      "set": "Lost Thunder",
+      "img": "https://den-cards.pokellector.com/259/Ditto-Prism-Star.LOT.154.24584.png",
+      "rarity": "Prism Star",
+      "cardNum": "154/214"
+    },
+    {
+      "name": "Eevee",
+      "set": "Lost Thunder",
+      "img": "https://den-cards.pokellector.com/259/Eevee.LOT.155.24731.png",
+      "rarity": "Common",
+      "cardNum": "155/214"
+    },
+    {
+      "name": "Stantler",
+      "set": "Lost Thunder",
+      "img": "https://den-cards.pokellector.com/259/Stantler.LOT.156.24732.png",
+      "rarity": "Uncommon",
+      "cardNum": "156/214"
+    },
+    {
+      "name": "Smeargle",
+      "set": "Lost Thunder",
+      "img": "https://den-cards.pokellector.com/259/Smeargle.LOT.157.24733.png",
+      "rarity": "Rare",
+      "cardNum": "157/214"
+    },
+    {
+      "name": "Miltank",
+      "set": "Lost Thunder",
+      "img": "https://den-cards.pokellector.com/259/Miltank.LOT.158.24734.png",
+      "rarity": "Rare",
+      "cardNum": "158/214"
+    },
+    {
+      "name": "Lugia GX",
+      "set": "Lost Thunder",
+      "img": "https://den-cards.pokellector.com/259/Lugia-GX..159.24269.png",
+      "rarity": "Rare",
+      "cardNum": "159/214"
+    },
+    {
+      "name": "Ho-Oh",
+      "set": "Lost Thunder",
+      "img": "https://den-cards.pokellector.com/259/Ho-Oh.LOT.160.24735.png",
+      "rarity": "Rare",
+      "cardNum": "160/214"
+    },
+    {
+      "name": "Kecleon",
+      "set": "Lost Thunder",
+      "img": "https://den-cards.pokellector.com/259/Kecleon.LOT.161.24736.png",
+      "rarity": "Uncommon",
+      "cardNum": "161/214"
+    },
+    {
+      "name": "Kecleon",
+      "set": "Lost Thunder",
+      "img": "https://den-cards.pokellector.com/259/Kecleon.LOT.162.24737.png",
+      "rarity": "Uncommon",
+      "cardNum": "162/214"
+    },
+    {
+      "name": "Pikipek",
+      "set": "Lost Thunder",
+      "img": "https://den-cards.pokellector.com/259/Pikipek.LOT.163.24738.png",
+      "rarity": "Common",
+      "cardNum": "163/214"
+    },
+    {
+      "name": "Pikipek",
+      "set": "Lost Thunder",
+      "img": "https://den-cards.pokellector.com/259/Pikipek.LOT.164.24739.png",
+      "rarity": "Common",
+      "cardNum": "164/214"
+    },
+    {
+      "name": "Trumbeak",
+      "set": "Lost Thunder",
+      "img": "https://den-cards.pokellector.com/259/Trumbeak.LOT.165.24740.png",
+      "rarity": "Uncommon",
+      "cardNum": "165/214"
+    },
+    {
+      "name": "Toucannon",
+      "set": "Lost Thunder",
+      "img": "https://den-cards.pokellector.com/259/Toucannon.LOT.166.24741.png",
+      "rarity": "Rare",
+      "cardNum": "166/214"
+    },
+    {
+      "name": "Adventure Bag",
+      "set": "Lost Thunder",
+      "img": "https://den-cards.pokellector.com/259/Adventure-Bag.LOT.167.24742.png",
+      "rarity": "Uncommon",
+      "cardNum": "167/214"
+    },
+    {
+      "name": "Aether Foundation Employee",
+      "set": "Lost Thunder",
+      "img": "https://den-cards.pokellector.com/259/Aether-Foundation-Employee.LOT.168.24743.png",
+      "rarity": "Uncommon",
+      "cardNum": "168/214"
+    },
+    {
+      "name": "Choice Helmet",
+      "set": "Lost Thunder",
+      "img": "https://den-cards.pokellector.com/259/Choice-Helmet.LOT.169.24744.png",
+      "rarity": "Uncommon",
+      "cardNum": "169/214"
+    },
+    {
+      "name": "Counter Gain",
+      "set": "Lost Thunder",
+      "img": "https://den-cards.pokellector.com/259/Counter-Gain.LOT.170.24745.png",
+      "rarity": "Uncommon",
+      "cardNum": "170/214"
+    },
+    {
+      "name": "Custom Catcher",
+      "set": "Lost Thunder",
+      "img": "https://den-cards.pokellector.com/259/Custom-Catcher.LOT.171.24746.png",
+      "rarity": "Uncommon",
+      "cardNum": "171/214"
+    },
+    {
+      "name": "Electropower",
+      "set": "Lost Thunder",
+      "img": "https://den-cards.pokellector.com/259/Electropower.LOT.172.24383.png",
+      "rarity": "Uncommon",
+      "cardNum": "172/214"
+    },
+    {
+      "name": "Faba",
+      "set": "Lost Thunder",
+      "img": "https://den-cards.pokellector.com/259/Faba.LOT.173.24747.png",
+      "rarity": "Uncommon",
+      "cardNum": "173/214"
+    },
+    {
+      "name": "Fairy Charm G",
+      "set": "Lost Thunder",
+      "img": "https://den-cards.pokellector.com/259/Fairy-Charm-G.LOT.174.24748.png",
+      "rarity": "Uncommon",
+      "cardNum": "174/214"
+    },
+    {
+      "name": "Fairy Charm P",
+      "set": "Lost Thunder",
+      "img": "https://den-cards.pokellector.com/259/Fairy-Charm-P.LOT.175.24749.png",
+      "rarity": "Uncommon",
+      "cardNum": "175/214"
+    },
+    {
+      "name": "Fairy Charm (Fighting)",
+      "set": "Lost Thunder",
+      "img": "https://den-cards.pokellector.com/259/Fairy-Charm-Fighting.LOT.176.24384.png",
+      "rarity": "Uncommon",
+      "cardNum": "176/214"
+    },
+    {
+      "name": "Fairy Charm D",
+      "set": "Lost Thunder",
+      "img": "https://den-cards.pokellector.com/259/Fairy-Charm-D.LOT.177.24750.png",
+      "rarity": "Uncommon",
+      "cardNum": "177/214"
+    },
+    {
+      "name": "Heat Factory Prism Star",
+      "set": "Lost Thunder",
+      "img": "https://den-cards.pokellector.com/259/Heat-Factory-Prism-Star.LOT.179.24390.png",
+      "rarity": "Prism Star",
+      "cardNum": "178/214"
+    },
+    {
+      "name": "Kahili",
+      "set": "Lost Thunder",
+      "img": "https://den-cards.pokellector.com/259/Kahili.LOT.179.24751.png",
+      "rarity": "Uncommon",
+      "cardNum": "179/214"
+    },
+    {
+      "name": "Life Forest",
+      "set": "Lost Thunder",
+      "img": "https://den-cards.pokellector.com/259/Life-Forest.LOT.180.24752.png",
+      "rarity": "Rare",
+      "cardNum": "180/214"
+    },
+    {
+      "name": "Lost Blender",
+      "set": "Lost Thunder",
+      "img": "https://den-cards.pokellector.com/259/Lost-Blender.LOT.181.24753.png",
+      "rarity": "Uncommon",
+      "cardNum": "181/214"
+    },
+    {
+      "name": "Lusamine Prism Star",
+      "set": "Lost Thunder",
+      "img": "https://den-cards.pokellector.com/259/Lusamine-Prism-Star.LOT.182.24387.png",
+      "rarity": "Prism Star",
+      "cardNum": "182/214"
+    },
+    {
+      "name": "Mina",
+      "set": "Lost Thunder",
+      "img": "https://den-cards.pokellector.com/259/Mina.LOT.183.24754.png",
+      "rarity": "Uncommon",
+      "cardNum": "183/214"
+    },
+    {
+      "name": "Mixed Herbs",
+      "set": "Lost Thunder",
+      "img": "https://den-cards.pokellector.com/259/Mixed-Herbs.LOT.184.24755.png",
+      "rarity": "Uncommon",
+      "cardNum": "184/214"
+    },
+    {
+      "name": "Moomoo Milk",
+      "set": "Lost Thunder",
+      "img": "https://den-cards.pokellector.com/259/Moomoo-Milk.LOT.185.24756.png",
+      "rarity": "Uncommon",
+      "cardNum": "185/214"
+    },
+    {
+      "name": "Morty",
+      "set": "Lost Thunder",
+      "img": "https://den-cards.pokellector.com/259/Morty.LOT.186.24757.png",
+      "rarity": "Uncommon",
+      "cardNum": "186/214"
+    },
+    {
+      "name": "Net Ball",
+      "set": "Lost Thunder",
+      "img": "https://den-cards.pokellector.com/259/Net-Ball.LOT.187.24758.png",
+      "rarity": "Uncommon",
+      "cardNum": "187/214"
+    },
+    {
+      "name": "Professor Elm's Lecture",
+      "set": "Lost Thunder",
+      "img": "https://den-cards.pokellector.com/259/Professor-Elms-Lecture.LOT.188.24388.png",
+      "rarity": "Uncommon",
+      "cardNum": "188/214"
+    },
+    {
+      "name": "Sightseer",
+      "set": "Lost Thunder",
+      "img": "https://den-cards.pokellector.com/259/Sightseer.LOT.189.24759.png",
+      "rarity": "Uncommon",
+      "cardNum": "189/214"
+    },
+    {
+      "name": "Spell Tag",
+      "set": "Lost Thunder",
+      "img": "https://den-cards.pokellector.com/259/Spell-Tag.LOT.190.24760.png",
+      "rarity": "Uncommon",
+      "cardNum": "190/214"
+    },
+    {
+      "name": "Thunder Mountain",
+      "set": "Lost Thunder",
+      "img": "https://den-cards.pokellector.com/259/Thunder-Mountain..191.23833.png",
+      "rarity": "Rare",
+      "cardNum": "191/214"
+    },
+    {
+      "name": "Wait and See Hammer",
+      "set": "Lost Thunder",
+      "img": "https://den-cards.pokellector.com/259/Wait-and-See-Hammer.LOT.192.24761.png",
+      "rarity": "Uncommon",
+      "cardNum": "192/214"
+    },
+    {
+      "name": "Whitney",
+      "set": "Lost Thunder",
+      "img": "https://den-cards.pokellector.com/259/Whitney.LOT.193.24762.png",
+      "rarity": "Uncommon",
+      "cardNum": "193/214"
+    },
+    {
+      "name": "Memory Energy",
+      "set": "Lost Thunder",
+      "img": "https://den-cards.pokellector.com/259/Memory-Energy.LOT.194.24763.png",
+      "rarity": "Uncommon",
+      "cardNum": "194/214"
+    },
+    {
+      "name": "Shuckle GX",
+      "set": "Lost Thunder",
+      "img": "https://den-cards.pokellector.com/259/Shuckle-GX.LOT.195.24764.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "195/214"
+    },
+    {
+      "name": "Sceptile GX",
+      "set": "Lost Thunder",
+      "img": "https://den-cards.pokellector.com/259/Sceptile-GX.LOT.196.24765.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "196/214"
+    },
+    {
+      "name": "Virizion GX",
+      "set": "Lost Thunder",
+      "img": "https://den-cards.pokellector.com/259/Virizion-GX.LOT.197.24766.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "197/214"
+    },
+    {
+      "name": "Magcargo GX",
+      "set": "Lost Thunder",
+      "img": "https://den-cards.pokellector.com/259/Magcargo-GX.LOT.198.24767.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "198/214"
+    },
+    {
+      "name": "Blacephalon GX",
+      "set": "Lost Thunder",
+      "img": "https://den-cards.pokellector.com/259/Blacephalon-GX.LOT.199.24768.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "199/214"
+    },
+    {
+      "name": "Suicune GX",
+      "set": "Lost Thunder",
+      "img": "https://den-cards.pokellector.com/259/Suicune-GX.LOT.200.24769.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "200/214"
+    },
+    {
+      "name": "Zeraora GX",
+      "set": "Lost Thunder",
+      "img": "https://den-cards.pokellector.com/259/Zeraora-GX.LOT.201.24770.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "201/214"
+    },
+    {
+      "name": "Sigilyph GX",
+      "set": "Lost Thunder",
+      "img": "https://den-cards.pokellector.com/259/Sigilyph-GX.LOT.202.24771.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "202/214"
+    },
+    {
+      "name": "Tyranitar GX",
+      "set": "Lost Thunder",
+      "img": "https://den-cards.pokellector.com/259/Tyranitar-GX.LOT.203.24772.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "203/214"
+    },
+    {
+      "name": "Genesect GX",
+      "set": "Lost Thunder",
+      "img": "https://den-cards.pokellector.com/259/Genesect-GX.LOT.204.24773.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "204/214"
+    },
+    {
+      "name": "Alolan Ninetales GX",
+      "set": "Lost Thunder",
+      "img": "https://den-cards.pokellector.com/259/Alolan-Ninetales-GX.LOT.205.24774.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "205/214"
+    },
+    {
+      "name": "Mimikyu GX",
+      "set": "Lost Thunder",
+      "img": "https://den-cards.pokellector.com/259/Mimikyu-GX.LOT.206.24775.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "206/214"
+    },
+    {
+      "name": "Lugia GX",
+      "set": "Lost Thunder",
+      "img": "https://den-cards.pokellector.com/259/Lugia-GX.LOT.207.24776.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "207/214"
+    },
+    {
+      "name": "Faba",
+      "set": "Lost Thunder",
+      "img": "https://den-cards.pokellector.com/259/Faba.LOT.208.24777.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "208/214"
+    },
+    {
+      "name": "Judge",
+      "set": "Lost Thunder",
+      "img": "https://den-cards.pokellector.com/259/Judge.LOT.209.24778.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "209/214"
+    },
+    {
+      "name": "Kahili",
+      "set": "Lost Thunder",
+      "img": "https://den-cards.pokellector.com/259/Kahili.LOT.210.24779.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "210/214"
+    },
+    {
+      "name": "Mina",
+      "set": "Lost Thunder",
+      "img": "https://den-cards.pokellector.com/259/Mina.LOT.211.24780.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "211/214"
+    },
+    {
+      "name": "Morty",
+      "set": "Lost Thunder",
+      "img": "https://den-cards.pokellector.com/259/Morty.LOT.212.24781.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "212/214"
+    },
+    {
+      "name": "Professor Elm's Lecture",
+      "set": "Lost Thunder",
+      "img": "https://den-cards.pokellector.com/259/Professor-Elms-Lecture.LOT.213.24782.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "213/214"
+    },
+    {
+      "name": "Whitney",
+      "set": "Lost Thunder",
+      "img": "https://den-cards.pokellector.com/259/Whitney.LOT.214.24783.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "214/214"
+    },
+    {
+      "name": "Shuckle GX",
+      "set": "Lost Thunder",
+      "img": "https://den-cards.pokellector.com/259/Shuckle-GX.LOT.215.24784.png",
+      "rarity": "Secret Rare",
+      "cardNum": "215/214"
+    },
+    {
+      "name": "Sceptile GX",
+      "set": "Lost Thunder",
+      "img": "https://den-cards.pokellector.com/259/Sceptile-GX.LOT.216.24785.png",
+      "rarity": "Secret Rare",
+      "cardNum": "216/214"
+    },
+    {
+      "name": "Virizion GX",
+      "set": "Lost Thunder",
+      "img": "https://den-cards.pokellector.com/259/Virizion-GX.LOT.217.24786.png",
+      "rarity": "Secret Rare",
+      "cardNum": "217/214"
+    },
+    {
+      "name": "Magcargo GX",
+      "set": "Lost Thunder",
+      "img": "https://den-cards.pokellector.com/259/Magcargo-GX.LOT.218.24787.png",
+      "rarity": "Secret Rare",
+      "cardNum": "218/214"
+    },
+    {
+      "name": "Blacephalon GX",
+      "set": "Lost Thunder",
+      "img": "https://den-cards.pokellector.com/259/Blacephalon-GX.LOT.219.24788.png",
+      "rarity": "Secret Rare",
+      "cardNum": "219/214"
+    },
+    {
+      "name": "Suicune GX",
+      "set": "Lost Thunder",
+      "img": "https://den-cards.pokellector.com/259/Suicune-GX.LOT.220.24789.png",
+      "rarity": "Secret Rare",
+      "cardNum": "220/214"
+    },
+    {
+      "name": "Zeraora GX",
+      "set": "Lost Thunder",
+      "img": "https://den-cards.pokellector.com/259/Zeraora-GX.LOT.221.24790.png",
+      "rarity": "Secret Rare",
+      "cardNum": "221/214"
+    },
+    {
+      "name": "Sigilyph GX",
+      "set": "Lost Thunder",
+      "img": "https://den-cards.pokellector.com/259/Sigilyph-GX.LOT.222.24791.png",
+      "rarity": "Secret Rare",
+      "cardNum": "222/214"
+    },
+    {
+      "name": "Tyranitar GX",
+      "set": "Lost Thunder",
+      "img": "https://den-cards.pokellector.com/259/Tyranitar-GX.LOT.223.24792.png",
+      "rarity": "Secret Rare",
+      "cardNum": "223/214"
+    },
+    {
+      "name": "Genesect GX",
+      "set": "Lost Thunder",
+      "img": "https://den-cards.pokellector.com/259/Genesect-GX.LOT.224.24793.png",
+      "rarity": "Secret Rare",
+      "cardNum": "224/214"
+    },
+    {
+      "name": "Alolan Ninetales GX",
+      "set": "Lost Thunder",
+      "img": "https://den-cards.pokellector.com/259/Alolan-Ninetales-GX.LOT.225.24794.png",
+      "rarity": "Secret Rare",
+      "cardNum": "225/214"
+    },
+    {
+      "name": "Mimikyu GX",
+      "set": "Lost Thunder",
+      "img": "https://den-cards.pokellector.com/259/Mimikyu-GX.LOT.226.24795.png",
+      "rarity": "Secret Rare",
+      "cardNum": "226/214"
+    },
+    {
+      "name": "Lugia GX",
+      "set": "Lost Thunder",
+      "img": "https://den-cards.pokellector.com/259/Lugia-GX.LOT.227.24796.png",
+      "rarity": "Secret Rare",
+      "cardNum": "227/214"
+    },
+    {
+      "name": "Adventure Bag",
+      "set": "Lost Thunder",
+      "img": "https://den-cards.pokellector.com/259/Adventure-Bag.LOT.228.24797.png",
+      "rarity": "Secret Rare",
+      "cardNum": "228/214"
+    },
+    {
+      "name": "Choice Helmet",
+      "set": "Lost Thunder",
+      "img": "https://den-cards.pokellector.com/259/Choice-Helmet.LOT.229.24798.png",
+      "rarity": "Secret Rare",
+      "cardNum": "229/214"
+    },
+    {
+      "name": "Counter Gain",
+      "set": "Lost Thunder",
+      "img": "https://den-cards.pokellector.com/259/Counter-Gain.LOT.230.24799.png",
+      "rarity": "Secret Rare",
+      "cardNum": "230/214"
+    },
+    {
+      "name": "Custom Catcher",
+      "set": "Lost Thunder",
+      "img": "https://den-cards.pokellector.com/259/Custom-Catcher.LOT.231.24800.png",
+      "rarity": "Secret Rare",
+      "cardNum": "231/214"
+    },
+    {
+      "name": "Electropower",
+      "set": "Lost Thunder",
+      "img": "https://den-cards.pokellector.com/259/Electropower.LOT.232.24801.png",
+      "rarity": "Secret Rare",
+      "cardNum": "232/214"
+    },
+    {
+      "name": "Lost Blender",
+      "set": "Lost Thunder",
+      "img": "https://den-cards.pokellector.com/259/Lost-Blender.LOT.233.24802.png",
+      "rarity": "Secret Rare",
+      "cardNum": "233/214"
+    },
+    {
+      "name": "Net Ball",
+      "set": "Lost Thunder",
+      "img": "https://den-cards.pokellector.com/259/Net-Ball.LOT.234.24803.png",
+      "rarity": "Secret Rare",
+      "cardNum": "234/214"
+    },
+    {
+      "name": "Spell Tag",
+      "set": "Lost Thunder",
+      "img": "https://den-cards.pokellector.com/259/Spell-Tag.LOT.235.24804.png",
+      "rarity": "Secret Rare",
+      "cardNum": "235/214"
+    },
+    {
+      "name": "Wait and See Hammer",
+      "set": "Lost Thunder",
+      "img": "https://den-cards.pokellector.com/259/Wait-and-See-Hammer.LOT.236.25064.png",
+      "rarity": "Secret Rare",
+      "cardNum": "236/214"
+    }
+  ]
+}

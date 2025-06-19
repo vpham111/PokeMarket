@@ -1,0 +1,397 @@
+{
+  "setName": "Crossing the Ruins",
+  "cards": [
+    {
+      "name": "Caterpie",
+      "set": "Crossing the Ruins",
+      "img": "https://den-cards.pokellector.com/331/Caterpie.NEO2.1.39592.png",
+      "rarity": "Common",
+      "cardNum": "1/56"
+    },
+    {
+      "name": "Weedle",
+      "set": "Crossing the Ruins",
+      "img": "https://den-cards.pokellector.com/331/Weedle.NEO2.2.39593.png",
+      "rarity": "Common",
+      "cardNum": "2/56"
+    },
+    {
+      "name": "Spinarak",
+      "set": "Crossing the Ruins",
+      "img": "https://den-cards.pokellector.com/331/Spinarak.NEO2.3.39594.png",
+      "rarity": "Common",
+      "cardNum": "3/56"
+    },
+    {
+      "name": "Hoppip",
+      "set": "Crossing the Ruins",
+      "img": "https://den-cards.pokellector.com/331/Hoppip.NEO2.4.39595.png",
+      "rarity": "Common",
+      "cardNum": "4/56"
+    },
+    {
+      "name": "Pineco",
+      "set": "Crossing the Ruins",
+      "img": "https://den-cards.pokellector.com/331/Pineco.NEO2.5.39596.png",
+      "rarity": "Common",
+      "cardNum": "5/56"
+    },
+    {
+      "name": "Metapod",
+      "set": "Crossing the Ruins",
+      "img": "https://den-cards.pokellector.com/331/Metapod.NEO2.6.39597.png",
+      "rarity": "Uncommon",
+      "cardNum": "6/56"
+    },
+    {
+      "name": "Kakuna",
+      "set": "Crossing the Ruins",
+      "img": "https://den-cards.pokellector.com/331/Kakuna.NEO2.7.39598.png",
+      "rarity": "Uncommon",
+      "cardNum": "7/56"
+    },
+    {
+      "name": "Scyther",
+      "set": "Crossing the Ruins",
+      "img": "https://den-cards.pokellector.com/331/Scyther.NEO2.8.39599.png",
+      "rarity": "Uncommon",
+      "cardNum": "8/56"
+    },
+    {
+      "name": "Butterfree",
+      "set": "Crossing the Ruins",
+      "img": "https://den-cards.pokellector.com/331/Butterfree.NEO2.9.39600.png",
+      "rarity": "Rare",
+      "cardNum": "9/56"
+    },
+    {
+      "name": "Beedrill",
+      "set": "Crossing the Ruins",
+      "img": "https://den-cards.pokellector.com/331/Beedrill.NEO2.10.39601.png",
+      "rarity": "Rare",
+      "cardNum": "10/56"
+    },
+    {
+      "name": "Yanma",
+      "set": "Crossing the Ruins",
+      "img": "https://den-cards.pokellector.com/331/Yanma.NEO2.11.39602.png",
+      "rarity": "Rare",
+      "cardNum": "11/56"
+    },
+    {
+      "name": "Houndour",
+      "set": "Crossing the Ruins",
+      "img": "https://den-cards.pokellector.com/331/Houndour.NEO2.12.39603.png",
+      "rarity": "Rare",
+      "cardNum": "12/56"
+    },
+    {
+      "name": "Poliwag",
+      "set": "Crossing the Ruins",
+      "img": "https://den-cards.pokellector.com/331/Poliwag.NEO2.13.39604.png",
+      "rarity": "Common",
+      "cardNum": "13/56"
+    },
+    {
+      "name": "Kabuto",
+      "set": "Crossing the Ruins",
+      "img": "https://den-cards.pokellector.com/331/Kabuto.NEO2.14.39605.png",
+      "rarity": "Common",
+      "cardNum": "14/56"
+    },
+    {
+      "name": "Wooper",
+      "set": "Crossing the Ruins",
+      "img": "https://den-cards.pokellector.com/331/Wooper.NEO2.15.39606.png",
+      "rarity": "Common",
+      "cardNum": "15/56"
+    },
+    {
+      "name": "Poliwhirl",
+      "set": "Crossing the Ruins",
+      "img": "https://den-cards.pokellector.com/331/Poliwhirl.NEO2.16.39607.png",
+      "rarity": "Uncommon",
+      "cardNum": "16/56"
+    },
+    {
+      "name": "Corsola",
+      "set": "Crossing the Ruins",
+      "img": "https://den-cards.pokellector.com/331/Corsola.NEO2.17.39608.png",
+      "rarity": "Uncommon",
+      "cardNum": "17/56"
+    },
+    {
+      "name": "Kabutops",
+      "set": "Crossing the Ruins",
+      "img": "https://den-cards.pokellector.com/331/Kabutops.NEO2.18.39609.png",
+      "rarity": "Rare",
+      "cardNum": "18/56"
+    },
+    {
+      "name": "Politoed",
+      "set": "Crossing the Ruins",
+      "img": "https://den-cards.pokellector.com/331/Politoed.NEO2.19.39610.png",
+      "rarity": "Rare",
+      "cardNum": "19/56"
+    },
+    {
+      "name": "Mareep",
+      "set": "Crossing the Ruins",
+      "img": "https://den-cards.pokellector.com/331/Mareep.NEO2.20.39611.png",
+      "rarity": "Common",
+      "cardNum": "20/56"
+    },
+    {
+      "name": "Dark Raichu",
+      "set": "Crossing the Ruins",
+      "img": "https://den-cards.pokellector.com/331/Dark-Raichu.NEO2.21.39612.png",
+      "rarity": "Common",
+      "cardNum": "21/56"
+    },
+    {
+      "name": "Natu",
+      "set": "Crossing the Ruins",
+      "img": "https://den-cards.pokellector.com/331/Natu.NEO2.22.39613.png",
+      "rarity": "Common",
+      "cardNum": "22/56"
+    },
+    {
+      "name": "Unown I",
+      "set": "Crossing the Ruins",
+      "img": "https://den-cards.pokellector.com/331/Unown-I.NEO2.23.39614.png",
+      "rarity": "Common",
+      "cardNum": "23/56"
+    },
+    {
+      "name": "Xatu",
+      "set": "Crossing the Ruins",
+      "img": "https://den-cards.pokellector.com/331/Xatu.NEO2.24.39615.png",
+      "rarity": "Uncommon",
+      "cardNum": "24/56"
+    },
+    {
+      "name": "Unown D",
+      "set": "Crossing the Ruins",
+      "img": "https://den-cards.pokellector.com/331/Unown-D.NEO2.25.39616.png",
+      "rarity": "Uncommon",
+      "cardNum": "25/56"
+    },
+    {
+      "name": "Unown F",
+      "set": "Crossing the Ruins",
+      "img": "https://den-cards.pokellector.com/331/Unown-F.NEO2.26.39617.png",
+      "rarity": "Uncommon",
+      "cardNum": "26/56"
+    },
+    {
+      "name": "Unown M",
+      "set": "Crossing the Ruins",
+      "img": "https://den-cards.pokellector.com/331/Unown-M.NEO2.27.39618.png",
+      "rarity": "Uncommon",
+      "cardNum": "27/56"
+    },
+    {
+      "name": "Unown U",
+      "set": "Crossing the Ruins",
+      "img": "https://den-cards.pokellector.com/331/Unown-U.NEO2.28.39619.png",
+      "rarity": "Uncommon",
+      "cardNum": "28/56"
+    },
+    {
+      "name": "Espeon",
+      "set": "Crossing the Ruins",
+      "img": "https://den-cards.pokellector.com/331/Espeon.NEO2.29.39620.png",
+      "rarity": "Rare",
+      "cardNum": "29/56"
+    },
+    {
+      "name": "Unown A",
+      "set": "Crossing the Ruins",
+      "img": "https://den-cards.pokellector.com/331/Unown-A.NEO2.30.39621.png",
+      "rarity": "Rare",
+      "cardNum": "30/56"
+    },
+    {
+      "name": "Wobbuffet",
+      "set": "Crossing the Ruins",
+      "img": "https://den-cards.pokellector.com/331/Wobbuffet.NEO2.31.39622.png",
+      "rarity": "Rare",
+      "cardNum": "31/56"
+    },
+    {
+      "name": "Omanyte",
+      "set": "Crossing the Ruins",
+      "img": "https://den-cards.pokellector.com/331/Omanyte.NEO2.32.39623.png",
+      "rarity": "Common",
+      "cardNum": "32/56"
+    },
+    {
+      "name": "Tyrogue",
+      "set": "Crossing the Ruins",
+      "img": "https://den-cards.pokellector.com/331/Tyrogue.NEO2.33.39624.png",
+      "rarity": "Common",
+      "cardNum": "33/56"
+    },
+    {
+      "name": "Larvitar",
+      "set": "Crossing the Ruins",
+      "img": "https://den-cards.pokellector.com/331/Larvitar.NEO2.34.39625.png",
+      "rarity": "Common",
+      "cardNum": "34/56"
+    },
+    {
+      "name": "Omastar",
+      "set": "Crossing the Ruins",
+      "img": "https://den-cards.pokellector.com/331/Omastar.NEO2.35.39626.png",
+      "rarity": "Uncommon",
+      "cardNum": "35/56"
+    },
+    {
+      "name": "Pupitar",
+      "set": "Crossing the Ruins",
+      "img": "https://den-cards.pokellector.com/331/Pupitar.NEO2.36.39627.png",
+      "rarity": "Uncommon",
+      "cardNum": "36/56"
+    },
+    {
+      "name": "Poliwrath",
+      "set": "Crossing the Ruins",
+      "img": "https://den-cards.pokellector.com/331/Poliwrath.NEO2.37.39628.png",
+      "rarity": "Rare",
+      "cardNum": "37/56"
+    },
+    {
+      "name": "Hitmontop",
+      "set": "Crossing the Ruins",
+      "img": "https://den-cards.pokellector.com/331/Hitmontop.NEO2.38.39629.png",
+      "rarity": "Rare",
+      "cardNum": "38/56"
+    },
+    {
+      "name": "Houndour",
+      "set": "Crossing the Ruins",
+      "img": "https://den-cards.pokellector.com/331/Houndour.NEO2.39.39630.png",
+      "rarity": "Uncommon",
+      "cardNum": "39/56"
+    },
+    {
+      "name": "Umbreon",
+      "set": "Crossing the Ruins",
+      "img": "https://den-cards.pokellector.com/331/Umbreon.NEO2.40.39631.png",
+      "rarity": "Rare",
+      "cardNum": "40/56"
+    },
+    {
+      "name": "Houndoom",
+      "set": "Crossing the Ruins",
+      "img": "https://den-cards.pokellector.com/331/Houndoom.NEO2.41.39632.png",
+      "rarity": "Rare",
+      "cardNum": "41/56"
+    },
+    {
+      "name": "Tyranitar",
+      "set": "Crossing the Ruins",
+      "img": "https://den-cards.pokellector.com/331/Tyranitar.NEO2.42.39633.png",
+      "rarity": "Rare",
+      "cardNum": "42/56"
+    },
+    {
+      "name": "Magnemite",
+      "set": "Crossing the Ruins",
+      "img": "https://den-cards.pokellector.com/331/Magnemite.NEO2.43.39634.png",
+      "rarity": "Rare",
+      "cardNum": "43/56"
+    },
+    {
+      "name": "Forretress",
+      "set": "Crossing the Ruins",
+      "img": "https://den-cards.pokellector.com/331/Forretress.NEO2.44.39635.png",
+      "rarity": "Rare",
+      "cardNum": "44/56"
+    },
+    {
+      "name": "Scizor",
+      "set": "Crossing the Ruins",
+      "img": "https://den-cards.pokellector.com/331/Scizor.NEO2.45.39636.png",
+      "rarity": "Rare",
+      "cardNum": "45/56"
+    },
+    {
+      "name": "Sentret",
+      "set": "Crossing the Ruins",
+      "img": "https://den-cards.pokellector.com/331/Sentret.NEO2.46.39637.png",
+      "rarity": "Common",
+      "cardNum": "46/56"
+    },
+    {
+      "name": "Dunsparce",
+      "set": "Crossing the Ruins",
+      "img": "https://den-cards.pokellector.com/331/Dunsparce.NEO2.47.39638.png",
+      "rarity": "Common",
+      "cardNum": "47/56"
+    },
+    {
+      "name": "Teddiursa",
+      "set": "Crossing the Ruins",
+      "img": "https://den-cards.pokellector.com/331/Teddiursa.NEO2.48.39639.png",
+      "rarity": "Common",
+      "cardNum": "48/56"
+    },
+    {
+      "name": "Eevee",
+      "set": "Crossing the Ruins",
+      "img": "https://den-cards.pokellector.com/331/Eevee.NEO2.49.39640.png",
+      "rarity": "Uncommon",
+      "cardNum": "49/56"
+    },
+    {
+      "name": "Igglybuff",
+      "set": "Crossing the Ruins",
+      "img": "https://den-cards.pokellector.com/331/Igglybuff.NEO2.50.39641.png",
+      "rarity": "Uncommon",
+      "cardNum": "50/56"
+    },
+    {
+      "name": "Ursaring",
+      "set": "Crossing the Ruins",
+      "img": "https://den-cards.pokellector.com/331/Ursaring.NEO2.51.39642.png",
+      "rarity": "Rare",
+      "cardNum": "51/56"
+    },
+    {
+      "name": "Smeargle",
+      "set": "Crossing the Ruins",
+      "img": "https://den-cards.pokellector.com/331/Smeargle.NEO2.52.39643.png",
+      "rarity": "Rare",
+      "cardNum": "52/56"
+    },
+    {
+      "name": "Energy Ark",
+      "set": "Crossing the Ruins",
+      "img": "https://den-cards.pokellector.com/331/Energy-Ark.NEO2.53.39644.png",
+      "rarity": "Common",
+      "cardNum": "53/56"
+    },
+    {
+      "name": "Ruin Wall [Kabuto]",
+      "set": "Crossing the Ruins",
+      "img": "https://den-cards.pokellector.com/331/Ruin-Wall-KabutoRuin-Wall-Aerodactyl.NEO2.54.39645.png",
+      "rarity": "Uncommon",
+      "cardNum": "54/56"
+    },
+    {
+      "name": "Fossil Egg",
+      "set": "Crossing the Ruins",
+      "img": "https://den-cards.pokellector.com/331/Fossil-Egg.NEO2.55.39646.png",
+      "rarity": "Uncommon",
+      "cardNum": "55/56"
+    },
+    {
+      "name": "Hyper Devolution Spray",
+      "set": "Crossing the Ruins",
+      "img": "https://den-cards.pokellector.com/331/Hyper-Devolution-Spray.NEO2.56.39647.png",
+      "rarity": "Uncommon",
+      "cardNum": "56/56"
+    }
+  ]
+}

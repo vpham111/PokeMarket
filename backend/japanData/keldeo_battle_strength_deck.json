@@ -1,0 +1,131 @@
+{
+  "setName": "Keldeo Battle Strength Deck",
+  "cards": [
+    {
+      "name": "Psyduck",
+      "set": "Keldeo Battle Strength Deck",
+      "img": "https://den-cards.pokellector.com/133/Psyduck.KLD.1.png",
+      "rarity": "Common",
+      "cardNum": "1/18"
+    },
+    {
+      "name": "Golduck",
+      "set": "Keldeo Battle Strength Deck",
+      "img": "https://den-cards.pokellector.com/133/Golduck.KLD.2.png",
+      "rarity": "Common",
+      "cardNum": "2/18"
+    },
+    {
+      "name": "Cryogonal",
+      "set": "Keldeo Battle Strength Deck",
+      "img": "https://den-cards.pokellector.com/133/Cryogonal.KLD.3.png",
+      "rarity": "Common",
+      "cardNum": "3/18"
+    },
+    {
+      "name": "Keldeo",
+      "set": "Keldeo Battle Strength Deck",
+      "img": "https://den-cards.pokellector.com/133/Keldeo.KLD.4.png",
+      "rarity": "Common",
+      "cardNum": "4/18"
+    },
+    {
+      "name": "Vullaby",
+      "set": "Keldeo Battle Strength Deck",
+      "img": "https://den-cards.pokellector.com/133/Vullaby.KLD.5.png",
+      "rarity": "Common",
+      "cardNum": "5/18"
+    },
+    {
+      "name": "Mandibuzz",
+      "set": "Keldeo Battle Strength Deck",
+      "img": "https://den-cards.pokellector.com/133/Mandibuzz.KLD.6.png",
+      "rarity": "Common",
+      "cardNum": "6/18"
+    },
+    {
+      "name": "Skarmory",
+      "set": "Keldeo Battle Strength Deck",
+      "img": "https://den-cards.pokellector.com/133/Skarmory.KLD.7.png",
+      "rarity": "Common",
+      "cardNum": "7/18"
+    },
+    {
+      "name": "Klink",
+      "set": "Keldeo Battle Strength Deck",
+      "img": "https://den-cards.pokellector.com/133/Klink.KLD.8.png",
+      "rarity": "Common",
+      "cardNum": "8/18"
+    },
+    {
+      "name": "Energy Search",
+      "set": "Keldeo Battle Strength Deck",
+      "img": "https://den-cards.pokellector.com/133/Energy-Search.KLD.9.png",
+      "rarity": "Common",
+      "cardNum": "9/18"
+    },
+    {
+      "name": "Great Ball",
+      "set": "Keldeo Battle Strength Deck",
+      "img": "https://den-cards.pokellector.com/133/Great-Ball.KLD.10.png",
+      "rarity": "Common",
+      "cardNum": "10/18"
+    },
+    {
+      "name": "Switch",
+      "set": "Keldeo Battle Strength Deck",
+      "img": "https://den-cards.pokellector.com/133/Switch.KLD.11.png",
+      "rarity": "Common",
+      "cardNum": "11/18"
+    },
+    {
+      "name": "Rocky Helmet",
+      "set": "Keldeo Battle Strength Deck",
+      "img": "https://den-cards.pokellector.com/133/Rocky-Helmet.KLD.12.png",
+      "rarity": "Common",
+      "cardNum": "12/18"
+    },
+    {
+      "name": "Eviolite",
+      "set": "Keldeo Battle Strength Deck",
+      "img": "https://den-cards.pokellector.com/133/Eviolite.KLD.13.png",
+      "rarity": "Common",
+      "cardNum": "13/18"
+    },
+    {
+      "name": "Cheren",
+      "set": "Keldeo Battle Strength Deck",
+      "img": "https://den-cards.pokellector.com/133/Cheren.KLD.14.png",
+      "rarity": "Common",
+      "cardNum": "14/18"
+    },
+    {
+      "name": "Bianca",
+      "set": "Keldeo Battle Strength Deck",
+      "img": "https://den-cards.pokellector.com/133/Bianca.KLD.15.png",
+      "rarity": "Common",
+      "cardNum": "15/18"
+    },
+    {
+      "name": "Water Energy",
+      "set": "Keldeo Battle Strength Deck",
+      "img": "https://den-cards.pokellector.com/133/Water-Energy.KLD.16.png",
+      "rarity": "Common",
+      "cardNum": "16/18"
+    },
+    {
+      "name": "Metal Energy",
+      "set": "Keldeo Battle Strength Deck",
+      "img": "https://den-cards.pokellector.com/133/Metal-Energy.KLD.17.png",
+      "rarity": "Common",
+      "cardNum": "17/18"
+    },
+    {
+      "name": "Dark Energy",
+      "set": "Keldeo Battle Strength Deck",
+      "img": "https://den-cards.pokellector.com/133/Dark-Energy.KLD.18.png",
+      "rarity": "Common",
+      "cardNum": "18/18"
+    }
+  ]
+}

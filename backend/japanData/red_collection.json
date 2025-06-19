@@ -1,0 +1,509 @@
+{
+  "setName": "Red Collection",
+  "cards": [
+    {
+      "name": "Dwebble",
+      "set": "Red Collection",
+      "img": "https://den-cards.pokellector.com/17/Dwebble.BW2.1.png",
+      "rarity": "Common",
+      "cardNum": "1/66"
+    },
+    {
+      "name": "Crustle",
+      "set": "Red Collection",
+      "img": "https://den-cards.pokellector.com/17/Crustle.BW2.2.png",
+      "rarity": "Common",
+      "cardNum": "2/66"
+    },
+    {
+      "name": "Karrablast",
+      "set": "Red Collection",
+      "img": "https://den-cards.pokellector.com/17/Karrablast.BW2.3.png",
+      "rarity": "Common",
+      "cardNum": "3/66"
+    },
+    {
+      "name": "Foongus",
+      "set": "Red Collection",
+      "img": "https://den-cards.pokellector.com/17/Foongus.BW2.4.png",
+      "rarity": "Common",
+      "cardNum": "4/66"
+    },
+    {
+      "name": "Amoonguss",
+      "set": "Red Collection",
+      "img": "https://den-cards.pokellector.com/17/Amoonguss.BW2.5.png",
+      "rarity": "Common",
+      "cardNum": "5/66"
+    },
+    {
+      "name": "Shelmet",
+      "set": "Red Collection",
+      "img": "https://den-cards.pokellector.com/17/Shelmet.BW2.6.png",
+      "rarity": "Common",
+      "cardNum": "6/66"
+    },
+    {
+      "name": "Accelgor",
+      "set": "Red Collection",
+      "img": "https://den-cards.pokellector.com/17/Accelgor.BW2.7.png",
+      "rarity": "Uncommon",
+      "cardNum": "7/66"
+    },
+    {
+      "name": "Virizion",
+      "set": "Red Collection",
+      "img": "https://den-cards.pokellector.com/17/Virizion.BW2.8.png",
+      "rarity": "Rare",
+      "cardNum": "8/66"
+    },
+    {
+      "name": "Victini",
+      "set": "Red Collection",
+      "img": "https://den-cards.pokellector.com/17/Victini.BW2.9.png",
+      "rarity": "Rare",
+      "cardNum": "9/66"
+    },
+    {
+      "name": "Heatmor",
+      "set": "Red Collection",
+      "img": "https://den-cards.pokellector.com/17/Heatmor.BW2.10.png",
+      "rarity": "Common",
+      "cardNum": "10/66"
+    },
+    {
+      "name": "Larvesta",
+      "set": "Red Collection",
+      "img": "https://den-cards.pokellector.com/17/Larvesta.BW2.11.png",
+      "rarity": "Common",
+      "cardNum": "11/66"
+    },
+    {
+      "name": "Volcarona",
+      "set": "Red Collection",
+      "img": "https://den-cards.pokellector.com/17/Volcarona.BW2.12.png",
+      "rarity": "Uncommon",
+      "cardNum": "12/66"
+    },
+    {
+      "name": "Tympole",
+      "set": "Red Collection",
+      "img": "https://den-cards.pokellector.com/17/Tympole.BW2.13.png",
+      "rarity": "Common",
+      "cardNum": "13/66"
+    },
+    {
+      "name": "Palpitoad",
+      "set": "Red Collection",
+      "img": "https://den-cards.pokellector.com/17/Palpitoad.BW2.14.png",
+      "rarity": "Common",
+      "cardNum": "14/66"
+    },
+    {
+      "name": "Seismitoad",
+      "set": "Red Collection",
+      "img": "https://den-cards.pokellector.com/17/Seismitoad.BW2.15.png",
+      "rarity": "Uncommon",
+      "cardNum": "15/66"
+    },
+    {
+      "name": "Tirtouga",
+      "set": "Red Collection",
+      "img": "https://den-cards.pokellector.com/17/Tirtouga.BW2.16.png",
+      "rarity": "Uncommon",
+      "cardNum": "16/66"
+    },
+    {
+      "name": "Carracosta",
+      "set": "Red Collection",
+      "img": "https://den-cards.pokellector.com/17/Carracosta.BW2.17.png",
+      "rarity": "Uncommon",
+      "cardNum": "17/66"
+    },
+    {
+      "name": "Vanillite",
+      "set": "Red Collection",
+      "img": "https://den-cards.pokellector.com/17/Vanillite.BW2.18.png",
+      "rarity": "Common",
+      "cardNum": "18/66"
+    },
+    {
+      "name": "Vanillish",
+      "set": "Red Collection",
+      "img": "https://den-cards.pokellector.com/17/Vanillish.BW2.19.png",
+      "rarity": "Common",
+      "cardNum": "19/66"
+    },
+    {
+      "name": "Vanilluxe",
+      "set": "Red Collection",
+      "img": "https://den-cards.pokellector.com/17/Vanilluxe.BW2.20.png",
+      "rarity": "Uncommon",
+      "cardNum": "20/66"
+    },
+    {
+      "name": "Frillish",
+      "set": "Red Collection",
+      "img": "https://den-cards.pokellector.com/17/Frillish.BW2.21.png",
+      "rarity": "Common",
+      "cardNum": "21/66"
+    },
+    {
+      "name": "Jellicent",
+      "set": "Red Collection",
+      "img": "https://den-cards.pokellector.com/17/Jellicent.BW2.22.png",
+      "rarity": "Uncommon",
+      "cardNum": "22/66"
+    },
+    {
+      "name": "Cryogonal",
+      "set": "Red Collection",
+      "img": "https://den-cards.pokellector.com/17/Cryogonal.BW2.23.png",
+      "rarity": "Uncommon",
+      "cardNum": "23/66"
+    },
+    {
+      "name": "Kyurem",
+      "set": "Red Collection",
+      "img": "https://den-cards.pokellector.com/17/Kyurem.BW2.24.png",
+      "rarity": "Rare",
+      "cardNum": "24/66"
+    },
+    {
+      "name": "Tynamo",
+      "set": "Red Collection",
+      "img": "https://den-cards.pokellector.com/17/Tynamo.BW2.25.png",
+      "rarity": "Common",
+      "cardNum": "25/66"
+    },
+    {
+      "name": "Eelektrik",
+      "set": "Red Collection",
+      "img": "https://den-cards.pokellector.com/17/Eelektrik.BW2.26.png",
+      "rarity": "Uncommon",
+      "cardNum": "26/66"
+    },
+    {
+      "name": "Eelektross",
+      "set": "Red Collection",
+      "img": "https://den-cards.pokellector.com/17/Eelektross.BW2.27.png",
+      "rarity": "Rare",
+      "cardNum": "27/66"
+    },
+    {
+      "name": "Yamask",
+      "set": "Red Collection",
+      "img": "https://den-cards.pokellector.com/17/Yamask.BW2.28.png",
+      "rarity": "Common",
+      "cardNum": "28/66"
+    },
+    {
+      "name": "Cofagrigus",
+      "set": "Red Collection",
+      "img": "https://den-cards.pokellector.com/17/Cofagrigus.BW2.29.png",
+      "rarity": "Uncommon",
+      "cardNum": "29/66"
+    },
+    {
+      "name": "Trubbish",
+      "set": "Red Collection",
+      "img": "https://den-cards.pokellector.com/17/Trubbish.BW2.30.png",
+      "rarity": "Common",
+      "cardNum": "30/66"
+    },
+    {
+      "name": "Garbodor",
+      "set": "Red Collection",
+      "img": "https://den-cards.pokellector.com/17/Garbodor.BW2.31.png",
+      "rarity": "Common",
+      "cardNum": "31/66"
+    },
+    {
+      "name": "Elgyem",
+      "set": "Red Collection",
+      "img": "https://den-cards.pokellector.com/17/Elgyem.BW2.32.png",
+      "rarity": "Common",
+      "cardNum": "32/66"
+    },
+    {
+      "name": "Beheeyem",
+      "set": "Red Collection",
+      "img": "https://den-cards.pokellector.com/17/Beheeyem.BW2.33.png",
+      "rarity": "Uncommon",
+      "cardNum": "33/66"
+    },
+    {
+      "name": "Litwick",
+      "set": "Red Collection",
+      "img": "https://den-cards.pokellector.com/17/Litwick.BW2.34.png",
+      "rarity": "Common",
+      "cardNum": "34/66"
+    },
+    {
+      "name": "Lampent",
+      "set": "Red Collection",
+      "img": "https://den-cards.pokellector.com/17/Lampent.BW2.35.png",
+      "rarity": "Common",
+      "cardNum": "35/66"
+    },
+    {
+      "name": "Chandelure",
+      "set": "Red Collection",
+      "img": "https://den-cards.pokellector.com/17/Chandelure.BW2.36.png",
+      "rarity": "Uncommon",
+      "cardNum": "36/66"
+    },
+    {
+      "name": "Gigalith",
+      "set": "Red Collection",
+      "img": "https://den-cards.pokellector.com/17/Gigalith.BW2.37.png",
+      "rarity": "Uncommon",
+      "cardNum": "37/66"
+    },
+    {
+      "name": "Conkeldurr",
+      "set": "Red Collection",
+      "img": "https://den-cards.pokellector.com/17/Conkeldurr.BW2.38.png",
+      "rarity": "Uncommon",
+      "cardNum": "38/66"
+    },
+    {
+      "name": "Archen",
+      "set": "Red Collection",
+      "img": "https://den-cards.pokellector.com/17/Archen.BW2.39.png",
+      "rarity": "Uncommon",
+      "cardNum": "39/66"
+    },
+    {
+      "name": "Archeops",
+      "set": "Red Collection",
+      "img": "https://den-cards.pokellector.com/17/Archeops.BW2.40.png",
+      "rarity": "Uncommon",
+      "cardNum": "40/66"
+    },
+    {
+      "name": "Stunfisk",
+      "set": "Red Collection",
+      "img": "https://den-cards.pokellector.com/17/Stunfisk.BW2.41.png",
+      "rarity": "Common",
+      "cardNum": "41/66"
+    },
+    {
+      "name": "Mienfoo",
+      "set": "Red Collection",
+      "img": "https://den-cards.pokellector.com/17/Mienfoo.BW2.42.png",
+      "rarity": "Common",
+      "cardNum": "42/66"
+    },
+    {
+      "name": "Mienshao",
+      "set": "Red Collection",
+      "img": "https://den-cards.pokellector.com/17/Mienshao.BW2.43.png",
+      "rarity": "Common",
+      "cardNum": "43/66"
+    },
+    {
+      "name": "Golett",
+      "set": "Red Collection",
+      "img": "https://den-cards.pokellector.com/17/Golett.BW2.44.png",
+      "rarity": "Common",
+      "cardNum": "44/66"
+    },
+    {
+      "name": "Golurk",
+      "set": "Red Collection",
+      "img": "https://den-cards.pokellector.com/17/Golurk.BW2.45.png",
+      "rarity": "Uncommon",
+      "cardNum": "45/66"
+    },
+    {
+      "name": "Terrakion",
+      "set": "Red Collection",
+      "img": "https://den-cards.pokellector.com/17/Terrakion.BW2.46.png",
+      "rarity": "Rare",
+      "cardNum": "46/66"
+    },
+    {
+      "name": "Landorus",
+      "set": "Red Collection",
+      "img": "https://den-cards.pokellector.com/17/Landorus.BW2.47.png",
+      "rarity": "Rare",
+      "cardNum": "47/66"
+    },
+    {
+      "name": "Pawniard",
+      "set": "Red Collection",
+      "img": "https://den-cards.pokellector.com/17/Pawniard.BW2.48.png",
+      "rarity": "Common",
+      "cardNum": "48/66"
+    },
+    {
+      "name": "Bisharp",
+      "set": "Red Collection",
+      "img": "https://den-cards.pokellector.com/17/Bisharp.BW2.49.png",
+      "rarity": "Uncommon",
+      "cardNum": "49/66"
+    },
+    {
+      "name": "Deino",
+      "set": "Red Collection",
+      "img": "https://den-cards.pokellector.com/17/Deino.BW2.50.png",
+      "rarity": "Common",
+      "cardNum": "50/66"
+    },
+    {
+      "name": "Zweilous",
+      "set": "Red Collection",
+      "img": "https://den-cards.pokellector.com/17/Zweilous.BW2.51.png",
+      "rarity": "Common",
+      "cardNum": "51/66"
+    },
+    {
+      "name": "Hydreigon",
+      "set": "Red Collection",
+      "img": "https://den-cards.pokellector.com/17/Hydreigon.BW2.52.png",
+      "rarity": "Rare",
+      "cardNum": "52/66"
+    },
+    {
+      "name": "Escavalier",
+      "set": "Red Collection",
+      "img": "https://den-cards.pokellector.com/17/Escavalier.BW2.53.png",
+      "rarity": "Uncommon",
+      "cardNum": "53/66"
+    },
+    {
+      "name": "Durant",
+      "set": "Red Collection",
+      "img": "https://den-cards.pokellector.com/17/Durant.BW2.54.png",
+      "rarity": "Common",
+      "cardNum": "54/66"
+    },
+    {
+      "name": "Cobalion",
+      "set": "Red Collection",
+      "img": "https://den-cards.pokellector.com/17/Cobalion.BW2.55.png",
+      "rarity": "Rare",
+      "cardNum": "55/66"
+    },
+    {
+      "name": "Axew",
+      "set": "Red Collection",
+      "img": "https://den-cards.pokellector.com/17/Axew.BW2.56.png",
+      "rarity": "Common",
+      "cardNum": "56/66"
+    },
+    {
+      "name": "Fraxure",
+      "set": "Red Collection",
+      "img": "https://den-cards.pokellector.com/17/Fraxure.BW2.57.png",
+      "rarity": "Common",
+      "cardNum": "57/66"
+    },
+    {
+      "name": "Haxorus",
+      "set": "Red Collection",
+      "img": "https://den-cards.pokellector.com/17/Haxorus.BW2.58.png",
+      "rarity": "Rare",
+      "cardNum": "58/66"
+    },
+    {
+      "name": "Druddigon",
+      "set": "Red Collection",
+      "img": "https://den-cards.pokellector.com/17/Druddigon.BW2.59.png",
+      "rarity": "Uncommon",
+      "cardNum": "59/66"
+    },
+    {
+      "name": "Super Rod",
+      "set": "Red Collection",
+      "img": "https://den-cards.pokellector.com/17/Super-Rod.BW2.60.png",
+      "rarity": "Uncommon",
+      "cardNum": "60/66"
+    },
+    {
+      "name": "Xtransceiver",
+      "set": "Red Collection",
+      "img": "https://den-cards.pokellector.com/17/Xtransceiver.BW2.61.png",
+      "rarity": "Uncommon",
+      "cardNum": "61/66"
+    },
+    {
+      "name": "Plume Fossil",
+      "set": "Red Collection",
+      "img": "https://den-cards.pokellector.com/17/Plume-Fossil.BW2.62.png",
+      "rarity": "Uncommon",
+      "cardNum": "62/66"
+    },
+    {
+      "name": "Cover Fossil",
+      "set": "Red Collection",
+      "img": "https://den-cards.pokellector.com/17/Cover-Fossil.BW2.63.png",
+      "rarity": "Uncommon",
+      "cardNum": "63/66"
+    },
+    {
+      "name": "Rocky Helmet",
+      "set": "Red Collection",
+      "img": "https://den-cards.pokellector.com/17/Rocky-Helmet.BW2.64.png",
+      "rarity": "Uncommon",
+      "cardNum": "64/66"
+    },
+    {
+      "name": "Eviolite",
+      "set": "Red Collection",
+      "img": "https://den-cards.pokellector.com/17/Eviolite.BW2.65.png",
+      "rarity": "Uncommon",
+      "cardNum": "65/66"
+    },
+    {
+      "name": "N",
+      "set": "Red Collection",
+      "img": "https://den-cards.pokellector.com/17/N.BW2.66.png",
+      "rarity": "Uncommon",
+      "cardNum": "66/66"
+    },
+    {
+      "name": "Virizion",
+      "set": "Red Collection",
+      "img": "https://den-cards.pokellector.com/17/Virizion.BW2.67.png",
+      "rarity": "Secret Rare",
+      "cardNum": "67/66"
+    },
+    {
+      "name": "Terrakion",
+      "set": "Red Collection",
+      "img": "https://den-cards.pokellector.com/17/Terrakion.BW2.68.png",
+      "rarity": "Secret Rare",
+      "cardNum": "68/66"
+    },
+    {
+      "name": "Cobalion",
+      "set": "Red Collection",
+      "img": "https://den-cards.pokellector.com/17/Cobalion.BW2.69.png",
+      "rarity": "Secret Rare",
+      "cardNum": "69/66"
+    },
+    {
+      "name": "Victini",
+      "set": "Red Collection",
+      "img": "https://den-cards.pokellector.com/17/Victini.BW2.70.png",
+      "rarity": "Secret Rare",
+      "cardNum": "70/66"
+    },
+    {
+      "name": "N",
+      "set": "Red Collection",
+      "img": "https://den-cards.pokellector.com/17/N.BW2.71.png",
+      "rarity": "Secret Rare",
+      "cardNum": "71/66"
+    },
+    {
+      "name": "Meowth",
+      "set": "Red Collection",
+      "img": "https://den-cards.pokellector.com/17/Meowth.BW2.72.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "72/66"
+    }
+  ]
+}

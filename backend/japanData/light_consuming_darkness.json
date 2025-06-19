@@ -1,0 +1,453 @@
+{
+  "setName": "Light-Consuming Darkness",
+  "cards": [
+    {
+      "name": "Caterpie",
+      "set": "Light-Consuming Darkness",
+      "img": "https://den-cards.pokellector.com/218/Caterpie.SM3N.1.18199.png",
+      "rarity": "Common",
+      "cardNum": "1/51"
+    },
+    {
+      "name": "Metapod",
+      "set": "Light-Consuming Darkness",
+      "img": "https://den-cards.pokellector.com/218/Metapod.SM3N.2.18200.png",
+      "rarity": "Common",
+      "cardNum": "2/51"
+    },
+    {
+      "name": "Butterfree",
+      "set": "Light-Consuming Darkness",
+      "img": "https://den-cards.pokellector.com/218/Butterfree.SM3N.3.18107.png",
+      "rarity": "Uncommon",
+      "cardNum": "3/51"
+    },
+    {
+      "name": "Tangela",
+      "set": "Light-Consuming Darkness",
+      "img": "https://den-cards.pokellector.com/218/Tangela.SM3N.4.18201.png",
+      "rarity": "Common",
+      "cardNum": "4/51"
+    },
+    {
+      "name": "Tangrowth",
+      "set": "Light-Consuming Darkness",
+      "img": "https://den-cards.pokellector.com/218/Tangrowth.SM3N.5.18202.png",
+      "rarity": "Uncommon",
+      "cardNum": "5/51"
+    },
+    {
+      "name": "Wimpod",
+      "set": "Light-Consuming Darkness",
+      "img": "https://den-cards.pokellector.com/218/Wimpod.SM3N.6.18203.png",
+      "rarity": "Common",
+      "cardNum": "6/51"
+    },
+    {
+      "name": "Golisopod GX",
+      "set": "Light-Consuming Darkness",
+      "img": "https://den-cards.pokellector.com/218/Golisopod-GX.SM3N.7.18111.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "7/51"
+    },
+    {
+      "name": "Magikarp",
+      "set": "Light-Consuming Darkness",
+      "img": "https://den-cards.pokellector.com/218/Magikarp.SM3N.8.18093.png",
+      "rarity": "Common",
+      "cardNum": "8/51"
+    },
+    {
+      "name": "Gyarados",
+      "set": "Light-Consuming Darkness",
+      "img": "https://den-cards.pokellector.com/218/Gyarados.SM3N.9.18204.png",
+      "rarity": "Rare",
+      "cardNum": "9/51"
+    },
+    {
+      "name": "Panpour",
+      "set": "Light-Consuming Darkness",
+      "img": "https://den-cards.pokellector.com/218/Panpour.SM3N.10.18205.png",
+      "rarity": "Common",
+      "cardNum": "10/51"
+    },
+    {
+      "name": "Simipour",
+      "set": "Light-Consuming Darkness",
+      "img": "https://den-cards.pokellector.com/218/Simipour.SM3N.11.18206.png",
+      "rarity": "Common",
+      "cardNum": "11/51"
+    },
+    {
+      "name": "Bruxish",
+      "set": "Light-Consuming Darkness",
+      "img": "https://den-cards.pokellector.com/218/Bruxish.SM3N.12.18207.png",
+      "rarity": "Uncommon",
+      "cardNum": "12/51"
+    },
+    {
+      "name": "Pikachu",
+      "set": "Light-Consuming Darkness",
+      "img": "https://den-cards.pokellector.com/218/Pikachu.SM3N.13.18080.png",
+      "rarity": "Common",
+      "cardNum": "13/51"
+    },
+    {
+      "name": "Raichu",
+      "set": "Light-Consuming Darkness",
+      "img": "https://den-cards.pokellector.com/218/Raichu.SM3N.14.18081.png",
+      "rarity": "Rare",
+      "cardNum": "14/51"
+    },
+    {
+      "name": "Tynamo",
+      "set": "Light-Consuming Darkness",
+      "img": "https://den-cards.pokellector.com/218/Tynamo.SM3N.15.18208.png",
+      "rarity": "Common",
+      "cardNum": "15/51"
+    },
+    {
+      "name": "Eelektrik",
+      "set": "Light-Consuming Darkness",
+      "img": "https://den-cards.pokellector.com/218/Eelektrik.SM3N.16.18209.png",
+      "rarity": "Common",
+      "cardNum": "16/51"
+    },
+    {
+      "name": "Eelektross",
+      "set": "Light-Consuming Darkness",
+      "img": "https://den-cards.pokellector.com/218/Eelektross.SM3N.17.18210.png",
+      "rarity": "Uncommon",
+      "cardNum": "17/51"
+    },
+    {
+      "name": "Seviper",
+      "set": "Light-Consuming Darkness",
+      "img": "https://den-cards.pokellector.com/218/Seviper.SM3N.18.18091.png",
+      "rarity": "Uncommon",
+      "cardNum": "18/51"
+    },
+    {
+      "name": "Duskull",
+      "set": "Light-Consuming Darkness",
+      "img": "https://den-cards.pokellector.com/218/Duskull.SM3N.19.18129.png",
+      "rarity": "Common",
+      "cardNum": "19/51"
+    },
+    {
+      "name": "Dusclops",
+      "set": "Light-Consuming Darkness",
+      "img": "https://den-cards.pokellector.com/218/Dusclops.SM3N.20.18128.png",
+      "rarity": "Common",
+      "cardNum": "20/51"
+    },
+    {
+      "name": "Dusknoir",
+      "set": "Light-Consuming Darkness",
+      "img": "https://den-cards.pokellector.com/218/Dusknoir.SM3N.21.18127.png",
+      "rarity": "Rare",
+      "cardNum": "21/51"
+    },
+    {
+      "name": "Croagunk",
+      "set": "Light-Consuming Darkness",
+      "img": "https://den-cards.pokellector.com/218/Croagunk.SM3N.22.18211.png",
+      "rarity": "Common",
+      "cardNum": "22/51"
+    },
+    {
+      "name": "Toxicroak",
+      "set": "Light-Consuming Darkness",
+      "img": "https://den-cards.pokellector.com/218/Toxicroak.SM3N.23.18090.png",
+      "rarity": "Uncommon",
+      "cardNum": "23/51"
+    },
+    {
+      "name": "Espurr",
+      "set": "Light-Consuming Darkness",
+      "img": "https://den-cards.pokellector.com/218/Espurr.SM3N.24.18212.png",
+      "rarity": "Common",
+      "cardNum": "24/51"
+    },
+    {
+      "name": "Meowstic",
+      "set": "Light-Consuming Darkness",
+      "img": "https://den-cards.pokellector.com/218/Meowstic.SM3N.25.18213.png",
+      "rarity": "Uncommon",
+      "cardNum": "25/51"
+    },
+    {
+      "name": "Necrozma GX",
+      "set": "Light-Consuming Darkness",
+      "img": "https://den-cards.pokellector.com/218/Necrozma-GX.SM3N.26.18063.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "26/51"
+    },
+    {
+      "name": "Rhyhorn",
+      "set": "Light-Consuming Darkness",
+      "img": "https://den-cards.pokellector.com/218/Rhyhorn.SM3N.27.18124.png",
+      "rarity": "Common",
+      "cardNum": "27/51"
+    },
+    {
+      "name": "Rhydon",
+      "set": "Light-Consuming Darkness",
+      "img": "https://den-cards.pokellector.com/218/Rhydon.SM3N.28.18214.png",
+      "rarity": "Common",
+      "cardNum": "28/51"
+    },
+    {
+      "name": "Rhyperior",
+      "set": "Light-Consuming Darkness",
+      "img": "https://den-cards.pokellector.com/218/Rhyperior.SM3N.29.18123.png",
+      "rarity": "Rare",
+      "cardNum": "29/51"
+    },
+    {
+      "name": "Sawk",
+      "set": "Light-Consuming Darkness",
+      "img": "https://den-cards.pokellector.com/218/Sawk.SM3N.30.18215.png",
+      "rarity": "Common",
+      "cardNum": "30/51"
+    },
+    {
+      "name": "Mudbray",
+      "set": "Light-Consuming Darkness",
+      "img": "https://den-cards.pokellector.com/218/Mudbray.SM3N.31.18216.png",
+      "rarity": "Common",
+      "cardNum": "31/51"
+    },
+    {
+      "name": "Mudsdale",
+      "set": "Light-Consuming Darkness",
+      "img": "https://den-cards.pokellector.com/218/Mudsdale.SM3N.32.18217.png",
+      "rarity": "Uncommon",
+      "cardNum": "32/51"
+    },
+    {
+      "name": "Marshadow GX",
+      "set": "Light-Consuming Darkness",
+      "img": "https://den-cards.pokellector.com/218/Marshadow-GX.SM3N.33.18146.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "33/51"
+    },
+    {
+      "name": "Alolan Rattata",
+      "set": "Light-Consuming Darkness",
+      "img": "https://den-cards.pokellector.com/218/Alolan-Rattata.SM3N.34.18218.png",
+      "rarity": "Common",
+      "cardNum": "34/51"
+    },
+    {
+      "name": "Alolan Raticate",
+      "set": "Light-Consuming Darkness",
+      "img": "https://den-cards.pokellector.com/218/Alolan-Raticate.SM3N.35.18219.png",
+      "rarity": "Uncommon",
+      "cardNum": "35/51"
+    },
+    {
+      "name": "Ralts",
+      "set": "Light-Consuming Darkness",
+      "img": "https://den-cards.pokellector.com/218/Ralts.SM3N.36.18154.png",
+      "rarity": "Common",
+      "cardNum": "36/51"
+    },
+    {
+      "name": "Kirlia",
+      "set": "Light-Consuming Darkness",
+      "img": "https://den-cards.pokellector.com/218/Kirlia.SM3N.37.18155.png",
+      "rarity": "Common",
+      "cardNum": "37/51"
+    },
+    {
+      "name": "Gardevoir GX",
+      "set": "Light-Consuming Darkness",
+      "img": "https://den-cards.pokellector.com/218/Gardevoir-GX.SM3N.38.18108.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "38/51"
+    },
+    {
+      "name": "Morelull",
+      "set": "Light-Consuming Darkness",
+      "img": "https://den-cards.pokellector.com/218/Morelull.SM3N.39.18152.png",
+      "rarity": "Common",
+      "cardNum": "39/51"
+    },
+    {
+      "name": "Shiinotic",
+      "set": "Light-Consuming Darkness",
+      "img": "https://den-cards.pokellector.com/218/Shiinotic.SM3N.40.18153.png",
+      "rarity": "Uncommon",
+      "cardNum": "40/51"
+    },
+    {
+      "name": "Zygarde",
+      "set": "Light-Consuming Darkness",
+      "img": "https://den-cards.pokellector.com/218/Zygarde.SM3N.41.18119.png",
+      "rarity": "Rare",
+      "cardNum": "41/51"
+    },
+    {
+      "name": "Porygon",
+      "set": "Light-Consuming Darkness",
+      "img": "https://den-cards.pokellector.com/218/Porygon.SM3N.42.18150.png",
+      "rarity": "Common",
+      "cardNum": "42/51"
+    },
+    {
+      "name": "Porygon 2",
+      "set": "Light-Consuming Darkness",
+      "img": "https://den-cards.pokellector.com/218/Porygon-2.SM3N.43.18151.png",
+      "rarity": "Common",
+      "cardNum": "43/51"
+    },
+    {
+      "name": "Porygon-Z",
+      "set": "Light-Consuming Darkness",
+      "img": "https://den-cards.pokellector.com/218/Porygon-Z.SM3N.44.18220.png",
+      "rarity": "Rare",
+      "cardNum": "44/51"
+    },
+    {
+      "name": "Stufful",
+      "set": "Light-Consuming Darkness",
+      "img": "https://den-cards.pokellector.com/218/Stufful.SM3N.45.18149.png",
+      "rarity": "Common",
+      "cardNum": "45/51"
+    },
+    {
+      "name": "Bewear",
+      "set": "Light-Consuming Darkness",
+      "img": "https://den-cards.pokellector.com/218/Bewear.SM3N.46.18087.png",
+      "rarity": "Uncommon",
+      "cardNum": "46/51"
+    },
+    {
+      "name": "Torment Spray",
+      "set": "Light-Consuming Darkness",
+      "img": "https://den-cards.pokellector.com/218/Torment-Spray.SM3N.47.18082.png",
+      "rarity": "Uncommon",
+      "cardNum": "47/51"
+    },
+    {
+      "name": "Super Scoop Up",
+      "set": "Light-Consuming Darkness",
+      "img": "https://den-cards.pokellector.com/218/Super-Scoop-Up.SM3N.48.18029.png",
+      "rarity": "Uncommon",
+      "cardNum": "48/51"
+    },
+    {
+      "name": "Guzma",
+      "set": "Light-Consuming Darkness",
+      "img": "https://den-cards.pokellector.com/218/Guzma.SM3N.49.18120.png",
+      "rarity": "Uncommon",
+      "cardNum": "49/51"
+    },
+    {
+      "name": "Wicke",
+      "set": "Light-Consuming Darkness",
+      "img": "https://den-cards.pokellector.com/218/Wicke.SM3N.50.18221.png",
+      "rarity": "Uncommon",
+      "cardNum": "50/51"
+    },
+    {
+      "name": "Port Town",
+      "set": "Light-Consuming Darkness",
+      "img": "https://den-cards.pokellector.com/218/Po-Town.SM3N.51.18222.png",
+      "rarity": "Uncommon",
+      "cardNum": "51/51"
+    },
+    {
+      "name": "Golisopod GX",
+      "set": "Light-Consuming Darkness",
+      "img": "https://den-cards.pokellector.com/218/Golisopod-GX.SM3N.52.18223.png",
+      "rarity": "Secret Rare",
+      "cardNum": "52/51"
+    },
+    {
+      "name": "Necrozma GX",
+      "set": "Light-Consuming Darkness",
+      "img": "https://den-cards.pokellector.com/218/Necrozma-GX.SM3N.53.18224.png",
+      "rarity": "Secret Rare",
+      "cardNum": "53/51"
+    },
+    {
+      "name": "Marshadow GX",
+      "set": "Light-Consuming Darkness",
+      "img": "https://den-cards.pokellector.com/218/Marshadow-GX.SM3N.54.18225.png",
+      "rarity": "Secret Rare",
+      "cardNum": "54/51"
+    },
+    {
+      "name": "Gardevoir GX",
+      "set": "Light-Consuming Darkness",
+      "img": "https://den-cards.pokellector.com/218/Gardevoir-GX.SM3N.55.18226.png",
+      "rarity": "Secret Rare",
+      "cardNum": "55/51"
+    },
+    {
+      "name": "Guzma",
+      "set": "Light-Consuming Darkness",
+      "img": "https://den-cards.pokellector.com/218/Guzma.SM3N.56.18132.png",
+      "rarity": "Secret Rare",
+      "cardNum": "56/51"
+    },
+    {
+      "name": "Wicke",
+      "set": "Light-Consuming Darkness",
+      "img": "https://den-cards.pokellector.com/218/Wicke.SM3N.57.18136.png",
+      "rarity": "Secret Rare",
+      "cardNum": "57/51"
+    },
+    {
+      "name": "Golisopod GX",
+      "set": "Light-Consuming Darkness",
+      "img": "https://den-cards.pokellector.com/218/Golisopod-GX.SM3N.58.18227.png",
+      "rarity": "Secret Rare",
+      "cardNum": "58/51"
+    },
+    {
+      "name": "Necrozma GX",
+      "set": "Light-Consuming Darkness",
+      "img": "https://den-cards.pokellector.com/218/Necrozma-GX.SM3N.59.18140.png",
+      "rarity": "Secret Rare",
+      "cardNum": "59/51"
+    },
+    {
+      "name": "Marshadow GX",
+      "set": "Light-Consuming Darkness",
+      "img": "https://den-cards.pokellector.com/218/Marshadow-GX.SM3N.60.18228.png",
+      "rarity": "Secret Rare",
+      "cardNum": "60/51"
+    },
+    {
+      "name": "Gardevoir GX",
+      "set": "Light-Consuming Darkness",
+      "img": "https://den-cards.pokellector.com/218/Gardevoir-GX.SM3N.61.18139.png",
+      "rarity": "Secret Rare",
+      "cardNum": "61/51"
+    },
+    {
+      "name": "Super Scoop Up",
+      "set": "Light-Consuming Darkness",
+      "img": "https://den-cards.pokellector.com/218/Super-Scoop-Up.SM3N.62.18229.png",
+      "rarity": "Secret Rare",
+      "cardNum": "62/51"
+    },
+    {
+      "name": "Rescue Stretcher",
+      "set": "Light-Consuming Darkness",
+      "img": "https://den-cards.pokellector.com/218/Rescue-Stretcher.SM3N.63.18230.png",
+      "rarity": "Secret Rare",
+      "cardNum": "63/51"
+    },
+    {
+      "name": "Fairy Energy",
+      "set": "Light-Consuming Darkness",
+      "img": "https://den-cards.pokellector.com/218/Fairy-Energy.SM3N.64.18231.png",
+      "rarity": "Secret Rare",
+      "cardNum": "64/51"
+    }
+  ]
+}

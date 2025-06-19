@@ -1,0 +1,929 @@
+{
+  "setName": "Gym Heroes",
+  "cards": [
+    {
+      "name": "Blaine's Moltres",
+      "set": "Gym Heroes",
+      "img": "https://den-cards.pokellector.com/117/Blaines-Moltres.G1.1.png",
+      "rarity": "Rare",
+      "cardNum": "1/132"
+    },
+    {
+      "name": "Brock's Rhydon",
+      "set": "Gym Heroes",
+      "img": "https://den-cards.pokellector.com/117/Brocks-Rhydon.G1.2.png",
+      "rarity": "Rare",
+      "cardNum": "2/132"
+    },
+    {
+      "name": "Erika's Clefable",
+      "set": "Gym Heroes",
+      "img": "https://den-cards.pokellector.com/117/Erikas-Clefable.G1.3.png",
+      "rarity": "Rare",
+      "cardNum": "3/132"
+    },
+    {
+      "name": "Erika's Dragonair",
+      "set": "Gym Heroes",
+      "img": "https://den-cards.pokellector.com/117/Erikas-Dragonair.G1.4.png",
+      "rarity": "Rare",
+      "cardNum": "4/132"
+    },
+    {
+      "name": "Erika's Vileplume",
+      "set": "Gym Heroes",
+      "img": "https://den-cards.pokellector.com/117/Erikas-Vileplume.G1.5.png",
+      "rarity": "Rare",
+      "cardNum": "5/132"
+    },
+    {
+      "name": "Lt. Surge's Electabuzz (lv 28)",
+      "set": "Gym Heroes",
+      "img": "https://den-cards.pokellector.com/117/Lt-Surges-Electabuzz-lv-28.G1.6.png",
+      "rarity": "Rare",
+      "cardNum": "6/132"
+    },
+    {
+      "name": "Lt. Surge's Fearow",
+      "set": "Gym Heroes",
+      "img": "https://den-cards.pokellector.com/117/Lt-Surges-Fearow.G1.7.png",
+      "rarity": "Rare",
+      "cardNum": "7/132"
+    },
+    {
+      "name": "Lt. Surge's Magneton",
+      "set": "Gym Heroes",
+      "img": "https://den-cards.pokellector.com/117/Lt-Surges-Magneton.G1.8.png",
+      "rarity": "Rare",
+      "cardNum": "8/132"
+    },
+    {
+      "name": "Misty's Seadra",
+      "set": "Gym Heroes",
+      "img": "https://den-cards.pokellector.com/117/Mistys-Seadra.G1.9.png",
+      "rarity": "Rare",
+      "cardNum": "9/132"
+    },
+    {
+      "name": "Misty's Tentacruel",
+      "set": "Gym Heroes",
+      "img": "https://den-cards.pokellector.com/117/Mistys-Tentacruel.G1.10.png",
+      "rarity": "Rare",
+      "cardNum": "10/132"
+    },
+    {
+      "name": "Rocket's Hitmonchan",
+      "set": "Gym Heroes",
+      "img": "https://den-cards.pokellector.com/117/Rockets-Hitmonchan.G1.11.png",
+      "rarity": "Rare",
+      "cardNum": "11/132"
+    },
+    {
+      "name": "Rocket's Moltres",
+      "set": "Gym Heroes",
+      "img": "https://den-cards.pokellector.com/117/Rockets-Moltres.G1.12.png",
+      "rarity": "Rare",
+      "cardNum": "12/132"
+    },
+    {
+      "name": "Rocket's Scyther",
+      "set": "Gym Heroes",
+      "img": "https://den-cards.pokellector.com/117/Rockets-Scyther.G1.13.png",
+      "rarity": "Rare",
+      "cardNum": "13/132"
+    },
+    {
+      "name": "Sabrina's Gengar",
+      "set": "Gym Heroes",
+      "img": "https://den-cards.pokellector.com/117/Sabrinas-Gengar.G1.14.png",
+      "rarity": "Rare",
+      "cardNum": "14/132"
+    },
+    {
+      "name": "Brock",
+      "set": "Gym Heroes",
+      "img": "https://den-cards.pokellector.com/117/Brock.G1.15.png",
+      "rarity": "Rare",
+      "cardNum": "15/132"
+    },
+    {
+      "name": "Erika",
+      "set": "Gym Heroes",
+      "img": "https://den-cards.pokellector.com/117/Erika.G1.16.png",
+      "rarity": "Rare",
+      "cardNum": "16/132"
+    },
+    {
+      "name": "Lt. Surge",
+      "set": "Gym Heroes",
+      "img": "https://den-cards.pokellector.com/117/Lt-Surge.G1.17.png",
+      "rarity": "Rare",
+      "cardNum": "17/132"
+    },
+    {
+      "name": "Misty",
+      "set": "Gym Heroes",
+      "img": "https://den-cards.pokellector.com/117/Misty.G1.18.png",
+      "rarity": "Rare",
+      "cardNum": "18/132"
+    },
+    {
+      "name": "The Rocket's Trap",
+      "set": "Gym Heroes",
+      "img": "https://den-cards.pokellector.com/117/The-Rockets-Trap.G1.19.png",
+      "rarity": "Rare",
+      "cardNum": "19/132"
+    },
+    {
+      "name": "Brock's Golem",
+      "set": "Gym Heroes",
+      "img": "https://den-cards.pokellector.com/117/Brocks-Golem.G1.20.png",
+      "rarity": "Rare",
+      "cardNum": "20/132"
+    },
+    {
+      "name": "Brock's Onix (lv 30)",
+      "set": "Gym Heroes",
+      "img": "https://den-cards.pokellector.com/117/Brocks-Onix-lv-30.G1.21.png",
+      "rarity": "Rare",
+      "cardNum": "21/132"
+    },
+    {
+      "name": "Brock's Rhyhorn (lv25)",
+      "set": "Gym Heroes",
+      "img": "https://den-cards.pokellector.com/117/Brocks-Rhyhorn-lv25.G1.22.png",
+      "rarity": "Rare",
+      "cardNum": "22/132"
+    },
+    {
+      "name": "Brock's Sandslash",
+      "set": "Gym Heroes",
+      "img": "https://den-cards.pokellector.com/117/Brocks-Sandslash.G1.23.png",
+      "rarity": "Rare",
+      "cardNum": "23/132"
+    },
+    {
+      "name": "Brock's Zubat (lv 5)",
+      "set": "Gym Heroes",
+      "img": "https://den-cards.pokellector.com/117/Brocks-Zubat-lv-5.G1.24.png",
+      "rarity": "Rare",
+      "cardNum": "24/132"
+    },
+    {
+      "name": "Erika's Clefairy",
+      "set": "Gym Heroes",
+      "img": "https://den-cards.pokellector.com/117/Erikas-Clefairy.G1.25.png",
+      "rarity": "Rare",
+      "cardNum": "25/132"
+    },
+    {
+      "name": "Erika's Victreebel",
+      "set": "Gym Heroes",
+      "img": "https://den-cards.pokellector.com/117/Erikas-Victreebel.G1.26.png",
+      "rarity": "Rare",
+      "cardNum": "26/132"
+    },
+    {
+      "name": "Lt. Surge's Electabuzz (lv 22)",
+      "set": "Gym Heroes",
+      "img": "https://den-cards.pokellector.com/117/Lt-Surges-Electabuzz-lv-22.G1.27.png",
+      "rarity": "Rare",
+      "cardNum": "27/132"
+    },
+    {
+      "name": "Lt. Surge's Raichu",
+      "set": "Gym Heroes",
+      "img": "https://den-cards.pokellector.com/117/Lt-Surges-Raichu.G1.28.png",
+      "rarity": "Rare",
+      "cardNum": "28/132"
+    },
+    {
+      "name": "Misty's Cloyster",
+      "set": "Gym Heroes",
+      "img": "https://den-cards.pokellector.com/117/Mistys-Cloyster.G1.29.png",
+      "rarity": "Rare",
+      "cardNum": "29/132"
+    },
+    {
+      "name": "Misty's Goldeen (lv 8)",
+      "set": "Gym Heroes",
+      "img": "https://den-cards.pokellector.com/117/Mistys-Goldeen-lv-8.G1.30.png",
+      "rarity": "Rare",
+      "cardNum": "30/132"
+    },
+    {
+      "name": "Misty's Poliwrath",
+      "set": "Gym Heroes",
+      "img": "https://den-cards.pokellector.com/117/Mistys-Poliwrath.G1.31.png",
+      "rarity": "Rare",
+      "cardNum": "31/132"
+    },
+    {
+      "name": "Misty's Tentacool (lv 12)",
+      "set": "Gym Heroes",
+      "img": "https://den-cards.pokellector.com/117/Mistys-Tentacool-lv-12.G1.32.png",
+      "rarity": "Rare",
+      "cardNum": "32/132"
+    },
+    {
+      "name": "Rocket's Snorlax",
+      "set": "Gym Heroes",
+      "img": "https://den-cards.pokellector.com/117/Rockets-Snorlax.G1.33.png",
+      "rarity": "Rare",
+      "cardNum": "33/132"
+    },
+    {
+      "name": "Sabrina's Venomoth",
+      "set": "Gym Heroes",
+      "img": "https://den-cards.pokellector.com/117/Sabrinas-Venomoth.G1.34.png",
+      "rarity": "Rare",
+      "cardNum": "34/132"
+    },
+    {
+      "name": "Blaine's Growlithe (lv 17)",
+      "set": "Gym Heroes",
+      "img": "https://den-cards.pokellector.com/117/Blaines-Growlithe-lv-17.G1.35.png",
+      "rarity": "Uncommon",
+      "cardNum": "35/132"
+    },
+    {
+      "name": "Blaine's Kangaskhan",
+      "set": "Gym Heroes",
+      "img": "https://den-cards.pokellector.com/117/Blaines-Kangaskhan.G1.36.png",
+      "rarity": "Uncommon",
+      "cardNum": "36/132"
+    },
+    {
+      "name": "Blaine's Magmar",
+      "set": "Gym Heroes",
+      "img": "https://den-cards.pokellector.com/117/Blaines-Magmar.G1.37.png",
+      "rarity": "Uncommon",
+      "cardNum": "37/132"
+    },
+    {
+      "name": "Brock's Geodude (lv 17)",
+      "set": "Gym Heroes",
+      "img": "https://den-cards.pokellector.com/117/Brocks-Geodude-lv-17.G1.38.png",
+      "rarity": "Uncommon",
+      "cardNum": "38/132"
+    },
+    {
+      "name": "Brock's Golbat",
+      "set": "Gym Heroes",
+      "img": "https://den-cards.pokellector.com/117/Brocks-Golbat.G1.39.png",
+      "rarity": "Uncommon",
+      "cardNum": "39/132"
+    },
+    {
+      "name": "Brock's Graveler",
+      "set": "Gym Heroes",
+      "img": "https://den-cards.pokellector.com/117/Brocks-Graveler.G1.40.png",
+      "rarity": "Uncommon",
+      "cardNum": "40/132"
+    },
+    {
+      "name": "Brock's Lickitung",
+      "set": "Gym Heroes",
+      "img": "https://den-cards.pokellector.com/117/Brocks-Lickitung.G1.41.png",
+      "rarity": "Uncommon",
+      "cardNum": "41/132"
+    },
+    {
+      "name": "Erika's Dratini",
+      "set": "Gym Heroes",
+      "img": "https://den-cards.pokellector.com/117/Erikas-Dratini.G1.42.png",
+      "rarity": "Uncommon",
+      "cardNum": "42/132"
+    },
+    {
+      "name": "Erika's Exeggcute (lv 15)",
+      "set": "Gym Heroes",
+      "img": "https://den-cards.pokellector.com/117/Erikas-Exeggcute-lv-15.G1.43.png",
+      "rarity": "Uncommon",
+      "cardNum": "43/132"
+    },
+    {
+      "name": "Erika's Exeggutor",
+      "set": "Gym Heroes",
+      "img": "https://den-cards.pokellector.com/117/Erikas-Exeggutor.G1.44.png",
+      "rarity": "Uncommon",
+      "cardNum": "44/132"
+    },
+    {
+      "name": "Erika's Gloom (lv 24)",
+      "set": "Gym Heroes",
+      "img": "https://den-cards.pokellector.com/117/Erikas-Gloom-lv-24.G1.45.png",
+      "rarity": "Uncommon",
+      "cardNum": "45/132"
+    },
+    {
+      "name": "Erika's Gloom (lv 28)",
+      "set": "Gym Heroes",
+      "img": "https://den-cards.pokellector.com/117/Erikas-Gloom-lv-28.G1.46.png",
+      "rarity": "Uncommon",
+      "cardNum": "46/132"
+    },
+    {
+      "name": "Erika's Oddish (lv 12)",
+      "set": "Gym Heroes",
+      "img": "https://den-cards.pokellector.com/117/Erikas-Oddish-lv-12.G1.47.png",
+      "rarity": "Uncommon",
+      "cardNum": "47/132"
+    },
+    {
+      "name": "Erika's Weepinbell (lv 26)",
+      "set": "Gym Heroes",
+      "img": "https://den-cards.pokellector.com/117/Erikas-Weepinbell-lv-26.G1.48.png",
+      "rarity": "Uncommon",
+      "cardNum": "48/132"
+    },
+    {
+      "name": "Erika's Weepinbell (lv 30)",
+      "set": "Gym Heroes",
+      "img": "https://den-cards.pokellector.com/117/Erikas-Weepinbell-lv-30.G1.49.png",
+      "rarity": "Uncommon",
+      "cardNum": "49/132"
+    },
+    {
+      "name": "Lt. Surge's Magnemite (lv 10)",
+      "set": "Gym Heroes",
+      "img": "https://den-cards.pokellector.com/117/Lt-Surges-Magnemite-lv-10.G1.50.png",
+      "rarity": "Uncommon",
+      "cardNum": "50/132"
+    },
+    {
+      "name": "Lt. Surge's Raticate",
+      "set": "Gym Heroes",
+      "img": "https://den-cards.pokellector.com/117/Lt-Surges-Raticate.G1.51.png",
+      "rarity": "Uncommon",
+      "cardNum": "51/132"
+    },
+    {
+      "name": "Lt. Surge's Spearow (lv 8)",
+      "set": "Gym Heroes",
+      "img": "https://den-cards.pokellector.com/117/Lt-Surges-Spearow-lv-8.G1.52.png",
+      "rarity": "Uncommon",
+      "cardNum": "52/132"
+    },
+    {
+      "name": "Misty's Poliwhirl",
+      "set": "Gym Heroes",
+      "img": "https://den-cards.pokellector.com/117/Mistys-Poliwhirl.G1.53.png",
+      "rarity": "Uncommon",
+      "cardNum": "53/132"
+    },
+    {
+      "name": "Misty's Psyduck",
+      "set": "Gym Heroes",
+      "img": "https://den-cards.pokellector.com/117/Mistys-Psyduck.G1.54.png",
+      "rarity": "Uncommon",
+      "cardNum": "54/132"
+    },
+    {
+      "name": "Misty's Seaking",
+      "set": "Gym Heroes",
+      "img": "https://den-cards.pokellector.com/117/Mistys-Seaking.G1.55.png",
+      "rarity": "Uncommon",
+      "cardNum": "55/132"
+    },
+    {
+      "name": "Misty's Starmie",
+      "set": "Gym Heroes",
+      "img": "https://den-cards.pokellector.com/117/Mistys-Starmie.G1.56.png",
+      "rarity": "Uncommon",
+      "cardNum": "56/132"
+    },
+    {
+      "name": "Misty's Tentacool (lv 16)",
+      "set": "Gym Heroes",
+      "img": "https://den-cards.pokellector.com/117/Mistys-Tentacool-lv-16.G1.57.png",
+      "rarity": "Uncommon",
+      "cardNum": "57/132"
+    },
+    {
+      "name": "Sabrina's Haunter",
+      "set": "Gym Heroes",
+      "img": "https://den-cards.pokellector.com/117/Sabrinas-Haunter.G1.58.png",
+      "rarity": "Uncommon",
+      "cardNum": "58/132"
+    },
+    {
+      "name": "Sabrina's Jynx",
+      "set": "Gym Heroes",
+      "img": "https://den-cards.pokellector.com/117/Sabrinas-Jynx.G1.59.png",
+      "rarity": "Uncommon",
+      "cardNum": "59/132"
+    },
+    {
+      "name": "Sabrina's Slowbro",
+      "set": "Gym Heroes",
+      "img": "https://den-cards.pokellector.com/117/Sabrinas-Slowbro.G1.60.png",
+      "rarity": "Uncommon",
+      "cardNum": "60/132"
+    },
+    {
+      "name": "Blaine's Charmander",
+      "set": "Gym Heroes",
+      "img": "https://den-cards.pokellector.com/117/Blaines-Charmander.G1.61.png",
+      "rarity": "Common",
+      "cardNum": "61/132"
+    },
+    {
+      "name": "Blaine's Growlithe (lv 15)",
+      "set": "Gym Heroes",
+      "img": "https://den-cards.pokellector.com/117/Blaines-Growlithe-lv-15.G1.62.png",
+      "rarity": "Common",
+      "cardNum": "62/132"
+    },
+    {
+      "name": "Blaine's Ponyta",
+      "set": "Gym Heroes",
+      "img": "https://den-cards.pokellector.com/117/Blaines-Ponyta.G1.63.png",
+      "rarity": "Common",
+      "cardNum": "63/132"
+    },
+    {
+      "name": "Blaine's Tauros",
+      "set": "Gym Heroes",
+      "img": "https://den-cards.pokellector.com/117/Blaines-Tauros.G1.64.png",
+      "rarity": "Common",
+      "cardNum": "64/132"
+    },
+    {
+      "name": "Blaine's Vulpix",
+      "set": "Gym Heroes",
+      "img": "https://den-cards.pokellector.com/117/Blaines-Vulpix.G1.65.png",
+      "rarity": "Common",
+      "cardNum": "65/132"
+    },
+    {
+      "name": "Brock's Geodude (lv 13)",
+      "set": "Gym Heroes",
+      "img": "https://den-cards.pokellector.com/117/Brocks-Geodude-lv-13.G1.66.png",
+      "rarity": "Common",
+      "cardNum": "66/132"
+    },
+    {
+      "name": "Brock's Mankey (lv 10)",
+      "set": "Gym Heroes",
+      "img": "https://den-cards.pokellector.com/117/Brocks-Mankey-lv-10.G1.67.png",
+      "rarity": "Common",
+      "cardNum": "67/132"
+    },
+    {
+      "name": "Brock's Mankey (lv 12)",
+      "set": "Gym Heroes",
+      "img": "https://den-cards.pokellector.com/117/Brocks-Mankey-lv-12.G1.68.png",
+      "rarity": "Common",
+      "cardNum": "68/132"
+    },
+    {
+      "name": "Brock's Onix (lv 41)",
+      "set": "Gym Heroes",
+      "img": "https://den-cards.pokellector.com/117/Brocks-Onix-lv-41.G1.69.png",
+      "rarity": "Common",
+      "cardNum": "69/132"
+    },
+    {
+      "name": "Brock's Rhyhorn (lv 29)",
+      "set": "Gym Heroes",
+      "img": "https://den-cards.pokellector.com/117/Brocks-Rhyhorn-lv-29.G1.70.png",
+      "rarity": "Common",
+      "cardNum": "70/132"
+    },
+    {
+      "name": "Brock's Sandshrew (lv 13)",
+      "set": "Gym Heroes",
+      "img": "https://den-cards.pokellector.com/117/Brocks-Sandshrew-lv-13.G1.71.png",
+      "rarity": "Common",
+      "cardNum": "71/132"
+    },
+    {
+      "name": "Brock's Sandshrew (lv 20)",
+      "set": "Gym Heroes",
+      "img": "https://den-cards.pokellector.com/117/Brocks-Sandshrew-lv-20.G1.72.png",
+      "rarity": "Common",
+      "cardNum": "72/132"
+    },
+    {
+      "name": "Brock's Vulpix",
+      "set": "Gym Heroes",
+      "img": "https://den-cards.pokellector.com/117/Brocks-Vulpix.G1.73.png",
+      "rarity": "Common",
+      "cardNum": "73/132"
+    },
+    {
+      "name": "Brock's Zubat (lv 11)",
+      "set": "Gym Heroes",
+      "img": "https://den-cards.pokellector.com/117/Brocks-Zubat-lv-11.G1.74.png",
+      "rarity": "Common",
+      "cardNum": "74/132"
+    },
+    {
+      "name": "Erika's Bellsprout (lv 12)",
+      "set": "Gym Heroes",
+      "img": "https://den-cards.pokellector.com/117/Erikas-Bellsprout-lv-12.G1.75.png",
+      "rarity": "Common",
+      "cardNum": "75/132"
+    },
+    {
+      "name": "Erika's Bellsprout (lv 15)",
+      "set": "Gym Heroes",
+      "img": "https://den-cards.pokellector.com/117/Erikas-Bellsprout-lv-15.G1.76.png",
+      "rarity": "Common",
+      "cardNum": "76/132"
+    },
+    {
+      "name": "Erika's Exeggcute (lv 12)",
+      "set": "Gym Heroes",
+      "img": "https://den-cards.pokellector.com/117/Erikas-Exeggcute-lv-12.G1.77.png",
+      "rarity": "Common",
+      "cardNum": "77/132"
+    },
+    {
+      "name": "Erika's Oddish (lv 15)",
+      "set": "Gym Heroes",
+      "img": "https://den-cards.pokellector.com/117/Erikas-Oddish-lv-15.G1.78.png",
+      "rarity": "Common",
+      "cardNum": "78/132"
+    },
+    {
+      "name": "Erika's Tangela",
+      "set": "Gym Heroes",
+      "img": "https://den-cards.pokellector.com/117/Erikas-Tangela.G1.79.png",
+      "rarity": "Common",
+      "cardNum": "79/132"
+    },
+    {
+      "name": "Lt. Surge's Magnemite (lv 12)",
+      "set": "Gym Heroes",
+      "img": "https://den-cards.pokellector.com/117/Lt-Surges-Magnemite-lv-12.G1.80.png",
+      "rarity": "Common",
+      "cardNum": "80/132"
+    },
+    {
+      "name": "Lt. Surge's Pikachu",
+      "set": "Gym Heroes",
+      "img": "https://den-cards.pokellector.com/117/Lt-Surges-Pikachu.G1.81.png",
+      "rarity": "Common",
+      "cardNum": "81/132"
+    },
+    {
+      "name": "Lt. Surge's Rattata",
+      "set": "Gym Heroes",
+      "img": "https://den-cards.pokellector.com/117/Lt-Surges-Rattata.G1.82.png",
+      "rarity": "Common",
+      "cardNum": "82/132"
+    },
+    {
+      "name": "Lt. Surge's Spearow (lv 17)",
+      "set": "Gym Heroes",
+      "img": "https://den-cards.pokellector.com/117/Lt-Surges-Spearow-lv-17.G1.83.png",
+      "rarity": "Common",
+      "cardNum": "83/132"
+    },
+    {
+      "name": "Lt. Surge's Voltorb",
+      "set": "Gym Heroes",
+      "img": "https://den-cards.pokellector.com/117/Lt-Surges-Voltorb.G1.84.png",
+      "rarity": "Common",
+      "cardNum": "84/132"
+    },
+    {
+      "name": "Misty's Goldeen (lv 10)",
+      "set": "Gym Heroes",
+      "img": "https://den-cards.pokellector.com/117/Mistys-Goldeen-lv-10.G1.85.png",
+      "rarity": "Common",
+      "cardNum": "85/132"
+    },
+    {
+      "name": "Misty's Horsea",
+      "set": "Gym Heroes",
+      "img": "https://den-cards.pokellector.com/117/Mistys-Horsea.G1.86.png",
+      "rarity": "Common",
+      "cardNum": "86/132"
+    },
+    {
+      "name": "Misty's Poliwag",
+      "set": "Gym Heroes",
+      "img": "https://den-cards.pokellector.com/117/Mistys-Poliwag.G1.87.png",
+      "rarity": "Common",
+      "cardNum": "87/132"
+    },
+    {
+      "name": "Misty's Seel",
+      "set": "Gym Heroes",
+      "img": "https://den-cards.pokellector.com/117/Mistys-Seel.G1.88.png",
+      "rarity": "Common",
+      "cardNum": "88/132"
+    },
+    {
+      "name": "Misty's Shellder",
+      "set": "Gym Heroes",
+      "img": "https://den-cards.pokellector.com/117/Mistys-Shellder.G1.89.png",
+      "rarity": "Common",
+      "cardNum": "89/132"
+    },
+    {
+      "name": "Misty's Staryu",
+      "set": "Gym Heroes",
+      "img": "https://den-cards.pokellector.com/117/Mistys-Staryu.G1.90.png",
+      "rarity": "Common",
+      "cardNum": "90/132"
+    },
+    {
+      "name": "Sabrina's Abra",
+      "set": "Gym Heroes",
+      "img": "https://den-cards.pokellector.com/117/Sabrinas-Abra.G1.91.png",
+      "rarity": "Common",
+      "cardNum": "91/132"
+    },
+    {
+      "name": "Sabrina's Drowzee",
+      "set": "Gym Heroes",
+      "img": "https://den-cards.pokellector.com/117/Sabrinas-Drowzee.G1.92.png",
+      "rarity": "Common",
+      "cardNum": "92/132"
+    },
+    {
+      "name": "Sabrina's Gastly",
+      "set": "Gym Heroes",
+      "img": "https://den-cards.pokellector.com/117/Sabrinas-Gastly.G1.93.png",
+      "rarity": "Common",
+      "cardNum": "93/132"
+    },
+    {
+      "name": "Sabrina's Mr. Mime",
+      "set": "Gym Heroes",
+      "img": "https://den-cards.pokellector.com/117/Sabrinas-Mr-Mime.G1.94.png",
+      "rarity": "Common",
+      "cardNum": "94/132"
+    },
+    {
+      "name": "Sabrina's Slowpoke",
+      "set": "Gym Heroes",
+      "img": "https://den-cards.pokellector.com/117/Sabrinas-Slowpoke.G1.95.png",
+      "rarity": "Common",
+      "cardNum": "95/132"
+    },
+    {
+      "name": "Sabrina's Venonat",
+      "set": "Gym Heroes",
+      "img": "https://den-cards.pokellector.com/117/Sabrinas-Venonat.G1.96.png",
+      "rarity": "Common",
+      "cardNum": "96/132"
+    },
+    {
+      "name": "Blaine's Quiz #1",
+      "set": "Gym Heroes",
+      "img": "https://den-cards.pokellector.com/117/Blaines-Quiz-1.G1.97.png",
+      "rarity": "Rare",
+      "cardNum": "97/132"
+    },
+    {
+      "name": "Brock",
+      "set": "Gym Heroes",
+      "img": "https://den-cards.pokellector.com/117/Brock.G1.98.png",
+      "rarity": "Rare",
+      "cardNum": "98/132"
+    },
+    {
+      "name": "Charity",
+      "set": "Gym Heroes",
+      "img": "https://den-cards.pokellector.com/117/Charity.G1.99.png",
+      "rarity": "Rare",
+      "cardNum": "99/132"
+    },
+    {
+      "name": "Erika",
+      "set": "Gym Heroes",
+      "img": "https://den-cards.pokellector.com/117/Erika.G1.100.png",
+      "rarity": "Rare",
+      "cardNum": "100/132"
+    },
+    {
+      "name": "Lt. Surge",
+      "set": "Gym Heroes",
+      "img": "https://den-cards.pokellector.com/117/Lt-Surge.G1.101.png",
+      "rarity": "Rare",
+      "cardNum": "101/132"
+    },
+    {
+      "name": "Misty",
+      "set": "Gym Heroes",
+      "img": "https://den-cards.pokellector.com/117/Misty.G1.102.png",
+      "rarity": "Rare",
+      "cardNum": "102/132"
+    },
+    {
+      "name": "No Removal Gym",
+      "set": "Gym Heroes",
+      "img": "https://den-cards.pokellector.com/117/No-Removal-Gym.G1.103.png",
+      "rarity": "Rare",
+      "cardNum": "103/132"
+    },
+    {
+      "name": "Rocket's Training Gym",
+      "set": "Gym Heroes",
+      "img": "https://den-cards.pokellector.com/117/Rockets-Training-Gym.G1.104.png",
+      "rarity": "Rare",
+      "cardNum": "104/132"
+    },
+    {
+      "name": "Blaine's Last Resort",
+      "set": "Gym Heroes",
+      "img": "https://den-cards.pokellector.com/117/Blaines-Last-Resort.G1.105.png",
+      "rarity": "Uncommon",
+      "cardNum": "105/132"
+    },
+    {
+      "name": "Brock's Training Method",
+      "set": "Gym Heroes",
+      "img": "https://den-cards.pokellector.com/117/Brocks-Training-Method.G1.106.png",
+      "rarity": "Uncommon",
+      "cardNum": "106/132"
+    },
+    {
+      "name": "Celadon City Gym",
+      "set": "Gym Heroes",
+      "img": "https://den-cards.pokellector.com/117/Celadon-City-Gym.G1.107.png",
+      "rarity": "Uncommon",
+      "cardNum": "107/132"
+    },
+    {
+      "name": "Cerulean City Gym",
+      "set": "Gym Heroes",
+      "img": "https://den-cards.pokellector.com/117/Cerulean-City-Gym.G1.108.png",
+      "rarity": "Uncommon",
+      "cardNum": "108/132"
+    },
+    {
+      "name": "Erika's Maids",
+      "set": "Gym Heroes",
+      "img": "https://den-cards.pokellector.com/117/Erikas-Maids.G1.109.png",
+      "rarity": "Uncommon",
+      "cardNum": "109/132"
+    },
+    {
+      "name": "Erika's Perfume",
+      "set": "Gym Heroes",
+      "img": "https://den-cards.pokellector.com/117/Erikas-Perfume.G1.110.png",
+      "rarity": "Uncommon",
+      "cardNum": "110/132"
+    },
+    {
+      "name": "Good Manners",
+      "set": "Gym Heroes",
+      "img": "https://den-cards.pokellector.com/117/Good-Manners.G1.111.png",
+      "rarity": "Uncommon",
+      "cardNum": "111/132"
+    },
+    {
+      "name": "Lt. Surge's Treaty",
+      "set": "Gym Heroes",
+      "img": "https://den-cards.pokellector.com/117/Lt-Surges-Treaty.G1.112.png",
+      "rarity": "Uncommon",
+      "cardNum": "112/132"
+    },
+    {
+      "name": "Minion of Team Rocket",
+      "set": "Gym Heroes",
+      "img": "https://den-cards.pokellector.com/117/Minion-of-Team-Rocket.G1.113.png",
+      "rarity": "Uncommon",
+      "cardNum": "113/132"
+    },
+    {
+      "name": "Misty's Wrath",
+      "set": "Gym Heroes",
+      "img": "https://den-cards.pokellector.com/117/Mistys-Wrath.G1.114.png",
+      "rarity": "Uncommon",
+      "cardNum": "114/132"
+    },
+    {
+      "name": "Pewter City Gym",
+      "set": "Gym Heroes",
+      "img": "https://den-cards.pokellector.com/117/Pewter-City-Gym.G1.115.png",
+      "rarity": "Uncommon",
+      "cardNum": "115/132"
+    },
+    {
+      "name": "Recall",
+      "set": "Gym Heroes",
+      "img": "https://den-cards.pokellector.com/117/Recall.G1.116.png",
+      "rarity": "Uncommon",
+      "cardNum": "116/132"
+    },
+    {
+      "name": "Sabrina's ESP",
+      "set": "Gym Heroes",
+      "img": "https://den-cards.pokellector.com/117/Sabrinas-ESP.G1.117.png",
+      "rarity": "Uncommon",
+      "cardNum": "117/132"
+    },
+    {
+      "name": "Secret Mission",
+      "set": "Gym Heroes",
+      "img": "https://den-cards.pokellector.com/117/Secret-Mission.G1.118.png",
+      "rarity": "Uncommon",
+      "cardNum": "118/132"
+    },
+    {
+      "name": "Tickling Machine",
+      "set": "Gym Heroes",
+      "img": "https://den-cards.pokellector.com/117/Tickling-Machine.G1.119.png",
+      "rarity": "Uncommon",
+      "cardNum": "119/132"
+    },
+    {
+      "name": "Vermillion City Gym",
+      "set": "Gym Heroes",
+      "img": "https://den-cards.pokellector.com/117/Vermillion-City-Gym.G1.120.png",
+      "rarity": "Uncommon",
+      "cardNum": "120/132"
+    },
+    {
+      "name": "Blaine's Gamble",
+      "set": "Gym Heroes",
+      "img": "https://den-cards.pokellector.com/117/Blaines-Gamble.G1.121.png",
+      "rarity": "Common",
+      "cardNum": "121/132"
+    },
+    {
+      "name": "Energy Flow",
+      "set": "Gym Heroes",
+      "img": "https://den-cards.pokellector.com/117/Energy-Flow.G1.122.png",
+      "rarity": "Common",
+      "cardNum": "122/132"
+    },
+    {
+      "name": "Misty's Duel",
+      "set": "Gym Heroes",
+      "img": "https://den-cards.pokellector.com/117/Mistys-Duel.G1.123.png",
+      "rarity": "Common",
+      "cardNum": "123/132"
+    },
+    {
+      "name": "Narrow Gym",
+      "set": "Gym Heroes",
+      "img": "https://den-cards.pokellector.com/117/Narrow-Gym.G1.124.png",
+      "rarity": "Common",
+      "cardNum": "124/132"
+    },
+    {
+      "name": "Sabrina's Gaze",
+      "set": "Gym Heroes",
+      "img": "https://den-cards.pokellector.com/117/Sabrinas-Gaze.G1.125.png",
+      "rarity": "Common",
+      "cardNum": "125/132"
+    },
+    {
+      "name": "Trash Exchange",
+      "set": "Gym Heroes",
+      "img": "https://den-cards.pokellector.com/117/Trash-Exchange.G1.126.png",
+      "rarity": "Common",
+      "cardNum": "126/132"
+    },
+    {
+      "name": "Fighting Energy",
+      "set": "Gym Heroes",
+      "img": "https://den-cards.pokellector.com/117/Fighting-Energy.G1.127.png",
+      "rarity": "Common",
+      "cardNum": "127/132"
+    },
+    {
+      "name": "Fire Energy",
+      "set": "Gym Heroes",
+      "img": "https://den-cards.pokellector.com/117/Fire-Energy.G1.128.png",
+      "rarity": "Common",
+      "cardNum": "128/132"
+    },
+    {
+      "name": "Grass Energy",
+      "set": "Gym Heroes",
+      "img": "https://den-cards.pokellector.com/117/Grass-Energy.G1.129.png",
+      "rarity": "Common",
+      "cardNum": "129/132"
+    },
+    {
+      "name": "Lightning Energy",
+      "set": "Gym Heroes",
+      "img": "https://den-cards.pokellector.com/117/Lightning-Energy.G1.130.png",
+      "rarity": "Common",
+      "cardNum": "130/132"
+    },
+    {
+      "name": "Psychic Energy",
+      "set": "Gym Heroes",
+      "img": "https://den-cards.pokellector.com/117/Psychic-Energy.G1.131.png",
+      "rarity": "Common",
+      "cardNum": "131/132"
+    },
+    {
+      "name": "Water Energy",
+      "set": "Gym Heroes",
+      "img": "https://den-cards.pokellector.com/117/Water-Energy.G1.132.png",
+      "rarity": "Common",
+      "cardNum": "132/132"
+    }
+  ]
+}

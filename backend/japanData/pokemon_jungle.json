@@ -1,0 +1,341 @@
+{
+  "setName": "Pokemon Jungle",
+  "cards": [
+    {
+      "name": "Nidoran♀",
+      "set": "Pokemon Jungle",
+      "img": "https://den-cards.pokellector.com/313/Nidoran.B02.1.38164.png",
+      "rarity": "Common",
+      "cardNum": "1/48"
+    },
+    {
+      "name": "Oddish",
+      "set": "Pokemon Jungle",
+      "img": "https://den-cards.pokellector.com/313/Oddish.B02.2.38165.png",
+      "rarity": "Common",
+      "cardNum": "2/48"
+    },
+    {
+      "name": "Paras",
+      "set": "Pokemon Jungle",
+      "img": "https://den-cards.pokellector.com/313/Paras.B02.3.38166.png",
+      "rarity": "Common",
+      "cardNum": "3/48"
+    },
+    {
+      "name": "Venonat",
+      "set": "Pokemon Jungle",
+      "img": "https://den-cards.pokellector.com/313/Venonat.B02.4.38167.png",
+      "rarity": "Common",
+      "cardNum": "4/48"
+    },
+    {
+      "name": "Bellsprout",
+      "set": "Pokemon Jungle",
+      "img": "https://den-cards.pokellector.com/313/Bellsprout.B02.5.38168.png",
+      "rarity": "Common",
+      "cardNum": "5/48"
+    },
+    {
+      "name": "Exeggcute",
+      "set": "Pokemon Jungle",
+      "img": "https://den-cards.pokellector.com/313/Exeggcute.B02.6.38169.png",
+      "rarity": "Common",
+      "cardNum": "6/48"
+    },
+    {
+      "name": "Butterfree",
+      "set": "Pokemon Jungle",
+      "img": "https://den-cards.pokellector.com/313/Butterfree.B02.7.38170.png",
+      "rarity": "Uncommon",
+      "cardNum": "7/48"
+    },
+    {
+      "name": "Nidorina",
+      "set": "Pokemon Jungle",
+      "img": "https://den-cards.pokellector.com/313/Nidorina.B02.8.38171.png",
+      "rarity": "Uncommon",
+      "cardNum": "8/48"
+    },
+    {
+      "name": "Gloom",
+      "set": "Pokemon Jungle",
+      "img": "https://den-cards.pokellector.com/313/Gloom.B02.9.38172.png",
+      "rarity": "Uncommon",
+      "cardNum": "9/48"
+    },
+    {
+      "name": "Parasect",
+      "set": "Pokemon Jungle",
+      "img": "https://den-cards.pokellector.com/313/Parasect.B02.10.38173.png",
+      "rarity": "Uncommon",
+      "cardNum": "10/48"
+    },
+    {
+      "name": "Weepinbell",
+      "set": "Pokemon Jungle",
+      "img": "https://den-cards.pokellector.com/313/Weepinbell.B02.11.38174.png",
+      "rarity": "Uncommon",
+      "cardNum": "11/48"
+    },
+    {
+      "name": "Exeggutor",
+      "set": "Pokemon Jungle",
+      "img": "https://den-cards.pokellector.com/313/Exeggutor.B02.12.38175.png",
+      "rarity": "Uncommon",
+      "cardNum": "12/48"
+    },
+    {
+      "name": "Nidoqueen",
+      "set": "Pokemon Jungle",
+      "img": "https://den-cards.pokellector.com/313/Nidoqueen.B02.13.38176.png",
+      "rarity": "Rare",
+      "cardNum": "13/48"
+    },
+    {
+      "name": "Vileplume",
+      "set": "Pokemon Jungle",
+      "img": "https://den-cards.pokellector.com/313/Vileplume.B02.14.38177.png",
+      "rarity": "Rare",
+      "cardNum": "14/48"
+    },
+    {
+      "name": "Venomoth",
+      "set": "Pokemon Jungle",
+      "img": "https://den-cards.pokellector.com/313/Venomoth.B02.15.38178.png",
+      "rarity": "Rare",
+      "cardNum": "15/48"
+    },
+    {
+      "name": "Victreebel",
+      "set": "Pokemon Jungle",
+      "img": "https://den-cards.pokellector.com/313/Victreebel.B02.16.38179.png",
+      "rarity": "Rare",
+      "cardNum": "16/48"
+    },
+    {
+      "name": "Scyther",
+      "set": "Pokemon Jungle",
+      "img": "https://den-cards.pokellector.com/313/Scyther.B02.17.38180.png",
+      "rarity": "Rare",
+      "cardNum": "17/48"
+    },
+    {
+      "name": "Pinsir",
+      "set": "Pokemon Jungle",
+      "img": "https://den-cards.pokellector.com/313/Pinsir.B02.18.38181.png",
+      "rarity": "Rare",
+      "cardNum": "18/48"
+    },
+    {
+      "name": "Rapidash",
+      "set": "Pokemon Jungle",
+      "img": "https://den-cards.pokellector.com/313/Rapidash.B02.19.38182.png",
+      "rarity": "Uncommon",
+      "cardNum": "19/48"
+    },
+    {
+      "name": "Flareon",
+      "set": "Pokemon Jungle",
+      "img": "https://den-cards.pokellector.com/313/Flareon.B02.20.38183.png",
+      "rarity": "Rare",
+      "cardNum": "20/48"
+    },
+    {
+      "name": "Goldeen",
+      "set": "Pokemon Jungle",
+      "img": "https://den-cards.pokellector.com/313/Goldeen.B02.21.38184.png",
+      "rarity": "Common",
+      "cardNum": "21/48"
+    },
+    {
+      "name": "Seaking",
+      "set": "Pokemon Jungle",
+      "img": "https://den-cards.pokellector.com/313/Seaking.B02.22.38185.png",
+      "rarity": "Uncommon",
+      "cardNum": "22/48"
+    },
+    {
+      "name": "Vaporeon",
+      "set": "Pokemon Jungle",
+      "img": "https://den-cards.pokellector.com/313/Vaporeon.B02.23.38186.png",
+      "rarity": "Rare",
+      "cardNum": "23/48"
+    },
+    {
+      "name": "Pikachu",
+      "set": "Pokemon Jungle",
+      "img": "https://den-cards.pokellector.com/313/Pikachu.B02.24.38187.png",
+      "rarity": "Common",
+      "cardNum": "24/48"
+    },
+    {
+      "name": "Electrode",
+      "set": "Pokemon Jungle",
+      "img": "https://den-cards.pokellector.com/313/Electrode.B02.25.38188.png",
+      "rarity": "Rare",
+      "cardNum": "25/48"
+    },
+    {
+      "name": "Jolteon",
+      "set": "Pokemon Jungle",
+      "img": "https://den-cards.pokellector.com/313/Jolteon.B02.26.38189.png",
+      "rarity": "Rare",
+      "cardNum": "26/48"
+    },
+    {
+      "name": "Mr. Mime",
+      "set": "Pokemon Jungle",
+      "img": "https://den-cards.pokellector.com/313/Mr-Mime.B02.27.38190.png",
+      "rarity": "Rare",
+      "cardNum": "27/48"
+    },
+    {
+      "name": "Mankey",
+      "set": "Pokemon Jungle",
+      "img": "https://den-cards.pokellector.com/313/Mankey.B02.28.38191.png",
+      "rarity": "Common",
+      "cardNum": "28/48"
+    },
+    {
+      "name": "Cubone",
+      "set": "Pokemon Jungle",
+      "img": "https://den-cards.pokellector.com/313/Cubone.B02.29.38192.png",
+      "rarity": "Common",
+      "cardNum": "29/48"
+    },
+    {
+      "name": "Rhyhorn",
+      "set": "Pokemon Jungle",
+      "img": "https://den-cards.pokellector.com/313/Rhyhorn.B02.30.38193.png",
+      "rarity": "Common",
+      "cardNum": "30/48"
+    },
+    {
+      "name": "Primeape",
+      "set": "Pokemon Jungle",
+      "img": "https://den-cards.pokellector.com/313/Primeape.B02.31.38194.png",
+      "rarity": "Uncommon",
+      "cardNum": "31/48"
+    },
+    {
+      "name": "Marowak",
+      "set": "Pokemon Jungle",
+      "img": "https://den-cards.pokellector.com/313/Marowak.B02.32.38195.png",
+      "rarity": "Uncommon",
+      "cardNum": "32/48"
+    },
+    {
+      "name": "Rhydon",
+      "set": "Pokemon Jungle",
+      "img": "https://den-cards.pokellector.com/313/Rhydon.B02.33.38196.png",
+      "rarity": "Uncommon",
+      "cardNum": "33/48"
+    },
+    {
+      "name": "Spearow",
+      "set": "Pokemon Jungle",
+      "img": "https://den-cards.pokellector.com/313/Spearow.B02.34.38197.png",
+      "rarity": "Common",
+      "cardNum": "34/48"
+    },
+    {
+      "name": "Jigglypuff",
+      "set": "Pokemon Jungle",
+      "img": "https://den-cards.pokellector.com/313/Jigglypuff.B02.35.38198.png",
+      "rarity": "Common",
+      "cardNum": "35/48"
+    },
+    {
+      "name": "Meowth",
+      "set": "Pokemon Jungle",
+      "img": "https://den-cards.pokellector.com/313/Meowth.B02.36.38199.png",
+      "rarity": "Common",
+      "cardNum": "36/48"
+    },
+    {
+      "name": "Eevee",
+      "set": "Pokemon Jungle",
+      "img": "https://den-cards.pokellector.com/313/Eevee.B02.37.38200.png",
+      "rarity": "Common",
+      "cardNum": "37/48"
+    },
+    {
+      "name": "Fearow",
+      "set": "Pokemon Jungle",
+      "img": "https://den-cards.pokellector.com/313/Fearow.B02.38.38201.png",
+      "rarity": "Uncommon",
+      "cardNum": "38/48"
+    },
+    {
+      "name": "Persian",
+      "set": "Pokemon Jungle",
+      "img": "https://den-cards.pokellector.com/313/Persian.B02.39.38202.png",
+      "rarity": "Uncommon",
+      "cardNum": "39/48"
+    },
+    {
+      "name": "Dodrio",
+      "set": "Pokemon Jungle",
+      "img": "https://den-cards.pokellector.com/313/Dodrio.B02.40.38203.png",
+      "rarity": "Uncommon",
+      "cardNum": "40/48"
+    },
+    {
+      "name": "Lickitung",
+      "set": "Pokemon Jungle",
+      "img": "https://den-cards.pokellector.com/313/Lickitung.B02.41.38204.png",
+      "rarity": "Uncommon",
+      "cardNum": "41/48"
+    },
+    {
+      "name": "Tauros",
+      "set": "Pokemon Jungle",
+      "img": "https://den-cards.pokellector.com/313/Tauros.B02.42.38205.png",
+      "rarity": "Uncommon",
+      "cardNum": "42/48"
+    },
+    {
+      "name": "Pidgeot",
+      "set": "Pokemon Jungle",
+      "img": "https://den-cards.pokellector.com/313/Pidgeot.B02.43.38206.png",
+      "rarity": "Rare",
+      "cardNum": "43/48"
+    },
+    {
+      "name": "Clefable",
+      "set": "Pokemon Jungle",
+      "img": "https://den-cards.pokellector.com/313/Clefable.B02.44.38207.png",
+      "rarity": "Rare",
+      "cardNum": "44/48"
+    },
+    {
+      "name": "Wigglytuff",
+      "set": "Pokemon Jungle",
+      "img": "https://den-cards.pokellector.com/313/Wigglytuff.B02.45.38208.png",
+      "rarity": "Rare",
+      "cardNum": "45/48"
+    },
+    {
+      "name": "Kangaskhan",
+      "set": "Pokemon Jungle",
+      "img": "https://den-cards.pokellector.com/313/Kangaskhan.B02.46.38209.png",
+      "rarity": "Rare",
+      "cardNum": "46/48"
+    },
+    {
+      "name": "Snorlax",
+      "set": "Pokemon Jungle",
+      "img": "https://den-cards.pokellector.com/313/Snorlax.B02.47.38210.png",
+      "rarity": "Rare",
+      "cardNum": "47/48"
+    },
+    {
+      "name": "Poké Ball",
+      "set": "Pokemon Jungle",
+      "img": "https://den-cards.pokellector.com/313/Pokeacute-Ball.B02.48.38211.png",
+      "rarity": "Common",
+      "cardNum": "48/48"
+    }
+  ]
+}

@@ -1,0 +1,572 @@
+{
+  "setName": "Reviving Legends",
+  "cards": [
+    {
+      "name": "Oddish",
+      "set": "Reviving Legends",
+      "img": "https://den-cards.pokellector.com/249/Oddish.L2.1.21879.png",
+      "rarity": "Common",
+      "cardNum": "1/80"
+    },
+    {
+      "name": "Gloom",
+      "set": "Reviving Legends",
+      "img": "https://den-cards.pokellector.com/249/Gloom.L2.2.21880.png",
+      "rarity": "Uncommon",
+      "cardNum": "2/80"
+    },
+    {
+      "name": "Vileplume",
+      "set": "Reviving Legends",
+      "img": "https://den-cards.pokellector.com/249/Vileplume.L2.3.21881.png",
+      "rarity": "Rare",
+      "cardNum": "3/80"
+    },
+    {
+      "name": "Bellossom",
+      "set": "Reviving Legends",
+      "img": "https://den-cards.pokellector.com/249/Bellossom.L2.4.21882.png",
+      "rarity": "Rare",
+      "cardNum": "4/80"
+    },
+    {
+      "name": "Scyther",
+      "set": "Reviving Legends",
+      "img": "https://den-cards.pokellector.com/249/Scyther.L2.5.21883.png",
+      "rarity": "Common",
+      "cardNum": "5/80"
+    },
+    {
+      "name": "Pineco",
+      "set": "Reviving Legends",
+      "img": "https://den-cards.pokellector.com/249/Pineco.L2.6.21884.png",
+      "rarity": "Common",
+      "cardNum": "6/80"
+    },
+    {
+      "name": "Combee",
+      "set": "Reviving Legends",
+      "img": "https://den-cards.pokellector.com/249/Combee.L2.7.21885.png",
+      "rarity": "Common",
+      "cardNum": "7/80"
+    },
+    {
+      "name": "Vespiquen",
+      "set": "Reviving Legends",
+      "img": "https://den-cards.pokellector.com/249/Vespiquen.L2.8.21886.png",
+      "rarity": "Rare",
+      "cardNum": "8/80"
+    },
+    {
+      "name": "Flareon",
+      "set": "Reviving Legends",
+      "img": "https://den-cards.pokellector.com/249/Flareon.L2.9.21887.png",
+      "rarity": "Uncommon",
+      "cardNum": "9/80"
+    },
+    {
+      "name": "Slugma",
+      "set": "Reviving Legends",
+      "img": "https://den-cards.pokellector.com/249/Slugma.L2.10.21888.png",
+      "rarity": "Common",
+      "cardNum": "10/80"
+    },
+    {
+      "name": "Magcargo",
+      "set": "Reviving Legends",
+      "img": "https://den-cards.pokellector.com/249/Magcargo.L2.11.21889.png",
+      "rarity": "Rare",
+      "cardNum": "11/80"
+    },
+    {
+      "name": "Horsea",
+      "set": "Reviving Legends",
+      "img": "https://den-cards.pokellector.com/249/Horsea.L2.12.21890.png",
+      "rarity": "Common",
+      "cardNum": "12/80"
+    },
+    {
+      "name": "Seadra",
+      "set": "Reviving Legends",
+      "img": "https://den-cards.pokellector.com/249/Seadra.L2.13.21891.png",
+      "rarity": "Common",
+      "cardNum": "13/80"
+    },
+    {
+      "name": "Kingdra",
+      "set": "Reviving Legends",
+      "img": "https://den-cards.pokellector.com/249/Kingdra.L2.14.21892.png",
+      "rarity": "Uncommon",
+      "cardNum": "14/80"
+    },
+    {
+      "name": "Kingdra",
+      "set": "Reviving Legends",
+      "img": "https://den-cards.pokellector.com/249/Kingdra.L2.15.21893.png",
+      "rarity": "Rare",
+      "cardNum": "15/80"
+    },
+    {
+      "name": "Vaporeon",
+      "set": "Reviving Legends",
+      "img": "https://den-cards.pokellector.com/249/Vaporeon.L2.16.21894.png",
+      "rarity": "Uncommon",
+      "cardNum": "16/80"
+    },
+    {
+      "name": "Jolteon",
+      "set": "Reviving Legends",
+      "img": "https://den-cards.pokellector.com/249/Jolteon.L2.17.21895.png",
+      "rarity": "Uncommon",
+      "cardNum": "17/80"
+    },
+    {
+      "name": "Chinchou",
+      "set": "Reviving Legends",
+      "img": "https://den-cards.pokellector.com/249/Chinchou.L2.18.21896.png",
+      "rarity": "Common",
+      "cardNum": "18/80"
+    },
+    {
+      "name": "Lanturn",
+      "set": "Reviving Legends",
+      "img": "https://den-cards.pokellector.com/249/Lanturn.L2.19.21897.png",
+      "rarity": "Rare",
+      "cardNum": "19/80"
+    },
+    {
+      "name": "Lanturn",
+      "set": "Reviving Legends",
+      "img": "https://den-cards.pokellector.com/249/Lanturn.L2.20.21898.png",
+      "rarity": "Rare",
+      "cardNum": "20/80"
+    },
+    {
+      "name": "Rotom",
+      "set": "Reviving Legends",
+      "img": "https://den-cards.pokellector.com/249/Rotom.L2.21.21899.png",
+      "rarity": "Rare",
+      "cardNum": "21/80"
+    },
+    {
+      "name": "Grimer",
+      "set": "Reviving Legends",
+      "img": "https://den-cards.pokellector.com/249/Grimer.L2.22.21900.png",
+      "rarity": "Common",
+      "cardNum": "22/80"
+    },
+    {
+      "name": "Muk",
+      "set": "Reviving Legends",
+      "img": "https://den-cards.pokellector.com/249/Muk.L2.23.21901.png",
+      "rarity": "Uncommon",
+      "cardNum": "23/80"
+    },
+    {
+      "name": "Espeon",
+      "set": "Reviving Legends",
+      "img": "https://den-cards.pokellector.com/249/Espeon.L2.24.21902.png",
+      "rarity": "Rare",
+      "cardNum": "24/80"
+    },
+    {
+      "name": "Misdreavus",
+      "set": "Reviving Legends",
+      "img": "https://den-cards.pokellector.com/249/Misdreavus.L2.25.21903.png",
+      "rarity": "Common",
+      "cardNum": "25/80"
+    },
+    {
+      "name": "Mismagius",
+      "set": "Reviving Legends",
+      "img": "https://den-cards.pokellector.com/249/Mismagius.L2.26.21904.png",
+      "rarity": "Rare",
+      "cardNum": "26/80"
+    },
+    {
+      "name": "Unown",
+      "set": "Reviving Legends",
+      "img": "https://den-cards.pokellector.com/249/Unown.L2.27.21905.png",
+      "rarity": "Uncommon",
+      "cardNum": "27/80"
+    },
+    {
+      "name": "Drifloon",
+      "set": "Reviving Legends",
+      "img": "https://den-cards.pokellector.com/249/Drifloon.L2.28.21906.png",
+      "rarity": "Common",
+      "cardNum": "28/80"
+    },
+    {
+      "name": "Drifblim",
+      "set": "Reviving Legends",
+      "img": "https://den-cards.pokellector.com/249/Drifblim.L2.29.21907.png",
+      "rarity": "Rare",
+      "cardNum": "29/80"
+    },
+    {
+      "name": "Onix",
+      "set": "Reviving Legends",
+      "img": "https://den-cards.pokellector.com/249/Onix.L2.30.21908.png",
+      "rarity": "Common",
+      "cardNum": "30/80"
+    },
+    {
+      "name": "Gligar",
+      "set": "Reviving Legends",
+      "img": "https://den-cards.pokellector.com/249/Gligar.L2.31.21909.png",
+      "rarity": "Common",
+      "cardNum": "31/80"
+    },
+    {
+      "name": "Gliscor",
+      "set": "Reviving Legends",
+      "img": "https://den-cards.pokellector.com/249/Gliscor.L2.32.21910.png",
+      "rarity": "Rare",
+      "cardNum": "32/80"
+    },
+    {
+      "name": "Larvitar",
+      "set": "Reviving Legends",
+      "img": "https://den-cards.pokellector.com/249/Larvitar.L2.33.21911.png",
+      "rarity": "Common",
+      "cardNum": "33/80"
+    },
+    {
+      "name": "Pupitar",
+      "set": "Reviving Legends",
+      "img": "https://den-cards.pokellector.com/249/Pupitar.L2.34.21912.png",
+      "rarity": "Uncommon",
+      "cardNum": "34/80"
+    },
+    {
+      "name": "Makuhita",
+      "set": "Reviving Legends",
+      "img": "https://den-cards.pokellector.com/249/Makuhita.L2.35.21913.png",
+      "rarity": "Common",
+      "cardNum": "35/80"
+    },
+    {
+      "name": "Hariyama",
+      "set": "Reviving Legends",
+      "img": "https://den-cards.pokellector.com/249/Hariyama.L2.36.21914.png",
+      "rarity": "Rare",
+      "cardNum": "36/80"
+    },
+    {
+      "name": "Umbreon",
+      "set": "Reviving Legends",
+      "img": "https://den-cards.pokellector.com/249/Umbreon.L2.37.21915.png",
+      "rarity": "Rare",
+      "cardNum": "37/80"
+    },
+    {
+      "name": "Murkrow",
+      "set": "Reviving Legends",
+      "img": "https://den-cards.pokellector.com/249/Murkrow.L2.38.21916.png",
+      "rarity": "Common",
+      "cardNum": "38/80"
+    },
+    {
+      "name": "Honchkrow",
+      "set": "Reviving Legends",
+      "img": "https://den-cards.pokellector.com/249/Honchkrow.L2.39.21917.png",
+      "rarity": "Rare",
+      "cardNum": "39/80"
+    },
+    {
+      "name": "Sneasel",
+      "set": "Reviving Legends",
+      "img": "https://den-cards.pokellector.com/249/Sneasel.L2.40.21918.png",
+      "rarity": "Common",
+      "cardNum": "40/80"
+    },
+    {
+      "name": "Weavile",
+      "set": "Reviving Legends",
+      "img": "https://den-cards.pokellector.com/249/Weavile.L2.41.21919.png",
+      "rarity": "Rare",
+      "cardNum": "41/80"
+    },
+    {
+      "name": "Houndour",
+      "set": "Reviving Legends",
+      "img": "https://den-cards.pokellector.com/249/Houndour.L2.42.21920.png",
+      "rarity": "Common",
+      "cardNum": "42/80"
+    },
+    {
+      "name": "Houndoom",
+      "set": "Reviving Legends",
+      "img": "https://den-cards.pokellector.com/249/Houndoom.L2.43.21921.png",
+      "rarity": "Rare",
+      "cardNum": "43/80"
+    },
+    {
+      "name": "Tyranitar",
+      "set": "Reviving Legends",
+      "img": "https://den-cards.pokellector.com/249/Tyranitar.L2.44.21922.png",
+      "rarity": "Secret Rare",
+      "cardNum": "44/80"
+    },
+    {
+      "name": "Sableye",
+      "set": "Reviving Legends",
+      "img": "https://den-cards.pokellector.com/249/Sableye.L2.45.21923.png",
+      "rarity": "Common",
+      "cardNum": "45/80"
+    },
+    {
+      "name": "Forretress",
+      "set": "Reviving Legends",
+      "img": "https://den-cards.pokellector.com/249/Forretress.L2.46.21924.png",
+      "rarity": "Rare",
+      "cardNum": "46/80"
+    },
+    {
+      "name": "Steelix",
+      "set": "Reviving Legends",
+      "img": "https://den-cards.pokellector.com/249/Steelix.L2.47.21925.png",
+      "rarity": "Rare",
+      "cardNum": "47/80"
+    },
+    {
+      "name": "Scizor",
+      "set": "Reviving Legends",
+      "img": "https://den-cards.pokellector.com/249/Scizor.L2.48.21926.png",
+      "rarity": "Rare",
+      "cardNum": "48/80"
+    },
+    {
+      "name": "Skarmory",
+      "set": "Reviving Legends",
+      "img": "https://den-cards.pokellector.com/249/Skarmory.L2.49.21927.png",
+      "rarity": "Rare",
+      "cardNum": "49/80"
+    },
+    {
+      "name": "Mawile",
+      "set": "Reviving Legends",
+      "img": "https://den-cards.pokellector.com/249/Mawile.L2.50.21928.png",
+      "rarity": "Common",
+      "cardNum": "50/80"
+    },
+    {
+      "name": "Beldum",
+      "set": "Reviving Legends",
+      "img": "https://den-cards.pokellector.com/249/Beldum.L2.51.21929.png",
+      "rarity": "Common",
+      "cardNum": "51/80"
+    },
+    {
+      "name": "Metang",
+      "set": "Reviving Legends",
+      "img": "https://den-cards.pokellector.com/249/Metang.L2.52.21930.png",
+      "rarity": "Uncommon",
+      "cardNum": "52/80"
+    },
+    {
+      "name": "Metagross",
+      "set": "Reviving Legends",
+      "img": "https://den-cards.pokellector.com/249/Metagross.L2.53.21931.png",
+      "rarity": "Rare",
+      "cardNum": "53/80"
+    },
+    {
+      "name": "Rattata",
+      "set": "Reviving Legends",
+      "img": "https://den-cards.pokellector.com/249/Rattata.L2.54.21932.png",
+      "rarity": "Common",
+      "cardNum": "54/80"
+    },
+    {
+      "name": "Raticate",
+      "set": "Reviving Legends",
+      "img": "https://den-cards.pokellector.com/249/Raticate.L2.55.21933.png",
+      "rarity": "Common",
+      "cardNum": "55/80"
+    },
+    {
+      "name": "Doduo",
+      "set": "Reviving Legends",
+      "img": "https://den-cards.pokellector.com/249/Doduo.L2.56.21934.png",
+      "rarity": "Common",
+      "cardNum": "56/80"
+    },
+    {
+      "name": "Dodrio",
+      "set": "Reviving Legends",
+      "img": "https://den-cards.pokellector.com/249/Dodrio.L2.57.21935.png",
+      "rarity": "Rare",
+      "cardNum": "57/80"
+    },
+    {
+      "name": "Eevee",
+      "set": "Reviving Legends",
+      "img": "https://den-cards.pokellector.com/249/Eevee.L2.58.21936.png",
+      "rarity": "Common",
+      "cardNum": "58/80"
+    },
+    {
+      "name": "Togepi",
+      "set": "Reviving Legends",
+      "img": "https://den-cards.pokellector.com/249/Togepi.L2.59.21937.png",
+      "rarity": "Common",
+      "cardNum": "59/80"
+    },
+    {
+      "name": "Togetic",
+      "set": "Reviving Legends",
+      "img": "https://den-cards.pokellector.com/249/Togetic.L2.60.21938.png",
+      "rarity": "Uncommon",
+      "cardNum": "60/80"
+    },
+    {
+      "name": "Togekiss",
+      "set": "Reviving Legends",
+      "img": "https://den-cards.pokellector.com/249/Togekiss.L2.61.21939.png",
+      "rarity": "Rare",
+      "cardNum": "61/80"
+    },
+    {
+      "name": "Smeargle",
+      "set": "Reviving Legends",
+      "img": "https://den-cards.pokellector.com/249/Smeargle.L2.62.21940.png",
+      "rarity": "Rare",
+      "cardNum": "62/80"
+    },
+    {
+      "name": "Entei & Raikou LEGEND",
+      "set": "Reviving Legends",
+      "img": "https://den-cards.pokellector.com/249/Entei-Raikou-LEGEND.L2.63.21941.png",
+      "rarity": "Rare",
+      "cardNum": "63/80"
+    },
+    {
+      "name": "Entei & Raikou LEGEND",
+      "set": "Reviving Legends",
+      "img": "https://den-cards.pokellector.com/249/Entei-Raikou-LEGEND.L2.64.21942.png",
+      "rarity": "Rare",
+      "cardNum": "64/80"
+    },
+    {
+      "name": "Suicune & Entei LEGEND",
+      "set": "Reviving Legends",
+      "img": "https://den-cards.pokellector.com/249/Suicune-Entei-LEGEND.L2.65.21943.png",
+      "rarity": "Rare",
+      "cardNum": "65/80"
+    },
+    {
+      "name": "Suicune & Entei LEGEND",
+      "set": "Reviving Legends",
+      "img": "https://den-cards.pokellector.com/249/Suicune-Entei-LEGEND.L2.66.21944.png",
+      "rarity": "Rare",
+      "cardNum": "66/80"
+    },
+    {
+      "name": "Raikou & Suicune LEGEND",
+      "set": "Reviving Legends",
+      "img": "https://den-cards.pokellector.com/249/Raikou-Suicune-LEGEND.L2.67.21945.png",
+      "rarity": "Rare",
+      "cardNum": "67/80"
+    },
+    {
+      "name": "Raikou & Suicune LEGEND",
+      "set": "Reviving Legends",
+      "img": "https://den-cards.pokellector.com/249/Raikou-Suicune-LEGEND.L2.68.21946.png",
+      "rarity": "Rare",
+      "cardNum": "68/80"
+    },
+    {
+      "name": "Energy Exchanger",
+      "set": "Reviving Legends",
+      "img": "https://den-cards.pokellector.com/249/Energy-Exchanger.L2.69.21947.png",
+      "rarity": "Uncommon",
+      "cardNum": "69/80"
+    },
+    {
+      "name": "Defender",
+      "set": "Reviving Legends",
+      "img": "https://den-cards.pokellector.com/249/Defender.L2.70.21948.png",
+      "rarity": "Uncommon",
+      "cardNum": "70/80"
+    },
+    {
+      "name": "Rare Candy",
+      "set": "Reviving Legends",
+      "img": "https://den-cards.pokellector.com/249/Rare-Candy.L2.71.21949.png",
+      "rarity": "Uncommon",
+      "cardNum": "71/80"
+    },
+    {
+      "name": "PlusPower",
+      "set": "Reviving Legends",
+      "img": "https://den-cards.pokellector.com/249/PlusPower.L2.72.21950.png",
+      "rarity": "Uncommon",
+      "cardNum": "72/80"
+    },
+    {
+      "name": "Legend Box",
+      "set": "Reviving Legends",
+      "img": "https://den-cards.pokellector.com/249/Legend-Box.L2.73.21951.png",
+      "rarity": "Uncommon",
+      "cardNum": "73/80"
+    },
+    {
+      "name": "Flower Shop Lady",
+      "set": "Reviving Legends",
+      "img": "https://den-cards.pokellector.com/249/Flower-Shop-Lady.L2.74.21952.png",
+      "rarity": "Uncommon",
+      "cardNum": "74/80"
+    },
+    {
+      "name": "Sage's Training",
+      "set": "Reviving Legends",
+      "img": "https://den-cards.pokellector.com/249/Sages-Training.L2.75.21953.png",
+      "rarity": "Uncommon",
+      "cardNum": "75/80"
+    },
+    {
+      "name": "Team Rocket's Trickery",
+      "set": "Reviving Legends",
+      "img": "https://den-cards.pokellector.com/249/Team-Rockets-Trickery.L2.76.21954.png",
+      "rarity": "Uncommon",
+      "cardNum": "76/80"
+    },
+    {
+      "name": "Ruins of Alph",
+      "set": "Reviving Legends",
+      "img": "https://den-cards.pokellector.com/249/Ruins-of-Alph.L2.77.21955.png",
+      "rarity": "Uncommon",
+      "cardNum": "77/80"
+    },
+    {
+      "name": "Burned Tower",
+      "set": "Reviving Legends",
+      "img": "https://den-cards.pokellector.com/249/Burned-Tower.L2.78.21956.png",
+      "rarity": "Uncommon",
+      "cardNum": "78/80"
+    },
+    {
+      "name": "Special Dark Energy",
+      "set": "Reviving Legends",
+      "img": "https://den-cards.pokellector.com/249/Special-Dark-Energy.L2.79.21957.png",
+      "rarity": "Uncommon",
+      "cardNum": "79/80"
+    },
+    {
+      "name": "Special Steel Energy",
+      "set": "Reviving Legends",
+      "img": "https://den-cards.pokellector.com/249/Special-Steel-Energy.L2.80.21958.png",
+      "rarity": "Uncommon",
+      "cardNum": "80/80"
+    },
+    {
+      "name": "Alph Lithograph",
+      "set": "Reviving Legends",
+      "img": "https://www.pokellector.com/images/card-placeholder.png",
+      "rarity": "Secret Rare",
+      "cardNum": "81/80"
+    }
+  ]
+}

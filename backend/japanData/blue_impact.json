@@ -1,0 +1,460 @@
+{
+  "setName": "Blue Impact",
+  "cards": [
+    {
+      "name": "Pinsir",
+      "set": "Blue Impact",
+      "img": "https://den-cards.pokellector.com/176/Pinsir.XY8.1.png",
+      "rarity": "Uncommon",
+      "cardNum": "1/59"
+    },
+    {
+      "name": "Cacnea",
+      "set": "Blue Impact",
+      "img": "https://den-cards.pokellector.com/176/Cacnea.XY8.2.png",
+      "rarity": "Common",
+      "cardNum": "2/59"
+    },
+    {
+      "name": "Pansage",
+      "set": "Blue Impact",
+      "img": "https://den-cards.pokellector.com/176/Pansage.XY8.3.png",
+      "rarity": "Common",
+      "cardNum": "3/59"
+    },
+    {
+      "name": "Simisage",
+      "set": "Blue Impact",
+      "img": "https://den-cards.pokellector.com/176/Simisage.XY8.4.png",
+      "rarity": "Common",
+      "cardNum": "4/59"
+    },
+    {
+      "name": "Chespin",
+      "set": "Blue Impact",
+      "img": "https://den-cards.pokellector.com/176/Chespin.XY8.5.png",
+      "rarity": "Common",
+      "cardNum": "5/59"
+    },
+    {
+      "name": "Scatterbug",
+      "set": "Blue Impact",
+      "img": "https://den-cards.pokellector.com/176/Scatterbug.XY8.6.png",
+      "rarity": "Common",
+      "cardNum": "6/59"
+    },
+    {
+      "name": "Spewpa",
+      "set": "Blue Impact",
+      "img": "https://den-cards.pokellector.com/176/Spewpa.XY8.7.png",
+      "rarity": "Common",
+      "cardNum": "7/59"
+    },
+    {
+      "name": "Vivillon",
+      "set": "Blue Impact",
+      "img": "https://den-cards.pokellector.com/176/Vivillon.XY8.8.png",
+      "rarity": "Rare",
+      "cardNum": "8/59"
+    },
+    {
+      "name": "Cyndaquil",
+      "set": "Blue Impact",
+      "img": "https://den-cards.pokellector.com/176/Cyndaquil.XY8.9.png",
+      "rarity": "Common",
+      "cardNum": "9/59"
+    },
+    {
+      "name": "Quilava",
+      "set": "Blue Impact",
+      "img": "https://den-cards.pokellector.com/176/Quilava.XY8.10.png",
+      "rarity": "Common",
+      "cardNum": "10/59"
+    },
+    {
+      "name": "Typhlosion",
+      "set": "Blue Impact",
+      "img": "https://den-cards.pokellector.com/176/Typhlosion.XY8.11.png",
+      "rarity": "Rare",
+      "cardNum": "11/59"
+    },
+    {
+      "name": "Remoraid",
+      "set": "Blue Impact",
+      "img": "https://den-cards.pokellector.com/176/Remoraid.XY8.12.png",
+      "rarity": "Common",
+      "cardNum": "12/59"
+    },
+    {
+      "name": "Octillery",
+      "set": "Blue Impact",
+      "img": "https://den-cards.pokellector.com/176/Octillery.XY8.13.png",
+      "rarity": "Rare",
+      "cardNum": "13/59"
+    },
+    {
+      "name": "Glalie EX",
+      "set": "Blue Impact",
+      "img": "https://den-cards.pokellector.com/176/Glalie-EX.XY8.14.png",
+      "rarity": "Rare",
+      "cardNum": "14/59"
+    },
+    {
+      "name": "M Glalie EX",
+      "set": "Blue Impact",
+      "img": "https://den-cards.pokellector.com/176/M-Glalie-EX.XY8.15.png",
+      "rarity": "Rare",
+      "cardNum": "15/59"
+    },
+    {
+      "name": "Panpour",
+      "set": "Blue Impact",
+      "img": "https://den-cards.pokellector.com/176/Panpour.XY8.16.png",
+      "rarity": "Common",
+      "cardNum": "16/59"
+    },
+    {
+      "name": "Simipour",
+      "set": "Blue Impact",
+      "img": "https://den-cards.pokellector.com/176/Simipour.XY8.17.png",
+      "rarity": "Common",
+      "cardNum": "17/59"
+    },
+    {
+      "name": "Vanillite",
+      "set": "Blue Impact",
+      "img": "https://den-cards.pokellector.com/176/Vanillite.XY8.18.png",
+      "rarity": "Common",
+      "cardNum": "18/59"
+    },
+    {
+      "name": "Vanillish",
+      "set": "Blue Impact",
+      "img": "https://den-cards.pokellector.com/176/Vanillish.XY8.19.png",
+      "rarity": "Common",
+      "cardNum": "19/59"
+    },
+    {
+      "name": "Vanilluxe",
+      "set": "Blue Impact",
+      "img": "https://den-cards.pokellector.com/176/Vanilluxe.XY8.20.png",
+      "rarity": "Uncommon",
+      "cardNum": "20/59"
+    },
+    {
+      "name": "Magnemite",
+      "set": "Blue Impact",
+      "img": "https://den-cards.pokellector.com/176/Magnemite.XY8.21.png",
+      "rarity": "Common",
+      "cardNum": "21/59"
+    },
+    {
+      "name": "Ghastly",
+      "set": "Blue Impact",
+      "img": "https://den-cards.pokellector.com/176/Ghastly.XY8.22.png",
+      "rarity": "Common",
+      "cardNum": "22/59"
+    },
+    {
+      "name": "Haunter",
+      "set": "Blue Impact",
+      "img": "https://den-cards.pokellector.com/176/Haunter.XY8.23.png",
+      "rarity": "Uncommon",
+      "cardNum": "23/59"
+    },
+    {
+      "name": "Gengar",
+      "set": "Blue Impact",
+      "img": "https://den-cards.pokellector.com/176/Gengar.XY8.24.png",
+      "rarity": "Rare",
+      "cardNum": "24/59"
+    },
+    {
+      "name": "Mewtwo EX",
+      "set": "Blue Impact",
+      "img": "https://den-cards.pokellector.com/176/Mewtwo-EX.XY8.25.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "25/59"
+    },
+    {
+      "name": "M Mewtwo EX",
+      "set": "Blue Impact",
+      "img": "https://den-cards.pokellector.com/176/M-Mewtwo-EX.XY8.26.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "26/59"
+    },
+    {
+      "name": "Woobat",
+      "set": "Blue Impact",
+      "img": "https://den-cards.pokellector.com/176/Woobat.XY8.27.png",
+      "rarity": "Common",
+      "cardNum": "27/59"
+    },
+    {
+      "name": "Swoobat",
+      "set": "Blue Impact",
+      "img": "https://den-cards.pokellector.com/176/Swoobat.XY8.28.png",
+      "rarity": "Common",
+      "cardNum": "28/59"
+    },
+    {
+      "name": "Elgyem",
+      "set": "Blue Impact",
+      "img": "https://den-cards.pokellector.com/176/Elgyem.XY8.29.png",
+      "rarity": "Common",
+      "cardNum": "29/59"
+    },
+    {
+      "name": "Beheeyem",
+      "set": "Blue Impact",
+      "img": "https://den-cards.pokellector.com/176/Beheeyem.XY8.30.png",
+      "rarity": "Uncommon",
+      "cardNum": "30/59"
+    },
+    {
+      "name": "Sandshrew",
+      "set": "Blue Impact",
+      "img": "https://den-cards.pokellector.com/176/Sandshrew.XY8.31.png",
+      "rarity": "Common",
+      "cardNum": "31/59"
+    },
+    {
+      "name": "Sandslash",
+      "set": "Blue Impact",
+      "img": "https://den-cards.pokellector.com/176/Sandslash.XY8.32.png",
+      "rarity": "Uncommon",
+      "cardNum": "32/59"
+    },
+    {
+      "name": "Meloetta",
+      "set": "Blue Impact",
+      "img": "https://den-cards.pokellector.com/176/Meloetta.XY8.33.png",
+      "rarity": "Uncommon",
+      "cardNum": "33/59"
+    },
+    {
+      "name": "Cacturne",
+      "set": "Blue Impact",
+      "img": "https://den-cards.pokellector.com/176/Cacturne.XY8.34.png",
+      "rarity": "Uncommon",
+      "cardNum": "34/59"
+    },
+    {
+      "name": "Zorua",
+      "set": "Blue Impact",
+      "img": "https://den-cards.pokellector.com/176/Zorua.XY8.35.png",
+      "rarity": "Common",
+      "cardNum": "35/59"
+    },
+    {
+      "name": "Zoroark",
+      "set": "Blue Impact",
+      "img": "https://den-cards.pokellector.com/176/Zoroark.XY8.36.png",
+      "rarity": "Rare",
+      "cardNum": "36/59"
+    },
+    {
+      "name": "Zoroark BREAK",
+      "set": "Blue Impact",
+      "img": "https://den-cards.pokellector.com/176/Zoroark-BREAK.XY8.37.png",
+      "rarity": "Rare",
+      "cardNum": "37/59"
+    },
+    {
+      "name": "Snubbull",
+      "set": "Blue Impact",
+      "img": "https://den-cards.pokellector.com/176/Snubbull.XY8.38.png",
+      "rarity": "Common",
+      "cardNum": "38/59"
+    },
+    {
+      "name": "Granbull",
+      "set": "Blue Impact",
+      "img": "https://den-cards.pokellector.com/176/Granbull.XY8.39.png",
+      "rarity": "Uncommon",
+      "cardNum": "39/59"
+    },
+    {
+      "name": "Flabebe",
+      "set": "Blue Impact",
+      "img": "https://den-cards.pokellector.com/176/Flabebe.XY8.40.png",
+      "rarity": "Common",
+      "cardNum": "40/59"
+    },
+    {
+      "name": "Floette",
+      "set": "Blue Impact",
+      "img": "https://den-cards.pokellector.com/176/Floette.XY8.41.png",
+      "rarity": "Common",
+      "cardNum": "41/59"
+    },
+    {
+      "name": "Florges",
+      "set": "Blue Impact",
+      "img": "https://den-cards.pokellector.com/176/Florges.XY8.42.png",
+      "rarity": "Uncommon",
+      "cardNum": "42/59"
+    },
+    {
+      "name": "Florges BREAK",
+      "set": "Blue Impact",
+      "img": "https://den-cards.pokellector.com/176/Florges-BREAK.XY8.43.png",
+      "rarity": "Rare",
+      "cardNum": "43/59"
+    },
+    {
+      "name": "Xerneas",
+      "set": "Blue Impact",
+      "img": "https://den-cards.pokellector.com/176/Xerneas.XY8.44.png",
+      "rarity": "Rare",
+      "cardNum": "44/59"
+    },
+    {
+      "name": "Axew",
+      "set": "Blue Impact",
+      "img": "https://den-cards.pokellector.com/176/Axew.XY8.45.png",
+      "rarity": "Common",
+      "cardNum": "45/59"
+    },
+    {
+      "name": "Fraxure",
+      "set": "Blue Impact",
+      "img": "https://den-cards.pokellector.com/176/Fraxure.XY8.46.png",
+      "rarity": "Uncommon",
+      "cardNum": "46/59"
+    },
+    {
+      "name": "Haxorus",
+      "set": "Blue Impact",
+      "img": "https://den-cards.pokellector.com/176/Haxorus.XY8.47.png",
+      "rarity": "Rare",
+      "cardNum": "47/59"
+    },
+    {
+      "name": "Doduo",
+      "set": "Blue Impact",
+      "img": "https://den-cards.pokellector.com/176/Doduo.XY8.48.png",
+      "rarity": "Common",
+      "cardNum": "48/59"
+    },
+    {
+      "name": "Hoothoot",
+      "set": "Blue Impact",
+      "img": "https://den-cards.pokellector.com/176/Hoothoot.XY8.49.png",
+      "rarity": "Common",
+      "cardNum": "49/59"
+    },
+    {
+      "name": "Noctowl",
+      "set": "Blue Impact",
+      "img": "https://den-cards.pokellector.com/176/Noctowl.XY8.50.png",
+      "rarity": "Uncommon",
+      "cardNum": "50/59"
+    },
+    {
+      "name": "Teddiursa",
+      "set": "Blue Impact",
+      "img": "https://den-cards.pokellector.com/176/Teddiursa.XY8.51.png",
+      "rarity": "Common",
+      "cardNum": "51/59"
+    },
+    {
+      "name": "Ursaring",
+      "set": "Blue Impact",
+      "img": "https://den-cards.pokellector.com/176/Ursaring.XY8.52.png",
+      "rarity": "Uncommon",
+      "cardNum": "52/59"
+    },
+    {
+      "name": "Smeargle",
+      "set": "Blue Impact",
+      "img": "https://den-cards.pokellector.com/176/Smeargle.XY8.53.png",
+      "rarity": "Uncommon",
+      "cardNum": "53/59"
+    },
+    {
+      "name": "Float Stone",
+      "set": "Blue Impact",
+      "img": "https://den-cards.pokellector.com/176/Float-Stone.XY8.54.png",
+      "rarity": "Uncommon",
+      "cardNum": "54/59"
+    },
+    {
+      "name": "Glalie Spirit Link",
+      "set": "Blue Impact",
+      "img": "https://den-cards.pokellector.com/176/Glalie-Spirit-Link.XY8.55.png",
+      "rarity": "Uncommon",
+      "cardNum": "55/59"
+    },
+    {
+      "name": "Mewtwo Spirit Link",
+      "set": "Blue Impact",
+      "img": "https://den-cards.pokellector.com/176/Mewtwo-Spirit-Link.XY8.56.png",
+      "rarity": "Uncommon",
+      "cardNum": "56/59"
+    },
+    {
+      "name": "Brigette",
+      "set": "Blue Impact",
+      "img": "https://den-cards.pokellector.com/176/Brigette.XY8.57.png",
+      "rarity": "Uncommon",
+      "cardNum": "57/59"
+    },
+    {
+      "name": "Parallel City",
+      "set": "Blue Impact",
+      "img": "https://den-cards.pokellector.com/176/Parallel-City.XY8.58.png",
+      "rarity": "Uncommon",
+      "cardNum": "58/59"
+    },
+    {
+      "name": "Rainbow Energy",
+      "set": "Blue Impact",
+      "img": "https://den-cards.pokellector.com/176/Rainbow-Energy.XY8.59.png",
+      "rarity": "Uncommon",
+      "cardNum": "59/59"
+    },
+    {
+      "name": "Glalie EX",
+      "set": "Blue Impact",
+      "img": "https://den-cards.pokellector.com/176/Glalie-EX.XY8.60.png",
+      "rarity": "Secret Rare",
+      "cardNum": "60/59"
+    },
+    {
+      "name": "M Glalie EX",
+      "set": "Blue Impact",
+      "img": "https://den-cards.pokellector.com/176/M-Glalie-EX.XY8.61.png",
+      "rarity": "Secret Rare",
+      "cardNum": "61/59"
+    },
+    {
+      "name": "Mewtwo EX",
+      "set": "Blue Impact",
+      "img": "https://den-cards.pokellector.com/176/Mewtwo-EX.XY8.62.png",
+      "rarity": "Secret Rare",
+      "cardNum": "62/59"
+    },
+    {
+      "name": "M Mewtwo EX",
+      "set": "Blue Impact",
+      "img": "https://den-cards.pokellector.com/176/M-Mewtwo-EX.XY8.63.png",
+      "rarity": "Secret Rare",
+      "cardNum": "63/59"
+    },
+    {
+      "name": "Brigette",
+      "set": "Blue Impact",
+      "img": "https://den-cards.pokellector.com/176/Brigette.XY8.64.png",
+      "rarity": "Secret Rare",
+      "cardNum": "64/59"
+    },
+    {
+      "name": "Mewtwo EX",
+      "set": "Blue Impact",
+      "img": "https://den-cards.pokellector.com/176/Mewtwo-EX.XY8.65.png",
+      "rarity": "Common",
+      "cardNum": "65/59"
+    }
+  ]
+}

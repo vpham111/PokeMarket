@@ -1,0 +1,61 @@
+{
+  "setName": "Eevee Heroes VMAX Special Set",
+  "cards": [
+    {
+      "name": "Flareon VMAX",
+      "set": "Eevee Heroes VMAX Special Set",
+      "img": "https://den-cards.pokellector.com/330/Flareon-VMAX.SP4.1.39508.png",
+      "rarity": "Common",
+      "cardNum": "1/8"
+    },
+    {
+      "name": "Vaporeon VMAX",
+      "set": "Eevee Heroes VMAX Special Set",
+      "img": "https://den-cards.pokellector.com/330/Vaporeon-VMAX.SP4.2.39509.png",
+      "rarity": "Common",
+      "cardNum": "2/8"
+    },
+    {
+      "name": "Jolteon VMAX",
+      "set": "Eevee Heroes VMAX Special Set",
+      "img": "https://den-cards.pokellector.com/330/Jolteon-VMAX.SP4.3.39510.png",
+      "rarity": "Common",
+      "cardNum": "3/8"
+    },
+    {
+      "name": "Espeon VMAX",
+      "set": "Eevee Heroes VMAX Special Set",
+      "img": "https://den-cards.pokellector.com/330/Espeon-VMAX.SP4.4.39511.png",
+      "rarity": "Common",
+      "cardNum": "4/8"
+    },
+    {
+      "name": "Fire Energy",
+      "set": "Eevee Heroes VMAX Special Set",
+      "img": "https://den-cards.pokellector.com/330/Fire-Energy.SP4.FIR0.39512.png",
+      "rarity": "Common",
+      "cardNum": "FIR"
+    },
+    {
+      "name": "Electric Energy",
+      "set": "Eevee Heroes VMAX Special Set",
+      "img": "https://den-cards.pokellector.com/330/Electric-Energy.SP4.LIG0.39513.png",
+      "rarity": "Common",
+      "cardNum": "LIG"
+    },
+    {
+      "name": "Psychic Energy",
+      "set": "Eevee Heroes VMAX Special Set",
+      "img": "https://den-cards.pokellector.com/330/Psychic-Energy.SP4.PSY0.39514.png",
+      "rarity": "Common",
+      "cardNum": "PSY"
+    },
+    {
+      "name": "Water Energy",
+      "set": "Eevee Heroes VMAX Special Set",
+      "img": "https://den-cards.pokellector.com/330/Water-Energy.SP4.WAT0.39515.png",
+      "rarity": "Common",
+      "cardNum": "WAT"
+    }
+  ]
+}

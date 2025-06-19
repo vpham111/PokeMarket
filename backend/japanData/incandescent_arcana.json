@@ -1,0 +1,663 @@
+{
+  "setName": "Incandescent Arcana",
+  "cards": [
+    {
+      "name": "Scyther",
+      "set": "Incandescent Arcana",
+      "img": "https://den-cards.pokellector.com/352/Scyther.S11A.1.44551.png",
+      "rarity": "Common",
+      "cardNum": "1/68"
+    },
+    {
+      "name": "Yanma",
+      "set": "Incandescent Arcana",
+      "img": "https://den-cards.pokellector.com/352/Yanma.S11A.2.44552.png",
+      "rarity": "Common",
+      "cardNum": "2/68"
+    },
+    {
+      "name": "Yanmega",
+      "set": "Incandescent Arcana",
+      "img": "https://den-cards.pokellector.com/352/Yanmega.S11A.3.44553.png",
+      "rarity": "Uncommon",
+      "cardNum": "3/68"
+    },
+    {
+      "name": "Carnivine",
+      "set": "Incandescent Arcana",
+      "img": "https://den-cards.pokellector.com/352/Carnivine.S11A.4.44554.png",
+      "rarity": "Common",
+      "cardNum": "4/68"
+    },
+    {
+      "name": "Serperior V",
+      "set": "Incandescent Arcana",
+      "img": "https://den-cards.pokellector.com/352/Serperior-V.S11A.5.44520.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "5/68"
+    },
+    {
+      "name": "Serperior VSTAR",
+      "set": "Incandescent Arcana",
+      "img": "https://den-cards.pokellector.com/352/Serperior-VSTAR.S11A.6.44521.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "6/68"
+    },
+    {
+      "name": "Petilil",
+      "set": "Incandescent Arcana",
+      "img": "https://den-cards.pokellector.com/352/Petilil.S11A.7.44555.png",
+      "rarity": "Common",
+      "cardNum": "7/68"
+    },
+    {
+      "name": "Hisuian Lilligant",
+      "set": "Incandescent Arcana",
+      "img": "https://den-cards.pokellector.com/352/Hisuian-Lilligant.S11A.8.44556.png",
+      "rarity": "Uncommon",
+      "cardNum": "8/68"
+    },
+    {
+      "name": "Radiant Tsareena",
+      "set": "Incandescent Arcana",
+      "img": "https://den-cards.pokellector.com/352/Radiant-Tsareena.S11A.9.44557.png",
+      "rarity": "Common",
+      "cardNum": "9/68"
+    },
+    {
+      "name": "Zarude",
+      "set": "Incandescent Arcana",
+      "img": "https://den-cards.pokellector.com/352/Zarude.S11A.10.44470.png",
+      "rarity": "Rare",
+      "cardNum": "10/68"
+    },
+    {
+      "name": "Calyrex",
+      "set": "Incandescent Arcana",
+      "img": "https://den-cards.pokellector.com/352/Calyrex.S11A.11.44558.png",
+      "rarity": "Rare",
+      "cardNum": "11/68"
+    },
+    {
+      "name": "Growlithe",
+      "set": "Incandescent Arcana",
+      "img": "https://den-cards.pokellector.com/352/Growlithe.S11A.12.44559.png",
+      "rarity": "Common",
+      "cardNum": "12/68"
+    },
+    {
+      "name": "Arcanine",
+      "set": "Incandescent Arcana",
+      "img": "https://den-cards.pokellector.com/352/Arcanine.S11A.13.44560.png",
+      "rarity": "Uncommon",
+      "cardNum": "13/68"
+    },
+    {
+      "name": "Entei",
+      "set": "Incandescent Arcana",
+      "img": "https://den-cards.pokellector.com/352/Entei.S11A.14.44561.png",
+      "rarity": "Rare",
+      "cardNum": "14/68"
+    },
+    {
+      "name": "Reshiram V",
+      "set": "Incandescent Arcana",
+      "img": "https://den-cards.pokellector.com/352/Reshiram-V.S11A.15.44473.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "15/68"
+    },
+    {
+      "name": "Fennekin",
+      "set": "Incandescent Arcana",
+      "img": "https://den-cards.pokellector.com/352/Fennekin.S11A.16.44456.png",
+      "rarity": "Common",
+      "cardNum": "16/68"
+    },
+    {
+      "name": "Braixen",
+      "set": "Incandescent Arcana",
+      "img": "https://den-cards.pokellector.com/352/Braixen.S11A.17.44457.png",
+      "rarity": "Common",
+      "cardNum": "17/68"
+    },
+    {
+      "name": "Delphox",
+      "set": "Incandescent Arcana",
+      "img": "https://den-cards.pokellector.com/352/Delphox.S11A.18.44459.png",
+      "rarity": "Uncommon",
+      "cardNum": "18/68"
+    },
+    {
+      "name": "Volcanion",
+      "set": "Incandescent Arcana",
+      "img": "https://den-cards.pokellector.com/352/Volcanion.S11A.19.44562.png",
+      "rarity": "Rare",
+      "cardNum": "19/68"
+    },
+    {
+      "name": "Salandit",
+      "set": "Incandescent Arcana",
+      "img": "https://den-cards.pokellector.com/352/Salandit.S11A.20.44563.png",
+      "rarity": "Common",
+      "cardNum": "20/68"
+    },
+    {
+      "name": "Salazzle",
+      "set": "Incandescent Arcana",
+      "img": "https://den-cards.pokellector.com/352/Salazzle.S11A.21.44564.png",
+      "rarity": "Common",
+      "cardNum": "21/68"
+    },
+    {
+      "name": "Alolan Vulpix V",
+      "set": "Incandescent Arcana",
+      "img": "https://den-cards.pokellector.com/352/Alolan-Vulpix-V.S11A.22.44471.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "22/68"
+    },
+    {
+      "name": "Alolan Vulpix VSTAR",
+      "set": "Incandescent Arcana",
+      "img": "https://den-cards.pokellector.com/352/Alolan-Vulpix-VSTAR.S11A.23.44472.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "23/68"
+    },
+    {
+      "name": "Articuno",
+      "set": "Incandescent Arcana",
+      "img": "https://den-cards.pokellector.com/352/Articuno.S11A.24.44565.png",
+      "rarity": "Rare",
+      "cardNum": "24/68"
+    },
+    {
+      "name": "Wailmer",
+      "set": "Incandescent Arcana",
+      "img": "https://den-cards.pokellector.com/352/Wailmer.S11A.25.44566.png",
+      "rarity": "Common",
+      "cardNum": "25/68"
+    },
+    {
+      "name": "Wailord",
+      "set": "Incandescent Arcana",
+      "img": "https://den-cards.pokellector.com/352/Wailord.S11A.26.44567.png",
+      "rarity": "Uncommon",
+      "cardNum": "26/68"
+    },
+    {
+      "name": "Feebas",
+      "set": "Incandescent Arcana",
+      "img": "https://den-cards.pokellector.com/352/Feebas.S11A.27.44548.png",
+      "rarity": "Common",
+      "cardNum": "27/68"
+    },
+    {
+      "name": "Milotic",
+      "set": "Incandescent Arcana",
+      "img": "https://den-cards.pokellector.com/352/Milotic.S11A.28.44568.png",
+      "rarity": "Uncommon",
+      "cardNum": "28/68"
+    },
+    {
+      "name": "Luvdisc",
+      "set": "Incandescent Arcana",
+      "img": "https://den-cards.pokellector.com/352/Luvdisc.S11A.29.44569.png",
+      "rarity": "Common",
+      "cardNum": "29/68"
+    },
+    {
+      "name": "Kyogre",
+      "set": "Incandescent Arcana",
+      "img": "https://den-cards.pokellector.com/352/Kyogre.S11A.30.44514.png",
+      "rarity": "Rare",
+      "cardNum": "30/68"
+    },
+    {
+      "name": "Radiant Alakazam",
+      "set": "Incandescent Arcana",
+      "img": "https://den-cards.pokellector.com/352/Radiant-Alakazam.S11A.31.44570.png",
+      "rarity": "Common",
+      "cardNum": "31/68"
+    },
+    {
+      "name": "Exeggcute",
+      "set": "Incandescent Arcana",
+      "img": "https://den-cards.pokellector.com/352/Exeggcute.S11A.32.44571.png",
+      "rarity": "Common",
+      "cardNum": "32/68"
+    },
+    {
+      "name": "Exeggutor",
+      "set": "Incandescent Arcana",
+      "img": "https://den-cards.pokellector.com/352/Exeggutor.S11A.33.44572.png",
+      "rarity": "Uncommon",
+      "cardNum": "33/68"
+    },
+    {
+      "name": "Jynx",
+      "set": "Incandescent Arcana",
+      "img": "https://den-cards.pokellector.com/352/Jynx.S11A.34.44573.png",
+      "rarity": "Uncommon",
+      "cardNum": "34/68"
+    },
+    {
+      "name": "Mewtwo",
+      "set": "Incandescent Arcana",
+      "img": "https://den-cards.pokellector.com/352/Mewtwo.S11A.35.44523.png",
+      "rarity": "Rare",
+      "cardNum": "35/68"
+    },
+    {
+      "name": "Ralts",
+      "set": "Incandescent Arcana",
+      "img": "https://den-cards.pokellector.com/352/Ralts.S11A.36.44460.png",
+      "rarity": "Common",
+      "cardNum": "36/68"
+    },
+    {
+      "name": "Kirlia",
+      "set": "Incandescent Arcana",
+      "img": "https://den-cards.pokellector.com/352/Kirlia.S11A.37.44461.png",
+      "rarity": "Common",
+      "cardNum": "37/68"
+    },
+    {
+      "name": "Gardevoir",
+      "set": "Incandescent Arcana",
+      "img": "https://den-cards.pokellector.com/352/Gardevoir.S11A.38.44462.png",
+      "rarity": "Uncommon",
+      "cardNum": "38/68"
+    },
+    {
+      "name": "Mawile V",
+      "set": "Incandescent Arcana",
+      "img": "https://den-cards.pokellector.com/352/Mawile-V.S11A.39.44512.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "39/68"
+    },
+    {
+      "name": "Mawile VSTAR",
+      "set": "Incandescent Arcana",
+      "img": "https://den-cards.pokellector.com/352/Mawile-VSTAR.S11A.40.44513.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "40/68"
+    },
+    {
+      "name": "Espurr",
+      "set": "Incandescent Arcana",
+      "img": "https://den-cards.pokellector.com/352/Espurr.S11A.41.44464.png",
+      "rarity": "Common",
+      "cardNum": "41/68"
+    },
+    {
+      "name": "Meowstic",
+      "set": "Incandescent Arcana",
+      "img": "https://den-cards.pokellector.com/352/Meowstic.S11A.42.44465.png",
+      "rarity": "Uncommon",
+      "cardNum": "42/68"
+    },
+    {
+      "name": "Tapu Lele",
+      "set": "Incandescent Arcana",
+      "img": "https://den-cards.pokellector.com/352/Tapu-Lele.S11A.43.44574.png",
+      "rarity": "Rare",
+      "cardNum": "43/68"
+    },
+    {
+      "name": "Scizor",
+      "set": "Incandescent Arcana",
+      "img": "https://den-cards.pokellector.com/352/Scizor.S11A.44.44575.png",
+      "rarity": "Uncommon",
+      "cardNum": "44/68"
+    },
+    {
+      "name": "Radiant Jirachi",
+      "set": "Incandescent Arcana",
+      "img": "https://den-cards.pokellector.com/352/Radiant-Jirachi.S11A.45.44469.png",
+      "rarity": "Rare",
+      "cardNum": "45/68"
+    },
+    {
+      "name": "Klink",
+      "set": "Incandescent Arcana",
+      "img": "https://den-cards.pokellector.com/352/Klink.S11A.46.44466.png",
+      "rarity": "Common",
+      "cardNum": "46/68"
+    },
+    {
+      "name": "Klang",
+      "set": "Incandescent Arcana",
+      "img": "https://den-cards.pokellector.com/352/Klang.S11A.47.44467.png",
+      "rarity": "Common",
+      "cardNum": "47/68"
+    },
+    {
+      "name": "Klinklang",
+      "set": "Incandescent Arcana",
+      "img": "https://den-cards.pokellector.com/352/Klinklang.S11A.48.44468.png",
+      "rarity": "Uncommon",
+      "cardNum": "48/68"
+    },
+    {
+      "name": "Pawniard",
+      "set": "Incandescent Arcana",
+      "img": "https://den-cards.pokellector.com/352/Pawniard.S11A.49.44576.png",
+      "rarity": "Common",
+      "cardNum": "49/68"
+    },
+    {
+      "name": "Bisharp",
+      "set": "Incandescent Arcana",
+      "img": "https://den-cards.pokellector.com/352/Bisharp.S11A.50.44577.png",
+      "rarity": "Common",
+      "cardNum": "50/68"
+    },
+    {
+      "name": "Magearna V",
+      "set": "Incandescent Arcana",
+      "img": "https://den-cards.pokellector.com/352/Magearna-V.S11A.51.44578.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "51/68"
+    },
+    {
+      "name": "Zacian",
+      "set": "Incandescent Arcana",
+      "img": "https://den-cards.pokellector.com/352/Zacian.S11A.52.44524.png",
+      "rarity": "Rare",
+      "cardNum": "52/68"
+    },
+    {
+      "name": "Zamazenta",
+      "set": "Incandescent Arcana",
+      "img": "https://den-cards.pokellector.com/352/Zamazenta.S11A.53.44525.png",
+      "rarity": "Rare",
+      "cardNum": "53/68"
+    },
+    {
+      "name": "Smeargle",
+      "set": "Incandescent Arcana",
+      "img": "https://den-cards.pokellector.com/352/Smeargle.S11A.54.44579.png",
+      "rarity": "Common",
+      "cardNum": "54/68"
+    },
+    {
+      "name": "Ho-Oh V",
+      "set": "Incandescent Arcana",
+      "img": "https://den-cards.pokellector.com/352/Ho-Oh-V.S11A.55.44522.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "55/68"
+    },
+    {
+      "name": "Swablu",
+      "set": "Incandescent Arcana",
+      "img": "https://den-cards.pokellector.com/352/Swablu.S11A.56.44527.png",
+      "rarity": "Common",
+      "cardNum": "56/68"
+    },
+    {
+      "name": "Altaria",
+      "set": "Incandescent Arcana",
+      "img": "https://den-cards.pokellector.com/352/Altaria.S11A.57.44526.png",
+      "rarity": "Uncommon",
+      "cardNum": "57/68"
+    },
+    {
+      "name": "Chatot",
+      "set": "Incandescent Arcana",
+      "img": "https://den-cards.pokellector.com/352/Chatot.S11A.58.44580.png",
+      "rarity": "Common",
+      "cardNum": "58/68"
+    },
+    {
+      "name": "Energy Switch",
+      "set": "Incandescent Arcana",
+      "img": "https://den-cards.pokellector.com/352/Energy-Switch.S11A.59.44581.png",
+      "rarity": "Uncommon",
+      "cardNum": "59/68"
+    },
+    {
+      "name": "Capture Aroma",
+      "set": "Incandescent Arcana",
+      "img": "https://den-cards.pokellector.com/352/Capture-Aroma.S11A.60.44582.png",
+      "rarity": "Uncommon",
+      "cardNum": "60/68"
+    },
+    {
+      "name": "Switch",
+      "set": "Incandescent Arcana",
+      "img": "https://den-cards.pokellector.com/352/Switch.S11A.61.44476.png",
+      "rarity": "Uncommon",
+      "cardNum": "61/68"
+    },
+    {
+      "name": "Emergency Jelly",
+      "set": "Incandescent Arcana",
+      "img": "https://den-cards.pokellector.com/352/Emergency-Jelly.S11A.62.44583.png",
+      "rarity": "Uncommon",
+      "cardNum": "62/68"
+    },
+    {
+      "name": "Judge",
+      "set": "Incandescent Arcana",
+      "img": "https://den-cards.pokellector.com/352/Judge.S11A.63.44475.png",
+      "rarity": "Uncommon",
+      "cardNum": "63/68"
+    },
+    {
+      "name": "Serena",
+      "set": "Incandescent Arcana",
+      "img": "https://den-cards.pokellector.com/352/Serena.S11A.64.44474.png",
+      "rarity": "Uncommon",
+      "cardNum": "64/68"
+    },
+    {
+      "name": "Furisode Girl",
+      "set": "Incandescent Arcana",
+      "img": "https://den-cards.pokellector.com/352/Furisode-Girl.S11A.65.44584.png",
+      "rarity": "Common",
+      "cardNum": "65/68"
+    },
+    {
+      "name": "Wallace",
+      "set": "Incandescent Arcana",
+      "img": "https://den-cards.pokellector.com/352/Wallace.S11A.66.44547.png",
+      "rarity": "Common",
+      "cardNum": "66/68"
+    },
+    {
+      "name": "Double Turbo Energy",
+      "set": "Incandescent Arcana",
+      "img": "https://den-cards.pokellector.com/352/Double-Turbo-Energy.S11A.67.44585.png",
+      "rarity": "Uncommon",
+      "cardNum": "67/68"
+    },
+    {
+      "name": "V Guard Energy",
+      "set": "Incandescent Arcana",
+      "img": "https://den-cards.pokellector.com/352/V-Guard-Energy.S11A.68.44515.png",
+      "rarity": "Uncommon",
+      "cardNum": "68/68"
+    },
+    {
+      "name": "Braixen",
+      "set": "Incandescent Arcana",
+      "img": "https://den-cards.pokellector.com/352/Braixen.S11A.69.44458.png",
+      "rarity": "Secret Rare",
+      "cardNum": "69/68"
+    },
+    {
+      "name": "Milotic",
+      "set": "Incandescent Arcana",
+      "img": "https://den-cards.pokellector.com/352/Milotic.S11A.70.44546.png",
+      "rarity": "Secret Rare",
+      "cardNum": "70/68"
+    },
+    {
+      "name": "Jynx",
+      "set": "Incandescent Arcana",
+      "img": "https://den-cards.pokellector.com/352/Jynx.S11A.71.44586.png",
+      "rarity": "Secret Rare",
+      "cardNum": "71/68"
+    },
+    {
+      "name": "Gardevoir",
+      "set": "Incandescent Arcana",
+      "img": "https://den-cards.pokellector.com/352/Gardevoir.S11A.72.44463.png",
+      "rarity": "Secret Rare",
+      "cardNum": "72/68"
+    },
+    {
+      "name": "Smeargle",
+      "set": "Incandescent Arcana",
+      "img": "https://den-cards.pokellector.com/352/Smeargle.S11A.73.44587.png",
+      "rarity": "Secret Rare",
+      "cardNum": "73/68"
+    },
+    {
+      "name": "Altaria",
+      "set": "Incandescent Arcana",
+      "img": "https://den-cards.pokellector.com/352/Altaria.S11A.74.44529.png",
+      "rarity": "Secret Rare",
+      "cardNum": "74/68"
+    },
+    {
+      "name": "Serperior V",
+      "set": "Incandescent Arcana",
+      "img": "https://den-cards.pokellector.com/352/Serperior-V.S11A.75.44588.png",
+      "rarity": "Secret Rare",
+      "cardNum": "75/68"
+    },
+    {
+      "name": "Reshiram V",
+      "set": "Incandescent Arcana",
+      "img": "https://den-cards.pokellector.com/352/Reshiram-V.S11A.76.44589.png",
+      "rarity": "Secret Rare",
+      "cardNum": "76/68"
+    },
+    {
+      "name": "Alolan Vulpix V",
+      "set": "Incandescent Arcana",
+      "img": "https://den-cards.pokellector.com/352/Alolan-Vulpix-V.S11A.77.44590.png",
+      "rarity": "Secret Rare",
+      "cardNum": "77/68"
+    },
+    {
+      "name": "Mawile V",
+      "set": "Incandescent Arcana",
+      "img": "https://den-cards.pokellector.com/352/Mawile-V.S11A.78.44591.png",
+      "rarity": "Secret Rare",
+      "cardNum": "78/68"
+    },
+    {
+      "name": "Magearna V",
+      "set": "Incandescent Arcana",
+      "img": "https://den-cards.pokellector.com/352/Magearna-V.S11A.79.44592.png",
+      "rarity": "Secret Rare",
+      "cardNum": "79/68"
+    },
+    {
+      "name": "Ho-Oh V",
+      "set": "Incandescent Arcana",
+      "img": "https://den-cards.pokellector.com/352/Ho-Oh-V.S11A.80.44593.png",
+      "rarity": "Secret Rare",
+      "cardNum": "80/68"
+    },
+    {
+      "name": "Serena",
+      "set": "Incandescent Arcana",
+      "img": "https://den-cards.pokellector.com/352/Serena.S11A.81.44594.png",
+      "rarity": "Secret Rare",
+      "cardNum": "81/68"
+    },
+    {
+      "name": "Furisode Girl",
+      "set": "Incandescent Arcana",
+      "img": "https://den-cards.pokellector.com/352/Furisode-Girl.S11A.82.44595.png",
+      "rarity": "Secret Rare",
+      "cardNum": "82/68"
+    },
+    {
+      "name": "Wallace",
+      "set": "Incandescent Arcana",
+      "img": "https://den-cards.pokellector.com/352/Wallace.S11A.83.44596.png",
+      "rarity": "Secret Rare",
+      "cardNum": "83/68"
+    },
+    {
+      "name": "Serperior V",
+      "set": "Incandescent Arcana",
+      "img": "https://den-cards.pokellector.com/352/Serperior-V.S11A.84.44530.png",
+      "rarity": "Secret Rare",
+      "cardNum": "84/68"
+    },
+    {
+      "name": "Mawile V",
+      "set": "Incandescent Arcana",
+      "img": "https://den-cards.pokellector.com/352/Mawile-V.S11A.85.44597.png",
+      "rarity": "Secret Rare",
+      "cardNum": "85/68"
+    },
+    {
+      "name": "Serperior VSTAR",
+      "set": "Incandescent Arcana",
+      "img": "https://den-cards.pokellector.com/352/Serperior-VSTAR.S11A.86.44598.png",
+      "rarity": "Secret Rare",
+      "cardNum": "86/68"
+    },
+    {
+      "name": "Alolan Vulpix VSTAR",
+      "set": "Incandescent Arcana",
+      "img": "https://den-cards.pokellector.com/352/Alolan-Vulpix-VSTAR.S11A.87.44599.png",
+      "rarity": "Secret Rare",
+      "cardNum": "87/68"
+    },
+    {
+      "name": "Mawile VSTAR",
+      "set": "Incandescent Arcana",
+      "img": "https://den-cards.pokellector.com/352/Mawile-VSTAR.S11A.88.44600.png",
+      "rarity": "Secret Rare",
+      "cardNum": "88/68"
+    },
+    {
+      "name": "Serena",
+      "set": "Incandescent Arcana",
+      "img": "https://den-cards.pokellector.com/352/Serena.S11A.89.44601.png",
+      "rarity": "Secret Rare",
+      "cardNum": "89/68"
+    },
+    {
+      "name": "Furisode Girl",
+      "set": "Incandescent Arcana",
+      "img": "https://den-cards.pokellector.com/352/Furisode-Girl.S11A.90.44602.png",
+      "rarity": "Secret Rare",
+      "cardNum": "90/68"
+    },
+    {
+      "name": "Wallace",
+      "set": "Incandescent Arcana",
+      "img": "https://den-cards.pokellector.com/352/Wallace.S11A.91.44603.png",
+      "rarity": "Secret Rare",
+      "cardNum": "91/68"
+    },
+    {
+      "name": "Serperior VSTAR",
+      "set": "Incandescent Arcana",
+      "img": "https://den-cards.pokellector.com/352/Serperior-VSTAR.S11A.92.44604.png",
+      "rarity": "Secret Rare",
+      "cardNum": "92/68"
+    },
+    {
+      "name": "Energy Switch",
+      "set": "Incandescent Arcana",
+      "img": "https://den-cards.pokellector.com/352/Energy-Switch.S11A.93.44605.png",
+      "rarity": "Secret Rare",
+      "cardNum": "93/68"
+    },
+    {
+      "name": "V Guard Energy",
+      "set": "Incandescent Arcana",
+      "img": "https://den-cards.pokellector.com/352/V-Guard-Energy.S11A.94.44606.png",
+      "rarity": "Secret Rare",
+      "cardNum": "94/68"
+    }
+  ]
+}

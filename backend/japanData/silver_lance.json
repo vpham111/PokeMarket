@@ -1,0 +1,670 @@
+{
+  "setName": "Silver Lance",
+  "cards": [
+    {
+      "name": "Snover",
+      "set": "Silver Lance",
+      "img": "https://den-cards.pokellector.com/309/Snover.S6H.1.38682.png",
+      "rarity": "Common",
+      "cardNum": "1/70"
+    },
+    {
+      "name": "Abomasnow",
+      "set": "Silver Lance",
+      "img": "https://den-cards.pokellector.com/309/Abomasnow.S6H.2.38651.png",
+      "rarity": "Uncommon",
+      "cardNum": "2/70"
+    },
+    {
+      "name": "Dwebble",
+      "set": "Silver Lance",
+      "img": "https://den-cards.pokellector.com/309/Dwebble.S6H.3.38683.png",
+      "rarity": "Common",
+      "cardNum": "3/70"
+    },
+    {
+      "name": "Crustle",
+      "set": "Silver Lance",
+      "img": "https://den-cards.pokellector.com/309/Crustle.S6H.4.38684.png",
+      "rarity": "Common",
+      "cardNum": "4/70"
+    },
+    {
+      "name": "Deerling",
+      "set": "Silver Lance",
+      "img": "https://den-cards.pokellector.com/309/Deerling.S6H.5.38685.png",
+      "rarity": "Common",
+      "cardNum": "5/70"
+    },
+    {
+      "name": "Sawsbuck",
+      "set": "Silver Lance",
+      "img": "https://den-cards.pokellector.com/309/Sawsbuck.S6H.6.38686.png",
+      "rarity": "Uncommon",
+      "cardNum": "6/70"
+    },
+    {
+      "name": "Bounsweet",
+      "set": "Silver Lance",
+      "img": "https://den-cards.pokellector.com/309/Bounsweet.S6H.7.38687.png",
+      "rarity": "Common",
+      "cardNum": "7/70"
+    },
+    {
+      "name": "Steenee",
+      "set": "Silver Lance",
+      "img": "https://den-cards.pokellector.com/309/Steenee.S6H.8.38688.png",
+      "rarity": "Common",
+      "cardNum": "8/70"
+    },
+    {
+      "name": "Tsareena",
+      "set": "Silver Lance",
+      "img": "https://den-cards.pokellector.com/309/Tsareena.S6H.9.38689.png",
+      "rarity": "Uncommon",
+      "cardNum": "9/70"
+    },
+    {
+      "name": "Zarude",
+      "set": "Silver Lance",
+      "img": "https://den-cards.pokellector.com/309/Zarude.S6H.10.38649.png",
+      "rarity": "Rare",
+      "cardNum": "10/70"
+    },
+    {
+      "name": "Castform Sunny Form",
+      "set": "Silver Lance",
+      "img": "https://den-cards.pokellector.com/309/Castform-Sunny-Form.S6H.11.37858.png",
+      "rarity": "Common",
+      "cardNum": "11/70"
+    },
+    {
+      "name": "Litleo",
+      "set": "Silver Lance",
+      "img": "https://den-cards.pokellector.com/309/Litleo.S6H.12.38690.png",
+      "rarity": "Common",
+      "cardNum": "12/70"
+    },
+    {
+      "name": "Pyroar",
+      "set": "Silver Lance",
+      "img": "https://den-cards.pokellector.com/309/Pyroar.S6H.13.38691.png",
+      "rarity": "Common",
+      "cardNum": "13/70"
+    },
+    {
+      "name": "Volcanion V",
+      "set": "Silver Lance",
+      "img": "https://den-cards.pokellector.com/309/Volcanion-V.S6H.14.38692.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "14/70"
+    },
+    {
+      "name": "Scorbunny",
+      "set": "Silver Lance",
+      "img": "https://den-cards.pokellector.com/309/Scorbunny.S6H.15.38664.png",
+      "rarity": "Common",
+      "cardNum": "15/70"
+    },
+    {
+      "name": "Raboot",
+      "set": "Silver Lance",
+      "img": "https://den-cards.pokellector.com/309/Raboot.S6H.16.38663.png",
+      "rarity": "Uncommon",
+      "cardNum": "16/70"
+    },
+    {
+      "name": "Cinderace",
+      "set": "Silver Lance",
+      "img": "https://den-cards.pokellector.com/309/Cinderace.S6H.17.38623.png",
+      "rarity": "Rare",
+      "cardNum": "17/70"
+    },
+    {
+      "name": "Lapras",
+      "set": "Silver Lance",
+      "img": "https://den-cards.pokellector.com/309/Lapras.S6H.18.38648.png",
+      "rarity": "Common",
+      "cardNum": "18/70"
+    },
+    {
+      "name": "Castform Snowy Form",
+      "set": "Silver Lance",
+      "img": "https://den-cards.pokellector.com/309/Castform-Snowy-Form.S6H.19.37859.png",
+      "rarity": "Common",
+      "cardNum": "19/70"
+    },
+    {
+      "name": "Snorunt",
+      "set": "Silver Lance",
+      "img": "https://den-cards.pokellector.com/309/Snorunt.S6H.20.38693.png",
+      "rarity": "Common",
+      "cardNum": "20/70"
+    },
+    {
+      "name": "Froslass",
+      "set": "Silver Lance",
+      "img": "https://den-cards.pokellector.com/309/Froslass.S6H.21.38694.png",
+      "rarity": "Rare",
+      "cardNum": "21/70"
+    },
+    {
+      "name": "Spheal",
+      "set": "Silver Lance",
+      "img": "https://den-cards.pokellector.com/309/Spheal.S6H.22.38695.png",
+      "rarity": "Common",
+      "cardNum": "22/70"
+    },
+    {
+      "name": "Sealeo",
+      "set": "Silver Lance",
+      "img": "https://den-cards.pokellector.com/309/Sealeo.S6H.23.38696.png",
+      "rarity": "Common",
+      "cardNum": "23/70"
+    },
+    {
+      "name": "Walrein",
+      "set": "Silver Lance",
+      "img": "https://den-cards.pokellector.com/309/Walrein.S6H.24.38697.png",
+      "rarity": "Uncommon",
+      "cardNum": "24/70"
+    },
+    {
+      "name": "Bergmite",
+      "set": "Silver Lance",
+      "img": "https://den-cards.pokellector.com/309/Bergmite.S6H.25.38698.png",
+      "rarity": "Common",
+      "cardNum": "25/70"
+    },
+    {
+      "name": "Avalugg",
+      "set": "Silver Lance",
+      "img": "https://den-cards.pokellector.com/309/Avalugg.S6H.26.38699.png",
+      "rarity": "Common",
+      "cardNum": "26/70"
+    },
+    {
+      "name": "Ice Rider Calyrex V",
+      "set": "Silver Lance",
+      "img": "https://den-cards.pokellector.com/309/Ice-Rider-Calyrex-V.S6H.27.38635.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "27/70"
+    },
+    {
+      "name": "Ice Rider Calyrex VMAX",
+      "set": "Silver Lance",
+      "img": "https://den-cards.pokellector.com/309/Ice-Rider-Calyrex-VMAX.S6H.28.38636.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "28/70"
+    },
+    {
+      "name": "Galarian Rapidash V",
+      "set": "Silver Lance",
+      "img": "https://den-cards.pokellector.com/309/Galarian-Rapidash-V.S6H.29.38700.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "29/70"
+    },
+    {
+      "name": "Galarian Slowpoke",
+      "set": "Silver Lance",
+      "img": "https://den-cards.pokellector.com/309/Galarian-Slowpoke.S6H.30.38701.png",
+      "rarity": "Common",
+      "cardNum": "30/70"
+    },
+    {
+      "name": "Drowzee",
+      "set": "Silver Lance",
+      "img": "https://den-cards.pokellector.com/309/Drowzee.S6H.31.38702.png",
+      "rarity": "Common",
+      "cardNum": "31/70"
+    },
+    {
+      "name": "Hypno",
+      "set": "Silver Lance",
+      "img": "https://den-cards.pokellector.com/309/Hypno.S6H.32.38652.png",
+      "rarity": "Uncommon",
+      "cardNum": "32/70"
+    },
+    {
+      "name": "Ralts",
+      "set": "Silver Lance",
+      "img": "https://den-cards.pokellector.com/309/Ralts.S6H.33.38704.png",
+      "rarity": "Common",
+      "cardNum": "33/70"
+    },
+    {
+      "name": "Kirlia",
+      "set": "Silver Lance",
+      "img": "https://den-cards.pokellector.com/309/Kirlia.S6H.34.38705.png",
+      "rarity": "Uncommon",
+      "cardNum": "34/70"
+    },
+    {
+      "name": "Gardevoir",
+      "set": "Silver Lance",
+      "img": "https://den-cards.pokellector.com/309/Gardevoir.S6H.35.38706.png",
+      "rarity": "Rare",
+      "cardNum": "35/70"
+    },
+    {
+      "name": "Shuppet",
+      "set": "Silver Lance",
+      "img": "https://den-cards.pokellector.com/309/Shuppet.S6H.36.38707.png",
+      "rarity": "Common",
+      "cardNum": "36/70"
+    },
+    {
+      "name": "Banette",
+      "set": "Silver Lance",
+      "img": "https://den-cards.pokellector.com/309/Banette.S6H.37.38708.png",
+      "rarity": "Uncommon",
+      "cardNum": "37/70"
+    },
+    {
+      "name": "Hippopotas",
+      "set": "Silver Lance",
+      "img": "https://den-cards.pokellector.com/309/Hippopotas.S6H.38.38709.png",
+      "rarity": "Common",
+      "cardNum": "38/70"
+    },
+    {
+      "name": "Hippowdon",
+      "set": "Silver Lance",
+      "img": "https://den-cards.pokellector.com/309/Hippowdon.S6H.39.38710.png",
+      "rarity": "Common",
+      "cardNum": "39/70"
+    },
+    {
+      "name": "Gallade",
+      "set": "Silver Lance",
+      "img": "https://den-cards.pokellector.com/309/Gallade.S6H.40.38711.png",
+      "rarity": "Uncommon",
+      "cardNum": "40/70"
+    },
+    {
+      "name": "Rockruff",
+      "set": "Silver Lance",
+      "img": "https://den-cards.pokellector.com/309/Rockruff.S6H.41.38662.png",
+      "rarity": "Common",
+      "cardNum": "41/70"
+    },
+    {
+      "name": "Lycanroc",
+      "set": "Silver Lance",
+      "img": "https://den-cards.pokellector.com/309/Lycanroc.S6H.42.38624.png",
+      "rarity": "Rare",
+      "cardNum": "42/70"
+    },
+    {
+      "name": "Sandaconda V",
+      "set": "Silver Lance",
+      "img": "https://den-cards.pokellector.com/309/Sandaconda-V.S6H.43.38637.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "43/70"
+    },
+    {
+      "name": "Sandaconda VMAX",
+      "set": "Silver Lance",
+      "img": "https://den-cards.pokellector.com/309/Sandaconda-VMAX.S6H.44.38712.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "44/70"
+    },
+    {
+      "name": "Galarian Slowking",
+      "set": "Silver Lance",
+      "img": "https://den-cards.pokellector.com/309/Galarian-Slowking.S6H.45.38665.png",
+      "rarity": "Rare",
+      "cardNum": "45/70"
+    },
+    {
+      "name": "Qwilfish",
+      "set": "Silver Lance",
+      "img": "https://den-cards.pokellector.com/309/Qwilfish.S6H.46.38713.png",
+      "rarity": "Common",
+      "cardNum": "46/70"
+    },
+    {
+      "name": "Liepard V",
+      "set": "Silver Lance",
+      "img": "https://den-cards.pokellector.com/309/Liepard-V.S6H.47.38666.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "47/70"
+    },
+    {
+      "name": "Aron",
+      "set": "Silver Lance",
+      "img": "https://den-cards.pokellector.com/309/Aron.S6H.48.38714.png",
+      "rarity": "Common",
+      "cardNum": "48/70"
+    },
+    {
+      "name": "Lairon",
+      "set": "Silver Lance",
+      "img": "https://den-cards.pokellector.com/309/Lairon.S6H.49.38715.png",
+      "rarity": "Common",
+      "cardNum": "49/70"
+    },
+    {
+      "name": "Aggron",
+      "set": "Silver Lance",
+      "img": "https://den-cards.pokellector.com/309/Aggron.S6H.50.38716.png",
+      "rarity": "Common",
+      "cardNum": "50/70"
+    },
+    {
+      "name": "Tauros",
+      "set": "Silver Lance",
+      "img": "https://den-cards.pokellector.com/309/Tauros.S6H.51.38667.png",
+      "rarity": "Rare",
+      "cardNum": "51/70"
+    },
+    {
+      "name": "Porygon",
+      "set": "Silver Lance",
+      "img": "https://den-cards.pokellector.com/309/Porygon.S6H.52.38717.png",
+      "rarity": "Common",
+      "cardNum": "52/70"
+    },
+    {
+      "name": "Porygon2",
+      "set": "Silver Lance",
+      "img": "https://den-cards.pokellector.com/309/Porygon2.S6H.53.38718.png",
+      "rarity": "Uncommon",
+      "cardNum": "53/70"
+    },
+    {
+      "name": "Porygon-Z",
+      "set": "Silver Lance",
+      "img": "https://den-cards.pokellector.com/309/Porygon-Z.S6H.54.38719.png",
+      "rarity": "Rare",
+      "cardNum": "54/70"
+    },
+    {
+      "name": "Teddiursa",
+      "set": "Silver Lance",
+      "img": "https://den-cards.pokellector.com/309/Teddiursa.S6H.55.38720.png",
+      "rarity": "Common",
+      "cardNum": "55/70"
+    },
+    {
+      "name": "Ursaring",
+      "set": "Silver Lance",
+      "img": "https://den-cards.pokellector.com/309/Ursaring.S6H.56.38721.png",
+      "rarity": "Uncommon",
+      "cardNum": "56/70"
+    },
+    {
+      "name": "Tornadus V",
+      "set": "Silver Lance",
+      "img": "https://den-cards.pokellector.com/309/Tornadus-V.S6H.57.37860.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "57/70"
+    },
+    {
+      "name": "Tornadus VMAX",
+      "set": "Silver Lance",
+      "img": "https://den-cards.pokellector.com/309/Tornadus-VMAX.S6H.58.37861.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "58/70"
+    },
+    {
+      "name": "Furfrou",
+      "set": "Silver Lance",
+      "img": "https://den-cards.pokellector.com/309/Greedent.S6H.59.38681.png",
+      "rarity": "Rare",
+      "cardNum": "59/70"
+    },
+    {
+      "name": "Survivial Set",
+      "set": "Silver Lance",
+      "img": "https://den-cards.pokellector.com/309/Survivial-Set.S6H.60.38722.png",
+      "rarity": "Uncommon",
+      "cardNum": "60/70"
+    },
+    {
+      "name": "Rough Helmet",
+      "set": "Silver Lance",
+      "img": "https://den-cards.pokellector.com/309/Sturdy-Helmet.S6H.61.38723.png",
+      "rarity": "Uncommon",
+      "cardNum": "61/70"
+    },
+    {
+      "name": "Single Strike Scroll - Scroll of Stab",
+      "set": "Silver Lance",
+      "img": "https://den-cards.pokellector.com/309/Single-Strike-Scroll-Scroll-of-Stab.S6H.62.38626.png",
+      "rarity": "Uncommon",
+      "cardNum": "62/70"
+    },
+    {
+      "name": "Fireproof Gloves",
+      "set": "Silver Lance",
+      "img": "https://den-cards.pokellector.com/309/Fireproof-Gloves.S6H.63.38650.png",
+      "rarity": "Common",
+      "cardNum": "63/70"
+    },
+    {
+      "name": "Crushing Gloves",
+      "set": "Silver Lance",
+      "img": "https://den-cards.pokellector.com/309/Crushing-Gloves.S6H.64.38724.png",
+      "rarity": "Uncommon",
+      "cardNum": "64/70"
+    },
+    {
+      "name": "Flannery",
+      "set": "Silver Lance",
+      "img": "https://den-cards.pokellector.com/309/Flannery.S6H.65.38625.png",
+      "rarity": "Uncommon",
+      "cardNum": "65/70"
+    },
+    {
+      "name": "Doctor",
+      "set": "Silver Lance",
+      "img": "https://den-cards.pokellector.com/309/Doctor.S6H.66.38725.png",
+      "rarity": "Uncommon",
+      "cardNum": "66/70"
+    },
+    {
+      "name": "Peony",
+      "set": "Silver Lance",
+      "img": "https://den-cards.pokellector.com/309/Peony.S6H.67.38726.png",
+      "rarity": "Uncommon",
+      "cardNum": "67/70"
+    },
+    {
+      "name": "Melony",
+      "set": "Silver Lance",
+      "img": "https://den-cards.pokellector.com/309/Melony.S6H.68.38633.png",
+      "rarity": "Uncommon",
+      "cardNum": "68/70"
+    },
+    {
+      "name": "Path to the Peak",
+      "set": "Silver Lance",
+      "img": "https://den-cards.pokellector.com/309/Path-to-the-Peak.S6H.69.38634.png",
+      "rarity": "Uncommon",
+      "cardNum": "69/70"
+    },
+    {
+      "name": "Impact Energy",
+      "set": "Silver Lance",
+      "img": "https://den-cards.pokellector.com/309/Impact-Energy.S6H.70.38627.png",
+      "rarity": "Uncommon",
+      "cardNum": "70/70"
+    },
+    {
+      "name": "Volcanion V",
+      "set": "Silver Lance",
+      "img": "https://den-cards.pokellector.com/309/Volcanion-V.S6H.71.38770.png",
+      "rarity": "Secret Rare",
+      "cardNum": "71/70"
+    },
+    {
+      "name": "Ice Rider Calyrex V",
+      "set": "Silver Lance",
+      "img": "https://den-cards.pokellector.com/309/Ice-Rider-Calyrex-V.S6H.72.38771.png",
+      "rarity": "Secret Rare",
+      "cardNum": "72/70"
+    },
+    {
+      "name": "Ice Rider Calyrex V",
+      "set": "Silver Lance",
+      "img": "https://den-cards.pokellector.com/309/Ice-Rider-Calyrex-V.S6H.73.38772.png",
+      "rarity": "Secret Rare",
+      "cardNum": "73/70"
+    },
+    {
+      "name": "Galarian Rapidash V",
+      "set": "Silver Lance",
+      "img": "https://den-cards.pokellector.com/309/Galarian-Rapidash-V.S6H.74.38773.png",
+      "rarity": "Secret Rare",
+      "cardNum": "74/70"
+    },
+    {
+      "name": "Galarian Rapidash V",
+      "set": "Silver Lance",
+      "img": "https://den-cards.pokellector.com/309/Galarian-Rapidash-V.S6H.75.38774.png",
+      "rarity": "Secret Rare",
+      "cardNum": "75/70"
+    },
+    {
+      "name": "Sandaconda V",
+      "set": "Silver Lance",
+      "img": "https://den-cards.pokellector.com/309/Sandaconda-V.S6H.76.38775.png",
+      "rarity": "Secret Rare",
+      "cardNum": "76/70"
+    },
+    {
+      "name": "Liepard V",
+      "set": "Silver Lance",
+      "img": "https://den-cards.pokellector.com/309/Liepard-V.S6H.77.38776.png",
+      "rarity": "Secret Rare",
+      "cardNum": "77/70"
+    },
+    {
+      "name": "Tornadus V",
+      "set": "Silver Lance",
+      "img": "https://den-cards.pokellector.com/309/Tornadus-V.S6H.78.38777.png",
+      "rarity": "Secret Rare",
+      "cardNum": "78/70"
+    },
+    {
+      "name": "Tornadus V",
+      "set": "Silver Lance",
+      "img": "https://den-cards.pokellector.com/309/Tornadus-V.S6H.79.38778.png",
+      "rarity": "Secret Rare",
+      "cardNum": "79/70"
+    },
+    {
+      "name": "Flannery",
+      "set": "Silver Lance",
+      "img": "https://den-cards.pokellector.com/309/Flannery.S6H.80.38762.png",
+      "rarity": "Secret Rare",
+      "cardNum": "80/70"
+    },
+    {
+      "name": "Doctor",
+      "set": "Silver Lance",
+      "img": "https://den-cards.pokellector.com/309/Doctor.S6H.81.38779.png",
+      "rarity": "Secret Rare",
+      "cardNum": "81/70"
+    },
+    {
+      "name": "Peony",
+      "set": "Silver Lance",
+      "img": "https://den-cards.pokellector.com/309/Peony.S6H.82.38780.png",
+      "rarity": "Secret Rare",
+      "cardNum": "82/70"
+    },
+    {
+      "name": "Melony",
+      "set": "Silver Lance",
+      "img": "https://den-cards.pokellector.com/309/Melony.S6H.83.38781.png",
+      "rarity": "Secret Rare",
+      "cardNum": "83/70"
+    },
+    {
+      "name": "Ice Rider Calyrex VMAX",
+      "set": "Silver Lance",
+      "img": "https://den-cards.pokellector.com/309/Ice-Rider-Calyrex-VMAX.S6H.84.38782.png",
+      "rarity": "Secret Rare",
+      "cardNum": "84/70"
+    },
+    {
+      "name": "Ice Rider Calyrex VMAX",
+      "set": "Silver Lance",
+      "img": "https://den-cards.pokellector.com/309/Ice-Rider-Calyrex-VMAX.S6H.85.38670.png",
+      "rarity": "Secret Rare",
+      "cardNum": "85/70"
+    },
+    {
+      "name": "Sandaconda VMAX",
+      "set": "Silver Lance",
+      "img": "https://den-cards.pokellector.com/309/Sandaconda-VMAX.S6H.86.38783.png",
+      "rarity": "Secret Rare",
+      "cardNum": "86/70"
+    },
+    {
+      "name": "Tornadus VMAX",
+      "set": "Silver Lance",
+      "img": "https://den-cards.pokellector.com/309/Tornadus-VMAX.S6H.87.38784.png",
+      "rarity": "Secret Rare",
+      "cardNum": "87/70"
+    },
+    {
+      "name": "Flannery",
+      "set": "Silver Lance",
+      "img": "https://den-cards.pokellector.com/309/Flannery.S6H.88.38785.png",
+      "rarity": "Secret Rare",
+      "cardNum": "88/70"
+    },
+    {
+      "name": "Doctor",
+      "set": "Silver Lance",
+      "img": "https://den-cards.pokellector.com/309/Doctor.S6H.89.38786.png",
+      "rarity": "Secret Rare",
+      "cardNum": "89/70"
+    },
+    {
+      "name": "Peony",
+      "set": "Silver Lance",
+      "img": "https://den-cards.pokellector.com/309/Peony.S6H.90.38787.png",
+      "rarity": "Secret Rare",
+      "cardNum": "90/70"
+    },
+    {
+      "name": "Melony",
+      "set": "Silver Lance",
+      "img": "https://den-cards.pokellector.com/309/Melony.S6H.91.38788.png",
+      "rarity": "Secret Rare",
+      "cardNum": "91/70"
+    },
+    {
+      "name": "Bronzong",
+      "set": "Silver Lance",
+      "img": "https://den-cards.pokellector.com/309/Bronzong.S6H.92.38789.png",
+      "rarity": "Secret Rare",
+      "cardNum": "92/70"
+    },
+    {
+      "name": "Welcoming Lantern",
+      "set": "Silver Lance",
+      "img": "https://den-cards.pokellector.com/309/Welcoming-Lantern.S6H.93.38790.png",
+      "rarity": "Secret Rare",
+      "cardNum": "93/70"
+    },
+    {
+      "name": "Rough Helmet",
+      "set": "Silver Lance",
+      "img": "https://den-cards.pokellector.com/309/Rough-Helmet.S6H.94.38791.png",
+      "rarity": "Secret Rare",
+      "cardNum": "94/70"
+    },
+    {
+      "name": "Water Energy",
+      "set": "Silver Lance",
+      "img": "https://den-cards.pokellector.com/309/Water-Energy.S6H.95.38792.png",
+      "rarity": "Secret Rare",
+      "cardNum": "95/70"
+    }
+  ]
+}

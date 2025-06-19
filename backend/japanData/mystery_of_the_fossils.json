@@ -1,0 +1,341 @@
+{
+  "setName": "Mystery of the Fossils",
+  "cards": [
+    {
+      "name": "Ekans",
+      "set": "Mystery of the Fossils",
+      "img": "https://den-cards.pokellector.com/314/Ekans.B03.1.38212.png",
+      "rarity": "Common",
+      "cardNum": "1/48"
+    },
+    {
+      "name": "Zubat",
+      "set": "Mystery of the Fossils",
+      "img": "https://den-cards.pokellector.com/314/Zubat.B03.2.38213.png",
+      "rarity": "Common",
+      "cardNum": "2/48"
+    },
+    {
+      "name": "Grimer",
+      "set": "Mystery of the Fossils",
+      "img": "https://den-cards.pokellector.com/314/Grimer.B03.3.38214.png",
+      "rarity": "Common",
+      "cardNum": "3/48"
+    },
+    {
+      "name": "Arbok",
+      "set": "Mystery of the Fossils",
+      "img": "https://den-cards.pokellector.com/314/Arbok.B03.4.38215.png",
+      "rarity": "Uncommon",
+      "cardNum": "4/48"
+    },
+    {
+      "name": "Golbat",
+      "set": "Mystery of the Fossils",
+      "img": "https://den-cards.pokellector.com/314/Golbat.B03.5.38216.png",
+      "rarity": "Uncommon",
+      "cardNum": "5/48"
+    },
+    {
+      "name": "Weezing",
+      "set": "Mystery of the Fossils",
+      "img": "https://den-cards.pokellector.com/314/Weezing.B03.6.38217.png",
+      "rarity": "Uncommon",
+      "cardNum": "6/48"
+    },
+    {
+      "name": "Muk",
+      "set": "Mystery of the Fossils",
+      "img": "https://den-cards.pokellector.com/314/Muk.B03.7.38218.png",
+      "rarity": "Rare",
+      "cardNum": "7/48"
+    },
+    {
+      "name": "Magmar",
+      "set": "Mystery of the Fossils",
+      "img": "https://den-cards.pokellector.com/314/Magmar.B03.8.38219.png",
+      "rarity": "Uncommon",
+      "cardNum": "8/48"
+    },
+    {
+      "name": "Moltres",
+      "set": "Mystery of the Fossils",
+      "img": "https://den-cards.pokellector.com/314/Moltres.B03.9.38220.png",
+      "rarity": "Rare",
+      "cardNum": "9/48"
+    },
+    {
+      "name": "Psyduck",
+      "set": "Mystery of the Fossils",
+      "img": "https://den-cards.pokellector.com/314/Psyduck.B03.10.38221.png",
+      "rarity": "Common",
+      "cardNum": "10/48"
+    },
+    {
+      "name": "Tentacool",
+      "set": "Mystery of the Fossils",
+      "img": "https://den-cards.pokellector.com/314/Tentacool.B03.11.38222.png",
+      "rarity": "Common",
+      "cardNum": "11/48"
+    },
+    {
+      "name": "Shellder",
+      "set": "Mystery of the Fossils",
+      "img": "https://den-cards.pokellector.com/314/Shellder.B03.12.38223.png",
+      "rarity": "Common",
+      "cardNum": "12/48"
+    },
+    {
+      "name": "Krabby",
+      "set": "Mystery of the Fossils",
+      "img": "https://den-cards.pokellector.com/314/Krabby.B03.13.38224.png",
+      "rarity": "Common",
+      "cardNum": "13/48"
+    },
+    {
+      "name": "Horsea",
+      "set": "Mystery of the Fossils",
+      "img": "https://den-cards.pokellector.com/314/Horsea.B03.14.38225.png",
+      "rarity": "Common",
+      "cardNum": "14/48"
+    },
+    {
+      "name": "Omanyte",
+      "set": "Mystery of the Fossils",
+      "img": "https://den-cards.pokellector.com/314/Omanyte.B03.15.38226.png",
+      "rarity": "Common",
+      "cardNum": "15/48"
+    },
+    {
+      "name": "Golduck",
+      "set": "Mystery of the Fossils",
+      "img": "https://den-cards.pokellector.com/314/Golduck.B03.16.38227.png",
+      "rarity": "Uncommon",
+      "cardNum": "16/48"
+    },
+    {
+      "name": "Tentacruel",
+      "set": "Mystery of the Fossils",
+      "img": "https://den-cards.pokellector.com/314/Tentacruel.B03.17.38228.png",
+      "rarity": "Uncommon",
+      "cardNum": "17/48"
+    },
+    {
+      "name": "Cloyster",
+      "set": "Mystery of the Fossils",
+      "img": "https://den-cards.pokellector.com/314/Cloyster.B03.18.38229.png",
+      "rarity": "Uncommon",
+      "cardNum": "18/48"
+    },
+    {
+      "name": "Kingler",
+      "set": "Mystery of the Fossils",
+      "img": "https://den-cards.pokellector.com/314/Kingler.B03.19.38230.png",
+      "rarity": "Uncommon",
+      "cardNum": "19/48"
+    },
+    {
+      "name": "Seadra",
+      "set": "Mystery of the Fossils",
+      "img": "https://den-cards.pokellector.com/314/Seadra.B03.20.38231.png",
+      "rarity": "Uncommon",
+      "cardNum": "20/48"
+    },
+    {
+      "name": "Omastar",
+      "set": "Mystery of the Fossils",
+      "img": "https://den-cards.pokellector.com/314/Omastar.B03.21.38232.png",
+      "rarity": "Uncommon",
+      "cardNum": "21/48"
+    },
+    {
+      "name": "Lapras",
+      "set": "Mystery of the Fossils",
+      "img": "https://den-cards.pokellector.com/314/Lapras.B03.22.38233.png",
+      "rarity": "Rare",
+      "cardNum": "22/48"
+    },
+    {
+      "name": "Articuno",
+      "set": "Mystery of the Fossils",
+      "img": "https://den-cards.pokellector.com/314/Articuno.B03.23.38234.png",
+      "rarity": "Rare",
+      "cardNum": "23/48"
+    },
+    {
+      "name": "Raichu",
+      "set": "Mystery of the Fossils",
+      "img": "https://den-cards.pokellector.com/314/Raichu.B03.24.38235.png",
+      "rarity": "Rare",
+      "cardNum": "24/48"
+    },
+    {
+      "name": "Magneton",
+      "set": "Mystery of the Fossils",
+      "img": "https://den-cards.pokellector.com/314/Magneton.B03.25.38236.png",
+      "rarity": "Rare",
+      "cardNum": "25/48"
+    },
+    {
+      "name": "Zapdos",
+      "set": "Mystery of the Fossils",
+      "img": "https://den-cards.pokellector.com/314/Zapdos.B03.26.38237.png",
+      "rarity": "Rare",
+      "cardNum": "26/48"
+    },
+    {
+      "name": "Slowpoke",
+      "set": "Mystery of the Fossils",
+      "img": "https://den-cards.pokellector.com/314/Slowpoke.B03.27.38238.png",
+      "rarity": "Common",
+      "cardNum": "27/48"
+    },
+    {
+      "name": "Slowbro",
+      "set": "Mystery of the Fossils",
+      "img": "https://den-cards.pokellector.com/314/Slowbro.B03.28.38239.png",
+      "rarity": "Uncommon",
+      "cardNum": "28/48"
+    },
+    {
+      "name": "Gastly",
+      "set": "Mystery of the Fossils",
+      "img": "https://den-cards.pokellector.com/314/Gastly.B03.29.38240.png",
+      "rarity": "Uncommon",
+      "cardNum": "29/48"
+    },
+    {
+      "name": "Haunter",
+      "set": "Mystery of the Fossils",
+      "img": "https://den-cards.pokellector.com/314/Haunter.B03.30.38241.png",
+      "rarity": "Rare",
+      "cardNum": "30/48"
+    },
+    {
+      "name": "Gengar",
+      "set": "Mystery of the Fossils",
+      "img": "https://den-cards.pokellector.com/314/Gengar.B03.31.38242.png",
+      "rarity": "Rare",
+      "cardNum": "31/48"
+    },
+    {
+      "name": "Hypno",
+      "set": "Mystery of the Fossils",
+      "img": "https://den-cards.pokellector.com/314/Hypno.B03.32.38243.png",
+      "rarity": "Rare",
+      "cardNum": "32/48"
+    },
+    {
+      "name": "Mew",
+      "set": "Mystery of the Fossils",
+      "img": "https://den-cards.pokellector.com/314/Mew.B03.33.38244.png",
+      "rarity": "Rare",
+      "cardNum": "33/48"
+    },
+    {
+      "name": "Geodude",
+      "set": "Mystery of the Fossils",
+      "img": "https://den-cards.pokellector.com/314/Geodude.B03.34.38245.png",
+      "rarity": "Common",
+      "cardNum": "34/48"
+    },
+    {
+      "name": "Kabuto",
+      "set": "Mystery of the Fossils",
+      "img": "https://den-cards.pokellector.com/314/Kabuto.B03.35.38246.png",
+      "rarity": "Common",
+      "cardNum": "35/48"
+    },
+    {
+      "name": "Sandslash",
+      "set": "Mystery of the Fossils",
+      "img": "https://den-cards.pokellector.com/314/Sandslash.B03.36.38247.png",
+      "rarity": "Uncommon",
+      "cardNum": "36/48"
+    },
+    {
+      "name": "Graveler",
+      "set": "Mystery of the Fossils",
+      "img": "https://den-cards.pokellector.com/314/Graveler.B03.37.38248.png",
+      "rarity": "Uncommon",
+      "cardNum": "37/48"
+    },
+    {
+      "name": "Golem",
+      "set": "Mystery of the Fossils",
+      "img": "https://den-cards.pokellector.com/314/Golem.B03.38.38249.png",
+      "rarity": "Uncommon",
+      "cardNum": "38/48"
+    },
+    {
+      "name": "Hitmonlee",
+      "set": "Mystery of the Fossils",
+      "img": "https://den-cards.pokellector.com/314/Hitmonlee.B03.39.38250.png",
+      "rarity": "Rare",
+      "cardNum": "39/48"
+    },
+    {
+      "name": "Kabutops",
+      "set": "Mystery of the Fossils",
+      "img": "https://den-cards.pokellector.com/314/Kabutops.B03.40.38251.png",
+      "rarity": "Rare",
+      "cardNum": "40/48"
+    },
+    {
+      "name": "Aerodactyl",
+      "set": "Mystery of the Fossils",
+      "img": "https://den-cards.pokellector.com/314/Aerodactyl.B03.41.38252.png",
+      "rarity": "Rare",
+      "cardNum": "41/48"
+    },
+    {
+      "name": "Ditto",
+      "set": "Mystery of the Fossils",
+      "img": "https://den-cards.pokellector.com/314/Ditto.B03.42.38253.png",
+      "rarity": "Rare",
+      "cardNum": "42/48"
+    },
+    {
+      "name": "Dragonite",
+      "set": "Mystery of the Fossils",
+      "img": "https://den-cards.pokellector.com/314/Dragonite.B03.43.38254.png",
+      "rarity": "Rare",
+      "cardNum": "43/48"
+    },
+    {
+      "name": "Energy Search",
+      "set": "Mystery of the Fossils",
+      "img": "https://den-cards.pokellector.com/314/Energy-Search.B03.44.38255.png",
+      "rarity": "Common",
+      "cardNum": "44/48"
+    },
+    {
+      "name": "Gambler",
+      "set": "Mystery of the Fossils",
+      "img": "https://den-cards.pokellector.com/314/Gambler.B03.45.38256.png",
+      "rarity": "Common",
+      "cardNum": "45/48"
+    },
+    {
+      "name": "Mysterious Fossil",
+      "set": "Mystery of the Fossils",
+      "img": "https://den-cards.pokellector.com/314/Mysterious-Fossil.B03.46.38257.png",
+      "rarity": "Common",
+      "cardNum": "46/48"
+    },
+    {
+      "name": "Recycle",
+      "set": "Mystery of the Fossils",
+      "img": "https://den-cards.pokellector.com/314/Recycle.B03.47.38258.png",
+      "rarity": "Common",
+      "cardNum": "47/48"
+    },
+    {
+      "name": "Mr. Fuji",
+      "set": "Mystery of the Fossils",
+      "img": "https://den-cards.pokellector.com/314/Mr-Fuji.B03.48.38259.png",
+      "rarity": "Uncommon",
+      "cardNum": "48/48"
+    }
+  ]
+}

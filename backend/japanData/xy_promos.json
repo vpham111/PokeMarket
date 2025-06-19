@@ -1,0 +1,2560 @@
+{
+  "setName": "XY Promos",
+  "cards": [
+    {
+      "name": "Pikachu",
+      "set": "XY Promos",
+      "img": "https://den-cards.pokellector.com/141/Pikachu.XYP.1.png",
+      "rarity": "Common",
+      "cardNum": "1/298"
+    },
+    {
+      "name": "Raichu",
+      "set": "XY Promos",
+      "img": "https://den-cards.pokellector.com/141/Raichu.XYP.2.png",
+      "rarity": "Common",
+      "cardNum": "2/298"
+    },
+    {
+      "name": "Energy Retrieval",
+      "set": "XY Promos",
+      "img": "https://den-cards.pokellector.com/141/Energy-Retrieval.XYP.3.png",
+      "rarity": "Common",
+      "cardNum": "3/298"
+    },
+    {
+      "name": "Energy Switch",
+      "set": "XY Promos",
+      "img": "https://den-cards.pokellector.com/141/Energy-Switch.XYP.4.png",
+      "rarity": "Common",
+      "cardNum": "4/298"
+    },
+    {
+      "name": "Super Scoop Up",
+      "set": "XY Promos",
+      "img": "https://den-cards.pokellector.com/141/Super-Scoop-Up.XYP.5.png",
+      "rarity": "Common",
+      "cardNum": "5/298"
+    },
+    {
+      "name": "Pal Pad",
+      "set": "XY Promos",
+      "img": "https://den-cards.pokellector.com/141/Pal-Pad.XYP.6.png",
+      "rarity": "Common",
+      "cardNum": "6/298"
+    },
+    {
+      "name": "Full Heal",
+      "set": "XY Promos",
+      "img": "https://den-cards.pokellector.com/141/Full-Heal.XYP.7.png",
+      "rarity": "Common",
+      "cardNum": "7/298"
+    },
+    {
+      "name": "Noibat",
+      "set": "XY Promos",
+      "img": "https://den-cards.pokellector.com/141/Noibat.XYP.8.png",
+      "rarity": "Common",
+      "cardNum": "8/298"
+    },
+    {
+      "name": "Noivern",
+      "set": "XY Promos",
+      "img": "https://den-cards.pokellector.com/141/Noivern.XYP.9.png",
+      "rarity": "Common",
+      "cardNum": "9/298"
+    },
+    {
+      "name": "Garchomp EX",
+      "set": "XY Promos",
+      "img": "https://den-cards.pokellector.com/141/Garchomp-EX.XYP.10.png",
+      "rarity": "Common",
+      "cardNum": "10/298"
+    },
+    {
+      "name": "Gogoat",
+      "set": "XY Promos",
+      "img": "https://den-cards.pokellector.com/141/Gogoat.XYP.11.png",
+      "rarity": "Common",
+      "cardNum": "11/298"
+    },
+    {
+      "name": "Honedge",
+      "set": "XY Promos",
+      "img": "https://den-cards.pokellector.com/141/Honedge.XYP.12.png",
+      "rarity": "Common",
+      "cardNum": "12/298"
+    },
+    {
+      "name": "Dedenne",
+      "set": "XY Promos",
+      "img": "https://den-cards.pokellector.com/141/Dedenne.XYP.13.png",
+      "rarity": "Common",
+      "cardNum": "13/298"
+    },
+    {
+      "name": "Clefairy",
+      "set": "XY Promos",
+      "img": "https://den-cards.pokellector.com/141/Clefairy.XYP.14.png",
+      "rarity": "Common",
+      "cardNum": "14/298"
+    },
+    {
+      "name": "Pancham",
+      "set": "XY Promos",
+      "img": "https://den-cards.pokellector.com/141/Pancham.XYP.15.png",
+      "rarity": "Common",
+      "cardNum": "15/298"
+    },
+    {
+      "name": "Helioptile",
+      "set": "XY Promos",
+      "img": "https://den-cards.pokellector.com/141/Helioptile.XYP.16.png",
+      "rarity": "Common",
+      "cardNum": "16/298"
+    },
+    {
+      "name": "Gogoat",
+      "set": "XY Promos",
+      "img": "https://den-cards.pokellector.com/141/Gogoat.XYP.17.png",
+      "rarity": "Common",
+      "cardNum": "17/298"
+    },
+    {
+      "name": "Talonflame",
+      "set": "XY Promos",
+      "img": "https://den-cards.pokellector.com/141/Talonflame.XYP.18.png",
+      "rarity": "Common",
+      "cardNum": "18/298"
+    },
+    {
+      "name": "Muscle Band",
+      "set": "XY Promos",
+      "img": "https://den-cards.pokellector.com/141/Muscle-Band.XYP.19.png",
+      "rarity": "Common",
+      "cardNum": "19/298"
+    },
+    {
+      "name": "Scatterbug",
+      "set": "XY Promos",
+      "img": "https://den-cards.pokellector.com/141/Scatterbug.XYP.20.png",
+      "rarity": "Common",
+      "cardNum": "20/298"
+    },
+    {
+      "name": "Greninja EX",
+      "set": "XY Promos",
+      "img": "https://den-cards.pokellector.com/141/Greninja-EX.XYP.21.png",
+      "rarity": "Common",
+      "cardNum": "21/298"
+    },
+    {
+      "name": "Trevenant",
+      "set": "XY Promos",
+      "img": "https://den-cards.pokellector.com/141/Trevenant.XYP.22.png",
+      "rarity": "Common",
+      "cardNum": "22/298"
+    },
+    {
+      "name": "Diglett",
+      "set": "XY Promos",
+      "img": "https://den-cards.pokellector.com/141/Diglett.XYP.23.png",
+      "rarity": "Common",
+      "cardNum": "23/298"
+    },
+    {
+      "name": "Doublade",
+      "set": "XY Promos",
+      "img": "https://den-cards.pokellector.com/141/Doublade.XYP.24.png",
+      "rarity": "Common",
+      "cardNum": "24/298"
+    },
+    {
+      "name": "Slurpuff",
+      "set": "XY Promos",
+      "img": "https://den-cards.pokellector.com/141/Slurpuff.XYP.25.png",
+      "rarity": "Common",
+      "cardNum": "25/298"
+    },
+    {
+      "name": "Goomy",
+      "set": "XY Promos",
+      "img": "https://den-cards.pokellector.com/141/Goomy.XYP.26.png",
+      "rarity": "Common",
+      "cardNum": "26/298"
+    },
+    {
+      "name": "Hand Scope",
+      "set": "XY Promos",
+      "img": "https://den-cards.pokellector.com/141/Hand-Scope.XYP.27.png",
+      "rarity": "Common",
+      "cardNum": "27/298"
+    },
+    {
+      "name": "Professor Sycamore",
+      "set": "XY Promos",
+      "img": "https://den-cards.pokellector.com/141/Professor-Sycamore.XYP.28.png",
+      "rarity": "Common",
+      "cardNum": "28/298"
+    },
+    {
+      "name": "Chesnaught EX",
+      "set": "XY Promos",
+      "img": "https://den-cards.pokellector.com/141/Chesnaught-EX.XYP.29.png",
+      "rarity": "Common",
+      "cardNum": "29/298"
+    },
+    {
+      "name": "Charizard EX",
+      "set": "XY Promos",
+      "img": "https://den-cards.pokellector.com/141/Charizard-EX.XYP.30.png",
+      "rarity": "Common",
+      "cardNum": "30/298"
+    },
+    {
+      "name": "Goodra",
+      "set": "XY Promos",
+      "img": "https://den-cards.pokellector.com/141/Goodra.XYP.31.png",
+      "rarity": "Common",
+      "cardNum": "31/298"
+    },
+    {
+      "name": "Flame Torch",
+      "set": "XY Promos",
+      "img": "https://den-cards.pokellector.com/141/Flame-Torch.XYP.32.png",
+      "rarity": "Common",
+      "cardNum": "32/298"
+    },
+    {
+      "name": "Pyroar",
+      "set": "XY Promos",
+      "img": "https://den-cards.pokellector.com/141/Pyroar.XYP.33.png",
+      "rarity": "Common",
+      "cardNum": "33/298"
+    },
+    {
+      "name": "Chespin",
+      "set": "XY Promos",
+      "img": "https://den-cards.pokellector.com/141/Chespin.XYP.34.png",
+      "rarity": "Common",
+      "cardNum": "34/298"
+    },
+    {
+      "name": "Fennekin",
+      "set": "XY Promos",
+      "img": "https://den-cards.pokellector.com/141/Fennekin.XYP.35.png",
+      "rarity": "Common",
+      "cardNum": "35/298"
+    },
+    {
+      "name": "Froakie",
+      "set": "XY Promos",
+      "img": "https://den-cards.pokellector.com/141/Froakie.XYP.36.png",
+      "rarity": "Common",
+      "cardNum": "36/298"
+    },
+    {
+      "name": "Darkrai",
+      "set": "XY Promos",
+      "img": "https://den-cards.pokellector.com/141/Darkrai.XYP.37.png",
+      "rarity": "Common",
+      "cardNum": "37/298"
+    },
+    {
+      "name": "Hawlucha EX",
+      "set": "XY Promos",
+      "img": "https://den-cards.pokellector.com/141/Hawlucha-EX.XYP.38.png",
+      "rarity": "Common",
+      "cardNum": "38/298"
+    },
+    {
+      "name": "Shiftry",
+      "set": "XY Promos",
+      "img": "https://den-cards.pokellector.com/141/Shiftry.XYP.39.png",
+      "rarity": "Common",
+      "cardNum": "39/298"
+    },
+    {
+      "name": "Spheal",
+      "set": "XY Promos",
+      "img": "https://den-cards.pokellector.com/141/Spheal.XYP.40.png",
+      "rarity": "Common",
+      "cardNum": "40/298"
+    },
+    {
+      "name": "Meowstic",
+      "set": "XY Promos",
+      "img": "https://den-cards.pokellector.com/141/Meowstic.XYP.41.png",
+      "rarity": "Common",
+      "cardNum": "41/298"
+    },
+    {
+      "name": "Skrelp",
+      "set": "XY Promos",
+      "img": "https://den-cards.pokellector.com/141/Skrelp.XYP.42.png",
+      "rarity": "Common",
+      "cardNum": "42/298"
+    },
+    {
+      "name": "Tyrunt",
+      "set": "XY Promos",
+      "img": "https://den-cards.pokellector.com/141/Tyrunt.XYP.43.png",
+      "rarity": "Common",
+      "cardNum": "43/298"
+    },
+    {
+      "name": "Krookodile EX",
+      "set": "XY Promos",
+      "img": "https://den-cards.pokellector.com/141/Krookodile-EX.XYP.44.png",
+      "rarity": "Common",
+      "cardNum": "44/298"
+    },
+    {
+      "name": "Sliggoo",
+      "set": "XY Promos",
+      "img": "https://den-cards.pokellector.com/141/Sliggoo.XYP.45.png",
+      "rarity": "Common",
+      "cardNum": "45/298"
+    },
+    {
+      "name": "Enhanced Hammer",
+      "set": "XY Promos",
+      "img": "https://den-cards.pokellector.com/141/Enhanced-Hammer.XYP.46.png",
+      "rarity": "Common",
+      "cardNum": "46/298"
+    },
+    {
+      "name": "Foul Play Coin",
+      "set": "XY Promos",
+      "img": "https://den-cards.pokellector.com/141/Foul-Play.XYP.47.png",
+      "rarity": "Common",
+      "cardNum": "47/298"
+    },
+    {
+      "name": "Delphox EX",
+      "set": "XY Promos",
+      "img": "https://den-cards.pokellector.com/141/Delphox-EX.XYP.48.png",
+      "rarity": "Common",
+      "cardNum": "48/298"
+    },
+    {
+      "name": "Binacle",
+      "set": "XY Promos",
+      "img": "https://den-cards.pokellector.com/141/Binacle.XYP.49.png",
+      "rarity": "Common",
+      "cardNum": "49/298"
+    },
+    {
+      "name": "Team Japan's Pikachu",
+      "set": "XY Promos",
+      "img": "https://den-cards.pokellector.com/141/Team-Japans-Pikachu.XYP.50.png",
+      "rarity": "Common",
+      "cardNum": "50/298"
+    },
+    {
+      "name": "Xerneas",
+      "set": "XY Promos",
+      "img": "https://den-cards.pokellector.com/141/Xerneas.XYP.51.png",
+      "rarity": "Common",
+      "cardNum": "51/298"
+    },
+    {
+      "name": "Yveltal",
+      "set": "XY Promos",
+      "img": "https://den-cards.pokellector.com/141/Yveltal.XYP.52.png",
+      "rarity": "Common",
+      "cardNum": "52/298"
+    },
+    {
+      "name": "Diancie",
+      "set": "XY Promos",
+      "img": "https://den-cards.pokellector.com/141/Diancie.XYP.53.png",
+      "rarity": "Common",
+      "cardNum": "53/298"
+    },
+    {
+      "name": "Diancie",
+      "set": "XY Promos",
+      "img": "https://den-cards.pokellector.com/141/Diancie.XYP.54.png",
+      "rarity": "Common",
+      "cardNum": "54/298"
+    },
+    {
+      "name": "Gengar Spirit Link",
+      "set": "XY Promos",
+      "img": "https://den-cards.pokellector.com/141/Gengar-Spirit-Link.XYP.55.png",
+      "rarity": "Common",
+      "cardNum": "55/298"
+    },
+    {
+      "name": "PokeTV's AD Pikachu",
+      "set": "XY Promos",
+      "img": "https://den-cards.pokellector.com/141/PokeTVs-AD-Pikachu.XYP.56.png",
+      "rarity": "Common",
+      "cardNum": "56/298"
+    },
+    {
+      "name": "Klefki",
+      "set": "XY Promos",
+      "img": "https://den-cards.pokellector.com/141/Klefki.XYP.57.png",
+      "rarity": "Common",
+      "cardNum": "57/298"
+    },
+    {
+      "name": "Carbink",
+      "set": "XY Promos",
+      "img": "https://den-cards.pokellector.com/141/Carbink.XYP.58.png",
+      "rarity": "Common",
+      "cardNum": "58/298"
+    },
+    {
+      "name": "Pangoro",
+      "set": "XY Promos",
+      "img": "https://den-cards.pokellector.com/141/Pangoro.XYP.59.png",
+      "rarity": "Common",
+      "cardNum": "59/298"
+    },
+    {
+      "name": "Landorus",
+      "set": "XY Promos",
+      "img": "https://den-cards.pokellector.com/141/Landorus.XYP.60.png",
+      "rarity": "Common",
+      "cardNum": "60/298"
+    },
+    {
+      "name": "Chespin",
+      "set": "XY Promos",
+      "img": "https://den-cards.pokellector.com/141/Chespin.XYP.61.png",
+      "rarity": "Common",
+      "cardNum": "61/298"
+    },
+    {
+      "name": "Fennekin",
+      "set": "XY Promos",
+      "img": "https://den-cards.pokellector.com/141/Fennekin.XYP.62.png",
+      "rarity": "Common",
+      "cardNum": "62/298"
+    },
+    {
+      "name": "Froakie",
+      "set": "XY Promos",
+      "img": "https://den-cards.pokellector.com/141/Froakie.XYP.63.png",
+      "rarity": "Common",
+      "cardNum": "63/298"
+    },
+    {
+      "name": "Pikachu",
+      "set": "XY Promos",
+      "img": "https://den-cards.pokellector.com/141/Pikachu.XYP.64.png",
+      "rarity": "Common",
+      "cardNum": "64/298"
+    },
+    {
+      "name": "Hawlucha",
+      "set": "XY Promos",
+      "img": "https://den-cards.pokellector.com/141/Hawlucha.XYP.65.png",
+      "rarity": "Common",
+      "cardNum": "65/298"
+    },
+    {
+      "name": "Lucario EX",
+      "set": "XY Promos",
+      "img": "https://den-cards.pokellector.com/141/Lucario-EX.XYP.66.png",
+      "rarity": "Common",
+      "cardNum": "66/298"
+    },
+    {
+      "name": "Machamp",
+      "set": "XY Promos",
+      "img": "https://den-cards.pokellector.com/141/Machamp.XYP.67.png",
+      "rarity": "Common",
+      "cardNum": "67/298"
+    },
+    {
+      "name": "Pikachu",
+      "set": "XY Promos",
+      "img": "https://den-cards.pokellector.com/141/Pikachu.XYP.68.png",
+      "rarity": "Common",
+      "cardNum": "68/298"
+    },
+    {
+      "name": "Pikachu",
+      "set": "XY Promos",
+      "img": "https://den-cards.pokellector.com/141/Pikachu.XYP.69.png",
+      "rarity": "Common",
+      "cardNum": "69/298"
+    },
+    {
+      "name": "Pikachu",
+      "set": "XY Promos",
+      "img": "https://den-cards.pokellector.com/141/Pikachu.XYP.70.png",
+      "rarity": "Common",
+      "cardNum": "70/298"
+    },
+    {
+      "name": "Chesnaught",
+      "set": "XY Promos",
+      "img": "https://den-cards.pokellector.com/141/Chesnaught.XYP.71.png",
+      "rarity": "Common",
+      "cardNum": "71/298"
+    },
+    {
+      "name": "Delphox",
+      "set": "XY Promos",
+      "img": "https://den-cards.pokellector.com/141/Delphox.XYP.72.png",
+      "rarity": "Common",
+      "cardNum": "72/298"
+    },
+    {
+      "name": "Greninja",
+      "set": "XY Promos",
+      "img": "https://den-cards.pokellector.com/141/Greninja.XYP.73.png",
+      "rarity": "Common",
+      "cardNum": "73/298"
+    },
+    {
+      "name": "Venusaur EX",
+      "set": "XY Promos",
+      "img": "https://den-cards.pokellector.com/141/Venusaur-EX.XYP.74.png",
+      "rarity": "Common",
+      "cardNum": "74/298"
+    },
+    {
+      "name": "Charizard EX",
+      "set": "XY Promos",
+      "img": "https://den-cards.pokellector.com/141/Charizard-EX.XYP.75.png",
+      "rarity": "Common",
+      "cardNum": "75/298"
+    },
+    {
+      "name": "Blastoise EX",
+      "set": "XY Promos",
+      "img": "https://den-cards.pokellector.com/141/Blastoise-EX.XYP.76.png",
+      "rarity": "Common",
+      "cardNum": "76/298"
+    },
+    {
+      "name": "Ditto",
+      "set": "XY Promos",
+      "img": "https://den-cards.pokellector.com/141/Ditto.XYP.77.png",
+      "rarity": "Common",
+      "cardNum": "77/298"
+    },
+    {
+      "name": "Dedenne",
+      "set": "XY Promos",
+      "img": "https://den-cards.pokellector.com/141/Dedenne.XYP.78.png",
+      "rarity": "Common",
+      "cardNum": "78/298"
+    },
+    {
+      "name": "M Gengar EX",
+      "set": "XY Promos",
+      "img": "https://den-cards.pokellector.com/141/M-Gengar-EX.XYP.79.png",
+      "rarity": "Common",
+      "cardNum": "79/298"
+    },
+    {
+      "name": "Wobbuffet",
+      "set": "XY Promos",
+      "img": "https://den-cards.pokellector.com/141/Wobbuffet.XYP.80.png",
+      "rarity": "Common",
+      "cardNum": "80/298"
+    },
+    {
+      "name": "Litleo",
+      "set": "XY Promos",
+      "img": "https://den-cards.pokellector.com/141/Litleo.XYP.81.png",
+      "rarity": "Common",
+      "cardNum": "81/298"
+    },
+    {
+      "name": "Heliolisk",
+      "set": "XY Promos",
+      "img": "https://den-cards.pokellector.com/141/Heliosk.XYP.82.png",
+      "rarity": "Common",
+      "cardNum": "82/298"
+    },
+    {
+      "name": "Zubat",
+      "set": "XY Promos",
+      "img": "https://den-cards.pokellector.com/141/Zubat.XYP.83.png",
+      "rarity": "Common",
+      "cardNum": "83/298"
+    },
+    {
+      "name": "Gallade EX",
+      "set": "XY Promos",
+      "img": "https://den-cards.pokellector.com/141/Gallade-EX.XYP.84.png",
+      "rarity": "Common",
+      "cardNum": "84/298"
+    },
+    {
+      "name": "Swirlix",
+      "set": "XY Promos",
+      "img": "https://den-cards.pokellector.com/141/Slurpuff.XYP.85.png",
+      "rarity": "Common",
+      "cardNum": "85/298"
+    },
+    {
+      "name": "Zweilous",
+      "set": "XY Promos",
+      "img": "https://den-cards.pokellector.com/141/Zweilous.XYP.86.png",
+      "rarity": "Common",
+      "cardNum": "86/298"
+    },
+    {
+      "name": "Blissey",
+      "set": "XY Promos",
+      "img": "https://den-cards.pokellector.com/141/Blissey.XYP.87.png",
+      "rarity": "Common",
+      "cardNum": "87/298"
+    },
+    {
+      "name": "Healing Robe",
+      "set": "XY Promos",
+      "img": "https://den-cards.pokellector.com/141/Healing-Robe.XYP.88.png",
+      "rarity": "Common",
+      "cardNum": "88/298"
+    },
+    {
+      "name": "Trevor",
+      "set": "XY Promos",
+      "img": "https://den-cards.pokellector.com/141/Trevor.XYP.89.png",
+      "rarity": "Common",
+      "cardNum": "89/298"
+    },
+    {
+      "name": "Pikachu",
+      "set": "XY Promos",
+      "img": "https://den-cards.pokellector.com/141/Pikachu.XYP.90.png",
+      "rarity": "Common",
+      "cardNum": "90/298"
+    },
+    {
+      "name": "Sylveon",
+      "set": "XY Promos",
+      "img": "https://den-cards.pokellector.com/141/Sylveon.XYP.91.png",
+      "rarity": "Common",
+      "cardNum": "91/298"
+    },
+    {
+      "name": "Diancie EX",
+      "set": "XY Promos",
+      "img": "https://den-cards.pokellector.com/141/Diancie-EX.XYP.92.png",
+      "rarity": "Common",
+      "cardNum": "92/298"
+    },
+    {
+      "name": "M Diancie EX",
+      "set": "XY Promos",
+      "img": "https://den-cards.pokellector.com/141/M-Diancie-EX.XYP.93.png",
+      "rarity": "Common",
+      "cardNum": "93/298"
+    },
+    {
+      "name": "Warm Pikachu",
+      "set": "XY Promos",
+      "img": "https://den-cards.pokellector.com/141/Warm-Pikachu.XYP.94.png",
+      "rarity": "Common",
+      "cardNum": "94/298"
+    },
+    {
+      "name": "Warm Pikachu",
+      "set": "XY Promos",
+      "img": "https://den-cards.pokellector.com/141/Warm-Pikachu.XYP.95.png",
+      "rarity": "Common",
+      "cardNum": "95/298"
+    },
+    {
+      "name": "Warm Pikachu",
+      "set": "XY Promos",
+      "img": "https://den-cards.pokellector.com/141/Warm-Pikachu.XYP.96.png",
+      "rarity": "Common",
+      "cardNum": "96/298"
+    },
+    {
+      "name": "Warm Pikachu",
+      "set": "XY Promos",
+      "img": "https://den-cards.pokellector.com/141/Warm-Pikachu.XYP.97.png",
+      "rarity": "Common",
+      "cardNum": "97/298"
+    },
+    {
+      "name": "Mega Tokyo's Pikachu",
+      "set": "XY Promos",
+      "img": "https://den-cards.pokellector.com/141/Mega-Tokyos-Pikachu.XYP.98.png",
+      "rarity": "Common",
+      "cardNum": "98/298"
+    },
+    {
+      "name": "Cosplay Pikachu",
+      "set": "XY Promos",
+      "img": "https://den-cards.pokellector.com/141/Cosplay-Pikachu.XYP.99.png",
+      "rarity": "Common",
+      "cardNum": "99/298"
+    },
+    {
+      "name": "Rayquaza",
+      "set": "XY Promos",
+      "img": "https://den-cards.pokellector.com/141/Rayquaza.XYP.100.png",
+      "rarity": "Common",
+      "cardNum": "100/298"
+    },
+    {
+      "name": "Metagross EX",
+      "set": "XY Promos",
+      "img": "https://den-cards.pokellector.com/141/Metagross-EX.XYP.101.png",
+      "rarity": "Common",
+      "cardNum": "101/298"
+    },
+    {
+      "name": "M Metagross EX",
+      "set": "XY Promos",
+      "img": "https://den-cards.pokellector.com/141/M-Metagross-EX.XYP.102.png",
+      "rarity": "Common",
+      "cardNum": "102/298"
+    },
+    {
+      "name": "Torchic",
+      "set": "XY Promos",
+      "img": "https://den-cards.pokellector.com/141/Torchic.XYP.103.png",
+      "rarity": "Common",
+      "cardNum": "103/298"
+    },
+    {
+      "name": "Regirock",
+      "set": "XY Promos",
+      "img": "https://den-cards.pokellector.com/141/Regirock.XYP.104.png",
+      "rarity": "Common",
+      "cardNum": "104/298"
+    },
+    {
+      "name": "Inkay",
+      "set": "XY Promos",
+      "img": "https://den-cards.pokellector.com/141/Inkay.XYP.105.png",
+      "rarity": "Common",
+      "cardNum": "105/298"
+    },
+    {
+      "name": "Meowth",
+      "set": "XY Promos",
+      "img": "https://den-cards.pokellector.com/141/Meowth.XYP.106.png",
+      "rarity": "Common",
+      "cardNum": "106/298"
+    },
+    {
+      "name": "Treecko",
+      "set": "XY Promos",
+      "img": "https://den-cards.pokellector.com/141/Treecko.XYP.107.png",
+      "rarity": "Common",
+      "cardNum": "107/298"
+    },
+    {
+      "name": "Torchic",
+      "set": "XY Promos",
+      "img": "https://den-cards.pokellector.com/141/Torchic.XYP.108.png",
+      "rarity": "Common",
+      "cardNum": "108/298"
+    },
+    {
+      "name": "Mudkip",
+      "set": "XY Promos",
+      "img": "https://den-cards.pokellector.com/141/Mudkip.XYP.109.png",
+      "rarity": "Common",
+      "cardNum": "109/298"
+    },
+    {
+      "name": "Vulpix",
+      "set": "XY Promos",
+      "img": "https://den-cards.pokellector.com/141/Vulpix.XYP.110.png",
+      "rarity": "Common",
+      "cardNum": "110/298"
+    },
+    {
+      "name": "Lanturn",
+      "set": "XY Promos",
+      "img": "https://den-cards.pokellector.com/141/Lanturn.XYP.111.png",
+      "rarity": "Common",
+      "cardNum": "111/298"
+    },
+    {
+      "name": "Tynamo",
+      "set": "XY Promos",
+      "img": "https://den-cards.pokellector.com/141/Tynamo.XYP.112.png",
+      "rarity": "Common",
+      "cardNum": "112/298"
+    },
+    {
+      "name": "Rhydon",
+      "set": "XY Promos",
+      "img": "https://den-cards.pokellector.com/141/Rhydon.XYP.113.png",
+      "rarity": "Common",
+      "cardNum": "113/298"
+    },
+    {
+      "name": "Flygon EX",
+      "set": "XY Promos",
+      "img": "https://den-cards.pokellector.com/141/Flygon-EX.XYP.114.png",
+      "rarity": "Common",
+      "cardNum": "114/298"
+    },
+    {
+      "name": "Fearow",
+      "set": "XY Promos",
+      "img": "https://den-cards.pokellector.com/141/Fearow.XYP.115.png",
+      "rarity": "Common",
+      "cardNum": "115/298"
+    },
+    {
+      "name": "Swablu",
+      "set": "XY Promos",
+      "img": "https://den-cards.pokellector.com/141/Swablu.XYP.116.png",
+      "rarity": "Common",
+      "cardNum": "116/298"
+    },
+    {
+      "name": "Energy Recycle",
+      "set": "XY Promos",
+      "img": "https://den-cards.pokellector.com/141/Energy-Recycle.XYP.117.png",
+      "rarity": "Common",
+      "cardNum": "117/298"
+    },
+    {
+      "name": "Acro Bike",
+      "set": "XY Promos",
+      "img": "https://den-cards.pokellector.com/141/Acro-Bike.XYP.118.png",
+      "rarity": "Common",
+      "cardNum": "118/298"
+    },
+    {
+      "name": "Team Aqua Grunt",
+      "set": "XY Promos",
+      "img": "https://den-cards.pokellector.com/141/Team-Aqua-Grunt.XYP.119.png",
+      "rarity": "Common",
+      "cardNum": "119/298"
+    },
+    {
+      "name": "Team Magma Grunt",
+      "set": "XY Promos",
+      "img": "https://den-cards.pokellector.com/141/Team-Magma-Grunt.XYP.120.png",
+      "rarity": "Common",
+      "cardNum": "120/298"
+    },
+    {
+      "name": "Steven (Daigo)",
+      "set": "XY Promos",
+      "img": "https://den-cards.pokellector.com/141/Steven-Daigo.XYP.121.png",
+      "rarity": "Common",
+      "cardNum": "121/298"
+    },
+    {
+      "name": "Rayquaza EX",
+      "set": "XY Promos",
+      "img": "https://den-cards.pokellector.com/141/Rayquaza-EX.XYP.122.png",
+      "rarity": "Common",
+      "cardNum": "122/298"
+    },
+    {
+      "name": "Rayquaza EX",
+      "set": "XY Promos",
+      "img": "https://den-cards.pokellector.com/141/Rayquaza-EX.XYP.123.png",
+      "rarity": "Common",
+      "cardNum": "123/298"
+    },
+    {
+      "name": "Salamence",
+      "set": "XY Promos",
+      "img": "https://den-cards.pokellector.com/141/Salamence.XYP.124.png",
+      "rarity": "Common",
+      "cardNum": "124/298"
+    },
+    {
+      "name": "Muscle Band",
+      "set": "XY Promos",
+      "img": "https://den-cards.pokellector.com/141/Muscle-Band.XYP.125.png",
+      "rarity": "Common",
+      "cardNum": "125/298"
+    },
+    {
+      "name": "Rayquaza Spirit Link",
+      "set": "XY Promos",
+      "img": "https://den-cards.pokellector.com/141/Rayquaza-Spirit-Link.XYP.126.png",
+      "rarity": "Common",
+      "cardNum": "126/298"
+    },
+    {
+      "name": "Blaziken EX",
+      "set": "XY Promos",
+      "img": "https://den-cards.pokellector.com/141/Blaziken-EX.XYP.127.png",
+      "rarity": "Common",
+      "cardNum": "127/298"
+    },
+    {
+      "name": "Wurmple",
+      "set": "XY Promos",
+      "img": "https://den-cards.pokellector.com/141/Wurmple.XYP.128.png",
+      "rarity": "Common",
+      "cardNum": "128/298"
+    },
+    {
+      "name": "Jirachi",
+      "set": "XY Promos",
+      "img": "https://den-cards.pokellector.com/141/Jirachi.XYP.129.png",
+      "rarity": "Common",
+      "cardNum": "129/298"
+    },
+    {
+      "name": "Malamar",
+      "set": "XY Promos",
+      "img": "https://den-cards.pokellector.com/141/Malamar.XYP.130.png",
+      "rarity": "Common",
+      "cardNum": "130/298"
+    },
+    {
+      "name": "Ralts",
+      "set": "XY Promos",
+      "img": "https://den-cards.pokellector.com/141/Ralts.XYP.131.png",
+      "rarity": "Common",
+      "cardNum": "131/298"
+    },
+    {
+      "name": "Dragonair",
+      "set": "XY Promos",
+      "img": "https://den-cards.pokellector.com/141/Dragonair.XYP.132.png",
+      "rarity": "Common",
+      "cardNum": "132/298"
+    },
+    {
+      "name": "Tyrantrum EX",
+      "set": "XY Promos",
+      "img": "https://den-cards.pokellector.com/141/Tyrantrum-EX.XYP.133.png",
+      "rarity": "Common",
+      "cardNum": "133/298"
+    },
+    {
+      "name": "Taillow",
+      "set": "XY Promos",
+      "img": "https://den-cards.pokellector.com/141/Taillow.XYP.134.png",
+      "rarity": "Common",
+      "cardNum": "134/298"
+    },
+    {
+      "name": "Heavy Boots",
+      "set": "XY Promos",
+      "img": "https://den-cards.pokellector.com/141/Heavy-Boots.XYP.135.png",
+      "rarity": "Common",
+      "cardNum": "135/298"
+    },
+    {
+      "name": "Rare Candy",
+      "set": "XY Promos",
+      "img": "https://den-cards.pokellector.com/141/Rare-Candy.XYP.136.png",
+      "rarity": "Common",
+      "cardNum": "136/298"
+    },
+    {
+      "name": "Swampert EX",
+      "set": "XY Promos",
+      "img": "https://den-cards.pokellector.com/141/Swampert-EX.XYP.137.png",
+      "rarity": "Common",
+      "cardNum": "137/298"
+    },
+    {
+      "name": "M Blaziken EX",
+      "set": "XY Promos",
+      "img": "https://den-cards.pokellector.com/141/M-Blaziken-EX.XYP.138.png",
+      "rarity": "Common",
+      "cardNum": "138/298"
+    },
+    {
+      "name": "All-Night Party",
+      "set": "XY Promos",
+      "img": "https://den-cards.pokellector.com/141/All-Night-Party.XYP.139.png",
+      "rarity": "Common",
+      "cardNum": "139/298"
+    },
+    {
+      "name": "Umbreon",
+      "set": "XY Promos",
+      "img": "https://den-cards.pokellector.com/141/Umbreon.XYP.140.png",
+      "rarity": "Common",
+      "cardNum": "140/298"
+    },
+    {
+      "name": "Sylveon",
+      "set": "XY Promos",
+      "img": "https://den-cards.pokellector.com/141/Sylveon.XYP.141.png",
+      "rarity": "Common",
+      "cardNum": "141/298"
+    },
+    {
+      "name": "Celebi",
+      "set": "XY Promos",
+      "img": "https://den-cards.pokellector.com/141/Celebi.XYP.142.png",
+      "rarity": "Common",
+      "cardNum": "142/298"
+    },
+    {
+      "name": "Kyogre",
+      "set": "XY Promos",
+      "img": "https://den-cards.pokellector.com/141/Kyogre.XYP.143.png",
+      "rarity": "Common",
+      "cardNum": "143/298"
+    },
+    {
+      "name": "Groudon",
+      "set": "XY Promos",
+      "img": "https://den-cards.pokellector.com/141/Groudon.XYP.144.png",
+      "rarity": "Common",
+      "cardNum": "144/298"
+    },
+    {
+      "name": "Latias",
+      "set": "XY Promos",
+      "img": "https://den-cards.pokellector.com/141/Latias.XYP.145.png",
+      "rarity": "Common",
+      "cardNum": "145/298"
+    },
+    {
+      "name": "Latios",
+      "set": "XY Promos",
+      "img": "https://den-cards.pokellector.com/141/Latios.XYP.146.png",
+      "rarity": "Common",
+      "cardNum": "146/298"
+    },
+    {
+      "name": "Sableye",
+      "set": "XY Promos",
+      "img": "https://den-cards.pokellector.com/141/Sableye.XYP.147.png",
+      "rarity": "Common",
+      "cardNum": "147/298"
+    },
+    {
+      "name": "Chespin",
+      "set": "XY Promos",
+      "img": "https://den-cards.pokellector.com/141/Chespin.XYP.148.png",
+      "rarity": "Common",
+      "cardNum": "148/298"
+    },
+    {
+      "name": "Snorlax",
+      "set": "XY Promos",
+      "img": "https://den-cards.pokellector.com/141/Snorlax.XYP.149.png",
+      "rarity": "Common",
+      "cardNum": "149/298"
+    },
+    {
+      "name": "Magikarp Pikachu",
+      "set": "XY Promos",
+      "img": "https://den-cards.pokellector.com/141/Magikarp-Pikachu.XYP.150.png",
+      "rarity": "Common",
+      "cardNum": "150/298"
+    },
+    {
+      "name": "Gyarados Pikachu",
+      "set": "XY Promos",
+      "img": "https://den-cards.pokellector.com/141/Gyarados-Pikachu.XYP.151.png",
+      "rarity": "Common",
+      "cardNum": "151/298"
+    },
+    {
+      "name": "Kyogre EX",
+      "set": "XY Promos",
+      "img": "https://den-cards.pokellector.com/141/Kyogre-EX.XYP.152.png",
+      "rarity": "Common",
+      "cardNum": "152/298"
+    },
+    {
+      "name": "Groudon EX",
+      "set": "XY Promos",
+      "img": "https://den-cards.pokellector.com/141/Groudon-EX.XYP.153.png",
+      "rarity": "Common",
+      "cardNum": "153/298"
+    },
+    {
+      "name": "Pikachu",
+      "set": "XY Promos",
+      "img": "https://den-cards.pokellector.com/141/Pikachu.XYP.154.png",
+      "rarity": "Common",
+      "cardNum": "154/298"
+    },
+    {
+      "name": "Hoopa",
+      "set": "XY Promos",
+      "img": "https://den-cards.pokellector.com/141/Hoopa.XYP.155.png",
+      "rarity": "Common",
+      "cardNum": "155/298"
+    },
+    {
+      "name": "Pikachu",
+      "set": "XY Promos",
+      "img": "https://den-cards.pokellector.com/141/Pikachu.XYP.156.png",
+      "rarity": "Common",
+      "cardNum": "156/298"
+    },
+    {
+      "name": "Hoopa",
+      "set": "XY Promos",
+      "img": "https://den-cards.pokellector.com/141/Hoopa.XYP.157.png",
+      "rarity": "Common",
+      "cardNum": "157/298"
+    },
+    {
+      "name": "Rayquaza EX",
+      "set": "XY Promos",
+      "img": "https://den-cards.pokellector.com/141/Rayquaza-EX.XYP.158.png",
+      "rarity": "Common",
+      "cardNum": "158/298"
+    },
+    {
+      "name": "Hippopotas",
+      "set": "XY Promos",
+      "img": "https://den-cards.pokellector.com/141/Hippopotas.XYP.159.png",
+      "rarity": "Common",
+      "cardNum": "159/298"
+    },
+    {
+      "name": "Regigigas",
+      "set": "XY Promos",
+      "img": "https://den-cards.pokellector.com/141/Regigigas.XYP.160.png",
+      "rarity": "Common",
+      "cardNum": "160/298"
+    },
+    {
+      "name": "Reshiram",
+      "set": "XY Promos",
+      "img": "https://den-cards.pokellector.com/141/Reshiram.XYP.161.png",
+      "rarity": "Common",
+      "cardNum": "161/298"
+    },
+    {
+      "name": "Altaria",
+      "set": "XY Promos",
+      "img": "https://den-cards.pokellector.com/141/Altaria.XYP.162.png",
+      "rarity": "Common",
+      "cardNum": "162/298"
+    },
+    {
+      "name": "Sceptile EX",
+      "set": "XY Promos",
+      "img": "https://den-cards.pokellector.com/141/Sceptile-EX.XYP.163.png",
+      "rarity": "Common",
+      "cardNum": "163/298"
+    },
+    {
+      "name": "Skyla",
+      "set": "XY Promos",
+      "img": "https://den-cards.pokellector.com/141/Skyla.XYP.164.png",
+      "rarity": "Common",
+      "cardNum": "164/298"
+    },
+    {
+      "name": "Beautifly",
+      "set": "XY Promos",
+      "img": "https://den-cards.pokellector.com/141/Beautifly.XYP.165.png",
+      "rarity": "Common",
+      "cardNum": "165/298"
+    },
+    {
+      "name": "Pansear",
+      "set": "XY Promos",
+      "img": "https://den-cards.pokellector.com/141/Pansear.XYP.166.png",
+      "rarity": "Common",
+      "cardNum": "166/298"
+    },
+    {
+      "name": "Froakie",
+      "set": "XY Promos",
+      "img": "https://den-cards.pokellector.com/141/Froakie.XYP.167.png",
+      "rarity": "Common",
+      "cardNum": "167/298"
+    },
+    {
+      "name": "Aurorus EX",
+      "set": "XY Promos",
+      "img": "https://den-cards.pokellector.com/141/Latios-EX.XYP.168.png",
+      "rarity": "Common",
+      "cardNum": "168/298"
+    },
+    {
+      "name": "Marowak",
+      "set": "XY Promos",
+      "img": "https://den-cards.pokellector.com/141/Marowak.XYP.169.png",
+      "rarity": "Common",
+      "cardNum": "169/298"
+    },
+    {
+      "name": "Gastly",
+      "set": "XY Promos",
+      "img": "https://den-cards.pokellector.com/141/Gastly.XYP.170.png",
+      "rarity": "Common",
+      "cardNum": "170/298"
+    },
+    {
+      "name": "Floette",
+      "set": "XY Promos",
+      "img": "https://den-cards.pokellector.com/141/Floette.XYP.171.png",
+      "rarity": "Common",
+      "cardNum": "171/298"
+    },
+    {
+      "name": "Energy Reset",
+      "set": "XY Promos",
+      "img": "https://den-cards.pokellector.com/141/Energy-Reset.XYP.172.png",
+      "rarity": "Common",
+      "cardNum": "172/298"
+    },
+    {
+      "name": "Hex Maniac",
+      "set": "XY Promos",
+      "img": "https://den-cards.pokellector.com/141/Hex-Maniac.XYP.173.png",
+      "rarity": "Common",
+      "cardNum": "173/298"
+    },
+    {
+      "name": "Latios",
+      "set": "XY Promos",
+      "img": "https://den-cards.pokellector.com/141/Latios.XYP.174.png",
+      "rarity": "Common",
+      "cardNum": "174/298"
+    },
+    {
+      "name": "Pikachu",
+      "set": "XY Promos",
+      "img": "https://den-cards.pokellector.com/141/Pikachu.XYP.175.png",
+      "rarity": "Common",
+      "cardNum": "175/298"
+    },
+    {
+      "name": "Mewtwo",
+      "set": "XY Promos",
+      "img": "https://den-cards.pokellector.com/141/Mewtwo.XYP.176.png",
+      "rarity": "Common",
+      "cardNum": "176/298"
+    },
+    {
+      "name": "Kyogre",
+      "set": "XY Promos",
+      "img": "https://den-cards.pokellector.com/141/Kyogre.XYP.177.png",
+      "rarity": "Common",
+      "cardNum": "177/298"
+    },
+    {
+      "name": "Shinx",
+      "set": "XY Promos",
+      "img": "https://den-cards.pokellector.com/141/Shinx.XYP.178.png",
+      "rarity": "Common",
+      "cardNum": "178/298"
+    },
+    {
+      "name": "Luxio",
+      "set": "XY Promos",
+      "img": "https://den-cards.pokellector.com/141/Luxio.XYP.179.png",
+      "rarity": "Common",
+      "cardNum": "179/298"
+    },
+    {
+      "name": "Luxray",
+      "set": "XY Promos",
+      "img": "https://den-cards.pokellector.com/141/Luxray.XYP.180.png",
+      "rarity": "Common",
+      "cardNum": "180/298"
+    },
+    {
+      "name": "Luxray BREAK",
+      "set": "XY Promos",
+      "img": "https://den-cards.pokellector.com/141/Luxray-BREAK.XYP.181.png",
+      "rarity": "Common",
+      "cardNum": "181/298"
+    },
+    {
+      "name": "Aerodactyl EX",
+      "set": "XY Promos",
+      "img": "https://den-cards.pokellector.com/141/Aerodactyl-EX.XYP.182.png",
+      "rarity": "Common",
+      "cardNum": "182/298"
+    },
+    {
+      "name": "M Aerodactyl EX",
+      "set": "XY Promos",
+      "img": "https://den-cards.pokellector.com/141/M-Aerodactyl-EX.XYP.183.png",
+      "rarity": "Common",
+      "cardNum": "183/298"
+    },
+    {
+      "name": "Groudon",
+      "set": "XY Promos",
+      "img": "https://den-cards.pokellector.com/141/Groudon.XYP.184.png",
+      "rarity": "Common",
+      "cardNum": "184/298"
+    },
+    {
+      "name": "Mawile EX",
+      "set": "XY Promos",
+      "img": "https://den-cards.pokellector.com/141/Mawile-EX.XYP.185.png",
+      "rarity": "Common",
+      "cardNum": "185/298"
+    },
+    {
+      "name": "M Mawile EX",
+      "set": "XY Promos",
+      "img": "https://den-cards.pokellector.com/141/M-Mawile-EX.XYP.186.png",
+      "rarity": "Common",
+      "cardNum": "186/298"
+    },
+    {
+      "name": "Aerodactyl Spirit Link",
+      "set": "XY Promos",
+      "img": "https://den-cards.pokellector.com/141/Aerodactyl-Spirit-Link.XYP.187.png",
+      "rarity": "Common",
+      "cardNum": "187/298"
+    },
+    {
+      "name": "Mawile Spirit Link",
+      "set": "XY Promos",
+      "img": "https://den-cards.pokellector.com/141/Mawile-Spirit-Link.XYP.188.png",
+      "rarity": "Common",
+      "cardNum": "188/298"
+    },
+    {
+      "name": "Beheeyem BREAK",
+      "set": "XY Promos",
+      "img": "https://den-cards.pokellector.com/141/Beheeyem.XYP.189.png",
+      "rarity": "Common",
+      "cardNum": "189/298"
+    },
+    {
+      "name": "Mewtwo EX",
+      "set": "XY Promos",
+      "img": "https://den-cards.pokellector.com/141/Mewtwo-EX.XYP.190.png",
+      "rarity": "Common",
+      "cardNum": "190/298"
+    },
+    {
+      "name": "Mewtwo EX",
+      "set": "XY Promos",
+      "img": "https://den-cards.pokellector.com/141/Mewtwo-EX.XYP.191.png",
+      "rarity": "Common",
+      "cardNum": "191/298"
+    },
+    {
+      "name": "Leafeon EX",
+      "set": "XY Promos",
+      "img": "https://den-cards.pokellector.com/141/Leafeon-EX.XYP.192.png",
+      "rarity": "Common",
+      "cardNum": "192/298"
+    },
+    {
+      "name": "Ninetales EX",
+      "set": "XY Promos",
+      "img": "https://den-cards.pokellector.com/141/Ninetales-EX.XYP.193.png",
+      "rarity": "Common",
+      "cardNum": "193/298"
+    },
+    {
+      "name": "Vaporeon EX",
+      "set": "XY Promos",
+      "img": "https://den-cards.pokellector.com/141/Vaporeon-EX.XYP.194.png",
+      "rarity": "Common",
+      "cardNum": "194/298"
+    },
+    {
+      "name": "Jolteon EX",
+      "set": "XY Promos",
+      "img": "https://den-cards.pokellector.com/141/Jolteon-EX.XYP.195.png",
+      "rarity": "Common",
+      "cardNum": "195/298"
+    },
+    {
+      "name": "Meowstic EX",
+      "set": "XY Promos",
+      "img": "https://den-cards.pokellector.com/141/Meowstic-EX.XYP.196.png",
+      "rarity": "Common",
+      "cardNum": "196/298"
+    },
+    {
+      "name": "Golem EX",
+      "set": "XY Promos",
+      "img": "https://den-cards.pokellector.com/141/Golem-EX.XYP.197.png",
+      "rarity": "Common",
+      "cardNum": "197/298"
+    },
+    {
+      "name": "Immunizer",
+      "set": "XY Promos",
+      "img": "https://den-cards.pokellector.com/141/Immunizer.XYP.198.png",
+      "rarity": "Common",
+      "cardNum": "198/298"
+    },
+    {
+      "name": "Olympia",
+      "set": "XY Promos",
+      "img": "https://den-cards.pokellector.com/141/Olympia.XYP.199.png",
+      "rarity": "Common",
+      "cardNum": "199/298"
+    },
+    {
+      "name": "Clemont",
+      "set": "XY Promos",
+      "img": "https://den-cards.pokellector.com/141/Clemont.XYP.200.png",
+      "rarity": "Common",
+      "cardNum": "200/298"
+    },
+    {
+      "name": "Evolution Soda",
+      "set": "XY Promos",
+      "img": "https://den-cards.pokellector.com/141/Evolution-Soda.XYP.201.png",
+      "rarity": "Common",
+      "cardNum": "201/298"
+    },
+    {
+      "name": "Mewtwo",
+      "set": "XY Promos",
+      "img": "https://den-cards.pokellector.com/141/Mewtwo.XYP.202.png",
+      "rarity": "Common",
+      "cardNum": "202/298"
+    },
+    {
+      "name": "Poncho-clad Pikachu",
+      "set": "XY Promos",
+      "img": "https://den-cards.pokellector.com/141/Poncho-clad-Pikachu.XYP.203.png",
+      "rarity": "Common",
+      "cardNum": "203/298"
+    },
+    {
+      "name": "Poncho-clad Pikachu",
+      "set": "XY Promos",
+      "img": "https://den-cards.pokellector.com/141/Poncho-clad-Pikachu.XYP.204.png",
+      "rarity": "Common",
+      "cardNum": "204/298"
+    },
+    {
+      "name": "Suicune",
+      "set": "XY Promos",
+      "img": "https://den-cards.pokellector.com/141/Suicune.XYP.205.png",
+      "rarity": "Common",
+      "cardNum": "205/298"
+    },
+    {
+      "name": "Pikachu",
+      "set": "XY Promos",
+      "img": "https://den-cards.pokellector.com/141/Pikachu.XYP.206.png",
+      "rarity": "Common",
+      "cardNum": "206/298"
+    },
+    {
+      "name": "Poncho-clad Pikachu",
+      "set": "XY Promos",
+      "img": "https://den-cards.pokellector.com/141/Poncho-clad-Pikachu.XYP.207.png",
+      "rarity": "Common",
+      "cardNum": "207/298"
+    },
+    {
+      "name": "Poncho-clad Pikachu",
+      "set": "XY Promos",
+      "img": "https://den-cards.pokellector.com/141/Poncho-clad-Pikachu.XYP.208.png",
+      "rarity": "Common",
+      "cardNum": "208/298"
+    },
+    {
+      "name": "Greninja",
+      "set": "XY Promos",
+      "img": "https://den-cards.pokellector.com/141/Greninja.XYP.209.png",
+      "rarity": "Common",
+      "cardNum": "209/298"
+    },
+    {
+      "name": "Rainbow Energy",
+      "set": "XY Promos",
+      "img": "https://den-cards.pokellector.com/141/Rainbow-Energy.XYP.210.png",
+      "rarity": "Common",
+      "cardNum": "210/298"
+    },
+    {
+      "name": "Eco Arm",
+      "set": "XY Promos",
+      "img": "https://den-cards.pokellector.com/141/Eco-Arm.XYP.211.png",
+      "rarity": "Common",
+      "cardNum": "211/298"
+    },
+    {
+      "name": "Shaymin EX",
+      "set": "XY Promos",
+      "img": "https://den-cards.pokellector.com/141/Shaymin-EX.XYP.212.png",
+      "rarity": "Common",
+      "cardNum": "212/298"
+    },
+    {
+      "name": "Charizard EX",
+      "set": "XY Promos",
+      "img": "https://den-cards.pokellector.com/141/Charizard-EX.XYP.213.png",
+      "rarity": "Common",
+      "cardNum": "213/298"
+    },
+    {
+      "name": "Lucario",
+      "set": "XY Promos",
+      "img": "https://den-cards.pokellector.com/141/Lucario.XYP.214.png",
+      "rarity": "Common",
+      "cardNum": "214/298"
+    },
+    {
+      "name": "Rayquaza",
+      "set": "XY Promos",
+      "img": "https://den-cards.pokellector.com/141/Rayquaza.XYP.215.png",
+      "rarity": "Common",
+      "cardNum": "215/298"
+    },
+    {
+      "name": "Noctowl BREAK",
+      "set": "XY Promos",
+      "img": "https://den-cards.pokellector.com/141/Noctowl-BREAK.XYP.216.png",
+      "rarity": "Common",
+      "cardNum": "216/298"
+    },
+    {
+      "name": "Mandibuzz BREAK",
+      "set": "XY Promos",
+      "img": "https://den-cards.pokellector.com/141/Mandibuzz-BREAK.XYP.217.png",
+      "rarity": "Common",
+      "cardNum": "217/298"
+    },
+    {
+      "name": "Ash Greninja EX",
+      "set": "XY Promos",
+      "img": "https://den-cards.pokellector.com/141/Ash-Greninja-EX.XYP.218.png",
+      "rarity": "Common",
+      "cardNum": "218/298"
+    },
+    {
+      "name": "Azelf",
+      "set": "XY Promos",
+      "img": "https://den-cards.pokellector.com/141/Azelf.XYP.219.png",
+      "rarity": "Common",
+      "cardNum": "219/298"
+    },
+    {
+      "name": "Assault Vest",
+      "set": "XY Promos",
+      "img": "https://den-cards.pokellector.com/141/Assault-Vest.XYP.220.png",
+      "rarity": "Common",
+      "cardNum": "220/298"
+    },
+    {
+      "name": "Aristocrat & Maiko Han Pikachu",
+      "set": "XY Promos",
+      "img": "https://den-cards.pokellector.com/141/Aristocrat-Maiko-Han-Pikachu.XYP.221.png",
+      "rarity": "Common",
+      "cardNum": "221/298"
+    },
+    {
+      "name": "Chikorita",
+      "set": "XY Promos",
+      "img": "https://den-cards.pokellector.com/141/Chikorita.XYP.222.png",
+      "rarity": "Common",
+      "cardNum": "222/298"
+    },
+    {
+      "name": "Cyndaquil",
+      "set": "XY Promos",
+      "img": "https://den-cards.pokellector.com/141/Cyndaquil.XYP.223.png",
+      "rarity": "Common",
+      "cardNum": "223/298"
+    },
+    {
+      "name": "Ho-Oh",
+      "set": "XY Promos",
+      "img": "https://den-cards.pokellector.com/141/Ho-Oh.XYP.224.png",
+      "rarity": "Common",
+      "cardNum": "224/298"
+    },
+    {
+      "name": "Ho-Oh BREAK",
+      "set": "XY Promos",
+      "img": "https://den-cards.pokellector.com/141/Ho-Oh-BREAK.XYP.225.png",
+      "rarity": "Common",
+      "cardNum": "225/298"
+    },
+    {
+      "name": "Totodile",
+      "set": "XY Promos",
+      "img": "https://den-cards.pokellector.com/141/Totodile.XYP.226.png",
+      "rarity": "Common",
+      "cardNum": "226/298"
+    },
+    {
+      "name": "Smeargle",
+      "set": "XY Promos",
+      "img": "https://den-cards.pokellector.com/141/Smeargle.XYP.227.png",
+      "rarity": "Common",
+      "cardNum": "227/298"
+    },
+    {
+      "name": "Lugia",
+      "set": "XY Promos",
+      "img": "https://den-cards.pokellector.com/141/Lugia.XYP.228.png",
+      "rarity": "Common",
+      "cardNum": "228/298"
+    },
+    {
+      "name": "Alakazam Spirit Link",
+      "set": "XY Promos",
+      "img": "https://den-cards.pokellector.com/141/Alakazam-Spirit-Link.XYP.229.png",
+      "rarity": "Common",
+      "cardNum": "229/298"
+    },
+    {
+      "name": "Rayquaza Pikachu",
+      "set": "XY Promos",
+      "img": "https://den-cards.pokellector.com/141/Rayquaza-Pikachu.XYP.230.png",
+      "rarity": "Common",
+      "cardNum": "230/298"
+    },
+    {
+      "name": "Rayquaza Pikachu",
+      "set": "XY Promos",
+      "img": "https://den-cards.pokellector.com/141/Rayquaza-Pikachu.XYP.231.png",
+      "rarity": "Common",
+      "cardNum": "231/298"
+    },
+    {
+      "name": "Rayquaza",
+      "set": "XY Promos",
+      "img": "https://den-cards.pokellector.com/141/Rayquaza.XYP.232.png",
+      "rarity": "Common",
+      "cardNum": "232/298"
+    },
+    {
+      "name": "Venusaur EX",
+      "set": "XY Promos",
+      "img": "https://den-cards.pokellector.com/141/Venusaur-EX.XYP.233.png",
+      "rarity": "Common",
+      "cardNum": "233/298"
+    },
+    {
+      "name": "Blastoise EX",
+      "set": "XY Promos",
+      "img": "https://den-cards.pokellector.com/141/Blastoise-EX.XYP.234.png",
+      "rarity": "Common",
+      "cardNum": "234/298"
+    },
+    {
+      "name": "Jirachi",
+      "set": "XY Promos",
+      "img": "https://den-cards.pokellector.com/141/Jirachi.XYP.235.png",
+      "rarity": "Common",
+      "cardNum": "235/298"
+    },
+    {
+      "name": "Burmy",
+      "set": "XY Promos",
+      "img": "https://den-cards.pokellector.com/141/Burmy.XYP.236.png",
+      "rarity": "Common",
+      "cardNum": "236/298"
+    },
+    {
+      "name": "Braixen",
+      "set": "XY Promos",
+      "img": "https://den-cards.pokellector.com/141/Braixen.XYP.237.png",
+      "rarity": "Common",
+      "cardNum": "237/298"
+    },
+    {
+      "name": "Talonflame BREAK",
+      "set": "XY Promos",
+      "img": "https://den-cards.pokellector.com/141/Talonflame-BREAK.XYP.238.png",
+      "rarity": "Common",
+      "cardNum": "238/298"
+    },
+    {
+      "name": "Black Kyurem",
+      "set": "XY Promos",
+      "img": "https://den-cards.pokellector.com/141/Black-Kyurem.XYP.239.png",
+      "rarity": "Common",
+      "cardNum": "239/298"
+    },
+    {
+      "name": "Weezing",
+      "set": "XY Promos",
+      "img": "https://den-cards.pokellector.com/141/Weezing.XYP.240.png",
+      "rarity": "Common",
+      "cardNum": "240/298"
+    },
+    {
+      "name": "Larvitar",
+      "set": "XY Promos",
+      "img": "https://den-cards.pokellector.com/141/Larvitar.XYP.241.png",
+      "rarity": "Common",
+      "cardNum": "241/298"
+    },
+    {
+      "name": "Bronzor",
+      "set": "XY Promos",
+      "img": "https://den-cards.pokellector.com/141/Bronzor.XYP.242.png",
+      "rarity": "Common",
+      "cardNum": "242/298"
+    },
+    {
+      "name": "Fascinating Pokepuff",
+      "set": "XY Promos",
+      "img": "https://den-cards.pokellector.com/141/Fascinating-Pokepuff.XYP.243.png",
+      "rarity": "Common",
+      "cardNum": "243/298"
+    },
+    {
+      "name": "Max Elixir",
+      "set": "XY Promos",
+      "img": "https://den-cards.pokellector.com/141/Max-Elixir.XYP.244.png",
+      "rarity": "Common",
+      "cardNum": "244/298"
+    },
+    {
+      "name": "Garchomp EX",
+      "set": "XY Promos",
+      "img": "https://den-cards.pokellector.com/141/Garchomp-EX.XYP.245.png",
+      "rarity": "Common",
+      "cardNum": "245/298"
+    },
+    {
+      "name": "Professor Sycamore",
+      "set": "XY Promos",
+      "img": "https://den-cards.pokellector.com/141/Professor-Sycamore.XYP.246.png",
+      "rarity": "Common",
+      "cardNum": "246/298"
+    },
+    {
+      "name": "Pikachu Libre",
+      "set": "XY Promos",
+      "img": "https://den-cards.pokellector.com/141/Pikachu-Libre.XYP.247.png",
+      "rarity": "Common",
+      "cardNum": "247/298"
+    },
+    {
+      "name": "Victini",
+      "set": "XY Promos",
+      "img": "https://den-cards.pokellector.com/141/Victini.XYP.248.png",
+      "rarity": "Common",
+      "cardNum": "248/298"
+    },
+    {
+      "name": "Volcanion",
+      "set": "XY Promos",
+      "img": "https://den-cards.pokellector.com/141/Volcanion.XYP.249.png",
+      "rarity": "Common",
+      "cardNum": "249/298"
+    },
+    {
+      "name": "Meowth",
+      "set": "XY Promos",
+      "img": "https://den-cards.pokellector.com/141/Meowth.XYP.250.png",
+      "rarity": "Common",
+      "cardNum": "250/298"
+    },
+    {
+      "name": "Zygarde",
+      "set": "XY Promos",
+      "img": "https://den-cards.pokellector.com/141/Zygarde.XYP.251.png",
+      "rarity": "Common",
+      "cardNum": "251/298"
+    },
+    {
+      "name": "Zygarde",
+      "set": "XY Promos",
+      "img": "https://den-cards.pokellector.com/141/Zygarde.XYP.252.png",
+      "rarity": "Common",
+      "cardNum": "252/298"
+    },
+    {
+      "name": "Salamence EX",
+      "set": "XY Promos",
+      "img": "https://den-cards.pokellector.com/141/Salamence-EX.XYP.253.png",
+      "rarity": "Common",
+      "cardNum": "253/298"
+    },
+    {
+      "name": "Salamence EX",
+      "set": "XY Promos",
+      "img": "https://den-cards.pokellector.com/141/Salamence-EX.XYP.254.13493.png",
+      "rarity": "Common",
+      "cardNum": "254/298"
+    },
+    {
+      "name": "Steven",
+      "set": "XY Promos",
+      "img": "https://den-cards.pokellector.com/141/Steven.XYP.255.png",
+      "rarity": "Common",
+      "cardNum": "255/298"
+    },
+    {
+      "name": "Karen",
+      "set": "XY Promos",
+      "img": "https://den-cards.pokellector.com/141/Karen.XYP.256.png",
+      "rarity": "Common",
+      "cardNum": "256/298"
+    },
+    {
+      "name": "M Salamence EX",
+      "set": "XY Promos",
+      "img": "https://den-cards.pokellector.com/141/M-Salamence-EX.XYP.257.png",
+      "rarity": "Common",
+      "cardNum": "257/298"
+    },
+    {
+      "name": "Salamence Spirit Link",
+      "set": "XY Promos",
+      "img": "https://den-cards.pokellector.com/141/Salamence-Spirit-Link.XYP.258.png",
+      "rarity": "Common",
+      "cardNum": "258/298"
+    },
+    {
+      "name": "Pikachu",
+      "set": "XY Promos",
+      "img": "https://den-cards.pokellector.com/141/Pikachu.XYP.259.png",
+      "rarity": "Common",
+      "cardNum": "259/298"
+    },
+    {
+      "name": "Pancham",
+      "set": "XY Promos",
+      "img": "https://den-cards.pokellector.com/141/Pancham.XYP.260.png",
+      "rarity": "Common",
+      "cardNum": "260/298"
+    },
+    {
+      "name": "Snorlax",
+      "set": "XY Promos",
+      "img": "https://den-cards.pokellector.com/141/Snorlax.XYP.261.png",
+      "rarity": "Common",
+      "cardNum": "261/298"
+    },
+    {
+      "name": "Slowbro EX",
+      "set": "XY Promos",
+      "img": "https://den-cards.pokellector.com/141/Slowbro-EX.XYP.262.png",
+      "rarity": "Common",
+      "cardNum": "262/298"
+    },
+    {
+      "name": "M Slowbro EX",
+      "set": "XY Promos",
+      "img": "https://den-cards.pokellector.com/141/M-Slowbro-EX.XYP.263.png",
+      "rarity": "Common",
+      "cardNum": "263/298"
+    },
+    {
+      "name": "Surfing Pikachu",
+      "set": "XY Promos",
+      "img": "https://den-cards.pokellector.com/141/Surfing-Pikachu.XYP.264.png",
+      "rarity": "Common",
+      "cardNum": "264/298"
+    },
+    {
+      "name": "Slowbro Spirit Link",
+      "set": "XY Promos",
+      "img": "https://den-cards.pokellector.com/141/Slowbro-Spirit-Link.XYP.265.png",
+      "rarity": "Common",
+      "cardNum": "265/298"
+    },
+    {
+      "name": "Volcanion",
+      "set": "XY Promos",
+      "img": "https://den-cards.pokellector.com/141/Volcanion.XYP.266.png",
+      "rarity": "Common",
+      "cardNum": "266/298"
+    },
+    {
+      "name": "Arcanine BREAK",
+      "set": "XY Promos",
+      "img": "https://den-cards.pokellector.com/141/Arcanine-BREAK.XYP.267.png",
+      "rarity": "Common",
+      "cardNum": "267/298"
+    },
+    {
+      "name": "Magearna",
+      "set": "XY Promos",
+      "img": "https://den-cards.pokellector.com/141/Magearna.XYP.268.png",
+      "rarity": "Common",
+      "cardNum": "268/298"
+    },
+    {
+      "name": "Ampharos",
+      "set": "XY Promos",
+      "img": "https://den-cards.pokellector.com/141/Ampharos.XYP.269.png",
+      "rarity": "Common",
+      "cardNum": "269/298"
+    },
+    {
+      "name": "Gallade",
+      "set": "XY Promos",
+      "img": "https://den-cards.pokellector.com/141/Gallade.XYP.270.png",
+      "rarity": "Common",
+      "cardNum": "270/298"
+    },
+    {
+      "name": "Diancie",
+      "set": "XY Promos",
+      "img": "https://den-cards.pokellector.com/141/Diancie.XYP.271.png",
+      "rarity": "Common",
+      "cardNum": "271/298"
+    },
+    {
+      "name": "M Rayquaza EX",
+      "set": "XY Promos",
+      "img": "https://den-cards.pokellector.com/141/M-Rayquaza-EX.XYP.272.png",
+      "rarity": "Common",
+      "cardNum": "272/298"
+    },
+    {
+      "name": "Lopunny",
+      "set": "XY Promos",
+      "img": "https://den-cards.pokellector.com/141/Lopunny.XYP.273.png",
+      "rarity": "Common",
+      "cardNum": "273/298"
+    },
+    {
+      "name": "Poncho-Wearing Pikachu",
+      "set": "XY Promos",
+      "img": "https://den-cards.pokellector.com/141/Poncho-Wearing-Pikachu.XYP.274.png",
+      "rarity": "Common",
+      "cardNum": "274/298"
+    },
+    {
+      "name": "Poncho-Wearing Pikachu",
+      "set": "XY Promos",
+      "img": "https://den-cards.pokellector.com/141/Poncho-Wearing-Pikachu.XYP.275.png",
+      "rarity": "Common",
+      "cardNum": "275/298"
+    },
+    {
+      "name": "Charizard EX",
+      "set": "XY Promos",
+      "img": "https://den-cards.pokellector.com/141/Charizard-EX.XYP.276.png",
+      "rarity": "Common",
+      "cardNum": "276/298"
+    },
+    {
+      "name": "Giovanni's Scheme",
+      "set": "XY Promos",
+      "img": "https://den-cards.pokellector.com/141/Giovannis-Scheme.XYP.277.13435.png",
+      "rarity": "Common",
+      "cardNum": "277/298"
+    },
+    {
+      "name": "Here Comes Team Rocket!",
+      "set": "XY Promos",
+      "img": "https://den-cards.pokellector.com/141/Here-Comes-Team-Rocket.XYP.278.13436.png",
+      "rarity": "Common",
+      "cardNum": "278/298"
+    },
+    {
+      "name": "Pikachu",
+      "set": "XY Promos",
+      "img": "https://den-cards.pokellector.com/141/Pikachu.XYP.279.png",
+      "rarity": "Common",
+      "cardNum": "279/298"
+    },
+    {
+      "name": "Charizard",
+      "set": "XY Promos",
+      "img": "https://den-cards.pokellector.com/141/Charizard.XYP.280.png",
+      "rarity": "Common",
+      "cardNum": "280/298"
+    },
+    {
+      "name": "Pikachu",
+      "set": "XY Promos",
+      "img": "https://den-cards.pokellector.com/141/Pikachu.XYP.281.png",
+      "rarity": "Common",
+      "cardNum": "281/298"
+    },
+    {
+      "name": "Please Trade",
+      "set": "XY Promos",
+      "img": "https://den-cards.pokellector.com/141/Please-Trade.XYP.282.png",
+      "rarity": "Common",
+      "cardNum": "282/298"
+    },
+    {
+      "name": "Yanmega",
+      "set": "XY Promos",
+      "img": "https://den-cards.pokellector.com/141/Yanmega.XYP.283.13459.png",
+      "rarity": "Common",
+      "cardNum": "283/298"
+    },
+    {
+      "name": "Giratina",
+      "set": "XY Promos",
+      "img": "https://den-cards.pokellector.com/141/Giratina.XYP.284.13437.png",
+      "rarity": "Common",
+      "cardNum": "284/298"
+    },
+    {
+      "name": "Trevenant",
+      "set": "XY Promos",
+      "img": "https://den-cards.pokellector.com/141/Trevenant.XYP.285.13458.png",
+      "rarity": "Common",
+      "cardNum": "285/298"
+    },
+    {
+      "name": "Machamp EX",
+      "set": "XY Promos",
+      "img": "https://den-cards.pokellector.com/141/Machamp-EX.XYP.286.13457.png",
+      "rarity": "Common",
+      "cardNum": "286/298"
+    },
+    {
+      "name": "Tyranitar",
+      "set": "XY Promos",
+      "img": "https://den-cards.pokellector.com/141/Tyranitar.XYP.287.13456.png",
+      "rarity": "Common",
+      "cardNum": "287/298"
+    },
+    {
+      "name": "Dragalge",
+      "set": "XY Promos",
+      "img": "https://den-cards.pokellector.com/141/Dragalge.XYP.288.13455.png",
+      "rarity": "Common",
+      "cardNum": "288/298"
+    },
+    {
+      "name": "Lass's Special",
+      "set": "XY Promos",
+      "img": "https://den-cards.pokellector.com/141/Lasss-Special.XYP.289.13454.png",
+      "rarity": "Common",
+      "cardNum": "289/298"
+    },
+    {
+      "name": "Ash Greninja EX",
+      "set": "XY Promos",
+      "img": "https://den-cards.pokellector.com/141/Ash-Greninja-EX.XYP.290.png",
+      "rarity": "Common",
+      "cardNum": "290/298"
+    },
+    {
+      "name": "Altaria",
+      "set": "XY Promos",
+      "img": "https://den-cards.pokellector.com/141/Altaria.XYP.291.png",
+      "rarity": "Common",
+      "cardNum": "291/298"
+    },
+    {
+      "name": "Flying Pikachu",
+      "set": "XY Promos",
+      "img": "https://den-cards.pokellector.com/141/Flying-Pikachu.XYP.292.13479.png",
+      "rarity": "Common",
+      "cardNum": "292/298"
+    },
+    {
+      "name": "Mario Pikachu",
+      "set": "XY Promos",
+      "img": "https://den-cards.pokellector.com/141/Mario-Pikachu.XYP.293.13448.png",
+      "rarity": "Common",
+      "cardNum": "293/298"
+    },
+    {
+      "name": "Mario Pikachu",
+      "set": "XY Promos",
+      "img": "https://den-cards.pokellector.com/141/Mario-Pikachu.XYP.294.13447.png",
+      "rarity": "Common",
+      "cardNum": "294/298"
+    },
+    {
+      "name": "Luigi Pikachu",
+      "set": "XY Promos",
+      "img": "https://den-cards.pokellector.com/141/Luigi-Pikachu.XYP.295.13450.png",
+      "rarity": "Common",
+      "cardNum": "295/298"
+    },
+    {
+      "name": "Luigi Pikachu",
+      "set": "XY Promos",
+      "img": "https://den-cards.pokellector.com/141/Luigi-Pikachu.XYP.296.13449.png",
+      "rarity": "Common",
+      "cardNum": "296/298"
+    },
+    {
+      "name": "Sazukisan",
+      "set": "XY Promos",
+      "img": "https://den-cards.pokellector.com/141/Sazukisan.XYP.297.13185.png",
+      "rarity": "Common",
+      "cardNum": "297/298"
+    },
+    {
+      "name": "M Sachiko EX",
+      "set": "XY Promos",
+      "img": "https://den-cards.pokellector.com/141/M-Sachiko-EX.XYP.298.png",
+      "rarity": "Common",
+      "cardNum": "298/298"
+    },
+    {
+      "name": "Classic Steel Energy",
+      "set": "XY Promos",
+      "img": "https://den-cards.pokellector.com/141/Classic-Steel-Energy.XYP.XY-P0.png",
+      "rarity": "Common",
+      "cardNum": ""
+    },
+    {
+      "name": "Gym Badge (Koga - Soul)",
+      "set": "XY Promos",
+      "img": "https://den-cards.pokellector.com/141/Gym-Badge-Koga-Soul.XYP.XY-P0.png",
+      "rarity": "Common",
+      "cardNum": ""
+    },
+    {
+      "name": "Gym Badge (Erika - Rainbow)",
+      "set": "XY Promos",
+      "img": "https://den-cards.pokellector.com/141/Gym-Badge-Erika-Rainbow.XYP.XY-P0.png",
+      "rarity": "Common",
+      "cardNum": ""
+    },
+    {
+      "name": "Gym Badge (Sabrina - Marsh)",
+      "set": "XY Promos",
+      "img": "https://den-cards.pokellector.com/141/Gym-Badge-Sabrina-Marsh.XYP.XY-P0.png",
+      "rarity": "Common",
+      "cardNum": ""
+    },
+    {
+      "name": "Gym Badge (Misty - Cascade)",
+      "set": "XY Promos",
+      "img": "https://den-cards.pokellector.com/141/Gym-Badge-Misty-Cascade.XYP.XY-P0.png",
+      "rarity": "Common",
+      "cardNum": ""
+    },
+    {
+      "name": "Gym Badge (Brock - Boulder)",
+      "set": "XY Promos",
+      "img": "https://den-cards.pokellector.com/141/Gym-Badge-Brock-Boulder.XYP.XY-P0.png",
+      "rarity": "Common",
+      "cardNum": ""
+    },
+    {
+      "name": "Classic Fairy Energy",
+      "set": "XY Promos",
+      "img": "https://den-cards.pokellector.com/141/Classic-Fairy-Energy.XYP.XY-P0.png",
+      "rarity": "Common",
+      "cardNum": ""
+    },
+    {
+      "name": "Champions Festival",
+      "set": "XY Promos",
+      "img": "https://den-cards.pokellector.com/141/Champions-Festival.XYP.XY-P0.png",
+      "rarity": "Common",
+      "cardNum": ""
+    },
+    {
+      "name": "Gym Badge (Blaine - Volcano)",
+      "set": "XY Promos",
+      "img": "https://den-cards.pokellector.com/141/Gym-Badge-Blaine-Volcano.XYP.XY-P0.png",
+      "rarity": "Common",
+      "cardNum": ""
+    },
+    {
+      "name": "Pikachu",
+      "set": "XY Promos",
+      "img": "https://den-cards.pokellector.com/141/Pikachu.XYP.XY-P0.13473.png",
+      "rarity": "Common",
+      "cardNum": ""
+    },
+    {
+      "name": "Mew",
+      "set": "XY Promos",
+      "img": "https://den-cards.pokellector.com/141/Mew.XYP.XY-P0.png",
+      "rarity": "Common",
+      "cardNum": ""
+    },
+    {
+      "name": "Gym Badge (Lt Surge - Thunder)",
+      "set": "XY Promos",
+      "img": "https://den-cards.pokellector.com/141/Gym-Badge-Lt-Surge-Thunder.XYP.XY-P0.png",
+      "rarity": "Common",
+      "cardNum": ""
+    },
+    {
+      "name": "Mewtwo EX",
+      "set": "XY Promos",
+      "img": "https://den-cards.pokellector.com/141/Mewtwo-EX.XYP.XY-P0.png",
+      "rarity": "Common",
+      "cardNum": ""
+    },
+    {
+      "name": "Pikachu",
+      "set": "XY Promos",
+      "img": "https://den-cards.pokellector.com/141/Pikachu.XYP.XY-P0.15237.png",
+      "rarity": "Common",
+      "cardNum": ""
+    },
+    {
+      "name": "President Pikachu",
+      "set": "XY Promos",
+      "img": "https://den-cards.pokellector.com/141/President-Pikachu.XYP.XY-P0.25581.png",
+      "rarity": "Ultra Rare",
+      "cardNum": ""
+    },
+    {
+      "name": "Dark Energy",
+      "set": "XY Promos",
+      "img": "https://den-cards.pokellector.com/141/Dark-Energy.XYP.XY-P0.38621.png",
+      "rarity": "Common",
+      "cardNum": ""
+    },
+    {
+      "name": "Magikarp",
+      "set": "XY Promos",
+      "img": "https://den-cards.pokellector.com/141/Magikarp.XYP.XY-P0.png",
+      "rarity": "Common",
+      "cardNum": ""
+    },
+    {
+      "name": "Classic Dark Energy",
+      "set": "XY Promos",
+      "img": "https://den-cards.pokellector.com/141/Classic-Dark-Energy.XYP.XY-P0.png",
+      "rarity": "Common",
+      "cardNum": ""
+    },
+    {
+      "name": "Classic Fighting Energy",
+      "set": "XY Promos",
+      "img": "https://den-cards.pokellector.com/141/Classic-Fighting-Energy.XYP.XY-P0.png",
+      "rarity": "Common",
+      "cardNum": ""
+    },
+    {
+      "name": "Gym Badge (Giovanni)",
+      "set": "XY Promos",
+      "img": "https://den-cards.pokellector.com/141/Gym-Badge-Giovanni.XYP.XY-P0.png",
+      "rarity": "Common",
+      "cardNum": ""
+    },
+    {
+      "name": "Garchomp Spirit Link",
+      "set": "XY Promos",
+      "img": "https://den-cards.pokellector.com/141/Garchomp-Spirit-Link.XYP.XY-P0.png",
+      "rarity": "Common",
+      "cardNum": ""
+    },
+    {
+      "name": "M Garchomp EX",
+      "set": "XY Promos",
+      "img": "https://den-cards.pokellector.com/141/M-Garchomp-EX.XYP.XY-P0.png",
+      "rarity": "Common",
+      "cardNum": ""
+    },
+    {
+      "name": "Garchomp EX",
+      "set": "XY Promos",
+      "img": "https://den-cards.pokellector.com/141/Garchomp-EX.XYP.XY-P0.png",
+      "rarity": "Common",
+      "cardNum": ""
+    },
+    {
+      "name": "Crobat BREAK",
+      "set": "XY Promos",
+      "img": "https://den-cards.pokellector.com/141/Crobat-BREAK.XYP.XY-P0.png",
+      "rarity": "Common",
+      "cardNum": ""
+    },
+    {
+      "name": "Fighting Spirit Belt",
+      "set": "XY Promos",
+      "img": "https://den-cards.pokellector.com/141/Fighting-Spirit-Belt.XYP.0.png",
+      "rarity": "Common",
+      "cardNum": ""
+    },
+    {
+      "name": "Psychic Energy",
+      "set": "XY Promos",
+      "img": "https://den-cards.pokellector.com/141/Psychic-Energy.XYP.0.png",
+      "rarity": "Common",
+      "cardNum": ""
+    },
+    {
+      "name": "M Mewtwo Y [Jumbo]",
+      "set": "XY Promos",
+      "img": "https://den-cards.pokellector.com/141/M-Mewtwo-Y-Jumbo.XYP.0.png",
+      "rarity": "Common",
+      "cardNum": ""
+    },
+    {
+      "name": "M Mewtwo X [Jumbo]",
+      "set": "XY Promos",
+      "img": "https://den-cards.pokellector.com/141/M-Mewtwo-X-Jumbo.XYP.0.png",
+      "rarity": "Common",
+      "cardNum": ""
+    },
+    {
+      "name": "Psyduck",
+      "set": "XY Promos",
+      "img": "https://den-cards.pokellector.com/141/Psyduck.XYP.XY-P0.png",
+      "rarity": "Common",
+      "cardNum": ""
+    },
+    {
+      "name": "Pikachu",
+      "set": "XY Promos",
+      "img": "https://den-cards.pokellector.com/141/Pikachu.XYP.XY-P0.12773.png",
+      "rarity": "Common",
+      "cardNum": ""
+    },
+    {
+      "name": "Classic Electric Energy",
+      "set": "XY Promos",
+      "img": "https://den-cards.pokellector.com/141/Classic-Electric-Energy.XYP.XY-P0.png",
+      "rarity": "Common",
+      "cardNum": ""
+    },
+    {
+      "name": "Classic Water Energy",
+      "set": "XY Promos",
+      "img": "https://den-cards.pokellector.com/141/Classic-Water-Energy.XYP.XY-P0.png",
+      "rarity": "Common",
+      "cardNum": ""
+    },
+    {
+      "name": "Classic Fire Energy",
+      "set": "XY Promos",
+      "img": "https://den-cards.pokellector.com/141/Classic-Fire-Energy.XYP.XY-P0.png",
+      "rarity": "Common",
+      "cardNum": ""
+    },
+    {
+      "name": "Classic Grass Energy",
+      "set": "XY Promos",
+      "img": "https://den-cards.pokellector.com/141/Classic-Grass-Energy.XYP.XY-P0.png",
+      "rarity": "Common",
+      "cardNum": ""
+    },
+    {
+      "name": "Double Dragon Energy",
+      "set": "XY Promos",
+      "img": "https://den-cards.pokellector.com/141/Double-Dragon-Energy.XYP.XY-P0.png",
+      "rarity": "Common",
+      "cardNum": ""
+    },
+    {
+      "name": "Absol",
+      "set": "XY Promos",
+      "img": "https://den-cards.pokellector.com/141/Absol.XYP.XY-P0.png",
+      "rarity": "Common",
+      "cardNum": ""
+    },
+    {
+      "name": "Fairy Energy",
+      "set": "XY Promos",
+      "img": "https://den-cards.pokellector.com/141/Fairy-Energy.XYP.XY-P0.png",
+      "rarity": "Common",
+      "cardNum": ""
+    },
+    {
+      "name": "Classic Psychic Energy",
+      "set": "XY Promos",
+      "img": "https://den-cards.pokellector.com/141/Classic-Psychic-Energy.XYP.XY-P0.png",
+      "rarity": "Common",
+      "cardNum": ""
+    },
+    {
+      "name": "Gym Badge - Wattson",
+      "set": "XY Promos",
+      "img": "https://den-cards.pokellector.com/141/Gym-Badge-Fukuoka.XYP.0.png",
+      "rarity": "Common",
+      "cardNum": ""
+    },
+    {
+      "name": "Gym Badge - Tate & Liza",
+      "set": "XY Promos",
+      "img": "https://den-cards.pokellector.com/141/Gym-Badge-Mega-Tokyo.XYP.0.png",
+      "rarity": "Common",
+      "cardNum": ""
+    },
+    {
+      "name": "Pikachu",
+      "set": "XY Promos",
+      "img": "https://den-cards.pokellector.com/141/Pikachu.XYP.16.png",
+      "rarity": "Common",
+      "cardNum": ""
+    },
+    {
+      "name": "Pitch Pikachu",
+      "set": "XY Promos",
+      "img": "https://den-cards.pokellector.com/141/Pitch-Pikachu.XYP.0.png",
+      "rarity": "Common",
+      "cardNum": ""
+    },
+    {
+      "name": "Gym Badge - Winona",
+      "set": "XY Promos",
+      "img": "https://den-cards.pokellector.com/141/Gym-Badge-Tokyo-Bay.XYP.0.png",
+      "rarity": "Common",
+      "cardNum": ""
+    },
+    {
+      "name": "Gym Badge - Roxanne",
+      "set": "XY Promos",
+      "img": "https://den-cards.pokellector.com/141/Gym-Badge-Roxanne.XYP.0.png",
+      "rarity": "Common",
+      "cardNum": ""
+    },
+    {
+      "name": "Gym Badge - Brawly",
+      "set": "XY Promos",
+      "img": "https://den-cards.pokellector.com/141/Gym-Badge-Osaka.XYP.0.png",
+      "rarity": "Common",
+      "cardNum": ""
+    },
+    {
+      "name": "Gym Badge - Flannery",
+      "set": "XY Promos",
+      "img": "https://den-cards.pokellector.com/141/Gym-Badge-Sapporo.XYP.0.png",
+      "rarity": "Common",
+      "cardNum": ""
+    },
+    {
+      "name": "Gym Badge - Norman",
+      "set": "XY Promos",
+      "img": "https://den-cards.pokellector.com/141/Gym-Badge-Tohoku.XYP.0.png",
+      "rarity": "Common",
+      "cardNum": ""
+    },
+    {
+      "name": "M Swampert EX",
+      "set": "XY Promos",
+      "img": "https://den-cards.pokellector.com/141/M-Swampert-EX.XYP.0.png",
+      "rarity": "Common",
+      "cardNum": ""
+    },
+    {
+      "name": "Lightning Energy",
+      "set": "XY Promos",
+      "img": "https://den-cards.pokellector.com/141/Lightning-Energy.XYP.0.png",
+      "rarity": "Common",
+      "cardNum": ""
+    },
+    {
+      "name": "Fire Energy",
+      "set": "XY Promos",
+      "img": "https://den-cards.pokellector.com/141/Fire-Energy.XYP.0.png",
+      "rarity": "Common",
+      "cardNum": ""
+    },
+    {
+      "name": "Inkay [Jumbo]",
+      "set": "XY Promos",
+      "img": "https://den-cards.pokellector.com/141/Inkay-Jumbo.XYP.XYP0.9782.png",
+      "rarity": "Common",
+      "cardNum": ""
+    },
+    {
+      "name": "Gyarados",
+      "set": "XY Promos",
+      "img": "https://den-cards.pokellector.com/141/Gyarados.XYP.0.png",
+      "rarity": "Common",
+      "cardNum": ""
+    },
+    {
+      "name": "Empoleon BREAK",
+      "set": "XY Promos",
+      "img": "https://den-cards.pokellector.com/141/Empoleon-BREAK.XYP.0.png",
+      "rarity": "Common",
+      "cardNum": ""
+    },
+    {
+      "name": "Bronzong",
+      "set": "XY Promos",
+      "img": "https://den-cards.pokellector.com/141/Bronzong.XYP.0.png",
+      "rarity": "Common",
+      "cardNum": ""
+    },
+    {
+      "name": "Gym Badge - Wallace",
+      "set": "XY Promos",
+      "img": "https://den-cards.pokellector.com/141/Gym-Badge-Yokohama.XYP.0.png",
+      "rarity": "Common",
+      "cardNum": ""
+    },
+    {
+      "name": "Double Dragon Energy",
+      "set": "XY Promos",
+      "img": "https://den-cards.pokellector.com/141/Double-Dragon-Energy.XYP.0.png",
+      "rarity": "Common",
+      "cardNum": ""
+    },
+    {
+      "name": "Champions Festival",
+      "set": "XY Promos",
+      "img": "https://den-cards.pokellector.com/141/Champions-Festival.XYP.0.png",
+      "rarity": "Common",
+      "cardNum": ""
+    },
+    {
+      "name": "Victory Ring Bronze",
+      "set": "XY Promos",
+      "img": "https://den-cards.pokellector.com/141/Victory-Ring-Bronze.XYP.2.png",
+      "rarity": "Common",
+      "cardNum": ""
+    },
+    {
+      "name": "Victory Ring Silver",
+      "set": "XY Promos",
+      "img": "https://den-cards.pokellector.com/141/Victory-Ring-Silver.XYP.3.png",
+      "rarity": "Common",
+      "cardNum": ""
+    },
+    {
+      "name": "Victory Ring Gold",
+      "set": "XY Promos",
+      "img": "https://den-cards.pokellector.com/141/Victory-Ring-Gold.XYP.4.png",
+      "rarity": "Common",
+      "cardNum": ""
+    },
+    {
+      "name": "Dark Energy",
+      "set": "XY Promos",
+      "img": "https://den-cards.pokellector.com/141/Dark-Energy.XYP.0.png",
+      "rarity": "Rare",
+      "cardNum": ""
+    },
+    {
+      "name": "Grass Energy",
+      "set": "XY Promos",
+      "img": "https://den-cards.pokellector.com/141/Grass-Energy.XYP.0.png",
+      "rarity": "Rare",
+      "cardNum": ""
+    },
+    {
+      "name": "Max Potion",
+      "set": "XY Promos",
+      "img": "https://den-cards.pokellector.com/141/Max-Potion.XYP.0.png",
+      "rarity": "Common",
+      "cardNum": ""
+    },
+    {
+      "name": "Team Flare Grunt",
+      "set": "XY Promos",
+      "img": "https://den-cards.pokellector.com/141/Team-Flare-Grunt.XY-P.0.png",
+      "rarity": "Common",
+      "cardNum": ""
+    },
+    {
+      "name": "Grass Energy",
+      "set": "XY Promos",
+      "img": "https://den-cards.pokellector.com/141/Grass-Energy.XYP.3.png",
+      "rarity": "Common",
+      "cardNum": ""
+    },
+    {
+      "name": "Water Energy",
+      "set": "XY Promos",
+      "img": "https://den-cards.pokellector.com/141/Water-Energy.XYP.4.png",
+      "rarity": "Common",
+      "cardNum": ""
+    },
+    {
+      "name": "Muscle Band",
+      "set": "XY Promos",
+      "img": "https://den-cards.pokellector.com/141/Muscle-Band.XYP.5.png",
+      "rarity": "Common",
+      "cardNum": ""
+    }
+  ]
+}

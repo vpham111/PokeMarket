@@ -1,0 +1,719 @@
+{
+  "setName": "Base Set",
+  "cards": [
+    {
+      "name": "Alakazam",
+      "set": "Base Set",
+      "img": "https://den-cards.pokellector.com/119/Alakazam.BS.1.png",
+      "rarity": "Rare",
+      "cardNum": "1/102"
+    },
+    {
+      "name": "Blastoise",
+      "set": "Base Set",
+      "img": "https://den-cards.pokellector.com/119/Blastoise.BS.2.png",
+      "rarity": "Rare",
+      "cardNum": "2/102"
+    },
+    {
+      "name": "Chansey",
+      "set": "Base Set",
+      "img": "https://den-cards.pokellector.com/119/Chansey.BS.3.png",
+      "rarity": "Rare",
+      "cardNum": "3/102"
+    },
+    {
+      "name": "Charizard",
+      "set": "Base Set",
+      "img": "https://den-cards.pokellector.com/119/Charizard.BS.4.png",
+      "rarity": "Rare",
+      "cardNum": "4/102"
+    },
+    {
+      "name": "Clefairy",
+      "set": "Base Set",
+      "img": "https://den-cards.pokellector.com/119/Clefairy.BS.5.png",
+      "rarity": "Rare",
+      "cardNum": "5/102"
+    },
+    {
+      "name": "Gyarados",
+      "set": "Base Set",
+      "img": "https://den-cards.pokellector.com/119/Gyarados.BS.6.png",
+      "rarity": "Rare",
+      "cardNum": "6/102"
+    },
+    {
+      "name": "Hitmonchan",
+      "set": "Base Set",
+      "img": "https://den-cards.pokellector.com/119/Hitmonchan.BS.7.png",
+      "rarity": "Rare",
+      "cardNum": "7/102"
+    },
+    {
+      "name": "Machamp",
+      "set": "Base Set",
+      "img": "https://den-cards.pokellector.com/119/Machamp.BS.8.png",
+      "rarity": "Rare",
+      "cardNum": "8/102"
+    },
+    {
+      "name": "Magneton",
+      "set": "Base Set",
+      "img": "https://den-cards.pokellector.com/119/Magneton.BS.9.png",
+      "rarity": "Rare",
+      "cardNum": "9/102"
+    },
+    {
+      "name": "Mewtwo",
+      "set": "Base Set",
+      "img": "https://den-cards.pokellector.com/119/Mewtwo.BS.10.png",
+      "rarity": "Rare",
+      "cardNum": "10/102"
+    },
+    {
+      "name": "Nidoking",
+      "set": "Base Set",
+      "img": "https://den-cards.pokellector.com/119/Nidoking.BS.11.png",
+      "rarity": "Rare",
+      "cardNum": "11/102"
+    },
+    {
+      "name": "Ninetales",
+      "set": "Base Set",
+      "img": "https://den-cards.pokellector.com/119/Ninetales.BS.12.png",
+      "rarity": "Rare",
+      "cardNum": "12/102"
+    },
+    {
+      "name": "Poliwrath",
+      "set": "Base Set",
+      "img": "https://den-cards.pokellector.com/119/Poliwrath.BS.13.png",
+      "rarity": "Rare",
+      "cardNum": "13/102"
+    },
+    {
+      "name": "Raichu",
+      "set": "Base Set",
+      "img": "https://den-cards.pokellector.com/119/Raichu.BS.14.png",
+      "rarity": "Rare",
+      "cardNum": "14/102"
+    },
+    {
+      "name": "Venusaur",
+      "set": "Base Set",
+      "img": "https://den-cards.pokellector.com/119/Venusaur.BS.15.png",
+      "rarity": "Rare",
+      "cardNum": "15/102"
+    },
+    {
+      "name": "Zapdos",
+      "set": "Base Set",
+      "img": "https://den-cards.pokellector.com/119/Zapdos.BS.16.png",
+      "rarity": "Rare",
+      "cardNum": "16/102"
+    },
+    {
+      "name": "Beedrill",
+      "set": "Base Set",
+      "img": "https://den-cards.pokellector.com/119/Beedrill.BS.17.png",
+      "rarity": "Rare",
+      "cardNum": "17/102"
+    },
+    {
+      "name": "Dragonair",
+      "set": "Base Set",
+      "img": "https://den-cards.pokellector.com/119/Dragonair.BS.18.png",
+      "rarity": "Rare",
+      "cardNum": "18/102"
+    },
+    {
+      "name": "Dugtrio",
+      "set": "Base Set",
+      "img": "https://den-cards.pokellector.com/119/Dugtrio.BS.19.png",
+      "rarity": "Rare",
+      "cardNum": "19/102"
+    },
+    {
+      "name": "Electabuzz",
+      "set": "Base Set",
+      "img": "https://den-cards.pokellector.com/119/Electabuzz.BS.20.png",
+      "rarity": "Rare",
+      "cardNum": "20/102"
+    },
+    {
+      "name": "Electrode",
+      "set": "Base Set",
+      "img": "https://den-cards.pokellector.com/119/Electrode.BS.21.png",
+      "rarity": "Rare",
+      "cardNum": "21/102"
+    },
+    {
+      "name": "Pidgeotto",
+      "set": "Base Set",
+      "img": "https://den-cards.pokellector.com/119/Pidgeotto.BS.22.png",
+      "rarity": "Rare",
+      "cardNum": "22/102"
+    },
+    {
+      "name": "Arcanine",
+      "set": "Base Set",
+      "img": "https://den-cards.pokellector.com/119/Arcanine.BS.23.png",
+      "rarity": "Uncommon",
+      "cardNum": "23/102"
+    },
+    {
+      "name": "Charmeleon",
+      "set": "Base Set",
+      "img": "https://den-cards.pokellector.com/119/Charmeleon.BS.24.png",
+      "rarity": "Uncommon",
+      "cardNum": "24/102"
+    },
+    {
+      "name": "Dewgong",
+      "set": "Base Set",
+      "img": "https://den-cards.pokellector.com/119/Dewgong.BS.25.png",
+      "rarity": "Uncommon",
+      "cardNum": "25/102"
+    },
+    {
+      "name": "Dratini",
+      "set": "Base Set",
+      "img": "https://den-cards.pokellector.com/119/Dratini.BS.26.png",
+      "rarity": "Uncommon",
+      "cardNum": "26/102"
+    },
+    {
+      "name": "Farfetch'd",
+      "set": "Base Set",
+      "img": "https://den-cards.pokellector.com/119/Farfetchd.BS.27.png",
+      "rarity": "Uncommon",
+      "cardNum": "27/102"
+    },
+    {
+      "name": "Growlithe",
+      "set": "Base Set",
+      "img": "https://den-cards.pokellector.com/119/Growlithe.BS.28.png",
+      "rarity": "Uncommon",
+      "cardNum": "28/102"
+    },
+    {
+      "name": "Haunter",
+      "set": "Base Set",
+      "img": "https://den-cards.pokellector.com/119/Haunter.BS.29.png",
+      "rarity": "Uncommon",
+      "cardNum": "29/102"
+    },
+    {
+      "name": "Ivysaur",
+      "set": "Base Set",
+      "img": "https://den-cards.pokellector.com/119/Ivysaur.BS.30.png",
+      "rarity": "Uncommon",
+      "cardNum": "30/102"
+    },
+    {
+      "name": "Jynx",
+      "set": "Base Set",
+      "img": "https://den-cards.pokellector.com/119/Jynx.BS.31.png",
+      "rarity": "Uncommon",
+      "cardNum": "31/102"
+    },
+    {
+      "name": "Kadabra",
+      "set": "Base Set",
+      "img": "https://den-cards.pokellector.com/119/Kadabra.BS.32.png",
+      "rarity": "Uncommon",
+      "cardNum": "32/102"
+    },
+    {
+      "name": "Kakuna",
+      "set": "Base Set",
+      "img": "https://den-cards.pokellector.com/119/Kakuna.BS.33.png",
+      "rarity": "Uncommon",
+      "cardNum": "33/102"
+    },
+    {
+      "name": "Machoke",
+      "set": "Base Set",
+      "img": "https://den-cards.pokellector.com/119/Machoke.BS.34.png",
+      "rarity": "Uncommon",
+      "cardNum": "34/102"
+    },
+    {
+      "name": "Magikarp",
+      "set": "Base Set",
+      "img": "https://den-cards.pokellector.com/119/Magikarp.BS.35.png",
+      "rarity": "Uncommon",
+      "cardNum": "35/102"
+    },
+    {
+      "name": "Magmar",
+      "set": "Base Set",
+      "img": "https://den-cards.pokellector.com/119/Magmar.BS.36.png",
+      "rarity": "Uncommon",
+      "cardNum": "36/102"
+    },
+    {
+      "name": "Nidorino",
+      "set": "Base Set",
+      "img": "https://den-cards.pokellector.com/119/Nidorino.BS.37.png",
+      "rarity": "Uncommon",
+      "cardNum": "37/102"
+    },
+    {
+      "name": "Poliwhirl",
+      "set": "Base Set",
+      "img": "https://den-cards.pokellector.com/119/Poliwhirl.BS.38.png",
+      "rarity": "Uncommon",
+      "cardNum": "38/102"
+    },
+    {
+      "name": "Porygon",
+      "set": "Base Set",
+      "img": "https://den-cards.pokellector.com/119/Porygon.BS.39.png",
+      "rarity": "Uncommon",
+      "cardNum": "39/102"
+    },
+    {
+      "name": "Raticate",
+      "set": "Base Set",
+      "img": "https://den-cards.pokellector.com/119/Raticate.BS.40.png",
+      "rarity": "Uncommon",
+      "cardNum": "40/102"
+    },
+    {
+      "name": "Seel",
+      "set": "Base Set",
+      "img": "https://den-cards.pokellector.com/119/Seel.BS.41.png",
+      "rarity": "Uncommon",
+      "cardNum": "41/102"
+    },
+    {
+      "name": "Wartortle",
+      "set": "Base Set",
+      "img": "https://den-cards.pokellector.com/119/Wartortle.BS.42.png",
+      "rarity": "Uncommon",
+      "cardNum": "42/102"
+    },
+    {
+      "name": "Abra",
+      "set": "Base Set",
+      "img": "https://den-cards.pokellector.com/119/Abra.BS.43.png",
+      "rarity": "Common",
+      "cardNum": "43/102"
+    },
+    {
+      "name": "Bulbasaur",
+      "set": "Base Set",
+      "img": "https://den-cards.pokellector.com/119/Bulbasaur.BS.44.png",
+      "rarity": "Common",
+      "cardNum": "44/102"
+    },
+    {
+      "name": "Caterpie",
+      "set": "Base Set",
+      "img": "https://den-cards.pokellector.com/119/Caterpie.BS.45.png",
+      "rarity": "Common",
+      "cardNum": "45/102"
+    },
+    {
+      "name": "Charmander",
+      "set": "Base Set",
+      "img": "https://den-cards.pokellector.com/119/Charmander.BS.46.png",
+      "rarity": "Common",
+      "cardNum": "46/102"
+    },
+    {
+      "name": "Diglett",
+      "set": "Base Set",
+      "img": "https://den-cards.pokellector.com/119/Diglett.BS.47.png",
+      "rarity": "Common",
+      "cardNum": "47/102"
+    },
+    {
+      "name": "Doduo",
+      "set": "Base Set",
+      "img": "https://den-cards.pokellector.com/119/Doduo.BS.48.png",
+      "rarity": "Common",
+      "cardNum": "48/102"
+    },
+    {
+      "name": "Drowzee",
+      "set": "Base Set",
+      "img": "https://den-cards.pokellector.com/119/Drowzee.BS.49.png",
+      "rarity": "Common",
+      "cardNum": "49/102"
+    },
+    {
+      "name": "Gastly",
+      "set": "Base Set",
+      "img": "https://den-cards.pokellector.com/119/Gastly.BS.50.png",
+      "rarity": "Common",
+      "cardNum": "50/102"
+    },
+    {
+      "name": "Koffing",
+      "set": "Base Set",
+      "img": "https://den-cards.pokellector.com/119/Koffing.BS.51.png",
+      "rarity": "Common",
+      "cardNum": "51/102"
+    },
+    {
+      "name": "Machop",
+      "set": "Base Set",
+      "img": "https://den-cards.pokellector.com/119/Machop.BS.52.png",
+      "rarity": "Common",
+      "cardNum": "52/102"
+    },
+    {
+      "name": "Magnemite",
+      "set": "Base Set",
+      "img": "https://den-cards.pokellector.com/119/Magnemite.BS.53.png",
+      "rarity": "Common",
+      "cardNum": "53/102"
+    },
+    {
+      "name": "Metapod",
+      "set": "Base Set",
+      "img": "https://den-cards.pokellector.com/119/Metapod.BS.54.png",
+      "rarity": "Common",
+      "cardNum": "54/102"
+    },
+    {
+      "name": "Nidoran M",
+      "set": "Base Set",
+      "img": "https://den-cards.pokellector.com/119/Nidoran-M.BS.55.png",
+      "rarity": "Common",
+      "cardNum": "55/102"
+    },
+    {
+      "name": "Onix",
+      "set": "Base Set",
+      "img": "https://den-cards.pokellector.com/119/Onix.BS.56.png",
+      "rarity": "Common",
+      "cardNum": "56/102"
+    },
+    {
+      "name": "Pidgey",
+      "set": "Base Set",
+      "img": "https://den-cards.pokellector.com/119/Pidgey.BS.57.png",
+      "rarity": "Common",
+      "cardNum": "57/102"
+    },
+    {
+      "name": "Pikachu",
+      "set": "Base Set",
+      "img": "https://den-cards.pokellector.com/119/Pikachu.BS.58.png",
+      "rarity": "Common",
+      "cardNum": "58/102"
+    },
+    {
+      "name": "Poliwag",
+      "set": "Base Set",
+      "img": "https://den-cards.pokellector.com/119/Poliwag.BS.59.png",
+      "rarity": "Common",
+      "cardNum": "59/102"
+    },
+    {
+      "name": "Ponyta",
+      "set": "Base Set",
+      "img": "https://den-cards.pokellector.com/119/Ponyta.BS.60.png",
+      "rarity": "Common",
+      "cardNum": "60/102"
+    },
+    {
+      "name": "Rattata",
+      "set": "Base Set",
+      "img": "https://den-cards.pokellector.com/119/Rattata.BS.61.png",
+      "rarity": "Common",
+      "cardNum": "61/102"
+    },
+    {
+      "name": "Sandshrew",
+      "set": "Base Set",
+      "img": "https://den-cards.pokellector.com/119/Sandshrew.BS.62.png",
+      "rarity": "Common",
+      "cardNum": "62/102"
+    },
+    {
+      "name": "Squirtle",
+      "set": "Base Set",
+      "img": "https://den-cards.pokellector.com/119/Squirtle.BS.63.png",
+      "rarity": "Common",
+      "cardNum": "63/102"
+    },
+    {
+      "name": "Starmie",
+      "set": "Base Set",
+      "img": "https://den-cards.pokellector.com/119/Starmie.BS.64.png",
+      "rarity": "Common",
+      "cardNum": "64/102"
+    },
+    {
+      "name": "Staryu",
+      "set": "Base Set",
+      "img": "https://den-cards.pokellector.com/119/Staryu.BS.65.png",
+      "rarity": "Common",
+      "cardNum": "65/102"
+    },
+    {
+      "name": "Tangela",
+      "set": "Base Set",
+      "img": "https://den-cards.pokellector.com/119/Tangela.BS.66.png",
+      "rarity": "Common",
+      "cardNum": "66/102"
+    },
+    {
+      "name": "Voltorb",
+      "set": "Base Set",
+      "img": "https://den-cards.pokellector.com/119/Voltorb.BS.67.png",
+      "rarity": "Common",
+      "cardNum": "67/102"
+    },
+    {
+      "name": "Vulpix",
+      "set": "Base Set",
+      "img": "https://den-cards.pokellector.com/119/Vulpix.BS.68.png",
+      "rarity": "Common",
+      "cardNum": "68/102"
+    },
+    {
+      "name": "Weedle",
+      "set": "Base Set",
+      "img": "https://den-cards.pokellector.com/119/Weedle.BS.69.png",
+      "rarity": "Common",
+      "cardNum": "69/102"
+    },
+    {
+      "name": "Clefairy Doll",
+      "set": "Base Set",
+      "img": "https://den-cards.pokellector.com/119/Clefairy-Doll.BS.70.png",
+      "rarity": "Rare",
+      "cardNum": "70/102"
+    },
+    {
+      "name": "Computer Search",
+      "set": "Base Set",
+      "img": "https://den-cards.pokellector.com/119/Computer-Search.BS.71.png",
+      "rarity": "Rare",
+      "cardNum": "71/102"
+    },
+    {
+      "name": "Devolution Spray",
+      "set": "Base Set",
+      "img": "https://den-cards.pokellector.com/119/Devolution-Spray.BS.72.png",
+      "rarity": "Rare",
+      "cardNum": "72/102"
+    },
+    {
+      "name": "Imposter Professor Oak",
+      "set": "Base Set",
+      "img": "https://den-cards.pokellector.com/119/Imposter-Professor-Oak.BS.73.png",
+      "rarity": "Rare",
+      "cardNum": "73/102"
+    },
+    {
+      "name": "Item Finder",
+      "set": "Base Set",
+      "img": "https://den-cards.pokellector.com/119/Item-Finder.BS.74.png",
+      "rarity": "Rare",
+      "cardNum": "74/102"
+    },
+    {
+      "name": "Lass",
+      "set": "Base Set",
+      "img": "https://den-cards.pokellector.com/119/Lass.BS.75.png",
+      "rarity": "Rare",
+      "cardNum": "75/102"
+    },
+    {
+      "name": "Pokemon Breeder",
+      "set": "Base Set",
+      "img": "https://den-cards.pokellector.com/119/Pokemon-Breeder.BS.76.png",
+      "rarity": "Rare",
+      "cardNum": "76/102"
+    },
+    {
+      "name": "Pokemon Trader",
+      "set": "Base Set",
+      "img": "https://den-cards.pokellector.com/119/Pokemon-Trader.BS.77.png",
+      "rarity": "Rare",
+      "cardNum": "77/102"
+    },
+    {
+      "name": "Scoop Up",
+      "set": "Base Set",
+      "img": "https://den-cards.pokellector.com/119/Scoop-Up.BS.78.png",
+      "rarity": "Rare",
+      "cardNum": "78/102"
+    },
+    {
+      "name": "Super Energy Removal",
+      "set": "Base Set",
+      "img": "https://den-cards.pokellector.com/119/Super-Energy-Removal.BS.79.png",
+      "rarity": "Rare",
+      "cardNum": "79/102"
+    },
+    {
+      "name": "Defender",
+      "set": "Base Set",
+      "img": "https://den-cards.pokellector.com/119/Defender.BS.80.png",
+      "rarity": "Uncommon",
+      "cardNum": "80/102"
+    },
+    {
+      "name": "Energy Retrieval",
+      "set": "Base Set",
+      "img": "https://den-cards.pokellector.com/119/Energy-Retrieval.BS.81.png",
+      "rarity": "Uncommon",
+      "cardNum": "81/102"
+    },
+    {
+      "name": "Full Heal",
+      "set": "Base Set",
+      "img": "https://den-cards.pokellector.com/119/Full-Heal.BS.82.png",
+      "rarity": "Uncommon",
+      "cardNum": "82/102"
+    },
+    {
+      "name": "Maintenance",
+      "set": "Base Set",
+      "img": "https://den-cards.pokellector.com/119/Maintenance.BS.83.png",
+      "rarity": "Uncommon",
+      "cardNum": "83/102"
+    },
+    {
+      "name": "PlusPower",
+      "set": "Base Set",
+      "img": "https://den-cards.pokellector.com/119/PlusPower.BS.84.png",
+      "rarity": "Uncommon",
+      "cardNum": "84/102"
+    },
+    {
+      "name": "Pokemon Center",
+      "set": "Base Set",
+      "img": "https://den-cards.pokellector.com/119/Pokemon-Center.BS.85.png",
+      "rarity": "Uncommon",
+      "cardNum": "85/102"
+    },
+    {
+      "name": "Pokemon Flute",
+      "set": "Base Set",
+      "img": "https://den-cards.pokellector.com/119/Pokemon-Flute.BS.86.png",
+      "rarity": "Uncommon",
+      "cardNum": "86/102"
+    },
+    {
+      "name": "Pokedex",
+      "set": "Base Set",
+      "img": "https://den-cards.pokellector.com/119/Pokedex.BS.87.png",
+      "rarity": "Uncommon",
+      "cardNum": "87/102"
+    },
+    {
+      "name": "Professor Oak",
+      "set": "Base Set",
+      "img": "https://den-cards.pokellector.com/119/Professor-Oak.BS.88.png",
+      "rarity": "Uncommon",
+      "cardNum": "88/102"
+    },
+    {
+      "name": "Revive",
+      "set": "Base Set",
+      "img": "https://den-cards.pokellector.com/119/Revive.BS.89.png",
+      "rarity": "Uncommon",
+      "cardNum": "89/102"
+    },
+    {
+      "name": "Super Potion",
+      "set": "Base Set",
+      "img": "https://den-cards.pokellector.com/119/Super-Potion.BS.90.png",
+      "rarity": "Uncommon",
+      "cardNum": "90/102"
+    },
+    {
+      "name": "Bill",
+      "set": "Base Set",
+      "img": "https://den-cards.pokellector.com/119/Bill.BS.91.png",
+      "rarity": "Common",
+      "cardNum": "91/102"
+    },
+    {
+      "name": "Energy Removal",
+      "set": "Base Set",
+      "img": "https://den-cards.pokellector.com/119/Energy-Removal.BS.92.png",
+      "rarity": "Common",
+      "cardNum": "92/102"
+    },
+    {
+      "name": "Gust of Wind",
+      "set": "Base Set",
+      "img": "https://den-cards.pokellector.com/119/Gust-of-Wind.BS.93.png",
+      "rarity": "Common",
+      "cardNum": "93/102"
+    },
+    {
+      "name": "Potion",
+      "set": "Base Set",
+      "img": "https://den-cards.pokellector.com/119/Potion.BS.94.png",
+      "rarity": "Common",
+      "cardNum": "94/102"
+    },
+    {
+      "name": "Switch",
+      "set": "Base Set",
+      "img": "https://den-cards.pokellector.com/119/Switch.BS.95.7933.png",
+      "rarity": "Common",
+      "cardNum": "95/102"
+    },
+    {
+      "name": "Double Colorless Energy",
+      "set": "Base Set",
+      "img": "https://den-cards.pokellector.com/119/Double-Colorless-Energy.BS.96.png",
+      "rarity": "Uncommon",
+      "cardNum": "96/102"
+    },
+    {
+      "name": "Fighting Energy",
+      "set": "Base Set",
+      "img": "https://den-cards.pokellector.com/119/Fighting-Energy.BS.97.png",
+      "rarity": "Common",
+      "cardNum": "97/102"
+    },
+    {
+      "name": "Fire Energy",
+      "set": "Base Set",
+      "img": "https://den-cards.pokellector.com/119/Fire-Energy.BS.98.png",
+      "rarity": "Common",
+      "cardNum": "98/102"
+    },
+    {
+      "name": "Grass Energy",
+      "set": "Base Set",
+      "img": "https://den-cards.pokellector.com/119/Grass-Energy.BS.99.png",
+      "rarity": "Common",
+      "cardNum": "99/102"
+    },
+    {
+      "name": "Lightning Energy",
+      "set": "Base Set",
+      "img": "https://den-cards.pokellector.com/119/Lightning-Energy.BS.100.png",
+      "rarity": "Common",
+      "cardNum": "100/102"
+    },
+    {
+      "name": "Psychic Energy",
+      "set": "Base Set",
+      "img": "https://den-cards.pokellector.com/119/Psychic-Energy.BS.101.png",
+      "rarity": "Common",
+      "cardNum": "101/102"
+    },
+    {
+      "name": "Water Energy",
+      "set": "Base Set",
+      "img": "https://den-cards.pokellector.com/119/Water-Energy.BS.102.png",
+      "rarity": "Common",
+      "cardNum": "102/102"
+    }
+  ]
+}

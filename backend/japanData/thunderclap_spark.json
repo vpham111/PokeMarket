@@ -1,0 +1,516 @@
+{
+  "setName": "Thunderclap Spark",
+  "cards": [
+    {
+      "name": "Pinsir",
+      "set": "Thunderclap Spark",
+      "img": "https://den-cards.pokellector.com/243/Pinsir.SM7A.1.22385.png",
+      "rarity": "Common",
+      "cardNum": "1/60"
+    },
+    {
+      "name": "Shuckle",
+      "set": "Thunderclap Spark",
+      "img": "https://den-cards.pokellector.com/243/Shuckle.SM7A.2.22386.png",
+      "rarity": "Uncommon",
+      "cardNum": "2/60"
+    },
+    {
+      "name": "Wurmple",
+      "set": "Thunderclap Spark",
+      "img": "https://den-cards.pokellector.com/243/Wurmple.SM7A.3.22387.png",
+      "rarity": "Common",
+      "cardNum": "3/60"
+    },
+    {
+      "name": "Cascoon",
+      "set": "Thunderclap Spark",
+      "img": "https://den-cards.pokellector.com/243/Cascoon.SM7A.4.22388.png",
+      "rarity": "Common",
+      "cardNum": "4/60"
+    },
+    {
+      "name": "Dustox",
+      "set": "Thunderclap Spark",
+      "img": "https://den-cards.pokellector.com/243/Dustox.SM7A.5.22389.png",
+      "rarity": "Uncommon",
+      "cardNum": "5/60"
+    },
+    {
+      "name": "Virizion GX",
+      "set": "Thunderclap Spark",
+      "img": "https://den-cards.pokellector.com/243/Virizion-GX.SM7A.6.21595.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "6/60"
+    },
+    {
+      "name": "Skiddo",
+      "set": "Thunderclap Spark",
+      "img": "https://den-cards.pokellector.com/243/Skiddo.SM7A.7.22390.png",
+      "rarity": "Common",
+      "cardNum": "7/60"
+    },
+    {
+      "name": "Gogoat",
+      "set": "Thunderclap Spark",
+      "img": "https://den-cards.pokellector.com/243/Gogoat.SM7A.8.22391.png",
+      "rarity": "Common",
+      "cardNum": "8/60"
+    },
+    {
+      "name": "Tapu Bulu",
+      "set": "Thunderclap Spark",
+      "img": "https://den-cards.pokellector.com/243/Tapu-Bulu.SM7A.9.22392.png",
+      "rarity": "Rare",
+      "cardNum": "9/60"
+    },
+    {
+      "name": "Moltres",
+      "set": "Thunderclap Spark",
+      "img": "https://den-cards.pokellector.com/243/Moltres.SM7A.10.22393.png",
+      "rarity": "Uncommon",
+      "cardNum": "10/60"
+    },
+    {
+      "name": "Slugma",
+      "set": "Thunderclap Spark",
+      "img": "https://den-cards.pokellector.com/243/Slugma.SM7A.11.22394.png",
+      "rarity": "Common",
+      "cardNum": "11/60"
+    },
+    {
+      "name": "Magcargo GX",
+      "set": "Thunderclap Spark",
+      "img": "https://den-cards.pokellector.com/243/Magcargo-GX.SM7A.12.21723.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "12/60"
+    },
+    {
+      "name": "Heatran",
+      "set": "Thunderclap Spark",
+      "img": "https://den-cards.pokellector.com/243/Heatran.SM7A.13.22395.png",
+      "rarity": "Rare",
+      "cardNum": "13/60"
+    },
+    {
+      "name": "Victini",
+      "set": "Thunderclap Spark",
+      "img": "https://den-cards.pokellector.com/243/Victini.SM7A.14.22396.png",
+      "rarity": "Uncommon",
+      "cardNum": "14/60"
+    },
+    {
+      "name": "Litleo",
+      "set": "Thunderclap Spark",
+      "img": "https://den-cards.pokellector.com/243/Litleo.SM7A.15.22381.png",
+      "rarity": "Common",
+      "cardNum": "15/60"
+    },
+    {
+      "name": "Pyroar",
+      "set": "Thunderclap Spark",
+      "img": "https://den-cards.pokellector.com/243/Pyroar.SM7A.16.22382.png",
+      "rarity": "Common",
+      "cardNum": "16/60"
+    },
+    {
+      "name": "Lapras",
+      "set": "Thunderclap Spark",
+      "img": "https://den-cards.pokellector.com/243/Lapras.SM7A.17.22397.png",
+      "rarity": "Uncommon",
+      "cardNum": "17/60"
+    },
+    {
+      "name": "Suicune",
+      "set": "Thunderclap Spark",
+      "img": "https://den-cards.pokellector.com/243/Suicune.SM7A.18.22398.png",
+      "rarity": "Rare",
+      "cardNum": "18/60"
+    },
+    {
+      "name": "Cubchoo",
+      "set": "Thunderclap Spark",
+      "img": "https://den-cards.pokellector.com/243/Cubchoo.SM7A.19.22399.png",
+      "rarity": "Common",
+      "cardNum": "19/60"
+    },
+    {
+      "name": "Beartic",
+      "set": "Thunderclap Spark",
+      "img": "https://den-cards.pokellector.com/243/Beartic.SM7A.20.22400.png",
+      "rarity": "Uncommon",
+      "cardNum": "20/60"
+    },
+    {
+      "name": "White Kyurem",
+      "set": "Thunderclap Spark",
+      "img": "https://den-cards.pokellector.com/243/White-Kyurem.SM7A.21.22401.png",
+      "rarity": "Rare",
+      "cardNum": "21/60"
+    },
+    {
+      "name": "Popplio",
+      "set": "Thunderclap Spark",
+      "img": "https://den-cards.pokellector.com/243/Popplio.SM7A.22.22402.png",
+      "rarity": "Common",
+      "cardNum": "22/60"
+    },
+    {
+      "name": "Brionne",
+      "set": "Thunderclap Spark",
+      "img": "https://den-cards.pokellector.com/243/Brionne.SM7A.23.22403.png",
+      "rarity": "Common",
+      "cardNum": "23/60"
+    },
+    {
+      "name": "Primarina",
+      "set": "Thunderclap Spark",
+      "img": "https://den-cards.pokellector.com/243/Primarina.SM7A.24.22404.png",
+      "rarity": "Uncommon",
+      "cardNum": "24/60"
+    },
+    {
+      "name": "Bruxish",
+      "set": "Thunderclap Spark",
+      "img": "https://den-cards.pokellector.com/243/Bruxish.SM7A.25.22405.png",
+      "rarity": "Common",
+      "cardNum": "25/60"
+    },
+    {
+      "name": "Electabuzz",
+      "set": "Thunderclap Spark",
+      "img": "https://den-cards.pokellector.com/243/Electabuzz.SM7A.26.22406.png",
+      "rarity": "Common",
+      "cardNum": "26/60"
+    },
+    {
+      "name": "Electivire",
+      "set": "Thunderclap Spark",
+      "img": "https://den-cards.pokellector.com/243/Electivire.SM7A.27.22407.png",
+      "rarity": "Uncommon",
+      "cardNum": "27/60"
+    },
+    {
+      "name": "Pachirisu",
+      "set": "Thunderclap Spark",
+      "img": "https://den-cards.pokellector.com/243/Pachirisu.SM7A.28.22408.png",
+      "rarity": "Common",
+      "cardNum": "28/60"
+    },
+    {
+      "name": "Blitzle",
+      "set": "Thunderclap Spark",
+      "img": "https://den-cards.pokellector.com/243/Blitzle.SM7A.29.22409.png",
+      "rarity": "Common",
+      "cardNum": "29/60"
+    },
+    {
+      "name": "Zebstrika",
+      "set": "Thunderclap Spark",
+      "img": "https://den-cards.pokellector.com/243/Zebstrika.SM7A.30.22049.png",
+      "rarity": "Uncommon",
+      "cardNum": "30/60"
+    },
+    {
+      "name": "Stunfisk",
+      "set": "Thunderclap Spark",
+      "img": "https://den-cards.pokellector.com/243/Stunfisk.SM7A.31.22410.png",
+      "rarity": "Common",
+      "cardNum": "31/60"
+    },
+    {
+      "name": "Tapu Koko",
+      "set": "Thunderclap Spark",
+      "img": "https://den-cards.pokellector.com/243/Tapu-Koko.SM7A.32.22411.png",
+      "rarity": "Rare",
+      "cardNum": "32/60"
+    },
+    {
+      "name": "Zeraora GX",
+      "set": "Thunderclap Spark",
+      "img": "https://den-cards.pokellector.com/243/Zeraora-GX.SM7A.33.21581.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "33/60"
+    },
+    {
+      "name": "Onix",
+      "set": "Thunderclap Spark",
+      "img": "https://den-cards.pokellector.com/243/Onix.SM7A.34.22379.png",
+      "rarity": "Common",
+      "cardNum": "34/60"
+    },
+    {
+      "name": "Alolan Diglett",
+      "set": "Thunderclap Spark",
+      "img": "https://den-cards.pokellector.com/243/Alolan-Diglett.SM7A.35.22377.png",
+      "rarity": "Common",
+      "cardNum": "35/60"
+    },
+    {
+      "name": "Alolan Dugtrio",
+      "set": "Thunderclap Spark",
+      "img": "https://den-cards.pokellector.com/243/Alolan-Dugtrio.SM7A.36.22378.png",
+      "rarity": "Common",
+      "cardNum": "36/60"
+    },
+    {
+      "name": "Steelix",
+      "set": "Thunderclap Spark",
+      "img": "https://den-cards.pokellector.com/243/Steelix.SM7A.37.22380.png",
+      "rarity": "Uncommon",
+      "cardNum": "37/60"
+    },
+    {
+      "name": "Dialga",
+      "set": "Thunderclap Spark",
+      "img": "https://den-cards.pokellector.com/243/Dialga.SM7A.38.21601.png",
+      "rarity": "Rare",
+      "cardNum": "38/60"
+    },
+    {
+      "name": "Durant",
+      "set": "Thunderclap Spark",
+      "img": "https://den-cards.pokellector.com/243/Durant.SM7A.39.22412.png",
+      "rarity": "Common",
+      "cardNum": "39/60"
+    },
+    {
+      "name": "Cobalion",
+      "set": "Thunderclap Spark",
+      "img": "https://den-cards.pokellector.com/243/Cobalion.SM7A.40.21717.png",
+      "rarity": "Rare",
+      "cardNum": "40/60"
+    },
+    {
+      "name": "Genesect GX",
+      "set": "Thunderclap Spark",
+      "img": "https://den-cards.pokellector.com/243/Genesect-GX.SM7A.41.21719.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "41/60"
+    },
+    {
+      "name": "Magearna",
+      "set": "Thunderclap Spark",
+      "img": "https://den-cards.pokellector.com/243/Magearna.SM7A.42.22413.png",
+      "rarity": "Common",
+      "cardNum": "42/60"
+    },
+    {
+      "name": "Ditto Prism Star",
+      "set": "Thunderclap Spark",
+      "img": "https://den-cards.pokellector.com/243/Ditto-Prism-Star.SM7A.43.22051.png",
+      "rarity": "Prism Star",
+      "cardNum": "43/60"
+    },
+    {
+      "name": "Kecleon",
+      "set": "Thunderclap Spark",
+      "img": "https://den-cards.pokellector.com/243/Kecleon.SM7A.44.22414.png",
+      "rarity": "Common",
+      "cardNum": "44/60"
+    },
+    {
+      "name": "Energy Switch",
+      "set": "Thunderclap Spark",
+      "img": "https://den-cards.pokellector.com/243/Energy-Switch.SM7A.45.22415.png",
+      "rarity": "Uncommon",
+      "cardNum": "45/60"
+    },
+    {
+      "name": "Electric Power",
+      "set": "Thunderclap Spark",
+      "img": "https://den-cards.pokellector.com/243/Electric-Power.SM7A.46.21597.png",
+      "rarity": "Uncommon",
+      "cardNum": "46/60"
+    },
+    {
+      "name": "Custom Catcher",
+      "set": "Thunderclap Spark",
+      "img": "https://den-cards.pokellector.com/243/Custom-Catcher.SM7A.47.21602.png",
+      "rarity": "Common",
+      "cardNum": "47/60"
+    },
+    {
+      "name": "Super Scoop Up",
+      "set": "Thunderclap Spark",
+      "img": "https://den-cards.pokellector.com/243/Super-Scoop-Up.SM7A.48.22416.png",
+      "rarity": "Uncommon",
+      "cardNum": "48/60"
+    },
+    {
+      "name": "Ultra Ball",
+      "set": "Thunderclap Spark",
+      "img": "https://den-cards.pokellector.com/243/Ultra-Ball.SM7A.49.22417.png",
+      "rarity": "Uncommon",
+      "cardNum": "49/60"
+    },
+    {
+      "name": "Switch",
+      "set": "Thunderclap Spark",
+      "img": "https://den-cards.pokellector.com/243/Switch.SM7A.50.22418.png",
+      "rarity": "Uncommon",
+      "cardNum": "50/60"
+    },
+    {
+      "name": "Pokémon Catcher",
+      "set": "Thunderclap Spark",
+      "img": "https://den-cards.pokellector.com/243/Pokeacutemon-Catcher.SM7A.51.22419.png",
+      "rarity": "Uncommon",
+      "cardNum": "51/60"
+    },
+    {
+      "name": "Mix Herb",
+      "set": "Thunderclap Spark",
+      "img": "https://den-cards.pokellector.com/243/Mix-Herb.SM7A.52.22050.png",
+      "rarity": "Common",
+      "cardNum": "52/60"
+    },
+    {
+      "name": "Counter Gain",
+      "set": "Thunderclap Spark",
+      "img": "https://den-cards.pokellector.com/243/Counter-Gain.SM7A.53.21718.png",
+      "rarity": "Uncommon",
+      "cardNum": "53/60"
+    },
+    {
+      "name": "Choice Band",
+      "set": "Thunderclap Spark",
+      "img": "https://den-cards.pokellector.com/243/Choice-Band.SM7A.54.21720.png",
+      "rarity": "Uncommon",
+      "cardNum": "54/60"
+    },
+    {
+      "name": "Kahili",
+      "set": "Thunderclap Spark",
+      "img": "https://den-cards.pokellector.com/243/Kahili.SM7A.55.22420.png",
+      "rarity": "Common",
+      "cardNum": "55/60"
+    },
+    {
+      "name": "Sightseer",
+      "set": "Thunderclap Spark",
+      "img": "https://den-cards.pokellector.com/243/Sightseer.SM7A.56.21603.png",
+      "rarity": "Common",
+      "cardNum": "56/60"
+    },
+    {
+      "name": "Judge",
+      "set": "Thunderclap Spark",
+      "img": "https://den-cards.pokellector.com/243/Judge.SM7A.57.22421.png",
+      "rarity": "Uncommon",
+      "cardNum": "57/60"
+    },
+    {
+      "name": "Thunder Mountain Prism Star",
+      "set": "Thunderclap Spark",
+      "img": "https://den-cards.pokellector.com/243/Thunder-Mountain-Prism-Star.SM7A.58.21596.png",
+      "rarity": "Prism Star",
+      "cardNum": "58/60"
+    },
+    {
+      "name": "Double Colorless Energy",
+      "set": "Thunderclap Spark",
+      "img": "https://den-cards.pokellector.com/243/Double-Colorless-Energy.SM7A.59.22422.png",
+      "rarity": "Uncommon",
+      "cardNum": "59/60"
+    },
+    {
+      "name": "Unit Energy GFW",
+      "set": "Thunderclap Spark",
+      "img": "https://den-cards.pokellector.com/243/Unit-Energy-GFW.SM7A.60.22423.png",
+      "rarity": "Uncommon",
+      "cardNum": "60/60"
+    },
+    {
+      "name": "Virizion GX",
+      "set": "Thunderclap Spark",
+      "img": "https://den-cards.pokellector.com/243/Virizion-GX.SM7A.61.22424.png",
+      "rarity": "Secret Rare",
+      "cardNum": "61/60"
+    },
+    {
+      "name": "Magcargo GX",
+      "set": "Thunderclap Spark",
+      "img": "https://den-cards.pokellector.com/243/Magcargo-GX.SM7A.62.22425.png",
+      "rarity": "Secret Rare",
+      "cardNum": "62/60"
+    },
+    {
+      "name": "Zeraora GX",
+      "set": "Thunderclap Spark",
+      "img": "https://den-cards.pokellector.com/243/Zeraora-GX.SM7A.63.22426.png",
+      "rarity": "Secret Rare",
+      "cardNum": "63/60"
+    },
+    {
+      "name": "Genesect GX",
+      "set": "Thunderclap Spark",
+      "img": "https://den-cards.pokellector.com/243/Genesect-GX.SM7A.64.22427.png",
+      "rarity": "Secret Rare",
+      "cardNum": "64/60"
+    },
+    {
+      "name": "Kahili",
+      "set": "Thunderclap Spark",
+      "img": "https://den-cards.pokellector.com/243/Kahili.SM7A.65.22052.png",
+      "rarity": "Secret Rare",
+      "cardNum": "65/60"
+    },
+    {
+      "name": "Judge",
+      "set": "Thunderclap Spark",
+      "img": "https://den-cards.pokellector.com/243/Judge.SM7A.66.22526.png",
+      "rarity": "Secret Rare",
+      "cardNum": "66/60"
+    },
+    {
+      "name": "Virizion GX",
+      "set": "Thunderclap Spark",
+      "img": "https://den-cards.pokellector.com/243/Virizion-GX.SM7A.67.22530.png",
+      "rarity": "Secret Rare",
+      "cardNum": "67/60"
+    },
+    {
+      "name": "Magcargo GX",
+      "set": "Thunderclap Spark",
+      "img": "https://den-cards.pokellector.com/243/Magcargo-GX.SM7A.68.22533.png",
+      "rarity": "Secret Rare",
+      "cardNum": "68/60"
+    },
+    {
+      "name": "Zeraora GX",
+      "set": "Thunderclap Spark",
+      "img": "https://den-cards.pokellector.com/243/Zeraora-GX.SM7A.69.22528.png",
+      "rarity": "Secret Rare",
+      "cardNum": "69/60"
+    },
+    {
+      "name": "Genesect GX",
+      "set": "Thunderclap Spark",
+      "img": "https://den-cards.pokellector.com/243/Genesect-GX.SM7A.70.22532.png",
+      "rarity": "Secret Rare",
+      "cardNum": "70/60"
+    },
+    {
+      "name": "Electric Power",
+      "set": "Thunderclap Spark",
+      "img": "https://den-cards.pokellector.com/243/Electric-Power.SM7A.71.22527.png",
+      "rarity": "Secret Rare",
+      "cardNum": "71/60"
+    },
+    {
+      "name": "Custom Catcher",
+      "set": "Thunderclap Spark",
+      "img": "https://den-cards.pokellector.com/243/Custom-Catcher.SM7A.72.22529.png",
+      "rarity": "Secret Rare",
+      "cardNum": "72/60"
+    },
+    {
+      "name": "Counter Gain",
+      "set": "Thunderclap Spark",
+      "img": "https://den-cards.pokellector.com/243/Counter-Gain.SM7A.73.22531.png",
+      "rarity": "Secret Rare",
+      "cardNum": "73/60"
+    }
+  ]
+}

@@ -1,0 +1,621 @@
+{
+  "setName": "Space Juggler",
+  "cards": [
+    {
+      "name": "Beedrill V",
+      "set": "Space Juggler",
+      "img": "https://den-cards.pokellector.com/342/Beedrill-V.S10P.1.43305.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "1/67"
+    },
+    {
+      "name": "Hisuian Voltorb",
+      "set": "Space Juggler",
+      "img": "https://den-cards.pokellector.com/342/Hisuian-Voltorb.S10P.2.43307.png",
+      "rarity": "Common",
+      "cardNum": "2/67"
+    },
+    {
+      "name": "Hisuian Electrode",
+      "set": "Space Juggler",
+      "img": "https://den-cards.pokellector.com/342/Hisuian-Electrode.S10P.3.43306.png",
+      "rarity": "Common",
+      "cardNum": "3/67"
+    },
+    {
+      "name": "Kricketot",
+      "set": "Space Juggler",
+      "img": "https://den-cards.pokellector.com/342/Kricketot.S10P.4.43324.png",
+      "rarity": "Common",
+      "cardNum": "4/67"
+    },
+    {
+      "name": "Kricketune",
+      "set": "Space Juggler",
+      "img": "https://den-cards.pokellector.com/342/Kricketune.S10P.5.43325.png",
+      "rarity": "Uncommon",
+      "cardNum": "5/67"
+    },
+    {
+      "name": "Rowlet",
+      "set": "Space Juggler",
+      "img": "https://den-cards.pokellector.com/342/Rowlet.S10P.6.43232.png",
+      "rarity": "Common",
+      "cardNum": "6/67"
+    },
+    {
+      "name": "Dartrix",
+      "set": "Space Juggler",
+      "img": "https://den-cards.pokellector.com/342/Dartrix.S10P.7.43231.png",
+      "rarity": "Common",
+      "cardNum": "7/67"
+    },
+    {
+      "name": "Blipbug",
+      "set": "Space Juggler",
+      "img": "https://den-cards.pokellector.com/342/Blipbug.S10P.8.43311.png",
+      "rarity": "Common",
+      "cardNum": "8/67"
+    },
+    {
+      "name": "Dottler",
+      "set": "Space Juggler",
+      "img": "https://den-cards.pokellector.com/342/Dottler.S10P.9.43312.png",
+      "rarity": "Common",
+      "cardNum": "9/67"
+    },
+    {
+      "name": "Orbeetle",
+      "set": "Space Juggler",
+      "img": "https://den-cards.pokellector.com/342/Orbeetle.S10P.10.43313.png",
+      "rarity": "Rare",
+      "cardNum": "10/67"
+    },
+    {
+      "name": "Ponyta",
+      "set": "Space Juggler",
+      "img": "https://den-cards.pokellector.com/342/Ponyta.S10P.11.43304.png",
+      "rarity": "Common",
+      "cardNum": "11/67"
+    },
+    {
+      "name": "Rapidash",
+      "set": "Space Juggler",
+      "img": "https://den-cards.pokellector.com/342/Rapidash.S10P.12.43303.png",
+      "rarity": "Common",
+      "cardNum": "12/67"
+    },
+    {
+      "name": "Torkoal",
+      "set": "Space Juggler",
+      "img": "https://den-cards.pokellector.com/342/Torkoal.S10P.13.43371.png",
+      "rarity": "Common",
+      "cardNum": "13/67"
+    },
+    {
+      "name": "Heatran V",
+      "set": "Space Juggler",
+      "img": "https://den-cards.pokellector.com/342/Heatran-V.S10P.14.43372.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "14/67"
+    },
+    {
+      "name": "Heatran VMAX",
+      "set": "Space Juggler",
+      "img": "https://den-cards.pokellector.com/342/Heatran-VMAX.S10P.15.43373.png",
+      "rarity": "Common",
+      "cardNum": "15/67"
+    },
+    {
+      "name": "Psyduck",
+      "set": "Space Juggler",
+      "img": "https://den-cards.pokellector.com/342/Psyduck.S10P.16.43374.png",
+      "rarity": "Common",
+      "cardNum": "16/67"
+    },
+    {
+      "name": "Golduck",
+      "set": "Space Juggler",
+      "img": "https://den-cards.pokellector.com/342/Golduck.S10P.17.43375.png",
+      "rarity": "Uncommon",
+      "cardNum": "17/67"
+    },
+    {
+      "name": "Luvdisc",
+      "set": "Space Juggler",
+      "img": "https://den-cards.pokellector.com/342/Luvdisc.S10P.18.43376.png",
+      "rarity": "Common",
+      "cardNum": "18/67"
+    },
+    {
+      "name": "Regice",
+      "set": "Space Juggler",
+      "img": "https://den-cards.pokellector.com/342/Regice.S10P.19.43282.png",
+      "rarity": "Uncommon",
+      "cardNum": "19/67"
+    },
+    {
+      "name": "Shellos",
+      "set": "Space Juggler",
+      "img": "https://den-cards.pokellector.com/342/Shellos.S10P.20.43377.png",
+      "rarity": "Common",
+      "cardNum": "20/67"
+    },
+    {
+      "name": "Glaceon",
+      "set": "Space Juggler",
+      "img": "https://den-cards.pokellector.com/342/Glaceon.S10P.21.43254.png",
+      "rarity": "Common",
+      "cardNum": "21/67"
+    },
+    {
+      "name": "Origin Palkia V",
+      "set": "Space Juggler",
+      "img": "https://den-cards.pokellector.com/342/Origin-Palkia-V.S10P.22.43227.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "22/67"
+    },
+    {
+      "name": "Origin Palkia VSTAR",
+      "set": "Space Juggler",
+      "img": "https://den-cards.pokellector.com/342/Origin-Palkia-VSTAR.S10P.23.43228.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "23/67"
+    },
+    {
+      "name": "Bergmite",
+      "set": "Space Juggler",
+      "img": "https://den-cards.pokellector.com/342/Bergmite.S10P.24.43378.png",
+      "rarity": "Common",
+      "cardNum": "24/67"
+    },
+    {
+      "name": "Hisuian Avalugg",
+      "set": "Space Juggler",
+      "img": "https://den-cards.pokellector.com/342/Hisuian-Avalugg.S10P.25.43379.png",
+      "rarity": "Uncommon",
+      "cardNum": "25/67"
+    },
+    {
+      "name": "Togepi",
+      "set": "Space Juggler",
+      "img": "https://den-cards.pokellector.com/342/Togepi.S10P.26.43332.png",
+      "rarity": "Common",
+      "cardNum": "26/67"
+    },
+    {
+      "name": "Togetic",
+      "set": "Space Juggler",
+      "img": "https://den-cards.pokellector.com/342/Togetic.S10P.27.43333.png",
+      "rarity": "Uncommon",
+      "cardNum": "27/67"
+    },
+    {
+      "name": "Togekiss",
+      "set": "Space Juggler",
+      "img": "https://den-cards.pokellector.com/342/Togekiss.S10P.28.43335.png",
+      "rarity": "Rare",
+      "cardNum": "28/67"
+    },
+    {
+      "name": "Uxie",
+      "set": "Space Juggler",
+      "img": "https://den-cards.pokellector.com/342/Uxie.S10P.29.43274.png",
+      "rarity": "Common",
+      "cardNum": "29/67"
+    },
+    {
+      "name": "Mesprit",
+      "set": "Space Juggler",
+      "img": "https://den-cards.pokellector.com/342/Mesprit.S10P.30.43275.png",
+      "rarity": "Rare",
+      "cardNum": "30/67"
+    },
+    {
+      "name": "Azelf",
+      "set": "Space Juggler",
+      "img": "https://den-cards.pokellector.com/342/Azelf.S10P.31.43276.png",
+      "rarity": "Common",
+      "cardNum": "31/67"
+    },
+    {
+      "name": "Inkay",
+      "set": "Space Juggler",
+      "img": "https://den-cards.pokellector.com/342/Inkay.S10P.32.43380.png",
+      "rarity": "Common",
+      "cardNum": "32/67"
+    },
+    {
+      "name": "Malamar",
+      "set": "Space Juggler",
+      "img": "https://den-cards.pokellector.com/342/Malamar.S10P.33.43381.png",
+      "rarity": "Uncommon",
+      "cardNum": "33/67"
+    },
+    {
+      "name": "Makuhita",
+      "set": "Space Juggler",
+      "img": "https://den-cards.pokellector.com/342/Makuhita.S10P.34.43382.png",
+      "rarity": "Common",
+      "cardNum": "34/67"
+    },
+    {
+      "name": "Hariyama",
+      "set": "Space Juggler",
+      "img": "https://den-cards.pokellector.com/342/Hariyama.S10P.35.43383.png",
+      "rarity": "Uncommon",
+      "cardNum": "35/67"
+    },
+    {
+      "name": "Regirock",
+      "set": "Space Juggler",
+      "img": "https://den-cards.pokellector.com/342/Regirock.S10P.36.43280.png",
+      "rarity": "Uncommon",
+      "cardNum": "36/67"
+    },
+    {
+      "name": "Gastrodon",
+      "set": "Space Juggler",
+      "img": "https://den-cards.pokellector.com/342/Gastrodon.S10P.37.43384.png",
+      "rarity": "Common",
+      "cardNum": "37/67"
+    },
+    {
+      "name": "Carbink",
+      "set": "Space Juggler",
+      "img": "https://den-cards.pokellector.com/342/Carbink.S10P.38.43385.png",
+      "rarity": "Common",
+      "cardNum": "38/67"
+    },
+    {
+      "name": "Hisuian Decidueye",
+      "set": "Space Juggler",
+      "img": "https://den-cards.pokellector.com/342/Hisuian-Decidueye.S10P.39.43230.png",
+      "rarity": "Rare",
+      "cardNum": "39/67"
+    },
+    {
+      "name": "Kleavor V",
+      "set": "Space Juggler",
+      "img": "https://den-cards.pokellector.com/342/Kleavor-V.S10P.40.43320.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "40/67"
+    },
+    {
+      "name": "Kleavor VSTAR",
+      "set": "Space Juggler",
+      "img": "https://den-cards.pokellector.com/342/Kleavor-VSTAR.S10P.41.43315.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "41/67"
+    },
+    {
+      "name": "Hisuian Sneasel",
+      "set": "Space Juggler",
+      "img": "https://den-cards.pokellector.com/342/Hisuian-Sneasel.S10P.42.43386.png",
+      "rarity": "Common",
+      "cardNum": "42/67"
+    },
+    {
+      "name": "Hisuian Sneasler",
+      "set": "Space Juggler",
+      "img": "https://den-cards.pokellector.com/342/Hisuian-Sneasler.S10P.43.43387.png",
+      "rarity": "Rare",
+      "cardNum": "43/67"
+    },
+    {
+      "name": "Hisuian Sneasler V",
+      "set": "Space Juggler",
+      "img": "https://den-cards.pokellector.com/342/Hisuian-Sneasler-V.S10P.44.43302.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "44/67"
+    },
+    {
+      "name": "Darkrai",
+      "set": "Space Juggler",
+      "img": "https://den-cards.pokellector.com/342/Darkrai.S10P.45.43388.png",
+      "rarity": "Rare",
+      "cardNum": "45/67"
+    },
+    {
+      "name": "Shieldon",
+      "set": "Space Juggler",
+      "img": "https://den-cards.pokellector.com/342/Shieldon.S10P.46.43234.png",
+      "rarity": "Uncommon",
+      "cardNum": "46/67"
+    },
+    {
+      "name": "Bastiodon",
+      "set": "Space Juggler",
+      "img": "https://den-cards.pokellector.com/342/Bastiodon.S10P.47.43233.png",
+      "rarity": "Rare",
+      "cardNum": "47/67"
+    },
+    {
+      "name": "Bronzor",
+      "set": "Space Juggler",
+      "img": "https://den-cards.pokellector.com/342/Bronzor.S10P.48.43389.png",
+      "rarity": "Common",
+      "cardNum": "48/67"
+    },
+    {
+      "name": "Bronzong",
+      "set": "Space Juggler",
+      "img": "https://den-cards.pokellector.com/342/Bronzong.S10P.49.43390.png",
+      "rarity": "Uncommon",
+      "cardNum": "49/67"
+    },
+    {
+      "name": "Magearna",
+      "set": "Space Juggler",
+      "img": "https://den-cards.pokellector.com/342/Magearna.S10P.50.43391.png",
+      "rarity": "Uncommon",
+      "cardNum": "50/67"
+    },
+    {
+      "name": "Regidrago",
+      "set": "Space Juggler",
+      "img": "https://den-cards.pokellector.com/342/Regidrago.S10P.51.43283.png",
+      "rarity": "Uncommon",
+      "cardNum": "51/67"
+    },
+    {
+      "name": "Lickitung",
+      "set": "Space Juggler",
+      "img": "https://den-cards.pokellector.com/342/Lickitung.S10P.52.43392.png",
+      "rarity": "Common",
+      "cardNum": "52/67"
+    },
+    {
+      "name": "Lickilicky",
+      "set": "Space Juggler",
+      "img": "https://den-cards.pokellector.com/342/Lickilicky.S10P.53.43393.png",
+      "rarity": "Uncommon",
+      "cardNum": "53/67"
+    },
+    {
+      "name": "Eevee",
+      "set": "Space Juggler",
+      "img": "https://den-cards.pokellector.com/342/Eevee.S10P.54.43394.png",
+      "rarity": "Common",
+      "cardNum": "54/67"
+    },
+    {
+      "name": "Teddiursa",
+      "set": "Space Juggler",
+      "img": "https://den-cards.pokellector.com/342/Teddiursa.S10P.55.43395.png",
+      "rarity": "Common",
+      "cardNum": "55/67"
+    },
+    {
+      "name": "Ursaring",
+      "set": "Space Juggler",
+      "img": "https://den-cards.pokellector.com/342/Ursaring.S10P.56.43396.png",
+      "rarity": "Common",
+      "cardNum": "56/67"
+    },
+    {
+      "name": "Ursaluna",
+      "set": "Space Juggler",
+      "img": "https://den-cards.pokellector.com/342/Ursaluna.S10P.57.43397.png",
+      "rarity": "Uncommon",
+      "cardNum": "57/67"
+    },
+    {
+      "name": "Oranguru V",
+      "set": "Space Juggler",
+      "img": "https://den-cards.pokellector.com/342/Oranguru-V.S10P.58.43398.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "58/67"
+    },
+    {
+      "name": "Komala",
+      "set": "Space Juggler",
+      "img": "https://den-cards.pokellector.com/342/Komala.S10P.59.43399.png",
+      "rarity": "Common",
+      "cardNum": "59/67"
+    },
+    {
+      "name": "Energy Loto",
+      "set": "Space Juggler",
+      "img": "https://den-cards.pokellector.com/342/Energy-Loto.S10P.60.43308.png",
+      "rarity": "Uncommon",
+      "cardNum": "60/67"
+    },
+    {
+      "name": "Unidentified Fossil",
+      "set": "Space Juggler",
+      "img": "https://den-cards.pokellector.com/342/Unidentified-Fossil.S10P.61.43235.png",
+      "rarity": "Common",
+      "cardNum": "61/67"
+    },
+    {
+      "name": "Hisuian Heavy Ball",
+      "set": "Space Juggler",
+      "img": "https://den-cards.pokellector.com/342/Hisuian-Heavy-Ball.S10P.62.43257.png",
+      "rarity": "Uncommon",
+      "cardNum": "62/67"
+    },
+    {
+      "name": "Super Effective Glasses",
+      "set": "Space Juggler",
+      "img": "https://den-cards.pokellector.com/342/Super-Effective-Glasses.S10P.63.43400.png",
+      "rarity": "Uncommon",
+      "cardNum": "63/67"
+    },
+    {
+      "name": "Iridia",
+      "set": "Space Juggler",
+      "img": "https://den-cards.pokellector.com/342/Iridia.S10P.64.43229.png",
+      "rarity": "Rare",
+      "cardNum": "64/67"
+    },
+    {
+      "name": "Grant",
+      "set": "Space Juggler",
+      "img": "https://den-cards.pokellector.com/342/Grant.S10P.65.43326.png",
+      "rarity": "Uncommon",
+      "cardNum": "65/67"
+    },
+    {
+      "name": "Choy",
+      "set": "Space Juggler",
+      "img": "https://den-cards.pokellector.com/342/Choy.S10P.66.43401.png",
+      "rarity": "Uncommon",
+      "cardNum": "66/67"
+    },
+    {
+      "name": "Temple of Sinnoh",
+      "set": "Space Juggler",
+      "img": "https://den-cards.pokellector.com/342/Temple-of-Sinnoh.S10P.67.43273.png",
+      "rarity": "Uncommon",
+      "cardNum": "67/67"
+    },
+    {
+      "name": "Beedrill V",
+      "set": "Space Juggler",
+      "img": "https://den-cards.pokellector.com/342/Beedrill-V.S10P.68.43423.png",
+      "rarity": "Secret Rare",
+      "cardNum": "68/67"
+    },
+    {
+      "name": "Beedrill V",
+      "set": "Space Juggler",
+      "img": "https://den-cards.pokellector.com/342/Beedrill-V.S10P.69.43424.png",
+      "rarity": "Secret Rare",
+      "cardNum": "69/67"
+    },
+    {
+      "name": "Origin Palkia V",
+      "set": "Space Juggler",
+      "img": "https://den-cards.pokellector.com/342/Origin-Palkia-V.S10P.70.43425.png",
+      "rarity": "Secret Rare",
+      "cardNum": "70/67"
+    },
+    {
+      "name": "Origin Palkia V",
+      "set": "Space Juggler",
+      "img": "https://den-cards.pokellector.com/342/Origin-Palkia-V.S10P.71.43426.png",
+      "rarity": "Secret Rare",
+      "cardNum": "71/67"
+    },
+    {
+      "name": "Heatran V",
+      "set": "Space Juggler",
+      "img": "https://den-cards.pokellector.com/342/Heatran-V.S10P.72.43427.png",
+      "rarity": "Secret Rare",
+      "cardNum": "72/67"
+    },
+    {
+      "name": "Kleavor V",
+      "set": "Space Juggler",
+      "img": "https://den-cards.pokellector.com/342/Kleavor-V.S10P.73.43428.png",
+      "rarity": "Secret Rare",
+      "cardNum": "73/67"
+    },
+    {
+      "name": "Hisuian Sneasler V",
+      "set": "Space Juggler",
+      "img": "https://den-cards.pokellector.com/342/Hisuian-Sneasler-V.S10P.74.43429.png",
+      "rarity": "Secret Rare",
+      "cardNum": "74/67"
+    },
+    {
+      "name": "Hisuian Sneasler V",
+      "set": "Space Juggler",
+      "img": "https://den-cards.pokellector.com/342/Hisuian-Sneasler-V.S10P.75.43430.png",
+      "rarity": "Secret Rare",
+      "cardNum": "75/67"
+    },
+    {
+      "name": "Oranguru V",
+      "set": "Space Juggler",
+      "img": "https://den-cards.pokellector.com/342/Oranguru-V.S10P.76.43431.png",
+      "rarity": "Secret Rare",
+      "cardNum": "76/67"
+    },
+    {
+      "name": "Irida",
+      "set": "Space Juggler",
+      "img": "https://den-cards.pokellector.com/342/Irida.S10P.77.43432.png",
+      "rarity": "Secret Rare",
+      "cardNum": "77/67"
+    },
+    {
+      "name": "Grant",
+      "set": "Space Juggler",
+      "img": "https://den-cards.pokellector.com/342/Grant.S10P.78.43433.png",
+      "rarity": "Secret Rare",
+      "cardNum": "78/67"
+    },
+    {
+      "name": "Choy",
+      "set": "Space Juggler",
+      "img": "https://den-cards.pokellector.com/342/Choy.S10P.79.43434.png",
+      "rarity": "Secret Rare",
+      "cardNum": "79/67"
+    },
+    {
+      "name": "Heatran VMAX",
+      "set": "Space Juggler",
+      "img": "https://den-cards.pokellector.com/342/Heatran-VMAX.S10P.80.43435.png",
+      "rarity": "Secret Rare",
+      "cardNum": "80/67"
+    },
+    {
+      "name": "Origin Palkia VSTAR",
+      "set": "Space Juggler",
+      "img": "https://den-cards.pokellector.com/342/Origin-Palkia-VSTAR.S10P.81.43436.png",
+      "rarity": "Secret Rare",
+      "cardNum": "81/67"
+    },
+    {
+      "name": "Kleavor VSTAR",
+      "set": "Space Juggler",
+      "img": "https://den-cards.pokellector.com/342/Kleavor-VSTAR.S10P.82.43437.png",
+      "rarity": "Secret Rare",
+      "cardNum": "82/67"
+    },
+    {
+      "name": "Irida",
+      "set": "Space Juggler",
+      "img": "https://den-cards.pokellector.com/342/Irida.S10P.83.43438.png",
+      "rarity": "Secret Rare",
+      "cardNum": "83/67"
+    },
+    {
+      "name": "Grant",
+      "set": "Space Juggler",
+      "img": "https://den-cards.pokellector.com/342/Grant.S10P.84.43439.png",
+      "rarity": "Secret Rare",
+      "cardNum": "84/67"
+    },
+    {
+      "name": "Choy",
+      "set": "Space Juggler",
+      "img": "https://den-cards.pokellector.com/342/Choy.S10P.85.43440.png",
+      "rarity": "Secret Rare",
+      "cardNum": "85/67"
+    },
+    {
+      "name": "Origin Palkia VSTAR",
+      "set": "Space Juggler",
+      "img": "https://den-cards.pokellector.com/342/Origin-Palkia-VSTAR.S10P.86.43441.png",
+      "rarity": "Secret Rare",
+      "cardNum": "86/67"
+    },
+    {
+      "name": "Temple of Sinnoh",
+      "set": "Space Juggler",
+      "img": "https://den-cards.pokellector.com/342/Temple-of-Sinnoh.S10P.87.43442.png",
+      "rarity": "Secret Rare",
+      "cardNum": "87/67"
+    },
+    {
+      "name": "Double Turbo Energy",
+      "set": "Space Juggler",
+      "img": "https://den-cards.pokellector.com/342/Double-Turbo-Energy.S10P.88.43443.png",
+      "rarity": "Secret Rare",
+      "cardNum": "88/67"
+    }
+  ]
+}

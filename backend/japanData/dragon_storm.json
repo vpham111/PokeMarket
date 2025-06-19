@@ -1,0 +1,467 @@
+{
+  "setName": "Dragon Storm",
+  "cards": [
+    {
+      "name": "Charmander",
+      "set": "Dragon Storm",
+      "img": "https://den-cards.pokellector.com/236/Charmander.SM6A.1.20638.png",
+      "rarity": "Common",
+      "cardNum": "1/53"
+    },
+    {
+      "name": "Charmeleon",
+      "set": "Dragon Storm",
+      "img": "https://den-cards.pokellector.com/236/Charmeleon.SM6A.2.20641.png",
+      "rarity": "Uncommon",
+      "cardNum": "2/53"
+    },
+    {
+      "name": "Charizard",
+      "set": "Dragon Storm",
+      "img": "https://den-cards.pokellector.com/236/Charizard.SM6A.3.20593.png",
+      "rarity": "Rare",
+      "cardNum": "3/53"
+    },
+    {
+      "name": "Victini Prism Star",
+      "set": "Dragon Storm",
+      "img": "https://den-cards.pokellector.com/236/Victini-Prism-Star.SM6A.4.20628.png",
+      "rarity": "Prism Star",
+      "cardNum": "4/53"
+    },
+    {
+      "name": "Darumaka",
+      "set": "Dragon Storm",
+      "img": "https://den-cards.pokellector.com/236/Darumaka.SM6A.5.20642.png",
+      "rarity": "Common",
+      "cardNum": "5/53"
+    },
+    {
+      "name": "Darmanitan",
+      "set": "Dragon Storm",
+      "img": "https://den-cards.pokellector.com/236/Darmanitan.SM6A.6.20643.png",
+      "rarity": "Common",
+      "cardNum": "6/53"
+    },
+    {
+      "name": "Heatmor",
+      "set": "Dragon Storm",
+      "img": "https://den-cards.pokellector.com/236/Heatmor.SM6A.7.20644.png",
+      "rarity": "Common",
+      "cardNum": "7/53"
+    },
+    {
+      "name": "Reshiram GX",
+      "set": "Dragon Storm",
+      "img": "https://den-cards.pokellector.com/236/Reshiram-GX.SM6A.8.20623.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "8/53"
+    },
+    {
+      "name": "Salandit",
+      "set": "Dragon Storm",
+      "img": "https://den-cards.pokellector.com/236/Salandit.SM6A.9.20645.png",
+      "rarity": "Common",
+      "cardNum": "9/53"
+    },
+    {
+      "name": "Salazzle",
+      "set": "Dragon Storm",
+      "img": "https://den-cards.pokellector.com/236/Salazzle.SM6A.10.20646.png",
+      "rarity": "Common",
+      "cardNum": "10/53"
+    },
+    {
+      "name": "Horsea",
+      "set": "Dragon Storm",
+      "img": "https://den-cards.pokellector.com/236/Horsea.SM6A.11.20647.png",
+      "rarity": "Common",
+      "cardNum": "11/53"
+    },
+    {
+      "name": "Horsea",
+      "set": "Dragon Storm",
+      "img": "https://den-cards.pokellector.com/236/Horsea.SM6A.12.20648.png",
+      "rarity": "Common",
+      "cardNum": "12/53"
+    },
+    {
+      "name": "Seadra",
+      "set": "Dragon Storm",
+      "img": "https://den-cards.pokellector.com/236/Seadra.SM6A.13.20649.png",
+      "rarity": "Common",
+      "cardNum": "13/53"
+    },
+    {
+      "name": "Kingdra GX",
+      "set": "Dragon Storm",
+      "img": "https://den-cards.pokellector.com/236/Kingdra-GX.SM6A.14.20627.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "14/53"
+    },
+    {
+      "name": "Magikarp",
+      "set": "Dragon Storm",
+      "img": "https://den-cards.pokellector.com/236/Magikarp.SM6A.15.20650.png",
+      "rarity": "Common",
+      "cardNum": "15/53"
+    },
+    {
+      "name": "Gyarados",
+      "set": "Dragon Storm",
+      "img": "https://den-cards.pokellector.com/236/Gyarados.SM6A.16.20651.png",
+      "rarity": "Rare",
+      "cardNum": "16/53"
+    },
+    {
+      "name": "Lapras",
+      "set": "Dragon Storm",
+      "img": "https://den-cards.pokellector.com/236/Lapras.SM6A.17.20652.png",
+      "rarity": "Common",
+      "cardNum": "17/53"
+    },
+    {
+      "name": "Wooper",
+      "set": "Dragon Storm",
+      "img": "https://den-cards.pokellector.com/236/Wooper.SM6A.18.20653.png",
+      "rarity": "Common",
+      "cardNum": "18/53"
+    },
+    {
+      "name": "Quagsire",
+      "set": "Dragon Storm",
+      "img": "https://den-cards.pokellector.com/236/Quagsire.SM6A.19.20626.png",
+      "rarity": "Uncommon",
+      "cardNum": "19/53"
+    },
+    {
+      "name": "Corsola",
+      "set": "Dragon Storm",
+      "img": "https://den-cards.pokellector.com/236/Corsola.SM6A.20.20654.png",
+      "rarity": "Common",
+      "cardNum": "20/53"
+    },
+    {
+      "name": "Feebas",
+      "set": "Dragon Storm",
+      "img": "https://den-cards.pokellector.com/236/Feebas.SM6A.21.20655.png",
+      "rarity": "Common",
+      "cardNum": "21/53"
+    },
+    {
+      "name": "Milotic",
+      "set": "Dragon Storm",
+      "img": "https://den-cards.pokellector.com/236/Milotic.SM6A.22.20656.png",
+      "rarity": "Uncommon",
+      "cardNum": "22/53"
+    },
+    {
+      "name": "Wishiwashi",
+      "set": "Dragon Storm",
+      "img": "https://den-cards.pokellector.com/236/Wishiwashi.SM6A.23.20637.png",
+      "rarity": "Common",
+      "cardNum": "23/53"
+    },
+    {
+      "name": "Trapinch",
+      "set": "Dragon Storm",
+      "img": "https://den-cards.pokellector.com/236/Trapinch.SM6A.24.20657.png",
+      "rarity": "Common",
+      "cardNum": "24/53"
+    },
+    {
+      "name": "Dratini",
+      "set": "Dragon Storm",
+      "img": "https://den-cards.pokellector.com/236/Dratini.SM6A.25.20658.png",
+      "rarity": "Common",
+      "cardNum": "25/53"
+    },
+    {
+      "name": "Dratini",
+      "set": "Dragon Storm",
+      "img": "https://den-cards.pokellector.com/236/Dratini.SM6A.26.20659.png",
+      "rarity": "Common",
+      "cardNum": "26/53"
+    },
+    {
+      "name": "Dragonair",
+      "set": "Dragon Storm",
+      "img": "https://den-cards.pokellector.com/236/Dragonair.SM6A.27.20660.png",
+      "rarity": "Common",
+      "cardNum": "27/53"
+    },
+    {
+      "name": "Dragonite GX",
+      "set": "Dragon Storm",
+      "img": "https://den-cards.pokellector.com/236/Dragonite-GX.SM6A.28.20572.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "28/53"
+    },
+    {
+      "name": "Vibrava",
+      "set": "Dragon Storm",
+      "img": "https://den-cards.pokellector.com/236/Vibrava.SM6A.29.20661.png",
+      "rarity": "Common",
+      "cardNum": "29/53"
+    },
+    {
+      "name": "Flygon",
+      "set": "Dragon Storm",
+      "img": "https://den-cards.pokellector.com/236/Flygon.SM6A.30.20625.png",
+      "rarity": "Uncommon",
+      "cardNum": "30/53"
+    },
+    {
+      "name": "Altaria",
+      "set": "Dragon Storm",
+      "img": "https://den-cards.pokellector.com/236/Altaria.SM6A.31.20573.png",
+      "rarity": "Rare",
+      "cardNum": "31/53"
+    },
+    {
+      "name": "Druddigon",
+      "set": "Dragon Storm",
+      "img": "https://den-cards.pokellector.com/236/Druddigon.SM6A.32.20581.png",
+      "rarity": "Uncommon",
+      "cardNum": "32/53"
+    },
+    {
+      "name": "Zekrom",
+      "set": "Dragon Storm",
+      "img": "https://den-cards.pokellector.com/236/Zekrom.SM6A.33.20662.png",
+      "rarity": "Rare",
+      "cardNum": "33/53"
+    },
+    {
+      "name": "Kyurem",
+      "set": "Dragon Storm",
+      "img": "https://den-cards.pokellector.com/236/Kyurem.SM6A.34.20663.png",
+      "rarity": "Rare",
+      "cardNum": "34/53"
+    },
+    {
+      "name": "White Kyurem GX",
+      "set": "Dragon Storm",
+      "img": "https://den-cards.pokellector.com/236/White-Kyurem-GX.SM6A.35.20574.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "35/53"
+    },
+    {
+      "name": "Zygarde",
+      "set": "Dragon Storm",
+      "img": "https://den-cards.pokellector.com/236/Zygarde.SM6A.36.20664.png",
+      "rarity": "Uncommon",
+      "cardNum": "36/53"
+    },
+    {
+      "name": "Turtonator",
+      "set": "Dragon Storm",
+      "img": "https://den-cards.pokellector.com/236/Turtonator.SM6A.37.20665.png",
+      "rarity": "Uncommon",
+      "cardNum": "37/53"
+    },
+    {
+      "name": "Drampa",
+      "set": "Dragon Storm",
+      "img": "https://den-cards.pokellector.com/236/Drampa.SM6A.38.20666.png",
+      "rarity": "Uncommon",
+      "cardNum": "38/53"
+    },
+    {
+      "name": "Jangmo-o",
+      "set": "Dragon Storm",
+      "img": "https://den-cards.pokellector.com/236/Jangmo-o.SM6A.39.20667.png",
+      "rarity": "Common",
+      "cardNum": "39/53"
+    },
+    {
+      "name": "Hakamo-o",
+      "set": "Dragon Storm",
+      "img": "https://den-cards.pokellector.com/236/Hakamo-o.SM6A.40.20668.png",
+      "rarity": "Common",
+      "cardNum": "40/53"
+    },
+    {
+      "name": "Kommo-o",
+      "set": "Dragon Storm",
+      "img": "https://den-cards.pokellector.com/236/Kommo-o.SM6A.41.20669.png",
+      "rarity": "Rare",
+      "cardNum": "41/53"
+    },
+    {
+      "name": "Swablu",
+      "set": "Dragon Storm",
+      "img": "https://den-cards.pokellector.com/236/Swablu.SM6A.42.20670.png",
+      "rarity": "Common",
+      "cardNum": "42/53"
+    },
+    {
+      "name": "Aqua Patch",
+      "set": "Dragon Storm",
+      "img": "https://den-cards.pokellector.com/236/Aqua-Patch.SM6A.43.20671.png",
+      "rarity": "Uncommon",
+      "cardNum": "43/53"
+    },
+    {
+      "name": "Switch Float",
+      "set": "Dragon Storm",
+      "img": "https://den-cards.pokellector.com/236/Switch-Float.SM6A.44.20672.png",
+      "rarity": "Uncommon",
+      "cardNum": "44/53"
+    },
+    {
+      "name": "Flint",
+      "set": "Dragon Storm",
+      "img": "https://den-cards.pokellector.com/236/Flint.SM6A.45.20673.png",
+      "rarity": "Uncommon",
+      "cardNum": "45/53"
+    },
+    {
+      "name": "Dragon's Talon",
+      "set": "Dragon Storm",
+      "img": "https://den-cards.pokellector.com/236/Dragons-Talon.SM6A.46.20582.png",
+      "rarity": "Common",
+      "cardNum": "46/53"
+    },
+    {
+      "name": "Kiawe",
+      "set": "Dragon Storm",
+      "img": "https://den-cards.pokellector.com/236/Kiawe.SM6A.47.20674.png",
+      "rarity": "Uncommon",
+      "cardNum": "47/53"
+    },
+    {
+      "name": "Blaine's Explosive Battle",
+      "set": "Dragon Storm",
+      "img": "https://den-cards.pokellector.com/236/Blaines-Explosive-Battle.SM6A.48.20624.png",
+      "rarity": "Rare",
+      "cardNum": "48/53"
+    },
+    {
+      "name": "Zinnia",
+      "set": "Dragon Storm",
+      "img": "https://den-cards.pokellector.com/236/Zinnia.SM6A.49.20575.png",
+      "rarity": "Uncommon",
+      "cardNum": "49/53"
+    },
+    {
+      "name": "Lance Prism Star",
+      "set": "Dragon Storm",
+      "img": "https://den-cards.pokellector.com/236/Lance-Prism-Star.SM6A.50.20594.png",
+      "rarity": "Prism Star",
+      "cardNum": "50/53"
+    },
+    {
+      "name": "Wela Volcano Park",
+      "set": "Dragon Storm",
+      "img": "https://den-cards.pokellector.com/236/Wela-Volcano-Park.SM6A.51.20675.png",
+      "rarity": "Uncommon",
+      "cardNum": "51/53"
+    },
+    {
+      "name": "Devoured Field",
+      "set": "Dragon Storm",
+      "img": "https://den-cards.pokellector.com/236/Devoured-Field.SM6A.52.20676.png",
+      "rarity": "Uncommon",
+      "cardNum": "52/53"
+    },
+    {
+      "name": "Brooklet Hill",
+      "set": "Dragon Storm",
+      "img": "https://den-cards.pokellector.com/236/Brooklet-Hill.SM6A.53.20677.png",
+      "rarity": "Uncommon",
+      "cardNum": "53/53"
+    },
+    {
+      "name": "Reshiram GX",
+      "set": "Dragon Storm",
+      "img": "https://den-cards.pokellector.com/236/Reshiram-GX.SM6A.54.20678.png",
+      "rarity": "Secret Rare",
+      "cardNum": "54/53"
+    },
+    {
+      "name": "Kingdra GX",
+      "set": "Dragon Storm",
+      "img": "https://den-cards.pokellector.com/236/Kingdra-GX.SM6A.55.20679.png",
+      "rarity": "Secret Rare",
+      "cardNum": "55/53"
+    },
+    {
+      "name": "Dragonite GX",
+      "set": "Dragon Storm",
+      "img": "https://den-cards.pokellector.com/236/Dragonite-GX.SM6A.56.20680.png",
+      "rarity": "Secret Rare",
+      "cardNum": "56/53"
+    },
+    {
+      "name": "White Kyurem GX",
+      "set": "Dragon Storm",
+      "img": "https://den-cards.pokellector.com/236/White-Kyurem-GX.SM6A.57.20681.png",
+      "rarity": "Secret Rare",
+      "cardNum": "57/53"
+    },
+    {
+      "name": "Blaine's Explosive Battle",
+      "set": "Dragon Storm",
+      "img": "https://den-cards.pokellector.com/236/Blaines-Explosive-Battle.SM6A.58.20640.png",
+      "rarity": "Secret Rare",
+      "cardNum": "58/53"
+    },
+    {
+      "name": "Zinnia",
+      "set": "Dragon Storm",
+      "img": "https://den-cards.pokellector.com/236/Zinnia.SM6A.59.20639.png",
+      "rarity": "Secret Rare",
+      "cardNum": "59/53"
+    },
+    {
+      "name": "Reshiram GX",
+      "set": "Dragon Storm",
+      "img": "https://den-cards.pokellector.com/236/Reshiram-GX.SM6A.60.20685.png",
+      "rarity": "Secret Rare",
+      "cardNum": "60/53"
+    },
+    {
+      "name": "Kingdra GX",
+      "set": "Dragon Storm",
+      "img": "https://den-cards.pokellector.com/236/Kingdra-GX.SM6A.61.20686.png",
+      "rarity": "Secret Rare",
+      "cardNum": "61/53"
+    },
+    {
+      "name": "Dragonite GX",
+      "set": "Dragon Storm",
+      "img": "https://den-cards.pokellector.com/236/Dragonite-GX.SM6A.62.20687.png",
+      "rarity": "Secret Rare",
+      "cardNum": "62/53"
+    },
+    {
+      "name": "White Kyurem GX",
+      "set": "Dragon Storm",
+      "img": "https://den-cards.pokellector.com/236/White-Kyurem-GX.SM6A.63.20688.png",
+      "rarity": "Secret Rare",
+      "cardNum": "63/53"
+    },
+    {
+      "name": "Switch Buoy",
+      "set": "Dragon Storm",
+      "img": "https://den-cards.pokellector.com/236/Switch-Buoy.SM6A.64.20689.png",
+      "rarity": "Secret Rare",
+      "cardNum": "64/53"
+    },
+    {
+      "name": "Flint",
+      "set": "Dragon Storm",
+      "img": "https://den-cards.pokellector.com/236/Flint.SM6A.65.20690.png",
+      "rarity": "Secret Rare",
+      "cardNum": "65/53"
+    },
+    {
+      "name": "Dragon's Talon",
+      "set": "Dragon Storm",
+      "img": "https://den-cards.pokellector.com/236/Dragons-Talon.SM6A.66.20691.png",
+      "rarity": "Secret Rare",
+      "cardNum": "66/53"
+    }
+  ]
+}

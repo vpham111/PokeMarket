@@ -1,0 +1,96 @@
+{
+  "setName": "Rockruff Full Power Deck",
+  "cards": [
+    {
+      "name": "Litten",
+      "set": "Rockruff Full Power Deck",
+      "img": "https://den-cards.pokellector.com/206/Litten.SMP1.1.13917.png",
+      "rarity": "Common",
+      "cardNum": "1/13"
+    },
+    {
+      "name": "Turtonator",
+      "set": "Rockruff Full Power Deck",
+      "img": "https://den-cards.pokellector.com/206/Turtonator.SMP1.2.13918.png",
+      "rarity": "Common",
+      "cardNum": "2/13"
+    },
+    {
+      "name": "Carvanha",
+      "set": "Rockruff Full Power Deck",
+      "img": "https://den-cards.pokellector.com/206/Carvanha.SMP1.3.13919.png",
+      "rarity": "Common",
+      "cardNum": "3/13"
+    },
+    {
+      "name": "Sharpedo",
+      "set": "Rockruff Full Power Deck",
+      "img": "https://den-cards.pokellector.com/206/Sharpedo.SMP1.4.13920.png",
+      "rarity": "Common",
+      "cardNum": "4/13"
+    },
+    {
+      "name": "Mareanie",
+      "set": "Rockruff Full Power Deck",
+      "img": "https://den-cards.pokellector.com/206/Mareanie.SMP1.5.13921.png",
+      "rarity": "Common",
+      "cardNum": "5/13"
+    },
+    {
+      "name": "Machop",
+      "set": "Rockruff Full Power Deck",
+      "img": "https://den-cards.pokellector.com/206/Machop.SMP1.6.13922.png",
+      "rarity": "Common",
+      "cardNum": "6/13"
+    },
+    {
+      "name": "Zygarde",
+      "set": "Rockruff Full Power Deck",
+      "img": "https://den-cards.pokellector.com/206/Zygarde.SMP1.7.13471.png",
+      "rarity": "Common",
+      "cardNum": "7/13"
+    },
+    {
+      "name": "Rockruff",
+      "set": "Rockruff Full Power Deck",
+      "img": "https://den-cards.pokellector.com/206/Rockruff.SMP1.8.13296.png",
+      "rarity": "Common",
+      "cardNum": "8/13"
+    },
+    {
+      "name": "Lycanroc GX",
+      "set": "Rockruff Full Power Deck",
+      "img": "https://den-cards.pokellector.com/206/Lycanroc-GX.SMP1.9.13295.png",
+      "rarity": "Common",
+      "cardNum": "9/13"
+    },
+    {
+      "name": "Rayquaza",
+      "set": "Rockruff Full Power Deck",
+      "img": "https://den-cards.pokellector.com/206/Rayquaza.SMP1.10.13472.png",
+      "rarity": "Common",
+      "cardNum": "10/13"
+    },
+    {
+      "name": "Pikipek",
+      "set": "Rockruff Full Power Deck",
+      "img": "https://den-cards.pokellector.com/206/Pikipek.SMP1.11.13923.png",
+      "rarity": "Common",
+      "cardNum": "11/13"
+    },
+    {
+      "name": "Stufful",
+      "set": "Rockruff Full Power Deck",
+      "img": "https://den-cards.pokellector.com/206/Stufful.SMP1.12.13924.png",
+      "rarity": "Common",
+      "cardNum": "12/13"
+    },
+    {
+      "name": "Bewear",
+      "set": "Rockruff Full Power Deck",
+      "img": "https://den-cards.pokellector.com/206/Bewear.SMP1.13.13925.png",
+      "rarity": "Common",
+      "cardNum": "13/13"
+    }
+  ]
+}

@@ -1,0 +1,180 @@
+{
+  "setName": "Radiant Collection",
+  "cards": [
+    {
+      "name": "Snivy",
+      "set": "Radiant Collection",
+      "img": "https://den-cards.pokellector.com/148/Snivy.RC.1.png",
+      "rarity": "Common",
+      "cardNum": "1/25"
+    },
+    {
+      "name": "Servine",
+      "set": "Radiant Collection",
+      "img": "https://den-cards.pokellector.com/148/Servine.RC.2.png",
+      "rarity": "Common",
+      "cardNum": "2/25"
+    },
+    {
+      "name": "Serperior",
+      "set": "Radiant Collection",
+      "img": "https://den-cards.pokellector.com/148/Serperior.RC.3.png",
+      "rarity": "Uncommon",
+      "cardNum": "3/25"
+    },
+    {
+      "name": "Growlithe",
+      "set": "Radiant Collection",
+      "img": "https://den-cards.pokellector.com/148/Growlithe.RC.4.png",
+      "rarity": "Uncommon",
+      "cardNum": "4/25"
+    },
+    {
+      "name": "Torchic",
+      "set": "Radiant Collection",
+      "img": "https://den-cards.pokellector.com/148/Torchic.RC.5.png",
+      "rarity": "Common",
+      "cardNum": "5/25"
+    },
+    {
+      "name": "Piplup",
+      "set": "Radiant Collection",
+      "img": "https://den-cards.pokellector.com/148/Piplup.RC.6.png",
+      "rarity": "Uncommon",
+      "cardNum": "6/25"
+    },
+    {
+      "name": "Pikachu",
+      "set": "Radiant Collection",
+      "img": "https://den-cards.pokellector.com/148/Pikachu.RC.7.png",
+      "rarity": "Uncommon",
+      "cardNum": "7/25"
+    },
+    {
+      "name": "Ralts",
+      "set": "Radiant Collection",
+      "img": "https://den-cards.pokellector.com/148/Ralts.RC.8.png",
+      "rarity": "Common",
+      "cardNum": "8/25"
+    },
+    {
+      "name": "Kirlia",
+      "set": "Radiant Collection",
+      "img": "https://den-cards.pokellector.com/148/Kirlia.RC.9.png",
+      "rarity": "Common",
+      "cardNum": "9/25"
+    },
+    {
+      "name": "Gardevoir",
+      "set": "Radiant Collection",
+      "img": "https://den-cards.pokellector.com/148/Gardevoir.RC.10.png",
+      "rarity": "Uncommon",
+      "cardNum": "10/25"
+    },
+    {
+      "name": "Meloetta EX",
+      "set": "Radiant Collection",
+      "img": "https://den-cards.pokellector.com/148/Meloetta-EX.RC.11.png",
+      "rarity": "Rare",
+      "cardNum": "11/25"
+    },
+    {
+      "name": "Stunfisk",
+      "set": "Radiant Collection",
+      "img": "https://den-cards.pokellector.com/148/Stunfisk.RC.12.png",
+      "rarity": "Uncommon",
+      "cardNum": "12/25"
+    },
+    {
+      "name": "Purrloin",
+      "set": "Radiant Collection",
+      "img": "https://den-cards.pokellector.com/148/Purrloin.RC.13.png",
+      "rarity": "Uncommon",
+      "cardNum": "13/25"
+    },
+    {
+      "name": "Eevee",
+      "set": "Radiant Collection",
+      "img": "https://den-cards.pokellector.com/148/Eevee.RC.14.png",
+      "rarity": "Uncommon",
+      "cardNum": "14/25"
+    },
+    {
+      "name": "Teddiursa",
+      "set": "Radiant Collection",
+      "img": "https://den-cards.pokellector.com/148/Teddiursa.RC.15.png",
+      "rarity": "Common",
+      "cardNum": "15/25"
+    },
+    {
+      "name": "Ursaring",
+      "set": "Radiant Collection",
+      "img": "https://den-cards.pokellector.com/148/Ursaring.RC.16.png",
+      "rarity": "Common",
+      "cardNum": "16/25"
+    },
+    {
+      "name": "Audino",
+      "set": "Radiant Collection",
+      "img": "https://den-cards.pokellector.com/148/Audino.RC.17.png",
+      "rarity": "Common",
+      "cardNum": "17/25"
+    },
+    {
+      "name": "Minccino",
+      "set": "Radiant Collection",
+      "img": "https://den-cards.pokellector.com/148/Minccino.RC.18.png",
+      "rarity": "Common",
+      "cardNum": "18/25"
+    },
+    {
+      "name": "Cinccino",
+      "set": "Radiant Collection",
+      "img": "https://den-cards.pokellector.com/148/Cinccino.RC.19.png",
+      "rarity": "Uncommon",
+      "cardNum": "19/25"
+    },
+    {
+      "name": "Elesa",
+      "set": "Radiant Collection",
+      "img": "https://den-cards.pokellector.com/148/Elesa.RC.20.png",
+      "rarity": "Common",
+      "cardNum": "20/25"
+    },
+    {
+      "name": "Shaymin EX",
+      "set": "Radiant Collection",
+      "img": "https://den-cards.pokellector.com/148/Shaymin-EX.RC.21.png",
+      "rarity": "Rare",
+      "cardNum": "21/25"
+    },
+    {
+      "name": "Reshiram",
+      "set": "Radiant Collection",
+      "img": "https://den-cards.pokellector.com/148/Reshiram.RC.22.png",
+      "rarity": "Rare",
+      "cardNum": "22/25"
+    },
+    {
+      "name": "Emolga",
+      "set": "Radiant Collection",
+      "img": "https://den-cards.pokellector.com/148/Emolga.RC.23.png",
+      "rarity": "Rare",
+      "cardNum": "23/25"
+    },
+    {
+      "name": "Mew EX",
+      "set": "Radiant Collection",
+      "img": "https://den-cards.pokellector.com/148/Mew-EX.RC.24.png",
+      "rarity": "Rare",
+      "cardNum": "24/25"
+    },
+    {
+      "name": "Meloetta EX",
+      "set": "Radiant Collection",
+      "img": "https://den-cards.pokellector.com/148/Meloetta-EX.RC.25.png",
+      "rarity": "Rare",
+      "cardNum": "25/25"
+    }
+  ]
+}

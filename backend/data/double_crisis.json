@@ -1,0 +1,243 @@
+{
+  "setName": "Double Crisis",
+  "cards": [
+    {
+      "name": "Team Magma's Numel",
+      "set": "Double Crisis",
+      "img": "https://den-cards.pokellector.com/172/Team-Magmas-Numel.DCR.1.png",
+      "rarity": "Common",
+      "cardNum": "1/34"
+    },
+    {
+      "name": "Team Magma's Camerupt",
+      "set": "Double Crisis",
+      "img": "https://den-cards.pokellector.com/172/Team-Magmas-Camerupt.DCR.2.png",
+      "rarity": "Rare",
+      "cardNum": "2/34"
+    },
+    {
+      "name": "Team Aqua's Spheal",
+      "set": "Double Crisis",
+      "img": "https://den-cards.pokellector.com/172/Team-Aquas-Spheal.DCR.3.png",
+      "rarity": "Common",
+      "cardNum": "3/34"
+    },
+    {
+      "name": "Team Aqua's Sealeo",
+      "set": "Double Crisis",
+      "img": "https://den-cards.pokellector.com/172/Team-Aquas-Sealeo.DCR.4.png",
+      "rarity": "Common",
+      "cardNum": "4/34"
+    },
+    {
+      "name": "Team Aqua's Walrein",
+      "set": "Double Crisis",
+      "img": "https://den-cards.pokellector.com/172/Team-Aquas-Walrein.DCR.5.png",
+      "rarity": "Rare",
+      "cardNum": "5/34"
+    },
+    {
+      "name": "Team Aqua's Kyogre EX",
+      "set": "Double Crisis",
+      "img": "https://den-cards.pokellector.com/172/Team-Aquas-Kyogre.DCR.6.png",
+      "rarity": "Rare",
+      "cardNum": "6/34"
+    },
+    {
+      "name": "Team Aqua's Grimer",
+      "set": "Double Crisis",
+      "img": "https://den-cards.pokellector.com/172/Team-Aquas-Grimer.DCR.7.png",
+      "rarity": "Common",
+      "cardNum": "7/34"
+    },
+    {
+      "name": "Team Aqua's Muk",
+      "set": "Double Crisis",
+      "img": "https://den-cards.pokellector.com/172/Team-Aquas-Muk.DCR.8.png",
+      "rarity": "Rare",
+      "cardNum": "8/34"
+    },
+    {
+      "name": "Team Aqua's Seviper",
+      "set": "Double Crisis",
+      "img": "https://den-cards.pokellector.com/172/Team-Aquas-Seviper.DCR.9.png",
+      "rarity": "Common",
+      "cardNum": "9/34"
+    },
+    {
+      "name": "Team Magma's Baltoy",
+      "set": "Double Crisis",
+      "img": "https://den-cards.pokellector.com/172/Team-Magmas-Baltoy.DCR.10.png",
+      "rarity": "Common",
+      "cardNum": "10/34"
+    },
+    {
+      "name": "Team Magma's Claydol",
+      "set": "Double Crisis",
+      "img": "https://den-cards.pokellector.com/172/Team-Magmas-Claydol.DCR.11.png",
+      "rarity": "Rare",
+      "cardNum": "11/34"
+    },
+    {
+      "name": "Team Magma's Aron",
+      "set": "Double Crisis",
+      "img": "https://den-cards.pokellector.com/172/Team-Magmas-Aron.DCR.12.png",
+      "rarity": "Common",
+      "cardNum": "12/34"
+    },
+    {
+      "name": "Team Magma's Lairon",
+      "set": "Double Crisis",
+      "img": "https://den-cards.pokellector.com/172/Team-Magmas-Lairon.DCR.13.png",
+      "rarity": "Common",
+      "cardNum": "13/34"
+    },
+    {
+      "name": "Team Magma's Aggron",
+      "set": "Double Crisis",
+      "img": "https://den-cards.pokellector.com/172/Team-Magmas-Aggron.DCR.14.png",
+      "rarity": "Rare",
+      "cardNum": "14/34"
+    },
+    {
+      "name": "Team Magma's Groudon EX",
+      "set": "Double Crisis",
+      "img": "https://den-cards.pokellector.com/172/Team-Magmas-Groudon-EX.DCR.15.png",
+      "rarity": "Rare",
+      "cardNum": "15/34"
+    },
+    {
+      "name": "Team Aqua's Poochyena",
+      "set": "Double Crisis",
+      "img": "https://den-cards.pokellector.com/172/Team-Aquas-Poochyena.DCR.16.png",
+      "rarity": "Common",
+      "cardNum": "16/34"
+    },
+    {
+      "name": "Team Magma's Poochyena",
+      "set": "Double Crisis",
+      "img": "https://den-cards.pokellector.com/172/Team-Magmas-Poochyena.DCR.17.png",
+      "rarity": "Common",
+      "cardNum": "17/34"
+    },
+    {
+      "name": "Team Aqua's Mightyena",
+      "set": "Double Crisis",
+      "img": "https://den-cards.pokellector.com/172/Team-Aquas-Mightyena.DCR.18.png",
+      "rarity": "Common",
+      "cardNum": "18/34"
+    },
+    {
+      "name": "Team Magma's Mightyena",
+      "set": "Double Crisis",
+      "img": "https://den-cards.pokellector.com/172/Team-Magmas-Mightyena.DCR.19.png",
+      "rarity": "Common",
+      "cardNum": "19/34"
+    },
+    {
+      "name": "Team Aqua's Carvanha",
+      "set": "Double Crisis",
+      "img": "https://den-cards.pokellector.com/172/Team-Aquas-Carvanha.DCR.20.png",
+      "rarity": "Common",
+      "cardNum": "20/34"
+    },
+    {
+      "name": "Team Aqua's Sharpedo",
+      "set": "Double Crisis",
+      "img": "https://den-cards.pokellector.com/172/Team-Aquas-Sharpedo.DCR.21.png",
+      "rarity": "Rare",
+      "cardNum": "21/34"
+    },
+    {
+      "name": "Team Magma's Zangoose",
+      "set": "Double Crisis",
+      "img": "https://den-cards.pokellector.com/172/Team-Magmas-Zangoose.DCR.22.png",
+      "rarity": "Common",
+      "cardNum": "22/34"
+    },
+    {
+      "name": "Aqua Diffuser",
+      "set": "Double Crisis",
+      "img": "https://den-cards.pokellector.com/172/Aqua-Diffuser.DCR.23.png",
+      "rarity": "Uncommon",
+      "cardNum": "23/34"
+    },
+    {
+      "name": "Magma Pointer",
+      "set": "Double Crisis",
+      "img": "https://den-cards.pokellector.com/172/Magma-Pointer.DCR.24.png",
+      "rarity": "Uncommon",
+      "cardNum": "24/34"
+    },
+    {
+      "name": "Team Aqua Admin",
+      "set": "Double Crisis",
+      "img": "https://den-cards.pokellector.com/172/Team-Aqua-Admin.DCR.25.png",
+      "rarity": "Uncommon",
+      "cardNum": "25/34"
+    },
+    {
+      "name": "Team Aqua Grunt",
+      "set": "Double Crisis",
+      "img": "https://den-cards.pokellector.com/172/Team-Aqua-Grunt.DCR.26.png",
+      "rarity": "Uncommon",
+      "cardNum": "26/34"
+    },
+    {
+      "name": "Team Aqua's Great Ball",
+      "set": "Double Crisis",
+      "img": "https://den-cards.pokellector.com/172/Team-Aquas-Great-Ball.DCR.27.png",
+      "rarity": "Uncommon",
+      "cardNum": "27/34"
+    },
+    {
+      "name": "Team Aqua's Secret Base",
+      "set": "Double Crisis",
+      "img": "https://den-cards.pokellector.com/172/Team-Aquas-Secret-Base.DCR.28.png",
+      "rarity": "Uncommon",
+      "cardNum": "28/34"
+    },
+    {
+      "name": "Team Magma Admin",
+      "set": "Double Crisis",
+      "img": "https://den-cards.pokellector.com/172/Team-Magma-Admin.DCR.29.png",
+      "rarity": "Uncommon",
+      "cardNum": "29/34"
+    },
+    {
+      "name": "Team Magma Grunt",
+      "set": "Double Crisis",
+      "img": "https://den-cards.pokellector.com/172/Team-Magma-Grunt.DCR.30.png",
+      "rarity": "Uncommon",
+      "cardNum": "30/34"
+    },
+    {
+      "name": "Team Magma's Great Ball",
+      "set": "Double Crisis",
+      "img": "https://den-cards.pokellector.com/172/Team-Magmas-Great-Ball.DCR.31.png",
+      "rarity": "Uncommon",
+      "cardNum": "31/34"
+    },
+    {
+      "name": "Team Magma's Secret Base",
+      "set": "Double Crisis",
+      "img": "https://den-cards.pokellector.com/172/Team-Magmas-Secret-Base.DCR.32.png",
+      "rarity": "Uncommon",
+      "cardNum": "32/34"
+    },
+    {
+      "name": "Double Aqua Energy",
+      "set": "Double Crisis",
+      "img": "https://den-cards.pokellector.com/172/Double-Aqua-Energy.DCR.33.png",
+      "rarity": "Uncommon",
+      "cardNum": "33/34"
+    },
+    {
+      "name": "Double Magma Energy",
+      "set": "Double Crisis",
+      "img": "https://den-cards.pokellector.com/172/Double-Magma-Energy.DCR.34.png",
+      "rarity": "Uncommon",
+      "cardNum": "34/34"
+    }
+  ]
+}

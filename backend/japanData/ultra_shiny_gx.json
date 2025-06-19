@@ -1,0 +1,1755 @@
+{
+  "setName": "Ultra Shiny GX",
+  "cards": [
+    {
+      "name": "Bulbasaur",
+      "set": "Ultra Shiny GX",
+      "img": "https://den-cards.pokellector.com/241/Bulbasaur.SM8B.1.24805.png",
+      "rarity": "Common",
+      "cardNum": "1/150"
+    },
+    {
+      "name": "Ivysaur",
+      "set": "Ultra Shiny GX",
+      "img": "https://den-cards.pokellector.com/241/Ivysaur.SM8B.2.24806.png",
+      "rarity": "Common",
+      "cardNum": "2/150"
+    },
+    {
+      "name": "Venusaur",
+      "set": "Ultra Shiny GX",
+      "img": "https://den-cards.pokellector.com/241/Venusaur.SM8B.3.24807.png",
+      "rarity": "Common",
+      "cardNum": "3/150"
+    },
+    {
+      "name": "Exeggcute",
+      "set": "Ultra Shiny GX",
+      "img": "https://den-cards.pokellector.com/241/Exeggcute.SM8B.4.24808.png",
+      "rarity": "Common",
+      "cardNum": "4/150"
+    },
+    {
+      "name": "Mow Rotom",
+      "set": "Ultra Shiny GX",
+      "img": "https://den-cards.pokellector.com/241/Mow-Rotom.SM8B.5.24809.png",
+      "rarity": "Common",
+      "cardNum": "5/150"
+    },
+    {
+      "name": "Shaymin Prism Star",
+      "set": "Ultra Shiny GX",
+      "img": "https://den-cards.pokellector.com/241/Shaymin-Prism-Star.SM8B.6.24810.png",
+      "rarity": "Prism Star",
+      "cardNum": "6/150"
+    },
+    {
+      "name": "Wimpod",
+      "set": "Ultra Shiny GX",
+      "img": "https://den-cards.pokellector.com/241/Wimpod.SM8B.7.24811.png",
+      "rarity": "Common",
+      "cardNum": "7/150"
+    },
+    {
+      "name": "Golisopod GX",
+      "set": "Ultra Shiny GX",
+      "img": "https://den-cards.pokellector.com/241/Golisopod-GX.SM8B.8.24393.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "8/150"
+    },
+    {
+      "name": "Pheromosa",
+      "set": "Ultra Shiny GX",
+      "img": "https://den-cards.pokellector.com/241/Pheromosa.SM8B.9.24812.png",
+      "rarity": "Common",
+      "cardNum": "9/150"
+    },
+    {
+      "name": "Slugma",
+      "set": "Ultra Shiny GX",
+      "img": "https://den-cards.pokellector.com/241/Slugma.SM8B.10.24813.png",
+      "rarity": "Common",
+      "cardNum": "10/150"
+    },
+    {
+      "name": "Magcargo",
+      "set": "Ultra Shiny GX",
+      "img": "https://den-cards.pokellector.com/241/Magcargo.SM8B.11.24814.png",
+      "rarity": "Common",
+      "cardNum": "11/150"
+    },
+    {
+      "name": "Torchic",
+      "set": "Ultra Shiny GX",
+      "img": "https://den-cards.pokellector.com/241/Torchic.SM8B.12.24815.png",
+      "rarity": "Common",
+      "cardNum": "12/150"
+    },
+    {
+      "name": "Combusken",
+      "set": "Ultra Shiny GX",
+      "img": "https://den-cards.pokellector.com/241/Combusken.SM8B.13.24816.png",
+      "rarity": "Common",
+      "cardNum": "13/150"
+    },
+    {
+      "name": "Blaziken",
+      "set": "Ultra Shiny GX",
+      "img": "https://den-cards.pokellector.com/241/Blaziken.SM8B.14.24817.png",
+      "rarity": "Common",
+      "cardNum": "14/150"
+    },
+    {
+      "name": "Heat Rotom",
+      "set": "Ultra Shiny GX",
+      "img": "https://den-cards.pokellector.com/241/Heat-Rotom.SM8B.15.24818.png",
+      "rarity": "Common",
+      "cardNum": "15/150"
+    },
+    {
+      "name": "Heatmor",
+      "set": "Ultra Shiny GX",
+      "img": "https://den-cards.pokellector.com/241/Heatmor.SM8B.16.24819.png",
+      "rarity": "Common",
+      "cardNum": "16/150"
+    },
+    {
+      "name": "Reshiram",
+      "set": "Ultra Shiny GX",
+      "img": "https://den-cards.pokellector.com/241/Reshiram.SM8B.17.24820.png",
+      "rarity": "Common",
+      "cardNum": "17/150"
+    },
+    {
+      "name": "Reshiram GX",
+      "set": "Ultra Shiny GX",
+      "img": "https://den-cards.pokellector.com/241/Reshiram-GX.SM8B.18.24394.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "18/150"
+    },
+    {
+      "name": "Fennekin",
+      "set": "Ultra Shiny GX",
+      "img": "https://den-cards.pokellector.com/241/Fennekin.SM8B.19.24821.png",
+      "rarity": "Common",
+      "cardNum": "19/150"
+    },
+    {
+      "name": "Braixen",
+      "set": "Ultra Shiny GX",
+      "img": "https://den-cards.pokellector.com/241/Braixen.SM8B.20.24822.png",
+      "rarity": "Common",
+      "cardNum": "20/150"
+    },
+    {
+      "name": "Delphox",
+      "set": "Ultra Shiny GX",
+      "img": "https://den-cards.pokellector.com/241/Delphox.SM8B.21.24823.png",
+      "rarity": "Common",
+      "cardNum": "21/150"
+    },
+    {
+      "name": "Alolan Vulpix",
+      "set": "Ultra Shiny GX",
+      "img": "https://den-cards.pokellector.com/241/Alolan-Vulpix.SM8B.22.24824.png",
+      "rarity": "Common",
+      "cardNum": "22/150"
+    },
+    {
+      "name": "Wooper",
+      "set": "Ultra Shiny GX",
+      "img": "https://den-cards.pokellector.com/241/Wooper.SM8B.23.24825.png",
+      "rarity": "Common",
+      "cardNum": "23/150"
+    },
+    {
+      "name": "Quagsire",
+      "set": "Ultra Shiny GX",
+      "img": "https://den-cards.pokellector.com/241/Quagsire.SM8B.24.24826.png",
+      "rarity": "Common",
+      "cardNum": "24/150"
+    },
+    {
+      "name": "Snover",
+      "set": "Ultra Shiny GX",
+      "img": "https://den-cards.pokellector.com/241/Snover.SM8B.25.24827.png",
+      "rarity": "Common",
+      "cardNum": "25/150"
+    },
+    {
+      "name": "Abomasnow",
+      "set": "Ultra Shiny GX",
+      "img": "https://den-cards.pokellector.com/241/Abomasnow.SM8B.26.24828.png",
+      "rarity": "Common",
+      "cardNum": "26/150"
+    },
+    {
+      "name": "Glaceon GX",
+      "set": "Ultra Shiny GX",
+      "img": "https://den-cards.pokellector.com/241/Glaceon-GX.SM8B.27.24395.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "27/150"
+    },
+    {
+      "name": "Wash Rotom",
+      "set": "Ultra Shiny GX",
+      "img": "https://den-cards.pokellector.com/241/Wash-Rotom.SM8B.28.24829.png",
+      "rarity": "Common",
+      "cardNum": "28/150"
+    },
+    {
+      "name": "Frost Rotom",
+      "set": "Ultra Shiny GX",
+      "img": "https://den-cards.pokellector.com/241/Frost-Rotom.SM8B.29.24830.png",
+      "rarity": "Common",
+      "cardNum": "29/150"
+    },
+    {
+      "name": "Manaphy",
+      "set": "Ultra Shiny GX",
+      "img": "https://den-cards.pokellector.com/241/Manaphy.SM8B.30.24831.png",
+      "rarity": "Common",
+      "cardNum": "30/150"
+    },
+    {
+      "name": "Froakie",
+      "set": "Ultra Shiny GX",
+      "img": "https://den-cards.pokellector.com/241/Froakie.SM8B.31.24832.png",
+      "rarity": "Common",
+      "cardNum": "31/150"
+    },
+    {
+      "name": "Frogadier",
+      "set": "Ultra Shiny GX",
+      "img": "https://den-cards.pokellector.com/241/Frogadier.SM8B.32.24833.png",
+      "rarity": "Common",
+      "cardNum": "32/150"
+    },
+    {
+      "name": "Greninja GX",
+      "set": "Ultra Shiny GX",
+      "img": "https://den-cards.pokellector.com/241/Greninja-GX.SM8B.33.24396.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "33/150"
+    },
+    {
+      "name": "Raikou",
+      "set": "Ultra Shiny GX",
+      "img": "https://den-cards.pokellector.com/241/Raikou.SM8B.34.24834.png",
+      "rarity": "Common",
+      "cardNum": "34/150"
+    },
+    {
+      "name": "Pachirisu",
+      "set": "Ultra Shiny GX",
+      "img": "https://den-cards.pokellector.com/241/Pachirisu.SM8B.35.24835.png",
+      "rarity": "Common",
+      "cardNum": "35/150"
+    },
+    {
+      "name": "Rotom",
+      "set": "Ultra Shiny GX",
+      "img": "https://den-cards.pokellector.com/241/Rotom.SM8B.36.24836.png",
+      "rarity": "Common",
+      "cardNum": "36/150"
+    },
+    {
+      "name": "Zekrom",
+      "set": "Ultra Shiny GX",
+      "img": "https://den-cards.pokellector.com/241/Zekrom.SM8B.37.24837.png",
+      "rarity": "Common",
+      "cardNum": "37/150"
+    },
+    {
+      "name": "Xurkitree",
+      "set": "Ultra Shiny GX",
+      "img": "https://den-cards.pokellector.com/241/Xurkitree.SM8B.38.24838.png",
+      "rarity": "Common",
+      "cardNum": "38/150"
+    },
+    {
+      "name": "Xurkitree GX",
+      "set": "Ultra Shiny GX",
+      "img": "https://den-cards.pokellector.com/241/Xurkitree-GX.SM8B.39.24397.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "39/150"
+    },
+    {
+      "name": "Alolan Marowak",
+      "set": "Ultra Shiny GX",
+      "img": "https://den-cards.pokellector.com/241/Alolan-Marowak.SM8B.40.24839.png",
+      "rarity": "Common",
+      "cardNum": "40/150"
+    },
+    {
+      "name": "Seviper",
+      "set": "Ultra Shiny GX",
+      "img": "https://den-cards.pokellector.com/241/Seviper.SM8B.41.24840.png",
+      "rarity": "Common",
+      "cardNum": "41/150"
+    },
+    {
+      "name": "Inkay",
+      "set": "Ultra Shiny GX",
+      "img": "https://den-cards.pokellector.com/241/Inkay.SM8B.42.24841.png",
+      "rarity": "Common",
+      "cardNum": "42/150"
+    },
+    {
+      "name": "Malamar",
+      "set": "Ultra Shiny GX",
+      "img": "https://den-cards.pokellector.com/241/Malamar.SM8B.43.24842.png",
+      "rarity": "Common",
+      "cardNum": "43/150"
+    },
+    {
+      "name": "Tapu Lele GX",
+      "set": "Ultra Shiny GX",
+      "img": "https://den-cards.pokellector.com/241/Tapu-Lele-GX.SM8B.44.24399.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "44/150"
+    },
+    {
+      "name": "Cosmog",
+      "set": "Ultra Shiny GX",
+      "img": "https://den-cards.pokellector.com/241/Cosmog.SM8B.45.24843.png",
+      "rarity": "Common",
+      "cardNum": "45/150"
+    },
+    {
+      "name": "Cosmoem",
+      "set": "Ultra Shiny GX",
+      "img": "https://den-cards.pokellector.com/241/Cosmoem.SM8B.46.24844.png",
+      "rarity": "Common",
+      "cardNum": "46/150"
+    },
+    {
+      "name": "Lunala Prism Star",
+      "set": "Ultra Shiny GX",
+      "img": "https://den-cards.pokellector.com/241/Lunala-Prism-Star.SM8B.47.24845.png",
+      "rarity": "Prism Star",
+      "cardNum": "47/150"
+    },
+    {
+      "name": "Dawn Wings Necrozma",
+      "set": "Ultra Shiny GX",
+      "img": "https://den-cards.pokellector.com/241/Dawn-Wings-Necrozma.SM8B.48.24846.png",
+      "rarity": "Common",
+      "cardNum": "48/150"
+    },
+    {
+      "name": "Dawn Wings Necrozma GX",
+      "set": "Ultra Shiny GX",
+      "img": "https://den-cards.pokellector.com/241/Dawn-Wings-Necrozma-GX.SM8B.49.24405.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "49/150"
+    },
+    {
+      "name": "Marshadow",
+      "set": "Ultra Shiny GX",
+      "img": "https://den-cards.pokellector.com/241/Marshadow.SM8B.50.24847.png",
+      "rarity": "Common",
+      "cardNum": "50/150"
+    },
+    {
+      "name": "Poipole",
+      "set": "Ultra Shiny GX",
+      "img": "https://den-cards.pokellector.com/241/Poipole.SM8B.51.24848.png",
+      "rarity": "Common",
+      "cardNum": "51/150"
+    },
+    {
+      "name": "Naganadel GX",
+      "set": "Ultra Shiny GX",
+      "img": "https://den-cards.pokellector.com/241/Naganadel-GX.SM8B.52.24398.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "52/150"
+    },
+    {
+      "name": "Cubone",
+      "set": "Ultra Shiny GX",
+      "img": "https://den-cards.pokellector.com/241/Cubone.SM8B.53.24849.png",
+      "rarity": "Common",
+      "cardNum": "53/150"
+    },
+    {
+      "name": "Sudowoodo",
+      "set": "Ultra Shiny GX",
+      "img": "https://den-cards.pokellector.com/241/Sudowoodo.SM8B.54.24850.png",
+      "rarity": "Common",
+      "cardNum": "54/150"
+    },
+    {
+      "name": "Riolu",
+      "set": "Ultra Shiny GX",
+      "img": "https://den-cards.pokellector.com/241/Riolu.SM8B.55.24851.png",
+      "rarity": "Common",
+      "cardNum": "55/150"
+    },
+    {
+      "name": "Lucario",
+      "set": "Ultra Shiny GX",
+      "img": "https://den-cards.pokellector.com/241/Lucario.SM8B.56.24852.png",
+      "rarity": "Common",
+      "cardNum": "56/150"
+    },
+    {
+      "name": "Zygarde",
+      "set": "Ultra Shiny GX",
+      "img": "https://den-cards.pokellector.com/241/Zygarde.SM8B.57.24853.png",
+      "rarity": "Common",
+      "cardNum": "57/150"
+    },
+    {
+      "name": "Diancie Prism Star",
+      "set": "Ultra Shiny GX",
+      "img": "https://den-cards.pokellector.com/241/Diancie-Prism-Star.SM8B.58.24854.png",
+      "rarity": "Prism Star",
+      "cardNum": "58/150"
+    },
+    {
+      "name": "Rockruff",
+      "set": "Ultra Shiny GX",
+      "img": "https://den-cards.pokellector.com/241/Rockruff.SM8B.59.24855.png",
+      "rarity": "Common",
+      "cardNum": "59/150"
+    },
+    {
+      "name": "Lycanroc GX",
+      "set": "Ultra Shiny GX",
+      "img": "https://den-cards.pokellector.com/241/Lycanroc-GX.SM8B.60.24410.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "60/150"
+    },
+    {
+      "name": "Lycanroc GX",
+      "set": "Ultra Shiny GX",
+      "img": "https://den-cards.pokellector.com/241/Lycanroc-GX.SM8B.61.24408.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "61/150"
+    },
+    {
+      "name": "Buzzwole",
+      "set": "Ultra Shiny GX",
+      "img": "https://den-cards.pokellector.com/241/Buzzwole.SM8B.62.24856.png",
+      "rarity": "Common",
+      "cardNum": "62/150"
+    },
+    {
+      "name": "Buzzswole GX",
+      "set": "Ultra Shiny GX",
+      "img": "https://den-cards.pokellector.com/241/Buzzswole-GX.SM8B.63.24406.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "63/150"
+    },
+    {
+      "name": "Marshadow GX",
+      "set": "Ultra Shiny GX",
+      "img": "https://den-cards.pokellector.com/241/Marshadow-GX.SM8B.64.24409.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "64/150"
+    },
+    {
+      "name": "Sneasel",
+      "set": "Ultra Shiny GX",
+      "img": "https://den-cards.pokellector.com/241/Sneasel.SM8B.65.24857.png",
+      "rarity": "Common",
+      "cardNum": "65/150"
+    },
+    {
+      "name": "Weavile",
+      "set": "Ultra Shiny GX",
+      "img": "https://den-cards.pokellector.com/241/Weavile.SM8B.66.24858.png",
+      "rarity": "Common",
+      "cardNum": "66/150"
+    },
+    {
+      "name": "Sableye",
+      "set": "Ultra Shiny GX",
+      "img": "https://den-cards.pokellector.com/241/Sableye.SM8B.67.24859.png",
+      "rarity": "Common",
+      "cardNum": "67/150"
+    },
+    {
+      "name": "Darkrai",
+      "set": "Ultra Shiny GX",
+      "img": "https://den-cards.pokellector.com/241/Darkrai.SM8B.68.24860.png",
+      "rarity": "Common",
+      "cardNum": "68/150"
+    },
+    {
+      "name": "Zorua",
+      "set": "Ultra Shiny GX",
+      "img": "https://den-cards.pokellector.com/241/Zorua.SM8B.69.24861.png",
+      "rarity": "Common",
+      "cardNum": "69/150"
+    },
+    {
+      "name": "Zoroark GX",
+      "set": "Ultra Shiny GX",
+      "img": "https://den-cards.pokellector.com/241/Zoroark-GX.SM8B.70.24402.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "70/150"
+    },
+    {
+      "name": "Deino",
+      "set": "Ultra Shiny GX",
+      "img": "https://den-cards.pokellector.com/241/Deino.SM8B.71.24862.png",
+      "rarity": "Common",
+      "cardNum": "71/150"
+    },
+    {
+      "name": "Zweilous",
+      "set": "Ultra Shiny GX",
+      "img": "https://den-cards.pokellector.com/241/Zweilous.SM8B.72.24863.png",
+      "rarity": "Common",
+      "cardNum": "72/150"
+    },
+    {
+      "name": "Hydreigon",
+      "set": "Ultra Shiny GX",
+      "img": "https://den-cards.pokellector.com/241/Hydreigon.SM8B.73.24864.png",
+      "rarity": "Common",
+      "cardNum": "73/150"
+    },
+    {
+      "name": "Hoopa",
+      "set": "Ultra Shiny GX",
+      "img": "https://den-cards.pokellector.com/241/Hoopa.SM8B.74.24865.png",
+      "rarity": "Common",
+      "cardNum": "74/150"
+    },
+    {
+      "name": "Guzzlord",
+      "set": "Ultra Shiny GX",
+      "img": "https://den-cards.pokellector.com/241/Guzzlord.SM8B.75.24866.png",
+      "rarity": "Common",
+      "cardNum": "75/150"
+    },
+    {
+      "name": "Alolan Diglett",
+      "set": "Ultra Shiny GX",
+      "img": "https://den-cards.pokellector.com/241/Alolan-Diglett.SM8B.76.24867.png",
+      "rarity": "Common",
+      "cardNum": "76/150"
+    },
+    {
+      "name": "Alolan Dugtrio",
+      "set": "Ultra Shiny GX",
+      "img": "https://den-cards.pokellector.com/241/Alolan-Dugtrio.SM8B.77.24868.png",
+      "rarity": "Common",
+      "cardNum": "77/150"
+    },
+    {
+      "name": "Magnemite",
+      "set": "Ultra Shiny GX",
+      "img": "https://den-cards.pokellector.com/241/Magnemite.SM8B.78.24869.png",
+      "rarity": "Common",
+      "cardNum": "78/150"
+    },
+    {
+      "name": "Magneton",
+      "set": "Ultra Shiny GX",
+      "img": "https://den-cards.pokellector.com/241/Magneton.SM8B.79.24870.png",
+      "rarity": "Common",
+      "cardNum": "79/150"
+    },
+    {
+      "name": "Magnezone",
+      "set": "Ultra Shiny GX",
+      "img": "https://den-cards.pokellector.com/241/Magnezone.SM8B.80.24871.png",
+      "rarity": "Common",
+      "cardNum": "80/150"
+    },
+    {
+      "name": "Heatran",
+      "set": "Ultra Shiny GX",
+      "img": "https://den-cards.pokellector.com/241/Heatran.SM8B.81.24872.png",
+      "rarity": "Common",
+      "cardNum": "81/150"
+    },
+    {
+      "name": "Solgaleo Prism Star",
+      "set": "Ultra Shiny GX",
+      "img": "https://den-cards.pokellector.com/241/Solgaleo-Prism-Star.SM8B.82.24873.png",
+      "rarity": "Prism Star",
+      "cardNum": "82/150"
+    },
+    {
+      "name": "Celesteela",
+      "set": "Ultra Shiny GX",
+      "img": "https://den-cards.pokellector.com/241/Celesteela.SM8B.83.24874.png",
+      "rarity": "Common",
+      "cardNum": "83/150"
+    },
+    {
+      "name": "Kartana",
+      "set": "Ultra Shiny GX",
+      "img": "https://den-cards.pokellector.com/241/Kartana.SM8B.84.24875.png",
+      "rarity": "Common",
+      "cardNum": "84/150"
+    },
+    {
+      "name": "Dusk Mane Necrozma",
+      "set": "Ultra Shiny GX",
+      "img": "https://den-cards.pokellector.com/241/Dusk-Mane-Necrozma.SM8B.85.24876.png",
+      "rarity": "Common",
+      "cardNum": "85/150"
+    },
+    {
+      "name": "Dusk Mane Necrozma",
+      "set": "Ultra Shiny GX",
+      "img": "https://den-cards.pokellector.com/241/Dusk-Mane-Necrozma.SM8B.86.24400.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "86/150"
+    },
+    {
+      "name": "Magearna",
+      "set": "Ultra Shiny GX",
+      "img": "https://den-cards.pokellector.com/241/Magearna.SM8B.87.24877.png",
+      "rarity": "Common",
+      "cardNum": "87/150"
+    },
+    {
+      "name": "Stakataka GX",
+      "set": "Ultra Shiny GX",
+      "img": "https://den-cards.pokellector.com/241/Stakataka-GX.SM8B.88.24403.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "88/150"
+    },
+    {
+      "name": "Alolan Ninetales",
+      "set": "Ultra Shiny GX",
+      "img": "https://den-cards.pokellector.com/241/Alolan-Ninetales.SM8B.89.24878.png",
+      "rarity": "Common",
+      "cardNum": "89/150"
+    },
+    {
+      "name": "Ralts",
+      "set": "Ultra Shiny GX",
+      "img": "https://den-cards.pokellector.com/241/Ralts.SM8B.90.24879.png",
+      "rarity": "Common",
+      "cardNum": "90/150"
+    },
+    {
+      "name": "Kirlia",
+      "set": "Ultra Shiny GX",
+      "img": "https://den-cards.pokellector.com/241/Kirlia.SM8B.91.24880.png",
+      "rarity": "Common",
+      "cardNum": "91/150"
+    },
+    {
+      "name": "Gardevoir GX",
+      "set": "Ultra Shiny GX",
+      "img": "https://den-cards.pokellector.com/241/Gardevoir-GX.SM8B.92.24401.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "92/150"
+    },
+    {
+      "name": "Xerneas",
+      "set": "Ultra Shiny GX",
+      "img": "https://den-cards.pokellector.com/241/Xerneas.SM8B.93.24881.png",
+      "rarity": "Common",
+      "cardNum": "93/150"
+    },
+    {
+      "name": "Diancie",
+      "set": "Ultra Shiny GX",
+      "img": "https://den-cards.pokellector.com/241/Diancie.SM8B.94.24882.png",
+      "rarity": "Common",
+      "cardNum": "94/150"
+    },
+    {
+      "name": "Mimikyu",
+      "set": "Ultra Shiny GX",
+      "img": "https://den-cards.pokellector.com/241/Mimikyu.SM8B.95.24883.png",
+      "rarity": "Common",
+      "cardNum": "95/150"
+    },
+    {
+      "name": "Alolan Exeggutor",
+      "set": "Ultra Shiny GX",
+      "img": "https://den-cards.pokellector.com/241/Alolan-Exeggutor.SM8B.96.24884.png",
+      "rarity": "Common",
+      "cardNum": "96/150"
+    },
+    {
+      "name": "Altaria",
+      "set": "Ultra Shiny GX",
+      "img": "https://den-cards.pokellector.com/241/Altaria.SM8B.97.24885.png",
+      "rarity": "Common",
+      "cardNum": "97/150"
+    },
+    {
+      "name": "Rayquaza GX",
+      "set": "Ultra Shiny GX",
+      "img": "https://den-cards.pokellector.com/241/Rayquaza-GX.SM8B.98.24392.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "98/150"
+    },
+    {
+      "name": "Gible",
+      "set": "Ultra Shiny GX",
+      "img": "https://den-cards.pokellector.com/241/Gible.SM8B.99.24886.png",
+      "rarity": "Common",
+      "cardNum": "99/150"
+    },
+    {
+      "name": "Gabite",
+      "set": "Ultra Shiny GX",
+      "img": "https://den-cards.pokellector.com/241/Gabite.SM8B.100.24887.png",
+      "rarity": "Common",
+      "cardNum": "100/150"
+    },
+    {
+      "name": "Garchomp",
+      "set": "Ultra Shiny GX",
+      "img": "https://den-cards.pokellector.com/241/Garchomp.SM8B.101.24888.png",
+      "rarity": "Common",
+      "cardNum": "101/150"
+    },
+    {
+      "name": "Zygarde",
+      "set": "Ultra Shiny GX",
+      "img": "https://den-cards.pokellector.com/241/Zygarde.SM8B.102.24889.png",
+      "rarity": "Common",
+      "cardNum": "102/150"
+    },
+    {
+      "name": "Turtonator",
+      "set": "Ultra Shiny GX",
+      "img": "https://den-cards.pokellector.com/241/Turtonator.SM8B.103.24890.png",
+      "rarity": "Common",
+      "cardNum": "103/150"
+    },
+    {
+      "name": "Ultra Necrozma GX",
+      "set": "Ultra Shiny GX",
+      "img": "https://den-cards.pokellector.com/241/Ultra-Necrozma-GX.SM8B.104.24407.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "104/150"
+    },
+    {
+      "name": "Eevee",
+      "set": "Ultra Shiny GX",
+      "img": "https://den-cards.pokellector.com/241/Eevee.SM8B.105.24891.png",
+      "rarity": "Common",
+      "cardNum": "105/150"
+    },
+    {
+      "name": "Dunsparce",
+      "set": "Ultra Shiny GX",
+      "img": "https://den-cards.pokellector.com/241/Dunsparce.SM8B.106.24892.png",
+      "rarity": "Common",
+      "cardNum": "106/150"
+    },
+    {
+      "name": "Swablu",
+      "set": "Ultra Shiny GX",
+      "img": "https://den-cards.pokellector.com/241/Swablu.SM8B.107.24893.png",
+      "rarity": "Common",
+      "cardNum": "107/150"
+    },
+    {
+      "name": "Fan Rotom",
+      "set": "Ultra Shiny GX",
+      "img": "https://den-cards.pokellector.com/241/Fan-Rotom.SM8B.108.24894.png",
+      "rarity": "Common",
+      "cardNum": "108/150"
+    },
+    {
+      "name": "Oranguru",
+      "set": "Ultra Shiny GX",
+      "img": "https://den-cards.pokellector.com/241/Oranguru.SM8B.109.24895.png",
+      "rarity": "Common",
+      "cardNum": "109/150"
+    },
+    {
+      "name": "Type: Null",
+      "set": "Ultra Shiny GX",
+      "img": "https://den-cards.pokellector.com/241/Type-Null.SM8B.110.24896.png",
+      "rarity": "Common",
+      "cardNum": "110/150"
+    },
+    {
+      "name": "Silvally GX",
+      "set": "Ultra Shiny GX",
+      "img": "https://den-cards.pokellector.com/241/Silvally-GX.SM8B.111.24404.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "111/150"
+    },
+    {
+      "name": "Energy Loto",
+      "set": "Ultra Shiny GX",
+      "img": "https://den-cards.pokellector.com/241/Energy-Loto.SM8B.112.24897.png",
+      "rarity": "Common",
+      "cardNum": "112/150"
+    },
+    {
+      "name": "Energy Recycler",
+      "set": "Ultra Shiny GX",
+      "img": "https://den-cards.pokellector.com/241/Energy-Recycler.SM8B.113.24898.png",
+      "rarity": "Common",
+      "cardNum": "113/150"
+    },
+    {
+      "name": "Counter Catcher",
+      "set": "Ultra Shiny GX",
+      "img": "https://den-cards.pokellector.com/241/Counter-Catcher.SM8B.114.24899.png",
+      "rarity": "Common",
+      "cardNum": "114/150"
+    },
+    {
+      "name": "Beast Ring",
+      "set": "Ultra Shiny GX",
+      "img": "https://den-cards.pokellector.com/241/Beast-Ring.SM8B.115.24413.png",
+      "rarity": "Common",
+      "cardNum": "115/150"
+    },
+    {
+      "name": "Fiery Flint",
+      "set": "Ultra Shiny GX",
+      "img": "https://den-cards.pokellector.com/241/Fiery-Flint.SM8B.116.24900.png",
+      "rarity": "Common",
+      "cardNum": "116/150"
+    },
+    {
+      "name": "Field Blower",
+      "set": "Ultra Shiny GX",
+      "img": "https://den-cards.pokellector.com/241/Field-Blower.SM8B.117.24901.png",
+      "rarity": "Common",
+      "cardNum": "117/150"
+    },
+    {
+      "name": "Max Potion",
+      "set": "Ultra Shiny GX",
+      "img": "https://den-cards.pokellector.com/241/Max-Potion.SM8B.118.24902.png",
+      "rarity": "Common",
+      "cardNum": "118/150"
+    },
+    {
+      "name": "Mystery Treasure",
+      "set": "Ultra Shiny GX",
+      "img": "https://den-cards.pokellector.com/241/Mystery-Treasure.SM8B.119.24412.png",
+      "rarity": "Common",
+      "cardNum": "119/150"
+    },
+    {
+      "name": "Rescue Stretcher",
+      "set": "Ultra Shiny GX",
+      "img": "https://den-cards.pokellector.com/241/Rescue-Stretcher.SM8B.120.24903.png",
+      "rarity": "Common",
+      "cardNum": "120/150"
+    },
+    {
+      "name": "Water Memory",
+      "set": "Ultra Shiny GX",
+      "img": "https://den-cards.pokellector.com/241/Water-Memory.SM8B.121.24904.png",
+      "rarity": "Common",
+      "cardNum": "121/150"
+    },
+    {
+      "name": "Escape Board",
+      "set": "Ultra Shiny GX",
+      "img": "https://den-cards.pokellector.com/241/Escape-Board.SM8B.122.24905.png",
+      "rarity": "Common",
+      "cardNum": "122/150"
+    },
+    {
+      "name": "Grass Memory",
+      "set": "Ultra Shiny GX",
+      "img": "https://den-cards.pokellector.com/241/Grass-Memory.SM8B.123.24906.png",
+      "rarity": "Common",
+      "cardNum": "123/150"
+    },
+    {
+      "name": "Metal Frying Pan",
+      "set": "Ultra Shiny GX",
+      "img": "https://den-cards.pokellector.com/241/Metal-Frying-Pan.SM8B.124.24907.png",
+      "rarity": "Common",
+      "cardNum": "124/150"
+    },
+    {
+      "name": "Wish Baton",
+      "set": "Ultra Shiny GX",
+      "img": "https://den-cards.pokellector.com/241/Wish-Baton.SM8B.125.24420.png",
+      "rarity": "Common",
+      "cardNum": "125/150"
+    },
+    {
+      "name": "Fairy Charm UB",
+      "set": "Ultra Shiny GX",
+      "img": "https://den-cards.pokellector.com/241/Fairy-Charm-UB.SM8B.126.24908.png",
+      "rarity": "Common",
+      "cardNum": "126/150"
+    },
+    {
+      "name": "Bodybuilding Dumbbells",
+      "set": "Ultra Shiny GX",
+      "img": "https://den-cards.pokellector.com/241/Bodybuilding-Dumbbells.SM8B.127.24909.png",
+      "rarity": "Common",
+      "cardNum": "127/150"
+    },
+    {
+      "name": "Acerola",
+      "set": "Ultra Shiny GX",
+      "img": "https://den-cards.pokellector.com/241/Acerola.SM8B.128.24415.png",
+      "rarity": "Common",
+      "cardNum": "128/150"
+    },
+    {
+      "name": "Diantha",
+      "set": "Ultra Shiny GX",
+      "img": "https://den-cards.pokellector.com/241/Diantha.SM8B.129.24910.png",
+      "rarity": "Common",
+      "cardNum": "129/150"
+    },
+    {
+      "name": "Guzma",
+      "set": "Ultra Shiny GX",
+      "img": "https://den-cards.pokellector.com/241/Guzma.SM8B.130.24414.png",
+      "rarity": "Common",
+      "cardNum": "130/150"
+    },
+    {
+      "name": "Gladion",
+      "set": "Ultra Shiny GX",
+      "img": "https://den-cards.pokellector.com/241/Gladion.SM8B.131.24911.png",
+      "rarity": "Common",
+      "cardNum": "131/150"
+    },
+    {
+      "name": "Cynthia",
+      "set": "Ultra Shiny GX",
+      "img": "https://den-cards.pokellector.com/241/Cynthia.SM8B.132.24411.png",
+      "rarity": "Common",
+      "cardNum": "132/150"
+    },
+    {
+      "name": "Volkner",
+      "set": "Ultra Shiny GX",
+      "img": "https://den-cards.pokellector.com/241/Volkner.SM8B.133.24912.png",
+      "rarity": "Common",
+      "cardNum": "133/150"
+    },
+    {
+      "name": "Ingo & Emmet",
+      "set": "Ultra Shiny GX",
+      "img": "https://den-cards.pokellector.com/241/Ingo-ampamp-Emmet.SM8B.134.24913.png",
+      "rarity": "Common",
+      "cardNum": "134/150"
+    },
+    {
+      "name": "Copycat",
+      "set": "Ultra Shiny GX",
+      "img": "https://den-cards.pokellector.com/241/Copycat.SM8B.135.24914.png",
+      "rarity": "Common",
+      "cardNum": "135/150"
+    },
+    {
+      "name": "Lusamine",
+      "set": "Ultra Shiny GX",
+      "img": "https://den-cards.pokellector.com/241/Lusamine.SM8B.136.24915.png",
+      "rarity": "Common",
+      "cardNum": "136/150"
+    },
+    {
+      "name": "Morgan",
+      "set": "Ultra Shiny GX",
+      "img": "https://den-cards.pokellector.com/241/Morgan.SM8B.137.24916.png",
+      "rarity": "Common",
+      "cardNum": "137/150"
+    },
+    {
+      "name": "Dana",
+      "set": "Ultra Shiny GX",
+      "img": "https://den-cards.pokellector.com/241/Dana.SM8B.138.24917.png",
+      "rarity": "Common",
+      "cardNum": "138/150"
+    },
+    {
+      "name": "Evelyn",
+      "set": "Ultra Shiny GX",
+      "img": "https://den-cards.pokellector.com/241/Evelyn.SM8B.139.24918.png",
+      "rarity": "Common",
+      "cardNum": "139/150"
+    },
+    {
+      "name": "Nita",
+      "set": "Ultra Shiny GX",
+      "img": "https://den-cards.pokellector.com/241/Nita.SM8B.140.24919.png",
+      "rarity": "Common",
+      "cardNum": "140/150"
+    },
+    {
+      "name": "Shrine of Punishment",
+      "set": "Ultra Shiny GX",
+      "img": "https://den-cards.pokellector.com/241/Shrine-of-Punishment.SM8B.141.24920.png",
+      "rarity": "Common",
+      "cardNum": "141/150"
+    },
+    {
+      "name": "Wela Volcano Park",
+      "set": "Ultra Shiny GX",
+      "img": "https://den-cards.pokellector.com/241/Wela-Volcano-Park.SM8B.142.24921.png",
+      "rarity": "Common",
+      "cardNum": "142/150"
+    },
+    {
+      "name": "Ultra Space",
+      "set": "Ultra Shiny GX",
+      "img": "https://den-cards.pokellector.com/241/Ultra-Space.SM8B.143.24922.png",
+      "rarity": "Common",
+      "cardNum": "143/150"
+    },
+    {
+      "name": "Mt. Coronet",
+      "set": "Ultra Shiny GX",
+      "img": "https://den-cards.pokellector.com/241/Mt-Coronet.SM8B.144.24923.png",
+      "rarity": "Common",
+      "cardNum": "144/150"
+    },
+    {
+      "name": "Wonder Labyrinth Prism Star",
+      "set": "Ultra Shiny GX",
+      "img": "https://den-cards.pokellector.com/241/Wonder-Labyrinth-Prism-Star.SM8B.145.24416.png",
+      "rarity": "Prism Star",
+      "cardNum": "145/150"
+    },
+    {
+      "name": "Counter Energy",
+      "set": "Ultra Shiny GX",
+      "img": "https://den-cards.pokellector.com/241/Counter-Energy.SM8B.146.24924.png",
+      "rarity": "Common",
+      "cardNum": "146/150"
+    },
+    {
+      "name": "Beast Energy Prism Star",
+      "set": "Ultra Shiny GX",
+      "img": "https://den-cards.pokellector.com/241/Beast-Energy.SM8B.147.24925.png",
+      "rarity": "Prism Star",
+      "cardNum": "147/150"
+    },
+    {
+      "name": "Unit Energy GFW",
+      "set": "Ultra Shiny GX",
+      "img": "https://den-cards.pokellector.com/241/Unit-Energy-GFW.SM8B.148.24926.png",
+      "rarity": "Common",
+      "cardNum": "148/150"
+    },
+    {
+      "name": "Unit Energy LPM",
+      "set": "Ultra Shiny GX",
+      "img": "https://den-cards.pokellector.com/241/Unit-Energy-LPM.SM8B.149.24927.png",
+      "rarity": "Common",
+      "cardNum": "149/150"
+    },
+    {
+      "name": "Unit Energy FDF",
+      "set": "Ultra Shiny GX",
+      "img": "https://den-cards.pokellector.com/241/Unit-Energy-FDF.SM8B.150.24928.png",
+      "rarity": "Common",
+      "cardNum": "150/150"
+    },
+    {
+      "name": "Aether Foundation Employee",
+      "set": "Ultra Shiny GX",
+      "img": "https://den-cards.pokellector.com/241/Aether-Foundation-Employee.SM8B.151.25280.png",
+      "rarity": "Secret Rare",
+      "cardNum": "151/150"
+    },
+    {
+      "name": "Guzma",
+      "set": "Ultra Shiny GX",
+      "img": "https://den-cards.pokellector.com/241/Guzma.SM8B.152.25277.png",
+      "rarity": "Secret Rare",
+      "cardNum": "152/150"
+    },
+    {
+      "name": "Cynthia",
+      "set": "Ultra Shiny GX",
+      "img": "https://den-cards.pokellector.com/241/Cynthia.SM8B.153.25275.png",
+      "rarity": "Secret Rare",
+      "cardNum": "153/150"
+    },
+    {
+      "name": "Fisherman",
+      "set": "Ultra Shiny GX",
+      "img": "https://den-cards.pokellector.com/241/Fisherman.SM8B.154.25266.png",
+      "rarity": "Secret Rare",
+      "cardNum": "154/150"
+    },
+    {
+      "name": "Ingo & Emmet",
+      "set": "Ultra Shiny GX",
+      "img": "https://den-cards.pokellector.com/241/Ingo-Emmet.SM8B.155.25281.png",
+      "rarity": "Secret Rare",
+      "cardNum": "155/150"
+    },
+    {
+      "name": "Hiker",
+      "set": "Ultra Shiny GX",
+      "img": "https://den-cards.pokellector.com/241/Hiker.SM8B.156.25272.png",
+      "rarity": "Secret Rare",
+      "cardNum": "156/150"
+    },
+    {
+      "name": "Morgan",
+      "set": "Ultra Shiny GX",
+      "img": "https://den-cards.pokellector.com/241/Morgan.SM8B.157.25282.png",
+      "rarity": "Secret Rare",
+      "cardNum": "157/150"
+    },
+    {
+      "name": "Dana",
+      "set": "Ultra Shiny GX",
+      "img": "https://den-cards.pokellector.com/241/Dana.SM8B.158.25283.png",
+      "rarity": "Secret Rare",
+      "cardNum": "158/150"
+    },
+    {
+      "name": "Evelyn",
+      "set": "Ultra Shiny GX",
+      "img": "https://den-cards.pokellector.com/241/Evelyn.SM8B.159.25284.png",
+      "rarity": "Secret Rare",
+      "cardNum": "159/150"
+    },
+    {
+      "name": "Nita",
+      "set": "Ultra Shiny GX",
+      "img": "https://den-cards.pokellector.com/241/Nita.SM8B.160.25285.png",
+      "rarity": "Secret Rare",
+      "cardNum": "160/150"
+    },
+    {
+      "name": "Scyther",
+      "set": "Ultra Shiny GX",
+      "img": "https://den-cards.pokellector.com/241/Scyther.SM8B.161.25286.png",
+      "rarity": "Secret Rare",
+      "cardNum": "161/150"
+    },
+    {
+      "name": "Rowlet",
+      "set": "Ultra Shiny GX",
+      "img": "https://den-cards.pokellector.com/241/Rowlet.SM8B.162.24929.png",
+      "rarity": "Secret Rare",
+      "cardNum": "162/150"
+    },
+    {
+      "name": "Dartrix",
+      "set": "Ultra Shiny GX",
+      "img": "https://den-cards.pokellector.com/241/Dartrix.SM8B.163.24930.png",
+      "rarity": "Secret Rare",
+      "cardNum": "163/150"
+    },
+    {
+      "name": "Wimpod",
+      "set": "Ultra Shiny GX",
+      "img": "https://den-cards.pokellector.com/241/Wimpod.SM8B.164.25261.png",
+      "rarity": "Secret Rare",
+      "cardNum": "164/150"
+    },
+    {
+      "name": "Pheromosa",
+      "set": "Ultra Shiny GX",
+      "img": "https://den-cards.pokellector.com/241/Pheromosa.SM8B.165.25287.png",
+      "rarity": "Secret Rare",
+      "cardNum": "165/150"
+    },
+    {
+      "name": "Charmander",
+      "set": "Ultra Shiny GX",
+      "img": "https://den-cards.pokellector.com/241/Charmander.SM8B.166.25288.png",
+      "rarity": "Secret Rare",
+      "cardNum": "166/150"
+    },
+    {
+      "name": "Charmeleon",
+      "set": "Ultra Shiny GX",
+      "img": "https://den-cards.pokellector.com/241/Charmeleon.SM8B.167.25289.png",
+      "rarity": "Secret Rare",
+      "cardNum": "167/150"
+    },
+    {
+      "name": "Alolan Vulpix",
+      "set": "Ultra Shiny GX",
+      "img": "https://den-cards.pokellector.com/241/Alolan-Vulpix.SM8B.168.25290.png",
+      "rarity": "Secret Rare",
+      "cardNum": "168/150"
+    },
+    {
+      "name": "Wooper",
+      "set": "Ultra Shiny GX",
+      "img": "https://den-cards.pokellector.com/241/Wooper.SM8B.169.25291.png",
+      "rarity": "Secret Rare",
+      "cardNum": "169/150"
+    },
+    {
+      "name": "Quagsire",
+      "set": "Ultra Shiny GX",
+      "img": "https://den-cards.pokellector.com/241/Quagsire.SM8B.170.25292.png",
+      "rarity": "Secret Rare",
+      "cardNum": "170/150"
+    },
+    {
+      "name": "Froakie",
+      "set": "Ultra Shiny GX",
+      "img": "https://den-cards.pokellector.com/241/Froakie.SM8B.171.25264.png",
+      "rarity": "Secret Rare",
+      "cardNum": "171/150"
+    },
+    {
+      "name": "Frogadier",
+      "set": "Ultra Shiny GX",
+      "img": "https://den-cards.pokellector.com/241/Frogadier.SM8B.172.25251.png",
+      "rarity": "Secret Rare",
+      "cardNum": "172/150"
+    },
+    {
+      "name": "Voltorb",
+      "set": "Ultra Shiny GX",
+      "img": "https://den-cards.pokellector.com/241/Voltorb.SM8B.173.25293.png",
+      "rarity": "Secret Rare",
+      "cardNum": "173/150"
+    },
+    {
+      "name": "Xurkitree",
+      "set": "Ultra Shiny GX",
+      "img": "https://den-cards.pokellector.com/241/Xurkitree.SM8B.174.25294.png",
+      "rarity": "Secret Rare",
+      "cardNum": "174/150"
+    },
+    {
+      "name": "Seviper",
+      "set": "Ultra Shiny GX",
+      "img": "https://den-cards.pokellector.com/241/Seviper.SM8B.175.25295.png",
+      "rarity": "Secret Rare",
+      "cardNum": "175/150"
+    },
+    {
+      "name": "Shuppet",
+      "set": "Ultra Shiny GX",
+      "img": "https://den-cards.pokellector.com/241/Shuppet.SM8B.176.25296.png",
+      "rarity": "Secret Rare",
+      "cardNum": "176/150"
+    },
+    {
+      "name": "Inkay",
+      "set": "Ultra Shiny GX",
+      "img": "https://den-cards.pokellector.com/241/Inkay.SM8B.177.25062.png",
+      "rarity": "Secret Rare",
+      "cardNum": "177/150"
+    },
+    {
+      "name": "Malamar",
+      "set": "Ultra Shiny GX",
+      "img": "https://den-cards.pokellector.com/241/Malamar.SM8B.178.25063.png",
+      "rarity": "Secret Rare",
+      "cardNum": "178/150"
+    },
+    {
+      "name": "Poipole",
+      "set": "Ultra Shiny GX",
+      "img": "https://den-cards.pokellector.com/241/Poipole.SM8B.179.25297.png",
+      "rarity": "Secret Rare",
+      "cardNum": "179/150"
+    },
+    {
+      "name": "Sudowoodo",
+      "set": "Ultra Shiny GX",
+      "img": "https://den-cards.pokellector.com/241/Sudowoodo.SM8B.180.25298.png",
+      "rarity": "Secret Rare",
+      "cardNum": "180/150"
+    },
+    {
+      "name": "Riolu",
+      "set": "Ultra Shiny GX",
+      "img": "https://den-cards.pokellector.com/241/Riolu.SM8B.181.25299.png",
+      "rarity": "Secret Rare",
+      "cardNum": "181/150"
+    },
+    {
+      "name": "Lucario",
+      "set": "Ultra Shiny GX",
+      "img": "https://den-cards.pokellector.com/241/Lucario.SM8B.182.25300.png",
+      "rarity": "Secret Rare",
+      "cardNum": "182/150"
+    },
+    {
+      "name": "Rockruff",
+      "set": "Ultra Shiny GX",
+      "img": "https://den-cards.pokellector.com/241/Rockruff.SM8B.183.25301.png",
+      "rarity": "Secret Rare",
+      "cardNum": "183/150"
+    },
+    {
+      "name": "Buzzwole",
+      "set": "Ultra Shiny GX",
+      "img": "https://den-cards.pokellector.com/241/Buzzwole.SM8B.184.25302.png",
+      "rarity": "Secret Rare",
+      "cardNum": "184/150"
+    },
+    {
+      "name": "Zorua",
+      "set": "Ultra Shiny GX",
+      "img": "https://den-cards.pokellector.com/241/Zorua.SM8B.185.25303.png",
+      "rarity": "Secret Rare",
+      "cardNum": "185/150"
+    },
+    {
+      "name": "Guzzlord",
+      "set": "Ultra Shiny GX",
+      "img": "https://den-cards.pokellector.com/241/Guzzlord.SM8B.186.25260.png",
+      "rarity": "Secret Rare",
+      "cardNum": "186/150"
+    },
+    {
+      "name": "Magnemite",
+      "set": "Ultra Shiny GX",
+      "img": "https://den-cards.pokellector.com/241/Magnemite.SM8B.187.25304.png",
+      "rarity": "Secret Rare",
+      "cardNum": "187/150"
+    },
+    {
+      "name": "Magneton",
+      "set": "Ultra Shiny GX",
+      "img": "https://den-cards.pokellector.com/241/Magneton.SM8B.188.25305.png",
+      "rarity": "Secret Rare",
+      "cardNum": "188/150"
+    },
+    {
+      "name": "Magnezone",
+      "set": "Ultra Shiny GX",
+      "img": "https://den-cards.pokellector.com/241/Magnezone.SM8B.189.25273.png",
+      "rarity": "Secret Rare",
+      "cardNum": "189/150"
+    },
+    {
+      "name": "Beldum",
+      "set": "Ultra Shiny GX",
+      "img": "https://den-cards.pokellector.com/241/Beldum.SM8B.190.25306.png",
+      "rarity": "Secret Rare",
+      "cardNum": "190/150"
+    },
+    {
+      "name": "Metang",
+      "set": "Ultra Shiny GX",
+      "img": "https://den-cards.pokellector.com/241/Metang.SM8B.191.25307.png",
+      "rarity": "Secret Rare",
+      "cardNum": "191/150"
+    },
+    {
+      "name": "Celesteela",
+      "set": "Ultra Shiny GX",
+      "img": "https://den-cards.pokellector.com/241/Celesteela.SM8B.192.25308.png",
+      "rarity": "Secret Rare",
+      "cardNum": "192/150"
+    },
+    {
+      "name": "Kartana",
+      "set": "Ultra Shiny GX",
+      "img": "https://den-cards.pokellector.com/241/Kartana.SM8B.193.25263.png",
+      "rarity": "Secret Rare",
+      "cardNum": "193/150"
+    },
+    {
+      "name": "Ralts",
+      "set": "Ultra Shiny GX",
+      "img": "https://den-cards.pokellector.com/241/Ralts.SM8B.194.25309.png",
+      "rarity": "Secret Rare",
+      "cardNum": "194/150"
+    },
+    {
+      "name": "Kirlia",
+      "set": "Ultra Shiny GX",
+      "img": "https://den-cards.pokellector.com/241/Kirlia.SM8B.195.25310.png",
+      "rarity": "Secret Rare",
+      "cardNum": "195/150"
+    },
+    {
+      "name": "Diancie",
+      "set": "Ultra Shiny GX",
+      "img": "https://den-cards.pokellector.com/241/Diancie.SM8B.196.25311.png",
+      "rarity": "Secret Rare",
+      "cardNum": "196/150"
+    },
+    {
+      "name": "Altaria",
+      "set": "Ultra Shiny GX",
+      "img": "https://den-cards.pokellector.com/241/Altaria.SM8B.197.25312.png",
+      "rarity": "Secret Rare",
+      "cardNum": "197/150"
+    },
+    {
+      "name": "Gible",
+      "set": "Ultra Shiny GX",
+      "img": "https://den-cards.pokellector.com/241/Gible.SM8B.198.25256.png",
+      "rarity": "Secret Rare",
+      "cardNum": "198/150"
+    },
+    {
+      "name": "Gabite",
+      "set": "Ultra Shiny GX",
+      "img": "https://den-cards.pokellector.com/241/Gabite.SM8B.199.25262.png",
+      "rarity": "Secret Rare",
+      "cardNum": "199/150"
+    },
+    {
+      "name": "Garchomp",
+      "set": "Ultra Shiny GX",
+      "img": "https://den-cards.pokellector.com/241/Garchomp.SM8B.200.25252.png",
+      "rarity": "Secret Rare",
+      "cardNum": "200/150"
+    },
+    {
+      "name": "Eevee",
+      "set": "Ultra Shiny GX",
+      "img": "https://den-cards.pokellector.com/241/Eevee.SM8B.201.25313.png",
+      "rarity": "Secret Rare",
+      "cardNum": "201/150"
+    },
+    {
+      "name": "Swablu",
+      "set": "Ultra Shiny GX",
+      "img": "https://den-cards.pokellector.com/241/Swablu.SM8B.202.25258.png",
+      "rarity": "Secret Rare",
+      "cardNum": "202/150"
+    },
+    {
+      "name": "Noibat",
+      "set": "Ultra Shiny GX",
+      "img": "https://den-cards.pokellector.com/241/Noibat.SM8B.203.25314.png",
+      "rarity": "Secret Rare",
+      "cardNum": "203/150"
+    },
+    {
+      "name": "Oranguru",
+      "set": "Ultra Shiny GX",
+      "img": "https://den-cards.pokellector.com/241/Oranguru.SM8B.204.25315.png",
+      "rarity": "Secret Rare",
+      "cardNum": "204/150"
+    },
+    {
+      "name": "Type: Null",
+      "set": "Ultra Shiny GX",
+      "img": "https://den-cards.pokellector.com/241/Type-Null.SM8B.205.25274.png",
+      "rarity": "Secret Rare",
+      "cardNum": "205/150"
+    },
+    {
+      "name": "Leafeon GX",
+      "set": "Ultra Shiny GX",
+      "img": "https://den-cards.pokellector.com/241/Leafeon-GX.SM8B.206.25316.png",
+      "rarity": "Secret Rare",
+      "cardNum": "206/150"
+    },
+    {
+      "name": "Decidueye GX",
+      "set": "Ultra Shiny GX",
+      "img": "https://den-cards.pokellector.com/241/Decidueye-GX.SM8B.207.24931.png",
+      "rarity": "Secret Rare",
+      "cardNum": "207/150"
+    },
+    {
+      "name": "Golisopod GX",
+      "set": "Ultra Shiny GX",
+      "img": "https://den-cards.pokellector.com/241/Golisopod-GX.SM8B.208.25317.png",
+      "rarity": "Secret Rare",
+      "cardNum": "208/150"
+    },
+    {
+      "name": "Charizard GX",
+      "set": "Ultra Shiny GX",
+      "img": "https://den-cards.pokellector.com/241/Charizard-GX.SM8B.209.24417.png",
+      "rarity": "Secret Rare",
+      "cardNum": "209/150"
+    },
+    {
+      "name": "Ho-Oh GX",
+      "set": "Ultra Shiny GX",
+      "img": "https://den-cards.pokellector.com/241/Ho-Oh-GX.SM8B.210.25318.png",
+      "rarity": "Secret Rare",
+      "cardNum": "210/150"
+    },
+    {
+      "name": "Reshiram GX",
+      "set": "Ultra Shiny GX",
+      "img": "https://den-cards.pokellector.com/241/Reshiram-GX.SM8B.211.25319.png",
+      "rarity": "Secret Rare",
+      "cardNum": "211/150"
+    },
+    {
+      "name": "Turtonator GX",
+      "set": "Ultra Shiny GX",
+      "img": "https://den-cards.pokellector.com/241/Turtonator-GX.SM8B.212.25320.png",
+      "rarity": "Secret Rare",
+      "cardNum": "212/150"
+    },
+    {
+      "name": "Alolan Ninetales GX",
+      "set": "Ultra Shiny GX",
+      "img": "https://den-cards.pokellector.com/241/Alolan-Ninetales-GX.SM8B.213.25265.png",
+      "rarity": "Secret Rare",
+      "cardNum": "213/150"
+    },
+    {
+      "name": "Articuno GX",
+      "set": "Ultra Shiny GX",
+      "img": "https://den-cards.pokellector.com/241/Articuno-GX.SM8B.214.25321.png",
+      "rarity": "Secret Rare",
+      "cardNum": "214/150"
+    },
+    {
+      "name": "Glaceon GX",
+      "set": "Ultra Shiny GX",
+      "img": "https://den-cards.pokellector.com/241/Glaceon-GX.SM8B.215.25269.png",
+      "rarity": "Secret Rare",
+      "cardNum": "215/150"
+    },
+    {
+      "name": "Greninja GX",
+      "set": "Ultra Shiny GX",
+      "img": "https://den-cards.pokellector.com/241/Greninja-GX.SM8B.216.24570.png",
+      "rarity": "Secret Rare",
+      "cardNum": "216/150"
+    },
+    {
+      "name": "Electrode GX",
+      "set": "Ultra Shiny GX",
+      "img": "https://den-cards.pokellector.com/241/Electrode-GX.SM8B.217.25257.png",
+      "rarity": "Secret Rare",
+      "cardNum": "217/150"
+    },
+    {
+      "name": "Xurkitree GX",
+      "set": "Ultra Shiny GX",
+      "img": "https://den-cards.pokellector.com/241/Xurkitree-GX.SM8B.218.25322.png",
+      "rarity": "Secret Rare",
+      "cardNum": "218/150"
+    },
+    {
+      "name": "Mewtwo GX",
+      "set": "Ultra Shiny GX",
+      "img": "https://den-cards.pokellector.com/241/Mewtwo-GX.SM8B.219.25323.png",
+      "rarity": "Secret Rare",
+      "cardNum": "219/150"
+    },
+    {
+      "name": "Espeon GX",
+      "set": "Ultra Shiny GX",
+      "img": "https://den-cards.pokellector.com/241/Espeon-GX.SM8B.220.25324.png",
+      "rarity": "Secret Rare",
+      "cardNum": "220/150"
+    },
+    {
+      "name": "Banette GX",
+      "set": "Ultra Shiny GX",
+      "img": "https://den-cards.pokellector.com/241/Banette-GX.SM8B.221.25325.png",
+      "rarity": "Secret Rare",
+      "cardNum": "221/150"
+    },
+    {
+      "name": "Nihilego GX",
+      "set": "Ultra Shiny GX",
+      "img": "https://den-cards.pokellector.com/241/Nihilego-GX.SM8B.222.25326.png",
+      "rarity": "Secret Rare",
+      "cardNum": "222/150"
+    },
+    {
+      "name": "Naganadel GX",
+      "set": "Ultra Shiny GX",
+      "img": "https://den-cards.pokellector.com/241/Naganadel-GX.SM8B.223.25327.png",
+      "rarity": "Secret Rare",
+      "cardNum": "223/150"
+    },
+    {
+      "name": "Lucario GX",
+      "set": "Ultra Shiny GX",
+      "img": "https://den-cards.pokellector.com/241/Lucario-GX.SM8B.224.25328.png",
+      "rarity": "Secret Rare",
+      "cardNum": "224/150"
+    },
+    {
+      "name": "Zygarde GX",
+      "set": "Ultra Shiny GX",
+      "img": "https://den-cards.pokellector.com/241/Zygarde-GX.SM8B.225.24419.png",
+      "rarity": "Secret Rare",
+      "cardNum": "225/150"
+    },
+    {
+      "name": "Lycanroc GX",
+      "set": "Ultra Shiny GX",
+      "img": "https://den-cards.pokellector.com/241/Lycanroc-GX.SM8B.226.25254.png",
+      "rarity": "Secret Rare",
+      "cardNum": "226/150"
+    },
+    {
+      "name": "Lycanroc GX",
+      "set": "Ultra Shiny GX",
+      "img": "https://den-cards.pokellector.com/241/Lycanroc-GX.SM8B.227.25329.png",
+      "rarity": "Secret Rare",
+      "cardNum": "227/150"
+    },
+    {
+      "name": "Buzzwole GX",
+      "set": "Ultra Shiny GX",
+      "img": "https://den-cards.pokellector.com/241/Buzzwole-GX.SM8B.228.25330.png",
+      "rarity": "Secret Rare",
+      "cardNum": "228/150"
+    },
+    {
+      "name": "Umbreon GX",
+      "set": "Ultra Shiny GX",
+      "img": "https://den-cards.pokellector.com/241/Umbreon-GX.SM8B.229.25331.png",
+      "rarity": "Secret Rare",
+      "cardNum": "229/150"
+    },
+    {
+      "name": "Darkrai GX",
+      "set": "Ultra Shiny GX",
+      "img": "https://den-cards.pokellector.com/241/Darkrai-GX.SM8B.230.25332.png",
+      "rarity": "Secret Rare",
+      "cardNum": "230/150"
+    },
+    {
+      "name": "Zoroark GX",
+      "set": "Ultra Shiny GX",
+      "img": "https://den-cards.pokellector.com/241/Zoroark-GX.SM8B.231.25276.png",
+      "rarity": "Secret Rare",
+      "cardNum": "231/150"
+    },
+    {
+      "name": "Guzzlord GX",
+      "set": "Ultra Shiny GX",
+      "img": "https://den-cards.pokellector.com/241/Guzzlord-GX.SM8B.232.25333.png",
+      "rarity": "Secret Rare",
+      "cardNum": "232/150"
+    },
+    {
+      "name": "Scizor GX",
+      "set": "Ultra Shiny GX",
+      "img": "https://den-cards.pokellector.com/241/Scizor-GX.SM8B.233.25334.png",
+      "rarity": "Secret Rare",
+      "cardNum": "233/150"
+    },
+    {
+      "name": "Metagross GX",
+      "set": "Ultra Shiny GX",
+      "img": "https://den-cards.pokellector.com/241/Metagross-GX.SM8B.234.25335.png",
+      "rarity": "Secret Rare",
+      "cardNum": "234/150"
+    },
+    {
+      "name": "Kartana GX",
+      "set": "Ultra Shiny GX",
+      "img": "https://den-cards.pokellector.com/241/Kartana-GX.SM8B.235.25336.png",
+      "rarity": "Secret Rare",
+      "cardNum": "235/150"
+    },
+    {
+      "name": "Stakataka GX",
+      "set": "Ultra Shiny GX",
+      "img": "https://den-cards.pokellector.com/241/Stakataka-GX.SM8B.236.25259.png",
+      "rarity": "Secret Rare",
+      "cardNum": "236/150"
+    },
+    {
+      "name": "Gardevoir GX",
+      "set": "Ultra Shiny GX",
+      "img": "https://den-cards.pokellector.com/241/Gardevoir-GX.SM8B.137.25278.png",
+      "rarity": "Secret Rare",
+      "cardNum": "237/150"
+    },
+    {
+      "name": "Sylveon GX",
+      "set": "Ultra Shiny GX",
+      "img": "https://den-cards.pokellector.com/241/Sylveon-GX.SM8B.238.25279.png",
+      "rarity": "Secret Rare",
+      "cardNum": "238/150"
+    },
+    {
+      "name": "Altaria GX",
+      "set": "Ultra Shiny GX",
+      "img": "https://den-cards.pokellector.com/241/Altaria-GX.SM8B.239.25337.png",
+      "rarity": "Secret Rare",
+      "cardNum": "239/150"
+    },
+    {
+      "name": "Rayquaza GX",
+      "set": "Ultra Shiny GX",
+      "img": "https://den-cards.pokellector.com/241/Rayquaza-GX.SM8B.240.24418.png",
+      "rarity": "Secret Rare",
+      "cardNum": "240/150"
+    },
+    {
+      "name": "Noivern GX",
+      "set": "Ultra Shiny GX",
+      "img": "https://den-cards.pokellector.com/241/Noivern-GX.SM8B.241.25253.png",
+      "rarity": "Secret Rare",
+      "cardNum": "241/150"
+    },
+    {
+      "name": "Silvally GX",
+      "set": "Ultra Shiny GX",
+      "img": "https://den-cards.pokellector.com/241/Silvally-GX.SM8B.242.25338.png",
+      "rarity": "Secret Rare",
+      "cardNum": "242/150"
+    },
+    {
+      "name": "Drampa GX",
+      "set": "Ultra Shiny GX",
+      "img": "https://den-cards.pokellector.com/241/Drampa-GX.SM8B.243.25339.png",
+      "rarity": "Secret Rare",
+      "cardNum": "243/150"
+    },
+    {
+      "name": "Tapu Bulu GX",
+      "set": "Ultra Shiny GX",
+      "img": "https://den-cards.pokellector.com/241/Tapu-Bulu-GX.SM8B.244.25250.png",
+      "rarity": "Secret Rare",
+      "cardNum": "244/150"
+    },
+    {
+      "name": "Tapu Fini GX",
+      "set": "Ultra Shiny GX",
+      "img": "https://den-cards.pokellector.com/241/Tapu-Fini-GX.SM8B.245.25340.png",
+      "rarity": "Secret Rare",
+      "cardNum": "245/150"
+    },
+    {
+      "name": "Tapu Koko GX",
+      "set": "Ultra Shiny GX",
+      "img": "https://den-cards.pokellector.com/241/Tapu-Koko-GX.SM8B.246.25341.png",
+      "rarity": "Secret Rare",
+      "cardNum": "246/150"
+    },
+    {
+      "name": "Tapu Lele GX",
+      "set": "Ultra Shiny GX",
+      "img": "https://den-cards.pokellector.com/241/Tapu-Lele-GX.SM8B.247.25267.png",
+      "rarity": "Secret Rare",
+      "cardNum": "247/150"
+    },
+    {
+      "name": "Lunala GX",
+      "set": "Ultra Shiny GX",
+      "img": "https://den-cards.pokellector.com/241/Lunala-GX.SM8B.248.25271.png",
+      "rarity": "Secret Rare",
+      "cardNum": "248/150"
+    },
+    {
+      "name": "Solgaleo GX",
+      "set": "Ultra Shiny GX",
+      "img": "https://den-cards.pokellector.com/241/Solgaleo-GX.SM8B.249.25342.png",
+      "rarity": "Secret Rare",
+      "cardNum": "249/150"
+    },
+    {
+      "name": "Ultra Necrozma GX",
+      "set": "Ultra Shiny GX",
+      "img": "https://den-cards.pokellector.com/241/Ultra-Necrozma-GX.SM8B.250.25255.png",
+      "rarity": "Secret Rare",
+      "cardNum": "250/150"
+    }
+  ]
+}

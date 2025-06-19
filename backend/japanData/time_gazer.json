@@ -1,0 +1,621 @@
+{
+  "setName": "Time Gazer",
+  "cards": [
+    {
+      "name": "Yanma",
+      "set": "Time Gazer",
+      "img": "https://den-cards.pokellector.com/341/Yanma.S10D.1.43344.png",
+      "rarity": "Common",
+      "cardNum": "1/67"
+    },
+    {
+      "name": "Yanmega",
+      "set": "Time Gazer",
+      "img": "https://den-cards.pokellector.com/341/Yanmega.S10D.2.43345.png",
+      "rarity": "Uncommon",
+      "cardNum": "2/67"
+    },
+    {
+      "name": "Leafeon",
+      "set": "Time Gazer",
+      "img": "https://den-cards.pokellector.com/341/Leafeon.S10D.3.43253.png",
+      "rarity": "Common",
+      "cardNum": "3/67"
+    },
+    {
+      "name": "Shaymin",
+      "set": "Time Gazer",
+      "img": "https://den-cards.pokellector.com/341/Shaymin.S10D.4.43299.png",
+      "rarity": "Uncommon",
+      "cardNum": "4/67"
+    },
+    {
+      "name": "Petilil",
+      "set": "Time Gazer",
+      "img": "https://den-cards.pokellector.com/341/Petilil.S10D.5.43346.png",
+      "rarity": "Common",
+      "cardNum": "5/67"
+    },
+    {
+      "name": "Hisuian Lilligant",
+      "set": "Time Gazer",
+      "img": "https://den-cards.pokellector.com/341/Hisuian-Lilligant.S10D.6.43347.png",
+      "rarity": "Rare",
+      "cardNum": "6/67"
+    },
+    {
+      "name": "Hisuian Liligant V",
+      "set": "Time Gazer",
+      "img": "https://den-cards.pokellector.com/341/Hisuian-Liligant-V.S10D.7.43322.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "7/67"
+    },
+    {
+      "name": "Hisuian Lilligant VSTAR",
+      "set": "Time Gazer",
+      "img": "https://den-cards.pokellector.com/341/Hisuian-Lilligant-VSTAR.S10D.8.43321.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "8/67"
+    },
+    {
+      "name": "Cyndaquil",
+      "set": "Time Gazer",
+      "img": "https://den-cards.pokellector.com/341/Cyndaquil.S10D.9.43242.png",
+      "rarity": "Common",
+      "cardNum": "9/67"
+    },
+    {
+      "name": "Quilava",
+      "set": "Time Gazer",
+      "img": "https://den-cards.pokellector.com/341/Quilava.S10D.10.43240.png",
+      "rarity": "Common",
+      "cardNum": "10/67"
+    },
+    {
+      "name": "Poliwag",
+      "set": "Time Gazer",
+      "img": "https://den-cards.pokellector.com/341/Poliwag.S10D.11.43270.png",
+      "rarity": "Common",
+      "cardNum": "11/67"
+    },
+    {
+      "name": "Poliwhirl",
+      "set": "Time Gazer",
+      "img": "https://den-cards.pokellector.com/341/Poliwhirl.S10D.12.43269.png",
+      "rarity": "Common",
+      "cardNum": "12/67"
+    },
+    {
+      "name": "Politoed",
+      "set": "Time Gazer",
+      "img": "https://den-cards.pokellector.com/341/Politoed.S10D.13.43266.png",
+      "rarity": "Uncommon",
+      "cardNum": "13/67"
+    },
+    {
+      "name": "Mantine",
+      "set": "Time Gazer",
+      "img": "https://den-cards.pokellector.com/341/Mantine.S10D.14.43348.png",
+      "rarity": "Common",
+      "cardNum": "14/67"
+    },
+    {
+      "name": "Oshawott",
+      "set": "Time Gazer",
+      "img": "https://den-cards.pokellector.com/341/Oshawott.S10D.15.43245.png",
+      "rarity": "Common",
+      "cardNum": "15/67"
+    },
+    {
+      "name": "Dewott",
+      "set": "Time Gazer",
+      "img": "https://den-cards.pokellector.com/341/Dewott.S10D.16.43244.png",
+      "rarity": "Common",
+      "cardNum": "16/67"
+    },
+    {
+      "name": "Ducklett",
+      "set": "Time Gazer",
+      "img": "https://den-cards.pokellector.com/341/Ducklett.S10D.17.43349.png",
+      "rarity": "Common",
+      "cardNum": "17/67"
+    },
+    {
+      "name": "Swanna",
+      "set": "Time Gazer",
+      "img": "https://den-cards.pokellector.com/341/Swanna.S10D.18.43350.png",
+      "rarity": "Common",
+      "cardNum": "18/67"
+    },
+    {
+      "name": "Electrike",
+      "set": "Time Gazer",
+      "img": "https://den-cards.pokellector.com/341/Electrike.S10D.19.43351.png",
+      "rarity": "Common",
+      "cardNum": "19/67"
+    },
+    {
+      "name": "Manectric",
+      "set": "Time Gazer",
+      "img": "https://den-cards.pokellector.com/341/Manectric.S10D.20.43352.png",
+      "rarity": "Uncommon",
+      "cardNum": "20/67"
+    },
+    {
+      "name": "Luxray V",
+      "set": "Time Gazer",
+      "img": "https://den-cards.pokellector.com/341/Luxray-V.S10D.21.43353.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "21/67"
+    },
+    {
+      "name": "Regieleki",
+      "set": "Time Gazer",
+      "img": "https://den-cards.pokellector.com/341/Regieleki.S10D.22.43279.png",
+      "rarity": "Uncommon",
+      "cardNum": "22/67"
+    },
+    {
+      "name": "Hisuian Typhloshion",
+      "set": "Time Gazer",
+      "img": "https://den-cards.pokellector.com/341/Hisuian-Typhloshion.S10D.23.43239.png",
+      "rarity": "Rare",
+      "cardNum": "23/67"
+    },
+    {
+      "name": "Mawile",
+      "set": "Time Gazer",
+      "img": "https://den-cards.pokellector.com/341/Mawile.S10D.24.43354.png",
+      "rarity": "Common",
+      "cardNum": "24/67"
+    },
+    {
+      "name": "Jirachi V",
+      "set": "Time Gazer",
+      "img": "https://den-cards.pokellector.com/341/Jirachi-V.S10D.25.43355.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "25/67"
+    },
+    {
+      "name": "Drifloon",
+      "set": "Time Gazer",
+      "img": "https://den-cards.pokellector.com/341/Drifloon.S10D.26.43356.png",
+      "rarity": "Common",
+      "cardNum": "26/67"
+    },
+    {
+      "name": "Drifblim",
+      "set": "Time Gazer",
+      "img": "https://den-cards.pokellector.com/341/Drifblim.S10D.27.43357.png",
+      "rarity": "Common",
+      "cardNum": "27/67"
+    },
+    {
+      "name": "Cresselia",
+      "set": "Time Gazer",
+      "img": "https://den-cards.pokellector.com/341/Cresselia.S10D.28.43284.png",
+      "rarity": "Rare",
+      "cardNum": "28/67"
+    },
+    {
+      "name": "Hisuian Growlithe",
+      "set": "Time Gazer",
+      "img": "https://den-cards.pokellector.com/341/Hisuian-Growlithe.S10D.29.43286.png",
+      "rarity": "Common",
+      "cardNum": "29/67"
+    },
+    {
+      "name": "Hisuian Arcanine",
+      "set": "Time Gazer",
+      "img": "https://den-cards.pokellector.com/341/Hisuian-Arcanine.S10D.30.43287.png",
+      "rarity": "Uncommon",
+      "cardNum": "30/67"
+    },
+    {
+      "name": "Poliwrath",
+      "set": "Time Gazer",
+      "img": "https://den-cards.pokellector.com/341/Poliwrath.S10D.31.43268.png",
+      "rarity": "Uncommon",
+      "cardNum": "31/67"
+    },
+    {
+      "name": "Machamp V",
+      "set": "Time Gazer",
+      "img": "https://den-cards.pokellector.com/341/Machamp-V.S10D.32.43319.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "32/67"
+    },
+    {
+      "name": "Machamp VMAX",
+      "set": "Time Gazer",
+      "img": "https://den-cards.pokellector.com/341/Machamp-VMAX.S10D.33.43314.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "33/67"
+    },
+    {
+      "name": "Sudowoodo",
+      "set": "Time Gazer",
+      "img": "https://den-cards.pokellector.com/341/Sudowoodo.S10D.34.43358.png",
+      "rarity": "Common",
+      "cardNum": "34/67"
+    },
+    {
+      "name": "Cranidos",
+      "set": "Time Gazer",
+      "img": "https://den-cards.pokellector.com/341/Cranidos.S10D.35.43250.png",
+      "rarity": "Uncommon",
+      "cardNum": "35/67"
+    },
+    {
+      "name": "Rampardos",
+      "set": "Time Gazer",
+      "img": "https://den-cards.pokellector.com/341/Rampardos.S10D.36.43249.png",
+      "rarity": "Rare",
+      "cardNum": "36/67"
+    },
+    {
+      "name": "Mienfoo",
+      "set": "Time Gazer",
+      "img": "https://den-cards.pokellector.com/341/Mienfoo.S10D.37.43359.png",
+      "rarity": "Common",
+      "cardNum": "37/67"
+    },
+    {
+      "name": "Mienshao",
+      "set": "Time Gazer",
+      "img": "https://den-cards.pokellector.com/341/Mienshao.S10D.38.43360.png",
+      "rarity": "Common",
+      "cardNum": "38/67"
+    },
+    {
+      "name": "Spinarak",
+      "set": "Time Gazer",
+      "img": "https://den-cards.pokellector.com/341/Spinarak.S10D.39.43361.png",
+      "rarity": "Common",
+      "cardNum": "39/67"
+    },
+    {
+      "name": "Ariados",
+      "set": "Time Gazer",
+      "img": "https://den-cards.pokellector.com/341/Ariados.S10D.40.43362.png",
+      "rarity": "Uncommon",
+      "cardNum": "40/67"
+    },
+    {
+      "name": "Hisuian Samurott",
+      "set": "Time Gazer",
+      "img": "https://den-cards.pokellector.com/341/Hisuian-Samurott.S10D.41.43243.png",
+      "rarity": "Rare",
+      "cardNum": "41/67"
+    },
+    {
+      "name": "Nickit",
+      "set": "Time Gazer",
+      "img": "https://den-cards.pokellector.com/341/Nickit.S10D.42.43363.png",
+      "rarity": "Common",
+      "cardNum": "42/67"
+    },
+    {
+      "name": "Thievul",
+      "set": "Time Gazer",
+      "img": "https://den-cards.pokellector.com/341/Thievul.S10D.43.43336.png",
+      "rarity": "Uncommon",
+      "cardNum": "43/67"
+    },
+    {
+      "name": "Magnemite",
+      "set": "Time Gazer",
+      "img": "https://den-cards.pokellector.com/341/Magnemite.S10D.44.43248.png",
+      "rarity": "Common",
+      "cardNum": "44/67"
+    },
+    {
+      "name": "Magneton",
+      "set": "Time Gazer",
+      "img": "https://den-cards.pokellector.com/341/Magneton.S10D.45.43247.png",
+      "rarity": "Common",
+      "cardNum": "45/67"
+    },
+    {
+      "name": "Magnezone",
+      "set": "Time Gazer",
+      "img": "https://den-cards.pokellector.com/341/Magnezone.S10D.46.43246.png",
+      "rarity": "Rare",
+      "cardNum": "46/67"
+    },
+    {
+      "name": "Registeel",
+      "set": "Time Gazer",
+      "img": "https://den-cards.pokellector.com/341/Registeel.S10D.47.43278.png",
+      "rarity": "Uncommon",
+      "cardNum": "47/67"
+    },
+    {
+      "name": "Origin Dialga V",
+      "set": "Time Gazer",
+      "img": "https://den-cards.pokellector.com/341/Origin-Dialga-V.S10D.48.43236.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "48/67"
+    },
+    {
+      "name": "Origin Dialga VSTAR",
+      "set": "Time Gazer",
+      "img": "https://den-cards.pokellector.com/341/Origin-Dialga-VSTAR.S10D.49.43237.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "49/67"
+    },
+    {
+      "name": "Pawniard",
+      "set": "Time Gazer",
+      "img": "https://den-cards.pokellector.com/341/Pawniard.S10D.50.43318.png",
+      "rarity": "Common",
+      "cardNum": "50/67"
+    },
+    {
+      "name": "Bisharp",
+      "set": "Time Gazer",
+      "img": "https://den-cards.pokellector.com/341/Bisharp.S10D.51.43317.png",
+      "rarity": "Uncommon",
+      "cardNum": "51/67"
+    },
+    {
+      "name": "Eevee",
+      "set": "Time Gazer",
+      "img": "https://den-cards.pokellector.com/341/Eevee.S10D.52.43252.png",
+      "rarity": "Common",
+      "cardNum": "52/67"
+    },
+    {
+      "name": "Chatot",
+      "set": "Time Gazer",
+      "img": "https://den-cards.pokellector.com/341/Chatot.S10D.53.43364.png",
+      "rarity": "Common",
+      "cardNum": "53/67"
+    },
+    {
+      "name": "Regigigas",
+      "set": "Time Gazer",
+      "img": "https://den-cards.pokellector.com/341/Regigigas.S10D.54.43277.png",
+      "rarity": "Rare",
+      "cardNum": "54/67"
+    },
+    {
+      "name": "Rufflet",
+      "set": "Time Gazer",
+      "img": "https://den-cards.pokellector.com/341/Rufflet.S10D.55.43365.png",
+      "rarity": "Common",
+      "cardNum": "55/67"
+    },
+    {
+      "name": "Hisuian Braviary",
+      "set": "Time Gazer",
+      "img": "https://den-cards.pokellector.com/341/Hisuian-Braviary.S10D.56.43366.png",
+      "rarity": "Uncommon",
+      "cardNum": "56/67"
+    },
+    {
+      "name": "Skwovet",
+      "set": "Time Gazer",
+      "img": "https://den-cards.pokellector.com/341/Skwovet.S10D.57.43298.png",
+      "rarity": "Common",
+      "cardNum": "57/67"
+    },
+    {
+      "name": "Greedent",
+      "set": "Time Gazer",
+      "img": "https://den-cards.pokellector.com/341/Greedent.S10D.58.43297.png",
+      "rarity": "Uncommon",
+      "cardNum": "58/67"
+    },
+    {
+      "name": "Wyrdeer V",
+      "set": "Time Gazer",
+      "img": "https://den-cards.pokellector.com/341/Wyrdeer-V.S10D.59.43367.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "59/67"
+    },
+    {
+      "name": "Switch Cart",
+      "set": "Time Gazer",
+      "img": "https://den-cards.pokellector.com/341/Switch-Cart.S10D.60.43285.png",
+      "rarity": "Uncommon",
+      "cardNum": "60/67"
+    },
+    {
+      "name": "Trekking Shoes",
+      "set": "Time Gazer",
+      "img": "https://den-cards.pokellector.com/341/Trekking-Shoes.S10D.61.43368.png",
+      "rarity": "Uncommon",
+      "cardNum": "61/67"
+    },
+    {
+      "name": "Mysterious Fossil",
+      "set": "Time Gazer",
+      "img": "https://den-cards.pokellector.com/341/Mysterious-Fossil.S10D.62.43251.png",
+      "rarity": "Common",
+      "cardNum": "62/67"
+    },
+    {
+      "name": "Feather Ball",
+      "set": "Time Gazer",
+      "img": "https://den-cards.pokellector.com/341/Feather-Ball.S10D.63.43369.png",
+      "rarity": "Uncommon",
+      "cardNum": "63/67"
+    },
+    {
+      "name": "Adaman",
+      "set": "Time Gazer",
+      "img": "https://den-cards.pokellector.com/341/Adaman.S10D.64.43238.png",
+      "rarity": "Rare",
+      "cardNum": "64/67"
+    },
+    {
+      "name": "Gardenia's Vigor",
+      "set": "Time Gazer",
+      "img": "https://den-cards.pokellector.com/341/Gardenias-Vigor.S10D.65.43323.png",
+      "rarity": "Uncommon",
+      "cardNum": "65/67"
+    },
+    {
+      "name": "Zisu",
+      "set": "Time Gazer",
+      "img": "https://den-cards.pokellector.com/341/Zisu.S10D.66.43370.png",
+      "rarity": "Uncommon",
+      "cardNum": "66/67"
+    },
+    {
+      "name": "Gapejaw Bog",
+      "set": "Time Gazer",
+      "img": "https://den-cards.pokellector.com/341/Gapejaw-Bog.S10D.67.43316.png",
+      "rarity": "Uncommon",
+      "cardNum": "67/67"
+    },
+    {
+      "name": "Hisuian Liligant V",
+      "set": "Time Gazer",
+      "img": "https://den-cards.pokellector.com/341/Hisuian-Liligant-V.S10D.68.43402.png",
+      "rarity": "Secret Rare",
+      "cardNum": "68/67"
+    },
+    {
+      "name": "Hisuian Liligant V",
+      "set": "Time Gazer",
+      "img": "https://den-cards.pokellector.com/341/Hisuian-Liligant-V.S10D.69.43403.png",
+      "rarity": "Secret Rare",
+      "cardNum": "69/67"
+    },
+    {
+      "name": "Luxray V",
+      "set": "Time Gazer",
+      "img": "https://den-cards.pokellector.com/341/Luxray-V.S10D.70.43404.png",
+      "rarity": "Secret Rare",
+      "cardNum": "70/67"
+    },
+    {
+      "name": "Jirachi V",
+      "set": "Time Gazer",
+      "img": "https://den-cards.pokellector.com/341/Jirachi-V.S10D.71.43405.png",
+      "rarity": "Secret Rare",
+      "cardNum": "71/67"
+    },
+    {
+      "name": "Machamp V",
+      "set": "Time Gazer",
+      "img": "https://den-cards.pokellector.com/341/Machamp-V.S10D.72.43406.png",
+      "rarity": "Secret Rare",
+      "cardNum": "72/67"
+    },
+    {
+      "name": "Machamp V",
+      "set": "Time Gazer",
+      "img": "https://den-cards.pokellector.com/341/Machamp-V.S10D.73.43407.png",
+      "rarity": "Secret Rare",
+      "cardNum": "73/67"
+    },
+    {
+      "name": "Origin Dialga V",
+      "set": "Time Gazer",
+      "img": "https://den-cards.pokellector.com/341/Origin-Dialga-V.S10D.74.43408.png",
+      "rarity": "Secret Rare",
+      "cardNum": "74/67"
+    },
+    {
+      "name": "Origin Dialga V",
+      "set": "Time Gazer",
+      "img": "https://den-cards.pokellector.com/341/Origin-Dialga-V.S10D.75.43409.png",
+      "rarity": "Secret Rare",
+      "cardNum": "75/67"
+    },
+    {
+      "name": "Wyrdeer V",
+      "set": "Time Gazer",
+      "img": "https://den-cards.pokellector.com/341/Wyrdeer-V.S10D.76.43410.png",
+      "rarity": "Secret Rare",
+      "cardNum": "76/67"
+    },
+    {
+      "name": "Adaman",
+      "set": "Time Gazer",
+      "img": "https://den-cards.pokellector.com/341/Adaman.S10D.77.43411.png",
+      "rarity": "Secret Rare",
+      "cardNum": "77/67"
+    },
+    {
+      "name": "Gardenia's Vigor",
+      "set": "Time Gazer",
+      "img": "https://den-cards.pokellector.com/341/Gardenias-Vigor.S10D.78.43412.png",
+      "rarity": "Secret Rare",
+      "cardNum": "78/67"
+    },
+    {
+      "name": "Zisu",
+      "set": "Time Gazer",
+      "img": "https://den-cards.pokellector.com/341/Zisu.S10D.79.43413.png",
+      "rarity": "Secret Rare",
+      "cardNum": "79/67"
+    },
+    {
+      "name": "Hisuian Liligant VSTAR",
+      "set": "Time Gazer",
+      "img": "https://den-cards.pokellector.com/341/Hisuian-Liligant-VSTAR.S10D.80.43414.png",
+      "rarity": "Secret Rare",
+      "cardNum": "80/67"
+    },
+    {
+      "name": "Machamp VMAX",
+      "set": "Time Gazer",
+      "img": "https://den-cards.pokellector.com/341/Machamp-VMAX.S10D.81.43415.png",
+      "rarity": "Secret Rare",
+      "cardNum": "81/67"
+    },
+    {
+      "name": "Origin Dialga VSTAR",
+      "set": "Time Gazer",
+      "img": "https://den-cards.pokellector.com/341/Origin-Dialga-VSTAR.S10D.82.43416.png",
+      "rarity": "Secret Rare",
+      "cardNum": "82/67"
+    },
+    {
+      "name": "Adaman",
+      "set": "Time Gazer",
+      "img": "https://den-cards.pokellector.com/341/Adaman.S10D.83.43417.png",
+      "rarity": "Secret Rare",
+      "cardNum": "83/67"
+    },
+    {
+      "name": "Gardenia's Vigor",
+      "set": "Time Gazer",
+      "img": "https://den-cards.pokellector.com/341/Gardenias-Vigor.S10D.84.43418.png",
+      "rarity": "Secret Rare",
+      "cardNum": "84/67"
+    },
+    {
+      "name": "Zisu",
+      "set": "Time Gazer",
+      "img": "https://den-cards.pokellector.com/341/Zisu.S10D.85.43419.png",
+      "rarity": "Secret Rare",
+      "cardNum": "85/67"
+    },
+    {
+      "name": "Origin Dialga VSTAR",
+      "set": "Time Gazer",
+      "img": "https://den-cards.pokellector.com/341/Origin-Dialga-VSTAR.S10D.86.43420.png",
+      "rarity": "Secret Rare",
+      "cardNum": "86/67"
+    },
+    {
+      "name": "Trekking Shoes",
+      "set": "Time Gazer",
+      "img": "https://den-cards.pokellector.com/341/Trekking-Shoes.S10D.87.43421.png",
+      "rarity": "Secret Rare",
+      "cardNum": "87/67"
+    },
+    {
+      "name": "Path to the Peak",
+      "set": "Time Gazer",
+      "img": "https://den-cards.pokellector.com/341/Path-to-the-Peak.S10D.88.43422.png",
+      "rarity": "Secret Rare",
+      "cardNum": "88/67"
+    }
+  ]
+}

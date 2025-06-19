@@ -1,0 +1,215 @@
+{
+  "setName": "Trick or Trade 2023",
+  "cards": [
+    {
+      "name": "Phantump",
+      "set": "Lost Origin",
+      "img": "https://den-cards.pokellector.com/350/Phantump.SWSH10.16.44677.png",
+      "rarity": "Common",
+      "cardNum": "16/196"
+    },
+    {
+      "name": "Trevenant",
+      "set": "Lost Origin",
+      "img": "https://den-cards.pokellector.com/350/Trevenant.SWSH10.17.44678.png",
+      "rarity": "Rare",
+      "cardNum": "17/196"
+    },
+    {
+      "name": "Dhelmise",
+      "set": "Vivid Voltage",
+      "img": "https://den-cards.pokellector.com/299/Dhelmise.SWSH0.19.35958.png",
+      "rarity": "Uncommon",
+      "cardNum": "19/185"
+    },
+    {
+      "name": "Houndoom",
+      "set": "Scarlet & Violet",
+      "img": "https://den-cards.pokellector.com/363/Houndoom.SV1EN.34.47104.png",
+      "rarity": "Common",
+      "cardNum": "34/198"
+    },
+    {
+      "name": "Litwick",
+      "set": "Lost Origin",
+      "img": "https://den-cards.pokellector.com/350/Litwick.SWSH10.24.44685.png",
+      "rarity": "Common",
+      "cardNum": "24/196"
+    },
+    {
+      "name": "Lampent",
+      "set": "Lost Origin",
+      "img": "https://den-cards.pokellector.com/350/Lampent.SWSH10.25.44686.png",
+      "rarity": "Uncommon",
+      "cardNum": "25/196"
+    },
+    {
+      "name": "Chandelure",
+      "set": "Lost Origin",
+      "img": "https://den-cards.pokellector.com/350/Chandelure.SWSH10.26.44687.png",
+      "rarity": "Rare",
+      "cardNum": "26/196"
+    },
+    {
+      "name": "Pikachu",
+      "set": "Paldea Evolved",
+      "img": "https://den-cards.pokellector.com/367/Pikachu.PAL.62.47863.png",
+      "rarity": "Common",
+      "cardNum": "62/193"
+    },
+    {
+      "name": "Lycanroc",
+      "set": "Vivid Voltage",
+      "img": "https://den-cards.pokellector.com/299/Lycanroc.SWSH0.95.36034.png",
+      "rarity": "Rare",
+      "cardNum": "95/185"
+    },
+    {
+      "name": "Galarian Runerigus",
+      "set": "Rebel Clash",
+      "img": "https://den-cards.pokellector.com/292/Galarian-Runerigus.SWSH2.102.34511.png",
+      "rarity": "Rare",
+      "cardNum": "102/192"
+    },
+    {
+      "name": "Gastly",
+      "set": "Lost Origin",
+      "img": "https://den-cards.pokellector.com/350/Gastly.SWSH10.64.44724.png",
+      "rarity": "Common",
+      "cardNum": "64/196"
+    },
+    {
+      "name": "Haunter",
+      "set": "Lost Origin",
+      "img": "https://den-cards.pokellector.com/350/Haunter.SWSH10.65.44725.png",
+      "rarity": "Uncommon",
+      "cardNum": "65/196"
+    },
+    {
+      "name": "Gengar",
+      "set": "Lost Origin",
+      "img": "https://den-cards.pokellector.com/350/Gengar.SWSH10.66.44726.png",
+      "rarity": "Rare",
+      "cardNum": "66/196"
+    },
+    {
+      "name": "Duskull",
+      "set": "Vivid Voltage",
+      "img": "https://den-cards.pokellector.com/299/Duskull.SWSH0.69.36008.png",
+      "rarity": "Common",
+      "cardNum": "69/185"
+    },
+    {
+      "name": "Dusclops",
+      "set": "Vivid Voltage",
+      "img": "https://den-cards.pokellector.com/299/Dusclops.SWSH0.70.36009.png",
+      "rarity": "Uncommon",
+      "cardNum": "70/185"
+    },
+    {
+      "name": "Dusknoir",
+      "set": "Vivid Voltage",
+      "img": "https://den-cards.pokellector.com/299/Dusknoir.SWSH0.71.36010.png",
+      "rarity": "Rare",
+      "cardNum": "71/185"
+    },
+    {
+      "name": "Shuppet",
+      "set": "Scarlet & Violet",
+      "img": "https://den-cards.pokellector.com/363/Shuppet.SV1EN.87.47149.png",
+      "rarity": "Common",
+      "cardNum": "87/198"
+    },
+    {
+      "name": "Banette",
+      "set": "Lost Origin",
+      "img": "https://den-cards.pokellector.com/350/Banette.SWSH10.73.44733.png",
+      "rarity": "Rare",
+      "cardNum": "73/196"
+    },
+    {
+      "name": "Mismagius",
+      "set": "Paldea Evolved",
+      "img": "https://den-cards.pokellector.com/367/Mismagius.PAL.88.47886.png",
+      "rarity": "Uncommon",
+      "cardNum": "88/193"
+    },
+    {
+      "name": "Drifloon",
+      "set": "Scarlet & Violet",
+      "img": "https://den-cards.pokellector.com/363/Drifloon.SV1EN.89.47151.png",
+      "rarity": "Common",
+      "cardNum": "89/198"
+    },
+    {
+      "name": "Drifblim",
+      "set": "Scarlet & Violet",
+      "img": "https://den-cards.pokellector.com/363/Drifblim.SV1EN.90.47152.png",
+      "rarity": "Uncommon",
+      "cardNum": "90/198"
+    },
+    {
+      "name": "Mimikyu",
+      "set": "Paldea Evolved",
+      "img": "https://den-cards.pokellector.com/367/Mimikyu.PAL.97.47895.png",
+      "rarity": "Rare",
+      "cardNum": "97/193"
+    },
+    {
+      "name": "Marshadow",
+      "set": "Evolving Skies",
+      "img": "https://den-cards.pokellector.com/325/Marshadow.SWSH7.80.39948.png",
+      "rarity": "Rare",
+      "cardNum": "80/203"
+    },
+    {
+      "name": "Spectrier",
+      "set": "Lost Origin",
+      "img": "https://den-cards.pokellector.com/350/Spectrier.SWSH10.81.44741.png",
+      "rarity": "Rare",
+      "cardNum": "81/196"
+    },
+    {
+      "name": "Sinistea",
+      "set": "Sword & Shield",
+      "img": "https://den-cards.pokellector.com/286/Sinistea.SH01.89.31503.png",
+      "rarity": "Common",
+      "cardNum": "89/202"
+    },
+    {
+      "name": "Polteageist",
+      "set": "Sword & Shield",
+      "img": "https://den-cards.pokellector.com/286/Polteageist.SH01.90.31504.png",
+      "rarity": "Rare",
+      "cardNum": "90/202"
+    },
+    {
+      "name": "Greavard",
+      "set": "Scarlet & Violet",
+      "img": "https://den-cards.pokellector.com/363/Greavard.SV1EN.104.47165.png",
+      "rarity": "Common",
+      "cardNum": "104/198"
+    },
+    {
+      "name": "Houndstone",
+      "set": "Scarlet & Violet",
+      "img": "https://den-cards.pokellector.com/363/Houndstone.SV1EN.106.47166.png",
+      "rarity": "Rare",
+      "cardNum": "106/198"
+    },
+    {
+      "name": "Zubat",
+      "set": "Silver Tempest",
+      "img": "https://den-cards.pokellector.com/354/Zubat.SWSH12.103.45469.png",
+      "rarity": "Common",
+      "cardNum": "103/195"
+    },
+    {
+      "name": "Murkrow",
+      "set": "Paldea Evolved",
+      "img": "https://den-cards.pokellector.com/367/Murkrow.PAL.131.47926.png",
+      "rarity": "Common",
+      "cardNum": "131/193"
+    }
+  ]
+}

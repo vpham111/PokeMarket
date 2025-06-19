@@ -1,0 +1,215 @@
+{
+  "setName": "Trick or Trade",
+  "cards": [
+    {
+      "name": "Phantump",
+      "set": "Fusion Strike",
+      "img": "https://den-cards.pokellector.com/335/Phantump.SWSH8.16.40688.png",
+      "rarity": "Common",
+      "cardNum": "16/264"
+    },
+    {
+      "name": "Trevenant",
+      "set": "Rebel Clash",
+      "img": "https://den-cards.pokellector.com/292/Trevenant.SWSH2.15.34445.png",
+      "rarity": "Rare",
+      "cardNum": "15/192"
+    },
+    {
+      "name": "Litwick",
+      "set": "Rebel Clash",
+      "img": "https://den-cards.pokellector.com/292/Litwick.SWSH2.31.34457.png",
+      "rarity": "Common",
+      "cardNum": "31/192"
+    },
+    {
+      "name": "Lampent",
+      "set": "Rebel Clash",
+      "img": "https://den-cards.pokellector.com/292/Lampent.SWSH2.32.34333.png",
+      "rarity": "Uncommon",
+      "cardNum": "32/192"
+    },
+    {
+      "name": "Chandelure",
+      "set": "Rebel Clash",
+      "img": "https://den-cards.pokellector.com/292/Chandelure.SWSH2.33.34458.png",
+      "rarity": "Rare",
+      "cardNum": "33/192"
+    },
+    {
+      "name": "Pikachu",
+      "set": "Evolving Skies",
+      "img": "https://den-cards.pokellector.com/325/Pikachu.SWSH7.49.39918.png",
+      "rarity": "Common",
+      "cardNum": "49/203"
+    },
+    {
+      "name": "Cubone",
+      "set": "Battle Styles",
+      "img": "https://den-cards.pokellector.com/305/Cubone.SWSH05.69.37593.png",
+      "rarity": "Common",
+      "cardNum": "69/163"
+    },
+    {
+      "name": "Gastly",
+      "set": "Chilling Reign",
+      "img": "https://den-cards.pokellector.com/320/Gastly.CRE.55.39055.png",
+      "rarity": "Common",
+      "cardNum": "55/198"
+    },
+    {
+      "name": "Haunter",
+      "set": "Chilling Reign",
+      "img": "https://den-cards.pokellector.com/320/Haunter.CRE.56.39056.png",
+      "rarity": "Uncommon",
+      "cardNum": "56/198"
+    },
+    {
+      "name": "Gengar",
+      "set": "Chilling Reign",
+      "img": "https://den-cards.pokellector.com/320/Gengar.CRE.57.39057.png",
+      "rarity": "Rare",
+      "cardNum": "57/198"
+    },
+    {
+      "name": "Mewtwo",
+      "set": "Brilliant Stars",
+      "img": "https://den-cards.pokellector.com/340/Mewtwo.SWSH09.56.42761.png",
+      "rarity": "Rare",
+      "cardNum": "56/172"
+    },
+    {
+      "name": "Misdreavus",
+      "set": "Astral Radiance",
+      "img": "https://den-cards.pokellector.com/345/Misdreavus.SWSH10.58.43726.png",
+      "rarity": "Common",
+      "cardNum": "58/189"
+    },
+    {
+      "name": "Mismagius",
+      "set": "Astral Radiance",
+      "img": "https://den-cards.pokellector.com/345/Mismagius.SWSH10.59.43727.png",
+      "rarity": "Rare",
+      "cardNum": "59/189"
+    },
+    {
+      "name": "Duskull",
+      "set": "Brilliant Stars",
+      "img": "https://den-cards.pokellector.com/340/Duskull.SWSH09.60.42765.png",
+      "rarity": "Common",
+      "cardNum": "60/172"
+    },
+    {
+      "name": "Dusclops",
+      "set": "Brilliant Stars",
+      "img": "https://den-cards.pokellector.com/340/Dusclops.SWSH09.61.42766.png",
+      "rarity": "Uncommon",
+      "cardNum": "61/172"
+    },
+    {
+      "name": "Dusknoir",
+      "set": "Brilliant Stars",
+      "img": "https://den-cards.pokellector.com/340/Dusknoir.SWSH09.62.42767.png",
+      "rarity": "Rare",
+      "cardNum": "62/172"
+    },
+    {
+      "name": "Pumpkaboo",
+      "set": "Evolving Skies",
+      "img": "https://den-cards.pokellector.com/325/Pumpkaboo.SWSH7.76.39944.png",
+      "rarity": "Common",
+      "cardNum": "76/203"
+    },
+    {
+      "name": "Gourgeist",
+      "set": "Evolving Skies",
+      "img": "https://den-cards.pokellector.com/325/Gourgeist.SWSH7.77.39945.png",
+      "rarity": "Rare",
+      "cardNum": "77/203"
+    },
+    {
+      "name": "Mimikyu",
+      "set": "Darkness Ablaze",
+      "img": "https://den-cards.pokellector.com/296/Mimikyu.SWSH3.81.35190.png",
+      "rarity": "Rare",
+      "cardNum": "81/189"
+    },
+    {
+      "name": "Sinistea",
+      "set": "Darkness Ablaze",
+      "img": "https://den-cards.pokellector.com/296/Sinistea.SWSH3.82.35191.png",
+      "rarity": "Common",
+      "cardNum": "82/189"
+    },
+    {
+      "name": "Polteageist",
+      "set": "Darkness Ablaze",
+      "img": "https://den-cards.pokellector.com/296/Polteageist.SWSH3.83.35192.png",
+      "rarity": "Uncommon",
+      "cardNum": "83/189"
+    },
+    {
+      "name": "Hatenna",
+      "set": "Champion's Path",
+      "img": "https://den-cards.pokellector.com/298/Hatenna.SWSH3.18.35717.png",
+      "rarity": "Common",
+      "cardNum": "18/73"
+    },
+    {
+      "name": "Zarude",
+      "set": "Chilling Reign",
+      "img": "https://den-cards.pokellector.com/320/Zarude.CRE.19.39023.png",
+      "rarity": "Rare",
+      "cardNum": "19/198"
+    },
+    {
+      "name": "Hatterene",
+      "set": "Chilling Reign",
+      "img": "https://den-cards.pokellector.com/320/Hatterene.CRE.73.39071.png",
+      "rarity": "Rare",
+      "cardNum": "73/198"
+    },
+    {
+      "name": "Zubat",
+      "set": "Battle Styles",
+      "img": "https://den-cards.pokellector.com/305/Zubat.SWSH05.89.37608.png",
+      "rarity": "Common",
+      "cardNum": "89/163"
+    },
+    {
+      "name": "Spinarak",
+      "set": "Darkness Ablaze",
+      "img": "https://den-cards.pokellector.com/296/Spinarak.SWSH3.102.35210.png",
+      "rarity": "Common",
+      "cardNum": "102/189"
+    },
+    {
+      "name": "Ariados",
+      "set": "Darkness Ablaze",
+      "img": "https://den-cards.pokellector.com/296/Ariados.SWSH3.103.35211.png",
+      "rarity": "Uncommon",
+      "cardNum": "103/189"
+    },
+    {
+      "name": "Murkrow",
+      "set": "Battle Styles",
+      "img": "https://den-cards.pokellector.com/305/Murkrow.SWSH05.93.37612.png",
+      "rarity": "Common",
+      "cardNum": "93/163"
+    },
+    {
+      "name": "Darkrai",
+      "set": "Darkness Ablaze",
+      "img": "https://den-cards.pokellector.com/296/Darkrai.SWSH3.105.35213.png",
+      "rarity": "Rare",
+      "cardNum": "105/189"
+    },
+    {
+      "name": "Nickit",
+      "set": "Astral Radiance",
+      "img": "https://den-cards.pokellector.com/345/Nickit.SWSH10.103.43770.png",
+      "rarity": "Common",
+      "cardNum": "103/189"
+    }
+  ]
+}

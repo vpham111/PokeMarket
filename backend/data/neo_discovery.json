@@ -1,0 +1,530 @@
+{
+  "setName": "Neo Discovery",
+  "cards": [
+    {
+      "name": "Espeon",
+      "set": "Neo Discovery",
+      "img": "https://den-cards.pokellector.com/114/Espeon.N2.1.png",
+      "rarity": "Rare",
+      "cardNum": "1/75"
+    },
+    {
+      "name": "Forretress",
+      "set": "Neo Discovery",
+      "img": "https://den-cards.pokellector.com/114/Forretress.N2.2.7301.png",
+      "rarity": "Rare",
+      "cardNum": "2/75"
+    },
+    {
+      "name": "Hitmontop",
+      "set": "Neo Discovery",
+      "img": "https://den-cards.pokellector.com/114/Hitmontop.N2.3.png",
+      "rarity": "Rare",
+      "cardNum": "3/75"
+    },
+    {
+      "name": "Houndoom",
+      "set": "Neo Discovery",
+      "img": "https://den-cards.pokellector.com/114/Houndoom.N2.4.7303.png",
+      "rarity": "Rare",
+      "cardNum": "4/75"
+    },
+    {
+      "name": "Houndour",
+      "set": "Neo Discovery",
+      "img": "https://den-cards.pokellector.com/114/Houndour.N2.5.7304.png",
+      "rarity": "Rare",
+      "cardNum": "5/75"
+    },
+    {
+      "name": "Kabutops",
+      "set": "Neo Discovery",
+      "img": "https://den-cards.pokellector.com/114/Kabutops.N2.6.png",
+      "rarity": "Rare",
+      "cardNum": "6/75"
+    },
+    {
+      "name": "Magnemite",
+      "set": "Neo Discovery",
+      "img": "https://den-cards.pokellector.com/114/Magnemite.N2.7.png",
+      "rarity": "Rare",
+      "cardNum": "7/75"
+    },
+    {
+      "name": "Politoed",
+      "set": "Neo Discovery",
+      "img": "https://den-cards.pokellector.com/114/Politoed.N2.8.7307.png",
+      "rarity": "Rare",
+      "cardNum": "8/75"
+    },
+    {
+      "name": "Poliwrath",
+      "set": "Neo Discovery",
+      "img": "https://den-cards.pokellector.com/114/Poliwrath.N2.9.7308.png",
+      "rarity": "Rare",
+      "cardNum": "9/75"
+    },
+    {
+      "name": "Scizor",
+      "set": "Neo Discovery",
+      "img": "https://den-cards.pokellector.com/114/Scizor.N2.10.7309.png",
+      "rarity": "Rare",
+      "cardNum": "10/75"
+    },
+    {
+      "name": "Smeargle",
+      "set": "Neo Discovery",
+      "img": "https://den-cards.pokellector.com/114/Smeargle.N2.11.7310.png",
+      "rarity": "Rare",
+      "cardNum": "11/75"
+    },
+    {
+      "name": "Tyranitar",
+      "set": "Neo Discovery",
+      "img": "https://den-cards.pokellector.com/114/Tyranitar.N2.12.png",
+      "rarity": "Rare",
+      "cardNum": "12/75"
+    },
+    {
+      "name": "Umbreon",
+      "set": "Neo Discovery",
+      "img": "https://den-cards.pokellector.com/114/Umbreon.N2.13.png",
+      "rarity": "Rare",
+      "cardNum": "13/75"
+    },
+    {
+      "name": "Unown A",
+      "set": "Neo Discovery",
+      "img": "https://den-cards.pokellector.com/114/Unown-A.N2.14.png",
+      "rarity": "Rare",
+      "cardNum": "14/75"
+    },
+    {
+      "name": "Ursaring",
+      "set": "Neo Discovery",
+      "img": "https://den-cards.pokellector.com/114/Ursaring.N2.15.png",
+      "rarity": "Rare",
+      "cardNum": "15/75"
+    },
+    {
+      "name": "Wobbuffet",
+      "set": "Neo Discovery",
+      "img": "https://den-cards.pokellector.com/114/Wobbuffet.N2.16.7315.png",
+      "rarity": "Rare",
+      "cardNum": "16/75"
+    },
+    {
+      "name": "Yanma",
+      "set": "Neo Discovery",
+      "img": "https://den-cards.pokellector.com/114/Yanma.N2.17.png",
+      "rarity": "Rare",
+      "cardNum": "17/75"
+    },
+    {
+      "name": "Beedrill",
+      "set": "Neo Discovery",
+      "img": "https://den-cards.pokellector.com/114/Beedrill.N2.18.7317.png",
+      "rarity": "Rare",
+      "cardNum": "18/75"
+    },
+    {
+      "name": "Butterfree",
+      "set": "Neo Discovery",
+      "img": "https://den-cards.pokellector.com/114/Butterfree.N2.19.7318.png",
+      "rarity": "Rare",
+      "cardNum": "19/75"
+    },
+    {
+      "name": "Espeon",
+      "set": "Neo Discovery",
+      "img": "https://den-cards.pokellector.com/114/Espeon.N2.20.7319.png",
+      "rarity": "Rare",
+      "cardNum": "20/75"
+    },
+    {
+      "name": "Forretress",
+      "set": "Neo Discovery",
+      "img": "https://den-cards.pokellector.com/114/Forretress.N2.21.png",
+      "rarity": "Rare",
+      "cardNum": "21/75"
+    },
+    {
+      "name": "Hitmontop",
+      "set": "Neo Discovery",
+      "img": "https://den-cards.pokellector.com/114/Hitmontop.N2.22.png",
+      "rarity": "Rare",
+      "cardNum": "22/75"
+    },
+    {
+      "name": "Houndoom",
+      "set": "Neo Discovery",
+      "img": "https://den-cards.pokellector.com/114/Houndoom.N2.23.7322.png",
+      "rarity": "Rare",
+      "cardNum": "23/75"
+    },
+    {
+      "name": "Houndour",
+      "set": "Neo Discovery",
+      "img": "https://den-cards.pokellector.com/114/Houndour.N2.24.7323.png",
+      "rarity": "Rare",
+      "cardNum": "24/75"
+    },
+    {
+      "name": "Kabutops",
+      "set": "Neo Discovery",
+      "img": "https://den-cards.pokellector.com/114/Kabutops.N2.25.7324.png",
+      "rarity": "Rare",
+      "cardNum": "25/75"
+    },
+    {
+      "name": "Magnemite",
+      "set": "Neo Discovery",
+      "img": "https://den-cards.pokellector.com/114/Magnemite.N2.26.7325.png",
+      "rarity": "Rare",
+      "cardNum": "26/75"
+    },
+    {
+      "name": "Politoed",
+      "set": "Neo Discovery",
+      "img": "https://den-cards.pokellector.com/114/Politoed.N2.27.png",
+      "rarity": "Rare",
+      "cardNum": "27/75"
+    },
+    {
+      "name": "Poliwrath",
+      "set": "Neo Discovery",
+      "img": "https://den-cards.pokellector.com/114/Poliwrath.N2.28.7327.png",
+      "rarity": "Rare",
+      "cardNum": "28/75"
+    },
+    {
+      "name": "Scizor",
+      "set": "Neo Discovery",
+      "img": "https://den-cards.pokellector.com/114/Scizor.N2.29.png",
+      "rarity": "Rare",
+      "cardNum": "29/75"
+    },
+    {
+      "name": "Smeargle",
+      "set": "Neo Discovery",
+      "img": "https://den-cards.pokellector.com/114/Smeargle.N2.30.png",
+      "rarity": "Rare",
+      "cardNum": "30/75"
+    },
+    {
+      "name": "Tyranitar",
+      "set": "Neo Discovery",
+      "img": "https://den-cards.pokellector.com/114/Tyranitar.N2.31.png",
+      "rarity": "Rare",
+      "cardNum": "31/75"
+    },
+    {
+      "name": "Umbreon",
+      "set": "Neo Discovery",
+      "img": "https://den-cards.pokellector.com/114/Umbreon.N2.32.7331.png",
+      "rarity": "Rare",
+      "cardNum": "32/75"
+    },
+    {
+      "name": "Unown A",
+      "set": "Neo Discovery",
+      "img": "https://den-cards.pokellector.com/114/Unown-A.N2.33.png",
+      "rarity": "Rare",
+      "cardNum": "33/75"
+    },
+    {
+      "name": "Ursaring",
+      "set": "Neo Discovery",
+      "img": "https://den-cards.pokellector.com/114/Ursaring.N2.34.png",
+      "rarity": "Rare",
+      "cardNum": "34/75"
+    },
+    {
+      "name": "Wobbuffet",
+      "set": "Neo Discovery",
+      "img": "https://den-cards.pokellector.com/114/Wobbuffet.N2.35.7334.png",
+      "rarity": "Rare",
+      "cardNum": "35/75"
+    },
+    {
+      "name": "Yanma",
+      "set": "Neo Discovery",
+      "img": "https://den-cards.pokellector.com/114/Yanma.N2.36.7335.png",
+      "rarity": "Rare",
+      "cardNum": "36/75"
+    },
+    {
+      "name": "Corsola",
+      "set": "Neo Discovery",
+      "img": "https://den-cards.pokellector.com/114/Corsola.N2.37.png",
+      "rarity": "Uncommon",
+      "cardNum": "37/75"
+    },
+    {
+      "name": "Eevee",
+      "set": "Neo Discovery",
+      "img": "https://den-cards.pokellector.com/114/Eevee.N2.38.png",
+      "rarity": "Uncommon",
+      "cardNum": "38/75"
+    },
+    {
+      "name": "Houndour",
+      "set": "Neo Discovery",
+      "img": "https://den-cards.pokellector.com/114/Houndour.N2.39.png",
+      "rarity": "Uncommon",
+      "cardNum": "39/75"
+    },
+    {
+      "name": "Igglybuff",
+      "set": "Neo Discovery",
+      "img": "https://den-cards.pokellector.com/114/Igglybuff.N2.40.png",
+      "rarity": "Uncommon",
+      "cardNum": "40/75"
+    },
+    {
+      "name": "Kakuna",
+      "set": "Neo Discovery",
+      "img": "https://den-cards.pokellector.com/114/Kakuna.N2.41.png",
+      "rarity": "Uncommon",
+      "cardNum": "41/75"
+    },
+    {
+      "name": "Metapod",
+      "set": "Neo Discovery",
+      "img": "https://den-cards.pokellector.com/114/Metapod.N2.42.png",
+      "rarity": "Uncommon",
+      "cardNum": "42/75"
+    },
+    {
+      "name": "Omastar",
+      "set": "Neo Discovery",
+      "img": "https://den-cards.pokellector.com/114/Omastar.N2.43.7342.png",
+      "rarity": "Uncommon",
+      "cardNum": "43/75"
+    },
+    {
+      "name": "Poliwhirl",
+      "set": "Neo Discovery",
+      "img": "https://den-cards.pokellector.com/114/Poliwhirl.N2.44.png",
+      "rarity": "Uncommon",
+      "cardNum": "44/75"
+    },
+    {
+      "name": "Pupitar",
+      "set": "Neo Discovery",
+      "img": "https://den-cards.pokellector.com/114/Pupitar.N2.45.png",
+      "rarity": "Uncommon",
+      "cardNum": "45/75"
+    },
+    {
+      "name": "Scyther",
+      "set": "Neo Discovery",
+      "img": "https://den-cards.pokellector.com/114/Scyther.N2.46.png",
+      "rarity": "Uncommon",
+      "cardNum": "46/75"
+    },
+    {
+      "name": "Unown D",
+      "set": "Neo Discovery",
+      "img": "https://den-cards.pokellector.com/114/Unown-D.N2.47.png",
+      "rarity": "Uncommon",
+      "cardNum": "47/75"
+    },
+    {
+      "name": "Unown F",
+      "set": "Neo Discovery",
+      "img": "https://den-cards.pokellector.com/114/Unown-F.N2.48.png",
+      "rarity": "Uncommon",
+      "cardNum": "48/75"
+    },
+    {
+      "name": "Unown M",
+      "set": "Neo Discovery",
+      "img": "https://den-cards.pokellector.com/114/Unown-M.N2.49.png",
+      "rarity": "Uncommon",
+      "cardNum": "49/75"
+    },
+    {
+      "name": "Unown N",
+      "set": "Neo Discovery",
+      "img": "https://den-cards.pokellector.com/114/Unown-N.N2.50.png",
+      "rarity": "Uncommon",
+      "cardNum": "50/75"
+    },
+    {
+      "name": "Unown U",
+      "set": "Neo Discovery",
+      "img": "https://den-cards.pokellector.com/114/Unown-U.N2.51.png",
+      "rarity": "Uncommon",
+      "cardNum": "51/75"
+    },
+    {
+      "name": "Xatu",
+      "set": "Neo Discovery",
+      "img": "https://den-cards.pokellector.com/114/Xatu.N2.52.png",
+      "rarity": "Uncommon",
+      "cardNum": "52/75"
+    },
+    {
+      "name": "Caterpie",
+      "set": "Neo Discovery",
+      "img": "https://den-cards.pokellector.com/114/Caterpie.N2.53.png",
+      "rarity": "Common",
+      "cardNum": "53/75"
+    },
+    {
+      "name": "Dunsparce",
+      "set": "Neo Discovery",
+      "img": "https://den-cards.pokellector.com/114/Dunsparce.N2.54.png",
+      "rarity": "Common",
+      "cardNum": "54/75"
+    },
+    {
+      "name": "Hoppip",
+      "set": "Neo Discovery",
+      "img": "https://den-cards.pokellector.com/114/Hoppip.N2.55.png",
+      "rarity": "Common",
+      "cardNum": "55/75"
+    },
+    {
+      "name": "Kabuto",
+      "set": "Neo Discovery",
+      "img": "https://den-cards.pokellector.com/114/Kabuto.N2.56.png",
+      "rarity": "Common",
+      "cardNum": "56/75"
+    },
+    {
+      "name": "Larvitar",
+      "set": "Neo Discovery",
+      "img": "https://den-cards.pokellector.com/114/Larvitar.N2.57.png",
+      "rarity": "Common",
+      "cardNum": "57/75"
+    },
+    {
+      "name": "Mareep",
+      "set": "Neo Discovery",
+      "img": "https://den-cards.pokellector.com/114/Mareep.N2.58.png",
+      "rarity": "Common",
+      "cardNum": "58/75"
+    },
+    {
+      "name": "Natu",
+      "set": "Neo Discovery",
+      "img": "https://den-cards.pokellector.com/114/Natu.N2.59.png",
+      "rarity": "Common",
+      "cardNum": "59/75"
+    },
+    {
+      "name": "Omanyte",
+      "set": "Neo Discovery",
+      "img": "https://den-cards.pokellector.com/114/Omanyte.N2.60.png",
+      "rarity": "Common",
+      "cardNum": "60/75"
+    },
+    {
+      "name": "Pineco",
+      "set": "Neo Discovery",
+      "img": "https://den-cards.pokellector.com/114/Pineco.N2.61.png",
+      "rarity": "Common",
+      "cardNum": "61/75"
+    },
+    {
+      "name": "Poliwag",
+      "set": "Neo Discovery",
+      "img": "https://den-cards.pokellector.com/114/Poliwag.N2.62.png",
+      "rarity": "Common",
+      "cardNum": "62/75"
+    },
+    {
+      "name": "Sentret",
+      "set": "Neo Discovery",
+      "img": "https://den-cards.pokellector.com/114/Sentret.N2.63.png",
+      "rarity": "Common",
+      "cardNum": "63/75"
+    },
+    {
+      "name": "Spinarak",
+      "set": "Neo Discovery",
+      "img": "https://den-cards.pokellector.com/114/Spinarak.N2.64.png",
+      "rarity": "Common",
+      "cardNum": "64/75"
+    },
+    {
+      "name": "Teddiursa",
+      "set": "Neo Discovery",
+      "img": "https://den-cards.pokellector.com/114/Teddiursa.N2.65.png",
+      "rarity": "Common",
+      "cardNum": "65/75"
+    },
+    {
+      "name": "Tyrogue",
+      "set": "Neo Discovery",
+      "img": "https://den-cards.pokellector.com/114/Tyrogue.N2.66.png",
+      "rarity": "Common",
+      "cardNum": "66/75"
+    },
+    {
+      "name": "Unown E",
+      "set": "Neo Discovery",
+      "img": "https://den-cards.pokellector.com/114/Unown-E.N2.67.png",
+      "rarity": "Common",
+      "cardNum": "67/75"
+    },
+    {
+      "name": "Unown I",
+      "set": "Neo Discovery",
+      "img": "https://den-cards.pokellector.com/114/Unown-I.N2.68.png",
+      "rarity": "Common",
+      "cardNum": "68/75"
+    },
+    {
+      "name": "Unown O",
+      "set": "Neo Discovery",
+      "img": "https://den-cards.pokellector.com/114/Unown-O.N2.69.png",
+      "rarity": "Common",
+      "cardNum": "69/75"
+    },
+    {
+      "name": "Weedle",
+      "set": "Neo Discovery",
+      "img": "https://den-cards.pokellector.com/114/Weedle.N2.70.png",
+      "rarity": "Common",
+      "cardNum": "70/75"
+    },
+    {
+      "name": "Wooper",
+      "set": "Neo Discovery",
+      "img": "https://den-cards.pokellector.com/114/Wooper.N2.71.png",
+      "rarity": "Common",
+      "cardNum": "71/75"
+    },
+    {
+      "name": "Fossil Egg",
+      "set": "Neo Discovery",
+      "img": "https://den-cards.pokellector.com/114/Fossil-Egg.N2.72.7371.png",
+      "rarity": "Uncommon",
+      "cardNum": "72/75"
+    },
+    {
+      "name": "Hyper Devolution Spray",
+      "set": "Neo Discovery",
+      "img": "https://den-cards.pokellector.com/114/Hyper-Devolution-Spray.N2.73.png",
+      "rarity": "Uncommon",
+      "cardNum": "73/75"
+    },
+    {
+      "name": "Ruin Wall",
+      "set": "Neo Discovery",
+      "img": "https://den-cards.pokellector.com/114/Ruin-Wall.N2.74.png",
+      "rarity": "Uncommon",
+      "cardNum": "74/75"
+    },
+    {
+      "name": "Energy Ark",
+      "set": "Neo Discovery",
+      "img": "https://den-cards.pokellector.com/114/Energy-Ark.N2.75.png",
+      "rarity": "Common",
+      "cardNum": "75/75"
+    }
+  ]
+}

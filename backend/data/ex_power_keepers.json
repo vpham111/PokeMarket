@@ -1,0 +1,761 @@
+{
+  "setName": "EX Power Keepers",
+  "cards": [
+    {
+      "name": "Aggron",
+      "set": "EX Power Keepers",
+      "img": "https://den-cards.pokellector.com/67/Aggron.PK.1.png",
+      "rarity": "Rare",
+      "cardNum": "1/108"
+    },
+    {
+      "name": "Altaria",
+      "set": "EX Power Keepers",
+      "img": "https://den-cards.pokellector.com/67/Altaria.PK.2.png",
+      "rarity": "Rare",
+      "cardNum": "2/108"
+    },
+    {
+      "name": "Armaldo",
+      "set": "EX Power Keepers",
+      "img": "https://den-cards.pokellector.com/67/Armaldo.PK.3.png",
+      "rarity": "Rare",
+      "cardNum": "3/108"
+    },
+    {
+      "name": "Banette",
+      "set": "EX Power Keepers",
+      "img": "https://den-cards.pokellector.com/67/Banette.PK.4.png",
+      "rarity": "Rare",
+      "cardNum": "4/108"
+    },
+    {
+      "name": "Blaziken",
+      "set": "EX Power Keepers",
+      "img": "https://den-cards.pokellector.com/67/Blaziken.PK.5.png",
+      "rarity": "Rare",
+      "cardNum": "5/108"
+    },
+    {
+      "name": "Charizard",
+      "set": "EX Power Keepers",
+      "img": "https://den-cards.pokellector.com/67/Charizard.PK.6.png",
+      "rarity": "Rare",
+      "cardNum": "6/108"
+    },
+    {
+      "name": "Cradily",
+      "set": "EX Power Keepers",
+      "img": "https://den-cards.pokellector.com/67/Cradily.PK.7.png",
+      "rarity": "Rare",
+      "cardNum": "7/108"
+    },
+    {
+      "name": "Delcatty",
+      "set": "EX Power Keepers",
+      "img": "https://den-cards.pokellector.com/67/Delcatty.PK.8.png",
+      "rarity": "Rare",
+      "cardNum": "8/108"
+    },
+    {
+      "name": "Gardevoir",
+      "set": "EX Power Keepers",
+      "img": "https://den-cards.pokellector.com/67/Gardevoir.PK.9.png",
+      "rarity": "Rare",
+      "cardNum": "9/108"
+    },
+    {
+      "name": "Kabutops",
+      "set": "EX Power Keepers",
+      "img": "https://den-cards.pokellector.com/67/Kabutops.PK.10.png",
+      "rarity": "Rare",
+      "cardNum": "10/108"
+    },
+    {
+      "name": "Machamp",
+      "set": "EX Power Keepers",
+      "img": "https://den-cards.pokellector.com/67/Machamp.PK.11.png",
+      "rarity": "Rare",
+      "cardNum": "11/108"
+    },
+    {
+      "name": "Raichu",
+      "set": "EX Power Keepers",
+      "img": "https://den-cards.pokellector.com/67/Raichu.PK.12.png",
+      "rarity": "Rare",
+      "cardNum": "12/108"
+    },
+    {
+      "name": "Slaking",
+      "set": "EX Power Keepers",
+      "img": "https://den-cards.pokellector.com/67/Slaking.PK.13.png",
+      "rarity": "Rare",
+      "cardNum": "13/108"
+    },
+    {
+      "name": "Dusclops",
+      "set": "EX Power Keepers",
+      "img": "https://den-cards.pokellector.com/67/Dusclops.PK.14.png",
+      "rarity": "Rare",
+      "cardNum": "14/108"
+    },
+    {
+      "name": "Lanturn",
+      "set": "EX Power Keepers",
+      "img": "https://den-cards.pokellector.com/67/Lanturn.PK.15.png",
+      "rarity": "Rare",
+      "cardNum": "15/108"
+    },
+    {
+      "name": "Magneton",
+      "set": "EX Power Keepers",
+      "img": "https://den-cards.pokellector.com/67/Magneton.PK.16.png",
+      "rarity": "Rare",
+      "cardNum": "16/108"
+    },
+    {
+      "name": "Mawile",
+      "set": "EX Power Keepers",
+      "img": "https://den-cards.pokellector.com/67/Mawile.PK.17.png",
+      "rarity": "Rare",
+      "cardNum": "17/108"
+    },
+    {
+      "name": "Mightyena",
+      "set": "EX Power Keepers",
+      "img": "https://den-cards.pokellector.com/67/Mightyena.PK.18.png",
+      "rarity": "Rare",
+      "cardNum": "18/108"
+    },
+    {
+      "name": "Ninetales",
+      "set": "EX Power Keepers",
+      "img": "https://den-cards.pokellector.com/67/Ninetales.PK.19.png",
+      "rarity": "Rare",
+      "cardNum": "19/108"
+    },
+    {
+      "name": "Omastar",
+      "set": "EX Power Keepers",
+      "img": "https://den-cards.pokellector.com/67/Omastar.PK.20.png",
+      "rarity": "Rare",
+      "cardNum": "20/108"
+    },
+    {
+      "name": "Pichu",
+      "set": "EX Power Keepers",
+      "img": "https://den-cards.pokellector.com/67/Pichu.PK.21.png",
+      "rarity": "Rare",
+      "cardNum": "21/108"
+    },
+    {
+      "name": "Sableye",
+      "set": "EX Power Keepers",
+      "img": "https://den-cards.pokellector.com/67/Sableye.PK.22.png",
+      "rarity": "Rare",
+      "cardNum": "22/108"
+    },
+    {
+      "name": "Seviper",
+      "set": "EX Power Keepers",
+      "img": "https://den-cards.pokellector.com/67/Seviper.PK.23.png",
+      "rarity": "Rare",
+      "cardNum": "23/108"
+    },
+    {
+      "name": "Wobbuffet",
+      "set": "EX Power Keepers",
+      "img": "https://den-cards.pokellector.com/67/Wobbuffet.PK.24.png",
+      "rarity": "Rare",
+      "cardNum": "24/108"
+    },
+    {
+      "name": "Zangoose",
+      "set": "EX Power Keepers",
+      "img": "https://den-cards.pokellector.com/67/Zangoose.PK.25.png",
+      "rarity": "Rare",
+      "cardNum": "25/108"
+    },
+    {
+      "name": "Anorith",
+      "set": "EX Power Keepers",
+      "img": "https://den-cards.pokellector.com/67/Anorith.PK.26.png",
+      "rarity": "Uncommon",
+      "cardNum": "26/108"
+    },
+    {
+      "name": "Cacturne",
+      "set": "EX Power Keepers",
+      "img": "https://den-cards.pokellector.com/67/Cacturne.PK.27.png",
+      "rarity": "Uncommon",
+      "cardNum": "27/108"
+    },
+    {
+      "name": "Charmeleon",
+      "set": "EX Power Keepers",
+      "img": "https://den-cards.pokellector.com/67/Charmeleon.PK.28.png",
+      "rarity": "Uncommon",
+      "cardNum": "28/108"
+    },
+    {
+      "name": "Combusken",
+      "set": "EX Power Keepers",
+      "img": "https://den-cards.pokellector.com/67/Combusken.PK.29.png",
+      "rarity": "Uncommon",
+      "cardNum": "29/108"
+    },
+    {
+      "name": "Glalie",
+      "set": "EX Power Keepers",
+      "img": "https://den-cards.pokellector.com/67/Glalie.PK.30.png",
+      "rarity": "Uncommon",
+      "cardNum": "30/108"
+    },
+    {
+      "name": "Kirlia",
+      "set": "EX Power Keepers",
+      "img": "https://den-cards.pokellector.com/67/Kirlia.PK.31.png",
+      "rarity": "Uncommon",
+      "cardNum": "31/108"
+    },
+    {
+      "name": "Lairon",
+      "set": "EX Power Keepers",
+      "img": "https://den-cards.pokellector.com/67/Lairon.PK.32.png",
+      "rarity": "Uncommon",
+      "cardNum": "32/108"
+    },
+    {
+      "name": "Machoke",
+      "set": "EX Power Keepers",
+      "img": "https://den-cards.pokellector.com/67/Machoke.PK.33.png",
+      "rarity": "Uncommon",
+      "cardNum": "33/108"
+    },
+    {
+      "name": "Medicham",
+      "set": "EX Power Keepers",
+      "img": "https://den-cards.pokellector.com/67/Medicham.PK.34.png",
+      "rarity": "Uncommon",
+      "cardNum": "34/108"
+    },
+    {
+      "name": "Metang",
+      "set": "EX Power Keepers",
+      "img": "https://den-cards.pokellector.com/67/Metang.PK.35.png",
+      "rarity": "Uncommon",
+      "cardNum": "35/108"
+    },
+    {
+      "name": "Nuzleaf",
+      "set": "EX Power Keepers",
+      "img": "https://den-cards.pokellector.com/67/Nuzleaf.PK.36.png",
+      "rarity": "Uncommon",
+      "cardNum": "36/108"
+    },
+    {
+      "name": "Sealeo",
+      "set": "EX Power Keepers",
+      "img": "https://den-cards.pokellector.com/67/Sealeo.PK.37.png",
+      "rarity": "Uncommon",
+      "cardNum": "37/108"
+    },
+    {
+      "name": "Sharpedo",
+      "set": "EX Power Keepers",
+      "img": "https://den-cards.pokellector.com/67/Sharpedo.PK.38.png",
+      "rarity": "Uncommon",
+      "cardNum": "38/108"
+    },
+    {
+      "name": "Shelgon",
+      "set": "EX Power Keepers",
+      "img": "https://den-cards.pokellector.com/67/Shelgon.PK.39.png",
+      "rarity": "Uncommon",
+      "cardNum": "39/108"
+    },
+    {
+      "name": "Vibrava",
+      "set": "EX Power Keepers",
+      "img": "https://den-cards.pokellector.com/67/Vibrava.PK.40.png",
+      "rarity": "Uncommon",
+      "cardNum": "40/108"
+    },
+    {
+      "name": "Vigoroth",
+      "set": "EX Power Keepers",
+      "img": "https://den-cards.pokellector.com/67/Vigoroth.PK.41.png",
+      "rarity": "Uncommon",
+      "cardNum": "41/108"
+    },
+    {
+      "name": "Aron",
+      "set": "EX Power Keepers",
+      "img": "https://den-cards.pokellector.com/67/Aron.PK.42.png",
+      "rarity": "Common",
+      "cardNum": "42/108"
+    },
+    {
+      "name": "Bagon",
+      "set": "EX Power Keepers",
+      "img": "https://den-cards.pokellector.com/67/Bagon.PK.43.png",
+      "rarity": "Common",
+      "cardNum": "43/108"
+    },
+    {
+      "name": "Baltoy",
+      "set": "EX Power Keepers",
+      "img": "https://den-cards.pokellector.com/67/Baltoy.PK.44.png",
+      "rarity": "Common",
+      "cardNum": "44/108"
+    },
+    {
+      "name": "Beldum",
+      "set": "EX Power Keepers",
+      "img": "https://den-cards.pokellector.com/67/Beldum.PK.45.png",
+      "rarity": "Common",
+      "cardNum": "45/108"
+    },
+    {
+      "name": "Cacnea",
+      "set": "EX Power Keepers",
+      "img": "https://den-cards.pokellector.com/67/Cacnea.PK.46.png",
+      "rarity": "Common",
+      "cardNum": "46/108"
+    },
+    {
+      "name": "Carvanha",
+      "set": "EX Power Keepers",
+      "img": "https://den-cards.pokellector.com/67/Carvanha.PK.47.png",
+      "rarity": "Common",
+      "cardNum": "47/108"
+    },
+    {
+      "name": "Charmander",
+      "set": "EX Power Keepers",
+      "img": "https://den-cards.pokellector.com/67/Charmander.PK.48.png",
+      "rarity": "Common",
+      "cardNum": "48/108"
+    },
+    {
+      "name": "Chinchou",
+      "set": "EX Power Keepers",
+      "img": "https://den-cards.pokellector.com/67/Chinchou.PK.49.png",
+      "rarity": "Common",
+      "cardNum": "49/108"
+    },
+    {
+      "name": "Duskull",
+      "set": "EX Power Keepers",
+      "img": "https://den-cards.pokellector.com/67/Duskull.PK.50.png",
+      "rarity": "Common",
+      "cardNum": "50/108"
+    },
+    {
+      "name": "Kabuto",
+      "set": "EX Power Keepers",
+      "img": "https://den-cards.pokellector.com/67/Kabuto.PK.51.png",
+      "rarity": "Common",
+      "cardNum": "51/108"
+    },
+    {
+      "name": "Lileep",
+      "set": "EX Power Keepers",
+      "img": "https://den-cards.pokellector.com/67/Lileep.PK.52.png",
+      "rarity": "Common",
+      "cardNum": "52/108"
+    },
+    {
+      "name": "Machop",
+      "set": "EX Power Keepers",
+      "img": "https://den-cards.pokellector.com/67/Machop.PK.53.png",
+      "rarity": "Common",
+      "cardNum": "53/108"
+    },
+    {
+      "name": "Magnemite",
+      "set": "EX Power Keepers",
+      "img": "https://den-cards.pokellector.com/67/Magnemite.PK.54.png",
+      "rarity": "Common",
+      "cardNum": "54/108"
+    },
+    {
+      "name": "Meditite",
+      "set": "EX Power Keepers",
+      "img": "https://den-cards.pokellector.com/67/Meditite.PK.55.png",
+      "rarity": "Common",
+      "cardNum": "55/108"
+    },
+    {
+      "name": "Omanyte",
+      "set": "EX Power Keepers",
+      "img": "https://den-cards.pokellector.com/67/Omanyte.PK.56.png",
+      "rarity": "Common",
+      "cardNum": "56/108"
+    },
+    {
+      "name": "Pikachu",
+      "set": "EX Power Keepers",
+      "img": "https://den-cards.pokellector.com/67/Pikachu.PK.57.png",
+      "rarity": "Common",
+      "cardNum": "57/108"
+    },
+    {
+      "name": "Poochyena",
+      "set": "EX Power Keepers",
+      "img": "https://den-cards.pokellector.com/67/Poochyena.PK.58.png",
+      "rarity": "Common",
+      "cardNum": "58/108"
+    },
+    {
+      "name": "Ralts",
+      "set": "EX Power Keepers",
+      "img": "https://den-cards.pokellector.com/67/Ralts.PK.59.png",
+      "rarity": "Common",
+      "cardNum": "59/108"
+    },
+    {
+      "name": "Seedot",
+      "set": "EX Power Keepers",
+      "img": "https://den-cards.pokellector.com/67/Seedot.PK.60.png",
+      "rarity": "Common",
+      "cardNum": "60/108"
+    },
+    {
+      "name": "Shuppet",
+      "set": "EX Power Keepers",
+      "img": "https://den-cards.pokellector.com/67/Shuppet.PK.61.png",
+      "rarity": "Common",
+      "cardNum": "61/108"
+    },
+    {
+      "name": "Skitty",
+      "set": "EX Power Keepers",
+      "img": "https://den-cards.pokellector.com/67/Skitty.PK.62.png",
+      "rarity": "Common",
+      "cardNum": "62/108"
+    },
+    {
+      "name": "Slakoth",
+      "set": "EX Power Keepers",
+      "img": "https://den-cards.pokellector.com/67/Slakoth.PK.63.png",
+      "rarity": "Common",
+      "cardNum": "63/108"
+    },
+    {
+      "name": "Snorunt",
+      "set": "EX Power Keepers",
+      "img": "https://den-cards.pokellector.com/67/Snorunt.PK.64.png",
+      "rarity": "Common",
+      "cardNum": "64/108"
+    },
+    {
+      "name": "Spheal",
+      "set": "EX Power Keepers",
+      "img": "https://den-cards.pokellector.com/67/Spheal.PK.65.png",
+      "rarity": "Common",
+      "cardNum": "65/108"
+    },
+    {
+      "name": "Swablu",
+      "set": "EX Power Keepers",
+      "img": "https://den-cards.pokellector.com/67/Swablu.PK.66.png",
+      "rarity": "Common",
+      "cardNum": "66/108"
+    },
+    {
+      "name": "Torchic",
+      "set": "EX Power Keepers",
+      "img": "https://den-cards.pokellector.com/67/Torchic.PK.67.png",
+      "rarity": "Common",
+      "cardNum": "67/108"
+    },
+    {
+      "name": "Trapinch",
+      "set": "EX Power Keepers",
+      "img": "https://den-cards.pokellector.com/67/Trapinch.PK.68.png",
+      "rarity": "Common",
+      "cardNum": "68/108"
+    },
+    {
+      "name": "Vulpix",
+      "set": "EX Power Keepers",
+      "img": "https://den-cards.pokellector.com/67/Vulpix.PK.69.png",
+      "rarity": "Common",
+      "cardNum": "69/108"
+    },
+    {
+      "name": "Wynaut",
+      "set": "EX Power Keepers",
+      "img": "https://den-cards.pokellector.com/67/Wynaut.PK.70.png",
+      "rarity": "Common",
+      "cardNum": "70/108"
+    },
+    {
+      "name": "Battle Frontier",
+      "set": "EX Power Keepers",
+      "img": "https://den-cards.pokellector.com/67/Battle-Frontier.PK.71.png",
+      "rarity": "Uncommon",
+      "cardNum": "71/108"
+    },
+    {
+      "name": "Drake's Stadium",
+      "set": "EX Power Keepers",
+      "img": "https://den-cards.pokellector.com/67/Drakes-Stadium.PK.72.png",
+      "rarity": "Uncommon",
+      "cardNum": "72/108"
+    },
+    {
+      "name": "Energy Recycle System",
+      "set": "EX Power Keepers",
+      "img": "https://den-cards.pokellector.com/67/Energy-Recycle-System.PK.73.png",
+      "rarity": "Uncommon",
+      "cardNum": "73/108"
+    },
+    {
+      "name": "Energy Removal 2",
+      "set": "EX Power Keepers",
+      "img": "https://den-cards.pokellector.com/67/Energy-Removal-2.PK.74.png",
+      "rarity": "Uncommon",
+      "cardNum": "74/108"
+    },
+    {
+      "name": "Energy Switch",
+      "set": "EX Power Keepers",
+      "img": "https://den-cards.pokellector.com/67/Energy-Switch.PK.75.png",
+      "rarity": "Uncommon",
+      "cardNum": "75/108"
+    },
+    {
+      "name": "Glacia's Stadium",
+      "set": "EX Power Keepers",
+      "img": "https://den-cards.pokellector.com/67/Glacias-Stadium.PK.76.png",
+      "rarity": "Uncommon",
+      "cardNum": "76/108"
+    },
+    {
+      "name": "Great Ball",
+      "set": "EX Power Keepers",
+      "img": "https://den-cards.pokellector.com/67/Great-Ball.PK.77.png",
+      "rarity": "Uncommon",
+      "cardNum": "77/108"
+    },
+    {
+      "name": "Master Ball",
+      "set": "EX Power Keepers",
+      "img": "https://den-cards.pokellector.com/67/Master-Ball.PK.78.png",
+      "rarity": "Uncommon",
+      "cardNum": "78/108"
+    },
+    {
+      "name": "Phoebe's Stadium",
+      "set": "EX Power Keepers",
+      "img": "https://den-cards.pokellector.com/67/Phoebes-Stadium.PK.79.png",
+      "rarity": "Uncommon",
+      "cardNum": "79/108"
+    },
+    {
+      "name": "Professor Birch",
+      "set": "EX Power Keepers",
+      "img": "https://den-cards.pokellector.com/67/Professor-Birch.PK.80.png",
+      "rarity": "Uncommon",
+      "cardNum": "80/108"
+    },
+    {
+      "name": "Scott",
+      "set": "EX Power Keepers",
+      "img": "https://den-cards.pokellector.com/67/Scott.PK.81.png",
+      "rarity": "Uncommon",
+      "cardNum": "81/108"
+    },
+    {
+      "name": "Sidney's Stadium",
+      "set": "EX Power Keepers",
+      "img": "https://den-cards.pokellector.com/67/Sidneys-Stadium.PK.82.png",
+      "rarity": "Uncommon",
+      "cardNum": "82/108"
+    },
+    {
+      "name": "Steven's Advice",
+      "set": "EX Power Keepers",
+      "img": "https://den-cards.pokellector.com/67/Stevens-Advice.PK.83.png",
+      "rarity": "Uncommon",
+      "cardNum": "83/108"
+    },
+    {
+      "name": "Claw Fossil",
+      "set": "EX Power Keepers",
+      "img": "https://den-cards.pokellector.com/67/Claw-Fossil.PK.84.png",
+      "rarity": "Common",
+      "cardNum": "84/108"
+    },
+    {
+      "name": "Mysterious Fossil",
+      "set": "EX Power Keepers",
+      "img": "https://den-cards.pokellector.com/67/Mysterious-Fossil.PK.85.png",
+      "rarity": "Common",
+      "cardNum": "85/108"
+    },
+    {
+      "name": "Root Fossil",
+      "set": "EX Power Keepers",
+      "img": "https://den-cards.pokellector.com/67/Root-Fossil.PK.86.png",
+      "rarity": "Common",
+      "cardNum": "86/108"
+    },
+    {
+      "name": "Darkness Energy",
+      "set": "EX Power Keepers",
+      "img": "https://den-cards.pokellector.com/67/Darkness-Energy.PK.87.png",
+      "rarity": "Rare",
+      "cardNum": "87/108"
+    },
+    {
+      "name": "Metal Energy",
+      "set": "EX Power Keepers",
+      "img": "https://den-cards.pokellector.com/67/Metal-Energy.PK.88.png",
+      "rarity": "Rare",
+      "cardNum": "88/108"
+    },
+    {
+      "name": "Multi Energy",
+      "set": "EX Power Keepers",
+      "img": "https://den-cards.pokellector.com/67/Multi-Energy.PK.89.png",
+      "rarity": "Rare",
+      "cardNum": "89/108"
+    },
+    {
+      "name": "Cyclone Energy",
+      "set": "EX Power Keepers",
+      "img": "https://den-cards.pokellector.com/67/Cyclone-Energy.PK.90.png",
+      "rarity": "Uncommon",
+      "cardNum": "90/108"
+    },
+    {
+      "name": "Warp Energy",
+      "set": "EX Power Keepers",
+      "img": "https://den-cards.pokellector.com/67/Warp-Energy.PK.91.png",
+      "rarity": "Uncommon",
+      "cardNum": "91/108"
+    },
+    {
+      "name": "Absol ex",
+      "set": "EX Power Keepers",
+      "img": "https://den-cards.pokellector.com/67/Absol-ex.PK.92.png",
+      "rarity": "Rare",
+      "cardNum": "92/108"
+    },
+    {
+      "name": "Claydol ex",
+      "set": "EX Power Keepers",
+      "img": "https://den-cards.pokellector.com/67/Claydol-ex.PK.93.png",
+      "rarity": "Rare",
+      "cardNum": "93/108"
+    },
+    {
+      "name": "Flygon ex",
+      "set": "EX Power Keepers",
+      "img": "https://den-cards.pokellector.com/67/Flygon-ex.PK.94.png",
+      "rarity": "Rare",
+      "cardNum": "94/108"
+    },
+    {
+      "name": "Metagross ex",
+      "set": "EX Power Keepers",
+      "img": "https://den-cards.pokellector.com/67/Metagross-ex.PK.95.png",
+      "rarity": "Rare",
+      "cardNum": "95/108"
+    },
+    {
+      "name": "Salamence ex",
+      "set": "EX Power Keepers",
+      "img": "https://den-cards.pokellector.com/67/Salamence-ex.PK.96.png",
+      "rarity": "Rare",
+      "cardNum": "96/108"
+    },
+    {
+      "name": "Shiftry ex",
+      "set": "EX Power Keepers",
+      "img": "https://den-cards.pokellector.com/67/Shiftry-ex.PK.97.png",
+      "rarity": "Rare",
+      "cardNum": "97/108"
+    },
+    {
+      "name": "Skarmory ex",
+      "set": "EX Power Keepers",
+      "img": "https://den-cards.pokellector.com/67/Skarmory-ex.PK.98.png",
+      "rarity": "Rare",
+      "cardNum": "98/108"
+    },
+    {
+      "name": "Walrein ex",
+      "set": "EX Power Keepers",
+      "img": "https://den-cards.pokellector.com/67/Walrein-ex.PK.99.png",
+      "rarity": "Rare",
+      "cardNum": "99/108"
+    },
+    {
+      "name": "Flareon *",
+      "set": "EX Power Keepers",
+      "img": "https://den-cards.pokellector.com/67/Flareon-.PK.100.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "100/108"
+    },
+    {
+      "name": "Jolteon *",
+      "set": "EX Power Keepers",
+      "img": "https://den-cards.pokellector.com/67/Jolteon-.PK.101.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "101/108"
+    },
+    {
+      "name": "Vaporeon *",
+      "set": "EX Power Keepers",
+      "img": "https://den-cards.pokellector.com/67/Vaporeon-.PK.102.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "102/108"
+    },
+    {
+      "name": "Grass Energy",
+      "set": "EX Power Keepers",
+      "img": "https://den-cards.pokellector.com/67/Grass-Energy.PK.103.png",
+      "rarity": "Rare",
+      "cardNum": "103/108"
+    },
+    {
+      "name": "Fire Energy",
+      "set": "EX Power Keepers",
+      "img": "https://den-cards.pokellector.com/67/Fire-Energy.PK.104.png",
+      "rarity": "Rare",
+      "cardNum": "104/108"
+    },
+    {
+      "name": "Water Energy",
+      "set": "EX Power Keepers",
+      "img": "https://den-cards.pokellector.com/67/Water-Energy.PK.105.png",
+      "rarity": "Rare",
+      "cardNum": "105/108"
+    },
+    {
+      "name": "Lightning Energy",
+      "set": "EX Power Keepers",
+      "img": "https://den-cards.pokellector.com/67/Lightning-Energy.PK.106.png",
+      "rarity": "Rare",
+      "cardNum": "106/108"
+    },
+    {
+      "name": "Psychic Energy",
+      "set": "EX Power Keepers",
+      "img": "https://den-cards.pokellector.com/67/Psychic-Energy.PK.107.png",
+      "rarity": "Rare",
+      "cardNum": "107/108"
+    },
+    {
+      "name": "Fighting Energy",
+      "set": "EX Power Keepers",
+      "img": "https://den-cards.pokellector.com/67/Fighting-Energy.PK.108.png",
+      "rarity": "Rare",
+      "cardNum": "108/108"
+    }
+  ]
+}

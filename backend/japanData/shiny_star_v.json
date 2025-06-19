@@ -1,0 +1,2315 @@
+{
+  "setName": "Shiny Star V",
+  "cards": [
+    {
+      "name": "Rowlet",
+      "set": "Shiny Star V",
+      "img": "https://den-cards.pokellector.com/301/Rowlet.S4A.1.36317.png",
+      "rarity": "Common",
+      "cardNum": "1/190"
+    },
+    {
+      "name": "Dartrix",
+      "set": "Shiny Star V",
+      "img": "https://den-cards.pokellector.com/301/Dartrix.S4A.2.36318.png",
+      "rarity": "Common",
+      "cardNum": "2/190"
+    },
+    {
+      "name": "Decidueye",
+      "set": "Shiny Star V",
+      "img": "https://den-cards.pokellector.com/301/Decidueye.S4A.3.35862.png",
+      "rarity": "Common",
+      "cardNum": "3/190"
+    },
+    {
+      "name": "Wimpod",
+      "set": "Shiny Star V",
+      "img": "https://den-cards.pokellector.com/301/Wimpod.S4A.4.36319.png",
+      "rarity": "Common",
+      "cardNum": "4/190"
+    },
+    {
+      "name": "Golisopod",
+      "set": "Shiny Star V",
+      "img": "https://den-cards.pokellector.com/301/Golisopod.S4A.5.36320.png",
+      "rarity": "Common",
+      "cardNum": "5/190"
+    },
+    {
+      "name": "Grookey",
+      "set": "Shiny Star V",
+      "img": "https://den-cards.pokellector.com/301/Grookey.S4A.6.36321.png",
+      "rarity": "Common",
+      "cardNum": "6/190"
+    },
+    {
+      "name": "Thwackey",
+      "set": "Shiny Star V",
+      "img": "https://den-cards.pokellector.com/301/Thwackey.S4A.7.36322.png",
+      "rarity": "Common",
+      "cardNum": "7/190"
+    },
+    {
+      "name": "Rillaboom",
+      "set": "Shiny Star V",
+      "img": "https://den-cards.pokellector.com/301/Rillaboom.S4A.8.36323.png",
+      "rarity": "Common",
+      "cardNum": "8/190"
+    },
+    {
+      "name": "Rillaboom V",
+      "set": "Shiny Star V",
+      "img": "https://den-cards.pokellector.com/301/Rillaboom-V.S4A.9.35869.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "9/190"
+    },
+    {
+      "name": "Rillaboom VMAX",
+      "set": "Shiny Star V",
+      "img": "https://den-cards.pokellector.com/301/Rillaboom-VMAX.S4A.10.36324.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "10/190"
+    },
+    {
+      "name": "Blipbug",
+      "set": "Shiny Star V",
+      "img": "https://den-cards.pokellector.com/301/Blipbug.S4A.11.36325.png",
+      "rarity": "Common",
+      "cardNum": "11/190"
+    },
+    {
+      "name": "Dottler",
+      "set": "Shiny Star V",
+      "img": "https://den-cards.pokellector.com/301/Dottler.S4A.12.36326.png",
+      "rarity": "Common",
+      "cardNum": "12/190"
+    },
+    {
+      "name": "Orbeetle",
+      "set": "Shiny Star V",
+      "img": "https://den-cards.pokellector.com/301/Orbeetle.S4A.13.36327.png",
+      "rarity": "Common",
+      "cardNum": "13/190"
+    },
+    {
+      "name": "Gossifleur",
+      "set": "Shiny Star V",
+      "img": "https://den-cards.pokellector.com/301/Gossifleur.S4A.14.36328.png",
+      "rarity": "Common",
+      "cardNum": "14/190"
+    },
+    {
+      "name": "Eldegoss",
+      "set": "Shiny Star V",
+      "img": "https://den-cards.pokellector.com/301/Eldegoss.S4A.15.36329.png",
+      "rarity": "Common",
+      "cardNum": "15/190"
+    },
+    {
+      "name": "Eldegoss V",
+      "set": "Shiny Star V",
+      "img": "https://den-cards.pokellector.com/301/Eldegoss-V.S4A.16.35881.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "16/190"
+    },
+    {
+      "name": "Applin",
+      "set": "Shiny Star V",
+      "img": "https://den-cards.pokellector.com/301/Applin.S4A.17.36330.png",
+      "rarity": "Common",
+      "cardNum": "17/190"
+    },
+    {
+      "name": "Flapple",
+      "set": "Shiny Star V",
+      "img": "https://den-cards.pokellector.com/301/Flapple.S4A.18.36331.png",
+      "rarity": "Common",
+      "cardNum": "18/190"
+    },
+    {
+      "name": "Appletun",
+      "set": "Shiny Star V",
+      "img": "https://den-cards.pokellector.com/301/Appletun.S4A.19.36332.png",
+      "rarity": "Common",
+      "cardNum": "19/190"
+    },
+    {
+      "name": "Heatran",
+      "set": "Shiny Star V",
+      "img": "https://den-cards.pokellector.com/301/Heatran.S4A.20.36333.png",
+      "rarity": "Common",
+      "cardNum": "20/190"
+    },
+    {
+      "name": "Reshiram",
+      "set": "Shiny Star V",
+      "img": "https://den-cards.pokellector.com/301/Reshiram.S4A.21.36163.png",
+      "rarity": "Amazing Rare",
+      "cardNum": "21/190"
+    },
+    {
+      "name": "Scorbunny",
+      "set": "Shiny Star V",
+      "img": "https://den-cards.pokellector.com/301/Scorbunny.S4A.22.36334.png",
+      "rarity": "Common",
+      "cardNum": "22/190"
+    },
+    {
+      "name": "Raboot",
+      "set": "Shiny Star V",
+      "img": "https://den-cards.pokellector.com/301/Raboot.S4A.23.36335.png",
+      "rarity": "Common",
+      "cardNum": "23/190"
+    },
+    {
+      "name": "Cinderace",
+      "set": "Shiny Star V",
+      "img": "https://den-cards.pokellector.com/301/Cinderace.S4A.24.36336.png",
+      "rarity": "Common",
+      "cardNum": "24/190"
+    },
+    {
+      "name": "Sizzlipede",
+      "set": "Shiny Star V",
+      "img": "https://den-cards.pokellector.com/301/Sizzlipede.S4A.25.36337.png",
+      "rarity": "Common",
+      "cardNum": "25/190"
+    },
+    {
+      "name": "Centiskorch",
+      "set": "Shiny Star V",
+      "img": "https://den-cards.pokellector.com/301/Centiskorch.S4A.26.36338.png",
+      "rarity": "Common",
+      "cardNum": "26/190"
+    },
+    {
+      "name": "Centiskorch V",
+      "set": "Shiny Star V",
+      "img": "https://den-cards.pokellector.com/301/Centiskorch-V.S4A.27.36339.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "27/190"
+    },
+    {
+      "name": "Centiskorch VMAX",
+      "set": "Shiny Star V",
+      "img": "https://den-cards.pokellector.com/301/Centiskorch-VMAX.S4A.28.36340.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "28/190"
+    },
+    {
+      "name": "Galarian Mr. Mime",
+      "set": "Shiny Star V",
+      "img": "https://den-cards.pokellector.com/301/Galarian-Mr-Mime.S4A.29.36341.png",
+      "rarity": "Common",
+      "cardNum": "29/190"
+    },
+    {
+      "name": "Galarian Mr. Rime",
+      "set": "Shiny Star V",
+      "img": "https://den-cards.pokellector.com/301/Galarian-Mr-Rime.S4A.30.36342.png",
+      "rarity": "Common",
+      "cardNum": "30/190"
+    },
+    {
+      "name": "Lapras V",
+      "set": "Shiny Star V",
+      "img": "https://den-cards.pokellector.com/301/Lapras-V.S4A.31.36343.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "31/190"
+    },
+    {
+      "name": "Lapras VMAX",
+      "set": "Shiny Star V",
+      "img": "https://den-cards.pokellector.com/301/Lapras-VMAX.S4A.32.36344.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "32/190"
+    },
+    {
+      "name": "Suicune",
+      "set": "Shiny Star V",
+      "img": "https://den-cards.pokellector.com/301/Suicune.S4A.33.36345.png",
+      "rarity": "Common",
+      "cardNum": "33/190"
+    },
+    {
+      "name": "Feebas",
+      "set": "Shiny Star V",
+      "img": "https://den-cards.pokellector.com/301/Feebas.S4A.34.36346.png",
+      "rarity": "Common",
+      "cardNum": "34/190"
+    },
+    {
+      "name": "Milotic",
+      "set": "Shiny Star V",
+      "img": "https://den-cards.pokellector.com/301/Milotic.S4A.35.36347.png",
+      "rarity": "Common",
+      "cardNum": "35/190"
+    },
+    {
+      "name": "Kyogre",
+      "set": "Shiny Star V",
+      "img": "https://den-cards.pokellector.com/301/Kyogre.S4A.36.36164.png",
+      "rarity": "Amazing Rare",
+      "cardNum": "36/190"
+    },
+    {
+      "name": "Galarian Darumaka",
+      "set": "Shiny Star V",
+      "img": "https://den-cards.pokellector.com/301/Galarian-Darumaka.S4A.37.36348.png",
+      "rarity": "Common",
+      "cardNum": "37/190"
+    },
+    {
+      "name": "Galarian Darmanitan",
+      "set": "Shiny Star V",
+      "img": "https://den-cards.pokellector.com/301/Galarian-Darmanitan.S4A.38.36349.png",
+      "rarity": "Common",
+      "cardNum": "38/190"
+    },
+    {
+      "name": "Sobble",
+      "set": "Shiny Star V",
+      "img": "https://den-cards.pokellector.com/301/Sobble.S4A.39.36350.png",
+      "rarity": "Common",
+      "cardNum": "39/190"
+    },
+    {
+      "name": "Drizzile",
+      "set": "Shiny Star V",
+      "img": "https://den-cards.pokellector.com/301/Drizzile.S4A.40.36351.png",
+      "rarity": "Common",
+      "cardNum": "40/190"
+    },
+    {
+      "name": "Inteleon",
+      "set": "Shiny Star V",
+      "img": "https://den-cards.pokellector.com/301/Inteleon.S4A.41.36352.png",
+      "rarity": "Common",
+      "cardNum": "41/190"
+    },
+    {
+      "name": "Chewtle",
+      "set": "Shiny Star V",
+      "img": "https://den-cards.pokellector.com/301/Chewtle.S4A.42.36353.png",
+      "rarity": "Common",
+      "cardNum": "42/190"
+    },
+    {
+      "name": "Drednaw",
+      "set": "Shiny Star V",
+      "img": "https://den-cards.pokellector.com/301/Drednaw.S4A.43.36354.png",
+      "rarity": "Common",
+      "cardNum": "43/190"
+    },
+    {
+      "name": "Cramorant",
+      "set": "Shiny Star V",
+      "img": "https://den-cards.pokellector.com/301/Cramorant.S4A.44.36355.png",
+      "rarity": "Common",
+      "cardNum": "44/190"
+    },
+    {
+      "name": "Arrokuda",
+      "set": "Shiny Star V",
+      "img": "https://den-cards.pokellector.com/301/Arrokuda.S4A.45.36356.png",
+      "rarity": "Common",
+      "cardNum": "45/190"
+    },
+    {
+      "name": "Barraskewda",
+      "set": "Shiny Star V",
+      "img": "https://den-cards.pokellector.com/301/Barraskewda.S4A.46.36357.png",
+      "rarity": "Common",
+      "cardNum": "46/190"
+    },
+    {
+      "name": "Snom",
+      "set": "Shiny Star V",
+      "img": "https://den-cards.pokellector.com/301/Snom.S4A.47.36358.png",
+      "rarity": "Common",
+      "cardNum": "47/190"
+    },
+    {
+      "name": "Frosmoth",
+      "set": "Shiny Star V",
+      "img": "https://den-cards.pokellector.com/301/Frosmoth.S4A.48.36359.png",
+      "rarity": "Common",
+      "cardNum": "48/190"
+    },
+    {
+      "name": "Eiscue",
+      "set": "Shiny Star V",
+      "img": "https://den-cards.pokellector.com/301/Eiscue.S4A.49.36360.png",
+      "rarity": "Common",
+      "cardNum": "49/190"
+    },
+    {
+      "name": "Dracovish",
+      "set": "Shiny Star V",
+      "img": "https://den-cards.pokellector.com/301/Dracovish.S4A.50.36361.png",
+      "rarity": "Common",
+      "cardNum": "50/190"
+    },
+    {
+      "name": "Arctovish",
+      "set": "Shiny Star V",
+      "img": "https://den-cards.pokellector.com/301/Arctovish.S4A.51.36362.png",
+      "rarity": "Common",
+      "cardNum": "51/190"
+    },
+    {
+      "name": "Rotom",
+      "set": "Shiny Star V",
+      "img": "https://den-cards.pokellector.com/301/Rotom.S4A.52.36363.png",
+      "rarity": "Common",
+      "cardNum": "52/190"
+    },
+    {
+      "name": "Tapu Koko",
+      "set": "Shiny Star V",
+      "img": "https://den-cards.pokellector.com/301/Tapu-Koko.S4A.53.36364.png",
+      "rarity": "Common",
+      "cardNum": "53/190"
+    },
+    {
+      "name": "Yamper",
+      "set": "Shiny Star V",
+      "img": "https://den-cards.pokellector.com/301/Yamper.S4A.54.36365.png",
+      "rarity": "Common",
+      "cardNum": "54/190"
+    },
+    {
+      "name": "Boltund",
+      "set": "Shiny Star V",
+      "img": "https://den-cards.pokellector.com/301/Boltund.S4A.55.36366.png",
+      "rarity": "Common",
+      "cardNum": "55/190"
+    },
+    {
+      "name": "Boltund V",
+      "set": "Shiny Star V",
+      "img": "https://den-cards.pokellector.com/301/Boltund-V.S4A.56.35868.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "56/190"
+    },
+    {
+      "name": "Toxel",
+      "set": "Shiny Star V",
+      "img": "https://den-cards.pokellector.com/301/Toxel.S4A.57.36367.png",
+      "rarity": "Common",
+      "cardNum": "57/190"
+    },
+    {
+      "name": "Toxtricity",
+      "set": "Shiny Star V",
+      "img": "https://den-cards.pokellector.com/301/Toxtricity.S4A.58.36368.png",
+      "rarity": "Common",
+      "cardNum": "58/190"
+    },
+    {
+      "name": "Toxtricity V",
+      "set": "Shiny Star V",
+      "img": "https://den-cards.pokellector.com/301/Toxtricity-V.S4A.59.35872.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "59/190"
+    },
+    {
+      "name": "Toxtricity VMAX",
+      "set": "Shiny Star V",
+      "img": "https://den-cards.pokellector.com/301/Toxtricity-VMAX.S4A.60.35871.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "60/190"
+    },
+    {
+      "name": "Pincurchin",
+      "set": "Shiny Star V",
+      "img": "https://den-cards.pokellector.com/301/Pincurchin.S4A.61.36369.png",
+      "rarity": "Common",
+      "cardNum": "61/190"
+    },
+    {
+      "name": "Morpeko",
+      "set": "Shiny Star V",
+      "img": "https://den-cards.pokellector.com/301/Morpeko.S4A.62.36370.png",
+      "rarity": "Common",
+      "cardNum": "62/190"
+    },
+    {
+      "name": "Dracozolt",
+      "set": "Shiny Star V",
+      "img": "https://den-cards.pokellector.com/301/Dracozolt.S4A.63.36371.png",
+      "rarity": "Common",
+      "cardNum": "63/190"
+    },
+    {
+      "name": "Arctozolt",
+      "set": "Shiny Star V",
+      "img": "https://den-cards.pokellector.com/301/Arctozolt.S4A.64.36372.png",
+      "rarity": "Common",
+      "cardNum": "64/190"
+    },
+    {
+      "name": "Clefairy",
+      "set": "Shiny Star V",
+      "img": "https://den-cards.pokellector.com/301/Clefairy.S4A.65.36373.png",
+      "rarity": "Common",
+      "cardNum": "65/190"
+    },
+    {
+      "name": "Clefable",
+      "set": "Shiny Star V",
+      "img": "https://den-cards.pokellector.com/301/Clefable.S4A.66.36374.png",
+      "rarity": "Common",
+      "cardNum": "66/190"
+    },
+    {
+      "name": "Galarian Ponyta",
+      "set": "Shiny Star V",
+      "img": "https://den-cards.pokellector.com/301/Galarian-Ponyta.S4A.67.36375.png",
+      "rarity": "Common",
+      "cardNum": "67/190"
+    },
+    {
+      "name": "Galarian Rapidash",
+      "set": "Shiny Star V",
+      "img": "https://den-cards.pokellector.com/301/Galarian-Rapidash.S4A.68.36376.png",
+      "rarity": "Common",
+      "cardNum": "68/190"
+    },
+    {
+      "name": "Gastly",
+      "set": "Shiny Star V",
+      "img": "https://den-cards.pokellector.com/301/Gastly.S4A.69.36377.png",
+      "rarity": "Common",
+      "cardNum": "69/190"
+    },
+    {
+      "name": "Haunter",
+      "set": "Shiny Star V",
+      "img": "https://den-cards.pokellector.com/301/Haunter.S4A.70.36378.png",
+      "rarity": "Common",
+      "cardNum": "70/190"
+    },
+    {
+      "name": "Gengar",
+      "set": "Shiny Star V",
+      "img": "https://den-cards.pokellector.com/301/Gengar.S4A.71.36379.png",
+      "rarity": "Common",
+      "cardNum": "71/190"
+    },
+    {
+      "name": "Galarian Corsola",
+      "set": "Shiny Star V",
+      "img": "https://den-cards.pokellector.com/301/Galarian-Corsola.S4A.72.36380.png",
+      "rarity": "Common",
+      "cardNum": "72/190"
+    },
+    {
+      "name": "Galarian Cursola",
+      "set": "Shiny Star V",
+      "img": "https://den-cards.pokellector.com/301/Galarian-Cursola.S4A.73.36381.png",
+      "rarity": "Common",
+      "cardNum": "73/190"
+    },
+    {
+      "name": "Sigilyph",
+      "set": "Shiny Star V",
+      "img": "https://den-cards.pokellector.com/301/Sigilyph.S4A.74.36382.png",
+      "rarity": "Common",
+      "cardNum": "74/190"
+    },
+    {
+      "name": "Dedenne",
+      "set": "Shiny Star V",
+      "img": "https://den-cards.pokellector.com/301/Dedenne.S4A.75.36383.png",
+      "rarity": "Common",
+      "cardNum": "75/190"
+    },
+    {
+      "name": "Sinistea",
+      "set": "Shiny Star V",
+      "img": "https://den-cards.pokellector.com/301/Sinistea.S4A.76.36384.png",
+      "rarity": "Common",
+      "cardNum": "76/190"
+    },
+    {
+      "name": "Polteageist",
+      "set": "Shiny Star V",
+      "img": "https://den-cards.pokellector.com/301/Polteageist.S4A.77.36385.png",
+      "rarity": "Common",
+      "cardNum": "77/190"
+    },
+    {
+      "name": "Hatenna",
+      "set": "Shiny Star V",
+      "img": "https://den-cards.pokellector.com/301/Hatenna.S4A.78.36386.png",
+      "rarity": "Common",
+      "cardNum": "78/190"
+    },
+    {
+      "name": "Hattrem",
+      "set": "Shiny Star V",
+      "img": "https://den-cards.pokellector.com/301/Hattrem.S4A.79.36387.png",
+      "rarity": "Common",
+      "cardNum": "79/190"
+    },
+    {
+      "name": "Hatterene",
+      "set": "Shiny Star V",
+      "img": "https://den-cards.pokellector.com/301/Hatterene.S4A.80.36388.png",
+      "rarity": "Common",
+      "cardNum": "80/190"
+    },
+    {
+      "name": "Milcery",
+      "set": "Shiny Star V",
+      "img": "https://den-cards.pokellector.com/301/Milcery.S4A.81.36389.png",
+      "rarity": "Common",
+      "cardNum": "81/190"
+    },
+    {
+      "name": "Alcremie",
+      "set": "Shiny Star V",
+      "img": "https://den-cards.pokellector.com/301/Alcremie.S4A.82.36390.png",
+      "rarity": "Common",
+      "cardNum": "82/190"
+    },
+    {
+      "name": "Indeedee",
+      "set": "Shiny Star V",
+      "img": "https://den-cards.pokellector.com/301/Indeedee.S4A.83.36391.png",
+      "rarity": "Common",
+      "cardNum": "83/190"
+    },
+    {
+      "name": "Indeedee V",
+      "set": "Shiny Star V",
+      "img": "https://den-cards.pokellector.com/301/Indeedee-V.S4A.84.36392.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "84/190"
+    },
+    {
+      "name": "Dreepy",
+      "set": "Shiny Star V",
+      "img": "https://den-cards.pokellector.com/301/Dreepy.S4A.85.36393.png",
+      "rarity": "Common",
+      "cardNum": "85/190"
+    },
+    {
+      "name": "Drakloak",
+      "set": "Shiny Star V",
+      "img": "https://den-cards.pokellector.com/301/Drakloak.S4A.86.36394.png",
+      "rarity": "Common",
+      "cardNum": "86/190"
+    },
+    {
+      "name": "Dragapult",
+      "set": "Shiny Star V",
+      "img": "https://den-cards.pokellector.com/301/Dragapult.S4A.87.36395.png",
+      "rarity": "Common",
+      "cardNum": "87/190"
+    },
+    {
+      "name": "Dragapult V",
+      "set": "Shiny Star V",
+      "img": "https://den-cards.pokellector.com/301/Dragapult-V.S4A.88.35879.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "88/190"
+    },
+    {
+      "name": "Dragapult VMAX",
+      "set": "Shiny Star V",
+      "img": "https://den-cards.pokellector.com/301/Dragapult-VMAX.S4A.89.35880.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "89/190"
+    },
+    {
+      "name": "Galarian Farfetch'd",
+      "set": "Shiny Star V",
+      "img": "https://den-cards.pokellector.com/301/Galarian-Farfetchd.S4A.90.36396.png",
+      "rarity": "Common",
+      "cardNum": "90/190"
+    },
+    {
+      "name": "Galarian Sirfetch'd",
+      "set": "Shiny Star V",
+      "img": "https://den-cards.pokellector.com/301/Galarian-Sirfetchd.S4A.91.36397.png",
+      "rarity": "Common",
+      "cardNum": "91/190"
+    },
+    {
+      "name": "Galarian Yamask",
+      "set": "Shiny Star V",
+      "img": "https://den-cards.pokellector.com/301/Galarian-Yamask.S4A.92.36398.png",
+      "rarity": "Common",
+      "cardNum": "92/190"
+    },
+    {
+      "name": "Galarian Runerigus",
+      "set": "Shiny Star V",
+      "img": "https://den-cards.pokellector.com/301/Galarian-Runerigus.S4A.93.36399.png",
+      "rarity": "Common",
+      "cardNum": "93/190"
+    },
+    {
+      "name": "Rolycoly",
+      "set": "Shiny Star V",
+      "img": "https://den-cards.pokellector.com/301/Rolycoly.S4A.94.36400.png",
+      "rarity": "Common",
+      "cardNum": "94/190"
+    },
+    {
+      "name": "Carkol",
+      "set": "Shiny Star V",
+      "img": "https://den-cards.pokellector.com/301/Carkol.S4A.95.36401.png",
+      "rarity": "Common",
+      "cardNum": "95/190"
+    },
+    {
+      "name": "Coalossal",
+      "set": "Shiny Star V",
+      "img": "https://den-cards.pokellector.com/301/Coalossal.S4A.96.36402.png",
+      "rarity": "Common",
+      "cardNum": "96/190"
+    },
+    {
+      "name": "Silicobra",
+      "set": "Shiny Star V",
+      "img": "https://den-cards.pokellector.com/301/Silicobra.S4A.97.36403.png",
+      "rarity": "Common",
+      "cardNum": "97/190"
+    },
+    {
+      "name": "Sandaconda",
+      "set": "Shiny Star V",
+      "img": "https://den-cards.pokellector.com/301/Sandaconda.S4A.98.36404.png",
+      "rarity": "Common",
+      "cardNum": "98/190"
+    },
+    {
+      "name": "Clobbopus",
+      "set": "Shiny Star V",
+      "img": "https://den-cards.pokellector.com/301/Clobbopus.S4A.99.36405.png",
+      "rarity": "Common",
+      "cardNum": "99/190"
+    },
+    {
+      "name": "Grapploct",
+      "set": "Shiny Star V",
+      "img": "https://den-cards.pokellector.com/301/Grapploct.S4A.100.36406.png",
+      "rarity": "Common",
+      "cardNum": "100/190"
+    },
+    {
+      "name": "Falinks",
+      "set": "Shiny Star V",
+      "img": "https://den-cards.pokellector.com/301/Falinks.S4A.101.36407.png",
+      "rarity": "Common",
+      "cardNum": "101/190"
+    },
+    {
+      "name": "Falinks V",
+      "set": "Shiny Star V",
+      "img": "https://den-cards.pokellector.com/301/Falinks-V.S4A.102.36408.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "102/190"
+    },
+    {
+      "name": "Stonjourner",
+      "set": "Shiny Star V",
+      "img": "https://den-cards.pokellector.com/301/Stonjourner.S4A.103.36409.png",
+      "rarity": "Common",
+      "cardNum": "103/190"
+    },
+    {
+      "name": "Koffing",
+      "set": "Shiny Star V",
+      "img": "https://den-cards.pokellector.com/301/Koffing.S4A.104.36410.png",
+      "rarity": "Common",
+      "cardNum": "104/190"
+    },
+    {
+      "name": "Galarian Weezing",
+      "set": "Shiny Star V",
+      "img": "https://den-cards.pokellector.com/301/Galarian-Weezing.S4A.105.36411.png",
+      "rarity": "Common",
+      "cardNum": "105/190"
+    },
+    {
+      "name": "Spinarak",
+      "set": "Shiny Star V",
+      "img": "https://den-cards.pokellector.com/301/Spinarak.S4A.106.36412.png",
+      "rarity": "Common",
+      "cardNum": "106/190"
+    },
+    {
+      "name": "Ariados",
+      "set": "Shiny Star V",
+      "img": "https://den-cards.pokellector.com/301/Ariados.S4A.107.36413.png",
+      "rarity": "Common",
+      "cardNum": "107/190"
+    },
+    {
+      "name": "Crobat V",
+      "set": "Shiny Star V",
+      "img": "https://den-cards.pokellector.com/301/Crobat-V.S4A.108.35882.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "108/190"
+    },
+    {
+      "name": "Crobat VMAX",
+      "set": "Shiny Star V",
+      "img": "https://den-cards.pokellector.com/301/Crobat-VMAX.S4A.109.36162.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "109/190"
+    },
+    {
+      "name": "Galarian Zigzagoon",
+      "set": "Shiny Star V",
+      "img": "https://den-cards.pokellector.com/301/Galarian-Zigzagoon.S4A.110.35860.png",
+      "rarity": "Common",
+      "cardNum": "110/190"
+    },
+    {
+      "name": "Galarian Linoone",
+      "set": "Shiny Star V",
+      "img": "https://den-cards.pokellector.com/301/Galarian-Linoone.S4A.111.36414.png",
+      "rarity": "Common",
+      "cardNum": "111/190"
+    },
+    {
+      "name": "Galarian Obstagoon",
+      "set": "Shiny Star V",
+      "img": "https://den-cards.pokellector.com/301/Galarian-Obstagoon.S4A.112.36415.png",
+      "rarity": "Common",
+      "cardNum": "112/190"
+    },
+    {
+      "name": "Croagunk",
+      "set": "Shiny Star V",
+      "img": "https://den-cards.pokellector.com/301/Croagunk.S4A.113.36416.png",
+      "rarity": "Common",
+      "cardNum": "113/190"
+    },
+    {
+      "name": "Toxicroak",
+      "set": "Shiny Star V",
+      "img": "https://den-cards.pokellector.com/301/Toxicroak.S4A.114.36417.png",
+      "rarity": "Common",
+      "cardNum": "114/190"
+    },
+    {
+      "name": "Trubbish",
+      "set": "Shiny Star V",
+      "img": "https://den-cards.pokellector.com/301/Trubbish.S4A.115.36418.png",
+      "rarity": "Common",
+      "cardNum": "115/190"
+    },
+    {
+      "name": "Garbodor",
+      "set": "Shiny Star V",
+      "img": "https://den-cards.pokellector.com/301/Garbodor.S4A.116.36419.png",
+      "rarity": "Common",
+      "cardNum": "116/190"
+    },
+    {
+      "name": "Yveltal",
+      "set": "Shiny Star V",
+      "img": "https://den-cards.pokellector.com/301/Yveltal.S4A.117.36165.png",
+      "rarity": "Amazing Rare",
+      "cardNum": "117/190"
+    },
+    {
+      "name": "Hoopa",
+      "set": "Shiny Star V",
+      "img": "https://den-cards.pokellector.com/301/Hoopa.S4A.118.36420.png",
+      "rarity": "Common",
+      "cardNum": "118/190"
+    },
+    {
+      "name": "Nickit",
+      "set": "Shiny Star V",
+      "img": "https://den-cards.pokellector.com/301/Nickit.S4A.119.36421.png",
+      "rarity": "Common",
+      "cardNum": "119/190"
+    },
+    {
+      "name": "Thievul",
+      "set": "Shiny Star V",
+      "img": "https://den-cards.pokellector.com/301/Thievul.S4A.120.36422.png",
+      "rarity": "Common",
+      "cardNum": "120/190"
+    },
+    {
+      "name": "Impidimp",
+      "set": "Shiny Star V",
+      "img": "https://den-cards.pokellector.com/301/Impidimp.S4A.121.36423.png",
+      "rarity": "Common",
+      "cardNum": "121/190"
+    },
+    {
+      "name": "Morgrem",
+      "set": "Shiny Star V",
+      "img": "https://den-cards.pokellector.com/301/Morgrem.S4A.122.36424.png",
+      "rarity": "Common",
+      "cardNum": "122/190"
+    },
+    {
+      "name": "Grimmsnarl",
+      "set": "Shiny Star V",
+      "img": "https://den-cards.pokellector.com/301/Grimmsnarl.S4A.123.36425.png",
+      "rarity": "Common",
+      "cardNum": "123/190"
+    },
+    {
+      "name": "Eternatus V",
+      "set": "Shiny Star V",
+      "img": "https://den-cards.pokellector.com/301/Eternatus-V.S4A.124.35878.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "124/190"
+    },
+    {
+      "name": "Eternatus VMAX",
+      "set": "Shiny Star V",
+      "img": "https://den-cards.pokellector.com/301/Eternatus-VMAX.S4A.125.35877.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "125/190"
+    },
+    {
+      "name": "Galarian Meowth",
+      "set": "Shiny Star V",
+      "img": "https://den-cards.pokellector.com/301/Galarian-Meowth.S4A.126.36426.png",
+      "rarity": "Common",
+      "cardNum": "126/190"
+    },
+    {
+      "name": "Galarian Perrserker",
+      "set": "Shiny Star V",
+      "img": "https://den-cards.pokellector.com/301/Galarian-Perrserker.S4A.127.35867.png",
+      "rarity": "Common",
+      "cardNum": "127/190"
+    },
+    {
+      "name": "Galarian Stunfisk",
+      "set": "Shiny Star V",
+      "img": "https://den-cards.pokellector.com/301/Galarian-Stunfisk.S4A.128.36427.png",
+      "rarity": "Common",
+      "cardNum": "128/190"
+    },
+    {
+      "name": "Honedge",
+      "set": "Shiny Star V",
+      "img": "https://den-cards.pokellector.com/301/Honedge.S4A.129.36428.png",
+      "rarity": "Common",
+      "cardNum": "129/190"
+    },
+    {
+      "name": "Doublade",
+      "set": "Shiny Star V",
+      "img": "https://den-cards.pokellector.com/301/Doublade.S4A.130.36429.png",
+      "rarity": "Common",
+      "cardNum": "130/190"
+    },
+    {
+      "name": "Aegislash",
+      "set": "Shiny Star V",
+      "img": "https://den-cards.pokellector.com/301/Aegislash.S4A.131.36430.png",
+      "rarity": "Common",
+      "cardNum": "131/190"
+    },
+    {
+      "name": "Corviknight",
+      "set": "Shiny Star V",
+      "img": "https://den-cards.pokellector.com/301/Corviknight.S4A.132.36431.png",
+      "rarity": "Common",
+      "cardNum": "132/190"
+    },
+    {
+      "name": "Cufant",
+      "set": "Shiny Star V",
+      "img": "https://den-cards.pokellector.com/301/Cufant.S4A.133.36432.png",
+      "rarity": "Common",
+      "cardNum": "133/190"
+    },
+    {
+      "name": "Copperajah",
+      "set": "Shiny Star V",
+      "img": "https://den-cards.pokellector.com/301/Copperajah.S4A.134.36433.png",
+      "rarity": "Common",
+      "cardNum": "134/190"
+    },
+    {
+      "name": "Duraludon",
+      "set": "Shiny Star V",
+      "img": "https://den-cards.pokellector.com/301/Duraludon.S4A.135.36434.png",
+      "rarity": "Common",
+      "cardNum": "135/190"
+    },
+    {
+      "name": "Zacian",
+      "set": "Shiny Star V",
+      "img": "https://den-cards.pokellector.com/301/Zacian.S4A.136.36435.png",
+      "rarity": "Common",
+      "cardNum": "136/190"
+    },
+    {
+      "name": "Zacian V",
+      "set": "Shiny Star V",
+      "img": "https://den-cards.pokellector.com/301/Zacian-V.S4A.137.35874.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "137/190"
+    },
+    {
+      "name": "Zamazenta",
+      "set": "Shiny Star V",
+      "img": "https://den-cards.pokellector.com/301/Zamazenta.S4A.138.35875.png",
+      "rarity": "Common",
+      "cardNum": "138/190"
+    },
+    {
+      "name": "Zamazenta V",
+      "set": "Shiny Star V",
+      "img": "https://den-cards.pokellector.com/301/Zamazenta-V.S4A.139.35873.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "139/190"
+    },
+    {
+      "name": "Ditto V",
+      "set": "Shiny Star V",
+      "img": "https://den-cards.pokellector.com/301/Ditto-V.S4A.140.35876.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "140/190"
+    },
+    {
+      "name": "Ditto VMAX",
+      "set": "Shiny Star V",
+      "img": "https://den-cards.pokellector.com/301/Ditto-VMAX.S4A.141.36161.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "141/190"
+    },
+    {
+      "name": "Minccino",
+      "set": "Shiny Star V",
+      "img": "https://den-cards.pokellector.com/301/Minccino.S4A.142.36436.png",
+      "rarity": "Common",
+      "cardNum": "142/190"
+    },
+    {
+      "name": "Cinccino",
+      "set": "Shiny Star V",
+      "img": "https://den-cards.pokellector.com/301/Cinccino.S4A.143.35866.png",
+      "rarity": "Common",
+      "cardNum": "143/190"
+    },
+    {
+      "name": "Ducklett",
+      "set": "Shiny Star V",
+      "img": "https://den-cards.pokellector.com/301/Ducklett.S4A.144.36437.png",
+      "rarity": "Common",
+      "cardNum": "144/190"
+    },
+    {
+      "name": "Swanna",
+      "set": "Shiny Star V",
+      "img": "https://den-cards.pokellector.com/301/Swanna.S4A.145.36438.png",
+      "rarity": "Common",
+      "cardNum": "145/190"
+    },
+    {
+      "name": "Bunnelby",
+      "set": "Shiny Star V",
+      "img": "https://den-cards.pokellector.com/301/Bunnelby.S4A.146.36439.png",
+      "rarity": "Common",
+      "cardNum": "146/190"
+    },
+    {
+      "name": "Oranguru",
+      "set": "Shiny Star V",
+      "img": "https://den-cards.pokellector.com/301/Oranguru.S4A.147.35864.png",
+      "rarity": "Common",
+      "cardNum": "147/190"
+    },
+    {
+      "name": "Skwovet",
+      "set": "Shiny Star V",
+      "img": "https://den-cards.pokellector.com/301/Skwovet.S4A.148.36440.png",
+      "rarity": "Common",
+      "cardNum": "148/190"
+    },
+    {
+      "name": "Greedent",
+      "set": "Shiny Star V",
+      "img": "https://den-cards.pokellector.com/301/Greedent.S4A.149.36441.png",
+      "rarity": "Common",
+      "cardNum": "149/190"
+    },
+    {
+      "name": "Rookidee",
+      "set": "Shiny Star V",
+      "img": "https://den-cards.pokellector.com/301/Rookidee.S4A.150.36442.png",
+      "rarity": "Common",
+      "cardNum": "150/190"
+    },
+    {
+      "name": "Corvisquire",
+      "set": "Shiny Star V",
+      "img": "https://den-cards.pokellector.com/301/Corvisquire.S4A.151.36443.png",
+      "rarity": "Common",
+      "cardNum": "151/190"
+    },
+    {
+      "name": "Wooloo",
+      "set": "Shiny Star V",
+      "img": "https://den-cards.pokellector.com/301/Wooloo.S4A.152.36444.png",
+      "rarity": "Common",
+      "cardNum": "152/190"
+    },
+    {
+      "name": "Dubwool",
+      "set": "Shiny Star V",
+      "img": "https://den-cards.pokellector.com/301/Dubwool.S4A.153.36445.png",
+      "rarity": "Common",
+      "cardNum": "153/190"
+    },
+    {
+      "name": "Dubwool V",
+      "set": "Shiny Star V",
+      "img": "https://den-cards.pokellector.com/301/Dubwool-V.S4A.154.35870.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "154/190"
+    },
+    {
+      "name": "Cramorant V",
+      "set": "Shiny Star V",
+      "img": "https://den-cards.pokellector.com/301/Cramorant-V.S4A.155.36446.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "155/190"
+    },
+    {
+      "name": "Team Yell's Cheering Towel",
+      "set": "Shiny Star V",
+      "img": "https://den-cards.pokellector.com/301/Team-Yells-Cheering-Towel.S4A.156.36447.png",
+      "rarity": "Common",
+      "cardNum": "156/190"
+    },
+    {
+      "name": "Scoop Up Net",
+      "set": "Shiny Star V",
+      "img": "https://den-cards.pokellector.com/301/Scoop-Up-Net.S4A.157.35887.png",
+      "rarity": "Common",
+      "cardNum": "157/190"
+    },
+    {
+      "name": "Quick Ball",
+      "set": "Shiny Star V",
+      "img": "https://den-cards.pokellector.com/301/Quick-Ball.S4A.158.35888.png",
+      "rarity": "Common",
+      "cardNum": "158/190"
+    },
+    {
+      "name": "Evolution Incense",
+      "set": "Shiny Star V",
+      "img": "https://den-cards.pokellector.com/301/Evolution-Incense.S4A.159.35889.png",
+      "rarity": "Common",
+      "cardNum": "159/190"
+    },
+    {
+      "name": "Hyper Potion",
+      "set": "Shiny Star V",
+      "img": "https://den-cards.pokellector.com/301/Hyper-Potion.S4A.160.36448.png",
+      "rarity": "Common",
+      "cardNum": "160/190"
+    },
+    {
+      "name": "Turbo Patch",
+      "set": "Shiny Star V",
+      "img": "https://den-cards.pokellector.com/301/Turbo-Patch.S4A.161.36147.png",
+      "rarity": "Common",
+      "cardNum": "161/190"
+    },
+    {
+      "name": "Capacious Bucket",
+      "set": "Shiny Star V",
+      "img": "https://den-cards.pokellector.com/301/Capacious-Bucket.S4A.162.36449.png",
+      "rarity": "Common",
+      "cardNum": "162/190"
+    },
+    {
+      "name": "Tool Scrapper",
+      "set": "Shiny Star V",
+      "img": "https://den-cards.pokellector.com/301/Tool-Scrapper.S4A.163.36148.png",
+      "rarity": "Common",
+      "cardNum": "163/190"
+    },
+    {
+      "name": "Ordinary Rod",
+      "set": "Shiny Star V",
+      "img": "https://den-cards.pokellector.com/301/Ordinary-Rod.S4A.164.36450.png",
+      "rarity": "Common",
+      "cardNum": "164/190"
+    },
+    {
+      "name": "Rare Fossil",
+      "set": "Shiny Star V",
+      "img": "https://den-cards.pokellector.com/301/Rare-Fossil.S4A.165.36451.png",
+      "rarity": "Common",
+      "cardNum": "165/190"
+    },
+    {
+      "name": "Metal Saucer",
+      "set": "Shiny Star V",
+      "img": "https://den-cards.pokellector.com/301/Metal-Saucer.S4A.166.36452.png",
+      "rarity": "Common",
+      "cardNum": "166/190"
+    },
+    {
+      "name": "Rotom Bike",
+      "set": "Shiny Star V",
+      "img": "https://den-cards.pokellector.com/301/Rotom-Bike.S4A.167.36453.png",
+      "rarity": "Common",
+      "cardNum": "167/190"
+    },
+    {
+      "name": "Rusted Sword",
+      "set": "Shiny Star V",
+      "img": "https://den-cards.pokellector.com/301/Rusted-Sword.S4A.168.36454.png",
+      "rarity": "Common",
+      "cardNum": "168/190"
+    },
+    {
+      "name": "Rusted Shield",
+      "set": "Shiny Star V",
+      "img": "https://den-cards.pokellector.com/301/Rusted-Shield.S4A.169.36455.png",
+      "rarity": "Common",
+      "cardNum": "169/190"
+    },
+    {
+      "name": "Cape of Toughness",
+      "set": "Shiny Star V",
+      "img": "https://den-cards.pokellector.com/301/Cape-of-Toughness.S4A.170.36456.png",
+      "rarity": "Common",
+      "cardNum": "170/190"
+    },
+    {
+      "name": "Air Balloon",
+      "set": "Shiny Star V",
+      "img": "https://den-cards.pokellector.com/301/Air-Balloon.S4A.171.36457.png",
+      "rarity": "Common",
+      "cardNum": "171/190"
+    },
+    {
+      "name": "Bird Keeper",
+      "set": "Shiny Star V",
+      "img": "https://den-cards.pokellector.com/301/Bird-Keeper.S4A.172.36458.png",
+      "rarity": "Common",
+      "cardNum": "172/190"
+    },
+    {
+      "name": "Piers",
+      "set": "Shiny Star V",
+      "img": "https://den-cards.pokellector.com/301/Piers.S4A.173.36459.png",
+      "rarity": "Common",
+      "cardNum": "173/190"
+    },
+    {
+      "name": "Professor's Research",
+      "set": "Shiny Star V",
+      "img": "https://den-cards.pokellector.com/301/Professors-Research.S4A.174.35884.png",
+      "rarity": "Common",
+      "cardNum": "174/190"
+    },
+    {
+      "name": "Ball Guy",
+      "set": "Shiny Star V",
+      "img": "https://den-cards.pokellector.com/301/Ball-Guy.S4A.175.36460.png",
+      "rarity": "Common",
+      "cardNum": "175/190"
+    },
+    {
+      "name": "Boss's Orders",
+      "set": "Shiny Star V",
+      "img": "https://den-cards.pokellector.com/301/Bosss-Orders.S4A.176.35885.png",
+      "rarity": "Common",
+      "cardNum": "176/190"
+    },
+    {
+      "name": "Marnie",
+      "set": "Shiny Star V",
+      "img": "https://den-cards.pokellector.com/301/Marnie.S4A.177.35883.png",
+      "rarity": "Common",
+      "cardNum": "177/190"
+    },
+    {
+      "name": "Rose",
+      "set": "Shiny Star V",
+      "img": "https://den-cards.pokellector.com/301/Rose.S4A.178.36461.png",
+      "rarity": "Common",
+      "cardNum": "178/190"
+    },
+    {
+      "name": "Turffield Stadium",
+      "set": "Shiny Star V",
+      "img": "https://den-cards.pokellector.com/301/Turffield-Stadium.S4A.179.36462.png",
+      "rarity": "Common",
+      "cardNum": "179/190"
+    },
+    {
+      "name": "Training Court",
+      "set": "Shiny Star V",
+      "img": "https://den-cards.pokellector.com/301/Training-Court.S4A.180.36463.png",
+      "rarity": "Common",
+      "cardNum": "180/190"
+    },
+    {
+      "name": "Glimwood Tangle",
+      "set": "Shiny Star V",
+      "img": "https://den-cards.pokellector.com/301/Glimwood-Tangle.S4A.181.36464.png",
+      "rarity": "Common",
+      "cardNum": "181/190"
+    },
+    {
+      "name": "Rose Tower",
+      "set": "Shiny Star V",
+      "img": "https://den-cards.pokellector.com/301/Rose-Tower.S4A.182.36465.png",
+      "rarity": "Common",
+      "cardNum": "182/190"
+    },
+    {
+      "name": "Heat Energy",
+      "set": "Shiny Star V",
+      "img": "https://den-cards.pokellector.com/301/Heat-Energy.S4A.183.36466.png",
+      "rarity": "Common",
+      "cardNum": "183/190"
+    },
+    {
+      "name": "Speed Lightning Energy",
+      "set": "Shiny Star V",
+      "img": "https://den-cards.pokellector.com/301/Speed-Lightning-Energy.S4A.184.35886.png",
+      "rarity": "Common",
+      "cardNum": "184/190"
+    },
+    {
+      "name": "Horror Energy",
+      "set": "Shiny Star V",
+      "img": "https://den-cards.pokellector.com/301/Horror-Energy.S4A.185.36467.png",
+      "rarity": "Common",
+      "cardNum": "185/190"
+    },
+    {
+      "name": "Hiding Energy",
+      "set": "Shiny Star V",
+      "img": "https://den-cards.pokellector.com/301/Hiding-Energy.S4A.186.36468.png",
+      "rarity": "Common",
+      "cardNum": "186/190"
+    },
+    {
+      "name": "Aurora Energy",
+      "set": "Shiny Star V",
+      "img": "https://den-cards.pokellector.com/301/Aurora-Energy.S4A.187.36469.png",
+      "rarity": "Common",
+      "cardNum": "187/190"
+    },
+    {
+      "name": "Capture Energy",
+      "set": "Shiny Star V",
+      "img": "https://den-cards.pokellector.com/301/Capture-Energy.S4A.188.36470.png",
+      "rarity": "Common",
+      "cardNum": "188/190"
+    },
+    {
+      "name": "Twin Energy",
+      "set": "Shiny Star V",
+      "img": "https://den-cards.pokellector.com/301/Twin-Energy.S4A.189.36471.png",
+      "rarity": "Common",
+      "cardNum": "189/190"
+    },
+    {
+      "name": "Powerful Energy",
+      "set": "Shiny Star V",
+      "img": "https://den-cards.pokellector.com/301/Powerful-Energy.S4A.190.36472.png",
+      "rarity": "Common",
+      "cardNum": "190/190"
+    },
+    {
+      "name": "Cara Liss",
+      "set": "Shiny Star V",
+      "img": "https://den-cards.pokellector.com/301/Cara-Liss.S4A.191.36502.png",
+      "rarity": "Secret Rare",
+      "cardNum": "191/190"
+    },
+    {
+      "name": "Gym Trainer",
+      "set": "Shiny Star V",
+      "img": "https://den-cards.pokellector.com/301/Gym-Trainer.S4A.192.36503.png",
+      "rarity": "Secret Rare",
+      "cardNum": "192/190"
+    },
+    {
+      "name": "Bird Keeper",
+      "set": "Shiny Star V",
+      "img": "https://den-cards.pokellector.com/301/Bird-Keeper.S4A.193.36504.png",
+      "rarity": "Secret Rare",
+      "cardNum": "193/190"
+    },
+    {
+      "name": "Piers",
+      "set": "Shiny Star V",
+      "img": "https://den-cards.pokellector.com/301/Piers.S4A.194.36505.png",
+      "rarity": "Secret Rare",
+      "cardNum": "194/190"
+    },
+    {
+      "name": "Skyla",
+      "set": "Shiny Star V",
+      "img": "https://den-cards.pokellector.com/301/Skyla.S4A.195.36506.png",
+      "rarity": "Secret Rare",
+      "cardNum": "195/190"
+    },
+    {
+      "name": "Ball Guy",
+      "set": "Shiny Star V",
+      "img": "https://den-cards.pokellector.com/301/Ball-Guy.S4A.196.36507.png",
+      "rarity": "Secret Rare",
+      "cardNum": "196/190"
+    },
+    {
+      "name": "Poké Kid",
+      "set": "Shiny Star V",
+      "img": "https://den-cards.pokellector.com/301/Pokeacute-Kid.S4A.197.36508.png",
+      "rarity": "Secret Rare",
+      "cardNum": "197/190"
+    },
+    {
+      "name": "Marnie",
+      "set": "Shiny Star V",
+      "img": "https://den-cards.pokellector.com/301/Marnie.S4A.198.36509.png",
+      "rarity": "Secret Rare",
+      "cardNum": "198/190"
+    },
+    {
+      "name": "Rose",
+      "set": "Shiny Star V",
+      "img": "https://den-cards.pokellector.com/301/Rose.S4A.199.36510.png",
+      "rarity": "Secret Rare",
+      "cardNum": "199/190"
+    },
+    {
+      "name": "Rowlet",
+      "set": "Shiny Star V",
+      "img": "https://den-cards.pokellector.com/301/Rowlet.S4A.200.36511.png",
+      "rarity": "Shiny",
+      "cardNum": "200/190"
+    },
+    {
+      "name": "Dartrix",
+      "set": "Shiny Star V",
+      "img": "https://den-cards.pokellector.com/301/Dartrix.S4A.201.36512.png",
+      "rarity": "Shiny",
+      "cardNum": "201/190"
+    },
+    {
+      "name": "Decidueye",
+      "set": "Shiny Star V",
+      "img": "https://den-cards.pokellector.com/301/Decidueye.S4A.202.35863.png",
+      "rarity": "Shiny",
+      "cardNum": "202/190"
+    },
+    {
+      "name": "Grookey",
+      "set": "Shiny Star V",
+      "img": "https://den-cards.pokellector.com/301/Grookey.S4A.203.36513.png",
+      "rarity": "Shiny",
+      "cardNum": "203/190"
+    },
+    {
+      "name": "Thwackey",
+      "set": "Shiny Star V",
+      "img": "https://den-cards.pokellector.com/301/Thwackey.S4A.204.36145.png",
+      "rarity": "Shiny",
+      "cardNum": "204/190"
+    },
+    {
+      "name": "Rillaboom",
+      "set": "Shiny Star V",
+      "img": "https://den-cards.pokellector.com/301/Rillaboom.S4A.205.36483.png",
+      "rarity": "Shiny",
+      "cardNum": "205/190"
+    },
+    {
+      "name": "Blipbug",
+      "set": "Shiny Star V",
+      "img": "https://den-cards.pokellector.com/301/Blipbug.S4A.206.36514.png",
+      "rarity": "Shiny",
+      "cardNum": "206/190"
+    },
+    {
+      "name": "Dottler",
+      "set": "Shiny Star V",
+      "img": "https://den-cards.pokellector.com/301/Dottler.S4A.207.36515.png",
+      "rarity": "Shiny",
+      "cardNum": "207/190"
+    },
+    {
+      "name": "Orbeetle",
+      "set": "Shiny Star V",
+      "img": "https://den-cards.pokellector.com/301/Orbeetle.S4A.208.36516.png",
+      "rarity": "Shiny",
+      "cardNum": "208/190"
+    },
+    {
+      "name": "Gossifleur",
+      "set": "Shiny Star V",
+      "img": "https://den-cards.pokellector.com/301/Gossifleur.S4A.209.36517.png",
+      "rarity": "Shiny",
+      "cardNum": "209/190"
+    },
+    {
+      "name": "Eldegoss",
+      "set": "Shiny Star V",
+      "img": "https://den-cards.pokellector.com/301/Eldegoss.S4A.210.36481.png",
+      "rarity": "Shiny",
+      "cardNum": "210/190"
+    },
+    {
+      "name": "Applin",
+      "set": "Shiny Star V",
+      "img": "https://den-cards.pokellector.com/301/Applin.S4A.211.36518.png",
+      "rarity": "Shiny",
+      "cardNum": "211/190"
+    },
+    {
+      "name": "Flapple",
+      "set": "Shiny Star V",
+      "img": "https://den-cards.pokellector.com/301/Flapple.S4A.212.36519.png",
+      "rarity": "Shiny",
+      "cardNum": "212/190"
+    },
+    {
+      "name": "Appletun",
+      "set": "Shiny Star V",
+      "img": "https://den-cards.pokellector.com/301/Appletun.S4A.213.36520.png",
+      "rarity": "Shiny",
+      "cardNum": "213/190"
+    },
+    {
+      "name": "Scorbunny",
+      "set": "Shiny Star V",
+      "img": "https://den-cards.pokellector.com/301/Scorbunny.S4A.214.36521.png",
+      "rarity": "Shiny",
+      "cardNum": "214/190"
+    },
+    {
+      "name": "Raboot",
+      "set": "Shiny Star V",
+      "img": "https://den-cards.pokellector.com/301/Raboot.S4A.215.36522.png",
+      "rarity": "Shiny",
+      "cardNum": "215/190"
+    },
+    {
+      "name": "Cinderace",
+      "set": "Shiny Star V",
+      "img": "https://den-cards.pokellector.com/301/Cinderace.S4A.216.36484.png",
+      "rarity": "Shiny",
+      "cardNum": "216/190"
+    },
+    {
+      "name": "Sizzlipede",
+      "set": "Shiny Star V",
+      "img": "https://den-cards.pokellector.com/301/Sizzlipede.S4A.217.36523.png",
+      "rarity": "Shiny",
+      "cardNum": "217/190"
+    },
+    {
+      "name": "Centiskorch",
+      "set": "Shiny Star V",
+      "img": "https://den-cards.pokellector.com/301/Centiskorch.S4A.218.36524.png",
+      "rarity": "Shiny",
+      "cardNum": "218/190"
+    },
+    {
+      "name": "Galarian Mr. Mime",
+      "set": "Shiny Star V",
+      "img": "https://den-cards.pokellector.com/301/Galarian-Mr-Mime.S4A.219.36525.png",
+      "rarity": "Shiny",
+      "cardNum": "219/190"
+    },
+    {
+      "name": "Galarian Mr Rime",
+      "set": "Shiny Star V",
+      "img": "https://den-cards.pokellector.com/301/Galarian-Mr-Rime.S4A.220.36485.png",
+      "rarity": "Shiny",
+      "cardNum": "220/190"
+    },
+    {
+      "name": "Suicune",
+      "set": "Shiny Star V",
+      "img": "https://den-cards.pokellector.com/301/Suicune.S4A.221.36526.png",
+      "rarity": "Shiny",
+      "cardNum": "221/190"
+    },
+    {
+      "name": "Galarian Darumaka",
+      "set": "Shiny Star V",
+      "img": "https://den-cards.pokellector.com/301/Galarian-Darumaka.S4A.222.36527.png",
+      "rarity": "Shiny",
+      "cardNum": "222/190"
+    },
+    {
+      "name": "Galarian Darmanitan",
+      "set": "Shiny Star V",
+      "img": "https://den-cards.pokellector.com/301/Galarian-Darmanitan.S4A.223.36528.png",
+      "rarity": "Shiny",
+      "cardNum": "223/190"
+    },
+    {
+      "name": "Sobble",
+      "set": "Shiny Star V",
+      "img": "https://den-cards.pokellector.com/301/Sobble.S4A.224.36529.png",
+      "rarity": "Shiny",
+      "cardNum": "224/190"
+    },
+    {
+      "name": "Drizzile",
+      "set": "Shiny Star V",
+      "img": "https://den-cards.pokellector.com/301/Drizzile.S4A.225.36530.png",
+      "rarity": "Shiny",
+      "cardNum": "225/190"
+    },
+    {
+      "name": "Inteleon",
+      "set": "Shiny Star V",
+      "img": "https://den-cards.pokellector.com/301/Inteleon.S4A.226.36486.png",
+      "rarity": "Shiny",
+      "cardNum": "226/190"
+    },
+    {
+      "name": "Chewtle",
+      "set": "Shiny Star V",
+      "img": "https://den-cards.pokellector.com/301/Chewtle.S4A.227.36531.png",
+      "rarity": "Shiny",
+      "cardNum": "227/190"
+    },
+    {
+      "name": "Drednaw",
+      "set": "Shiny Star V",
+      "img": "https://den-cards.pokellector.com/301/Drednaw.S4A.228.36532.png",
+      "rarity": "Shiny",
+      "cardNum": "228/190"
+    },
+    {
+      "name": "Cramorant",
+      "set": "Shiny Star V",
+      "img": "https://den-cards.pokellector.com/301/Cramorant.S4A.229.36533.png",
+      "rarity": "Shiny",
+      "cardNum": "229/190"
+    },
+    {
+      "name": "Arrokuda",
+      "set": "Shiny Star V",
+      "img": "https://den-cards.pokellector.com/301/Arrokuda.S4A.230.36534.png",
+      "rarity": "Shiny",
+      "cardNum": "230/190"
+    },
+    {
+      "name": "Barraskewda",
+      "set": "Shiny Star V",
+      "img": "https://den-cards.pokellector.com/301/Barraskewda.S4A.231.36487.png",
+      "rarity": "Shiny",
+      "cardNum": "231/190"
+    },
+    {
+      "name": "Snom",
+      "set": "Shiny Star V",
+      "img": "https://den-cards.pokellector.com/301/Snom.S4A.232.36146.png",
+      "rarity": "Shiny",
+      "cardNum": "232/190"
+    },
+    {
+      "name": "Frosmoth",
+      "set": "Shiny Star V",
+      "img": "https://den-cards.pokellector.com/301/Frosmoth.S4A.233.36535.png",
+      "rarity": "Shiny",
+      "cardNum": "233/190"
+    },
+    {
+      "name": "Eiscue",
+      "set": "Shiny Star V",
+      "img": "https://den-cards.pokellector.com/301/Eiscue.S4A.234.36536.png",
+      "rarity": "Shiny",
+      "cardNum": "234/190"
+    },
+    {
+      "name": "Dracovish",
+      "set": "Shiny Star V",
+      "img": "https://den-cards.pokellector.com/301/Dracovish.S4A.235.36537.png",
+      "rarity": "Shiny",
+      "cardNum": "235/190"
+    },
+    {
+      "name": "Arctovish",
+      "set": "Shiny Star V",
+      "img": "https://den-cards.pokellector.com/301/Arctovish.S4A.236.36538.png",
+      "rarity": "Shiny",
+      "cardNum": "236/190"
+    },
+    {
+      "name": "Rotom",
+      "set": "Shiny Star V",
+      "img": "https://den-cards.pokellector.com/301/Rotom.S4A.237.36144.png",
+      "rarity": "Shiny",
+      "cardNum": "237/190"
+    },
+    {
+      "name": "Yamper",
+      "set": "Shiny Star V",
+      "img": "https://den-cards.pokellector.com/301/Yamper.S4A.238.36539.png",
+      "rarity": "Shiny",
+      "cardNum": "238/190"
+    },
+    {
+      "name": "Boltund",
+      "set": "Shiny Star V",
+      "img": "https://den-cards.pokellector.com/301/Boltund.S4A.239.36540.png",
+      "rarity": "Shiny",
+      "cardNum": "239/190"
+    },
+    {
+      "name": "Toxel",
+      "set": "Shiny Star V",
+      "img": "https://den-cards.pokellector.com/301/Toxel.S4A.240.36541.png",
+      "rarity": "Shiny",
+      "cardNum": "240/190"
+    },
+    {
+      "name": "Toxtricity",
+      "set": "Shiny Star V",
+      "img": "https://den-cards.pokellector.com/301/Toxtricity.S4A.241.36542.png",
+      "rarity": "Shiny",
+      "cardNum": "241/190"
+    },
+    {
+      "name": "Pincurchin",
+      "set": "Shiny Star V",
+      "img": "https://den-cards.pokellector.com/301/Pincurchin.S4A.242.36543.png",
+      "rarity": "Shiny",
+      "cardNum": "242/190"
+    },
+    {
+      "name": "Morpeko",
+      "set": "Shiny Star V",
+      "img": "https://den-cards.pokellector.com/301/Morpeko.S4A.243.36544.png",
+      "rarity": "Shiny",
+      "cardNum": "243/190"
+    },
+    {
+      "name": "Dracozolt",
+      "set": "Shiny Star V",
+      "img": "https://den-cards.pokellector.com/301/Dracozolt.S4A.244.36545.png",
+      "rarity": "Shiny",
+      "cardNum": "244/190"
+    },
+    {
+      "name": "Arctozolt",
+      "set": "Shiny Star V",
+      "img": "https://den-cards.pokellector.com/301/Arctozolt.S4A.245.36546.png",
+      "rarity": "Shiny",
+      "cardNum": "245/190"
+    },
+    {
+      "name": "Galarian Ponyta",
+      "set": "Shiny Star V",
+      "img": "https://den-cards.pokellector.com/301/Galarian-Ponyta.S4A.246.36547.png",
+      "rarity": "Shiny",
+      "cardNum": "246/190"
+    },
+    {
+      "name": "Galarian Rapidash",
+      "set": "Shiny Star V",
+      "img": "https://den-cards.pokellector.com/301/Galarian-Rapidash.S4A.247.36548.png",
+      "rarity": "Shiny",
+      "cardNum": "247/190"
+    },
+    {
+      "name": "Galarian Corsola",
+      "set": "Shiny Star V",
+      "img": "https://den-cards.pokellector.com/301/Galarian-Corsola.S4A.248.36549.png",
+      "rarity": "Shiny",
+      "cardNum": "248/190"
+    },
+    {
+      "name": "Galarian Cursola",
+      "set": "Shiny Star V",
+      "img": "https://den-cards.pokellector.com/301/Galarian-Cursola.S4A.249.36550.png",
+      "rarity": "Shiny",
+      "cardNum": "249/190"
+    },
+    {
+      "name": "Dedenne",
+      "set": "Shiny Star V",
+      "img": "https://den-cards.pokellector.com/301/Dedenne.S4A.250.36479.png",
+      "rarity": "Shiny",
+      "cardNum": "250/190"
+    },
+    {
+      "name": "Sinistea",
+      "set": "Shiny Star V",
+      "img": "https://den-cards.pokellector.com/301/Sinistea.S4A.251.36492.png",
+      "rarity": "Shiny",
+      "cardNum": "251/190"
+    },
+    {
+      "name": "Polteageist",
+      "set": "Shiny Star V",
+      "img": "https://den-cards.pokellector.com/301/Polteageist.S4A.252.36493.png",
+      "rarity": "Shiny",
+      "cardNum": "252/190"
+    },
+    {
+      "name": "Hatenna",
+      "set": "Shiny Star V",
+      "img": "https://den-cards.pokellector.com/301/Hatenna.S4A.253.36551.png",
+      "rarity": "Shiny",
+      "cardNum": "253/190"
+    },
+    {
+      "name": "Hattrem",
+      "set": "Shiny Star V",
+      "img": "https://den-cards.pokellector.com/301/Hattrem.S4A.254.36552.png",
+      "rarity": "Shiny",
+      "cardNum": "254/190"
+    },
+    {
+      "name": "Hatterene",
+      "set": "Shiny Star V",
+      "img": "https://den-cards.pokellector.com/301/Hatterene.S4A.255.36553.png",
+      "rarity": "Shiny",
+      "cardNum": "255/190"
+    },
+    {
+      "name": "Milcery",
+      "set": "Shiny Star V",
+      "img": "https://den-cards.pokellector.com/301/Milcery.S4A.256.36554.png",
+      "rarity": "Shiny",
+      "cardNum": "256/190"
+    },
+    {
+      "name": "Alcremie",
+      "set": "Shiny Star V",
+      "img": "https://den-cards.pokellector.com/301/Alcremie.S4A.257.36555.png",
+      "rarity": "Shiny",
+      "cardNum": "257/190"
+    },
+    {
+      "name": "Indeedee",
+      "set": "Shiny Star V",
+      "img": "https://den-cards.pokellector.com/301/Indeedee.S4A.258.36556.png",
+      "rarity": "Shiny",
+      "cardNum": "258/190"
+    },
+    {
+      "name": "Dreepy",
+      "set": "Shiny Star V",
+      "img": "https://den-cards.pokellector.com/301/Dreepy.S4A.259.36557.png",
+      "rarity": "Shiny",
+      "cardNum": "259/190"
+    },
+    {
+      "name": "Drakloak",
+      "set": "Shiny Star V",
+      "img": "https://den-cards.pokellector.com/301/Drakloak.S4A.260.36558.png",
+      "rarity": "Shiny",
+      "cardNum": "260/190"
+    },
+    {
+      "name": "Dragapult",
+      "set": "Shiny Star V",
+      "img": "https://den-cards.pokellector.com/301/Dragapult.S4A.261.36559.png",
+      "rarity": "Shiny",
+      "cardNum": "261/190"
+    },
+    {
+      "name": "Galarian Farfetch'd",
+      "set": "Shiny Star V",
+      "img": "https://den-cards.pokellector.com/301/Galarian-Farfetchd.S4A.262.36560.png",
+      "rarity": "Shiny",
+      "cardNum": "262/190"
+    },
+    {
+      "name": "Galarian Sirfetch'd",
+      "set": "Shiny Star V",
+      "img": "https://den-cards.pokellector.com/301/Galarian-Sirfetchd.S4A.263.36561.png",
+      "rarity": "Shiny",
+      "cardNum": "263/190"
+    },
+    {
+      "name": "Galarian Yamask",
+      "set": "Shiny Star V",
+      "img": "https://den-cards.pokellector.com/301/Galarian-Yamask.S4A.264.36562.png",
+      "rarity": "Shiny",
+      "cardNum": "264/190"
+    },
+    {
+      "name": "Galarian Runerigus",
+      "set": "Shiny Star V",
+      "img": "https://den-cards.pokellector.com/301/Galarian-Runerigus.S4A.265.36563.png",
+      "rarity": "Shiny",
+      "cardNum": "265/190"
+    },
+    {
+      "name": "Rolycoly",
+      "set": "Shiny Star V",
+      "img": "https://den-cards.pokellector.com/301/Rolycoly.S4A.266.36564.png",
+      "rarity": "Shiny",
+      "cardNum": "266/190"
+    },
+    {
+      "name": "Carkol",
+      "set": "Shiny Star V",
+      "img": "https://den-cards.pokellector.com/301/Carkol.S4A.267.36565.png",
+      "rarity": "Shiny",
+      "cardNum": "267/190"
+    },
+    {
+      "name": "Coalossal",
+      "set": "Shiny Star V",
+      "img": "https://den-cards.pokellector.com/301/Coalossal.S4A.268.36566.png",
+      "rarity": "Shiny",
+      "cardNum": "268/190"
+    },
+    {
+      "name": "Silicobra",
+      "set": "Shiny Star V",
+      "img": "https://den-cards.pokellector.com/301/Silicobra.S4A.269.36567.png",
+      "rarity": "Shiny",
+      "cardNum": "269/190"
+    },
+    {
+      "name": "Sandaconda",
+      "set": "Shiny Star V",
+      "img": "https://den-cards.pokellector.com/301/Sandaconda.S4A.270.36568.png",
+      "rarity": "Shiny",
+      "cardNum": "270/190"
+    },
+    {
+      "name": "Clobbopus",
+      "set": "Shiny Star V",
+      "img": "https://den-cards.pokellector.com/301/Clobbopus.S4A.271.36569.png",
+      "rarity": "Shiny",
+      "cardNum": "271/190"
+    },
+    {
+      "name": "Grapploct",
+      "set": "Shiny Star V",
+      "img": "https://den-cards.pokellector.com/301/Grapploct.S4A.272.36570.png",
+      "rarity": "Shiny",
+      "cardNum": "272/190"
+    },
+    {
+      "name": "Falinks",
+      "set": "Shiny Star V",
+      "img": "https://den-cards.pokellector.com/301/Falinks.S4A.273.36571.png",
+      "rarity": "Shiny",
+      "cardNum": "273/190"
+    },
+    {
+      "name": "Stonjourner",
+      "set": "Shiny Star V",
+      "img": "https://den-cards.pokellector.com/301/Stonjourner.S4A.274.36572.png",
+      "rarity": "Shiny",
+      "cardNum": "274/190"
+    },
+    {
+      "name": "Koffing",
+      "set": "Shiny Star V",
+      "img": "https://den-cards.pokellector.com/301/Koffing.S4A.275.36143.png",
+      "rarity": "Shiny",
+      "cardNum": "275/190"
+    },
+    {
+      "name": "Galarian Weezing",
+      "set": "Shiny Star V",
+      "img": "https://den-cards.pokellector.com/301/Galarian-Weezing.S4A.276.36573.png",
+      "rarity": "Shiny",
+      "cardNum": "276/190"
+    },
+    {
+      "name": "Galarian Zigzagoon",
+      "set": "Shiny Star V",
+      "img": "https://den-cards.pokellector.com/301/Galarian-Zigzagoon.S4A.277.36574.png",
+      "rarity": "Shiny",
+      "cardNum": "277/190"
+    },
+    {
+      "name": "Galarian Linoone",
+      "set": "Shiny Star V",
+      "img": "https://den-cards.pokellector.com/301/Galarian-Linoone.S4A.278.36575.png",
+      "rarity": "Shiny",
+      "cardNum": "278/190"
+    },
+    {
+      "name": "Galarian Obstagoon",
+      "set": "Shiny Star V",
+      "img": "https://den-cards.pokellector.com/301/Galarian-Obstagoon.S4A.279.36576.png",
+      "rarity": "Shiny",
+      "cardNum": "279/190"
+    },
+    {
+      "name": "Nickit",
+      "set": "Shiny Star V",
+      "img": "https://den-cards.pokellector.com/301/Nickit.S4A.280.36577.png",
+      "rarity": "Shiny",
+      "cardNum": "280/190"
+    },
+    {
+      "name": "Thievul",
+      "set": "Shiny Star V",
+      "img": "https://den-cards.pokellector.com/301/Thievul.S4A.281.36578.png",
+      "rarity": "Shiny",
+      "cardNum": "281/190"
+    },
+    {
+      "name": "Impidimp",
+      "set": "Shiny Star V",
+      "img": "https://den-cards.pokellector.com/301/Impidimp.S4A.282.36579.png",
+      "rarity": "Shiny",
+      "cardNum": "282/190"
+    },
+    {
+      "name": "Morgrem",
+      "set": "Shiny Star V",
+      "img": "https://den-cards.pokellector.com/301/Morgrem.S4A.283.36580.png",
+      "rarity": "Shiny",
+      "cardNum": "283/190"
+    },
+    {
+      "name": "Grimmsnarl",
+      "set": "Shiny Star V",
+      "img": "https://den-cards.pokellector.com/301/Grimmsnarl.S4A.284.36581.png",
+      "rarity": "Shiny",
+      "cardNum": "284/190"
+    },
+    {
+      "name": "Galarian Meowth",
+      "set": "Shiny Star V",
+      "img": "https://den-cards.pokellector.com/301/Galarian-Meowth.S4A.285.36582.png",
+      "rarity": "Shiny",
+      "cardNum": "285/190"
+    },
+    {
+      "name": "Galarian Perrserker",
+      "set": "Shiny Star V",
+      "img": "https://den-cards.pokellector.com/301/Galarian-Perrserker.S4A.286.36489.png",
+      "rarity": "Shiny",
+      "cardNum": "286/190"
+    },
+    {
+      "name": "Galarian Stunfisk",
+      "set": "Shiny Star V",
+      "img": "https://den-cards.pokellector.com/301/Galarian-Stunfisk.S4A.287.36583.png",
+      "rarity": "Shiny",
+      "cardNum": "287/190"
+    },
+    {
+      "name": "Corviknight",
+      "set": "Shiny Star V",
+      "img": "https://den-cards.pokellector.com/301/Corviknight.S4A.288.36584.png",
+      "rarity": "Shiny",
+      "cardNum": "288/190"
+    },
+    {
+      "name": "Cufant",
+      "set": "Shiny Star V",
+      "img": "https://den-cards.pokellector.com/301/Cufant.S4A.289.36585.png",
+      "rarity": "Shiny",
+      "cardNum": "289/190"
+    },
+    {
+      "name": "Copperajah",
+      "set": "Shiny Star V",
+      "img": "https://den-cards.pokellector.com/301/Copperajah.S4A.290.36586.png",
+      "rarity": "Shiny",
+      "cardNum": "290/190"
+    },
+    {
+      "name": "Duraludon",
+      "set": "Shiny Star V",
+      "img": "https://den-cards.pokellector.com/301/Duraludon.S4A.291.36587.png",
+      "rarity": "Shiny",
+      "cardNum": "291/190"
+    },
+    {
+      "name": "Minccino",
+      "set": "Shiny Star V",
+      "img": "https://den-cards.pokellector.com/301/Minccino.S4A.292.36588.png",
+      "rarity": "Shiny",
+      "cardNum": "292/190"
+    },
+    {
+      "name": "Cinccino",
+      "set": "Shiny Star V",
+      "img": "https://den-cards.pokellector.com/301/Cinccino.S4A.293.36589.png",
+      "rarity": "Shiny",
+      "cardNum": "293/190"
+    },
+    {
+      "name": "Ducklett",
+      "set": "Shiny Star V",
+      "img": "https://den-cards.pokellector.com/301/Ducklett.S4A.294.36590.png",
+      "rarity": "Shiny",
+      "cardNum": "294/190"
+    },
+    {
+      "name": "Swanna",
+      "set": "Shiny Star V",
+      "img": "https://den-cards.pokellector.com/301/Swanna.S4A.295.36490.png",
+      "rarity": "Shiny",
+      "cardNum": "295/190"
+    },
+    {
+      "name": "Bunnelby",
+      "set": "Shiny Star V",
+      "img": "https://den-cards.pokellector.com/301/Bunnelby.S4A.296.36591.png",
+      "rarity": "Shiny",
+      "cardNum": "296/190"
+    },
+    {
+      "name": "Oranguru",
+      "set": "Shiny Star V",
+      "img": "https://den-cards.pokellector.com/301/Oranguru.S4A.297.35865.png",
+      "rarity": "Shiny",
+      "cardNum": "297/190"
+    },
+    {
+      "name": "Skwovet",
+      "set": "Shiny Star V",
+      "img": "https://den-cards.pokellector.com/301/Skwovet.S4A.298.36592.png",
+      "rarity": "Shiny",
+      "cardNum": "298/190"
+    },
+    {
+      "name": "Greedent",
+      "set": "Shiny Star V",
+      "img": "https://den-cards.pokellector.com/301/Greedent.S4A.299.36593.png",
+      "rarity": "Shiny",
+      "cardNum": "299/190"
+    },
+    {
+      "name": "Rookidee",
+      "set": "Shiny Star V",
+      "img": "https://den-cards.pokellector.com/301/Rookidee.S4A.300.36594.png",
+      "rarity": "Shiny",
+      "cardNum": "300/190"
+    },
+    {
+      "name": "Corvisquire",
+      "set": "Shiny Star V",
+      "img": "https://den-cards.pokellector.com/301/Corvisquire.S4A.301.36595.png",
+      "rarity": "Shiny",
+      "cardNum": "301/190"
+    },
+    {
+      "name": "Wooloo",
+      "set": "Shiny Star V",
+      "img": "https://den-cards.pokellector.com/301/Wooloo.S4A.302.36596.png",
+      "rarity": "Shiny",
+      "cardNum": "302/190"
+    },
+    {
+      "name": "Dubwool",
+      "set": "Shiny Star V",
+      "img": "https://den-cards.pokellector.com/301/Dubwool.S4A.303.36597.png",
+      "rarity": "Shiny",
+      "cardNum": "303/190"
+    },
+    {
+      "name": "Rillaboom V",
+      "set": "Shiny Star V",
+      "img": "https://den-cards.pokellector.com/301/Rillaboom-V.S4A.304.36598.png",
+      "rarity": "Super Secret Rare",
+      "cardNum": "304/190"
+    },
+    {
+      "name": "Rillaboom VMAX",
+      "set": "Shiny Star V",
+      "img": "https://den-cards.pokellector.com/301/Rillaboom-VMAX.S4A.305.36482.png",
+      "rarity": "Super Secret Rare",
+      "cardNum": "305/190"
+    },
+    {
+      "name": "Eldegoss V",
+      "set": "Shiny Star V",
+      "img": "https://den-cards.pokellector.com/301/Eldegoss-V.S4A.306.36599.png",
+      "rarity": "Super Secret Rare",
+      "cardNum": "306/190"
+    },
+    {
+      "name": "Charizard V",
+      "set": "Shiny Star V",
+      "img": "https://den-cards.pokellector.com/301/Charizard-V.S4A.307.36600.png",
+      "rarity": "Super Secret Rare",
+      "cardNum": "307/190"
+    },
+    {
+      "name": "Charizard VMAX",
+      "set": "Shiny Star V",
+      "img": "https://den-cards.pokellector.com/301/Charizard-VMAX.S4A.308.35859.png",
+      "rarity": "Super Secret Rare",
+      "cardNum": "308/190"
+    },
+    {
+      "name": "Centiskorch V",
+      "set": "Shiny Star V",
+      "img": "https://den-cards.pokellector.com/301/Centiskorch-V.S4A.309.36601.png",
+      "rarity": "Super Secret Rare",
+      "cardNum": "309/190"
+    },
+    {
+      "name": "Centiskorch VMAX",
+      "set": "Shiny Star V",
+      "img": "https://den-cards.pokellector.com/301/Centiskorch-VMAX.S4A.310.36602.png",
+      "rarity": "Super Secret Rare",
+      "cardNum": "310/190"
+    },
+    {
+      "name": "Lapras V",
+      "set": "Shiny Star V",
+      "img": "https://den-cards.pokellector.com/301/Lapras-V.S4A.311.36603.png",
+      "rarity": "Super Secret Rare",
+      "cardNum": "311/190"
+    },
+    {
+      "name": "Lapras VMAX",
+      "set": "Shiny Star V",
+      "img": "https://den-cards.pokellector.com/301/Lapras-VMAX.S4A.312.36604.png",
+      "rarity": "Super Secret Rare",
+      "cardNum": "312/190"
+    },
+    {
+      "name": "Boltund V",
+      "set": "Shiny Star V",
+      "img": "https://den-cards.pokellector.com/301/Boltund-V.S4A.313.36478.png",
+      "rarity": "Super Secret Rare",
+      "cardNum": "313/190"
+    },
+    {
+      "name": "Toxtricity V",
+      "set": "Shiny Star V",
+      "img": "https://den-cards.pokellector.com/301/Toxtricity-V.S4A.314.36605.png",
+      "rarity": "Super Secret Rare",
+      "cardNum": "314/190"
+    },
+    {
+      "name": "Toxtricity VMAX",
+      "set": "Shiny Star V",
+      "img": "https://den-cards.pokellector.com/301/Toxtricity-VMAX.S4A.315.36606.png",
+      "rarity": "Super Secret Rare",
+      "cardNum": "315/190"
+    },
+    {
+      "name": "Indeedee V",
+      "set": "Shiny Star V",
+      "img": "https://den-cards.pokellector.com/301/Indeedee-V.S4A.316.36491.png",
+      "rarity": "Super Secret Rare",
+      "cardNum": "316/190"
+    },
+    {
+      "name": "Dragapult V",
+      "set": "Shiny Star V",
+      "img": "https://den-cards.pokellector.com/301/Dragapult-V.S4A.317.36607.png",
+      "rarity": "Super Secret Rare",
+      "cardNum": "317/190"
+    },
+    {
+      "name": "Dragapult VMAX",
+      "set": "Shiny Star V",
+      "img": "https://den-cards.pokellector.com/301/Dragapult-VMAX.S4A.318.36608.png",
+      "rarity": "Super Secret Rare",
+      "cardNum": "318/190"
+    },
+    {
+      "name": "Falinks V",
+      "set": "Shiny Star V",
+      "img": "https://den-cards.pokellector.com/301/Falinks-V.S4A.319.36609.png",
+      "rarity": "Super Secret Rare",
+      "cardNum": "319/190"
+    },
+    {
+      "name": "Crobat VMAX",
+      "set": "Shiny Star V",
+      "img": "https://den-cards.pokellector.com/301/Crobat-VMAX.S4A.320.36610.png",
+      "rarity": "Super Secret Rare",
+      "cardNum": "320/190"
+    },
+    {
+      "name": "Grimmsnarl V",
+      "set": "Shiny Star V",
+      "img": "https://den-cards.pokellector.com/301/Grimmsnarl-V.S4A.321.36611.png",
+      "rarity": "Super Secret Rare",
+      "cardNum": "321/190"
+    },
+    {
+      "name": "Grimmsnarl VMAX",
+      "set": "Shiny Star V",
+      "img": "https://den-cards.pokellector.com/301/Grimmsnarl-VMAX.S4A.322.36612.png",
+      "rarity": "Super Secret Rare",
+      "cardNum": "322/190"
+    },
+    {
+      "name": "Ditto V",
+      "set": "Shiny Star V",
+      "img": "https://den-cards.pokellector.com/301/Ditto-V.S4A.323.36613.png",
+      "rarity": "Super Secret Rare",
+      "cardNum": "323/190"
+    },
+    {
+      "name": "Ditto VMAX",
+      "set": "Shiny Star V",
+      "img": "https://den-cards.pokellector.com/301/Ditto-VMAX.S4A.324.36614.png",
+      "rarity": "Super Secret Rare",
+      "cardNum": "324/190"
+    },
+    {
+      "name": "Dubwool V",
+      "set": "Shiny Star V",
+      "img": "https://den-cards.pokellector.com/301/Dubwool-V.S4A.325.36615.png",
+      "rarity": "Super Secret Rare",
+      "cardNum": "325/190"
+    },
+    {
+      "name": "Cramorant V",
+      "set": "Shiny Star V",
+      "img": "https://den-cards.pokellector.com/301/Cramorant-V.S4A.326.36616.png",
+      "rarity": "Super Secret Rare",
+      "cardNum": "326/190"
+    },
+    {
+      "name": "Eternatus V",
+      "set": "Shiny Star V",
+      "img": "https://den-cards.pokellector.com/301/Eternatus-V.S4A.327.36617.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "327/190"
+    },
+    {
+      "name": "Eternatus VMAX",
+      "set": "Shiny Star V",
+      "img": "https://den-cards.pokellector.com/301/Eternatus-VMAX.S4A.328.36618.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "328/190"
+    },
+    {
+      "name": "Zacian V",
+      "set": "Shiny Star V",
+      "img": "https://den-cards.pokellector.com/301/Zacian-V.S4A.329.36619.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "329/190"
+    },
+    {
+      "name": "Zamazenta V",
+      "set": "Shiny Star V",
+      "img": "https://den-cards.pokellector.com/301/Zamazenta-V.S4A.330.36620.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "330/190"
+    }
+  ]
+}

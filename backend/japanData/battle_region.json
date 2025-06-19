@@ -1,0 +1,656 @@
+{
+  "setName": "Battle Region",
+  "cards": [
+    {
+      "name": "Oddish",
+      "set": "Battle Region",
+      "img": "https://den-cards.pokellector.com/339/Oddish.S9A.1.43094.png",
+      "rarity": "Common",
+      "cardNum": "1/67"
+    },
+    {
+      "name": "Gloom",
+      "set": "Battle Region",
+      "img": "https://den-cards.pokellector.com/339/Gloom.S9A.2.43095.png",
+      "rarity": "Common",
+      "cardNum": "2/67"
+    },
+    {
+      "name": "Vileplume",
+      "set": "Battle Region",
+      "img": "https://den-cards.pokellector.com/339/Vileplume.S9A.3.43096.png",
+      "rarity": "Rare",
+      "cardNum": "3/67"
+    },
+    {
+      "name": "Scyther",
+      "set": "Battle Region",
+      "img": "https://den-cards.pokellector.com/339/Scyther.S9A.4.42886.png",
+      "rarity": "Common",
+      "cardNum": "4/67"
+    },
+    {
+      "name": "Heracross",
+      "set": "Battle Region",
+      "img": "https://den-cards.pokellector.com/339/Heracross.S9A.5.43097.png",
+      "rarity": "Common",
+      "cardNum": "5/67"
+    },
+    {
+      "name": "Roselia",
+      "set": "Battle Region",
+      "img": "https://den-cards.pokellector.com/339/Roselia.S9A.6.43098.png",
+      "rarity": "Common",
+      "cardNum": "6/67"
+    },
+    {
+      "name": "Roserade",
+      "set": "Battle Region",
+      "img": "https://den-cards.pokellector.com/339/Roserade.S9A.7.43099.png",
+      "rarity": "Uncommon",
+      "cardNum": "7/67"
+    },
+    {
+      "name": "Combee",
+      "set": "Battle Region",
+      "img": "https://den-cards.pokellector.com/339/Combee.S9A.8.42885.png",
+      "rarity": "Common",
+      "cardNum": "8/67"
+    },
+    {
+      "name": "Vespiquen",
+      "set": "Battle Region",
+      "img": "https://den-cards.pokellector.com/339/Vespiquen.S9A.9.42884.png",
+      "rarity": "Uncommon",
+      "cardNum": "9/67"
+    },
+    {
+      "name": "Virizion V",
+      "set": "Battle Region",
+      "img": "https://den-cards.pokellector.com/339/Virizion-V.S9A.10.42883.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "10/67"
+    },
+    {
+      "name": "Sparkling Heatran",
+      "set": "Battle Region",
+      "img": "https://den-cards.pokellector.com/339/Sparkling-Heatan.S9A.11.43100.png",
+      "rarity": "Rare",
+      "cardNum": "11/67"
+    },
+    {
+      "name": "Litwick",
+      "set": "Battle Region",
+      "img": "https://den-cards.pokellector.com/339/Litwick.S9A.12.42668.png",
+      "rarity": "Common",
+      "cardNum": "12/67"
+    },
+    {
+      "name": "Lampent",
+      "set": "Battle Region",
+      "img": "https://den-cards.pokellector.com/339/Lampent.S9A.13.42669.png",
+      "rarity": "Common",
+      "cardNum": "13/67"
+    },
+    {
+      "name": "Chandelure",
+      "set": "Battle Region",
+      "img": "https://den-cards.pokellector.com/339/Chandelure.S9A.14.42670.png",
+      "rarity": "Rare",
+      "cardNum": "14/67"
+    },
+    {
+      "name": "Litleo",
+      "set": "Battle Region",
+      "img": "https://den-cards.pokellector.com/339/Litleo.S9A.15.43101.png",
+      "rarity": "Common",
+      "cardNum": "15/67"
+    },
+    {
+      "name": "Pyroar",
+      "set": "Battle Region",
+      "img": "https://den-cards.pokellector.com/339/Pyroar.S9A.16.43102.png",
+      "rarity": "Rare",
+      "cardNum": "16/67"
+    },
+    {
+      "name": "Starmie V",
+      "set": "Battle Region",
+      "img": "https://den-cards.pokellector.com/339/Starmie-V.S9A.17.42671.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "17/67"
+    },
+    {
+      "name": "Swinub",
+      "set": "Battle Region",
+      "img": "https://den-cards.pokellector.com/339/Swinub.S9A.18.43103.png",
+      "rarity": "Common",
+      "cardNum": "18/67"
+    },
+    {
+      "name": "Piloswine",
+      "set": "Battle Region",
+      "img": "https://den-cards.pokellector.com/339/Piloswine.S9A.19.43104.png",
+      "rarity": "Common",
+      "cardNum": "19/67"
+    },
+    {
+      "name": "Mamoswine",
+      "set": "Battle Region",
+      "img": "https://den-cards.pokellector.com/339/Mamoswine.S9A.20.43105.png",
+      "rarity": "Uncommon",
+      "cardNum": "20/67"
+    },
+    {
+      "name": "Barboach",
+      "set": "Battle Region",
+      "img": "https://den-cards.pokellector.com/339/Barboach.S9A.21.43106.png",
+      "rarity": "Common",
+      "cardNum": "21/67"
+    },
+    {
+      "name": "Whiscash",
+      "set": "Battle Region",
+      "img": "https://den-cards.pokellector.com/339/Whiscash.S9A.22.43107.png",
+      "rarity": "Uncommon",
+      "cardNum": "22/67"
+    },
+    {
+      "name": "Basculin",
+      "set": "Battle Region",
+      "img": "https://den-cards.pokellector.com/339/Basculin.S9A.23.43108.png",
+      "rarity": "Common",
+      "cardNum": "23/67"
+    },
+    {
+      "name": "Basculegion",
+      "set": "Battle Region",
+      "img": "https://den-cards.pokellector.com/339/Basculegion.S9A.24.43109.png",
+      "rarity": "Uncommon",
+      "cardNum": "24/67"
+    },
+    {
+      "name": "Keldeo",
+      "set": "Battle Region",
+      "img": "https://den-cards.pokellector.com/339/Keldeo.S9A.25.43110.png",
+      "rarity": "Rare",
+      "cardNum": "25/67"
+    },
+    {
+      "name": "Sparkling Greninja",
+      "set": "Battle Region",
+      "img": "https://den-cards.pokellector.com/339/Sparkling-Greninja.S9A.26.42673.png",
+      "rarity": "Rare",
+      "cardNum": "26/67"
+    },
+    {
+      "name": "Jynx",
+      "set": "Battle Region",
+      "img": "https://den-cards.pokellector.com/339/Jynx.S9A.27.43111.png",
+      "rarity": "Common",
+      "cardNum": "27/67"
+    },
+    {
+      "name": "Hisuian Typhlosion V",
+      "set": "Battle Region",
+      "img": "https://den-cards.pokellector.com/339/Hisuin-Typhlosion-V.S9A.28.43112.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "28/67"
+    },
+    {
+      "name": "Hisuian Typhlosion VSTAR",
+      "set": "Battle Region",
+      "img": "https://den-cards.pokellector.com/339/Hisuin-Typhlosion-VSTAR.S9A.29.43113.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "29/67"
+    },
+    {
+      "name": "Misdreavus",
+      "set": "Battle Region",
+      "img": "https://den-cards.pokellector.com/339/Misdreavus.S9A.30.43114.png",
+      "rarity": "Common",
+      "cardNum": "30/67"
+    },
+    {
+      "name": "Mismagius",
+      "set": "Battle Region",
+      "img": "https://den-cards.pokellector.com/339/Mismagius.S9A.31.43115.png",
+      "rarity": "Uncommon",
+      "cardNum": "31/67"
+    },
+    {
+      "name": "Ralts",
+      "set": "Battle Region",
+      "img": "https://den-cards.pokellector.com/339/Ralts.S9A.32.43116.png",
+      "rarity": "Common",
+      "cardNum": "32/67"
+    },
+    {
+      "name": "Kirlia",
+      "set": "Battle Region",
+      "img": "https://den-cards.pokellector.com/339/Kirlia.S9A.33.43117.png",
+      "rarity": "Common",
+      "cardNum": "33/67"
+    },
+    {
+      "name": "Gallade",
+      "set": "Battle Region",
+      "img": "https://den-cards.pokellector.com/339/Gallade.S9A.34.43118.png",
+      "rarity": "Rare",
+      "cardNum": "34/67"
+    },
+    {
+      "name": "Diancie",
+      "set": "Battle Region",
+      "img": "https://den-cards.pokellector.com/339/Diancie.S9A.35.43119.png",
+      "rarity": "Rare",
+      "cardNum": "35/67"
+    },
+    {
+      "name": "Wyrdeer",
+      "set": "Battle Region",
+      "img": "https://den-cards.pokellector.com/339/Wyrdeer.S9A.36.42888.png",
+      "rarity": "Rare",
+      "cardNum": "36/67"
+    },
+    {
+      "name": "Rhyhorn",
+      "set": "Battle Region",
+      "img": "https://den-cards.pokellector.com/339/Rhyhorn.S9A.37.43120.png",
+      "rarity": "Common",
+      "cardNum": "37/67"
+    },
+    {
+      "name": "Rhydon",
+      "set": "Battle Region",
+      "img": "https://den-cards.pokellector.com/339/Rhydon.S9A.38.43121.png",
+      "rarity": "Common",
+      "cardNum": "38/67"
+    },
+    {
+      "name": "Rhyperior",
+      "set": "Battle Region",
+      "img": "https://den-cards.pokellector.com/339/Rhyperior.S9A.39.43122.png",
+      "rarity": "Uncommon",
+      "cardNum": "39/67"
+    },
+    {
+      "name": "Relicanth",
+      "set": "Battle Region",
+      "img": "https://den-cards.pokellector.com/339/Relicanth.S9A.40.43123.png",
+      "rarity": "Uncommon",
+      "cardNum": "40/67"
+    },
+    {
+      "name": "Hipopotas",
+      "set": "Battle Region",
+      "img": "https://den-cards.pokellector.com/339/Hipopotas.S9A.41.43124.png",
+      "rarity": "Common",
+      "cardNum": "41/67"
+    },
+    {
+      "name": "Hippowdon",
+      "set": "Battle Region",
+      "img": "https://den-cards.pokellector.com/339/Hippowdon.S9A.42.43125.png",
+      "rarity": "Uncommon",
+      "cardNum": "42/67"
+    },
+    {
+      "name": "Sparkling Hawlucha",
+      "set": "Battle Region",
+      "img": "https://den-cards.pokellector.com/339/Sparkling-Hawlucha.S9A.43.42674.png",
+      "rarity": "Rare",
+      "cardNum": "43/67"
+    },
+    {
+      "name": "Hisuian Decidueye V",
+      "set": "Battle Region",
+      "img": "https://den-cards.pokellector.com/339/Hisuian-Decidueye-V.S9A.44.43126.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "44/67"
+    },
+    {
+      "name": "Hisuian Decidueye VMAX",
+      "set": "Battle Region",
+      "img": "https://den-cards.pokellector.com/339/Hisuian-Decidueye-VMAX.S9A.45.43127.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "45/67"
+    },
+    {
+      "name": "Kleavor",
+      "set": "Battle Region",
+      "img": "https://den-cards.pokellector.com/339/Kleavor.S9A.46.42887.png",
+      "rarity": "Rare",
+      "cardNum": "46/67"
+    },
+    {
+      "name": "Hisuian Qwilfish",
+      "set": "Battle Region",
+      "img": "https://den-cards.pokellector.com/339/Hisuian-Qwilfish.S9A.47.43128.png",
+      "rarity": "Common",
+      "cardNum": "47/67"
+    },
+    {
+      "name": "Hisuian Overqwil",
+      "set": "Battle Region",
+      "img": "https://den-cards.pokellector.com/339/Hisuian-Overqwil.S9A.48.43129.png",
+      "rarity": "Uncommon",
+      "cardNum": "48/67"
+    },
+    {
+      "name": "Poochyena",
+      "set": "Battle Region",
+      "img": "https://den-cards.pokellector.com/339/Poochyena.S9A.49.43130.png",
+      "rarity": "Common",
+      "cardNum": "49/67"
+    },
+    {
+      "name": "Mightyena",
+      "set": "Battle Region",
+      "img": "https://den-cards.pokellector.com/339/Mightyena.S9A.50.43131.png",
+      "rarity": "Uncommon",
+      "cardNum": "50/67"
+    },
+    {
+      "name": "Absol",
+      "set": "Battle Region",
+      "img": "https://den-cards.pokellector.com/339/Absol.S9A.51.43132.png",
+      "rarity": "Rare",
+      "cardNum": "51/67"
+    },
+    {
+      "name": "Hisuian Samurott V",
+      "set": "Battle Region",
+      "img": "https://den-cards.pokellector.com/339/Hisuain-Samurott-V.S9A.52.43133.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "52/67"
+    },
+    {
+      "name": "Hisuian Samurott VSTAR",
+      "set": "Battle Region",
+      "img": "https://den-cards.pokellector.com/339/Hisuain-Samurott-VSTAR.S9A.53.43134.png",
+      "rarity": "Common",
+      "cardNum": "53/67"
+    },
+    {
+      "name": "Garchomp V",
+      "set": "Battle Region",
+      "img": "https://den-cards.pokellector.com/339/Garchomp-V.S9A.54.42672.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "54/67"
+    },
+    {
+      "name": "Hoothoot",
+      "set": "Battle Region",
+      "img": "https://den-cards.pokellector.com/339/Hoothoot.S9A.55.43135.png",
+      "rarity": "Common",
+      "cardNum": "55/67"
+    },
+    {
+      "name": "Noctowl",
+      "set": "Battle Region",
+      "img": "https://den-cards.pokellector.com/339/Noctowl.S9A.56.43136.png",
+      "rarity": "Uncommon",
+      "cardNum": "56/67"
+    },
+    {
+      "name": "Stantler",
+      "set": "Battle Region",
+      "img": "https://den-cards.pokellector.com/339/Stantler.S9A.57.42889.png",
+      "rarity": "Common",
+      "cardNum": "57/67"
+    },
+    {
+      "name": "Miltank",
+      "set": "Battle Region",
+      "img": "https://den-cards.pokellector.com/339/Miltank.S9A.58.42890.png",
+      "rarity": "Rare",
+      "cardNum": "58/67"
+    },
+    {
+      "name": "Glameow",
+      "set": "Battle Region",
+      "img": "https://den-cards.pokellector.com/339/Glameow.S9A.59.43137.png",
+      "rarity": "Common",
+      "cardNum": "59/67"
+    },
+    {
+      "name": "Purrugly",
+      "set": "Battle Region",
+      "img": "https://den-cards.pokellector.com/339/Purrugly.S9A.60.43138.png",
+      "rarity": "Uncommon",
+      "cardNum": "60/67"
+    },
+    {
+      "name": "Wait and See Turbo",
+      "set": "Battle Region",
+      "img": "https://den-cards.pokellector.com/339/Wait-and-See-Turbo.S9A.61.43139.png",
+      "rarity": "Uncommon",
+      "cardNum": "61/67"
+    },
+    {
+      "name": "Honey",
+      "set": "Battle Region",
+      "img": "https://den-cards.pokellector.com/339/Honey.S9A.62.42892.png",
+      "rarity": "Uncommon",
+      "cardNum": "62/67"
+    },
+    {
+      "name": "Cancelling Cologne",
+      "set": "Battle Region",
+      "img": "https://den-cards.pokellector.com/339/Cancelling-Cologne.S9A.63.43140.png",
+      "rarity": "Uncommon",
+      "cardNum": "63/67"
+    },
+    {
+      "name": "Cyllene",
+      "set": "Battle Region",
+      "img": "https://den-cards.pokellector.com/339/Cyllene.S9A.64.43141.png",
+      "rarity": "Uncommon",
+      "cardNum": "64/67"
+    },
+    {
+      "name": "Roxanne",
+      "set": "Battle Region",
+      "img": "https://den-cards.pokellector.com/339/Roxanne.S9A.65.43142.png",
+      "rarity": "Uncommon",
+      "cardNum": "65/67"
+    },
+    {
+      "name": "Kamado",
+      "set": "Battle Region",
+      "img": "https://den-cards.pokellector.com/339/Kamado.S9A.66.42891.png",
+      "rarity": "Uncommon",
+      "cardNum": "66/67"
+    },
+    {
+      "name": "Jubilife Village",
+      "set": "Battle Region",
+      "img": "https://den-cards.pokellector.com/339/Jubilife-Village.S9A.67.43143.png",
+      "rarity": "Uncommon",
+      "cardNum": "67/67"
+    },
+    {
+      "name": "Roserade",
+      "set": "Battle Region",
+      "img": "https://den-cards.pokellector.com/339/Roserade.S9A.68.43204.png",
+      "rarity": "Secret Rare",
+      "cardNum": "68/67"
+    },
+    {
+      "name": "Chandelure",
+      "set": "Battle Region",
+      "img": "https://den-cards.pokellector.com/339/Chandelure.S9A.69.42882.png",
+      "rarity": "Secret Rare",
+      "cardNum": "69/67"
+    },
+    {
+      "name": "Wyrdeer",
+      "set": "Battle Region",
+      "img": "https://den-cards.pokellector.com/339/Wyrdeer.S9A.70.42880.png",
+      "rarity": "Secret Rare",
+      "cardNum": "70/67"
+    },
+    {
+      "name": "Kleavor",
+      "set": "Battle Region",
+      "img": "https://den-cards.pokellector.com/339/Kleavor.S9A.71.42881.png",
+      "rarity": "Secret Rare",
+      "cardNum": "71/67"
+    },
+    {
+      "name": "Mightyeena",
+      "set": "Battle Region",
+      "img": "https://den-cards.pokellector.com/339/Mightyeena.S9A.72.43205.png",
+      "rarity": "Secret Rare",
+      "cardNum": "72/67"
+    },
+    {
+      "name": "Hoothoot",
+      "set": "Battle Region",
+      "img": "https://den-cards.pokellector.com/339/Hoothoot.S9A.73.43206.png",
+      "rarity": "Secret Rare",
+      "cardNum": "73/67"
+    },
+    {
+      "name": "Virizion V",
+      "set": "Battle Region",
+      "img": "https://den-cards.pokellector.com/339/Virizion-V.S9A.74.43207.png",
+      "rarity": "Secret Rare",
+      "cardNum": "74/67"
+    },
+    {
+      "name": "Starmie V",
+      "set": "Battle Region",
+      "img": "https://den-cards.pokellector.com/339/Starmie-V.S9A.75.43208.png",
+      "rarity": "Secret Rare",
+      "cardNum": "75/67"
+    },
+    {
+      "name": "Hisuian Typhlosion V",
+      "set": "Battle Region",
+      "img": "https://den-cards.pokellector.com/339/Hisuian-Typhlosion-V.S9A.76.43209.png",
+      "rarity": "Secret Rare",
+      "cardNum": "76/67"
+    },
+    {
+      "name": "Hisuian Decidueye V",
+      "set": "Battle Region",
+      "img": "https://den-cards.pokellector.com/339/Hisuian-Decidueye-V.S9A.77.43210.png",
+      "rarity": "Secret Rare",
+      "cardNum": "77/67"
+    },
+    {
+      "name": "Hisuian Samurott V",
+      "set": "Battle Region",
+      "img": "https://den-cards.pokellector.com/339/Hisuian-Samurott-V.S9A.78.43211.png",
+      "rarity": "Secret Rare",
+      "cardNum": "78/67"
+    },
+    {
+      "name": "Garchomp V",
+      "set": "Battle Region",
+      "img": "https://den-cards.pokellector.com/339/Garchomp-V.S9A.79.43212.png",
+      "rarity": "Secret Rare",
+      "cardNum": "79/67"
+    },
+    {
+      "name": "Cyllene",
+      "set": "Battle Region",
+      "img": "https://den-cards.pokellector.com/339/Cyllene.S9A.80.43213.png",
+      "rarity": "Secret Rare",
+      "cardNum": "80/67"
+    },
+    {
+      "name": "Roxanne",
+      "set": "Battle Region",
+      "img": "https://den-cards.pokellector.com/339/Roxanne.S9A.81.43214.png",
+      "rarity": "Secret Rare",
+      "cardNum": "81/67"
+    },
+    {
+      "name": "Kamado",
+      "set": "Battle Region",
+      "img": "https://den-cards.pokellector.com/339/Kamado.S9A.82.43215.png",
+      "rarity": "Secret Rare",
+      "cardNum": "82/67"
+    },
+    {
+      "name": "Starmie V",
+      "set": "Battle Region",
+      "img": "https://den-cards.pokellector.com/339/Starmie-V.S9A.83.42879.png",
+      "rarity": "Secret Rare",
+      "cardNum": "83/67"
+    },
+    {
+      "name": "Garchomp V",
+      "set": "Battle Region",
+      "img": "https://den-cards.pokellector.com/339/Garchomp-V.S9A.84.42878.png",
+      "rarity": "Secret Rare",
+      "cardNum": "84/67"
+    },
+    {
+      "name": "Hisuian Typhlosion VSTAR",
+      "set": "Battle Region",
+      "img": "https://den-cards.pokellector.com/339/Hisuian-Typhlosion-VSTAR.S9A.85.43216.png",
+      "rarity": "Secret Rare",
+      "cardNum": "85/67"
+    },
+    {
+      "name": "Hisuian Decidueye VSTAR",
+      "set": "Battle Region",
+      "img": "https://den-cards.pokellector.com/339/Hisuian-Decidueye-VSTAR.S9A.86.43217.png",
+      "rarity": "Secret Rare",
+      "cardNum": "86/67"
+    },
+    {
+      "name": "Hisuian Samurott VSTAR",
+      "set": "Battle Region",
+      "img": "https://den-cards.pokellector.com/339/Hisuian-Samurott-VSTAR.S9A.87.43218.png",
+      "rarity": "Secret Rare",
+      "cardNum": "87/67"
+    },
+    {
+      "name": "Cyllene",
+      "set": "Battle Region",
+      "img": "https://den-cards.pokellector.com/339/Cyllene.S9A.88.43219.png",
+      "rarity": "Secret Rare",
+      "cardNum": "88/67"
+    },
+    {
+      "name": "Roxanne",
+      "set": "Battle Region",
+      "img": "https://den-cards.pokellector.com/339/Roxanne.S9A.89.43220.png",
+      "rarity": "Secret Rare",
+      "cardNum": "89/67"
+    },
+    {
+      "name": "Kamado",
+      "set": "Battle Region",
+      "img": "https://den-cards.pokellector.com/339/Kamado.S9A.90.43221.png",
+      "rarity": "Secret Rare",
+      "cardNum": "90/67"
+    },
+    {
+      "name": "Hisuian Samurott VSTAR",
+      "set": "Battle Region",
+      "img": "https://den-cards.pokellector.com/339/Hisuian-Samurott-VSTAR.S9A.91.43222.png",
+      "rarity": "Secret Rare",
+      "cardNum": "91/67"
+    },
+    {
+      "name": "Choice Belt",
+      "set": "Battle Region",
+      "img": "https://den-cards.pokellector.com/339/Choice-Belt.S9A.92.43223.png",
+      "rarity": "Secret Rare",
+      "cardNum": "92/67"
+    },
+    {
+      "name": "Jubilife Village",
+      "set": "Battle Region",
+      "img": "https://den-cards.pokellector.com/339/Jubilife-Village.S9A.93.43224.png",
+      "rarity": "Secret Rare",
+      "cardNum": "93/67"
+    }
+  ]
+}

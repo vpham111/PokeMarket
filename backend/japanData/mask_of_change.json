@@ -1,0 +1,936 @@
+{
+  "setName": "Mask of Change",
+  "cards": [
+    {
+      "name": "Sunkern",
+      "set": "Mask of Change",
+      "img": "https://den-cards.pokellector.com/393/Sunkern.SV6.1.52903.png",
+      "rarity": "Common",
+      "cardNum": "1/101"
+    },
+    {
+      "name": "Sunflora",
+      "set": "Mask of Change",
+      "img": "https://den-cards.pokellector.com/393/Sunflora.SV6.2.52904.png",
+      "rarity": "Uncommon",
+      "cardNum": "2/101"
+    },
+    {
+      "name": "Heracross",
+      "set": "Mask of Change",
+      "img": "https://den-cards.pokellector.com/393/Heracross.SV6.3.52905.png",
+      "rarity": "Uncommon",
+      "cardNum": "3/101"
+    },
+    {
+      "name": "Volbeat",
+      "set": "Mask of Change",
+      "img": "https://den-cards.pokellector.com/393/Volbeat.SV6.4.52880.png",
+      "rarity": "Common",
+      "cardNum": "4/101"
+    },
+    {
+      "name": "Illumise",
+      "set": "Mask of Change",
+      "img": "https://den-cards.pokellector.com/393/Illumise.SV6.5.52879.png",
+      "rarity": "Common",
+      "cardNum": "5/101"
+    },
+    {
+      "name": "Phantump",
+      "set": "Mask of Change",
+      "img": "https://den-cards.pokellector.com/393/Phantump.SV6.6.52906.png",
+      "rarity": "Common",
+      "cardNum": "6/101"
+    },
+    {
+      "name": "Trevenant",
+      "set": "Mask of Change",
+      "img": "https://den-cards.pokellector.com/393/Trevenant.SV6.7.52907.png",
+      "rarity": "Common",
+      "cardNum": "7/101"
+    },
+    {
+      "name": "Grookey",
+      "set": "Mask of Change",
+      "img": "https://den-cards.pokellector.com/393/Grookey.SV6.8.52866.png",
+      "rarity": "Common",
+      "cardNum": "8/101"
+    },
+    {
+      "name": "Thwackey",
+      "set": "Mask of Change",
+      "img": "https://den-cards.pokellector.com/393/Thwackey.SV6.9.52875.png",
+      "rarity": "Common",
+      "cardNum": "9/101"
+    },
+    {
+      "name": "Rillaboom",
+      "set": "Mask of Change",
+      "img": "https://den-cards.pokellector.com/393/Rillaboom.SV6.10.52863.png",
+      "rarity": "Uncommon",
+      "cardNum": "10/101"
+    },
+    {
+      "name": "Applin",
+      "set": "Mask of Change",
+      "img": "https://den-cards.pokellector.com/393/Applin.SV6.11.52865.png",
+      "rarity": "Common",
+      "cardNum": "11/101"
+    },
+    {
+      "name": "Dipplin",
+      "set": "Mask of Change",
+      "img": "https://den-cards.pokellector.com/393/Dipplin.SV6.12.52874.png",
+      "rarity": "Uncommon",
+      "cardNum": "12/101"
+    },
+    {
+      "name": "Poltchageist",
+      "set": "Mask of Change",
+      "img": "https://den-cards.pokellector.com/393/Poltchageist.SV6.13.52908.png",
+      "rarity": "Common",
+      "cardNum": "13/101"
+    },
+    {
+      "name": "Sinistcha",
+      "set": "Mask of Change",
+      "img": "https://den-cards.pokellector.com/393/Sinistcha.SV6.14.52807.png",
+      "rarity": "Rare",
+      "cardNum": "14/101"
+    },
+    {
+      "name": "Teal Mask Ogerpon",
+      "set": "Mask of Change",
+      "img": "https://den-cards.pokellector.com/393/Teal-Mask-Ogerpon.SV6.15.52806.png",
+      "rarity": "Rare",
+      "cardNum": "15/101"
+    },
+    {
+      "name": "Teal Mask Ogerpon ex",
+      "set": "Mask of Change",
+      "img": "https://den-cards.pokellector.com/393/Teal-Mask-Ogerpon.SV6.16.52801.png",
+      "rarity": "Double Rare",
+      "cardNum": "16/101"
+    },
+    {
+      "name": "Darumaka",
+      "set": "Mask of Change",
+      "img": "https://den-cards.pokellector.com/393/Darumaka.SV6.17.52909.png",
+      "rarity": "Common",
+      "cardNum": "17/101"
+    },
+    {
+      "name": "Darmanitan",
+      "set": "Mask of Change",
+      "img": "https://den-cards.pokellector.com/393/Darmanitan.SV6.18.52910.png",
+      "rarity": "Uncommon",
+      "cardNum": "18/101"
+    },
+    {
+      "name": "Litwick",
+      "set": "Mask of Change",
+      "img": "https://den-cards.pokellector.com/393/Litwick.SV6.19.52855.png",
+      "rarity": "Common",
+      "cardNum": "19/101"
+    },
+    {
+      "name": "Lampent",
+      "set": "Mask of Change",
+      "img": "https://den-cards.pokellector.com/393/Lampent.SV6.20.52856.png",
+      "rarity": "Common",
+      "cardNum": "20/101"
+    },
+    {
+      "name": "Chandelure",
+      "set": "Mask of Change",
+      "img": "https://den-cards.pokellector.com/393/Chandelure.SV6.21.52857.png",
+      "rarity": "Rare",
+      "cardNum": "21/101"
+    },
+    {
+      "name": "Heartflame Mask Ogerpon ex",
+      "set": "Mask of Change",
+      "img": "https://den-cards.pokellector.com/393/Heartflame-Mask-Ogerpon.SV6.22.52802.png",
+      "rarity": "Double Rare",
+      "cardNum": "22/101"
+    },
+    {
+      "name": "Poliwag",
+      "set": "Mask of Change",
+      "img": "https://den-cards.pokellector.com/393/Poliwag.SV6.23.52911.png",
+      "rarity": "Common",
+      "cardNum": "23/101"
+    },
+    {
+      "name": "Poliwhirl",
+      "set": "Mask of Change",
+      "img": "https://den-cards.pokellector.com/393/Poliwhirl.SV6.24.52912.png",
+      "rarity": "Common",
+      "cardNum": "24/101"
+    },
+    {
+      "name": "Poliwrath",
+      "set": "Mask of Change",
+      "img": "https://den-cards.pokellector.com/393/Poliwrath.SV6.25.52913.png",
+      "rarity": "Uncommon",
+      "cardNum": "25/101"
+    },
+    {
+      "name": "Goldeen",
+      "set": "Mask of Change",
+      "img": "https://den-cards.pokellector.com/393/Goldeen.SV6.26.52872.png",
+      "rarity": "Common",
+      "cardNum": "26/101"
+    },
+    {
+      "name": "Seaking",
+      "set": "Mask of Change",
+      "img": "https://den-cards.pokellector.com/393/Seaking.SV6.27.52914.png",
+      "rarity": "Common",
+      "cardNum": "27/101"
+    },
+    {
+      "name": "Jynx",
+      "set": "Mask of Change",
+      "img": "https://den-cards.pokellector.com/393/Jynx.SV6.28.52915.png",
+      "rarity": "Common",
+      "cardNum": "28/101"
+    },
+    {
+      "name": "Feebas",
+      "set": "Mask of Change",
+      "img": "https://den-cards.pokellector.com/393/Feebas.SV6.29.52853.png",
+      "rarity": "Common",
+      "cardNum": "29/101"
+    },
+    {
+      "name": "Milotic",
+      "set": "Mask of Change",
+      "img": "https://den-cards.pokellector.com/393/Milotic.SV6.30.52854.png",
+      "rarity": "Uncommon",
+      "cardNum": "30/101"
+    },
+    {
+      "name": "Snorunt",
+      "set": "Mask of Change",
+      "img": "https://den-cards.pokellector.com/393/Snorunt.SV6.31.52916.png",
+      "rarity": "Common",
+      "cardNum": "31/101"
+    },
+    {
+      "name": "Glalie",
+      "set": "Mask of Change",
+      "img": "https://den-cards.pokellector.com/393/Glalie.SV6.32.52917.png",
+      "rarity": "Uncommon",
+      "cardNum": "32/101"
+    },
+    {
+      "name": "Froslass",
+      "set": "Mask of Change",
+      "img": "https://den-cards.pokellector.com/393/Froslass.SV6.33.52918.png",
+      "rarity": "Rare",
+      "cardNum": "33/101"
+    },
+    {
+      "name": "Finizen",
+      "set": "Mask of Change",
+      "img": "https://den-cards.pokellector.com/393/Finizen.SV6.34.52869.png",
+      "rarity": "Common",
+      "cardNum": "34/101"
+    },
+    {
+      "name": "Palafin",
+      "set": "Mask of Change",
+      "img": "https://den-cards.pokellector.com/393/Palafin.SV6.35.52870.png",
+      "rarity": "Uncommon",
+      "cardNum": "35/101"
+    },
+    {
+      "name": "Palafin ex",
+      "set": "Mask of Change",
+      "img": "https://den-cards.pokellector.com/393/Palafin-ex.SV6.36.52873.png",
+      "rarity": "Double Rare",
+      "cardNum": "36/101"
+    },
+    {
+      "name": "Iron Bundle",
+      "set": "Mask of Change",
+      "img": "https://den-cards.pokellector.com/393/Iron-Bundle.SV6.37.52919.png",
+      "rarity": "Uncommon",
+      "cardNum": "37/101"
+    },
+    {
+      "name": "Wellspring Mask Ogerpon ex",
+      "set": "Mask of Change",
+      "img": "https://den-cards.pokellector.com/393/Wellspring-Mask-Ogerpon.SV6.38.52803.png",
+      "rarity": "Double Rare",
+      "cardNum": "38/101"
+    },
+    {
+      "name": "Shinx",
+      "set": "Mask of Change",
+      "img": "https://den-cards.pokellector.com/393/Shinx.SV6.39.52920.png",
+      "rarity": "Common",
+      "cardNum": "39/101"
+    },
+    {
+      "name": "Luxio",
+      "set": "Mask of Change",
+      "img": "https://den-cards.pokellector.com/393/Luxio.SV6.40.52921.png",
+      "rarity": "Common",
+      "cardNum": "40/101"
+    },
+    {
+      "name": "Luxray ex",
+      "set": "Mask of Change",
+      "img": "https://den-cards.pokellector.com/393/Luxray-ex.SV6.41.52922.png",
+      "rarity": "Double Rare",
+      "cardNum": "41/101"
+    },
+    {
+      "name": "Emolga",
+      "set": "Mask of Change",
+      "img": "https://den-cards.pokellector.com/393/Emolga.SV6.42.52923.png",
+      "rarity": "Common",
+      "cardNum": "42/101"
+    },
+    {
+      "name": "Wattrel",
+      "set": "Mask of Change",
+      "img": "https://den-cards.pokellector.com/393/Wattrel.SV6.43.52924.png",
+      "rarity": "Common",
+      "cardNum": "43/101"
+    },
+    {
+      "name": "Kilowattrel",
+      "set": "Mask of Change",
+      "img": "https://den-cards.pokellector.com/393/Kilowattrel.SV6.44.52925.png",
+      "rarity": "Uncommon",
+      "cardNum": "44/101"
+    },
+    {
+      "name": "Clefairy",
+      "set": "Mask of Change",
+      "img": "https://den-cards.pokellector.com/393/Clefairy.SV6.45.52926.png",
+      "rarity": "Common",
+      "cardNum": "45/101"
+    },
+    {
+      "name": "Clefable",
+      "set": "Mask of Change",
+      "img": "https://den-cards.pokellector.com/393/Clefable.SV6.46.52927.png",
+      "rarity": "Uncommon",
+      "cardNum": "46/101"
+    },
+    {
+      "name": "Abra",
+      "set": "Mask of Change",
+      "img": "https://den-cards.pokellector.com/393/Abra.SV6.47.52858.png",
+      "rarity": "Common",
+      "cardNum": "47/101"
+    },
+    {
+      "name": "Kadabra",
+      "set": "Mask of Change",
+      "img": "https://den-cards.pokellector.com/393/Kadabra.SV6.48.52859.png",
+      "rarity": "Common",
+      "cardNum": "48/101"
+    },
+    {
+      "name": "Alakazam",
+      "set": "Mask of Change",
+      "img": "https://den-cards.pokellector.com/393/Alakazam.SV6.49.52860.png",
+      "rarity": "Rare",
+      "cardNum": "49/101"
+    },
+    {
+      "name": "Chimecho",
+      "set": "Mask of Change",
+      "img": "https://den-cards.pokellector.com/393/Chimecho.SV6.50.52928.png",
+      "rarity": "Common",
+      "cardNum": "50/101"
+    },
+    {
+      "name": "Swirlix",
+      "set": "Mask of Change",
+      "img": "https://den-cards.pokellector.com/393/Swirlix.SV6.51.52871.png",
+      "rarity": "Common",
+      "cardNum": "51/101"
+    },
+    {
+      "name": "Slurpuff",
+      "set": "Mask of Change",
+      "img": "https://den-cards.pokellector.com/393/Slurpuff.SV6.52.52864.png",
+      "rarity": "Uncommon",
+      "cardNum": "52/101"
+    },
+    {
+      "name": "Sandygast",
+      "set": "Mask of Change",
+      "img": "https://den-cards.pokellector.com/393/Sandygast.SV6.53.52929.png",
+      "rarity": "Common",
+      "cardNum": "53/101"
+    },
+    {
+      "name": "Palossand",
+      "set": "Mask of Change",
+      "img": "https://den-cards.pokellector.com/393/Palossand.SV6.54.52930.png",
+      "rarity": "Common",
+      "cardNum": "54/101"
+    },
+    {
+      "name": "Munkidori",
+      "set": "Mask of Change",
+      "img": "https://den-cards.pokellector.com/393/Munkidori.SV6.55.52811.png",
+      "rarity": "Rare",
+      "cardNum": "55/101"
+    },
+    {
+      "name": "Fezandipiti",
+      "set": "Mask of Change",
+      "img": "https://den-cards.pokellector.com/393/Fezandipiti.SV6.56.52812.png",
+      "rarity": "Rare",
+      "cardNum": "56/101"
+    },
+    {
+      "name": "Sandshrew",
+      "set": "Mask of Change",
+      "img": "https://den-cards.pokellector.com/393/Sandshrew.SV6.57.52931.png",
+      "rarity": "Common",
+      "cardNum": "57/101"
+    },
+    {
+      "name": "Sandslash",
+      "set": "Mask of Change",
+      "img": "https://den-cards.pokellector.com/393/Sandslash.SV6.58.52932.png",
+      "rarity": "Uncommon",
+      "cardNum": "58/101"
+    },
+    {
+      "name": "Timburr",
+      "set": "Mask of Change",
+      "img": "https://den-cards.pokellector.com/393/Timburr.SV6.59.52933.png",
+      "rarity": "Common",
+      "cardNum": "59/101"
+    },
+    {
+      "name": "Gurdurr",
+      "set": "Mask of Change",
+      "img": "https://den-cards.pokellector.com/393/Gurdurr.SV6.60.52934.png",
+      "rarity": "Common",
+      "cardNum": "60/101"
+    },
+    {
+      "name": "Conkeldurr",
+      "set": "Mask of Change",
+      "img": "https://den-cards.pokellector.com/393/Conkeldurr.SV6.61.52935.png",
+      "rarity": "Uncommon",
+      "cardNum": "61/101"
+    },
+    {
+      "name": "Glimmet",
+      "set": "Mask of Change",
+      "img": "https://den-cards.pokellector.com/393/Glimmet.SV6.62.52936.png",
+      "rarity": "Common",
+      "cardNum": "62/101"
+    },
+    {
+      "name": "Glimmora",
+      "set": "Mask of Change",
+      "img": "https://den-cards.pokellector.com/393/Glimmora.SV6.63.52937.png",
+      "rarity": "Uncommon",
+      "cardNum": "63/101"
+    },
+    {
+      "name": "Okidogi",
+      "set": "Mask of Change",
+      "img": "https://den-cards.pokellector.com/393/Okidogi.SV6.64.52813.png",
+      "rarity": "Rare",
+      "cardNum": "64/101"
+    },
+    {
+      "name": "Cornerstone Mask Ogerpon ex",
+      "set": "Mask of Change",
+      "img": "https://den-cards.pokellector.com/393/Cornerstone-Mask-Ogerpon.SV6.65.52804.png",
+      "rarity": "Double Rare",
+      "cardNum": "65/101"
+    },
+    {
+      "name": "Poochyena",
+      "set": "Mask of Change",
+      "img": "https://den-cards.pokellector.com/393/Poochyena.SV6.66.52938.png",
+      "rarity": "Common",
+      "cardNum": "66/101"
+    },
+    {
+      "name": "Mightyena",
+      "set": "Mask of Change",
+      "img": "https://den-cards.pokellector.com/393/Mightyena.SV6.67.52939.png",
+      "rarity": "Uncommon",
+      "cardNum": "67/101"
+    },
+    {
+      "name": "Venipede",
+      "set": "Mask of Change",
+      "img": "https://den-cards.pokellector.com/393/Venipede.SV6.68.52940.png",
+      "rarity": "Common",
+      "cardNum": "68/101"
+    },
+    {
+      "name": "Whirlipede",
+      "set": "Mask of Change",
+      "img": "https://den-cards.pokellector.com/393/Whirlipede.SV6.69.52941.png",
+      "rarity": "Common",
+      "cardNum": "69/101"
+    },
+    {
+      "name": "Scolipede",
+      "set": "Mask of Change",
+      "img": "https://den-cards.pokellector.com/393/Scolipede.SV6.70.52942.png",
+      "rarity": "Uncommon",
+      "cardNum": "70/101"
+    },
+    {
+      "name": "Brute Bonnet",
+      "set": "Mask of Change",
+      "img": "https://den-cards.pokellector.com/393/Brute-Bonnet.SV6.71.52943.png",
+      "rarity": "Uncommon",
+      "cardNum": "71/101"
+    },
+    {
+      "name": "Skarmory",
+      "set": "Mask of Change",
+      "img": "https://den-cards.pokellector.com/393/Skarmory.SV6.72.52944.png",
+      "rarity": "Common",
+      "cardNum": "72/101"
+    },
+    {
+      "name": "Aron",
+      "set": "Mask of Change",
+      "img": "https://den-cards.pokellector.com/393/Aron.SV6.73.52945.png",
+      "rarity": "Common",
+      "cardNum": "73/101"
+    },
+    {
+      "name": "Lairon",
+      "set": "Mask of Change",
+      "img": "https://den-cards.pokellector.com/393/Lairon.SV6.74.52946.png",
+      "rarity": "Common",
+      "cardNum": "74/101"
+    },
+    {
+      "name": "Aggron",
+      "set": "Mask of Change",
+      "img": "https://den-cards.pokellector.com/393/Aggron.SV6.75.52947.png",
+      "rarity": "Uncommon",
+      "cardNum": "75/101"
+    },
+    {
+      "name": "Heatran",
+      "set": "Mask of Change",
+      "img": "https://den-cards.pokellector.com/393/Heatran.SV6.76.52948.png",
+      "rarity": "Rare",
+      "cardNum": "76/101"
+    },
+    {
+      "name": "Varoom",
+      "set": "Mask of Change",
+      "img": "https://den-cards.pokellector.com/393/Varoom.SV6.77.52949.png",
+      "rarity": "Common",
+      "cardNum": "77/101"
+    },
+    {
+      "name": "Revavroom",
+      "set": "Mask of Change",
+      "img": "https://den-cards.pokellector.com/393/Revavroom.SV6.78.52950.png",
+      "rarity": "Uncommon",
+      "cardNum": "78/101"
+    },
+    {
+      "name": "Dreepy",
+      "set": "Mask of Change",
+      "img": "https://den-cards.pokellector.com/393/Dreepy.SV6.79.52951.png",
+      "rarity": "Common",
+      "cardNum": "79/101"
+    },
+    {
+      "name": "Drakloak",
+      "set": "Mask of Change",
+      "img": "https://den-cards.pokellector.com/393/Drakloak.SV6.80.52867.png",
+      "rarity": "Common",
+      "cardNum": "80/101"
+    },
+    {
+      "name": "Dragapult ex",
+      "set": "Mask of Change",
+      "img": "https://den-cards.pokellector.com/393/Dragapult-ex.SV6.81.52868.png",
+      "rarity": "Double Rare",
+      "cardNum": "81/101"
+    },
+    {
+      "name": "Tatsugiri",
+      "set": "Mask of Change",
+      "img": "https://den-cards.pokellector.com/393/Tatsugiri.SV6.82.52952.png",
+      "rarity": "Uncommon",
+      "cardNum": "82/101"
+    },
+    {
+      "name": "Farfetch'd",
+      "set": "Mask of Change",
+      "img": "https://den-cards.pokellector.com/393/Farfetchd.SV6.83.52953.png",
+      "rarity": "Common",
+      "cardNum": "83/101"
+    },
+    {
+      "name": "Chansey",
+      "set": "Mask of Change",
+      "img": "https://den-cards.pokellector.com/393/Chansey.SV6.84.52954.png",
+      "rarity": "Common",
+      "cardNum": "84/101"
+    },
+    {
+      "name": "Blissey ex",
+      "set": "Mask of Change",
+      "img": "https://den-cards.pokellector.com/393/Blissey-ex.SV6.85.52955.png",
+      "rarity": "Double Rare",
+      "cardNum": "85/101"
+    },
+    {
+      "name": "Aipom",
+      "set": "Mask of Change",
+      "img": "https://den-cards.pokellector.com/393/Aipom.SV6.86.52956.png",
+      "rarity": "Common",
+      "cardNum": "86/101"
+    },
+    {
+      "name": "Ambipom",
+      "set": "Mask of Change",
+      "img": "https://den-cards.pokellector.com/393/Ambipom.SV6.87.52957.png",
+      "rarity": "Uncommon",
+      "cardNum": "87/101"
+    },
+    {
+      "name": "Ducklett",
+      "set": "Mask of Change",
+      "img": "https://den-cards.pokellector.com/393/Ducklett.SV6.88.52958.png",
+      "rarity": "Common",
+      "cardNum": "88/101"
+    },
+    {
+      "name": "Swanna",
+      "set": "Mask of Change",
+      "img": "https://den-cards.pokellector.com/393/Swanna.SV6.89.52959.png",
+      "rarity": "Uncommon",
+      "cardNum": "89/101"
+    },
+    {
+      "name": "Ogre's Mask",
+      "set": "Mask of Change",
+      "img": "https://den-cards.pokellector.com/393/Ogres-Mask.SV6.90.52805.png",
+      "rarity": "Uncommon",
+      "cardNum": "90/101"
+    },
+    {
+      "name": "Performance Flute",
+      "set": "Mask of Change",
+      "img": "https://den-cards.pokellector.com/393/Performance-Flute.SV6.91.52878.png",
+      "rarity": "Uncommon",
+      "cardNum": "91/101"
+    },
+    {
+      "name": "Secret Box",
+      "set": "Mask of Change",
+      "img": "https://den-cards.pokellector.com/393/Secret-Box.SV6.92.52960.png",
+      "rarity": "Ace Spec",
+      "cardNum": "92/101"
+    },
+    {
+      "name": "Scoop Up Cyclone",
+      "set": "Mask of Change",
+      "img": "https://den-cards.pokellector.com/393/Scoop-Up-Cyclone.SV6.93.52895.png",
+      "rarity": "Ace Spec",
+      "cardNum": "93/101"
+    },
+    {
+      "name": "Bug Catching Set",
+      "set": "Mask of Change",
+      "img": "https://den-cards.pokellector.com/393/Bug-Catching-Set.SV6.94.52808.png",
+      "rarity": "Uncommon",
+      "cardNum": "94/101"
+    },
+    {
+      "name": "Handy Fan",
+      "set": "Mask of Change",
+      "img": "https://den-cards.pokellector.com/393/Handy-Fan.SV6.95.52961.png",
+      "rarity": "Uncommon",
+      "cardNum": "95/101"
+    },
+    {
+      "name": "Kieran",
+      "set": "Mask of Change",
+      "img": "https://den-cards.pokellector.com/393/Kieran.SV6.96.52810.png",
+      "rarity": "Uncommon",
+      "cardNum": "96/101"
+    },
+    {
+      "name": "Carmine",
+      "set": "Mask of Change",
+      "img": "https://den-cards.pokellector.com/393/Carmine.SV6.97.52809.png",
+      "rarity": "Uncommon",
+      "cardNum": "97/101"
+    },
+    {
+      "name": "Hassel",
+      "set": "Mask of Change",
+      "img": "https://den-cards.pokellector.com/393/Hassel.SV6.98.52861.png",
+      "rarity": "Uncommon",
+      "cardNum": "98/101"
+    },
+    {
+      "name": "Seaking Festival",
+      "set": "Mask of Change",
+      "img": "https://den-cards.pokellector.com/393/Seaking-Festival.SV6.99.52876.png",
+      "rarity": "Uncommon",
+      "cardNum": "99/101"
+    },
+    {
+      "name": "Jamming Tower",
+      "set": "Mask of Change",
+      "img": "https://den-cards.pokellector.com/393/Jamming-Tower.SV6.100.52962.png",
+      "rarity": "Uncommon",
+      "cardNum": "100/101"
+    },
+    {
+      "name": "Legacy Energy",
+      "set": "Mask of Change",
+      "img": "https://den-cards.pokellector.com/393/Legacy-Energy.SV6.101.52877.png",
+      "rarity": "Ace Spec",
+      "cardNum": "101/101"
+    },
+    {
+      "name": "Sunflora",
+      "set": "Mask of Change",
+      "img": "https://den-cards.pokellector.com/393/Sunflora.SV6.102.53100.png",
+      "rarity": "Art Rare",
+      "cardNum": "102/101"
+    },
+    {
+      "name": "Dipplin",
+      "set": "Mask of Change",
+      "img": "https://den-cards.pokellector.com/393/Dipplin.SV6.103.52897.png",
+      "rarity": "Art Rare",
+      "cardNum": "103/101"
+    },
+    {
+      "name": "Frosslass",
+      "set": "Mask of Change",
+      "img": "https://den-cards.pokellector.com/393/Frosslass.SV6.104.52896.png",
+      "rarity": "Art Rare",
+      "cardNum": "104/101"
+    },
+    {
+      "name": "Wattrel",
+      "set": "Mask of Change",
+      "img": "https://den-cards.pokellector.com/393/Wattrel.SV6.105.52881.png",
+      "rarity": "Art Rare",
+      "cardNum": "105/101"
+    },
+    {
+      "name": "Chimecho",
+      "set": "Mask of Change",
+      "img": "https://den-cards.pokellector.com/393/Chimecho.SV6.106.52882.png",
+      "rarity": "Art Rare",
+      "cardNum": "106/101"
+    },
+    {
+      "name": "Munkidori",
+      "set": "Mask of Change",
+      "img": "https://den-cards.pokellector.com/393/Munkidori.SV6.107.52899.png",
+      "rarity": "Art Rare",
+      "cardNum": "107/101"
+    },
+    {
+      "name": "Fezandipiti",
+      "set": "Mask of Change",
+      "img": "https://den-cards.pokellector.com/393/Fezandipiti.SV6.108.52900.png",
+      "rarity": "Art Rare",
+      "cardNum": "108/101"
+    },
+    {
+      "name": "Timburr",
+      "set": "Mask of Change",
+      "img": "https://den-cards.pokellector.com/393/Timburr.SV6.109.52898.png",
+      "rarity": "Art Rare",
+      "cardNum": "109/101"
+    },
+    {
+      "name": "Okidogi",
+      "set": "Mask of Change",
+      "img": "https://den-cards.pokellector.com/393/Okidogi.SV6.110.52901.png",
+      "rarity": "Art Rare",
+      "cardNum": "110/101"
+    },
+    {
+      "name": "Lairon",
+      "set": "Mask of Change",
+      "img": "https://den-cards.pokellector.com/393/Lairon.SV6.111.53101.png",
+      "rarity": "Art Rare",
+      "cardNum": "111/101"
+    },
+    {
+      "name": "Tatsugiri",
+      "set": "Mask of Change",
+      "img": "https://den-cards.pokellector.com/393/Tatsugiri.SV6.112.52963.png",
+      "rarity": "Art Rare",
+      "cardNum": "112/101"
+    },
+    {
+      "name": "Chansey",
+      "set": "Mask of Change",
+      "img": "https://den-cards.pokellector.com/393/Chansey.SV6.113.52894.png",
+      "rarity": "Art Rare",
+      "cardNum": "113/101"
+    },
+    {
+      "name": "Teal Mask Ogerpon ex",
+      "set": "Mask of Change",
+      "img": "https://den-cards.pokellector.com/393/Teal-Mask-Ogerpon-ex.SV6.114.53102.png",
+      "rarity": "Super Rare",
+      "cardNum": "114/101"
+    },
+    {
+      "name": "Hearthflame Mask Ogerpon ex",
+      "set": "Mask of Change",
+      "img": "https://den-cards.pokellector.com/393/Hearthflame-Mask-Ogerpon-ex.SV6.115.53103.png",
+      "rarity": "Super Rare",
+      "cardNum": "115/101"
+    },
+    {
+      "name": "Palafin ex",
+      "set": "Mask of Change",
+      "img": "https://den-cards.pokellector.com/393/Palafin-ex.SV6.116.53104.png",
+      "rarity": "Super Rare",
+      "cardNum": "116/101"
+    },
+    {
+      "name": "Wellspring Mask Ogerpon ex",
+      "set": "Mask of Change",
+      "img": "https://den-cards.pokellector.com/393/Wellspring-Mask-Ogerpon-ex.SV6.117.53105.png",
+      "rarity": "Super Rare",
+      "cardNum": "117/101"
+    },
+    {
+      "name": "Luxray ex",
+      "set": "Mask of Change",
+      "img": "https://den-cards.pokellector.com/393/Luxray-ex.SV6.118.53107.png",
+      "rarity": "Super Rare",
+      "cardNum": "118/101"
+    },
+    {
+      "name": "Cornerstone Mask Ogerpon ex",
+      "set": "Mask of Change",
+      "img": "https://den-cards.pokellector.com/393/Cornerstone-Mask-Ogerpon-ex.SV6.119.53106.png",
+      "rarity": "Super Rare",
+      "cardNum": "119/101"
+    },
+    {
+      "name": "Dragapult ex",
+      "set": "Mask of Change",
+      "img": "https://den-cards.pokellector.com/393/Dragapult-ex.SV6.120.53108.png",
+      "rarity": "Super Rare",
+      "cardNum": "120/101"
+    },
+    {
+      "name": "Blissey ex",
+      "set": "Mask of Change",
+      "img": "https://den-cards.pokellector.com/393/Blissey-ex.SV6.121.53109.png",
+      "rarity": "Super Rare",
+      "cardNum": "121/101"
+    },
+    {
+      "name": "Kieran",
+      "set": "Mask of Change",
+      "img": "https://den-cards.pokellector.com/393/Kieran.SV6.122.52884.png",
+      "rarity": "Super Rare",
+      "cardNum": "122/101"
+    },
+    {
+      "name": "Carmine",
+      "set": "Mask of Change",
+      "img": "https://den-cards.pokellector.com/393/Kieran.SV6.123.52883.png",
+      "rarity": "Super Rare",
+      "cardNum": "123/101"
+    },
+    {
+      "name": "Hassel",
+      "set": "Mask of Change",
+      "img": "https://den-cards.pokellector.com/393/Hassel.SV6.124.53110.png",
+      "rarity": "Super Rare",
+      "cardNum": "124/101"
+    },
+    {
+      "name": "Teal Mask Ogerpon ex",
+      "set": "Mask of Change",
+      "img": "https://den-cards.pokellector.com/393/Teal-Mask-Ogerpon-ex.SV6.125.52890.png",
+      "rarity": "Special Art Rare",
+      "cardNum": "125/101"
+    },
+    {
+      "name": "Hearthflame Mask Ogerpon ex",
+      "set": "Mask of Change",
+      "img": "https://den-cards.pokellector.com/393/Hearthflame-Mask-Ogerpon-ex.SV6.126.52891.png",
+      "rarity": "Special Art Rare",
+      "cardNum": "126/101"
+    },
+    {
+      "name": "Wellspring Mask Ogerpon ex",
+      "set": "Mask of Change",
+      "img": "https://den-cards.pokellector.com/393/Wellspring-Mask-Ogerpon-ex.SV6.127.52892.png",
+      "rarity": "Special Art Rare",
+      "cardNum": "127/101"
+    },
+    {
+      "name": "Cornerstone Mask Ogerpon ex",
+      "set": "Mask of Change",
+      "img": "https://den-cards.pokellector.com/393/Cornerstone-Mask-Ogerpon-ex.SV6.128.52893.png",
+      "rarity": "Special Art Rare",
+      "cardNum": "128/101"
+    },
+    {
+      "name": "Kieran",
+      "set": "Mask of Change",
+      "img": "https://den-cards.pokellector.com/393/Kieran.SV6.129.53111.png",
+      "rarity": "Super Rare",
+      "cardNum": "129/101"
+    },
+    {
+      "name": "Carmine",
+      "set": "Mask of Change",
+      "img": "https://den-cards.pokellector.com/393/Carmine.SV6.130.53112.png",
+      "rarity": "Super Rare",
+      "cardNum": "130/101"
+    },
+    {
+      "name": "Teal Mask Ogerpon ex",
+      "set": "Mask of Change",
+      "img": "https://den-cards.pokellector.com/393/Teal-Mask-Ogerpon-ex.SV6.131.53113.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "131/101"
+    },
+    {
+      "name": "Enhanced Hammer",
+      "set": "Mask of Change",
+      "img": "https://den-cards.pokellector.com/393/Enhanced-Hammer.SV6.132.53114.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "132/101"
+    },
+    {
+      "name": "Buddy-Buddy Poffins",
+      "set": "Mask of Change",
+      "img": "https://den-cards.pokellector.com/393/Buddy-Buddy-Poffins.SV6.133.53115.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "133/101"
+    }
+  ]
+}

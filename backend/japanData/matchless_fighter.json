@@ -1,0 +1,677 @@
+{
+  "setName": "Matchless Fighter",
+  "cards": [
+    {
+      "name": "Weedle",
+      "set": "Matchless Fighter",
+      "img": "https://den-cards.pokellector.com/308/Weedle.S5A.1.37229.png",
+      "rarity": "Common",
+      "cardNum": "1/70"
+    },
+    {
+      "name": "Kakuna",
+      "set": "Matchless Fighter",
+      "img": "https://den-cards.pokellector.com/308/Kakuna.S5A.2.37228.png",
+      "rarity": "Uncommon",
+      "cardNum": "2/70"
+    },
+    {
+      "name": "Beedrill",
+      "set": "Matchless Fighter",
+      "img": "https://den-cards.pokellector.com/308/Beedrill.S5A.3.37227.png",
+      "rarity": "Rare",
+      "cardNum": "3/70"
+    },
+    {
+      "name": "Heracross",
+      "set": "Matchless Fighter",
+      "img": "https://den-cards.pokellector.com/308/Heracross.S5A.4.37863.png",
+      "rarity": "Common",
+      "cardNum": "4/70"
+    },
+    {
+      "name": "Petilil",
+      "set": "Matchless Fighter",
+      "img": "https://den-cards.pokellector.com/308/Petilil.S5A.5.37864.png",
+      "rarity": "Common",
+      "cardNum": "5/70"
+    },
+    {
+      "name": "Lilligant",
+      "set": "Matchless Fighter",
+      "img": "https://den-cards.pokellector.com/308/Lilligant.S5A.6.37865.png",
+      "rarity": "Uncommon",
+      "cardNum": "6/70"
+    },
+    {
+      "name": "Blaziken V",
+      "set": "Matchless Fighter",
+      "img": "https://den-cards.pokellector.com/308/Blaziken-V.S5A.7.37233.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "7/70"
+    },
+    {
+      "name": "Blaziken VMAX",
+      "set": "Matchless Fighter",
+      "img": "https://den-cards.pokellector.com/308/Blaziken-VMAX.S5A.8.37232.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "8/70"
+    },
+    {
+      "name": "Larvesta",
+      "set": "Matchless Fighter",
+      "img": "https://den-cards.pokellector.com/308/Larvesta.S5A.9.37866.png",
+      "rarity": "Common",
+      "cardNum": "9/70"
+    },
+    {
+      "name": "Volcarona",
+      "set": "Matchless Fighter",
+      "img": "https://den-cards.pokellector.com/308/Volcarona.S5A.10.37867.png",
+      "rarity": "Common",
+      "cardNum": "10/70"
+    },
+    {
+      "name": "Tentacool",
+      "set": "Matchless Fighter",
+      "img": "https://den-cards.pokellector.com/308/Tentacool.S5A.11.37868.png",
+      "rarity": "Common",
+      "cardNum": "11/70"
+    },
+    {
+      "name": "Tentacruel",
+      "set": "Matchless Fighter",
+      "img": "https://den-cards.pokellector.com/308/Tentacruel.S5A.12.37869.png",
+      "rarity": "Uncommon",
+      "cardNum": "12/70"
+    },
+    {
+      "name": "Delibird",
+      "set": "Matchless Fighter",
+      "img": "https://den-cards.pokellector.com/308/Delibird.S5A.13.37870.png",
+      "rarity": "Common",
+      "cardNum": "13/70"
+    },
+    {
+      "name": "Carvanha",
+      "set": "Matchless Fighter",
+      "img": "https://den-cards.pokellector.com/308/Carvanha.S5A.14.37871.png",
+      "rarity": "Common",
+      "cardNum": "14/70"
+    },
+    {
+      "name": "Sharpedo",
+      "set": "Matchless Fighter",
+      "img": "https://den-cards.pokellector.com/308/Sharpedo.S5A.15.37872.png",
+      "rarity": "Uncommon",
+      "cardNum": "15/70"
+    },
+    {
+      "name": "Sobble",
+      "set": "Matchless Fighter",
+      "img": "https://den-cards.pokellector.com/308/Sobble.S5A.16.37235.png",
+      "rarity": "Common",
+      "cardNum": "16/70"
+    },
+    {
+      "name": "Drizzile",
+      "set": "Matchless Fighter",
+      "img": "https://den-cards.pokellector.com/308/Drizzile.S5A.17.37236.png",
+      "rarity": "Uncommon",
+      "cardNum": "17/70"
+    },
+    {
+      "name": "Inteleon",
+      "set": "Matchless Fighter",
+      "img": "https://den-cards.pokellector.com/308/Inteleon.S5A.18.37237.png",
+      "rarity": "Rare",
+      "cardNum": "18/70"
+    },
+    {
+      "name": "Rapid Strike Urshifu",
+      "set": "Matchless Fighter",
+      "img": "https://den-cards.pokellector.com/308/Rapid-Strike-Urshifu.S5A.19.37234.png",
+      "rarity": "Rare",
+      "cardNum": "19/70"
+    },
+    {
+      "name": "Chinchou",
+      "set": "Matchless Fighter",
+      "img": "https://den-cards.pokellector.com/308/Chinchou.S5A.20.37873.png",
+      "rarity": "Common",
+      "cardNum": "20/70"
+    },
+    {
+      "name": "Lanturn",
+      "set": "Matchless Fighter",
+      "img": "https://den-cards.pokellector.com/308/Lanturn.S5A.21.37874.png",
+      "rarity": "Common",
+      "cardNum": "21/70"
+    },
+    {
+      "name": "Thundurus",
+      "set": "Matchless Fighter",
+      "img": "https://den-cards.pokellector.com/308/Thundurus.S5A.22.37875.png",
+      "rarity": "Rare",
+      "cardNum": "22/70"
+    },
+    {
+      "name": "Dracozolt V",
+      "set": "Matchless Fighter",
+      "img": "https://den-cards.pokellector.com/308/Dracozolt-V.S5A.23.37876.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "23/70"
+    },
+    {
+      "name": "Dracozolt VMAX",
+      "set": "Matchless Fighter",
+      "img": "https://den-cards.pokellector.com/308/Dracozolt-VMAX.S5A.24.37877.png",
+      "rarity": "Common",
+      "cardNum": "24/70"
+    },
+    {
+      "name": "Galarian Articuno V",
+      "set": "Matchless Fighter",
+      "img": "https://den-cards.pokellector.com/308/Galarian-Articuno-V.S5A.25.37241.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "25/70"
+    },
+    {
+      "name": "Woobat",
+      "set": "Matchless Fighter",
+      "img": "https://den-cards.pokellector.com/308/Woobat.S5A.26.37878.png",
+      "rarity": "Common",
+      "cardNum": "26/70"
+    },
+    {
+      "name": "Swoobat",
+      "set": "Matchless Fighter",
+      "img": "https://den-cards.pokellector.com/308/Swoobat.S5A.27.37879.png",
+      "rarity": "Uncommon",
+      "cardNum": "27/70"
+    },
+    {
+      "name": "Swirlix",
+      "set": "Matchless Fighter",
+      "img": "https://den-cards.pokellector.com/308/Swirlix.S5A.28.37880.png",
+      "rarity": "Common",
+      "cardNum": "28/70"
+    },
+    {
+      "name": "Slurpuff",
+      "set": "Matchless Fighter",
+      "img": "https://den-cards.pokellector.com/308/Slurpuff.S5A.29.37881.png",
+      "rarity": "Uncommon",
+      "cardNum": "29/70"
+    },
+    {
+      "name": "Hatenna",
+      "set": "Matchless Fighter",
+      "img": "https://den-cards.pokellector.com/308/Hatenna.S5A.30.37882.png",
+      "rarity": "Common",
+      "cardNum": "30/70"
+    },
+    {
+      "name": "Hattrem",
+      "set": "Matchless Fighter",
+      "img": "https://den-cards.pokellector.com/308/Hattrem.S5A.31.37883.png",
+      "rarity": "Uncommon",
+      "cardNum": "31/70"
+    },
+    {
+      "name": "Hatterene",
+      "set": "Matchless Fighter",
+      "img": "https://den-cards.pokellector.com/308/Hatterene.S5A.32.37884.png",
+      "rarity": "Rare",
+      "cardNum": "32/70"
+    },
+    {
+      "name": "Diglett",
+      "set": "Matchless Fighter",
+      "img": "https://den-cards.pokellector.com/308/Diglett.S5A.33.37885.png",
+      "rarity": "Common",
+      "cardNum": "33/70"
+    },
+    {
+      "name": "Dugtrio",
+      "set": "Matchless Fighter",
+      "img": "https://den-cards.pokellector.com/308/Dugtrio.S5A.34.37886.png",
+      "rarity": "Uncommon",
+      "cardNum": "34/70"
+    },
+    {
+      "name": "Galarian Farfetch'd",
+      "set": "Matchless Fighter",
+      "img": "https://den-cards.pokellector.com/308/Galarian-Farfetchd.S5A.35.37887.png",
+      "rarity": "Common",
+      "cardNum": "35/70"
+    },
+    {
+      "name": "Galarian Sirfetch'd",
+      "set": "Matchless Fighter",
+      "img": "https://den-cards.pokellector.com/308/Galarian-Sirfetchd.S5A.36.37888.png",
+      "rarity": "Uncommon",
+      "cardNum": "36/70"
+    },
+    {
+      "name": "Galarian Zapdos V",
+      "set": "Matchless Fighter",
+      "img": "https://den-cards.pokellector.com/308/Galarian-Zapdos-V.S5A.37.37721.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "37/70"
+    },
+    {
+      "name": "Roggenrola",
+      "set": "Matchless Fighter",
+      "img": "https://den-cards.pokellector.com/308/Roggenrola.S5A.38.37889.png",
+      "rarity": "Common",
+      "cardNum": "38/70"
+    },
+    {
+      "name": "Boldore",
+      "set": "Matchless Fighter",
+      "img": "https://den-cards.pokellector.com/308/Boldore.S5A.39.37890.png",
+      "rarity": "Common",
+      "cardNum": "39/70"
+    },
+    {
+      "name": "Gigalith",
+      "set": "Matchless Fighter",
+      "img": "https://den-cards.pokellector.com/308/Gigalith.S5A.40.37891.png",
+      "rarity": "Uncommon",
+      "cardNum": "40/70"
+    },
+    {
+      "name": "Galarian Yamask",
+      "set": "Matchless Fighter",
+      "img": "https://den-cards.pokellector.com/308/Galarian-Yamask.S5A.41.37892.png",
+      "rarity": "Common",
+      "cardNum": "41/70"
+    },
+    {
+      "name": "Galarian Runerigus",
+      "set": "Matchless Fighter",
+      "img": "https://den-cards.pokellector.com/308/Galarian-Runerigus.S5A.42.37893.png",
+      "rarity": "Rare",
+      "cardNum": "42/70"
+    },
+    {
+      "name": "Passimian",
+      "set": "Matchless Fighter",
+      "img": "https://den-cards.pokellector.com/308/Passimian.S5A.43.37894.png",
+      "rarity": "Common",
+      "cardNum": "43/70"
+    },
+    {
+      "name": "Kubfu",
+      "set": "Matchless Fighter",
+      "img": "https://den-cards.pokellector.com/308/Kubfu.S5A.44.37226.png",
+      "rarity": "Common",
+      "cardNum": "44/70"
+    },
+    {
+      "name": "Galarian Moltres V",
+      "set": "Matchless Fighter",
+      "img": "https://den-cards.pokellector.com/308/Galarian-Moltres-V.S5A.45.37240.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "45/70"
+    },
+    {
+      "name": "Galarian Slowking V",
+      "set": "Matchless Fighter",
+      "img": "https://den-cards.pokellector.com/308/Galarian-Slowking-V.S5A.46.37224.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "46/70"
+    },
+    {
+      "name": "Galarian Slowking VMAX",
+      "set": "Matchless Fighter",
+      "img": "https://den-cards.pokellector.com/308/Galarian-Slowking-VMAX.S5A.47.37223.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "47/70"
+    },
+    {
+      "name": "Seviper",
+      "set": "Matchless Fighter",
+      "img": "https://den-cards.pokellector.com/308/Seviper.S5A.48.37895.png",
+      "rarity": "Common",
+      "cardNum": "48/70"
+    },
+    {
+      "name": "Spiritomb",
+      "set": "Matchless Fighter",
+      "img": "https://den-cards.pokellector.com/308/Spiritomb.S5A.49.37896.png",
+      "rarity": "Uncommon",
+      "cardNum": "49/70"
+    },
+    {
+      "name": "Venipede",
+      "set": "Matchless Fighter",
+      "img": "https://den-cards.pokellector.com/308/Venipede.S5A.50.37897.png",
+      "rarity": "Common",
+      "cardNum": "50/70"
+    },
+    {
+      "name": "Whirlipede",
+      "set": "Matchless Fighter",
+      "img": "https://den-cards.pokellector.com/308/Whirlipede.S5A.51.37898.png",
+      "rarity": "Common",
+      "cardNum": "51/70"
+    },
+    {
+      "name": "Scolipede",
+      "set": "Matchless Fighter",
+      "img": "https://den-cards.pokellector.com/308/Scolipede.S5A.52.37899.png",
+      "rarity": "Uncommon",
+      "cardNum": "52/70"
+    },
+    {
+      "name": "Scraggy",
+      "set": "Matchless Fighter",
+      "img": "https://den-cards.pokellector.com/308/Scraggy.S5A.53.37900.png",
+      "rarity": "Common",
+      "cardNum": "53/70"
+    },
+    {
+      "name": "Scrafty",
+      "set": "Matchless Fighter",
+      "img": "https://den-cards.pokellector.com/308/Scrafty.S5A.54.37901.png",
+      "rarity": "Uncommon",
+      "cardNum": "54/70"
+    },
+    {
+      "name": "Single Strike Urshifu",
+      "set": "Matchless Fighter",
+      "img": "https://den-cards.pokellector.com/308/Single-Strike-Urshifu.S5A.55.37225.png",
+      "rarity": "Rare",
+      "cardNum": "55/70"
+    },
+    {
+      "name": "Zangoose",
+      "set": "Matchless Fighter",
+      "img": "https://den-cards.pokellector.com/308/Zangoose.S5A.56.37902.png",
+      "rarity": "Common",
+      "cardNum": "56/70"
+    },
+    {
+      "name": "Shaymin",
+      "set": "Matchless Fighter",
+      "img": "https://den-cards.pokellector.com/308/Shaymin.S5A.57.37903.png",
+      "rarity": "Rare",
+      "cardNum": "57/70"
+    },
+    {
+      "name": "Lillipup",
+      "set": "Matchless Fighter",
+      "img": "https://den-cards.pokellector.com/308/Lillipup.S5A.58.37904.png",
+      "rarity": "Common",
+      "cardNum": "58/70"
+    },
+    {
+      "name": "Herdier",
+      "set": "Matchless Fighter",
+      "img": "https://den-cards.pokellector.com/308/Herdier.S5A.59.37905.png",
+      "rarity": "Common",
+      "cardNum": "59/70"
+    },
+    {
+      "name": "Stoutland",
+      "set": "Matchless Fighter",
+      "img": "https://den-cards.pokellector.com/308/Stoutland.S5A.60.37906.png",
+      "rarity": "Uncommon",
+      "cardNum": "60/70"
+    },
+    {
+      "name": "Rufflet",
+      "set": "Matchless Fighter",
+      "img": "https://den-cards.pokellector.com/308/Rufflet.S5A.61.37907.png",
+      "rarity": "Common",
+      "cardNum": "61/70"
+    },
+    {
+      "name": "Braviary",
+      "set": "Matchless Fighter",
+      "img": "https://den-cards.pokellector.com/308/Braviary.S5A.62.37908.png",
+      "rarity": "Common",
+      "cardNum": "62/70"
+    },
+    {
+      "name": "Welcoming Lantern",
+      "set": "Matchless Fighter",
+      "img": "https://den-cards.pokellector.com/308/Welcoming-Lantern.S5A.63.37231.png",
+      "rarity": "Uncommon",
+      "cardNum": "63/70"
+    },
+    {
+      "name": "Echoing Horn",
+      "set": "Matchless Fighter",
+      "img": "https://den-cards.pokellector.com/308/Echo-Horn.S5A.64.37239.png",
+      "rarity": "Uncommon",
+      "cardNum": "64/70"
+    },
+    {
+      "name": "Galarian Breastplate",
+      "set": "Matchless Fighter",
+      "img": "https://den-cards.pokellector.com/308/Galarian-Breastplate.S5A.65.37909.png",
+      "rarity": "Uncommon",
+      "cardNum": "65/70"
+    },
+    {
+      "name": "Karen's Conviction",
+      "set": "Matchless Fighter",
+      "img": "https://den-cards.pokellector.com/308/Karens-Conviction.S5A.66.37230.png",
+      "rarity": "Uncommon",
+      "cardNum": "66/70"
+    },
+    {
+      "name": "Klara",
+      "set": "Matchless Fighter",
+      "img": "https://den-cards.pokellector.com/308/Klara.S5A.67.37910.png",
+      "rarity": "Uncommon",
+      "cardNum": "67/70"
+    },
+    {
+      "name": "Avery",
+      "set": "Matchless Fighter",
+      "img": "https://den-cards.pokellector.com/308/Avery.S5A.68.37911.png",
+      "rarity": "Uncommon",
+      "cardNum": "68/70"
+    },
+    {
+      "name": "Brawly",
+      "set": "Matchless Fighter",
+      "img": "https://den-cards.pokellector.com/308/Brawly.S5A.69.37238.png",
+      "rarity": "Uncommon",
+      "cardNum": "69/70"
+    },
+    {
+      "name": "Dyna Tree Hill",
+      "set": "Matchless Fighter",
+      "img": "https://den-cards.pokellector.com/308/Dyna-Tree-Hill.S5A.70.37912.png",
+      "rarity": "Uncommon",
+      "cardNum": "70/70"
+    },
+    {
+      "name": "Blaziken V",
+      "set": "Matchless Fighter",
+      "img": "https://den-cards.pokellector.com/308/Blaziken-V.S5A.71.37921.png",
+      "rarity": "Secret Rare",
+      "cardNum": "71/70"
+    },
+    {
+      "name": "Dracozolt V",
+      "set": "Matchless Fighter",
+      "img": "https://den-cards.pokellector.com/308/Dracozolt-V.S5A.72.37922.png",
+      "rarity": "Secret Rare",
+      "cardNum": "72/70"
+    },
+    {
+      "name": "Galarian Articuno V",
+      "set": "Matchless Fighter",
+      "img": "https://den-cards.pokellector.com/308/Galarian-Articuno-V.S5A.73.37923.png",
+      "rarity": "Secret Rare",
+      "cardNum": "73/70"
+    },
+    {
+      "name": "Galarian Articuno V",
+      "set": "Matchless Fighter",
+      "img": "https://den-cards.pokellector.com/308/Galarian-Articuno-V.S5A.74.37913.png",
+      "rarity": "Secret Rare",
+      "cardNum": "74/70"
+    },
+    {
+      "name": "Galarian Zapdos V",
+      "set": "Matchless Fighter",
+      "img": "https://den-cards.pokellector.com/308/Galarian-Zapdos-V.S5A.75.37924.png",
+      "rarity": "Secret Rare",
+      "cardNum": "75/70"
+    },
+    {
+      "name": "Galarian Zapdos V",
+      "set": "Matchless Fighter",
+      "img": "https://den-cards.pokellector.com/308/Galarian-Zapdos-V.S5A.76.37914.png",
+      "rarity": "Secret Rare",
+      "cardNum": "76/70"
+    },
+    {
+      "name": "Galarian Moltres V",
+      "set": "Matchless Fighter",
+      "img": "https://den-cards.pokellector.com/308/Galarian-Moltres-V.S5A.77.37925.png",
+      "rarity": "Secret Rare",
+      "cardNum": "77/70"
+    },
+    {
+      "name": "Galarian Moltres V",
+      "set": "Matchless Fighter",
+      "img": "https://den-cards.pokellector.com/308/Galarian-Moltres-V.S5A.78.37915.png",
+      "rarity": "Secret Rare",
+      "cardNum": "78/70"
+    },
+    {
+      "name": "Galarian Slowking V",
+      "set": "Matchless Fighter",
+      "img": "https://den-cards.pokellector.com/308/Galarian-Slowking-V.S5A.79.37926.png",
+      "rarity": "Secret Rare",
+      "cardNum": "79/70"
+    },
+    {
+      "name": "Galarian Slowking V",
+      "set": "Matchless Fighter",
+      "img": "https://den-cards.pokellector.com/308/Galarian-Slowking-V.S5A.80.37927.png",
+      "rarity": "Secret Rare",
+      "cardNum": "80/70"
+    },
+    {
+      "name": "Karen's Conviction",
+      "set": "Matchless Fighter",
+      "img": "https://den-cards.pokellector.com/308/Karens-Conviction.S5A.81.37928.png",
+      "rarity": "Secret Rare",
+      "cardNum": "81/70"
+    },
+    {
+      "name": "Klara",
+      "set": "Matchless Fighter",
+      "img": "https://den-cards.pokellector.com/308/Klara.S5A.82.37929.png",
+      "rarity": "Secret Rare",
+      "cardNum": "82/70"
+    },
+    {
+      "name": "Avery",
+      "set": "Matchless Fighter",
+      "img": "https://den-cards.pokellector.com/308/Avery.S5A.83.37930.png",
+      "rarity": "Secret Rare",
+      "cardNum": "83/70"
+    },
+    {
+      "name": "Brawly",
+      "set": "Matchless Fighter",
+      "img": "https://den-cards.pokellector.com/308/Brawly.S5A.84.37931.png",
+      "rarity": "Secret Rare",
+      "cardNum": "84/70"
+    },
+    {
+      "name": "Blaziken VMAX",
+      "set": "Matchless Fighter",
+      "img": "https://den-cards.pokellector.com/308/Blaziken-VMAX.S5A.85.37932.png",
+      "rarity": "Secret Rare",
+      "cardNum": "85/70"
+    },
+    {
+      "name": "Blaziken VMAX",
+      "set": "Matchless Fighter",
+      "img": "https://den-cards.pokellector.com/308/Blaziken-VMAX.S5A.86.37933.png",
+      "rarity": "Secret Rare",
+      "cardNum": "86/70"
+    },
+    {
+      "name": "Dracozolt VMAX",
+      "set": "Matchless Fighter",
+      "img": "https://den-cards.pokellector.com/308/Dracozolt-VMAX.S5A.87.37934.png",
+      "rarity": "Secret Rare",
+      "cardNum": "87/70"
+    },
+    {
+      "name": "Galarian Slowking VMAX",
+      "set": "Matchless Fighter",
+      "img": "https://den-cards.pokellector.com/308/Galarian-Slowking-VMAX.S5A.88.37935.png",
+      "rarity": "Secret Rare",
+      "cardNum": "88/70"
+    },
+    {
+      "name": "Karen's Conviction",
+      "set": "Matchless Fighter",
+      "img": "https://den-cards.pokellector.com/308/Karens-Conviction.S5A.89.37936.png",
+      "rarity": "Secret Rare",
+      "cardNum": "89/70"
+    },
+    {
+      "name": "Klara",
+      "set": "Matchless Fighter",
+      "img": "https://den-cards.pokellector.com/308/Klara.S5A.90.37937.png",
+      "rarity": "Secret Rare",
+      "cardNum": "90/70"
+    },
+    {
+      "name": "Avery",
+      "set": "Matchless Fighter",
+      "img": "https://den-cards.pokellector.com/308/Avery.S5A.91.37938.png",
+      "rarity": "Secret Rare",
+      "cardNum": "91/70"
+    },
+    {
+      "name": "Brawly",
+      "set": "Matchless Fighter",
+      "img": "https://den-cards.pokellector.com/308/Brawly.S5A.92.37939.png",
+      "rarity": "Secret Rare",
+      "cardNum": "92/70"
+    },
+    {
+      "name": "Snorlax",
+      "set": "Matchless Fighter",
+      "img": "https://den-cards.pokellector.com/308/Snorlax.S5A.93.37940.png",
+      "rarity": "Secret Rare",
+      "cardNum": "93/70"
+    },
+    {
+      "name": "Fan of Waves",
+      "set": "Matchless Fighter",
+      "img": "https://den-cards.pokellector.com/308/Fan-of-Waves.S5A.94.37941.png",
+      "rarity": "Secret Rare",
+      "cardNum": "94/70"
+    },
+    {
+      "name": "Urn of Vitality",
+      "set": "Matchless Fighter",
+      "img": "https://den-cards.pokellector.com/308/Pot-of-Vitality.S5A.95.37942.png",
+      "rarity": "Secret Rare",
+      "cardNum": "95/70"
+    },
+    {
+      "name": "Fighting Energy",
+      "set": "Matchless Fighter",
+      "img": "https://den-cards.pokellector.com/308/Fighting-Energy.S5A.96.37943.png",
+      "rarity": "Secret Rare",
+      "cardNum": "96/70"
+    }
+  ]
+}

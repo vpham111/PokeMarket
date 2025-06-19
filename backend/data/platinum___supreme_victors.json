@@ -1,0 +1,1076 @@
+{
+  "setName": "Platinum - Supreme Victors",
+  "cards": [
+    {
+      "name": "Absol G",
+      "set": "Platinum - Supreme Victors",
+      "img": "https://den-cards.pokellector.com/40/Absol-G.SV.1.png",
+      "rarity": "Rare",
+      "cardNum": "1/147"
+    },
+    {
+      "name": "Blaziken FB",
+      "set": "Platinum - Supreme Victors",
+      "img": "https://den-cards.pokellector.com/40/Blaziken-FB.SV.2.png",
+      "rarity": "Rare",
+      "cardNum": "2/147"
+    },
+    {
+      "name": "Drifblim FB",
+      "set": "Platinum - Supreme Victors",
+      "img": "https://den-cards.pokellector.com/40/Drifblim-FB.SV.3.png",
+      "rarity": "Rare",
+      "cardNum": "3/147"
+    },
+    {
+      "name": "Electivire FB",
+      "set": "Platinum - Supreme Victors",
+      "img": "https://den-cards.pokellector.com/40/Electivire-FB.SV.4.png",
+      "rarity": "Rare",
+      "cardNum": "4/147"
+    },
+    {
+      "name": "Garchomp",
+      "set": "Platinum - Supreme Victors",
+      "img": "https://den-cards.pokellector.com/40/Garchomp.SV.5.png",
+      "rarity": "Rare",
+      "cardNum": "5/147"
+    },
+    {
+      "name": "Magmortar",
+      "set": "Platinum - Supreme Victors",
+      "img": "https://den-cards.pokellector.com/40/Magmortar.SV.6.png",
+      "rarity": "Rare",
+      "cardNum": "6/147"
+    },
+    {
+      "name": "Metagross",
+      "set": "Platinum - Supreme Victors",
+      "img": "https://den-cards.pokellector.com/40/Metagross.SV.7.png",
+      "rarity": "Rare",
+      "cardNum": "7/147"
+    },
+    {
+      "name": "Rayquaza C",
+      "set": "Platinum - Supreme Victors",
+      "img": "https://den-cards.pokellector.com/40/Rayquaza-C.SV.8.png",
+      "rarity": "Rare",
+      "cardNum": "8/147"
+    },
+    {
+      "name": "Regigigas FB",
+      "set": "Platinum - Supreme Victors",
+      "img": "https://den-cards.pokellector.com/40/Regigigas-FB.SV.9.png",
+      "rarity": "Rare",
+      "cardNum": "9/147"
+    },
+    {
+      "name": "Rhyperior",
+      "set": "Platinum - Supreme Victors",
+      "img": "https://den-cards.pokellector.com/40/Rhyperior.SV.10.png",
+      "rarity": "Rare",
+      "cardNum": "10/147"
+    },
+    {
+      "name": "Staraptor FB",
+      "set": "Platinum - Supreme Victors",
+      "img": "https://den-cards.pokellector.com/40/Staraptor-FB.SV.11.png",
+      "rarity": "Rare",
+      "cardNum": "11/147"
+    },
+    {
+      "name": "Swampert",
+      "set": "Platinum - Supreme Victors",
+      "img": "https://den-cards.pokellector.com/40/Swampert.SV.12.png",
+      "rarity": "Rare",
+      "cardNum": "12/147"
+    },
+    {
+      "name": "Venusaur",
+      "set": "Platinum - Supreme Victors",
+      "img": "https://den-cards.pokellector.com/40/Venusaur.SV.13.png",
+      "rarity": "Rare",
+      "cardNum": "13/147"
+    },
+    {
+      "name": "Yanmega",
+      "set": "Platinum - Supreme Victors",
+      "img": "https://den-cards.pokellector.com/40/Yanmega.SV.14.png",
+      "rarity": "Rare",
+      "cardNum": "14/147"
+    },
+    {
+      "name": "Arcanine G",
+      "set": "Platinum - Supreme Victors",
+      "img": "https://den-cards.pokellector.com/40/Arcanine-G.SV.15.png",
+      "rarity": "Rare",
+      "cardNum": "15/147"
+    },
+    {
+      "name": "Articuno",
+      "set": "Platinum - Supreme Victors",
+      "img": "https://den-cards.pokellector.com/40/Articuno.SV.16.png",
+      "rarity": "Rare",
+      "cardNum": "16/147"
+    },
+    {
+      "name": "Butterfree FB",
+      "set": "Platinum - Supreme Victors",
+      "img": "https://den-cards.pokellector.com/40/Butterfree-FB.SV.17.png",
+      "rarity": "Rare",
+      "cardNum": "17/147"
+    },
+    {
+      "name": "Camerupt",
+      "set": "Platinum - Supreme Victors",
+      "img": "https://den-cards.pokellector.com/40/Camerupt.SV.18.png",
+      "rarity": "Rare",
+      "cardNum": "18/147"
+    },
+    {
+      "name": "Camerupt G",
+      "set": "Platinum - Supreme Victors",
+      "img": "https://den-cards.pokellector.com/40/Camerupt-G.SV.19.png",
+      "rarity": "Rare",
+      "cardNum": "19/147"
+    },
+    {
+      "name": "Charizard G",
+      "set": "Platinum - Supreme Victors",
+      "img": "https://den-cards.pokellector.com/40/Charizard-G.SV.20.png",
+      "rarity": "Rare",
+      "cardNum": "20/147"
+    },
+    {
+      "name": "Chimecho",
+      "set": "Platinum - Supreme Victors",
+      "img": "https://den-cards.pokellector.com/40/Chimecho.SV.21.png",
+      "rarity": "Rare",
+      "cardNum": "21/147"
+    },
+    {
+      "name": "Claydol",
+      "set": "Platinum - Supreme Victors",
+      "img": "https://den-cards.pokellector.com/40/Claydol.SV.22.png",
+      "rarity": "Rare",
+      "cardNum": "22/147"
+    },
+    {
+      "name": "Crawdaunt G",
+      "set": "Platinum - Supreme Victors",
+      "img": "https://den-cards.pokellector.com/40/Crawdaunt-G.SV.23.png",
+      "rarity": "Rare",
+      "cardNum": "23/147"
+    },
+    {
+      "name": "Dewgong",
+      "set": "Platinum - Supreme Victors",
+      "img": "https://den-cards.pokellector.com/40/Dewgong.SV.24.png",
+      "rarity": "Rare",
+      "cardNum": "24/147"
+    },
+    {
+      "name": "Dodrio",
+      "set": "Platinum - Supreme Victors",
+      "img": "https://den-cards.pokellector.com/40/Dodrio.SV.25.png",
+      "rarity": "Rare",
+      "cardNum": "25/147"
+    },
+    {
+      "name": "Dusknoir FB",
+      "set": "Platinum - Supreme Victors",
+      "img": "https://den-cards.pokellector.com/40/Dusknoir-FB.SV.26.png",
+      "rarity": "Rare",
+      "cardNum": "26/147"
+    },
+    {
+      "name": "Empoleon FB",
+      "set": "Platinum - Supreme Victors",
+      "img": "https://den-cards.pokellector.com/40/Empoleon-FB.SV.27.png",
+      "rarity": "Rare",
+      "cardNum": "27/147"
+    },
+    {
+      "name": "Exploud",
+      "set": "Platinum - Supreme Victors",
+      "img": "https://den-cards.pokellector.com/40/Exploud.SV.28.png",
+      "rarity": "Rare",
+      "cardNum": "28/147"
+    },
+    {
+      "name": "Honchkrow",
+      "set": "Platinum - Supreme Victors",
+      "img": "https://den-cards.pokellector.com/40/Honchkrow.SV.29.png",
+      "rarity": "Rare",
+      "cardNum": "29/147"
+    },
+    {
+      "name": "Lickilicky C",
+      "set": "Platinum - Supreme Victors",
+      "img": "https://den-cards.pokellector.com/40/Lickilicky-C.SV.30.png",
+      "rarity": "Rare",
+      "cardNum": "30/147"
+    },
+    {
+      "name": "Lucario C",
+      "set": "Platinum - Supreme Victors",
+      "img": "https://den-cards.pokellector.com/40/Lucario-C.SV.31.png",
+      "rarity": "Rare",
+      "cardNum": "31/147"
+    },
+    {
+      "name": "Lunatone",
+      "set": "Platinum - Supreme Victors",
+      "img": "https://den-cards.pokellector.com/40/Lunatone.SV.32.png",
+      "rarity": "Rare",
+      "cardNum": "32/147"
+    },
+    {
+      "name": "Mawile",
+      "set": "Platinum - Supreme Victors",
+      "img": "https://den-cards.pokellector.com/40/Mawile.SV.33.png",
+      "rarity": "Rare",
+      "cardNum": "33/147"
+    },
+    {
+      "name": "Medicham",
+      "set": "Platinum - Supreme Victors",
+      "img": "https://den-cards.pokellector.com/40/Medicham.SV.34.png",
+      "rarity": "Rare",
+      "cardNum": "34/147"
+    },
+    {
+      "name": "Milotic C",
+      "set": "Platinum - Supreme Victors",
+      "img": "https://den-cards.pokellector.com/40/Milotic-C.SV.35.png",
+      "rarity": "Rare",
+      "cardNum": "35/147"
+    },
+    {
+      "name": "Moltres",
+      "set": "Platinum - Supreme Victors",
+      "img": "https://den-cards.pokellector.com/40/Moltres.SV.36.png",
+      "rarity": "Rare",
+      "cardNum": "36/147"
+    },
+    {
+      "name": "Mr. Mime",
+      "set": "Platinum - Supreme Victors",
+      "img": "https://den-cards.pokellector.com/40/Mr-Mime.SV.37.png",
+      "rarity": "Rare",
+      "cardNum": "37/147"
+    },
+    {
+      "name": "Parasect",
+      "set": "Platinum - Supreme Victors",
+      "img": "https://den-cards.pokellector.com/40/Parasect.SV.38.png",
+      "rarity": "Rare",
+      "cardNum": "38/147"
+    },
+    {
+      "name": "Primeape",
+      "set": "Platinum - Supreme Victors",
+      "img": "https://den-cards.pokellector.com/40/Primeape.SV.39.png",
+      "rarity": "Rare",
+      "cardNum": "39/147"
+    },
+    {
+      "name": "Roserade C",
+      "set": "Platinum - Supreme Victors",
+      "img": "https://den-cards.pokellector.com/40/Roserade-C.SV.40.png",
+      "rarity": "Rare",
+      "cardNum": "40/147"
+    },
+    {
+      "name": "Sableye G",
+      "set": "Platinum - Supreme Victors",
+      "img": "https://den-cards.pokellector.com/40/Sableye-G.SV.41.png",
+      "rarity": "Rare",
+      "cardNum": "41/147"
+    },
+    {
+      "name": "Sandslash",
+      "set": "Platinum - Supreme Victors",
+      "img": "https://den-cards.pokellector.com/40/Sandslash.SV.42.png",
+      "rarity": "Rare",
+      "cardNum": "42/147"
+    },
+    {
+      "name": "Seaking",
+      "set": "Platinum - Supreme Victors",
+      "img": "https://den-cards.pokellector.com/40/Seaking.SV.43.png",
+      "rarity": "Rare",
+      "cardNum": "43/147"
+    },
+    {
+      "name": "Shedinja",
+      "set": "Platinum - Supreme Victors",
+      "img": "https://den-cards.pokellector.com/40/Shedinja.SV.44.png",
+      "rarity": "Rare",
+      "cardNum": "44/147"
+    },
+    {
+      "name": "Solrock",
+      "set": "Platinum - Supreme Victors",
+      "img": "https://den-cards.pokellector.com/40/Solrock.SV.45.png",
+      "rarity": "Rare",
+      "cardNum": "45/147"
+    },
+    {
+      "name": "Spinda",
+      "set": "Platinum - Supreme Victors",
+      "img": "https://den-cards.pokellector.com/40/Spinda.SV.46.png",
+      "rarity": "Rare",
+      "cardNum": "46/147"
+    },
+    {
+      "name": "Wailord",
+      "set": "Platinum - Supreme Victors",
+      "img": "https://den-cards.pokellector.com/40/Wailord.SV.47.png",
+      "rarity": "Rare",
+      "cardNum": "47/147"
+    },
+    {
+      "name": "Zapdos",
+      "set": "Platinum - Supreme Victors",
+      "img": "https://den-cards.pokellector.com/40/Zapdos.SV.48.png",
+      "rarity": "Rare",
+      "cardNum": "48/147"
+    },
+    {
+      "name": "Altaria C",
+      "set": "Platinum - Supreme Victors",
+      "img": "https://den-cards.pokellector.com/40/Altaria-C.SV.49.png",
+      "rarity": "Uncommon",
+      "cardNum": "49/147"
+    },
+    {
+      "name": "Arcanine",
+      "set": "Platinum - Supreme Victors",
+      "img": "https://den-cards.pokellector.com/40/Arcanine.SV.50.png",
+      "rarity": "Uncommon",
+      "cardNum": "50/147"
+    },
+    {
+      "name": "Bibarel",
+      "set": "Platinum - Supreme Victors",
+      "img": "https://den-cards.pokellector.com/40/Bibarel.SV.51.png",
+      "rarity": "Uncommon",
+      "cardNum": "51/147"
+    },
+    {
+      "name": "Breloom",
+      "set": "Platinum - Supreme Victors",
+      "img": "https://den-cards.pokellector.com/40/Breloom.SV.52.png",
+      "rarity": "Uncommon",
+      "cardNum": "52/147"
+    },
+    {
+      "name": "Carnivine",
+      "set": "Platinum - Supreme Victors",
+      "img": "https://den-cards.pokellector.com/40/Carnivine.SV.53.png",
+      "rarity": "Uncommon",
+      "cardNum": "53/147"
+    },
+    {
+      "name": "Chatot G",
+      "set": "Platinum - Supreme Victors",
+      "img": "https://den-cards.pokellector.com/40/Chatot-G.SV.54.png",
+      "rarity": "Uncommon",
+      "cardNum": "54/147"
+    },
+    {
+      "name": "Cherrim",
+      "set": "Platinum - Supreme Victors",
+      "img": "https://den-cards.pokellector.com/40/Cherrim.SV.55.png",
+      "rarity": "Uncommon",
+      "cardNum": "55/147"
+    },
+    {
+      "name": "Dragonite FB",
+      "set": "Platinum - Supreme Victors",
+      "img": "https://den-cards.pokellector.com/40/Dragonite-FB.SV.56.png",
+      "rarity": "Uncommon",
+      "cardNum": "56/147"
+    },
+    {
+      "name": "Drifblim",
+      "set": "Platinum - Supreme Victors",
+      "img": "https://den-cards.pokellector.com/40/Drifblim.SV.57.png",
+      "rarity": "Uncommon",
+      "cardNum": "57/147"
+    },
+    {
+      "name": "Floatzel",
+      "set": "Platinum - Supreme Victors",
+      "img": "https://den-cards.pokellector.com/40/Floatzel.SV.58.png",
+      "rarity": "Uncommon",
+      "cardNum": "58/147"
+    },
+    {
+      "name": "Gabite",
+      "set": "Platinum - Supreme Victors",
+      "img": "https://den-cards.pokellector.com/40/Gabite.SV.59.png",
+      "rarity": "Uncommon",
+      "cardNum": "59/147"
+    },
+    {
+      "name": "Garchomp C",
+      "set": "Platinum - Supreme Victors",
+      "img": "https://den-cards.pokellector.com/40/Garchomp-C.SV.60.png",
+      "rarity": "Uncommon",
+      "cardNum": "60/147"
+    },
+    {
+      "name": "Hippopotas",
+      "set": "Platinum - Supreme Victors",
+      "img": "https://den-cards.pokellector.com/40/Hippopotas.SV.61.png",
+      "rarity": "Uncommon",
+      "cardNum": "61/147"
+    },
+    {
+      "name": "Ivysaur",
+      "set": "Platinum - Supreme Victors",
+      "img": "https://den-cards.pokellector.com/40/Ivysaur.SV.62.png",
+      "rarity": "Uncommon",
+      "cardNum": "62/147"
+    },
+    {
+      "name": "Lopunny",
+      "set": "Platinum - Supreme Victors",
+      "img": "https://den-cards.pokellector.com/40/Lopunny.SV.63.png",
+      "rarity": "Uncommon",
+      "cardNum": "63/147"
+    },
+    {
+      "name": "Loudred",
+      "set": "Platinum - Supreme Victors",
+      "img": "https://den-cards.pokellector.com/40/Loudred.SV.64.png",
+      "rarity": "Uncommon",
+      "cardNum": "64/147"
+    },
+    {
+      "name": "Magmar",
+      "set": "Platinum - Supreme Victors",
+      "img": "https://den-cards.pokellector.com/40/Magmar.SV.65.png",
+      "rarity": "Uncommon",
+      "cardNum": "65/147"
+    },
+    {
+      "name": "Manectric G",
+      "set": "Platinum - Supreme Victors",
+      "img": "https://den-cards.pokellector.com/40/Manectric-G.SV.66.png",
+      "rarity": "Uncommon",
+      "cardNum": "66/147"
+    },
+    {
+      "name": "Marshtomp",
+      "set": "Platinum - Supreme Victors",
+      "img": "https://den-cards.pokellector.com/40/Marshtomp.SV.67.png",
+      "rarity": "Uncommon",
+      "cardNum": "67/147"
+    },
+    {
+      "name": "Masquerain",
+      "set": "Platinum - Supreme Victors",
+      "img": "https://den-cards.pokellector.com/40/Masquerain.SV.68.png",
+      "rarity": "Uncommon",
+      "cardNum": "68/147"
+    },
+    {
+      "name": "Metang",
+      "set": "Platinum - Supreme Victors",
+      "img": "https://den-cards.pokellector.com/40/Metang.SV.69.png",
+      "rarity": "Uncommon",
+      "cardNum": "69/147"
+    },
+    {
+      "name": "Milotic",
+      "set": "Platinum - Supreme Victors",
+      "img": "https://den-cards.pokellector.com/40/Milotic.SV.70.png",
+      "rarity": "Uncommon",
+      "cardNum": "70/147"
+    },
+    {
+      "name": "Minun",
+      "set": "Platinum - Supreme Victors",
+      "img": "https://den-cards.pokellector.com/40/Minun.SV.71.png",
+      "rarity": "Uncommon",
+      "cardNum": "71/147"
+    },
+    {
+      "name": "Murkrow",
+      "set": "Platinum - Supreme Victors",
+      "img": "https://den-cards.pokellector.com/40/Murkrow.SV.72.png",
+      "rarity": "Uncommon",
+      "cardNum": "72/147"
+    },
+    {
+      "name": "Ninjask",
+      "set": "Platinum - Supreme Victors",
+      "img": "https://den-cards.pokellector.com/40/Ninjask.SV.73.png",
+      "rarity": "Uncommon",
+      "cardNum": "73/147"
+    },
+    {
+      "name": "Numel",
+      "set": "Platinum - Supreme Victors",
+      "img": "https://den-cards.pokellector.com/40/Numel.SV.74.png",
+      "rarity": "Uncommon",
+      "cardNum": "74/147"
+    },
+    {
+      "name": "Pinsir",
+      "set": "Platinum - Supreme Victors",
+      "img": "https://den-cards.pokellector.com/40/Pinsir.SV.75.png",
+      "rarity": "Uncommon",
+      "cardNum": "75/147"
+    },
+    {
+      "name": "Plusle",
+      "set": "Platinum - Supreme Victors",
+      "img": "https://den-cards.pokellector.com/40/Plusle.SV.76.png",
+      "rarity": "Uncommon",
+      "cardNum": "76/147"
+    },
+    {
+      "name": "Raichu",
+      "set": "Platinum - Supreme Victors",
+      "img": "https://den-cards.pokellector.com/40/Raichu.SV.77.png",
+      "rarity": "Uncommon",
+      "cardNum": "77/147"
+    },
+    {
+      "name": "Raticate G",
+      "set": "Platinum - Supreme Victors",
+      "img": "https://den-cards.pokellector.com/40/Raticate-G.SV.78.png",
+      "rarity": "Uncommon",
+      "cardNum": "78/147"
+    },
+    {
+      "name": "Relicanth",
+      "set": "Platinum - Supreme Victors",
+      "img": "https://den-cards.pokellector.com/40/Relicanth.SV.79.png",
+      "rarity": "Uncommon",
+      "cardNum": "79/147"
+    },
+    {
+      "name": "Rhydon",
+      "set": "Platinum - Supreme Victors",
+      "img": "https://den-cards.pokellector.com/40/Rhydon.SV.80.png",
+      "rarity": "Uncommon",
+      "cardNum": "80/147"
+    },
+    {
+      "name": "Roserade",
+      "set": "Platinum - Supreme Victors",
+      "img": "https://den-cards.pokellector.com/40/Roserade.SV.81.png",
+      "rarity": "Uncommon",
+      "cardNum": "81/147"
+    },
+    {
+      "name": "Rotom",
+      "set": "Platinum - Supreme Victors",
+      "img": "https://den-cards.pokellector.com/40/Rotom.SV.82.png",
+      "rarity": "Uncommon",
+      "cardNum": "82/147"
+    },
+    {
+      "name": "Skarmory FB",
+      "set": "Platinum - Supreme Victors",
+      "img": "https://den-cards.pokellector.com/40/Skarmory-FB.SV.83.png",
+      "rarity": "Uncommon",
+      "cardNum": "83/147"
+    },
+    {
+      "name": "Spiritomb C",
+      "set": "Platinum - Supreme Victors",
+      "img": "https://den-cards.pokellector.com/40/Spiritomb-C.SV.84.png",
+      "rarity": "Uncommon",
+      "cardNum": "84/147"
+    },
+    {
+      "name": "Staravia",
+      "set": "Platinum - Supreme Victors",
+      "img": "https://den-cards.pokellector.com/40/Staravia.SV.85.png",
+      "rarity": "Uncommon",
+      "cardNum": "85/147"
+    },
+    {
+      "name": "Togekiss C",
+      "set": "Platinum - Supreme Victors",
+      "img": "https://den-cards.pokellector.com/40/Togekiss-C.SV.86.png",
+      "rarity": "Uncommon",
+      "cardNum": "86/147"
+    },
+    {
+      "name": "Wailmer",
+      "set": "Platinum - Supreme Victors",
+      "img": "https://den-cards.pokellector.com/40/Wailmer.SV.87.png",
+      "rarity": "Uncommon",
+      "cardNum": "87/147"
+    },
+    {
+      "name": "Yanma",
+      "set": "Platinum - Supreme Victors",
+      "img": "https://den-cards.pokellector.com/40/Yanma.SV.88.png",
+      "rarity": "Uncommon",
+      "cardNum": "88/147"
+    },
+    {
+      "name": "Baltoy",
+      "set": "Platinum - Supreme Victors",
+      "img": "https://den-cards.pokellector.com/40/Baltoy.SV.89.png",
+      "rarity": "Common",
+      "cardNum": "89/147"
+    },
+    {
+      "name": "Beldum",
+      "set": "Platinum - Supreme Victors",
+      "img": "https://den-cards.pokellector.com/40/Beldum.SV.90.png",
+      "rarity": "Common",
+      "cardNum": "90/147"
+    },
+    {
+      "name": "Bidoof",
+      "set": "Platinum - Supreme Victors",
+      "img": "https://den-cards.pokellector.com/40/Bidoof.SV.91.png",
+      "rarity": "Common",
+      "cardNum": "91/147"
+    },
+    {
+      "name": "Buizel",
+      "set": "Platinum - Supreme Victors",
+      "img": "https://den-cards.pokellector.com/40/Buizel.SV.92.png",
+      "rarity": "Common",
+      "cardNum": "92/147"
+    },
+    {
+      "name": "Bulbasaur",
+      "set": "Platinum - Supreme Victors",
+      "img": "https://den-cards.pokellector.com/40/Bulbasaur.SV.93.png",
+      "rarity": "Common",
+      "cardNum": "93/147"
+    },
+    {
+      "name": "Buneary",
+      "set": "Platinum - Supreme Victors",
+      "img": "https://den-cards.pokellector.com/40/Buneary.SV.94.png",
+      "rarity": "Common",
+      "cardNum": "94/147"
+    },
+    {
+      "name": "Chatot",
+      "set": "Platinum - Supreme Victors",
+      "img": "https://den-cards.pokellector.com/40/Chatot.SV.95.png",
+      "rarity": "Common",
+      "cardNum": "95/147"
+    },
+    {
+      "name": "Cherubi",
+      "set": "Platinum - Supreme Victors",
+      "img": "https://den-cards.pokellector.com/40/Cherubi.SV.96.png",
+      "rarity": "Common",
+      "cardNum": "96/147"
+    },
+    {
+      "name": "Chimchar",
+      "set": "Platinum - Supreme Victors",
+      "img": "https://den-cards.pokellector.com/40/Chimchar.SV.97.png",
+      "rarity": "Common",
+      "cardNum": "97/147"
+    },
+    {
+      "name": "Chingling",
+      "set": "Platinum - Supreme Victors",
+      "img": "https://den-cards.pokellector.com/40/Chingling.SV.98.png",
+      "rarity": "Common",
+      "cardNum": "98/147"
+    },
+    {
+      "name": "Combee",
+      "set": "Platinum - Supreme Victors",
+      "img": "https://den-cards.pokellector.com/40/Combee.SV.99.png",
+      "rarity": "Common",
+      "cardNum": "99/147"
+    },
+    {
+      "name": "Corphish",
+      "set": "Platinum - Supreme Victors",
+      "img": "https://den-cards.pokellector.com/40/Corphish.SV.100.png",
+      "rarity": "Common",
+      "cardNum": "100/147"
+    },
+    {
+      "name": "Croagunk",
+      "set": "Platinum - Supreme Victors",
+      "img": "https://den-cards.pokellector.com/40/Croagunk.SV.101.png",
+      "rarity": "Common",
+      "cardNum": "101/147"
+    },
+    {
+      "name": "Doduo",
+      "set": "Platinum - Supreme Victors",
+      "img": "https://den-cards.pokellector.com/40/Doduo.SV.102.png",
+      "rarity": "Common",
+      "cardNum": "102/147"
+    },
+    {
+      "name": "Drifloon",
+      "set": "Platinum - Supreme Victors",
+      "img": "https://den-cards.pokellector.com/40/Drifloon.SV.103.png",
+      "rarity": "Common",
+      "cardNum": "103/147"
+    },
+    {
+      "name": "Feebas",
+      "set": "Platinum - Supreme Victors",
+      "img": "https://den-cards.pokellector.com/40/Feebas.SV.104.png",
+      "rarity": "Common",
+      "cardNum": "104/147"
+    },
+    {
+      "name": "Geodude",
+      "set": "Platinum - Supreme Victors",
+      "img": "https://den-cards.pokellector.com/40/Geodude.SV.105.png",
+      "rarity": "Common",
+      "cardNum": "105/147"
+    },
+    {
+      "name": "Gible",
+      "set": "Platinum - Supreme Victors",
+      "img": "https://den-cards.pokellector.com/40/Gible.SV.106.png",
+      "rarity": "Common",
+      "cardNum": "106/147"
+    },
+    {
+      "name": "Goldeen",
+      "set": "Platinum - Supreme Victors",
+      "img": "https://den-cards.pokellector.com/40/Goldeen.SV.107.png",
+      "rarity": "Common",
+      "cardNum": "107/147"
+    },
+    {
+      "name": "Growlithe",
+      "set": "Platinum - Supreme Victors",
+      "img": "https://den-cards.pokellector.com/40/Growlithe.SV.108.png",
+      "rarity": "Common",
+      "cardNum": "108/147"
+    },
+    {
+      "name": "Kricketot",
+      "set": "Platinum - Supreme Victors",
+      "img": "https://den-cards.pokellector.com/40/Kricketot.SV.109.png",
+      "rarity": "Common",
+      "cardNum": "109/147"
+    },
+    {
+      "name": "Magikarp",
+      "set": "Platinum - Supreme Victors",
+      "img": "https://den-cards.pokellector.com/40/Magikarp.SV.110.png",
+      "rarity": "Common",
+      "cardNum": "110/147"
+    },
+    {
+      "name": "Magnemite",
+      "set": "Platinum - Supreme Victors",
+      "img": "https://den-cards.pokellector.com/40/Magnemite.SV.111.png",
+      "rarity": "Common",
+      "cardNum": "111/147"
+    },
+    {
+      "name": "Mankey",
+      "set": "Platinum - Supreme Victors",
+      "img": "https://den-cards.pokellector.com/40/Mankey.SV.112.png",
+      "rarity": "Common",
+      "cardNum": "112/147"
+    },
+    {
+      "name": "Meditite",
+      "set": "Platinum - Supreme Victors",
+      "img": "https://den-cards.pokellector.com/40/Meditite.SV.113.png",
+      "rarity": "Common",
+      "cardNum": "113/147"
+    },
+    {
+      "name": "Meowth",
+      "set": "Platinum - Supreme Victors",
+      "img": "https://den-cards.pokellector.com/40/Meowth.SV.114.png",
+      "rarity": "Common",
+      "cardNum": "114/147"
+    },
+    {
+      "name": "Mime Jr.",
+      "set": "Platinum - Supreme Victors",
+      "img": "https://den-cards.pokellector.com/40/Mime-Jr.SV.115.png",
+      "rarity": "Common",
+      "cardNum": "115/147"
+    },
+    {
+      "name": "Mudkip",
+      "set": "Platinum - Supreme Victors",
+      "img": "https://den-cards.pokellector.com/40/Mudkip.SV.116.png",
+      "rarity": "Common",
+      "cardNum": "116/147"
+    },
+    {
+      "name": "Nincada",
+      "set": "Platinum - Supreme Victors",
+      "img": "https://den-cards.pokellector.com/40/Nincada.SV.117.png",
+      "rarity": "Common",
+      "cardNum": "117/147"
+    },
+    {
+      "name": "Pachirisu",
+      "set": "Platinum - Supreme Victors",
+      "img": "https://den-cards.pokellector.com/40/Pachirisu.SV.118.png",
+      "rarity": "Common",
+      "cardNum": "118/147"
+    },
+    {
+      "name": "Paras",
+      "set": "Platinum - Supreme Victors",
+      "img": "https://den-cards.pokellector.com/40/Paras.SV.119.png",
+      "rarity": "Common",
+      "cardNum": "119/147"
+    },
+    {
+      "name": "Pikachu",
+      "set": "Platinum - Supreme Victors",
+      "img": "https://den-cards.pokellector.com/40/Pikachu.SV.120.png",
+      "rarity": "Common",
+      "cardNum": "120/147"
+    },
+    {
+      "name": "Piplup",
+      "set": "Platinum - Supreme Victors",
+      "img": "https://den-cards.pokellector.com/40/Piplup.SV.121.png",
+      "rarity": "Common",
+      "cardNum": "121/147"
+    },
+    {
+      "name": "Rhyhorn",
+      "set": "Platinum - Supreme Victors",
+      "img": "https://den-cards.pokellector.com/40/Rhyhorn.SV.122.png",
+      "rarity": "Common",
+      "cardNum": "122/147"
+    },
+    {
+      "name": "Roselia",
+      "set": "Platinum - Supreme Victors",
+      "img": "https://den-cards.pokellector.com/40/Roselia.SV.123.png",
+      "rarity": "Common",
+      "cardNum": "123/147"
+    },
+    {
+      "name": "Sandshrew",
+      "set": "Platinum - Supreme Victors",
+      "img": "https://den-cards.pokellector.com/40/Sandshrew.SV.124.png",
+      "rarity": "Common",
+      "cardNum": "124/147"
+    },
+    {
+      "name": "Seel",
+      "set": "Platinum - Supreme Victors",
+      "img": "https://den-cards.pokellector.com/40/Seel.SV.125.png",
+      "rarity": "Common",
+      "cardNum": "125/147"
+    },
+    {
+      "name": "Shinx",
+      "set": "Platinum - Supreme Victors",
+      "img": "https://den-cards.pokellector.com/40/Shinx.SV.126.png",
+      "rarity": "Common",
+      "cardNum": "126/147"
+    },
+    {
+      "name": "Shroomish",
+      "set": "Platinum - Supreme Victors",
+      "img": "https://den-cards.pokellector.com/40/Shroomish.SV.127.png",
+      "rarity": "Common",
+      "cardNum": "127/147"
+    },
+    {
+      "name": "Skorupi",
+      "set": "Platinum - Supreme Victors",
+      "img": "https://den-cards.pokellector.com/40/Skorupi.SV.128.png",
+      "rarity": "Common",
+      "cardNum": "128/147"
+    },
+    {
+      "name": "Starly",
+      "set": "Platinum - Supreme Victors",
+      "img": "https://den-cards.pokellector.com/40/Starly.SV.129.png",
+      "rarity": "Common",
+      "cardNum": "129/147"
+    },
+    {
+      "name": "Surskit",
+      "set": "Platinum - Supreme Victors",
+      "img": "https://den-cards.pokellector.com/40/Surskit.SV.130.png",
+      "rarity": "Common",
+      "cardNum": "130/147"
+    },
+    {
+      "name": "Turtwig",
+      "set": "Platinum - Supreme Victors",
+      "img": "https://den-cards.pokellector.com/40/Turtwig.SV.131.png",
+      "rarity": "Common",
+      "cardNum": "131/147"
+    },
+    {
+      "name": "Whismur",
+      "set": "Platinum - Supreme Victors",
+      "img": "https://den-cards.pokellector.com/40/Whismur.SV.132.png",
+      "rarity": "Common",
+      "cardNum": "132/147"
+    },
+    {
+      "name": "Zubat",
+      "set": "Platinum - Supreme Victors",
+      "img": "https://den-cards.pokellector.com/40/Zubat.SV.133.png",
+      "rarity": "Common",
+      "cardNum": "133/147"
+    },
+    {
+      "name": "Battle Tower",
+      "set": "Platinum - Supreme Victors",
+      "img": "https://den-cards.pokellector.com/40/Battle-Tower.SV.134.png",
+      "rarity": "Uncommon",
+      "cardNum": "134/147"
+    },
+    {
+      "name": "Champion's Room",
+      "set": "Platinum - Supreme Victors",
+      "img": "https://den-cards.pokellector.com/40/Champions-Room.SV.135.png",
+      "rarity": "Uncommon",
+      "cardNum": "135/147"
+    },
+    {
+      "name": "Cynthia's Guidance",
+      "set": "Platinum - Supreme Victors",
+      "img": "https://den-cards.pokellector.com/40/Cynthias-Guidance.SV.136.png",
+      "rarity": "Uncommon",
+      "cardNum": "136/147"
+    },
+    {
+      "name": "Cyrus's Initiative",
+      "set": "Platinum - Supreme Victors",
+      "img": "https://den-cards.pokellector.com/40/Cyruss-Initiative.SV.137.png",
+      "rarity": "Uncommon",
+      "cardNum": "137/147"
+    },
+    {
+      "name": "Night Teleporter",
+      "set": "Platinum - Supreme Victors",
+      "img": "https://den-cards.pokellector.com/40/Night-Teleporter.SV.138.png",
+      "rarity": "Uncommon",
+      "cardNum": "138/147"
+    },
+    {
+      "name": "Palmer's Contribution",
+      "set": "Platinum - Supreme Victors",
+      "img": "https://den-cards.pokellector.com/40/Palmers-Contribution.SV.139.png",
+      "rarity": "Uncommon",
+      "cardNum": "139/147"
+    },
+    {
+      "name": "VS Seeker",
+      "set": "Platinum - Supreme Victors",
+      "img": "https://den-cards.pokellector.com/40/VS-Seeker.SV.140.png",
+      "rarity": "Uncommon",
+      "cardNum": "140/147"
+    },
+    {
+      "name": "Absol G LV. X",
+      "set": "Platinum - Supreme Victors",
+      "img": "https://den-cards.pokellector.com/40/Absol-G-LV-X.SV.141.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "141/147"
+    },
+    {
+      "name": "Blaziken FB LV. X",
+      "set": "Platinum - Supreme Victors",
+      "img": "https://den-cards.pokellector.com/40/Blaziken-FB-LV-X.SV.142.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "142/147"
+    },
+    {
+      "name": "Charizard G LV. X",
+      "set": "Platinum - Supreme Victors",
+      "img": "https://den-cards.pokellector.com/40/Charizard-G-LV-X.SV.143.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "143/147"
+    },
+    {
+      "name": "Electivire FB LV. X",
+      "set": "Platinum - Supreme Victors",
+      "img": "https://den-cards.pokellector.com/40/Electivire-FB-LV-X.SV.144.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "144/147"
+    },
+    {
+      "name": "Garchomp C LV. X",
+      "set": "Platinum - Supreme Victors",
+      "img": "https://den-cards.pokellector.com/40/Garchomp-C-LV-X.SV.145.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "145/147"
+    },
+    {
+      "name": "Rayquaza C LV. X",
+      "set": "Platinum - Supreme Victors",
+      "img": "https://den-cards.pokellector.com/40/Rayquaza-C-LV-X.SV.146.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "146/147"
+    },
+    {
+      "name": "Staraptor FB LV. X",
+      "set": "Platinum - Supreme Victors",
+      "img": "https://den-cards.pokellector.com/40/Staraptor-FB-LV-X.SV.147.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "147/147"
+    },
+    {
+      "name": "Articuno",
+      "set": "Platinum - Supreme Victors",
+      "img": "https://den-cards.pokellector.com/40/Articuno.SV.148.png",
+      "rarity": "Secret Rare",
+      "cardNum": "148/147"
+    },
+    {
+      "name": "Moltres",
+      "set": "Platinum - Supreme Victors",
+      "img": "https://den-cards.pokellector.com/40/Moltres.SV.149.png",
+      "rarity": "Secret Rare",
+      "cardNum": "149/147"
+    },
+    {
+      "name": "Zapdos",
+      "set": "Platinum - Supreme Victors",
+      "img": "https://den-cards.pokellector.com/40/Zapdos.SV.150.png",
+      "rarity": "Secret Rare",
+      "cardNum": "150/147"
+    },
+    {
+      "name": "Milotic",
+      "set": "Platinum - Supreme Victors",
+      "img": "https://den-cards.pokellector.com/40/Milotic.SV.SH7.2975.png",
+      "rarity": "Secret Rare",
+      "cardNum": "SH7"
+    },
+    {
+      "name": "Relicanth",
+      "set": "Platinum - Supreme Victors",
+      "img": "https://den-cards.pokellector.com/40/Relicanth.SV.8.png",
+      "rarity": "Secret Rare",
+      "cardNum": "SH8"
+    },
+    {
+      "name": "Yanma",
+      "set": "Platinum - Supreme Victors",
+      "img": "https://den-cards.pokellector.com/40/Yanma.SV.9.png",
+      "rarity": "Secret Rare",
+      "cardNum": "SH9"
+    }
+  ]
+}

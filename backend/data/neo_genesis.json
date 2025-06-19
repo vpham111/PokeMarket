@@ -1,0 +1,782 @@
+{
+  "setName": "Neo Genesis",
+  "cards": [
+    {
+      "name": "Ampharos",
+      "set": "Neo Genesis",
+      "img": "https://den-cards.pokellector.com/113/Ampharos.N1.1.png",
+      "rarity": "Rare",
+      "cardNum": "1/111"
+    },
+    {
+      "name": "Azumarill",
+      "set": "Neo Genesis",
+      "img": "https://den-cards.pokellector.com/113/Azumarill.N1.2.png",
+      "rarity": "Rare",
+      "cardNum": "2/111"
+    },
+    {
+      "name": "Bellossom",
+      "set": "Neo Genesis",
+      "img": "https://den-cards.pokellector.com/113/Bellossom.N1.3.png",
+      "rarity": "Rare",
+      "cardNum": "3/111"
+    },
+    {
+      "name": "Feraligatr lv 56",
+      "set": "Neo Genesis",
+      "img": "https://den-cards.pokellector.com/113/Feraligatr-lv-56.N1.4.png",
+      "rarity": "Rare",
+      "cardNum": "4/111"
+    },
+    {
+      "name": "Feraligatr lv 69",
+      "set": "Neo Genesis",
+      "img": "https://den-cards.pokellector.com/113/Feraligatr-lv-69.N1.5.png",
+      "rarity": "Rare",
+      "cardNum": "5/111"
+    },
+    {
+      "name": "Heracross",
+      "set": "Neo Genesis",
+      "img": "https://den-cards.pokellector.com/113/Heracross.N1.6.png",
+      "rarity": "Rare",
+      "cardNum": "6/111"
+    },
+    {
+      "name": "Jumpluff",
+      "set": "Neo Genesis",
+      "img": "https://den-cards.pokellector.com/113/Jumpluff.N1.7.png",
+      "rarity": "Rare",
+      "cardNum": "7/111"
+    },
+    {
+      "name": "Kingdra",
+      "set": "Neo Genesis",
+      "img": "https://den-cards.pokellector.com/113/Kingdra.N1.8.png",
+      "rarity": "Rare",
+      "cardNum": "8/111"
+    },
+    {
+      "name": "Lugia",
+      "set": "Neo Genesis",
+      "img": "https://den-cards.pokellector.com/113/Lugia.N1.9.png",
+      "rarity": "Rare",
+      "cardNum": "9/111"
+    },
+    {
+      "name": "Meganium lv 54",
+      "set": "Neo Genesis",
+      "img": "https://den-cards.pokellector.com/113/Meganium-lv-54.N1.10.png",
+      "rarity": "Rare",
+      "cardNum": "10/111"
+    },
+    {
+      "name": "Meganium lv 57",
+      "set": "Neo Genesis",
+      "img": "https://den-cards.pokellector.com/113/Meganium-lv-57.N1.11.png",
+      "rarity": "Rare",
+      "cardNum": "11/111"
+    },
+    {
+      "name": "Pichu",
+      "set": "Neo Genesis",
+      "img": "https://den-cards.pokellector.com/113/Pichu.N1.12.7200.png",
+      "rarity": "Rare",
+      "cardNum": "12/111"
+    },
+    {
+      "name": "Skarmory",
+      "set": "Neo Genesis",
+      "img": "https://den-cards.pokellector.com/113/Skarmory.N1.13.png",
+      "rarity": "Rare",
+      "cardNum": "13/111"
+    },
+    {
+      "name": "Slowking",
+      "set": "Neo Genesis",
+      "img": "https://den-cards.pokellector.com/113/Slowking.N1.14.png",
+      "rarity": "Rare",
+      "cardNum": "14/111"
+    },
+    {
+      "name": "Steelix",
+      "set": "Neo Genesis",
+      "img": "https://den-cards.pokellector.com/113/Steelix.N1.15.png",
+      "rarity": "Rare",
+      "cardNum": "15/111"
+    },
+    {
+      "name": "Togetic",
+      "set": "Neo Genesis",
+      "img": "https://den-cards.pokellector.com/113/Togetic.N1.16.png",
+      "rarity": "Rare",
+      "cardNum": "16/111"
+    },
+    {
+      "name": "Typhlosion lv 55",
+      "set": "Neo Genesis",
+      "img": "https://den-cards.pokellector.com/113/Typhlosion-lv-55.N1.17.png",
+      "rarity": "Rare",
+      "cardNum": "17/111"
+    },
+    {
+      "name": "Typhlosion lv 57",
+      "set": "Neo Genesis",
+      "img": "https://den-cards.pokellector.com/113/Typhlosion-lv-57.N1.18.png",
+      "rarity": "Rare",
+      "cardNum": "18/111"
+    },
+    {
+      "name": "Metal Energy",
+      "set": "Neo Genesis",
+      "img": "https://den-cards.pokellector.com/113/Metal-Energy.N1.19.png",
+      "rarity": "Rare",
+      "cardNum": "19/111"
+    },
+    {
+      "name": "Cleffa",
+      "set": "Neo Genesis",
+      "img": "https://den-cards.pokellector.com/113/Cleffa.N1.20.png",
+      "rarity": "Rare",
+      "cardNum": "20/111"
+    },
+    {
+      "name": "Donphan",
+      "set": "Neo Genesis",
+      "img": "https://den-cards.pokellector.com/113/Donphan.N1.21.png",
+      "rarity": "Rare",
+      "cardNum": "21/111"
+    },
+    {
+      "name": "Elekid",
+      "set": "Neo Genesis",
+      "img": "https://den-cards.pokellector.com/113/Elekid.N1.22.png",
+      "rarity": "Rare",
+      "cardNum": "22/111"
+    },
+    {
+      "name": "Magby",
+      "set": "Neo Genesis",
+      "img": "https://den-cards.pokellector.com/113/Magby.N1.23.png",
+      "rarity": "Rare",
+      "cardNum": "23/111"
+    },
+    {
+      "name": "Murkrow",
+      "set": "Neo Genesis",
+      "img": "https://den-cards.pokellector.com/113/Murkrow.N1.24.png",
+      "rarity": "Rare",
+      "cardNum": "24/111"
+    },
+    {
+      "name": "Sneasel",
+      "set": "Neo Genesis",
+      "img": "https://den-cards.pokellector.com/113/Sneasel.N1.25.png",
+      "rarity": "Rare",
+      "cardNum": "25/111"
+    },
+    {
+      "name": "Aipom",
+      "set": "Neo Genesis",
+      "img": "https://den-cards.pokellector.com/113/Aipom.N1.26.7214.png",
+      "rarity": "Uncommon",
+      "cardNum": "26/111"
+    },
+    {
+      "name": "Ariados",
+      "set": "Neo Genesis",
+      "img": "https://den-cards.pokellector.com/113/Ariados.N1.27.png",
+      "rarity": "Uncommon",
+      "cardNum": "27/111"
+    },
+    {
+      "name": "Bayleef lv 22",
+      "set": "Neo Genesis",
+      "img": "https://den-cards.pokellector.com/113/Bayleef-lv-22.N1.28.png",
+      "rarity": "Uncommon",
+      "cardNum": "28/111"
+    },
+    {
+      "name": "Bayleef lv 39",
+      "set": "Neo Genesis",
+      "img": "https://den-cards.pokellector.com/113/Bayleef-lv-39.N1.29.png",
+      "rarity": "Uncommon",
+      "cardNum": "29/111"
+    },
+    {
+      "name": "Clefairy",
+      "set": "Neo Genesis",
+      "img": "https://den-cards.pokellector.com/113/Clefairy.N1.30.png",
+      "rarity": "Uncommon",
+      "cardNum": "30/111"
+    },
+    {
+      "name": "Croconaw lv 34",
+      "set": "Neo Genesis",
+      "img": "https://den-cards.pokellector.com/113/Croconaw-lv-34.N1.31.png",
+      "rarity": "Uncommon",
+      "cardNum": "31/111"
+    },
+    {
+      "name": "Croconaw lv 41",
+      "set": "Neo Genesis",
+      "img": "https://den-cards.pokellector.com/113/Croconaw-lv-41.N1.32.png",
+      "rarity": "Uncommon",
+      "cardNum": "32/111"
+    },
+    {
+      "name": "Electabuzz",
+      "set": "Neo Genesis",
+      "img": "https://den-cards.pokellector.com/113/Electabuzz.N1.33.png",
+      "rarity": "Uncommon",
+      "cardNum": "33/111"
+    },
+    {
+      "name": "Flaaffy",
+      "set": "Neo Genesis",
+      "img": "https://den-cards.pokellector.com/113/Flaaffy.N1.34.png",
+      "rarity": "Uncommon",
+      "cardNum": "34/111"
+    },
+    {
+      "name": "Furret",
+      "set": "Neo Genesis",
+      "img": "https://den-cards.pokellector.com/113/Furret.N1.35.png",
+      "rarity": "Uncommon",
+      "cardNum": "35/111"
+    },
+    {
+      "name": "Gloom",
+      "set": "Neo Genesis",
+      "img": "https://den-cards.pokellector.com/113/Gloom.N1.36.png",
+      "rarity": "Uncommon",
+      "cardNum": "36/111"
+    },
+    {
+      "name": "Granbull",
+      "set": "Neo Genesis",
+      "img": "https://den-cards.pokellector.com/113/Granbull.N1.37.png",
+      "rarity": "Uncommon",
+      "cardNum": "37/111"
+    },
+    {
+      "name": "Lanturn",
+      "set": "Neo Genesis",
+      "img": "https://den-cards.pokellector.com/113/Lanturn.N1.38.png",
+      "rarity": "Uncommon",
+      "cardNum": "38/111"
+    },
+    {
+      "name": "Ledian",
+      "set": "Neo Genesis",
+      "img": "https://den-cards.pokellector.com/113/Ledian.N1.39.png",
+      "rarity": "Uncommon",
+      "cardNum": "39/111"
+    },
+    {
+      "name": "Magmar",
+      "set": "Neo Genesis",
+      "img": "https://den-cards.pokellector.com/113/Magmar.N1.40.png",
+      "rarity": "Uncommon",
+      "cardNum": "40/111"
+    },
+    {
+      "name": "Miltank",
+      "set": "Neo Genesis",
+      "img": "https://den-cards.pokellector.com/113/Miltank.N1.41.png",
+      "rarity": "Uncommon",
+      "cardNum": "41/111"
+    },
+    {
+      "name": "Noctowl",
+      "set": "Neo Genesis",
+      "img": "https://den-cards.pokellector.com/113/Noctowl.N1.42.png",
+      "rarity": "Uncommon",
+      "cardNum": "42/111"
+    },
+    {
+      "name": "Phanpy",
+      "set": "Neo Genesis",
+      "img": "https://den-cards.pokellector.com/113/Phanpy.N1.43.png",
+      "rarity": "Uncommon",
+      "cardNum": "43/111"
+    },
+    {
+      "name": "Piloswine",
+      "set": "Neo Genesis",
+      "img": "https://den-cards.pokellector.com/113/Piloswine.N1.44.png",
+      "rarity": "Uncommon",
+      "cardNum": "44/111"
+    },
+    {
+      "name": "Quagsire",
+      "set": "Neo Genesis",
+      "img": "https://den-cards.pokellector.com/113/Quagsire.N1.45.png",
+      "rarity": "Uncommon",
+      "cardNum": "45/111"
+    },
+    {
+      "name": "Quilava lv 28",
+      "set": "Neo Genesis",
+      "img": "https://den-cards.pokellector.com/113/Quilava-lv-28.N1.46.png",
+      "rarity": "Uncommon",
+      "cardNum": "46/111"
+    },
+    {
+      "name": "Quilava lv 35",
+      "set": "Neo Genesis",
+      "img": "https://den-cards.pokellector.com/113/Quilava-lv-35.N1.47.png",
+      "rarity": "Uncommon",
+      "cardNum": "47/111"
+    },
+    {
+      "name": "Seadra",
+      "set": "Neo Genesis",
+      "img": "https://den-cards.pokellector.com/113/Seadra.N1.48.png",
+      "rarity": "Uncommon",
+      "cardNum": "48/111"
+    },
+    {
+      "name": "Skiploom",
+      "set": "Neo Genesis",
+      "img": "https://den-cards.pokellector.com/113/Skiploom.N1.49.png",
+      "rarity": "Uncommon",
+      "cardNum": "49/111"
+    },
+    {
+      "name": "Sunflora",
+      "set": "Neo Genesis",
+      "img": "https://den-cards.pokellector.com/113/Sunflora.N1.50.png",
+      "rarity": "Uncommon",
+      "cardNum": "50/111"
+    },
+    {
+      "name": "Togepi",
+      "set": "Neo Genesis",
+      "img": "https://den-cards.pokellector.com/113/Togepi.N1.51.png",
+      "rarity": "Uncommon",
+      "cardNum": "51/111"
+    },
+    {
+      "name": "Xatu",
+      "set": "Neo Genesis",
+      "img": "https://den-cards.pokellector.com/113/Xatu.N1.52.png",
+      "rarity": "Uncommon",
+      "cardNum": "52/111"
+    },
+    {
+      "name": "Chikorita lv 12",
+      "set": "Neo Genesis",
+      "img": "https://den-cards.pokellector.com/113/Chikorita-lv-12.N1.53.png",
+      "rarity": "Common",
+      "cardNum": "53/111"
+    },
+    {
+      "name": "Chikorita lv 19",
+      "set": "Neo Genesis",
+      "img": "https://den-cards.pokellector.com/113/Chikorita-lv-19.N1.54.png",
+      "rarity": "Common",
+      "cardNum": "54/111"
+    },
+    {
+      "name": "Chinchou",
+      "set": "Neo Genesis",
+      "img": "https://den-cards.pokellector.com/113/Chinchou.N1.55.png",
+      "rarity": "Common",
+      "cardNum": "55/111"
+    },
+    {
+      "name": "Cyndaquil lv 14",
+      "set": "Neo Genesis",
+      "img": "https://den-cards.pokellector.com/113/Cyndaquil-lv-14.N1.56.png",
+      "rarity": "Common",
+      "cardNum": "56/111"
+    },
+    {
+      "name": "Cyndaquil lv 21",
+      "set": "Neo Genesis",
+      "img": "https://den-cards.pokellector.com/113/Cyndaquil-lv-21.N1.57.png",
+      "rarity": "Common",
+      "cardNum": "57/111"
+    },
+    {
+      "name": "Girafarig",
+      "set": "Neo Genesis",
+      "img": "https://den-cards.pokellector.com/113/Girafarig.N1.58.png",
+      "rarity": "Common",
+      "cardNum": "58/111"
+    },
+    {
+      "name": "Gligar",
+      "set": "Neo Genesis",
+      "img": "https://den-cards.pokellector.com/113/Gligar.N1.59.png",
+      "rarity": "Common",
+      "cardNum": "59/111"
+    },
+    {
+      "name": "Hoothoot",
+      "set": "Neo Genesis",
+      "img": "https://den-cards.pokellector.com/113/Hoothoot.N1.60.png",
+      "rarity": "Common",
+      "cardNum": "60/111"
+    },
+    {
+      "name": "Hoppip",
+      "set": "Neo Genesis",
+      "img": "https://den-cards.pokellector.com/113/Hoppip.N1.61.7249.png",
+      "rarity": "Common",
+      "cardNum": "61/111"
+    },
+    {
+      "name": "Horsea",
+      "set": "Neo Genesis",
+      "img": "https://den-cards.pokellector.com/113/Horsea.N1.62.png",
+      "rarity": "Common",
+      "cardNum": "62/111"
+    },
+    {
+      "name": "Ledyba",
+      "set": "Neo Genesis",
+      "img": "https://den-cards.pokellector.com/113/Ledyba.N1.63.png",
+      "rarity": "Common",
+      "cardNum": "63/111"
+    },
+    {
+      "name": "Mantine",
+      "set": "Neo Genesis",
+      "img": "https://den-cards.pokellector.com/113/Mantine.N1.64.png",
+      "rarity": "Common",
+      "cardNum": "64/111"
+    },
+    {
+      "name": "Mareep",
+      "set": "Neo Genesis",
+      "img": "https://den-cards.pokellector.com/113/Mareep.N1.65.png",
+      "rarity": "Common",
+      "cardNum": "65/111"
+    },
+    {
+      "name": "Marill",
+      "set": "Neo Genesis",
+      "img": "https://den-cards.pokellector.com/113/Marill.N1.66.png",
+      "rarity": "Common",
+      "cardNum": "66/111"
+    },
+    {
+      "name": "Natu",
+      "set": "Neo Genesis",
+      "img": "https://den-cards.pokellector.com/113/Natu.N1.67.png",
+      "rarity": "Common",
+      "cardNum": "67/111"
+    },
+    {
+      "name": "Oddish",
+      "set": "Neo Genesis",
+      "img": "https://den-cards.pokellector.com/113/Oddish.N1.68.png",
+      "rarity": "Common",
+      "cardNum": "68/111"
+    },
+    {
+      "name": "Onix",
+      "set": "Neo Genesis",
+      "img": "https://den-cards.pokellector.com/113/Onix.N1.69.png",
+      "rarity": "Common",
+      "cardNum": "69/111"
+    },
+    {
+      "name": "Pikachu",
+      "set": "Neo Genesis",
+      "img": "https://den-cards.pokellector.com/113/Pikachu.N1.70.png",
+      "rarity": "Common",
+      "cardNum": "70/111"
+    },
+    {
+      "name": "Sentret",
+      "set": "Neo Genesis",
+      "img": "https://den-cards.pokellector.com/113/Sentret.N1.71.png",
+      "rarity": "Common",
+      "cardNum": "71/111"
+    },
+    {
+      "name": "Shuckle",
+      "set": "Neo Genesis",
+      "img": "https://den-cards.pokellector.com/113/Shuckle.N1.72.png",
+      "rarity": "Common",
+      "cardNum": "72/111"
+    },
+    {
+      "name": "Slowpoke",
+      "set": "Neo Genesis",
+      "img": "https://den-cards.pokellector.com/113/Slowpoke.N1.73.png",
+      "rarity": "Common",
+      "cardNum": "73/111"
+    },
+    {
+      "name": "Snubbull",
+      "set": "Neo Genesis",
+      "img": "https://den-cards.pokellector.com/113/Snubbull.N1.74.png",
+      "rarity": "Common",
+      "cardNum": "74/111"
+    },
+    {
+      "name": "Spinarak",
+      "set": "Neo Genesis",
+      "img": "https://den-cards.pokellector.com/113/Spinarak.N1.75.png",
+      "rarity": "Common",
+      "cardNum": "75/111"
+    },
+    {
+      "name": "Stantler",
+      "set": "Neo Genesis",
+      "img": "https://den-cards.pokellector.com/113/Stantler.N1.76.png",
+      "rarity": "Common",
+      "cardNum": "76/111"
+    },
+    {
+      "name": "Sudowoodo",
+      "set": "Neo Genesis",
+      "img": "https://den-cards.pokellector.com/113/Sudowoodo.N1.77.png",
+      "rarity": "Common",
+      "cardNum": "77/111"
+    },
+    {
+      "name": "Sunkern",
+      "set": "Neo Genesis",
+      "img": "https://den-cards.pokellector.com/113/Sunkern.N1.78.png",
+      "rarity": "Common",
+      "cardNum": "78/111"
+    },
+    {
+      "name": "Swinub",
+      "set": "Neo Genesis",
+      "img": "https://den-cards.pokellector.com/113/Swinub.N1.79.png",
+      "rarity": "Common",
+      "cardNum": "79/111"
+    },
+    {
+      "name": "Totodile lv 13",
+      "set": "Neo Genesis",
+      "img": "https://den-cards.pokellector.com/113/Totodile-lv-13.N1.80.png",
+      "rarity": "Common",
+      "cardNum": "80/111"
+    },
+    {
+      "name": "Totodile lv 20",
+      "set": "Neo Genesis",
+      "img": "https://den-cards.pokellector.com/113/Totodile-lv-20.N1.81.png",
+      "rarity": "Common",
+      "cardNum": "81/111"
+    },
+    {
+      "name": "Wooper",
+      "set": "Neo Genesis",
+      "img": "https://den-cards.pokellector.com/113/Wooper.N1.82.png",
+      "rarity": "Common",
+      "cardNum": "82/111"
+    },
+    {
+      "name": "Arcade Game",
+      "set": "Neo Genesis",
+      "img": "https://den-cards.pokellector.com/113/Arcade-Game.N1.83.png",
+      "rarity": "Rare",
+      "cardNum": "83/111"
+    },
+    {
+      "name": "Ecogym",
+      "set": "Neo Genesis",
+      "img": "https://den-cards.pokellector.com/113/Ecogym.N1.84.png",
+      "rarity": "Rare",
+      "cardNum": "84/111"
+    },
+    {
+      "name": "Energy Charge",
+      "set": "Neo Genesis",
+      "img": "https://den-cards.pokellector.com/113/Energy-Charge.N1.85.png",
+      "rarity": "Rare",
+      "cardNum": "85/111"
+    },
+    {
+      "name": "Focus Band",
+      "set": "Neo Genesis",
+      "img": "https://den-cards.pokellector.com/113/Focus-Band.N1.86.png",
+      "rarity": "Rare",
+      "cardNum": "86/111"
+    },
+    {
+      "name": "Mary",
+      "set": "Neo Genesis",
+      "img": "https://den-cards.pokellector.com/113/Mary.N1.87.png",
+      "rarity": "Rare",
+      "cardNum": "87/111"
+    },
+    {
+      "name": "Pokegear",
+      "set": "Neo Genesis",
+      "img": "https://den-cards.pokellector.com/113/Pokegear.N1.88.png",
+      "rarity": "Rare",
+      "cardNum": "88/111"
+    },
+    {
+      "name": "Super Energy Retrieval",
+      "set": "Neo Genesis",
+      "img": "https://den-cards.pokellector.com/113/Super-Energy-Retrieval.N1.89.png",
+      "rarity": "Rare",
+      "cardNum": "89/111"
+    },
+    {
+      "name": "Time Capsule",
+      "set": "Neo Genesis",
+      "img": "https://den-cards.pokellector.com/113/Time-Capsule.N1.90.png",
+      "rarity": "Rare",
+      "cardNum": "90/111"
+    },
+    {
+      "name": "Bill's Teleporter",
+      "set": "Neo Genesis",
+      "img": "https://den-cards.pokellector.com/113/Bills-Teleporter.N1.91.png",
+      "rarity": "Uncommon",
+      "cardNum": "91/111"
+    },
+    {
+      "name": "Card-Flip Game",
+      "set": "Neo Genesis",
+      "img": "https://den-cards.pokellector.com/113/Card-Flip-Game.N1.92.png",
+      "rarity": "Uncommon",
+      "cardNum": "92/111"
+    },
+    {
+      "name": "Gold Berry",
+      "set": "Neo Genesis",
+      "img": "https://den-cards.pokellector.com/113/Gold-Berry.N1.93.png",
+      "rarity": "Uncommon",
+      "cardNum": "93/111"
+    },
+    {
+      "name": "Miracle Berry",
+      "set": "Neo Genesis",
+      "img": "https://den-cards.pokellector.com/113/Miracle-Berry.N1.94.png",
+      "rarity": "Uncommon",
+      "cardNum": "94/111"
+    },
+    {
+      "name": "New Pokedex",
+      "set": "Neo Genesis",
+      "img": "https://den-cards.pokellector.com/113/New-Pokedex.N1.95.7283.png",
+      "rarity": "Uncommon",
+      "cardNum": "95/111"
+    },
+    {
+      "name": "Professor Elm",
+      "set": "Neo Genesis",
+      "img": "https://den-cards.pokellector.com/113/Professor-Elm.N1.96.png",
+      "rarity": "Uncommon",
+      "cardNum": "96/111"
+    },
+    {
+      "name": "Sprout Tower",
+      "set": "Neo Genesis",
+      "img": "https://den-cards.pokellector.com/113/Sprout-Tower.N1.97.png",
+      "rarity": "Uncommon",
+      "cardNum": "97/111"
+    },
+    {
+      "name": "Super Scoop Up",
+      "set": "Neo Genesis",
+      "img": "https://den-cards.pokellector.com/113/Super-Scoop-Up.N1.98.png",
+      "rarity": "Uncommon",
+      "cardNum": "98/111"
+    },
+    {
+      "name": "Berry",
+      "set": "Neo Genesis",
+      "img": "https://den-cards.pokellector.com/113/Berry.N1.99.png",
+      "rarity": "Uncommon",
+      "cardNum": "99/111"
+    },
+    {
+      "name": "Double Gust",
+      "set": "Neo Genesis",
+      "img": "https://den-cards.pokellector.com/113/Double-Gust.N1.100.png",
+      "rarity": "Uncommon",
+      "cardNum": "100/111"
+    },
+    {
+      "name": "Moo-Moo Milk",
+      "set": "Neo Genesis",
+      "img": "https://den-cards.pokellector.com/113/Moo-Moo-Milk.N1.101.png",
+      "rarity": "Uncommon",
+      "cardNum": "101/111"
+    },
+    {
+      "name": "Pokemon March",
+      "set": "Neo Genesis",
+      "img": "https://den-cards.pokellector.com/113/Pokemon-March.N1.102.png",
+      "rarity": "Uncommon",
+      "cardNum": "102/111"
+    },
+    {
+      "name": "Super Rod",
+      "set": "Neo Genesis",
+      "img": "https://den-cards.pokellector.com/113/Super-Rod.N1.103.png",
+      "rarity": "Uncommon",
+      "cardNum": "103/111"
+    },
+    {
+      "name": "Darkness Energy",
+      "set": "Neo Genesis",
+      "img": "https://den-cards.pokellector.com/113/Darkness-Energy.N1.104.png",
+      "rarity": "Rare",
+      "cardNum": "104/111"
+    },
+    {
+      "name": "Recycle Energy",
+      "set": "Neo Genesis",
+      "img": "https://den-cards.pokellector.com/113/Recycle-Energy.N1.105.png",
+      "rarity": "Rare",
+      "cardNum": "105/111"
+    },
+    {
+      "name": "Fighting Energy",
+      "set": "Neo Genesis",
+      "img": "https://den-cards.pokellector.com/113/Fighting-Energy.N1.106.png",
+      "rarity": "Common",
+      "cardNum": "106/111"
+    },
+    {
+      "name": "Fire Energy",
+      "set": "Neo Genesis",
+      "img": "https://den-cards.pokellector.com/113/Fire-Energy.N1.107.png",
+      "rarity": "Common",
+      "cardNum": "107/111"
+    },
+    {
+      "name": "Grass Energy",
+      "set": "Neo Genesis",
+      "img": "https://den-cards.pokellector.com/113/Grass-Energy.N1.108.png",
+      "rarity": "Common",
+      "cardNum": "108/111"
+    },
+    {
+      "name": "Lightning Energy",
+      "set": "Neo Genesis",
+      "img": "https://den-cards.pokellector.com/113/Lightning-Energy.N1.109.png",
+      "rarity": "Common",
+      "cardNum": "109/111"
+    },
+    {
+      "name": "Psychic Energy",
+      "set": "Neo Genesis",
+      "img": "https://den-cards.pokellector.com/113/Psychic-Energy.N1.110.png",
+      "rarity": "Common",
+      "cardNum": "110/111"
+    },
+    {
+      "name": "Water Energy",
+      "set": "Neo Genesis",
+      "img": "https://den-cards.pokellector.com/113/Water-Energy.N1.111.png",
+      "rarity": "Common",
+      "cardNum": "111/111"
+    }
+  ]
+}

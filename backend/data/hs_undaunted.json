@@ -1,0 +1,642 @@
+{
+  "setName": "HS Undaunted",
+  "cards": [
+    {
+      "name": "Bellossom",
+      "set": "HS Undaunted",
+      "img": "https://den-cards.pokellector.com/36/Bellossom.UD.1.png",
+      "rarity": "Rare",
+      "cardNum": "1/90"
+    },
+    {
+      "name": "Espeon",
+      "set": "HS Undaunted",
+      "img": "https://den-cards.pokellector.com/36/Espeon.UD.2.png",
+      "rarity": "Rare",
+      "cardNum": "2/90"
+    },
+    {
+      "name": "Forretress",
+      "set": "HS Undaunted",
+      "img": "https://den-cards.pokellector.com/36/Forretress.UD.3.png",
+      "rarity": "Rare",
+      "cardNum": "3/90"
+    },
+    {
+      "name": "Gliscor",
+      "set": "HS Undaunted",
+      "img": "https://den-cards.pokellector.com/36/Gliscor.UD.4.png",
+      "rarity": "Rare",
+      "cardNum": "4/90"
+    },
+    {
+      "name": "Houndoom",
+      "set": "HS Undaunted",
+      "img": "https://den-cards.pokellector.com/36/Houndoom.UD.5.png",
+      "rarity": "Rare",
+      "cardNum": "5/90"
+    },
+    {
+      "name": "Magcargo",
+      "set": "HS Undaunted",
+      "img": "https://den-cards.pokellector.com/36/Magcargo.UD.6.png",
+      "rarity": "Rare",
+      "cardNum": "6/90"
+    },
+    {
+      "name": "Scizor",
+      "set": "HS Undaunted",
+      "img": "https://den-cards.pokellector.com/36/Scizor.UD.7.png",
+      "rarity": "Rare",
+      "cardNum": "7/90"
+    },
+    {
+      "name": "Smeargle",
+      "set": "HS Undaunted",
+      "img": "https://den-cards.pokellector.com/36/Smeargle.UD.8.png",
+      "rarity": "Rare",
+      "cardNum": "8/90"
+    },
+    {
+      "name": "Togekiss",
+      "set": "HS Undaunted",
+      "img": "https://den-cards.pokellector.com/36/Togekiss.UD.9.png",
+      "rarity": "Rare",
+      "cardNum": "9/90"
+    },
+    {
+      "name": "Umbreon",
+      "set": "HS Undaunted",
+      "img": "https://den-cards.pokellector.com/36/Umbreon.UD.10.png",
+      "rarity": "Rare",
+      "cardNum": "10/90"
+    },
+    {
+      "name": "Dodrio",
+      "set": "HS Undaunted",
+      "img": "https://den-cards.pokellector.com/36/Dodrio.UD.11.png",
+      "rarity": "Rare",
+      "cardNum": "11/90"
+    },
+    {
+      "name": "Drifblim",
+      "set": "HS Undaunted",
+      "img": "https://den-cards.pokellector.com/36/Drifblim.UD.12.png",
+      "rarity": "Rare",
+      "cardNum": "12/90"
+    },
+    {
+      "name": "Forretress",
+      "set": "HS Undaunted",
+      "img": "https://den-cards.pokellector.com/36/Forretress.UD.13.png",
+      "rarity": "Rare",
+      "cardNum": "13/90"
+    },
+    {
+      "name": "Hariyama",
+      "set": "HS Undaunted",
+      "img": "https://den-cards.pokellector.com/36/Hariyama.UD.14.png",
+      "rarity": "Rare",
+      "cardNum": "14/90"
+    },
+    {
+      "name": "Honchkrow",
+      "set": "HS Undaunted",
+      "img": "https://den-cards.pokellector.com/36/Honchkrow.UD.15.png",
+      "rarity": "Rare",
+      "cardNum": "15/90"
+    },
+    {
+      "name": "Honchkrow",
+      "set": "HS Undaunted",
+      "img": "https://den-cards.pokellector.com/36/Honchkrow.UD.16.png",
+      "rarity": "Rare",
+      "cardNum": "16/90"
+    },
+    {
+      "name": "Leafeon",
+      "set": "HS Undaunted",
+      "img": "https://den-cards.pokellector.com/36/Leafeon.UD.17.png",
+      "rarity": "Rare",
+      "cardNum": "17/90"
+    },
+    {
+      "name": "Metagross",
+      "set": "HS Undaunted",
+      "img": "https://den-cards.pokellector.com/36/Metagross.UD.18.png",
+      "rarity": "Rare",
+      "cardNum": "18/90"
+    },
+    {
+      "name": "Mismagius",
+      "set": "HS Undaunted",
+      "img": "https://den-cards.pokellector.com/36/Mismagius.UD.19.png",
+      "rarity": "Rare",
+      "cardNum": "19/90"
+    },
+    {
+      "name": "Rotom",
+      "set": "HS Undaunted",
+      "img": "https://den-cards.pokellector.com/36/Rotom.UD.20.png",
+      "rarity": "Rare",
+      "cardNum": "20/90"
+    },
+    {
+      "name": "Skarmory",
+      "set": "HS Undaunted",
+      "img": "https://den-cards.pokellector.com/36/Skarmory.UD.21.png",
+      "rarity": "Rare",
+      "cardNum": "21/90"
+    },
+    {
+      "name": "Tropius",
+      "set": "HS Undaunted",
+      "img": "https://den-cards.pokellector.com/36/Tropius.UD.22.png",
+      "rarity": "Rare",
+      "cardNum": "22/90"
+    },
+    {
+      "name": "Vespiquen",
+      "set": "HS Undaunted",
+      "img": "https://den-cards.pokellector.com/36/Vespiquen.UD.23.png",
+      "rarity": "Rare",
+      "cardNum": "23/90"
+    },
+    {
+      "name": "Vileplume",
+      "set": "HS Undaunted",
+      "img": "https://den-cards.pokellector.com/36/Vileplume.UD.24.png",
+      "rarity": "Rare",
+      "cardNum": "24/90"
+    },
+    {
+      "name": "Weavile",
+      "set": "HS Undaunted",
+      "img": "https://den-cards.pokellector.com/36/Weavile.UD.25.png",
+      "rarity": "Rare",
+      "cardNum": "25/90"
+    },
+    {
+      "name": "Flareon",
+      "set": "HS Undaunted",
+      "img": "https://den-cards.pokellector.com/36/Flareon.UD.26.png",
+      "rarity": "Uncommon",
+      "cardNum": "26/90"
+    },
+    {
+      "name": "Gloom",
+      "set": "HS Undaunted",
+      "img": "https://den-cards.pokellector.com/36/Gloom.UD.27.png",
+      "rarity": "Uncommon",
+      "cardNum": "27/90"
+    },
+    {
+      "name": "Jolteon",
+      "set": "HS Undaunted",
+      "img": "https://den-cards.pokellector.com/36/Jolteon.UD.28.png",
+      "rarity": "Uncommon",
+      "cardNum": "28/90"
+    },
+    {
+      "name": "Lairon",
+      "set": "HS Undaunted",
+      "img": "https://den-cards.pokellector.com/36/Lairon.UD.29.png",
+      "rarity": "Uncommon",
+      "cardNum": "29/90"
+    },
+    {
+      "name": "Metang",
+      "set": "HS Undaunted",
+      "img": "https://den-cards.pokellector.com/36/Metang.UD.30.png",
+      "rarity": "Uncommon",
+      "cardNum": "30/90"
+    },
+    {
+      "name": "Muk",
+      "set": "HS Undaunted",
+      "img": "https://den-cards.pokellector.com/36/Muk.UD.31.png",
+      "rarity": "Uncommon",
+      "cardNum": "31/90"
+    },
+    {
+      "name": "Pinsir",
+      "set": "HS Undaunted",
+      "img": "https://den-cards.pokellector.com/36/Pinsir.UD.32.png",
+      "rarity": "Uncommon",
+      "cardNum": "32/90"
+    },
+    {
+      "name": "Raichu",
+      "set": "HS Undaunted",
+      "img": "https://den-cards.pokellector.com/36/Raichu.UD.33.png",
+      "rarity": "Uncommon",
+      "cardNum": "33/90"
+    },
+    {
+      "name": "Raticate",
+      "set": "HS Undaunted",
+      "img": "https://den-cards.pokellector.com/36/Raticate.UD.34.png",
+      "rarity": "Uncommon",
+      "cardNum": "34/90"
+    },
+    {
+      "name": "Sableye",
+      "set": "HS Undaunted",
+      "img": "https://den-cards.pokellector.com/36/Sableye.UD.35.png",
+      "rarity": "Uncommon",
+      "cardNum": "35/90"
+    },
+    {
+      "name": "Scyther",
+      "set": "HS Undaunted",
+      "img": "https://den-cards.pokellector.com/36/Scyther.UD.36.png",
+      "rarity": "Uncommon",
+      "cardNum": "36/90"
+    },
+    {
+      "name": "Skuntank",
+      "set": "HS Undaunted",
+      "img": "https://den-cards.pokellector.com/36/Skuntank.UD.37.png",
+      "rarity": "Uncommon",
+      "cardNum": "37/90"
+    },
+    {
+      "name": "Slowbro",
+      "set": "HS Undaunted",
+      "img": "https://den-cards.pokellector.com/36/Slowbro.UD.38.png",
+      "rarity": "Uncommon",
+      "cardNum": "38/90"
+    },
+    {
+      "name": "Togetic",
+      "set": "HS Undaunted",
+      "img": "https://den-cards.pokellector.com/36/Togetic.UD.39.png",
+      "rarity": "Uncommon",
+      "cardNum": "39/90"
+    },
+    {
+      "name": "Unown",
+      "set": "HS Undaunted",
+      "img": "https://den-cards.pokellector.com/36/Unown.UD.40.png",
+      "rarity": "Uncommon",
+      "cardNum": "40/90"
+    },
+    {
+      "name": "Vaporeon",
+      "set": "HS Undaunted",
+      "img": "https://den-cards.pokellector.com/36/Vaporeon.UD.41.png",
+      "rarity": "Uncommon",
+      "cardNum": "41/90"
+    },
+    {
+      "name": "Aron",
+      "set": "HS Undaunted",
+      "img": "https://den-cards.pokellector.com/36/Aron.UD.42.png",
+      "rarity": "Common",
+      "cardNum": "42/90"
+    },
+    {
+      "name": "Beldum",
+      "set": "HS Undaunted",
+      "img": "https://den-cards.pokellector.com/36/Beldum.UD.43.png",
+      "rarity": "Common",
+      "cardNum": "43/90"
+    },
+    {
+      "name": "Combee",
+      "set": "HS Undaunted",
+      "img": "https://den-cards.pokellector.com/36/Combee.UD.44.png",
+      "rarity": "Common",
+      "cardNum": "44/90"
+    },
+    {
+      "name": "Doduo",
+      "set": "HS Undaunted",
+      "img": "https://den-cards.pokellector.com/36/Doduo.UD.45.png",
+      "rarity": "Common",
+      "cardNum": "45/90"
+    },
+    {
+      "name": "Drifloon",
+      "set": "HS Undaunted",
+      "img": "https://den-cards.pokellector.com/36/Drifloon.UD.46.png",
+      "rarity": "Common",
+      "cardNum": "46/90"
+    },
+    {
+      "name": "Eevee",
+      "set": "HS Undaunted",
+      "img": "https://den-cards.pokellector.com/36/Eevee.UD.47.png",
+      "rarity": "Common",
+      "cardNum": "47/90"
+    },
+    {
+      "name": "Eevee",
+      "set": "HS Undaunted",
+      "img": "https://den-cards.pokellector.com/36/Eevee.UD.48.png",
+      "rarity": "Common",
+      "cardNum": "48/90"
+    },
+    {
+      "name": "Gligar",
+      "set": "HS Undaunted",
+      "img": "https://den-cards.pokellector.com/36/Gligar.UD.49.png",
+      "rarity": "Common",
+      "cardNum": "49/90"
+    },
+    {
+      "name": "Grimer",
+      "set": "HS Undaunted",
+      "img": "https://den-cards.pokellector.com/36/Grimer.UD.50.png",
+      "rarity": "Common",
+      "cardNum": "50/90"
+    },
+    {
+      "name": "Hitmonchan",
+      "set": "HS Undaunted",
+      "img": "https://den-cards.pokellector.com/36/Hitmonchan.UD.51.png",
+      "rarity": "Common",
+      "cardNum": "51/90"
+    },
+    {
+      "name": "Hitmonlee",
+      "set": "HS Undaunted",
+      "img": "https://den-cards.pokellector.com/36/Hitmonlee.UD.52.png",
+      "rarity": "Common",
+      "cardNum": "52/90"
+    },
+    {
+      "name": "Houndour",
+      "set": "HS Undaunted",
+      "img": "https://den-cards.pokellector.com/36/Houndour.UD.53.png",
+      "rarity": "Common",
+      "cardNum": "53/90"
+    },
+    {
+      "name": "Houndour",
+      "set": "HS Undaunted",
+      "img": "https://den-cards.pokellector.com/36/Houndour.UD.54.png",
+      "rarity": "Common",
+      "cardNum": "54/90"
+    },
+    {
+      "name": "Makuhita",
+      "set": "HS Undaunted",
+      "img": "https://den-cards.pokellector.com/36/Makuhita.UD.55.png",
+      "rarity": "Common",
+      "cardNum": "55/90"
+    },
+    {
+      "name": "Mawile",
+      "set": "HS Undaunted",
+      "img": "https://den-cards.pokellector.com/36/Mawile.UD.56.png",
+      "rarity": "Common",
+      "cardNum": "56/90"
+    },
+    {
+      "name": "Misdreavus",
+      "set": "HS Undaunted",
+      "img": "https://den-cards.pokellector.com/36/Misdreavus.UD.57.png",
+      "rarity": "Common",
+      "cardNum": "57/90"
+    },
+    {
+      "name": "Murkrow",
+      "set": "HS Undaunted",
+      "img": "https://den-cards.pokellector.com/36/Murkrow.UD.58.png",
+      "rarity": "Common",
+      "cardNum": "58/90"
+    },
+    {
+      "name": "Murkrow",
+      "set": "HS Undaunted",
+      "img": "https://den-cards.pokellector.com/36/Murkrow.UD.59.png",
+      "rarity": "Common",
+      "cardNum": "59/90"
+    },
+    {
+      "name": "Oddish",
+      "set": "HS Undaunted",
+      "img": "https://den-cards.pokellector.com/36/Oddish.UD.60.png",
+      "rarity": "Common",
+      "cardNum": "60/90"
+    },
+    {
+      "name": "Pikachu",
+      "set": "HS Undaunted",
+      "img": "https://den-cards.pokellector.com/36/Pikachu.UD.61.png",
+      "rarity": "Common",
+      "cardNum": "61/90"
+    },
+    {
+      "name": "Pineco",
+      "set": "HS Undaunted",
+      "img": "https://den-cards.pokellector.com/36/Pineco.UD.62.png",
+      "rarity": "Common",
+      "cardNum": "62/90"
+    },
+    {
+      "name": "Pineco",
+      "set": "HS Undaunted",
+      "img": "https://den-cards.pokellector.com/36/Pineco.UD.63.png",
+      "rarity": "Common",
+      "cardNum": "63/90"
+    },
+    {
+      "name": "Rattata",
+      "set": "HS Undaunted",
+      "img": "https://den-cards.pokellector.com/36/Rattata.UD.64.png",
+      "rarity": "Common",
+      "cardNum": "64/90"
+    },
+    {
+      "name": "Scyther",
+      "set": "HS Undaunted",
+      "img": "https://den-cards.pokellector.com/36/Scyther.UD.65.png",
+      "rarity": "Common",
+      "cardNum": "65/90"
+    },
+    {
+      "name": "Slowpoke",
+      "set": "HS Undaunted",
+      "img": "https://den-cards.pokellector.com/36/Slowpoke.UD.66.png",
+      "rarity": "Common",
+      "cardNum": "66/90"
+    },
+    {
+      "name": "Slugma",
+      "set": "HS Undaunted",
+      "img": "https://den-cards.pokellector.com/36/Slugma.UD.67.png",
+      "rarity": "Common",
+      "cardNum": "67/90"
+    },
+    {
+      "name": "Sneasel",
+      "set": "HS Undaunted",
+      "img": "https://den-cards.pokellector.com/36/Sneasel.UD.68.png",
+      "rarity": "Common",
+      "cardNum": "68/90"
+    },
+    {
+      "name": "Stunky",
+      "set": "HS Undaunted",
+      "img": "https://den-cards.pokellector.com/36/Stunky.UD.69.png",
+      "rarity": "Common",
+      "cardNum": "69/90"
+    },
+    {
+      "name": "Togepi",
+      "set": "HS Undaunted",
+      "img": "https://den-cards.pokellector.com/36/Togepi.UD.70.png",
+      "rarity": "Common",
+      "cardNum": "70/90"
+    },
+    {
+      "name": "Burned Tower",
+      "set": "HS Undaunted",
+      "img": "https://den-cards.pokellector.com/36/Burned-Tower.UD.71.png",
+      "rarity": "Uncommon",
+      "cardNum": "71/90"
+    },
+    {
+      "name": "Defender",
+      "set": "HS Undaunted",
+      "img": "https://den-cards.pokellector.com/36/Defender.UD.72.png",
+      "rarity": "Uncommon",
+      "cardNum": "72/90"
+    },
+    {
+      "name": "Energy Exchanger",
+      "set": "HS Undaunted",
+      "img": "https://den-cards.pokellector.com/36/Energy-Exchanger.UD.73.png",
+      "rarity": "Uncommon",
+      "cardNum": "73/90"
+    },
+    {
+      "name": "Flower Shop Lady",
+      "set": "HS Undaunted",
+      "img": "https://den-cards.pokellector.com/36/Flower-Shop-Lady.UD.74.png",
+      "rarity": "Uncommon",
+      "cardNum": "74/90"
+    },
+    {
+      "name": "Legend Box",
+      "set": "HS Undaunted",
+      "img": "https://den-cards.pokellector.com/36/Legend-Box.UD.75.png",
+      "rarity": "Uncommon",
+      "cardNum": "75/90"
+    },
+    {
+      "name": "Ruins of Alph",
+      "set": "HS Undaunted",
+      "img": "https://den-cards.pokellector.com/36/Ruins-of-Alph.UD.76.png",
+      "rarity": "Uncommon",
+      "cardNum": "76/90"
+    },
+    {
+      "name": "Sage's Training",
+      "set": "HS Undaunted",
+      "img": "https://den-cards.pokellector.com/36/Sages-Training.UD.77.png",
+      "rarity": "Uncommon",
+      "cardNum": "77/90"
+    },
+    {
+      "name": "Team Rocket's Trickery",
+      "set": "HS Undaunted",
+      "img": "https://den-cards.pokellector.com/36/Team-Rockets-Trickery.UD.78.png",
+      "rarity": "Uncommon",
+      "cardNum": "78/90"
+    },
+    {
+      "name": "Darkness Energy",
+      "set": "HS Undaunted",
+      "img": "https://den-cards.pokellector.com/36/Darkness-Energy.UD.79.png",
+      "rarity": "Uncommon",
+      "cardNum": "79/90"
+    },
+    {
+      "name": "Metal Energy",
+      "set": "HS Undaunted",
+      "img": "https://den-cards.pokellector.com/36/Metal-Energy.UD.80.png",
+      "rarity": "Uncommon",
+      "cardNum": "80/90"
+    },
+    {
+      "name": "Espeon",
+      "set": "HS Undaunted",
+      "img": "https://den-cards.pokellector.com/36/Espeon.UD.81.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "81/90"
+    },
+    {
+      "name": "Houndoom",
+      "set": "HS Undaunted",
+      "img": "https://den-cards.pokellector.com/36/Houndoom.UD.82.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "82/90"
+    },
+    {
+      "name": "Raichu",
+      "set": "HS Undaunted",
+      "img": "https://den-cards.pokellector.com/36/Raichu.UD.83.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "83/90"
+    },
+    {
+      "name": "Scizor",
+      "set": "HS Undaunted",
+      "img": "https://den-cards.pokellector.com/36/Scizor.UD.84.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "84/90"
+    },
+    {
+      "name": "Slowking",
+      "set": "HS Undaunted",
+      "img": "https://den-cards.pokellector.com/36/Slowking.UD.85.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "85/90"
+    },
+    {
+      "name": "Umbreon",
+      "set": "HS Undaunted",
+      "img": "https://den-cards.pokellector.com/36/Umbreon.UD.86.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "86/90"
+    },
+    {
+      "name": "Kyogre & Groudon LEGEND (top)",
+      "set": "HS Undaunted",
+      "img": "https://den-cards.pokellector.com/36/Kyogre-Groudon-LEGEND-top.UD.87.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "87/90"
+    },
+    {
+      "name": "Kyogre & Groudon LEGEND (bottom)",
+      "set": "HS Undaunted",
+      "img": "https://den-cards.pokellector.com/36/Kyogre-Groudon-LEGEND-bottom.UD.88.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "88/90"
+    },
+    {
+      "name": "Rayquaza & Deoxys LEGEND (top)",
+      "set": "HS Undaunted",
+      "img": "https://den-cards.pokellector.com/36/Rayquaza-Deoxys-LEGEND-top.UD.89.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "89/90"
+    },
+    {
+      "name": "Rayquaza & Deoxys LEGEND (botttom)",
+      "set": "HS Undaunted",
+      "img": "https://den-cards.pokellector.com/36/Rayquaza-Deoxys-LEGEND-botttom.UD.90.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "90/90"
+    },
+    {
+      "name": "Alph Lithograph",
+      "set": "HS Undaunted",
+      "img": "https://den-cards.pokellector.com/36/Alph-Lithograph.UD.0.png",
+      "rarity": "Secret Rare",
+      "cardNum": "THREE"
+    }
+  ]
+}

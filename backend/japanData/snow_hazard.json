@@ -1,0 +1,698 @@
+{
+  "setName": "Snow Hazard",
+  "cards": [
+    {
+      "name": "Surskit",
+      "set": "Snow Hazard",
+      "img": "https://den-cards.pokellector.com/369/Surskit.SV2P.1.47554.png",
+      "rarity": "Common",
+      "cardNum": "1/71"
+    },
+    {
+      "name": "Masquerain",
+      "set": "Snow Hazard",
+      "img": "https://den-cards.pokellector.com/369/Masquerain.SV2P.2.47555.png",
+      "rarity": "Uncommon",
+      "cardNum": "2/71"
+    },
+    {
+      "name": "Combee",
+      "set": "Snow Hazard",
+      "img": "https://den-cards.pokellector.com/369/Combee.SV2P.3.47556.png",
+      "rarity": "Common",
+      "cardNum": "3/71"
+    },
+    {
+      "name": "Vespiquen",
+      "set": "Snow Hazard",
+      "img": "https://den-cards.pokellector.com/369/Vespiquen.SV2P.4.47557.png",
+      "rarity": "Uncommon",
+      "cardNum": "4/71"
+    },
+    {
+      "name": "Snover",
+      "set": "Snow Hazard",
+      "img": "https://den-cards.pokellector.com/369/Snover.SV2P.5.47558.png",
+      "rarity": "Common",
+      "cardNum": "5/71"
+    },
+    {
+      "name": "Abomasnow",
+      "set": "Snow Hazard",
+      "img": "https://den-cards.pokellector.com/369/Abomasnow.SV2P.6.47559.png",
+      "rarity": "Rare",
+      "cardNum": "6/71"
+    },
+    {
+      "name": "Bounsweet",
+      "set": "Snow Hazard",
+      "img": "https://den-cards.pokellector.com/369/Bounsweet.SV2P.7.47560.png",
+      "rarity": "Common",
+      "cardNum": "7/71"
+    },
+    {
+      "name": "Steenee",
+      "set": "Snow Hazard",
+      "img": "https://den-cards.pokellector.com/369/Steenee.SV2P.8.47561.png",
+      "rarity": "Common",
+      "cardNum": "8/71"
+    },
+    {
+      "name": "Tsareena",
+      "set": "Snow Hazard",
+      "img": "https://den-cards.pokellector.com/369/Tsareena.SV2P.9.47562.png",
+      "rarity": "Uncommon",
+      "cardNum": "9/71"
+    },
+    {
+      "name": "Bramblin",
+      "set": "Snow Hazard",
+      "img": "https://den-cards.pokellector.com/369/Bramblin.SV2P.10.47563.png",
+      "rarity": "Common",
+      "cardNum": "10/71"
+    },
+    {
+      "name": "Bramblin",
+      "set": "Snow Hazard",
+      "img": "https://den-cards.pokellector.com/369/Bramblin.SV2P.11.47564.png",
+      "rarity": "Common",
+      "cardNum": "11/71"
+    },
+    {
+      "name": "Brambleghast",
+      "set": "Snow Hazard",
+      "img": "https://den-cards.pokellector.com/369/Brambleghast.SV2P.12.47565.png",
+      "rarity": "Uncommon",
+      "cardNum": "12/71"
+    },
+    {
+      "name": "Rellor",
+      "set": "Snow Hazard",
+      "img": "https://den-cards.pokellector.com/369/Rellor.SV2P.13.47026.png",
+      "rarity": "Common",
+      "cardNum": "13/71"
+    },
+    {
+      "name": "Rellor",
+      "set": "Snow Hazard",
+      "img": "https://den-cards.pokellector.com/369/Rellor.SV2P.14.47025.png",
+      "rarity": "Common",
+      "cardNum": "14/71"
+    },
+    {
+      "name": "Wo-Chien ex",
+      "set": "Snow Hazard",
+      "img": "https://den-cards.pokellector.com/369/Wo-Chien-ex.SV2P.15.47288.png",
+      "rarity": "Double Rare",
+      "cardNum": "15/71"
+    },
+    {
+      "name": "Marill",
+      "set": "Snow Hazard",
+      "img": "https://den-cards.pokellector.com/369/Marill.SV2P.16.47566.png",
+      "rarity": "Common",
+      "cardNum": "16/71"
+    },
+    {
+      "name": "Azumarill",
+      "set": "Snow Hazard",
+      "img": "https://den-cards.pokellector.com/369/Azumarill.SV2P.17.47567.png",
+      "rarity": "Uncommon",
+      "cardNum": "17/71"
+    },
+    {
+      "name": "Luvdisc",
+      "set": "Snow Hazard",
+      "img": "https://den-cards.pokellector.com/369/Luvdisc.SV2P.18.47568.png",
+      "rarity": "Common",
+      "cardNum": "18/71"
+    },
+    {
+      "name": "Eiscue",
+      "set": "Snow Hazard",
+      "img": "https://den-cards.pokellector.com/369/Eiscue.SV2P.19.47569.png",
+      "rarity": "Uncommon",
+      "cardNum": "19/71"
+    },
+    {
+      "name": "Cetoddle",
+      "set": "Snow Hazard",
+      "img": "https://den-cards.pokellector.com/369/Cetoddle.SV2P.20.47570.png",
+      "rarity": "Common",
+      "cardNum": "20/71"
+    },
+    {
+      "name": "Cetoddle",
+      "set": "Snow Hazard",
+      "img": "https://den-cards.pokellector.com/369/Cetoddle.SV2P.21.47571.png",
+      "rarity": "Common",
+      "cardNum": "21/71"
+    },
+    {
+      "name": "Cetitan",
+      "set": "Snow Hazard",
+      "img": "https://den-cards.pokellector.com/369/Cetitan.SV2P.22.47572.png",
+      "rarity": "Uncommon",
+      "cardNum": "22/71"
+    },
+    {
+      "name": "Veluza",
+      "set": "Snow Hazard",
+      "img": "https://den-cards.pokellector.com/369/Veluza.SV2P.23.47573.png",
+      "rarity": "Rare",
+      "cardNum": "23/71"
+    },
+    {
+      "name": "Frigibax",
+      "set": "Snow Hazard",
+      "img": "https://den-cards.pokellector.com/369/Frigibax.SV2P.24.47031.png",
+      "rarity": "Common",
+      "cardNum": "24/71"
+    },
+    {
+      "name": "Frigibax",
+      "set": "Snow Hazard",
+      "img": "https://den-cards.pokellector.com/369/Frigibax.SV2P.25.47030.png",
+      "rarity": "Common",
+      "cardNum": "25/71"
+    },
+    {
+      "name": "Arctibax",
+      "set": "Snow Hazard",
+      "img": "https://den-cards.pokellector.com/369/Arctibax.SV2P.26.47032.png",
+      "rarity": "Common",
+      "cardNum": "26/71"
+    },
+    {
+      "name": "Baxcalibur",
+      "set": "Snow Hazard",
+      "img": "https://den-cards.pokellector.com/369/Baxcalibur.SV2P.27.47033.png",
+      "rarity": "Rare",
+      "cardNum": "27/71"
+    },
+    {
+      "name": "Chien-Pao ex",
+      "set": "Snow Hazard",
+      "img": "https://den-cards.pokellector.com/369/Chien-Pao-ex.SV2P.28.47028.png",
+      "rarity": "Double Rare",
+      "cardNum": "28/71"
+    },
+    {
+      "name": "Slowpoke",
+      "set": "Snow Hazard",
+      "img": "https://den-cards.pokellector.com/369/Slowpoke.SV2P.29.47574.png",
+      "rarity": "Common",
+      "cardNum": "29/71"
+    },
+    {
+      "name": "Slowking ex",
+      "set": "Snow Hazard",
+      "img": "https://den-cards.pokellector.com/369/Slowking-ex.SV2P.30.47544.png",
+      "rarity": "Double Rare",
+      "cardNum": "30/71"
+    },
+    {
+      "name": "Gothita",
+      "set": "Snow Hazard",
+      "img": "https://den-cards.pokellector.com/369/Gothita.SV2P.31.47575.png",
+      "rarity": "Common",
+      "cardNum": "31/71"
+    },
+    {
+      "name": "Gothorita",
+      "set": "Snow Hazard",
+      "img": "https://den-cards.pokellector.com/369/Gothorita.SV2P.32.47576.png",
+      "rarity": "Common",
+      "cardNum": "32/71"
+    },
+    {
+      "name": "Gothitelle",
+      "set": "Snow Hazard",
+      "img": "https://den-cards.pokellector.com/369/Gothitelle.SV2P.33.47577.png",
+      "rarity": "Uncommon",
+      "cardNum": "33/71"
+    },
+    {
+      "name": "Mimikyu",
+      "set": "Snow Hazard",
+      "img": "https://den-cards.pokellector.com/369/Mimikyu.SV2P.34.47300.png",
+      "rarity": "Common",
+      "cardNum": "34/71"
+    },
+    {
+      "name": "Sinistea",
+      "set": "Snow Hazard",
+      "img": "https://den-cards.pokellector.com/369/Sinistea.SV2P.35.47578.png",
+      "rarity": "Common",
+      "cardNum": "35/71"
+    },
+    {
+      "name": "Polteageist",
+      "set": "Snow Hazard",
+      "img": "https://den-cards.pokellector.com/369/Polteageist.SV2P.36.47579.png",
+      "rarity": "Uncommon",
+      "cardNum": "36/71"
+    },
+    {
+      "name": "Rabsca",
+      "set": "Snow Hazard",
+      "img": "https://den-cards.pokellector.com/369/Rabsca.SV2P.37.47027.png",
+      "rarity": "Rare",
+      "cardNum": "37/71"
+    },
+    {
+      "name": "Mankey",
+      "set": "Snow Hazard",
+      "img": "https://den-cards.pokellector.com/369/Mankey.SV2P.38.47580.png",
+      "rarity": "Common",
+      "cardNum": "38/71"
+    },
+    {
+      "name": "Primeape",
+      "set": "Snow Hazard",
+      "img": "https://den-cards.pokellector.com/369/Primeape.SV2P.39.47581.png",
+      "rarity": "Common",
+      "cardNum": "39/71"
+    },
+    {
+      "name": "Annihilape ex",
+      "set": "Snow Hazard",
+      "img": "https://den-cards.pokellector.com/369/Annihilape-ex.SV2P.40.47299.png",
+      "rarity": "Double Rare",
+      "cardNum": "40/71"
+    },
+    {
+      "name": "Sudowoodo",
+      "set": "Snow Hazard",
+      "img": "https://den-cards.pokellector.com/369/Sudowoodo.SV2P.41.47582.png",
+      "rarity": "Uncommon",
+      "cardNum": "41/71"
+    },
+    {
+      "name": "Glimmet",
+      "set": "Snow Hazard",
+      "img": "https://den-cards.pokellector.com/369/Glimmet.SV2P.42.47067.png",
+      "rarity": "Common",
+      "cardNum": "42/71"
+    },
+    {
+      "name": "Glimmet",
+      "set": "Snow Hazard",
+      "img": "https://den-cards.pokellector.com/369/Glimmet.SV2P.43.47068.png",
+      "rarity": "Common",
+      "cardNum": "43/71"
+    },
+    {
+      "name": "Glimmora",
+      "set": "Snow Hazard",
+      "img": "https://den-cards.pokellector.com/369/Glimmora.SV2P.44.47069.png",
+      "rarity": "Rare",
+      "cardNum": "44/71"
+    },
+    {
+      "name": "Murkrow",
+      "set": "Snow Hazard",
+      "img": "https://den-cards.pokellector.com/369/Murkrow.SV2P.45.47295.png",
+      "rarity": "Common",
+      "cardNum": "45/71"
+    },
+    {
+      "name": "Honchkrow",
+      "set": "Snow Hazard",
+      "img": "https://den-cards.pokellector.com/369/Honchkrow.SV2P.46.47583.png",
+      "rarity": "Uncommon",
+      "cardNum": "46/71"
+    },
+    {
+      "name": "Maschiff",
+      "set": "Snow Hazard",
+      "img": "https://den-cards.pokellector.com/369/Maschiff.SV2P.47.47584.png",
+      "rarity": "Common",
+      "cardNum": "47/71"
+    },
+    {
+      "name": "Maschiff",
+      "set": "Snow Hazard",
+      "img": "https://den-cards.pokellector.com/369/Maschiff.SV2P.48.47585.png",
+      "rarity": "Common",
+      "cardNum": "48/71"
+    },
+    {
+      "name": "Mabosstiff",
+      "set": "Snow Hazard",
+      "img": "https://den-cards.pokellector.com/369/Mabosstiff.SV2P.49.47586.png",
+      "rarity": "Uncommon",
+      "cardNum": "49/71"
+    },
+    {
+      "name": "Bronzor",
+      "set": "Snow Hazard",
+      "img": "https://den-cards.pokellector.com/369/Bronzor.SV2P.50.47587.png",
+      "rarity": "Common",
+      "cardNum": "50/71"
+    },
+    {
+      "name": "Bronzong",
+      "set": "Snow Hazard",
+      "img": "https://den-cards.pokellector.com/369/Bronzong.SV2P.51.47588.png",
+      "rarity": "Uncommon",
+      "cardNum": "51/71"
+    },
+    {
+      "name": "Corviknight",
+      "set": "Snow Hazard",
+      "img": "https://den-cards.pokellector.com/369/Corviknight.SV2P.52.47589.png",
+      "rarity": "Uncommon",
+      "cardNum": "52/71"
+    },
+    {
+      "name": "Cufant",
+      "set": "Snow Hazard",
+      "img": "https://den-cards.pokellector.com/369/Cufant.SV2P.53.47590.png",
+      "rarity": "Common",
+      "cardNum": "53/71"
+    },
+    {
+      "name": "Copperajah ex",
+      "set": "Snow Hazard",
+      "img": "https://den-cards.pokellector.com/369/Copperajah-ex.SV2P.54.47071.png",
+      "rarity": "Double Rare",
+      "cardNum": "54/71"
+    },
+    {
+      "name": "Orthworm",
+      "set": "Snow Hazard",
+      "img": "https://den-cards.pokellector.com/369/Orthworm.SV2P.55.47542.png",
+      "rarity": "Rare",
+      "cardNum": "55/71"
+    },
+    {
+      "name": "Dunsparce",
+      "set": "Snow Hazard",
+      "img": "https://den-cards.pokellector.com/369/Dunsparce.SV2P.56.47023.png",
+      "rarity": "Common",
+      "cardNum": "56/71"
+    },
+    {
+      "name": "Dudunsparce",
+      "set": "Snow Hazard",
+      "img": "https://den-cards.pokellector.com/369/Dudunsparce.SV2P.57.47024.png",
+      "rarity": "Uncommon",
+      "cardNum": "57/71"
+    },
+    {
+      "name": "Wingull",
+      "set": "Snow Hazard",
+      "img": "https://den-cards.pokellector.com/369/Wingull.SV2P.58.47072.png",
+      "rarity": "Common",
+      "cardNum": "58/71"
+    },
+    {
+      "name": "Pelipper",
+      "set": "Snow Hazard",
+      "img": "https://den-cards.pokellector.com/369/Pelipper.SV2P.59.47073.png",
+      "rarity": "Uncommon",
+      "cardNum": "59/71"
+    },
+    {
+      "name": "Slakoth",
+      "set": "Snow Hazard",
+      "img": "https://den-cards.pokellector.com/369/Slakoth.SV2P.60.47591.png",
+      "rarity": "Common",
+      "cardNum": "60/71"
+    },
+    {
+      "name": "Vigoroth",
+      "set": "Snow Hazard",
+      "img": "https://den-cards.pokellector.com/369/Vigoroth.SV2P.61.47592.png",
+      "rarity": "Common",
+      "cardNum": "61/71"
+    },
+    {
+      "name": "Slaking",
+      "set": "Snow Hazard",
+      "img": "https://den-cards.pokellector.com/369/Slaking.SV2P.62.47593.png",
+      "rarity": "Rare",
+      "cardNum": "62/71"
+    },
+    {
+      "name": "Rookidee",
+      "set": "Snow Hazard",
+      "img": "https://den-cards.pokellector.com/369/Rookidee.SV2P.63.47594.png",
+      "rarity": "Common",
+      "cardNum": "63/71"
+    },
+    {
+      "name": "Corvisquire",
+      "set": "Snow Hazard",
+      "img": "https://den-cards.pokellector.com/369/Corvisquire.SV2P.64.47595.png",
+      "rarity": "Common",
+      "cardNum": "64/71"
+    },
+    {
+      "name": "Squawkabilly ex",
+      "set": "Snow Hazard",
+      "img": "https://den-cards.pokellector.com/369/Squawkabilly-ex.SV2P.65.47029.png",
+      "rarity": "Double Rare",
+      "cardNum": "65/71"
+    },
+    {
+      "name": "Super Rod",
+      "set": "Snow Hazard",
+      "img": "https://den-cards.pokellector.com/369/Super-Rod.SV2P.66.47035.png",
+      "rarity": "Uncommon",
+      "cardNum": "66/71"
+    },
+    {
+      "name": "Fight Au Lait",
+      "set": "Snow Hazard",
+      "img": "https://den-cards.pokellector.com/369/Fight-Au-Lait.SV2P.67.47596.png",
+      "rarity": "Uncommon",
+      "cardNum": "67/71"
+    },
+    {
+      "name": "Grusha",
+      "set": "Snow Hazard",
+      "img": "https://den-cards.pokellector.com/369/Grusha.SV2P.68.47034.png",
+      "rarity": "Uncommon",
+      "cardNum": "68/71"
+    },
+    {
+      "name": "Giacomo",
+      "set": "Snow Hazard",
+      "img": "https://den-cards.pokellector.com/369/Giacomo.SV2P.69.47289.png",
+      "rarity": "Uncommon",
+      "cardNum": "69/71"
+    },
+    {
+      "name": "Snowy Mountain of Disaster",
+      "set": "Snow Hazard",
+      "img": "https://den-cards.pokellector.com/369/Snowy-Mountain-of-Disaster.SV2P.70.47290.png",
+      "rarity": "Uncommon",
+      "cardNum": "70/71"
+    },
+    {
+      "name": "Reversal Energy",
+      "set": "Snow Hazard",
+      "img": "https://den-cards.pokellector.com/369/Reversal-Energy.SV2P.71.47307.png",
+      "rarity": "Uncommon",
+      "cardNum": "71/71"
+    },
+    {
+      "name": "Bramblin",
+      "set": "Snow Hazard",
+      "img": "https://den-cards.pokellector.com/369/Bramblin.SV2P.72.47597.png",
+      "rarity": "Secret Rare",
+      "cardNum": "72/71"
+    },
+    {
+      "name": "Marill",
+      "set": "Snow Hazard",
+      "img": "https://den-cards.pokellector.com/369/Marill.SV2P.73.47598.png",
+      "rarity": "Secret Rare",
+      "cardNum": "73/71"
+    },
+    {
+      "name": "Eiscue",
+      "set": "Snow Hazard",
+      "img": "https://den-cards.pokellector.com/369/Eiscue.SV2P.74.47599.png",
+      "rarity": "Secret Rare",
+      "cardNum": "74/71"
+    },
+    {
+      "name": "Frigibax",
+      "set": "Snow Hazard",
+      "img": "https://den-cards.pokellector.com/369/Frigibax.SV2P.75.47527.png",
+      "rarity": "Secret Rare",
+      "cardNum": "75/71"
+    },
+    {
+      "name": "Arctibax",
+      "set": "Snow Hazard",
+      "img": "https://den-cards.pokellector.com/369/Arctibax.SV2P.76.47528.png",
+      "rarity": "Secret Rare",
+      "cardNum": "76/71"
+    },
+    {
+      "name": "Baxcalibur",
+      "set": "Snow Hazard",
+      "img": "https://den-cards.pokellector.com/369/Baxcalibur.SV2P.77.47529.png",
+      "rarity": "Secret Rare",
+      "cardNum": "77/71"
+    },
+    {
+      "name": "Gothorita",
+      "set": "Snow Hazard",
+      "img": "https://den-cards.pokellector.com/369/Gothorita.SV2P.78.47600.png",
+      "rarity": "Secret Rare",
+      "cardNum": "78/71"
+    },
+    {
+      "name": "Rabsca",
+      "set": "Snow Hazard",
+      "img": "https://den-cards.pokellector.com/369/Rabsca.SV2P.79.47036.png",
+      "rarity": "Secret Rare",
+      "cardNum": "79/71"
+    },
+    {
+      "name": "Sudowoodo",
+      "set": "Snow Hazard",
+      "img": "https://den-cards.pokellector.com/369/Sudowoodo.SV2P.80.47601.png",
+      "rarity": "Secret Rare",
+      "cardNum": "80/71"
+    },
+    {
+      "name": "Orthworm",
+      "set": "Snow Hazard",
+      "img": "https://den-cards.pokellector.com/369/Orthworm.SV2P.81.47541.png",
+      "rarity": "Secret Rare",
+      "cardNum": "81/71"
+    },
+    {
+      "name": "Rookidee",
+      "set": "Snow Hazard",
+      "img": "https://den-cards.pokellector.com/369/Rookidee.SV2P.82.47602.png",
+      "rarity": "Secret Rare",
+      "cardNum": "82/71"
+    },
+    {
+      "name": "Dudunsparce",
+      "set": "Snow Hazard",
+      "img": "https://den-cards.pokellector.com/369/Dudunsparce.SV2P.83.47037.png",
+      "rarity": "Secret Rare",
+      "cardNum": "83/71"
+    },
+    {
+      "name": "Wo-Chien ex",
+      "set": "Snow Hazard",
+      "img": "https://den-cards.pokellector.com/369/Wo-Chien-ex.SV2P.84.47603.png",
+      "rarity": "Secret Rare",
+      "cardNum": "84/71"
+    },
+    {
+      "name": "Chien-Pao ex",
+      "set": "Snow Hazard",
+      "img": "https://den-cards.pokellector.com/369/Chien-Pao-ex.SV2P.85.47604.png",
+      "rarity": "Secret Rare",
+      "cardNum": "85/71"
+    },
+    {
+      "name": "Slowking ex",
+      "set": "Snow Hazard",
+      "img": "https://den-cards.pokellector.com/369/Slowking-ex.SV2P.86.47605.png",
+      "rarity": "Secret Rare",
+      "cardNum": "86/71"
+    },
+    {
+      "name": "Annihilape ex",
+      "set": "Snow Hazard",
+      "img": "https://den-cards.pokellector.com/369/Annihilape-ex.SV2P.87.47606.png",
+      "rarity": "Secret Rare",
+      "cardNum": "87/71"
+    },
+    {
+      "name": "Copperajah ex",
+      "set": "Snow Hazard",
+      "img": "https://den-cards.pokellector.com/369/Copperajah-ex.SV2P.88.47607.png",
+      "rarity": "Secret Rare",
+      "cardNum": "88/71"
+    },
+    {
+      "name": "Squawkabilly ex",
+      "set": "Snow Hazard",
+      "img": "https://den-cards.pokellector.com/369/Squawkabilly-ex.SV2P.89.47608.png",
+      "rarity": "Secret Rare",
+      "cardNum": "89/71"
+    },
+    {
+      "name": "Grusha",
+      "set": "Snow Hazard",
+      "img": "https://den-cards.pokellector.com/369/Grusha.SV2P.90.47526.png",
+      "rarity": "Secret Rare",
+      "cardNum": "90/71"
+    },
+    {
+      "name": "Giacomo",
+      "set": "Snow Hazard",
+      "img": "https://den-cards.pokellector.com/369/Giacomo.SV2P.91.47609.png",
+      "rarity": "Secret Rare",
+      "cardNum": "91/71"
+    },
+    {
+      "name": "Wo-Chien ex",
+      "set": "Snow Hazard",
+      "img": "https://den-cards.pokellector.com/369/Wo-Chien-ex.SV2P.92.47311.png",
+      "rarity": "Secret Rare",
+      "cardNum": "92/71"
+    },
+    {
+      "name": "Chien-Pao ex",
+      "set": "Snow Hazard",
+      "img": "https://den-cards.pokellector.com/369/Chien-Pao-ex.SV2P.93.47310.png",
+      "rarity": "Secret Rare",
+      "cardNum": "93/71"
+    },
+    {
+      "name": "Squawkabilly ex",
+      "set": "Snow Hazard",
+      "img": "https://den-cards.pokellector.com/369/Squawkabilly-ex.SV2P.94.47525.png",
+      "rarity": "Secret Rare",
+      "cardNum": "94/71"
+    },
+    {
+      "name": "Grusha",
+      "set": "Snow Hazard",
+      "img": "https://den-cards.pokellector.com/369/Grusha.SV2P.95.47610.png",
+      "rarity": "Secret Rare",
+      "cardNum": "95/71"
+    },
+    {
+      "name": "Giacomo",
+      "set": "Snow Hazard",
+      "img": "https://den-cards.pokellector.com/369/Giacomo.SV2P.96.47611.png",
+      "rarity": "Secret Rare",
+      "cardNum": "96/71"
+    },
+    {
+      "name": "Chien-Pai ex",
+      "set": "Snow Hazard",
+      "img": "https://den-cards.pokellector.com/369/Chien-Pai-ex.SV2P.97.47669.png",
+      "rarity": "Secret Rare",
+      "cardNum": "97/71"
+    },
+    {
+      "name": "Super Rod",
+      "set": "Snow Hazard",
+      "img": "https://den-cards.pokellector.com/369/Super-Rod.SV2P.98.47670.png",
+      "rarity": "Secret Rare",
+      "cardNum": "98/71"
+    },
+    {
+      "name": "Basic Water Energy",
+      "set": "Snow Hazard",
+      "img": "https://den-cards.pokellector.com/369/Basic-Water-Energy.SV2P.99.47671.png",
+      "rarity": "Secret Rare",
+      "cardNum": "99/71"
+    }
+  ]
+}

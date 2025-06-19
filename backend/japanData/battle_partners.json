@@ -1,0 +1,929 @@
+{
+  "setName": "Battle Partners",
+  "cards": [
+    {
+      "name": "Caterpie",
+      "set": "Battle Partners",
+      "img": "https://den-cards.pokellector.com/408/Caterpie.SV9.1.55726.png",
+      "rarity": "Common",
+      "cardNum": "1/100"
+    },
+    {
+      "name": "Metapod",
+      "set": "Battle Partners",
+      "img": "https://den-cards.pokellector.com/408/Metapod.SV9.2.55727.png",
+      "rarity": "Common",
+      "cardNum": "2/100"
+    },
+    {
+      "name": "Butterfree",
+      "set": "Battle Partners",
+      "img": "https://den-cards.pokellector.com/408/Butterfree.SV9.3.55728.png",
+      "rarity": "Uncommon",
+      "cardNum": "3/100"
+    },
+    {
+      "name": "Paras",
+      "set": "Battle Partners",
+      "img": "https://den-cards.pokellector.com/408/Paras.SV9.4.55729.png",
+      "rarity": "Common",
+      "cardNum": "4/100"
+    },
+    {
+      "name": "Parasect",
+      "set": "Battle Partners",
+      "img": "https://den-cards.pokellector.com/408/Parasect.SV9.5.55730.png",
+      "rarity": "Common",
+      "cardNum": "5/100"
+    },
+    {
+      "name": "Maractus",
+      "set": "Battle Partners",
+      "img": "https://den-cards.pokellector.com/408/Maractus.SV9.6.55731.png",
+      "rarity": "Uncommon",
+      "cardNum": "6/100"
+    },
+    {
+      "name": "Karrablast",
+      "set": "Battle Partners",
+      "img": "https://den-cards.pokellector.com/408/Karrablast.SV9.7.55732.png",
+      "rarity": "Common",
+      "cardNum": "7/100"
+    },
+    {
+      "name": "Shelmet",
+      "set": "Battle Partners",
+      "img": "https://den-cards.pokellector.com/408/Shelmet.SV9.8.55733.png",
+      "rarity": "Common",
+      "cardNum": "8/100"
+    },
+    {
+      "name": "Accelgor",
+      "set": "Battle Partners",
+      "img": "https://den-cards.pokellector.com/408/Accelgor.SV9.9.55734.png",
+      "rarity": "Uncommon",
+      "cardNum": "9/100"
+    },
+    {
+      "name": "Sprigatito",
+      "set": "Battle Partners",
+      "img": "https://den-cards.pokellector.com/408/Sprigatito.SV9.10.55471.png",
+      "rarity": "Common",
+      "cardNum": "10/100"
+    },
+    {
+      "name": "Floragato",
+      "set": "Battle Partners",
+      "img": "https://den-cards.pokellector.com/408/Floragato.SV9.11.55470.png",
+      "rarity": "Common",
+      "cardNum": "11/100"
+    },
+    {
+      "name": "Meowscarada",
+      "set": "Battle Partners",
+      "img": "https://den-cards.pokellector.com/408/Meowscarada.SV9.12.55469.png",
+      "rarity": "Rare",
+      "cardNum": "12/100"
+    },
+    {
+      "name": "Magmar",
+      "set": "Battle Partners",
+      "img": "https://den-cards.pokellector.com/408/Magmar.SV9.13.55735.png",
+      "rarity": "Common",
+      "cardNum": "13/100"
+    },
+    {
+      "name": "Magmortar",
+      "set": "Battle Partners",
+      "img": "https://den-cards.pokellector.com/408/Magmortar.SV9.14.55736.png",
+      "rarity": "Rare",
+      "cardNum": "14/100"
+    },
+    {
+      "name": "N's Darumaka",
+      "set": "Battle Partners",
+      "img": "https://den-cards.pokellector.com/408/Ns-Darumaka.SV9.15.55460.png",
+      "rarity": "Common",
+      "cardNum": "15/100"
+    },
+    {
+      "name": "N's Darmanitan",
+      "set": "Battle Partners",
+      "img": "https://den-cards.pokellector.com/408/Ns-Darmanitan.SV9.16.55459.png",
+      "rarity": "Uncommon",
+      "cardNum": "16/100"
+    },
+    {
+      "name": "Volcanion ex",
+      "set": "Battle Partners",
+      "img": "https://den-cards.pokellector.com/408/Volcanion-ex.SV9.17.55461.png",
+      "rarity": "Double Rare",
+      "cardNum": "17/100"
+    },
+    {
+      "name": "Articuno",
+      "set": "Battle Partners",
+      "img": "https://den-cards.pokellector.com/408/Articuno.SV9.18.55737.png",
+      "rarity": "Uncommon",
+      "cardNum": "18/100"
+    },
+    {
+      "name": "Remoraid",
+      "set": "Battle Partners",
+      "img": "https://den-cards.pokellector.com/408/Remoraid.SV9.19.55738.png",
+      "rarity": "Common",
+      "cardNum": "19/100"
+    },
+    {
+      "name": "Octillery",
+      "set": "Battle Partners",
+      "img": "https://den-cards.pokellector.com/408/Octillery.SV9.20.55739.png",
+      "rarity": "Uncommon",
+      "cardNum": "20/100"
+    },
+    {
+      "name": "Lotad",
+      "set": "Battle Partners",
+      "img": "https://den-cards.pokellector.com/408/Lotad.SV9.21.55547.png",
+      "rarity": "Common",
+      "cardNum": "21/100"
+    },
+    {
+      "name": "Lombre",
+      "set": "Battle Partners",
+      "img": "https://den-cards.pokellector.com/408/Lombre.SV9.22.55549.png",
+      "rarity": "Common",
+      "cardNum": "22/100"
+    },
+    {
+      "name": "Ludicolo",
+      "set": "Battle Partners",
+      "img": "https://den-cards.pokellector.com/408/Ludicolo.SV9.23.55548.png",
+      "rarity": "Uncommon",
+      "cardNum": "23/100"
+    },
+    {
+      "name": "Wailmer",
+      "set": "Battle Partners",
+      "img": "https://den-cards.pokellector.com/408/Wailmer.SV9.24.55740.png",
+      "rarity": "Common",
+      "cardNum": "24/100"
+    },
+    {
+      "name": "Wailord",
+      "set": "Battle Partners",
+      "img": "https://den-cards.pokellector.com/408/Wailord.SV9.25.55741.png",
+      "rarity": "Rare",
+      "cardNum": "25/100"
+    },
+    {
+      "name": "Iono's Voltorb",
+      "set": "Battle Partners",
+      "img": "https://den-cards.pokellector.com/408/Ionos-Voltorb.SV9.26.55492.png",
+      "rarity": "Common",
+      "cardNum": "26/100"
+    },
+    {
+      "name": "Iono's Electrode",
+      "set": "Battle Partners",
+      "img": "https://den-cards.pokellector.com/408/Ionos-Electrode.SV9.27.55491.png",
+      "rarity": "Uncommon",
+      "cardNum": "27/100"
+    },
+    {
+      "name": "N's Joltik",
+      "set": "Battle Partners",
+      "img": "https://den-cards.pokellector.com/408/Ns-Joltik.SV9.28.55544.png",
+      "rarity": "Common",
+      "cardNum": "28/100"
+    },
+    {
+      "name": "Iono's Tadbulb",
+      "set": "Battle Partners",
+      "img": "https://den-cards.pokellector.com/408/Ionos-Tadbulb.SV9.29.55488.png",
+      "rarity": "Common",
+      "cardNum": "29/100"
+    },
+    {
+      "name": "Iono's Bellibolt ex",
+      "set": "Battle Partners",
+      "img": "https://den-cards.pokellector.com/408/Ionos-Bellibolt-ex.SV9.30.55487.png",
+      "rarity": "Double Rare",
+      "cardNum": "30/100"
+    },
+    {
+      "name": "Iono's Wattrel",
+      "set": "Battle Partners",
+      "img": "https://den-cards.pokellector.com/408/Ionos-Wattrel.SV9.31.55490.png",
+      "rarity": "Common",
+      "cardNum": "31/100"
+    },
+    {
+      "name": "Iono's Killowattrel",
+      "set": "Battle Partners",
+      "img": "https://den-cards.pokellector.com/408/Ionos-Killowattrel.SV9.32.55489.png",
+      "rarity": "Rare",
+      "cardNum": "32/100"
+    },
+    {
+      "name": "Lillie's Clefairy ex",
+      "set": "Battle Partners",
+      "img": "https://den-cards.pokellector.com/408/Lillies-Clefairy-ex.SV9.33.55478.png",
+      "rarity": "Double Rare",
+      "cardNum": "33/100"
+    },
+    {
+      "name": "Mr. Mime",
+      "set": "Battle Partners",
+      "img": "https://den-cards.pokellector.com/408/Mr-Mime.SV9.34.55742.png",
+      "rarity": "Common",
+      "cardNum": "34/100"
+    },
+    {
+      "name": "Shuppet",
+      "set": "Battle Partners",
+      "img": "https://den-cards.pokellector.com/408/Shuppet.SV9.35.55509.png",
+      "rarity": "Common",
+      "cardNum": "35/100"
+    },
+    {
+      "name": "Banette",
+      "set": "Battle Partners",
+      "img": "https://den-cards.pokellector.com/408/Banette.SV9.36.55510.png",
+      "rarity": "Uncommon",
+      "cardNum": "36/100"
+    },
+    {
+      "name": "Beldum",
+      "set": "Battle Partners",
+      "img": "https://den-cards.pokellector.com/408/Beldum.SV9.37.55504.png",
+      "rarity": "Common",
+      "cardNum": "37/100"
+    },
+    {
+      "name": "Metang",
+      "set": "Battle Partners",
+      "img": "https://den-cards.pokellector.com/408/Metang.SV9.38.55505.png",
+      "rarity": "Common",
+      "cardNum": "38/100"
+    },
+    {
+      "name": "Metagross",
+      "set": "Battle Partners",
+      "img": "https://den-cards.pokellector.com/408/Metagross.SV9.39.55506.png",
+      "rarity": "Uncommon",
+      "cardNum": "39/100"
+    },
+    {
+      "name": "N's Sigilyph",
+      "set": "Battle Partners",
+      "img": "https://den-cards.pokellector.com/408/Ns-Sigilyph.SV9.40.55465.png",
+      "rarity": "Common",
+      "cardNum": "40/100"
+    },
+    {
+      "name": "Lillie's Cutiefly",
+      "set": "Battle Partners",
+      "img": "https://den-cards.pokellector.com/408/Lillies-Cutiefly.SV9.41.55743.png",
+      "rarity": "Common",
+      "cardNum": "41/100"
+    },
+    {
+      "name": "Lillie's Ribombee",
+      "set": "Battle Partners",
+      "img": "https://den-cards.pokellector.com/408/Lillies-Ribombee.SV9.42.55558.png",
+      "rarity": "Uncommon",
+      "cardNum": "42/100"
+    },
+    {
+      "name": "Lillie's Comfey",
+      "set": "Battle Partners",
+      "img": "https://den-cards.pokellector.com/408/Lillies-Comfey.SV9.43.55479.png",
+      "rarity": "Common",
+      "cardNum": "43/100"
+    },
+    {
+      "name": "Swinub",
+      "set": "Battle Partners",
+      "img": "https://den-cards.pokellector.com/408/Swinub.SV9.44.55468.png",
+      "rarity": "Common",
+      "cardNum": "44/100"
+    },
+    {
+      "name": "Piloswine",
+      "set": "Battle Partners",
+      "img": "https://den-cards.pokellector.com/408/Piloswine.SV9.45.55467.png",
+      "rarity": "Common",
+      "cardNum": "45/100"
+    },
+    {
+      "name": "Mamoswine ex",
+      "set": "Battle Partners",
+      "img": "https://den-cards.pokellector.com/408/Mamoswine-ex.SV9.46.55466.png",
+      "rarity": "Double Rare",
+      "cardNum": "46/100"
+    },
+    {
+      "name": "Larvitar",
+      "set": "Battle Partners",
+      "img": "https://den-cards.pokellector.com/408/Larvitar.SV9.47.55500.png",
+      "rarity": "Common",
+      "cardNum": "47/100"
+    },
+    {
+      "name": "Pupitar",
+      "set": "Battle Partners",
+      "img": "https://den-cards.pokellector.com/408/Pupitar.SV9.48.55501.png",
+      "rarity": "Common",
+      "cardNum": "48/100"
+    },
+    {
+      "name": "Regirock",
+      "set": "Battle Partners",
+      "img": "https://den-cards.pokellector.com/408/Regirock.SV9.49.55744.png",
+      "rarity": "Uncommon",
+      "cardNum": "49/100"
+    },
+    {
+      "name": "Pancham",
+      "set": "Battle Partners",
+      "img": "https://den-cards.pokellector.com/408/Pancham.SV9.50.55745.png",
+      "rarity": "Common",
+      "cardNum": "50/100"
+    },
+    {
+      "name": "Rockruff",
+      "set": "Battle Partners",
+      "img": "https://den-cards.pokellector.com/408/Rockruff.SV9.51.55746.png",
+      "rarity": "Common",
+      "cardNum": "51/100"
+    },
+    {
+      "name": "Lycanroc",
+      "set": "Battle Partners",
+      "img": "https://den-cards.pokellector.com/408/Lycanroc.SV9.52.55747.png",
+      "rarity": "Rare",
+      "cardNum": "52/100"
+    },
+    {
+      "name": "Hop's Silicobra",
+      "set": "Battle Partners",
+      "img": "https://den-cards.pokellector.com/408/Hops-Silicobra.SV9.53.55542.png",
+      "rarity": "Common",
+      "cardNum": "53/100"
+    },
+    {
+      "name": "Hop's Sandaconda",
+      "set": "Battle Partners",
+      "img": "https://den-cards.pokellector.com/408/Hops-Sandaconda.SV9.54.55543.png",
+      "rarity": "Uncommon",
+      "cardNum": "54/100"
+    },
+    {
+      "name": "Klawf",
+      "set": "Battle Partners",
+      "img": "https://den-cards.pokellector.com/408/Klawf.SV9.55.55748.png",
+      "rarity": "Uncommon",
+      "cardNum": "55/100"
+    },
+    {
+      "name": "Koffing",
+      "set": "Battle Partners",
+      "img": "https://den-cards.pokellector.com/408/Koffing.SV9.56.55749.png",
+      "rarity": "Common",
+      "cardNum": "56/100"
+    },
+    {
+      "name": "Weezing",
+      "set": "Battle Partners",
+      "img": "https://den-cards.pokellector.com/408/Weezing.SV9.57.55750.png",
+      "rarity": "Uncommon",
+      "cardNum": "57/100"
+    },
+    {
+      "name": "Tyranitar",
+      "set": "Battle Partners",
+      "img": "https://den-cards.pokellector.com/408/Tyranitar.SV9.58.55502.png",
+      "rarity": "Rare",
+      "cardNum": "58/100"
+    },
+    {
+      "name": "N's Purrloin",
+      "set": "Battle Partners",
+      "img": "https://den-cards.pokellector.com/408/Ns-Purrloin.SV9.59.55751.png",
+      "rarity": "Common",
+      "cardNum": "59/100"
+    },
+    {
+      "name": "N's Zorua",
+      "set": "Battle Partners",
+      "img": "https://den-cards.pokellector.com/408/Ns-Zorua.SV9.60.55464.png",
+      "rarity": "Common",
+      "cardNum": "60/100"
+    },
+    {
+      "name": "N's Zoroark ex",
+      "set": "Battle Partners",
+      "img": "https://den-cards.pokellector.com/408/Ns-Zoroark-ex.SV9.61.55458.png",
+      "rarity": "Double Rare",
+      "cardNum": "61/100"
+    },
+    {
+      "name": "Pangoro",
+      "set": "Battle Partners",
+      "img": "https://den-cards.pokellector.com/408/Pangoro.SV9.62.55752.png",
+      "rarity": "Uncommon",
+      "cardNum": "62/100"
+    },
+    {
+      "name": "Escavalier",
+      "set": "Battle Partners",
+      "img": "https://den-cards.pokellector.com/408/Escavalier.SV9.63.55753.png",
+      "rarity": "Uncommon",
+      "cardNum": "63/100"
+    },
+    {
+      "name": "N's Klink",
+      "set": "Battle Partners",
+      "img": "https://den-cards.pokellector.com/408/Ns-Klink.SV9.64.55754.png",
+      "rarity": "Common",
+      "cardNum": "64/100"
+    },
+    {
+      "name": "N's Klang",
+      "set": "Battle Partners",
+      "img": "https://den-cards.pokellector.com/408/Ns-Klang.SV9.65.55755.png",
+      "rarity": "Common",
+      "cardNum": "65/100"
+    },
+    {
+      "name": "N's Klinklang",
+      "set": "Battle Partners",
+      "img": "https://den-cards.pokellector.com/408/Ns-Klinklang.SV9.66.55756.png",
+      "rarity": "Uncommon",
+      "cardNum": "66/100"
+    },
+    {
+      "name": "Magearna",
+      "set": "Battle Partners",
+      "img": "https://den-cards.pokellector.com/408/Magearna.SV9.67.55757.png",
+      "rarity": "Rare",
+      "cardNum": "67/100"
+    },
+    {
+      "name": "Hop's Corviknight",
+      "set": "Battle Partners",
+      "img": "https://den-cards.pokellector.com/408/Hops-Corviknight.SV9.68.55758.png",
+      "rarity": "Uncommon",
+      "cardNum": "68/100"
+    },
+    {
+      "name": "Hop's Zacian ex",
+      "set": "Battle Partners",
+      "img": "https://den-cards.pokellector.com/408/Hops-Zacian-ex.SV9.69.55480.png",
+      "rarity": "Double Rare",
+      "cardNum": "69/100"
+    },
+    {
+      "name": "Bagon",
+      "set": "Battle Partners",
+      "img": "https://den-cards.pokellector.com/408/Bagon.SV9.70.55759.png",
+      "rarity": "Common",
+      "cardNum": "70/100"
+    },
+    {
+      "name": "Shelgon",
+      "set": "Battle Partners",
+      "img": "https://den-cards.pokellector.com/408/Shelgon.SV9.71.55760.png",
+      "rarity": "Common",
+      "cardNum": "71/100"
+    },
+    {
+      "name": "Salamence ex",
+      "set": "Battle Partners",
+      "img": "https://den-cards.pokellector.com/408/Salamence-ex.SV9.72.55761.png",
+      "rarity": "Double Rare",
+      "cardNum": "72/100"
+    },
+    {
+      "name": "Druddigon",
+      "set": "Battle Partners",
+      "img": "https://den-cards.pokellector.com/408/Druddigon.SV9.73.55762.png",
+      "rarity": "Common",
+      "cardNum": "73/100"
+    },
+    {
+      "name": "N's Reshiram",
+      "set": "Battle Partners",
+      "img": "https://den-cards.pokellector.com/408/Ns-Reshiram.SV9.74.55462.png",
+      "rarity": "Rare",
+      "cardNum": "74/100"
+    },
+    {
+      "name": "Hop's Snorlax",
+      "set": "Battle Partners",
+      "img": "https://den-cards.pokellector.com/408/Hops-Snorlax.SV9.75.55483.png",
+      "rarity": "Rare",
+      "cardNum": "75/100"
+    },
+    {
+      "name": "Sentret",
+      "set": "Battle Partners",
+      "img": "https://den-cards.pokellector.com/408/Sentret.SV9.76.55545.png",
+      "rarity": "Common",
+      "cardNum": "76/100"
+    },
+    {
+      "name": "Furret",
+      "set": "Battle Partners",
+      "img": "https://den-cards.pokellector.com/408/Furret.SV9.77.55546.png",
+      "rarity": "Common",
+      "cardNum": "77/100"
+    },
+    {
+      "name": "Dunsparce",
+      "set": "Battle Partners",
+      "img": "https://den-cards.pokellector.com/408/Dunsparce.SV9.78.55507.png",
+      "rarity": "Common",
+      "cardNum": "78/100"
+    },
+    {
+      "name": "Dudunsparce ex",
+      "set": "Battle Partners",
+      "img": "https://den-cards.pokellector.com/408/Dudunsparce-ex.SV9.79.55508.png",
+      "rarity": "Double Rare",
+      "cardNum": "79/100"
+    },
+    {
+      "name": "Noibat",
+      "set": "Battle Partners",
+      "img": "https://den-cards.pokellector.com/408/Noibat.SV9.80.55763.png",
+      "rarity": "Common",
+      "cardNum": "80/100"
+    },
+    {
+      "name": "Noivern",
+      "set": "Battle Partners",
+      "img": "https://den-cards.pokellector.com/408/Noivern.SV9.81.55764.png",
+      "rarity": "Uncommon",
+      "cardNum": "81/100"
+    },
+    {
+      "name": "Komala",
+      "set": "Battle Partners",
+      "img": "https://den-cards.pokellector.com/408/Komala.SV9.82.55765.png",
+      "rarity": "Common",
+      "cardNum": "82/100"
+    },
+    {
+      "name": "Hop's Rookidee",
+      "set": "Battle Partners",
+      "img": "https://den-cards.pokellector.com/408/Hops-Rookidee.SV9.83.55766.png",
+      "rarity": "Common",
+      "cardNum": "83/100"
+    },
+    {
+      "name": "Hop's Corvisquire",
+      "set": "Battle Partners",
+      "img": "https://den-cards.pokellector.com/408/Hops-Corvisquire.SV9.84.55767.png",
+      "rarity": "Common",
+      "cardNum": "84/100"
+    },
+    {
+      "name": "Hop's Wooloo",
+      "set": "Battle Partners",
+      "img": "https://den-cards.pokellector.com/408/Hops-Wooloo.SV9.85.55482.png",
+      "rarity": "Common",
+      "cardNum": "85/100"
+    },
+    {
+      "name": "Hop's Dubwool",
+      "set": "Battle Partners",
+      "img": "https://den-cards.pokellector.com/408/Hops-Dubwool.SV9.86.55481.png",
+      "rarity": "Rare",
+      "cardNum": "86/100"
+    },
+    {
+      "name": "Hop's Cramorant",
+      "set": "Battle Partners",
+      "img": "https://den-cards.pokellector.com/408/Hops-Cramorant.SV9.87.55484.png",
+      "rarity": "Uncommon",
+      "cardNum": "87/100"
+    },
+    {
+      "name": "Super Potion",
+      "set": "Battle Partners",
+      "img": "https://den-cards.pokellector.com/408/Super-Potion.SV9.88.55768.png",
+      "rarity": "Uncommon",
+      "cardNum": "88/100"
+    },
+    {
+      "name": "N's Point Up",
+      "set": "Battle Partners",
+      "img": "https://den-cards.pokellector.com/408/Ns-Point-Up.SV9.89.55463.png",
+      "rarity": "Uncommon",
+      "cardNum": "89/100"
+    },
+    {
+      "name": "Exchange Ticket",
+      "set": "Battle Partners",
+      "img": "https://den-cards.pokellector.com/408/Exchange-Ticket.SV9.90.55493.png",
+      "rarity": "Uncommon",
+      "cardNum": "90/100"
+    },
+    {
+      "name": "Hop's Bag",
+      "set": "Battle Partners",
+      "img": "https://den-cards.pokellector.com/408/Hops-Bag.SV9.91.55769.png",
+      "rarity": "Uncommon",
+      "cardNum": "91/100"
+    },
+    {
+      "name": "Hop's Choice Band",
+      "set": "Battle Partners",
+      "img": "https://den-cards.pokellector.com/408/Hops-Choice-Band.SV9.92.55485.png",
+      "rarity": "Uncommon",
+      "cardNum": "92/100"
+    },
+    {
+      "name": "Lillie's Pearl",
+      "set": "Battle Partners",
+      "img": "https://den-cards.pokellector.com/408/Lillies-Pearl.SV9.93.55477.png",
+      "rarity": "Uncommon",
+      "cardNum": "93/100"
+    },
+    {
+      "name": "Iris's Fighting Spirit",
+      "set": "Battle Partners",
+      "img": "https://den-cards.pokellector.com/408/Iriss-Fighting-Spirit.SV9.94.55770.png",
+      "rarity": "Uncommon",
+      "cardNum": "94/100"
+    },
+    {
+      "name": "Ruffian",
+      "set": "Battle Partners",
+      "img": "https://den-cards.pokellector.com/408/Ruffian.SV9.95.55503.png",
+      "rarity": "Uncommon",
+      "cardNum": "95/100"
+    },
+    {
+      "name": "Brock's Scout",
+      "set": "Battle Partners",
+      "img": "https://den-cards.pokellector.com/408/Brocks-Scout.SV9.96.55494.png",
+      "rarity": "Uncommon",
+      "cardNum": "96/100"
+    },
+    {
+      "name": "N's Castle",
+      "set": "Battle Partners",
+      "img": "https://den-cards.pokellector.com/408/Ns-Castle.SV9.97.55771.png",
+      "rarity": "Uncommon",
+      "cardNum": "97/100"
+    },
+    {
+      "name": "Levincia City",
+      "set": "Battle Partners",
+      "img": "https://den-cards.pokellector.com/408/Levincia-City.SV9.98.55476.png",
+      "rarity": "Uncommon",
+      "cardNum": "98/100"
+    },
+    {
+      "name": "Postwick",
+      "set": "Battle Partners",
+      "img": "https://den-cards.pokellector.com/408/Postwick.SV9.99.55486.png",
+      "rarity": "Uncommon",
+      "cardNum": "99/100"
+    },
+    {
+      "name": "Spike Energy",
+      "set": "Battle Partners",
+      "img": "https://den-cards.pokellector.com/408/Spike-Energy.SV9.100.55772.png",
+      "rarity": "Uncommon",
+      "cardNum": "100/100"
+    },
+    {
+      "name": "Maractus",
+      "set": "Battle Partners",
+      "img": "https://den-cards.pokellector.com/408/Maractus.SV9.101.55541.png",
+      "rarity": "Art Rare",
+      "cardNum": "101/100"
+    },
+    {
+      "name": "Articuno",
+      "set": "Battle Partners",
+      "img": "https://den-cards.pokellector.com/408/Articuno.SV9.102.55538.png",
+      "rarity": "Art Rare",
+      "cardNum": "102/100"
+    },
+    {
+      "name": "Wailord",
+      "set": "Battle Partners",
+      "img": "https://den-cards.pokellector.com/408/Wailord.SV9.103.55539.png",
+      "rarity": "Art Rare",
+      "cardNum": "103/100"
+    },
+    {
+      "name": "Iono's Killowattrel",
+      "set": "Battle Partners",
+      "img": "https://den-cards.pokellector.com/408/Ionos-Killowattrel.SV9.104.55473.png",
+      "rarity": "Art Rare",
+      "cardNum": "104/100"
+    },
+    {
+      "name": "Lillie's Ribombee",
+      "set": "Battle Partners",
+      "img": "https://den-cards.pokellector.com/408/Lillies-Ribombee.SV9.105.56516.png",
+      "rarity": "Art Rare",
+      "cardNum": "105/100"
+    },
+    {
+      "name": "Swinub",
+      "set": "Battle Partners",
+      "img": "https://den-cards.pokellector.com/408/Swinub.SV9.106.56517.png",
+      "rarity": "Art Rare",
+      "cardNum": "106/100"
+    },
+    {
+      "name": "Lycanroc",
+      "set": "Battle Partners",
+      "img": "https://den-cards.pokellector.com/408/Lycanroc.SV9.107.56518.png",
+      "rarity": "Art Rare",
+      "cardNum": "107/100"
+    },
+    {
+      "name": "N's Zorua",
+      "set": "Battle Partners",
+      "img": "https://den-cards.pokellector.com/408/Ns-Zorua.SV9.108.56519.png",
+      "rarity": "Art Rare",
+      "cardNum": "108/100"
+    },
+    {
+      "name": "N's Reshiram",
+      "set": "Battle Partners",
+      "img": "https://den-cards.pokellector.com/408/Ns-Reshiram.SV9.109.55472.png",
+      "rarity": "Art Rare",
+      "cardNum": "109/100"
+    },
+    {
+      "name": "Furret",
+      "set": "Battle Partners",
+      "img": "https://den-cards.pokellector.com/408/Furret.SV9.110.55540.png",
+      "rarity": "Art Rare",
+      "cardNum": "110/100"
+    },
+    {
+      "name": "Noibat",
+      "set": "Battle Partners",
+      "img": "https://den-cards.pokellector.com/408/Noibat.SV9.111.56520.png",
+      "rarity": "Art Rare",
+      "cardNum": "111/100"
+    },
+    {
+      "name": "Hop's Wooloo",
+      "set": "Battle Partners",
+      "img": "https://den-cards.pokellector.com/408/Hops-Wooloo.SV9.112.55537.png",
+      "rarity": "Art Rare",
+      "cardNum": "112/100"
+    },
+    {
+      "name": "Volcanion ex",
+      "set": "Battle Partners",
+      "img": "https://den-cards.pokellector.com/408/Volcanion-ex.SV9.113.56521.png",
+      "rarity": "Super Rare",
+      "cardNum": "113/100"
+    },
+    {
+      "name": "Iono's Bellibolt ex",
+      "set": "Battle Partners",
+      "img": "https://den-cards.pokellector.com/408/Ionos-Bellibolt-ex.SV9.114.56522.png",
+      "rarity": "Super Rare",
+      "cardNum": "114/100"
+    },
+    {
+      "name": "Lillie's Clefairy ex",
+      "set": "Battle Partners",
+      "img": "https://den-cards.pokellector.com/408/Lillies-Clefairy-ex.SV9.115.56523.png",
+      "rarity": "Super Rare",
+      "cardNum": "115/100"
+    },
+    {
+      "name": "Mamoswine ex",
+      "set": "Battle Partners",
+      "img": "https://den-cards.pokellector.com/408/Mamoswine-ex.SV9.116.56524.png",
+      "rarity": "Super Rare",
+      "cardNum": "116/100"
+    },
+    {
+      "name": "N's Zoroark ex",
+      "set": "Battle Partners",
+      "img": "https://den-cards.pokellector.com/408/Ns-Zoroark-ex.SV9.117.56525.png",
+      "rarity": "Super Rare",
+      "cardNum": "117/100"
+    },
+    {
+      "name": "Hop's Zacian ex",
+      "set": "Battle Partners",
+      "img": "https://den-cards.pokellector.com/408/Hops-Zacian-ex.SV9.118.56275.png",
+      "rarity": "Super Rare",
+      "cardNum": "118/100"
+    },
+    {
+      "name": "Salamence ex",
+      "set": "Battle Partners",
+      "img": "https://den-cards.pokellector.com/408/Salamence-ex.SV9.119.56526.png",
+      "rarity": "Super Rare",
+      "cardNum": "119/100"
+    },
+    {
+      "name": "Dudunsparce ex",
+      "set": "Battle Partners",
+      "img": "https://den-cards.pokellector.com/408/Dudunsparce-ex.SV9.120.56527.png",
+      "rarity": "Super Rare",
+      "cardNum": "120/100"
+    },
+    {
+      "name": "Iris's Fighting Spirit",
+      "set": "Battle Partners",
+      "img": "https://den-cards.pokellector.com/408/Iriss-Fighting-Spirit.SV9.121.56528.png",
+      "rarity": "Super Rare",
+      "cardNum": "121/100"
+    },
+    {
+      "name": "Ruffian",
+      "set": "Battle Partners",
+      "img": "https://den-cards.pokellector.com/408/Ruffian.SV9.122.56529.png",
+      "rarity": "Super Rare",
+      "cardNum": "122/100"
+    },
+    {
+      "name": "Brock's Scout",
+      "set": "Battle Partners",
+      "img": "https://den-cards.pokellector.com/408/Brocks-Scout.SV9.123.56530.png",
+      "rarity": "Super Rare",
+      "cardNum": "123/100"
+    },
+    {
+      "name": "Volcanion ex",
+      "set": "Battle Partners",
+      "img": "https://den-cards.pokellector.com/408/Volcanion-ex.SV9.124.56531.png",
+      "rarity": "Special Art Rare",
+      "cardNum": "124/100"
+    },
+    {
+      "name": "Iono's Bellibolt ex",
+      "set": "Battle Partners",
+      "img": "https://den-cards.pokellector.com/408/Ionos-Bellibolt-ex.SV9.125.55475.png",
+      "rarity": "Special Art Rare",
+      "cardNum": "125/100"
+    },
+    {
+      "name": "Lillie's Clefairy ex",
+      "set": "Battle Partners",
+      "img": "https://den-cards.pokellector.com/408/Lillies-Clefairy-ex.SV9.126.56532.png",
+      "rarity": "Special Art Rare",
+      "cardNum": "126/100"
+    },
+    {
+      "name": "N's Zoroark ex",
+      "set": "Battle Partners",
+      "img": "https://den-cards.pokellector.com/408/Ns-Zoroark-ex.SV9.127.56533.png",
+      "rarity": "Special Art Rare",
+      "cardNum": "127/100"
+    },
+    {
+      "name": "Hop's Zacian ex",
+      "set": "Battle Partners",
+      "img": "https://den-cards.pokellector.com/408/Hops-Zacian-ex.SV9.128.55474.png",
+      "rarity": "Special Art Rare",
+      "cardNum": "128/100"
+    },
+    {
+      "name": "Salamence ex",
+      "set": "Battle Partners",
+      "img": "https://den-cards.pokellector.com/408/Salamence-ex.SV9.129.56534.png",
+      "rarity": "Special Art Rare",
+      "cardNum": "129/100"
+    },
+    {
+      "name": "Iono's Bellibolt ex",
+      "set": "Battle Partners",
+      "img": "https://den-cards.pokellector.com/408/Ionos-Bellibolt-ex.SV9.130.56535.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "130/100"
+    },
+    {
+      "name": "N's Zoroark ex",
+      "set": "Battle Partners",
+      "img": "https://den-cards.pokellector.com/408/Ns-Zoroark-ex.SV9.131.56536.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "131/100"
+    },
+    {
+      "name": "Spike Energy",
+      "set": "Battle Partners",
+      "img": "https://den-cards.pokellector.com/408/-Spike-Energy.SV9.132.56537.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "132/100"
+    }
+  ]
+}

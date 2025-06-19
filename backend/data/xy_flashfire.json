@@ -1,0 +1,768 @@
+{
+  "setName": "XY Flashfire",
+  "cards": [
+    {
+      "name": "Caterpie",
+      "set": "XY Flashfire",
+      "img": "https://den-cards.pokellector.com/155/Caterpie.FLF.1.png",
+      "rarity": "Common",
+      "cardNum": "1/106"
+    },
+    {
+      "name": "Metapod",
+      "set": "XY Flashfire",
+      "img": "https://den-cards.pokellector.com/155/Metapod.FLF.2.png",
+      "rarity": "Uncommon",
+      "cardNum": "2/106"
+    },
+    {
+      "name": "Butterfree",
+      "set": "XY Flashfire",
+      "img": "https://den-cards.pokellector.com/155/Butterfree.FLF.3.png",
+      "rarity": "Rare",
+      "cardNum": "3/106"
+    },
+    {
+      "name": "Pineco",
+      "set": "XY Flashfire",
+      "img": "https://den-cards.pokellector.com/155/Pineco.FLF.4.png",
+      "rarity": "Common",
+      "cardNum": "4/106"
+    },
+    {
+      "name": "Seedot",
+      "set": "XY Flashfire",
+      "img": "https://den-cards.pokellector.com/155/Seedot.FLF.5.png",
+      "rarity": "Common",
+      "cardNum": "5/106"
+    },
+    {
+      "name": "Nuzleaf",
+      "set": "XY Flashfire",
+      "img": "https://den-cards.pokellector.com/155/Nuzleaf.FLF.6.png",
+      "rarity": "Uncommon",
+      "cardNum": "6/106"
+    },
+    {
+      "name": "Shiftry",
+      "set": "XY Flashfire",
+      "img": "https://den-cards.pokellector.com/155/Shiftry.FLF.7.png",
+      "rarity": "Rare",
+      "cardNum": "7/106"
+    },
+    {
+      "name": "Roselia",
+      "set": "XY Flashfire",
+      "img": "https://den-cards.pokellector.com/155/Roselia.FLF.8.png",
+      "rarity": "Common",
+      "cardNum": "8/106"
+    },
+    {
+      "name": "Roserade",
+      "set": "XY Flashfire",
+      "img": "https://den-cards.pokellector.com/155/Roserade.FLF.9.png",
+      "rarity": "Uncommon",
+      "cardNum": "9/106"
+    },
+    {
+      "name": "Maractus",
+      "set": "XY Flashfire",
+      "img": "https://den-cards.pokellector.com/155/Maractus.FLF.10.png",
+      "rarity": "Uncommon",
+      "cardNum": "10/106"
+    },
+    {
+      "name": "Charizard EX",
+      "set": "XY Flashfire",
+      "img": "https://den-cards.pokellector.com/155/Charizard-EX.FLF.11.png",
+      "rarity": "Rare",
+      "cardNum": "11/106"
+    },
+    {
+      "name": "Charizard EX",
+      "set": "XY Flashfire",
+      "img": "https://den-cards.pokellector.com/155/Charizard-EX.FLF.12.png",
+      "rarity": "Rare",
+      "cardNum": "12/106"
+    },
+    {
+      "name": "M Charizard EX",
+      "set": "XY Flashfire",
+      "img": "https://den-cards.pokellector.com/155/M-Charizard-EX.FLF.13.png",
+      "rarity": "Rare",
+      "cardNum": "13/106"
+    },
+    {
+      "name": "Ponyta",
+      "set": "XY Flashfire",
+      "img": "https://den-cards.pokellector.com/155/Ponyta.FLF.14.png",
+      "rarity": "Common",
+      "cardNum": "14/106"
+    },
+    {
+      "name": "Rapidash",
+      "set": "XY Flashfire",
+      "img": "https://den-cards.pokellector.com/155/Rapidash.FLF.15.png",
+      "rarity": "Uncommon",
+      "cardNum": "15/106"
+    },
+    {
+      "name": "Torkoal",
+      "set": "XY Flashfire",
+      "img": "https://den-cards.pokellector.com/155/Torkoal.FLF.16.png",
+      "rarity": "Uncommon",
+      "cardNum": "16/106"
+    },
+    {
+      "name": "Fletchinder",
+      "set": "XY Flashfire",
+      "img": "https://den-cards.pokellector.com/155/Fletchinder.FLF.17.png",
+      "rarity": "Uncommon",
+      "cardNum": "17/106"
+    },
+    {
+      "name": "Litleo",
+      "set": "XY Flashfire",
+      "img": "https://den-cards.pokellector.com/155/Litleo.FLF.18.png",
+      "rarity": "Common",
+      "cardNum": "18/106"
+    },
+    {
+      "name": "Litleo",
+      "set": "XY Flashfire",
+      "img": "https://den-cards.pokellector.com/155/Litleo.FLF.19.png",
+      "rarity": "Common",
+      "cardNum": "19/106"
+    },
+    {
+      "name": "Pyroar",
+      "set": "XY Flashfire",
+      "img": "https://den-cards.pokellector.com/155/Pyroar.FLF.20.png",
+      "rarity": "Rare",
+      "cardNum": "20/106"
+    },
+    {
+      "name": "Qwilfish",
+      "set": "XY Flashfire",
+      "img": "https://den-cards.pokellector.com/155/Qwilfish.FLF.21.png",
+      "rarity": "Rare",
+      "cardNum": "21/106"
+    },
+    {
+      "name": "Feebas",
+      "set": "XY Flashfire",
+      "img": "https://den-cards.pokellector.com/155/Feebas.FLF.22.png",
+      "rarity": "Common",
+      "cardNum": "22/106"
+    },
+    {
+      "name": "Milotic",
+      "set": "XY Flashfire",
+      "img": "https://den-cards.pokellector.com/155/Milotic.FLF.23.png",
+      "rarity": "Rare",
+      "cardNum": "23/106"
+    },
+    {
+      "name": "Spheal",
+      "set": "XY Flashfire",
+      "img": "https://den-cards.pokellector.com/155/Spheal.FLF.24.png",
+      "rarity": "Common",
+      "cardNum": "24/106"
+    },
+    {
+      "name": "Sealeo",
+      "set": "XY Flashfire",
+      "img": "https://den-cards.pokellector.com/155/Sealeo.FLF.25.png",
+      "rarity": "Uncommon",
+      "cardNum": "25/106"
+    },
+    {
+      "name": "Walrein",
+      "set": "XY Flashfire",
+      "img": "https://den-cards.pokellector.com/155/Walrein.FLF.26.png",
+      "rarity": "Rare",
+      "cardNum": "26/106"
+    },
+    {
+      "name": "Luvdisc",
+      "set": "XY Flashfire",
+      "img": "https://den-cards.pokellector.com/155/Luvdisc.FLF.27.png",
+      "rarity": "Uncommon",
+      "cardNum": "27/106"
+    },
+    {
+      "name": "Buizel",
+      "set": "XY Flashfire",
+      "img": "https://den-cards.pokellector.com/155/Buizel.FLF.28.png",
+      "rarity": "Common",
+      "cardNum": "28/106"
+    },
+    {
+      "name": "Floatzel",
+      "set": "XY Flashfire",
+      "img": "https://den-cards.pokellector.com/155/Floatzel.FLF.29.png",
+      "rarity": "Rare",
+      "cardNum": "29/106"
+    },
+    {
+      "name": "Bergmite",
+      "set": "XY Flashfire",
+      "img": "https://den-cards.pokellector.com/155/Bergmite.FLF.30.png",
+      "rarity": "Common",
+      "cardNum": "30/106"
+    },
+    {
+      "name": "Avalugg",
+      "set": "XY Flashfire",
+      "img": "https://den-cards.pokellector.com/155/Avalugg.FLF.31.png",
+      "rarity": "Uncommon",
+      "cardNum": "31/106"
+    },
+    {
+      "name": "Shinx",
+      "set": "XY Flashfire",
+      "img": "https://den-cards.pokellector.com/155/Shinx.FLF.32.png",
+      "rarity": "Common",
+      "cardNum": "32/106"
+    },
+    {
+      "name": "Luxio",
+      "set": "XY Flashfire",
+      "img": "https://den-cards.pokellector.com/155/Luxio.FLF.33.png",
+      "rarity": "Uncommon",
+      "cardNum": "33/106"
+    },
+    {
+      "name": "Luxray",
+      "set": "XY Flashfire",
+      "img": "https://den-cards.pokellector.com/155/Luxray.FLF.34.png",
+      "rarity": "Rare",
+      "cardNum": "34/106"
+    },
+    {
+      "name": "Magnezone EX",
+      "set": "XY Flashfire",
+      "img": "https://den-cards.pokellector.com/155/Magnezone-EX.FLF.35.png",
+      "rarity": "Rare",
+      "cardNum": "35/106"
+    },
+    {
+      "name": "Helioptile",
+      "set": "XY Flashfire",
+      "img": "https://den-cards.pokellector.com/155/Helioptile.FLF.36.png",
+      "rarity": "Common",
+      "cardNum": "36/106"
+    },
+    {
+      "name": "Heliolisk",
+      "set": "XY Flashfire",
+      "img": "https://den-cards.pokellector.com/155/Heliolisk.FLF.37.png",
+      "rarity": "Rare",
+      "cardNum": "37/106"
+    },
+    {
+      "name": "Duskull",
+      "set": "XY Flashfire",
+      "img": "https://den-cards.pokellector.com/155/Duskull.FLF.38.png",
+      "rarity": "Common",
+      "cardNum": "38/106"
+    },
+    {
+      "name": "Dusclops",
+      "set": "XY Flashfire",
+      "img": "https://den-cards.pokellector.com/155/Dusclops.FLF.39.png",
+      "rarity": "Uncommon",
+      "cardNum": "39/106"
+    },
+    {
+      "name": "Dusknoir",
+      "set": "XY Flashfire",
+      "img": "https://den-cards.pokellector.com/155/Dusknoir.FLF.40.png",
+      "rarity": "Rare",
+      "cardNum": "40/106"
+    },
+    {
+      "name": "Toxicroak EX",
+      "set": "XY Flashfire",
+      "img": "https://den-cards.pokellector.com/155/Toxicroak-EX.FLF.41.png",
+      "rarity": "Rare",
+      "cardNum": "41/106"
+    },
+    {
+      "name": "Espurr",
+      "set": "XY Flashfire",
+      "img": "https://den-cards.pokellector.com/155/Espurr.FLF.42.png",
+      "rarity": "Common",
+      "cardNum": "42/106"
+    },
+    {
+      "name": "Meowstic",
+      "set": "XY Flashfire",
+      "img": "https://den-cards.pokellector.com/155/Meowstic.FLF.43.png",
+      "rarity": "Rare",
+      "cardNum": "43/106"
+    },
+    {
+      "name": "Skrelp",
+      "set": "XY Flashfire",
+      "img": "https://den-cards.pokellector.com/155/Skrelp.FLF.44.png",
+      "rarity": "Common",
+      "cardNum": "44/106"
+    },
+    {
+      "name": "Geodude",
+      "set": "XY Flashfire",
+      "img": "https://den-cards.pokellector.com/155/Geodude.FLF.45.png",
+      "rarity": "Common",
+      "cardNum": "45/106"
+    },
+    {
+      "name": "Graveler",
+      "set": "XY Flashfire",
+      "img": "https://den-cards.pokellector.com/155/Graveler.FLF.46.png",
+      "rarity": "Uncommon",
+      "cardNum": "46/106"
+    },
+    {
+      "name": "Golem",
+      "set": "XY Flashfire",
+      "img": "https://den-cards.pokellector.com/155/Golem.FLF.47.png",
+      "rarity": "Rare",
+      "cardNum": "47/106"
+    },
+    {
+      "name": "Binacle",
+      "set": "XY Flashfire",
+      "img": "https://den-cards.pokellector.com/155/Binacle.FLF.48.png",
+      "rarity": "Common",
+      "cardNum": "48/106"
+    },
+    {
+      "name": "Barbaracle",
+      "set": "XY Flashfire",
+      "img": "https://den-cards.pokellector.com/155/Barbaracle.FLF.49.png",
+      "rarity": "Rare",
+      "cardNum": "49/106"
+    },
+    {
+      "name": "Sneasel",
+      "set": "XY Flashfire",
+      "img": "https://den-cards.pokellector.com/155/Sneasel.FLF.50.png",
+      "rarity": "Uncommon",
+      "cardNum": "50/106"
+    },
+    {
+      "name": "Sneasel",
+      "set": "XY Flashfire",
+      "img": "https://den-cards.pokellector.com/155/Sneasel.FLF.51.png",
+      "rarity": "Common",
+      "cardNum": "51/106"
+    },
+    {
+      "name": "Weavile",
+      "set": "XY Flashfire",
+      "img": "https://den-cards.pokellector.com/155/Weavile.FLF.52.png",
+      "rarity": "Rare",
+      "cardNum": "52/106"
+    },
+    {
+      "name": "Stunky",
+      "set": "XY Flashfire",
+      "img": "https://den-cards.pokellector.com/155/Stunky.FLF.53.png",
+      "rarity": "Common",
+      "cardNum": "53/106"
+    },
+    {
+      "name": "Stunky",
+      "set": "XY Flashfire",
+      "img": "https://den-cards.pokellector.com/155/Stunky.FLF.54.png",
+      "rarity": "Common",
+      "cardNum": "54/106"
+    },
+    {
+      "name": "Skuntank",
+      "set": "XY Flashfire",
+      "img": "https://den-cards.pokellector.com/155/Skuntank.FLF.55.png",
+      "rarity": "Rare",
+      "cardNum": "55/106"
+    },
+    {
+      "name": "Sandile",
+      "set": "XY Flashfire",
+      "img": "https://den-cards.pokellector.com/155/Sandile.FLF.56.png",
+      "rarity": "Common",
+      "cardNum": "56/106"
+    },
+    {
+      "name": "Krokorok",
+      "set": "XY Flashfire",
+      "img": "https://den-cards.pokellector.com/155/Krokorok.FLF.57.png",
+      "rarity": "Uncommon",
+      "cardNum": "57/106"
+    },
+    {
+      "name": "Scraggy",
+      "set": "XY Flashfire",
+      "img": "https://den-cards.pokellector.com/155/Scraggy.FLF.58.png",
+      "rarity": "Common",
+      "cardNum": "58/106"
+    },
+    {
+      "name": "Scrafty",
+      "set": "XY Flashfire",
+      "img": "https://den-cards.pokellector.com/155/Scrafty.FLF.59.png",
+      "rarity": "Rare",
+      "cardNum": "59/106"
+    },
+    {
+      "name": "Forretress",
+      "set": "XY Flashfire",
+      "img": "https://den-cards.pokellector.com/155/Forretress.FLF.60.png",
+      "rarity": "Rare",
+      "cardNum": "60/106"
+    },
+    {
+      "name": "Durant",
+      "set": "XY Flashfire",
+      "img": "https://den-cards.pokellector.com/155/Durant.FLF.61.png",
+      "rarity": "Rare",
+      "cardNum": "61/106"
+    },
+    {
+      "name": "Flabebe",
+      "set": "XY Flashfire",
+      "img": "https://den-cards.pokellector.com/155/Flabebe.FLF.62.png",
+      "rarity": "Common",
+      "cardNum": "62/106"
+    },
+    {
+      "name": "Flabebe",
+      "set": "XY Flashfire",
+      "img": "https://den-cards.pokellector.com/155/Flabebe.FLF.63.png",
+      "rarity": "Common",
+      "cardNum": "63/106"
+    },
+    {
+      "name": "Floette",
+      "set": "XY Flashfire",
+      "img": "https://den-cards.pokellector.com/155/Floette.FLF.64.png",
+      "rarity": "Rare",
+      "cardNum": "64/106"
+    },
+    {
+      "name": "Floette",
+      "set": "XY Flashfire",
+      "img": "https://den-cards.pokellector.com/155/Floette.FLF.65.png",
+      "rarity": "Uncommon",
+      "cardNum": "65/106"
+    },
+    {
+      "name": "Florges",
+      "set": "XY Flashfire",
+      "img": "https://den-cards.pokellector.com/155/Florges.FLF.66.png",
+      "rarity": "Rare",
+      "cardNum": "66/106"
+    },
+    {
+      "name": "Spritzee",
+      "set": "XY Flashfire",
+      "img": "https://den-cards.pokellector.com/155/Spritzee.FLF.67.png",
+      "rarity": "Common",
+      "cardNum": "67/106"
+    },
+    {
+      "name": "Carbink",
+      "set": "XY Flashfire",
+      "img": "https://den-cards.pokellector.com/155/Carbink.FLF.68.png",
+      "rarity": "Rare",
+      "cardNum": "68/106"
+    },
+    {
+      "name": "M Charizard EX",
+      "set": "XY Flashfire",
+      "img": "https://den-cards.pokellector.com/155/M-Charizard-EX.FLF.69.png",
+      "rarity": "Rare",
+      "cardNum": "69/106"
+    },
+    {
+      "name": "Druddigon",
+      "set": "XY Flashfire",
+      "img": "https://den-cards.pokellector.com/155/Druddigon.FLF.70.png",
+      "rarity": "Rare",
+      "cardNum": "70/106"
+    },
+    {
+      "name": "Dragalge",
+      "set": "XY Flashfire",
+      "img": "https://den-cards.pokellector.com/155/Dragalge.FLF.71.png",
+      "rarity": "Rare",
+      "cardNum": "71/106"
+    },
+    {
+      "name": "Goomy",
+      "set": "XY Flashfire",
+      "img": "https://den-cards.pokellector.com/155/Goomy.FLF.72.png",
+      "rarity": "Common",
+      "cardNum": "72/106"
+    },
+    {
+      "name": "Sliggoo",
+      "set": "XY Flashfire",
+      "img": "https://den-cards.pokellector.com/155/Sliggoo.FLF.73.png",
+      "rarity": "Uncommon",
+      "cardNum": "73/106"
+    },
+    {
+      "name": "Goodra",
+      "set": "XY Flashfire",
+      "img": "https://den-cards.pokellector.com/155/Goodra.FLF.74.png",
+      "rarity": "Rare",
+      "cardNum": "74/106"
+    },
+    {
+      "name": "Pidgey",
+      "set": "XY Flashfire",
+      "img": "https://den-cards.pokellector.com/155/Pidgey.FLF.75.png",
+      "rarity": "Common",
+      "cardNum": "75/106"
+    },
+    {
+      "name": "Pidgeotto",
+      "set": "XY Flashfire",
+      "img": "https://den-cards.pokellector.com/155/Pidgeotto.FLF.76.png",
+      "rarity": "Uncommon",
+      "cardNum": "76/106"
+    },
+    {
+      "name": "Pidgeot",
+      "set": "XY Flashfire",
+      "img": "https://den-cards.pokellector.com/155/Pidgeot.FLF.77.png",
+      "rarity": "Rare",
+      "cardNum": "77/106"
+    },
+    {
+      "name": "Kangaskhan EX",
+      "set": "XY Flashfire",
+      "img": "https://den-cards.pokellector.com/155/Kangaskhan-EX.FLF.78.png",
+      "rarity": "Rare",
+      "cardNum": "78/106"
+    },
+    {
+      "name": "M Kangaskhan EX",
+      "set": "XY Flashfire",
+      "img": "https://den-cards.pokellector.com/155/M-Kangaskhan-EX.FLF.79.png",
+      "rarity": "Rare",
+      "cardNum": "79/106"
+    },
+    {
+      "name": "Snorlax",
+      "set": "XY Flashfire",
+      "img": "https://den-cards.pokellector.com/155/Snorlax.FLF.80.png",
+      "rarity": "Rare",
+      "cardNum": "80/106"
+    },
+    {
+      "name": "Sentret",
+      "set": "XY Flashfire",
+      "img": "https://den-cards.pokellector.com/155/Sentret.FLF.81.png",
+      "rarity": "Common",
+      "cardNum": "81/106"
+    },
+    {
+      "name": "Furret",
+      "set": "XY Flashfire",
+      "img": "https://den-cards.pokellector.com/155/Furret.FLF.82.png",
+      "rarity": "Rare",
+      "cardNum": "82/106"
+    },
+    {
+      "name": "Miltank",
+      "set": "XY Flashfire",
+      "img": "https://den-cards.pokellector.com/155/Miltank.FLF.83.png",
+      "rarity": "Uncommon",
+      "cardNum": "83/106"
+    },
+    {
+      "name": "Buneary",
+      "set": "XY Flashfire",
+      "img": "https://den-cards.pokellector.com/155/Buneary.FLF.84.png",
+      "rarity": "Common",
+      "cardNum": "84/106"
+    },
+    {
+      "name": "Lopunny",
+      "set": "XY Flashfire",
+      "img": "https://den-cards.pokellector.com/155/Lopunny.FLF.85.png",
+      "rarity": "Rare",
+      "cardNum": "85/106"
+    },
+    {
+      "name": "Fletchling",
+      "set": "XY Flashfire",
+      "img": "https://den-cards.pokellector.com/155/Fletchling.FLF.86.png",
+      "rarity": "Common",
+      "cardNum": "86/106"
+    },
+    {
+      "name": "Furfrou",
+      "set": "XY Flashfire",
+      "img": "https://den-cards.pokellector.com/155/Furfrou.FLF.87.png",
+      "rarity": "Uncommon",
+      "cardNum": "87/106"
+    },
+    {
+      "name": "Blacksmith",
+      "set": "XY Flashfire",
+      "img": "https://den-cards.pokellector.com/155/Blacksmith.FLF.88.png",
+      "rarity": "Uncommon",
+      "cardNum": "88/106"
+    },
+    {
+      "name": "Fiery Torch",
+      "set": "XY Flashfire",
+      "img": "https://den-cards.pokellector.com/155/Fiery-Torch.FLF.89.png",
+      "rarity": "Uncommon",
+      "cardNum": "89/106"
+    },
+    {
+      "name": "Lysandre",
+      "set": "XY Flashfire",
+      "img": "https://den-cards.pokellector.com/155/Lysandre.FLF.90.png",
+      "rarity": "Uncommon",
+      "cardNum": "90/106"
+    },
+    {
+      "name": "Magnetic Storm",
+      "set": "XY Flashfire",
+      "img": "https://den-cards.pokellector.com/155/Magnetic-Storm.FLF.91.png",
+      "rarity": "Uncommon",
+      "cardNum": "91/106"
+    },
+    {
+      "name": "Pal Pad",
+      "set": "XY Flashfire",
+      "img": "https://den-cards.pokellector.com/155/Pal-Pad.FLF.92.png",
+      "rarity": "Uncommon",
+      "cardNum": "92/106"
+    },
+    {
+      "name": "Pokemon Center Lady",
+      "set": "XY Flashfire",
+      "img": "https://den-cards.pokellector.com/155/Pokemon-Center-Lady.FLF.93.png",
+      "rarity": "Uncommon",
+      "cardNum": "93/106"
+    },
+    {
+      "name": "Pokemon Fan Club",
+      "set": "XY Flashfire",
+      "img": "https://den-cards.pokellector.com/155/Pokemon-Fan-Club.FLF.94.png",
+      "rarity": "Uncommon",
+      "cardNum": "94/106"
+    },
+    {
+      "name": "Protection Cube",
+      "set": "XY Flashfire",
+      "img": "https://den-cards.pokellector.com/155/Protection-Cube.FLF.95.png",
+      "rarity": "Uncommon",
+      "cardNum": "95/106"
+    },
+    {
+      "name": "Sacred Ash",
+      "set": "XY Flashfire",
+      "img": "https://den-cards.pokellector.com/155/Sacred-Ash.FLF.96.png",
+      "rarity": "Uncommon",
+      "cardNum": "96/106"
+    },
+    {
+      "name": "Startling Megaphone",
+      "set": "XY Flashfire",
+      "img": "https://den-cards.pokellector.com/155/Startling-Megaphone.FLF.97.png",
+      "rarity": "Uncommon",
+      "cardNum": "97/106"
+    },
+    {
+      "name": "Trick Shovel",
+      "set": "XY Flashfire",
+      "img": "https://den-cards.pokellector.com/155/Trick-Shovel.FLF.98.png",
+      "rarity": "Uncommon",
+      "cardNum": "98/106"
+    },
+    {
+      "name": "Ultra Ball",
+      "set": "XY Flashfire",
+      "img": "https://den-cards.pokellector.com/155/Ultra-Ball.FLF.99.png",
+      "rarity": "Uncommon",
+      "cardNum": "99/106"
+    },
+    {
+      "name": "Charizard EX",
+      "set": "XY Flashfire",
+      "img": "https://den-cards.pokellector.com/155/Charizard-EX.FLF.100.png",
+      "rarity": "Rare",
+      "cardNum": "100/106"
+    },
+    {
+      "name": "Magnezone EX",
+      "set": "XY Flashfire",
+      "img": "https://den-cards.pokellector.com/155/Magnezone-EX.FLF.101.png",
+      "rarity": "Rare",
+      "cardNum": "101/106"
+    },
+    {
+      "name": "Toxicroak EX",
+      "set": "XY Flashfire",
+      "img": "https://den-cards.pokellector.com/155/Toxicroak-EX.FLF.102.png",
+      "rarity": "Rare",
+      "cardNum": "102/106"
+    },
+    {
+      "name": "Kangaskhan EX",
+      "set": "XY Flashfire",
+      "img": "https://den-cards.pokellector.com/155/Kangaskhan-EX.FLF.103.png",
+      "rarity": "Rare",
+      "cardNum": "103/106"
+    },
+    {
+      "name": "Lysandre",
+      "set": "XY Flashfire",
+      "img": "https://den-cards.pokellector.com/155/Lysandre.FLF.104.png",
+      "rarity": "Rare",
+      "cardNum": "104/106"
+    },
+    {
+      "name": "Pokemon Center Lady",
+      "set": "XY Flashfire",
+      "img": "https://den-cards.pokellector.com/155/Pokemon-Center-Lady.FLF.105.png",
+      "rarity": "Rare",
+      "cardNum": "105/106"
+    },
+    {
+      "name": "Pokemon Fan Club",
+      "set": "XY Flashfire",
+      "img": "https://den-cards.pokellector.com/155/Pokemon-Fan-Club.FLF.106.png",
+      "rarity": "Rare",
+      "cardNum": "106/106"
+    },
+    {
+      "name": "M Charizard EX",
+      "set": "XY Flashfire",
+      "img": "https://den-cards.pokellector.com/155/M-Charizard-EX.FLF.107.png",
+      "rarity": "Secret Rare",
+      "cardNum": "107/106"
+    },
+    {
+      "name": "M Charizard EX",
+      "set": "XY Flashfire",
+      "img": "https://den-cards.pokellector.com/155/M-Charizard-EX.FLF.108.png",
+      "rarity": "Secret Rare",
+      "cardNum": "108/106"
+    },
+    {
+      "name": "M Kangaskhan EX",
+      "set": "XY Flashfire",
+      "img": "https://den-cards.pokellector.com/155/M-Kangaskhan-EX.FLF.109.png",
+      "rarity": "Secret Rare",
+      "cardNum": "109/106"
+    }
+  ]
+}

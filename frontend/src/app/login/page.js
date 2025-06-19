@@ -47,27 +47,27 @@ export default function Page() {
     }
 
     return (
-        <>
+        <div className="loginPage">
             {login ? (
-                <div className="main">
+                <div className="loginMain">
                     <h3 style={{color: "black"}}>Enter your login credentials</h3>
 
                     <form onSubmit={handleSubmit}>
-                        <label>
+                        <label className="loginLabel">
                             Email:
                         </label>
-                        <input type="text" id="email" name="email" value={email}
+                        <input type="text" id="email" name="email" value={email} className="loginInput"
                                onChange={(e) => setEmail(e.target.value)}
                                placeholder="Enter your Email" required/>
 
-                        <label htmlFor="password">
+                        <label htmlFor="password" className="loginLabel">
                             Password:
                         </label>
-                        <input type="password" id="password" name="password" value={password}
+                        <input type="password" id="password" name="password" value={password} className="loginInput"
                                onChange={(e) => setPassword(e.target.value)}
                                placeholder="Enter your Password" required/>
                         <div className="wrap">
-                            <button type="submit">
+                            <button type="submit" className="loginButton">
                                 Submit
                             </button>
                         </div>
@@ -86,36 +86,36 @@ export default function Page() {
                         </span>
                     </p>
                 </div>) : (
-                <div className="main">
+                <div className="loginMain">
 
                     <form onSubmit={handleSubmit}>
-                        <label>
+                        <label className="loginLabel">
                             First Name:
                         </label>
-                        <input type="text" id="first" name="first" value={firstName}
+                        <input type="text" id="first" name="first" value={firstName} className="loginInput"
                                onChange={(e) => setFirstName(e.target.value)}
                                placeholder="Enter your First Name" required/>
-                        <label>
+                        <label className="loginLabel">
                             Last Name:
                         </label>
-                        <input type="text" id="last" name="last" value={lastName}
+                        <input type="text" id="last" name="last" value={lastName} className="loginInput"
                                onChange={(e) => setLastName(e.target.value)}
                                placeholder="Enter your Last Name" required/>
-                        <label>
+                        <label className="loginLabel">
                             Email:
                         </label>
-                        <input type="text" id="email" name="email" value={email}
+                        <input type="text" id="email" name="email" value={email} className="loginInput"
                                onChange={(e) => setEmail(e.target.value)}
                                placeholder="Enter your Email" required/>
 
-                        <label htmlFor="password">
+                        <label htmlFor="password" className="loginLabel">
                             Password:
                         </label>
-                        <input type="password" id="password" name="password" value={password}
+                        <input type="password" id="password" name="password" value={password} className="loginInput"
                                onChange={(e) => setPassword(e.target.value)}
                                placeholder="Enter your Password" required/>
                         <div className="wrap">
-                            <button type="submit">
+                            <button type="submit" className="loginButton">
                                 Submit
                             </button>
                         </div>
@@ -134,6 +134,6 @@ export default function Page() {
                     </p>
                 </div>
             )}
-        </>
+        </div>
     )
 }

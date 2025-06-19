@@ -1,0 +1,803 @@
+{
+  "setName": "EX Delta Species",
+  "cards": [
+    {
+      "name": "Beedrill  (delta species)",
+      "set": "EX Delta Species",
+      "img": "https://den-cards.pokellector.com/62/Beedrill-.DS.1.png",
+      "rarity": "Rare",
+      "cardNum": "1/113"
+    },
+    {
+      "name": "Crobat  (delta species)",
+      "set": "EX Delta Species",
+      "img": "https://den-cards.pokellector.com/62/Crobat-delta-species.DS.2.png",
+      "rarity": "Rare",
+      "cardNum": "2/113"
+    },
+    {
+      "name": "Dragonite  (delta species)",
+      "set": "EX Delta Species",
+      "img": "https://den-cards.pokellector.com/62/Dragonite-.DS.3.png",
+      "rarity": "Rare",
+      "cardNum": "3/113"
+    },
+    {
+      "name": "Espeon  (delta species)",
+      "set": "EX Delta Species",
+      "img": "https://den-cards.pokellector.com/62/Espeon-delta-species.DS.4.png",
+      "rarity": "Rare",
+      "cardNum": "4/113"
+    },
+    {
+      "name": "Flareon  (delta species)",
+      "set": "EX Delta Species",
+      "img": "https://den-cards.pokellector.com/62/Flareon-delta-species.DS.5.png",
+      "rarity": "Rare",
+      "cardNum": "5/113"
+    },
+    {
+      "name": "Gardevoir (delta species)",
+      "set": "EX Delta Species",
+      "img": "https://den-cards.pokellector.com/62/Gardevoir-delta-species.DS.6.png",
+      "rarity": "Rare",
+      "cardNum": "6/113"
+    },
+    {
+      "name": "Jolteon  (delta species)",
+      "set": "EX Delta Species",
+      "img": "https://den-cards.pokellector.com/62/Jolteon-delta-species.DS.7.png",
+      "rarity": "Rare",
+      "cardNum": "7/113"
+    },
+    {
+      "name": "Latias  (delta species)",
+      "set": "EX Delta Species",
+      "img": "https://den-cards.pokellector.com/62/Latias-delta-species.DS.8.png",
+      "rarity": "Rare",
+      "cardNum": "8/113"
+    },
+    {
+      "name": "Latios  (delta species)",
+      "set": "EX Delta Species",
+      "img": "https://den-cards.pokellector.com/62/Latios-.DS.9.png",
+      "rarity": "Rare",
+      "cardNum": "9/113"
+    },
+    {
+      "name": "Marowak  (delta species)",
+      "set": "EX Delta Species",
+      "img": "https://den-cards.pokellector.com/62/Marowak-delta-species.DS.10.png",
+      "rarity": "Rare",
+      "cardNum": "10/113"
+    },
+    {
+      "name": "Metagross  (delta species)",
+      "set": "EX Delta Species",
+      "img": "https://den-cards.pokellector.com/62/Metagross-.DS.11.png",
+      "rarity": "Rare",
+      "cardNum": "11/113"
+    },
+    {
+      "name": "Mewtwo  (delta species)",
+      "set": "EX Delta Species",
+      "img": "https://den-cards.pokellector.com/62/Mewtwo-delta-species.DS.12.png",
+      "rarity": "Rare",
+      "cardNum": "12/113"
+    },
+    {
+      "name": "Rayquaza  (delta species)",
+      "set": "EX Delta Species",
+      "img": "https://den-cards.pokellector.com/62/Rayquaza-.DS.13.png",
+      "rarity": "Rare",
+      "cardNum": "13/113"
+    },
+    {
+      "name": "Salamence  (delta species)",
+      "set": "EX Delta Species",
+      "img": "https://den-cards.pokellector.com/62/Salamence-delta-species.DS.14.png",
+      "rarity": "Rare",
+      "cardNum": "14/113"
+    },
+    {
+      "name": "Starmie  (delta species)",
+      "set": "EX Delta Species",
+      "img": "https://den-cards.pokellector.com/62/Starmie-delta-species.DS.15.png",
+      "rarity": "Rare",
+      "cardNum": "15/113"
+    },
+    {
+      "name": "Tyranitar  (delta species)",
+      "set": "EX Delta Species",
+      "img": "https://den-cards.pokellector.com/62/Tyranitar-delta-species.DS.16.png",
+      "rarity": "Rare",
+      "cardNum": "16/113"
+    },
+    {
+      "name": "Umbreon  (delta species)",
+      "set": "EX Delta Species",
+      "img": "https://den-cards.pokellector.com/62/Umbreon-delta-species.DS.17.png",
+      "rarity": "Rare",
+      "cardNum": "17/113"
+    },
+    {
+      "name": "Vaporeon  (delta species)",
+      "set": "EX Delta Species",
+      "img": "https://den-cards.pokellector.com/62/Vaporeon-delta-species.DS.18.png",
+      "rarity": "Rare",
+      "cardNum": "18/113"
+    },
+    {
+      "name": "Azumarill  (delta species)",
+      "set": "EX Delta Species",
+      "img": "https://den-cards.pokellector.com/62/Azumarill-.DS.19.png",
+      "rarity": "Rare",
+      "cardNum": "19/113"
+    },
+    {
+      "name": "Azurill",
+      "set": "EX Delta Species",
+      "img": "https://den-cards.pokellector.com/62/Azurill.DS.20.png",
+      "rarity": "Rare",
+      "cardNum": "20/113"
+    },
+    {
+      "name": "Holon's Electrode",
+      "set": "EX Delta Species",
+      "img": "https://den-cards.pokellector.com/62/Holons-Electrode.DS.21.png",
+      "rarity": "Rare",
+      "cardNum": "21/113"
+    },
+    {
+      "name": "Holon's Magneton",
+      "set": "EX Delta Species",
+      "img": "https://den-cards.pokellector.com/62/Holons-Magneton.DS.22.png",
+      "rarity": "Rare",
+      "cardNum": "22/113"
+    },
+    {
+      "name": "Hypno",
+      "set": "EX Delta Species",
+      "img": "https://den-cards.pokellector.com/62/Hypno.DS.23.png",
+      "rarity": "Rare",
+      "cardNum": "23/113"
+    },
+    {
+      "name": "Mightyena  (delta species)",
+      "set": "EX Delta Species",
+      "img": "https://den-cards.pokellector.com/62/Mightyena-delta-species.DS.24.png",
+      "rarity": "Rare",
+      "cardNum": "24/113"
+    },
+    {
+      "name": "Porygon2",
+      "set": "EX Delta Species",
+      "img": "https://den-cards.pokellector.com/62/Porygon2.DS.25.png",
+      "rarity": "Rare",
+      "cardNum": "25/113"
+    },
+    {
+      "name": "Rain Castform",
+      "set": "EX Delta Species",
+      "img": "https://den-cards.pokellector.com/62/Rain-Castform.DS.26.png",
+      "rarity": "Rare",
+      "cardNum": "26/113"
+    },
+    {
+      "name": "Sandslash  (delta species)",
+      "set": "EX Delta Species",
+      "img": "https://den-cards.pokellector.com/62/Sandslash-delta-species.DS.27.png",
+      "rarity": "Rare",
+      "cardNum": "27/113"
+    },
+    {
+      "name": "Slowking",
+      "set": "EX Delta Species",
+      "img": "https://den-cards.pokellector.com/62/Slowking.DS.28.png",
+      "rarity": "Rare",
+      "cardNum": "28/113"
+    },
+    {
+      "name": "Snow-cloud Castform",
+      "set": "EX Delta Species",
+      "img": "https://den-cards.pokellector.com/62/Snow-cloud-Castform.DS.29.png",
+      "rarity": "Rare",
+      "cardNum": "29/113"
+    },
+    {
+      "name": "Starmie  (delta species)",
+      "set": "EX Delta Species",
+      "img": "https://den-cards.pokellector.com/62/Starmie-delta-species.DS.30.png",
+      "rarity": "Rare",
+      "cardNum": "30/113"
+    },
+    {
+      "name": "Sunny Castform",
+      "set": "EX Delta Species",
+      "img": "https://den-cards.pokellector.com/62/Sunny-Castform.DS.31.png",
+      "rarity": "Rare",
+      "cardNum": "31/113"
+    },
+    {
+      "name": "Swellow",
+      "set": "EX Delta Species",
+      "img": "https://den-cards.pokellector.com/62/Swellow.DS.32.png",
+      "rarity": "Rare",
+      "cardNum": "32/113"
+    },
+    {
+      "name": "Weezing",
+      "set": "EX Delta Species",
+      "img": "https://den-cards.pokellector.com/62/Weezing.DS.33.png",
+      "rarity": "Rare",
+      "cardNum": "33/113"
+    },
+    {
+      "name": "Castform",
+      "set": "EX Delta Species",
+      "img": "https://den-cards.pokellector.com/62/Castform.DS.34.png",
+      "rarity": "Uncommon",
+      "cardNum": "34/113"
+    },
+    {
+      "name": "Ditto",
+      "set": "EX Delta Species",
+      "img": "https://den-cards.pokellector.com/62/Ditto.DS.35.png",
+      "rarity": "Uncommon",
+      "cardNum": "35/113"
+    },
+    {
+      "name": "Ditto (Bulbasaur)",
+      "set": "EX Delta Species",
+      "img": "https://den-cards.pokellector.com/62/Ditto-Bulbasaur.DS.36.png",
+      "rarity": "Uncommon",
+      "cardNum": "36/113"
+    },
+    {
+      "name": "Ditto (Charmander)",
+      "set": "EX Delta Species",
+      "img": "https://den-cards.pokellector.com/62/Ditto-Charmander.DS.37.png",
+      "rarity": "Uncommon",
+      "cardNum": "37/113"
+    },
+    {
+      "name": "Ditto (Mr. Mime)",
+      "set": "EX Delta Species",
+      "img": "https://den-cards.pokellector.com/62/Ditto-Mr-Mime.DS.38.png",
+      "rarity": "Uncommon",
+      "cardNum": "38/113"
+    },
+    {
+      "name": "Ditto (Pikachu)",
+      "set": "EX Delta Species",
+      "img": "https://den-cards.pokellector.com/62/Ditto-Pikachu.DS.39.png",
+      "rarity": "Uncommon",
+      "cardNum": "39/113"
+    },
+    {
+      "name": "Ditto (Squirtle)",
+      "set": "EX Delta Species",
+      "img": "https://den-cards.pokellector.com/62/Ditto-Squirtle.DS.40.png",
+      "rarity": "Uncommon",
+      "cardNum": "40/113"
+    },
+    {
+      "name": "Dragonair  (delta species)",
+      "set": "EX Delta Species",
+      "img": "https://den-cards.pokellector.com/62/Dragonair-.DS.41.png",
+      "rarity": "Uncommon",
+      "cardNum": "41/113"
+    },
+    {
+      "name": "Dragonair  (delta species)",
+      "set": "EX Delta Species",
+      "img": "https://den-cards.pokellector.com/62/Dragonair-delta-species.DS.42.png",
+      "rarity": "Uncommon",
+      "cardNum": "42/113"
+    },
+    {
+      "name": "Golbat",
+      "set": "EX Delta Species",
+      "img": "https://den-cards.pokellector.com/62/Golbat.DS.43.png",
+      "rarity": "Uncommon",
+      "cardNum": "43/113"
+    },
+    {
+      "name": "Hariyama",
+      "set": "EX Delta Species",
+      "img": "https://den-cards.pokellector.com/62/Hariyama.DS.44.png",
+      "rarity": "Uncommon",
+      "cardNum": "44/113"
+    },
+    {
+      "name": "Illumise",
+      "set": "EX Delta Species",
+      "img": "https://den-cards.pokellector.com/62/Illumise.DS.45.png",
+      "rarity": "Uncommon",
+      "cardNum": "45/113"
+    },
+    {
+      "name": "Kakuna",
+      "set": "EX Delta Species",
+      "img": "https://den-cards.pokellector.com/62/Kakuna.DS.46.png",
+      "rarity": "Uncommon",
+      "cardNum": "46/113"
+    },
+    {
+      "name": "Kirlia",
+      "set": "EX Delta Species",
+      "img": "https://den-cards.pokellector.com/62/Kirlia.DS.47.png",
+      "rarity": "Uncommon",
+      "cardNum": "47/113"
+    },
+    {
+      "name": "Magneton",
+      "set": "EX Delta Species",
+      "img": "https://den-cards.pokellector.com/62/Magneton.DS.48.png",
+      "rarity": "Uncommon",
+      "cardNum": "48/113"
+    },
+    {
+      "name": "Metang  (delta species)",
+      "set": "EX Delta Species",
+      "img": "https://den-cards.pokellector.com/62/Metang-.DS.49.png",
+      "rarity": "Uncommon",
+      "cardNum": "49/113"
+    },
+    {
+      "name": "Persian",
+      "set": "EX Delta Species",
+      "img": "https://den-cards.pokellector.com/62/Persian.DS.50.png",
+      "rarity": "Uncommon",
+      "cardNum": "50/113"
+    },
+    {
+      "name": "Pupitar (delta species)",
+      "set": "EX Delta Species",
+      "img": "https://den-cards.pokellector.com/62/Pupitar-delta-species.DS.51.png",
+      "rarity": "Uncommon",
+      "cardNum": "51/113"
+    },
+    {
+      "name": "Rapidash",
+      "set": "EX Delta Species",
+      "img": "https://den-cards.pokellector.com/62/Rapidash.DS.52.png",
+      "rarity": "Uncommon",
+      "cardNum": "52/113"
+    },
+    {
+      "name": "Shelgon  (delta species)",
+      "set": "EX Delta Species",
+      "img": "https://den-cards.pokellector.com/62/Shelgon-delta-species.DS.53.png",
+      "rarity": "Uncommon",
+      "cardNum": "53/113"
+    },
+    {
+      "name": "Shelgon  (delta species)",
+      "set": "EX Delta Species",
+      "img": "https://den-cards.pokellector.com/62/Shelgon-delta-species.DS.54.png",
+      "rarity": "Uncommon",
+      "cardNum": "54/113"
+    },
+    {
+      "name": "Skarmory",
+      "set": "EX Delta Species",
+      "img": "https://den-cards.pokellector.com/62/Skarmory.DS.55.png",
+      "rarity": "Uncommon",
+      "cardNum": "55/113"
+    },
+    {
+      "name": "Volbeat",
+      "set": "EX Delta Species",
+      "img": "https://den-cards.pokellector.com/62/Volbeat.DS.56.png",
+      "rarity": "Uncommon",
+      "cardNum": "56/113"
+    },
+    {
+      "name": "Bagon  (delta species)",
+      "set": "EX Delta Species",
+      "img": "https://den-cards.pokellector.com/62/Bagon-.DS.57.png",
+      "rarity": "Common",
+      "cardNum": "57/113"
+    },
+    {
+      "name": "Bagon  (delta species)",
+      "set": "EX Delta Species",
+      "img": "https://den-cards.pokellector.com/62/Bagon-.DS.58.png",
+      "rarity": "Common",
+      "cardNum": "58/113"
+    },
+    {
+      "name": "Beldum  (delta species)",
+      "set": "EX Delta Species",
+      "img": "https://den-cards.pokellector.com/62/Beldum-.DS.59.png",
+      "rarity": "Common",
+      "cardNum": "59/113"
+    },
+    {
+      "name": "Cubone",
+      "set": "EX Delta Species",
+      "img": "https://den-cards.pokellector.com/62/Cubone.DS.60.png",
+      "rarity": "Common",
+      "cardNum": "60/113"
+    },
+    {
+      "name": "Ditto (Charmander)",
+      "set": "EX Delta Species",
+      "img": "https://den-cards.pokellector.com/62/Ditto-Charmander.DS.61.png",
+      "rarity": "Common",
+      "cardNum": "61/113"
+    },
+    {
+      "name": "Ditto (Geodude)",
+      "set": "EX Delta Species",
+      "img": "https://den-cards.pokellector.com/62/Ditto-Geodude.DS.62.png",
+      "rarity": "Common",
+      "cardNum": "62/113"
+    },
+    {
+      "name": "Ditto (Pikachu)",
+      "set": "EX Delta Species",
+      "img": "https://den-cards.pokellector.com/62/Ditto-Pikachu.DS.63.png",
+      "rarity": "Common",
+      "cardNum": "63/113"
+    },
+    {
+      "name": "Ditto (Squirtle)",
+      "set": "EX Delta Species",
+      "img": "https://den-cards.pokellector.com/62/Ditto-Squirtle.DS.64.png",
+      "rarity": "Common",
+      "cardNum": "64/113"
+    },
+    {
+      "name": "Dratini  (delta species)",
+      "set": "EX Delta Species",
+      "img": "https://den-cards.pokellector.com/62/Dratini-.DS.65.png",
+      "rarity": "Common",
+      "cardNum": "65/113"
+    },
+    {
+      "name": "Dratini  (delta species)",
+      "set": "EX Delta Species",
+      "img": "https://den-cards.pokellector.com/62/Dratini-.DS.66.png",
+      "rarity": "Common",
+      "cardNum": "66/113"
+    },
+    {
+      "name": "Drowzee",
+      "set": "EX Delta Species",
+      "img": "https://den-cards.pokellector.com/62/Drowzee.DS.67.png",
+      "rarity": "Common",
+      "cardNum": "67/113"
+    },
+    {
+      "name": "Eevee  (delta species)",
+      "set": "EX Delta Species",
+      "img": "https://den-cards.pokellector.com/62/Eevee-.DS.68.png",
+      "rarity": "Common",
+      "cardNum": "68/113"
+    },
+    {
+      "name": "Eevee",
+      "set": "EX Delta Species",
+      "img": "https://den-cards.pokellector.com/62/Eevee.DS.69.png",
+      "rarity": "Common",
+      "cardNum": "69/113"
+    },
+    {
+      "name": "Holon's Magnemite",
+      "set": "EX Delta Species",
+      "img": "https://den-cards.pokellector.com/62/Holons-Magnemite.DS.70.png",
+      "rarity": "Common",
+      "cardNum": "70/113"
+    },
+    {
+      "name": "Holon's Voltorb",
+      "set": "EX Delta Species",
+      "img": "https://den-cards.pokellector.com/62/Holons-Voltorb.DS.71.png",
+      "rarity": "Common",
+      "cardNum": "71/113"
+    },
+    {
+      "name": "Koffing",
+      "set": "EX Delta Species",
+      "img": "https://den-cards.pokellector.com/62/Koffing.DS.72.png",
+      "rarity": "Common",
+      "cardNum": "72/113"
+    },
+    {
+      "name": "Larvitar  (delta species)",
+      "set": "EX Delta Species",
+      "img": "https://den-cards.pokellector.com/62/Larvitar-.DS.73.png",
+      "rarity": "Common",
+      "cardNum": "73/113"
+    },
+    {
+      "name": "Magnemite",
+      "set": "EX Delta Species",
+      "img": "https://den-cards.pokellector.com/62/Magnemite.DS.74.png",
+      "rarity": "Common",
+      "cardNum": "74/113"
+    },
+    {
+      "name": "Makuhita",
+      "set": "EX Delta Species",
+      "img": "https://den-cards.pokellector.com/62/Makuhita.DS.75.png",
+      "rarity": "Common",
+      "cardNum": "75/113"
+    },
+    {
+      "name": "Marill",
+      "set": "EX Delta Species",
+      "img": "https://den-cards.pokellector.com/62/Marill.DS.76.png",
+      "rarity": "Common",
+      "cardNum": "76/113"
+    },
+    {
+      "name": "Meowth",
+      "set": "EX Delta Species",
+      "img": "https://den-cards.pokellector.com/62/Meowth.DS.77.png",
+      "rarity": "Common",
+      "cardNum": "77/113"
+    },
+    {
+      "name": "Ponyta",
+      "set": "EX Delta Species",
+      "img": "https://den-cards.pokellector.com/62/Ponyta.DS.78.png",
+      "rarity": "Common",
+      "cardNum": "78/113"
+    },
+    {
+      "name": "Poochyena",
+      "set": "EX Delta Species",
+      "img": "https://den-cards.pokellector.com/62/Poochyena.DS.79.png",
+      "rarity": "Common",
+      "cardNum": "79/113"
+    },
+    {
+      "name": "Porygon",
+      "set": "EX Delta Species",
+      "img": "https://den-cards.pokellector.com/62/Porygon.DS.80.png",
+      "rarity": "Common",
+      "cardNum": "80/113"
+    },
+    {
+      "name": "Ralts",
+      "set": "EX Delta Species",
+      "img": "https://den-cards.pokellector.com/62/Ralts.DS.81.png",
+      "rarity": "Common",
+      "cardNum": "81/113"
+    },
+    {
+      "name": "Sandshrew",
+      "set": "EX Delta Species",
+      "img": "https://den-cards.pokellector.com/62/Sandshrew.DS.82.png",
+      "rarity": "Common",
+      "cardNum": "82/113"
+    },
+    {
+      "name": "Slowpoke",
+      "set": "EX Delta Species",
+      "img": "https://den-cards.pokellector.com/62/Slowpoke.DS.83.png",
+      "rarity": "Common",
+      "cardNum": "83/113"
+    },
+    {
+      "name": "Staryu",
+      "set": "EX Delta Species",
+      "img": "https://den-cards.pokellector.com/62/Staryu.DS.84.png",
+      "rarity": "Common",
+      "cardNum": "84/113"
+    },
+    {
+      "name": "Staryu",
+      "set": "EX Delta Species",
+      "img": "https://den-cards.pokellector.com/62/Staryu.DS.85.png",
+      "rarity": "Common",
+      "cardNum": "85/113"
+    },
+    {
+      "name": "Taillow",
+      "set": "EX Delta Species",
+      "img": "https://den-cards.pokellector.com/62/Tailow.DS.86.png",
+      "rarity": "Common",
+      "cardNum": "86/113"
+    },
+    {
+      "name": "Weedle",
+      "set": "EX Delta Species",
+      "img": "https://den-cards.pokellector.com/62/Weedle.DS.87.png",
+      "rarity": "Common",
+      "cardNum": "87/113"
+    },
+    {
+      "name": "Zubat",
+      "set": "EX Delta Species",
+      "img": "https://den-cards.pokellector.com/62/Zubat.DS.88.png",
+      "rarity": "Common",
+      "cardNum": "88/113"
+    },
+    {
+      "name": "Dual Ball",
+      "set": "EX Delta Species",
+      "img": "https://den-cards.pokellector.com/62/Dual-Ball.DS.89.png",
+      "rarity": "Uncommon",
+      "cardNum": "89/113"
+    },
+    {
+      "name": "Great Ball",
+      "set": "EX Delta Species",
+      "img": "https://den-cards.pokellector.com/62/Great-Ball.DS.90.png",
+      "rarity": "Uncommon",
+      "cardNum": "90/113"
+    },
+    {
+      "name": "Holon Farmer",
+      "set": "EX Delta Species",
+      "img": "https://den-cards.pokellector.com/62/Holon-Farmer.DS.91.png",
+      "rarity": "Uncommon",
+      "cardNum": "91/113"
+    },
+    {
+      "name": "Holon Lass",
+      "set": "EX Delta Species",
+      "img": "https://den-cards.pokellector.com/62/Holon-Lass.DS.92.png",
+      "rarity": "Uncommon",
+      "cardNum": "92/113"
+    },
+    {
+      "name": "Holon Mentor",
+      "set": "EX Delta Species",
+      "img": "https://den-cards.pokellector.com/62/Holon-Mentor.DS.93.png",
+      "rarity": "Uncommon",
+      "cardNum": "93/113"
+    },
+    {
+      "name": "Holon Research Tower",
+      "set": "EX Delta Species",
+      "img": "https://den-cards.pokellector.com/62/Holon-Research-Tower.DS.94.png",
+      "rarity": "Uncommon",
+      "cardNum": "94/113"
+    },
+    {
+      "name": "Holon Researcher",
+      "set": "EX Delta Species",
+      "img": "https://den-cards.pokellector.com/62/Holon-Researcher.DS.95.5719.png",
+      "rarity": "Uncommon",
+      "cardNum": "95/113"
+    },
+    {
+      "name": "Holon Ruins",
+      "set": "EX Delta Species",
+      "img": "https://den-cards.pokellector.com/62/Holon-Ruins.DS.96.png",
+      "rarity": "Uncommon",
+      "cardNum": "96/113"
+    },
+    {
+      "name": "Holon Scientist",
+      "set": "EX Delta Species",
+      "img": "https://den-cards.pokellector.com/62/Holon-Scientist.DS.97.png",
+      "rarity": "Uncommon",
+      "cardNum": "97/113"
+    },
+    {
+      "name": "Holon Transceiver",
+      "set": "EX Delta Species",
+      "img": "https://den-cards.pokellector.com/62/Holon-Transceiver.DS.98.png",
+      "rarity": "Uncommon",
+      "cardNum": "98/113"
+    },
+    {
+      "name": "Master Ball",
+      "set": "EX Delta Species",
+      "img": "https://den-cards.pokellector.com/62/Master-Ball.DS.99.png",
+      "rarity": "Uncommon",
+      "cardNum": "99/113"
+    },
+    {
+      "name": "Super Scoop Up",
+      "set": "EX Delta Species",
+      "img": "https://den-cards.pokellector.com/62/Super-Scoop-Up.DS.100.png",
+      "rarity": "Uncommon",
+      "cardNum": "100/113"
+    },
+    {
+      "name": "Potion",
+      "set": "EX Delta Species",
+      "img": "https://den-cards.pokellector.com/62/Potion.DS.101.png",
+      "rarity": "Common",
+      "cardNum": "101/113"
+    },
+    {
+      "name": "Switch",
+      "set": "EX Delta Species",
+      "img": "https://den-cards.pokellector.com/62/Switch.DS.102.png",
+      "rarity": "Common",
+      "cardNum": "102/113"
+    },
+    {
+      "name": "Darkness Energy",
+      "set": "EX Delta Species",
+      "img": "https://den-cards.pokellector.com/62/Darkness-Energy.DS.103.png",
+      "rarity": "Rare",
+      "cardNum": "103/113"
+    },
+    {
+      "name": "Holon Energy FF",
+      "set": "EX Delta Species",
+      "img": "https://den-cards.pokellector.com/62/Holon-Energy-FF.DS.104.png",
+      "rarity": "Rare",
+      "cardNum": "104/113"
+    },
+    {
+      "name": "Holon Energy GL",
+      "set": "EX Delta Species",
+      "img": "https://den-cards.pokellector.com/62/Holon-Energy-GL.DS.105.png",
+      "rarity": "Rare",
+      "cardNum": "105/113"
+    },
+    {
+      "name": "Holon Energy WP",
+      "set": "EX Delta Species",
+      "img": "https://den-cards.pokellector.com/62/Holon-Energy-WP.DS.106.png",
+      "rarity": "Rare",
+      "cardNum": "106/113"
+    },
+    {
+      "name": "Metal Energy",
+      "set": "EX Delta Species",
+      "img": "https://den-cards.pokellector.com/62/Metal-Energy.DS.107.png",
+      "rarity": "Rare",
+      "cardNum": "107/113"
+    },
+    {
+      "name": "Flareon ex",
+      "set": "EX Delta Species",
+      "img": "https://den-cards.pokellector.com/62/Flareon-ex.DS.108.png",
+      "rarity": "Rare",
+      "cardNum": "108/113"
+    },
+    {
+      "name": "Jolteon ex",
+      "set": "EX Delta Species",
+      "img": "https://den-cards.pokellector.com/62/Jolteon-ex.DS.109.png",
+      "rarity": "Rare",
+      "cardNum": "109/113"
+    },
+    {
+      "name": "Vaporeon ex",
+      "set": "EX Delta Species",
+      "img": "https://den-cards.pokellector.com/62/Vaporeon-ex.DS.110.png",
+      "rarity": "Rare",
+      "cardNum": "110/113"
+    },
+    {
+      "name": "Groudon *",
+      "set": "EX Delta Species",
+      "img": "https://den-cards.pokellector.com/62/Groudon-.DS.111.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "111/113"
+    },
+    {
+      "name": "Kyogre *",
+      "set": "EX Delta Species",
+      "img": "https://den-cards.pokellector.com/62/Kyogre-.DS.112.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "112/113"
+    },
+    {
+      "name": "Metagross *",
+      "set": "EX Delta Species",
+      "img": "https://den-cards.pokellector.com/62/Metagross-.DS.113.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "113/113"
+    },
+    {
+      "name": "Azumarill",
+      "set": "EX Delta Species",
+      "img": "https://den-cards.pokellector.com/62/Azumarill.DS.114.png",
+      "rarity": "Secret Rare",
+      "cardNum": "114/113"
+    }
+  ]
+}

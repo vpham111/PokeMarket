@@ -1,0 +1,628 @@
+{
+  "setName": "Champion's Path",
+  "cards": [
+    {
+      "name": "Venusaur V",
+      "set": "Champion's Path",
+      "img": "https://den-cards.pokellector.com/298/Venusaur-V.SWSH3.1.35700.png",
+      "rarity": "Rare",
+      "cardNum": "1/73"
+    },
+    {
+      "name": "Weedle",
+      "set": "Champion's Path",
+      "img": "https://den-cards.pokellector.com/298/Weedle.SWSH3.2.35701.png",
+      "rarity": "Common",
+      "cardNum": "2/73"
+    },
+    {
+      "name": "Kakuna",
+      "set": "Champion's Path",
+      "img": "https://den-cards.pokellector.com/298/Kakuna.SWSH3.3.35702.png",
+      "rarity": "Common",
+      "cardNum": "3/73"
+    },
+    {
+      "name": "Beedrill",
+      "set": "Champion's Path",
+      "img": "https://den-cards.pokellector.com/298/Beedrill.SWSH3.4.35703.png",
+      "rarity": "Uncommon",
+      "cardNum": "4/73"
+    },
+    {
+      "name": "Eldegoss V",
+      "set": "Champion's Path",
+      "img": "https://den-cards.pokellector.com/298/Eldegoss-V.SWSH3.5.35704.png",
+      "rarity": "Rare",
+      "cardNum": "5/73"
+    },
+    {
+      "name": "Vulpix",
+      "set": "Champion's Path",
+      "img": "https://den-cards.pokellector.com/298/Vulpix.SWSH3.6.35705.png",
+      "rarity": "Common",
+      "cardNum": "6/73"
+    },
+    {
+      "name": "Victini",
+      "set": "Champion's Path",
+      "img": "https://den-cards.pokellector.com/298/Victini.SWSH3.7.35706.png",
+      "rarity": "Uncommon",
+      "cardNum": "7/73"
+    },
+    {
+      "name": "Incineroar V",
+      "set": "Champion's Path",
+      "img": "https://den-cards.pokellector.com/298/Incineroar-V.SWSH3.8.35707.png",
+      "rarity": "Rare",
+      "cardNum": "8/73"
+    },
+    {
+      "name": "Sizzlipede",
+      "set": "Champion's Path",
+      "img": "https://den-cards.pokellector.com/298/Sizzlipede.SWSH3.9.35708.png",
+      "rarity": "Common",
+      "cardNum": "9/73"
+    },
+    {
+      "name": "Centiskorch",
+      "set": "Champion's Path",
+      "img": "https://den-cards.pokellector.com/298/Centiskorch.SWSH3.10.35709.png",
+      "rarity": "Rare",
+      "cardNum": "10/73"
+    },
+    {
+      "name": "Carvanha",
+      "set": "Champion's Path",
+      "img": "https://den-cards.pokellector.com/298/Carvanha.SWSH3.11.35710.png",
+      "rarity": "Common",
+      "cardNum": "11/73"
+    },
+    {
+      "name": "Sharpedo",
+      "set": "Champion's Path",
+      "img": "https://den-cards.pokellector.com/298/Sharpedo.SWSH3.12.35711.png",
+      "rarity": "Uncommon",
+      "cardNum": "12/73"
+    },
+    {
+      "name": "Wailord V",
+      "set": "Champion's Path",
+      "img": "https://den-cards.pokellector.com/298/Wailord-V.SWSH3.13.35712.png",
+      "rarity": "Rare",
+      "cardNum": "13/73"
+    },
+    {
+      "name": "Drednaw V",
+      "set": "Champion's Path",
+      "img": "https://den-cards.pokellector.com/298/Drednaw-V.SWSH3.14.35713.png",
+      "rarity": "Rare",
+      "cardNum": "14/73"
+    },
+    {
+      "name": "Drednaw VMAX",
+      "set": "Champion's Path",
+      "img": "https://den-cards.pokellector.com/298/Drednaw-VMAX.SWSH3.15.35714.png",
+      "rarity": "Rare",
+      "cardNum": "15/73"
+    },
+    {
+      "name": "Gardevoir V",
+      "set": "Champion's Path",
+      "img": "https://den-cards.pokellector.com/298/Gardevoir-V.SWSH3.16.35715.png",
+      "rarity": "Rare",
+      "cardNum": "16/73"
+    },
+    {
+      "name": "Gardevoir VMAX",
+      "set": "Champion's Path",
+      "img": "https://den-cards.pokellector.com/298/Gardevoir-VMAX.SWSH3.17.35716.png",
+      "rarity": "Rare",
+      "cardNum": "17/73"
+    },
+    {
+      "name": "Hatenna",
+      "set": "Champion's Path",
+      "img": "https://den-cards.pokellector.com/298/Hatenna.SWSH3.18.35717.png",
+      "rarity": "Common",
+      "cardNum": "18/73"
+    },
+    {
+      "name": "Hattrem",
+      "set": "Champion's Path",
+      "img": "https://den-cards.pokellector.com/298/Hattrem.SWSH3.19.35718.png",
+      "rarity": "Uncommon",
+      "cardNum": "19/73"
+    },
+    {
+      "name": "Hatterene",
+      "set": "Champion's Path",
+      "img": "https://den-cards.pokellector.com/298/Hatterene.SWSH3.20.35719.png",
+      "rarity": "Rare",
+      "cardNum": "20/73"
+    },
+    {
+      "name": "Galarian Cursola V",
+      "set": "Champion's Path",
+      "img": "https://den-cards.pokellector.com/298/Galarian-Cursola-V.SWSH3.21.35720.png",
+      "rarity": "Rare",
+      "cardNum": "21/73"
+    },
+    {
+      "name": "Alcremie V",
+      "set": "Champion's Path",
+      "img": "https://den-cards.pokellector.com/298/Alcremie-V.SWSH3.22.35721.png",
+      "rarity": "Rare",
+      "cardNum": "22/73"
+    },
+    {
+      "name": "Alcremie VMAX",
+      "set": "Champion's Path",
+      "img": "https://den-cards.pokellector.com/298/Alcremie-VMAX.SWSH3.23.35722.png",
+      "rarity": "Rare",
+      "cardNum": "23/73"
+    },
+    {
+      "name": "Machop",
+      "set": "Champion's Path",
+      "img": "https://den-cards.pokellector.com/298/Machop.SWSH3.24.35723.png",
+      "rarity": "Common",
+      "cardNum": "24/73"
+    },
+    {
+      "name": "Machoke",
+      "set": "Champion's Path",
+      "img": "https://den-cards.pokellector.com/298/Machoke.SWSH3.25.35724.png",
+      "rarity": "Uncommon",
+      "cardNum": "25/73"
+    },
+    {
+      "name": "Machamp",
+      "set": "Champion's Path",
+      "img": "https://den-cards.pokellector.com/298/Machamp.SWSH3.26.35725.png",
+      "rarity": "Rare",
+      "cardNum": "26/73"
+    },
+    {
+      "name": "Lucario V",
+      "set": "Champion's Path",
+      "img": "https://den-cards.pokellector.com/298/Lucario-V.SWSH3.27.35726.png",
+      "rarity": "Rare",
+      "cardNum": "27/73"
+    },
+    {
+      "name": "Zygarde",
+      "set": "Champion's Path",
+      "img": "https://den-cards.pokellector.com/298/Zygarde.SWSH3.28.35727.png",
+      "rarity": "Rare",
+      "cardNum": "28/73"
+    },
+    {
+      "name": "Rockruff",
+      "set": "Champion's Path",
+      "img": "https://den-cards.pokellector.com/298/Rockruff.SWSH3.29.35728.png",
+      "rarity": "Common",
+      "cardNum": "29/73"
+    },
+    {
+      "name": "Lycanroc",
+      "set": "Champion's Path",
+      "img": "https://den-cards.pokellector.com/298/Lycanroc.SWSH3.30.35729.png",
+      "rarity": "Rare",
+      "cardNum": "30/73"
+    },
+    {
+      "name": "Rolycoly",
+      "set": "Champion's Path",
+      "img": "https://den-cards.pokellector.com/298/Rolycoly.SWSH3.31.35730.png",
+      "rarity": "Common",
+      "cardNum": "31/73"
+    },
+    {
+      "name": "Grapploct V",
+      "set": "Champion's Path",
+      "img": "https://den-cards.pokellector.com/298/Grapploct-V.SWSH3.32.35731.png",
+      "rarity": "Rare",
+      "cardNum": "32/73"
+    },
+    {
+      "name": "Ekans",
+      "set": "Champion's Path",
+      "img": "https://den-cards.pokellector.com/298/Ekans.SWSH3.33.35732.png",
+      "rarity": "Common",
+      "cardNum": "33/73"
+    },
+    {
+      "name": "Arbok",
+      "set": "Champion's Path",
+      "img": "https://den-cards.pokellector.com/298/Arbok.SWSH3.34.35733.png",
+      "rarity": "Uncommon",
+      "cardNum": "34/73"
+    },
+    {
+      "name": "Galarian Zigzagoon",
+      "set": "Champion's Path",
+      "img": "https://den-cards.pokellector.com/298/Galarian-Zigzagoon.SWSH3.35.35734.png",
+      "rarity": "Common",
+      "cardNum": "35/73"
+    },
+    {
+      "name": "Galarian Linoone",
+      "set": "Champion's Path",
+      "img": "https://den-cards.pokellector.com/298/Galarian-Linoone.SWSH3.36.35735.png",
+      "rarity": "Common",
+      "cardNum": "36/73"
+    },
+    {
+      "name": "Galarian Obstagoon",
+      "set": "Champion's Path",
+      "img": "https://den-cards.pokellector.com/298/Galarian-Obstagoon.SWSH3.37.35736.png",
+      "rarity": "Rare",
+      "cardNum": "37/73"
+    },
+    {
+      "name": "Absol",
+      "set": "Champion's Path",
+      "img": "https://den-cards.pokellector.com/298/Absol.SWSH3.38.35737.png",
+      "rarity": "Uncommon",
+      "cardNum": "38/73"
+    },
+    {
+      "name": "Purrloin",
+      "set": "Champion's Path",
+      "img": "https://den-cards.pokellector.com/298/Purrloin.SWSH3.39.35738.png",
+      "rarity": "Common",
+      "cardNum": "39/73"
+    },
+    {
+      "name": "Liepard",
+      "set": "Champion's Path",
+      "img": "https://den-cards.pokellector.com/298/Liepard.SWSH3.40.35739.png",
+      "rarity": "Uncommon",
+      "cardNum": "40/73"
+    },
+    {
+      "name": "Scraggy",
+      "set": "Champion's Path",
+      "img": "https://den-cards.pokellector.com/298/Scraggy.SWSH3.41.35740.png",
+      "rarity": "Common",
+      "cardNum": "41/73"
+    },
+    {
+      "name": "Scrafty",
+      "set": "Champion's Path",
+      "img": "https://den-cards.pokellector.com/298/Scrafty.SWSH3.42.35741.png",
+      "rarity": "Rare",
+      "cardNum": "42/73"
+    },
+    {
+      "name": "Trubbish",
+      "set": "Champion's Path",
+      "img": "https://den-cards.pokellector.com/298/Trubbish.SWSH3.43.35742.png",
+      "rarity": "Common",
+      "cardNum": "43/73"
+    },
+    {
+      "name": "Inkay",
+      "set": "Champion's Path",
+      "img": "https://den-cards.pokellector.com/298/Inkay.SWSH3.44.35743.png",
+      "rarity": "Common",
+      "cardNum": "44/73"
+    },
+    {
+      "name": "Malamar",
+      "set": "Champion's Path",
+      "img": "https://den-cards.pokellector.com/298/Malamar.SWSH3.45.35744.png",
+      "rarity": "Uncommon",
+      "cardNum": "45/73"
+    },
+    {
+      "name": "Nickit",
+      "set": "Champion's Path",
+      "img": "https://den-cards.pokellector.com/298/Nickit.SWSH3.46.35745.png",
+      "rarity": "Common",
+      "cardNum": "46/73"
+    },
+    {
+      "name": "Duraludon V",
+      "set": "Champion's Path",
+      "img": "https://den-cards.pokellector.com/298/Duraludon-V.SWSH3.47.35746.png",
+      "rarity": "Rare",
+      "cardNum": "47/73"
+    },
+    {
+      "name": "Swablu",
+      "set": "Champion's Path",
+      "img": "https://den-cards.pokellector.com/298/Swablu.SWSH3.48.35747.png",
+      "rarity": "Common",
+      "cardNum": "48/73"
+    },
+    {
+      "name": "Altaria",
+      "set": "Champion's Path",
+      "img": "https://den-cards.pokellector.com/298/Altaria.SWSH3.49.35748.png",
+      "rarity": "Rare",
+      "cardNum": "49/73"
+    },
+    {
+      "name": "Bede",
+      "set": "Champion's Path",
+      "img": "https://den-cards.pokellector.com/298/Bede.SWSH3.50.35749.png",
+      "rarity": "Uncommon",
+      "cardNum": "50/73"
+    },
+    {
+      "name": "Full Heal",
+      "set": "Champion's Path",
+      "img": "https://den-cards.pokellector.com/298/Full-Heal.SWSH3.51.35750.png",
+      "rarity": "Common",
+      "cardNum": "51/73"
+    },
+    {
+      "name": "Great Ball",
+      "set": "Champion's Path",
+      "img": "https://den-cards.pokellector.com/298/Great-Ball.SWSH3.52.35751.png",
+      "rarity": "Uncommon",
+      "cardNum": "52/73"
+    },
+    {
+      "name": "Hop",
+      "set": "Champion's Path",
+      "img": "https://den-cards.pokellector.com/298/Hop.SWSH3.53.35752.png",
+      "rarity": "Uncommon",
+      "cardNum": "53/73"
+    },
+    {
+      "name": "Hyper Potion",
+      "set": "Champion's Path",
+      "img": "https://den-cards.pokellector.com/298/Hyper-Potion.SWSH3.54.35753.png",
+      "rarity": "Uncommon",
+      "cardNum": "54/73"
+    },
+    {
+      "name": "Kabu",
+      "set": "Champion's Path",
+      "img": "https://den-cards.pokellector.com/298/Kabu.SWSH3.55.35754.png",
+      "rarity": "Uncommon",
+      "cardNum": "55/73"
+    },
+    {
+      "name": "Marnie",
+      "set": "Champion's Path",
+      "img": "https://den-cards.pokellector.com/298/Marnie.SWSH3.56.35755.png",
+      "rarity": "Rare",
+      "cardNum": "56/73"
+    },
+    {
+      "name": "Milo",
+      "set": "Champion's Path",
+      "img": "https://den-cards.pokellector.com/298/Milo.SWSH3.57.35756.png",
+      "rarity": "Uncommon",
+      "cardNum": "57/73"
+    },
+    {
+      "name": "Piers",
+      "set": "Champion's Path",
+      "img": "https://den-cards.pokellector.com/298/Piers.SWSH3.58.35757.png",
+      "rarity": "Uncommon",
+      "cardNum": "58/73"
+    },
+    {
+      "name": "Poké Ball",
+      "set": "Champion's Path",
+      "img": "https://den-cards.pokellector.com/298/Pok-Ball.SWSH3.59.35758.png",
+      "rarity": "Common",
+      "cardNum": "59/73"
+    },
+    {
+      "name": "Pokémon Center Lady",
+      "set": "Champion's Path",
+      "img": "https://den-cards.pokellector.com/298/Pokmon-Center-Lady.SWSH3.60.35759.png",
+      "rarity": "Uncommon",
+      "cardNum": "60/73"
+    },
+    {
+      "name": "Potion",
+      "set": "Champion's Path",
+      "img": "https://den-cards.pokellector.com/298/Potion.SWSH3.61.35760.png",
+      "rarity": "Common",
+      "cardNum": "61/73"
+    },
+    {
+      "name": "Professor's Research",
+      "set": "Champion's Path",
+      "img": "https://den-cards.pokellector.com/298/Professors-Research.SWSH3.62.35761.png",
+      "rarity": "Rare",
+      "cardNum": "62/73"
+    },
+    {
+      "name": "Rotom Bike",
+      "set": "Champion's Path",
+      "img": "https://den-cards.pokellector.com/298/Rotom-Bike.SWSH3.63.35762.png",
+      "rarity": "Uncommon",
+      "cardNum": "63/73"
+    },
+    {
+      "name": "Rotom Phone",
+      "set": "Champion's Path",
+      "img": "https://den-cards.pokellector.com/298/Rotom-Phone.SWSH3.64.35763.png",
+      "rarity": "Uncommon",
+      "cardNum": "64/73"
+    },
+    {
+      "name": "Sonia",
+      "set": "Champion's Path",
+      "img": "https://den-cards.pokellector.com/298/Sonia.SWSH3.65.35764.png",
+      "rarity": "Uncommon",
+      "cardNum": "65/73"
+    },
+    {
+      "name": "Suspicious Food Tin",
+      "set": "Champion's Path",
+      "img": "https://den-cards.pokellector.com/298/Suspicious-Food-Tin.SWSH3.66.35765.png",
+      "rarity": "Uncommon",
+      "cardNum": "66/73"
+    },
+    {
+      "name": "Team Yell Grunt",
+      "set": "Champion's Path",
+      "img": "https://den-cards.pokellector.com/298/Team-Yell-Grunt.SWSH3.67.35766.png",
+      "rarity": "Uncommon",
+      "cardNum": "67/73"
+    },
+    {
+      "name": "Turffield Stadium",
+      "set": "Champion's Path",
+      "img": "https://den-cards.pokellector.com/298/Turffield-Stadium.SWSH3.68.35767.png",
+      "rarity": "Uncommon",
+      "cardNum": "68/73"
+    },
+    {
+      "name": "Drednaw V",
+      "set": "Champion's Path",
+      "img": "https://den-cards.pokellector.com/298/Drednaw-V.SWSH3.69.35768.png",
+      "rarity": "Rare",
+      "cardNum": "69/73"
+    },
+    {
+      "name": "Gardevoir V",
+      "set": "Champion's Path",
+      "img": "https://den-cards.pokellector.com/298/Gardevoir-V.SWSH3.70.35769.png",
+      "rarity": "Rare",
+      "cardNum": "70/73"
+    },
+    {
+      "name": "Galarian Cursola V",
+      "set": "Champion's Path",
+      "img": "https://den-cards.pokellector.com/298/Galarian-Cursola-V.SWSH3.71.35770.png",
+      "rarity": "Rare",
+      "cardNum": "71/73"
+    },
+    {
+      "name": "Grapploct V",
+      "set": "Champion's Path",
+      "img": "https://den-cards.pokellector.com/298/Grapploct-V.SWSH3.72.35771.png",
+      "rarity": "Rare",
+      "cardNum": "72/73"
+    },
+    {
+      "name": "Hop",
+      "set": "Champion's Path",
+      "img": "https://den-cards.pokellector.com/298/Hop.SWSH3.73.35772.png",
+      "rarity": "Rare",
+      "cardNum": "73/73"
+    },
+    {
+      "name": "Charizard VMAX",
+      "set": "Champion's Path",
+      "img": "https://den-cards.pokellector.com/298/Charizard-VMAX.SWSH3.74.35773.png",
+      "rarity": "Secret Rare",
+      "cardNum": "74/73"
+    },
+    {
+      "name": "Drednaw VMAX",
+      "set": "Champion's Path",
+      "img": "https://den-cards.pokellector.com/298/Drednaw-VMAX.SWSH3.75.35774.png",
+      "rarity": "Secret Rare",
+      "cardNum": "75/73"
+    },
+    {
+      "name": "Gardevoir VMAX",
+      "set": "Champion's Path",
+      "img": "https://den-cards.pokellector.com/298/Gardevoir-VMAX.SWSH3.76.35775.png",
+      "rarity": "Secret Rare",
+      "cardNum": "76/73"
+    },
+    {
+      "name": "Kabu",
+      "set": "Champion's Path",
+      "img": "https://den-cards.pokellector.com/298/Kabu.SWSH3.77.35776.png",
+      "rarity": "Secret Rare",
+      "cardNum": "77/73"
+    },
+    {
+      "name": "Piers",
+      "set": "Champion's Path",
+      "img": "https://den-cards.pokellector.com/298/Piers.SWSH3.78.35777.png",
+      "rarity": "Secret Rare",
+      "cardNum": "78/73"
+    },
+    {
+      "name": "Charizard V",
+      "set": "Champion's Path",
+      "img": "https://den-cards.pokellector.com/298/Charizard-V.SWSH3.79.35778.png",
+      "rarity": "Secret Rare",
+      "cardNum": "79/73"
+    },
+    {
+      "name": "Suspicious Food Tin",
+      "set": "Champion's Path",
+      "img": "https://den-cards.pokellector.com/298/Suspicious-Food-Tin.SWSH3.80.35779.png",
+      "rarity": "Secret Rare",
+      "cardNum": "80/73"
+    },
+    {
+      "name": "Steel Energy",
+      "set": "Champion's Path",
+      "img": "https://www.pokellector.com/images/card-placeholder.png",
+      "rarity": "Common",
+      "cardNum": ""
+    },
+    {
+      "name": "Dark Energy",
+      "set": "Champion's Path",
+      "img": "https://www.pokellector.com/images/card-placeholder.png",
+      "rarity": "Common",
+      "cardNum": ""
+    },
+    {
+      "name": "Fighting Energy",
+      "set": "Champion's Path",
+      "img": "https://www.pokellector.com/images/card-placeholder.png",
+      "rarity": "Common",
+      "cardNum": ""
+    },
+    {
+      "name": "Psychic Energy",
+      "set": "Champion's Path",
+      "img": "https://www.pokellector.com/images/card-placeholder.png",
+      "rarity": "Common",
+      "cardNum": ""
+    },
+    {
+      "name": "Electric Energy",
+      "set": "Champion's Path",
+      "img": "https://www.pokellector.com/images/card-placeholder.png",
+      "rarity": "Common",
+      "cardNum": ""
+    },
+    {
+      "name": "Water Energy",
+      "set": "Champion's Path",
+      "img": "https://www.pokellector.com/images/card-placeholder.png",
+      "rarity": "Common",
+      "cardNum": ""
+    },
+    {
+      "name": "Fire Energy",
+      "set": "Champion's Path",
+      "img": "https://www.pokellector.com/images/card-placeholder.png",
+      "rarity": "Common",
+      "cardNum": ""
+    },
+    {
+      "name": "Grass Energy",
+      "set": "Champion's Path",
+      "img": "https://www.pokellector.com/images/card-placeholder.png",
+      "rarity": "Common",
+      "cardNum": ""
+    },
+    {
+      "name": "Fairy Energy",
+      "set": "Champion's Path",
+      "img": "https://www.pokellector.com/images/card-placeholder.png",
+      "rarity": "Common",
+      "cardNum": ""
+    }
+  ]
+}

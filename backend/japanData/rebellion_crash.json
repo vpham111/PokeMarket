@@ -1,0 +1,810 @@
+{
+  "setName": "Rebellion Crash",
+  "cards": [
+    {
+      "name": "Scyther",
+      "set": "Rebellion Crash",
+      "img": "https://den-cards.pokellector.com/291/Scyther.S2.1.31891.png",
+      "rarity": "Common",
+      "cardNum": "1/96"
+    },
+    {
+      "name": "Heracross",
+      "set": "Rebellion Crash",
+      "img": "https://den-cards.pokellector.com/291/Heracross.S2.2.31892.png",
+      "rarity": "Common",
+      "cardNum": "2/96"
+    },
+    {
+      "name": "Lotad",
+      "set": "Rebellion Crash",
+      "img": "https://den-cards.pokellector.com/291/Lotad.S2.3.31893.png",
+      "rarity": "Common",
+      "cardNum": "3/96"
+    },
+    {
+      "name": "Lombre",
+      "set": "Rebellion Crash",
+      "img": "https://den-cards.pokellector.com/291/Lombre.S2.4.31894.png",
+      "rarity": "Common",
+      "cardNum": "4/96"
+    },
+    {
+      "name": "Ludicolo",
+      "set": "Rebellion Crash",
+      "img": "https://den-cards.pokellector.com/291/Ludicolo.S2.5.31895.png",
+      "rarity": "Uncommon",
+      "cardNum": "5/96"
+    },
+    {
+      "name": "Surskit",
+      "set": "Rebellion Crash",
+      "img": "https://den-cards.pokellector.com/291/Surskit.S2.6.31896.png",
+      "rarity": "Common",
+      "cardNum": "6/96"
+    },
+    {
+      "name": "Masquerain",
+      "set": "Rebellion Crash",
+      "img": "https://den-cards.pokellector.com/291/Masquerain.S2.7.31897.png",
+      "rarity": "Common",
+      "cardNum": "7/96"
+    },
+    {
+      "name": "Phantump",
+      "set": "Rebellion Crash",
+      "img": "https://den-cards.pokellector.com/291/Phantump.S2.8.31898.png",
+      "rarity": "Common",
+      "cardNum": "8/96"
+    },
+    {
+      "name": "Trevenant",
+      "set": "Rebellion Crash",
+      "img": "https://den-cards.pokellector.com/291/Trevenant.S2.9.31899.png",
+      "rarity": "Uncommon",
+      "cardNum": "9/96"
+    },
+    {
+      "name": "Eldegoss V",
+      "set": "Rebellion Crash",
+      "img": "https://den-cards.pokellector.com/291/Eldegoss-V.S2.10.31877.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "10/96"
+    },
+    {
+      "name": "Applin",
+      "set": "Rebellion Crash",
+      "img": "https://den-cards.pokellector.com/291/Applin.S2.11.31900.png",
+      "rarity": "Common",
+      "cardNum": "11/96"
+    },
+    {
+      "name": "Flapple",
+      "set": "Rebellion Crash",
+      "img": "https://den-cards.pokellector.com/291/Flapple.S2.12.31901.png",
+      "rarity": "Rare",
+      "cardNum": "12/96"
+    },
+    {
+      "name": "Ninetales V",
+      "set": "Rebellion Crash",
+      "img": "https://den-cards.pokellector.com/291/Ninetales-V.S2.13.31902.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "13/96"
+    },
+    {
+      "name": "Magmar",
+      "set": "Rebellion Crash",
+      "img": "https://den-cards.pokellector.com/291/Magmar.S2.14.31903.png",
+      "rarity": "Common",
+      "cardNum": "14/96"
+    },
+    {
+      "name": "Magmortar",
+      "set": "Rebellion Crash",
+      "img": "https://den-cards.pokellector.com/291/Magmortar.S2.15.31904.png",
+      "rarity": "Uncommon",
+      "cardNum": "15/96"
+    },
+    {
+      "name": "Litwick",
+      "set": "Rebellion Crash",
+      "img": "https://den-cards.pokellector.com/291/Litwick.S2.16.31905.png",
+      "rarity": "Common",
+      "cardNum": "16/96"
+    },
+    {
+      "name": "Lampent",
+      "set": "Rebellion Crash",
+      "img": "https://den-cards.pokellector.com/291/Lampent.S2.17.31906.png",
+      "rarity": "Common",
+      "cardNum": "17/96"
+    },
+    {
+      "name": "Chandelure",
+      "set": "Rebellion Crash",
+      "img": "https://den-cards.pokellector.com/291/Chandelure.S2.18.31907.png",
+      "rarity": "Rare",
+      "cardNum": "18/96"
+    },
+    {
+      "name": "Heatmor",
+      "set": "Rebellion Crash",
+      "img": "https://den-cards.pokellector.com/291/Heatmor.S2.19.31908.png",
+      "rarity": "Common",
+      "cardNum": "19/96"
+    },
+    {
+      "name": "Wingull",
+      "set": "Rebellion Crash",
+      "img": "https://den-cards.pokellector.com/291/Wingull.S2.20.31909.png",
+      "rarity": "Common",
+      "cardNum": "20/96"
+    },
+    {
+      "name": "Pelipper",
+      "set": "Rebellion Crash",
+      "img": "https://den-cards.pokellector.com/291/Pelipper.S2.21.31910.png",
+      "rarity": "Uncommon",
+      "cardNum": "21/96"
+    },
+    {
+      "name": "Milotic",
+      "set": "Rebellion Crash",
+      "img": "https://den-cards.pokellector.com/291/Milotic.S2.22.31911.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "22/96"
+    },
+    {
+      "name": "Tympole",
+      "set": "Rebellion Crash",
+      "img": "https://den-cards.pokellector.com/291/Tympole.S2.23.31912.png",
+      "rarity": "Common",
+      "cardNum": "23/96"
+    },
+    {
+      "name": "Palpitoad",
+      "set": "Rebellion Crash",
+      "img": "https://den-cards.pokellector.com/291/Palpitoad.S2.24.31913.png",
+      "rarity": "Common",
+      "cardNum": "24/96"
+    },
+    {
+      "name": "Seismitoad",
+      "set": "Rebellion Crash",
+      "img": "https://den-cards.pokellector.com/291/Seismitoad.S2.25.31914.png",
+      "rarity": "Uncommon",
+      "cardNum": "25/96"
+    },
+    {
+      "name": "Galarian Darumaka",
+      "set": "Rebellion Crash",
+      "img": "https://den-cards.pokellector.com/291/Galarian-Darumaka.S2.26.31915.png",
+      "rarity": "Common",
+      "cardNum": "26/96"
+    },
+    {
+      "name": "Galarian Darmanitan",
+      "set": "Rebellion Crash",
+      "img": "https://den-cards.pokellector.com/291/Galarian-Darmanitan.S2.27.31916.png",
+      "rarity": "Uncommon",
+      "cardNum": "27/96"
+    },
+    {
+      "name": "Eiscue",
+      "set": "Rebellion Crash",
+      "img": "https://den-cards.pokellector.com/291/Eiscue.S2.28.31917.png",
+      "rarity": "Rare",
+      "cardNum": "28/96"
+    },
+    {
+      "name": "Voltorb",
+      "set": "Rebellion Crash",
+      "img": "https://den-cards.pokellector.com/291/Voltorb.S2.29.31918.png",
+      "rarity": "Common",
+      "cardNum": "29/96"
+    },
+    {
+      "name": "Electrode",
+      "set": "Rebellion Crash",
+      "img": "https://den-cards.pokellector.com/291/Electrode.S2.30.31919.png",
+      "rarity": "Common",
+      "cardNum": "30/96"
+    },
+    {
+      "name": "Electabuzz",
+      "set": "Rebellion Crash",
+      "img": "https://den-cards.pokellector.com/291/Electabuzz.S2.31.31920.png",
+      "rarity": "Common",
+      "cardNum": "31/96"
+    },
+    {
+      "name": "Electivire",
+      "set": "Rebellion Crash",
+      "img": "https://den-cards.pokellector.com/291/Electivire.S2.32.31921.png",
+      "rarity": "Uncommon",
+      "cardNum": "32/96"
+    },
+    {
+      "name": "Shinx",
+      "set": "Rebellion Crash",
+      "img": "https://den-cards.pokellector.com/291/Shinx.S2.33.31922.png",
+      "rarity": "Common",
+      "cardNum": "33/96"
+    },
+    {
+      "name": "Luxio",
+      "set": "Rebellion Crash",
+      "img": "https://den-cards.pokellector.com/291/Luxio.S2.34.31923.png",
+      "rarity": "Common",
+      "cardNum": "34/96"
+    },
+    {
+      "name": "Luxray",
+      "set": "Rebellion Crash",
+      "img": "https://den-cards.pokellector.com/291/Luxray.S2.35.31924.png",
+      "rarity": "Rare",
+      "cardNum": "35/96"
+    },
+    {
+      "name": "Toxtricity V",
+      "set": "Rebellion Crash",
+      "img": "https://den-cards.pokellector.com/291/Toxtricity-V.S2.36.31874.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "36/96"
+    },
+    {
+      "name": "Toxtricity VMAX",
+      "set": "Rebellion Crash",
+      "img": "https://den-cards.pokellector.com/291/Toxtricity-VMAX.S2.37.31875.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "37/96"
+    },
+    {
+      "name": "Morpeko",
+      "set": "Rebellion Crash",
+      "img": "https://den-cards.pokellector.com/291/Morpeko.S2.38.31925.png",
+      "rarity": "Common",
+      "cardNum": "38/96"
+    },
+    {
+      "name": "Clefairy",
+      "set": "Rebellion Crash",
+      "img": "https://den-cards.pokellector.com/291/Clefairy.S2.39.31926.png",
+      "rarity": "Common",
+      "cardNum": "39/96"
+    },
+    {
+      "name": "Clefable",
+      "set": "Rebellion Crash",
+      "img": "https://den-cards.pokellector.com/291/Clefable.S2.40.31927.png",
+      "rarity": "Rare",
+      "cardNum": "40/96"
+    },
+    {
+      "name": "Sigilyph",
+      "set": "Rebellion Crash",
+      "img": "https://den-cards.pokellector.com/291/Sigilyph.S2.41.31928.png",
+      "rarity": "Uncommon",
+      "cardNum": "41/96"
+    },
+    {
+      "name": "Sandygast",
+      "set": "Rebellion Crash",
+      "img": "https://den-cards.pokellector.com/291/Sandygast.S2.42.31929.png",
+      "rarity": "Common",
+      "cardNum": "42/96"
+    },
+    {
+      "name": "Palossand",
+      "set": "Rebellion Crash",
+      "img": "https://den-cards.pokellector.com/291/Palossand.S2.43.31930.png",
+      "rarity": "Uncommon",
+      "cardNum": "43/96"
+    },
+    {
+      "name": "Hatenna",
+      "set": "Rebellion Crash",
+      "img": "https://den-cards.pokellector.com/291/Hatenna.S2.44.31931.png",
+      "rarity": "Common",
+      "cardNum": "44/96"
+    },
+    {
+      "name": "Hattrem",
+      "set": "Rebellion Crash",
+      "img": "https://den-cards.pokellector.com/291/Hattrem.S2.45.31932.png",
+      "rarity": "Common",
+      "cardNum": "45/96"
+    },
+    {
+      "name": "Hatterene",
+      "set": "Rebellion Crash",
+      "img": "https://den-cards.pokellector.com/291/Hatterene.S2.46.31933.png",
+      "rarity": "Rare",
+      "cardNum": "46/96"
+    },
+    {
+      "name": "Milcery",
+      "set": "Rebellion Crash",
+      "img": "https://den-cards.pokellector.com/291/Milcery.S2.47.31934.png",
+      "rarity": "Common",
+      "cardNum": "47/96"
+    },
+    {
+      "name": "Alcremie",
+      "set": "Rebellion Crash",
+      "img": "https://den-cards.pokellector.com/291/Alcremie.S2.48.31935.png",
+      "rarity": "Uncommon",
+      "cardNum": "48/96"
+    },
+    {
+      "name": "Dragapult V",
+      "set": "Rebellion Crash",
+      "img": "https://den-cards.pokellector.com/291/Dragapult-V.S2.49.31879.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "49/96"
+    },
+    {
+      "name": "Dragapult VMAX",
+      "set": "Rebellion Crash",
+      "img": "https://den-cards.pokellector.com/291/Dragapult-VMAX.S2.50.31880.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "50/96"
+    },
+    {
+      "name": "Nosepass",
+      "set": "Rebellion Crash",
+      "img": "https://den-cards.pokellector.com/291/Nosepass.S2.51.31936.png",
+      "rarity": "Common",
+      "cardNum": "51/96"
+    },
+    {
+      "name": "Meditite",
+      "set": "Rebellion Crash",
+      "img": "https://den-cards.pokellector.com/291/Meditite.S2.52.31937.png",
+      "rarity": "Common",
+      "cardNum": "52/96"
+    },
+    {
+      "name": "Medicham",
+      "set": "Rebellion Crash",
+      "img": "https://den-cards.pokellector.com/291/Medicham.S2.53.31938.png",
+      "rarity": "Uncommon",
+      "cardNum": "53/96"
+    },
+    {
+      "name": "Barboach",
+      "set": "Rebellion Crash",
+      "img": "https://den-cards.pokellector.com/291/Barboach.S2.54.31939.png",
+      "rarity": "Common",
+      "cardNum": "54/96"
+    },
+    {
+      "name": "Whiscash",
+      "set": "Rebellion Crash",
+      "img": "https://den-cards.pokellector.com/291/Whiscash.S2.55.31940.png",
+      "rarity": "Uncommon",
+      "cardNum": "55/96"
+    },
+    {
+      "name": "Galarian Yamask",
+      "set": "Rebellion Crash",
+      "img": "https://den-cards.pokellector.com/291/Galarian-Yamask.S2.56.31941.png",
+      "rarity": "Common",
+      "cardNum": "56/96"
+    },
+    {
+      "name": "Galarian Runerigus",
+      "set": "Rebellion Crash",
+      "img": "https://den-cards.pokellector.com/291/Galarian-Runerigus.S2.57.31942.png",
+      "rarity": "Uncommon",
+      "cardNum": "57/96"
+    },
+    {
+      "name": "Rolycoly",
+      "set": "Rebellion Crash",
+      "img": "https://den-cards.pokellector.com/291/Rolycoly.S2.58.31943.png",
+      "rarity": "Common",
+      "cardNum": "58/96"
+    },
+    {
+      "name": "Carkol",
+      "set": "Rebellion Crash",
+      "img": "https://den-cards.pokellector.com/291/Carkol.S2.59.31944.png",
+      "rarity": "Common",
+      "cardNum": "59/96"
+    },
+    {
+      "name": "Coalossal",
+      "set": "Rebellion Crash",
+      "img": "https://den-cards.pokellector.com/291/Coalossal.S2.60.31945.png",
+      "rarity": "Rare",
+      "cardNum": "60/96"
+    },
+    {
+      "name": "Falinks V",
+      "set": "Rebellion Crash",
+      "img": "https://den-cards.pokellector.com/291/Pincurchin.S2.61.31946.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "61/96"
+    },
+    {
+      "name": "Stonjourner",
+      "set": "Rebellion Crash",
+      "img": "https://den-cards.pokellector.com/291/Stonjourner.S2.62.31947.png",
+      "rarity": "Rare",
+      "cardNum": "62/96"
+    },
+    {
+      "name": "Koffing",
+      "set": "Rebellion Crash",
+      "img": "https://den-cards.pokellector.com/291/Koffing.S2.63.31948.png",
+      "rarity": "Common",
+      "cardNum": "63/96"
+    },
+    {
+      "name": "Galarian Weezing",
+      "set": "Rebellion Crash",
+      "img": "https://den-cards.pokellector.com/291/Galarian-Weezing.S2.64.31949.png",
+      "rarity": "Rare",
+      "cardNum": "64/96"
+    },
+    {
+      "name": "Spiritomb",
+      "set": "Rebellion Crash",
+      "img": "https://den-cards.pokellector.com/291/Spiritomb.S2.65.31950.png",
+      "rarity": "Uncommon",
+      "cardNum": "65/96"
+    },
+    {
+      "name": "Trubbish",
+      "set": "Rebellion Crash",
+      "img": "https://den-cards.pokellector.com/291/Trubbish.S2.66.31951.png",
+      "rarity": "Common",
+      "cardNum": "66/96"
+    },
+    {
+      "name": "Garbodor",
+      "set": "Rebellion Crash",
+      "img": "https://den-cards.pokellector.com/291/Garbodor.S2.67.31876.png",
+      "rarity": "Uncommon",
+      "cardNum": "67/96"
+    },
+    {
+      "name": "Vullaby",
+      "set": "Rebellion Crash",
+      "img": "https://den-cards.pokellector.com/291/Vullaby.S2.68.31953.png",
+      "rarity": "Common",
+      "cardNum": "68/96"
+    },
+    {
+      "name": "Mandibuzz",
+      "set": "Rebellion Crash",
+      "img": "https://den-cards.pokellector.com/291/Mandibuzz.S2.69.31954.png",
+      "rarity": "Uncommon",
+      "cardNum": "69/96"
+    },
+    {
+      "name": "Malamar V",
+      "set": "Rebellion Crash",
+      "img": "https://den-cards.pokellector.com/291/Malamar-V.S2.70.31955.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "70/96"
+    },
+    {
+      "name": "Malamar VMAX",
+      "set": "Rebellion Crash",
+      "img": "https://den-cards.pokellector.com/291/Malamar-VMAX.S2.71.31956.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "71/96"
+    },
+    {
+      "name": "Scizor",
+      "set": "Rebellion Crash",
+      "img": "https://den-cards.pokellector.com/291/Scizor.S2.72.31957.png",
+      "rarity": "Uncommon",
+      "cardNum": "72/96"
+    },
+    {
+      "name": "Probopass",
+      "set": "Rebellion Crash",
+      "img": "https://den-cards.pokellector.com/291/Probopass.S2.73.31958.png",
+      "rarity": "Uncommon",
+      "cardNum": "73/96"
+    },
+    {
+      "name": "Durant",
+      "set": "Rebellion Crash",
+      "img": "https://den-cards.pokellector.com/291/Durant.S2.74.31959.png",
+      "rarity": "Common",
+      "cardNum": "74/96"
+    },
+    {
+      "name": "Copperajah V",
+      "set": "Rebellion Crash",
+      "img": "https://den-cards.pokellector.com/291/Copperajah-V.S2.75.31960.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "75/96"
+    },
+    {
+      "name": "Copperajah VMAX",
+      "set": "Rebellion Crash",
+      "img": "https://den-cards.pokellector.com/291/Copperajah-VMAX.S2.76.31961.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "76/96"
+    },
+    {
+      "name": "Snorlax",
+      "set": "Rebellion Crash",
+      "img": "https://den-cards.pokellector.com/291/Snorlax.S2.77.31962.png",
+      "rarity": "Uncommon",
+      "cardNum": "77/96"
+    },
+    {
+      "name": "Chatot",
+      "set": "Rebellion Crash",
+      "img": "https://den-cards.pokellector.com/291/Chatot.S2.78.31963.png",
+      "rarity": "Common",
+      "cardNum": "78/96"
+    },
+    {
+      "name": "Pidove",
+      "set": "Rebellion Crash",
+      "img": "https://den-cards.pokellector.com/291/Pidove.S2.79.31964.png",
+      "rarity": "Common",
+      "cardNum": "79/96"
+    },
+    {
+      "name": "Tranquill",
+      "set": "Rebellion Crash",
+      "img": "https://den-cards.pokellector.com/291/Tranquill.S2.80.31965.png",
+      "rarity": "Common",
+      "cardNum": "80/96"
+    },
+    {
+      "name": "Unfezant",
+      "set": "Rebellion Crash",
+      "img": "https://den-cards.pokellector.com/291/Unfezant.S2.81.31966.png",
+      "rarity": "Uncommon",
+      "cardNum": "81/96"
+    },
+    {
+      "name": "Stufful",
+      "set": "Rebellion Crash",
+      "img": "https://den-cards.pokellector.com/291/Stufful.S2.82.31967.png",
+      "rarity": "Common",
+      "cardNum": "82/96"
+    },
+    {
+      "name": "Bewear",
+      "set": "Rebellion Crash",
+      "img": "https://den-cards.pokellector.com/291/Bewear.S2.83.31968.png",
+      "rarity": "Uncommon",
+      "cardNum": "83/96"
+    },
+    {
+      "name": "Skwovet",
+      "set": "Rebellion Crash",
+      "img": "https://den-cards.pokellector.com/291/Skwovet.S2.84.31969.png",
+      "rarity": "Common",
+      "cardNum": "84/96"
+    },
+    {
+      "name": "Greedent",
+      "set": "Rebellion Crash",
+      "img": "https://den-cards.pokellector.com/291/Greedent.S2.85.31970.png",
+      "rarity": "Uncommon",
+      "cardNum": "85/96"
+    },
+    {
+      "name": "Scoop Up Net",
+      "set": "Rebellion Crash",
+      "img": "https://den-cards.pokellector.com/291/Scoop-Up-Net.S2.86.31882.png",
+      "rarity": "Uncommon",
+      "cardNum": "86/96"
+    },
+    {
+      "name": "Nugget",
+      "set": "Rebellion Crash",
+      "img": "https://den-cards.pokellector.com/291/Nugget.S2.87.31971.png",
+      "rarity": "Uncommon",
+      "cardNum": "87/96"
+    },
+    {
+      "name": "Tool Scrapper",
+      "set": "Rebellion Crash",
+      "img": "https://den-cards.pokellector.com/291/Tool-Scrapper.S2.88.31881.png",
+      "rarity": "Uncommon",
+      "cardNum": "88/96"
+    },
+    {
+      "name": "Cursed Shovel",
+      "set": "Rebellion Crash",
+      "img": "https://den-cards.pokellector.com/291/Cursed-Shovel.S2.89.31972.png",
+      "rarity": "Uncommon",
+      "cardNum": "89/96"
+    },
+    {
+      "name": "Oleana",
+      "set": "Rebellion Crash",
+      "img": "https://den-cards.pokellector.com/291/Oleana.S2.90.31973.png",
+      "rarity": "Uncommon",
+      "cardNum": "90/96"
+    },
+    {
+      "name": "Dan",
+      "set": "Rebellion Crash",
+      "img": "https://den-cards.pokellector.com/291/Dan.S2.91.31974.png",
+      "rarity": "Uncommon",
+      "cardNum": "91/96"
+    },
+    {
+      "name": "Boss’s Orders",
+      "set": "Rebellion Crash",
+      "img": "https://den-cards.pokellector.com/291/Bosss-Orders.S2.92.31878.png",
+      "rarity": "Rare",
+      "cardNum": "92/96"
+    },
+    {
+      "name": "Galar Mine",
+      "set": "Rebellion Crash",
+      "img": "https://den-cards.pokellector.com/291/Galar-Mine.S2.93.31975.png",
+      "rarity": "Uncommon",
+      "cardNum": "93/96"
+    },
+    {
+      "name": "Speed Lightning Energy",
+      "set": "Rebellion Crash",
+      "img": "https://den-cards.pokellector.com/291/Speed-Lightning-Energy.S2.94.31883.png",
+      "rarity": "Uncommon",
+      "cardNum": "94/96"
+    },
+    {
+      "name": "Horror Psychic Energy",
+      "set": "Rebellion Crash",
+      "img": "https://den-cards.pokellector.com/291/Horror-Psychic-Energy.S2.95.31884.png",
+      "rarity": "Uncommon",
+      "cardNum": "95/96"
+    },
+    {
+      "name": "Capture Energy",
+      "set": "Rebellion Crash",
+      "img": "https://den-cards.pokellector.com/291/Capture-Energy.S2.96.31976.png",
+      "rarity": "Uncommon",
+      "cardNum": "96/96"
+    },
+    {
+      "name": "Eldegoss V",
+      "set": "Rebellion Crash",
+      "img": "https://den-cards.pokellector.com/291/Eldegoss-V.S2.97.32003.png",
+      "rarity": "Secret Rare",
+      "cardNum": "97/96"
+    },
+    {
+      "name": "Ninetales V",
+      "set": "Rebellion Crash",
+      "img": "https://den-cards.pokellector.com/291/Ninetales-V.S2.98.32004.png",
+      "rarity": "Secret Rare",
+      "cardNum": "98/96"
+    },
+    {
+      "name": "Milotic V",
+      "set": "Rebellion Crash",
+      "img": "https://den-cards.pokellector.com/291/Milotic-V.S2.99.32005.png",
+      "rarity": "Secret Rare",
+      "cardNum": "99/96"
+    },
+    {
+      "name": "Toxtricity V",
+      "set": "Rebellion Crash",
+      "img": "https://den-cards.pokellector.com/291/Toxtricity-V.S2.100.32006.png",
+      "rarity": "Secret Rare",
+      "cardNum": "100/96"
+    },
+    {
+      "name": "Dragapult V",
+      "set": "Rebellion Crash",
+      "img": "https://den-cards.pokellector.com/291/Dragapult-V.S2.101.32007.png",
+      "rarity": "Secret Rare",
+      "cardNum": "101/96"
+    },
+    {
+      "name": "Falinks V",
+      "set": "Rebellion Crash",
+      "img": "https://den-cards.pokellector.com/291/Falinks-V.S2.102.32008.png",
+      "rarity": "Secret Rare",
+      "cardNum": "102/96"
+    },
+    {
+      "name": "Malamar V",
+      "set": "Rebellion Crash",
+      "img": "https://den-cards.pokellector.com/291/Malamar-V.S2.103.32009.png",
+      "rarity": "Secret Rare",
+      "cardNum": "103/96"
+    },
+    {
+      "name": "Copperajah V",
+      "set": "Rebellion Crash",
+      "img": "https://den-cards.pokellector.com/291/Copperajah-V.S2.104.32010.png",
+      "rarity": "Secret Rare",
+      "cardNum": "104/96"
+    },
+    {
+      "name": "Oleana",
+      "set": "Rebellion Crash",
+      "img": "https://den-cards.pokellector.com/291/Oleana.S2.105.32011.png",
+      "rarity": "Secret Rare",
+      "cardNum": "105/96"
+    },
+    {
+      "name": "Boss's Orders",
+      "set": "Rebellion Crash",
+      "img": "https://den-cards.pokellector.com/291/Bosss-Orders.S2.106.31982.png",
+      "rarity": "Secret Rare",
+      "cardNum": "106/96"
+    },
+    {
+      "name": "Toxtricity VMAX",
+      "set": "Rebellion Crash",
+      "img": "https://den-cards.pokellector.com/291/Toxtricity-VMAX.S2.107.32012.png",
+      "rarity": "Secret Rare",
+      "cardNum": "107/96"
+    },
+    {
+      "name": "Dragapult VMAX",
+      "set": "Rebellion Crash",
+      "img": "https://den-cards.pokellector.com/291/Dragapult-VMAX.S2.108.32013.png",
+      "rarity": "Secret Rare",
+      "cardNum": "108/96"
+    },
+    {
+      "name": "Malamar VMAX",
+      "set": "Rebellion Crash",
+      "img": "https://den-cards.pokellector.com/291/Malamar-VMAX.S2.109.32014.png",
+      "rarity": "Secret Rare",
+      "cardNum": "109/96"
+    },
+    {
+      "name": "Copperajah VMAX",
+      "set": "Rebellion Crash",
+      "img": "https://den-cards.pokellector.com/291/Copperajah-VMAX.S2.110.32015.png",
+      "rarity": "Secret Rare",
+      "cardNum": "110/96"
+    },
+    {
+      "name": "Oleana",
+      "set": "Rebellion Crash",
+      "img": "https://den-cards.pokellector.com/291/Oleana.S2.111.32016.png",
+      "rarity": "Secret Rare",
+      "cardNum": "111/96"
+    },
+    {
+      "name": "Boss's Order",
+      "set": "Rebellion Crash",
+      "img": "https://den-cards.pokellector.com/291/Bosss-Order.S2.112.32017.png",
+      "rarity": "Secret Rare",
+      "cardNum": "112/96"
+    },
+    {
+      "name": "Galarian Perrserker",
+      "set": "Rebellion Crash",
+      "img": "https://den-cards.pokellector.com/291/Galarian-Perrserker.S2.113.32018.png",
+      "rarity": "Secret Rare",
+      "cardNum": "113/96"
+    },
+    {
+      "name": "Retrieval Net",
+      "set": "Rebellion Crash",
+      "img": "https://den-cards.pokellector.com/291/Retrieval-Net.S2.114.32019.png",
+      "rarity": "Secret Rare",
+      "cardNum": "114/96"
+    },
+    {
+      "name": "Tool Scrapper",
+      "set": "Rebellion Crash",
+      "img": "https://den-cards.pokellector.com/291/Tool-Scrapper.S2.115.32020.png",
+      "rarity": "Secret Rare",
+      "cardNum": "115/96"
+    }
+  ]
+}

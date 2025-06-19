@@ -1,0 +1,390 @@
+{
+  "setName": "Exciting Battle for Everyone",
+  "cards": [
+    {
+      "name": "Tangela",
+      "set": "Exciting Battle for Everyone",
+      "img": "https://den-cards.pokellector.com/30/Tangela.WAK.1.png",
+      "rarity": "Common",
+      "cardNum": "1/47"
+    },
+    {
+      "name": "Tangrowth",
+      "set": "Exciting Battle for Everyone",
+      "img": "https://den-cards.pokellector.com/30/Tangrowth.WAK.2.png",
+      "rarity": "Common",
+      "cardNum": "2/47"
+    },
+    {
+      "name": "Maractus",
+      "set": "Exciting Battle for Everyone",
+      "img": "https://den-cards.pokellector.com/30/Maractus.WAK.3.png",
+      "rarity": "Common",
+      "cardNum": "3/47"
+    },
+    {
+      "name": "Deerling",
+      "set": "Exciting Battle for Everyone",
+      "img": "https://den-cards.pokellector.com/30/Deerling.WAK.4.png",
+      "rarity": "Common",
+      "cardNum": "4/47"
+    },
+    {
+      "name": "Virizion",
+      "set": "Exciting Battle for Everyone",
+      "img": "https://den-cards.pokellector.com/30/Virizion.WAK.5.png",
+      "rarity": "Common",
+      "cardNum": "5/47"
+    },
+    {
+      "name": "Magmar",
+      "set": "Exciting Battle for Everyone",
+      "img": "https://den-cards.pokellector.com/30/Magmar.WAK.6.png",
+      "rarity": "Common",
+      "cardNum": "6/47"
+    },
+    {
+      "name": "Magmortar",
+      "set": "Exciting Battle for Everyone",
+      "img": "https://den-cards.pokellector.com/30/Magmortar.WAK.7.png",
+      "rarity": "Common",
+      "cardNum": "7/47"
+    },
+    {
+      "name": "Victini",
+      "set": "Exciting Battle for Everyone",
+      "img": "https://den-cards.pokellector.com/30/Victini.WAK.8.png",
+      "rarity": "Common",
+      "cardNum": "8/47"
+    },
+    {
+      "name": "Heatmor",
+      "set": "Exciting Battle for Everyone",
+      "img": "https://den-cards.pokellector.com/30/Heatmor.WAK.9.png",
+      "rarity": "Common",
+      "cardNum": "9/47"
+    },
+    {
+      "name": "Larvesta",
+      "set": "Exciting Battle for Everyone",
+      "img": "https://den-cards.pokellector.com/30/Larvesta.WAK.10.png",
+      "rarity": "Common",
+      "cardNum": "10/47"
+    },
+    {
+      "name": "Marill",
+      "set": "Exciting Battle for Everyone",
+      "img": "https://den-cards.pokellector.com/30/Marill.WAK.11.png",
+      "rarity": "Common",
+      "cardNum": "11/47"
+    },
+    {
+      "name": "Azumarill",
+      "set": "Exciting Battle for Everyone",
+      "img": "https://den-cards.pokellector.com/30/Azumarill.WAK.12.png",
+      "rarity": "Common",
+      "cardNum": "12/47"
+    },
+    {
+      "name": "Frillish",
+      "set": "Exciting Battle for Everyone",
+      "img": "https://den-cards.pokellector.com/30/Frillish.WAK.13.png",
+      "rarity": "Common",
+      "cardNum": "13/47"
+    },
+    {
+      "name": "Alomomola",
+      "set": "Exciting Battle for Everyone",
+      "img": "https://den-cards.pokellector.com/30/Alomomola.WAK.14.png",
+      "rarity": "Common",
+      "cardNum": "14/47"
+    },
+    {
+      "name": "Keldeo",
+      "set": "Exciting Battle for Everyone",
+      "img": "https://den-cards.pokellector.com/30/Keldeo.WAK.15.png",
+      "rarity": "Common",
+      "cardNum": "15/47"
+    },
+    {
+      "name": "Pikachu",
+      "set": "Exciting Battle for Everyone",
+      "img": "https://den-cards.pokellector.com/30/Pikachu.WAK.16.png",
+      "rarity": "Common",
+      "cardNum": "16/47"
+    },
+    {
+      "name": "Electabuzz",
+      "set": "Exciting Battle for Everyone",
+      "img": "https://den-cards.pokellector.com/30/Electabuzz.WAK.17.png",
+      "rarity": "Common",
+      "cardNum": "17/47"
+    },
+    {
+      "name": "Electivire",
+      "set": "Exciting Battle for Everyone",
+      "img": "https://den-cards.pokellector.com/30/Electivire.WAK.18.png",
+      "rarity": "Common",
+      "cardNum": "18/47"
+    },
+    {
+      "name": "Stunfisk",
+      "set": "Exciting Battle for Everyone",
+      "img": "https://den-cards.pokellector.com/30/Stunfisk.WAK.19.png",
+      "rarity": "Common",
+      "cardNum": "19/47"
+    },
+    {
+      "name": "Thundurus",
+      "set": "Exciting Battle for Everyone",
+      "img": "https://den-cards.pokellector.com/30/Thundurus.WAK.20.png",
+      "rarity": "Common",
+      "cardNum": "20/47"
+    },
+    {
+      "name": "Sigilyph",
+      "set": "Exciting Battle for Everyone",
+      "img": "https://den-cards.pokellector.com/30/Sigilyph.WAK.21.png",
+      "rarity": "Common",
+      "cardNum": "21/47"
+    },
+    {
+      "name": "Gothita",
+      "set": "Exciting Battle for Everyone",
+      "img": "https://den-cards.pokellector.com/30/Gothita.WAK.22.png",
+      "rarity": "Common",
+      "cardNum": "22/47"
+    },
+    {
+      "name": "Gothorita",
+      "set": "Exciting Battle for Everyone",
+      "img": "https://den-cards.pokellector.com/30/Gothorita.WAK.23.png",
+      "rarity": "Common",
+      "cardNum": "23/47"
+    },
+    {
+      "name": "Gothitelle",
+      "set": "Exciting Battle for Everyone",
+      "img": "https://den-cards.pokellector.com/30/Gothitelle.WAK.24.png",
+      "rarity": "Common",
+      "cardNum": "24/47"
+    },
+    {
+      "name": "Meloetta",
+      "set": "Exciting Battle for Everyone",
+      "img": "https://den-cards.pokellector.com/30/Meloetta.WAK.25.png",
+      "rarity": "Common",
+      "cardNum": "25/47"
+    },
+    {
+      "name": "Riolu",
+      "set": "Exciting Battle for Everyone",
+      "img": "https://den-cards.pokellector.com/30/Riolu.WAK.26.png",
+      "rarity": "Common",
+      "cardNum": "26/47"
+    },
+    {
+      "name": "Lucario",
+      "set": "Exciting Battle for Everyone",
+      "img": "https://den-cards.pokellector.com/30/Lucario.WAK.27.png",
+      "rarity": "Common",
+      "cardNum": "27/47"
+    },
+    {
+      "name": "Throh",
+      "set": "Exciting Battle for Everyone",
+      "img": "https://den-cards.pokellector.com/30/Throh.WAK.28.png",
+      "rarity": "Common",
+      "cardNum": "28/47"
+    },
+    {
+      "name": "Golett",
+      "set": "Exciting Battle for Everyone",
+      "img": "https://den-cards.pokellector.com/30/Golett.WAK.29.png",
+      "rarity": "Common",
+      "cardNum": "29/47"
+    },
+    {
+      "name": "Terrakion",
+      "set": "Exciting Battle for Everyone",
+      "img": "https://den-cards.pokellector.com/30/Terrakion.WAK.30.png",
+      "rarity": "Common",
+      "cardNum": "30/47"
+    },
+    {
+      "name": "Sandile",
+      "set": "Exciting Battle for Everyone",
+      "img": "https://den-cards.pokellector.com/30/Sandile.WAK.31.png",
+      "rarity": "Common",
+      "cardNum": "31/47"
+    },
+    {
+      "name": "Scraggy",
+      "set": "Exciting Battle for Everyone",
+      "img": "https://den-cards.pokellector.com/30/Scraggy.WAK.32.png",
+      "rarity": "Common",
+      "cardNum": "32/47"
+    },
+    {
+      "name": "Scrafty",
+      "set": "Exciting Battle for Everyone",
+      "img": "https://den-cards.pokellector.com/30/Scrafty.WAK.33.png",
+      "rarity": "Common",
+      "cardNum": "33/47"
+    },
+    {
+      "name": "Zorua",
+      "set": "Exciting Battle for Everyone",
+      "img": "https://den-cards.pokellector.com/30/Zorua.WAK.34.png",
+      "rarity": "Common",
+      "cardNum": "34/47"
+    },
+    {
+      "name": "Zoroark",
+      "set": "Exciting Battle for Everyone",
+      "img": "https://den-cards.pokellector.com/30/Zoroark.WAK.35.png",
+      "rarity": "Common",
+      "cardNum": "35/47"
+    },
+    {
+      "name": "Aron",
+      "set": "Exciting Battle for Everyone",
+      "img": "https://den-cards.pokellector.com/30/Aron.WAK.36.png",
+      "rarity": "Common",
+      "cardNum": "36/47"
+    },
+    {
+      "name": "Lairon",
+      "set": "Exciting Battle for Everyone",
+      "img": "https://den-cards.pokellector.com/30/Lairon.WAK.37.png",
+      "rarity": "Common",
+      "cardNum": "37/47"
+    },
+    {
+      "name": "Aggron",
+      "set": "Exciting Battle for Everyone",
+      "img": "https://den-cards.pokellector.com/30/Aggron.WAK.38.png",
+      "rarity": "Common",
+      "cardNum": "38/47"
+    },
+    {
+      "name": "Durant",
+      "set": "Exciting Battle for Everyone",
+      "img": "https://den-cards.pokellector.com/30/Durant.WAK.39.png",
+      "rarity": "Common",
+      "cardNum": "39/47"
+    },
+    {
+      "name": "Cobalion",
+      "set": "Exciting Battle for Everyone",
+      "img": "https://den-cards.pokellector.com/30/Cobalion.WAK.40.png",
+      "rarity": "Common",
+      "cardNum": "40/47"
+    },
+    {
+      "name": "Potion",
+      "set": "Exciting Battle for Everyone",
+      "img": "https://den-cards.pokellector.com/30/Potion.WAK.41.png",
+      "rarity": "Common",
+      "cardNum": "41/47"
+    },
+    {
+      "name": "PlusPower",
+      "set": "Exciting Battle for Everyone",
+      "img": "https://den-cards.pokellector.com/30/PlusPower.WAK.42.png",
+      "rarity": "Common",
+      "cardNum": "42/47"
+    },
+    {
+      "name": "Switch",
+      "set": "Exciting Battle for Everyone",
+      "img": "https://den-cards.pokellector.com/30/Switch.WAK.43.png",
+      "rarity": "Common",
+      "cardNum": "43/47"
+    },
+    {
+      "name": "Pokemon Catcher",
+      "set": "Exciting Battle for Everyone",
+      "img": "https://den-cards.pokellector.com/30/Pokemon-Catcher.WAK.44.png",
+      "rarity": "Common",
+      "cardNum": "44/47"
+    },
+    {
+      "name": "Poke Ball",
+      "set": "Exciting Battle for Everyone",
+      "img": "https://den-cards.pokellector.com/30/Poke-Ball.WAK.45.png",
+      "rarity": "Common",
+      "cardNum": "45/47"
+    },
+    {
+      "name": "Professor Oak's Meeting",
+      "set": "Exciting Battle for Everyone",
+      "img": "https://den-cards.pokellector.com/30/Professor-Oaks-Meeting.WAK.46.png",
+      "rarity": "Common",
+      "cardNum": "46/47"
+    },
+    {
+      "name": "Fennel's Help",
+      "set": "Exciting Battle for Everyone",
+      "img": "https://den-cards.pokellector.com/30/Fennels-Help.WAK.47.png",
+      "rarity": "Common",
+      "cardNum": "47/47"
+    },
+    {
+      "name": "Grass Energy",
+      "set": "Exciting Battle for Everyone",
+      "img": "https://den-cards.pokellector.com/30/Grass-Energy.WAK.48.png",
+      "rarity": "Common",
+      "cardNum": "48/47"
+    },
+    {
+      "name": "Fire Energy",
+      "set": "Exciting Battle for Everyone",
+      "img": "https://den-cards.pokellector.com/30/Fire-Energy.WAK.49.png",
+      "rarity": "Common",
+      "cardNum": "49/47"
+    },
+    {
+      "name": "Water Energy",
+      "set": "Exciting Battle for Everyone",
+      "img": "https://den-cards.pokellector.com/30/Water-Energy.WAK.50.png",
+      "rarity": "Common",
+      "cardNum": "50/47"
+    },
+    {
+      "name": "Lightning Energy",
+      "set": "Exciting Battle for Everyone",
+      "img": "https://den-cards.pokellector.com/30/Lightning-Energy.WAK.51.png",
+      "rarity": "Common",
+      "cardNum": "51/47"
+    },
+    {
+      "name": "Psychic Energy",
+      "set": "Exciting Battle for Everyone",
+      "img": "https://den-cards.pokellector.com/30/Psychic-Energy.WAK.52.png",
+      "rarity": "Common",
+      "cardNum": "52/47"
+    },
+    {
+      "name": "Fighting Energy",
+      "set": "Exciting Battle for Everyone",
+      "img": "https://den-cards.pokellector.com/30/Fighting-Energy.WAK.53.png",
+      "rarity": "Common",
+      "cardNum": "53/47"
+    },
+    {
+      "name": "Darkness Energy",
+      "set": "Exciting Battle for Everyone",
+      "img": "https://den-cards.pokellector.com/30/Darkness-Energy.WAK.54.png",
+      "rarity": "Common",
+      "cardNum": "54/47"
+    },
+    {
+      "name": "Metal Energy",
+      "set": "Exciting Battle for Everyone",
+      "img": "https://den-cards.pokellector.com/30/Metal-Energy.WAK.55.png",
+      "rarity": "Common",
+      "cardNum": "55/47"
+    }
+  ]
+}

@@ -1,0 +1,698 @@
+{
+  "setName": "Dark Phantasma",
+  "cards": [
+    {
+      "name": "Paras",
+      "set": "Dark Phantasma",
+      "img": "https://den-cards.pokellector.com/343/Paras.S10A.1.43547.png",
+      "rarity": "Common",
+      "cardNum": "1/71"
+    },
+    {
+      "name": "Parasect",
+      "set": "Dark Phantasma",
+      "img": "https://den-cards.pokellector.com/343/Parasect.S10A.2.43465.png",
+      "rarity": "Uncommon",
+      "cardNum": "2/71"
+    },
+    {
+      "name": "Hisuian Electrode V",
+      "set": "Dark Phantasma",
+      "img": "https://den-cards.pokellector.com/343/Hisuian-Electrode-V.S10A.3.43463.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "3/71"
+    },
+    {
+      "name": "Wumple",
+      "set": "Dark Phantasma",
+      "img": "https://den-cards.pokellector.com/343/Wumple.S10A.4.43478.png",
+      "rarity": "Common",
+      "cardNum": "4/71"
+    },
+    {
+      "name": "Silcoon",
+      "set": "Dark Phantasma",
+      "img": "https://den-cards.pokellector.com/343/Silcoon.S10A.5.43481.png",
+      "rarity": "Common",
+      "cardNum": "5/71"
+    },
+    {
+      "name": "Beautifly",
+      "set": "Dark Phantasma",
+      "img": "https://den-cards.pokellector.com/343/Beautifly.S10A.6.43479.png",
+      "rarity": "Rare",
+      "cardNum": "6/71"
+    },
+    {
+      "name": "Cascoon",
+      "set": "Dark Phantasma",
+      "img": "https://den-cards.pokellector.com/343/Cascoon.S10A.7.43482.png",
+      "rarity": "Common",
+      "cardNum": "7/71"
+    },
+    {
+      "name": "Dustox",
+      "set": "Dark Phantasma",
+      "img": "https://den-cards.pokellector.com/343/Dustox.S10A.8.43480.png",
+      "rarity": "Uncommon",
+      "cardNum": "8/71"
+    },
+    {
+      "name": "Snover",
+      "set": "Dark Phantasma",
+      "img": "https://den-cards.pokellector.com/343/Snover.S10A.9.43553.png",
+      "rarity": "Common",
+      "cardNum": "9/71"
+    },
+    {
+      "name": "Abomasnow",
+      "set": "Dark Phantasma",
+      "img": "https://den-cards.pokellector.com/343/Abomasnow.S10A.10.43554.png",
+      "rarity": "Common",
+      "cardNum": "10/71"
+    },
+    {
+      "name": "Phione",
+      "set": "Dark Phantasma",
+      "img": "https://den-cards.pokellector.com/343/Phione.S10A.11.43485.png",
+      "rarity": "Uncommon",
+      "cardNum": "11/71"
+    },
+    {
+      "name": "Hisuian Basculin",
+      "set": "Dark Phantasma",
+      "img": "https://den-cards.pokellector.com/343/Hisuian-Basculin.S10A.12.43469.png",
+      "rarity": "Common",
+      "cardNum": "12/71"
+    },
+    {
+      "name": "Hisuian Basculegion",
+      "set": "Dark Phantasma",
+      "img": "https://den-cards.pokellector.com/343/Hisuian-Basculegion.S10A.13.43470.png",
+      "rarity": "Rare",
+      "cardNum": "13/71"
+    },
+    {
+      "name": "Pikachu",
+      "set": "Dark Phantasma",
+      "img": "https://den-cards.pokellector.com/343/Pikachu.S10A.14.43471.png",
+      "rarity": "Common",
+      "cardNum": "14/71"
+    },
+    {
+      "name": "Raichu",
+      "set": "Dark Phantasma",
+      "img": "https://den-cards.pokellector.com/343/Raichu.S10A.15.43472.png",
+      "rarity": "Uncommon",
+      "cardNum": "15/71"
+    },
+    {
+      "name": "Magnezone V",
+      "set": "Dark Phantasma",
+      "img": "https://den-cards.pokellector.com/343/Magnezone-V.S10A.16.43555.png",
+      "rarity": "Rare",
+      "cardNum": "16/71"
+    },
+    {
+      "name": "Magnezone VSTAR",
+      "set": "Dark Phantasma",
+      "img": "https://den-cards.pokellector.com/343/Magnezone-VSTAR.S10A.17.43556.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "17/71"
+    },
+    {
+      "name": "Rotom",
+      "set": "Dark Phantasma",
+      "img": "https://den-cards.pokellector.com/343/Rotom.S10A.18.43557.png",
+      "rarity": "Common",
+      "cardNum": "18/71"
+    },
+    {
+      "name": "Clefairy",
+      "set": "Dark Phantasma",
+      "img": "https://den-cards.pokellector.com/343/Clefairy.S10A.19.43467.png",
+      "rarity": "Common",
+      "cardNum": "19/71"
+    },
+    {
+      "name": "Clefable",
+      "set": "Dark Phantasma",
+      "img": "https://den-cards.pokellector.com/343/Clefable.S10A.20.43468.png",
+      "rarity": "Common",
+      "cardNum": "20/71"
+    },
+    {
+      "name": "Gastly",
+      "set": "Dark Phantasma",
+      "img": "https://den-cards.pokellector.com/343/Gastly.S12.21.43449.png",
+      "rarity": "Common",
+      "cardNum": "21/71"
+    },
+    {
+      "name": "Haunter",
+      "set": "Dark Phantasma",
+      "img": "https://den-cards.pokellector.com/343/Haunter.S12.22.43450.png",
+      "rarity": "Common",
+      "cardNum": "22/71"
+    },
+    {
+      "name": "Gengar",
+      "set": "Dark Phantasma",
+      "img": "https://den-cards.pokellector.com/343/Gengar.S12.23.43451.png",
+      "rarity": "Rare",
+      "cardNum": "23/71"
+    },
+    {
+      "name": "Mr. Mime",
+      "set": "Dark Phantasma",
+      "img": "https://den-cards.pokellector.com/343/Mr-Mime.S10A.24.43543.png",
+      "rarity": "Uncommon",
+      "cardNum": "24/71"
+    },
+    {
+      "name": "Misdreavus",
+      "set": "Dark Phantasma",
+      "img": "https://den-cards.pokellector.com/343/Misdreavus.S10A.25.43544.png",
+      "rarity": "Common",
+      "cardNum": "25/71"
+    },
+    {
+      "name": "Mismagius",
+      "set": "Dark Phantasma",
+      "img": "https://den-cards.pokellector.com/343/Mismagius.S10A.26.43545.png",
+      "rarity": "Uncommon",
+      "cardNum": "26/71"
+    },
+    {
+      "name": "Radiant Gardevoir",
+      "set": "Dark Phantasma",
+      "img": "https://den-cards.pokellector.com/343/Sparkling-Gardevoir.S11.27.43448.png",
+      "rarity": "Rare",
+      "cardNum": "27/71"
+    },
+    {
+      "name": "Chimecho",
+      "set": "Dark Phantasma",
+      "img": "https://den-cards.pokellector.com/343/Chimecho.S10A.28.43558.png",
+      "rarity": "Common",
+      "cardNum": "28/71"
+    },
+    {
+      "name": "Hisuian Zorua",
+      "set": "Dark Phantasma",
+      "img": "https://den-cards.pokellector.com/343/Hisuian-Zorua.S11.29.43452.png",
+      "rarity": "Common",
+      "cardNum": "29/71"
+    },
+    {
+      "name": "Hisuian Zoroark",
+      "set": "Dark Phantasma",
+      "img": "https://den-cards.pokellector.com/343/Hisuian-Zoroark.S11.30.43453.png",
+      "rarity": "Rare",
+      "cardNum": "30/71"
+    },
+    {
+      "name": "Enamorus V",
+      "set": "Dark Phantasma",
+      "img": "https://den-cards.pokellector.com/343/Enamorus-V.S10A.31.43548.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "31/71"
+    },
+    {
+      "name": "Growlithe",
+      "set": "Dark Phantasma",
+      "img": "https://den-cards.pokellector.com/343/Growlithe.S10A.32.43484.png",
+      "rarity": "Common",
+      "cardNum": "32/71"
+    },
+    {
+      "name": "Hisuian Arcanine",
+      "set": "Dark Phantasma",
+      "img": "https://den-cards.pokellector.com/343/Hisuian-Arcanine.S10A.33.43483.png",
+      "rarity": "Rare",
+      "cardNum": "33/71"
+    },
+    {
+      "name": "Machop",
+      "set": "Dark Phantasma",
+      "img": "https://den-cards.pokellector.com/343/Machop.S10A.34.43474.png",
+      "rarity": "Common",
+      "cardNum": "34/71"
+    },
+    {
+      "name": "Machoke",
+      "set": "Dark Phantasma",
+      "img": "https://den-cards.pokellector.com/343/Machoke.S10A.35.43475.png",
+      "rarity": "Uncommon",
+      "cardNum": "35/71"
+    },
+    {
+      "name": "Machamp",
+      "set": "Dark Phantasma",
+      "img": "https://den-cards.pokellector.com/343/Machamp.S10A.36.43476.png",
+      "rarity": "Rare",
+      "cardNum": "36/71"
+    },
+    {
+      "name": "Sudowoodo",
+      "set": "Dark Phantasma",
+      "img": "https://den-cards.pokellector.com/343/Sudowoodo.S10A.37.43559.png",
+      "rarity": "Common",
+      "cardNum": "37/71"
+    },
+    {
+      "name": "Gligar",
+      "set": "Dark Phantasma",
+      "img": "https://den-cards.pokellector.com/343/Gligar.S10A.38.43560.png",
+      "rarity": "Common",
+      "cardNum": "38/71"
+    },
+    {
+      "name": "Gliscor",
+      "set": "Dark Phantasma",
+      "img": "https://den-cards.pokellector.com/343/Gliscor.S10A.39.43561.png",
+      "rarity": "Uncommon",
+      "cardNum": "39/71"
+    },
+    {
+      "name": "Gallade V",
+      "set": "Dark Phantasma",
+      "img": "https://den-cards.pokellector.com/343/Gallade-V.S10A.40.43542.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "40/71"
+    },
+    {
+      "name": "Zubat",
+      "set": "Dark Phantasma",
+      "img": "https://den-cards.pokellector.com/343/Zubat.S10A.41.43562.png",
+      "rarity": "Common",
+      "cardNum": "41/71"
+    },
+    {
+      "name": "Golbat",
+      "set": "Dark Phantasma",
+      "img": "https://den-cards.pokellector.com/343/Golbat.S10A.42.43563.png",
+      "rarity": "Common",
+      "cardNum": "42/71"
+    },
+    {
+      "name": "Crobat",
+      "set": "Dark Phantasma",
+      "img": "https://den-cards.pokellector.com/343/Crobat.S10A.43.43564.png",
+      "rarity": "Rare",
+      "cardNum": "43/71"
+    },
+    {
+      "name": "Murkrow",
+      "set": "Dark Phantasma",
+      "img": "https://den-cards.pokellector.com/343/Murkrow.S10A.44.43565.png",
+      "rarity": "Common",
+      "cardNum": "44/71"
+    },
+    {
+      "name": "Honchkrow",
+      "set": "Dark Phantasma",
+      "img": "https://den-cards.pokellector.com/343/Honchkrow.S10A.45.43566.png",
+      "rarity": "Uncommon",
+      "cardNum": "45/71"
+    },
+    {
+      "name": "Radiant Hisuian Sneasler",
+      "set": "Dark Phantasma",
+      "img": "https://den-cards.pokellector.com/343/Radiant-Hisuian-Sneasler.S10A.46.43464.png",
+      "rarity": "Rare",
+      "cardNum": "46/71"
+    },
+    {
+      "name": "Spiritomb",
+      "set": "Dark Phantasma",
+      "img": "https://den-cards.pokellector.com/343/Spiritomb.S10A.47.43549.png",
+      "rarity": "Uncommon",
+      "cardNum": "47/71"
+    },
+    {
+      "name": "Croagunk",
+      "set": "Dark Phantasma",
+      "img": "https://den-cards.pokellector.com/343/Croagunk.S10A.48.43567.png",
+      "rarity": "Common",
+      "cardNum": "48/71"
+    },
+    {
+      "name": "Toxicroak",
+      "set": "Dark Phantasma",
+      "img": "https://den-cards.pokellector.com/343/Toxicroak.S10A.49.43568.png",
+      "rarity": "Uncommon",
+      "cardNum": "49/71"
+    },
+    {
+      "name": "Radiant Steelix",
+      "set": "Dark Phantasma",
+      "img": "https://den-cards.pokellector.com/343/Radiant-Steelix.S10A.50.43569.png",
+      "rarity": "Rare",
+      "cardNum": "50/71"
+    },
+    {
+      "name": "Bronzor",
+      "set": "Dark Phantasma",
+      "img": "https://den-cards.pokellector.com/343/Bronzor.S10A.51.43570.png",
+      "rarity": "Common",
+      "cardNum": "51/71"
+    },
+    {
+      "name": "Bronzong",
+      "set": "Dark Phantasma",
+      "img": "https://den-cards.pokellector.com/343/Bronzong.S10A.52.43571.png",
+      "rarity": "Uncommon",
+      "cardNum": "52/71"
+    },
+    {
+      "name": "Goomy",
+      "set": "Dark Phantasma",
+      "img": "https://den-cards.pokellector.com/343/Goomy.S10A.53.43572.png",
+      "rarity": "Common",
+      "cardNum": "53/71"
+    },
+    {
+      "name": "Hisuian Sliggoo",
+      "set": "Dark Phantasma",
+      "img": "https://den-cards.pokellector.com/343/Hisuian-Sliggoo.S10A.54.43573.png",
+      "rarity": "Uncommon",
+      "cardNum": "54/71"
+    },
+    {
+      "name": "Hisuian Goodra",
+      "set": "Dark Phantasma",
+      "img": "https://den-cards.pokellector.com/343/Hisuian-Goodra.S10A.55.43574.png",
+      "rarity": "Rare",
+      "cardNum": "55/71"
+    },
+    {
+      "name": "Hisuian Goodra V",
+      "set": "Dark Phantasma",
+      "img": "https://den-cards.pokellector.com/343/Hisuian-Goodra-V.S11.56.43446.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "56/71"
+    },
+    {
+      "name": "Hisuian Goodra VSTAR",
+      "set": "Dark Phantasma",
+      "img": "https://den-cards.pokellector.com/343/Hisuian-Goodra-VSTAR.S11.57.43447.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "57/71"
+    },
+    {
+      "name": "Snorlax",
+      "set": "Dark Phantasma",
+      "img": "https://den-cards.pokellector.com/343/Snorlax.S10A.58.43466.png",
+      "rarity": "Rare",
+      "cardNum": "58/71"
+    },
+    {
+      "name": "Aipom",
+      "set": "Dark Phantasma",
+      "img": "https://den-cards.pokellector.com/343/Aipom.S10A.59.43575.png",
+      "rarity": "Common",
+      "cardNum": "59/71"
+    },
+    {
+      "name": "Ambipom",
+      "set": "Dark Phantasma",
+      "img": "https://den-cards.pokellector.com/343/Ambipom.S10A.60.43576.png",
+      "rarity": "Uncommon",
+      "cardNum": "60/71"
+    },
+    {
+      "name": "Hisuian Zoroark V",
+      "set": "Dark Phantasma",
+      "img": "https://den-cards.pokellector.com/343/Hisuian-Zoroark-V.S11.61.43445.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "61/71"
+    },
+    {
+      "name": "Hisuian Zoroark VSTAR",
+      "set": "Dark Phantasma",
+      "img": "https://den-cards.pokellector.com/343/Hisuian-Zoroark-VSTAR.S11.62.43444.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "62/71"
+    },
+    {
+      "name": "Arc Phone",
+      "set": "Dark Phantasma",
+      "img": "https://den-cards.pokellector.com/343/Arc-Phone.S10A.63.43550.png",
+      "rarity": "Uncommon",
+      "cardNum": "63/71"
+    },
+    {
+      "name": "Damage Pump",
+      "set": "Dark Phantasma",
+      "img": "https://den-cards.pokellector.com/343/Damage-Pump.S11.64.43457.png",
+      "rarity": "Uncommon",
+      "cardNum": "64/71"
+    },
+    {
+      "name": "Windup Arm",
+      "set": "Dark Phantasma",
+      "img": "https://den-cards.pokellector.com/343/Windup-Arm.S10A.65.43551.png",
+      "rarity": "Uncommon",
+      "cardNum": "65/71"
+    },
+    {
+      "name": "Box of Disaster",
+      "set": "Dark Phantasma",
+      "img": "https://den-cards.pokellector.com/343/Box-of-Disaster.S10A.66.43477.png",
+      "rarity": "Uncommon",
+      "cardNum": "66/71"
+    },
+    {
+      "name": "Volo",
+      "set": "Dark Phantasma",
+      "img": "https://den-cards.pokellector.com/343/Volo.S10A.67.43552.png",
+      "rarity": "Rare",
+      "cardNum": "67/71"
+    },
+    {
+      "name": "Iscan",
+      "set": "Dark Phantasma",
+      "img": "https://den-cards.pokellector.com/343/Iscan.S11.68.43455.png",
+      "rarity": "Uncommon",
+      "cardNum": "68/71"
+    },
+    {
+      "name": "Arezu",
+      "set": "Dark Phantasma",
+      "img": "https://den-cards.pokellector.com/343/Arezu.S11.69.43454.png",
+      "rarity": "Uncommon",
+      "cardNum": "69/71"
+    },
+    {
+      "name": "Miss Fortune Bandits",
+      "set": "Dark Phantasma",
+      "img": "https://den-cards.pokellector.com/343/Miss-Fortune-Bandits.S10A.70.43577.png",
+      "rarity": "Uncommon",
+      "cardNum": "70/71"
+    },
+    {
+      "name": "Lake Acuity",
+      "set": "Dark Phantasma",
+      "img": "https://den-cards.pokellector.com/343/Lake-Acuity.S11.71.43456.png",
+      "rarity": "Uncommon",
+      "cardNum": "71/71"
+    },
+    {
+      "name": "Parasect",
+      "set": "Dark Phantasma",
+      "img": "https://den-cards.pokellector.com/343/Parasect.S10A.72.43645.png",
+      "rarity": "Secret Rare",
+      "cardNum": "72/71"
+    },
+    {
+      "name": "Pikachu",
+      "set": "Dark Phantasma",
+      "img": "https://den-cards.pokellector.com/343/Pikachu.S10A.73.43636.png",
+      "rarity": "Secret Rare",
+      "cardNum": "73/71"
+    },
+    {
+      "name": "Gengar",
+      "set": "Dark Phantasma",
+      "img": "https://den-cards.pokellector.com/343/Gengar.S10A.74.43646.png",
+      "rarity": "Secret Rare",
+      "cardNum": "74/71"
+    },
+    {
+      "name": "Hisuian Arcanine",
+      "set": "Dark Phantasma",
+      "img": "https://den-cards.pokellector.com/343/Hisuian-Arcanine.S10A.75.43637.png",
+      "rarity": "Secret Rare",
+      "cardNum": "75/71"
+    },
+    {
+      "name": "Spiritomb",
+      "set": "Dark Phantasma",
+      "img": "https://den-cards.pokellector.com/343/Spiritomb.S10A.76.43647.png",
+      "rarity": "Secret Rare",
+      "cardNum": "76/71"
+    },
+    {
+      "name": "Snorlax",
+      "set": "Dark Phantasma",
+      "img": "https://den-cards.pokellector.com/343/Snorlax.S10A.77.43648.png",
+      "rarity": "Secret Rare",
+      "cardNum": "77/71"
+    },
+    {
+      "name": "Hisuian Electrode V",
+      "set": "Dark Phantasma",
+      "img": "https://den-cards.pokellector.com/343/Hisuian-Electrode-V.S10A.78.43649.png",
+      "rarity": "Secret Rare",
+      "cardNum": "78/71"
+    },
+    {
+      "name": "Magnezone V",
+      "set": "Dark Phantasma",
+      "img": "https://den-cards.pokellector.com/343/Magnezone-V.S10A.79.43638.png",
+      "rarity": "Secret Rare",
+      "cardNum": "79/71"
+    },
+    {
+      "name": "Enamorus V",
+      "set": "Dark Phantasma",
+      "img": "https://den-cards.pokellector.com/343/Enamorus-V.S10A.80.43650.png",
+      "rarity": "Secret Rare",
+      "cardNum": "80/71"
+    },
+    {
+      "name": "Gallade V",
+      "set": "Dark Phantasma",
+      "img": "https://den-cards.pokellector.com/343/Gallade-V.S10A.81.43651.png",
+      "rarity": "Secret Rare",
+      "cardNum": "81/71"
+    },
+    {
+      "name": "Hisuian Goodra V",
+      "set": "Dark Phantasma",
+      "img": "https://den-cards.pokellector.com/343/Hisuian-Goodra-V.S10A.82.43652.png",
+      "rarity": "Secret Rare",
+      "cardNum": "82/71"
+    },
+    {
+      "name": "Hisuian Zoroark V",
+      "set": "Dark Phantasma",
+      "img": "https://den-cards.pokellector.com/343/Hisuian-Zoroark-V.S10A.83.43653.png",
+      "rarity": "Secret Rare",
+      "cardNum": "83/71"
+    },
+    {
+      "name": "Volo",
+      "set": "Dark Phantasma",
+      "img": "https://den-cards.pokellector.com/343/Volo.S10A.84.43654.png",
+      "rarity": "Secret Rare",
+      "cardNum": "84/71"
+    },
+    {
+      "name": "Iscan",
+      "set": "Dark Phantasma",
+      "img": "https://den-cards.pokellector.com/343/Iscan.S10A.85.43655.png",
+      "rarity": "Secret Rare",
+      "cardNum": "85/71"
+    },
+    {
+      "name": "Arezu",
+      "set": "Dark Phantasma",
+      "img": "https://den-cards.pokellector.com/343/Arezu.S10A.86.43656.png",
+      "rarity": "Secret Rare",
+      "cardNum": "86/71"
+    },
+    {
+      "name": "Miss Fortune Sisters",
+      "set": "Dark Phantasma",
+      "img": "https://den-cards.pokellector.com/343/Miss-Fortune-Sisters.S10A.87.43657.png",
+      "rarity": "Secret Rare",
+      "cardNum": "87/71"
+    },
+    {
+      "name": "Enamorus V",
+      "set": "Dark Phantasma",
+      "img": "https://den-cards.pokellector.com/343/Enamorus-V.S10A.88.43639.png",
+      "rarity": "Secret Rare",
+      "cardNum": "88/71"
+    },
+    {
+      "name": "Gallade V",
+      "set": "Dark Phantasma",
+      "img": "https://den-cards.pokellector.com/343/Gallade-V.S10A.89.43658.png",
+      "rarity": "Secret Rare",
+      "cardNum": "89/71"
+    },
+    {
+      "name": "Magnezone VSTAR",
+      "set": "Dark Phantasma",
+      "img": "https://den-cards.pokellector.com/343/Magnezone-VSTAR.S10A.90.43659.png",
+      "rarity": "Secret Rare",
+      "cardNum": "90/71"
+    },
+    {
+      "name": "Hisuian Goodra VSTAR",
+      "set": "Dark Phantasma",
+      "img": "https://den-cards.pokellector.com/343/Hisuian-Goodra-VSTAR.S10A.91.43660.png",
+      "rarity": "Secret Rare",
+      "cardNum": "91/71"
+    },
+    {
+      "name": "Hisuian Zoroark VSTAR",
+      "set": "Dark Phantasma",
+      "img": "https://den-cards.pokellector.com/343/Hisuian-Zoroark-VSTAR.S10A.92.43661.png",
+      "rarity": "Secret Rare",
+      "cardNum": "92/71"
+    },
+    {
+      "name": "Volo",
+      "set": "Dark Phantasma",
+      "img": "https://den-cards.pokellector.com/343/Volo.S10A.93.43662.png",
+      "rarity": "Secret Rare",
+      "cardNum": "93/71"
+    },
+    {
+      "name": "Iscan",
+      "set": "Dark Phantasma",
+      "img": "https://den-cards.pokellector.com/343/Iscan.S10A.97.43663.png",
+      "rarity": "Secret Rare",
+      "cardNum": "94/71"
+    },
+    {
+      "name": "Arezu",
+      "set": "Dark Phantasma",
+      "img": "https://den-cards.pokellector.com/343/Arezu.S10A.95.43664.png",
+      "rarity": "Secret Rare",
+      "cardNum": "95/71"
+    },
+    {
+      "name": "Miss Fortune Sisters",
+      "set": "Dark Phantasma",
+      "img": "https://den-cards.pokellector.com/343/Miss-Fortune-Sisters.S10A.96.43665.png",
+      "rarity": "Secret Rare",
+      "cardNum": "96/71"
+    },
+    {
+      "name": "Hisuian Zoroark VSTAR",
+      "set": "Dark Phantasma",
+      "img": "https://den-cards.pokellector.com/343/Hisuian-Zoroark-VSTAR.S10A.97.43666.png",
+      "rarity": "Secret Rare",
+      "cardNum": "97/71"
+    },
+    {
+      "name": "Dark Patch",
+      "set": "Dark Phantasma",
+      "img": "https://den-cards.pokellector.com/343/Dark-Patch.S10A.98.43667.png",
+      "rarity": "Secret Rare",
+      "cardNum": "98/71"
+    },
+    {
+      "name": "Box of Disaster",
+      "set": "Dark Phantasma",
+      "img": "https://den-cards.pokellector.com/343/Box-of-Disaster.S10A.99.43668.png",
+      "rarity": "Secret Rare",
+      "cardNum": "99/71"
+    }
+  ]
+}

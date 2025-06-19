@@ -1,7 +1,15 @@
 .layout {
   display: flex;
   min-height: 100vh;
-  background-color: "transparent";
+  overflow-y: auto;
+  background-color: transparent;
+}
+.layout::-webkit-scrollbar {
+  display: none;
+}
+.layout {
+  scrollbar-width: none;
+  -ms-overflow-style: none;
 }
 
 .main {
@@ -33,21 +41,6 @@
     background-color: #0070f3;
 }
 
-h1 {
-    color: #4CAF50;
-}
-
-button {
-    padding: 15px;
-    border-radius: 10px;
-    margin-top: 15px;
-    margin-bottom: 15px;
-    border: none;
-    color: white;
-    cursor: pointer;
-    background-color: #4CAF50;
-    font-size: 16px;
-}
 
 .content-inner {
   max-width: 90vw;
@@ -118,3 +111,5 @@ button {
 .button:hover {
     background-color: #274261;
 }
+
+

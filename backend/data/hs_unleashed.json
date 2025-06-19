@@ -1,0 +1,677 @@
+{
+  "setName": "HS Unleashed",
+  "cards": [
+    {
+      "name": "Jirachi",
+      "set": "HS Unleashed",
+      "img": "https://den-cards.pokellector.com/35/Jirachi.UL.1.png",
+      "rarity": "Rare",
+      "cardNum": "1/95"
+    },
+    {
+      "name": "Magmortar",
+      "set": "HS Unleashed",
+      "img": "https://den-cards.pokellector.com/35/Magmortar.UL.2.png",
+      "rarity": "Rare",
+      "cardNum": "2/95"
+    },
+    {
+      "name": "Manaphy",
+      "set": "HS Unleashed",
+      "img": "https://den-cards.pokellector.com/35/Manaphy.UL.3.png",
+      "rarity": "Rare",
+      "cardNum": "3/95"
+    },
+    {
+      "name": "Metagross",
+      "set": "HS Unleashed",
+      "img": "https://den-cards.pokellector.com/35/Metagross.UL.4.png",
+      "rarity": "Rare",
+      "cardNum": "4/95"
+    },
+    {
+      "name": "Mismagius",
+      "set": "HS Unleashed",
+      "img": "https://den-cards.pokellector.com/35/Mismagius.UL.5.png",
+      "rarity": "Rare",
+      "cardNum": "5/95"
+    },
+    {
+      "name": "Octillery",
+      "set": "HS Unleashed",
+      "img": "https://den-cards.pokellector.com/35/Octillery.UL.6.png",
+      "rarity": "Rare",
+      "cardNum": "6/95"
+    },
+    {
+      "name": "Politoed",
+      "set": "HS Unleashed",
+      "img": "https://den-cards.pokellector.com/35/Politoed.UL.7.png",
+      "rarity": "Rare",
+      "cardNum": "7/95"
+    },
+    {
+      "name": "Shaymin",
+      "set": "HS Unleashed",
+      "img": "https://den-cards.pokellector.com/35/Shaymin.UL.8.png",
+      "rarity": "Rare",
+      "cardNum": "8/95"
+    },
+    {
+      "name": "Sudowoodo",
+      "set": "HS Unleashed",
+      "img": "https://den-cards.pokellector.com/35/Sudowoodo.UL.9.png",
+      "rarity": "Rare",
+      "cardNum": "9/95"
+    },
+    {
+      "name": "Torterra",
+      "set": "HS Unleashed",
+      "img": "https://den-cards.pokellector.com/35/Torterra.UL.10.png",
+      "rarity": "Rare",
+      "cardNum": "10/95"
+    },
+    {
+      "name": "Xatu",
+      "set": "HS Unleashed",
+      "img": "https://den-cards.pokellector.com/35/Xatu.UL.11.png",
+      "rarity": "Rare",
+      "cardNum": "11/95"
+    },
+    {
+      "name": "Beedrill",
+      "set": "HS Unleashed",
+      "img": "https://den-cards.pokellector.com/35/Beedrill.UL.12.png",
+      "rarity": "Rare",
+      "cardNum": "12/95"
+    },
+    {
+      "name": "Blastoise",
+      "set": "HS Unleashed",
+      "img": "https://den-cards.pokellector.com/35/Blastoise.UL.13.png",
+      "rarity": "Rare",
+      "cardNum": "13/95"
+    },
+    {
+      "name": "Crobat",
+      "set": "HS Unleashed",
+      "img": "https://den-cards.pokellector.com/35/Crobat.UL.14.png",
+      "rarity": "Rare",
+      "cardNum": "14/95"
+    },
+    {
+      "name": "Fearow",
+      "set": "HS Unleashed",
+      "img": "https://den-cards.pokellector.com/35/Fearow.UL.15.png",
+      "rarity": "Rare",
+      "cardNum": "15/95"
+    },
+    {
+      "name": "Floatzel",
+      "set": "HS Unleashed",
+      "img": "https://den-cards.pokellector.com/35/Floatzel.UL.16.png",
+      "rarity": "Rare",
+      "cardNum": "16/95"
+    },
+    {
+      "name": "Kingdra",
+      "set": "HS Unleashed",
+      "img": "https://den-cards.pokellector.com/35/Kingdra.UL.17.png",
+      "rarity": "Rare",
+      "cardNum": "17/95"
+    },
+    {
+      "name": "Lanturn",
+      "set": "HS Unleashed",
+      "img": "https://den-cards.pokellector.com/35/Lanturn.UL.18.png",
+      "rarity": "Rare",
+      "cardNum": "18/95"
+    },
+    {
+      "name": "Lucario",
+      "set": "HS Unleashed",
+      "img": "https://den-cards.pokellector.com/35/Lucario.UL.19.png",
+      "rarity": "Rare",
+      "cardNum": "19/95"
+    },
+    {
+      "name": "Ninetales",
+      "set": "HS Unleashed",
+      "img": "https://den-cards.pokellector.com/35/Ninetales.UL.20.png",
+      "rarity": "Rare",
+      "cardNum": "20/95"
+    },
+    {
+      "name": "Poliwrath",
+      "set": "HS Unleashed",
+      "img": "https://den-cards.pokellector.com/35/Poliwrath.UL.21.png",
+      "rarity": "Rare",
+      "cardNum": "21/95"
+    },
+    {
+      "name": "Primeape",
+      "set": "HS Unleashed",
+      "img": "https://den-cards.pokellector.com/35/Primeape.UL.22.png",
+      "rarity": "Rare",
+      "cardNum": "22/95"
+    },
+    {
+      "name": "Roserade",
+      "set": "HS Unleashed",
+      "img": "https://den-cards.pokellector.com/35/Roserade.UL.23.png",
+      "rarity": "Rare",
+      "cardNum": "23/95"
+    },
+    {
+      "name": "Steelix",
+      "set": "HS Unleashed",
+      "img": "https://den-cards.pokellector.com/35/Steelix.UL.24.png",
+      "rarity": "Rare",
+      "cardNum": "24/95"
+    },
+    {
+      "name": "Torkoal",
+      "set": "HS Unleashed",
+      "img": "https://den-cards.pokellector.com/35/Torkoal.UL.25.png",
+      "rarity": "Rare",
+      "cardNum": "25/95"
+    },
+    {
+      "name": "Tyranitar",
+      "set": "HS Unleashed",
+      "img": "https://den-cards.pokellector.com/35/Tyranitar.UL.26.png",
+      "rarity": "Rare",
+      "cardNum": "26/95"
+    },
+    {
+      "name": "Ursaring",
+      "set": "HS Unleashed",
+      "img": "https://den-cards.pokellector.com/35/Ursaring.UL.27.png",
+      "rarity": "Rare",
+      "cardNum": "27/95"
+    },
+    {
+      "name": "Cherrim",
+      "set": "HS Unleashed",
+      "img": "https://den-cards.pokellector.com/35/Cherrim.UL.28.png",
+      "rarity": "Uncommon",
+      "cardNum": "28/95"
+    },
+    {
+      "name": "Dunsparce",
+      "set": "HS Unleashed",
+      "img": "https://den-cards.pokellector.com/35/Dunsparce.UL.29.png",
+      "rarity": "Uncommon",
+      "cardNum": "29/95"
+    },
+    {
+      "name": "Golbat",
+      "set": "HS Unleashed",
+      "img": "https://den-cards.pokellector.com/35/Golbat.UL.30.png",
+      "rarity": "Uncommon",
+      "cardNum": "30/95"
+    },
+    {
+      "name": "Grotle",
+      "set": "HS Unleashed",
+      "img": "https://den-cards.pokellector.com/35/Grotle.UL.31.png",
+      "rarity": "Uncommon",
+      "cardNum": "31/95"
+    },
+    {
+      "name": "Kakuna",
+      "set": "HS Unleashed",
+      "img": "https://den-cards.pokellector.com/35/Kakuna.UL.32.png",
+      "rarity": "Uncommon",
+      "cardNum": "32/95"
+    },
+    {
+      "name": "Metang",
+      "set": "HS Unleashed",
+      "img": "https://den-cards.pokellector.com/35/Metang.UL.33.png",
+      "rarity": "Uncommon",
+      "cardNum": "33/95"
+    },
+    {
+      "name": "Minun",
+      "set": "HS Unleashed",
+      "img": "https://den-cards.pokellector.com/35/Minun.UL.34.png",
+      "rarity": "Uncommon",
+      "cardNum": "34/95"
+    },
+    {
+      "name": "Numel",
+      "set": "HS Unleashed",
+      "img": "https://den-cards.pokellector.com/35/Numel.UL.35.png",
+      "rarity": "Uncommon",
+      "cardNum": "35/95"
+    },
+    {
+      "name": "Plusle",
+      "set": "HS Unleashed",
+      "img": "https://den-cards.pokellector.com/35/Plusle.UL.36.png",
+      "rarity": "Uncommon",
+      "cardNum": "36/95"
+    },
+    {
+      "name": "Poliwhirl",
+      "set": "HS Unleashed",
+      "img": "https://den-cards.pokellector.com/35/Poliwhirl.UL.37.png",
+      "rarity": "Uncommon",
+      "cardNum": "37/95"
+    },
+    {
+      "name": "Pupitar",
+      "set": "HS Unleashed",
+      "img": "https://den-cards.pokellector.com/35/Pupitar.UL.38.png",
+      "rarity": "Uncommon",
+      "cardNum": "38/95"
+    },
+    {
+      "name": "Pupitar",
+      "set": "HS Unleashed",
+      "img": "https://den-cards.pokellector.com/35/Pupitar.UL.39.png",
+      "rarity": "Uncommon",
+      "cardNum": "39/95"
+    },
+    {
+      "name": "Seadra",
+      "set": "HS Unleashed",
+      "img": "https://den-cards.pokellector.com/35/Seadra.UL.40.png",
+      "rarity": "Uncommon",
+      "cardNum": "40/95"
+    },
+    {
+      "name": "Tauros",
+      "set": "HS Unleashed",
+      "img": "https://den-cards.pokellector.com/35/Tauros.UL.41.png",
+      "rarity": "Uncommon",
+      "cardNum": "41/95"
+    },
+    {
+      "name": "Wartortle",
+      "set": "HS Unleashed",
+      "img": "https://den-cards.pokellector.com/35/Wartortle.UL.42.png",
+      "rarity": "Uncommon",
+      "cardNum": "42/95"
+    },
+    {
+      "name": "Aipom",
+      "set": "HS Unleashed",
+      "img": "https://den-cards.pokellector.com/35/Aipom.UL.43.png",
+      "rarity": "Common",
+      "cardNum": "43/95"
+    },
+    {
+      "name": "Beldum",
+      "set": "HS Unleashed",
+      "img": "https://den-cards.pokellector.com/35/Beldum.UL.44.png",
+      "rarity": "Common",
+      "cardNum": "44/95"
+    },
+    {
+      "name": "Buizel",
+      "set": "HS Unleashed",
+      "img": "https://den-cards.pokellector.com/35/Buizel.UL.45.png",
+      "rarity": "Common",
+      "cardNum": "45/95"
+    },
+    {
+      "name": "Carnivine",
+      "set": "HS Unleashed",
+      "img": "https://den-cards.pokellector.com/35/Carnivine.UL.46.png",
+      "rarity": "Common",
+      "cardNum": "46/95"
+    },
+    {
+      "name": "Cherubi",
+      "set": "HS Unleashed",
+      "img": "https://den-cards.pokellector.com/35/Cherubi.UL.47.png",
+      "rarity": "Common",
+      "cardNum": "47/95"
+    },
+    {
+      "name": "Chinchou",
+      "set": "HS Unleashed",
+      "img": "https://den-cards.pokellector.com/35/Chinchou.UL.48.png",
+      "rarity": "Common",
+      "cardNum": "48/95"
+    },
+    {
+      "name": "Horsea",
+      "set": "HS Unleashed",
+      "img": "https://den-cards.pokellector.com/35/Horsea.UL.49.png",
+      "rarity": "Common",
+      "cardNum": "49/95"
+    },
+    {
+      "name": "Larvitar",
+      "set": "HS Unleashed",
+      "img": "https://den-cards.pokellector.com/35/Larvitar.UL.50.png",
+      "rarity": "Common",
+      "cardNum": "50/95"
+    },
+    {
+      "name": "Larvitar",
+      "set": "HS Unleashed",
+      "img": "https://den-cards.pokellector.com/35/Larvitar.UL.51.png",
+      "rarity": "Common",
+      "cardNum": "51/95"
+    },
+    {
+      "name": "Magmar",
+      "set": "HS Unleashed",
+      "img": "https://den-cards.pokellector.com/35/Magmar.UL.52.png",
+      "rarity": "Common",
+      "cardNum": "52/95"
+    },
+    {
+      "name": "Mankey",
+      "set": "HS Unleashed",
+      "img": "https://den-cards.pokellector.com/35/Mankey.UL.53.png",
+      "rarity": "Common",
+      "cardNum": "53/95"
+    },
+    {
+      "name": "Misdreavus",
+      "set": "HS Unleashed",
+      "img": "https://den-cards.pokellector.com/35/Misdreavus.UL.54.png",
+      "rarity": "Common",
+      "cardNum": "54/95"
+    },
+    {
+      "name": "Natu",
+      "set": "HS Unleashed",
+      "img": "https://den-cards.pokellector.com/35/Natu.UL.55.png",
+      "rarity": "Common",
+      "cardNum": "55/95"
+    },
+    {
+      "name": "Onix",
+      "set": "HS Unleashed",
+      "img": "https://den-cards.pokellector.com/35/Onix.UL.56.png",
+      "rarity": "Common",
+      "cardNum": "56/95"
+    },
+    {
+      "name": "Onix",
+      "set": "HS Unleashed",
+      "img": "https://den-cards.pokellector.com/35/Onix.UL.57.png",
+      "rarity": "Common",
+      "cardNum": "57/95"
+    },
+    {
+      "name": "Poliwag",
+      "set": "HS Unleashed",
+      "img": "https://den-cards.pokellector.com/35/Poliwag.UL.58.png",
+      "rarity": "Common",
+      "cardNum": "58/95"
+    },
+    {
+      "name": "Remoraid",
+      "set": "HS Unleashed",
+      "img": "https://den-cards.pokellector.com/35/Remoraid.UL.59.png",
+      "rarity": "Common",
+      "cardNum": "59/95"
+    },
+    {
+      "name": "Riolu",
+      "set": "HS Unleashed",
+      "img": "https://den-cards.pokellector.com/35/Riolu.UL.60.png",
+      "rarity": "Common",
+      "cardNum": "60/95"
+    },
+    {
+      "name": "Roselia",
+      "set": "HS Unleashed",
+      "img": "https://den-cards.pokellector.com/35/Roselia.UL.61.png",
+      "rarity": "Common",
+      "cardNum": "61/95"
+    },
+    {
+      "name": "Spearow",
+      "set": "HS Unleashed",
+      "img": "https://den-cards.pokellector.com/35/Spearow.UL.62.png",
+      "rarity": "Common",
+      "cardNum": "62/95"
+    },
+    {
+      "name": "Squirtle",
+      "set": "HS Unleashed",
+      "img": "https://den-cards.pokellector.com/35/Squirtle.UL.63.png",
+      "rarity": "Common",
+      "cardNum": "63/95"
+    },
+    {
+      "name": "Stantler",
+      "set": "HS Unleashed",
+      "img": "https://den-cards.pokellector.com/35/Stantler.UL.64.png",
+      "rarity": "Common",
+      "cardNum": "64/95"
+    },
+    {
+      "name": "Teddiursa",
+      "set": "HS Unleashed",
+      "img": "https://den-cards.pokellector.com/35/Teddiursa.UL.65.png",
+      "rarity": "Common",
+      "cardNum": "65/95"
+    },
+    {
+      "name": "Tropius",
+      "set": "HS Unleashed",
+      "img": "https://den-cards.pokellector.com/35/Tropius.UL.66.png",
+      "rarity": "Common",
+      "cardNum": "66/95"
+    },
+    {
+      "name": "Turtwig",
+      "set": "HS Unleashed",
+      "img": "https://den-cards.pokellector.com/35/Turtwig.UL.67.png",
+      "rarity": "Common",
+      "cardNum": "67/95"
+    },
+    {
+      "name": "Vulpix",
+      "set": "HS Unleashed",
+      "img": "https://den-cards.pokellector.com/35/Vulpix.UL.68.png",
+      "rarity": "Common",
+      "cardNum": "68/95"
+    },
+    {
+      "name": "Weedle",
+      "set": "HS Unleashed",
+      "img": "https://den-cards.pokellector.com/35/Weedle.UL.69.png",
+      "rarity": "Common",
+      "cardNum": "69/95"
+    },
+    {
+      "name": "Zubat",
+      "set": "HS Unleashed",
+      "img": "https://den-cards.pokellector.com/35/Zubat.UL.70.png",
+      "rarity": "Common",
+      "cardNum": "70/95"
+    },
+    {
+      "name": "Cheerleader's Cheer",
+      "set": "HS Unleashed",
+      "img": "https://den-cards.pokellector.com/35/Cheerleaders-Cheer.UL.71.png",
+      "rarity": "Uncommon",
+      "cardNum": "71/95"
+    },
+    {
+      "name": "Dual Ball",
+      "set": "HS Unleashed",
+      "img": "https://den-cards.pokellector.com/35/Dual-Ball.UL.72.png",
+      "rarity": "Uncommon",
+      "cardNum": "72/95"
+    },
+    {
+      "name": "Emcee's Chatter",
+      "set": "HS Unleashed",
+      "img": "https://den-cards.pokellector.com/35/Emcees-Chatter.UL.73.png",
+      "rarity": "Uncommon",
+      "cardNum": "73/95"
+    },
+    {
+      "name": "Energy Returner",
+      "set": "HS Unleashed",
+      "img": "https://den-cards.pokellector.com/35/Energy-Returner.UL.74.png",
+      "rarity": "Uncommon",
+      "cardNum": "74/95"
+    },
+    {
+      "name": "Engineer's Adjustments",
+      "set": "HS Unleashed",
+      "img": "https://den-cards.pokellector.com/35/Engineers-Adjustments.UL.75.png",
+      "rarity": "Uncommon",
+      "cardNum": "75/95"
+    },
+    {
+      "name": "Good Rod",
+      "set": "HS Unleashed",
+      "img": "https://den-cards.pokellector.com/35/Good-Rod.UL.76.png",
+      "rarity": "Uncommon",
+      "cardNum": "76/95"
+    },
+    {
+      "name": "Interviewer's Questions",
+      "set": "HS Unleashed",
+      "img": "https://den-cards.pokellector.com/35/Interviewers-Questions.UL.77.png",
+      "rarity": "Uncommon",
+      "cardNum": "77/95"
+    },
+    {
+      "name": "Judge",
+      "set": "HS Unleashed",
+      "img": "https://den-cards.pokellector.com/35/Judge.UL.78.png",
+      "rarity": "Uncommon",
+      "cardNum": "78/95"
+    },
+    {
+      "name": "Life Herb",
+      "set": "HS Unleashed",
+      "img": "https://den-cards.pokellector.com/35/Life-Herb.UL.79.png",
+      "rarity": "Uncommon",
+      "cardNum": "79/95"
+    },
+    {
+      "name": "PlusPower",
+      "set": "HS Unleashed",
+      "img": "https://den-cards.pokellector.com/35/PlusPower.UL.80.png",
+      "rarity": "Uncommon",
+      "cardNum": "80/95"
+    },
+    {
+      "name": "Pokemon Circulator",
+      "set": "HS Unleashed",
+      "img": "https://den-cards.pokellector.com/35/Pokemon-Circulator.UL.81.png",
+      "rarity": "Uncommon",
+      "cardNum": "81/95"
+    },
+    {
+      "name": "Rare Candy",
+      "set": "HS Unleashed",
+      "img": "https://den-cards.pokellector.com/35/Rare-Candy.UL.82.png",
+      "rarity": "Uncommon",
+      "cardNum": "82/95"
+    },
+    {
+      "name": "Super Scoop Up",
+      "set": "HS Unleashed",
+      "img": "https://den-cards.pokellector.com/35/Super-Scoop-Up.UL.83.png",
+      "rarity": "Uncommon",
+      "cardNum": "83/95"
+    },
+    {
+      "name": "Crobat",
+      "set": "HS Unleashed",
+      "img": "https://den-cards.pokellector.com/35/Crobat.UL.84.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "84/95"
+    },
+    {
+      "name": "Kingdra",
+      "set": "HS Unleashed",
+      "img": "https://den-cards.pokellector.com/35/Kingdra.UL.85.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "85/95"
+    },
+    {
+      "name": "Lanturn",
+      "set": "HS Unleashed",
+      "img": "https://den-cards.pokellector.com/35/Lanturn.UL.86.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "86/95"
+    },
+    {
+      "name": "Steelix",
+      "set": "HS Unleashed",
+      "img": "https://den-cards.pokellector.com/35/Steelix.UL.87.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "87/95"
+    },
+    {
+      "name": "Tyranitar",
+      "set": "HS Unleashed",
+      "img": "https://den-cards.pokellector.com/35/Tyranitar.UL.88.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "88/95"
+    },
+    {
+      "name": "Ursaring",
+      "set": "HS Unleashed",
+      "img": "https://den-cards.pokellector.com/35/Ursaring.UL.89.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "89/95"
+    },
+    {
+      "name": "Entei & Raikou LEGEND (top)",
+      "set": "HS Unleashed",
+      "img": "https://den-cards.pokellector.com/35/Entei-Raikou-LEGEND-top.UL.90.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "90/95"
+    },
+    {
+      "name": "Entei & Raikou LEGEND (bottom)",
+      "set": "HS Unleashed",
+      "img": "https://den-cards.pokellector.com/35/Entei-Raikou-LEGEND-bottom.UL.91.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "91/95"
+    },
+    {
+      "name": "Raikou & Suicune LEGEND (top)",
+      "set": "HS Unleashed",
+      "img": "https://den-cards.pokellector.com/35/Raikou-Suicune-LEGEND-top.UL.92.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "92/95"
+    },
+    {
+      "name": "Raikou & Suicune LEGEND (bottom)",
+      "set": "HS Unleashed",
+      "img": "https://den-cards.pokellector.com/35/Raikou-Suicune-LEGEND-bottom.UL.93.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "93/95"
+    },
+    {
+      "name": "Suicune & Entei LEGEND (top)",
+      "set": "HS Unleashed",
+      "img": "https://den-cards.pokellector.com/35/Suicune-Entei-LEGEND-top.UL.94.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "94/95"
+    },
+    {
+      "name": "Suicune & Entei LEGEND (bottom)",
+      "set": "HS Unleashed",
+      "img": "https://den-cards.pokellector.com/35/Suicune-Entei-LEGEND-bottom.UL.95.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "95/95"
+    },
+    {
+      "name": "Alph Lithograph",
+      "set": "HS Unleashed",
+      "img": "https://den-cards.pokellector.com/35/Alph-Lithograph.UL.0.png",
+      "rarity": "Secret Rare",
+      "cardNum": "TWO"
+    }
+  ]
+}

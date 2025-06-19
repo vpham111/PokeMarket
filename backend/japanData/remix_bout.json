@@ -1,0 +1,565 @@
+{
+  "setName": "Remix Bout",
+  "cards": [
+    {
+      "name": "Venusaur & Snivy GX",
+      "set": "Remix Bout",
+      "img": "https://den-cards.pokellector.com/272/Venusaur-Snivy-GX.SM11A.1.28934.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "1/64"
+    },
+    {
+      "name": "Tangela",
+      "set": "Remix Bout",
+      "img": "https://den-cards.pokellector.com/272/Tangela.SM11A.2.28956.png",
+      "rarity": "Common",
+      "cardNum": "2/64"
+    },
+    {
+      "name": "Tangrowth",
+      "set": "Remix Bout",
+      "img": "https://den-cards.pokellector.com/272/Tangrowth.SM11A.3.28957.png",
+      "rarity": "Uncommon",
+      "cardNum": "3/64"
+    },
+    {
+      "name": "Heracross",
+      "set": "Remix Bout",
+      "img": "https://den-cards.pokellector.com/272/Heracross.SM11A.4.28958.png",
+      "rarity": "Common",
+      "cardNum": "4/64"
+    },
+    {
+      "name": "Tropius",
+      "set": "Remix Bout",
+      "img": "https://den-cards.pokellector.com/272/Tropius.SM11A.5.28959.png",
+      "rarity": "Common",
+      "cardNum": "5/64"
+    },
+    {
+      "name": "Deerling",
+      "set": "Remix Bout",
+      "img": "https://den-cards.pokellector.com/272/Deerling.SM11A.6.28960.png",
+      "rarity": "Common",
+      "cardNum": "6/64"
+    },
+    {
+      "name": "Sawsbuck",
+      "set": "Remix Bout",
+      "img": "https://den-cards.pokellector.com/272/Sawsbuck.SM11A.7.28955.png",
+      "rarity": "Rare",
+      "cardNum": "7/64"
+    },
+    {
+      "name": "Charizard & Braixen GX",
+      "set": "Remix Bout",
+      "img": "https://den-cards.pokellector.com/272/Charizard-Braixen-GX.SM11A.8.28929.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "8/64"
+    },
+    {
+      "name": "Ponyta",
+      "set": "Remix Bout",
+      "img": "https://den-cards.pokellector.com/272/Ponyta.SM11A.9.28931.png",
+      "rarity": "Common",
+      "cardNum": "9/64"
+    },
+    {
+      "name": "Rapidash",
+      "set": "Remix Bout",
+      "img": "https://den-cards.pokellector.com/272/Rapidash.SM11A.10.28961.png",
+      "rarity": "Common",
+      "cardNum": "10/64"
+    },
+    {
+      "name": "Entei",
+      "set": "Remix Bout",
+      "img": "https://den-cards.pokellector.com/272/Entei.SM11A.11.28962.png",
+      "rarity": "Uncommon",
+      "cardNum": "11/64"
+    },
+    {
+      "name": "Victini",
+      "set": "Remix Bout",
+      "img": "https://den-cards.pokellector.com/272/Victini.SM11A.12.28963.png",
+      "rarity": "Rare",
+      "cardNum": "12/64"
+    },
+    {
+      "name": "Tepig",
+      "set": "Remix Bout",
+      "img": "https://den-cards.pokellector.com/272/Tepig.SM11A.13.28964.png",
+      "rarity": "Common",
+      "cardNum": "13/64"
+    },
+    {
+      "name": "Pignite",
+      "set": "Remix Bout",
+      "img": "https://den-cards.pokellector.com/272/Pignite.SM11A.14.28965.png",
+      "rarity": "Common",
+      "cardNum": "14/64"
+    },
+    {
+      "name": "Emboar",
+      "set": "Remix Bout",
+      "img": "https://den-cards.pokellector.com/272/Emboar.SM11A.15.28966.png",
+      "rarity": "Uncommon",
+      "cardNum": "15/64"
+    },
+    {
+      "name": "Blastoise & Piplup GX",
+      "set": "Remix Bout",
+      "img": "https://den-cards.pokellector.com/272/Blastoise-Piplup-GX.SM11A.16.28935.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "16/64"
+    },
+    {
+      "name": "Psyduck",
+      "set": "Remix Bout",
+      "img": "https://den-cards.pokellector.com/272/Psyduck.SM11A.17.28967.png",
+      "rarity": "Common",
+      "cardNum": "17/64"
+    },
+    {
+      "name": "Golduck",
+      "set": "Remix Bout",
+      "img": "https://den-cards.pokellector.com/272/Golduck.SM11A.18.28968.png",
+      "rarity": "Common",
+      "cardNum": "18/64"
+    },
+    {
+      "name": "Wailmer",
+      "set": "Remix Bout",
+      "img": "https://den-cards.pokellector.com/272/Wailmer.SM11A.19.28969.png",
+      "rarity": "Common",
+      "cardNum": "19/64"
+    },
+    {
+      "name": "Wailord",
+      "set": "Remix Bout",
+      "img": "https://den-cards.pokellector.com/272/Wailord.SM11A.20.28970.png",
+      "rarity": "Uncommon",
+      "cardNum": "20/64"
+    },
+    {
+      "name": "Kyogre",
+      "set": "Remix Bout",
+      "img": "https://den-cards.pokellector.com/272/Kyogre.SM11A.21.28971.png",
+      "rarity": "Rare",
+      "cardNum": "21/64"
+    },
+    {
+      "name": "Manaphy",
+      "set": "Remix Bout",
+      "img": "https://den-cards.pokellector.com/272/Manaphy.SM11A.22.28937.png",
+      "rarity": "Uncommon",
+      "cardNum": "22/64"
+    },
+    {
+      "name": "Duskull",
+      "set": "Remix Bout",
+      "img": "https://den-cards.pokellector.com/272/Duskull.SM11A.23.28972.png",
+      "rarity": "Common",
+      "cardNum": "23/64"
+    },
+    {
+      "name": "Dusclops",
+      "set": "Remix Bout",
+      "img": "https://den-cards.pokellector.com/272/Dusclops.SM11A.24.28973.png",
+      "rarity": "Common",
+      "cardNum": "24/64"
+    },
+    {
+      "name": "Dusknoir",
+      "set": "Remix Bout",
+      "img": "https://den-cards.pokellector.com/272/Dusknoir.SM11A.25.28936.png",
+      "rarity": "Rare",
+      "cardNum": "25/64"
+    },
+    {
+      "name": "Rotom",
+      "set": "Remix Bout",
+      "img": "https://den-cards.pokellector.com/272/Rotom.SM11A.26.28974.png",
+      "rarity": "Common",
+      "cardNum": "26/64"
+    },
+    {
+      "name": "Phantump",
+      "set": "Remix Bout",
+      "img": "https://den-cards.pokellector.com/272/Phantump.SM11A.27.28975.png",
+      "rarity": "Common",
+      "cardNum": "27/64"
+    },
+    {
+      "name": "Trevenant",
+      "set": "Remix Bout",
+      "img": "https://den-cards.pokellector.com/272/Trevenant.SM11A.28.28976.png",
+      "rarity": "Uncommon",
+      "cardNum": "28/64"
+    },
+    {
+      "name": "Dhelmise",
+      "set": "Remix Bout",
+      "img": "https://den-cards.pokellector.com/272/Dhelmise.SM11A.29.28977.png",
+      "rarity": "Common",
+      "cardNum": "29/64"
+    },
+    {
+      "name": "Marshadow",
+      "set": "Remix Bout",
+      "img": "https://den-cards.pokellector.com/272/Marshadow.SM11A.30.28978.png",
+      "rarity": "Uncommon",
+      "cardNum": "30/64"
+    },
+    {
+      "name": "Blacephalon",
+      "set": "Remix Bout",
+      "img": "https://den-cards.pokellector.com/272/Blacephalon.SM11A.31.28979.png",
+      "rarity": "Rare",
+      "cardNum": "31/64"
+    },
+    {
+      "name": "Groudon",
+      "set": "Remix Bout",
+      "img": "https://den-cards.pokellector.com/272/Groudon.SM11A.32.28948.png",
+      "rarity": "Rare",
+      "cardNum": "32/64"
+    },
+    {
+      "name": "Throh",
+      "set": "Remix Bout",
+      "img": "https://den-cards.pokellector.com/272/Throh.SM11A.33.28953.png",
+      "rarity": "Uncommon",
+      "cardNum": "33/64"
+    },
+    {
+      "name": "Pancham",
+      "set": "Remix Bout",
+      "img": "https://den-cards.pokellector.com/272/Pancham.SM11A.34.28980.png",
+      "rarity": "Common",
+      "cardNum": "34/64"
+    },
+    {
+      "name": "Pangoro",
+      "set": "Remix Bout",
+      "img": "https://den-cards.pokellector.com/272/Pangoro.SM11A.35.28981.png",
+      "rarity": "Common",
+      "cardNum": "35/64"
+    },
+    {
+      "name": "Crabrawler",
+      "set": "Remix Bout",
+      "img": "https://den-cards.pokellector.com/272/Crabrawler.SM11A.36.28982.png",
+      "rarity": "Common",
+      "cardNum": "36/64"
+    },
+    {
+      "name": "Crabominable",
+      "set": "Remix Bout",
+      "img": "https://den-cards.pokellector.com/272/Crabominable.SM11A.37.28983.png",
+      "rarity": "Uncommon",
+      "cardNum": "37/64"
+    },
+    {
+      "name": "Passimian",
+      "set": "Remix Bout",
+      "img": "https://den-cards.pokellector.com/272/Passimian.SM11A.38.28954.png",
+      "rarity": "Common",
+      "cardNum": "38/64"
+    },
+    {
+      "name": "Alolan Meowth",
+      "set": "Remix Bout",
+      "img": "https://den-cards.pokellector.com/272/Alolan-Meowth.SM11A.39.28984.png",
+      "rarity": "Common",
+      "cardNum": "39/64"
+    },
+    {
+      "name": "Alolan Persian GX",
+      "set": "Remix Bout",
+      "img": "https://den-cards.pokellector.com/272/Alolan-Persian-GX.SM11A.40.28951.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "40/64"
+    },
+    {
+      "name": "Alolan Grimer",
+      "set": "Remix Bout",
+      "img": "https://den-cards.pokellector.com/272/Alolan-Grimer.SM11A.41.28985.png",
+      "rarity": "Common",
+      "cardNum": "41/64"
+    },
+    {
+      "name": "Alolan Muk",
+      "set": "Remix Bout",
+      "img": "https://den-cards.pokellector.com/272/Alolan-Muk.SM11A.42.28986.png",
+      "rarity": "Uncommon",
+      "cardNum": "42/64"
+    },
+    {
+      "name": "Absol",
+      "set": "Remix Bout",
+      "img": "https://den-cards.pokellector.com/272/Absol.SM11A.43.28987.png",
+      "rarity": "Common",
+      "cardNum": "43/64"
+    },
+    {
+      "name": "Pawniard",
+      "set": "Remix Bout",
+      "img": "https://den-cards.pokellector.com/272/Pawniard.SM11A.44.28988.png",
+      "rarity": "Common",
+      "cardNum": "44/64"
+    },
+    {
+      "name": "Bisharp",
+      "set": "Remix Bout",
+      "img": "https://den-cards.pokellector.com/272/Bisharp.SM11A.45.28989.png",
+      "rarity": "Common",
+      "cardNum": "45/64"
+    },
+    {
+      "name": "Guzzlord",
+      "set": "Remix Bout",
+      "img": "https://den-cards.pokellector.com/272/Guzzlord.SM11A.46.28938.png",
+      "rarity": "Rare",
+      "cardNum": "46/64"
+    },
+    {
+      "name": "Zangoose",
+      "set": "Remix Bout",
+      "img": "https://den-cards.pokellector.com/272/Zangoose.SM11A.47.28990.png",
+      "rarity": "Uncommon",
+      "cardNum": "47/64"
+    },
+    {
+      "name": "Stufful",
+      "set": "Remix Bout",
+      "img": "https://den-cards.pokellector.com/272/Stufful.SM11A.48.28991.png",
+      "rarity": "Common",
+      "cardNum": "48/64"
+    },
+    {
+      "name": "Bewear",
+      "set": "Remix Bout",
+      "img": "https://den-cards.pokellector.com/272/Bewear.SM11A.49.28939.png",
+      "rarity": "Uncommon",
+      "cardNum": "49/64"
+    },
+    {
+      "name": "Energy Retrieval",
+      "set": "Remix Bout",
+      "img": "https://den-cards.pokellector.com/272/Energy-Retrieval.SM11A.50.28992.png",
+      "rarity": "Uncommon",
+      "cardNum": "50/64"
+    },
+    {
+      "name": "Energy Switch",
+      "set": "Remix Bout",
+      "img": "https://den-cards.pokellector.com/272/Energy-Switch.SM11A.51.28993.png",
+      "rarity": "Uncommon",
+      "cardNum": "51/64"
+    },
+    {
+      "name": "Great Catcher",
+      "set": "Remix Bout",
+      "img": "https://den-cards.pokellector.com/272/Great-Catcher.SM11A.52.28940.png",
+      "rarity": "Uncommon",
+      "cardNum": "52/64"
+    },
+    {
+      "name": "Switch",
+      "set": "Remix Bout",
+      "img": "https://den-cards.pokellector.com/272/Switch.SM11A.53.28994.png",
+      "rarity": "Uncommon",
+      "cardNum": "53/64"
+    },
+    {
+      "name": "Pokémon Communication",
+      "set": "Remix Bout",
+      "img": "https://den-cards.pokellector.com/272/Pokeacutemon-Communication.SM11A.54.28995.png",
+      "rarity": "Uncommon",
+      "cardNum": "54/64"
+    },
+    {
+      "name": "Janine",
+      "set": "Remix Bout",
+      "img": "https://den-cards.pokellector.com/272/Janine.SM11A.55.28996.png",
+      "rarity": "Uncommon",
+      "cardNum": "55/64"
+    },
+    {
+      "name": "Professor Oak’s Setting",
+      "set": "Remix Bout",
+      "img": "https://den-cards.pokellector.com/272/Professor-Oaks-Setting.SM11A.56.28941.png",
+      "rarity": "Uncommon",
+      "cardNum": "56/64"
+    },
+    {
+      "name": "Judge",
+      "set": "Remix Bout",
+      "img": "https://den-cards.pokellector.com/272/Judge.SM11A.57.28997.png",
+      "rarity": "Uncommon",
+      "cardNum": "57/64"
+    },
+    {
+      "name": "Rollerskater",
+      "set": "Remix Bout",
+      "img": "https://den-cards.pokellector.com/272/Rollerskater.SM11A.58.28930.png",
+      "rarity": "Common",
+      "cardNum": "58/64"
+    },
+    {
+      "name": "Weak Guard Energy",
+      "set": "Remix Bout",
+      "img": "https://den-cards.pokellector.com/272/Weak-Guard-Energy.SM11A.59.28998.png",
+      "rarity": "Uncommon",
+      "cardNum": "59/64"
+    },
+    {
+      "name": "Draw Energy",
+      "set": "Remix Bout",
+      "img": "https://den-cards.pokellector.com/272/Draw-Energy.SM11A.60.28952.png",
+      "rarity": "Common",
+      "cardNum": "60/64"
+    },
+    {
+      "name": "Acro Bike",
+      "set": "Remix Bout",
+      "img": "https://den-cards.pokellector.com/272/Acro-Bike.SM11A.61.28999.png",
+      "rarity": "Rare",
+      "cardNum": "61/64"
+    },
+    {
+      "name": "Escape Board",
+      "set": "Remix Bout",
+      "img": "https://den-cards.pokellector.com/272/Escape-Board.SM11A.62.29000.png",
+      "rarity": "Rare",
+      "cardNum": "62/64"
+    },
+    {
+      "name": "Lady",
+      "set": "Remix Bout",
+      "img": "https://den-cards.pokellector.com/272/Lady.SM11A.63.29001.png",
+      "rarity": "Rare",
+      "cardNum": "63/64"
+    },
+    {
+      "name": "Welder",
+      "set": "Remix Bout",
+      "img": "https://den-cards.pokellector.com/272/Welder.SM11A.64.29002.png",
+      "rarity": "Rare",
+      "cardNum": "64/64"
+    },
+    {
+      "name": "Venusaur & Snivy GX",
+      "set": "Remix Bout",
+      "img": "https://den-cards.pokellector.com/272/Venusaur-Snivy-GX.SM11A.65.29024.png",
+      "rarity": "Secret Rare",
+      "cardNum": "65/64"
+    },
+    {
+      "name": "Venusaur & Snivy GX",
+      "set": "Remix Bout",
+      "img": "https://den-cards.pokellector.com/272/Venusaur-Snivy-GX.SM11A.66.29023.png",
+      "rarity": "Secret Rare",
+      "cardNum": "66/64"
+    },
+    {
+      "name": "Charizard & Braixen GX",
+      "set": "Remix Bout",
+      "img": "https://den-cards.pokellector.com/272/Charizard-Braixen-GX.SM11A.67.29017.png",
+      "rarity": "Secret Rare",
+      "cardNum": "67/64"
+    },
+    {
+      "name": "Charizard & Braixen GX",
+      "set": "Remix Bout",
+      "img": "https://den-cards.pokellector.com/272/Charizard-Braixen-GX.SM11A.68.29018.png",
+      "rarity": "Secret Rare",
+      "cardNum": "68/64"
+    },
+    {
+      "name": "Blastoise & Piplup GX",
+      "set": "Remix Bout",
+      "img": "https://den-cards.pokellector.com/272/Blastoise-Piplup-GX.SM11A.69.29021.png",
+      "rarity": "Secret Rare",
+      "cardNum": "69/64"
+    },
+    {
+      "name": "Blastoise & Piplup GX",
+      "set": "Remix Bout",
+      "img": "https://den-cards.pokellector.com/272/Blastoise-Piplup-GX.SM11A.70.29020.png",
+      "rarity": "Secret Rare",
+      "cardNum": "70/64"
+    },
+    {
+      "name": "Alolan Persian GX",
+      "set": "Remix Bout",
+      "img": "https://den-cards.pokellector.com/272/Alolan-Persian-GX.SM11A.71.29031.png",
+      "rarity": "Secret Rare",
+      "cardNum": "71/64"
+    },
+    {
+      "name": "Professor Oak's Setting",
+      "set": "Remix Bout",
+      "img": "https://den-cards.pokellector.com/272/Professor-Oaks-Setting.SM11A.72.29027.png",
+      "rarity": "Secret Rare",
+      "cardNum": "72/64"
+    },
+    {
+      "name": "Rollerskater",
+      "set": "Remix Bout",
+      "img": "https://den-cards.pokellector.com/272/Rollerskater.SM11A.73.29013.png",
+      "rarity": "Secret Rare",
+      "cardNum": "73/64"
+    },
+    {
+      "name": "Venusaur & Snivy GX",
+      "set": "Remix Bout",
+      "img": "https://den-cards.pokellector.com/272/Venusaur-Snivy-GX.SM11A.74.29022.png",
+      "rarity": "Secret Rare",
+      "cardNum": "74/64"
+    },
+    {
+      "name": "Charizard & Braixen GX",
+      "set": "Remix Bout",
+      "img": "https://den-cards.pokellector.com/272/Charizard-Braixen-GX.SM11A.75.29016.png",
+      "rarity": "Secret Rare",
+      "cardNum": "75/64"
+    },
+    {
+      "name": "Blastoise & Piplup GX",
+      "set": "Remix Bout",
+      "img": "https://den-cards.pokellector.com/272/Blastoise-Piplup-GX.SM11A.76.29019.png",
+      "rarity": "Secret Rare",
+      "cardNum": "76/64"
+    },
+    {
+      "name": "Alolan Persian GX",
+      "set": "Remix Bout",
+      "img": "https://den-cards.pokellector.com/272/Alolan-Persian-GX.SM11A.77.29026.png",
+      "rarity": "Secret Rare",
+      "cardNum": "77/64"
+    },
+    {
+      "name": "Great Catcher",
+      "set": "Remix Bout",
+      "img": "https://den-cards.pokellector.com/272/Great-Catcher.SM11A.78.29025.png",
+      "rarity": "Secret Rare",
+      "cardNum": "78/64"
+    },
+    {
+      "name": "Fighting Dojo",
+      "set": "Remix Bout",
+      "img": "https://den-cards.pokellector.com/272/Fighting-Dojo.SM11A.79.29029.png",
+      "rarity": "Secret Rare",
+      "cardNum": "79/64"
+    },
+    {
+      "name": "Draw Energy",
+      "set": "Remix Bout",
+      "img": "https://den-cards.pokellector.com/272/Draw-Energy.SM11A.80.29028.png",
+      "rarity": "Secret Rare",
+      "cardNum": "80/64"
+    }
+  ]
+}

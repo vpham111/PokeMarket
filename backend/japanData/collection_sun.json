@@ -1,0 +1,516 @@
+{
+  "setName": "Collection Sun",
+  "cards": [
+    {
+      "name": "Caterpie",
+      "set": "Collection Sun",
+      "img": "https://den-cards.pokellector.com/201/Caterpie.SM1S.1.13723.png",
+      "rarity": "Common",
+      "cardNum": "1/60"
+    },
+    {
+      "name": "Metapod",
+      "set": "Collection Sun",
+      "img": "https://den-cards.pokellector.com/201/Metapod.SM1S.2.13724.png",
+      "rarity": "Common",
+      "cardNum": "2/60"
+    },
+    {
+      "name": "Butterfree",
+      "set": "Collection Sun",
+      "img": "https://den-cards.pokellector.com/201/Butterfree.SM1S.3.13725.png",
+      "rarity": "Uncommon",
+      "cardNum": "3/60"
+    },
+    {
+      "name": "Paras",
+      "set": "Collection Sun",
+      "img": "https://den-cards.pokellector.com/201/Paras.SM1S.4.13726.png",
+      "rarity": "Common",
+      "cardNum": "4/60"
+    },
+    {
+      "name": "Parasect",
+      "set": "Collection Sun",
+      "img": "https://den-cards.pokellector.com/201/Parasect.SM1S.5.13727.png",
+      "rarity": "Common",
+      "cardNum": "5/60"
+    },
+    {
+      "name": "Bounsweet",
+      "set": "Collection Sun",
+      "img": "https://den-cards.pokellector.com/201/Bounsweet.SM1S.6.13728.png",
+      "rarity": "Common",
+      "cardNum": "6/60"
+    },
+    {
+      "name": "Steenee",
+      "set": "Collection Sun",
+      "img": "https://den-cards.pokellector.com/201/Steenee.SM1S.7.13729.png",
+      "rarity": "Uncommon",
+      "cardNum": "7/60"
+    },
+    {
+      "name": "Tsareena",
+      "set": "Collection Sun",
+      "img": "https://den-cards.pokellector.com/201/Tsareena.SM1S.8.png",
+      "rarity": "Rare",
+      "cardNum": "8/60"
+    },
+    {
+      "name": "Growlithe",
+      "set": "Collection Sun",
+      "img": "https://den-cards.pokellector.com/201/Growlithe.SM1S.9.13730.png",
+      "rarity": "Common",
+      "cardNum": "9/60"
+    },
+    {
+      "name": "Arcanine",
+      "set": "Collection Sun",
+      "img": "https://den-cards.pokellector.com/201/Arcanine.SM1S.10.png",
+      "rarity": "Rare",
+      "cardNum": "10/60"
+    },
+    {
+      "name": "Torkoal",
+      "set": "Collection Sun",
+      "img": "https://den-cards.pokellector.com/201/Torkoal.SM1S.11.13731.png",
+      "rarity": "Common",
+      "cardNum": "11/60"
+    },
+    {
+      "name": "Psyduck",
+      "set": "Collection Sun",
+      "img": "https://den-cards.pokellector.com/201/Psyduck.SM1S.12.13732.png",
+      "rarity": "Common",
+      "cardNum": "12/60"
+    },
+    {
+      "name": "Golduck",
+      "set": "Collection Sun",
+      "img": "https://den-cards.pokellector.com/201/Golduck.SM1S.13.13733.png",
+      "rarity": "Uncommon",
+      "cardNum": "13/60"
+    },
+    {
+      "name": "Shellder",
+      "set": "Collection Sun",
+      "img": "https://den-cards.pokellector.com/201/Shellder.SM1S.14.13734.png",
+      "rarity": "Common",
+      "cardNum": "14/60"
+    },
+    {
+      "name": "Cloyster",
+      "set": "Collection Sun",
+      "img": "https://den-cards.pokellector.com/201/Cloyster.SM1S.15.13735.png",
+      "rarity": "Common",
+      "cardNum": "15/60"
+    },
+    {
+      "name": "Lapras GX",
+      "set": "Collection Sun",
+      "img": "https://den-cards.pokellector.com/201/Lapras-GX.SM1S.16.13304.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "16/60"
+    },
+    {
+      "name": "Wishiwashi",
+      "set": "Collection Sun",
+      "img": "https://den-cards.pokellector.com/201/Wishiwashi.SM1S.17.13736.png",
+      "rarity": "Common",
+      "cardNum": "17/60"
+    },
+    {
+      "name": "Dewpider",
+      "set": "Collection Sun",
+      "img": "https://den-cards.pokellector.com/201/Dewpider.SM1S.18.13737.png",
+      "rarity": "Common",
+      "cardNum": "18/60"
+    },
+    {
+      "name": "Araquanid",
+      "set": "Collection Sun",
+      "img": "https://den-cards.pokellector.com/201/Araquanid.SM1S.19.13738.png",
+      "rarity": "Uncommon",
+      "cardNum": "19/60"
+    },
+    {
+      "name": "Pyukumuku",
+      "set": "Collection Sun",
+      "img": "https://den-cards.pokellector.com/201/Pyukumuku.SM1S.20.13739.png",
+      "rarity": "Common",
+      "cardNum": "20/60"
+    },
+    {
+      "name": "Zubat",
+      "set": "Collection Sun",
+      "img": "https://den-cards.pokellector.com/201/Zubat.SM1S.21.13740.png",
+      "rarity": "Common",
+      "cardNum": "21/60"
+    },
+    {
+      "name": "Golbat",
+      "set": "Collection Sun",
+      "img": "https://den-cards.pokellector.com/201/Golbat.SM1S.22.13741.png",
+      "rarity": "Uncommon",
+      "cardNum": "22/60"
+    },
+    {
+      "name": "Crobat",
+      "set": "Collection Sun",
+      "img": "https://den-cards.pokellector.com/201/Crobat.SM1S.23.13742.png",
+      "rarity": "Rare",
+      "cardNum": "23/60"
+    },
+    {
+      "name": "Espeon GX",
+      "set": "Collection Sun",
+      "img": "https://den-cards.pokellector.com/201/Espeon-GX.SM1S.24.13715.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "24/60"
+    },
+    {
+      "name": "Mareanie",
+      "set": "Collection Sun",
+      "img": "https://den-cards.pokellector.com/201/Mareanie.SM1S.25.13743.png",
+      "rarity": "Common",
+      "cardNum": "25/60"
+    },
+    {
+      "name": "Toxapex",
+      "set": "Collection Sun",
+      "img": "https://den-cards.pokellector.com/201/Toxapex.SM1S.26.13491.png",
+      "rarity": "Rare",
+      "cardNum": "26/60"
+    },
+    {
+      "name": "Cosmog",
+      "set": "Collection Sun",
+      "img": "https://den-cards.pokellector.com/201/Cosmog.SM1S.27.13496.png",
+      "rarity": "Common",
+      "cardNum": "27/60"
+    },
+    {
+      "name": "Cosmoem",
+      "set": "Collection Sun",
+      "img": "https://den-cards.pokellector.com/201/Cosmoem.SM1S.28.13497.png",
+      "rarity": "Uncommon",
+      "cardNum": "28/60"
+    },
+    {
+      "name": "Makuhita",
+      "set": "Collection Sun",
+      "img": "https://den-cards.pokellector.com/201/Makuhita.SM1S.29.13744.png",
+      "rarity": "Common",
+      "cardNum": "29/60"
+    },
+    {
+      "name": "Hariyama",
+      "set": "Collection Sun",
+      "img": "https://den-cards.pokellector.com/201/Hariyama.SM1S.30.13745.png",
+      "rarity": "Uncommon",
+      "cardNum": "30/60"
+    },
+    {
+      "name": "Passimian",
+      "set": "Collection Sun",
+      "img": "https://den-cards.pokellector.com/201/Passimian.SM1S.31.13746.png",
+      "rarity": "Common",
+      "cardNum": "31/60"
+    },
+    {
+      "name": "Alolan Meowth",
+      "set": "Collection Sun",
+      "img": "https://den-cards.pokellector.com/201/Alolan-Meowth.SM1S.32.png",
+      "rarity": "Common",
+      "cardNum": "32/60"
+    },
+    {
+      "name": "Alolan Persian",
+      "set": "Collection Sun",
+      "img": "https://den-cards.pokellector.com/201/Alolan-Persian.SM1S.33.13747.png",
+      "rarity": "Uncommon",
+      "cardNum": "33/60"
+    },
+    {
+      "name": "Sandile",
+      "set": "Collection Sun",
+      "img": "https://den-cards.pokellector.com/201/Sandile.SM1S.34.13748.png",
+      "rarity": "Common",
+      "cardNum": "34/60"
+    },
+    {
+      "name": "Krokorok",
+      "set": "Collection Sun",
+      "img": "https://den-cards.pokellector.com/201/Krokorok.SM1S.35.13749.png",
+      "rarity": "Uncommon",
+      "cardNum": "35/60"
+    },
+    {
+      "name": "Krookodile",
+      "set": "Collection Sun",
+      "img": "https://den-cards.pokellector.com/201/Krookodile.SM1S.36.13750.png",
+      "rarity": "Rare",
+      "cardNum": "36/60"
+    },
+    {
+      "name": "Alolan Diglett",
+      "set": "Collection Sun",
+      "img": "https://den-cards.pokellector.com/201/Alolan-Diglett.SM1S.37.13751.png",
+      "rarity": "Common",
+      "cardNum": "37/60"
+    },
+    {
+      "name": "Alolan Dugtrio",
+      "set": "Collection Sun",
+      "img": "https://den-cards.pokellector.com/201/Alolan-Dugtrio.SM1S.38.13549.png",
+      "rarity": "Rare",
+      "cardNum": "38/60"
+    },
+    {
+      "name": "Skarmory",
+      "set": "Collection Sun",
+      "img": "https://den-cards.pokellector.com/201/Skarmory.SM1S.39.13752.png",
+      "rarity": "Common",
+      "cardNum": "39/60"
+    },
+    {
+      "name": "Solgaleo GX",
+      "set": "Collection Sun",
+      "img": "https://den-cards.pokellector.com/201/Solgaleo-GX.SM1S.40.13494.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "40/60"
+    },
+    {
+      "name": "Cutiefly",
+      "set": "Collection Sun",
+      "img": "https://den-cards.pokellector.com/201/Cutiefly.SM1S.41.13753.png",
+      "rarity": "Common",
+      "cardNum": "41/60"
+    },
+    {
+      "name": "Ribombee",
+      "set": "Collection Sun",
+      "img": "https://den-cards.pokellector.com/201/Ribombee.SM1S.42.13754.png",
+      "rarity": "Rare",
+      "cardNum": "42/60"
+    },
+    {
+      "name": "Kangaskhan",
+      "set": "Collection Sun",
+      "img": "https://den-cards.pokellector.com/201/Kangaskhan.SM1S.43.13755.png",
+      "rarity": "Rare",
+      "cardNum": "43/60"
+    },
+    {
+      "name": "Eevee",
+      "set": "Collection Sun",
+      "img": "https://den-cards.pokellector.com/201/Eevee.SM1S.44.13756.png",
+      "rarity": "Common",
+      "cardNum": "44/60"
+    },
+    {
+      "name": "Spinda",
+      "set": "Collection Sun",
+      "img": "https://den-cards.pokellector.com/201/Spinda.SM1S.45.13757.png",
+      "rarity": "Common",
+      "cardNum": "45/60"
+    },
+    {
+      "name": "Lillipup",
+      "set": "Collection Sun",
+      "img": "https://den-cards.pokellector.com/201/Lillipup.SM1S.46.13758.png",
+      "rarity": "Common",
+      "cardNum": "46/60"
+    },
+    {
+      "name": "Herdier",
+      "set": "Collection Sun",
+      "img": "https://den-cards.pokellector.com/201/Herdier.SM1S.47.13759.png",
+      "rarity": "Common",
+      "cardNum": "47/60"
+    },
+    {
+      "name": "Stoutland",
+      "set": "Collection Sun",
+      "img": "https://den-cards.pokellector.com/201/Stoutland.SM1S.48.13488.png",
+      "rarity": "Uncommon",
+      "cardNum": "48/60"
+    },
+    {
+      "name": "Yungoos",
+      "set": "Collection Sun",
+      "img": "https://den-cards.pokellector.com/201/Yungoos.SM1S.49.png",
+      "rarity": "Common",
+      "cardNum": "49/60"
+    },
+    {
+      "name": "Gumshoos GX",
+      "set": "Collection Sun",
+      "img": "https://den-cards.pokellector.com/201/Gumshoos-GX.SM1S.50.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "50/60"
+    },
+    {
+      "name": "Stufful",
+      "set": "Collection Sun",
+      "img": "https://den-cards.pokellector.com/201/Stufful.SM1S.51.13760.png",
+      "rarity": "Common",
+      "cardNum": "51/60"
+    },
+    {
+      "name": "Bewear",
+      "set": "Collection Sun",
+      "img": "https://den-cards.pokellector.com/201/Bewear.SM1S.52.13761.png",
+      "rarity": "Uncommon",
+      "cardNum": "52/60"
+    },
+    {
+      "name": "Crushing Hammer",
+      "set": "Collection Sun",
+      "img": "https://den-cards.pokellector.com/201/Crushing-Hammer.SM1S.53.13762.png",
+      "rarity": "Uncommon",
+      "cardNum": "53/60"
+    },
+    {
+      "name": "Timer Ball",
+      "set": "Collection Sun",
+      "img": "https://den-cards.pokellector.com/201/Timer-Ball.SM1S.54.13763.png",
+      "rarity": "Uncommon",
+      "cardNum": "54/60"
+    },
+    {
+      "name": "Repel",
+      "set": "Collection Sun",
+      "img": "https://den-cards.pokellector.com/201/Repel.SM1S.55.13764.png",
+      "rarity": "Uncommon",
+      "cardNum": "55/60"
+    },
+    {
+      "name": "Rotom Dex",
+      "set": "Collection Sun",
+      "img": "https://den-cards.pokellector.com/201/Rotom-Pokedex.SM1S.56.13720.png",
+      "rarity": "Uncommon",
+      "cardNum": "56/60"
+    },
+    {
+      "name": "Exp. Share",
+      "set": "Collection Sun",
+      "img": "https://den-cards.pokellector.com/201/Exp-Share.SM1S.57.13765.png",
+      "rarity": "Uncommon",
+      "cardNum": "57/60"
+    },
+    {
+      "name": "Ilima",
+      "set": "Collection Sun",
+      "img": "https://den-cards.pokellector.com/201/Llima.SM1S.58.13719.png",
+      "rarity": "Uncommon",
+      "cardNum": "58/60"
+    },
+    {
+      "name": "Professor Kukui",
+      "set": "Collection Sun",
+      "img": "https://den-cards.pokellector.com/201/Professor-Kukui.SM1S.59.13559.png",
+      "rarity": "Uncommon",
+      "cardNum": "59/60"
+    },
+    {
+      "name": "Double Colorless Energy",
+      "set": "Collection Sun",
+      "img": "https://den-cards.pokellector.com/201/Double-Colorless-Energy.SM1S.60.13766.png",
+      "rarity": "Uncommon",
+      "cardNum": "60/60"
+    },
+    {
+      "name": "Lapras GX",
+      "set": "Collection Sun",
+      "img": "https://den-cards.pokellector.com/201/Lapras-GX.SM1S.61.13767.png",
+      "rarity": "Secret Rare",
+      "cardNum": "61/60"
+    },
+    {
+      "name": "Espeon GX",
+      "set": "Collection Sun",
+      "img": "https://den-cards.pokellector.com/201/Espeon-GX.SM1S.62.13768.png",
+      "rarity": "Secret Rare",
+      "cardNum": "62/60"
+    },
+    {
+      "name": "Solgaleo GX",
+      "set": "Collection Sun",
+      "img": "https://den-cards.pokellector.com/201/Solgaleo-GX.SM1S.63.13769.png",
+      "rarity": "Secret Rare",
+      "cardNum": "63/60"
+    },
+    {
+      "name": "Gumshoos GX",
+      "set": "Collection Sun",
+      "img": "https://den-cards.pokellector.com/201/Gumshoos-GX.SM1S.64.13770.png",
+      "rarity": "Secret Rare",
+      "cardNum": "64/60"
+    },
+    {
+      "name": "Ilima",
+      "set": "Collection Sun",
+      "img": "https://den-cards.pokellector.com/201/Ilima.SM1S.65.13771.png",
+      "rarity": "Secret Rare",
+      "cardNum": "65/60"
+    },
+    {
+      "name": "Professor Kukui",
+      "set": "Collection Sun",
+      "img": "https://den-cards.pokellector.com/201/Professor-Kukui.SM1S.66.13772.png",
+      "rarity": "Secret Rare",
+      "cardNum": "66/60"
+    },
+    {
+      "name": "Lapras GX",
+      "set": "Collection Sun",
+      "img": "https://den-cards.pokellector.com/201/Lapras-GX.SM1S.67.13773.png",
+      "rarity": "Secret Rare",
+      "cardNum": "67/60"
+    },
+    {
+      "name": "Espeon GX",
+      "set": "Collection Sun",
+      "img": "https://den-cards.pokellector.com/201/Espeon-GX.SM1S.68.13774.png",
+      "rarity": "Secret Rare",
+      "cardNum": "68/60"
+    },
+    {
+      "name": "Solgaleo GX",
+      "set": "Collection Sun",
+      "img": "https://den-cards.pokellector.com/201/Solgaleo-GX.SM1S.69.13775.png",
+      "rarity": "Secret Rare",
+      "cardNum": "69/60"
+    },
+    {
+      "name": "Gumshoos GX",
+      "set": "Collection Sun",
+      "img": "https://den-cards.pokellector.com/201/Gumshoos-GX.SM1S.70.13776.png",
+      "rarity": "Secret Rare",
+      "cardNum": "70/60"
+    },
+    {
+      "name": "Ultra Ball",
+      "set": "Collection Sun",
+      "img": "https://den-cards.pokellector.com/201/Ultra-Ball.SM1S.71.13560.png",
+      "rarity": "Secret Rare",
+      "cardNum": "71/60"
+    },
+    {
+      "name": "Rotom Dex",
+      "set": "Collection Sun",
+      "img": "https://den-cards.pokellector.com/201/Rotom-Dex.SM1S.72.13777.png",
+      "rarity": "Secret Rare",
+      "cardNum": "72/60"
+    },
+    {
+      "name": "Metal Energy",
+      "set": "Collection Sun",
+      "img": "https://den-cards.pokellector.com/201/Metal-Energy.SM1S.73.13778.png",
+      "rarity": "Secret Rare",
+      "cardNum": "73/60"
+    }
+  ]
+}

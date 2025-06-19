@@ -1,0 +1,705 @@
+{
+  "setName": "Beat of the Frontier",
+  "cards": [
+    {
+      "name": "Bulbasaur",
+      "set": "Beat of the Frontier",
+      "img": "https://den-cards.pokellector.com/255/Bulbasaur.PT3.1.22181.png",
+      "rarity": "Common",
+      "cardNum": "1/100"
+    },
+    {
+      "name": "Ivysaur",
+      "set": "Beat of the Frontier",
+      "img": "https://den-cards.pokellector.com/255/Ivysaur.PT3.2.22182.png",
+      "rarity": "Uncommon",
+      "cardNum": "2/100"
+    },
+    {
+      "name": "Venusaur",
+      "set": "Beat of the Frontier",
+      "img": "https://den-cards.pokellector.com/255/Venusaur.PT3.3.22183.png",
+      "rarity": "Rare",
+      "cardNum": "3/100"
+    },
+    {
+      "name": "Butterfree",
+      "set": "Beat of the Frontier",
+      "img": "https://den-cards.pokellector.com/255/Butterfree.PT3.4.22184.png",
+      "rarity": "Rare",
+      "cardNum": "4/100"
+    },
+    {
+      "name": "Paras",
+      "set": "Beat of the Frontier",
+      "img": "https://den-cards.pokellector.com/255/Paras.PT3.5.22185.png",
+      "rarity": "Common",
+      "cardNum": "5/100"
+    },
+    {
+      "name": "Parasect",
+      "set": "Beat of the Frontier",
+      "img": "https://den-cards.pokellector.com/255/Parasect.PT3.6.22186.png",
+      "rarity": "Rare",
+      "cardNum": "6/100"
+    },
+    {
+      "name": "Pinsir",
+      "set": "Beat of the Frontier",
+      "img": "https://den-cards.pokellector.com/255/Pinsir.PT3.7.22187.png",
+      "rarity": "Common",
+      "cardNum": "7/100"
+    },
+    {
+      "name": "Yanma",
+      "set": "Beat of the Frontier",
+      "img": "https://den-cards.pokellector.com/255/Yanma.PT3.8.22188.png",
+      "rarity": "Uncommon",
+      "cardNum": "8/100"
+    },
+    {
+      "name": "Yanma",
+      "set": "Beat of the Frontier",
+      "img": "https://den-cards.pokellector.com/255/Yanma.PT3.9.22189.png",
+      "rarity": "Uncommon",
+      "cardNum": "9/100"
+    },
+    {
+      "name": "Yanmega",
+      "set": "Beat of the Frontier",
+      "img": "https://den-cards.pokellector.com/255/Yanmega.PT3.10.22190.png",
+      "rarity": "Rare",
+      "cardNum": "10/100"
+    },
+    {
+      "name": "Surskit",
+      "set": "Beat of the Frontier",
+      "img": "https://den-cards.pokellector.com/255/Surskit.PT3.11.22191.png",
+      "rarity": "Common",
+      "cardNum": "11/100"
+    },
+    {
+      "name": "Masquerain",
+      "set": "Beat of the Frontier",
+      "img": "https://den-cards.pokellector.com/255/Masquerain.PT3.12.22192.png",
+      "rarity": "Uncommon",
+      "cardNum": "12/100"
+    },
+    {
+      "name": "Shroomish",
+      "set": "Beat of the Frontier",
+      "img": "https://den-cards.pokellector.com/255/Shroomish.PT3.13.22193.png",
+      "rarity": "Common",
+      "cardNum": "13/100"
+    },
+    {
+      "name": "Nincada",
+      "set": "Beat of the Frontier",
+      "img": "https://den-cards.pokellector.com/255/Nincada.PT3.14.22194.png",
+      "rarity": "Common",
+      "cardNum": "14/100"
+    },
+    {
+      "name": "Ninjask",
+      "set": "Beat of the Frontier",
+      "img": "https://den-cards.pokellector.com/255/Ninjask.PT3.15.22195.png",
+      "rarity": "Uncommon",
+      "cardNum": "15/100"
+    },
+    {
+      "name": "Shedinja",
+      "set": "Beat of the Frontier",
+      "img": "https://den-cards.pokellector.com/255/Shedinja.PT3.16.22196.png",
+      "rarity": "Rare",
+      "cardNum": "16/100"
+    },
+    {
+      "name": "Magmar",
+      "set": "Beat of the Frontier",
+      "img": "https://den-cards.pokellector.com/255/Magmar.PT3.17.22197.png",
+      "rarity": "Common",
+      "cardNum": "17/100"
+    },
+    {
+      "name": "Magmortar",
+      "set": "Beat of the Frontier",
+      "img": "https://den-cards.pokellector.com/255/Magmortar.PT3.18.22198.png",
+      "rarity": "Rare",
+      "cardNum": "18/100"
+    },
+    {
+      "name": "Blaziken",
+      "set": "Beat of the Frontier",
+      "img": "https://den-cards.pokellector.com/255/Blaziken.PT3.19.22199.png",
+      "rarity": "Rare",
+      "cardNum": "19/100"
+    },
+    {
+      "name": "Blaziken",
+      "set": "Beat of the Frontier",
+      "img": "https://den-cards.pokellector.com/255/Blaziken.PT3.20.22200.png",
+      "rarity": "Rare",
+      "cardNum": "20/100"
+    },
+    {
+      "name": "Numel",
+      "set": "Beat of the Frontier",
+      "img": "https://den-cards.pokellector.com/255/Numel.PT3.21.22201.png",
+      "rarity": "Common",
+      "cardNum": "21/100"
+    },
+    {
+      "name": "Camerupt",
+      "set": "Beat of the Frontier",
+      "img": "https://den-cards.pokellector.com/255/Camerupt.PT3.22.22202.png",
+      "rarity": "Rare",
+      "cardNum": "22/100"
+    },
+    {
+      "name": "Seel",
+      "set": "Beat of the Frontier",
+      "img": "https://den-cards.pokellector.com/255/Seel.PT3.23.22203.png",
+      "rarity": "Common",
+      "cardNum": "23/100"
+    },
+    {
+      "name": "Dewgong",
+      "set": "Beat of the Frontier",
+      "img": "https://den-cards.pokellector.com/255/Dewgong.PT3.24.22204.png",
+      "rarity": "Rare",
+      "cardNum": "24/100"
+    },
+    {
+      "name": "Goldeen",
+      "set": "Beat of the Frontier",
+      "img": "https://den-cards.pokellector.com/255/Goldeen.PT3.25.22205.png",
+      "rarity": "Common",
+      "cardNum": "25/100"
+    },
+    {
+      "name": "Seaking",
+      "set": "Beat of the Frontier",
+      "img": "https://den-cards.pokellector.com/255/Seaking.PT3.26.22206.png",
+      "rarity": "Rare",
+      "cardNum": "26/100"
+    },
+    {
+      "name": "Mudkip",
+      "set": "Beat of the Frontier",
+      "img": "https://den-cards.pokellector.com/255/Mudkip.PT3.27.22207.png",
+      "rarity": "Common",
+      "cardNum": "27/100"
+    },
+    {
+      "name": "Marshtomp",
+      "set": "Beat of the Frontier",
+      "img": "https://den-cards.pokellector.com/255/Marshtomp.PT3.28.22208.png",
+      "rarity": "Uncommon",
+      "cardNum": "28/100"
+    },
+    {
+      "name": "Swampert",
+      "set": "Beat of the Frontier",
+      "img": "https://den-cards.pokellector.com/255/Swampert.PT3.29.22209.png",
+      "rarity": "Rare",
+      "cardNum": "29/100"
+    },
+    {
+      "name": "Wailmer",
+      "set": "Beat of the Frontier",
+      "img": "https://den-cards.pokellector.com/255/Wailmer.PT3.30.22210.png",
+      "rarity": "Common",
+      "cardNum": "30/100"
+    },
+    {
+      "name": "Wailord",
+      "set": "Beat of the Frontier",
+      "img": "https://den-cards.pokellector.com/255/Wailord.PT3.31.22211.png",
+      "rarity": "Rare",
+      "cardNum": "31/100"
+    },
+    {
+      "name": "Feebas",
+      "set": "Beat of the Frontier",
+      "img": "https://den-cards.pokellector.com/255/Feebas.PT3.32.22212.png",
+      "rarity": "Common",
+      "cardNum": "32/100"
+    },
+    {
+      "name": "Milotic",
+      "set": "Beat of the Frontier",
+      "img": "https://den-cards.pokellector.com/255/Milotic.PT3.33.22213.png",
+      "rarity": "Uncommon",
+      "cardNum": "33/100"
+    },
+    {
+      "name": "Milotic",
+      "set": "Beat of the Frontier",
+      "img": "https://den-cards.pokellector.com/255/Milotic.PT3.34.22214.png",
+      "rarity": "Uncommon",
+      "cardNum": "34/100"
+    },
+    {
+      "name": "Empoleon",
+      "set": "Beat of the Frontier",
+      "img": "https://den-cards.pokellector.com/255/Empoleon.PT3.35.22215.png",
+      "rarity": "Rare",
+      "cardNum": "35/100"
+    },
+    {
+      "name": "Plusle",
+      "set": "Beat of the Frontier",
+      "img": "https://den-cards.pokellector.com/255/Plusle.PT3.36.22216.png",
+      "rarity": "Rare",
+      "cardNum": "36/100"
+    },
+    {
+      "name": "Minun",
+      "set": "Beat of the Frontier",
+      "img": "https://den-cards.pokellector.com/255/Minun.PT3.37.22217.png",
+      "rarity": "Uncommon",
+      "cardNum": "37/100"
+    },
+    {
+      "name": "Electivire",
+      "set": "Beat of the Frontier",
+      "img": "https://den-cards.pokellector.com/255/Electivire.PT3.38.22218.png",
+      "rarity": "Rare",
+      "cardNum": "38/100"
+    },
+    {
+      "name": "Electivire",
+      "set": "Beat of the Frontier",
+      "img": "https://den-cards.pokellector.com/255/Electivire.PT3.39.22219.png",
+      "rarity": "Rare",
+      "cardNum": "39/100"
+    },
+    {
+      "name": "Mime Jr.",
+      "set": "Beat of the Frontier",
+      "img": "https://den-cards.pokellector.com/255/Mime-Jr.PT3.40.22220.png",
+      "rarity": "Common",
+      "cardNum": "40/100"
+    },
+    {
+      "name": "Mr. Mime",
+      "set": "Beat of the Frontier",
+      "img": "https://den-cards.pokellector.com/255/Mr-Mime.PT3.41.22221.png",
+      "rarity": "Rare",
+      "cardNum": "41/100"
+    },
+    {
+      "name": "Meditite",
+      "set": "Beat of the Frontier",
+      "img": "https://den-cards.pokellector.com/255/Meditite.PT3.42.22222.png",
+      "rarity": "Common",
+      "cardNum": "42/100"
+    },
+    {
+      "name": "Medicham",
+      "set": "Beat of the Frontier",
+      "img": "https://den-cards.pokellector.com/255/Medicham.PT3.43.22223.png",
+      "rarity": "Rare",
+      "cardNum": "43/100"
+    },
+    {
+      "name": "Lunatone",
+      "set": "Beat of the Frontier",
+      "img": "https://den-cards.pokellector.com/255/Lunatone.PT3.44.22224.png",
+      "rarity": "Uncommon",
+      "cardNum": "44/100"
+    },
+    {
+      "name": "Solrock",
+      "set": "Beat of the Frontier",
+      "img": "https://den-cards.pokellector.com/255/Solrock.PT3.45.22225.png",
+      "rarity": "Rare",
+      "cardNum": "45/100"
+    },
+    {
+      "name": "Baltoy",
+      "set": "Beat of the Frontier",
+      "img": "https://den-cards.pokellector.com/255/Baltoy.PT3.46.22226.png",
+      "rarity": "Common",
+      "cardNum": "46/100"
+    },
+    {
+      "name": "Claydol",
+      "set": "Beat of the Frontier",
+      "img": "https://den-cards.pokellector.com/255/Claydol.PT3.47.22227.png",
+      "rarity": "Rare",
+      "cardNum": "47/100"
+    },
+    {
+      "name": "Chingling",
+      "set": "Beat of the Frontier",
+      "img": "https://den-cards.pokellector.com/255/Chingling.PT3.48.22228.png",
+      "rarity": "Common",
+      "cardNum": "48/100"
+    },
+    {
+      "name": "Chimecho",
+      "set": "Beat of the Frontier",
+      "img": "https://den-cards.pokellector.com/255/Chimecho.PT3.49.22229.png",
+      "rarity": "Common",
+      "cardNum": "49/100"
+    },
+    {
+      "name": "Drifblim",
+      "set": "Beat of the Frontier",
+      "img": "https://den-cards.pokellector.com/255/Drifblim.PT3.50.22230.png",
+      "rarity": "Rare",
+      "cardNum": "50/100"
+    },
+    {
+      "name": "Dusknoir",
+      "set": "Beat of the Frontier",
+      "img": "https://den-cards.pokellector.com/255/Dusknoir.PT3.51.22231.png",
+      "rarity": "Rare",
+      "cardNum": "51/100"
+    },
+    {
+      "name": "Sandshrew",
+      "set": "Beat of the Frontier",
+      "img": "https://den-cards.pokellector.com/255/Sandshrew.PT3.52.22232.png",
+      "rarity": "Common",
+      "cardNum": "52/100"
+    },
+    {
+      "name": "Sandslash",
+      "set": "Beat of the Frontier",
+      "img": "https://den-cards.pokellector.com/255/Sandslash.PT3.53.22233.png",
+      "rarity": "Rare",
+      "cardNum": "53/100"
+    },
+    {
+      "name": "Mankey",
+      "set": "Beat of the Frontier",
+      "img": "https://den-cards.pokellector.com/255/Mankey.PT3.54.22234.png",
+      "rarity": "Common",
+      "cardNum": "54/100"
+    },
+    {
+      "name": "Primeape",
+      "set": "Beat of the Frontier",
+      "img": "https://den-cards.pokellector.com/255/Primeape.PT3.55.22235.png",
+      "rarity": "Rare",
+      "cardNum": "55/100"
+    },
+    {
+      "name": "Rhyhorn",
+      "set": "Beat of the Frontier",
+      "img": "https://den-cards.pokellector.com/255/Rhyhorn.PT3.56.22236.png",
+      "rarity": "Common",
+      "cardNum": "56/100"
+    },
+    {
+      "name": "Rhydon",
+      "set": "Beat of the Frontier",
+      "img": "https://den-cards.pokellector.com/255/Rhydon.PT3.57.22237.png",
+      "rarity": "Uncommon",
+      "cardNum": "57/100"
+    },
+    {
+      "name": "Rhyperior",
+      "set": "Beat of the Frontier",
+      "img": "https://den-cards.pokellector.com/255/Rhyperior.PT3.58.22238.png",
+      "rarity": "Rare",
+      "cardNum": "58/100"
+    },
+    {
+      "name": "Breloom",
+      "set": "Beat of the Frontier",
+      "img": "https://den-cards.pokellector.com/255/Breloom.PT3.59.22239.png",
+      "rarity": "Uncommon",
+      "cardNum": "59/100"
+    },
+    {
+      "name": "Relicanth",
+      "set": "Beat of the Frontier",
+      "img": "https://den-cards.pokellector.com/255/Relicanth.PT3.60.22240.png",
+      "rarity": "Uncommon",
+      "cardNum": "60/100"
+    },
+    {
+      "name": "Relicanth",
+      "set": "Beat of the Frontier",
+      "img": "https://den-cards.pokellector.com/255/Relicanth.PT3.61.22241.png",
+      "rarity": "Uncommon",
+      "cardNum": "61/100"
+    },
+    {
+      "name": "Murkrow",
+      "set": "Beat of the Frontier",
+      "img": "https://den-cards.pokellector.com/255/Murkrow.PT3.62.22242.png",
+      "rarity": "Common",
+      "cardNum": "62/100"
+    },
+    {
+      "name": "Honchkrow",
+      "set": "Beat of the Frontier",
+      "img": "https://den-cards.pokellector.com/255/Honchkrow.PT3.63.22243.png",
+      "rarity": "Rare",
+      "cardNum": "63/100"
+    },
+    {
+      "name": "Absol",
+      "set": "Beat of the Frontier",
+      "img": "https://den-cards.pokellector.com/255/Absol.PT3.64.22244.png",
+      "rarity": "Rare",
+      "cardNum": "64/100"
+    },
+    {
+      "name": "Absol",
+      "set": "Beat of the Frontier",
+      "img": "https://den-cards.pokellector.com/255/Absol.PT3.65.22245.png",
+      "rarity": "Rare",
+      "cardNum": "65/100"
+    },
+    {
+      "name": "Skarmory",
+      "set": "Beat of the Frontier",
+      "img": "https://den-cards.pokellector.com/255/Skarmory.PT3.66.22246.png",
+      "rarity": "Common",
+      "cardNum": "66/100"
+    },
+    {
+      "name": "Mawile",
+      "set": "Beat of the Frontier",
+      "img": "https://den-cards.pokellector.com/255/Mawile.PT3.67.22247.png",
+      "rarity": "Rare",
+      "cardNum": "67/100"
+    },
+    {
+      "name": "Beldum",
+      "set": "Beat of the Frontier",
+      "img": "https://den-cards.pokellector.com/255/Beldum.PT3.68.22248.png",
+      "rarity": "Common",
+      "cardNum": "68/100"
+    },
+    {
+      "name": "Metang",
+      "set": "Beat of the Frontier",
+      "img": "https://den-cards.pokellector.com/255/Metang.PT3.69.22249.png",
+      "rarity": "Uncommon",
+      "cardNum": "69/100"
+    },
+    {
+      "name": "Metagross",
+      "set": "Beat of the Frontier",
+      "img": "https://den-cards.pokellector.com/255/Metagross.PT3.70.22250.png",
+      "rarity": "Rare",
+      "cardNum": "70/100"
+    },
+    {
+      "name": "Doduo",
+      "set": "Beat of the Frontier",
+      "img": "https://den-cards.pokellector.com/255/Doduo.PT3.71.22251.png",
+      "rarity": "Common",
+      "cardNum": "71/100"
+    },
+    {
+      "name": "Dodrio",
+      "set": "Beat of the Frontier",
+      "img": "https://den-cards.pokellector.com/255/Dodrio.PT3.72.22252.png",
+      "rarity": "Rare",
+      "cardNum": "72/100"
+    },
+    {
+      "name": "Dragonite",
+      "set": "Beat of the Frontier",
+      "img": "https://den-cards.pokellector.com/255/Dragonite.PT3.73.22253.png",
+      "rarity": "Uncommon",
+      "cardNum": "73/100"
+    },
+    {
+      "name": "Whismur",
+      "set": "Beat of the Frontier",
+      "img": "https://den-cards.pokellector.com/255/Whismur.PT3.74.22254.png",
+      "rarity": "Common",
+      "cardNum": "74/100"
+    },
+    {
+      "name": "Loudred",
+      "set": "Beat of the Frontier",
+      "img": "https://den-cards.pokellector.com/255/Loudred.PT3.75.22255.png",
+      "rarity": "Uncommon",
+      "cardNum": "75/100"
+    },
+    {
+      "name": "Exploud",
+      "set": "Beat of the Frontier",
+      "img": "https://den-cards.pokellector.com/255/Exploud.PT3.76.22256.png",
+      "rarity": "Rare",
+      "cardNum": "76/100"
+    },
+    {
+      "name": "Spinda",
+      "set": "Beat of the Frontier",
+      "img": "https://den-cards.pokellector.com/255/Spinda.PT3.77.22257.png",
+      "rarity": "Rare",
+      "cardNum": "77/100"
+    },
+    {
+      "name": "Rayquaza",
+      "set": "Beat of the Frontier",
+      "img": "https://den-cards.pokellector.com/255/Rayquaza.PT3.78.22258.png",
+      "rarity": "Rare",
+      "cardNum": "78/100"
+    },
+    {
+      "name": "Rayquaza",
+      "set": "Beat of the Frontier",
+      "img": "https://den-cards.pokellector.com/255/Rayquaza.PT3.79.22259.png",
+      "rarity": "Rare",
+      "cardNum": "79/100"
+    },
+    {
+      "name": "Staraptor",
+      "set": "Beat of the Frontier",
+      "img": "https://den-cards.pokellector.com/255/Staraptor.PT3.80.22260.png",
+      "rarity": "Rare",
+      "cardNum": "80/100"
+    },
+    {
+      "name": "Staraptor",
+      "set": "Beat of the Frontier",
+      "img": "https://den-cards.pokellector.com/255/Staraptor.PT3.81.22261.png",
+      "rarity": "Rare",
+      "cardNum": "81/100"
+    },
+    {
+      "name": "Chatot",
+      "set": "Beat of the Frontier",
+      "img": "https://den-cards.pokellector.com/255/Chatot.PT3.82.22262.png",
+      "rarity": "Uncommon",
+      "cardNum": "82/100"
+    },
+    {
+      "name": "Gible",
+      "set": "Beat of the Frontier",
+      "img": "https://den-cards.pokellector.com/255/Gible.PT3.83.22263.png",
+      "rarity": "Common",
+      "cardNum": "83/100"
+    },
+    {
+      "name": "Gabite",
+      "set": "Beat of the Frontier",
+      "img": "https://den-cards.pokellector.com/255/Gabite.PT3.84.22264.png",
+      "rarity": "Uncommon",
+      "cardNum": "84/100"
+    },
+    {
+      "name": "Garchomp",
+      "set": "Beat of the Frontier",
+      "img": "https://den-cards.pokellector.com/255/Garchomp.PT3.85.22265.png",
+      "rarity": "Rare",
+      "cardNum": "85/100"
+    },
+    {
+      "name": "Lickilicky",
+      "set": "Beat of the Frontier",
+      "img": "https://den-cards.pokellector.com/255/Lickilicky.PT3.86.22266.png",
+      "rarity": "Common",
+      "cardNum": "86/100"
+    },
+    {
+      "name": "Regigigas",
+      "set": "Beat of the Frontier",
+      "img": "https://den-cards.pokellector.com/255/Regigigas.PT3.87.22267.png",
+      "rarity": "Rare",
+      "cardNum": "87/100"
+    },
+    {
+      "name": "VS Seeker",
+      "set": "Beat of the Frontier",
+      "img": "https://den-cards.pokellector.com/255/VS-Seeker.PT3.88.22268.png",
+      "rarity": "Uncommon",
+      "cardNum": "88/100"
+    },
+    {
+      "name": "Night Teleporter",
+      "set": "Beat of the Frontier",
+      "img": "https://den-cards.pokellector.com/255/Night-Teleporter.PT3.89.22269.png",
+      "rarity": "Uncommon",
+      "cardNum": "89/100"
+    },
+    {
+      "name": "Cyrus's Initiative",
+      "set": "Beat of the Frontier",
+      "img": "https://den-cards.pokellector.com/255/Cyruss-Initiative.PT3.90.22270.png",
+      "rarity": "Uncommon",
+      "cardNum": "90/100"
+    },
+    {
+      "name": "Palmer's Contribution",
+      "set": "Beat of the Frontier",
+      "img": "https://den-cards.pokellector.com/255/Palmers-Contribution.PT3.91.22271.png",
+      "rarity": "Uncommon",
+      "cardNum": "91/100"
+    },
+    {
+      "name": "Cynthia's Guidance",
+      "set": "Beat of the Frontier",
+      "img": "https://den-cards.pokellector.com/255/Cynthias-Guidance.PT3.92.22272.png",
+      "rarity": "Uncommon",
+      "cardNum": "92/100"
+    },
+    {
+      "name": "Champion's Room",
+      "set": "Beat of the Frontier",
+      "img": "https://den-cards.pokellector.com/255/Champions-Room.PT3.93.22273.png",
+      "rarity": "Uncommon",
+      "cardNum": "93/100"
+    },
+    {
+      "name": "Battle Tower",
+      "set": "Beat of the Frontier",
+      "img": "https://den-cards.pokellector.com/255/Battle-Tower.PT3.94.22274.png",
+      "rarity": "Uncommon",
+      "cardNum": "94/100"
+    },
+    {
+      "name": "SP Energy",
+      "set": "Beat of the Frontier",
+      "img": "https://den-cards.pokellector.com/255/SP-Energy.PT3.95.22275.png",
+      "rarity": "Uncommon",
+      "cardNum": "95/100"
+    },
+    {
+      "name": "Darkness Energy",
+      "set": "Beat of the Frontier",
+      "img": "https://den-cards.pokellector.com/255/Darkness-Energy.PT3.96.22276.png",
+      "rarity": "Uncommon",
+      "cardNum": "96/100"
+    },
+    {
+      "name": "Steel Energy",
+      "set": "Beat of the Frontier",
+      "img": "https://den-cards.pokellector.com/255/Steel-Energy.PT3.97.22277.png",
+      "rarity": "Uncommon",
+      "cardNum": "97/100"
+    },
+    {
+      "name": "Moltres",
+      "set": "Beat of the Frontier",
+      "img": "https://den-cards.pokellector.com/255/Moltres.PT3.98.22278.png",
+      "rarity": "Secret Rare",
+      "cardNum": "98/100"
+    },
+    {
+      "name": "Articuno",
+      "set": "Beat of the Frontier",
+      "img": "https://den-cards.pokellector.com/255/Articuno.PT3.99.22279.png",
+      "rarity": "Secret Rare",
+      "cardNum": "99/100"
+    },
+    {
+      "name": "Zapdos",
+      "set": "Beat of the Frontier",
+      "img": "https://den-cards.pokellector.com/255/Zapdos.PT3.100.22280.png",
+      "rarity": "Secret Rare",
+      "cardNum": "100/100"
+    }
+  ]
+}

@@ -1,0 +1,761 @@
+{
+  "setName": "Scarlet ex",
+  "cards": [
+    {
+      "name": "Cacnea",
+      "set": "Scarlet ex",
+      "img": "https://den-cards.pokellector.com/361/Cacnea.SV1S.1.46220.png",
+      "rarity": "Common",
+      "cardNum": "1/78"
+    },
+    {
+      "name": "Cacturne",
+      "set": "Scarlet ex",
+      "img": "https://den-cards.pokellector.com/361/Cacturne.SV1S.2.46221.png",
+      "rarity": "Uncommon",
+      "cardNum": "2/78"
+    },
+    {
+      "name": "Skiddo",
+      "set": "Scarlet ex",
+      "img": "https://den-cards.pokellector.com/361/Gogoat.SV1S.3.46222.png",
+      "rarity": "Common",
+      "cardNum": "3/78"
+    },
+    {
+      "name": "Gogoat",
+      "set": "Scarlet ex",
+      "img": "https://den-cards.pokellector.com/361/Gogoat.SV1S.4.46223.png",
+      "rarity": "Common",
+      "cardNum": "4/78"
+    },
+    {
+      "name": "Smoliv",
+      "set": "Scarlet ex",
+      "img": "https://den-cards.pokellector.com/361/Smoliv.SV1S.5.46121.png",
+      "rarity": "Common",
+      "cardNum": "5/78"
+    },
+    {
+      "name": "Smoliv",
+      "set": "Scarlet ex",
+      "img": "https://den-cards.pokellector.com/361/Smoliv.SV1S.6.46224.png",
+      "rarity": "Common",
+      "cardNum": "6/78"
+    },
+    {
+      "name": "Dolliv",
+      "set": "Scarlet ex",
+      "img": "https://den-cards.pokellector.com/361/Dolliv.SV1S.7.46225.png",
+      "rarity": "Common",
+      "cardNum": "7/78"
+    },
+    {
+      "name": "Arboliva",
+      "set": "Scarlet ex",
+      "img": "https://den-cards.pokellector.com/361/Arboliva.SV1S.8.46226.png",
+      "rarity": "Rare",
+      "cardNum": "8/78"
+    },
+    {
+      "name": "Torkoal",
+      "set": "Scarlet ex",
+      "img": "https://den-cards.pokellector.com/361/Torkoal.SV1S.9.46227.png",
+      "rarity": "Uncommon",
+      "cardNum": "9/78"
+    },
+    {
+      "name": "Charcadet",
+      "set": "Scarlet ex",
+      "img": "https://den-cards.pokellector.com/361/Charcadet.SV1S.10.46228.png",
+      "rarity": "Common",
+      "cardNum": "10/78"
+    },
+    {
+      "name": "Charcadet",
+      "set": "Scarlet ex",
+      "img": "https://den-cards.pokellector.com/361/Charcadet.SV1S.11.46229.png",
+      "rarity": "Common",
+      "cardNum": "11/78"
+    },
+    {
+      "name": "Armarouge",
+      "set": "Scarlet ex",
+      "img": "https://den-cards.pokellector.com/361/Armarouge.SV1S.12.46230.png",
+      "rarity": "Rare",
+      "cardNum": "12/78"
+    },
+    {
+      "name": "Magikarp",
+      "set": "Scarlet ex",
+      "img": "https://den-cards.pokellector.com/361/Magikarp.SV1S.13.46231.png",
+      "rarity": "Common",
+      "cardNum": "13/78"
+    },
+    {
+      "name": "Gyarados",
+      "set": "Scarlet ex",
+      "img": "https://den-cards.pokellector.com/361/Gyarados.SV1S.14.46232.png",
+      "rarity": "Double Rare",
+      "cardNum": "14/78"
+    },
+    {
+      "name": "Buizel",
+      "set": "Scarlet ex",
+      "img": "https://den-cards.pokellector.com/361/Buizel.SV1S.15.46233.png",
+      "rarity": "Common",
+      "cardNum": "15/78"
+    },
+    {
+      "name": "Floatzel",
+      "set": "Scarlet ex",
+      "img": "https://den-cards.pokellector.com/361/Floatzel.SV1S.16.46234.png",
+      "rarity": "Uncommon",
+      "cardNum": "16/78"
+    },
+    {
+      "name": "Bruxish",
+      "set": "Scarlet ex",
+      "img": "https://den-cards.pokellector.com/361/Bruxish.SV1S.17.46235.png",
+      "rarity": "Common",
+      "cardNum": "17/78"
+    },
+    {
+      "name": "Wiglett",
+      "set": "Scarlet ex",
+      "img": "https://den-cards.pokellector.com/361/Wiglett.SV1S.18.46236.png",
+      "rarity": "Common",
+      "cardNum": "18/78"
+    },
+    {
+      "name": "Wiglett",
+      "set": "Scarlet ex",
+      "img": "https://den-cards.pokellector.com/361/Wiglett.SV1S.19.46237.png",
+      "rarity": "Common",
+      "cardNum": "19/78"
+    },
+    {
+      "name": "Wugtrio",
+      "set": "Scarlet ex",
+      "img": "https://den-cards.pokellector.com/361/Wugtrio.SV1S.20.46238.png",
+      "rarity": "Uncommon",
+      "cardNum": "20/78"
+    },
+    {
+      "name": "Dondozo",
+      "set": "Scarlet ex",
+      "img": "https://den-cards.pokellector.com/361/Dondozo.SV1S.21.46239.png",
+      "rarity": "Rare",
+      "cardNum": "21/78"
+    },
+    {
+      "name": "Tatsugiri",
+      "set": "Scarlet ex",
+      "img": "https://den-cards.pokellector.com/361/Tatsugiri.SV1S.22.46240.png",
+      "rarity": "Uncommon",
+      "cardNum": "22/78"
+    },
+    {
+      "name": "Wattrel",
+      "set": "Scarlet ex",
+      "img": "https://den-cards.pokellector.com/361/Wattrel.SV1S.23.46241.png",
+      "rarity": "Common",
+      "cardNum": "23/78"
+    },
+    {
+      "name": "Wattrel",
+      "set": "Scarlet ex",
+      "img": "https://den-cards.pokellector.com/361/Wattrel.SV1S.24.46242.png",
+      "rarity": "Common",
+      "cardNum": "24/78"
+    },
+    {
+      "name": "Kilowattrel",
+      "set": "Scarlet ex",
+      "img": "https://den-cards.pokellector.com/361/Kilowattrel.SV1S.25.46243.png",
+      "rarity": "Uncommon",
+      "cardNum": "25/78"
+    },
+    {
+      "name": "Ralts",
+      "set": "Scarlet ex",
+      "img": "https://den-cards.pokellector.com/361/Ralts.SV1S.26.46175.png",
+      "rarity": "Common",
+      "cardNum": "26/78"
+    },
+    {
+      "name": "Kirlia",
+      "set": "Scarlet ex",
+      "img": "https://den-cards.pokellector.com/361/Kirlia.SV1S.27.46176.png",
+      "rarity": "Common",
+      "cardNum": "27/78"
+    },
+    {
+      "name": "Gardevoir ex",
+      "set": "Scarlet ex",
+      "img": "https://den-cards.pokellector.com/361/Gardevoir-ex.SV1S.28.46166.png",
+      "rarity": "Double Rare",
+      "cardNum": "28/78"
+    },
+    {
+      "name": "Drifloon",
+      "set": "Scarlet ex",
+      "img": "https://den-cards.pokellector.com/361/Drifloon.SV1S.29.46244.png",
+      "rarity": "Common",
+      "cardNum": "29/78"
+    },
+    {
+      "name": "Drifblim",
+      "set": "Scarlet ex",
+      "img": "https://den-cards.pokellector.com/361/Drifblim.SV1S.30.46245.png",
+      "rarity": "Uncommon",
+      "cardNum": "30/78"
+    },
+    {
+      "name": "Dedenne",
+      "set": "Scarlet ex",
+      "img": "https://den-cards.pokellector.com/361/Dedenne.SV1S.31.46246.png",
+      "rarity": "Common",
+      "cardNum": "31/78"
+    },
+    {
+      "name": "Fidough",
+      "set": "Scarlet ex",
+      "img": "https://den-cards.pokellector.com/361/Fidough.SV1S.32.46247.png",
+      "rarity": "Common",
+      "cardNum": "32/78"
+    },
+    {
+      "name": "Fidough",
+      "set": "Scarlet ex",
+      "img": "https://den-cards.pokellector.com/361/Fidough.SV1S.33.46248.png",
+      "rarity": "Common",
+      "cardNum": "33/78"
+    },
+    {
+      "name": "Dachsbun",
+      "set": "Scarlet ex",
+      "img": "https://den-cards.pokellector.com/361/Dachsbun.SV1S.34.46249.png",
+      "rarity": "Uncommon",
+      "cardNum": "34/78"
+    },
+    {
+      "name": "Flittle",
+      "set": "Scarlet ex",
+      "img": "https://den-cards.pokellector.com/361/Flittle.SV1S.35.46250.png",
+      "rarity": "Common",
+      "cardNum": "35/78"
+    },
+    {
+      "name": "Flittle",
+      "set": "Scarlet ex",
+      "img": "https://den-cards.pokellector.com/361/Flittle.SV1S.36.46251.png",
+      "rarity": "Common",
+      "cardNum": "36/78"
+    },
+    {
+      "name": "Espathra",
+      "set": "Scarlet ex",
+      "img": "https://den-cards.pokellector.com/361/Espathra.SV1S.37.46252.png",
+      "rarity": "Uncommon",
+      "cardNum": "37/78"
+    },
+    {
+      "name": "Meditite",
+      "set": "Scarlet ex",
+      "img": "https://den-cards.pokellector.com/361/Meditite.SV1S.38.46253.png",
+      "rarity": "Common",
+      "cardNum": "38/78"
+    },
+    {
+      "name": "Medicham",
+      "set": "Scarlet ex",
+      "img": "https://den-cards.pokellector.com/361/Medicham.SV1S.39.46254.png",
+      "rarity": "Uncommon",
+      "cardNum": "39/78"
+    },
+    {
+      "name": "Riolu",
+      "set": "Scarlet ex",
+      "img": "https://den-cards.pokellector.com/361/Riolu.SV1S.40.46186.png",
+      "rarity": "Common",
+      "cardNum": "40/78"
+    },
+    {
+      "name": "Lucario",
+      "set": "Scarlet ex",
+      "img": "https://den-cards.pokellector.com/361/Lucario.SV1S.41.46255.png",
+      "rarity": "Uncommon",
+      "cardNum": "41/78"
+    },
+    {
+      "name": "Sandile",
+      "set": "Scarlet ex",
+      "img": "https://den-cards.pokellector.com/361/Sandile.SV1S.42.46256.png",
+      "rarity": "Common",
+      "cardNum": "42/78"
+    },
+    {
+      "name": "Krokorok",
+      "set": "Scarlet ex",
+      "img": "https://den-cards.pokellector.com/361/Krokorok.SV1S.43.46257.png",
+      "rarity": "Common",
+      "cardNum": "43/78"
+    },
+    {
+      "name": "Krookodile",
+      "set": "Scarlet ex",
+      "img": "https://den-cards.pokellector.com/361/Krookodile.SV1S.44.46258.png",
+      "rarity": "Uncommon",
+      "cardNum": "44/78"
+    },
+    {
+      "name": "Hawlucha",
+      "set": "Scarlet ex",
+      "img": "https://den-cards.pokellector.com/361/Hawlucha.SV1S.45.46259.png",
+      "rarity": "Rare",
+      "cardNum": "45/78"
+    },
+    {
+      "name": "Silicobra",
+      "set": "Scarlet ex",
+      "img": "https://den-cards.pokellector.com/361/Silicobra.SV1S.46.46260.png",
+      "rarity": "Common",
+      "cardNum": "46/78"
+    },
+    {
+      "name": "Sandaconda",
+      "set": "Scarlet ex",
+      "img": "https://den-cards.pokellector.com/361/Sandaconda.SV1S.47.46261.png",
+      "rarity": "Uncommon",
+      "cardNum": "47/78"
+    },
+    {
+      "name": "Klawf",
+      "set": "Scarlet ex",
+      "img": "https://den-cards.pokellector.com/361/Klawf.SV1S.48.46262.png",
+      "rarity": "Rare",
+      "cardNum": "48/78"
+    },
+    {
+      "name": "Great Tusk ex",
+      "set": "Scarlet ex",
+      "img": "https://den-cards.pokellector.com/361/Great-Tusk-ex.SV1V.49.46163.png",
+      "rarity": "Double Rare",
+      "cardNum": "49/78"
+    },
+    {
+      "name": "Koraidon ex",
+      "set": "Scarlet ex",
+      "img": "https://den-cards.pokellector.com/361/Koraidon-ex.SV1S.50.46119.png",
+      "rarity": "Double Rare",
+      "cardNum": "50/78"
+    },
+    {
+      "name": "Grimer",
+      "set": "Scarlet ex",
+      "img": "https://den-cards.pokellector.com/361/Grimer.SV1S.51.46263.png",
+      "rarity": "Common",
+      "cardNum": "51/78"
+    },
+    {
+      "name": "Muk",
+      "set": "Scarlet ex",
+      "img": "https://den-cards.pokellector.com/361/Muk.SV1S.52.46264.png",
+      "rarity": "Uncommon",
+      "cardNum": "52/78"
+    },
+    {
+      "name": "Seviper",
+      "set": "Scarlet ex",
+      "img": "https://den-cards.pokellector.com/361/Seviper.SV1S.53.46265.png",
+      "rarity": "Common",
+      "cardNum": "53/78"
+    },
+    {
+      "name": "Croagunk",
+      "set": "Scarlet ex",
+      "img": "https://den-cards.pokellector.com/361/Croagunk.SV1S.54.46266.png",
+      "rarity": "Common",
+      "cardNum": "54/78"
+    },
+    {
+      "name": "Toxicroak",
+      "set": "Scarlet ex",
+      "img": "https://den-cards.pokellector.com/361/Toxicroak.SV1S.55.46267.png",
+      "rarity": "Double Rare",
+      "cardNum": "55/78"
+    },
+    {
+      "name": "Pawniard",
+      "set": "Scarlet ex",
+      "img": "https://den-cards.pokellector.com/361/Pawniard.SV1S.56.46268.png",
+      "rarity": "Common",
+      "cardNum": "56/78"
+    },
+    {
+      "name": "Bisharp",
+      "set": "Scarlet ex",
+      "img": "https://den-cards.pokellector.com/361/Bisharp.SV1S.57.46269.png",
+      "rarity": "Common",
+      "cardNum": "57/78"
+    },
+    {
+      "name": "Kingambit",
+      "set": "Scarlet ex",
+      "img": "https://den-cards.pokellector.com/361/Kingambit.SV1S.58.46270.png",
+      "rarity": "Rare",
+      "cardNum": "58/78"
+    },
+    {
+      "name": "Varoom",
+      "set": "Scarlet ex",
+      "img": "https://den-cards.pokellector.com/361/Varoom.SV1S.59.46271.png",
+      "rarity": "Common",
+      "cardNum": "59/78"
+    },
+    {
+      "name": "Varoom",
+      "set": "Scarlet ex",
+      "img": "https://den-cards.pokellector.com/361/Varoom.SV1S.60.46272.png",
+      "rarity": "Common",
+      "cardNum": "60/78"
+    },
+    {
+      "name": "Revavroom",
+      "set": "Scarlet ex",
+      "img": "https://den-cards.pokellector.com/361/Revavroom.SV1S.61.46273.png",
+      "rarity": "Rare",
+      "cardNum": "61/78"
+    },
+    {
+      "name": "Zangoose",
+      "set": "Scarlet ex",
+      "img": "https://den-cards.pokellector.com/361/Zangoose.SV1S.62.46274.png",
+      "rarity": "Uncommon",
+      "cardNum": "62/78"
+    },
+    {
+      "name": "Starly",
+      "set": "Scarlet ex",
+      "img": "https://den-cards.pokellector.com/361/Starly.SV1S.63.46275.png",
+      "rarity": "Common",
+      "cardNum": "63/78"
+    },
+    {
+      "name": "Staravia",
+      "set": "Scarlet ex",
+      "img": "https://den-cards.pokellector.com/361/Staravia.SV1S.64.46276.png",
+      "rarity": "Common",
+      "cardNum": "64/78"
+    },
+    {
+      "name": "Staraptor",
+      "set": "Scarlet ex",
+      "img": "https://den-cards.pokellector.com/361/Staraptor.SV1S.65.46277.png",
+      "rarity": "Uncommon",
+      "cardNum": "65/78"
+    },
+    {
+      "name": "Lechonk",
+      "set": "Scarlet ex",
+      "img": "https://den-cards.pokellector.com/361/Lechonk.SV1S.66.46122.png",
+      "rarity": "Common",
+      "cardNum": "66/78"
+    },
+    {
+      "name": "Lechonk",
+      "set": "Scarlet ex",
+      "img": "https://den-cards.pokellector.com/361/Lechonk.SV1S.67.46278.png",
+      "rarity": "Common",
+      "cardNum": "67/78"
+    },
+    {
+      "name": "Oinkologne ex",
+      "set": "Scarlet ex",
+      "img": "https://den-cards.pokellector.com/361/Oinkologne-ex.SV1S.68.46279.png",
+      "rarity": "Double Rare",
+      "cardNum": "68/78"
+    },
+    {
+      "name": "Pal Pad",
+      "set": "Scarlet ex",
+      "img": "https://den-cards.pokellector.com/361/Pal-Pad.SV1S.69.46280.png",
+      "rarity": "Uncommon",
+      "cardNum": "69/78"
+    },
+    {
+      "name": "Nest Ball",
+      "set": "Scarlet ex",
+      "img": "https://den-cards.pokellector.com/361/Nest-Ball.SV1S.70.46281.png",
+      "rarity": "Uncommon",
+      "cardNum": "70/78"
+    },
+    {
+      "name": "Boulder Breastplate",
+      "set": "Scarlet ex",
+      "img": "https://den-cards.pokellector.com/361/Boulder-Breastplate.SV1S.71.46151.png",
+      "rarity": "Uncommon",
+      "cardNum": "71/78"
+    },
+    {
+      "name": "Exp. Share",
+      "set": "Scarlet ex",
+      "img": "https://den-cards.pokellector.com/361/Exp-Share.SV1S.72.46282.png",
+      "rarity": "Uncommon",
+      "cardNum": "72/78"
+    },
+    {
+      "name": "Defiant Band",
+      "set": "Scarlet ex",
+      "img": "https://den-cards.pokellector.com/361/Defiant-Band.SV1S.73.46283.png",
+      "rarity": "Uncommon",
+      "cardNum": "73/78"
+    },
+    {
+      "name": "Jacq",
+      "set": "Scarlet ex",
+      "img": "https://den-cards.pokellector.com/361/Jacq.SV1S.74.46150.png",
+      "rarity": "Uncommon",
+      "cardNum": "74/78"
+    },
+    {
+      "name": "Team Star Grunt",
+      "set": "Scarlet ex",
+      "img": "https://den-cards.pokellector.com/361/Team-Star-Grunt.SV1S.75.46284.png",
+      "rarity": "Uncommon",
+      "cardNum": "75/78"
+    },
+    {
+      "name": "Professor's Research (Professor Sada)",
+      "set": "Scarlet ex",
+      "img": "https://den-cards.pokellector.com/361/Professors-Research-Professor-Sada.SV1S.76.46124.png",
+      "rarity": "Rare",
+      "cardNum": "76/78"
+    },
+    {
+      "name": "Penny",
+      "set": "Scarlet ex",
+      "img": "https://den-cards.pokellector.com/361/Penny.SV1S.77.46149.png",
+      "rarity": "Uncommon",
+      "cardNum": "77/78"
+    },
+    {
+      "name": "Beach Court",
+      "set": "Scarlet ex",
+      "img": "https://den-cards.pokellector.com/361/Beach-Court.SV1S.78.46120.png",
+      "rarity": "Uncommon",
+      "cardNum": "78/78"
+    },
+    {
+      "name": "Doliv",
+      "set": "Scarlet ex",
+      "img": "https://den-cards.pokellector.com/361/Doliv.SV1S.79.46789.png",
+      "rarity": "Secret Rare",
+      "cardNum": "79/78"
+    },
+    {
+      "name": "Armarouge",
+      "set": "Scarlet ex",
+      "img": "https://den-cards.pokellector.com/361/Armarouge.SV1S.80.46285.png",
+      "rarity": "Secret Rare",
+      "cardNum": "80/78"
+    },
+    {
+      "name": "Wiglett",
+      "set": "Scarlet ex",
+      "img": "https://den-cards.pokellector.com/361/Wiglett.SV1S.81.46790.png",
+      "rarity": "Secret Rare",
+      "cardNum": "81/78"
+    },
+    {
+      "name": "Dondozo",
+      "set": "Scarlet ex",
+      "img": "https://den-cards.pokellector.com/361/Dondozo.SV1S.82.46791.png",
+      "rarity": "Secret Rare",
+      "cardNum": "82/78"
+    },
+    {
+      "name": "Ralts",
+      "set": "Scarlet ex",
+      "img": "https://den-cards.pokellector.com/361/Ralts.SV1S.83.46189.png",
+      "rarity": "Secret Rare",
+      "cardNum": "83/78"
+    },
+    {
+      "name": "Kirlia",
+      "set": "Scarlet ex",
+      "img": "https://den-cards.pokellector.com/361/Kirlia.SV1S.84.46188.png",
+      "rarity": "Secret Rare",
+      "cardNum": "84/78"
+    },
+    {
+      "name": "Fidough",
+      "set": "Scarlet ex",
+      "img": "https://den-cards.pokellector.com/361/Fidough.SV1S.85.46792.png",
+      "rarity": "Secret Rare",
+      "cardNum": "85/78"
+    },
+    {
+      "name": "Riolu",
+      "set": "Scarlet ex",
+      "img": "https://den-cards.pokellector.com/361/Riolu.SV1S.86.46185.png",
+      "rarity": "Secret Rare",
+      "cardNum": "86/78"
+    },
+    {
+      "name": "Sandile",
+      "set": "Scarlet ex",
+      "img": "https://den-cards.pokellector.com/361/Sandile.SV1S.87.46793.png",
+      "rarity": "Secret Rare",
+      "cardNum": "87/78"
+    },
+    {
+      "name": "Klawf",
+      "set": "Scarlet ex",
+      "img": "https://den-cards.pokellector.com/361/Klawf.SV1S.88.46813.png",
+      "rarity": "Secret Rare",
+      "cardNum": "88/78"
+    },
+    {
+      "name": "Kingambit",
+      "set": "Scarlet ex",
+      "img": "https://den-cards.pokellector.com/361/Kingambit.SV1S.89.46794.png",
+      "rarity": "Secret Rare",
+      "cardNum": "89/78"
+    },
+    {
+      "name": "Starly",
+      "set": "Scarlet ex",
+      "img": "https://den-cards.pokellector.com/361/Starly.SV1S.90.46795.png",
+      "rarity": "Secret Rare",
+      "cardNum": "90/78"
+    },
+    {
+      "name": "Gyarados ex",
+      "set": "Scarlet ex",
+      "img": "https://den-cards.pokellector.com/361/Gyarados-ex.SV1S.91.46796.png",
+      "rarity": "Secret Rare",
+      "cardNum": "91/78"
+    },
+    {
+      "name": "Gardevoir ex",
+      "set": "Scarlet ex",
+      "img": "https://den-cards.pokellector.com/361/Gardevoir-ex.SV1S.92.46797.png",
+      "rarity": "Secret Rare",
+      "cardNum": "92/78"
+    },
+    {
+      "name": "Great Tusk ex",
+      "set": "Scarlet ex",
+      "img": "https://den-cards.pokellector.com/361/Great-Tusk-ex.SV1S.93.46798.png",
+      "rarity": "Secret Rare",
+      "cardNum": "93/78"
+    },
+    {
+      "name": "Koraidon ex",
+      "set": "Scarlet ex",
+      "img": "https://den-cards.pokellector.com/361/Koraidon-ex.SV1S.94.46799.png",
+      "rarity": "Secret Rare",
+      "cardNum": "94/78"
+    },
+    {
+      "name": "Toxicroak ex",
+      "set": "Scarlet ex",
+      "img": "https://den-cards.pokellector.com/361/Toxicroak-ex.SV1S.95.46800.png",
+      "rarity": "Secret Rare",
+      "cardNum": "95/78"
+    },
+    {
+      "name": "Oinkologne ex",
+      "set": "Scarlet ex",
+      "img": "https://den-cards.pokellector.com/361/Oinkologne-ex.SV1S.96.46801.png",
+      "rarity": "Secret Rare",
+      "cardNum": "96/78"
+    },
+    {
+      "name": "Jacq",
+      "set": "Scarlet ex",
+      "img": "https://den-cards.pokellector.com/361/Jacq.SV1S.97.46802.png",
+      "rarity": "Secret Rare",
+      "cardNum": "97/78"
+    },
+    {
+      "name": "Team Star Grunt",
+      "set": "Scarlet ex",
+      "img": "https://den-cards.pokellector.com/361/Team-Star-Grunt.SV1S.98.46803.png",
+      "rarity": "Secret Rare",
+      "cardNum": "98/78"
+    },
+    {
+      "name": "Professor's Research [Professor Sada]",
+      "set": "Scarlet ex",
+      "img": "https://den-cards.pokellector.com/361/Professors-Research-Professor-Sada.SV1S.99.46804.png",
+      "rarity": "Secret Rare",
+      "cardNum": "99/78"
+    },
+    {
+      "name": "Penny",
+      "set": "Scarlet ex",
+      "img": "https://den-cards.pokellector.com/361/Penny.SV1S.100.46805.png",
+      "rarity": "Secret Rare",
+      "cardNum": "100/78"
+    },
+    {
+      "name": "Gardevoir ex",
+      "set": "Scarlet ex",
+      "img": "https://den-cards.pokellector.com/361/Gardevoir-ex.SV1S.101.46187.png",
+      "rarity": "Secret Rare",
+      "cardNum": "101/78"
+    },
+    {
+      "name": "Great Tusk ex",
+      "set": "Scarlet ex",
+      "img": "https://den-cards.pokellector.com/361/Great-Tusk-ex.SV1S.102.46806.png",
+      "rarity": "Secret Rare",
+      "cardNum": "102/78"
+    },
+    {
+      "name": "Koraidon ex",
+      "set": "Scarlet ex",
+      "img": "https://den-cards.pokellector.com/361/Koraidon-ex.SV1S.103.46807.png",
+      "rarity": "Secret Rare",
+      "cardNum": "103/78"
+    },
+    {
+      "name": "Jacq",
+      "set": "Scarlet ex",
+      "img": "https://den-cards.pokellector.com/361/Jacq.SV1S.104.46808.png",
+      "rarity": "Secret Rare",
+      "cardNum": "104/78"
+    },
+    {
+      "name": "Penny",
+      "set": "Scarlet ex",
+      "img": "https://den-cards.pokellector.com/361/Penny.SV1S.105.46809.png",
+      "rarity": "Secret Rare",
+      "cardNum": "105/78"
+    },
+    {
+      "name": "Koraidon ex",
+      "set": "Scarlet ex",
+      "img": "https://den-cards.pokellector.com/361/Koraidon-ex.SV1S.106.46810.png",
+      "rarity": "Secret Rare",
+      "cardNum": "106/78"
+    },
+    {
+      "name": "Nest Ball",
+      "set": "Scarlet ex",
+      "img": "https://den-cards.pokellector.com/361/Nest-Ball.SV1S.107.46811.png",
+      "rarity": "Secret Rare",
+      "cardNum": "107/78"
+    },
+    {
+      "name": "Fighting Energy",
+      "set": "Scarlet ex",
+      "img": "https://den-cards.pokellector.com/361/Fighting-Energy.SV1S.108.46812.png",
+      "rarity": "Secret Rare",
+      "cardNum": "108/78"
+    }
+  ]
+}

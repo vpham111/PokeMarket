@@ -1,0 +1,929 @@
+{
+  "setName": "Glory of Team Rocket",
+  "cards": [
+    {
+      "name": "Pineco",
+      "set": "Glory of Team Rocket",
+      "img": "https://den-cards.pokellector.com/413/Pineco.SV10.1.57080.png",
+      "rarity": "Common",
+      "cardNum": "1/98"
+    },
+    {
+      "name": "Shroomish",
+      "set": "Glory of Team Rocket",
+      "img": "https://den-cards.pokellector.com/413/Shroomish.SV10.2.57081.png",
+      "rarity": "Common",
+      "cardNum": "2/98"
+    },
+    {
+      "name": "Breloom",
+      "set": "Glory of Team Rocket",
+      "img": "https://den-cards.pokellector.com/413/Breloom.SV10.3.57082.png",
+      "rarity": "Common",
+      "cardNum": "3/98"
+    },
+    {
+      "name": "Mow Rotom",
+      "set": "Glory of Team Rocket",
+      "img": "https://den-cards.pokellector.com/413/Mow-Rotom.SV10.4.57083.png",
+      "rarity": "Common",
+      "cardNum": "4/98"
+    },
+    {
+      "name": "Fomantis",
+      "set": "Glory of Team Rocket",
+      "img": "https://den-cards.pokellector.com/413/Fomantis.SV10.5.57084.png",
+      "rarity": "Common",
+      "cardNum": "5/98"
+    },
+    {
+      "name": "Lurantis",
+      "set": "Glory of Team Rocket",
+      "img": "https://den-cards.pokellector.com/413/Lurantis.SV10.6.57085.png",
+      "rarity": "Uncommon",
+      "cardNum": "6/98"
+    },
+    {
+      "name": "Team Rocket's Blipbug",
+      "set": "Glory of Team Rocket",
+      "img": "https://den-cards.pokellector.com/413/Team-Rockets-Blipbug.SV10.7.57074.png",
+      "rarity": "Common",
+      "cardNum": "7/98"
+    },
+    {
+      "name": "Team Rocket's Tarountula",
+      "set": "Glory of Team Rocket",
+      "img": "https://den-cards.pokellector.com/413/Team-Rockets-Tarountula.SV10.8.56885.png",
+      "rarity": "Common",
+      "cardNum": "8/98"
+    },
+    {
+      "name": "Team Rocket's Spidops",
+      "set": "Glory of Team Rocket",
+      "img": "https://den-cards.pokellector.com/413/Team-Rockets-Spidops.SV10.9.56886.png",
+      "rarity": "Rare",
+      "cardNum": "9/98"
+    },
+    {
+      "name": "Smoliv",
+      "set": "Glory of Team Rocket",
+      "img": "https://den-cards.pokellector.com/413/Smoliv.SV10.10.57086.png",
+      "rarity": "Common",
+      "cardNum": "10/98"
+    },
+    {
+      "name": "Dolliv",
+      "set": "Glory of Team Rocket",
+      "img": "https://den-cards.pokellector.com/413/Dolliv.SV10.11.57087.png",
+      "rarity": "Common",
+      "cardNum": "11/98"
+    },
+    {
+      "name": "Arboliva ex",
+      "set": "Glory of Team Rocket",
+      "img": "https://den-cards.pokellector.com/413/Arboliva-ex.SV10.12.57088.png",
+      "rarity": "Double Rare",
+      "cardNum": "12/98"
+    },
+    {
+      "name": "Growlithe",
+      "set": "Glory of Team Rocket",
+      "img": "https://den-cards.pokellector.com/413/Growlithe.SV10.13.57089.png",
+      "rarity": "Common",
+      "cardNum": "13/98"
+    },
+    {
+      "name": "Arcanine",
+      "set": "Glory of Team Rocket",
+      "img": "https://den-cards.pokellector.com/413/Arcanine.SV10.14.57090.png",
+      "rarity": "Uncommon",
+      "cardNum": "14/98"
+    },
+    {
+      "name": "Team Rocket's Moltres ex",
+      "set": "Glory of Team Rocket",
+      "img": "https://den-cards.pokellector.com/413/Team-Rockets-Moltres-ex.SV10.15.57053.png",
+      "rarity": "Double Rare",
+      "cardNum": "15/98"
+    },
+    {
+      "name": "Team Rocket's Houndour",
+      "set": "Glory of Team Rocket",
+      "img": "https://den-cards.pokellector.com/413/Team-Rockets-Houndour.SV10.16.57091.png",
+      "rarity": "Common",
+      "cardNum": "16/98"
+    },
+    {
+      "name": "Team Rocket's Houndoom",
+      "set": "Glory of Team Rocket",
+      "img": "https://den-cards.pokellector.com/413/Team-Rockets-Houndoom.SV10.17.57092.png",
+      "rarity": "Uncommon",
+      "cardNum": "17/98"
+    },
+    {
+      "name": "Torchic",
+      "set": "Glory of Team Rocket",
+      "img": "https://den-cards.pokellector.com/413/Torchic.SV10.18.56873.png",
+      "rarity": "Common",
+      "cardNum": "18/98"
+    },
+    {
+      "name": "Combusken",
+      "set": "Glory of Team Rocket",
+      "img": "https://den-cards.pokellector.com/413/Combusken.SV10.19.56874.png",
+      "rarity": "Common",
+      "cardNum": "19/98"
+    },
+    {
+      "name": "Blaziken",
+      "set": "Glory of Team Rocket",
+      "img": "https://den-cards.pokellector.com/413/Blaziken.SV10.20.56875.png",
+      "rarity": "Rare",
+      "cardNum": "20/98"
+    },
+    {
+      "name": "Heat Rotom",
+      "set": "Glory of Team Rocket",
+      "img": "https://den-cards.pokellector.com/413/Heat-Rotom.SV10.21.57093.png",
+      "rarity": "Common",
+      "cardNum": "21/98"
+    },
+    {
+      "name": "Team Rocket's Articuno",
+      "set": "Glory of Team Rocket",
+      "img": "https://den-cards.pokellector.com/413/Team-Rockets-Articuno.SV10.22.57054.png",
+      "rarity": "Rare",
+      "cardNum": "22/98"
+    },
+    {
+      "name": "Clampearl",
+      "set": "Glory of Team Rocket",
+      "img": "https://den-cards.pokellector.com/413/Clampearl.SV10.23.57055.png",
+      "rarity": "Common",
+      "cardNum": "23/98"
+    },
+    {
+      "name": "Huntail",
+      "set": "Glory of Team Rocket",
+      "img": "https://den-cards.pokellector.com/413/Huntail.SV10.24.57056.png",
+      "rarity": "Uncommon",
+      "cardNum": "24/98"
+    },
+    {
+      "name": "Gorebyss",
+      "set": "Glory of Team Rocket",
+      "img": "https://den-cards.pokellector.com/413/Gorebyss.SV10.25.57057.png",
+      "rarity": "Rare",
+      "cardNum": "25/98"
+    },
+    {
+      "name": "Snover",
+      "set": "Glory of Team Rocket",
+      "img": "https://den-cards.pokellector.com/413/Snover.SV10.26.57094.png",
+      "rarity": "Common",
+      "cardNum": "26/98"
+    },
+    {
+      "name": "Abomasnow",
+      "set": "Glory of Team Rocket",
+      "img": "https://den-cards.pokellector.com/413/Abomasnow.SV10.27.57095.png",
+      "rarity": "Uncommon",
+      "cardNum": "27/98"
+    },
+    {
+      "name": "Wash Rotom",
+      "set": "Glory of Team Rocket",
+      "img": "https://den-cards.pokellector.com/413/Wash-Rotom.SV10.28.57096.png",
+      "rarity": "Common",
+      "cardNum": "28/98"
+    },
+    {
+      "name": "Arrokuda",
+      "set": "Glory of Team Rocket",
+      "img": "https://den-cards.pokellector.com/413/Arrokuda.SV10.29.57097.png",
+      "rarity": "Common",
+      "cardNum": "29/98"
+    },
+    {
+      "name": "Barraskewda",
+      "set": "Glory of Team Rocket",
+      "img": "https://den-cards.pokellector.com/413/Barraskewda.SV10.30.57098.png",
+      "rarity": "Uncommon",
+      "cardNum": "30/98"
+    },
+    {
+      "name": "Cetoddle",
+      "set": "Glory of Team Rocket",
+      "img": "https://den-cards.pokellector.com/413/Cetoddle.SV10.31.56879.png",
+      "rarity": "Common",
+      "cardNum": "31/98"
+    },
+    {
+      "name": "Cetitan ex",
+      "set": "Glory of Team Rocket",
+      "img": "https://den-cards.pokellector.com/413/Cetitan-ex.SV10.32.56880.png",
+      "rarity": "Double Rare",
+      "cardNum": "32/98"
+    },
+    {
+      "name": "Team Rocket's Zapdos",
+      "set": "Glory of Team Rocket",
+      "img": "https://den-cards.pokellector.com/413/Team-Rockets-Zapdos.SV10.33.57058.png",
+      "rarity": "Rare",
+      "cardNum": "33/98"
+    },
+    {
+      "name": "Team Rocket's Mareep",
+      "set": "Glory of Team Rocket",
+      "img": "https://den-cards.pokellector.com/413/Team-Rockets-Mareep.SV10.34.56882.png",
+      "rarity": "Common",
+      "cardNum": "34/98"
+    },
+    {
+      "name": "Team Rocket's Flaafy",
+      "set": "Glory of Team Rocket",
+      "img": "https://den-cards.pokellector.com/413/Team-Rockets-Flaafy.SV10.35.56883.png",
+      "rarity": "Common",
+      "cardNum": "35/98"
+    },
+    {
+      "name": "Team Rocket's Ampharos",
+      "set": "Glory of Team Rocket",
+      "img": "https://den-cards.pokellector.com/413/Team-Rockets-Ampharos.SV10.36.56884.png",
+      "rarity": "Uncommon",
+      "cardNum": "36/98"
+    },
+    {
+      "name": "Team Rocket's Drowzee",
+      "set": "Glory of Team Rocket",
+      "img": "https://den-cards.pokellector.com/413/Team-Rockets-Drowzee.SV10.37.57078.png",
+      "rarity": "Common",
+      "cardNum": "37/98"
+    },
+    {
+      "name": "Team Rocket's Hypno",
+      "set": "Glory of Team Rocket",
+      "img": "https://den-cards.pokellector.com/413/Team-Rockets-Hypno.SV10.38.57079.png",
+      "rarity": "Uncommon",
+      "cardNum": "38/98"
+    },
+    {
+      "name": "Team Rocket's Mewtwo ex",
+      "set": "Glory of Team Rocket",
+      "img": "https://den-cards.pokellector.com/413/Team-Rockets-Mewtwo-ex.SV10.39.56866.png",
+      "rarity": "Double Rare",
+      "cardNum": "39/98"
+    },
+    {
+      "name": "Team Rocket's Wobbuffet",
+      "set": "Glory of Team Rocket",
+      "img": "https://den-cards.pokellector.com/413/Team-Rockets-Wobbuffet.SV10.40.56881.png",
+      "rarity": "Rare",
+      "cardNum": "40/98"
+    },
+    {
+      "name": "Team Rocket's Chingling",
+      "set": "Glory of Team Rocket",
+      "img": "https://den-cards.pokellector.com/413/Team-Rockets-Chingling.SV10.41.57099.png",
+      "rarity": "Common",
+      "cardNum": "41/98"
+    },
+    {
+      "name": "Team Rocket's Mimikyu",
+      "set": "Glory of Team Rocket",
+      "img": "https://den-cards.pokellector.com/413/Team-Rockets-Mimikyu.SV10.42.57100.png",
+      "rarity": "Uncommon",
+      "cardNum": "42/98"
+    },
+    {
+      "name": "Team Rocket's Dottler",
+      "set": "Glory of Team Rocket",
+      "img": "https://den-cards.pokellector.com/413/Team-Rockets-Dottler.SV10.43.57075.png",
+      "rarity": "Common",
+      "cardNum": "43/98"
+    },
+    {
+      "name": "Team Rockets Orbeetle",
+      "set": "Glory of Team Rocket",
+      "img": "https://den-cards.pokellector.com/413/Team-Rockets-Orbeetle.SV10.44.57076.png",
+      "rarity": "Uncommon",
+      "cardNum": "44/98"
+    },
+    {
+      "name": "Mankey",
+      "set": "Glory of Team Rocket",
+      "img": "https://den-cards.pokellector.com/413/Mankey.SV10.45.56905.png",
+      "rarity": "Common",
+      "cardNum": "45/98"
+    },
+    {
+      "name": "Primeape",
+      "set": "Glory of Team Rocket",
+      "img": "https://den-cards.pokellector.com/413/Primeape.SV10.46.56906.png",
+      "rarity": "Common",
+      "cardNum": "46/98"
+    },
+    {
+      "name": "Annihilape",
+      "set": "Glory of Team Rocket",
+      "img": "https://den-cards.pokellector.com/413/Annihilape.SV10.47.56907.png",
+      "rarity": "Rare",
+      "cardNum": "47/98"
+    },
+    {
+      "name": "Team Rocket's Larvitar",
+      "set": "Glory of Team Rocket",
+      "img": "https://den-cards.pokellector.com/413/Team-Rockets-Larvitar.SV10.48.57070.png",
+      "rarity": "Common",
+      "cardNum": "48/98"
+    },
+    {
+      "name": "Team Rocket's Pupitar",
+      "set": "Glory of Team Rocket",
+      "img": "https://den-cards.pokellector.com/413/Team-Rockets-Pupitar.SV10.49.57071.png",
+      "rarity": "Uncommon",
+      "cardNum": "49/98"
+    },
+    {
+      "name": "Team Rocket's Tyranitar",
+      "set": "Glory of Team Rocket",
+      "img": "https://den-cards.pokellector.com/413/Team-Rockets-Tyranitar.SV10.50.57072.png",
+      "rarity": "Rare",
+      "cardNum": "50/98"
+    },
+    {
+      "name": "Nosepass",
+      "set": "Glory of Team Rocket",
+      "img": "https://den-cards.pokellector.com/413/Nosepass.SV10.51.57101.png",
+      "rarity": "Common",
+      "cardNum": "51/98"
+    },
+    {
+      "name": "Probopass",
+      "set": "Glory of Team Rocket",
+      "img": "https://den-cards.pokellector.com/413/Probopass.SV10.52.57102.png",
+      "rarity": "Uncommon",
+      "cardNum": "52/98"
+    },
+    {
+      "name": "Meditite",
+      "set": "Glory of Team Rocket",
+      "img": "https://den-cards.pokellector.com/413/Meditite.SV10.53.57103.png",
+      "rarity": "Common",
+      "cardNum": "53/98"
+    },
+    {
+      "name": "Medicham",
+      "set": "Glory of Team Rocket",
+      "img": "https://den-cards.pokellector.com/413/Medicham.SV10.54.57104.png",
+      "rarity": "Uncommon",
+      "cardNum": "54/98"
+    },
+    {
+      "name": "Regirock ex",
+      "set": "Glory of Team Rocket",
+      "img": "https://den-cards.pokellector.com/413/Regirock-ex.SV10.55.57052.png",
+      "rarity": "Double Rare",
+      "cardNum": "55/98"
+    },
+    {
+      "name": "Team Rocket's Ekans",
+      "set": "Glory of Team Rocket",
+      "img": "https://den-cards.pokellector.com/413/Team-Rockets-Ekans.SV10.56.57105.png",
+      "rarity": "Common",
+      "cardNum": "56/98"
+    },
+    {
+      "name": "Team Rocket's Arbok",
+      "set": "Glory of Team Rocket",
+      "img": "https://den-cards.pokellector.com/413/Team-Rockets-Arbok.SV10.57.57106.png",
+      "rarity": "Uncommon",
+      "cardNum": "57/98"
+    },
+    {
+      "name": "Team Rocket's Nidoran♀",
+      "set": "Glory of Team Rocket",
+      "img": "https://den-cards.pokellector.com/413/Team-Rockets-Nidoran.SV10.58.57107.png",
+      "rarity": "Common",
+      "cardNum": "58/98"
+    },
+    {
+      "name": "Team Rocket's Nidorina",
+      "set": "Glory of Team Rocket",
+      "img": "https://den-cards.pokellector.com/413/Team-Rockets-Nidorina.SV10.59.57108.png",
+      "rarity": "Common",
+      "cardNum": "59/98"
+    },
+    {
+      "name": "Team Rocket's Nidoqueen",
+      "set": "Glory of Team Rocket",
+      "img": "https://den-cards.pokellector.com/413/Team-Rockets-Nidoqueen.SV10.60.57109.png",
+      "rarity": "Uncommon",
+      "cardNum": "60/98"
+    },
+    {
+      "name": "Team Rocket's Nidoran♂",
+      "set": "Glory of Team Rocket",
+      "img": "https://den-cards.pokellector.com/413/Team-Rockets-Nidoran.SV10.61.57110.png",
+      "rarity": "Common",
+      "cardNum": "61/98"
+    },
+    {
+      "name": "Team Rocket's Nidorino",
+      "set": "Glory of Team Rocket",
+      "img": "https://den-cards.pokellector.com/413/Team-Rockets-Nidorino.SV10.62.57111.png",
+      "rarity": "Common",
+      "cardNum": "62/98"
+    },
+    {
+      "name": "Team Rocket's Nidoking ex",
+      "set": "Glory of Team Rocket",
+      "img": "https://den-cards.pokellector.com/413/Team-Rockets-Nidoking-ex.SV10.63.57112.png",
+      "rarity": "Double Rare",
+      "cardNum": "63/98"
+    },
+    {
+      "name": "Team Rocket's Zubat",
+      "set": "Glory of Team Rocket",
+      "img": "https://den-cards.pokellector.com/413/Team-Rockets-Zubat.SV10.64.57059.png",
+      "rarity": "Common",
+      "cardNum": "64/98"
+    },
+    {
+      "name": "Team Rocket's Golbat",
+      "set": "Glory of Team Rocket",
+      "img": "https://den-cards.pokellector.com/413/Team-Rockets-Golbat.SV10.65.57060.png",
+      "rarity": "Uncommon",
+      "cardNum": "65/98"
+    },
+    {
+      "name": "Team Rocket's Crobat ex",
+      "set": "Glory of Team Rocket",
+      "img": "https://den-cards.pokellector.com/413/Team-Rockets-Crobat-ex.SV10.66.57061.png",
+      "rarity": "Double Rare",
+      "cardNum": "66/98"
+    },
+    {
+      "name": "Team Rocket's Grimer",
+      "set": "Glory of Team Rocket",
+      "img": "https://den-cards.pokellector.com/413/Team-Rockets-Grimer.SV10.67.57113.png",
+      "rarity": "Common",
+      "cardNum": "67/98"
+    },
+    {
+      "name": "Team Rocket's Muk",
+      "set": "Glory of Team Rocket",
+      "img": "https://den-cards.pokellector.com/413/Team-Rockets-Muk.SV10.68.57114.png",
+      "rarity": "Uncommon",
+      "cardNum": "68/98"
+    },
+    {
+      "name": "Team Rocket's Koffing",
+      "set": "Glory of Team Rocket",
+      "img": "https://den-cards.pokellector.com/413/Team-Rockets-Koffing.SV10.69.57062.png",
+      "rarity": "Common",
+      "cardNum": "69/98"
+    },
+    {
+      "name": "Team Rocket's Weezing",
+      "set": "Glory of Team Rocket",
+      "img": "https://den-cards.pokellector.com/413/Team-Rockets-Weezing.SV10.70.57063.png",
+      "rarity": "Uncommon",
+      "cardNum": "70/98"
+    },
+    {
+      "name": "Team Rocket's Murkrow",
+      "set": "Glory of Team Rocket",
+      "img": "https://den-cards.pokellector.com/413/Team-Rockets-Murkrow.SV10.71.57115.png",
+      "rarity": "Uncommon",
+      "cardNum": "71/98"
+    },
+    {
+      "name": "Team Rocket's Sneasel",
+      "set": "Glory of Team Rocket",
+      "img": "https://den-cards.pokellector.com/413/Team-Rockets-Sneasel.SV10.72.57064.png",
+      "rarity": "Rare",
+      "cardNum": "72/98"
+    },
+    {
+      "name": "Forretress",
+      "set": "Glory of Team Rocket",
+      "img": "https://den-cards.pokellector.com/413/Forretress.SV10.73.57116.png",
+      "rarity": "Uncommon",
+      "cardNum": "73/98"
+    },
+    {
+      "name": "Skarmory",
+      "set": "Glory of Team Rocket",
+      "img": "https://den-cards.pokellector.com/413/Skarmory.SV10.74.57117.png",
+      "rarity": "Common",
+      "cardNum": "74/98"
+    },
+    {
+      "name": "Zamazenta",
+      "set": "Glory of Team Rocket",
+      "img": "https://den-cards.pokellector.com/413/Zamazenta.SV10.75.56876.png",
+      "rarity": "Rare",
+      "cardNum": "75/98"
+    },
+    {
+      "name": "Team Rocket's Rattata",
+      "set": "Glory of Team Rocket",
+      "img": "https://den-cards.pokellector.com/413/Team-Rockets-Rattata.SV10.76.57118.png",
+      "rarity": "Common",
+      "cardNum": "76/98"
+    },
+    {
+      "name": "Team Rocket's Raticate",
+      "set": "Glory of Team Rocket",
+      "img": "https://den-cards.pokellector.com/413/Team-Rockets-Raticate.SV10.77.57119.png",
+      "rarity": "Common",
+      "cardNum": "77/98"
+    },
+    {
+      "name": "Team Rocket's Meowth",
+      "set": "Glory of Team Rocket",
+      "img": "https://den-cards.pokellector.com/413/Team-Rockets-Meowth.SV10.78.57120.png",
+      "rarity": "Common",
+      "cardNum": "78/98"
+    },
+    {
+      "name": "Team Rocket's Persian ex",
+      "set": "Glory of Team Rocket",
+      "img": "https://den-cards.pokellector.com/413/Team-Rockets-Persian-ex.SV10.79.56868.png",
+      "rarity": "Double Rare",
+      "cardNum": "79/98"
+    },
+    {
+      "name": "Kangaskhan",
+      "set": "Glory of Team Rocket",
+      "img": "https://den-cards.pokellector.com/413/Kangaskhan.SV10.80.57121.png",
+      "rarity": "Common",
+      "cardNum": "80/98"
+    },
+    {
+      "name": "Team Rocket's Porygon",
+      "set": "Glory of Team Rocket",
+      "img": "https://den-cards.pokellector.com/413/Team-Rockets-Porygon.SV10.81.56869.png",
+      "rarity": "Common",
+      "cardNum": "81/98"
+    },
+    {
+      "name": "Team Rocket's Porygon 2",
+      "set": "Glory of Team Rocket",
+      "img": "https://den-cards.pokellector.com/413/Team-Rockets-Porygon-2.SV10.82.56870.png",
+      "rarity": "Common",
+      "cardNum": "82/98"
+    },
+    {
+      "name": "Team Rocket's Porygon Z",
+      "set": "Glory of Team Rocket",
+      "img": "https://den-cards.pokellector.com/413/Team-Rockets-Porygon-Z.SV10.83.56871.png",
+      "rarity": "Uncommon",
+      "cardNum": "83/98"
+    },
+    {
+      "name": "Taillow",
+      "set": "Glory of Team Rocket",
+      "img": "https://den-cards.pokellector.com/413/Taillow.SV10.84.57122.png",
+      "rarity": "Common",
+      "cardNum": "84/98"
+    },
+    {
+      "name": "Swellow",
+      "set": "Glory of Team Rocket",
+      "img": "https://den-cards.pokellector.com/413/Swellow.SV10.85.57123.png",
+      "rarity": "Common",
+      "cardNum": "85/98"
+    },
+    {
+      "name": "Squawkabilly",
+      "set": "Glory of Team Rocket",
+      "img": "https://den-cards.pokellector.com/413/Squawkabilly.SV10.86.57124.png",
+      "rarity": "Common",
+      "cardNum": "86/98"
+    },
+    {
+      "name": "Team Rocket's Hindering Robo",
+      "set": "Glory of Team Rocket",
+      "img": "https://den-cards.pokellector.com/413/Team-Rockets-Hindering-Robo.SV10.87.57125.png",
+      "rarity": "Uncommon",
+      "cardNum": "87/98"
+    },
+    {
+      "name": "Team Rocket's Great Ball",
+      "set": "Glory of Team Rocket",
+      "img": "https://den-cards.pokellector.com/413/Team-Rockets-Great-Ball.SV10.88.57065.png",
+      "rarity": "Uncommon",
+      "cardNum": "88/98"
+    },
+    {
+      "name": "Team Rocket's Venture Bomb",
+      "set": "Glory of Team Rocket",
+      "img": "https://den-cards.pokellector.com/413/Team-Rockets-Venture-Bomb.SV10.89.57066.png",
+      "rarity": "Uncommon",
+      "cardNum": "89/98"
+    },
+    {
+      "name": "Team Rocket's Receiver",
+      "set": "Glory of Team Rocket",
+      "img": "https://den-cards.pokellector.com/413/Team-Rockets-Receiver.SV10.90.56887.png",
+      "rarity": "Uncommon",
+      "cardNum": "90/98"
+    },
+    {
+      "name": "Team Rocket's Ariana",
+      "set": "Glory of Team Rocket",
+      "img": "https://den-cards.pokellector.com/413/Team-Rockets-Ariana.SV10.91.56888.png",
+      "rarity": "Uncommon",
+      "cardNum": "91/98"
+    },
+    {
+      "name": "Team Rocket's Archer",
+      "set": "Glory of Team Rocket",
+      "img": "https://den-cards.pokellector.com/413/Team-Rockets-Archer.SV10.92.56889.png",
+      "rarity": "Uncommon",
+      "cardNum": "92/98"
+    },
+    {
+      "name": "Team Rocket's Giovanni",
+      "set": "Glory of Team Rocket",
+      "img": "https://den-cards.pokellector.com/413/Team-Rockets-Giovanni.SV10.93.56890.png",
+      "rarity": "Uncommon",
+      "cardNum": "93/98"
+    },
+    {
+      "name": "Team Rocket's Petrel",
+      "set": "Glory of Team Rocket",
+      "img": "https://den-cards.pokellector.com/413/Team-Rockets-Petrel.SV10.94.57067.png",
+      "rarity": "Uncommon",
+      "cardNum": "94/98"
+    },
+    {
+      "name": "Team Rocket's Proton",
+      "set": "Glory of Team Rocket",
+      "img": "https://den-cards.pokellector.com/413/Team-Rockets-Proton.SV10.95.57068.png",
+      "rarity": "Uncommon",
+      "cardNum": "95/98"
+    },
+    {
+      "name": "Team Rocket's Watchtower",
+      "set": "Glory of Team Rocket",
+      "img": "https://den-cards.pokellector.com/413/Team-Rockets-Watchtower.SV10.96.57126.png",
+      "rarity": "Uncommon",
+      "cardNum": "96/98"
+    },
+    {
+      "name": "Team Rocket's Factory",
+      "set": "Glory of Team Rocket",
+      "img": "https://den-cards.pokellector.com/413/Team-Rockets-Factory.SV10.97.57127.png",
+      "rarity": "Uncommon",
+      "cardNum": "97/98"
+    },
+    {
+      "name": "Team Rocket Energy",
+      "set": "Glory of Team Rocket",
+      "img": "https://den-cards.pokellector.com/413/Team-Rocket-Energy.SV10.98.56891.png",
+      "rarity": "Uncommon",
+      "cardNum": "98/98"
+    },
+    {
+      "name": "Team Rocket's Spidops ex",
+      "set": "Glory of Team Rocket",
+      "img": "https://den-cards.pokellector.com/413/Team-Rockets-Spidops-ex.SV10.99.57139.png",
+      "rarity": "Art Rare",
+      "cardNum": "99/98"
+    },
+    {
+      "name": "Team Rocket's Houndoom",
+      "set": "Glory of Team Rocket",
+      "img": "https://den-cards.pokellector.com/413/Team-Rockets-Houndoom.SV10.100.57140.png",
+      "rarity": "Art Rare",
+      "cardNum": "100/98"
+    },
+    {
+      "name": "Blaziken",
+      "set": "Glory of Team Rocket",
+      "img": "https://den-cards.pokellector.com/413/Blaziken.SV10.101.57141.png",
+      "rarity": "Art Rare",
+      "cardNum": "101/98"
+    },
+    {
+      "name": "Clampearl",
+      "set": "Glory of Team Rocket",
+      "img": "https://den-cards.pokellector.com/413/Clampearl.SV10.102.57069.png",
+      "rarity": "Art Rare",
+      "cardNum": "102/98"
+    },
+    {
+      "name": "Team Rocket's Wobbuffet",
+      "set": "Glory of Team Rocket",
+      "img": "https://den-cards.pokellector.com/413/Team-Rockets-Wobbuffet.SV10.103.56878.png",
+      "rarity": "Art Rare",
+      "cardNum": "103/98"
+    },
+    {
+      "name": "Team Rocket's Orbeetle",
+      "set": "Glory of Team Rocket",
+      "img": "https://den-cards.pokellector.com/413/Team-Rockets-Orbeetle.SV10.104.57077.png",
+      "rarity": "Art Rare",
+      "cardNum": "104/98"
+    },
+    {
+      "name": "Team Rocket's Weezing",
+      "set": "Glory of Team Rocket",
+      "img": "https://den-cards.pokellector.com/413/Team-Rockets-Weezing.SV10.105.57142.png",
+      "rarity": "Art Rare",
+      "cardNum": "105/98"
+    },
+    {
+      "name": "Team Rocket's Murkrow",
+      "set": "Glory of Team Rocket",
+      "img": "https://den-cards.pokellector.com/413/Team-Rockets-Murkrow.SV10.106.57130.png",
+      "rarity": "Art Rare",
+      "cardNum": "106/98"
+    },
+    {
+      "name": "Zamazenta",
+      "set": "Glory of Team Rocket",
+      "img": "https://den-cards.pokellector.com/413/Zamazenta.SV10.107.56877.png",
+      "rarity": "Art Rare",
+      "cardNum": "107/98"
+    },
+    {
+      "name": "Team Rocket's Raticate",
+      "set": "Glory of Team Rocket",
+      "img": "https://den-cards.pokellector.com/413/Team-Rockets-Raticate.SV10.108.57143.png",
+      "rarity": "Art Rare",
+      "cardNum": "108/98"
+    },
+    {
+      "name": "Team Rocket's Meowth",
+      "set": "Glory of Team Rocket",
+      "img": "https://den-cards.pokellector.com/413/Team-Rockets-Meowth.SV10.109.56872.png",
+      "rarity": "Art Rare",
+      "cardNum": "109/98"
+    },
+    {
+      "name": "Kangaskhan",
+      "set": "Glory of Team Rocket",
+      "img": "https://den-cards.pokellector.com/413/Kangaskhan.SV10.110.57129.png",
+      "rarity": "Art Rare",
+      "cardNum": "110/98"
+    },
+    {
+      "name": "Arboliva ex",
+      "set": "Glory of Team Rocket",
+      "img": "https://den-cards.pokellector.com/413/Arboliva-ex.SV10.111.57144.png",
+      "rarity": "Super Rare",
+      "cardNum": "111/98"
+    },
+    {
+      "name": "Team Rocket's Moltres ex",
+      "set": "Glory of Team Rocket",
+      "img": "https://den-cards.pokellector.com/413/Team-Rockets-Moltres-ex.SV10.112.57073.png",
+      "rarity": "Super Rare",
+      "cardNum": "112/98"
+    },
+    {
+      "name": "Cetitan ex",
+      "set": "Glory of Team Rocket",
+      "img": "https://den-cards.pokellector.com/413/Cetitan-ex.SV10.113.57145.png",
+      "rarity": "Super Rare",
+      "cardNum": "113/98"
+    },
+    {
+      "name": "Team Rocket's Mewtwo ex",
+      "set": "Glory of Team Rocket",
+      "img": "https://den-cards.pokellector.com/413/Team-Rockets-Mewtwo-ex.SV10.114.57146.png",
+      "rarity": "Super Rare",
+      "cardNum": "114/98"
+    },
+    {
+      "name": "Regirock ex",
+      "set": "Glory of Team Rocket",
+      "img": "https://den-cards.pokellector.com/413/Regirock-ex.SV10.115.57147.png",
+      "rarity": "Super Rare",
+      "cardNum": "115/98"
+    },
+    {
+      "name": "Team Rocket's Nidoking ex",
+      "set": "Glory of Team Rocket",
+      "img": "https://den-cards.pokellector.com/413/Team-Rockets-Nidoking-ex.SV10.116.57128.png",
+      "rarity": "Super Rare",
+      "cardNum": "116/98"
+    },
+    {
+      "name": "Team Rocket's Crobat ex",
+      "set": "Glory of Team Rocket",
+      "img": "https://den-cards.pokellector.com/413/Team-Rockets-Crobat-ex.SV10.117.57148.png",
+      "rarity": "Super Rare",
+      "cardNum": "117/98"
+    },
+    {
+      "name": "Team Rocket's Persian ex",
+      "set": "Glory of Team Rocket",
+      "img": "https://den-cards.pokellector.com/413/Team-Rockets-Persian-ex.SV10.118.57149.png",
+      "rarity": "Super Rare",
+      "cardNum": "118/98"
+    },
+    {
+      "name": "Team Rocket's Ariana",
+      "set": "Glory of Team Rocket",
+      "img": "https://den-cards.pokellector.com/413/Team-Rockets-Ariana.SV10.119.57150.png",
+      "rarity": "Super Rare",
+      "cardNum": "119/98"
+    },
+    {
+      "name": "Team Rocket's Archer",
+      "set": "Glory of Team Rocket",
+      "img": "https://den-cards.pokellector.com/413/Team-Rockets-Archer.SV10.120.57151.png",
+      "rarity": "Super Rare",
+      "cardNum": "120/98"
+    },
+    {
+      "name": "Team Rocket's Giovanni",
+      "set": "Glory of Team Rocket",
+      "img": "https://den-cards.pokellector.com/413/Team-Rockets-Giovanni.SV10.121.57152.png",
+      "rarity": "Super Rare",
+      "cardNum": "121/98"
+    },
+    {
+      "name": "Team Rocket's Petrel",
+      "set": "Glory of Team Rocket",
+      "img": "https://den-cards.pokellector.com/413/Team-Rockets-Petrel.SV10.122.57153.png",
+      "rarity": "Super Rare",
+      "cardNum": "122/98"
+    },
+    {
+      "name": "Team Rocket's Proton",
+      "set": "Glory of Team Rocket",
+      "img": "https://den-cards.pokellector.com/413/Team-Rockets-Proton.SV10.123.57154.png",
+      "rarity": "Super Rare",
+      "cardNum": "123/98"
+    },
+    {
+      "name": "Team Rocket's Moltres ex",
+      "set": "Glory of Team Rocket",
+      "img": "https://den-cards.pokellector.com/413/Team-Rockets-Moltres-ex.SV10.124.57155.png",
+      "rarity": "Special Art Rare",
+      "cardNum": "124/98"
+    },
+    {
+      "name": "Team Rocket's Mewtwo ex",
+      "set": "Glory of Team Rocket",
+      "img": "https://den-cards.pokellector.com/413/Team-Rockets-Mewtwo-ex.SV10.125.57156.png",
+      "rarity": "Special Art Rare",
+      "cardNum": "125/98"
+    },
+    {
+      "name": "Team Rocket's Nidoking ex",
+      "set": "Glory of Team Rocket",
+      "img": "https://den-cards.pokellector.com/413/Team-Rockets-Nidoking-ex.SV10.126.57157.png",
+      "rarity": "Special Art Rare",
+      "cardNum": "126/98"
+    },
+    {
+      "name": "Team Rocket's Crobat ex",
+      "set": "Glory of Team Rocket",
+      "img": "https://den-cards.pokellector.com/413/Team-Rockets-Crobat-ex.SV10.127.57158.png",
+      "rarity": "Special Art Rare",
+      "cardNum": "127/98"
+    },
+    {
+      "name": "Team Rocket's Ariana",
+      "set": "Glory of Team Rocket",
+      "img": "https://den-cards.pokellector.com/413/Team-Rockets-Ariana.SV10.128.57159.png",
+      "rarity": "Special Art Rare",
+      "cardNum": "128/98"
+    },
+    {
+      "name": "Team Rocket's Giovanni",
+      "set": "Glory of Team Rocket",
+      "img": "https://den-cards.pokellector.com/413/Team-Rockets-Giovanni.SV10.129.57160.png",
+      "rarity": "Special Art Rare",
+      "cardNum": "129/98"
+    },
+    {
+      "name": "Team Rocket's Mewtwo ex",
+      "set": "Glory of Team Rocket",
+      "img": "https://den-cards.pokellector.com/413/Team-Rockets-Mewtwo-ex.SV10.130.57161.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "130/98"
+    },
+    {
+      "name": "Team Rocket's Crobat ex",
+      "set": "Glory of Team Rocket",
+      "img": "https://den-cards.pokellector.com/413/Team-Rockets-Crobat-ex.SV10.131.57162.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "131/98"
+    },
+    {
+      "name": "Jamming Tower",
+      "set": "Glory of Team Rocket",
+      "img": "https://den-cards.pokellector.com/413/Jamming-Tower.SV10.132.57163.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "132/98"
+    }
+  ]
+}

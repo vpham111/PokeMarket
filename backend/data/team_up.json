@@ -1,0 +1,1440 @@
+{
+  "setName": "Team Up",
+  "cards": [
+    {
+      "name": "Celebi & Venusaur GX",
+      "set": "Team Up",
+      "img": "https://den-cards.pokellector.com/261/Celebi-Venusaur-GX.SM9.1.25430.png",
+      "rarity": "Rare",
+      "cardNum": "1/181"
+    },
+    {
+      "name": "Weedle",
+      "set": "Team Up",
+      "img": "https://den-cards.pokellector.com/261/Weedle.SM9.2.26500.png",
+      "rarity": "Common",
+      "cardNum": "2/181"
+    },
+    {
+      "name": "Weedle",
+      "set": "Team Up",
+      "img": "https://den-cards.pokellector.com/261/Weedle.SM9.3.26501.png",
+      "rarity": "Common",
+      "cardNum": "3/181"
+    },
+    {
+      "name": "Kakuna",
+      "set": "Team Up",
+      "img": "https://den-cards.pokellector.com/261/Kakuna.SM9.4.26502.png",
+      "rarity": "Uncommon",
+      "cardNum": "4/181"
+    },
+    {
+      "name": "Beedrill",
+      "set": "Team Up",
+      "img": "https://den-cards.pokellector.com/261/Beedrill.SM9.5.26503.png",
+      "rarity": "Rare",
+      "cardNum": "5/181"
+    },
+    {
+      "name": "Paras",
+      "set": "Team Up",
+      "img": "https://den-cards.pokellector.com/261/Paras.SM9.6.26504.png",
+      "rarity": "Common",
+      "cardNum": "6/181"
+    },
+    {
+      "name": "Parasect",
+      "set": "Team Up",
+      "img": "https://den-cards.pokellector.com/261/Parasect.SM9.7.26505.png",
+      "rarity": "Rare",
+      "cardNum": "7/181"
+    },
+    {
+      "name": "Exeggcute",
+      "set": "Team Up",
+      "img": "https://den-cards.pokellector.com/261/Exeggcute.SM9.8.26506.png",
+      "rarity": "Common",
+      "cardNum": "8/181"
+    },
+    {
+      "name": "Pinsir",
+      "set": "Team Up",
+      "img": "https://den-cards.pokellector.com/261/Pinsir.SM9.9.26507.png",
+      "rarity": "Rare",
+      "cardNum": "9/181"
+    },
+    {
+      "name": "Shaymin",
+      "set": "Team Up",
+      "img": "https://den-cards.pokellector.com/261/Shaymin.SM9.10.26508.png",
+      "rarity": "Rare",
+      "cardNum": "10/181"
+    },
+    {
+      "name": "Charmander",
+      "set": "Team Up",
+      "img": "https://den-cards.pokellector.com/261/Charmander.SM9.11.26509.png",
+      "rarity": "Common",
+      "cardNum": "11/181"
+    },
+    {
+      "name": "Charmander",
+      "set": "Team Up",
+      "img": "https://den-cards.pokellector.com/261/Charmander.SM9.12.26510.png",
+      "rarity": "Common",
+      "cardNum": "12/181"
+    },
+    {
+      "name": "Charmeleon",
+      "set": "Team Up",
+      "img": "https://den-cards.pokellector.com/261/Charmeleon.SM9.13.26511.png",
+      "rarity": "Uncommon",
+      "cardNum": "13/181"
+    },
+    {
+      "name": "Charizard",
+      "set": "Team Up",
+      "img": "https://den-cards.pokellector.com/261/Charizard.SM9.14.25656.png",
+      "rarity": "Rare",
+      "cardNum": "14/181"
+    },
+    {
+      "name": "Vulpix",
+      "set": "Team Up",
+      "img": "https://den-cards.pokellector.com/261/Vulpix.SM9.15.26512.png",
+      "rarity": "Common",
+      "cardNum": "15/181"
+    },
+    {
+      "name": "Ninetales",
+      "set": "Team Up",
+      "img": "https://den-cards.pokellector.com/261/Ninetales.SM9.16.26513.png",
+      "rarity": "Rare",
+      "cardNum": "16/181"
+    },
+    {
+      "name": "Ponyta",
+      "set": "Team Up",
+      "img": "https://den-cards.pokellector.com/261/Ponyta.SM9.17.26514.png",
+      "rarity": "Common",
+      "cardNum": "17/181"
+    },
+    {
+      "name": "Rapidash",
+      "set": "Team Up",
+      "img": "https://den-cards.pokellector.com/261/Rapidash.SM9.18.26515.png",
+      "rarity": "Uncommon",
+      "cardNum": "18/181"
+    },
+    {
+      "name": "Moltres",
+      "set": "Team Up",
+      "img": "https://den-cards.pokellector.com/261/Moltres.SM9.19.26516.png",
+      "rarity": "Rare",
+      "cardNum": "19/181"
+    },
+    {
+      "name": "Litten",
+      "set": "Team Up",
+      "img": "https://den-cards.pokellector.com/261/Litten.SM9.20.26517.png",
+      "rarity": "Common",
+      "cardNum": "20/181"
+    },
+    {
+      "name": "Torracat",
+      "set": "Team Up",
+      "img": "https://den-cards.pokellector.com/261/Torracat.SM9.21.26518.png",
+      "rarity": "Uncommon",
+      "cardNum": "21/181"
+    },
+    {
+      "name": "Squirtle",
+      "set": "Team Up",
+      "img": "https://den-cards.pokellector.com/261/Squirtle.SM9.22.26519.png",
+      "rarity": "Common",
+      "cardNum": "22/181"
+    },
+    {
+      "name": "Squirtle",
+      "set": "Team Up",
+      "img": "https://den-cards.pokellector.com/261/Squirtle.SM9.23.26520.png",
+      "rarity": "Common",
+      "cardNum": "23/181"
+    },
+    {
+      "name": "Wartortle",
+      "set": "Team Up",
+      "img": "https://den-cards.pokellector.com/261/Wartortle.SM9.24.26521.png",
+      "rarity": "Uncommon",
+      "cardNum": "24/181"
+    },
+    {
+      "name": "Blastoise",
+      "set": "Team Up",
+      "img": "https://den-cards.pokellector.com/261/Blastoise.SM9.25.26522.png",
+      "rarity": "Rare",
+      "cardNum": "25/181"
+    },
+    {
+      "name": "Psyduck",
+      "set": "Team Up",
+      "img": "https://den-cards.pokellector.com/261/Psyduck.SM9.26.26523.png",
+      "rarity": "Common",
+      "cardNum": "26/181"
+    },
+    {
+      "name": "Golduck",
+      "set": "Team Up",
+      "img": "https://den-cards.pokellector.com/261/Golduck.SM9.27.26524.png",
+      "rarity": "Uncommon",
+      "cardNum": "27/181"
+    },
+    {
+      "name": "Staryu",
+      "set": "Team Up",
+      "img": "https://den-cards.pokellector.com/261/Staryu.SM9.28.26525.png",
+      "rarity": "Common",
+      "cardNum": "28/181"
+    },
+    {
+      "name": "Magikarp",
+      "set": "Team Up",
+      "img": "https://den-cards.pokellector.com/261/Magikarp.SM9.29.26526.png",
+      "rarity": "Common",
+      "cardNum": "29/181"
+    },
+    {
+      "name": "Gyarados",
+      "set": "Team Up",
+      "img": "https://den-cards.pokellector.com/261/Gyarados.SM9.30.26527.png",
+      "rarity": "Rare",
+      "cardNum": "30/181"
+    },
+    {
+      "name": "Lapras",
+      "set": "Team Up",
+      "img": "https://den-cards.pokellector.com/261/Lapras.SM9.31.26528.png",
+      "rarity": "Rare",
+      "cardNum": "31/181"
+    },
+    {
+      "name": "Articuno",
+      "set": "Team Up",
+      "img": "https://den-cards.pokellector.com/261/Articuno.SM9.32.26529.png",
+      "rarity": "Rare",
+      "cardNum": "32/181"
+    },
+    {
+      "name": "Pikachu & Zekrom GX",
+      "set": "Team Up",
+      "img": "https://den-cards.pokellector.com/261/Pikachu-Zekrom-GX.SM9.33.23324.png",
+      "rarity": "Rare",
+      "cardNum": "33/181"
+    },
+    {
+      "name": "Alolan Geodude",
+      "set": "Team Up",
+      "img": "https://den-cards.pokellector.com/261/Alolan-Geodude.SM9.34.26530.png",
+      "rarity": "Common",
+      "cardNum": "34/181"
+    },
+    {
+      "name": "Alolan Geodude",
+      "set": "Team Up",
+      "img": "https://den-cards.pokellector.com/261/Alolan-Geodude.SM9.35.26531.png",
+      "rarity": "Common",
+      "cardNum": "35/181"
+    },
+    {
+      "name": "Alolan Graveler",
+      "set": "Team Up",
+      "img": "https://den-cards.pokellector.com/261/Alolan-Graveler.SM9.36.26532.png",
+      "rarity": "Uncommon",
+      "cardNum": "36/181"
+    },
+    {
+      "name": "Alolan Golem",
+      "set": "Team Up",
+      "img": "https://den-cards.pokellector.com/261/Alolan-Golem.SM9.37.26533.png",
+      "rarity": "Rare",
+      "cardNum": "37/181"
+    },
+    {
+      "name": "Voltorb",
+      "set": "Team Up",
+      "img": "https://den-cards.pokellector.com/261/Voltorb.SM9.38.26534.png",
+      "rarity": "Common",
+      "cardNum": "38/181"
+    },
+    {
+      "name": "Electrode",
+      "set": "Team Up",
+      "img": "https://den-cards.pokellector.com/261/Electrode.SM9.39.26535.png",
+      "rarity": "Rare",
+      "cardNum": "39/181"
+    },
+    {
+      "name": "Zapdos",
+      "set": "Team Up",
+      "img": "https://den-cards.pokellector.com/261/Zapdos.SM9.40.26536.png",
+      "rarity": "Rare",
+      "cardNum": "40/181"
+    },
+    {
+      "name": "Mareep",
+      "set": "Team Up",
+      "img": "https://den-cards.pokellector.com/261/Mareep.SM9.41.26537.png",
+      "rarity": "Common",
+      "cardNum": "41/181"
+    },
+    {
+      "name": "Flaaffy",
+      "set": "Team Up",
+      "img": "https://den-cards.pokellector.com/261/Flaaffy.SM9.42.26538.png",
+      "rarity": "Uncommon",
+      "cardNum": "42/181"
+    },
+    {
+      "name": "Ampharos GX",
+      "set": "Team Up",
+      "img": "https://den-cards.pokellector.com/261/Ampharos-GX.SM9.43.26539.png",
+      "rarity": "Rare",
+      "cardNum": "43/181"
+    },
+    {
+      "name": "Blitzle",
+      "set": "Team Up",
+      "img": "https://den-cards.pokellector.com/261/Blitzle.SM9.44.26540.png",
+      "rarity": "Common",
+      "cardNum": "44/181"
+    },
+    {
+      "name": "Zebstrika",
+      "set": "Team Up",
+      "img": "https://den-cards.pokellector.com/261/Zebstrika.SM9.45.26541.png",
+      "rarity": "Rare",
+      "cardNum": "45/181"
+    },
+    {
+      "name": "Emolga",
+      "set": "Team Up",
+      "img": "https://den-cards.pokellector.com/261/Emolga.SM9.46.26542.png",
+      "rarity": "Common",
+      "cardNum": "46/181"
+    },
+    {
+      "name": "Joltik",
+      "set": "Team Up",
+      "img": "https://den-cards.pokellector.com/261/Joltik.SM9.47.26543.png",
+      "rarity": "Common",
+      "cardNum": "47/181"
+    },
+    {
+      "name": "Galvantula",
+      "set": "Team Up",
+      "img": "https://den-cards.pokellector.com/261/Galvantula.SM9.48.26544.png",
+      "rarity": "Rare",
+      "cardNum": "48/181"
+    },
+    {
+      "name": "Helioptile",
+      "set": "Team Up",
+      "img": "https://den-cards.pokellector.com/261/Helioptile.SM9.49.26545.png",
+      "rarity": "Common",
+      "cardNum": "49/181"
+    },
+    {
+      "name": "Heliolisk",
+      "set": "Team Up",
+      "img": "https://den-cards.pokellector.com/261/Heliolisk.SM9.50.26546.png",
+      "rarity": "Uncommon",
+      "cardNum": "50/181"
+    },
+    {
+      "name": "Tapu Koko Prism Star",
+      "set": "Team Up",
+      "img": "https://den-cards.pokellector.com/261/Tapu-Koko-Prism-Star.SM9.51.25670.png",
+      "rarity": "Prism Star",
+      "cardNum": "51/181"
+    },
+    {
+      "name": "Zeraora",
+      "set": "Team Up",
+      "img": "https://den-cards.pokellector.com/261/Zeraora.SM9.52.26547.png",
+      "rarity": "Rare",
+      "cardNum": "52/181"
+    },
+    {
+      "name": "Gengar & Mimikyu GX",
+      "set": "Team Up",
+      "img": "https://den-cards.pokellector.com/261/Gengar-Mimikyu-GX.SM9.53.25432.png",
+      "rarity": "Rare",
+      "cardNum": "53/181"
+    },
+    {
+      "name": "Nidoran♀",
+      "set": "Team Up",
+      "img": "https://den-cards.pokellector.com/261/Nidoran.SM9.54.26548.png",
+      "rarity": "Common",
+      "cardNum": "54/181"
+    },
+    {
+      "name": "Nidorina",
+      "set": "Team Up",
+      "img": "https://den-cards.pokellector.com/261/Nidorina.SM9.55.26549.png",
+      "rarity": "Uncommon",
+      "cardNum": "55/181"
+    },
+    {
+      "name": "Nidoqueen",
+      "set": "Team Up",
+      "img": "https://den-cards.pokellector.com/261/Nidoqueen.SM9.56.26550.png",
+      "rarity": "Rare",
+      "cardNum": "56/181"
+    },
+    {
+      "name": "Nidoran♂",
+      "set": "Team Up",
+      "img": "https://den-cards.pokellector.com/261/Nidoran.SM9.57.26551.png",
+      "rarity": "Common",
+      "cardNum": "57/181"
+    },
+    {
+      "name": "Nidorino",
+      "set": "Team Up",
+      "img": "https://den-cards.pokellector.com/261/Nidorino.SM9.58.26552.png",
+      "rarity": "Uncommon",
+      "cardNum": "58/181"
+    },
+    {
+      "name": "Nidoking",
+      "set": "Team Up",
+      "img": "https://den-cards.pokellector.com/261/Nidoking.SM9.59.26553.png",
+      "rarity": "Rare",
+      "cardNum": "59/181"
+    },
+    {
+      "name": "Tentacool",
+      "set": "Team Up",
+      "img": "https://den-cards.pokellector.com/261/Tentacool.SM9.60.26554.png",
+      "rarity": "Common",
+      "cardNum": "60/181"
+    },
+    {
+      "name": "Tentacruel",
+      "set": "Team Up",
+      "img": "https://den-cards.pokellector.com/261/Tentacruel.SM9.61.26555.png",
+      "rarity": "Uncommon",
+      "cardNum": "61/181"
+    },
+    {
+      "name": "Grimer",
+      "set": "Team Up",
+      "img": "https://den-cards.pokellector.com/261/Grimer.SM9.62.26556.png",
+      "rarity": "Common",
+      "cardNum": "62/181"
+    },
+    {
+      "name": "Muk",
+      "set": "Team Up",
+      "img": "https://den-cards.pokellector.com/261/Muk.SM9.63.26557.png",
+      "rarity": "Rare",
+      "cardNum": "63/181"
+    },
+    {
+      "name": "Alolan Marowak",
+      "set": "Team Up",
+      "img": "https://den-cards.pokellector.com/261/Alolan-Marowak.SM9.64.26558.png",
+      "rarity": "Rare",
+      "cardNum": "64/181"
+    },
+    {
+      "name": "Starmie",
+      "set": "Team Up",
+      "img": "https://den-cards.pokellector.com/261/Starmie.SM9.65.26559.png",
+      "rarity": "Rare",
+      "cardNum": "65/181"
+    },
+    {
+      "name": "Mr. Mime",
+      "set": "Team Up",
+      "img": "https://den-cards.pokellector.com/261/Mr-Mime.SM9.66.26560.png",
+      "rarity": "Rare",
+      "cardNum": "66/181"
+    },
+    {
+      "name": "Mr Mime GX",
+      "set": "Team Up",
+      "img": "https://den-cards.pokellector.com/261/Mr-Mime-GX.SM9.67.25671.png",
+      "rarity": "Rare",
+      "cardNum": "67/181"
+    },
+    {
+      "name": "Jynx",
+      "set": "Team Up",
+      "img": "https://den-cards.pokellector.com/261/Jynx.SM9.68.26561.png",
+      "rarity": "Uncommon",
+      "cardNum": "68/181"
+    },
+    {
+      "name": "Cosmog",
+      "set": "Team Up",
+      "img": "https://den-cards.pokellector.com/261/Cosmog.SM9.69.26562.png",
+      "rarity": "Common",
+      "cardNum": "69/181"
+    },
+    {
+      "name": "Cosmoem",
+      "set": "Team Up",
+      "img": "https://den-cards.pokellector.com/261/Cosmoem.SM9.70.26563.png",
+      "rarity": "Uncommon",
+      "cardNum": "70/181"
+    },
+    {
+      "name": "Mankey",
+      "set": "Team Up",
+      "img": "https://den-cards.pokellector.com/261/Mankey.SM9.71.26564.png",
+      "rarity": "Common",
+      "cardNum": "71/181"
+    },
+    {
+      "name": "Primeape",
+      "set": "Team Up",
+      "img": "https://den-cards.pokellector.com/261/Primeape.SM9.72.26565.png",
+      "rarity": "Rare",
+      "cardNum": "72/181"
+    },
+    {
+      "name": "Hitmonlee",
+      "set": "Team Up",
+      "img": "https://den-cards.pokellector.com/261/Hitmonlee.SM9.73.26566.png",
+      "rarity": "Uncommon",
+      "cardNum": "73/181"
+    },
+    {
+      "name": "Hitmonchan",
+      "set": "Team Up",
+      "img": "https://den-cards.pokellector.com/261/Hitmonchan.SM9.74.26567.png",
+      "rarity": "Uncommon",
+      "cardNum": "74/181"
+    },
+    {
+      "name": "Omanyte",
+      "set": "Team Up",
+      "img": "https://den-cards.pokellector.com/261/Omanyte.SM9.75.26568.png",
+      "rarity": "Uncommon",
+      "cardNum": "75/181"
+    },
+    {
+      "name": "Omastar",
+      "set": "Team Up",
+      "img": "https://den-cards.pokellector.com/261/Omastar.SM9.76.26569.png",
+      "rarity": "Rare",
+      "cardNum": "76/181"
+    },
+    {
+      "name": "Kabuto",
+      "set": "Team Up",
+      "img": "https://den-cards.pokellector.com/261/Kabuto.SM9.77.26570.png",
+      "rarity": "Uncommon",
+      "cardNum": "77/181"
+    },
+    {
+      "name": "Kabutops",
+      "set": "Team Up",
+      "img": "https://den-cards.pokellector.com/261/Kabutops.SM9.78.26571.png",
+      "rarity": "Rare",
+      "cardNum": "78/181"
+    },
+    {
+      "name": "Larvitar",
+      "set": "Team Up",
+      "img": "https://den-cards.pokellector.com/261/Larvitar.SM9.79.26572.png",
+      "rarity": "Common",
+      "cardNum": "79/181"
+    },
+    {
+      "name": "Pupitar",
+      "set": "Team Up",
+      "img": "https://den-cards.pokellector.com/261/Pupitar.SM9.80.26573.png",
+      "rarity": "Uncommon",
+      "cardNum": "80/181"
+    },
+    {
+      "name": "Pancham",
+      "set": "Team Up",
+      "img": "https://den-cards.pokellector.com/261/Pancham.SM9.81.26574.png",
+      "rarity": "Common",
+      "cardNum": "81/181"
+    },
+    {
+      "name": "Lycanroc GX",
+      "set": "Team Up",
+      "img": "https://den-cards.pokellector.com/261/Lycanroc-GX.SM9.82.26575.png",
+      "rarity": "Rare",
+      "cardNum": "82/181"
+    },
+    {
+      "name": "Alolan Grimer",
+      "set": "Team Up",
+      "img": "https://den-cards.pokellector.com/261/Alolan-Grimer.SM9.83.26576.png",
+      "rarity": "Common",
+      "cardNum": "83/181"
+    },
+    {
+      "name": "Alolan Muk",
+      "set": "Team Up",
+      "img": "https://den-cards.pokellector.com/261/Alolan-Muk.SM9.84.26577.png",
+      "rarity": "Rare",
+      "cardNum": "84/181"
+    },
+    {
+      "name": "Tyranitar",
+      "set": "Team Up",
+      "img": "https://den-cards.pokellector.com/261/Tyranitar.SM9.85.26578.png",
+      "rarity": "Rare",
+      "cardNum": "85/181"
+    },
+    {
+      "name": "Poochyena",
+      "set": "Team Up",
+      "img": "https://den-cards.pokellector.com/261/Poochyena.SM9.86.26579.png",
+      "rarity": "Common",
+      "cardNum": "86/181"
+    },
+    {
+      "name": "Mightyena",
+      "set": "Team Up",
+      "img": "https://den-cards.pokellector.com/261/Mightyena.SM9.87.26580.png",
+      "rarity": "Rare",
+      "cardNum": "87/181"
+    },
+    {
+      "name": "Absol",
+      "set": "Team Up",
+      "img": "https://den-cards.pokellector.com/261/Absol.SM9.88.26581.png",
+      "rarity": "Rare",
+      "cardNum": "88/181"
+    },
+    {
+      "name": "Spiritomb",
+      "set": "Team Up",
+      "img": "https://den-cards.pokellector.com/261/Spiritomb.SM9.89.26582.png",
+      "rarity": "Uncommon",
+      "cardNum": "89/181"
+    },
+    {
+      "name": "Zorua",
+      "set": "Team Up",
+      "img": "https://den-cards.pokellector.com/261/Zorua.SM9.90.26583.png",
+      "rarity": "Common",
+      "cardNum": "90/181"
+    },
+    {
+      "name": "Zoroark",
+      "set": "Team Up",
+      "img": "https://den-cards.pokellector.com/261/Zoroark.SM9.91.26584.png",
+      "rarity": "Rare",
+      "cardNum": "91/181"
+    },
+    {
+      "name": "Vullaby",
+      "set": "Team Up",
+      "img": "https://den-cards.pokellector.com/261/Vullaby.SM9.92.26589.png",
+      "rarity": "Rare",
+      "cardNum": "92/181"
+    },
+    {
+      "name": "Mandibuzz",
+      "set": "Team Up",
+      "img": "https://den-cards.pokellector.com/261/Mandibuzz.SM9.93.26585.png",
+      "rarity": "Rare",
+      "cardNum": "93/181"
+    },
+    {
+      "name": "Pangoro",
+      "set": "Team Up",
+      "img": "https://den-cards.pokellector.com/261/Pangoro.SM9.94.26586.png",
+      "rarity": "Rare",
+      "cardNum": "94/181"
+    },
+    {
+      "name": "Yveltal",
+      "set": "Team Up",
+      "img": "https://den-cards.pokellector.com/261/Yveltal.SM9.95.26587.png",
+      "rarity": "Rare",
+      "cardNum": "95/181"
+    },
+    {
+      "name": "Hoopa GX",
+      "set": "Team Up",
+      "img": "https://den-cards.pokellector.com/261/Hoopa-GX.SM9.96.26588.png",
+      "rarity": "Rare",
+      "cardNum": "96/181"
+    },
+    {
+      "name": "Incineroar GX",
+      "set": "Team Up",
+      "img": "https://den-cards.pokellector.com/261/Inceneroar-GX.SM9.97.25582.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "97/181"
+    },
+    {
+      "name": "Skarmory",
+      "set": "Team Up",
+      "img": "https://den-cards.pokellector.com/261/Skarmory.SM9.98.26590.png",
+      "rarity": "Rare",
+      "cardNum": "98/181"
+    },
+    {
+      "name": "Jirachi",
+      "set": "Team Up",
+      "img": "https://den-cards.pokellector.com/261/Jirachi.SM9.99.26591.png",
+      "rarity": "Rare",
+      "cardNum": "99/181"
+    },
+    {
+      "name": "Bronzor",
+      "set": "Team Up",
+      "img": "https://den-cards.pokellector.com/261/Bronzor.SM9.100.26592.png",
+      "rarity": "Common",
+      "cardNum": "100/181"
+    },
+    {
+      "name": "Bronzong",
+      "set": "Team Up",
+      "img": "https://den-cards.pokellector.com/261/Bronzong.SM9.101.26593.png",
+      "rarity": "Rare",
+      "cardNum": "101/181"
+    },
+    {
+      "name": "Ferroseed",
+      "set": "Team Up",
+      "img": "https://den-cards.pokellector.com/261/Ferroseed.SM9.102.26594.png",
+      "rarity": "Common",
+      "cardNum": "102/181"
+    },
+    {
+      "name": "Ferrothorn",
+      "set": "Team Up",
+      "img": "https://den-cards.pokellector.com/261/Ferrothorn.SM9.103.26595.png",
+      "rarity": "Rare",
+      "cardNum": "103/181"
+    },
+    {
+      "name": "Pawniard",
+      "set": "Team Up",
+      "img": "https://den-cards.pokellector.com/261/Pawniard.SM9.104.26596.png",
+      "rarity": "Common",
+      "cardNum": "104/181"
+    },
+    {
+      "name": "Bisharp",
+      "set": "Team Up",
+      "img": "https://den-cards.pokellector.com/261/Bisharp.SM9.105.26597.png",
+      "rarity": "Rare",
+      "cardNum": "105/181"
+    },
+    {
+      "name": "Cobalion GX",
+      "set": "Team Up",
+      "img": "https://den-cards.pokellector.com/261/Cobalion-GX.SM9.106.26598.png",
+      "rarity": "Rare",
+      "cardNum": "106/181"
+    },
+    {
+      "name": "Honedge",
+      "set": "Team Up",
+      "img": "https://den-cards.pokellector.com/261/Honedge.SM9.107.26599.png",
+      "rarity": "Common",
+      "cardNum": "107/181"
+    },
+    {
+      "name": "Doublade",
+      "set": "Team Up",
+      "img": "https://den-cards.pokellector.com/261/Doublade.SM9.108.26600.png",
+      "rarity": "Uncommon",
+      "cardNum": "108/181"
+    },
+    {
+      "name": "Aegislash",
+      "set": "Team Up",
+      "img": "https://den-cards.pokellector.com/261/Aegislash.SM9.109.26601.png",
+      "rarity": "Rare",
+      "cardNum": "109/181"
+    },
+    {
+      "name": "Klefki",
+      "set": "Team Up",
+      "img": "https://den-cards.pokellector.com/261/Klefki.SM9.110.26602.png",
+      "rarity": "Common",
+      "cardNum": "110/181"
+    },
+    {
+      "name": "Alolan Ninetales",
+      "set": "Team Up",
+      "img": "https://den-cards.pokellector.com/261/Alolan-Ninetales.SM9.111.26603.png",
+      "rarity": "Rare",
+      "cardNum": "111/181"
+    },
+    {
+      "name": "Mimikyu",
+      "set": "Team Up",
+      "img": "https://den-cards.pokellector.com/261/Mimikyu.SM9.112.26604.png",
+      "rarity": "Rare",
+      "cardNum": "112/181"
+    },
+    {
+      "name": "Latias & Latios GX",
+      "set": "Team Up",
+      "img": "https://den-cards.pokellector.com/261/Latias-Latios-GX.SM9.113.25446.png",
+      "rarity": "Rare",
+      "cardNum": "113/181"
+    },
+    {
+      "name": "Alolan Exeggutor",
+      "set": "Team Up",
+      "img": "https://den-cards.pokellector.com/261/Alolan-Exeggutor.SM9.114.26605.png",
+      "rarity": "Rare",
+      "cardNum": "114/181"
+    },
+    {
+      "name": "Alolan Exeggutor",
+      "set": "Team Up",
+      "img": "https://den-cards.pokellector.com/261/Alolan-Exeggutor.SM9.115.26606.png",
+      "rarity": "Rare",
+      "cardNum": "115/181"
+    },
+    {
+      "name": "Dratini",
+      "set": "Team Up",
+      "img": "https://den-cards.pokellector.com/261/Dratini.SM9.116.26607.png",
+      "rarity": "Common",
+      "cardNum": "116/181"
+    },
+    {
+      "name": "Dratini",
+      "set": "Team Up",
+      "img": "https://den-cards.pokellector.com/261/Dratini.SM9.117.26608.png",
+      "rarity": "Common",
+      "cardNum": "117/181"
+    },
+    {
+      "name": "Dragonair",
+      "set": "Team Up",
+      "img": "https://den-cards.pokellector.com/261/Dragonair.SM9.118.26609.png",
+      "rarity": "Uncommon",
+      "cardNum": "118/181"
+    },
+    {
+      "name": "Dragonite",
+      "set": "Team Up",
+      "img": "https://den-cards.pokellector.com/261/Dragonite.SM9.119.26610.png",
+      "rarity": "Rare",
+      "cardNum": "119/181"
+    },
+    {
+      "name": "Eevee & Snorlax GX",
+      "set": "Team Up",
+      "img": "https://den-cards.pokellector.com/261/Eevee-Snorlax-GX.SM9.120.25431.png",
+      "rarity": "Rare",
+      "cardNum": "120/181"
+    },
+    {
+      "name": "Pidgey",
+      "set": "Team Up",
+      "img": "https://den-cards.pokellector.com/261/Pidgey.SM9.121.26611.png",
+      "rarity": "Common",
+      "cardNum": "121/181"
+    },
+    {
+      "name": "Pidgey",
+      "set": "Team Up",
+      "img": "https://den-cards.pokellector.com/261/Pidgey.SM9.122.26612.png",
+      "rarity": "Common",
+      "cardNum": "122/181"
+    },
+    {
+      "name": "Pidgeotto",
+      "set": "Team Up",
+      "img": "https://den-cards.pokellector.com/261/Pidgeotto.SM9.123.26613.png",
+      "rarity": "Common",
+      "cardNum": "123/181"
+    },
+    {
+      "name": "Pidgeot",
+      "set": "Team Up",
+      "img": "https://den-cards.pokellector.com/261/Pidgeot.SM9.124.26614.png",
+      "rarity": "Rare",
+      "cardNum": "124/181"
+    },
+    {
+      "name": "Meowth",
+      "set": "Team Up",
+      "img": "https://den-cards.pokellector.com/261/Meowth.SM9.125.26615.png",
+      "rarity": "Common",
+      "cardNum": "125/181"
+    },
+    {
+      "name": "Persian",
+      "set": "Team Up",
+      "img": "https://den-cards.pokellector.com/261/Persian.SM9.126.26616.png",
+      "rarity": "Uncommon",
+      "cardNum": "126/181"
+    },
+    {
+      "name": "Farfetch'd",
+      "set": "Team Up",
+      "img": "https://den-cards.pokellector.com/261/Farfetchd.SM9.127.26617.png",
+      "rarity": "Uncommon",
+      "cardNum": "127/181"
+    },
+    {
+      "name": "Kangaskhan",
+      "set": "Team Up",
+      "img": "https://den-cards.pokellector.com/261/Kangaskhan.SM9.128.26618.png",
+      "rarity": "Uncommon",
+      "cardNum": "128/181"
+    },
+    {
+      "name": "Tauros",
+      "set": "Team Up",
+      "img": "https://den-cards.pokellector.com/261/Tauros.SM9.129.26619.png",
+      "rarity": "Uncommon",
+      "cardNum": "129/181"
+    },
+    {
+      "name": "Aerodactyl",
+      "set": "Team Up",
+      "img": "https://den-cards.pokellector.com/261/Aerodactyl.SM9.130.26620.png",
+      "rarity": "Rare",
+      "cardNum": "130/181"
+    },
+    {
+      "name": "Lugia",
+      "set": "Team Up",
+      "img": "https://den-cards.pokellector.com/261/Lugia.SM9.131.26621.png",
+      "rarity": "Rare",
+      "cardNum": "131/181"
+    },
+    {
+      "name": "Zangoose",
+      "set": "Team Up",
+      "img": "https://den-cards.pokellector.com/261/Zangoose.SM9.132.26622.png",
+      "rarity": "Rare",
+      "cardNum": "132/181"
+    },
+    {
+      "name": "Bill's Analysis",
+      "set": "Team Up",
+      "img": "https://den-cards.pokellector.com/261/Bills-Analysis.SM9.133.26623.png",
+      "rarity": "Rare",
+      "cardNum": "133/181"
+    },
+    {
+      "name": "Black Market",
+      "set": "Team Up",
+      "img": "https://den-cards.pokellector.com/261/Black-Market.SM9.134.26624.png",
+      "rarity": "Rare",
+      "cardNum": "134/181"
+    },
+    {
+      "name": "Brock's Grit",
+      "set": "Team Up",
+      "img": "https://den-cards.pokellector.com/261/Brocks-Grit.SM9.135.26625.png",
+      "rarity": "Uncommon",
+      "cardNum": "135/181"
+    },
+    {
+      "name": "Buff Padding",
+      "set": "Team Up",
+      "img": "https://den-cards.pokellector.com/261/Buff-Padding.SM9.136.26626.png",
+      "rarity": "Uncommon",
+      "cardNum": "136/181"
+    },
+    {
+      "name": "Dana",
+      "set": "Team Up",
+      "img": "https://den-cards.pokellector.com/261/Dana.SM9.137.26627.png",
+      "rarity": "Uncommon",
+      "cardNum": "137/181"
+    },
+    {
+      "name": "Dangerous Drill",
+      "set": "Team Up",
+      "img": "https://den-cards.pokellector.com/261/Dangerous-Drill.SM9.138.26628.png",
+      "rarity": "Uncommon",
+      "cardNum": "138/181"
+    },
+    {
+      "name": "Electrocharger",
+      "set": "Team Up",
+      "img": "https://den-cards.pokellector.com/261/Electrocharger.SM9.139.26629.png",
+      "rarity": "Uncommon",
+      "cardNum": "139/181"
+    },
+    {
+      "name": "Erika's Hospitality",
+      "set": "Team Up",
+      "img": "https://den-cards.pokellector.com/261/Erikas-Hospitality.SM9.140.25583.png",
+      "rarity": "Rare",
+      "cardNum": "140/181"
+    },
+    {
+      "name": "Evelyn",
+      "set": "Team Up",
+      "img": "https://den-cards.pokellector.com/261/Evelyn.SM9.141.26630.png",
+      "rarity": "Uncommon",
+      "cardNum": "141/181"
+    },
+    {
+      "name": "Fairy Charm UB",
+      "set": "Team Up",
+      "img": "https://den-cards.pokellector.com/261/Fairy-Charm-UB.SM9.142.26631.png",
+      "rarity": "Uncommon",
+      "cardNum": "142/181"
+    },
+    {
+      "name": "Grass Memory",
+      "set": "Team Up",
+      "img": "https://den-cards.pokellector.com/261/Grass-Memory.SM9.143.26632.png",
+      "rarity": "Uncommon",
+      "cardNum": "143/181"
+    },
+    {
+      "name": "Ingo & Emmet",
+      "set": "Team Up",
+      "img": "https://den-cards.pokellector.com/261/Ingo-Emmet.SM9.144.26633.png",
+      "rarity": "Uncommon",
+      "cardNum": "144/181"
+    },
+    {
+      "name": "Jasmine",
+      "set": "Team Up",
+      "img": "https://den-cards.pokellector.com/261/Jasmine.SM9.145.26634.png",
+      "rarity": "Uncommon",
+      "cardNum": "145/181"
+    },
+    {
+      "name": "Judge Whistle",
+      "set": "Team Up",
+      "img": "https://den-cards.pokellector.com/261/Judge-Whistle.SM9.146.26635.png",
+      "rarity": "Uncommon",
+      "cardNum": "146/181"
+    },
+    {
+      "name": "Lavender Town",
+      "set": "Team Up",
+      "img": "https://den-cards.pokellector.com/261/Lavender-Town.SM9.147.26636.png",
+      "rarity": "Uncommon",
+      "cardNum": "147/181"
+    },
+    {
+      "name": "Metal Goggles",
+      "set": "Team Up",
+      "img": "https://den-cards.pokellector.com/261/Metal-Goggles.SM9.148.26637.png",
+      "rarity": "Uncommon",
+      "cardNum": "148/181"
+    },
+    {
+      "name": "Morgan",
+      "set": "Team Up",
+      "img": "https://den-cards.pokellector.com/261/Morgan.SM9.149.26638.png",
+      "rarity": "Uncommon",
+      "cardNum": "149/181"
+    },
+    {
+      "name": "Nanu",
+      "set": "Team Up",
+      "img": "https://den-cards.pokellector.com/261/Nanu.SM9.150.26639.png",
+      "rarity": "Uncommon",
+      "cardNum": "150/181"
+    },
+    {
+      "name": "Nita",
+      "set": "Team Up",
+      "img": "https://den-cards.pokellector.com/261/Nita.SM9.151.26640.png",
+      "rarity": "Uncommon",
+      "cardNum": "151/181"
+    },
+    {
+      "name": "Pokemon Communication",
+      "set": "Team Up",
+      "img": "https://den-cards.pokellector.com/261/Pokemon-Communication.SM9.152.25657.png",
+      "rarity": "Uncommon",
+      "cardNum": "152/181"
+    },
+    {
+      "name": "Return Label",
+      "set": "Team Up",
+      "img": "https://den-cards.pokellector.com/261/Return-Label.SM9.153.26641.png",
+      "rarity": "Uncommon",
+      "cardNum": "153/181"
+    },
+    {
+      "name": "Sabrina's Suggestion",
+      "set": "Team Up",
+      "img": "https://den-cards.pokellector.com/261/Sabrinas-Suggestion.SM9.154.26642.png",
+      "rarity": "Uncommon",
+      "cardNum": "154/181"
+    },
+    {
+      "name": "Unidentified Fossil",
+      "set": "Team Up",
+      "img": "https://den-cards.pokellector.com/261/Unidentified-Fossil.SM9.155.26643.png",
+      "rarity": "Uncommon",
+      "cardNum": "155/181"
+    },
+    {
+      "name": "Viridian Forest",
+      "set": "Team Up",
+      "img": "https://den-cards.pokellector.com/261/Viridian-Forest.SM9.156.26644.png",
+      "rarity": "Uncommon",
+      "cardNum": "156/181"
+    },
+    {
+      "name": "Water Memory",
+      "set": "Team Up",
+      "img": "https://den-cards.pokellector.com/261/Water-Memory.SM9.157.26645.png",
+      "rarity": "Uncommon",
+      "cardNum": "157/181"
+    },
+    {
+      "name": "Wondrous Labyrinth",
+      "set": "Team Up",
+      "img": "https://den-cards.pokellector.com/261/Wondrous-Labyrinth.SM9.158.26646.png",
+      "rarity": "Rare",
+      "cardNum": "158/181"
+    },
+    {
+      "name": "Celebi & Venusaur GX",
+      "set": "Team Up",
+      "img": "https://den-cards.pokellector.com/261/Celebi-Venusaur-GX.SM9.159.26647.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "159/181"
+    },
+    {
+      "name": "Magikarp & Wailord GX",
+      "set": "Team Up",
+      "img": "https://den-cards.pokellector.com/261/Magikarp-Wailord-GX.SM9.160.26648.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "160/181"
+    },
+    {
+      "name": "Magikarp & Wailord GX",
+      "set": "Team Up",
+      "img": "https://den-cards.pokellector.com/261/Magikarp-Wailord-GX.SM9.161.26649.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "161/181"
+    },
+    {
+      "name": "Pikachu & Zekrom GX",
+      "set": "Team Up",
+      "img": "https://den-cards.pokellector.com/261/Pikachu-Zekrom-GX.SM9.162.26650.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "162/181"
+    },
+    {
+      "name": "Ampharos GX",
+      "set": "Team Up",
+      "img": "https://den-cards.pokellector.com/261/Ampharos-GX.SM9.163.26651.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "163/181"
+    },
+    {
+      "name": "Gengar & Mimikyu GX",
+      "set": "Team Up",
+      "img": "https://den-cards.pokellector.com/261/Gengar-Mimikyu-GX.SM9.164.26652.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "164/181"
+    },
+    {
+      "name": "Gengar & Mimikyu GX",
+      "set": "Team Up",
+      "img": "https://den-cards.pokellector.com/261/Gengar-Mimikyu-GX.SM9.165.26653.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "165/181"
+    },
+    {
+      "name": "Hoopa GX",
+      "set": "Team Up",
+      "img": "https://den-cards.pokellector.com/261/Hoopa-GX.SM9.166.26654.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "166/181"
+    },
+    {
+      "name": "Incineroar GX",
+      "set": "Team Up",
+      "img": "https://den-cards.pokellector.com/261/Incineroar-GX.SM9.167.26655.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "167/181"
+    },
+    {
+      "name": "Cobalion GX",
+      "set": "Team Up",
+      "img": "https://den-cards.pokellector.com/261/Cobalion-GX.SM9.168.26656.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "168/181"
+    },
+    {
+      "name": "Latias & Latios GX",
+      "set": "Team Up",
+      "img": "https://den-cards.pokellector.com/261/Latias-Latios-GX.SM9.169.26657.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "169/181"
+    },
+    {
+      "name": "Latias & Latios GX",
+      "set": "Team Up",
+      "img": "https://den-cards.pokellector.com/261/Latias-Latios-GX.SM9.170.26658.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "170/181"
+    },
+    {
+      "name": "Eevee & Snorlax GX",
+      "set": "Team Up",
+      "img": "https://den-cards.pokellector.com/261/Eevee-Snorlax-GX.SM9.171.26659.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "171/181"
+    },
+    {
+      "name": "Brock's Grit",
+      "set": "Team Up",
+      "img": "https://den-cards.pokellector.com/261/Brocks-Grit.SM9.172.26660.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "172/181"
+    },
+    {
+      "name": "Dana",
+      "set": "Team Up",
+      "img": "https://den-cards.pokellector.com/261/Dana.SM9.173.26661.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "173/181"
+    },
+    {
+      "name": "Erika's Hospitality",
+      "set": "Team Up",
+      "img": "https://den-cards.pokellector.com/261/Erikas-Hospitality.SM9.174.26662.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "174/181"
+    },
+    {
+      "name": "Evelyn",
+      "set": "Team Up",
+      "img": "https://den-cards.pokellector.com/261/Evelyn.SM9.175.26663.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "175/181"
+    },
+    {
+      "name": "Ingo & Emmet",
+      "set": "Team Up",
+      "img": "https://den-cards.pokellector.com/261/Ingo-Emmet.SM9.176.26664.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "176/181"
+    },
+    {
+      "name": "Jasmine",
+      "set": "Team Up",
+      "img": "https://den-cards.pokellector.com/261/Jasmine.SM9.177.26665.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "177/181"
+    },
+    {
+      "name": "Morgan",
+      "set": "Team Up",
+      "img": "https://den-cards.pokellector.com/261/Morgan.SM9.178.26666.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "178/181"
+    },
+    {
+      "name": "Nanu",
+      "set": "Team Up",
+      "img": "https://den-cards.pokellector.com/261/Nanu.SM9.179.26667.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "179/181"
+    },
+    {
+      "name": "Nita",
+      "set": "Team Up",
+      "img": "https://den-cards.pokellector.com/261/Nita.SM9.180.26668.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "180/181"
+    },
+    {
+      "name": "Sabrina's Suggestion",
+      "set": "Team Up",
+      "img": "https://den-cards.pokellector.com/261/Sabrinas-Suggestion.SM9.181.26669.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "181/181"
+    },
+    {
+      "name": "Celebi & Venusaur GX",
+      "set": "Team Up",
+      "img": "https://den-cards.pokellector.com/261/Celebi-Venusaur-GX.SM9.182.26670.png",
+      "rarity": "Secret Rare",
+      "cardNum": "182/181"
+    },
+    {
+      "name": "Magikarp & Wailord GX",
+      "set": "Team Up",
+      "img": "https://den-cards.pokellector.com/261/Magikarp-Wailord-GX.SM9.183.26671.png",
+      "rarity": "Secret Rare",
+      "cardNum": "183/181"
+    },
+    {
+      "name": "Pikachu & Zekrom GX",
+      "set": "Team Up",
+      "img": "https://den-cards.pokellector.com/261/Pikachu-Zekrom-GX.SM9.184.26672.png",
+      "rarity": "Secret Rare",
+      "cardNum": "184/181"
+    },
+    {
+      "name": "Ampharos GX",
+      "set": "Team Up",
+      "img": "https://den-cards.pokellector.com/261/Ampharos-GX.SM9.185.26673.png",
+      "rarity": "Secret Rare",
+      "cardNum": "185/181"
+    },
+    {
+      "name": "Gengar & Mimikyu GX",
+      "set": "Team Up",
+      "img": "https://den-cards.pokellector.com/261/Gengar-Mimikyu-GX.SM9.186.26674.png",
+      "rarity": "Secret Rare",
+      "cardNum": "186/181"
+    },
+    {
+      "name": "Hoopa GX",
+      "set": "Team Up",
+      "img": "https://den-cards.pokellector.com/261/Hoopa-GX.SM9.187.26675.png",
+      "rarity": "Secret Rare",
+      "cardNum": "187/181"
+    },
+    {
+      "name": "Incineroar GX",
+      "set": "Team Up",
+      "img": "https://den-cards.pokellector.com/261/Incineroar-GX.SM9.188.26676.png",
+      "rarity": "Secret Rare",
+      "cardNum": "188/181"
+    },
+    {
+      "name": "Cobalion GX",
+      "set": "Team Up",
+      "img": "https://den-cards.pokellector.com/261/Cobalion-GX.SM9.189.26677.png",
+      "rarity": "Secret Rare",
+      "cardNum": "189/181"
+    },
+    {
+      "name": "Latias & Latios GX",
+      "set": "Team Up",
+      "img": "https://den-cards.pokellector.com/261/Latias-Latios-GX.SM9.190.26678.png",
+      "rarity": "Secret Rare",
+      "cardNum": "190/181"
+    },
+    {
+      "name": "Eevee & Snorlax GX",
+      "set": "Team Up",
+      "img": "https://den-cards.pokellector.com/261/Eevee-Snorlax-GX.SM9.191.26679.png",
+      "rarity": "Secret Rare",
+      "cardNum": "191/181"
+    },
+    {
+      "name": "Dangerous Drill",
+      "set": "Team Up",
+      "img": "https://den-cards.pokellector.com/261/Dangerous-Drill.SM9.192.26680.png",
+      "rarity": "Secret Rare",
+      "cardNum": "192/181"
+    },
+    {
+      "name": "Electrocharger",
+      "set": "Team Up",
+      "img": "https://den-cards.pokellector.com/261/Electrocharger.SM9.193.26681.png",
+      "rarity": "Secret Rare",
+      "cardNum": "193/181"
+    },
+    {
+      "name": "Judge Whistle",
+      "set": "Team Up",
+      "img": "https://den-cards.pokellector.com/261/Judge-Whistle.SM9.194.26682.png",
+      "rarity": "Secret Rare",
+      "cardNum": "194/181"
+    },
+    {
+      "name": "Metal Goggles",
+      "set": "Team Up",
+      "img": "https://den-cards.pokellector.com/261/Metal-Goggles.SM9.195.26683.png",
+      "rarity": "Secret Rare",
+      "cardNum": "195/181"
+    },
+    {
+      "name": "Pokémon Communication",
+      "set": "Team Up",
+      "img": "https://den-cards.pokellector.com/261/Pokmon-Communication.SM9.196.26684.png",
+      "rarity": "Secret Rare",
+      "cardNum": "196/181"
+    },
+    {
+      "name": "Steel Energy",
+      "set": "Team Up",
+      "img": "https://den-cards.pokellector.com/261/Steel-Energy.SM9.0.37218.png",
+      "rarity": "Common",
+      "cardNum": ""
+    },
+    {
+      "name": "Dark Energy",
+      "set": "Team Up",
+      "img": "https://den-cards.pokellector.com/261/Dark-Energy.SM9.0.37217.png",
+      "rarity": "Common",
+      "cardNum": ""
+    },
+    {
+      "name": "Fighting Energy",
+      "set": "Team Up",
+      "img": "https://den-cards.pokellector.com/261/Fighting-Energy.SM9.0.37216.png",
+      "rarity": "Common",
+      "cardNum": ""
+    },
+    {
+      "name": "Psychic Energy",
+      "set": "Team Up",
+      "img": "https://den-cards.pokellector.com/261/Psychic-Energy.SM9.0.37215.png",
+      "rarity": "Common",
+      "cardNum": ""
+    },
+    {
+      "name": "Electric Energy",
+      "set": "Team Up",
+      "img": "https://den-cards.pokellector.com/261/Electric-Energy.SM9.0.37214.png",
+      "rarity": "Common",
+      "cardNum": ""
+    },
+    {
+      "name": "Water Energy",
+      "set": "Team Up",
+      "img": "https://den-cards.pokellector.com/261/Water-Energy.SM9.0.37213.png",
+      "rarity": "Common",
+      "cardNum": ""
+    },
+    {
+      "name": "Fire Energy",
+      "set": "Team Up",
+      "img": "https://den-cards.pokellector.com/261/Grass-Energy.SM9.0.37212.png",
+      "rarity": "Common",
+      "cardNum": ""
+    },
+    {
+      "name": "Grass Energy",
+      "set": "Team Up",
+      "img": "https://den-cards.pokellector.com/261/Grass-Energy.SM9.0.37211.png",
+      "rarity": "Common",
+      "cardNum": ""
+    },
+    {
+      "name": "Fairy Energy",
+      "set": "Team Up",
+      "img": "https://den-cards.pokellector.com/261/Fairy-Energy.SM9.0.37219.png",
+      "rarity": "Common",
+      "cardNum": ""
+    }
+  ]
+}

@@ -1,0 +1,607 @@
+{
+  "setName": "Explosive Flame Walker",
+  "cards": [
+    {
+      "name": "Butterfree V",
+      "set": "Explosive Flame Walker",
+      "img": "https://den-cards.pokellector.com/295/Butterfree-V.S2A.1.34363.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "1/70"
+    },
+    {
+      "name": "Butterfree VMAX",
+      "set": "Explosive Flame Walker",
+      "img": "https://den-cards.pokellector.com/295/Butterfree-VMAX.S2A.2.34364.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "2/70"
+    },
+    {
+      "name": "Karrablast",
+      "set": "Explosive Flame Walker",
+      "img": "https://den-cards.pokellector.com/295/Karrablast.S2A.3.34369.png",
+      "rarity": "Common",
+      "cardNum": "3/70"
+    },
+    {
+      "name": "Shelmet",
+      "set": "Explosive Flame Walker",
+      "img": "https://den-cards.pokellector.com/295/Shelmet.S2A.4.34370.png",
+      "rarity": "Common",
+      "cardNum": "4/70"
+    },
+    {
+      "name": "Accelgor",
+      "set": "Explosive Flame Walker",
+      "img": "https://den-cards.pokellector.com/295/Accelgor.S2A.5.34371.png",
+      "rarity": "Uncommon",
+      "cardNum": "5/70"
+    },
+    {
+      "name": "Bounsweet",
+      "set": "Explosive Flame Walker",
+      "img": "https://den-cards.pokellector.com/295/Bounsweet.S2A.6.34372.png",
+      "rarity": "Common",
+      "cardNum": "6/70"
+    },
+    {
+      "name": "Steenee",
+      "set": "Explosive Flame Walker",
+      "img": "https://den-cards.pokellector.com/295/Steenee.S2A.7.34373.png",
+      "rarity": "Common",
+      "cardNum": "7/70"
+    },
+    {
+      "name": "Tsareena",
+      "set": "Explosive Flame Walker",
+      "img": "https://den-cards.pokellector.com/295/Tsareena.S2A.8.34374.png",
+      "rarity": "Uncommon",
+      "cardNum": "8/70"
+    },
+    {
+      "name": "Wimpod",
+      "set": "Explosive Flame Walker",
+      "img": "https://den-cards.pokellector.com/295/Wimpod.S2A.9.34375.png",
+      "rarity": "Common",
+      "cardNum": "9/70"
+    },
+    {
+      "name": "Golisopod",
+      "set": "Explosive Flame Walker",
+      "img": "https://den-cards.pokellector.com/295/Golisopod.S2A.10.34376.png",
+      "rarity": "Rare",
+      "cardNum": "10/70"
+    },
+    {
+      "name": "Heatran",
+      "set": "Explosive Flame Walker",
+      "img": "https://den-cards.pokellector.com/295/Heatran.S2A.11.34377.png",
+      "rarity": "Rare",
+      "cardNum": "11/70"
+    },
+    {
+      "name": "Larvesta",
+      "set": "Explosive Flame Walker",
+      "img": "https://den-cards.pokellector.com/295/Larvesta.S2A.12.34378.png",
+      "rarity": "Common",
+      "cardNum": "12/70"
+    },
+    {
+      "name": "Volcarona",
+      "set": "Explosive Flame Walker",
+      "img": "https://den-cards.pokellector.com/295/Volcarona.S2A.13.34379.png",
+      "rarity": "Uncommon",
+      "cardNum": "13/70"
+    },
+    {
+      "name": "Fletchinder",
+      "set": "Explosive Flame Walker",
+      "img": "https://den-cards.pokellector.com/295/Fletchinder.S2A.14.34380.png",
+      "rarity": "Common",
+      "cardNum": "14/70"
+    },
+    {
+      "name": "Talonflame",
+      "set": "Explosive Flame Walker",
+      "img": "https://den-cards.pokellector.com/295/Talonflame.S2A.15.34381.png",
+      "rarity": "Uncommon",
+      "cardNum": "15/70"
+    },
+    {
+      "name": "Centiscorch V",
+      "set": "Explosive Flame Walker",
+      "img": "https://den-cards.pokellector.com/295/Centiscorch-V.S2A.16.34311.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "16/70"
+    },
+    {
+      "name": "Centiscorch VMAX",
+      "set": "Explosive Flame Walker",
+      "img": "https://den-cards.pokellector.com/295/Centiscorch-VMAX.S2A.17.34310.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "17/70"
+    },
+    {
+      "name": "Galarian Mr. Mime",
+      "set": "Explosive Flame Walker",
+      "img": "https://den-cards.pokellector.com/295/Galarian-Mr-Mime.S2A.18.34382.png",
+      "rarity": "Common",
+      "cardNum": "18/70"
+    },
+    {
+      "name": "Galarian Mr. Rime",
+      "set": "Explosive Flame Walker",
+      "img": "https://den-cards.pokellector.com/295/Galarian-Mr-Rime.S2A.19.34365.png",
+      "rarity": "Uncommon",
+      "cardNum": "19/70"
+    },
+    {
+      "name": "Feebas",
+      "set": "Explosive Flame Walker",
+      "img": "https://den-cards.pokellector.com/295/Feebas.S2A.20.34383.png",
+      "rarity": "Common",
+      "cardNum": "20/70"
+    },
+    {
+      "name": "Milotic",
+      "set": "Explosive Flame Walker",
+      "img": "https://den-cards.pokellector.com/295/Milotic.S2A.21.34384.png",
+      "rarity": "Rare",
+      "cardNum": "21/70"
+    },
+    {
+      "name": "Cubchoo",
+      "set": "Explosive Flame Walker",
+      "img": "https://den-cards.pokellector.com/295/Cubchoo.S2A.22.34385.png",
+      "rarity": "Common",
+      "cardNum": "22/70"
+    },
+    {
+      "name": "Beartic",
+      "set": "Explosive Flame Walker",
+      "img": "https://den-cards.pokellector.com/295/Beartic.S2A.23.34386.png",
+      "rarity": "Uncommon",
+      "cardNum": "23/70"
+    },
+    {
+      "name": "Wishiwashi",
+      "set": "Explosive Flame Walker",
+      "img": "https://den-cards.pokellector.com/295/Wishiwashi.S2A.24.34387.png",
+      "rarity": "Common",
+      "cardNum": "24/70"
+    },
+    {
+      "name": "Vikavolt V",
+      "set": "Explosive Flame Walker",
+      "img": "https://den-cards.pokellector.com/295/Vikavolt-V.S2A.25.34388.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "25/70"
+    },
+    {
+      "name": "Toxel",
+      "set": "Explosive Flame Walker",
+      "img": "https://den-cards.pokellector.com/295/Toxel.S2A.26.34389.png",
+      "rarity": "Common",
+      "cardNum": "26/70"
+    },
+    {
+      "name": "Toxtricity",
+      "set": "Explosive Flame Walker",
+      "img": "https://den-cards.pokellector.com/295/Toxtricity.S2A.27.34390.png",
+      "rarity": "Rare",
+      "cardNum": "27/70"
+    },
+    {
+      "name": "Snubbull",
+      "set": "Explosive Flame Walker",
+      "img": "https://den-cards.pokellector.com/295/Snubbull.S2A.28.34391.png",
+      "rarity": "Common",
+      "cardNum": "28/70"
+    },
+    {
+      "name": "Granbull",
+      "set": "Explosive Flame Walker",
+      "img": "https://den-cards.pokellector.com/295/Granbull.S2A.29.34392.png",
+      "rarity": "Uncommon",
+      "cardNum": "29/70"
+    },
+    {
+      "name": "Gardevoir V",
+      "set": "Explosive Flame Walker",
+      "img": "https://den-cards.pokellector.com/295/Gardevoir-V.S2A.30.34313.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "30/70"
+    },
+    {
+      "name": "Gardevoir VMAX",
+      "set": "Explosive Flame Walker",
+      "img": "https://den-cards.pokellector.com/295/Gardevoir-VMAX.S2A.31.34309.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "31/70"
+    },
+    {
+      "name": "Lunatone",
+      "set": "Explosive Flame Walker",
+      "img": "https://den-cards.pokellector.com/295/Lunatone.S2A.32.34393.png",
+      "rarity": "Uncommon",
+      "cardNum": "32/70"
+    },
+    {
+      "name": "Dedenne",
+      "set": "Explosive Flame Walker",
+      "img": "https://den-cards.pokellector.com/295/Dedenne.S2A.33.34366.png",
+      "rarity": "Common",
+      "cardNum": "33/70"
+    },
+    {
+      "name": "Morelull",
+      "set": "Explosive Flame Walker",
+      "img": "https://den-cards.pokellector.com/295/Morelull.S2A.34.34394.png",
+      "rarity": "Common",
+      "cardNum": "34/70"
+    },
+    {
+      "name": "Shiinotic",
+      "set": "Explosive Flame Walker",
+      "img": "https://den-cards.pokellector.com/295/Shiinotic.S2A.35.34395.png",
+      "rarity": "Uncommon",
+      "cardNum": "35/70"
+    },
+    {
+      "name": "Sinistea",
+      "set": "Explosive Flame Walker",
+      "img": "https://den-cards.pokellector.com/295/Sinistea.S2A.36.34396.png",
+      "rarity": "Common",
+      "cardNum": "36/70"
+    },
+    {
+      "name": "Polteageist",
+      "set": "Explosive Flame Walker",
+      "img": "https://den-cards.pokellector.com/295/Polteageist.S2A.37.34367.png",
+      "rarity": "Uncommon",
+      "cardNum": "37/70"
+    },
+    {
+      "name": "Diglett",
+      "set": "Explosive Flame Walker",
+      "img": "https://den-cards.pokellector.com/295/Diglett.S2A.38.34397.png",
+      "rarity": "Common",
+      "cardNum": "38/70"
+    },
+    {
+      "name": "Dugtrio",
+      "set": "Explosive Flame Walker",
+      "img": "https://den-cards.pokellector.com/295/Dugtrio.S2A.39.34398.png",
+      "rarity": "Common",
+      "cardNum": "39/70"
+    },
+    {
+      "name": "Larvitar",
+      "set": "Explosive Flame Walker",
+      "img": "https://den-cards.pokellector.com/295/Larvitar.S2A.40.34399.png",
+      "rarity": "Common",
+      "cardNum": "40/70"
+    },
+    {
+      "name": "Pupitar",
+      "set": "Explosive Flame Walker",
+      "img": "https://den-cards.pokellector.com/295/Pupitar.S2A.41.34360.png",
+      "rarity": "Common",
+      "cardNum": "41/70"
+    },
+    {
+      "name": "Tyranitar",
+      "set": "Explosive Flame Walker",
+      "img": "https://den-cards.pokellector.com/295/Tyranitar.S2A.42.34361.png",
+      "rarity": "Rare",
+      "cardNum": "42/70"
+    },
+    {
+      "name": "Solrock",
+      "set": "Explosive Flame Walker",
+      "img": "https://den-cards.pokellector.com/295/Solrock.S2A.43.34400.png",
+      "rarity": "Uncommon",
+      "cardNum": "43/70"
+    },
+    {
+      "name": "Diggersby",
+      "set": "Explosive Flame Walker",
+      "img": "https://den-cards.pokellector.com/295/Diggersby.S2A.44.34401.png",
+      "rarity": "Uncommon",
+      "cardNum": "44/70"
+    },
+    {
+      "name": "Grapploct V",
+      "set": "Explosive Flame Walker",
+      "img": "https://den-cards.pokellector.com/295/Grapploct-V.S2A.45.34402.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "45/70"
+    },
+    {
+      "name": "Grimer",
+      "set": "Explosive Flame Walker",
+      "img": "https://den-cards.pokellector.com/295/Grimer.S2A.46.34403.png",
+      "rarity": "Common",
+      "cardNum": "46/70"
+    },
+    {
+      "name": "Muk",
+      "set": "Explosive Flame Walker",
+      "img": "https://den-cards.pokellector.com/295/Muk.S2A.47.34404.png",
+      "rarity": "Uncommon",
+      "cardNum": "47/70"
+    },
+    {
+      "name": "Darkrai",
+      "set": "Explosive Flame Walker",
+      "img": "https://den-cards.pokellector.com/295/Darkrai.S2A.48.34405.png",
+      "rarity": "Rare",
+      "cardNum": "48/70"
+    },
+    {
+      "name": "Purrloin",
+      "set": "Explosive Flame Walker",
+      "img": "https://den-cards.pokellector.com/295/Purrloin.S2A.49.34406.png",
+      "rarity": "Common",
+      "cardNum": "49/70"
+    },
+    {
+      "name": "Liepard",
+      "set": "Explosive Flame Walker",
+      "img": "https://den-cards.pokellector.com/295/Liepard.S2A.50.34407.png",
+      "rarity": "Uncommon",
+      "cardNum": "50/70"
+    },
+    {
+      "name": "Aron",
+      "set": "Explosive Flame Walker",
+      "img": "https://den-cards.pokellector.com/295/Aron.S2A.51.34408.png",
+      "rarity": "Common",
+      "cardNum": "51/70"
+    },
+    {
+      "name": "Lairon",
+      "set": "Explosive Flame Walker",
+      "img": "https://den-cards.pokellector.com/295/Lairon.S2A.52.34409.png",
+      "rarity": "Common",
+      "cardNum": "52/70"
+    },
+    {
+      "name": "Aggron",
+      "set": "Explosive Flame Walker",
+      "img": "https://den-cards.pokellector.com/295/Aggron.S2A.53.34410.png",
+      "rarity": "Rare",
+      "cardNum": "53/70"
+    },
+    {
+      "name": "Escavalier",
+      "set": "Explosive Flame Walker",
+      "img": "https://den-cards.pokellector.com/295/Escavalier.S2A.54.34411.png",
+      "rarity": "Uncommon",
+      "cardNum": "54/70"
+    },
+    {
+      "name": "Galarian Stunfisk V",
+      "set": "Explosive Flame Walker",
+      "img": "https://den-cards.pokellector.com/295/Galarian-Stunfisk-V.S2A.55.34412.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "55/70"
+    },
+    {
+      "name": "Sentret",
+      "set": "Explosive Flame Walker",
+      "img": "https://den-cards.pokellector.com/295/Sentret.S2A.56.34413.png",
+      "rarity": "Common",
+      "cardNum": "56/70"
+    },
+    {
+      "name": "Furret",
+      "set": "Explosive Flame Walker",
+      "img": "https://den-cards.pokellector.com/295/Furret.S2A.57.34414.png",
+      "rarity": "Common",
+      "cardNum": "57/70"
+    },
+    {
+      "name": "Bunnelby",
+      "set": "Explosive Flame Walker",
+      "img": "https://den-cards.pokellector.com/295/Bunnelby.S2A.58.34368.png",
+      "rarity": "Common",
+      "cardNum": "58/70"
+    },
+    {
+      "name": "Fletchling",
+      "set": "Explosive Flame Walker",
+      "img": "https://den-cards.pokellector.com/295/Fletchling.S2A.59.34415.png",
+      "rarity": "Common",
+      "cardNum": "59/70"
+    },
+    {
+      "name": "Rookidee",
+      "set": "Explosive Flame Walker",
+      "img": "https://den-cards.pokellector.com/295/Rookidee.S2A.60.34416.png",
+      "rarity": "Common",
+      "cardNum": "60/70"
+    },
+    {
+      "name": "Corvisquire",
+      "set": "Explosive Flame Walker",
+      "img": "https://den-cards.pokellector.com/295/Corvisquire.S2A.61.34417.png",
+      "rarity": "Common",
+      "cardNum": "61/70"
+    },
+    {
+      "name": "Corviknight",
+      "set": "Explosive Flame Walker",
+      "img": "https://den-cards.pokellector.com/295/Corviknight.S2A.62.34418.png",
+      "rarity": "Rare",
+      "cardNum": "62/70"
+    },
+    {
+      "name": "Odd Canned Food",
+      "set": "Explosive Flame Walker",
+      "img": "https://den-cards.pokellector.com/295/Odd-Canned-Food.S2A.63.34314.png",
+      "rarity": "Uncommon",
+      "cardNum": "63/70"
+    },
+    {
+      "name": "Lookalike Bell",
+      "set": "Explosive Flame Walker",
+      "img": "https://den-cards.pokellector.com/295/Lookalike-Bell.S2A.64.34419.png",
+      "rarity": "Uncommon",
+      "cardNum": "64/70"
+    },
+    {
+      "name": "Old Computer",
+      "set": "Explosive Flame Walker",
+      "img": "https://den-cards.pokellector.com/295/Old-Computer.S2A.65.34420.png",
+      "rarity": "Uncommon",
+      "cardNum": "65/70"
+    },
+    {
+      "name": "Big Parasol",
+      "set": "Explosive Flame Walker",
+      "img": "https://den-cards.pokellector.com/295/Big-Parasol.S2A.66.34421.png",
+      "rarity": "Uncommon",
+      "cardNum": "66/70"
+    },
+    {
+      "name": "Kabu",
+      "set": "Explosive Flame Walker",
+      "img": "https://den-cards.pokellector.com/295/Kabu.S2A.67.34422.png",
+      "rarity": "Uncommon",
+      "cardNum": "67/70"
+    },
+    {
+      "name": "Pokemon Breeder's Training",
+      "set": "Explosive Flame Walker",
+      "img": "https://den-cards.pokellector.com/295/Pokeacutemon-Breeders-Training.S2A.68.34423.png",
+      "rarity": "Uncommon",
+      "cardNum": "68/70"
+    },
+    {
+      "name": "Glimwood Tangle",
+      "set": "Explosive Flame Walker",
+      "img": "https://den-cards.pokellector.com/295/Glimwood-Tangle.S2A.69.34424.png",
+      "rarity": "Uncommon",
+      "cardNum": "69/70"
+    },
+    {
+      "name": "Heat Fire Energy",
+      "set": "Explosive Flame Walker",
+      "img": "https://den-cards.pokellector.com/295/Heat-Fire-Energy.S2A.70.34312.png",
+      "rarity": "Uncommon",
+      "cardNum": "70/70"
+    },
+    {
+      "name": "Butterfree V",
+      "set": "Explosive Flame Walker",
+      "img": "https://den-cards.pokellector.com/295/Butterfree-V.S2A.71.34611.png",
+      "rarity": "Secret Rare",
+      "cardNum": "71/70"
+    },
+    {
+      "name": "Centiscorch VMAX",
+      "set": "Explosive Flame Walker",
+      "img": "https://den-cards.pokellector.com/295/Centiscorch-VMAX.S2A.72.34610.png",
+      "rarity": "Secret Rare",
+      "cardNum": "72/70"
+    },
+    {
+      "name": "Vikavolt V",
+      "set": "Explosive Flame Walker",
+      "img": "https://den-cards.pokellector.com/295/Vikavolt-V.S2A.73.34606.png",
+      "rarity": "Secret Rare",
+      "cardNum": "73/70"
+    },
+    {
+      "name": "Gardevoir V",
+      "set": "Explosive Flame Walker",
+      "img": "https://den-cards.pokellector.com/295/Gardevoir-V.S2A.74.34615.png",
+      "rarity": "Secret Rare",
+      "cardNum": "74/70"
+    },
+    {
+      "name": "Grapploct V",
+      "set": "Explosive Flame Walker",
+      "img": "https://den-cards.pokellector.com/295/Grapploct-V.S2A.75.34612.png",
+      "rarity": "Secret Rare",
+      "cardNum": "75/70"
+    },
+    {
+      "name": "Galarian Stunfisk V",
+      "set": "Explosive Flame Walker",
+      "img": "https://den-cards.pokellector.com/295/Galarian-Stunfisk-V.S2A.76.34613.png",
+      "rarity": "Secret Rare",
+      "cardNum": "76/70"
+    },
+    {
+      "name": "Kabu",
+      "set": "Explosive Flame Walker",
+      "img": "https://den-cards.pokellector.com/295/Kabu.S2A.77.34600.png",
+      "rarity": "Secret Rare",
+      "cardNum": "77/70"
+    },
+    {
+      "name": "Pokemon Breeder's Training",
+      "set": "Explosive Flame Walker",
+      "img": "https://den-cards.pokellector.com/295/Pokemon-Breeders-Training.S2A.78.34605.png",
+      "rarity": "Secret Rare",
+      "cardNum": "78/70"
+    },
+    {
+      "name": "Butterfree VMAX",
+      "set": "Explosive Flame Walker",
+      "img": "https://den-cards.pokellector.com/295/Butterfree-VMAX.S2A.79.34609.png",
+      "rarity": "Secret Rare",
+      "cardNum": "79/70"
+    },
+    {
+      "name": "Centiscorch VMAX",
+      "set": "Explosive Flame Walker",
+      "img": "https://den-cards.pokellector.com/295/Centiscorch-VMAX.S2A.80.34608.png",
+      "rarity": "Secret Rare",
+      "cardNum": "80/70"
+    },
+    {
+      "name": "Gardevoir VMAX",
+      "set": "Explosive Flame Walker",
+      "img": "https://den-cards.pokellector.com/295/Gardevoir-VMAX.S2A.81.34607.png",
+      "rarity": "Secret Rare",
+      "cardNum": "81/70"
+    },
+    {
+      "name": "Kabu",
+      "set": "Explosive Flame Walker",
+      "img": "https://den-cards.pokellector.com/295/Kabu.S2A.82.34614.png",
+      "rarity": "Secret Rare",
+      "cardNum": "82/70"
+    },
+    {
+      "name": "Pokemon Breeder's Training",
+      "set": "Explosive Flame Walker",
+      "img": "https://den-cards.pokellector.com/295/Pokemon-Breeders-Training.S2A.83.34604.png",
+      "rarity": "Secret Rare",
+      "cardNum": "83/70"
+    },
+    {
+      "name": "Rillaboom",
+      "set": "Explosive Flame Walker",
+      "img": "https://den-cards.pokellector.com/295/Rillaboom.S2A.84.34601.png",
+      "rarity": "Secret Rare",
+      "cardNum": "84/70"
+    },
+    {
+      "name": "Odd Canned Food",
+      "set": "Explosive Flame Walker",
+      "img": "https://den-cards.pokellector.com/295/Odd-Canned-Food.S2A.85.34602.png",
+      "rarity": "Secret Rare",
+      "cardNum": "85/70"
+    },
+    {
+      "name": "Big Parasol",
+      "set": "Explosive Flame Walker",
+      "img": "https://den-cards.pokellector.com/295/Big-Parasol.S2A.86.34603.png",
+      "rarity": "Secret Rare",
+      "cardNum": "86/70"
+    }
+  ]
+}

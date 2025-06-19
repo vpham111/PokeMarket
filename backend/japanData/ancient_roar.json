@@ -1,0 +1,670 @@
+{
+  "setName": "Ancient Roar",
+  "cards": [
+    {
+      "name": "Pansage",
+      "set": "Ancient Roar",
+      "img": "https://den-cards.pokellector.com/381/Pansage.SV4K.1.50733.png",
+      "rarity": "Common",
+      "cardNum": "1/66"
+    },
+    {
+      "name": "Simisage",
+      "set": "Ancient Roar",
+      "img": "https://den-cards.pokellector.com/381/Simisage.SV4K.2.50734.png",
+      "rarity": "Uncommon",
+      "cardNum": "2/66"
+    },
+    {
+      "name": "Maractus",
+      "set": "Ancient Roar",
+      "img": "https://den-cards.pokellector.com/381/Maractus.SV4K.3.50735.png",
+      "rarity": "Common",
+      "cardNum": "3/66"
+    },
+    {
+      "name": "Dwebble",
+      "set": "Ancient Roar",
+      "img": "https://den-cards.pokellector.com/381/Dwebble.SV4K.4.50736.png",
+      "rarity": "Common",
+      "cardNum": "4/66"
+    },
+    {
+      "name": "Crustle",
+      "set": "Ancient Roar",
+      "img": "https://den-cards.pokellector.com/381/Crustle.SV4K.5.50737.png",
+      "rarity": "Common",
+      "cardNum": "5/66"
+    },
+    {
+      "name": "Bounsweet",
+      "set": "Ancient Roar",
+      "img": "https://den-cards.pokellector.com/381/Bounsweet.SV4K.6.50738.png",
+      "rarity": "Common",
+      "cardNum": "6/66"
+    },
+    {
+      "name": "Steenee",
+      "set": "Ancient Roar",
+      "img": "https://den-cards.pokellector.com/381/Steenee.SV4K.7.50739.png",
+      "rarity": "Uncommon",
+      "cardNum": "7/66"
+    },
+    {
+      "name": "Nymble",
+      "set": "Ancient Roar",
+      "img": "https://den-cards.pokellector.com/381/Nymble.SV4K.8.50740.png",
+      "rarity": "Common",
+      "cardNum": "8/66"
+    },
+    {
+      "name": "Nymble",
+      "set": "Ancient Roar",
+      "img": "https://den-cards.pokellector.com/381/Nymble.SV4K.9.50741.png",
+      "rarity": "Common",
+      "cardNum": "9/66"
+    },
+    {
+      "name": "Magby",
+      "set": "Ancient Roar",
+      "img": "https://den-cards.pokellector.com/381/Magby.SV4K.10.50742.png",
+      "rarity": "Common",
+      "cardNum": "10/66"
+    },
+    {
+      "name": "Numel",
+      "set": "Ancient Roar",
+      "img": "https://den-cards.pokellector.com/381/Numel.SV4K.11.50743.png",
+      "rarity": "Common",
+      "cardNum": "11/66"
+    },
+    {
+      "name": "Camerupt",
+      "set": "Ancient Roar",
+      "img": "https://den-cards.pokellector.com/381/Camerupt.SV4K.12.50744.png",
+      "rarity": "Uncommon",
+      "cardNum": "12/66"
+    },
+    {
+      "name": "Charcadet",
+      "set": "Ancient Roar",
+      "img": "https://den-cards.pokellector.com/381/Charcadet.SV4K.13.50745.png",
+      "rarity": "Common",
+      "cardNum": "13/66"
+    },
+    {
+      "name": "Charcadet",
+      "set": "Ancient Roar",
+      "img": "https://den-cards.pokellector.com/381/Charcadet.SV4K.14.50746.png",
+      "rarity": "Common",
+      "cardNum": "14/66"
+    },
+    {
+      "name": "Armarouge ex",
+      "set": "Ancient Roar",
+      "img": "https://den-cards.pokellector.com/381/Armarouge-ex.SV4K.15.50747.png",
+      "rarity": "Double Rare",
+      "cardNum": "15/66"
+    },
+    {
+      "name": "Chi-Yu",
+      "set": "Ancient Roar",
+      "img": "https://den-cards.pokellector.com/381/Chi-Yu.SV4K.16.50748.png",
+      "rarity": "Rare",
+      "cardNum": "16/66"
+    },
+    {
+      "name": "Horsea",
+      "set": "Ancient Roar",
+      "img": "https://den-cards.pokellector.com/381/Horsea.SV4K.17.50749.png",
+      "rarity": "Common",
+      "cardNum": "17/66"
+    },
+    {
+      "name": "Seadra",
+      "set": "Ancient Roar",
+      "img": "https://den-cards.pokellector.com/381/Seadra.SV4K.18.50750.png",
+      "rarity": "Common",
+      "cardNum": "18/66"
+    },
+    {
+      "name": "Kingdra",
+      "set": "Ancient Roar",
+      "img": "https://den-cards.pokellector.com/381/Kingdra.SV4K.19.50751.png",
+      "rarity": "Rare",
+      "cardNum": "19/66"
+    },
+    {
+      "name": "Tsareena ex",
+      "set": "Ancient Roar",
+      "img": "https://den-cards.pokellector.com/381/Tsareena-ex.SV4K.20.50752.png",
+      "rarity": "Double Rare",
+      "cardNum": "20/66"
+    },
+    {
+      "name": "Wimpod",
+      "set": "Ancient Roar",
+      "img": "https://den-cards.pokellector.com/381/Wimpod.SV4K.21.50753.png",
+      "rarity": "Common",
+      "cardNum": "21/66"
+    },
+    {
+      "name": "Golisopod ex",
+      "set": "Ancient Roar",
+      "img": "https://den-cards.pokellector.com/381/Golisopod-ex.SV4K.22.50754.png",
+      "rarity": "Double Rare",
+      "cardNum": "22/66"
+    },
+    {
+      "name": "Wiglett",
+      "set": "Ancient Roar",
+      "img": "https://den-cards.pokellector.com/381/Wiglett.SV4K.23.50755.png",
+      "rarity": "Common",
+      "cardNum": "23/66"
+    },
+    {
+      "name": "Wiglett",
+      "set": "Ancient Roar",
+      "img": "https://den-cards.pokellector.com/381/Wiglett.SV4K.24.50756.png",
+      "rarity": "Common",
+      "cardNum": "24/66"
+    },
+    {
+      "name": "Wugtrio",
+      "set": "Ancient Roar",
+      "img": "https://den-cards.pokellector.com/381/Wugtrio.SV4K.25.50757.png",
+      "rarity": "Uncommon",
+      "cardNum": "25/66"
+    },
+    {
+      "name": "Veluza",
+      "set": "Ancient Roar",
+      "img": "https://den-cards.pokellector.com/381/Veluza.SV4K.26.50758.png",
+      "rarity": "Uncommon",
+      "cardNum": "26/66"
+    },
+    {
+      "name": "Latios",
+      "set": "Ancient Roar",
+      "img": "https://den-cards.pokellector.com/381/Latios.SV4K.27.50759.png",
+      "rarity": "Rare",
+      "cardNum": "27/66"
+    },
+    {
+      "name": "Woobat",
+      "set": "Ancient Roar",
+      "img": "https://den-cards.pokellector.com/381/Woobat.SV4K.28.50760.png",
+      "rarity": "Common",
+      "cardNum": "28/66"
+    },
+    {
+      "name": "Swoobat",
+      "set": "Ancient Roar",
+      "img": "https://den-cards.pokellector.com/381/Swoobat.SV4K.29.50761.png",
+      "rarity": "Uncommon",
+      "cardNum": "29/66"
+    },
+    {
+      "name": "Yamask",
+      "set": "Ancient Roar",
+      "img": "https://den-cards.pokellector.com/381/Yamask.SV4K.30.50762.png",
+      "rarity": "Common",
+      "cardNum": "30/66"
+    },
+    {
+      "name": "Cofagrigus ex",
+      "set": "Ancient Roar",
+      "img": "https://den-cards.pokellector.com/381/Cofagrigus-ex.SV4K.31.50763.png",
+      "rarity": "Double Rare",
+      "cardNum": "31/66"
+    },
+    {
+      "name": "Scream Tail",
+      "set": "Ancient Roar",
+      "img": "https://den-cards.pokellector.com/381/Scream-Tail.SV4K.32.50764.png",
+      "rarity": "Uncommon",
+      "cardNum": "32/66"
+    },
+    {
+      "name": "Mienfoo",
+      "set": "Ancient Roar",
+      "img": "https://den-cards.pokellector.com/381/Mienfoo.SV4K.33.50765.png",
+      "rarity": "Common",
+      "cardNum": "33/66"
+    },
+    {
+      "name": "Mienshao",
+      "set": "Ancient Roar",
+      "img": "https://den-cards.pokellector.com/381/Mienshao.SV4K.34.50766.png",
+      "rarity": "Uncommon",
+      "cardNum": "34/66"
+    },
+    {
+      "name": "Clobbopus",
+      "set": "Ancient Roar",
+      "img": "https://den-cards.pokellector.com/381/Clobbopus.SV4K.35.50767.png",
+      "rarity": "Common",
+      "cardNum": "35/66"
+    },
+    {
+      "name": "Grapploct",
+      "set": "Ancient Roar",
+      "img": "https://den-cards.pokellector.com/381/Grapploct.SV4K.36.50768.png",
+      "rarity": "Uncommon",
+      "cardNum": "36/66"
+    },
+    {
+      "name": "Nacli",
+      "set": "Ancient Roar",
+      "img": "https://den-cards.pokellector.com/381/Nacli.SV4K.37.50769.png",
+      "rarity": "Common",
+      "cardNum": "37/66"
+    },
+    {
+      "name": "Nacli",
+      "set": "Ancient Roar",
+      "img": "https://den-cards.pokellector.com/381/Nacli.SV4K.38.50770.png",
+      "rarity": "Common",
+      "cardNum": "38/66"
+    },
+    {
+      "name": "Naclstack",
+      "set": "Ancient Roar",
+      "img": "https://den-cards.pokellector.com/381/Naclstack.SV4K.39.50771.png",
+      "rarity": "Common",
+      "cardNum": "39/66"
+    },
+    {
+      "name": "Garganacl",
+      "set": "Ancient Roar",
+      "img": "https://den-cards.pokellector.com/381/Garganacl.SV4K.40.50772.png",
+      "rarity": "Rare",
+      "cardNum": "40/66"
+    },
+    {
+      "name": "Slither Wing",
+      "set": "Ancient Roar",
+      "img": "https://den-cards.pokellector.com/381/Slither-Wing.SV4K.41.50773.png",
+      "rarity": "Uncommon",
+      "cardNum": "41/66"
+    },
+    {
+      "name": "Sandy Shocks ex",
+      "set": "Ancient Roar",
+      "img": "https://den-cards.pokellector.com/381/Sandy-Shocks-ex.SV4K.42.50774.png",
+      "rarity": "Double Rare",
+      "cardNum": "42/66"
+    },
+    {
+      "name": "Ting-Lu",
+      "set": "Ancient Roar",
+      "img": "https://den-cards.pokellector.com/381/Ting-Lu.SV4K.43.50775.png",
+      "rarity": "Rare",
+      "cardNum": "43/66"
+    },
+    {
+      "name": "Zubat",
+      "set": "Ancient Roar",
+      "img": "https://den-cards.pokellector.com/381/Zubat.SV4K.44.50776.png",
+      "rarity": "Common",
+      "cardNum": "44/66"
+    },
+    {
+      "name": "Golbat",
+      "set": "Ancient Roar",
+      "img": "https://den-cards.pokellector.com/381/Golbat.SV4K.45.50777.png",
+      "rarity": "Common",
+      "cardNum": "45/66"
+    },
+    {
+      "name": "Crobat",
+      "set": "Ancient Roar",
+      "img": "https://den-cards.pokellector.com/381/Crobat.SV4K.46.50778.png",
+      "rarity": "Uncommon",
+      "cardNum": "46/66"
+    },
+    {
+      "name": "Purrloin",
+      "set": "Ancient Roar",
+      "img": "https://den-cards.pokellector.com/381/Purrloin.SV4K.47.50779.png",
+      "rarity": "Common",
+      "cardNum": "47/66"
+    },
+    {
+      "name": "Liepard",
+      "set": "Ancient Roar",
+      "img": "https://den-cards.pokellector.com/381/Liepard.SV4K.48.50780.png",
+      "rarity": "Common",
+      "cardNum": "48/66"
+    },
+    {
+      "name": "Trubbish",
+      "set": "Ancient Roar",
+      "img": "https://den-cards.pokellector.com/381/Trubbish.SV4K.49.50781.png",
+      "rarity": "Common",
+      "cardNum": "49/66"
+    },
+    {
+      "name": "Garbodor",
+      "set": "Ancient Roar",
+      "img": "https://den-cards.pokellector.com/381/Garbodor.SV4K.50.50782.png",
+      "rarity": "Uncommon",
+      "cardNum": "50/66"
+    },
+    {
+      "name": "Morpeko",
+      "set": "Ancient Roar",
+      "img": "https://den-cards.pokellector.com/381/Morpeko.SV4K.51.50783.png",
+      "rarity": "Rare",
+      "cardNum": "51/66"
+    },
+    {
+      "name": "Lokix",
+      "set": "Ancient Roar",
+      "img": "https://den-cards.pokellector.com/381/Lokix.SV4K.52.50784.png",
+      "rarity": "Rare",
+      "cardNum": "52/66"
+    },
+    {
+      "name": "Brute Bonnet",
+      "set": "Ancient Roar",
+      "img": "https://den-cards.pokellector.com/381/Brute-Bonnet.SV4K.53.50785.png",
+      "rarity": "Rare",
+      "cardNum": "53/66"
+    },
+    {
+      "name": "Roaring Moon ex",
+      "set": "Ancient Roar",
+      "img": "https://den-cards.pokellector.com/381/Roaring-Moon-ex.SV4K.54.50786.png",
+      "rarity": "Double Rare",
+      "cardNum": "54/66"
+    },
+    {
+      "name": "Whismur",
+      "set": "Ancient Roar",
+      "img": "https://den-cards.pokellector.com/381/Whismur.SV4K.55.50787.png",
+      "rarity": "Common",
+      "cardNum": "55/66"
+    },
+    {
+      "name": "Loudred",
+      "set": "Ancient Roar",
+      "img": "https://den-cards.pokellector.com/381/Loudred.SV4K.56.50788.png",
+      "rarity": "Common",
+      "cardNum": "56/66"
+    },
+    {
+      "name": "Exploud",
+      "set": "Ancient Roar",
+      "img": "https://den-cards.pokellector.com/381/Exploud.SV4K.57.50789.png",
+      "rarity": "Uncommon",
+      "cardNum": "57/66"
+    },
+    {
+      "name": "Spinda",
+      "set": "Ancient Roar",
+      "img": "https://den-cards.pokellector.com/381/Spinda.SV4K.58.50790.png",
+      "rarity": "Common",
+      "cardNum": "58/66"
+    },
+    {
+      "name": "Snorlax Doll",
+      "set": "Ancient Roar",
+      "img": "https://den-cards.pokellector.com/381/Snorlax-Doll.SV4K.59.50791.png",
+      "rarity": "Uncommon",
+      "cardNum": "59/66"
+    },
+    {
+      "name": "Earthen Vessel",
+      "set": "Ancient Roar",
+      "img": "https://den-cards.pokellector.com/381/Earthen-Vessel.SV4K.60.50792.png",
+      "rarity": "Uncommon",
+      "cardNum": "60/66"
+    },
+    {
+      "name": "Ancient Booster Energy Capsule",
+      "set": "Ancient Roar",
+      "img": "https://den-cards.pokellector.com/381/Ancient-Booster-Energy-Capsule.SV4K.61.50793.png",
+      "rarity": "Uncommon",
+      "cardNum": "61/66"
+    },
+    {
+      "name": "Defiance Vest",
+      "set": "Ancient Roar",
+      "img": "https://den-cards.pokellector.com/381/Defiance-Vest.SV4K.62.50794.png",
+      "rarity": "Uncommon",
+      "cardNum": "62/66"
+    },
+    {
+      "name": "Technical Machine: Devolution",
+      "set": "Ancient Roar",
+      "img": "https://den-cards.pokellector.com/381/Technical-Machine-Devolution.SV4K.63.50795.png",
+      "rarity": "Uncommon",
+      "cardNum": "63/66"
+    },
+    {
+      "name": "Professor Sada's Vitality",
+      "set": "Ancient Roar",
+      "img": "https://den-cards.pokellector.com/381/Professor-Sadas-Vitality.SV4K.64.50796.png",
+      "rarity": "Uncommon",
+      "cardNum": "64/66"
+    },
+    {
+      "name": "Norman",
+      "set": "Ancient Roar",
+      "img": "https://den-cards.pokellector.com/381/Norman.SV4K.65.50797.png",
+      "rarity": "Uncommon",
+      "cardNum": "65/66"
+    },
+    {
+      "name": "Mela",
+      "set": "Ancient Roar",
+      "img": "https://den-cards.pokellector.com/381/Mela.SV4K.66.50798.png",
+      "rarity": "Uncommon",
+      "cardNum": "66/66"
+    },
+    {
+      "name": "Crustle",
+      "set": "Ancient Roar",
+      "img": "https://den-cards.pokellector.com/381/Crustle.SV4K.67.50799.png",
+      "rarity": "Art Rare",
+      "cardNum": "67/66"
+    },
+    {
+      "name": "Magby",
+      "set": "Ancient Roar",
+      "img": "https://den-cards.pokellector.com/381/Magby.SV4K.68.50800.png",
+      "rarity": "Art Rare",
+      "cardNum": "68/66"
+    },
+    {
+      "name": "Wimpod",
+      "set": "Ancient Roar",
+      "img": "https://den-cards.pokellector.com/381/Wimpod.SV4K.69.50801.png",
+      "rarity": "Art Rare",
+      "cardNum": "69/66"
+    },
+    {
+      "name": "Veluza",
+      "set": "Ancient Roar",
+      "img": "https://den-cards.pokellector.com/381/Veluza.SV4K.70.50802.png",
+      "rarity": "Art Rare",
+      "cardNum": "70/66"
+    },
+    {
+      "name": "Scream Tail",
+      "set": "Ancient Roar",
+      "img": "https://den-cards.pokellector.com/381/Scream-Tail.SV4K.71.50803.png",
+      "rarity": "Art Rare",
+      "cardNum": "71/66"
+    },
+    {
+      "name": "Mienshao",
+      "set": "Ancient Roar",
+      "img": "https://den-cards.pokellector.com/381/Mienshao.SV4K.72.50804.png",
+      "rarity": "Art Rare",
+      "cardNum": "72/66"
+    },
+    {
+      "name": "Garganacl",
+      "set": "Ancient Roar",
+      "img": "https://den-cards.pokellector.com/381/Garganacl.SV4K.73.50805.png",
+      "rarity": "Art Rare",
+      "cardNum": "73/66"
+    },
+    {
+      "name": "Slither Wing",
+      "set": "Ancient Roar",
+      "img": "https://den-cards.pokellector.com/381/Slither-Wing.SV4K.74.50806.png",
+      "rarity": "Art Rare",
+      "cardNum": "74/66"
+    },
+    {
+      "name": "Garbodor",
+      "set": "Ancient Roar",
+      "img": "https://den-cards.pokellector.com/381/Garbodor.SV4K.75.50807.png",
+      "rarity": "Art Rare",
+      "cardNum": "75/66"
+    },
+    {
+      "name": "Morpeko",
+      "set": "Ancient Roar",
+      "img": "https://den-cards.pokellector.com/381/Morpeko.SV4K.76.50808.png",
+      "rarity": "Art Rare",
+      "cardNum": "76/66"
+    },
+    {
+      "name": "Brute Bonnet",
+      "set": "Ancient Roar",
+      "img": "https://den-cards.pokellector.com/381/Brute-Bonnet.SV4K.77.50809.png",
+      "rarity": "Art Rare",
+      "cardNum": "77/66"
+    },
+    {
+      "name": "Loudred",
+      "set": "Ancient Roar",
+      "img": "https://den-cards.pokellector.com/381/Loudred.SV4K.78.50810.png",
+      "rarity": "Art Rare",
+      "cardNum": "78/66"
+    },
+    {
+      "name": "Armarouge ex",
+      "set": "Ancient Roar",
+      "img": "https://den-cards.pokellector.com/381/Armarouge-ex.SV4K.79.50811.png",
+      "rarity": "Super Rare",
+      "cardNum": "79/66"
+    },
+    {
+      "name": "Tsareena ex",
+      "set": "Ancient Roar",
+      "img": "https://den-cards.pokellector.com/381/Tsareena-ex.SV4K.80.50812.png",
+      "rarity": "Super Rare",
+      "cardNum": "80/66"
+    },
+    {
+      "name": "Golisopod ex",
+      "set": "Ancient Roar",
+      "img": "https://den-cards.pokellector.com/381/Golisopod-ex.SV4K.81.50813.png",
+      "rarity": "Super Rare",
+      "cardNum": "81/66"
+    },
+    {
+      "name": "Cofagrigus ex",
+      "set": "Ancient Roar",
+      "img": "https://den-cards.pokellector.com/381/Cofagrigus-ex.SV4K.82.50814.png",
+      "rarity": "Super Rare",
+      "cardNum": "82/66"
+    },
+    {
+      "name": "Sandy Shocks ex",
+      "set": "Ancient Roar",
+      "img": "https://den-cards.pokellector.com/381/Sandy-Shocks-ex.SV4K.83.50815.png",
+      "rarity": "Super Rare",
+      "cardNum": "83/66"
+    },
+    {
+      "name": "Roaring Moon ex",
+      "set": "Ancient Roar",
+      "img": "https://den-cards.pokellector.com/381/Roaring-Moon-ex.SV4K.84.50816.png",
+      "rarity": "Super Rare",
+      "cardNum": "84/66"
+    },
+    {
+      "name": "Professor Sada's Vitality",
+      "set": "Ancient Roar",
+      "img": "https://den-cards.pokellector.com/381/Professor-Sadas-Vitality.SV4K.85.50817.png",
+      "rarity": "Super Rare",
+      "cardNum": "85/66"
+    },
+    {
+      "name": "Norman",
+      "set": "Ancient Roar",
+      "img": "https://den-cards.pokellector.com/381/Norman.SV4K.86.50818.png",
+      "rarity": "Super Rare",
+      "cardNum": "86/66"
+    },
+    {
+      "name": "Mela",
+      "set": "Ancient Roar",
+      "img": "https://den-cards.pokellector.com/381/Mela.SV4K.87.50819.png",
+      "rarity": "Super Rare",
+      "cardNum": "87/66"
+    },
+    {
+      "name": "Golisopod ex",
+      "set": "Ancient Roar",
+      "img": "https://den-cards.pokellector.com/381/Golisopod-ex.SV4K.88.50820.png",
+      "rarity": "Special Art Rare",
+      "cardNum": "88/66"
+    },
+    {
+      "name": "Sandy Shocks ex",
+      "set": "Ancient Roar",
+      "img": "https://den-cards.pokellector.com/381/Sandy-Shocks-ex.SV4K.89.50821.png",
+      "rarity": "Special Art Rare",
+      "cardNum": "89/66"
+    },
+    {
+      "name": "Roaring Moon ex",
+      "set": "Ancient Roar",
+      "img": "https://den-cards.pokellector.com/381/Roaring-Moon-ex.SV4K.90.50822.png",
+      "rarity": "Special Art Rare",
+      "cardNum": "90/66"
+    },
+    {
+      "name": "Professor Sada's Vitality",
+      "set": "Ancient Roar",
+      "img": "https://den-cards.pokellector.com/381/Professor-Sadas-Vitality.SV4K.91.50823.png",
+      "rarity": "Special Art Rare",
+      "cardNum": "91/66"
+    },
+    {
+      "name": "Mela",
+      "set": "Ancient Roar",
+      "img": "https://den-cards.pokellector.com/381/Mela.SV4K.92.50824.png",
+      "rarity": "Special Art Rare",
+      "cardNum": "92/66"
+    },
+    {
+      "name": "Roaring Moon ex",
+      "set": "Ancient Roar",
+      "img": "https://den-cards.pokellector.com/381/Roaring-Moon-ex.SV4K.93.50825.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "93/66"
+    },
+    {
+      "name": "Luxurious Cape",
+      "set": "Ancient Roar",
+      "img": "https://den-cards.pokellector.com/381/Luxurious-Cape.SV4K.94.50826.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "94/66"
+    },
+    {
+      "name": "Basic Darkness Energy",
+      "set": "Ancient Roar",
+      "img": "https://den-cards.pokellector.com/381/Basic-Darkness-Energy.SV4K.95.50827.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "95/66"
+    }
+  ]
+}

@@ -1,0 +1,285 @@
+{
+  "setName": "Lost Link",
+  "cards": [
+    {
+      "name": "Venonat",
+      "set": "Lost Link",
+      "img": "https://den-cards.pokellector.com/251/Venonat.LL.1.22053.png",
+      "rarity": "Common",
+      "cardNum": "1/40"
+    },
+    {
+      "name": "Venomoth",
+      "set": "Lost Link",
+      "img": "https://den-cards.pokellector.com/251/Venomoth.LL.2.22054.png",
+      "rarity": "Rare",
+      "cardNum": "2/40"
+    },
+    {
+      "name": "Tangela",
+      "set": "Lost Link",
+      "img": "https://den-cards.pokellector.com/251/Tangela.LL.3.22055.png",
+      "rarity": "Common",
+      "cardNum": "3/40"
+    },
+    {
+      "name": "Tangrowth",
+      "set": "Lost Link",
+      "img": "https://den-cards.pokellector.com/251/Tangrowth.LL.4.22056.png",
+      "rarity": "Uncommon",
+      "cardNum": "4/40"
+    },
+    {
+      "name": "Volbeat",
+      "set": "Lost Link",
+      "img": "https://den-cards.pokellector.com/251/Volbeat.LL.5.22057.png",
+      "rarity": "Common",
+      "cardNum": "5/40"
+    },
+    {
+      "name": "Illumise",
+      "set": "Lost Link",
+      "img": "https://den-cards.pokellector.com/251/Illumise.LL.6.22058.png",
+      "rarity": "Common",
+      "cardNum": "6/40"
+    },
+    {
+      "name": "Carnivine",
+      "set": "Lost Link",
+      "img": "https://den-cards.pokellector.com/251/Carnivine.LL.7.22059.png",
+      "rarity": "Rare",
+      "cardNum": "7/40"
+    },
+    {
+      "name": "Relicanth",
+      "set": "Lost Link",
+      "img": "https://den-cards.pokellector.com/251/Relicanth.LL.8.22060.png",
+      "rarity": "Common",
+      "cardNum": "8/40"
+    },
+    {
+      "name": "Magnemite",
+      "set": "Lost Link",
+      "img": "https://den-cards.pokellector.com/251/Magnemite.LL.9.22061.png",
+      "rarity": "Common",
+      "cardNum": "9/40"
+    },
+    {
+      "name": "Magneton",
+      "set": "Lost Link",
+      "img": "https://den-cards.pokellector.com/251/Magneton.LL.10.22062.png",
+      "rarity": "Uncommon",
+      "cardNum": "10/40"
+    },
+    {
+      "name": "Magnezone",
+      "set": "Lost Link",
+      "img": "https://den-cards.pokellector.com/251/Magnezone.LL.11.22063.png",
+      "rarity": "Common",
+      "cardNum": "11/40"
+    },
+    {
+      "name": "Pachirisu",
+      "set": "Lost Link",
+      "img": "https://den-cards.pokellector.com/251/Pachirisu.LL.12.22064.png",
+      "rarity": "Rare",
+      "cardNum": "12/40"
+    },
+    {
+      "name": "Gastly",
+      "set": "Lost Link",
+      "img": "https://den-cards.pokellector.com/251/Gastly.LL.13.22065.png",
+      "rarity": "Common",
+      "cardNum": "13/40"
+    },
+    {
+      "name": "Haunter",
+      "set": "Lost Link",
+      "img": "https://den-cards.pokellector.com/251/Haunter.LL.14.22066.png",
+      "rarity": "Uncommon",
+      "cardNum": "14/40"
+    },
+    {
+      "name": "Gengar",
+      "set": "Lost Link",
+      "img": "https://den-cards.pokellector.com/251/Gengar.LL.15.22067.png",
+      "rarity": "Common",
+      "cardNum": "15/40"
+    },
+    {
+      "name": "Mime Jr.",
+      "set": "Lost Link",
+      "img": "https://den-cards.pokellector.com/251/Mime-Jr.LL.16.22068.png",
+      "rarity": "Uncommon",
+      "cardNum": "16/40"
+    },
+    {
+      "name": "Mr. Mime",
+      "set": "Lost Link",
+      "img": "https://den-cards.pokellector.com/251/Mr-Mime.LL.17.22069.png",
+      "rarity": "Rare",
+      "cardNum": "17/40"
+    },
+    {
+      "name": "Mew",
+      "set": "Lost Link",
+      "img": "https://den-cards.pokellector.com/251/Mew.LL.18.22070.png",
+      "rarity": "Common",
+      "cardNum": "18/40"
+    },
+    {
+      "name": "Seviper",
+      "set": "Lost Link",
+      "img": "https://den-cards.pokellector.com/251/Seviper.LL.19.22071.png",
+      "rarity": "Uncommon",
+      "cardNum": "19/40"
+    },
+    {
+      "name": "Shuppet",
+      "set": "Lost Link",
+      "img": "https://den-cards.pokellector.com/251/Shuppet.LL.20.22072.png",
+      "rarity": "Common",
+      "cardNum": "20/40"
+    },
+    {
+      "name": "Banette",
+      "set": "Lost Link",
+      "img": "https://den-cards.pokellector.com/251/Banette.LL.21.22073.png",
+      "rarity": "Rare",
+      "cardNum": "21/40"
+    },
+    {
+      "name": "Spiritomb",
+      "set": "Lost Link",
+      "img": "https://den-cards.pokellector.com/251/Spiritomb.LL.22.22074.png",
+      "rarity": "Rare",
+      "cardNum": "22/40"
+    },
+    {
+      "name": "Diglett",
+      "set": "Lost Link",
+      "img": "https://den-cards.pokellector.com/251/Diglett.LL.23.22075.png",
+      "rarity": "Common",
+      "cardNum": "23/40"
+    },
+    {
+      "name": "Dugtrio",
+      "set": "Lost Link",
+      "img": "https://den-cards.pokellector.com/251/Dugtrio.LL.24.22076.png",
+      "rarity": "Rare",
+      "cardNum": "24/40"
+    },
+    {
+      "name": "Riolu",
+      "set": "Lost Link",
+      "img": "https://den-cards.pokellector.com/251/Riolu.LL.25.22077.png",
+      "rarity": "Uncommon",
+      "cardNum": "25/40"
+    },
+    {
+      "name": "Lucario",
+      "set": "Lost Link",
+      "img": "https://den-cards.pokellector.com/251/Lucario.LL.26.22078.png",
+      "rarity": "Rare",
+      "cardNum": "26/40"
+    },
+    {
+      "name": "Absol",
+      "set": "Lost Link",
+      "img": "https://den-cards.pokellector.com/251/Absol.LL.27.22079.png",
+      "rarity": "Common",
+      "cardNum": "27/40"
+    },
+    {
+      "name": "Snorlax",
+      "set": "Lost Link",
+      "img": "https://den-cards.pokellector.com/251/Snorlax.LL.28.22080.png",
+      "rarity": "Rare",
+      "cardNum": "28/40"
+    },
+    {
+      "name": "Dratini",
+      "set": "Lost Link",
+      "img": "https://den-cards.pokellector.com/251/Dratini.LL.29.22081.png",
+      "rarity": "Common",
+      "cardNum": "29/40"
+    },
+    {
+      "name": "Dragonair",
+      "set": "Lost Link",
+      "img": "https://den-cards.pokellector.com/251/Dragonair.LL.30.22082.png",
+      "rarity": "Common",
+      "cardNum": "30/40"
+    },
+    {
+      "name": "Dragonite",
+      "set": "Lost Link",
+      "img": "https://den-cards.pokellector.com/251/Dragonite.LL.31.22083.png",
+      "rarity": "Rare",
+      "cardNum": "31/40"
+    },
+    {
+      "name": "Swablu",
+      "set": "Lost Link",
+      "img": "https://den-cards.pokellector.com/251/Swablu.LL.32.22084.png",
+      "rarity": "Common",
+      "cardNum": "32/40"
+    },
+    {
+      "name": "Altaria",
+      "set": "Lost Link",
+      "img": "https://den-cards.pokellector.com/251/Altaria.LL.33.22085.png",
+      "rarity": "Rare",
+      "cardNum": "33/40"
+    },
+    {
+      "name": "Zangoose",
+      "set": "Lost Link",
+      "img": "https://den-cards.pokellector.com/251/Zangoose.LL.34.22086.png",
+      "rarity": "Rare",
+      "cardNum": "34/40"
+    },
+    {
+      "name": "Darkrai & Cresselia LEGEND",
+      "set": "Lost Link",
+      "img": "https://den-cards.pokellector.com/251/Darkrai-Cresselia-LEGEND.LL.35.22087.png",
+      "rarity": "Rare",
+      "cardNum": "35/40"
+    },
+    {
+      "name": "Darkrai & Cresselia LEGEND",
+      "set": "Lost Link",
+      "img": "https://den-cards.pokellector.com/251/Darkrai-Cresselia-LEGEND.LL.36.22088.png",
+      "rarity": "Rare",
+      "cardNum": "36/40"
+    },
+    {
+      "name": "Research Record",
+      "set": "Lost Link",
+      "img": "https://den-cards.pokellector.com/251/Research-Record.LL.37.22089.png",
+      "rarity": "Uncommon",
+      "cardNum": "37/40"
+    },
+    {
+      "name": "Lost Remover",
+      "set": "Lost Link",
+      "img": "https://den-cards.pokellector.com/251/Lost-Remover.LL.38.22090.png",
+      "rarity": "Uncommon",
+      "cardNum": "38/40"
+    },
+    {
+      "name": "Seeker",
+      "set": "Lost Link",
+      "img": "https://den-cards.pokellector.com/251/Seeker.LL.39.22091.png",
+      "rarity": "Uncommon",
+      "cardNum": "39/40"
+    },
+    {
+      "name": "Lost World",
+      "set": "Lost Link",
+      "img": "https://den-cards.pokellector.com/251/Lost-World.LL.40.22092.png",
+      "rarity": "Uncommon",
+      "cardNum": "40/40"
+    }
+  ]
+}

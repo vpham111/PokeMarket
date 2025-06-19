@@ -1,0 +1,439 @@
+{
+  "setName": "The Awoken Hero",
+  "cards": [
+    {
+      "name": "Cacnea",
+      "set": "The Awoken Hero",
+      "img": "https://den-cards.pokellector.com/226/Cacnea.SM4S.1.19359.png",
+      "rarity": "Common",
+      "cardNum": "1/50"
+    },
+    {
+      "name": "Cacturne",
+      "set": "The Awoken Hero",
+      "img": "https://den-cards.pokellector.com/226/Cacturne.SM4S.2.19360.png",
+      "rarity": "Uncommon",
+      "cardNum": "2/50"
+    },
+    {
+      "name": "Karrablast",
+      "set": "The Awoken Hero",
+      "img": "https://den-cards.pokellector.com/226/Karrablast.SM4S.3.19361.png",
+      "rarity": "Common",
+      "cardNum": "3/50"
+    },
+    {
+      "name": "Skiddo",
+      "set": "The Awoken Hero",
+      "img": "https://den-cards.pokellector.com/226/Skiddo.SM4S.4.19362.png",
+      "rarity": "Common",
+      "cardNum": "4/50"
+    },
+    {
+      "name": "Gogoat",
+      "set": "The Awoken Hero",
+      "img": "https://den-cards.pokellector.com/226/Gogoat.SM4S.5.19363.png",
+      "rarity": "Rare",
+      "cardNum": "5/50"
+    },
+    {
+      "name": "Alolan Marowak",
+      "set": "The Awoken Hero",
+      "img": "https://den-cards.pokellector.com/226/Alolan-Marowak.SM4S.6.19364.png",
+      "rarity": "Rare",
+      "cardNum": "6/50"
+    },
+    {
+      "name": "Numel",
+      "set": "The Awoken Hero",
+      "img": "https://den-cards.pokellector.com/226/Numel.SM4S.7.19365.png",
+      "rarity": "Common",
+      "cardNum": "7/50"
+    },
+    {
+      "name": "Camerupt",
+      "set": "The Awoken Hero",
+      "img": "https://den-cards.pokellector.com/226/Camerupt.SM4S.8.19366.png",
+      "rarity": "Uncommon",
+      "cardNum": "8/50"
+    },
+    {
+      "name": "Staryu",
+      "set": "The Awoken Hero",
+      "img": "https://den-cards.pokellector.com/226/Staryu.SM4S.9.19367.png",
+      "rarity": "Common",
+      "cardNum": "9/50"
+    },
+    {
+      "name": "Starmie",
+      "set": "The Awoken Hero",
+      "img": "https://den-cards.pokellector.com/226/Starmie.SM4S.10.19368.png",
+      "rarity": "Uncommon",
+      "cardNum": "10/50"
+    },
+    {
+      "name": "Remoraid",
+      "set": "The Awoken Hero",
+      "img": "https://den-cards.pokellector.com/226/Remoraid.SM4S.11.19369.png",
+      "rarity": "Common",
+      "cardNum": "11/50"
+    },
+    {
+      "name": "Octillery",
+      "set": "The Awoken Hero",
+      "img": "https://den-cards.pokellector.com/226/Octillery.SM4S.12.19370.png",
+      "rarity": "Uncommon",
+      "cardNum": "12/50"
+    },
+    {
+      "name": "Corphish",
+      "set": "The Awoken Hero",
+      "img": "https://den-cards.pokellector.com/226/Corphish.SM4S.13.19371.png",
+      "rarity": "Common",
+      "cardNum": "13/50"
+    },
+    {
+      "name": "Crawdaunt",
+      "set": "The Awoken Hero",
+      "img": "https://den-cards.pokellector.com/226/Crawdaunt.SM4S.14.19372.png",
+      "rarity": "Uncommon",
+      "cardNum": "14/50"
+    },
+    {
+      "name": "Shellos",
+      "set": "The Awoken Hero",
+      "img": "https://den-cards.pokellector.com/226/Shellos.SM4S.15.19373.png",
+      "rarity": "Common",
+      "cardNum": "15/50"
+    },
+    {
+      "name": "Alolan Geodude",
+      "set": "The Awoken Hero",
+      "img": "https://den-cards.pokellector.com/226/Alolan-Geodude.SM4S.16.19374.png",
+      "rarity": "Common",
+      "cardNum": "16/50"
+    },
+    {
+      "name": "Alolan Graveler",
+      "set": "The Awoken Hero",
+      "img": "https://den-cards.pokellector.com/226/Alolan-Graveler.SM4S.17.19375.png",
+      "rarity": "Uncommon",
+      "cardNum": "17/50"
+    },
+    {
+      "name": "Alolan Golem GX",
+      "set": "The Awoken Hero",
+      "img": "https://den-cards.pokellector.com/226/Alolan-Golem-GX.SM4S.18.19350.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "18/50"
+    },
+    {
+      "name": "Emolga",
+      "set": "The Awoken Hero",
+      "img": "https://den-cards.pokellector.com/226/Emolga.SM4S.19.18562.png",
+      "rarity": "Common",
+      "cardNum": "19/50"
+    },
+    {
+      "name": "Gastly",
+      "set": "The Awoken Hero",
+      "img": "https://den-cards.pokellector.com/226/Gastly.SM4S.20.19337.png",
+      "rarity": "Common",
+      "cardNum": "20/50"
+    },
+    {
+      "name": "Haunter",
+      "set": "The Awoken Hero",
+      "img": "https://den-cards.pokellector.com/226/Haunter.SM4S.21.19338.png",
+      "rarity": "Common",
+      "cardNum": "21/50"
+    },
+    {
+      "name": "Gengar",
+      "set": "The Awoken Hero",
+      "img": "https://den-cards.pokellector.com/226/Gengar.SM4S.22.18598.png",
+      "rarity": "Rare",
+      "cardNum": "22/50"
+    },
+    {
+      "name": "Chimecho",
+      "set": "The Awoken Hero",
+      "img": "https://den-cards.pokellector.com/226/Chimecho.SM4S.23.18597.png",
+      "rarity": "Common",
+      "cardNum": "23/50"
+    },
+    {
+      "name": "Pumpkaboo",
+      "set": "The Awoken Hero",
+      "img": "https://den-cards.pokellector.com/226/Pumpkaboo.SM4S.24.19376.png",
+      "rarity": "Common",
+      "cardNum": "24/50"
+    },
+    {
+      "name": "Gourgeist",
+      "set": "The Awoken Hero",
+      "img": "https://den-cards.pokellector.com/226/Gourgeist.SM4S.25.19377.png",
+      "rarity": "Uncommon",
+      "cardNum": "25/50"
+    },
+    {
+      "name": "Salandit",
+      "set": "The Awoken Hero",
+      "img": "https://den-cards.pokellector.com/226/Salandit.SM4S.26.19378.png",
+      "rarity": "Common",
+      "cardNum": "26/50"
+    },
+    {
+      "name": "Salazzle",
+      "set": "The Awoken Hero",
+      "img": "https://den-cards.pokellector.com/226/Salazzle.SM4S.27.19379.png",
+      "rarity": "Rare",
+      "cardNum": "27/50"
+    },
+    {
+      "name": "Cubone",
+      "set": "The Awoken Hero",
+      "img": "https://den-cards.pokellector.com/226/Cubone.SM4S.28.19380.png",
+      "rarity": "Common",
+      "cardNum": "28/50"
+    },
+    {
+      "name": "Gastrodon",
+      "set": "The Awoken Hero",
+      "img": "https://den-cards.pokellector.com/226/Gastrodon.SM4S.29.19381.png",
+      "rarity": "Common",
+      "cardNum": "29/50"
+    },
+    {
+      "name": "Buzzwole GX",
+      "set": "The Awoken Hero",
+      "img": "https://den-cards.pokellector.com/226/Buzzwole-GX.SM4S.30.18614.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "30/50"
+    },
+    {
+      "name": "Mawile",
+      "set": "The Awoken Hero",
+      "img": "https://den-cards.pokellector.com/226/Mawile.SM4S.31.19382.png",
+      "rarity": "Common",
+      "cardNum": "31/50"
+    },
+    {
+      "name": "Aron",
+      "set": "The Awoken Hero",
+      "img": "https://den-cards.pokellector.com/226/Aron.SM4S.32.19383.png",
+      "rarity": "Common",
+      "cardNum": "32/50"
+    },
+    {
+      "name": "Lairon",
+      "set": "The Awoken Hero",
+      "img": "https://den-cards.pokellector.com/226/Lairon.SM4S.33.19384.png",
+      "rarity": "Uncommon",
+      "cardNum": "33/50"
+    },
+    {
+      "name": "Aggron",
+      "set": "The Awoken Hero",
+      "img": "https://den-cards.pokellector.com/226/Aggron.SM4S.34.19335.png",
+      "rarity": "Rare",
+      "cardNum": "34/50"
+    },
+    {
+      "name": "Registeel",
+      "set": "The Awoken Hero",
+      "img": "https://den-cards.pokellector.com/226/Registeel.SM4S.35.19303.png",
+      "rarity": "Uncommon",
+      "cardNum": "35/50"
+    },
+    {
+      "name": "Escavalier",
+      "set": "The Awoken Hero",
+      "img": "https://den-cards.pokellector.com/226/Escavalier.SM4S.36.19385.png",
+      "rarity": "Uncommon",
+      "cardNum": "36/50"
+    },
+    {
+      "name": "Kartana GX",
+      "set": "The Awoken Hero",
+      "img": "https://den-cards.pokellector.com/226/Kartana-GX.SM4S.37.19314.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "37/50"
+    },
+    {
+      "name": "Starly",
+      "set": "The Awoken Hero",
+      "img": "https://den-cards.pokellector.com/226/Starly.SM4S.38.19386.png",
+      "rarity": "Common",
+      "cardNum": "38/50"
+    },
+    {
+      "name": "Staravia",
+      "set": "The Awoken Hero",
+      "img": "https://den-cards.pokellector.com/226/Staravia.SM4S.39.19387.png",
+      "rarity": "Common",
+      "cardNum": "39/50"
+    },
+    {
+      "name": "Staraptor",
+      "set": "The Awoken Hero",
+      "img": "https://den-cards.pokellector.com/226/Staraptor.SM4S.40.19388.png",
+      "rarity": "Uncommon",
+      "cardNum": "40/50"
+    },
+    {
+      "name": "Regigigas",
+      "set": "The Awoken Hero",
+      "img": "https://den-cards.pokellector.com/226/Regigigas.SM4S.41.19333.png",
+      "rarity": "Rare",
+      "cardNum": "41/50"
+    },
+    {
+      "name": "Minccino",
+      "set": "The Awoken Hero",
+      "img": "https://den-cards.pokellector.com/226/Minccino.SM4S.42.19389.png",
+      "rarity": "Common",
+      "cardNum": "42/50"
+    },
+    {
+      "name": "Cinccino",
+      "set": "The Awoken Hero",
+      "img": "https://den-cards.pokellector.com/226/Cinccino.SM4S.43.19390.png",
+      "rarity": "Common",
+      "cardNum": "43/50"
+    },
+    {
+      "name": "Type: Null",
+      "set": "The Awoken Hero",
+      "img": "https://den-cards.pokellector.com/226/Type-Null.SM4S.44.19315.png",
+      "rarity": "Rare",
+      "cardNum": "44/50"
+    },
+    {
+      "name": "Silvally GX",
+      "set": "The Awoken Hero",
+      "img": "https://den-cards.pokellector.com/226/Silvally-GX.SM4S.45.18592.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "45/50"
+    },
+    {
+      "name": "Counter Catcher",
+      "set": "The Awoken Hero",
+      "img": "https://den-cards.pokellector.com/226/Counter-Catcher.SM4S.46.19391.png",
+      "rarity": "Uncommon",
+      "cardNum": "46/50"
+    },
+    {
+      "name": "Peeking Red Card",
+      "set": "The Awoken Hero",
+      "img": "https://den-cards.pokellector.com/226/Peeking-Red-Card.SM4S.47.19336.png",
+      "rarity": "Uncommon",
+      "cardNum": "47/50"
+    },
+    {
+      "name": "Psychic Memory",
+      "set": "The Awoken Hero",
+      "img": "https://den-cards.pokellector.com/226/Psychic-Memory.SM4S.48.19357.png",
+      "rarity": "Uncommon",
+      "cardNum": "48/50"
+    },
+    {
+      "name": "Fighting Memory",
+      "set": "The Awoken Hero",
+      "img": "https://den-cards.pokellector.com/226/Fighting-Memory.SM4S.49.19358.png",
+      "rarity": "Uncommon",
+      "cardNum": "49/50"
+    },
+    {
+      "name": "Gladion",
+      "set": "The Awoken Hero",
+      "img": "https://den-cards.pokellector.com/226/Gladion.SM4S.50.19313.png",
+      "rarity": "Uncommon",
+      "cardNum": "50/50"
+    },
+    {
+      "name": "Alolan Golem GX",
+      "set": "The Awoken Hero",
+      "img": "https://den-cards.pokellector.com/226/Alolan-Golem-GX.SM4S.51.19392.png",
+      "rarity": "Secret Rare",
+      "cardNum": "51/50"
+    },
+    {
+      "name": "Buzzwole GX",
+      "set": "The Awoken Hero",
+      "img": "https://den-cards.pokellector.com/226/Buzzwole-GX.SM4S.52.19393.png",
+      "rarity": "Secret Rare",
+      "cardNum": "52/50"
+    },
+    {
+      "name": "Kartana GX",
+      "set": "The Awoken Hero",
+      "img": "https://den-cards.pokellector.com/226/Kartana-GX.SM4S.53.19394.png",
+      "rarity": "Secret Rare",
+      "cardNum": "53/50"
+    },
+    {
+      "name": "Silvally GX",
+      "set": "The Awoken Hero",
+      "img": "https://den-cards.pokellector.com/226/Silvally-GX.SM4S.54.19318.png",
+      "rarity": "Secret Rare",
+      "cardNum": "54/50"
+    },
+    {
+      "name": "Gladion",
+      "set": "The Awoken Hero",
+      "img": "https://den-cards.pokellector.com/226/Gladion.SM4S.55.19316.png",
+      "rarity": "Secret Rare",
+      "cardNum": "55/50"
+    },
+    {
+      "name": "Alolan Golem GX",
+      "set": "The Awoken Hero",
+      "img": "https://den-cards.pokellector.com/226/Alolan-Golem-GX.SM4S.56.19395.png",
+      "rarity": "Secret Rare",
+      "cardNum": "56/50"
+    },
+    {
+      "name": "Buzzwole GX",
+      "set": "The Awoken Hero",
+      "img": "https://den-cards.pokellector.com/226/Buzzwole-GX.SM4S.57.19396.png",
+      "rarity": "Secret Rare",
+      "cardNum": "57/50"
+    },
+    {
+      "name": "Kartana GX",
+      "set": "The Awoken Hero",
+      "img": "https://den-cards.pokellector.com/226/Kartana-GX.SM4S.58.19397.png",
+      "rarity": "Secret Rare",
+      "cardNum": "58/50"
+    },
+    {
+      "name": "Silvally GX",
+      "set": "The Awoken Hero",
+      "img": "https://den-cards.pokellector.com/226/Silvally-GX.SM4S.59.19398.png",
+      "rarity": "Secret Rare",
+      "cardNum": "59/50"
+    },
+    {
+      "name": "Counter Catcher",
+      "set": "The Awoken Hero",
+      "img": "https://den-cards.pokellector.com/226/Counter-Catcher.SM4S.60.19399.png",
+      "rarity": "Secret Rare",
+      "cardNum": "60/50"
+    },
+    {
+      "name": "Warp Energy",
+      "set": "The Awoken Hero",
+      "img": "https://den-cards.pokellector.com/226/Warp-Energy.SM4S.61.19400.png",
+      "rarity": "Secret Rare",
+      "cardNum": "61/50"
+    },
+    {
+      "name": "Metal Energy",
+      "set": "The Awoken Hero",
+      "img": "https://den-cards.pokellector.com/226/Metal-Energy.SM4S.62.19401.png",
+      "rarity": "Secret Rare",
+      "cardNum": "62/50"
+    }
+  ]
+}

@@ -1,0 +1,572 @@
+{
+  "setName": "Clash at the Summit",
+  "cards": [
+    {
+      "name": "Bellsprout",
+      "set": "Clash at the Summit",
+      "img": "https://den-cards.pokellector.com/250/Bellsprout.L3.1.21960.png",
+      "rarity": "Common",
+      "cardNum": "1/80"
+    },
+    {
+      "name": "Weepinbell",
+      "set": "Clash at the Summit",
+      "img": "https://den-cards.pokellector.com/250/Weepinbell.L3.2.21961.png",
+      "rarity": "Uncommon",
+      "cardNum": "2/80"
+    },
+    {
+      "name": "Victreebel",
+      "set": "Clash at the Summit",
+      "img": "https://den-cards.pokellector.com/250/Victreebel.L3.3.21962.png",
+      "rarity": "Rare",
+      "cardNum": "3/80"
+    },
+    {
+      "name": "Yanma",
+      "set": "Clash at the Summit",
+      "img": "https://den-cards.pokellector.com/250/Yanma.L3.4.21963.png",
+      "rarity": "Common",
+      "cardNum": "4/80"
+    },
+    {
+      "name": "Yanmega",
+      "set": "Clash at the Summit",
+      "img": "https://den-cards.pokellector.com/250/Yanmega.L3.5.21964.png",
+      "rarity": "Uncommon",
+      "cardNum": "5/80"
+    },
+    {
+      "name": "Yanmega",
+      "set": "Clash at the Summit",
+      "img": "https://den-cards.pokellector.com/250/Yanmega.L3.6.21965.png",
+      "rarity": "Rare",
+      "cardNum": "6/80"
+    },
+    {
+      "name": "Celebi",
+      "set": "Clash at the Summit",
+      "img": "https://den-cards.pokellector.com/250/Celebi.L3.7.21966.png",
+      "rarity": "Rare",
+      "cardNum": "7/80"
+    },
+    {
+      "name": "Kricketot",
+      "set": "Clash at the Summit",
+      "img": "https://den-cards.pokellector.com/250/Kricketot.L3.8.21967.png",
+      "rarity": "Common",
+      "cardNum": "8/80"
+    },
+    {
+      "name": "Kricketune",
+      "set": "Clash at the Summit",
+      "img": "https://den-cards.pokellector.com/250/Kricketune.L3.9.21968.png",
+      "rarity": "Rare",
+      "cardNum": "9/80"
+    },
+    {
+      "name": "Ponyta",
+      "set": "Clash at the Summit",
+      "img": "https://den-cards.pokellector.com/250/Ponyta.L3.10.21969.png",
+      "rarity": "Common",
+      "cardNum": "10/80"
+    },
+    {
+      "name": "Rapidash",
+      "set": "Clash at the Summit",
+      "img": "https://den-cards.pokellector.com/250/Rapidash.L3.11.21970.png",
+      "rarity": "Rare",
+      "cardNum": "11/80"
+    },
+    {
+      "name": "Magby",
+      "set": "Clash at the Summit",
+      "img": "https://den-cards.pokellector.com/250/Magby.L3.12.21971.png",
+      "rarity": "Uncommon",
+      "cardNum": "12/80"
+    },
+    {
+      "name": "Magmar",
+      "set": "Clash at the Summit",
+      "img": "https://den-cards.pokellector.com/250/Magmar.L3.13.21972.png",
+      "rarity": "Uncommon",
+      "cardNum": "13/80"
+    },
+    {
+      "name": "Magmortar",
+      "set": "Clash at the Summit",
+      "img": "https://den-cards.pokellector.com/250/Magmortar.L3.14.21973.png",
+      "rarity": "Rare",
+      "cardNum": "14/80"
+    },
+    {
+      "name": "Psyduck",
+      "set": "Clash at the Summit",
+      "img": "https://den-cards.pokellector.com/250/Psyduck.L3.15.21974.png",
+      "rarity": "Common",
+      "cardNum": "15/80"
+    },
+    {
+      "name": "Golduck",
+      "set": "Clash at the Summit",
+      "img": "https://den-cards.pokellector.com/250/Golduck.L3.16.21975.png",
+      "rarity": "Rare",
+      "cardNum": "16/80"
+    },
+    {
+      "name": "Tentacool",
+      "set": "Clash at the Summit",
+      "img": "https://den-cards.pokellector.com/250/Tentacool.L3.17.21976.png",
+      "rarity": "Common",
+      "cardNum": "17/80"
+    },
+    {
+      "name": "Tentacruel",
+      "set": "Clash at the Summit",
+      "img": "https://den-cards.pokellector.com/250/Tentacruel.L3.18.21977.png",
+      "rarity": "Uncommon",
+      "cardNum": "18/80"
+    },
+    {
+      "name": "Swinub",
+      "set": "Clash at the Summit",
+      "img": "https://den-cards.pokellector.com/250/Swinub.L3.19.21978.png",
+      "rarity": "Common",
+      "cardNum": "19/80"
+    },
+    {
+      "name": "Piloswine",
+      "set": "Clash at the Summit",
+      "img": "https://den-cards.pokellector.com/250/Piloswine.L3.20.21979.png",
+      "rarity": "Uncommon",
+      "cardNum": "20/80"
+    },
+    {
+      "name": "Mamoswine",
+      "set": "Clash at the Summit",
+      "img": "https://den-cards.pokellector.com/250/Mamoswine.L3.21.21980.png",
+      "rarity": "Rare",
+      "cardNum": "21/80"
+    },
+    {
+      "name": "Wailmer",
+      "set": "Clash at the Summit",
+      "img": "https://den-cards.pokellector.com/250/Wailmer.L3.22.21981.png",
+      "rarity": "Common",
+      "cardNum": "22/80"
+    },
+    {
+      "name": "Wailord",
+      "set": "Clash at the Summit",
+      "img": "https://den-cards.pokellector.com/250/Wailord.L3.23.21982.png",
+      "rarity": "Rare",
+      "cardNum": "23/80"
+    },
+    {
+      "name": "Luvdisc",
+      "set": "Clash at the Summit",
+      "img": "https://den-cards.pokellector.com/250/Luvdisc.L3.24.21983.png",
+      "rarity": "Common",
+      "cardNum": "24/80"
+    },
+    {
+      "name": "Voltorb",
+      "set": "Clash at the Summit",
+      "img": "https://den-cards.pokellector.com/250/Voltorb.L3.25.21984.png",
+      "rarity": "Common",
+      "cardNum": "25/80"
+    },
+    {
+      "name": "Electrode",
+      "set": "Clash at the Summit",
+      "img": "https://den-cards.pokellector.com/250/Electrode.L3.26.21985.png",
+      "rarity": "Uncommon",
+      "cardNum": "26/80"
+    },
+    {
+      "name": "Electrode",
+      "set": "Clash at the Summit",
+      "img": "https://den-cards.pokellector.com/250/Electrode.L3.27.21986.png",
+      "rarity": "Rare",
+      "cardNum": "27/80"
+    },
+    {
+      "name": "Elekid",
+      "set": "Clash at the Summit",
+      "img": "https://den-cards.pokellector.com/250/Elekid.L3.28.21987.png",
+      "rarity": "Rare",
+      "cardNum": "28/80"
+    },
+    {
+      "name": "Electabuzz",
+      "set": "Clash at the Summit",
+      "img": "https://den-cards.pokellector.com/250/Electabuzz.L3.29.21988.png",
+      "rarity": "Uncommon",
+      "cardNum": "29/80"
+    },
+    {
+      "name": "Electivire",
+      "set": "Clash at the Summit",
+      "img": "https://den-cards.pokellector.com/250/Electivire.L3.30.21989.png",
+      "rarity": "Rare",
+      "cardNum": "30/80"
+    },
+    {
+      "name": "Nidoran♀",
+      "set": "Clash at the Summit",
+      "img": "https://den-cards.pokellector.com/250/Nidoran.L3.31.21990.png",
+      "rarity": "Common",
+      "cardNum": "31/80"
+    },
+    {
+      "name": "Nidorina",
+      "set": "Clash at the Summit",
+      "img": "https://den-cards.pokellector.com/250/Nidorina.L3.32.21991.png",
+      "rarity": "Uncommon",
+      "cardNum": "32/80"
+    },
+    {
+      "name": "Nidoqueen",
+      "set": "Clash at the Summit",
+      "img": "https://den-cards.pokellector.com/250/Nidoqueen.L3.33.21992.png",
+      "rarity": "Rare",
+      "cardNum": "33/80"
+    },
+    {
+      "name": "Nidoran♂",
+      "set": "Clash at the Summit",
+      "img": "https://den-cards.pokellector.com/250/Nidoran.L3.34.21993.png",
+      "rarity": "Common",
+      "cardNum": "34/80"
+    },
+    {
+      "name": "Nidorino",
+      "set": "Clash at the Summit",
+      "img": "https://den-cards.pokellector.com/250/Nidorino.L3.35.21994.png",
+      "rarity": "Uncommon",
+      "cardNum": "35/80"
+    },
+    {
+      "name": "Unown",
+      "set": "Clash at the Summit",
+      "img": "https://den-cards.pokellector.com/250/Unown.L3.36.21995.png",
+      "rarity": "Uncommon",
+      "cardNum": "36/80"
+    },
+    {
+      "name": "Celebi",
+      "set": "Clash at the Summit",
+      "img": "https://den-cards.pokellector.com/250/Celebi.L3.37.21996.png",
+      "rarity": "Rare",
+      "cardNum": "37/80"
+    },
+    {
+      "name": "Spoink",
+      "set": "Clash at the Summit",
+      "img": "https://den-cards.pokellector.com/250/Spoink.L3.38.21997.png",
+      "rarity": "Common",
+      "cardNum": "38/80"
+    },
+    {
+      "name": "Grumpig",
+      "set": "Clash at the Summit",
+      "img": "https://den-cards.pokellector.com/250/Grumpig.L3.39.21998.png",
+      "rarity": "Rare",
+      "cardNum": "39/80"
+    },
+    {
+      "name": "Skorupi",
+      "set": "Clash at the Summit",
+      "img": "https://den-cards.pokellector.com/250/Skorupi.L3.40.21999.png",
+      "rarity": "Common",
+      "cardNum": "40/80"
+    },
+    {
+      "name": "Nidoking",
+      "set": "Clash at the Summit",
+      "img": "https://den-cards.pokellector.com/250/Nidoking.L3.41.22000.png",
+      "rarity": "Rare",
+      "cardNum": "41/80"
+    },
+    {
+      "name": "Machop",
+      "set": "Clash at the Summit",
+      "img": "https://den-cards.pokellector.com/250/Machop.L3.42.22001.png",
+      "rarity": "Common",
+      "cardNum": "42/80"
+    },
+    {
+      "name": "Machoke",
+      "set": "Clash at the Summit",
+      "img": "https://den-cards.pokellector.com/250/Machoke.L3.43.22002.png",
+      "rarity": "Common",
+      "cardNum": "43/80"
+    },
+    {
+      "name": "Machamp",
+      "set": "Clash at the Summit",
+      "img": "https://den-cards.pokellector.com/250/Machamp.L3.44.22003.png",
+      "rarity": "Uncommon",
+      "cardNum": "44/80"
+    },
+    {
+      "name": "Machamp",
+      "set": "Clash at the Summit",
+      "img": "https://den-cards.pokellector.com/250/Machamp.L3.45.22004.png",
+      "rarity": "Rare",
+      "cardNum": "45/80"
+    },
+    {
+      "name": "Cubone",
+      "set": "Clash at the Summit",
+      "img": "https://den-cards.pokellector.com/250/Cubone.L3.46.22005.png",
+      "rarity": "Common",
+      "cardNum": "46/80"
+    },
+    {
+      "name": "Marowak",
+      "set": "Clash at the Summit",
+      "img": "https://den-cards.pokellector.com/250/Marowak.L3.47.22006.png",
+      "rarity": "Uncommon",
+      "cardNum": "47/80"
+    },
+    {
+      "name": "Lunatone",
+      "set": "Clash at the Summit",
+      "img": "https://den-cards.pokellector.com/250/Lunatone.L3.48.22007.png",
+      "rarity": "Rare",
+      "cardNum": "48/80"
+    },
+    {
+      "name": "Solrock",
+      "set": "Clash at the Summit",
+      "img": "https://den-cards.pokellector.com/250/Solrock.L3.49.22008.png",
+      "rarity": "Rare",
+      "cardNum": "49/80"
+    },
+    {
+      "name": "Carvanha",
+      "set": "Clash at the Summit",
+      "img": "https://den-cards.pokellector.com/250/Carvanha.L3.50.22009.png",
+      "rarity": "Common",
+      "cardNum": "50/80"
+    },
+    {
+      "name": "Sharpedo",
+      "set": "Clash at the Summit",
+      "img": "https://den-cards.pokellector.com/250/Sharpedo.L3.51.22010.png",
+      "rarity": "Rare",
+      "cardNum": "51/80"
+    },
+    {
+      "name": "Drapion",
+      "set": "Clash at the Summit",
+      "img": "https://den-cards.pokellector.com/250/Drapion.L3.52.22011.png",
+      "rarity": "Rare",
+      "cardNum": "52/80"
+    },
+    {
+      "name": "Aron",
+      "set": "Clash at the Summit",
+      "img": "https://den-cards.pokellector.com/250/Aron.L3.53.22012.png",
+      "rarity": "Common",
+      "cardNum": "53/80"
+    },
+    {
+      "name": "Lairon",
+      "set": "Clash at the Summit",
+      "img": "https://den-cards.pokellector.com/250/Lairon.L3.54.22013.png",
+      "rarity": "Uncommon",
+      "cardNum": "54/80"
+    },
+    {
+      "name": "Aggron",
+      "set": "Clash at the Summit",
+      "img": "https://den-cards.pokellector.com/250/Aggron.L3.55.22014.png",
+      "rarity": "Rare",
+      "cardNum": "55/80"
+    },
+    {
+      "name": "Bronzor",
+      "set": "Clash at the Summit",
+      "img": "https://den-cards.pokellector.com/250/Bronzor.L3.56.22015.png",
+      "rarity": "Common",
+      "cardNum": "56/80"
+    },
+    {
+      "name": "Bronzong",
+      "set": "Clash at the Summit",
+      "img": "https://den-cards.pokellector.com/250/Bronzong.L3.57.22016.png",
+      "rarity": "Rare",
+      "cardNum": "57/80"
+    },
+    {
+      "name": "Pidgey",
+      "set": "Clash at the Summit",
+      "img": "https://den-cards.pokellector.com/250/Pidgey.L3.58.22017.png",
+      "rarity": "Common",
+      "cardNum": "58/80"
+    },
+    {
+      "name": "Pidgeotto",
+      "set": "Clash at the Summit",
+      "img": "https://den-cards.pokellector.com/250/Pidgeotto.L3.59.22018.png",
+      "rarity": "Common",
+      "cardNum": "59/80"
+    },
+    {
+      "name": "Pidgeot",
+      "set": "Clash at the Summit",
+      "img": "https://den-cards.pokellector.com/250/Pidgeot.L3.60.22019.png",
+      "rarity": "Uncommon",
+      "cardNum": "60/80"
+    },
+    {
+      "name": "Lickitung",
+      "set": "Clash at the Summit",
+      "img": "https://den-cards.pokellector.com/250/Lickitung.L3.61.22020.png",
+      "rarity": "Common",
+      "cardNum": "61/80"
+    },
+    {
+      "name": "Lickilicky",
+      "set": "Clash at the Summit",
+      "img": "https://den-cards.pokellector.com/250/Lickilicky.L3.62.22021.png",
+      "rarity": "Uncommon",
+      "cardNum": "62/80"
+    },
+    {
+      "name": "Kangaskhan",
+      "set": "Clash at the Summit",
+      "img": "https://den-cards.pokellector.com/250/Kangaskhan.L3.63.22022.png",
+      "rarity": "Common",
+      "cardNum": "63/80"
+    },
+    {
+      "name": "Ditto",
+      "set": "Clash at the Summit",
+      "img": "https://den-cards.pokellector.com/250/Ditto.L3.64.22023.png",
+      "rarity": "Rare",
+      "cardNum": "64/80"
+    },
+    {
+      "name": "Porygon",
+      "set": "Clash at the Summit",
+      "img": "https://den-cards.pokellector.com/250/Porygon.L3.65.22024.png",
+      "rarity": "Common",
+      "cardNum": "65/80"
+    },
+    {
+      "name": "Porygon2",
+      "set": "Clash at the Summit",
+      "img": "https://den-cards.pokellector.com/250/Porygon2.L3.66.22025.png",
+      "rarity": "Common",
+      "cardNum": "66/80"
+    },
+    {
+      "name": "Porygon-Z",
+      "set": "Clash at the Summit",
+      "img": "https://den-cards.pokellector.com/250/Porygon-Z.L3.67.22026.png",
+      "rarity": "Rare",
+      "cardNum": "67/80"
+    },
+    {
+      "name": "Aipom",
+      "set": "Clash at the Summit",
+      "img": "https://den-cards.pokellector.com/250/Aipom.L3.68.22027.png",
+      "rarity": "Common",
+      "cardNum": "68/80"
+    },
+    {
+      "name": "Ambipom",
+      "set": "Clash at the Summit",
+      "img": "https://den-cards.pokellector.com/250/Ambipom.L3.69.22028.png",
+      "rarity": "Rare",
+      "cardNum": "69/80"
+    },
+    {
+      "name": "Kyogre & Groudon LEGEND",
+      "set": "Clash at the Summit",
+      "img": "https://den-cards.pokellector.com/250/Kyogre-Groudon-LEGEND.L3.70.22029.png",
+      "rarity": "Rare",
+      "cardNum": "70/80"
+    },
+    {
+      "name": "Kyogre & Groudon LEGEND",
+      "set": "Clash at the Summit",
+      "img": "https://den-cards.pokellector.com/250/Kyogre-Groudon-LEGEND.L3.71.22030.png",
+      "rarity": "Rare",
+      "cardNum": "71/80"
+    },
+    {
+      "name": "Palkia & Dialga LEGEND",
+      "set": "Clash at the Summit",
+      "img": "https://den-cards.pokellector.com/250/Palkia-Dialga-LEGEND.L3.72.22031.png",
+      "rarity": "Rare",
+      "cardNum": "72/80"
+    },
+    {
+      "name": "Palkia & Dialga LEGEND",
+      "set": "Clash at the Summit",
+      "img": "https://den-cards.pokellector.com/250/Palkia-Dialga-LEGEND.L3.73.22032.png",
+      "rarity": "Rare",
+      "cardNum": "73/80"
+    },
+    {
+      "name": "Rayquaza & Deoxys LEGEND",
+      "set": "Clash at the Summit",
+      "img": "https://den-cards.pokellector.com/250/Rayquaza-Deoxys-LEGEND.L3.74.22033.png",
+      "rarity": "Rare",
+      "cardNum": "74/80"
+    },
+    {
+      "name": "Rayquaza & Deoxys LEGEND",
+      "set": "Clash at the Summit",
+      "img": "https://den-cards.pokellector.com/250/Rayquaza-Deoxys-LEGEND.L3.75.22034.png",
+      "rarity": "Rare",
+      "cardNum": "75/80"
+    },
+    {
+      "name": "Junk Arm",
+      "set": "Clash at the Summit",
+      "img": "https://den-cards.pokellector.com/250/Junk-Arm.L3.76.22035.png",
+      "rarity": "Uncommon",
+      "cardNum": "76/80"
+    },
+    {
+      "name": "Black Belt",
+      "set": "Clash at the Summit",
+      "img": "https://den-cards.pokellector.com/250/Black-Belt.L3.77.22036.png",
+      "rarity": "Uncommon",
+      "cardNum": "77/80"
+    },
+    {
+      "name": "Twins",
+      "set": "Clash at the Summit",
+      "img": "https://den-cards.pokellector.com/250/Twins.L3.78.22037.png",
+      "rarity": "Uncommon",
+      "cardNum": "78/80"
+    },
+    {
+      "name": "Indigo Plateau",
+      "set": "Clash at the Summit",
+      "img": "https://den-cards.pokellector.com/250/Indigo-Plateau.L3.79.22038.png",
+      "rarity": "Uncommon",
+      "cardNum": "79/80"
+    },
+    {
+      "name": "Rescue Energy",
+      "set": "Clash at the Summit",
+      "img": "https://den-cards.pokellector.com/250/Rescue-Energy.L3.80.22039.png",
+      "rarity": "Uncommon",
+      "cardNum": "80/80"
+    },
+    {
+      "name": "Alph Lithograph",
+      "set": "Clash at the Summit",
+      "img": "https://www.pokellector.com/images/card-placeholder.png",
+      "rarity": "Secret Rare",
+      "cardNum": "81/80"
+    }
+  ]
+}

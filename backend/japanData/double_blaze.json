@@ -1,0 +1,817 @@
+{
+  "setName": "Double Blaze",
+  "cards": [
+    {
+      "name": "Oddish",
+      "set": "Double Blaze",
+      "img": "https://den-cards.pokellector.com/266/Oddish.SM10.1.26868.png",
+      "rarity": "Common",
+      "cardNum": "1/95"
+    },
+    {
+      "name": "Oddish",
+      "set": "Double Blaze",
+      "img": "https://den-cards.pokellector.com/266/Oddish.SM10.2.26869.png",
+      "rarity": "Common",
+      "cardNum": "2/95"
+    },
+    {
+      "name": "Gloom",
+      "set": "Double Blaze",
+      "img": "https://den-cards.pokellector.com/266/Gloom.SM10.3.26870.png",
+      "rarity": "Common",
+      "cardNum": "3/95"
+    },
+    {
+      "name": "Vileplume",
+      "set": "Double Blaze",
+      "img": "https://den-cards.pokellector.com/266/Vileplume.SM10.4.26871.png",
+      "rarity": "Rare",
+      "cardNum": "4/95"
+    },
+    {
+      "name": "Venonat",
+      "set": "Double Blaze",
+      "img": "https://den-cards.pokellector.com/266/Venonat.SM10.5.26872.png",
+      "rarity": "Common",
+      "cardNum": "5/95"
+    },
+    {
+      "name": "Venemoth",
+      "set": "Double Blaze",
+      "img": "https://den-cards.pokellector.com/266/Venemoth.SM10.6.26860.png",
+      "rarity": "Uncommon",
+      "cardNum": "6/95"
+    },
+    {
+      "name": "Charizard & Reshiram GX",
+      "set": "Double Blaze",
+      "img": "https://den-cards.pokellector.com/266/Charizard-Reshiram-GX.SM10.7.26839.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "7/95"
+    },
+    {
+      "name": "Growlithe",
+      "set": "Double Blaze",
+      "img": "https://den-cards.pokellector.com/266/Growlithe.SM10.8.26873.png",
+      "rarity": "Common",
+      "cardNum": "8/95"
+    },
+    {
+      "name": "Arcanine",
+      "set": "Double Blaze",
+      "img": "https://den-cards.pokellector.com/266/Arcanine.SM10.9.26874.png",
+      "rarity": "Rare",
+      "cardNum": "9/95"
+    },
+    {
+      "name": "Darumaka",
+      "set": "Double Blaze",
+      "img": "https://den-cards.pokellector.com/266/Darumaka.SM10.10.26875.png",
+      "rarity": "Common",
+      "cardNum": "10/95"
+    },
+    {
+      "name": "Darmanitan",
+      "set": "Double Blaze",
+      "img": "https://den-cards.pokellector.com/266/Darmanitan.SM10.11.26876.png",
+      "rarity": "Uncommon",
+      "cardNum": "11/95"
+    },
+    {
+      "name": "Volcanion",
+      "set": "Double Blaze",
+      "img": "https://den-cards.pokellector.com/266/Volcanion.SM10.12.26840.png",
+      "rarity": "Rare",
+      "cardNum": "12/95"
+    },
+    {
+      "name": "Litten",
+      "set": "Double Blaze",
+      "img": "https://den-cards.pokellector.com/266/Litten.SM10.13.26877.png",
+      "rarity": "Common",
+      "cardNum": "13/95"
+    },
+    {
+      "name": "Litten",
+      "set": "Double Blaze",
+      "img": "https://den-cards.pokellector.com/266/Litten.SM10.14.26878.png",
+      "rarity": "Common",
+      "cardNum": "14/95"
+    },
+    {
+      "name": "Torracat",
+      "set": "Double Blaze",
+      "img": "https://den-cards.pokellector.com/266/Torracat.SM10.15.26879.png",
+      "rarity": "Common",
+      "cardNum": "15/95"
+    },
+    {
+      "name": "Incineroar",
+      "set": "Double Blaze",
+      "img": "https://den-cards.pokellector.com/266/Incineroar.SM10.16.26880.png",
+      "rarity": "Uncommon",
+      "cardNum": "16/95"
+    },
+    {
+      "name": "Salandit",
+      "set": "Double Blaze",
+      "img": "https://den-cards.pokellector.com/266/Salandit.SM10.17.26881.png",
+      "rarity": "Common",
+      "cardNum": "17/95"
+    },
+    {
+      "name": "Salazzle",
+      "set": "Double Blaze",
+      "img": "https://den-cards.pokellector.com/266/Salazzle.SM10.18.26882.png",
+      "rarity": "Uncommon",
+      "cardNum": "18/95"
+    },
+    {
+      "name": "Blacephalon",
+      "set": "Double Blaze",
+      "img": "https://den-cards.pokellector.com/266/Blacephalon.SM10.19.26883.png",
+      "rarity": "Uncommon",
+      "cardNum": "19/95"
+    },
+    {
+      "name": "Poliwag",
+      "set": "Double Blaze",
+      "img": "https://den-cards.pokellector.com/266/Poliwag.SM10.20.26884.png",
+      "rarity": "Common",
+      "cardNum": "20/95"
+    },
+    {
+      "name": "Poliwag",
+      "set": "Double Blaze",
+      "img": "https://den-cards.pokellector.com/266/Poliwag.SM10.21.26885.png",
+      "rarity": "Common",
+      "cardNum": "21/95"
+    },
+    {
+      "name": "Poliwhirl",
+      "set": "Double Blaze",
+      "img": "https://den-cards.pokellector.com/266/Poliwhirl.SM10.22.26886.png",
+      "rarity": "Common",
+      "cardNum": "22/95"
+    },
+    {
+      "name": "Poliwrath",
+      "set": "Double Blaze",
+      "img": "https://den-cards.pokellector.com/266/Poliwrath.SM10.23.26887.png",
+      "rarity": "Uncommon",
+      "cardNum": "23/95"
+    },
+    {
+      "name": "Seel",
+      "set": "Double Blaze",
+      "img": "https://den-cards.pokellector.com/266/Seel.SM10.24.26888.png",
+      "rarity": "Common",
+      "cardNum": "24/95"
+    },
+    {
+      "name": "Dewgong",
+      "set": "Double Blaze",
+      "img": "https://den-cards.pokellector.com/266/Dewgong.SM10.25.26889.png",
+      "rarity": "Uncommon",
+      "cardNum": "25/95"
+    },
+    {
+      "name": "Krabby",
+      "set": "Double Blaze",
+      "img": "https://den-cards.pokellector.com/266/Krabby.SM10.26.26890.png",
+      "rarity": "Common",
+      "cardNum": "26/95"
+    },
+    {
+      "name": "Kingler",
+      "set": "Double Blaze",
+      "img": "https://den-cards.pokellector.com/266/Kingler.SM10.27.26891.png",
+      "rarity": "Uncommon",
+      "cardNum": "27/95"
+    },
+    {
+      "name": "Stunfisk",
+      "set": "Double Blaze",
+      "img": "https://den-cards.pokellector.com/266/Stunfisk.SM10.28.26857.png",
+      "rarity": "Uncommon",
+      "cardNum": "28/95"
+    },
+    {
+      "name": "Muk & Alolan Muk GX",
+      "set": "Double Blaze",
+      "img": "https://den-cards.pokellector.com/266/Muk-Alolan-Muk-GX.SM10.29.26843.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "29/95"
+    },
+    {
+      "name": "Gastly",
+      "set": "Double Blaze",
+      "img": "https://den-cards.pokellector.com/266/Gastly.SM10.30.26892.png",
+      "rarity": "Common",
+      "cardNum": "30/95"
+    },
+    {
+      "name": "Gastly",
+      "set": "Double Blaze",
+      "img": "https://den-cards.pokellector.com/266/Gastly.SM10.31.26893.png",
+      "rarity": "Common",
+      "cardNum": "31/95"
+    },
+    {
+      "name": "Haunter",
+      "set": "Double Blaze",
+      "img": "https://den-cards.pokellector.com/266/Haunter.SM10.32.26894.png",
+      "rarity": "Common",
+      "cardNum": "32/95"
+    },
+    {
+      "name": "Gengar",
+      "set": "Double Blaze",
+      "img": "https://den-cards.pokellector.com/266/Gengar.SM10.33.26895.png",
+      "rarity": "Uncommon",
+      "cardNum": "33/95"
+    },
+    {
+      "name": "Koffing",
+      "set": "Double Blaze",
+      "img": "https://den-cards.pokellector.com/266/Koffing.SM10.34.26896.png",
+      "rarity": "Common",
+      "cardNum": "34/95"
+    },
+    {
+      "name": "Weezing",
+      "set": "Double Blaze",
+      "img": "https://den-cards.pokellector.com/266/Weezing.SM10.35.26897.png",
+      "rarity": "Uncommon",
+      "cardNum": "35/95"
+    },
+    {
+      "name": "Mewtwo",
+      "set": "Double Blaze",
+      "img": "https://den-cards.pokellector.com/266/Mewtwo.SM10.36.26863.png",
+      "rarity": "Rare",
+      "cardNum": "36/95"
+    },
+    {
+      "name": "Mew",
+      "set": "Double Blaze",
+      "img": "https://den-cards.pokellector.com/266/Mew.SM10.37.26855.png",
+      "rarity": "Rare",
+      "cardNum": "37/95"
+    },
+    {
+      "name": "Misdreavus",
+      "set": "Double Blaze",
+      "img": "https://den-cards.pokellector.com/266/Misdreavus.SM10.38.26898.png",
+      "rarity": "Common",
+      "cardNum": "38/95"
+    },
+    {
+      "name": "Mismagius",
+      "set": "Double Blaze",
+      "img": "https://den-cards.pokellector.com/266/Mismagius.SM10.39.26899.png",
+      "rarity": "Uncommon",
+      "cardNum": "39/95"
+    },
+    {
+      "name": "Espurr",
+      "set": "Double Blaze",
+      "img": "https://den-cards.pokellector.com/266/Espurr.SM10.40.26900.png",
+      "rarity": "Common",
+      "cardNum": "40/95"
+    },
+    {
+      "name": "Meowstic",
+      "set": "Double Blaze",
+      "img": "https://den-cards.pokellector.com/266/Meowstic.SM10.41.26901.png",
+      "rarity": "Uncommon",
+      "cardNum": "41/95"
+    },
+    {
+      "name": "Marshadow & Machamp GX",
+      "set": "Double Blaze",
+      "img": "https://den-cards.pokellector.com/266/Marshadow-Machamp-GX.SM10.42.26859.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "42/95"
+    },
+    {
+      "name": "Diglett",
+      "set": "Double Blaze",
+      "img": "https://den-cards.pokellector.com/266/Diglett.SM10.43.26902.png",
+      "rarity": "Common",
+      "cardNum": "43/95"
+    },
+    {
+      "name": "Dugtrio",
+      "set": "Double Blaze",
+      "img": "https://den-cards.pokellector.com/266/Dugtrio.SM10.44.26903.png",
+      "rarity": "Uncommon",
+      "cardNum": "44/95"
+    },
+    {
+      "name": "Cubone",
+      "set": "Double Blaze",
+      "img": "https://den-cards.pokellector.com/266/Cubone.SM10.45.26904.png",
+      "rarity": "Common",
+      "cardNum": "45/95"
+    },
+    {
+      "name": "Marowak",
+      "set": "Double Blaze",
+      "img": "https://den-cards.pokellector.com/266/Marowak.SM10.46.26905.png",
+      "rarity": "Uncommon",
+      "cardNum": "46/95"
+    },
+    {
+      "name": "Rhyhorn",
+      "set": "Double Blaze",
+      "img": "https://den-cards.pokellector.com/266/Rhyhorn.SM10.47.26906.png",
+      "rarity": "Common",
+      "cardNum": "47/95"
+    },
+    {
+      "name": "Rhyhorn",
+      "set": "Double Blaze",
+      "img": "https://den-cards.pokellector.com/266/Rhyhorn.SM10.48.26907.png",
+      "rarity": "Common",
+      "cardNum": "48/95"
+    },
+    {
+      "name": "Rhydon",
+      "set": "Double Blaze",
+      "img": "https://den-cards.pokellector.com/266/Rhydon.SM10.49.26908.png",
+      "rarity": "Common",
+      "cardNum": "49/95"
+    },
+    {
+      "name": "Rhyperior",
+      "set": "Double Blaze",
+      "img": "https://den-cards.pokellector.com/266/Rhyperior.SM10.50.26909.png",
+      "rarity": "Uncommon",
+      "cardNum": "50/95"
+    },
+    {
+      "name": "Tyrogue",
+      "set": "Double Blaze",
+      "img": "https://den-cards.pokellector.com/266/Tyrogue.SM10.51.26910.png",
+      "rarity": "Common",
+      "cardNum": "51/95"
+    },
+    {
+      "name": "Landorus",
+      "set": "Double Blaze",
+      "img": "https://den-cards.pokellector.com/266/Landorus.SM10.52.26911.png",
+      "rarity": "Rare",
+      "cardNum": "52/95"
+    },
+    {
+      "name": "Crabrawler",
+      "set": "Double Blaze",
+      "img": "https://den-cards.pokellector.com/266/Crabrawler.SM10.53.26912.png",
+      "rarity": "Common",
+      "cardNum": "53/95"
+    },
+    {
+      "name": "Crabominable",
+      "set": "Double Blaze",
+      "img": "https://den-cards.pokellector.com/266/Crabominable.SM10.54.26913.png",
+      "rarity": "Uncommon",
+      "cardNum": "54/95"
+    },
+    {
+      "name": "Murkrow",
+      "set": "Double Blaze",
+      "img": "https://den-cards.pokellector.com/266/Murkrow.SM10.55.26914.png",
+      "rarity": "Common",
+      "cardNum": "55/95"
+    },
+    {
+      "name": "Honchkrow GX",
+      "set": "Double Blaze",
+      "img": "https://den-cards.pokellector.com/266/Honchkrow-GX.SM10.56.26844.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "56/95"
+    },
+    {
+      "name": "Spiritomb",
+      "set": "Double Blaze",
+      "img": "https://den-cards.pokellector.com/266/Spiritomb.SM10.57.26856.png",
+      "rarity": "Rare",
+      "cardNum": "57/95"
+    },
+    {
+      "name": "Sandile",
+      "set": "Double Blaze",
+      "img": "https://den-cards.pokellector.com/266/Sandile.SM10.58.26915.png",
+      "rarity": "Common",
+      "cardNum": "58/95"
+    },
+    {
+      "name": "Sandile",
+      "set": "Double Blaze",
+      "img": "https://den-cards.pokellector.com/266/Sandile.SM10.59.26916.png",
+      "rarity": "Common",
+      "cardNum": "59/95"
+    },
+    {
+      "name": "Krokorok",
+      "set": "Double Blaze",
+      "img": "https://den-cards.pokellector.com/266/Krokorok.SM10.60.26917.png",
+      "rarity": "Common",
+      "cardNum": "60/95"
+    },
+    {
+      "name": "Krookodile",
+      "set": "Double Blaze",
+      "img": "https://den-cards.pokellector.com/266/Krookodile.SM10.61.26918.png",
+      "rarity": "Uncommon",
+      "cardNum": "61/95"
+    },
+    {
+      "name": "Jigglypuff",
+      "set": "Double Blaze",
+      "img": "https://den-cards.pokellector.com/266/Jigglypuff.SM10.62.26919.png",
+      "rarity": "Common",
+      "cardNum": "62/95"
+    },
+    {
+      "name": "Wigglytuff",
+      "set": "Double Blaze",
+      "img": "https://den-cards.pokellector.com/266/Wigglytuff.SM10.63.26920.png",
+      "rarity": "Uncommon",
+      "cardNum": "63/95"
+    },
+    {
+      "name": "Cleffa",
+      "set": "Double Blaze",
+      "img": "https://den-cards.pokellector.com/266/Cleffa.SM10.64.26921.png",
+      "rarity": "Common",
+      "cardNum": "64/95"
+    },
+    {
+      "name": "Cottonee",
+      "set": "Double Blaze",
+      "img": "https://den-cards.pokellector.com/266/Cottonee.SM10.65.26922.png",
+      "rarity": "Common",
+      "cardNum": "65/95"
+    },
+    {
+      "name": "Whimsicott GX",
+      "set": "Double Blaze",
+      "img": "https://den-cards.pokellector.com/266/Whimsicott-GX.SM10.66.26845.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "66/95"
+    },
+    {
+      "name": "Meowth",
+      "set": "Double Blaze",
+      "img": "https://den-cards.pokellector.com/266/Meowth.SM10.67.26923.png",
+      "rarity": "Common",
+      "cardNum": "67/95"
+    },
+    {
+      "name": "Persian",
+      "set": "Double Blaze",
+      "img": "https://den-cards.pokellector.com/266/Persian.SM10.68.26924.png",
+      "rarity": "Uncommon",
+      "cardNum": "68/95"
+    },
+    {
+      "name": "Persian GX",
+      "set": "Double Blaze",
+      "img": "https://den-cards.pokellector.com/266/Persian-GX.SM10.69.26925.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "69/95"
+    },
+    {
+      "name": "Doduo",
+      "set": "Double Blaze",
+      "img": "https://den-cards.pokellector.com/266/Doduo.SM10.70.26926.png",
+      "rarity": "Common",
+      "cardNum": "70/95"
+    },
+    {
+      "name": "Dodrio",
+      "set": "Double Blaze",
+      "img": "https://den-cards.pokellector.com/266/Dodrio.SM10.71.26927.png",
+      "rarity": "Common",
+      "cardNum": "71/95"
+    },
+    {
+      "name": "Porygon",
+      "set": "Double Blaze",
+      "img": "https://den-cards.pokellector.com/266/Porygon.SM10.72.26928.png",
+      "rarity": "Common",
+      "cardNum": "72/95"
+    },
+    {
+      "name": "Porygon",
+      "set": "Double Blaze",
+      "img": "https://den-cards.pokellector.com/266/Porygon.SM10.73.26929.png",
+      "rarity": "Common",
+      "cardNum": "73/95"
+    },
+    {
+      "name": "Porygon2",
+      "set": "Double Blaze",
+      "img": "https://den-cards.pokellector.com/266/Porygon2.SM10.74.26930.png",
+      "rarity": "Common",
+      "cardNum": "74/95"
+    },
+    {
+      "name": "Porygon-Z",
+      "set": "Double Blaze",
+      "img": "https://den-cards.pokellector.com/266/Porygon-Z.SM10.75.26861.png",
+      "rarity": "Rare",
+      "cardNum": "75/95"
+    },
+    {
+      "name": "Snorlax",
+      "set": "Double Blaze",
+      "img": "https://den-cards.pokellector.com/266/Snorlax.SM10.76.26931.png",
+      "rarity": "Rare",
+      "cardNum": "76/95"
+    },
+    {
+      "name": "Happiny",
+      "set": "Double Blaze",
+      "img": "https://den-cards.pokellector.com/266/Happiny.SM10.77.26932.png",
+      "rarity": "Common",
+      "cardNum": "77/95"
+    },
+    {
+      "name": "Chatot",
+      "set": "Double Blaze",
+      "img": "https://den-cards.pokellector.com/266/Chatot.SM10.78.26933.png",
+      "rarity": "Common",
+      "cardNum": "78/95"
+    },
+    {
+      "name": "Escape Rope",
+      "set": "Double Blaze",
+      "img": "https://den-cards.pokellector.com/266/Escape-Rope.SM10.79.26934.png",
+      "rarity": "Uncommon",
+      "cardNum": "79/95"
+    },
+    {
+      "name": "Zag Zag Pickel",
+      "set": "Double Blaze",
+      "img": "https://den-cards.pokellector.com/266/Zag-Zag-Pickel.SM10.80.26935.png",
+      "rarity": "Uncommon",
+      "cardNum": "80/95"
+    },
+    {
+      "name": "Ultra Ball",
+      "set": "Double Blaze",
+      "img": "https://den-cards.pokellector.com/266/Ultra-Ball.SM10.81.26936.png",
+      "rarity": "Uncommon",
+      "cardNum": "81/95"
+    },
+    {
+      "name": "Rare Candy",
+      "set": "Double Blaze",
+      "img": "https://den-cards.pokellector.com/266/Rare-Candy.SM10.82.26937.png",
+      "rarity": "Uncommon",
+      "cardNum": "82/95"
+    },
+    {
+      "name": "Fire Crystal",
+      "set": "Double Blaze",
+      "img": "https://den-cards.pokellector.com/266/Fire-Crystal.SM10.83.26938.png",
+      "rarity": "Uncommon",
+      "cardNum": "83/95"
+    },
+    {
+      "name": "Dusk Stone",
+      "set": "Double Blaze",
+      "img": "https://den-cards.pokellector.com/266/Dusk-Stone.SM10.84.26862.png",
+      "rarity": "Uncommon",
+      "cardNum": "84/95"
+    },
+    {
+      "name": "Gionvanni’s Exile",
+      "set": "Double Blaze",
+      "img": "https://den-cards.pokellector.com/266/Gionvannis-Exile.SM10.85.26864.png",
+      "rarity": "Uncommon",
+      "cardNum": "85/95"
+    },
+    {
+      "name": "Pokémon Fan Club",
+      "set": "Double Blaze",
+      "img": "https://den-cards.pokellector.com/266/Pokeacutemon-Fan-Club.SM10.86.26939.png",
+      "rarity": "Uncommon",
+      "cardNum": "86/95"
+    },
+    {
+      "name": "Welder",
+      "set": "Double Blaze",
+      "img": "https://den-cards.pokellector.com/266/Welder.SM10.87.26940.png",
+      "rarity": "Uncommon",
+      "cardNum": "87/95"
+    },
+    {
+      "name": "Red's Challenge",
+      "set": "Double Blaze",
+      "img": "https://den-cards.pokellector.com/266/Reds-Challenge.SM10.88.26941.png",
+      "rarity": "Rare",
+      "cardNum": "88/95"
+    },
+    {
+      "name": "Fighting Dojo",
+      "set": "Double Blaze",
+      "img": "https://den-cards.pokellector.com/266/Fighting-Dojo.SM10.89.26942.png",
+      "rarity": "Uncommon",
+      "cardNum": "89/95"
+    },
+    {
+      "name": "Dust Island",
+      "set": "Double Blaze",
+      "img": "https://den-cards.pokellector.com/266/Dust-Island.SM10.90.26858.png",
+      "rarity": "Uncommon",
+      "cardNum": "90/95"
+    },
+    {
+      "name": "Triple Boost Energy",
+      "set": "Double Blaze",
+      "img": "https://den-cards.pokellector.com/266/Triple-Boost-Energy.SM10.91.26846.png",
+      "rarity": "Uncommon",
+      "cardNum": "91/95"
+    },
+    {
+      "name": "Fiery Flint",
+      "set": "Double Blaze",
+      "img": "https://den-cards.pokellector.com/266/Fiery-Flint.SM10.92.26943.png",
+      "rarity": "Rare",
+      "cardNum": "92/95"
+    },
+    {
+      "name": "Rescue Stretcher",
+      "set": "Double Blaze",
+      "img": "https://den-cards.pokellector.com/266/Rescue-Stretcher.SM10.93.26944.png",
+      "rarity": "Rare",
+      "cardNum": "93/95"
+    },
+    {
+      "name": "Kiawe",
+      "set": "Double Blaze",
+      "img": "https://den-cards.pokellector.com/266/Kiawe.SM10.94.26945.png",
+      "rarity": "Rare",
+      "cardNum": "94/95"
+    },
+    {
+      "name": "Cynthia",
+      "set": "Double Blaze",
+      "img": "https://den-cards.pokellector.com/266/Cynthia.SM10.95.26946.png",
+      "rarity": "Rare",
+      "cardNum": "95/95"
+    },
+    {
+      "name": "Charizard & Reshiram GX",
+      "set": "Double Blaze",
+      "img": "https://den-cards.pokellector.com/266/Charizard-Reshiram-GX.SM10.96.26952.png",
+      "rarity": "Secret Rare",
+      "cardNum": "96/95"
+    },
+    {
+      "name": "Charizard & Reshiram GX",
+      "set": "Double Blaze",
+      "img": "https://den-cards.pokellector.com/266/Charizard-Reshiram-GX.SM10.97.26947.png",
+      "rarity": "Secret Rare",
+      "cardNum": "97/95"
+    },
+    {
+      "name": "Muk & Alolan Muk GX",
+      "set": "Double Blaze",
+      "img": "https://den-cards.pokellector.com/266/Muk-Alolan-Muk-GX.SM10.98.26964.png",
+      "rarity": "Secret Rare",
+      "cardNum": "98/95"
+    },
+    {
+      "name": "Muk & Alolan Muk GX",
+      "set": "Double Blaze",
+      "img": "https://den-cards.pokellector.com/266/Muk-Alolan-Muk-GX.SM10.99.26961.png",
+      "rarity": "Secret Rare",
+      "cardNum": "99/95"
+    },
+    {
+      "name": "Marshadow & Machamp GX",
+      "set": "Double Blaze",
+      "img": "https://den-cards.pokellector.com/266/Marshadow-Machamp-GX.SM10.100.26967.png",
+      "rarity": "Secret Rare",
+      "cardNum": "100/95"
+    },
+    {
+      "name": "Marshadow & Machamp GX",
+      "set": "Double Blaze",
+      "img": "https://den-cards.pokellector.com/266/Marshadow-Machamp-GX.SM10.101.26958.png",
+      "rarity": "Secret Rare",
+      "cardNum": "101/95"
+    },
+    {
+      "name": "Honchkrow GX",
+      "set": "Double Blaze",
+      "img": "https://den-cards.pokellector.com/266/Honchkrow-GX.SM10.102.26963.png",
+      "rarity": "Secret Rare",
+      "cardNum": "102/95"
+    },
+    {
+      "name": "Whimsicott GX",
+      "set": "Double Blaze",
+      "img": "https://den-cards.pokellector.com/266/Whimsicott-GX.SM10.103.26965.png",
+      "rarity": "Secret Rare",
+      "cardNum": "103/95"
+    },
+    {
+      "name": "Persian GX",
+      "set": "Double Blaze",
+      "img": "https://den-cards.pokellector.com/266/Persian-GX.SM10.104.26966.png",
+      "rarity": "Secret Rare",
+      "cardNum": "104/95"
+    },
+    {
+      "name": "Giovanni’s Exile",
+      "set": "Double Blaze",
+      "img": "https://den-cards.pokellector.com/266/Giovannis-Exile.SM10.105.26954.png",
+      "rarity": "Secret Rare",
+      "cardNum": "105/95"
+    },
+    {
+      "name": "Welder",
+      "set": "Double Blaze",
+      "img": "https://den-cards.pokellector.com/266/Welder.SM10.106.26948.png",
+      "rarity": "Secret Rare",
+      "cardNum": "106/95"
+    },
+    {
+      "name": "Red's Challenge",
+      "set": "Double Blaze",
+      "img": "https://den-cards.pokellector.com/266/Reds-Challenge.SM10.107.26950.png",
+      "rarity": "Secret Rare",
+      "cardNum": "107/95"
+    },
+    {
+      "name": "Charizard & Reshiram GX",
+      "set": "Double Blaze",
+      "img": "https://den-cards.pokellector.com/266/Charizard-Reshiram-GX.SM10.108.26951.png",
+      "rarity": "Secret Rare",
+      "cardNum": "108/95"
+    },
+    {
+      "name": "Muk & Alolan Muk GX",
+      "set": "Double Blaze",
+      "img": "https://den-cards.pokellector.com/266/Muk-Alolan-Muk-GX.SM10.109.26959.png",
+      "rarity": "Secret Rare",
+      "cardNum": "109/95"
+    },
+    {
+      "name": "Marshadow & Machamp GX",
+      "set": "Double Blaze",
+      "img": "https://den-cards.pokellector.com/266/Marshadow-Machamp-GX.SM10.110.26962.png",
+      "rarity": "Secret Rare",
+      "cardNum": "110/95"
+    },
+    {
+      "name": "Honchkrow GX",
+      "set": "Double Blaze",
+      "img": "https://den-cards.pokellector.com/266/Honchkrow-GX.SM10.111.26957.png",
+      "rarity": "Secret Rare",
+      "cardNum": "111/95"
+    },
+    {
+      "name": "Whimsicott GX",
+      "set": "Double Blaze",
+      "img": "https://den-cards.pokellector.com/266/Whimsicott-GX.SM10.112.26956.png",
+      "rarity": "Secret Rare",
+      "cardNum": "112/95"
+    },
+    {
+      "name": "Persian GX",
+      "set": "Double Blaze",
+      "img": "https://den-cards.pokellector.com/266/Persian-GX.SM10.113.26960.png",
+      "rarity": "Secret Rare",
+      "cardNum": "113/95"
+    },
+    {
+      "name": "Fire Crystal",
+      "set": "Double Blaze",
+      "img": "https://den-cards.pokellector.com/266/Fire-Crystal.SM10.114.26955.png",
+      "rarity": "Secret Rare",
+      "cardNum": "114/95"
+    },
+    {
+      "name": "Shrine of Punishment",
+      "set": "Double Blaze",
+      "img": "https://den-cards.pokellector.com/266/Shrine-of-Punishment.SM10.115.26953.png",
+      "rarity": "Secret Rare",
+      "cardNum": "115/95"
+    },
+    {
+      "name": "Triple Boost Energy",
+      "set": "Double Blaze",
+      "img": "https://den-cards.pokellector.com/266/Triple-Boost-Energy.SM10.116.26949.png",
+      "rarity": "Secret Rare",
+      "cardNum": "116/95"
+    }
+  ]
+}

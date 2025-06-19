@@ -1,0 +1,936 @@
+{
+  "setName": "Platinum",
+  "cards": [
+    {
+      "name": "Ampharos",
+      "set": "Platinum",
+      "img": "https://den-cards.pokellector.com/38/Ampharos.PL.1.png",
+      "rarity": "Rare",
+      "cardNum": "1/127"
+    },
+    {
+      "name": "Blastoise",
+      "set": "Platinum",
+      "img": "https://den-cards.pokellector.com/38/Blastoise.PL.2.png",
+      "rarity": "Rare",
+      "cardNum": "2/127"
+    },
+    {
+      "name": "Blaziken",
+      "set": "Platinum",
+      "img": "https://den-cards.pokellector.com/38/Blaziken.PL.3.png",
+      "rarity": "Rare",
+      "cardNum": "3/127"
+    },
+    {
+      "name": "Delcatty",
+      "set": "Platinum",
+      "img": "https://den-cards.pokellector.com/38/Delcatty.PL.4.png",
+      "rarity": "Rare",
+      "cardNum": "4/127"
+    },
+    {
+      "name": "Dialga",
+      "set": "Platinum",
+      "img": "https://den-cards.pokellector.com/38/Dialga.PL.5.png",
+      "rarity": "Rare",
+      "cardNum": "5/127"
+    },
+    {
+      "name": "Dialga",
+      "set": "Platinum",
+      "img": "https://den-cards.pokellector.com/38/Dialga.PL.6.png",
+      "rarity": "Rare",
+      "cardNum": "6/127"
+    },
+    {
+      "name": "Dialga G",
+      "set": "Platinum",
+      "img": "https://den-cards.pokellector.com/38/Diagla-G.PL.7.png",
+      "rarity": "Rare",
+      "cardNum": "7/127"
+    },
+    {
+      "name": "Gardevoir",
+      "set": "Platinum",
+      "img": "https://den-cards.pokellector.com/38/Gardevoir.PL.8.png",
+      "rarity": "Rare",
+      "cardNum": "8/127"
+    },
+    {
+      "name": "Giratina",
+      "set": "Platinum",
+      "img": "https://den-cards.pokellector.com/38/Giratina.PL.9.png",
+      "rarity": "Rare",
+      "cardNum": "9/127"
+    },
+    {
+      "name": "Giratina",
+      "set": "Platinum",
+      "img": "https://den-cards.pokellector.com/38/Giratina.PL.10.png",
+      "rarity": "Rare",
+      "cardNum": "10/127"
+    },
+    {
+      "name": "Manectric",
+      "set": "Platinum",
+      "img": "https://den-cards.pokellector.com/38/Manectric.PL.11.png",
+      "rarity": "Rare",
+      "cardNum": "11/127"
+    },
+    {
+      "name": "Palkia G",
+      "set": "Platinum",
+      "img": "https://den-cards.pokellector.com/38/Palkia-G.PL.12.png",
+      "rarity": "Rare",
+      "cardNum": "12/127"
+    },
+    {
+      "name": "Rampardos",
+      "set": "Platinum",
+      "img": "https://den-cards.pokellector.com/38/Rampardos.PL.13.png",
+      "rarity": "Rare",
+      "cardNum": "13/127"
+    },
+    {
+      "name": "Shaymin",
+      "set": "Platinum",
+      "img": "https://den-cards.pokellector.com/38/Shaymin.PL.14.png",
+      "rarity": "Rare",
+      "cardNum": "14/127"
+    },
+    {
+      "name": "Shaymin",
+      "set": "Platinum",
+      "img": "https://den-cards.pokellector.com/38/Shaymin.PL.15.png",
+      "rarity": "Rare",
+      "cardNum": "15/127"
+    },
+    {
+      "name": "Slaking",
+      "set": "Platinum",
+      "img": "https://den-cards.pokellector.com/38/Slaking.PL.16.png",
+      "rarity": "Rare",
+      "cardNum": "16/127"
+    },
+    {
+      "name": "Weavile G",
+      "set": "Platinum",
+      "img": "https://den-cards.pokellector.com/38/Weavile-G.PL.17.png",
+      "rarity": "Rare",
+      "cardNum": "17/127"
+    },
+    {
+      "name": "Altaria",
+      "set": "Platinum",
+      "img": "https://den-cards.pokellector.com/38/Altatia.PL.18.png",
+      "rarity": "Rare",
+      "cardNum": "18/127"
+    },
+    {
+      "name": "Banette",
+      "set": "Platinum",
+      "img": "https://den-cards.pokellector.com/38/Banette.PL.19.png",
+      "rarity": "Rare",
+      "cardNum": "19/127"
+    },
+    {
+      "name": "Bastiodon",
+      "set": "Platinum",
+      "img": "https://den-cards.pokellector.com/38/Bastiodon.PL.20.png",
+      "rarity": "Rare",
+      "cardNum": "20/127"
+    },
+    {
+      "name": "Beautifly",
+      "set": "Platinum",
+      "img": "https://den-cards.pokellector.com/38/Beautifly.PL.21.png",
+      "rarity": "Rare",
+      "cardNum": "21/127"
+    },
+    {
+      "name": "Blissey",
+      "set": "Platinum",
+      "img": "https://den-cards.pokellector.com/38/Blissey.PL.22.png",
+      "rarity": "Rare",
+      "cardNum": "22/127"
+    },
+    {
+      "name": "Dialga",
+      "set": "Platinum",
+      "img": "https://den-cards.pokellector.com/38/Dialga.PL.23.png",
+      "rarity": "Rare",
+      "cardNum": "23/127"
+    },
+    {
+      "name": "Dugtrio",
+      "set": "Platinum",
+      "img": "https://den-cards.pokellector.com/38/Dugtrio.PL.24.png",
+      "rarity": "Rare",
+      "cardNum": "24/127"
+    },
+    {
+      "name": "Dustox",
+      "set": "Platinum",
+      "img": "https://den-cards.pokellector.com/38/Dustox.PL.25.png",
+      "rarity": "Rare",
+      "cardNum": "25/127"
+    },
+    {
+      "name": "Empoleon",
+      "set": "Platinum",
+      "img": "https://den-cards.pokellector.com/38/Empoleon.PL.26.png",
+      "rarity": "Rare",
+      "cardNum": "26/127"
+    },
+    {
+      "name": "Giratina",
+      "set": "Platinum",
+      "img": "https://den-cards.pokellector.com/38/Giratina.PL.27.png",
+      "rarity": "Rare",
+      "cardNum": "27/127"
+    },
+    {
+      "name": "Giratina",
+      "set": "Platinum",
+      "img": "https://den-cards.pokellector.com/38/Giratina.PL.28.png",
+      "rarity": "Rare",
+      "cardNum": "28/127"
+    },
+    {
+      "name": "Golduck",
+      "set": "Platinum",
+      "img": "https://den-cards.pokellector.com/38/Golduck.PL.29.png",
+      "rarity": "Rare",
+      "cardNum": "29/127"
+    },
+    {
+      "name": "Gyarados G",
+      "set": "Platinum",
+      "img": "https://den-cards.pokellector.com/38/Gyarados-G.PL.30.png",
+      "rarity": "Rare",
+      "cardNum": "30/127"
+    },
+    {
+      "name": "Infernape",
+      "set": "Platinum",
+      "img": "https://den-cards.pokellector.com/38/Infernape.PL.31.png",
+      "rarity": "Rare",
+      "cardNum": "31/127"
+    },
+    {
+      "name": "Kricketune",
+      "set": "Platinum",
+      "img": "https://den-cards.pokellector.com/38/Kricketune.PL.32.png",
+      "rarity": "Rare",
+      "cardNum": "32/127"
+    },
+    {
+      "name": "Lickilicky",
+      "set": "Platinum",
+      "img": "https://den-cards.pokellector.com/38/Lickilicky.PL.33.png",
+      "rarity": "Rare",
+      "cardNum": "33/127"
+    },
+    {
+      "name": "Ludicolo",
+      "set": "Platinum",
+      "img": "https://den-cards.pokellector.com/38/Ludicolo.PL.34.png",
+      "rarity": "Rare",
+      "cardNum": "34/127"
+    },
+    {
+      "name": "Luvdisc",
+      "set": "Platinum",
+      "img": "https://den-cards.pokellector.com/38/Luvdisc.PL.35.png",
+      "rarity": "Rare",
+      "cardNum": "35/127"
+    },
+    {
+      "name": "Ninetales",
+      "set": "Platinum",
+      "img": "https://den-cards.pokellector.com/38/Ninetales.PL.36.png",
+      "rarity": "Rare",
+      "cardNum": "36/127"
+    },
+    {
+      "name": "Palkia",
+      "set": "Platinum",
+      "img": "https://den-cards.pokellector.com/38/Palkia.PL.37.png",
+      "rarity": "Rare",
+      "cardNum": "37/127"
+    },
+    {
+      "name": "Shaymin",
+      "set": "Platinum",
+      "img": "https://den-cards.pokellector.com/38/Shaymin.PL.38.png",
+      "rarity": "Rare",
+      "cardNum": "38/127"
+    },
+    {
+      "name": "Torterra",
+      "set": "Platinum",
+      "img": "https://den-cards.pokellector.com/38/Torterra.PL.39.png",
+      "rarity": "Rare",
+      "cardNum": "39/127"
+    },
+    {
+      "name": "Toxicroak G",
+      "set": "Platinum",
+      "img": "https://den-cards.pokellector.com/38/Toxicroak-G.PL.40.png",
+      "rarity": "Rare",
+      "cardNum": "40/127"
+    },
+    {
+      "name": "Bronzong G",
+      "set": "Platinum",
+      "img": "https://den-cards.pokellector.com/38/Bronzong-G.PL.41.png",
+      "rarity": "Uncommon",
+      "cardNum": "41/127"
+    },
+    {
+      "name": "Cacturne",
+      "set": "Platinum",
+      "img": "https://den-cards.pokellector.com/38/Cacturne.PL.42.png",
+      "rarity": "Uncommon",
+      "cardNum": "42/127"
+    },
+    {
+      "name": "Carnivine",
+      "set": "Platinum",
+      "img": "https://den-cards.pokellector.com/38/Carnivine.PL.43.png",
+      "rarity": "Uncommon",
+      "cardNum": "43/127"
+    },
+    {
+      "name": "Cascoon",
+      "set": "Platinum",
+      "img": "https://den-cards.pokellector.com/38/Cascoon.PL.44.png",
+      "rarity": "Uncommon",
+      "cardNum": "44/127"
+    },
+    {
+      "name": "Combusken",
+      "set": "Platinum",
+      "img": "https://den-cards.pokellector.com/38/Combusken.PL.45.png",
+      "rarity": "Uncommon",
+      "cardNum": "45/127"
+    },
+    {
+      "name": "Cranidos",
+      "set": "Platinum",
+      "img": "https://den-cards.pokellector.com/38/Cranidos.PL.46.png",
+      "rarity": "Uncommon",
+      "cardNum": "46/127"
+    },
+    {
+      "name": "Crobat G",
+      "set": "Platinum",
+      "img": "https://den-cards.pokellector.com/38/Crobat-G.PL.47.png",
+      "rarity": "Uncommon",
+      "cardNum": "47/127"
+    },
+    {
+      "name": "Flaaffy",
+      "set": "Platinum",
+      "img": "https://den-cards.pokellector.com/38/Flaaffy.PL.48.png",
+      "rarity": "Uncommon",
+      "cardNum": "48/127"
+    },
+    {
+      "name": "Grotle",
+      "set": "Platinum",
+      "img": "https://den-cards.pokellector.com/38/Grotle.PL.49.png",
+      "rarity": "Uncommon",
+      "cardNum": "49/127"
+    },
+    {
+      "name": "Houndoom G",
+      "set": "Platinum",
+      "img": "https://den-cards.pokellector.com/38/Houndoom-G.PL.50.png",
+      "rarity": "Uncommon",
+      "cardNum": "50/127"
+    },
+    {
+      "name": "Kirlia",
+      "set": "Platinum",
+      "img": "https://den-cards.pokellector.com/38/Kirlia.PL.51.png",
+      "rarity": "Uncommon",
+      "cardNum": "51/127"
+    },
+    {
+      "name": "Lombre",
+      "set": "Platinum",
+      "img": "https://den-cards.pokellector.com/38/Lombre.PL.52.png",
+      "rarity": "Uncommon",
+      "cardNum": "52/127"
+    },
+    {
+      "name": "Lucario",
+      "set": "Platinum",
+      "img": "https://den-cards.pokellector.com/38/Lucario.PL.53.png",
+      "rarity": "Uncommon",
+      "cardNum": "53/127"
+    },
+    {
+      "name": "Mightyena",
+      "set": "Platinum",
+      "img": "https://den-cards.pokellector.com/38/Mightyena.PL.54.png",
+      "rarity": "Uncommon",
+      "cardNum": "54/127"
+    },
+    {
+      "name": "Mismagius",
+      "set": "Platinum",
+      "img": "https://den-cards.pokellector.com/38/Mismagius.PL.55.png",
+      "rarity": "Uncommon",
+      "cardNum": "55/127"
+    },
+    {
+      "name": "Monferno",
+      "set": "Platinum",
+      "img": "https://den-cards.pokellector.com/38/Monferno.PL.56.png",
+      "rarity": "Uncommon",
+      "cardNum": "56/127"
+    },
+    {
+      "name": "Muk",
+      "set": "Platinum",
+      "img": "https://den-cards.pokellector.com/38/Muk.PL.57.png",
+      "rarity": "Uncommon",
+      "cardNum": "57/127"
+    },
+    {
+      "name": "Octillery",
+      "set": "Platinum",
+      "img": "https://den-cards.pokellector.com/38/Octillery.PL.58.png",
+      "rarity": "Uncommon",
+      "cardNum": "58/127"
+    },
+    {
+      "name": "Prinplup",
+      "set": "Platinum",
+      "img": "https://den-cards.pokellector.com/38/Prinplup.PL.59.png",
+      "rarity": "Uncommon",
+      "cardNum": "59/127"
+    },
+    {
+      "name": "Probopass",
+      "set": "Platinum",
+      "img": "https://den-cards.pokellector.com/38/Probopass.PL.60.png",
+      "rarity": "Uncommon",
+      "cardNum": "60/127"
+    },
+    {
+      "name": "Seviper",
+      "set": "Platinum",
+      "img": "https://den-cards.pokellector.com/38/Seviper.PL.61.png",
+      "rarity": "Uncommon",
+      "cardNum": "61/127"
+    },
+    {
+      "name": "Shieldon",
+      "set": "Platinum",
+      "img": "https://den-cards.pokellector.com/38/Shieldon.PL.62.png",
+      "rarity": "Uncommon",
+      "cardNum": "62/127"
+    },
+    {
+      "name": "Silcoon",
+      "set": "Platinum",
+      "img": "https://den-cards.pokellector.com/38/Silcoon.PL.63.png",
+      "rarity": "Uncommon",
+      "cardNum": "63/127"
+    },
+    {
+      "name": "Vigoroth",
+      "set": "Platinum",
+      "img": "https://den-cards.pokellector.com/38/Vigoroth.PL.64.png",
+      "rarity": "Uncommon",
+      "cardNum": "64/127"
+    },
+    {
+      "name": "Wartortle",
+      "set": "Platinum",
+      "img": "https://den-cards.pokellector.com/38/Wartortle.PL.65.png",
+      "rarity": "Uncommon",
+      "cardNum": "65/127"
+    },
+    {
+      "name": "Zangoose",
+      "set": "Platinum",
+      "img": "https://den-cards.pokellector.com/38/Zangoose.PL.66.png",
+      "rarity": "Uncommon",
+      "cardNum": "66/127"
+    },
+    {
+      "name": "Cacnea",
+      "set": "Platinum",
+      "img": "https://den-cards.pokellector.com/38/Cacnea.PL.67.png",
+      "rarity": "Common",
+      "cardNum": "67/127"
+    },
+    {
+      "name": "Carnivine",
+      "set": "Platinum",
+      "img": "https://den-cards.pokellector.com/38/Carnivine.PL.68.png",
+      "rarity": "Common",
+      "cardNum": "68/127"
+    },
+    {
+      "name": "Chansey",
+      "set": "Platinum",
+      "img": "https://den-cards.pokellector.com/38/Chansey.PL.69.png",
+      "rarity": "Common",
+      "cardNum": "69/127"
+    },
+    {
+      "name": "Chimchar",
+      "set": "Platinum",
+      "img": "https://den-cards.pokellector.com/38/Chimchar.PL.70.png",
+      "rarity": "Common",
+      "cardNum": "70/127"
+    },
+    {
+      "name": "Combee",
+      "set": "Platinum",
+      "img": "https://den-cards.pokellector.com/38/Combee.PL.71.png",
+      "rarity": "Common",
+      "cardNum": "71/127"
+    },
+    {
+      "name": "Diglett",
+      "set": "Platinum",
+      "img": "https://den-cards.pokellector.com/38/Diglett.PL.72.png",
+      "rarity": "Common",
+      "cardNum": "72/127"
+    },
+    {
+      "name": "Dunsparce",
+      "set": "Platinum",
+      "img": "https://den-cards.pokellector.com/38/Dunsparce.PL.73.png",
+      "rarity": "Common",
+      "cardNum": "73/127"
+    },
+    {
+      "name": "Electrike",
+      "set": "Platinum",
+      "img": "https://den-cards.pokellector.com/38/Electrike.PL.74.png",
+      "rarity": "Common",
+      "cardNum": "74/127"
+    },
+    {
+      "name": "Grimer",
+      "set": "Platinum",
+      "img": "https://den-cards.pokellector.com/38/Grimer.PL.75.png",
+      "rarity": "Common",
+      "cardNum": "75/127"
+    },
+    {
+      "name": "Happiny",
+      "set": "Platinum",
+      "img": "https://den-cards.pokellector.com/38/Happiny.PL.76.png",
+      "rarity": "Common",
+      "cardNum": "76/127"
+    },
+    {
+      "name": "Honchkrow G",
+      "set": "Platinum",
+      "img": "https://den-cards.pokellector.com/38/Honchkrow-G.PL.77.png",
+      "rarity": "Common",
+      "cardNum": "77/127"
+    },
+    {
+      "name": "Kricketot",
+      "set": "Platinum",
+      "img": "https://den-cards.pokellector.com/38/Kricketot.PL.78.png",
+      "rarity": "Common",
+      "cardNum": "78/127"
+    },
+    {
+      "name": "Lapras",
+      "set": "Platinum",
+      "img": "https://den-cards.pokellector.com/38/Lapras.PL.79.png",
+      "rarity": "Common",
+      "cardNum": "79/127"
+    },
+    {
+      "name": "Lickitung",
+      "set": "Platinum",
+      "img": "https://den-cards.pokellector.com/38/Lickitung.PL.80.png",
+      "rarity": "Common",
+      "cardNum": "80/127"
+    },
+    {
+      "name": "Lotad",
+      "set": "Platinum",
+      "img": "https://den-cards.pokellector.com/38/Lotad.PL.81.png",
+      "rarity": "Common",
+      "cardNum": "81/127"
+    },
+    {
+      "name": "Mareep",
+      "set": "Platinum",
+      "img": "https://den-cards.pokellector.com/38/Mareep.PL.82.png",
+      "rarity": "Common",
+      "cardNum": "82/127"
+    },
+    {
+      "name": "Misdreavus",
+      "set": "Platinum",
+      "img": "https://den-cards.pokellector.com/38/Misdreavus.PL.83.png",
+      "rarity": "Common",
+      "cardNum": "83/127"
+    },
+    {
+      "name": "Nosepass",
+      "set": "Platinum",
+      "img": "https://den-cards.pokellector.com/38/Nosepass.PL.84.png",
+      "rarity": "Common",
+      "cardNum": "84/127"
+    },
+    {
+      "name": "Piplup",
+      "set": "Platinum",
+      "img": "https://den-cards.pokellector.com/38/Piplup.PL.85.png",
+      "rarity": "Common",
+      "cardNum": "85/127"
+    },
+    {
+      "name": "Poochyena",
+      "set": "Platinum",
+      "img": "https://den-cards.pokellector.com/38/Poochyena.PL.86.png",
+      "rarity": "Common",
+      "cardNum": "86/127"
+    },
+    {
+      "name": "Psyduck",
+      "set": "Platinum",
+      "img": "https://den-cards.pokellector.com/38/Psyduck.PL.87.png",
+      "rarity": "Common",
+      "cardNum": "87/127"
+    },
+    {
+      "name": "Purugly G",
+      "set": "Platinum",
+      "img": "https://den-cards.pokellector.com/38/Purugly-G.PL.88.png",
+      "rarity": "Common",
+      "cardNum": "88/127"
+    },
+    {
+      "name": "Ralts",
+      "set": "Platinum",
+      "img": "https://den-cards.pokellector.com/38/Ralts.PL.89.png",
+      "rarity": "Common",
+      "cardNum": "89/127"
+    },
+    {
+      "name": "Remoraid",
+      "set": "Platinum",
+      "img": "https://den-cards.pokellector.com/38/Remoraid.PL.90.png",
+      "rarity": "Common",
+      "cardNum": "90/127"
+    },
+    {
+      "name": "Riolu",
+      "set": "Platinum",
+      "img": "https://den-cards.pokellector.com/38/Riolu.PL.91.png",
+      "rarity": "Common",
+      "cardNum": "91/127"
+    },
+    {
+      "name": "Shuppet",
+      "set": "Platinum",
+      "img": "https://den-cards.pokellector.com/38/Shuppet.PL.92.png",
+      "rarity": "Common",
+      "cardNum": "92/127"
+    },
+    {
+      "name": "Skitty",
+      "set": "Platinum",
+      "img": "https://den-cards.pokellector.com/38/Skitty.PL.93.png",
+      "rarity": "Common",
+      "cardNum": "93/127"
+    },
+    {
+      "name": "Skuntank G",
+      "set": "Platinum",
+      "img": "https://den-cards.pokellector.com/38/Skuntank-G.PL.94.png",
+      "rarity": "Common",
+      "cardNum": "94/127"
+    },
+    {
+      "name": "Slakoth",
+      "set": "Platinum",
+      "img": "https://den-cards.pokellector.com/38/Slakoth.PL.95.png",
+      "rarity": "Common",
+      "cardNum": "95/127"
+    },
+    {
+      "name": "Squirtle",
+      "set": "Platinum",
+      "img": "https://den-cards.pokellector.com/38/Squirtle.PL.96.png",
+      "rarity": "Common",
+      "cardNum": "96/127"
+    },
+    {
+      "name": "Swablu",
+      "set": "Platinum",
+      "img": "https://den-cards.pokellector.com/38/Swablu.PL.97.png",
+      "rarity": "Common",
+      "cardNum": "97/127"
+    },
+    {
+      "name": "Tauros",
+      "set": "Platinum",
+      "img": "https://den-cards.pokellector.com/38/Tauros.PL.98.png",
+      "rarity": "Common",
+      "cardNum": "98/127"
+    },
+    {
+      "name": "Torchic",
+      "set": "Platinum",
+      "img": "https://den-cards.pokellector.com/38/Torchic.PL.99.png",
+      "rarity": "Common",
+      "cardNum": "99/127"
+    },
+    {
+      "name": "Torkoal",
+      "set": "Platinum",
+      "img": "https://den-cards.pokellector.com/38/Torkoal.PL.100.png",
+      "rarity": "Common",
+      "cardNum": "100/127"
+    },
+    {
+      "name": "Turtwig",
+      "set": "Platinum",
+      "img": "https://den-cards.pokellector.com/38/Turtwig.PL.101.png",
+      "rarity": "Common",
+      "cardNum": "101/127"
+    },
+    {
+      "name": "Vulpix",
+      "set": "Platinum",
+      "img": "https://den-cards.pokellector.com/38/Vulpix.PL.102.png",
+      "rarity": "Common",
+      "cardNum": "102/127"
+    },
+    {
+      "name": "Wurmple",
+      "set": "Platinum",
+      "img": "https://den-cards.pokellector.com/38/Wurmple.PL.103.png",
+      "rarity": "Common",
+      "cardNum": "103/127"
+    },
+    {
+      "name": "Broken Time-Space",
+      "set": "Platinum",
+      "img": "https://den-cards.pokellector.com/38/Broken-Time-Space.PL.104.png",
+      "rarity": "Uncommon",
+      "cardNum": "104/127"
+    },
+    {
+      "name": "Cyrus's Conspiracy",
+      "set": "Platinum",
+      "img": "https://den-cards.pokellector.com/38/Cyruss-Conspiracy.PL.105.png",
+      "rarity": "Uncommon",
+      "cardNum": "105/127"
+    },
+    {
+      "name": "Galactic HQ",
+      "set": "Platinum",
+      "img": "https://den-cards.pokellector.com/38/Galactic-HQ.PL.106.png",
+      "rarity": "Uncommon",
+      "cardNum": "106/127"
+    },
+    {
+      "name": "Level Max",
+      "set": "Platinum",
+      "img": "https://den-cards.pokellector.com/38/Level-Max.PL.107.png",
+      "rarity": "Uncommon",
+      "cardNum": "107/127"
+    },
+    {
+      "name": "Life Herb",
+      "set": "Platinum",
+      "img": "https://den-cards.pokellector.com/38/Life-Herb.PL.108.png",
+      "rarity": "Uncommon",
+      "cardNum": "108/127"
+    },
+    {
+      "name": "Looker's Investigation",
+      "set": "Platinum",
+      "img": "https://den-cards.pokellector.com/38/Lookers-Investigation.PL.109.png",
+      "rarity": "Uncommon",
+      "cardNum": "109/127"
+    },
+    {
+      "name": "Memory Berry",
+      "set": "Platinum",
+      "img": "https://den-cards.pokellector.com/38/Memory-Berry.PL.110.png",
+      "rarity": "Uncommon",
+      "cardNum": "110/127"
+    },
+    {
+      "name": "Miasma Valley",
+      "set": "Platinum",
+      "img": "https://den-cards.pokellector.com/38/Miasma-Valley.PL.111.png",
+      "rarity": "Uncommon",
+      "cardNum": "111/127"
+    },
+    {
+      "name": "Pluspower",
+      "set": "Platinum",
+      "img": "https://den-cards.pokellector.com/38/Pluspower.PL.112.png",
+      "rarity": "Uncommon",
+      "cardNum": "112/127"
+    },
+    {
+      "name": "Poke Ball",
+      "set": "Platinum",
+      "img": "https://den-cards.pokellector.com/38/Poke-Ball.PL.113.png",
+      "rarity": "Uncommon",
+      "cardNum": "113/127"
+    },
+    {
+      "name": "Pokedex Handy 910is",
+      "set": "Platinum",
+      "img": "https://den-cards.pokellector.com/38/Pokedex-Handy-910is.PL.114.png",
+      "rarity": "Uncommon",
+      "cardNum": "114/127"
+    },
+    {
+      "name": "Pokemon Rescue",
+      "set": "Platinum",
+      "img": "https://den-cards.pokellector.com/38/Pokemon-Rescue.PL.115.png",
+      "rarity": "Uncommon",
+      "cardNum": "115/127"
+    },
+    {
+      "name": "Energy Gain",
+      "set": "Platinum",
+      "img": "https://den-cards.pokellector.com/38/Energy-Gain.PL.116.png",
+      "rarity": "Uncommon",
+      "cardNum": "116/127"
+    },
+    {
+      "name": "Power Spray",
+      "set": "Platinum",
+      "img": "https://den-cards.pokellector.com/38/Power-Spray.PL.117.png",
+      "rarity": "Uncommon",
+      "cardNum": "117/127"
+    },
+    {
+      "name": "Poke Turn",
+      "set": "Platinum",
+      "img": "https://den-cards.pokellector.com/38/Poke-Turn.PL.118.png",
+      "rarity": "Uncommon",
+      "cardNum": "118/127"
+    },
+    {
+      "name": "Armor Fossil",
+      "set": "Platinum",
+      "img": "https://den-cards.pokellector.com/38/Armor-Fossil.PL.119.png",
+      "rarity": "Common",
+      "cardNum": "119/127"
+    },
+    {
+      "name": "Skull Fossil",
+      "set": "Platinum",
+      "img": "https://den-cards.pokellector.com/38/Skull-Fossil.PL.120.png",
+      "rarity": "Common",
+      "cardNum": "120/127"
+    },
+    {
+      "name": "Rainbow Energy",
+      "set": "Platinum",
+      "img": "https://den-cards.pokellector.com/38/Rainbow-Energy.PL.121.png",
+      "rarity": "Uncommon",
+      "cardNum": "121/127"
+    },
+    {
+      "name": "Dialga G LV. X",
+      "set": "Platinum",
+      "img": "https://den-cards.pokellector.com/38/Dialga-G-LV-X.PL.122.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "122/127"
+    },
+    {
+      "name": "Drapion LV. X",
+      "set": "Platinum",
+      "img": "https://den-cards.pokellector.com/38/Drapion-LV-X.PL.123.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "123/127"
+    },
+    {
+      "name": "Giratina LV. X",
+      "set": "Platinum",
+      "img": "https://den-cards.pokellector.com/38/Giratina-LV-X.PL.124.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "124/127"
+    },
+    {
+      "name": "Palkia G LV. X",
+      "set": "Platinum",
+      "img": "https://den-cards.pokellector.com/38/Palkia-G-LV-X.PL.125.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "125/127"
+    },
+    {
+      "name": "Shaymin LV. X",
+      "set": "Platinum",
+      "img": "https://den-cards.pokellector.com/38/Shaymin-LV-X.PL.126.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "126/127"
+    },
+    {
+      "name": "Shaymin LV. X",
+      "set": "Platinum",
+      "img": "https://den-cards.pokellector.com/38/Shaymin-LV-X.PL.127.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "127/127"
+    },
+    {
+      "name": "Electabuzz",
+      "set": "Platinum",
+      "img": "https://den-cards.pokellector.com/38/Electabuzz.PL.128.png",
+      "rarity": "Secret Rare",
+      "cardNum": "128/127"
+    },
+    {
+      "name": "Hitmonchan",
+      "set": "Platinum",
+      "img": "https://den-cards.pokellector.com/38/Hitmonchan.PL.129.png",
+      "rarity": "Secret Rare",
+      "cardNum": "129/127"
+    },
+    {
+      "name": "Scyther",
+      "set": "Platinum",
+      "img": "https://den-cards.pokellector.com/38/Scyther.PL.130.png",
+      "rarity": "Secret Rare",
+      "cardNum": "130/127"
+    },
+    {
+      "name": "Lotad",
+      "set": "Platinum",
+      "img": "https://den-cards.pokellector.com/38/Lotad.PL.4.png",
+      "rarity": "Secret Rare",
+      "cardNum": "SH4"
+    },
+    {
+      "name": "Swablu",
+      "set": "Platinum",
+      "img": "https://den-cards.pokellector.com/38/Swablu.PL.5.png",
+      "rarity": "Secret Rare",
+      "cardNum": "SH5"
+    },
+    {
+      "name": "Vulpix",
+      "set": "Platinum",
+      "img": "https://den-cards.pokellector.com/38/Vulpix.PL.6.png",
+      "rarity": "Secret Rare",
+      "cardNum": "SH6"
+    }
+  ]
+}

@@ -1,0 +1,530 @@
+{
+  "setName": "Dream League",
+  "cards": [
+    {
+      "name": "Oddish",
+      "set": "Dream League",
+      "img": "https://den-cards.pokellector.com/278/Oddish.SM11B.1.29291.png",
+      "rarity": "Common",
+      "cardNum": "1/49"
+    },
+    {
+      "name": "Gloom",
+      "set": "Dream League",
+      "img": "https://den-cards.pokellector.com/278/Gloom.SM11B.2.29292.png",
+      "rarity": "Common",
+      "cardNum": "2/49"
+    },
+    {
+      "name": "Vileplume GX",
+      "set": "Dream League",
+      "img": "https://den-cards.pokellector.com/278/Vileplume-GX.SM11B.3.29264.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "3/49"
+    },
+    {
+      "name": "Slugma",
+      "set": "Dream League",
+      "img": "https://den-cards.pokellector.com/278/Slugma.SM11B.4.29293.png",
+      "rarity": "Common",
+      "cardNum": "4/49"
+    },
+    {
+      "name": "Magcargo",
+      "set": "Dream League",
+      "img": "https://den-cards.pokellector.com/278/Magcargo.SM11B.5.29294.png",
+      "rarity": "Uncommon",
+      "cardNum": "5/49"
+    },
+    {
+      "name": "Torkoal",
+      "set": "Dream League",
+      "img": "https://den-cards.pokellector.com/278/Torkoal.SM11B.6.29295.png",
+      "rarity": "Uncommon",
+      "cardNum": "6/49"
+    },
+    {
+      "name": "Sneasel",
+      "set": "Dream League",
+      "img": "https://den-cards.pokellector.com/278/Sneasel.SM11B.7.29296.png",
+      "rarity": "Common",
+      "cardNum": "7/49"
+    },
+    {
+      "name": "Weavile",
+      "set": "Dream League",
+      "img": "https://den-cards.pokellector.com/278/Weavile.SM11B.8.29286.png",
+      "rarity": "Uncommon",
+      "cardNum": "8/49"
+    },
+    {
+      "name": "Piplup",
+      "set": "Dream League",
+      "img": "https://den-cards.pokellector.com/278/Piplup.SM11B.9.29274.png",
+      "rarity": "Common",
+      "cardNum": "9/49"
+    },
+    {
+      "name": "Prinplup",
+      "set": "Dream League",
+      "img": "https://den-cards.pokellector.com/278/Prinplup.SM11B.10.29297.png",
+      "rarity": "Common",
+      "cardNum": "10/49"
+    },
+    {
+      "name": "Empoleon",
+      "set": "Dream League",
+      "img": "https://den-cards.pokellector.com/278/Empoleon.SM11B.11.29271.png",
+      "rarity": "Uncommon",
+      "cardNum": "11/49"
+    },
+    {
+      "name": "Tympole",
+      "set": "Dream League",
+      "img": "https://den-cards.pokellector.com/278/Tympole.SM11B.12.29298.png",
+      "rarity": "Common",
+      "cardNum": "12/49"
+    },
+    {
+      "name": "Wishiwashi",
+      "set": "Dream League",
+      "img": "https://den-cards.pokellector.com/278/Wishiwashi.SM11B.13.29299.png",
+      "rarity": "Rare",
+      "cardNum": "13/49"
+    },
+    {
+      "name": "Dewpider",
+      "set": "Dream League",
+      "img": "https://den-cards.pokellector.com/278/Dewpider.SM11B.14.29300.png",
+      "rarity": "Common",
+      "cardNum": "14/49"
+    },
+    {
+      "name": "Araquanid",
+      "set": "Dream League",
+      "img": "https://den-cards.pokellector.com/278/Araquanid.SM11B.15.29301.png",
+      "rarity": "Common",
+      "cardNum": "15/49"
+    },
+    {
+      "name": "Pikachu",
+      "set": "Dream League",
+      "img": "https://den-cards.pokellector.com/278/Pikachu.SM11B.16.29284.png",
+      "rarity": "Common",
+      "cardNum": "16/49"
+    },
+    {
+      "name": "Raichu",
+      "set": "Dream League",
+      "img": "https://den-cards.pokellector.com/278/Raichu.SM11B.17.29285.png",
+      "rarity": "Uncommon",
+      "cardNum": "17/49"
+    },
+    {
+      "name": "Magnemite",
+      "set": "Dream League",
+      "img": "https://den-cards.pokellector.com/278/Magnemite.SM11B.18.29302.png",
+      "rarity": "Common",
+      "cardNum": "18/49"
+    },
+    {
+      "name": "Magneton",
+      "set": "Dream League",
+      "img": "https://den-cards.pokellector.com/278/Magneton.SM11B.19.29273.png",
+      "rarity": "Rare",
+      "cardNum": "19/49"
+    },
+    {
+      "name": "Solgaleo & Lunala GX",
+      "set": "Dream League",
+      "img": "https://den-cards.pokellector.com/278/Solgaleo-Lunala-GX.SM11B.20.29032.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "20/49"
+    },
+    {
+      "name": "Koffing",
+      "set": "Dream League",
+      "img": "https://den-cards.pokellector.com/278/Koffing.SM11B.21.29266.png",
+      "rarity": "Common",
+      "cardNum": "21/49"
+    },
+    {
+      "name": "Weezing",
+      "set": "Dream League",
+      "img": "https://den-cards.pokellector.com/278/Weezing.SM11B.22.29303.png",
+      "rarity": "Uncommon",
+      "cardNum": "22/49"
+    },
+    {
+      "name": "Natu",
+      "set": "Dream League",
+      "img": "https://den-cards.pokellector.com/278/Natu.SM11B.23.29304.png",
+      "rarity": "Common",
+      "cardNum": "23/49"
+    },
+    {
+      "name": "Xatu",
+      "set": "Dream League",
+      "img": "https://den-cards.pokellector.com/278/Xatu.SM11B.24.29287.png",
+      "rarity": "Uncommon",
+      "cardNum": "24/49"
+    },
+    {
+      "name": "Ralts",
+      "set": "Dream League",
+      "img": "https://den-cards.pokellector.com/278/Ralts.SM11B.25.29305.png",
+      "rarity": "Common",
+      "cardNum": "25/49"
+    },
+    {
+      "name": "Kirlia",
+      "set": "Dream League",
+      "img": "https://den-cards.pokellector.com/278/Kirlia.SM11B.26.29306.png",
+      "rarity": "Common",
+      "cardNum": "26/49"
+    },
+    {
+      "name": "Gallade",
+      "set": "Dream League",
+      "img": "https://den-cards.pokellector.com/278/Gallade.SM11B.27.29307.png",
+      "rarity": "Rare",
+      "cardNum": "27/49"
+    },
+    {
+      "name": "Mimikyu",
+      "set": "Dream League",
+      "img": "https://den-cards.pokellector.com/278/Mimikyu.SM11B.28.29276.png",
+      "rarity": "Common",
+      "cardNum": "28/49"
+    },
+    {
+      "name": "Onix",
+      "set": "Dream League",
+      "img": "https://den-cards.pokellector.com/278/Onix.SM11B.29.29308.png",
+      "rarity": "Common",
+      "cardNum": "29/49"
+    },
+    {
+      "name": "Drilbur",
+      "set": "Dream League",
+      "img": "https://den-cards.pokellector.com/278/Drilbur.SM11B.30.29309.png",
+      "rarity": "Common",
+      "cardNum": "30/49"
+    },
+    {
+      "name": "Excadrill",
+      "set": "Dream League",
+      "img": "https://den-cards.pokellector.com/278/Excadrill.SM11B.31.29269.png",
+      "rarity": "Rare",
+      "cardNum": "31/49"
+    },
+    {
+      "name": "Palpitoad",
+      "set": "Dream League",
+      "img": "https://den-cards.pokellector.com/278/Palpitoad.SM11B.32.29310.png",
+      "rarity": "Common",
+      "cardNum": "32/49"
+    },
+    {
+      "name": "Seismitoad",
+      "set": "Dream League",
+      "img": "https://den-cards.pokellector.com/278/Seismitoad.SM11B.33.29311.png",
+      "rarity": "Uncommon",
+      "cardNum": "33/49"
+    },
+    {
+      "name": "Steelix",
+      "set": "Dream League",
+      "img": "https://den-cards.pokellector.com/278/Steelix.SM11B.34.29272.png",
+      "rarity": "Rare",
+      "cardNum": "34/49"
+    },
+    {
+      "name": "Clefairy",
+      "set": "Dream League",
+      "img": "https://den-cards.pokellector.com/278/Clefairy.SM11B.35.29279.png",
+      "rarity": "Uncommon",
+      "cardNum": "35/49"
+    },
+    {
+      "name": "Reshiram & Zekrom GX",
+      "set": "Dream League",
+      "img": "https://den-cards.pokellector.com/278/Reshiram-Zekrom-GX.SM11B.36.29263.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "36/49"
+    },
+    {
+      "name": "Lillipup",
+      "set": "Dream League",
+      "img": "https://den-cards.pokellector.com/278/Lillipup.SM11B.37.29312.png",
+      "rarity": "Common",
+      "cardNum": "37/49"
+    },
+    {
+      "name": "Herdier",
+      "set": "Dream League",
+      "img": "https://den-cards.pokellector.com/278/Herdier.SM11B.38.29313.png",
+      "rarity": "Common",
+      "cardNum": "38/49"
+    },
+    {
+      "name": "Stoutland",
+      "set": "Dream League",
+      "img": "https://den-cards.pokellector.com/278/Stoutland.SM11B.39.29314.png",
+      "rarity": "Rare",
+      "cardNum": "39/49"
+    },
+    {
+      "name": "Type: Null",
+      "set": "Dream League",
+      "img": "https://den-cards.pokellector.com/278/Type-Null.SM11B.40.29315.png",
+      "rarity": "Common",
+      "cardNum": "40/49"
+    },
+    {
+      "name": "Silvally GX",
+      "set": "Dream League",
+      "img": "https://den-cards.pokellector.com/278/Silvally-GX.SM11B.41.29265.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "41/49"
+    },
+    {
+      "name": "Lana's Fishing Rod",
+      "set": "Dream League",
+      "img": "https://den-cards.pokellector.com/278/Lanas-Fishing-Rod.SM11B.42.29316.png",
+      "rarity": "Uncommon",
+      "cardNum": "42/49"
+    },
+    {
+      "name": "Lillie's Clefairy Doll",
+      "set": "Dream League",
+      "img": "https://den-cards.pokellector.com/278/Lillies-Clefairy-Doll.SM11B.43.29270.png",
+      "rarity": "Uncommon",
+      "cardNum": "43/49"
+    },
+    {
+      "name": "Will",
+      "set": "Dream League",
+      "img": "https://den-cards.pokellector.com/278/Will.SM11B.44.29288.png",
+      "rarity": "Uncommon",
+      "cardNum": "44/49"
+    },
+    {
+      "name": "N's Resolve",
+      "set": "Dream League",
+      "img": "https://den-cards.pokellector.com/278/Ns-Resolve.SM11B.45.29262.png",
+      "rarity": "Uncommon",
+      "cardNum": "45/49"
+    },
+    {
+      "name": "Roxie",
+      "set": "Dream League",
+      "img": "https://den-cards.pokellector.com/278/Roxie.SM11B.46.29267.png",
+      "rarity": "Uncommon",
+      "cardNum": "46/49"
+    },
+    {
+      "name": "Rosa",
+      "set": "Dream League",
+      "img": "https://den-cards.pokellector.com/278/Rosa.SM11B.47.29317.png",
+      "rarity": "Rare",
+      "cardNum": "47/49"
+    },
+    {
+      "name": "Clay",
+      "set": "Dream League",
+      "img": "https://den-cards.pokellector.com/278/Clay.SM11B.48.29268.png",
+      "rarity": "Uncommon",
+      "cardNum": "48/49"
+    },
+    {
+      "name": "Lillie’s Best Effort",
+      "set": "Dream League",
+      "img": "https://den-cards.pokellector.com/278/Lillies-Best-Effort.SM11B.49.29278.png",
+      "rarity": "Uncommon",
+      "cardNum": "49/49"
+    },
+    {
+      "name": "Torkoal",
+      "set": "Dream League",
+      "img": "https://den-cards.pokellector.com/278/Torkoal.SM11B.50.29318.png",
+      "rarity": "Secret Rare",
+      "cardNum": "50/49"
+    },
+    {
+      "name": "Weavile",
+      "set": "Dream League",
+      "img": "https://den-cards.pokellector.com/278/Weavile.SM11B.51.29319.png",
+      "rarity": "Secret Rare",
+      "cardNum": "51/49"
+    },
+    {
+      "name": "Piplup",
+      "set": "Dream League",
+      "img": "https://den-cards.pokellector.com/278/Piplup.SM11B.52.29275.png",
+      "rarity": "Secret Rare",
+      "cardNum": "52/49"
+    },
+    {
+      "name": "Wishiwashi",
+      "set": "Dream League",
+      "img": "https://den-cards.pokellector.com/278/Wishiwashi.SM11B.53.29320.png",
+      "rarity": "Secret Rare",
+      "cardNum": "53/49"
+    },
+    {
+      "name": "Pikachu",
+      "set": "Dream League",
+      "img": "https://den-cards.pokellector.com/278/Pikachu.SM11B.54.29321.png",
+      "rarity": "Secret Rare",
+      "cardNum": "54/49"
+    },
+    {
+      "name": "Magnemite",
+      "set": "Dream League",
+      "img": "https://den-cards.pokellector.com/278/Magnemite.SM11B.55.29322.png",
+      "rarity": "Secret Rare",
+      "cardNum": "55/49"
+    },
+    {
+      "name": "Koffing",
+      "set": "Dream League",
+      "img": "https://den-cards.pokellector.com/278/Koffing.SM11B.56.29323.png",
+      "rarity": "Secret Rare",
+      "cardNum": "56/49"
+    },
+    {
+      "name": "Gallade",
+      "set": "Dream League",
+      "img": "https://den-cards.pokellector.com/278/Gallade.SM11B.57.29324.png",
+      "rarity": "Secret Rare",
+      "cardNum": "57/49"
+    },
+    {
+      "name": "Mimikyu",
+      "set": "Dream League",
+      "img": "https://den-cards.pokellector.com/278/Mimikyu.SM11B.58.29277.png",
+      "rarity": "Secret Rare",
+      "cardNum": "58/49"
+    },
+    {
+      "name": "Excadrill",
+      "set": "Dream League",
+      "img": "https://den-cards.pokellector.com/278/Excadrill.SM11B.59.29325.png",
+      "rarity": "Secret Rare",
+      "cardNum": "59/49"
+    },
+    {
+      "name": "Steelix",
+      "set": "Dream League",
+      "img": "https://den-cards.pokellector.com/278/Steelix.SM11B.60.29326.png",
+      "rarity": "Secret Rare",
+      "cardNum": "60/49"
+    },
+    {
+      "name": "Stoutland",
+      "set": "Dream League",
+      "img": "https://den-cards.pokellector.com/278/Stoutland.SM11B.61.29327.png",
+      "rarity": "Secret Rare",
+      "cardNum": "61/49"
+    },
+    {
+      "name": "Vileplume GX",
+      "set": "Dream League",
+      "img": "https://den-cards.pokellector.com/278/Vileplume-GX.SM11B.62.29328.png",
+      "rarity": "Secret Rare",
+      "cardNum": "62/49"
+    },
+    {
+      "name": "Solgaleo & Lunala GX",
+      "set": "Dream League",
+      "img": "https://den-cards.pokellector.com/278/Solgaleo-Lunala-GX.SM11B.63.29329.png",
+      "rarity": "Secret Rare",
+      "cardNum": "63/49"
+    },
+    {
+      "name": "Reshiram & Zekrom GX",
+      "set": "Dream League",
+      "img": "https://den-cards.pokellector.com/278/Reshiram-Zekrom-GX.SM11B.64.29330.png",
+      "rarity": "Secret Rare",
+      "cardNum": "64/49"
+    },
+    {
+      "name": "Silvally GX",
+      "set": "Dream League",
+      "img": "https://den-cards.pokellector.com/278/Silvally-GX.SM11B.65.29331.png",
+      "rarity": "Secret Rare",
+      "cardNum": "65/49"
+    },
+    {
+      "name": "N's Resolution",
+      "set": "Dream League",
+      "img": "https://den-cards.pokellector.com/278/Ns-Resolution.SM11B.66.29332.png",
+      "rarity": "Secret Rare",
+      "cardNum": "66/49"
+    },
+    {
+      "name": "Rosa",
+      "set": "Dream League",
+      "img": "https://den-cards.pokellector.com/278/Rosa.SM11B.67.29333.png",
+      "rarity": "Secret Rare",
+      "cardNum": "67/49"
+    },
+    {
+      "name": "Lillie's Best Effort",
+      "set": "Dream League",
+      "img": "https://den-cards.pokellector.com/278/Lillies-Best-Effort.SM11B.68.29334.png",
+      "rarity": "Secret Rare",
+      "cardNum": "68/49"
+    },
+    {
+      "name": "Vileplume GX",
+      "set": "Dream League",
+      "img": "https://den-cards.pokellector.com/278/Vileplume-GX.SM11B.69.29335.png",
+      "rarity": "Secret Rare",
+      "cardNum": "69/49"
+    },
+    {
+      "name": "Solgaleo & Lunala GX",
+      "set": "Dream League",
+      "img": "https://den-cards.pokellector.com/278/Solgaleo-Lunala-GX.SM11B.70.29336.png",
+      "rarity": "Secret Rare",
+      "cardNum": "70/49"
+    },
+    {
+      "name": "Reshiram & Zekrom GX",
+      "set": "Dream League",
+      "img": "https://den-cards.pokellector.com/278/Reshiram-Zekrom-GX.SM11B.71.29337.png",
+      "rarity": "Secret Rare",
+      "cardNum": "71/49"
+    },
+    {
+      "name": "Silvally GX",
+      "set": "Dream League",
+      "img": "https://den-cards.pokellector.com/278/Silvally-GX.SM11B.72.29338.png",
+      "rarity": "Secret Rare",
+      "cardNum": "72/49"
+    },
+    {
+      "name": "Lana's Fishing Rod",
+      "set": "Dream League",
+      "img": "https://den-cards.pokellector.com/278/Lanas-Fishing-Rod.SM11B.73.29340.png",
+      "rarity": "Secret Rare",
+      "cardNum": "73/49"
+    },
+    {
+      "name": "Lillie's Clefairy Doll",
+      "set": "Dream League",
+      "img": "https://den-cards.pokellector.com/278/Lillies-Clefairy-Doll.SM11B.71.29341.png",
+      "rarity": "Secret Rare",
+      "cardNum": "74/49"
+    },
+    {
+      "name": "Power Plant",
+      "set": "Dream League",
+      "img": "https://den-cards.pokellector.com/278/Power-Plant.SM11B.75.29342.png",
+      "rarity": "Secret Rare",
+      "cardNum": "75/49"
+    }
+  ]
+}

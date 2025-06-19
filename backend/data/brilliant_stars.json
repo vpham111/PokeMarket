@@ -1,0 +1,1363 @@
+{
+  "setName": "Brilliant Stars",
+  "cards": [
+    {
+      "name": "Exeggcute",
+      "set": "Brilliant Stars",
+      "img": "https://den-cards.pokellector.com/340/Exeggcute.SWSH09.1.42714.png",
+      "rarity": "Common",
+      "cardNum": "1/172"
+    },
+    {
+      "name": "Exeggutor",
+      "set": "Brilliant Stars",
+      "img": "https://den-cards.pokellector.com/340/Exeggutor.SWSH09.2.42715.png",
+      "rarity": "Uncommon",
+      "cardNum": "2/172"
+    },
+    {
+      "name": "Shroomish",
+      "set": "Brilliant Stars",
+      "img": "https://den-cards.pokellector.com/340/Shroomish.SWSH09.3.42716.png",
+      "rarity": "Common",
+      "cardNum": "3/172"
+    },
+    {
+      "name": "Breloom",
+      "set": "Brilliant Stars",
+      "img": "https://den-cards.pokellector.com/340/Breloom.SWSH09.4.42717.png",
+      "rarity": "Rare",
+      "cardNum": "4/172"
+    },
+    {
+      "name": "Tropius",
+      "set": "Brilliant Stars",
+      "img": "https://den-cards.pokellector.com/340/Tropius.SWSH09.5.42718.png",
+      "rarity": "Uncommon",
+      "cardNum": "5/172"
+    },
+    {
+      "name": "Turtwig",
+      "set": "Brilliant Stars",
+      "img": "https://den-cards.pokellector.com/340/Turtwig.SWSH09.6.42719.png",
+      "rarity": "Common",
+      "cardNum": "6/172"
+    },
+    {
+      "name": "Grotle",
+      "set": "Brilliant Stars",
+      "img": "https://den-cards.pokellector.com/340/Grotle.SWSH09.7.42720.png",
+      "rarity": "Uncommon",
+      "cardNum": "7/172"
+    },
+    {
+      "name": "Torterra",
+      "set": "Brilliant Stars",
+      "img": "https://den-cards.pokellector.com/340/Torterra.SWSH09.8.42721.png",
+      "rarity": "Rare",
+      "cardNum": "8/172"
+    },
+    {
+      "name": "Burmy",
+      "set": "Brilliant Stars",
+      "img": "https://den-cards.pokellector.com/340/Burmy.SWSH09.9.42722.png",
+      "rarity": "Common",
+      "cardNum": "9/172"
+    },
+    {
+      "name": "Wormadam",
+      "set": "Brilliant Stars",
+      "img": "https://den-cards.pokellector.com/340/Wormadam.SWSH09.10.42723.png",
+      "rarity": "Rare",
+      "cardNum": "10/172"
+    },
+    {
+      "name": "Mothim",
+      "set": "Brilliant Stars",
+      "img": "https://den-cards.pokellector.com/340/Mothim.SWSH09.11.42724.png",
+      "rarity": "Rare",
+      "cardNum": "11/172"
+    },
+    {
+      "name": "Cherubi",
+      "set": "Brilliant Stars",
+      "img": "https://den-cards.pokellector.com/340/Cherubi.SWSH09.12.42725.png",
+      "rarity": "Common",
+      "cardNum": "12/172"
+    },
+    {
+      "name": "Shaymin V",
+      "set": "Brilliant Stars",
+      "img": "https://den-cards.pokellector.com/340/Shaymin-V.SWSH09.13.42726.png",
+      "rarity": "Rare",
+      "cardNum": "13/172"
+    },
+    {
+      "name": "Shaymin VSTAR",
+      "set": "Brilliant Stars",
+      "img": "https://den-cards.pokellector.com/340/Shaymin-VSTAR.SWSH09.14.42699.png",
+      "rarity": "Rare",
+      "cardNum": "14/172"
+    },
+    {
+      "name": "Karrablast",
+      "set": "Brilliant Stars",
+      "img": "https://den-cards.pokellector.com/340/Karrablast.SWSH09.15.42727.png",
+      "rarity": "Common",
+      "cardNum": "15/172"
+    },
+    {
+      "name": "Zarude V",
+      "set": "Brilliant Stars",
+      "img": "https://den-cards.pokellector.com/340/Zarude-V.SWSH09.16.42728.png",
+      "rarity": "Rare",
+      "cardNum": "16/172"
+    },
+    {
+      "name": "Charizard V",
+      "set": "Brilliant Stars",
+      "img": "https://den-cards.pokellector.com/340/Charizard-V.SWSH09.17.40996.png",
+      "rarity": "Rare",
+      "cardNum": "17/172"
+    },
+    {
+      "name": "Charizard VSTAR",
+      "set": "Brilliant Stars",
+      "img": "https://den-cards.pokellector.com/340/Charizard-VSTAR.SWSH09.18.40997.png",
+      "rarity": "Rare",
+      "cardNum": "18/172"
+    },
+    {
+      "name": "Magmar",
+      "set": "Brilliant Stars",
+      "img": "https://den-cards.pokellector.com/340/Magmar.SWSH09.19.42729.png",
+      "rarity": "Common",
+      "cardNum": "19/172"
+    },
+    {
+      "name": "Magmortar",
+      "set": "Brilliant Stars",
+      "img": "https://den-cards.pokellector.com/340/Magmortar.SWSH09.20.42730.png",
+      "rarity": "Rare",
+      "cardNum": "20/172"
+    },
+    {
+      "name": "Moltres",
+      "set": "Brilliant Stars",
+      "img": "https://den-cards.pokellector.com/340/Moltres.SWSH09.21.40998.png",
+      "rarity": "Rare",
+      "cardNum": "21/172"
+    },
+    {
+      "name": "Entei V",
+      "set": "Brilliant Stars",
+      "img": "https://den-cards.pokellector.com/340/Entei-V.SWSH09.22.42708.png",
+      "rarity": "Rare",
+      "cardNum": "22/172"
+    },
+    {
+      "name": "Torkoal",
+      "set": "Brilliant Stars",
+      "img": "https://den-cards.pokellector.com/340/Torkoal.SWSH09.23.42731.png",
+      "rarity": "Uncommon",
+      "cardNum": "23/172"
+    },
+    {
+      "name": "Chimchar",
+      "set": "Brilliant Stars",
+      "img": "https://den-cards.pokellector.com/340/Chimchar.SWSH09.24.42732.png",
+      "rarity": "Common",
+      "cardNum": "24/172"
+    },
+    {
+      "name": "Monferno",
+      "set": "Brilliant Stars",
+      "img": "https://den-cards.pokellector.com/340/Monferno.SWSH09.25.42733.png",
+      "rarity": "Uncommon",
+      "cardNum": "25/172"
+    },
+    {
+      "name": "Infernape",
+      "set": "Brilliant Stars",
+      "img": "https://den-cards.pokellector.com/340/Infernape.SWSH09.26.42712.png",
+      "rarity": "Rare",
+      "cardNum": "26/172"
+    },
+    {
+      "name": "Simisear V",
+      "set": "Brilliant Stars",
+      "img": "https://den-cards.pokellector.com/340/Simisear-V.SWSH09.27.42701.png",
+      "rarity": "Rare",
+      "cardNum": "27/172"
+    },
+    {
+      "name": "Kingler V",
+      "set": "Brilliant Stars",
+      "img": "https://den-cards.pokellector.com/340/Kingler-V.SWSH09.28.42734.png",
+      "rarity": "Rare",
+      "cardNum": "28/172"
+    },
+    {
+      "name": "Kingler VMAX",
+      "set": "Brilliant Stars",
+      "img": "https://den-cards.pokellector.com/340/Kingler-VMAX.SWSH09.29.42735.png",
+      "rarity": "Rare",
+      "cardNum": "29/172"
+    },
+    {
+      "name": "Staryu",
+      "set": "Brilliant Stars",
+      "img": "https://den-cards.pokellector.com/340/Staryu.SWSH09.30.42736.png",
+      "rarity": "Common",
+      "cardNum": "30/172"
+    },
+    {
+      "name": "Lapras",
+      "set": "Brilliant Stars",
+      "img": "https://den-cards.pokellector.com/340/Lapras.SWSH09.31.42737.png",
+      "rarity": "Rare",
+      "cardNum": "31/172"
+    },
+    {
+      "name": "Corphish",
+      "set": "Brilliant Stars",
+      "img": "https://den-cards.pokellector.com/340/Corphish.SWSH09.32.42738.png",
+      "rarity": "Common",
+      "cardNum": "32/172"
+    },
+    {
+      "name": "Crawdaunt",
+      "set": "Brilliant Stars",
+      "img": "https://den-cards.pokellector.com/340/Crawdaunt.SWSH09.33.42739.png",
+      "rarity": "Uncommon",
+      "cardNum": "33/172"
+    },
+    {
+      "name": "Snorunt",
+      "set": "Brilliant Stars",
+      "img": "https://den-cards.pokellector.com/340/Snorunt.SWSH09.34.42740.png",
+      "rarity": "Common",
+      "cardNum": "34/172"
+    },
+    {
+      "name": "Piplup",
+      "set": "Brilliant Stars",
+      "img": "https://den-cards.pokellector.com/340/Piplup.SWSH09.35.42741.png",
+      "rarity": "Common",
+      "cardNum": "35/172"
+    },
+    {
+      "name": "Prinplup",
+      "set": "Brilliant Stars",
+      "img": "https://den-cards.pokellector.com/340/Prinplup.SWSH09.36.42742.png",
+      "rarity": "Uncommon",
+      "cardNum": "36/172"
+    },
+    {
+      "name": "Empoleon",
+      "set": "Brilliant Stars",
+      "img": "https://den-cards.pokellector.com/340/Empoleon.SWSH09.37.42743.png",
+      "rarity": "Rare",
+      "cardNum": "37/172"
+    },
+    {
+      "name": "Buizel",
+      "set": "Brilliant Stars",
+      "img": "https://den-cards.pokellector.com/340/Buizel.SWSH09.38.42744.png",
+      "rarity": "Common",
+      "cardNum": "38/172"
+    },
+    {
+      "name": "Floatzel",
+      "set": "Brilliant Stars",
+      "img": "https://den-cards.pokellector.com/340/Floatzel.SWSH09.39.42745.png",
+      "rarity": "Uncommon",
+      "cardNum": "39/172"
+    },
+    {
+      "name": "Lumineon V",
+      "set": "Brilliant Stars",
+      "img": "https://den-cards.pokellector.com/340/Lumineon-V.SWSH09.40.42746.png",
+      "rarity": "Rare",
+      "cardNum": "40/172"
+    },
+    {
+      "name": "Manaphy",
+      "set": "Brilliant Stars",
+      "img": "https://den-cards.pokellector.com/340/Manaphy.SWSH09.41.42747.png",
+      "rarity": "Rare",
+      "cardNum": "41/172"
+    },
+    {
+      "name": "Cubchoo",
+      "set": "Brilliant Stars",
+      "img": "https://den-cards.pokellector.com/340/Cubchoo.SWSH09.42.42748.png",
+      "rarity": "Common",
+      "cardNum": "42/172"
+    },
+    {
+      "name": "Beartic",
+      "set": "Brilliant Stars",
+      "img": "https://den-cards.pokellector.com/340/Beartic.SWSH09.43.42749.png",
+      "rarity": "Uncommon",
+      "cardNum": "43/172"
+    },
+    {
+      "name": "Eiscue",
+      "set": "Brilliant Stars",
+      "img": "https://den-cards.pokellector.com/340/Eiscue.SWSH09.44.42750.png",
+      "rarity": "Rare",
+      "cardNum": "44/172"
+    },
+    {
+      "name": "Raichu V",
+      "set": "Brilliant Stars",
+      "img": "https://den-cards.pokellector.com/340/Raichu-V.SWSH09.45.42751.png",
+      "rarity": "Rare",
+      "cardNum": "45/172"
+    },
+    {
+      "name": "Electabuzz",
+      "set": "Brilliant Stars",
+      "img": "https://den-cards.pokellector.com/340/Electabuzz.SWSH09.46.42752.png",
+      "rarity": "Common",
+      "cardNum": "46/172"
+    },
+    {
+      "name": "Electivire",
+      "set": "Brilliant Stars",
+      "img": "https://den-cards.pokellector.com/340/Electivire.SWSH09.47.42753.png",
+      "rarity": "Rare",
+      "cardNum": "47/172"
+    },
+    {
+      "name": "Raikou V",
+      "set": "Brilliant Stars",
+      "img": "https://den-cards.pokellector.com/340/Raikou-V.SWSH09.48.42754.png",
+      "rarity": "Rare",
+      "cardNum": "48/172"
+    },
+    {
+      "name": "Shinx",
+      "set": "Brilliant Stars",
+      "img": "https://den-cards.pokellector.com/340/Shinx.SWSH09.49.42755.png",
+      "rarity": "Common",
+      "cardNum": "49/172"
+    },
+    {
+      "name": "Luxio",
+      "set": "Brilliant Stars",
+      "img": "https://den-cards.pokellector.com/340/Luxio.SWSH09.50.42756.png",
+      "rarity": "Uncommon",
+      "cardNum": "50/172"
+    },
+    {
+      "name": "Luxray",
+      "set": "Brilliant Stars",
+      "img": "https://den-cards.pokellector.com/340/Luxray.SWSH09.51.42702.png",
+      "rarity": "Rare",
+      "cardNum": "51/172"
+    },
+    {
+      "name": "Pachirisu",
+      "set": "Brilliant Stars",
+      "img": "https://den-cards.pokellector.com/340/Pachirisu.SWSH09.52.42757.png",
+      "rarity": "Uncommon",
+      "cardNum": "52/172"
+    },
+    {
+      "name": "Clefairy",
+      "set": "Brilliant Stars",
+      "img": "https://den-cards.pokellector.com/340/Clefairy.SWSH09.53.42758.png",
+      "rarity": "Common",
+      "cardNum": "53/172"
+    },
+    {
+      "name": "Clefable",
+      "set": "Brilliant Stars",
+      "img": "https://den-cards.pokellector.com/340/Clefable.SWSH09.54.42759.png",
+      "rarity": "Rare",
+      "cardNum": "54/172"
+    },
+    {
+      "name": "Starmie",
+      "set": "Brilliant Stars",
+      "img": "https://den-cards.pokellector.com/340/Starmie.SWSH09.55.42760.png",
+      "rarity": "Uncommon",
+      "cardNum": "55/172"
+    },
+    {
+      "name": "Mewtwo",
+      "set": "Brilliant Stars",
+      "img": "https://den-cards.pokellector.com/340/Mewtwo.SWSH09.56.42761.png",
+      "rarity": "Rare",
+      "cardNum": "56/172"
+    },
+    {
+      "name": "Granbull V",
+      "set": "Brilliant Stars",
+      "img": "https://den-cards.pokellector.com/340/Granbull-V.SWSH09.57.42762.png",
+      "rarity": "Rare",
+      "cardNum": "57/172"
+    },
+    {
+      "name": "Baltoy",
+      "set": "Brilliant Stars",
+      "img": "https://den-cards.pokellector.com/340/Baltoy.SWSH09.58.42763.png",
+      "rarity": "Common",
+      "cardNum": "58/172"
+    },
+    {
+      "name": "Claydol",
+      "set": "Brilliant Stars",
+      "img": "https://den-cards.pokellector.com/340/Claydol.SWSH09.59.42764.png",
+      "rarity": "Uncommon",
+      "cardNum": "59/172"
+    },
+    {
+      "name": "Duskull",
+      "set": "Brilliant Stars",
+      "img": "https://den-cards.pokellector.com/340/Duskull.SWSH09.60.42765.png",
+      "rarity": "Common",
+      "cardNum": "60/172"
+    },
+    {
+      "name": "Dusclops",
+      "set": "Brilliant Stars",
+      "img": "https://den-cards.pokellector.com/340/Dusclops.SWSH09.61.42766.png",
+      "rarity": "Uncommon",
+      "cardNum": "61/172"
+    },
+    {
+      "name": "Dusknoir",
+      "set": "Brilliant Stars",
+      "img": "https://den-cards.pokellector.com/340/Dusknoir.SWSH09.62.42767.png",
+      "rarity": "Rare",
+      "cardNum": "62/172"
+    },
+    {
+      "name": "Chimecho",
+      "set": "Brilliant Stars",
+      "img": "https://den-cards.pokellector.com/340/Chimecho.SWSH09.63.42768.png",
+      "rarity": "Common",
+      "cardNum": "63/172"
+    },
+    {
+      "name": "Whimsicott V",
+      "set": "Brilliant Stars",
+      "img": "https://den-cards.pokellector.com/340/Whimsicott-V.SWSH09.64.42769.png",
+      "rarity": "Rare",
+      "cardNum": "64/172"
+    },
+    {
+      "name": "Whimsicott VSTAR",
+      "set": "Brilliant Stars",
+      "img": "https://den-cards.pokellector.com/340/Whimsicott-VSTAR.SWSH09.65.42770.png",
+      "rarity": "Rare",
+      "cardNum": "65/172"
+    },
+    {
+      "name": "Sigilyph",
+      "set": "Brilliant Stars",
+      "img": "https://den-cards.pokellector.com/340/Sigilyph.SWSH09.66.42771.png",
+      "rarity": "Uncommon",
+      "cardNum": "66/172"
+    },
+    {
+      "name": "Dedenne",
+      "set": "Brilliant Stars",
+      "img": "https://den-cards.pokellector.com/340/Dedenne.SWSH09.67.42772.png",
+      "rarity": "Common",
+      "cardNum": "67/172"
+    },
+    {
+      "name": "Mimikyu V",
+      "set": "Brilliant Stars",
+      "img": "https://den-cards.pokellector.com/340/Mimikyu-V.SWSH09.68.42707.png",
+      "rarity": "Rare",
+      "cardNum": "68/172"
+    },
+    {
+      "name": "Mimikyu VMAX",
+      "set": "Brilliant Stars",
+      "img": "https://den-cards.pokellector.com/340/Mimikyu-VMAX.SWSH09.69.42773.png",
+      "rarity": "Rare",
+      "cardNum": "69/172"
+    },
+    {
+      "name": "Milcery",
+      "set": "Brilliant Stars",
+      "img": "https://den-cards.pokellector.com/340/Milcery.SWSH09.70.42774.png",
+      "rarity": "Common",
+      "cardNum": "70/172"
+    },
+    {
+      "name": "Alcremie",
+      "set": "Brilliant Stars",
+      "img": "https://den-cards.pokellector.com/340/Alcremie.SWSH09.71.42775.png",
+      "rarity": "Rare",
+      "cardNum": "71/172"
+    },
+    {
+      "name": "Hitmontop",
+      "set": "Brilliant Stars",
+      "img": "https://den-cards.pokellector.com/340/Hitmontop.SWSH09.72.42776.png",
+      "rarity": "Uncommon",
+      "cardNum": "72/172"
+    },
+    {
+      "name": "Nosepass",
+      "set": "Brilliant Stars",
+      "img": "https://den-cards.pokellector.com/340/Nosepass.SWSH09.73.42777.png",
+      "rarity": "Common",
+      "cardNum": "73/172"
+    },
+    {
+      "name": "Trapinch",
+      "set": "Brilliant Stars",
+      "img": "https://den-cards.pokellector.com/340/Trapinch.SWSH09.74.42778.png",
+      "rarity": "Common",
+      "cardNum": "74/172"
+    },
+    {
+      "name": "Vibrava",
+      "set": "Brilliant Stars",
+      "img": "https://den-cards.pokellector.com/340/Vibrava.SWSH09.75.42779.png",
+      "rarity": "Uncommon",
+      "cardNum": "75/172"
+    },
+    {
+      "name": "Flygon",
+      "set": "Brilliant Stars",
+      "img": "https://den-cards.pokellector.com/340/Flygon.SWSH09.76.42780.png",
+      "rarity": "Rare",
+      "cardNum": "76/172"
+    },
+    {
+      "name": "Wormadam",
+      "set": "Brilliant Stars",
+      "img": "https://den-cards.pokellector.com/340/Wormadam.SWSH09.77.42781.png",
+      "rarity": "Rare",
+      "cardNum": "77/172"
+    },
+    {
+      "name": "Riolu",
+      "set": "Brilliant Stars",
+      "img": "https://den-cards.pokellector.com/340/Riolu.SWSH09.78.42782.png",
+      "rarity": "Common",
+      "cardNum": "78/172"
+    },
+    {
+      "name": "Lucario",
+      "set": "Brilliant Stars",
+      "img": "https://den-cards.pokellector.com/340/Lucario.SWSH09.79.42783.png",
+      "rarity": "Rare",
+      "cardNum": "79/172"
+    },
+    {
+      "name": "Throh",
+      "set": "Brilliant Stars",
+      "img": "https://den-cards.pokellector.com/340/Throh.SWSH09.80.42784.png",
+      "rarity": "Common",
+      "cardNum": "80/172"
+    },
+    {
+      "name": "Sawk",
+      "set": "Brilliant Stars",
+      "img": "https://den-cards.pokellector.com/340/Sawk.SWSH09.81.42785.png",
+      "rarity": "Common",
+      "cardNum": "81/172"
+    },
+    {
+      "name": "Golett",
+      "set": "Brilliant Stars",
+      "img": "https://den-cards.pokellector.com/340/Golett.SWSH09.82.42786.png",
+      "rarity": "Common",
+      "cardNum": "82/172"
+    },
+    {
+      "name": "Golurk",
+      "set": "Brilliant Stars",
+      "img": "https://den-cards.pokellector.com/340/Golurk.SWSH09.83.42787.png",
+      "rarity": "Rare",
+      "cardNum": "83/172"
+    },
+    {
+      "name": "Grimer",
+      "set": "Brilliant Stars",
+      "img": "https://den-cards.pokellector.com/340/Grimer.SWSH09.84.42788.png",
+      "rarity": "Common",
+      "cardNum": "84/172"
+    },
+    {
+      "name": "Muk",
+      "set": "Brilliant Stars",
+      "img": "https://den-cards.pokellector.com/340/Muk.SWSH09.85.42789.png",
+      "rarity": "Rare",
+      "cardNum": "85/172"
+    },
+    {
+      "name": "Sneasel",
+      "set": "Brilliant Stars",
+      "img": "https://den-cards.pokellector.com/340/Sneasel.SWSH09.86.42790.png",
+      "rarity": "Common",
+      "cardNum": "86/172"
+    },
+    {
+      "name": "Weavile",
+      "set": "Brilliant Stars",
+      "img": "https://den-cards.pokellector.com/340/Weavile.SWSH09.87.42791.png",
+      "rarity": "Uncommon",
+      "cardNum": "87/172"
+    },
+    {
+      "name": "Honchkrow V",
+      "set": "Brilliant Stars",
+      "img": "https://den-cards.pokellector.com/340/Honchkrow-V.SWSH09.88.42792.png",
+      "rarity": "Rare",
+      "cardNum": "88/172"
+    },
+    {
+      "name": "Spiritomb",
+      "set": "Brilliant Stars",
+      "img": "https://den-cards.pokellector.com/340/Spiritomb.SWSH09.89.42793.png",
+      "rarity": "Common",
+      "cardNum": "89/172"
+    },
+    {
+      "name": "Purrloin",
+      "set": "Brilliant Stars",
+      "img": "https://den-cards.pokellector.com/340/Purrloin.SWSH09.90.42794.png",
+      "rarity": "Common",
+      "cardNum": "90/172"
+    },
+    {
+      "name": "Liepard",
+      "set": "Brilliant Stars",
+      "img": "https://den-cards.pokellector.com/340/Liepard.SWSH09.91.42795.png",
+      "rarity": "Rare",
+      "cardNum": "91/172"
+    },
+    {
+      "name": "Impidimp",
+      "set": "Brilliant Stars",
+      "img": "https://den-cards.pokellector.com/340/Impidimp.SWSH09.92.42796.png",
+      "rarity": "Common",
+      "cardNum": "92/172"
+    },
+    {
+      "name": "Morgrem",
+      "set": "Brilliant Stars",
+      "img": "https://den-cards.pokellector.com/340/Morgrem.SWSH09.93.42797.png",
+      "rarity": "Uncommon",
+      "cardNum": "93/172"
+    },
+    {
+      "name": "Grimmsnarl",
+      "set": "Brilliant Stars",
+      "img": "https://den-cards.pokellector.com/340/Grimmsnarl.SWSH09.94.42798.png",
+      "rarity": "Rare",
+      "cardNum": "94/172"
+    },
+    {
+      "name": "Morpeko V",
+      "set": "Brilliant Stars",
+      "img": "https://den-cards.pokellector.com/340/Morpeko-V.SWSH09.95.42799.png",
+      "rarity": "Rare",
+      "cardNum": "95/172"
+    },
+    {
+      "name": "Aggron V",
+      "set": "Brilliant Stars",
+      "img": "https://den-cards.pokellector.com/340/Aggron-V.SWSH09.96.42800.png",
+      "rarity": "Rare",
+      "cardNum": "96/172"
+    },
+    {
+      "name": "Aggron VMAX",
+      "set": "Brilliant Stars",
+      "img": "https://den-cards.pokellector.com/340/Aggron-VMAX.SWSH09.97.42801.png",
+      "rarity": "Rare",
+      "cardNum": "97/172"
+    },
+    {
+      "name": "Wormadam",
+      "set": "Brilliant Stars",
+      "img": "https://den-cards.pokellector.com/340/Wormadam.SWSH09.98.42802.png",
+      "rarity": "Rare",
+      "cardNum": "98/172"
+    },
+    {
+      "name": "Probopass",
+      "set": "Brilliant Stars",
+      "img": "https://den-cards.pokellector.com/340/Probopass.SWSH09.99.42803.png",
+      "rarity": "Uncommon",
+      "cardNum": "99/172"
+    },
+    {
+      "name": "Heatran",
+      "set": "Brilliant Stars",
+      "img": "https://den-cards.pokellector.com/340/Heatran.SWSH09.100.42804.png",
+      "rarity": "Rare",
+      "cardNum": "100/172"
+    },
+    {
+      "name": "Escavalier",
+      "set": "Brilliant Stars",
+      "img": "https://den-cards.pokellector.com/340/Escavalier.SWSH09.101.42805.png",
+      "rarity": "Rare",
+      "cardNum": "101/172"
+    },
+    {
+      "name": "Klink",
+      "set": "Brilliant Stars",
+      "img": "https://den-cards.pokellector.com/340/Klink.SWSH09.102.42806.png",
+      "rarity": "Common",
+      "cardNum": "102/172"
+    },
+    {
+      "name": "Klang",
+      "set": "Brilliant Stars",
+      "img": "https://den-cards.pokellector.com/340/Klang.SWSH09.103.42807.png",
+      "rarity": "Uncommon",
+      "cardNum": "103/172"
+    },
+    {
+      "name": "Klinklang",
+      "set": "Brilliant Stars",
+      "img": "https://den-cards.pokellector.com/340/Klinklang.SWSH09.104.42808.png",
+      "rarity": "Rare",
+      "cardNum": "104/172"
+    },
+    {
+      "name": "Zamazenta V",
+      "set": "Brilliant Stars",
+      "img": "https://den-cards.pokellector.com/340/Zamazenta-V.SWSH09.105.42809.png",
+      "rarity": "Rare",
+      "cardNum": "105/172"
+    },
+    {
+      "name": "Flygon V",
+      "set": "Brilliant Stars",
+      "img": "https://den-cards.pokellector.com/340/Flygon-V.SWSH09.106.42810.png",
+      "rarity": "Rare",
+      "cardNum": "106/172"
+    },
+    {
+      "name": "Gible",
+      "set": "Brilliant Stars",
+      "img": "https://den-cards.pokellector.com/340/Gible.SWSH09.107.42811.png",
+      "rarity": "Common",
+      "cardNum": "107/172"
+    },
+    {
+      "name": "Gabite",
+      "set": "Brilliant Stars",
+      "img": "https://den-cards.pokellector.com/340/Gabite.SWSH09.108.42812.png",
+      "rarity": "Uncommon",
+      "cardNum": "108/172"
+    },
+    {
+      "name": "Garchomp",
+      "set": "Brilliant Stars",
+      "img": "https://den-cards.pokellector.com/340/Garchomp.SWSH09.109.42813.png",
+      "rarity": "Rare",
+      "cardNum": "109/172"
+    },
+    {
+      "name": "Axew",
+      "set": "Brilliant Stars",
+      "img": "https://den-cards.pokellector.com/340/Axew.SWSH09.110.42814.png",
+      "rarity": "Common",
+      "cardNum": "110/172"
+    },
+    {
+      "name": "Fraxure",
+      "set": "Brilliant Stars",
+      "img": "https://den-cards.pokellector.com/340/Fraxure.SWSH09.111.42815.png",
+      "rarity": "Uncommon",
+      "cardNum": "111/172"
+    },
+    {
+      "name": "Haxorus",
+      "set": "Brilliant Stars",
+      "img": "https://den-cards.pokellector.com/340/Haxorus.SWSH09.112.42816.png",
+      "rarity": "Rare",
+      "cardNum": "112/172"
+    },
+    {
+      "name": "Druddigon",
+      "set": "Brilliant Stars",
+      "img": "https://den-cards.pokellector.com/340/Druddigon.SWSH09.113.42817.png",
+      "rarity": "Rare",
+      "cardNum": "113/172"
+    },
+    {
+      "name": "Dracovish V",
+      "set": "Brilliant Stars",
+      "img": "https://den-cards.pokellector.com/340/Dracovish-V.SWSH09.114.42818.png",
+      "rarity": "Rare",
+      "cardNum": "114/172"
+    },
+    {
+      "name": "Farfetch'd",
+      "set": "Brilliant Stars",
+      "img": "https://den-cards.pokellector.com/340/Farfetchd.SWSH09.115.42819.png",
+      "rarity": "Common",
+      "cardNum": "115/172"
+    },
+    {
+      "name": "Castform",
+      "set": "Brilliant Stars",
+      "img": "https://den-cards.pokellector.com/340/Castform.SWSH09.116.42820.png",
+      "rarity": "Common",
+      "cardNum": "116/172"
+    },
+    {
+      "name": "Starly",
+      "set": "Brilliant Stars",
+      "img": "https://den-cards.pokellector.com/340/Starly.SWSH09.117.42821.png",
+      "rarity": "Common",
+      "cardNum": "117/172"
+    },
+    {
+      "name": "Staravia",
+      "set": "Brilliant Stars",
+      "img": "https://den-cards.pokellector.com/340/Staravia.SWSH09.118.42822.png",
+      "rarity": "Uncommon",
+      "cardNum": "118/172"
+    },
+    {
+      "name": "Staraptor",
+      "set": "Brilliant Stars",
+      "img": "https://den-cards.pokellector.com/340/Staraptor.SWSH09.119.42823.png",
+      "rarity": "Rare",
+      "cardNum": "119/172"
+    },
+    {
+      "name": "Bidoof",
+      "set": "Brilliant Stars",
+      "img": "https://den-cards.pokellector.com/340/Bidoof.SWSH09.120.42824.png",
+      "rarity": "Common",
+      "cardNum": "120/172"
+    },
+    {
+      "name": "Bibarel",
+      "set": "Brilliant Stars",
+      "img": "https://den-cards.pokellector.com/340/Bibarel.SWSH09.121.42825.png",
+      "rarity": "Rare",
+      "cardNum": "121/172"
+    },
+    {
+      "name": "Arceus V",
+      "set": "Brilliant Stars",
+      "img": "https://den-cards.pokellector.com/340/Arceus-V.SWSH09.122.40994.png",
+      "rarity": "Rare",
+      "cardNum": "122/172"
+    },
+    {
+      "name": "Arceus VSTAR",
+      "set": "Brilliant Stars",
+      "img": "https://den-cards.pokellector.com/340/Arceus-VSTAR.SWSH09.123.40995.png",
+      "rarity": "Rare",
+      "cardNum": "123/172"
+    },
+    {
+      "name": "Minccino",
+      "set": "Brilliant Stars",
+      "img": "https://den-cards.pokellector.com/340/Minccino.SWSH09.124.42826.png",
+      "rarity": "Common",
+      "cardNum": "124/172"
+    },
+    {
+      "name": "Cinccino",
+      "set": "Brilliant Stars",
+      "img": "https://den-cards.pokellector.com/340/Cinccino.SWSH09.125.42827.png",
+      "rarity": "Uncommon",
+      "cardNum": "125/172"
+    },
+    {
+      "name": "Tornadus",
+      "set": "Brilliant Stars",
+      "img": "https://den-cards.pokellector.com/340/Tornadus.SWSH09.126.42828.png",
+      "rarity": "Rare",
+      "cardNum": "126/172"
+    },
+    {
+      "name": "Hawlucha",
+      "set": "Brilliant Stars",
+      "img": "https://den-cards.pokellector.com/340/Hawlucha.SWSH09.127.42829.png",
+      "rarity": "Common",
+      "cardNum": "127/172"
+    },
+    {
+      "name": "Drampa V",
+      "set": "Brilliant Stars",
+      "img": "https://den-cards.pokellector.com/340/Drampa-V.SWSH09.128.42830.png",
+      "rarity": "Rare",
+      "cardNum": "128/172"
+    },
+    {
+      "name": "Acerola's Premonition",
+      "set": "Brilliant Stars",
+      "img": "https://den-cards.pokellector.com/340/Acerolas-Premonition.SWSH09.129.42704.png",
+      "rarity": "Uncommon",
+      "cardNum": "129/172"
+    },
+    {
+      "name": "Barry",
+      "set": "Brilliant Stars",
+      "img": "https://den-cards.pokellector.com/340/Barry.SWSH09.130.42831.png",
+      "rarity": "Uncommon",
+      "cardNum": "130/172"
+    },
+    {
+      "name": "Blunder Policy",
+      "set": "Brilliant Stars",
+      "img": "https://den-cards.pokellector.com/340/Blunder-Policy.SWSH09.131.42832.png",
+      "rarity": "Uncommon",
+      "cardNum": "131/172"
+    },
+    {
+      "name": "Boss's Orders",
+      "set": "Brilliant Stars",
+      "img": "https://den-cards.pokellector.com/340/Bosss-Orders.SWSH09.132.42833.png",
+      "rarity": "Rare",
+      "cardNum": "132/172"
+    },
+    {
+      "name": "Café Master",
+      "set": "Brilliant Stars",
+      "img": "https://den-cards.pokellector.com/340/Caf-Master.SWSH09.133.42834.png",
+      "rarity": "Uncommon",
+      "cardNum": "133/172"
+    },
+    {
+      "name": "Cheren's Care",
+      "set": "Brilliant Stars",
+      "img": "https://den-cards.pokellector.com/340/Cherens-Care.SWSH09.134.40999.png",
+      "rarity": "Uncommon",
+      "cardNum": "134/172"
+    },
+    {
+      "name": "Choice Belt",
+      "set": "Brilliant Stars",
+      "img": "https://den-cards.pokellector.com/340/Choice-Belt.SWSH09.135.42835.png",
+      "rarity": "Uncommon",
+      "cardNum": "135/172"
+    },
+    {
+      "name": "Cleansing Gloves",
+      "set": "Brilliant Stars",
+      "img": "https://den-cards.pokellector.com/340/Cleansing-Gloves.SWSH09.136.42836.png",
+      "rarity": "Uncommon",
+      "cardNum": "136/172"
+    },
+    {
+      "name": "Collapsed Stadium",
+      "set": "Brilliant Stars",
+      "img": "https://den-cards.pokellector.com/340/Collapsed-Stadium.SWSH09.137.42837.png",
+      "rarity": "Uncommon",
+      "cardNum": "137/172"
+    },
+    {
+      "name": "Cynthia's Ambition",
+      "set": "Brilliant Stars",
+      "img": "https://den-cards.pokellector.com/340/Cynthias-Ambition.SWSH09.138.42838.png",
+      "rarity": "Uncommon",
+      "cardNum": "138/172"
+    },
+    {
+      "name": "Fresh Water Set",
+      "set": "Brilliant Stars",
+      "img": "https://den-cards.pokellector.com/340/Fresh-Water-Set.SWSH09.139.42839.png",
+      "rarity": "Uncommon",
+      "cardNum": "139/172"
+    },
+    {
+      "name": "Friends in Galar",
+      "set": "Brilliant Stars",
+      "img": "https://den-cards.pokellector.com/340/Friends-in-Galar.SWSH09.140.42840.png",
+      "rarity": "Uncommon",
+      "cardNum": "140/172"
+    },
+    {
+      "name": "Gloria",
+      "set": "Brilliant Stars",
+      "img": "https://den-cards.pokellector.com/340/Gloria.SWSH09.141.42841.png",
+      "rarity": "Uncommon",
+      "cardNum": "141/172"
+    },
+    {
+      "name": "Hunting Gloves",
+      "set": "Brilliant Stars",
+      "img": "https://den-cards.pokellector.com/340/Hunting-Gloves.SWSH09.142.42842.png",
+      "rarity": "Uncommon",
+      "cardNum": "142/172"
+    },
+    {
+      "name": "Kindler",
+      "set": "Brilliant Stars",
+      "img": "https://den-cards.pokellector.com/340/Kindler.SWSH09.143.41001.png",
+      "rarity": "Uncommon",
+      "cardNum": "143/172"
+    },
+    {
+      "name": "Magma Basin",
+      "set": "Brilliant Stars",
+      "img": "https://den-cards.pokellector.com/340/Magma-Basin.SWSH09.144.41002.png",
+      "rarity": "Uncommon",
+      "cardNum": "144/172"
+    },
+    {
+      "name": "Marnie's Pride",
+      "set": "Brilliant Stars",
+      "img": "https://den-cards.pokellector.com/340/Marnies-Pride.SWSH09.145.42843.png",
+      "rarity": "Uncommon",
+      "cardNum": "145/172"
+    },
+    {
+      "name": "Pot Helmet",
+      "set": "Brilliant Stars",
+      "img": "https://den-cards.pokellector.com/340/Pot-Helmet.SWSH09.146.42844.png",
+      "rarity": "Uncommon",
+      "cardNum": "146/172"
+    },
+    {
+      "name": "Professor's Research",
+      "set": "Brilliant Stars",
+      "img": "https://den-cards.pokellector.com/340/Professors-Research.SWSH09.147.42845.png",
+      "rarity": "Rare",
+      "cardNum": "147/172"
+    },
+    {
+      "name": "Roseanne's Backup",
+      "set": "Brilliant Stars",
+      "img": "https://den-cards.pokellector.com/340/Roseannes-Backup.SWSH09.148.42846.png",
+      "rarity": "Uncommon",
+      "cardNum": "148/172"
+    },
+    {
+      "name": "Team Yell's Cheer",
+      "set": "Brilliant Stars",
+      "img": "https://den-cards.pokellector.com/340/Team-Yells-Cheer.SWSH09.149.42847.png",
+      "rarity": "Uncommon",
+      "cardNum": "149/172"
+    },
+    {
+      "name": "Ultra Ball",
+      "set": "Brilliant Stars",
+      "img": "https://den-cards.pokellector.com/340/Ultra-Ball.SWSH09.150.42848.png",
+      "rarity": "Uncommon",
+      "cardNum": "150/172"
+    },
+    {
+      "name": "Double Turbo Energy",
+      "set": "Brilliant Stars",
+      "img": "https://den-cards.pokellector.com/340/Double-Turbo-Energy.SWSH09.151.41000.png",
+      "rarity": "Uncommon",
+      "cardNum": "151/172"
+    },
+    {
+      "name": "Shaymin V",
+      "set": "Brilliant Stars",
+      "img": "https://den-cards.pokellector.com/340/Shaymin-V.SWSH09.152.42849.png",
+      "rarity": "Rare",
+      "cardNum": "152/172"
+    },
+    {
+      "name": "Charizard V",
+      "set": "Brilliant Stars",
+      "img": "https://den-cards.pokellector.com/340/Charizard-V.SWSH09.153.42850.png",
+      "rarity": "Rare",
+      "cardNum": "153/172"
+    },
+    {
+      "name": "Charizard V",
+      "set": "Brilliant Stars",
+      "img": "https://den-cards.pokellector.com/340/Charizard-V.SWSH09.154.42851.png",
+      "rarity": "Rare",
+      "cardNum": "154/172"
+    },
+    {
+      "name": "Lumineon V",
+      "set": "Brilliant Stars",
+      "img": "https://den-cards.pokellector.com/340/Lumineon-V.SWSH09.155.42852.png",
+      "rarity": "Rare",
+      "cardNum": "155/172"
+    },
+    {
+      "name": "Lumineon V",
+      "set": "Brilliant Stars",
+      "img": "https://den-cards.pokellector.com/340/Lumineon-V.SWSH09.156.42853.png",
+      "rarity": "Rare",
+      "cardNum": "156/172"
+    },
+    {
+      "name": "Pikachu V",
+      "set": "Brilliant Stars",
+      "img": "https://den-cards.pokellector.com/340/Pikachu-V.SWSH09.157.42854.png",
+      "rarity": "Rare",
+      "cardNum": "157/172"
+    },
+    {
+      "name": "Raichu V",
+      "set": "Brilliant Stars",
+      "img": "https://den-cards.pokellector.com/340/Raichu-V.SWSH09.158.42855.png",
+      "rarity": "Rare",
+      "cardNum": "158/172"
+    },
+    {
+      "name": "Granbull V",
+      "set": "Brilliant Stars",
+      "img": "https://den-cards.pokellector.com/340/Granbull-V.SWSH09.159.42856.png",
+      "rarity": "Rare",
+      "cardNum": "159/172"
+    },
+    {
+      "name": "Whimsicott V",
+      "set": "Brilliant Stars",
+      "img": "https://den-cards.pokellector.com/340/Whimsicott-V.SWSH09.160.42857.png",
+      "rarity": "Rare",
+      "cardNum": "160/172"
+    },
+    {
+      "name": "Honchkrow V",
+      "set": "Brilliant Stars",
+      "img": "https://den-cards.pokellector.com/340/Honchkrow-V.SWSH09.161.42858.png",
+      "rarity": "Rare",
+      "cardNum": "161/172"
+    },
+    {
+      "name": "Honchkrow V",
+      "set": "Brilliant Stars",
+      "img": "https://den-cards.pokellector.com/340/Honchkrow-V.SWSH09.162.42859.png",
+      "rarity": "Rare",
+      "cardNum": "162/172"
+    },
+    {
+      "name": "Zamazenta V",
+      "set": "Brilliant Stars",
+      "img": "https://den-cards.pokellector.com/340/Zamazenta-V.SWSH09.163.42860.png",
+      "rarity": "Rare",
+      "cardNum": "163/172"
+    },
+    {
+      "name": "Flygon V",
+      "set": "Brilliant Stars",
+      "img": "https://den-cards.pokellector.com/340/Flygon-V.SWSH09.164.42861.png",
+      "rarity": "Rare",
+      "cardNum": "164/172"
+    },
+    {
+      "name": "Arceus V",
+      "set": "Brilliant Stars",
+      "img": "https://den-cards.pokellector.com/340/Arceus-V.SWSH09.165.42862.png",
+      "rarity": "Rare",
+      "cardNum": "165/172"
+    },
+    {
+      "name": "Arceus V",
+      "set": "Brilliant Stars",
+      "img": "https://den-cards.pokellector.com/340/Arceus-V.SWSH09.166.42863.png",
+      "rarity": "Secret Rare",
+      "cardNum": "166/172"
+    },
+    {
+      "name": "Barry",
+      "set": "Brilliant Stars",
+      "img": "https://den-cards.pokellector.com/340/Barry.SWSH09.167.42864.png",
+      "rarity": "Rare",
+      "cardNum": "167/172"
+    },
+    {
+      "name": "Cheren's Care",
+      "set": "Brilliant Stars",
+      "img": "https://den-cards.pokellector.com/340/Cherens-Care.SWSH09.168.42865.png",
+      "rarity": "Rare",
+      "cardNum": "168/172"
+    },
+    {
+      "name": "Cynthia's Ambition",
+      "set": "Brilliant Stars",
+      "img": "https://den-cards.pokellector.com/340/Cynthias-Ambition.SWSH09.169.42866.png",
+      "rarity": "Rare",
+      "cardNum": "169/172"
+    },
+    {
+      "name": "Kindler",
+      "set": "Brilliant Stars",
+      "img": "https://den-cards.pokellector.com/340/Kindler.SWSH09.170.42867.png",
+      "rarity": "Rare",
+      "cardNum": "170/172"
+    },
+    {
+      "name": "Marnie's Pride",
+      "set": "Brilliant Stars",
+      "img": "https://den-cards.pokellector.com/340/Marnies-Pride.SWSH09.171.42868.png",
+      "rarity": "Rare",
+      "cardNum": "171/172"
+    },
+    {
+      "name": "Roseanne's Backup",
+      "set": "Brilliant Stars",
+      "img": "https://den-cards.pokellector.com/340/Roseannes-Backup.SWSH09.172.42869.png",
+      "rarity": "Rare",
+      "cardNum": "172/172"
+    },
+    {
+      "name": "Shaymin VSTAR",
+      "set": "Brilliant Stars",
+      "img": "https://den-cards.pokellector.com/340/Shaymin-VSTAR.SWSH09.173.42924.png",
+      "rarity": "Secret Rare",
+      "cardNum": "173/172"
+    },
+    {
+      "name": "Charizard VSTAR",
+      "set": "Brilliant Stars",
+      "img": "https://den-cards.pokellector.com/340/Charizard-VSTAR.SWSH09.174.42870.png",
+      "rarity": "Secret Rare",
+      "cardNum": "174/172"
+    },
+    {
+      "name": "Whimsicott VSTAR",
+      "set": "Brilliant Stars",
+      "img": "https://den-cards.pokellector.com/340/Whimsicott-VSTAR.SWSH09.175.42925.png",
+      "rarity": "Secret Rare",
+      "cardNum": "175/172"
+    },
+    {
+      "name": "Arceus VSTAR",
+      "set": "Brilliant Stars",
+      "img": "https://den-cards.pokellector.com/340/Arceus-VSTAR.SWSH09.176.42926.png",
+      "rarity": "Secret Rare",
+      "cardNum": "176/172"
+    },
+    {
+      "name": "Cheren's Care",
+      "set": "Brilliant Stars",
+      "img": "https://den-cards.pokellector.com/340/Cherens-Care.SWSH09.177.42927.png",
+      "rarity": "Secret Rare",
+      "cardNum": "177/172"
+    },
+    {
+      "name": "Cynthia's Ambition",
+      "set": "Brilliant Stars",
+      "img": "https://den-cards.pokellector.com/340/Cynthias-Ambition.SWSH09.178.42928.png",
+      "rarity": "Secret Rare",
+      "cardNum": "178/172"
+    },
+    {
+      "name": "Kindler",
+      "set": "Brilliant Stars",
+      "img": "https://den-cards.pokellector.com/340/Kindler.SWSH09.179.42929.png",
+      "rarity": "Secret Rare",
+      "cardNum": "179/172"
+    },
+    {
+      "name": "Roseanne's Backup",
+      "set": "Brilliant Stars",
+      "img": "https://den-cards.pokellector.com/340/Roseannes-Backup.SWSH09.180.42930.png",
+      "rarity": "Secret Rare",
+      "cardNum": "180/172"
+    },
+    {
+      "name": "Galarian Articuno V",
+      "set": "Brilliant Stars",
+      "img": "https://den-cards.pokellector.com/340/Galarian-Articuno-V.SWSH09.181.42931.png",
+      "rarity": "Secret Rare",
+      "cardNum": "181/172"
+    },
+    {
+      "name": "Galarian Zapdos V",
+      "set": "Brilliant Stars",
+      "img": "https://den-cards.pokellector.com/340/Galarian-Zapdos-V.SWSH09.182.42932.png",
+      "rarity": "Secret Rare",
+      "cardNum": "182/172"
+    },
+    {
+      "name": "Galarian Moltres V",
+      "set": "Brilliant Stars",
+      "img": "https://den-cards.pokellector.com/340/Galarian-Moltres-V.SWSH09.183.42933.png",
+      "rarity": "Secret Rare",
+      "cardNum": "183/172"
+    },
+    {
+      "name": "Arceus VSTAR",
+      "set": "Brilliant Stars",
+      "img": "https://den-cards.pokellector.com/340/Arceus-VSTAR.SWSH09.184.42871.png",
+      "rarity": "Secret Rare",
+      "cardNum": "184/172"
+    },
+    {
+      "name": "Magma Basin",
+      "set": "Brilliant Stars",
+      "img": "https://den-cards.pokellector.com/340/Magma-Basin.SWSH09.185.42934.png",
+      "rarity": "Secret Rare",
+      "cardNum": "185/172"
+    },
+    {
+      "name": "Ultra Ball",
+      "set": "Brilliant Stars",
+      "img": "https://den-cards.pokellector.com/340/Ultra-Ball.SWSH09.186.43199.png",
+      "rarity": "Secret Rare",
+      "cardNum": "186/172"
+    },
+    {
+      "name": "Fighting Energy",
+      "set": "Brilliant Stars",
+      "img": "https://den-cards.pokellector.com/340/Fighting-Energy.SWSH09.0.42921.png",
+      "rarity": "Common",
+      "cardNum": ""
+    },
+    {
+      "name": "Grass Energy",
+      "set": "Brilliant Stars",
+      "img": "https://den-cards.pokellector.com/340/Grass-Energy.SWSH09.0.42916.png",
+      "rarity": "Common",
+      "cardNum": ""
+    },
+    {
+      "name": "Water Energy",
+      "set": "Brilliant Stars",
+      "img": "https://den-cards.pokellector.com/340/Water-Energy.SWSH09.0.42917.png",
+      "rarity": "Common",
+      "cardNum": ""
+    },
+    {
+      "name": "Fire Energy",
+      "set": "Brilliant Stars",
+      "img": "https://den-cards.pokellector.com/340/Fire-Energy.SWSH09.0.42918.png",
+      "rarity": "Common",
+      "cardNum": ""
+    },
+    {
+      "name": "Electric Energy",
+      "set": "Brilliant Stars",
+      "img": "https://den-cards.pokellector.com/340/Electric-Energy.SWSH09.0.42919.png",
+      "rarity": "Common",
+      "cardNum": ""
+    },
+    {
+      "name": "Psychic Energy",
+      "set": "Brilliant Stars",
+      "img": "https://den-cards.pokellector.com/340/Psychic-Energy.SWSH09.0.42920.png",
+      "rarity": "Common",
+      "cardNum": ""
+    },
+    {
+      "name": "Dark Energy",
+      "set": "Brilliant Stars",
+      "img": "https://den-cards.pokellector.com/340/Dark-Energy.SWSH09.0.42922.png",
+      "rarity": "Common",
+      "cardNum": ""
+    },
+    {
+      "name": "Steel Energy",
+      "set": "Brilliant Stars",
+      "img": "https://den-cards.pokellector.com/340/Steel-Energy.SWSH09.0.42923.png",
+      "rarity": "Common",
+      "cardNum": ""
+    }
+  ]
+}

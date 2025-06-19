@@ -1,0 +1,838 @@
+{
+  "setName": "Infinity Zone",
+  "cards": [
+    {
+      "name": "Paras",
+      "set": "Infinity Zone",
+      "img": "https://den-cards.pokellector.com/293/Paras.S3.1.34859.png",
+      "rarity": "Common",
+      "cardNum": "1/100"
+    },
+    {
+      "name": "Parasect",
+      "set": "Infinity Zone",
+      "img": "https://den-cards.pokellector.com/293/Parasect.S3.2.34860.png",
+      "rarity": "Common",
+      "cardNum": "2/100"
+    },
+    {
+      "name": "Carnivine",
+      "set": "Infinity Zone",
+      "img": "https://den-cards.pokellector.com/293/Carnivine.S3.3.34861.png",
+      "rarity": "Common",
+      "cardNum": "3/100"
+    },
+    {
+      "name": "Pansage",
+      "set": "Infinity Zone",
+      "img": "https://den-cards.pokellector.com/293/Pansage.S3.4.34862.png",
+      "rarity": "Common",
+      "cardNum": "4/100"
+    },
+    {
+      "name": "Simisage",
+      "set": "Infinity Zone",
+      "img": "https://den-cards.pokellector.com/293/Simisage.S3.5.34843.png",
+      "rarity": "Uncommon",
+      "cardNum": "5/100"
+    },
+    {
+      "name": "Rowlet",
+      "set": "Infinity Zone",
+      "img": "https://den-cards.pokellector.com/293/Rowlet.S3.6.34863.png",
+      "rarity": "Common",
+      "cardNum": "6/100"
+    },
+    {
+      "name": "Dartrix",
+      "set": "Infinity Zone",
+      "img": "https://den-cards.pokellector.com/293/Dartrix.S3.7.34864.png",
+      "rarity": "Common",
+      "cardNum": "7/100"
+    },
+    {
+      "name": "Decidueye",
+      "set": "Infinity Zone",
+      "img": "https://den-cards.pokellector.com/293/Decidueye.S3.8.34865.png",
+      "rarity": "Rare",
+      "cardNum": "8/100"
+    },
+    {
+      "name": "Houndoom V",
+      "set": "Infinity Zone",
+      "img": "https://den-cards.pokellector.com/293/Houndoom-V.S3.9.34798.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "9/100"
+    },
+    {
+      "name": "Torchic",
+      "set": "Infinity Zone",
+      "img": "https://den-cards.pokellector.com/293/Torchic.S3.10.34866.png",
+      "rarity": "Common",
+      "cardNum": "10/100"
+    },
+    {
+      "name": "Combusken",
+      "set": "Infinity Zone",
+      "img": "https://den-cards.pokellector.com/293/Combusken.S3.11.34867.png",
+      "rarity": "Common",
+      "cardNum": "11/100"
+    },
+    {
+      "name": "Blaziken",
+      "set": "Infinity Zone",
+      "img": "https://den-cards.pokellector.com/293/Blaziken.S3.12.34868.png",
+      "rarity": "Rare",
+      "cardNum": "12/100"
+    },
+    {
+      "name": "Pansear",
+      "set": "Infinity Zone",
+      "img": "https://den-cards.pokellector.com/293/Pansear.S3.13.34869.png",
+      "rarity": "Common",
+      "cardNum": "13/100"
+    },
+    {
+      "name": "Simisear",
+      "set": "Infinity Zone",
+      "img": "https://den-cards.pokellector.com/293/Simisear.S3.14.34844.png",
+      "rarity": "Uncommon",
+      "cardNum": "14/100"
+    },
+    {
+      "name": "Galarian Darmanitan",
+      "set": "Infinity Zone",
+      "img": "https://den-cards.pokellector.com/293/Galarian-Darmanitan.S3.15.34870.png",
+      "rarity": "Uncommon",
+      "cardNum": "15/100"
+    },
+    {
+      "name": "Suicune",
+      "set": "Infinity Zone",
+      "img": "https://den-cards.pokellector.com/293/Suicune.S3.16.34871.png",
+      "rarity": "Rare",
+      "cardNum": "16/100"
+    },
+    {
+      "name": "Relicanth",
+      "set": "Infinity Zone",
+      "img": "https://den-cards.pokellector.com/293/Relicanth.S3.17.34838.png",
+      "rarity": "Common",
+      "cardNum": "17/100"
+    },
+    {
+      "name": "Panpour",
+      "set": "Infinity Zone",
+      "img": "https://den-cards.pokellector.com/293/Panpour.S3.18.34872.png",
+      "rarity": "Common",
+      "cardNum": "18/100"
+    },
+    {
+      "name": "Simipour",
+      "set": "Infinity Zone",
+      "img": "https://den-cards.pokellector.com/293/Simipour.S3.19.34845.png",
+      "rarity": "Uncommon",
+      "cardNum": "19/100"
+    },
+    {
+      "name": "Galarian Darumaka",
+      "set": "Infinity Zone",
+      "img": "https://den-cards.pokellector.com/293/Galarian-Darumaka.S3.20.34873.png",
+      "rarity": "Common",
+      "cardNum": "20/100"
+    },
+    {
+      "name": "Vanillite",
+      "set": "Infinity Zone",
+      "img": "https://den-cards.pokellector.com/293/Vanillite.S3.21.34874.png",
+      "rarity": "Common",
+      "cardNum": "21/100"
+    },
+    {
+      "name": "Vanillish",
+      "set": "Infinity Zone",
+      "img": "https://den-cards.pokellector.com/293/Vanillish.S3.22.34875.png",
+      "rarity": "Common",
+      "cardNum": "22/100"
+    },
+    {
+      "name": "Vanilluxe",
+      "set": "Infinity Zone",
+      "img": "https://den-cards.pokellector.com/293/Vanilluxe.S3.23.34876.png",
+      "rarity": "Uncommon",
+      "cardNum": "23/100"
+    },
+    {
+      "name": "Mareanie",
+      "set": "Infinity Zone",
+      "img": "https://den-cards.pokellector.com/293/Mareanie.S3.24.34877.png",
+      "rarity": "Common",
+      "cardNum": "24/100"
+    },
+    {
+      "name": "Toxapex",
+      "set": "Infinity Zone",
+      "img": "https://den-cards.pokellector.com/293/Toxapex.S3.25.34878.png",
+      "rarity": "Common",
+      "cardNum": "25/100"
+    },
+    {
+      "name": "Drednaw V",
+      "set": "Infinity Zone",
+      "img": "https://den-cards.pokellector.com/293/Drednaw-V.S3.26.34796.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "26/100"
+    },
+    {
+      "name": "Drednaw VMAX",
+      "set": "Infinity Zone",
+      "img": "https://den-cards.pokellector.com/293/Drednaw-VMAX.S3.27.34797.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "27/100"
+    },
+    {
+      "name": "Dracovish",
+      "set": "Infinity Zone",
+      "img": "https://den-cards.pokellector.com/293/Dracovish.S3.28.34879.png",
+      "rarity": "Rare",
+      "cardNum": "28/100"
+    },
+    {
+      "name": "Arctovish",
+      "set": "Infinity Zone",
+      "img": "https://den-cards.pokellector.com/293/Arctovish.S3.29.34880.png",
+      "rarity": "Uncommon",
+      "cardNum": "29/100"
+    },
+    {
+      "name": "Electrike",
+      "set": "Infinity Zone",
+      "img": "https://den-cards.pokellector.com/293/Electrike.S3.30.34881.png",
+      "rarity": "Common",
+      "cardNum": "30/100"
+    },
+    {
+      "name": "Manectric",
+      "set": "Infinity Zone",
+      "img": "https://den-cards.pokellector.com/293/Manectric.S3.31.34882.png",
+      "rarity": "Uncommon",
+      "cardNum": "31/100"
+    },
+    {
+      "name": "Tapu Koko",
+      "set": "Infinity Zone",
+      "img": "https://den-cards.pokellector.com/293/Tapu-Koko.S3.32.34883.png",
+      "rarity": "Rare",
+      "cardNum": "32/100"
+    },
+    {
+      "name": "Dracozolt",
+      "set": "Infinity Zone",
+      "img": "https://den-cards.pokellector.com/293/Dracozolt.S3.33.34884.png",
+      "rarity": "Uncommon",
+      "cardNum": "33/100"
+    },
+    {
+      "name": "Arctozolt",
+      "set": "Infinity Zone",
+      "img": "https://den-cards.pokellector.com/293/Arctozolt.S3.34.34837.png",
+      "rarity": "Rare",
+      "cardNum": "34/100"
+    },
+    {
+      "name": "Jigglypuff",
+      "set": "Infinity Zone",
+      "img": "https://den-cards.pokellector.com/293/Jigglypuff.S3.35.34885.png",
+      "rarity": "Common",
+      "cardNum": "35/100"
+    },
+    {
+      "name": "Wigglytuff",
+      "set": "Infinity Zone",
+      "img": "https://den-cards.pokellector.com/293/Wigglytuff.S3.36.34886.png",
+      "rarity": "Uncommon",
+      "cardNum": "36/100"
+    },
+    {
+      "name": "Gothita",
+      "set": "Infinity Zone",
+      "img": "https://den-cards.pokellector.com/293/Gothita.S3.37.34887.png",
+      "rarity": "Common",
+      "cardNum": "37/100"
+    },
+    {
+      "name": "Gothorita",
+      "set": "Infinity Zone",
+      "img": "https://den-cards.pokellector.com/293/Gothorita.S3.38.34888.png",
+      "rarity": "Common",
+      "cardNum": "38/100"
+    },
+    {
+      "name": "Gothitelle",
+      "set": "Infinity Zone",
+      "img": "https://den-cards.pokellector.com/293/Gothitelle.S3.39.34889.png",
+      "rarity": "Uncommon",
+      "cardNum": "39/100"
+    },
+    {
+      "name": "Golett",
+      "set": "Infinity Zone",
+      "img": "https://den-cards.pokellector.com/293/Golett.S3.40.34890.png",
+      "rarity": "Common",
+      "cardNum": "40/100"
+    },
+    {
+      "name": "Golurk",
+      "set": "Infinity Zone",
+      "img": "https://den-cards.pokellector.com/293/Golurk.S3.41.34891.png",
+      "rarity": "Uncommon",
+      "cardNum": "41/100"
+    },
+    {
+      "name": "Mimikyu",
+      "set": "Infinity Zone",
+      "img": "https://den-cards.pokellector.com/293/Mimikyu.S3.42.34892.png",
+      "rarity": "Uncommon",
+      "cardNum": "42/100"
+    },
+    {
+      "name": "Galarian Cursola V",
+      "set": "Infinity Zone",
+      "img": "https://den-cards.pokellector.com/293/Galarian-Cursola-V.S3.43.34799.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "43/100"
+    },
+    {
+      "name": "Trapinch",
+      "set": "Infinity Zone",
+      "img": "https://den-cards.pokellector.com/293/Trapinch.S3.44.34893.png",
+      "rarity": "Common",
+      "cardNum": "44/100"
+    },
+    {
+      "name": "Vibrava",
+      "set": "Infinity Zone",
+      "img": "https://den-cards.pokellector.com/293/Vibrava.S3.45.34894.png",
+      "rarity": "Common",
+      "cardNum": "45/100"
+    },
+    {
+      "name": "Flygon",
+      "set": "Infinity Zone",
+      "img": "https://den-cards.pokellector.com/293/Flygon.S3.46.34895.png",
+      "rarity": "Uncommon",
+      "cardNum": "46/100"
+    },
+    {
+      "name": "Hippopotas",
+      "set": "Infinity Zone",
+      "img": "https://den-cards.pokellector.com/293/Hippopotas.S3.47.34896.png",
+      "rarity": "Common",
+      "cardNum": "47/100"
+    },
+    {
+      "name": "Hippowdon",
+      "set": "Infinity Zone",
+      "img": "https://den-cards.pokellector.com/293/Hippowdon.S3.48.34897.png",
+      "rarity": "Uncommon",
+      "cardNum": "48/100"
+    },
+    {
+      "name": "Rhyperior V",
+      "set": "Infinity Zone",
+      "img": "https://den-cards.pokellector.com/293/Rhyperior-V.S3.49.34800.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "49/100"
+    },
+    {
+      "name": "Passimian",
+      "set": "Infinity Zone",
+      "img": "https://den-cards.pokellector.com/293/Passimian.S3.50.34898.png",
+      "rarity": "Common",
+      "cardNum": "50/100"
+    },
+    {
+      "name": "Spinarak",
+      "set": "Infinity Zone",
+      "img": "https://den-cards.pokellector.com/293/Spinarak.S3.51.34899.png",
+      "rarity": "Common",
+      "cardNum": "51/100"
+    },
+    {
+      "name": "Ariados",
+      "set": "Infinity Zone",
+      "img": "https://den-cards.pokellector.com/293/Ariados.S3.52.34791.png",
+      "rarity": "Uncommon",
+      "cardNum": "52/100"
+    },
+    {
+      "name": "Crobat V",
+      "set": "Infinity Zone",
+      "img": "https://den-cards.pokellector.com/293/Crobat-V.S3.53.34788.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "53/100"
+    },
+    {
+      "name": "Galarian Zigzagoon",
+      "set": "Infinity Zone",
+      "img": "https://den-cards.pokellector.com/293/Galarian-Zigzagoon.S3.54.34900.png",
+      "rarity": "Common",
+      "cardNum": "54/100"
+    },
+    {
+      "name": "Galarian Linoone",
+      "set": "Infinity Zone",
+      "img": "https://den-cards.pokellector.com/293/Galarian-Linoone.S3.55.34901.png",
+      "rarity": "Common",
+      "cardNum": "55/100"
+    },
+    {
+      "name": "Galarian Obstagoon",
+      "set": "Infinity Zone",
+      "img": "https://den-cards.pokellector.com/293/Galatians-Obstagoon.S3.56.34836.png",
+      "rarity": "Rare",
+      "cardNum": "56/100"
+    },
+    {
+      "name": "Scraggy",
+      "set": "Infinity Zone",
+      "img": "https://den-cards.pokellector.com/293/Scraggy.S3.57.34902.png",
+      "rarity": "Common",
+      "cardNum": "57/100"
+    },
+    {
+      "name": "Scrafty",
+      "set": "Infinity Zone",
+      "img": "https://den-cards.pokellector.com/293/Scrafty.S3.58.34790.png",
+      "rarity": "Uncommon",
+      "cardNum": "58/100"
+    },
+    {
+      "name": "Inkay",
+      "set": "Infinity Zone",
+      "img": "https://den-cards.pokellector.com/293/Inkay.S3.59.34903.png",
+      "rarity": "Common",
+      "cardNum": "59/100"
+    },
+    {
+      "name": "Malamar",
+      "set": "Infinity Zone",
+      "img": "https://den-cards.pokellector.com/293/Malamar.S3.60.34904.png",
+      "rarity": "Uncommon",
+      "cardNum": "60/100"
+    },
+    {
+      "name": "Hoopa",
+      "set": "Infinity Zone",
+      "img": "https://den-cards.pokellector.com/293/Hoopa.S3.61.34789.png",
+      "rarity": "Rare",
+      "cardNum": "61/100"
+    },
+    {
+      "name": "Nickit",
+      "set": "Infinity Zone",
+      "img": "https://den-cards.pokellector.com/293/Nickit.S3.62.34905.png",
+      "rarity": "Common",
+      "cardNum": "62/100"
+    },
+    {
+      "name": "Thievul",
+      "set": "Infinity Zone",
+      "img": "https://den-cards.pokellector.com/293/Thievul.S3.63.34906.png",
+      "rarity": "Uncommon",
+      "cardNum": "63/100"
+    },
+    {
+      "name": "Eternatus V",
+      "set": "Infinity Zone",
+      "img": "https://den-cards.pokellector.com/293/Eternatus-V.S3.64.34787.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "64/100"
+    },
+    {
+      "name": "Eternatus VMAX",
+      "set": "Infinity Zone",
+      "img": "https://den-cards.pokellector.com/293/Eternatus-VMAX.S3.65.34786.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "65/100"
+    },
+    {
+      "name": "Scizor V",
+      "set": "Infinity Zone",
+      "img": "https://den-cards.pokellector.com/293/Scizor-V.S3.66.34802.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "66/100"
+    },
+    {
+      "name": "Scizor VMAX",
+      "set": "Infinity Zone",
+      "img": "https://den-cards.pokellector.com/293/Scizor-VMAX.S3.67.34907.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "67/100"
+    },
+    {
+      "name": "Skarmory",
+      "set": "Infinity Zone",
+      "img": "https://den-cards.pokellector.com/293/Skarmory.S3.68.34908.png",
+      "rarity": "Common",
+      "cardNum": "68/100"
+    },
+    {
+      "name": "Klink",
+      "set": "Infinity Zone",
+      "img": "https://den-cards.pokellector.com/293/Klink.S3.69.34840.png",
+      "rarity": "Common",
+      "cardNum": "69/100"
+    },
+    {
+      "name": "Klang",
+      "set": "Infinity Zone",
+      "img": "https://den-cards.pokellector.com/293/Klang.S3.70.34841.png",
+      "rarity": "Common",
+      "cardNum": "70/100"
+    },
+    {
+      "name": "Klinklang",
+      "set": "Infinity Zone",
+      "img": "https://den-cards.pokellector.com/293/Klinklang.S3.71.34842.png",
+      "rarity": "Uncommon",
+      "cardNum": "71/100"
+    },
+    {
+      "name": "Cufant",
+      "set": "Infinity Zone",
+      "img": "https://den-cards.pokellector.com/293/Cufant.S3.72.34909.png",
+      "rarity": "Common",
+      "cardNum": "72/100"
+    },
+    {
+      "name": "Copperajah",
+      "set": "Infinity Zone",
+      "img": "https://den-cards.pokellector.com/293/Copperajah.S3.73.34846.png",
+      "rarity": "Rare",
+      "cardNum": "73/100"
+    },
+    {
+      "name": "Kangaskhan",
+      "set": "Infinity Zone",
+      "img": "https://den-cards.pokellector.com/293/Kangaskhan.S3.74.34910.png",
+      "rarity": "Rare",
+      "cardNum": "74/100"
+    },
+    {
+      "name": "Dunsparce",
+      "set": "Infinity Zone",
+      "img": "https://den-cards.pokellector.com/293/Dunsparce.S3.75.34911.png",
+      "rarity": "Common",
+      "cardNum": "75/100"
+    },
+    {
+      "name": "Teddiursa",
+      "set": "Infinity Zone",
+      "img": "https://den-cards.pokellector.com/293/Teddiursa.S3.76.34912.png",
+      "rarity": "Common",
+      "cardNum": "76/100"
+    },
+    {
+      "name": "Ursaring",
+      "set": "Infinity Zone",
+      "img": "https://den-cards.pokellector.com/293/Ursaring.S3.77.34913.png",
+      "rarity": "Common",
+      "cardNum": "77/100"
+    },
+    {
+      "name": "Skitty",
+      "set": "Infinity Zone",
+      "img": "https://den-cards.pokellector.com/293/Skitty.S3.78.34914.png",
+      "rarity": "Common",
+      "cardNum": "78/100"
+    },
+    {
+      "name": "Delcatty",
+      "set": "Infinity Zone",
+      "img": "https://den-cards.pokellector.com/293/Delcatty.S3.79.34915.png",
+      "rarity": "Uncommon",
+      "cardNum": "79/100"
+    },
+    {
+      "name": "Salamence V",
+      "set": "Infinity Zone",
+      "img": "https://den-cards.pokellector.com/293/Salamence-V.S3.80.34801.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "80/100"
+    },
+    {
+      "name": "Salamence VMAX",
+      "set": "Infinity Zone",
+      "img": "https://den-cards.pokellector.com/293/Salamence-VMAX.S3.81.34916.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "81/100"
+    },
+    {
+      "name": "Starly",
+      "set": "Infinity Zone",
+      "img": "https://den-cards.pokellector.com/293/Starly.S3.82.34917.png",
+      "rarity": "Common",
+      "cardNum": "82/100"
+    },
+    {
+      "name": "Staravia",
+      "set": "Infinity Zone",
+      "img": "https://den-cards.pokellector.com/293/Staravia.S3.83.34918.png",
+      "rarity": "Common",
+      "cardNum": "83/100"
+    },
+    {
+      "name": "Staraptor",
+      "set": "Infinity Zone",
+      "img": "https://den-cards.pokellector.com/293/Staraptor.S3.84.34919.png",
+      "rarity": "Uncommon",
+      "cardNum": "84/100"
+    },
+    {
+      "name": "Ducklett",
+      "set": "Infinity Zone",
+      "img": "https://den-cards.pokellector.com/293/Ducklett.S3.85.34920.png",
+      "rarity": "Common",
+      "cardNum": "85/100"
+    },
+    {
+      "name": "Swanna",
+      "set": "Infinity Zone",
+      "img": "https://den-cards.pokellector.com/293/Swanna.S3.86.34921.png",
+      "rarity": "Uncommon",
+      "cardNum": "86/100"
+    },
+    {
+      "name": "Skwovet",
+      "set": "Infinity Zone",
+      "img": "https://den-cards.pokellector.com/293/Skwovet.S3.87.34922.png",
+      "rarity": "Common",
+      "cardNum": "87/100"
+    },
+    {
+      "name": "Greedent",
+      "set": "Infinity Zone",
+      "img": "https://den-cards.pokellector.com/293/Greedent.S3.88.34923.png",
+      "rarity": "Uncommon",
+      "cardNum": "88/100"
+    },
+    {
+      "name": "Cheering Y-Horn",
+      "set": "Infinity Zone",
+      "img": "https://den-cards.pokellector.com/293/Cheering-Y-Horn.S3.89.34924.png",
+      "rarity": "Uncommon",
+      "cardNum": "89/100"
+    },
+    {
+      "name": "Turbo Patch",
+      "set": "Infinity Zone",
+      "img": "https://den-cards.pokellector.com/293/Turbo-Patch.S3.90.34835.png",
+      "rarity": "Uncommon",
+      "cardNum": "90/100"
+    },
+    {
+      "name": "Rare Fossil",
+      "set": "Infinity Zone",
+      "img": "https://den-cards.pokellector.com/293/Rare-Fossil.S3.91.34839.png",
+      "rarity": "Common",
+      "cardNum": "91/100"
+    },
+    {
+      "name": "Toughness Cloak",
+      "set": "Infinity Zone",
+      "img": "https://den-cards.pokellector.com/293/Toughness-Cloak.S3.92.34925.png",
+      "rarity": "Uncommon",
+      "cardNum": "92/100"
+    },
+    {
+      "name": "Billowing Smoke",
+      "set": "Infinity Zone",
+      "img": "https://den-cards.pokellector.com/293/Billowing-Smoke.S3.93.34926.png",
+      "rarity": "Uncommon",
+      "cardNum": "93/100"
+    },
+    {
+      "name": "Bird Keeper",
+      "set": "Infinity Zone",
+      "img": "https://den-cards.pokellector.com/293/Bird-Keeper.S3.94.34927.png",
+      "rarity": "Uncommon",
+      "cardNum": "94/100"
+    },
+    {
+      "name": "Piers",
+      "set": "Infinity Zone",
+      "img": "https://den-cards.pokellector.com/293/Piers.S3.95.34792.png",
+      "rarity": "Uncommon",
+      "cardNum": "95/100"
+    },
+    {
+      "name": "Rose",
+      "set": "Infinity Zone",
+      "img": "https://den-cards.pokellector.com/293/Rose.S3.96.34793.png",
+      "rarity": "Uncommon",
+      "cardNum": "96/100"
+    },
+    {
+      "name": "Spikemuth",
+      "set": "Infinity Zone",
+      "img": "https://den-cards.pokellector.com/293/Spikemuth.S3.97.34847.png",
+      "rarity": "Uncommon",
+      "cardNum": "97/100"
+    },
+    {
+      "name": "Rose Tower",
+      "set": "Infinity Zone",
+      "img": "https://den-cards.pokellector.com/293/Rose-Tower.S3.98.34794.png",
+      "rarity": "Uncommon",
+      "cardNum": "98/100"
+    },
+    {
+      "name": "Hide Darkness Energy",
+      "set": "Infinity Zone",
+      "img": "https://den-cards.pokellector.com/293/Hide-Darkness-Energy.S3.99.34795.png",
+      "rarity": "Uncommon",
+      "cardNum": "99/100"
+    },
+    {
+      "name": "Powerful Colorless Energy",
+      "set": "Infinity Zone",
+      "img": "https://den-cards.pokellector.com/293/Powerful-Colorless-Energy.S3.100.34928.png",
+      "rarity": "Uncommon",
+      "cardNum": "100/100"
+    },
+    {
+      "name": "Houndoom V",
+      "set": "Infinity Zone",
+      "img": "https://den-cards.pokellector.com/293/Houndoom-V.S3.101.34949.png",
+      "rarity": "Secret Rare",
+      "cardNum": "101/100"
+    },
+    {
+      "name": "Drednaw V",
+      "set": "Infinity Zone",
+      "img": "https://den-cards.pokellector.com/293/Drednaw-V.S3.102.34950.png",
+      "rarity": "Secret Rare",
+      "cardNum": "102/100"
+    },
+    {
+      "name": "Galarian Cursola V",
+      "set": "Infinity Zone",
+      "img": "https://den-cards.pokellector.com/293/Galarian-Cursola-V.S3.103.34951.png",
+      "rarity": "Secret Rare",
+      "cardNum": "103/100"
+    },
+    {
+      "name": "Rhyperior V",
+      "set": "Infinity Zone",
+      "img": "https://den-cards.pokellector.com/293/Rhyperior-V.S3.104.34952.png",
+      "rarity": "Secret Rare",
+      "cardNum": "104/100"
+    },
+    {
+      "name": "Crobat V",
+      "set": "Infinity Zone",
+      "img": "https://den-cards.pokellector.com/293/Crobat-V.S3.105.34953.png",
+      "rarity": "Secret Rare",
+      "cardNum": "105/100"
+    },
+    {
+      "name": "Eternatus V",
+      "set": "Infinity Zone",
+      "img": "https://den-cards.pokellector.com/293/Eternatus-V.S3.106.34954.png",
+      "rarity": "Secret Rare",
+      "cardNum": "106/100"
+    },
+    {
+      "name": "Scizor V",
+      "set": "Infinity Zone",
+      "img": "https://den-cards.pokellector.com/293/Scizor-V.S3.107.34955.png",
+      "rarity": "Secret Rare",
+      "cardNum": "107/100"
+    },
+    {
+      "name": "Salamence V",
+      "set": "Infinity Zone",
+      "img": "https://den-cards.pokellector.com/293/Salamence-V.S3.108.34956.png",
+      "rarity": "Secret Rare",
+      "cardNum": "108/100"
+    },
+    {
+      "name": "Piers",
+      "set": "Infinity Zone",
+      "img": "https://den-cards.pokellector.com/293/Piers.S3.109.34957.png",
+      "rarity": "Secret Rare",
+      "cardNum": "109/100"
+    },
+    {
+      "name": "Chairman Rose",
+      "set": "Infinity Zone",
+      "img": "https://den-cards.pokellector.com/293/Chairman-Rose.S3.110.34958.png",
+      "rarity": "Secret Rare",
+      "cardNum": "110/100"
+    },
+    {
+      "name": "Drednaw VMAX",
+      "set": "Infinity Zone",
+      "img": "https://den-cards.pokellector.com/293/Drednaw-VMAX.S3.111.34959.png",
+      "rarity": "Secret Rare",
+      "cardNum": "111/100"
+    },
+    {
+      "name": "Eternatus VMAX",
+      "set": "Infinity Zone",
+      "img": "https://den-cards.pokellector.com/293/Eternatus-VMAX.S3.112.34960.png",
+      "rarity": "Secret Rare",
+      "cardNum": "112/100"
+    },
+    {
+      "name": "Scizor VMAX",
+      "set": "Infinity Zone",
+      "img": "https://den-cards.pokellector.com/293/Scizor-VMAX.S3.113.34961.png",
+      "rarity": "Secret Rare",
+      "cardNum": "113/100"
+    },
+    {
+      "name": "Salamence VMAX",
+      "set": "Infinity Zone",
+      "img": "https://den-cards.pokellector.com/293/Salamence-VMAX.S3.114.34962.png",
+      "rarity": "Secret Rare",
+      "cardNum": "114/100"
+    },
+    {
+      "name": "Piers",
+      "set": "Infinity Zone",
+      "img": "https://den-cards.pokellector.com/293/Piers.S3.115.34963.png",
+      "rarity": "Secret Rare",
+      "cardNum": "115/100"
+    },
+    {
+      "name": "Chairman Rose",
+      "set": "Infinity Zone",
+      "img": "https://den-cards.pokellector.com/293/Chairman-Rose.S3.116.34964.png",
+      "rarity": "Secret Rare",
+      "cardNum": "116/100"
+    },
+    {
+      "name": "Coalossal",
+      "set": "Infinity Zone",
+      "img": "https://den-cards.pokellector.com/293/Coalossal.S3.117.34965.png",
+      "rarity": "Secret Rare",
+      "cardNum": "117/100"
+    },
+    {
+      "name": "Turbo Patch",
+      "set": "Infinity Zone",
+      "img": "https://den-cards.pokellector.com/293/Turbo-Patch.S3.118.34966.png",
+      "rarity": "Secret Rare",
+      "cardNum": "118/100"
+    },
+    {
+      "name": "Capture Energy",
+      "set": "Infinity Zone",
+      "img": "https://den-cards.pokellector.com/293/Capture-Energy.S3.119.34967.png",
+      "rarity": "Secret Rare",
+      "cardNum": "119/100"
+    }
+  ]
+}

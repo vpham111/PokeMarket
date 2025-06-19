@@ -1,0 +1,705 @@
+{
+  "setName": "Wild Force",
+  "cards": [
+    {
+      "name": "Roselia",
+      "set": "Wild Force",
+      "img": "https://den-cards.pokellector.com/386/Roselia.SV5K.1.51816.png",
+      "rarity": "Common",
+      "cardNum": "1/71"
+    },
+    {
+      "name": "Roserade",
+      "set": "Wild Force",
+      "img": "https://den-cards.pokellector.com/386/Roserade.SV5K.2.51817.png",
+      "rarity": "Uncommon",
+      "cardNum": "2/71"
+    },
+    {
+      "name": "Turtwig",
+      "set": "Wild Force",
+      "img": "https://den-cards.pokellector.com/386/Turtwig.SV5K.3.51818.png",
+      "rarity": "Common",
+      "cardNum": "3/71"
+    },
+    {
+      "name": "Grotle",
+      "set": "Wild Force",
+      "img": "https://den-cards.pokellector.com/386/Grotle.SV5K.4.51819.png",
+      "rarity": "Common",
+      "cardNum": "4/71"
+    },
+    {
+      "name": "Torterra ex",
+      "set": "Wild Force",
+      "img": "https://den-cards.pokellector.com/386/Torterra-ex.SV5K.5.51820.png",
+      "rarity": "Double Rare",
+      "cardNum": "5/71"
+    },
+    {
+      "name": "Shaymin",
+      "set": "Wild Force",
+      "img": "https://den-cards.pokellector.com/386/Shaymin.SV5K.6.51821.png",
+      "rarity": "Uncommon",
+      "cardNum": "6/71"
+    },
+    {
+      "name": "Cottonee",
+      "set": "Wild Force",
+      "img": "https://den-cards.pokellector.com/386/Cottonee.SV5K.7.51822.png",
+      "rarity": "Common",
+      "cardNum": "7/71"
+    },
+    {
+      "name": "Whimsicott",
+      "set": "Wild Force",
+      "img": "https://den-cards.pokellector.com/386/Whimsicott.SV5K.8.51823.png",
+      "rarity": "Rare",
+      "cardNum": "8/71"
+    },
+    {
+      "name": "Heatmor",
+      "set": "Wild Force",
+      "img": "https://den-cards.pokellector.com/386/Heatmor.SV5K.9.51824.png",
+      "rarity": "Common",
+      "cardNum": "9/71"
+    },
+    {
+      "name": "Sizzlipede",
+      "set": "Wild Force",
+      "img": "https://den-cards.pokellector.com/386/Sizzlipede.SV5K.10.51825.png",
+      "rarity": "Common",
+      "cardNum": "10/71"
+    },
+    {
+      "name": "Centiskorch",
+      "set": "Wild Force",
+      "img": "https://den-cards.pokellector.com/386/Centiskorch.SV5K.11.51826.png",
+      "rarity": "Uncommon",
+      "cardNum": "11/71"
+    },
+    {
+      "name": "Gouging Fire ex",
+      "set": "Wild Force",
+      "img": "https://den-cards.pokellector.com/386/Gouging-Fire-ex.SV5K.12.51660.png",
+      "rarity": "Double Rare",
+      "cardNum": "12/71"
+    },
+    {
+      "name": "Totodile",
+      "set": "Wild Force",
+      "img": "https://den-cards.pokellector.com/386/Totodile.SV5K.13.51827.png",
+      "rarity": "Common",
+      "cardNum": "13/71"
+    },
+    {
+      "name": "Croconaw",
+      "set": "Wild Force",
+      "img": "https://den-cards.pokellector.com/386/Croconaw.SV5K.14.51828.png",
+      "rarity": "Common",
+      "cardNum": "14/71"
+    },
+    {
+      "name": "Feraligatr",
+      "set": "Wild Force",
+      "img": "https://den-cards.pokellector.com/386/Feraligatr.SV5K.15.51829.png",
+      "rarity": "Rare",
+      "cardNum": "15/71"
+    },
+    {
+      "name": "Carvanha",
+      "set": "Wild Force",
+      "img": "https://den-cards.pokellector.com/386/Carvanha.SV5K.16.51830.png",
+      "rarity": "Common",
+      "cardNum": "16/71"
+    },
+    {
+      "name": "Sharpedo",
+      "set": "Wild Force",
+      "img": "https://den-cards.pokellector.com/386/Sharpedo.SV5K.17.51831.png",
+      "rarity": "Uncommon",
+      "cardNum": "17/71"
+    },
+    {
+      "name": "Keldeo",
+      "set": "Wild Force",
+      "img": "https://den-cards.pokellector.com/386/Keldeo.SV5K.18.51832.png",
+      "rarity": "Uncommon",
+      "cardNum": "18/71"
+    },
+    {
+      "name": "Snom",
+      "set": "Wild Force",
+      "img": "https://den-cards.pokellector.com/386/Snom.SV5K.19.51833.png",
+      "rarity": "Common",
+      "cardNum": "19/71"
+    },
+    {
+      "name": "Frosmoth",
+      "set": "Wild Force",
+      "img": "https://den-cards.pokellector.com/386/Frosmoth.SV5K.20.51834.png",
+      "rarity": "Common",
+      "cardNum": "20/71"
+    },
+    {
+      "name": "Wiglett",
+      "set": "Wild Force",
+      "img": "https://den-cards.pokellector.com/386/Wiglett.SV5K.21.51835.png",
+      "rarity": "Common",
+      "cardNum": "21/71"
+    },
+    {
+      "name": "Finizen",
+      "set": "Wild Force",
+      "img": "https://den-cards.pokellector.com/386/Finizen.SV5K.22.51836.png",
+      "rarity": "Common",
+      "cardNum": "22/71"
+    },
+    {
+      "name": "Palafin",
+      "set": "Wild Force",
+      "img": "https://den-cards.pokellector.com/386/Palafin.SV5K.23.51837.png",
+      "rarity": "Uncommon",
+      "cardNum": "23/71"
+    },
+    {
+      "name": "Walking Wake ex",
+      "set": "Wild Force",
+      "img": "https://den-cards.pokellector.com/386/Walking-Wake-ex.SV5K.24.51662.png",
+      "rarity": "Double Rare",
+      "cardNum": "24/71"
+    },
+    {
+      "name": "Wugtrio ex",
+      "set": "Wild Force",
+      "img": "https://den-cards.pokellector.com/386/Wugtrio-ex.SV5K.25.51719.png",
+      "rarity": "Double Rare",
+      "cardNum": "25/71"
+    },
+    {
+      "name": "Marill",
+      "set": "Wild Force",
+      "img": "https://den-cards.pokellector.com/386/Marill.SV5K.26.51838.png",
+      "rarity": "Common",
+      "cardNum": "26/71"
+    },
+    {
+      "name": "Azumarill",
+      "set": "Wild Force",
+      "img": "https://den-cards.pokellector.com/386/Azumarill.SV5K.27.51839.png",
+      "rarity": "Common",
+      "cardNum": "27/71"
+    },
+    {
+      "name": "Bronzor",
+      "set": "Wild Force",
+      "img": "https://den-cards.pokellector.com/386/Bronzor.SV5K.28.51840.png",
+      "rarity": "Common",
+      "cardNum": "28/71"
+    },
+    {
+      "name": "Bronzong",
+      "set": "Wild Force",
+      "img": "https://den-cards.pokellector.com/386/Bronzong.SV5K.29.51841.png",
+      "rarity": "Uncommon",
+      "cardNum": "29/71"
+    },
+    {
+      "name": "Solosis",
+      "set": "Wild Force",
+      "img": "https://den-cards.pokellector.com/386/Solosis.SV5K.30.51722.png",
+      "rarity": "Common",
+      "cardNum": "30/71"
+    },
+    {
+      "name": "Duosion",
+      "set": "Wild Force",
+      "img": "https://den-cards.pokellector.com/386/Duosion.SV5K.31.51723.png",
+      "rarity": "Common",
+      "cardNum": "31/71"
+    },
+    {
+      "name": "Reuniclus",
+      "set": "Wild Force",
+      "img": "https://den-cards.pokellector.com/386/Reuniclus.SV5K.32.51724.png",
+      "rarity": "Uncommon",
+      "cardNum": "32/71"
+    },
+    {
+      "name": "Flutter Mane",
+      "set": "Wild Force",
+      "img": "https://den-cards.pokellector.com/386/Flutter-Mane.SV5K.33.51842.png",
+      "rarity": "Rare",
+      "cardNum": "33/71"
+    },
+    {
+      "name": "Relicanth",
+      "set": "Wild Force",
+      "img": "https://den-cards.pokellector.com/386/Relicanth.SV5K.34.51843.png",
+      "rarity": "Rare",
+      "cardNum": "34/71"
+    },
+    {
+      "name": "Golett",
+      "set": "Wild Force",
+      "img": "https://den-cards.pokellector.com/386/Golett.SV5K.35.51844.png",
+      "rarity": "Common",
+      "cardNum": "35/71"
+    },
+    {
+      "name": "Golurk",
+      "set": "Wild Force",
+      "img": "https://den-cards.pokellector.com/386/Golurk.SV5K.36.51845.png",
+      "rarity": "Uncommon",
+      "cardNum": "36/71"
+    },
+    {
+      "name": "Mudbray",
+      "set": "Wild Force",
+      "img": "https://den-cards.pokellector.com/386/Mudbray.SV5K.37.51846.png",
+      "rarity": "Common",
+      "cardNum": "37/71"
+    },
+    {
+      "name": "Mudsdale",
+      "set": "Wild Force",
+      "img": "https://den-cards.pokellector.com/386/Mudsdale.SV5K.38.51847.png",
+      "rarity": "Uncommon",
+      "cardNum": "38/71"
+    },
+    {
+      "name": "Rolycoly",
+      "set": "Wild Force",
+      "img": "https://den-cards.pokellector.com/386/Rolycoly.SV5K.39.51848.png",
+      "rarity": "Common",
+      "cardNum": "39/71"
+    },
+    {
+      "name": "Carkol",
+      "set": "Wild Force",
+      "img": "https://den-cards.pokellector.com/386/Carkol.SV5K.40.51849.png",
+      "rarity": "Common",
+      "cardNum": "40/71"
+    },
+    {
+      "name": "Coalossal",
+      "set": "Wild Force",
+      "img": "https://den-cards.pokellector.com/386/Coalossal.SV5K.41.51850.png",
+      "rarity": "Uncommon",
+      "cardNum": "41/71"
+    },
+    {
+      "name": "Great Tusk",
+      "set": "Wild Force",
+      "img": "https://den-cards.pokellector.com/386/Great-Tusk.SV5K.42.51851.png",
+      "rarity": "Uncommon",
+      "cardNum": "42/71"
+    },
+    {
+      "name": "Ekans",
+      "set": "Wild Force",
+      "img": "https://den-cards.pokellector.com/386/Ekans.SV5K.43.51852.png",
+      "rarity": "Common",
+      "cardNum": "43/71"
+    },
+    {
+      "name": "Arbok",
+      "set": "Wild Force",
+      "img": "https://den-cards.pokellector.com/386/Arbok.SV5K.44.51853.png",
+      "rarity": "Common",
+      "cardNum": "44/71"
+    },
+    {
+      "name": "Gastly",
+      "set": "Wild Force",
+      "img": "https://den-cards.pokellector.com/386/Gastly.SV5K.45.51854.png",
+      "rarity": "Common",
+      "cardNum": "45/71"
+    },
+    {
+      "name": "Haunter",
+      "set": "Wild Force",
+      "img": "https://den-cards.pokellector.com/386/Haunter.SV5K.46.51855.png",
+      "rarity": "Common",
+      "cardNum": "46/71"
+    },
+    {
+      "name": "Gengar ex",
+      "set": "Wild Force",
+      "img": "https://den-cards.pokellector.com/386/Gengar-ex.SV5K.47.51718.png",
+      "rarity": "Double Rare",
+      "cardNum": "47/71"
+    },
+    {
+      "name": "Poochyena",
+      "set": "Wild Force",
+      "img": "https://den-cards.pokellector.com/386/Poochyena.SV5K.48.51856.png",
+      "rarity": "Common",
+      "cardNum": "48/71"
+    },
+    {
+      "name": "Mightyena",
+      "set": "Wild Force",
+      "img": "https://den-cards.pokellector.com/386/Mightyena.SV5K.49.51857.png",
+      "rarity": "Common",
+      "cardNum": "49/71"
+    },
+    {
+      "name": "Sableye",
+      "set": "Wild Force",
+      "img": "https://den-cards.pokellector.com/386/Sableye.SV5K.50.51727.png",
+      "rarity": "Uncommon",
+      "cardNum": "50/71"
+    },
+    {
+      "name": "Roaring Moon",
+      "set": "Wild Force",
+      "img": "https://den-cards.pokellector.com/386/Roaring-Moon.SV5K.51.51858.png",
+      "rarity": "Rare",
+      "cardNum": "51/71"
+    },
+    {
+      "name": "Koraidon",
+      "set": "Wild Force",
+      "img": "https://den-cards.pokellector.com/386/Koraidon.SV5K.52.51859.png",
+      "rarity": "Rare",
+      "cardNum": "52/71"
+    },
+    {
+      "name": "Raging Bolt ex",
+      "set": "Wild Force",
+      "img": "https://den-cards.pokellector.com/386/Raging-Bolt-ex.SV5K.53.51661.png",
+      "rarity": "Double Rare",
+      "cardNum": "53/71"
+    },
+    {
+      "name": "Hoothoot",
+      "set": "Wild Force",
+      "img": "https://den-cards.pokellector.com/386/Hoothoot.SV5K.54.51860.png",
+      "rarity": "Common",
+      "cardNum": "54/71"
+    },
+    {
+      "name": "Noctowl",
+      "set": "Wild Force",
+      "img": "https://den-cards.pokellector.com/386/Noctowl.SV5K.55.51861.png",
+      "rarity": "Common",
+      "cardNum": "55/71"
+    },
+    {
+      "name": "Dunsparce",
+      "set": "Wild Force",
+      "img": "https://den-cards.pokellector.com/386/Dunsparce.SV5K.56.51728.png",
+      "rarity": "Common",
+      "cardNum": "56/71"
+    },
+    {
+      "name": "Dudunsparce",
+      "set": "Wild Force",
+      "img": "https://den-cards.pokellector.com/386/Dudunsparce.SV5K.57.51729.png",
+      "rarity": "Rare",
+      "cardNum": "57/71"
+    },
+    {
+      "name": "Chatot",
+      "set": "Wild Force",
+      "img": "https://den-cards.pokellector.com/386/Chatot.SV5K.58.51862.png",
+      "rarity": "Common",
+      "cardNum": "58/71"
+    },
+    {
+      "name": "Minccino",
+      "set": "Wild Force",
+      "img": "https://den-cards.pokellector.com/386/Minccino.SV5K.59.51863.png",
+      "rarity": "Common",
+      "cardNum": "59/71"
+    },
+    {
+      "name": "Cinccino",
+      "set": "Wild Force",
+      "img": "https://den-cards.pokellector.com/386/Cinccino.SV5K.60.51864.png",
+      "rarity": "Uncommon",
+      "cardNum": "60/71"
+    },
+    {
+      "name": "Order Box",
+      "set": "Wild Force",
+      "img": "https://den-cards.pokellector.com/386/Order-Box.SV5K.61.51865.png",
+      "rarity": "Uncommon",
+      "cardNum": "61/71"
+    },
+    {
+      "name": "Awakening Drum",
+      "set": "Wild Force",
+      "img": "https://den-cards.pokellector.com/386/Awakening-Drum.SV5K.62.51866.png",
+      "rarity": "Ace Spec",
+      "cardNum": "62/71"
+    },
+    {
+      "name": "Affection Poffin",
+      "set": "Wild Force",
+      "img": "https://den-cards.pokellector.com/386/Affection-Poffin.SV5K.63.51733.png",
+      "rarity": "Uncommon",
+      "cardNum": "63/71"
+    },
+    {
+      "name": "Emergency Board",
+      "set": "Wild Force",
+      "img": "https://den-cards.pokellector.com/386/Emergency-Board.SV5K.64.51867.png",
+      "rarity": "Uncommon",
+      "cardNum": "64/71"
+    },
+    {
+      "name": "Ancient Booster Energy Capsule",
+      "set": "Wild Force",
+      "img": "https://den-cards.pokellector.com/386/Ancient-Booster-Energy-Capsule.SV5K.65.51673.png",
+      "rarity": "Uncommon",
+      "cardNum": "65/71"
+    },
+    {
+      "name": "Maximum Belt",
+      "set": "Wild Force",
+      "img": "https://den-cards.pokellector.com/386/Maximum-Belt.SV5K.66.51868.png",
+      "rarity": "Ace Spec",
+      "cardNum": "66/71"
+    },
+    {
+      "name": "Explorer's Foray",
+      "set": "Wild Force",
+      "img": "https://den-cards.pokellector.com/386/Explorers-Foray.SV5K.67.51670.png",
+      "rarity": "Uncommon",
+      "cardNum": "67/71"
+    },
+    {
+      "name": "Eri",
+      "set": "Wild Force",
+      "img": "https://den-cards.pokellector.com/386/Eri.SV5K.68.51869.png",
+      "rarity": "Uncommon",
+      "cardNum": "68/71"
+    },
+    {
+      "name": "Morty's Confidence",
+      "set": "Wild Force",
+      "img": "https://den-cards.pokellector.com/386/Mortys-Confidence.SV5K.69.51870.png",
+      "rarity": "Uncommon",
+      "cardNum": "69/71"
+    },
+    {
+      "name": "Dangerous Jungle",
+      "set": "Wild Force",
+      "img": "https://den-cards.pokellector.com/386/Dangerous-Jungle.SV5K.70.51871.png",
+      "rarity": "Uncommon",
+      "cardNum": "70/71"
+    },
+    {
+      "name": "Neo Superior Energy",
+      "set": "Wild Force",
+      "img": "https://den-cards.pokellector.com/386/Neo-Superior-Energy.SV5K.71.51663.png",
+      "rarity": "Ace Spec",
+      "cardNum": "71/71"
+    },
+    {
+      "name": "Grotle",
+      "set": "Wild Force",
+      "img": "https://den-cards.pokellector.com/386/Grotle.SV5K.72.52234.png",
+      "rarity": "Art Rare",
+      "cardNum": "72/71"
+    },
+    {
+      "name": "Snom",
+      "set": "Wild Force",
+      "img": "https://den-cards.pokellector.com/386/Snom.SV5K.73.51873.png",
+      "rarity": "Art Rare",
+      "cardNum": "73/71"
+    },
+    {
+      "name": "Bronzor",
+      "set": "Wild Force",
+      "img": "https://den-cards.pokellector.com/386/Bronzor.SV5K.74.52235.png",
+      "rarity": "Art Rare",
+      "cardNum": "74/71"
+    },
+    {
+      "name": "Reuniclus",
+      "set": "Wild Force",
+      "img": "https://den-cards.pokellector.com/386/Reuniclus.SV5K.75.51717.png",
+      "rarity": "Art Rare",
+      "cardNum": "75/71"
+    },
+    {
+      "name": "Flutter Mane",
+      "set": "Wild Force",
+      "img": "https://den-cards.pokellector.com/386/Flutter-Mane.SV5K.76.51716.png",
+      "rarity": "Art Rare",
+      "cardNum": "76/71"
+    },
+    {
+      "name": "Relicanth",
+      "set": "Wild Force",
+      "img": "https://den-cards.pokellector.com/386/Relicanth.SV5K.77.51707.png",
+      "rarity": "Art Rare",
+      "cardNum": "77/71"
+    },
+    {
+      "name": "Mudsdale",
+      "set": "Wild Force",
+      "img": "https://den-cards.pokellector.com/386/Mudsdale.SV5K.78.51875.png",
+      "rarity": "Art Rare",
+      "cardNum": "78/71"
+    },
+    {
+      "name": "Arbok",
+      "set": "Wild Force",
+      "img": "https://den-cards.pokellector.com/386/Arbok.SV5K.79.52236.png",
+      "rarity": "Art Rare",
+      "cardNum": "79/71"
+    },
+    {
+      "name": "Gastly",
+      "set": "Wild Force",
+      "img": "https://den-cards.pokellector.com/386/Gastly.SV5K.80.52237.png",
+      "rarity": "Art Rare",
+      "cardNum": "80/71"
+    },
+    {
+      "name": "Chatot",
+      "set": "Wild Force",
+      "img": "https://den-cards.pokellector.com/386/Chatot.SV5K.81.52238.png",
+      "rarity": "Art Rare",
+      "cardNum": "81/71"
+    },
+    {
+      "name": "Minccino",
+      "set": "Wild Force",
+      "img": "https://den-cards.pokellector.com/386/Minccino.SV5K.82.51879.png",
+      "rarity": "Art Rare",
+      "cardNum": "82/71"
+    },
+    {
+      "name": "Cinccino",
+      "set": "Wild Force",
+      "img": "https://den-cards.pokellector.com/386/Cinccino.SV5K.83.51880.png",
+      "rarity": "Art Rare",
+      "cardNum": "83/71"
+    },
+    {
+      "name": "Torterra ex",
+      "set": "Wild Force",
+      "img": "https://den-cards.pokellector.com/386/Torterra-ex.SV5K.84.52239.png",
+      "rarity": "Super Rare",
+      "cardNum": "84/71"
+    },
+    {
+      "name": "Gouging Fire ex",
+      "set": "Wild Force",
+      "img": "https://den-cards.pokellector.com/386/Gouging-Fire-ex.SV5K.85.51881.png",
+      "rarity": "Super Rare",
+      "cardNum": "85/71"
+    },
+    {
+      "name": "Walking Wake ex",
+      "set": "Wild Force",
+      "img": "https://den-cards.pokellector.com/386/Walking-Wake-ex.SV5K.86.52240.png",
+      "rarity": "Super Rare",
+      "cardNum": "86/71"
+    },
+    {
+      "name": "Wugtrio ex",
+      "set": "Wild Force",
+      "img": "https://den-cards.pokellector.com/386/Wugtrio-ex.SV5K.87.52241.png",
+      "rarity": "Super Rare",
+      "cardNum": "87/71"
+    },
+    {
+      "name": "Gengar ex",
+      "set": "Wild Force",
+      "img": "https://den-cards.pokellector.com/386/Gengar-ex.SV5K.88.52242.png",
+      "rarity": "Super Rare",
+      "cardNum": "88/71"
+    },
+    {
+      "name": "Raging Bolt ex",
+      "set": "Wild Force",
+      "img": "https://den-cards.pokellector.com/386/Raging-Bolt-ex.SV5K.89.52243.png",
+      "rarity": "Super Rare",
+      "cardNum": "89/71"
+    },
+    {
+      "name": "Explorer's Guidance",
+      "set": "Wild Force",
+      "img": "https://den-cards.pokellector.com/386/Explorers-Guidance.SV5K.90.52244.png",
+      "rarity": "Super Rare",
+      "cardNum": "90/71"
+    },
+    {
+      "name": "Eri",
+      "set": "Wild Force",
+      "img": "https://den-cards.pokellector.com/386/Eri.SV5K.91.51882.png",
+      "rarity": "Super Rare",
+      "cardNum": "91/71"
+    },
+    {
+      "name": "Morty's Confidence",
+      "set": "Wild Force",
+      "img": "https://den-cards.pokellector.com/386/Mortys-Confidence.SV5K.92.52245.png",
+      "rarity": "Super Rare",
+      "cardNum": "92/71"
+    },
+    {
+      "name": "Gouging Fire ex",
+      "set": "Wild Force",
+      "img": "https://den-cards.pokellector.com/386/Gouging-Fire-ex.SV5K.93.51712.png",
+      "rarity": "Special Art Rare",
+      "cardNum": "93/71"
+    },
+    {
+      "name": "Walking Wake ex",
+      "set": "Wild Force",
+      "img": "https://den-cards.pokellector.com/386/Walking-Wake-ex.SV5K.94.51713.png",
+      "rarity": "Special Art Rare",
+      "cardNum": "94/71"
+    },
+    {
+      "name": "Raging Bolt ex",
+      "set": "Wild Force",
+      "img": "https://den-cards.pokellector.com/386/Raging-Bolt-ex.SV5K.95.51714.png",
+      "rarity": "Special Art Rare",
+      "cardNum": "95/71"
+    },
+    {
+      "name": "Eri",
+      "set": "Wild Force",
+      "img": "https://den-cards.pokellector.com/386/Eri.SV5K.96.52246.png",
+      "rarity": "Special Art Rare",
+      "cardNum": "96/71"
+    },
+    {
+      "name": "Morty's Confidence",
+      "set": "Wild Force",
+      "img": "https://den-cards.pokellector.com/386/Mortys-Confidence.SV5K.97.51884.png",
+      "rarity": "Rare Holo",
+      "cardNum": "97/71"
+    },
+    {
+      "name": "Gouging Fire ex",
+      "set": "Wild Force",
+      "img": "https://den-cards.pokellector.com/386/Gouging-Fire-ex.SV5K.98.52247.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "98/71"
+    },
+    {
+      "name": "Walking Wake ex",
+      "set": "Wild Force",
+      "img": "https://den-cards.pokellector.com/386/Walking-Wake-ex.SV5K.99.52248.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "99/71"
+    },
+    {
+      "name": "Raging Bolt ex",
+      "set": "Wild Force",
+      "img": "https://den-cards.pokellector.com/386/Raging-Bolt-ex.SV5K.100.52249.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "100/71"
+    }
+  ]
+}

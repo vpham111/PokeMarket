@@ -1,0 +1,880 @@
+{
+  "setName": "Fates Collide",
+  "cards": [
+    {
+      "name": "Shuckle",
+      "set": "Fates Collide",
+      "img": "https://den-cards.pokellector.com/188/Shuckle.FCO.1.png",
+      "rarity": "Uncommon",
+      "cardNum": "1/124"
+    },
+    {
+      "name": "Burmy",
+      "set": "Fates Collide",
+      "img": "https://den-cards.pokellector.com/188/Burmy.FCO.2.png",
+      "rarity": "Common",
+      "cardNum": "2/124"
+    },
+    {
+      "name": "Wormadam",
+      "set": "Fates Collide",
+      "img": "https://den-cards.pokellector.com/188/Wormadam.FCO.3.png",
+      "rarity": "Uncommon",
+      "cardNum": "3/124"
+    },
+    {
+      "name": "Mothim",
+      "set": "Fates Collide",
+      "img": "https://den-cards.pokellector.com/188/Mothim.FCO.4.png",
+      "rarity": "Rare",
+      "cardNum": "4/124"
+    },
+    {
+      "name": "Snivy",
+      "set": "Fates Collide",
+      "img": "https://den-cards.pokellector.com/188/Snivy.FCO.5.png",
+      "rarity": "Common",
+      "cardNum": "5/124"
+    },
+    {
+      "name": "Servine",
+      "set": "Fates Collide",
+      "img": "https://den-cards.pokellector.com/188/Servine.FCO.6.png",
+      "rarity": "Uncommon",
+      "cardNum": "6/124"
+    },
+    {
+      "name": "Serperior",
+      "set": "Fates Collide",
+      "img": "https://den-cards.pokellector.com/188/Serperior.FCO.7.png",
+      "rarity": "Rare",
+      "cardNum": "7/124"
+    },
+    {
+      "name": "Deerling",
+      "set": "Fates Collide",
+      "img": "https://den-cards.pokellector.com/188/Deerling.FCO.8.png",
+      "rarity": "Common",
+      "cardNum": "8/124"
+    },
+    {
+      "name": "Moltres",
+      "set": "Fates Collide",
+      "img": "https://den-cards.pokellector.com/188/Moltres.FCO.9.png",
+      "rarity": "Rare",
+      "cardNum": "9/124"
+    },
+    {
+      "name": "Fennekin",
+      "set": "Fates Collide",
+      "img": "https://den-cards.pokellector.com/188/Fennekin.FCO.10.png",
+      "rarity": "Common",
+      "cardNum": "10/124"
+    },
+    {
+      "name": "Fennekin",
+      "set": "Fates Collide",
+      "img": "https://den-cards.pokellector.com/188/Fennekin.FCO.11.png",
+      "rarity": "Common",
+      "cardNum": "11/124"
+    },
+    {
+      "name": "Braixen",
+      "set": "Fates Collide",
+      "img": "https://den-cards.pokellector.com/188/Braixen.FCO.12.png",
+      "rarity": "Uncommon",
+      "cardNum": "12/124"
+    },
+    {
+      "name": "Delphox",
+      "set": "Fates Collide",
+      "img": "https://den-cards.pokellector.com/188/Delphox.FCO.13.png",
+      "rarity": "Rare",
+      "cardNum": "13/124"
+    },
+    {
+      "name": "Delphox BREAK",
+      "set": "Fates Collide",
+      "img": "https://den-cards.pokellector.com/188/Delphox-BREAK.FCL.14.png",
+      "rarity": "Rare",
+      "cardNum": "14/124"
+    },
+    {
+      "name": "Seel",
+      "set": "Fates Collide",
+      "img": "https://den-cards.pokellector.com/188/Seel.FCO.15.png",
+      "rarity": "Common",
+      "cardNum": "15/124"
+    },
+    {
+      "name": "Dewgong",
+      "set": "Fates Collide",
+      "img": "https://den-cards.pokellector.com/188/Dewgong.FCO.16.png",
+      "rarity": "Uncommon",
+      "cardNum": "16/124"
+    },
+    {
+      "name": "Omanyte",
+      "set": "Fates Collide",
+      "img": "https://den-cards.pokellector.com/188/Omanyte.FCO.17.png",
+      "rarity": "Uncommon",
+      "cardNum": "17/124"
+    },
+    {
+      "name": "Omastar",
+      "set": "Fates Collide",
+      "img": "https://den-cards.pokellector.com/188/Omastar.FCO.18.png",
+      "rarity": "Rare",
+      "cardNum": "18/124"
+    },
+    {
+      "name": "Omastar BREAK",
+      "set": "Fates Collide",
+      "img": "https://den-cards.pokellector.com/188/Omastar-BREAK.FCO.19.png",
+      "rarity": "Rare",
+      "cardNum": "19/124"
+    },
+    {
+      "name": "Glaceon EX",
+      "set": "Fates Collide",
+      "img": "https://den-cards.pokellector.com/188/Glaceon-EX.FCO.20.png",
+      "rarity": "Rare",
+      "cardNum": "20/124"
+    },
+    {
+      "name": "White Kyurem",
+      "set": "Fates Collide",
+      "img": "https://den-cards.pokellector.com/188/White-Kyurem.FCO.21.png",
+      "rarity": "Rare",
+      "cardNum": "21/124"
+    },
+    {
+      "name": "Binacle",
+      "set": "Fates Collide",
+      "img": "https://den-cards.pokellector.com/188/Binacle.FCO.22.png",
+      "rarity": "Common",
+      "cardNum": "22/124"
+    },
+    {
+      "name": "Barbaracle",
+      "set": "Fates Collide",
+      "img": "https://den-cards.pokellector.com/188/Barbaracle.FCO.23.png",
+      "rarity": "Rare",
+      "cardNum": "23/124"
+    },
+    {
+      "name": "Rotom",
+      "set": "Fates Collide",
+      "img": "https://den-cards.pokellector.com/188/Rotom.FCO.24.png",
+      "rarity": "Rare",
+      "cardNum": "24/124"
+    },
+    {
+      "name": "Alakazam EX",
+      "set": "Fates Collide",
+      "img": "https://den-cards.pokellector.com/188/Alakazam-EX.FCL.25.png",
+      "rarity": "Rare",
+      "cardNum": "25/124"
+    },
+    {
+      "name": "M Alakazam EX",
+      "set": "Fates Collide",
+      "img": "https://den-cards.pokellector.com/188/M-Alakazam-EX.FCL.26.png",
+      "rarity": "Rare",
+      "cardNum": "26/124"
+    },
+    {
+      "name": "Koffing",
+      "set": "Fates Collide",
+      "img": "https://den-cards.pokellector.com/188/Koffing.FCO.27.png",
+      "rarity": "Common",
+      "cardNum": "27/124"
+    },
+    {
+      "name": "Weezing",
+      "set": "Fates Collide",
+      "img": "https://den-cards.pokellector.com/188/Weezing.FCO.28.png",
+      "rarity": "Uncommon",
+      "cardNum": "28/124"
+    },
+    {
+      "name": "Mew",
+      "set": "Fates Collide",
+      "img": "https://den-cards.pokellector.com/188/Mew.FCO.29.png",
+      "rarity": "Rare",
+      "cardNum": "29/124"
+    },
+    {
+      "name": "Spoink",
+      "set": "Fates Collide",
+      "img": "https://den-cards.pokellector.com/188/Spoink.FCO.30.png",
+      "rarity": "Common",
+      "cardNum": "30/124"
+    },
+    {
+      "name": "Grumpig",
+      "set": "Fates Collide",
+      "img": "https://den-cards.pokellector.com/188/Grumpig.FCO.31.png",
+      "rarity": "Rare",
+      "cardNum": "31/124"
+    },
+    {
+      "name": "Gothita",
+      "set": "Fates Collide",
+      "img": "https://den-cards.pokellector.com/188/Gothita.FCO.32.png",
+      "rarity": "Common",
+      "cardNum": "32/124"
+    },
+    {
+      "name": "Solosis",
+      "set": "Fates Collide",
+      "img": "https://den-cards.pokellector.com/188/Solosis.FCO.33.png",
+      "rarity": "Common",
+      "cardNum": "33/124"
+    },
+    {
+      "name": "Duosion",
+      "set": "Fates Collide",
+      "img": "https://den-cards.pokellector.com/188/Duosion.FCO.34.png",
+      "rarity": "Uncommon",
+      "cardNum": "34/124"
+    },
+    {
+      "name": "Reuniclus",
+      "set": "Fates Collide",
+      "img": "https://den-cards.pokellector.com/188/Reuniclus.FCO.35.png",
+      "rarity": "Rare",
+      "cardNum": "35/124"
+    },
+    {
+      "name": "Diglett",
+      "set": "Fates Collide",
+      "img": "https://den-cards.pokellector.com/188/Diglett.FCO.36.png",
+      "rarity": "Common",
+      "cardNum": "36/124"
+    },
+    {
+      "name": "Marowak",
+      "set": "Fates Collide",
+      "img": "https://den-cards.pokellector.com/188/Marowak.FCO.37.png",
+      "rarity": "Rare",
+      "cardNum": "37/124"
+    },
+    {
+      "name": "Kabuto",
+      "set": "Fates Collide",
+      "img": "https://den-cards.pokellector.com/188/Kabuto.FCO.38.png",
+      "rarity": "Uncommon",
+      "cardNum": "38/124"
+    },
+    {
+      "name": "Kabutops",
+      "set": "Fates Collide",
+      "img": "https://den-cards.pokellector.com/188/Kabutops.FCO.39.png",
+      "rarity": "Rare",
+      "cardNum": "39/124"
+    },
+    {
+      "name": "Larvitar",
+      "set": "Fates Collide",
+      "img": "https://den-cards.pokellector.com/188/Larvitar.FCO.40.png",
+      "rarity": "Common",
+      "cardNum": "40/124"
+    },
+    {
+      "name": "Larvitar",
+      "set": "Fates Collide",
+      "img": "https://den-cards.pokellector.com/188/Larvitar.FCO.41.png",
+      "rarity": "Common",
+      "cardNum": "41/124"
+    },
+    {
+      "name": "Pupitar",
+      "set": "Fates Collide",
+      "img": "https://den-cards.pokellector.com/188/Pupitar.FCO.42.png",
+      "rarity": "Uncommon",
+      "cardNum": "42/124"
+    },
+    {
+      "name": "Regirock EX",
+      "set": "Fates Collide",
+      "img": "https://den-cards.pokellector.com/188/Regirock-EX.FCO.43.png",
+      "rarity": "Rare",
+      "cardNum": "43/124"
+    },
+    {
+      "name": "Wormadam",
+      "set": "Fates Collide",
+      "img": "https://den-cards.pokellector.com/188/Wormadam.FCO.44.png",
+      "rarity": "Uncommon",
+      "cardNum": "44/124"
+    },
+    {
+      "name": "Riolu",
+      "set": "Fates Collide",
+      "img": "https://den-cards.pokellector.com/188/Riolu.FCO.45.png",
+      "rarity": "Common",
+      "cardNum": "45/124"
+    },
+    {
+      "name": "Riolu",
+      "set": "Fates Collide",
+      "img": "https://den-cards.pokellector.com/188/Riolu.FCO.46.png",
+      "rarity": "Common",
+      "cardNum": "46/124"
+    },
+    {
+      "name": "Lucario",
+      "set": "Fates Collide",
+      "img": "https://den-cards.pokellector.com/188/Lucario.FCO.47.png",
+      "rarity": "Rare",
+      "cardNum": "47/124"
+    },
+    {
+      "name": "Hawlucha",
+      "set": "Fates Collide",
+      "img": "https://den-cards.pokellector.com/188/Hawlucha.FCO.48.png",
+      "rarity": "Uncommon",
+      "cardNum": "48/124"
+    },
+    {
+      "name": "Carbink",
+      "set": "Fates Collide",
+      "img": "https://den-cards.pokellector.com/188/Carbink.FCO.49.png",
+      "rarity": "Rare",
+      "cardNum": "49/124"
+    },
+    {
+      "name": "Carbink",
+      "set": "Fates Collide",
+      "img": "https://den-cards.pokellector.com/188/Carbink.FCO.50.png",
+      "rarity": "Common",
+      "cardNum": "50/124"
+    },
+    {
+      "name": "Carbink BREAK",
+      "set": "Fates Collide",
+      "img": "https://den-cards.pokellector.com/188/Carbink-BREAK.FCL.51.png",
+      "rarity": "Rare",
+      "cardNum": "51/124"
+    },
+    {
+      "name": "Zygarde",
+      "set": "Fates Collide",
+      "img": "https://den-cards.pokellector.com/188/Zygarde.FCL.52.png",
+      "rarity": "Uncommon",
+      "cardNum": "52/124"
+    },
+    {
+      "name": "Zygarde",
+      "set": "Fates Collide",
+      "img": "https://den-cards.pokellector.com/188/Zygarde.FCO.53.png",
+      "rarity": "Rare",
+      "cardNum": "53/124"
+    },
+    {
+      "name": "Zygarde EX",
+      "set": "Fates Collide",
+      "img": "https://den-cards.pokellector.com/188/Zygarde-EX.FCL.54.png",
+      "rarity": "Rare",
+      "cardNum": "54/124"
+    },
+    {
+      "name": "Umbreon EX",
+      "set": "Fates Collide",
+      "img": "https://den-cards.pokellector.com/188/Umbreon-EX.FCO.55.png",
+      "rarity": "Rare",
+      "cardNum": "55/124"
+    },
+    {
+      "name": "Tyranitar",
+      "set": "Fates Collide",
+      "img": "https://den-cards.pokellector.com/188/Tyranitar.FCO.56.png",
+      "rarity": "Rare",
+      "cardNum": "56/124"
+    },
+    {
+      "name": "Vullaby",
+      "set": "Fates Collide",
+      "img": "https://den-cards.pokellector.com/188/Vullaby.FCO.57.png",
+      "rarity": "Common",
+      "cardNum": "57/124"
+    },
+    {
+      "name": "Mandibuzz",
+      "set": "Fates Collide",
+      "img": "https://den-cards.pokellector.com/188/Mandibuzz.FCO.58.png",
+      "rarity": "Rare",
+      "cardNum": "58/124"
+    },
+    {
+      "name": "Wormadam",
+      "set": "Fates Collide",
+      "img": "https://den-cards.pokellector.com/188/Wormadam.FCO.59.png",
+      "rarity": "Uncommon",
+      "cardNum": "59/124"
+    },
+    {
+      "name": "Bronzor",
+      "set": "Fates Collide",
+      "img": "https://den-cards.pokellector.com/188/Bronzor.FCO.60.png",
+      "rarity": "Common",
+      "cardNum": "60/124"
+    },
+    {
+      "name": "Bronzong",
+      "set": "Fates Collide",
+      "img": "https://den-cards.pokellector.com/188/Bronzong.FCO.61.png",
+      "rarity": "Rare",
+      "cardNum": "61/124"
+    },
+    {
+      "name": "Bronzong BREAK",
+      "set": "Fates Collide",
+      "img": "https://den-cards.pokellector.com/188/Bronzong-BREAK.FCO.62.png",
+      "rarity": "Rare",
+      "cardNum": "62/124"
+    },
+    {
+      "name": "Lucario",
+      "set": "Fates Collide",
+      "img": "https://den-cards.pokellector.com/188/Lucario.FCO.63.png",
+      "rarity": "Rare",
+      "cardNum": "63/124"
+    },
+    {
+      "name": "Genesect EX",
+      "set": "Fates Collide",
+      "img": "https://den-cards.pokellector.com/188/Genesect-EX.FCO.64.png",
+      "rarity": "Rare",
+      "cardNum": "64/124"
+    },
+    {
+      "name": "Jigglypuff",
+      "set": "Fates Collide",
+      "img": "https://den-cards.pokellector.com/188/Jigglypuff.FCO.65.png",
+      "rarity": "Common",
+      "cardNum": "65/124"
+    },
+    {
+      "name": "Wigglytuff",
+      "set": "Fates Collide",
+      "img": "https://den-cards.pokellector.com/188/Wigglytuff.FCO.66.png",
+      "rarity": "Uncommon",
+      "cardNum": "66/124"
+    },
+    {
+      "name": "Mr. Mime",
+      "set": "Fates Collide",
+      "img": "https://den-cards.pokellector.com/188/Mr-Mime.FCO.67.png",
+      "rarity": "Rare",
+      "cardNum": "67/124"
+    },
+    {
+      "name": "Snubbull",
+      "set": "Fates Collide",
+      "img": "https://den-cards.pokellector.com/188/Snubbull.FCO.68.png",
+      "rarity": "Common",
+      "cardNum": "68/124"
+    },
+    {
+      "name": "M Altaria EX",
+      "set": "Fates Collide",
+      "img": "https://den-cards.pokellector.com/188/M-Altaria-EX.FCO.69.png",
+      "rarity": "Rare",
+      "cardNum": "69/124"
+    },
+    {
+      "name": "Cottonee",
+      "set": "Fates Collide",
+      "img": "https://den-cards.pokellector.com/188/Cottonee.FCO.70.png",
+      "rarity": "Common",
+      "cardNum": "70/124"
+    },
+    {
+      "name": "Whimsicott",
+      "set": "Fates Collide",
+      "img": "https://den-cards.pokellector.com/188/Whimsicott.FCO.71.png",
+      "rarity": "Uncommon",
+      "cardNum": "71/124"
+    },
+    {
+      "name": "Diancie EX",
+      "set": "Fates Collide",
+      "img": "https://den-cards.pokellector.com/188/Diancie-EX.FCO.72.png",
+      "rarity": "Rare",
+      "cardNum": "72/124"
+    },
+    {
+      "name": "Kingdra EX",
+      "set": "Fates Collide",
+      "img": "https://den-cards.pokellector.com/188/Kingdra-EX.FCO.73.png",
+      "rarity": "Rare",
+      "cardNum": "73/124"
+    },
+    {
+      "name": "Meowth",
+      "set": "Fates Collide",
+      "img": "https://den-cards.pokellector.com/188/Meowth.FCO.74.png",
+      "rarity": "Common",
+      "cardNum": "74/124"
+    },
+    {
+      "name": "Kangaskhan",
+      "set": "Fates Collide",
+      "img": "https://den-cards.pokellector.com/188/Kangaskhan.FCO.75.png",
+      "rarity": "Uncommon",
+      "cardNum": "75/124"
+    },
+    {
+      "name": "Aerodactyl",
+      "set": "Fates Collide",
+      "img": "https://den-cards.pokellector.com/188/Aerodactyl.FCO.76.png",
+      "rarity": "Rare",
+      "cardNum": "76/124"
+    },
+    {
+      "name": "Snorlax",
+      "set": "Fates Collide",
+      "img": "https://den-cards.pokellector.com/188/Snorlax.FCO.77.png",
+      "rarity": "Rare",
+      "cardNum": "77/124"
+    },
+    {
+      "name": "Lugia",
+      "set": "Fates Collide",
+      "img": "https://den-cards.pokellector.com/188/Lugia.FCO.78.png",
+      "rarity": "Rare",
+      "cardNum": "78/124"
+    },
+    {
+      "name": "Lugia BREAK",
+      "set": "Fates Collide",
+      "img": "https://den-cards.pokellector.com/188/Lugia-BREAK.FCO.79.png",
+      "rarity": "Rare",
+      "cardNum": "79/124"
+    },
+    {
+      "name": "Whismur",
+      "set": "Fates Collide",
+      "img": "https://den-cards.pokellector.com/188/Whismur.FCO.80.png",
+      "rarity": "Common",
+      "cardNum": "80/124"
+    },
+    {
+      "name": "Loudred",
+      "set": "Fates Collide",
+      "img": "https://den-cards.pokellector.com/188/Loudred.FCO.81.png",
+      "rarity": "Uncommon",
+      "cardNum": "81/124"
+    },
+    {
+      "name": "Exploud",
+      "set": "Fates Collide",
+      "img": "https://den-cards.pokellector.com/188/Exploud.FCO.82.png",
+      "rarity": "Rare",
+      "cardNum": "82/124"
+    },
+    {
+      "name": "Altaria EX",
+      "set": "Fates Collide",
+      "img": "https://den-cards.pokellector.com/188/Altaria-EX.FCO.83.png",
+      "rarity": "Rare",
+      "cardNum": "83/124"
+    },
+    {
+      "name": "Audino EX",
+      "set": "Fates Collide",
+      "img": "https://den-cards.pokellector.com/188/Audino-EX.FCL.84.png",
+      "rarity": "Rare",
+      "cardNum": "84/124"
+    },
+    {
+      "name": "M Audino EX",
+      "set": "Fates Collide",
+      "img": "https://den-cards.pokellector.com/188/M-Audino-EX.FCL.65.png",
+      "rarity": "Rare",
+      "cardNum": "85/124"
+    },
+    {
+      "name": "Minccino",
+      "set": "Fates Collide",
+      "img": "https://den-cards.pokellector.com/188/Minccino.FCO.86.png",
+      "rarity": "Common",
+      "cardNum": "86/124"
+    },
+    {
+      "name": "Minccino",
+      "set": "Fates Collide",
+      "img": "https://den-cards.pokellector.com/188/Minccino.FCO.87.png",
+      "rarity": "Common",
+      "cardNum": "87/124"
+    },
+    {
+      "name": "Cinccino",
+      "set": "Fates Collide",
+      "img": "https://den-cards.pokellector.com/188/Cinccino.FCO.88.png",
+      "rarity": "Uncommon",
+      "cardNum": "88/124"
+    },
+    {
+      "name": "Cinccino",
+      "set": "Fates Collide",
+      "img": "https://den-cards.pokellector.com/188/Cinccino.FCO.89.png",
+      "rarity": "Uncommon",
+      "cardNum": "89/124"
+    },
+    {
+      "name": "Alakazam Spirit Link",
+      "set": "Fates Collide",
+      "img": "https://den-cards.pokellector.com/188/Alakazam-Spirit-Link.FCO.90.png",
+      "rarity": "Uncommon",
+      "cardNum": "90/124"
+    },
+    {
+      "name": "Altaria Spirit Link",
+      "set": "Fates Collide",
+      "img": "https://den-cards.pokellector.com/188/Altaria-Spirit-Link.FCO.91.png",
+      "rarity": "Uncommon",
+      "cardNum": "91/124"
+    },
+    {
+      "name": "Audino Spirit Link",
+      "set": "Fates Collide",
+      "img": "https://den-cards.pokellector.com/188/Audino-Spirit-Link.FCO.92.png",
+      "rarity": "Uncommon",
+      "cardNum": "92/124"
+    },
+    {
+      "name": "Bent Spoon",
+      "set": "Fates Collide",
+      "img": "https://den-cards.pokellector.com/188/Bent-Spoon.FCO.93.png",
+      "rarity": "Uncommon",
+      "cardNum": "93/124"
+    },
+    {
+      "name": "Chaos Tower",
+      "set": "Fates Collide",
+      "img": "https://den-cards.pokellector.com/188/Chaos-Tower.FCL.94.png",
+      "rarity": "Uncommon",
+      "cardNum": "94/124"
+    },
+    {
+      "name": "Devolution Spray",
+      "set": "Fates Collide",
+      "img": "https://den-cards.pokellector.com/188/Devolution-Spray.FCO.95.png",
+      "rarity": "Uncommon",
+      "cardNum": "95/124"
+    },
+    {
+      "name": "Dome Fossil Kabuto",
+      "set": "Fates Collide",
+      "img": "https://den-cards.pokellector.com/188/Dome-Fossil-Kabuto.FCO.96.png",
+      "rarity": "Uncommon",
+      "cardNum": "96/124"
+    },
+    {
+      "name": "Energy Pouch",
+      "set": "Fates Collide",
+      "img": "https://den-cards.pokellector.com/188/Energy-Pouch.FCO.97.png",
+      "rarity": "Uncommon",
+      "cardNum": "97/124"
+    },
+    {
+      "name": "Energy Reset",
+      "set": "Fates Collide",
+      "img": "https://den-cards.pokellector.com/188/Energy-Reset.FCO.98.png",
+      "rarity": "Uncommon",
+      "cardNum": "98/124"
+    },
+    {
+      "name": "Fairy Drop",
+      "set": "Fates Collide",
+      "img": "https://den-cards.pokellector.com/188/Fairy-Drop.FCO.99.png",
+      "rarity": "Uncommon",
+      "cardNum": "99/124"
+    },
+    {
+      "name": "Fairy Garden",
+      "set": "Fates Collide",
+      "img": "https://den-cards.pokellector.com/188/Fairy-Garden.FCO.100.png",
+      "rarity": "Uncommon",
+      "cardNum": "100/124"
+    },
+    {
+      "name": "Fossil Excavation Kit",
+      "set": "Fates Collide",
+      "img": "https://den-cards.pokellector.com/188/Fossil-Excavation-Kit.FCO.101.png",
+      "rarity": "Uncommon",
+      "cardNum": "101/124"
+    },
+    {
+      "name": "Helix Fossil Omanyte",
+      "set": "Fates Collide",
+      "img": "https://den-cards.pokellector.com/188/Helix-Fossil-Omanyte.FCO.102.png",
+      "rarity": "Uncommon",
+      "cardNum": "102/124"
+    },
+    {
+      "name": "Lass's Special",
+      "set": "Fates Collide",
+      "img": "https://den-cards.pokellector.com/188/Lasss-Special.FCO.103.png",
+      "rarity": "Uncommon",
+      "cardNum": "103/124"
+    },
+    {
+      "name": "Mega Catcher",
+      "set": "Fates Collide",
+      "img": "https://den-cards.pokellector.com/188/Mega-Catcher.FCO.104.png",
+      "rarity": "Uncommon",
+      "cardNum": "104/124"
+    },
+    {
+      "name": "N",
+      "set": "Fates Collide",
+      "img": "https://den-cards.pokellector.com/188/N.FCO.105.png",
+      "rarity": "Uncommon",
+      "cardNum": "105/124"
+    },
+    {
+      "name": "Old Amber Aerodactyl",
+      "set": "Fates Collide",
+      "img": "https://den-cards.pokellector.com/188/Old-Amber-Aerodactyl.FCO.106.png",
+      "rarity": "Uncommon",
+      "cardNum": "106/124"
+    },
+    {
+      "name": "Pokemon Fan Club",
+      "set": "Fates Collide",
+      "img": "https://den-cards.pokellector.com/188/Pokemon-Fan-Club.FCO.107.png",
+      "rarity": "Uncommon",
+      "cardNum": "107/124"
+    },
+    {
+      "name": "Power Memory",
+      "set": "Fates Collide",
+      "img": "https://den-cards.pokellector.com/188/Power-Memory.FCL.108.png",
+      "rarity": "Uncommon",
+      "cardNum": "108/124"
+    },
+    {
+      "name": "Random Receiver",
+      "set": "Fates Collide",
+      "img": "https://den-cards.pokellector.com/188/Random-Receiver.FCO.109.png",
+      "rarity": "Uncommon",
+      "cardNum": "109/124"
+    },
+    {
+      "name": "Scorched Earth",
+      "set": "Fates Collide",
+      "img": "https://den-cards.pokellector.com/188/Scorched-Earth.FCO.110.png",
+      "rarity": "Uncommon",
+      "cardNum": "110/124"
+    },
+    {
+      "name": "Shauna",
+      "set": "Fates Collide",
+      "img": "https://den-cards.pokellector.com/188/Shauna.FCO.111.png",
+      "rarity": "Uncommon",
+      "cardNum": "111/124"
+    },
+    {
+      "name": "Team Rocket's Handiwork",
+      "set": "Fates Collide",
+      "img": "https://den-cards.pokellector.com/188/Team-Rockets-Handiwork.FCO.112.png",
+      "rarity": "Uncommon",
+      "cardNum": "112/124"
+    },
+    {
+      "name": "Ultra Ball",
+      "set": "Fates Collide",
+      "img": "https://den-cards.pokellector.com/188/Ultra-Ball.FCO.113.png",
+      "rarity": "Uncommon",
+      "cardNum": "113/124"
+    },
+    {
+      "name": "Double Colorless Energy",
+      "set": "Fates Collide",
+      "img": "https://den-cards.pokellector.com/188/Double-Colorless-Energy.FCO.114.png",
+      "rarity": "Uncommon",
+      "cardNum": "114/124"
+    },
+    {
+      "name": "Strong Energy",
+      "set": "Fates Collide",
+      "img": "https://den-cards.pokellector.com/188/Strong-Energy.FCO.115.png",
+      "rarity": "Uncommon",
+      "cardNum": "115/124"
+    },
+    {
+      "name": "Glaceon EX",
+      "set": "Fates Collide",
+      "img": "https://den-cards.pokellector.com/188/Glaceon-EX.FCO.116.png",
+      "rarity": "Rare",
+      "cardNum": "116/124"
+    },
+    {
+      "name": "Alakazam EX",
+      "set": "Fates Collide",
+      "img": "https://den-cards.pokellector.com/188/Alakazam-EX.FCO.117.png",
+      "rarity": "Rare",
+      "cardNum": "117/124"
+    },
+    {
+      "name": "M Alakazam EX",
+      "set": "Fates Collide",
+      "img": "https://den-cards.pokellector.com/188/M-Alakazam-EX.FCO.118.png",
+      "rarity": "Rare",
+      "cardNum": "118/124"
+    },
+    {
+      "name": "Umbreon EX",
+      "set": "Fates Collide",
+      "img": "https://den-cards.pokellector.com/188/Umbreon-EX.FCO.119.png",
+      "rarity": "Rare",
+      "cardNum": "119/124"
+    },
+    {
+      "name": "Genesect EX",
+      "set": "Fates Collide",
+      "img": "https://den-cards.pokellector.com/188/Genesect-EX.FCO.120.png",
+      "rarity": "Rare",
+      "cardNum": "120/124"
+    },
+    {
+      "name": "M Altaria EX",
+      "set": "Fates Collide",
+      "img": "https://den-cards.pokellector.com/188/M-Altaria-EX.FCO.121.png",
+      "rarity": "Rare",
+      "cardNum": "121/124"
+    },
+    {
+      "name": "Kingdra EX",
+      "set": "Fates Collide",
+      "img": "https://den-cards.pokellector.com/188/Kingdra-EX.FCO.122.png",
+      "rarity": "Rare",
+      "cardNum": "122/124"
+    },
+    {
+      "name": "Altaria EX",
+      "set": "Fates Collide",
+      "img": "https://den-cards.pokellector.com/188/Altaria-EX.FCO.123.png",
+      "rarity": "Rare",
+      "cardNum": "123/124"
+    },
+    {
+      "name": "Team Rocket's Handiwork",
+      "set": "Fates Collide",
+      "img": "https://den-cards.pokellector.com/188/Team-Rockets-Handiwork.FCO.124.png",
+      "rarity": "Rare",
+      "cardNum": "124/124"
+    },
+    {
+      "name": "Alakazam EX",
+      "set": "Fates Collide",
+      "img": "https://den-cards.pokellector.com/188/Alakazam-EX.FCO.125.png",
+      "rarity": "Secret Rare",
+      "cardNum": "125/124"
+    }
+  ]
+}

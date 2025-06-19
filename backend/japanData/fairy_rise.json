@@ -1,0 +1,446 @@
+{
+  "setName": "Fairy Rise",
+  "cards": [
+    {
+      "name": "Tangela",
+      "set": "Fairy Rise",
+      "img": "https://den-cards.pokellector.com/240/Tangela.SM7B.1.23112.png",
+      "rarity": "Common",
+      "cardNum": "1/50"
+    },
+    {
+      "name": "Tangrowth",
+      "set": "Fairy Rise",
+      "img": "https://den-cards.pokellector.com/240/Tangrowth.SM7B.2.23113.png",
+      "rarity": "Uncommon",
+      "cardNum": "2/50"
+    },
+    {
+      "name": "Treecko",
+      "set": "Fairy Rise",
+      "img": "https://den-cards.pokellector.com/240/Treecko.SM7B.3.23114.png",
+      "rarity": "Common",
+      "cardNum": "3/50"
+    },
+    {
+      "name": "Grovyle",
+      "set": "Fairy Rise",
+      "img": "https://den-cards.pokellector.com/240/Grovyle.SM7B.4.23110.png",
+      "rarity": "Uncommon",
+      "cardNum": "4/50"
+    },
+    {
+      "name": "Sceptile GX",
+      "set": "Fairy Rise",
+      "img": "https://den-cards.pokellector.com/240/Sceptile-GX.SM7B.5.23109.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "5/50"
+    },
+    {
+      "name": "Wurmple",
+      "set": "Fairy Rise",
+      "img": "https://den-cards.pokellector.com/240/Wurmple.SM7B.6.23115.png",
+      "rarity": "Common",
+      "cardNum": "6/50"
+    },
+    {
+      "name": "Silcoon",
+      "set": "Fairy Rise",
+      "img": "https://den-cards.pokellector.com/240/Silcoon.SM7B.7.23116.png",
+      "rarity": "Common",
+      "cardNum": "7/50"
+    },
+    {
+      "name": "Beautifly",
+      "set": "Fairy Rise",
+      "img": "https://den-cards.pokellector.com/240/Beautifly.SM7B.8.23117.png",
+      "rarity": "Uncommon",
+      "cardNum": "8/50"
+    },
+    {
+      "name": "Nincada",
+      "set": "Fairy Rise",
+      "img": "https://den-cards.pokellector.com/240/Nincada.SM7B.9.23118.png",
+      "rarity": "Common",
+      "cardNum": "9/50"
+    },
+    {
+      "name": "Ninjask",
+      "set": "Fairy Rise",
+      "img": "https://den-cards.pokellector.com/240/Ninjask.SM7B.10.23119.png",
+      "rarity": "Common",
+      "cardNum": "10/50"
+    },
+    {
+      "name": "Combee",
+      "set": "Fairy Rise",
+      "img": "https://den-cards.pokellector.com/240/Combee.SM7B.11.23097.png",
+      "rarity": "Common",
+      "cardNum": "11/50"
+    },
+    {
+      "name": "Vespiquen",
+      "set": "Fairy Rise",
+      "img": "https://den-cards.pokellector.com/240/Vespiquen.SM7B.12.23098.png",
+      "rarity": "Common",
+      "cardNum": "12/50"
+    },
+    {
+      "name": "Shaymin",
+      "set": "Fairy Rise",
+      "img": "https://den-cards.pokellector.com/240/Shaymin.SM7B.13.23120.png",
+      "rarity": "Rare",
+      "cardNum": "13/50"
+    },
+    {
+      "name": "Alolan Vulpix",
+      "set": "Fairy Rise",
+      "img": "https://den-cards.pokellector.com/240/Alolan-Vulpix.SM7B.14.23100.png",
+      "rarity": "Common",
+      "cardNum": "14/50"
+    },
+    {
+      "name": "Shedinja",
+      "set": "Fairy Rise",
+      "img": "https://den-cards.pokellector.com/240/Shedinja.SM7B.15.23106.png",
+      "rarity": "Uncommon",
+      "cardNum": "15/50"
+    },
+    {
+      "name": "Sableye",
+      "set": "Fairy Rise",
+      "img": "https://den-cards.pokellector.com/240/Sableye.SM7B.16.23121.png",
+      "rarity": "Common",
+      "cardNum": "16/50"
+    },
+    {
+      "name": "Giratina",
+      "set": "Fairy Rise",
+      "img": "https://den-cards.pokellector.com/240/Giratina.SM7B.17.22781.png",
+      "rarity": "Rare",
+      "cardNum": "17/50"
+    },
+    {
+      "name": "Sigilyph GX",
+      "set": "Fairy Rise",
+      "img": "https://den-cards.pokellector.com/240/Sigilyph-GX.SM7B.18.23105.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "18/50"
+    },
+    {
+      "name": "Yamask",
+      "set": "Fairy Rise",
+      "img": "https://den-cards.pokellector.com/240/Yamask.SM7B.19.23122.png",
+      "rarity": "Common",
+      "cardNum": "19/50"
+    },
+    {
+      "name": "Cofagrigus",
+      "set": "Fairy Rise",
+      "img": "https://den-cards.pokellector.com/240/Cofagrigus.SM7B.20.23123.png",
+      "rarity": "Uncommon",
+      "cardNum": "20/50"
+    },
+    {
+      "name": "Litwick",
+      "set": "Fairy Rise",
+      "img": "https://den-cards.pokellector.com/240/Litwick.SM7B.21.23124.png",
+      "rarity": "Common",
+      "cardNum": "21/50"
+    },
+    {
+      "name": "Lampent",
+      "set": "Fairy Rise",
+      "img": "https://den-cards.pokellector.com/240/Lampent.SM7B.22.23125.png",
+      "rarity": "Common",
+      "cardNum": "22/50"
+    },
+    {
+      "name": "Chandelure",
+      "set": "Fairy Rise",
+      "img": "https://den-cards.pokellector.com/240/Chandelure.SM7B.23.23126.png",
+      "rarity": "Rare",
+      "cardNum": "23/50"
+    },
+    {
+      "name": "Meloetta",
+      "set": "Fairy Rise",
+      "img": "https://den-cards.pokellector.com/240/Meloetta.SM7B.24.23127.png",
+      "rarity": "Uncommon",
+      "cardNum": "24/50"
+    },
+    {
+      "name": "Alolan Ninetales GX",
+      "set": "Fairy Rise",
+      "img": "https://den-cards.pokellector.com/240/Alolan-Ninetales-GX.SM7B.25.22776.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "25/50"
+    },
+    {
+      "name": "Jigglypuff",
+      "set": "Fairy Rise",
+      "img": "https://den-cards.pokellector.com/240/Jigglypuff.SM7B.26.23128.png",
+      "rarity": "Common",
+      "cardNum": "26/50"
+    },
+    {
+      "name": "Wigglytuff",
+      "set": "Fairy Rise",
+      "img": "https://den-cards.pokellector.com/240/Wigglytuff.SM7B.27.23129.png",
+      "rarity": "Uncommon",
+      "cardNum": "27/50"
+    },
+    {
+      "name": "Ralts",
+      "set": "Fairy Rise",
+      "img": "https://den-cards.pokellector.com/240/Kirlia.SM7B.28.23130.png",
+      "rarity": "Common",
+      "cardNum": "28/50"
+    },
+    {
+      "name": "Kirlia",
+      "set": "Fairy Rise",
+      "img": "https://den-cards.pokellector.com/240/Ralts.SM7B.29.23131.png",
+      "rarity": "Common",
+      "cardNum": "29/50"
+    },
+    {
+      "name": "Gardevoir",
+      "set": "Fairy Rise",
+      "img": "https://den-cards.pokellector.com/240/Gardevoir.SM7B.30.23132.png",
+      "rarity": "Rare",
+      "cardNum": "30/50"
+    },
+    {
+      "name": "Dedenne",
+      "set": "Fairy Rise",
+      "img": "https://den-cards.pokellector.com/240/Dedenne.SM7B.31.23133.png",
+      "rarity": "Common",
+      "cardNum": "31/50"
+    },
+    {
+      "name": "Carbink",
+      "set": "Fairy Rise",
+      "img": "https://den-cards.pokellector.com/240/Carbink.SM7B.32.23134.png",
+      "rarity": "Common",
+      "cardNum": "32/50"
+    },
+    {
+      "name": "Xerneas Prism Star",
+      "set": "Fairy Rise",
+      "img": "https://den-cards.pokellector.com/240/Xerneas-Prism-Star.SM7B.33.23101.png",
+      "rarity": "Prism Star",
+      "cardNum": "33/50"
+    },
+    {
+      "name": "Cutiefly",
+      "set": "Fairy Rise",
+      "img": "https://den-cards.pokellector.com/240/Cutiefly.SM7B.34.23135.png",
+      "rarity": "Common",
+      "cardNum": "34/50"
+    },
+    {
+      "name": "Ribombee",
+      "set": "Fairy Rise",
+      "img": "https://den-cards.pokellector.com/240/Ribombee.SM7B.35.23104.png",
+      "rarity": "Uncommon",
+      "cardNum": "35/50"
+    },
+    {
+      "name": "Morelull",
+      "set": "Fairy Rise",
+      "img": "https://den-cards.pokellector.com/240/Morelull.SM7B.36.23137.png",
+      "rarity": "Common",
+      "cardNum": "36/50"
+    },
+    {
+      "name": "Shiinotic",
+      "set": "Fairy Rise",
+      "img": "https://den-cards.pokellector.com/240/Shiinotic.SM7B.37.23138.png",
+      "rarity": "Common",
+      "cardNum": "37/50"
+    },
+    {
+      "name": "Mimikyu GX",
+      "set": "Fairy Rise",
+      "img": "https://den-cards.pokellector.com/240/Mimikyu-GX.SM7B.38.23096.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "38/50"
+    },
+    {
+      "name": "Tapu Lele",
+      "set": "Fairy Rise",
+      "img": "https://den-cards.pokellector.com/240/Tapu-Hehe.SM7B.39.23139.png",
+      "rarity": "Rare",
+      "cardNum": "39/50"
+    },
+    {
+      "name": "Tapu Fini",
+      "set": "Fairy Rise",
+      "img": "https://den-cards.pokellector.com/240/Tapu-Pipi.SM7B.40.23140.png",
+      "rarity": "Rare",
+      "cardNum": "40/50"
+    },
+    {
+      "name": "Kecleon",
+      "set": "Fairy Rise",
+      "img": "https://den-cards.pokellector.com/240/Kecleon.SM7B.41.23141.png",
+      "rarity": "Common",
+      "cardNum": "41/50"
+    },
+    {
+      "name": "Net Ball",
+      "set": "Fairy Rise",
+      "img": "https://den-cards.pokellector.com/240/Net-Ball.SM7B.42.23099.png",
+      "rarity": "Uncommon",
+      "cardNum": "42/50"
+    },
+    {
+      "name": "Adventuring Satchel",
+      "set": "Fairy Rise",
+      "img": "https://den-cards.pokellector.com/240/Adventuring-Satchel.SM7B.43.23092.png",
+      "rarity": "Common",
+      "cardNum": "43/50"
+    },
+    {
+      "name": "Spell Tag",
+      "set": "Fairy Rise",
+      "img": "https://den-cards.pokellector.com/240/Spell-Tag.SM7B.44.23108.png",
+      "rarity": "Uncommon",
+      "cardNum": "44/50"
+    },
+    {
+      "name": "Fairy Charm [Psychic]",
+      "set": "Fairy Rise",
+      "img": "https://den-cards.pokellector.com/240/Fairy-Charm-Psychic.SM7B.45.23094.png",
+      "rarity": "Uncommon",
+      "cardNum": "45/50"
+    },
+    {
+      "name": "Fairy Charm [Fighting]",
+      "set": "Fairy Rise",
+      "img": "https://den-cards.pokellector.com/240/Fairy-Charm-Fighting.SM7B.46.23093.png",
+      "rarity": "Uncommon",
+      "cardNum": "46/50"
+    },
+    {
+      "name": "Fairy Charm [Dragon]",
+      "set": "Fairy Rise",
+      "img": "https://den-cards.pokellector.com/240/Fairy-Charm-Dragon.SM7B.47.23095.png",
+      "rarity": "Uncommon",
+      "cardNum": "47/50"
+    },
+    {
+      "name": "Morty",
+      "set": "Fairy Rise",
+      "img": "https://den-cards.pokellector.com/240/Morty.SM7B.48.23107.png",
+      "rarity": "Uncommon",
+      "cardNum": "48/50"
+    },
+    {
+      "name": "Mina",
+      "set": "Fairy Rise",
+      "img": "https://den-cards.pokellector.com/240/Mina.SM7B.49.23103.png",
+      "rarity": "Uncommon",
+      "cardNum": "49/50"
+    },
+    {
+      "name": "Life Forest Prism Star",
+      "set": "Fairy Rise",
+      "img": "https://den-cards.pokellector.com/240/Life-Forest-Prism-Star.SM7B.50.23142.png",
+      "rarity": "Prism Star",
+      "cardNum": "50/50"
+    },
+    {
+      "name": "Sceptile GX",
+      "set": "Fairy Rise",
+      "img": "https://den-cards.pokellector.com/240/Sceptile-GX.SM7B.51.23150.png",
+      "rarity": "Secret Rare",
+      "cardNum": "51/50"
+    },
+    {
+      "name": "Sigilyph GX",
+      "set": "Fairy Rise",
+      "img": "https://den-cards.pokellector.com/240/Sigilyph-GX.SM7B.52.23151.png",
+      "rarity": "Secret Rare",
+      "cardNum": "52/50"
+    },
+    {
+      "name": "Ninetales GX",
+      "set": "Fairy Rise",
+      "img": "https://den-cards.pokellector.com/240/Ninetales-GX.SM7B.53.23152.png",
+      "rarity": "Secret Rare",
+      "cardNum": "53/50"
+    },
+    {
+      "name": "Mimikyu GX",
+      "set": "Fairy Rise",
+      "img": "https://den-cards.pokellector.com/240/Mimikyu-GX.SM7B.54.23153.png",
+      "rarity": "Secret Rare",
+      "cardNum": "54/50"
+    },
+    {
+      "name": "Morty",
+      "set": "Fairy Rise",
+      "img": "https://den-cards.pokellector.com/240/Morty.SM7B.55.23146.png",
+      "rarity": "Secret Rare",
+      "cardNum": "55/50"
+    },
+    {
+      "name": "Mina",
+      "set": "Fairy Rise",
+      "img": "https://den-cards.pokellector.com/240/Mina.SM7B.56.23147.png",
+      "rarity": "Secret Rare",
+      "cardNum": "56/50"
+    },
+    {
+      "name": "Sceptile GX",
+      "set": "Fairy Rise",
+      "img": "https://den-cards.pokellector.com/240/Sceptile-GX.SM7B.57.23154.png",
+      "rarity": "Secret Rare",
+      "cardNum": "57/50"
+    },
+    {
+      "name": "Sigilyph GX",
+      "set": "Fairy Rise",
+      "img": "https://den-cards.pokellector.com/240/Sigilyph-GX.SM7B.58.23155.png",
+      "rarity": "Secret Rare",
+      "cardNum": "58/50"
+    },
+    {
+      "name": "Ninetales GX",
+      "set": "Fairy Rise",
+      "img": "https://den-cards.pokellector.com/240/Ninetales-GX.SM7B.59.23156.png",
+      "rarity": "Secret Rare",
+      "cardNum": "59/50"
+    },
+    {
+      "name": "Mimikyu GX",
+      "set": "Fairy Rise",
+      "img": "https://den-cards.pokellector.com/240/Mimikyu-GX.SM7B.60.23157.png",
+      "rarity": "Secret Rare",
+      "cardNum": "60/50"
+    },
+    {
+      "name": "Net Ball",
+      "set": "Fairy Rise",
+      "img": "https://den-cards.pokellector.com/240/Net-Ball.SM7B.61.23158.png",
+      "rarity": "Secret Rare",
+      "cardNum": "61/50"
+    },
+    {
+      "name": "Adventuring Satchel",
+      "set": "Fairy Rise",
+      "img": "https://den-cards.pokellector.com/240/Adventuring-Satchel.SM7B.62.23159.png",
+      "rarity": "Secret Rare",
+      "cardNum": "62/50"
+    },
+    {
+      "name": "Spell Tag",
+      "set": "Fairy Rise",
+      "img": "https://den-cards.pokellector.com/240/Spell-Tag.SM7B.63.23160.png",
+      "rarity": "Secret Rare",
+      "cardNum": "63/50"
+    }
+  ]
+}

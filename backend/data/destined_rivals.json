@@ -1,0 +1,1713 @@
+{
+  "setName": "Destined Rivals",
+  "cards": [
+    {
+      "name": "Ethan's Pinsir",
+      "set": "Destined Rivals",
+      "img": "https://den-cards.pokellector.com/412/Ethans-Pinsir.DRI.1.57267.png",
+      "rarity": "Uncommon",
+      "cardNum": "1/182"
+    },
+    {
+      "name": "Yanma",
+      "set": "Destined Rivals",
+      "img": "https://den-cards.pokellector.com/412/Yanma.DRI.2.57268.png",
+      "rarity": "Common",
+      "cardNum": "2/182"
+    },
+    {
+      "name": "Yanmega ex",
+      "set": "Destined Rivals",
+      "img": "https://den-cards.pokellector.com/412/Yanmega-ex.DRI.3.57269.png",
+      "rarity": "Double Rare",
+      "cardNum": "3/182"
+    },
+    {
+      "name": "Pineco",
+      "set": "Destined Rivals",
+      "img": "https://den-cards.pokellector.com/412/Pineco.DRI.4.57270.png",
+      "rarity": "Common",
+      "cardNum": "4/182"
+    },
+    {
+      "name": "Shroomish",
+      "set": "Destined Rivals",
+      "img": "https://den-cards.pokellector.com/412/Shroomish.DRI.5.57271.png",
+      "rarity": "Common",
+      "cardNum": "5/182"
+    },
+    {
+      "name": "Breloom",
+      "set": "Destined Rivals",
+      "img": "https://den-cards.pokellector.com/412/Breloom.DRI.6.57272.png",
+      "rarity": "Common",
+      "cardNum": "6/182"
+    },
+    {
+      "name": "Cynthia's Roselia",
+      "set": "Destined Rivals",
+      "img": "https://den-cards.pokellector.com/412/Cynthias-Roselia.DRI.7.57273.png",
+      "rarity": "Common",
+      "cardNum": "7/182"
+    },
+    {
+      "name": "Cynthia's Roserade",
+      "set": "Destined Rivals",
+      "img": "https://den-cards.pokellector.com/412/Cynthias-Roserade.DRI.8.57274.png",
+      "rarity": "Rare",
+      "cardNum": "8/182"
+    },
+    {
+      "name": "Mow Rotom",
+      "set": "Destined Rivals",
+      "img": "https://den-cards.pokellector.com/412/Mow-Rotom.DRI.9.57275.png",
+      "rarity": "Common",
+      "cardNum": "9/182"
+    },
+    {
+      "name": "Shaymin",
+      "set": "Destined Rivals",
+      "img": "https://den-cards.pokellector.com/412/Shaymin.DRI.10.57276.png",
+      "rarity": "Uncommon",
+      "cardNum": "10/182"
+    },
+    {
+      "name": "Dwebble",
+      "set": "Destined Rivals",
+      "img": "https://den-cards.pokellector.com/412/Dwebble.DRI.11.57277.png",
+      "rarity": "Common",
+      "cardNum": "11/182"
+    },
+    {
+      "name": "Crustle",
+      "set": "Destined Rivals",
+      "img": "https://den-cards.pokellector.com/412/Crustle.DRI.12.57278.png",
+      "rarity": "Rare",
+      "cardNum": "12/182"
+    },
+    {
+      "name": "Fomantis",
+      "set": "Destined Rivals",
+      "img": "https://den-cards.pokellector.com/412/Fomantis.DRI.13.57279.png",
+      "rarity": "Common",
+      "cardNum": "13/182"
+    },
+    {
+      "name": "Lurantis",
+      "set": "Destined Rivals",
+      "img": "https://den-cards.pokellector.com/412/Lurantis.DRI.14.57280.png",
+      "rarity": "Uncommon",
+      "cardNum": "14/182"
+    },
+    {
+      "name": "Team Rocket's Blipbug",
+      "set": "Destined Rivals",
+      "img": "https://den-cards.pokellector.com/412/Team-Rockets-Blipbug.DRI.15.57281.png",
+      "rarity": "Common",
+      "cardNum": "15/182"
+    },
+    {
+      "name": "Applin",
+      "set": "Destined Rivals",
+      "img": "https://den-cards.pokellector.com/412/Applin.DRI.16.57282.png",
+      "rarity": "Common",
+      "cardNum": "16/182"
+    },
+    {
+      "name": "Dipplin",
+      "set": "Destined Rivals",
+      "img": "https://den-cards.pokellector.com/412/Dipplin.DRI.17.57283.png",
+      "rarity": "Common",
+      "cardNum": "17/182"
+    },
+    {
+      "name": "Hydrapple",
+      "set": "Destined Rivals",
+      "img": "https://den-cards.pokellector.com/412/Hydrapple.DRI.18.57284.png",
+      "rarity": "Rare",
+      "cardNum": "18/182"
+    },
+    {
+      "name": "Team Rocket's Tarountula",
+      "set": "Destined Rivals",
+      "img": "https://den-cards.pokellector.com/412/Team-Rockets-Tarountula.DRI.19.57285.png",
+      "rarity": "Common",
+      "cardNum": "19/182"
+    },
+    {
+      "name": "Team Rocket's Spidops",
+      "set": "Destined Rivals",
+      "img": "https://den-cards.pokellector.com/412/Team-Rockets-Spidops.DRI.20.57286.png",
+      "rarity": "Rare",
+      "cardNum": "20/182"
+    },
+    {
+      "name": "Smoliv",
+      "set": "Destined Rivals",
+      "img": "https://den-cards.pokellector.com/412/Smoliv.DRI.21.57287.png",
+      "rarity": "Common",
+      "cardNum": "21/182"
+    },
+    {
+      "name": "Dolliv",
+      "set": "Destined Rivals",
+      "img": "https://den-cards.pokellector.com/412/Dolliv.DRI.22.57288.png",
+      "rarity": "Common",
+      "cardNum": "22/182"
+    },
+    {
+      "name": "Arboliva ex",
+      "set": "Destined Rivals",
+      "img": "https://den-cards.pokellector.com/412/Arboliva-ex.DRI.23.57289.png",
+      "rarity": "Double Rare",
+      "cardNum": "23/182"
+    },
+    {
+      "name": "Rellor",
+      "set": "Destined Rivals",
+      "img": "https://den-cards.pokellector.com/412/Rellor.DRI.24.57290.png",
+      "rarity": "Common",
+      "cardNum": "24/182"
+    },
+    {
+      "name": "Rabsca ex",
+      "set": "Destined Rivals",
+      "img": "https://den-cards.pokellector.com/412/Rabsca-ex.DRI.25.57291.png",
+      "rarity": "Double Rare",
+      "cardNum": "25/182"
+    },
+    {
+      "name": "Teal Mask Ogerpon",
+      "set": "Destined Rivals",
+      "img": "https://den-cards.pokellector.com/412/Teal-Mask-Ogerpon.DRI.26.57292.png",
+      "rarity": "Uncommon",
+      "cardNum": "26/182"
+    },
+    {
+      "name": "Growlithe",
+      "set": "Destined Rivals",
+      "img": "https://den-cards.pokellector.com/412/Growlithe.DRI.27.57293.png",
+      "rarity": "Common",
+      "cardNum": "27/182"
+    },
+    {
+      "name": "Arcanine",
+      "set": "Destined Rivals",
+      "img": "https://den-cards.pokellector.com/412/Arcanine.DRI.28.57294.png",
+      "rarity": "Uncommon",
+      "cardNum": "28/182"
+    },
+    {
+      "name": "Ponyta",
+      "set": "Destined Rivals",
+      "img": "https://den-cards.pokellector.com/412/Ponyta.DRI.29.57295.png",
+      "rarity": "Common",
+      "cardNum": "29/182"
+    },
+    {
+      "name": "Rapidash",
+      "set": "Destined Rivals",
+      "img": "https://den-cards.pokellector.com/412/Rapidash.DRI.30.57296.png",
+      "rarity": "Uncommon",
+      "cardNum": "30/182"
+    },
+    {
+      "name": "Team Rocket's Moltres ex",
+      "set": "Destined Rivals",
+      "img": "https://den-cards.pokellector.com/412/Team-Rockets-Moltres-ex.DRI.31.57297.png",
+      "rarity": "Double Rare",
+      "cardNum": "31/182"
+    },
+    {
+      "name": "Ethan's Cyndaquil",
+      "set": "Destined Rivals",
+      "img": "https://den-cards.pokellector.com/412/Ethans-Cyndaquil.DRI.32.57298.png",
+      "rarity": "Common",
+      "cardNum": "32/182"
+    },
+    {
+      "name": "Ethan's Quilava",
+      "set": "Destined Rivals",
+      "img": "https://den-cards.pokellector.com/412/Ethans-Quilava.DRI.33.57299.png",
+      "rarity": "Common",
+      "cardNum": "33/182"
+    },
+    {
+      "name": "Ethan's Typhlosion",
+      "set": "Destined Rivals",
+      "img": "https://den-cards.pokellector.com/412/Ethans-Typhlosion.DRI.34.56855.png",
+      "rarity": "Rare",
+      "cardNum": "34/182"
+    },
+    {
+      "name": "Ethan's Slugma",
+      "set": "Destined Rivals",
+      "img": "https://den-cards.pokellector.com/412/Ethans-Slugma.DRI.35.57300.png",
+      "rarity": "Common",
+      "cardNum": "35/182"
+    },
+    {
+      "name": "Ethan's Magcargo",
+      "set": "Destined Rivals",
+      "img": "https://den-cards.pokellector.com/412/Ethans-Magcargo.DRI.36.57301.png",
+      "rarity": "Rare",
+      "cardNum": "36/182"
+    },
+    {
+      "name": "Team Rocket's Houndour",
+      "set": "Destined Rivals",
+      "img": "https://den-cards.pokellector.com/412/Team-Rockets-Houndour.DRI.37.57302.png",
+      "rarity": "Common",
+      "cardNum": "37/182"
+    },
+    {
+      "name": "Team Rocket's Houndoom",
+      "set": "Destined Rivals",
+      "img": "https://den-cards.pokellector.com/412/Team-Rockets-Houndoom.DRI.38.57303.png",
+      "rarity": "Uncommon",
+      "cardNum": "38/182"
+    },
+    {
+      "name": "Ethan's Ho-Oh ex",
+      "set": "Destined Rivals",
+      "img": "https://den-cards.pokellector.com/412/Ethans-Ho-Oh-ex.DRI.39.57304.png",
+      "rarity": "Double Rare",
+      "cardNum": "39/182"
+    },
+    {
+      "name": "Torchic",
+      "set": "Destined Rivals",
+      "img": "https://den-cards.pokellector.com/412/Torchic.DRI.40.57305.png",
+      "rarity": "Common",
+      "cardNum": "40/182"
+    },
+    {
+      "name": "Combusken",
+      "set": "Destined Rivals",
+      "img": "https://den-cards.pokellector.com/412/Combusken.DRI.41.57306.png",
+      "rarity": "Common",
+      "cardNum": "41/182"
+    },
+    {
+      "name": "Blaziken",
+      "set": "Destined Rivals",
+      "img": "https://den-cards.pokellector.com/412/Blaziken.DRI.42.57307.png",
+      "rarity": "Rare",
+      "cardNum": "42/182"
+    },
+    {
+      "name": "Heat Rotom",
+      "set": "Destined Rivals",
+      "img": "https://den-cards.pokellector.com/412/Heat-Rotom.DRI.43.57308.png",
+      "rarity": "Common",
+      "cardNum": "43/182"
+    },
+    {
+      "name": "Hearthflame Mask Ogerpon",
+      "set": "Destined Rivals",
+      "img": "https://den-cards.pokellector.com/412/Hearthflame-Mask-Ogerpon.DRI.44.57309.png",
+      "rarity": "Uncommon",
+      "cardNum": "44/182"
+    },
+    {
+      "name": "Misty's Psyduck",
+      "set": "Destined Rivals",
+      "img": "https://den-cards.pokellector.com/412/Mistys-Psyduck.DRI.45.57310.png",
+      "rarity": "Uncommon",
+      "cardNum": "45/182"
+    },
+    {
+      "name": "Misty's Staryu",
+      "set": "Destined Rivals",
+      "img": "https://den-cards.pokellector.com/412/Mistys-Staryu.DRI.46.57311.png",
+      "rarity": "Common",
+      "cardNum": "46/182"
+    },
+    {
+      "name": "Misty's Starmie",
+      "set": "Destined Rivals",
+      "img": "https://den-cards.pokellector.com/412/Mistys-Starmie.DRI.47.57312.png",
+      "rarity": "Uncommon",
+      "cardNum": "47/182"
+    },
+    {
+      "name": "Misty's Magikarp",
+      "set": "Destined Rivals",
+      "img": "https://den-cards.pokellector.com/412/Mistys-Magikarp.DRI.48.57313.png",
+      "rarity": "Common",
+      "cardNum": "48/182"
+    },
+    {
+      "name": "Misty's Gyarados",
+      "set": "Destined Rivals",
+      "img": "https://den-cards.pokellector.com/412/Mistys-Gyarados.DRI.49.56856.png",
+      "rarity": "Rare",
+      "cardNum": "49/182"
+    },
+    {
+      "name": "Misty's Lapras",
+      "set": "Destined Rivals",
+      "img": "https://den-cards.pokellector.com/412/Mistys-Lapras.DRI.50.57314.png",
+      "rarity": "Common",
+      "cardNum": "50/182"
+    },
+    {
+      "name": "Team Rocket's Articuno",
+      "set": "Destined Rivals",
+      "img": "https://den-cards.pokellector.com/412/Team-Rockets-Articuno.DRI.51.57315.png",
+      "rarity": "Rare",
+      "cardNum": "51/182"
+    },
+    {
+      "name": "Cynthia's Feebas",
+      "set": "Destined Rivals",
+      "img": "https://den-cards.pokellector.com/412/Cynthias-Feebas.DRI.52.57316.png",
+      "rarity": "Common",
+      "cardNum": "52/182"
+    },
+    {
+      "name": "Cynthia's Milotic",
+      "set": "Destined Rivals",
+      "img": "https://den-cards.pokellector.com/412/Cynthias-Milotic.DRI.53.57317.png",
+      "rarity": "Uncommon",
+      "cardNum": "53/182"
+    },
+    {
+      "name": "Clamperl",
+      "set": "Destined Rivals",
+      "img": "https://den-cards.pokellector.com/412/Clamperl.DRI.54.57318.png",
+      "rarity": "Common",
+      "cardNum": "54/182"
+    },
+    {
+      "name": "Huntail",
+      "set": "Destined Rivals",
+      "img": "https://den-cards.pokellector.com/412/Huntail.DRI.55.57319.png",
+      "rarity": "Uncommon",
+      "cardNum": "55/182"
+    },
+    {
+      "name": "Gorebyss",
+      "set": "Destined Rivals",
+      "img": "https://den-cards.pokellector.com/412/Gorebyss.DRI.56.57320.png",
+      "rarity": "Rare",
+      "cardNum": "56/182"
+    },
+    {
+      "name": "Buizel",
+      "set": "Destined Rivals",
+      "img": "https://den-cards.pokellector.com/412/Buizel.DRI.57.57321.png",
+      "rarity": "Common",
+      "cardNum": "57/182"
+    },
+    {
+      "name": "Floatzel",
+      "set": "Destined Rivals",
+      "img": "https://den-cards.pokellector.com/412/Floatzel.DRI.58.57322.png",
+      "rarity": "Uncommon",
+      "cardNum": "58/182"
+    },
+    {
+      "name": "Snover",
+      "set": "Destined Rivals",
+      "img": "https://den-cards.pokellector.com/412/Snover.DRI.59.57323.png",
+      "rarity": "Common",
+      "cardNum": "59/182"
+    },
+    {
+      "name": "Abomasnow",
+      "set": "Destined Rivals",
+      "img": "https://den-cards.pokellector.com/412/Abomasnow.DRI.60.57324.png",
+      "rarity": "Uncommon",
+      "cardNum": "60/182"
+    },
+    {
+      "name": "Wash Rotom",
+      "set": "Destined Rivals",
+      "img": "https://den-cards.pokellector.com/412/Wash-Rotom.DRI.61.57325.png",
+      "rarity": "Common",
+      "cardNum": "61/182"
+    },
+    {
+      "name": "Arrokuda",
+      "set": "Destined Rivals",
+      "img": "https://den-cards.pokellector.com/412/Arrokuda.DRI.62.57326.png",
+      "rarity": "Common",
+      "cardNum": "62/182"
+    },
+    {
+      "name": "Barraskewda",
+      "set": "Destined Rivals",
+      "img": "https://den-cards.pokellector.com/412/Barraskewda.DRI.63.57327.png",
+      "rarity": "Uncommon",
+      "cardNum": "63/182"
+    },
+    {
+      "name": "Cetoddle",
+      "set": "Destined Rivals",
+      "img": "https://den-cards.pokellector.com/412/Cetoddle.DRI.64.57328.png",
+      "rarity": "Common",
+      "cardNum": "64/182"
+    },
+    {
+      "name": "Cetitan ex",
+      "set": "Destined Rivals",
+      "img": "https://den-cards.pokellector.com/412/Cetitan-ex.DRI.65.57329.png",
+      "rarity": "Double Rare",
+      "cardNum": "65/182"
+    },
+    {
+      "name": "Dondozo ex",
+      "set": "Destined Rivals",
+      "img": "https://den-cards.pokellector.com/412/Dondozo-ex.DRI.66.57330.png",
+      "rarity": "Double Rare",
+      "cardNum": "66/182"
+    },
+    {
+      "name": "Wellspring Mask Ogerpon",
+      "set": "Destined Rivals",
+      "img": "https://den-cards.pokellector.com/412/Wellspring-Mask-Ogerpon.DRI.67.57331.png",
+      "rarity": "Uncommon",
+      "cardNum": "67/182"
+    },
+    {
+      "name": "Electabuzz",
+      "set": "Destined Rivals",
+      "img": "https://den-cards.pokellector.com/412/Electabuzz.DRI.68.57332.png",
+      "rarity": "Common",
+      "cardNum": "68/182"
+    },
+    {
+      "name": "Electivire ex",
+      "set": "Destined Rivals",
+      "img": "https://den-cards.pokellector.com/412/Electivire-ex.DRI.69.57333.png",
+      "rarity": "Double Rare",
+      "cardNum": "69/182"
+    },
+    {
+      "name": "Team Rocket's Zapdos",
+      "set": "Destined Rivals",
+      "img": "https://den-cards.pokellector.com/412/Team-Rockets-Zapdos.DRI.70.57334.png",
+      "rarity": "Rare",
+      "cardNum": "70/182"
+    },
+    {
+      "name": "Ethan's Pichu",
+      "set": "Destined Rivals",
+      "img": "https://den-cards.pokellector.com/412/Ethans-Pichu.DRI.71.57335.png",
+      "rarity": "Common",
+      "cardNum": "71/182"
+    },
+    {
+      "name": "Team Rocket's Mareep",
+      "set": "Destined Rivals",
+      "img": "https://den-cards.pokellector.com/412/Team-Rockets-Mareep.DRI.72.57336.png",
+      "rarity": "Common",
+      "cardNum": "72/182"
+    },
+    {
+      "name": "Team Rocket's Flaaffy",
+      "set": "Destined Rivals",
+      "img": "https://den-cards.pokellector.com/412/Team-Rockets-Flaaffy.DRI.73.57337.png",
+      "rarity": "Common",
+      "cardNum": "73/182"
+    },
+    {
+      "name": "Team Rocket's Ampharos",
+      "set": "Destined Rivals",
+      "img": "https://den-cards.pokellector.com/412/Team-Rockets-Ampharos.DRI.74.57338.png",
+      "rarity": "Uncommon",
+      "cardNum": "74/182"
+    },
+    {
+      "name": "Electrike",
+      "set": "Destined Rivals",
+      "img": "https://den-cards.pokellector.com/412/Electrike.DRI.75.57339.png",
+      "rarity": "Common",
+      "cardNum": "75/182"
+    },
+    {
+      "name": "Manectric",
+      "set": "Destined Rivals",
+      "img": "https://den-cards.pokellector.com/412/Manectric.DRI.76.57340.png",
+      "rarity": "Uncommon",
+      "cardNum": "76/182"
+    },
+    {
+      "name": "Rotom",
+      "set": "Destined Rivals",
+      "img": "https://den-cards.pokellector.com/412/Rotom.DRI.77.57341.png",
+      "rarity": "Common",
+      "cardNum": "77/182"
+    },
+    {
+      "name": "Zeraora",
+      "set": "Destined Rivals",
+      "img": "https://den-cards.pokellector.com/412/Zeraora.DRI.78.57342.png",
+      "rarity": "Rare",
+      "cardNum": "78/182"
+    },
+    {
+      "name": "Team Rocket's Drowzee",
+      "set": "Destined Rivals",
+      "img": "https://den-cards.pokellector.com/412/Team-Rockets-Drowzee.DRI.79.57343.png",
+      "rarity": "Common",
+      "cardNum": "79/182"
+    },
+    {
+      "name": "Team Rocket's Hypno",
+      "set": "Destined Rivals",
+      "img": "https://den-cards.pokellector.com/412/Team-Rockets-Hypno.DRI.80.57344.png",
+      "rarity": "Uncommon",
+      "cardNum": "80/182"
+    },
+    {
+      "name": "Team Rocket's Mewtwo ex",
+      "set": "Destined Rivals",
+      "img": "https://den-cards.pokellector.com/412/Team-Rockets-Mewtwo-ex.DRI.81.57345.png",
+      "rarity": "Double Rare",
+      "cardNum": "81/182"
+    },
+    {
+      "name": "Team Rocket's Wobbuffet",
+      "set": "Destined Rivals",
+      "img": "https://den-cards.pokellector.com/412/Team-Rockets-Wobbuffet.DRI.82.57346.png",
+      "rarity": "Rare",
+      "cardNum": "82/182"
+    },
+    {
+      "name": "Steven's Baltoy",
+      "set": "Destined Rivals",
+      "img": "https://den-cards.pokellector.com/412/Stevens-Baltoy.DRI.83.57347.png",
+      "rarity": "Common",
+      "cardNum": "83/182"
+    },
+    {
+      "name": "Steven's Claydol",
+      "set": "Destined Rivals",
+      "img": "https://den-cards.pokellector.com/412/Stevens-Claydol.DRI.84.57348.png",
+      "rarity": "Uncommon",
+      "cardNum": "84/182"
+    },
+    {
+      "name": "Team Rocket's Chingling",
+      "set": "Destined Rivals",
+      "img": "https://den-cards.pokellector.com/412/Team-Rockets-Chingling.DRI.85.57349.png",
+      "rarity": "Common",
+      "cardNum": "85/182"
+    },
+    {
+      "name": "Steven's Carbink",
+      "set": "Destined Rivals",
+      "img": "https://den-cards.pokellector.com/412/Stevens-Carbink.DRI.86.57350.png",
+      "rarity": "Common",
+      "cardNum": "86/182"
+    },
+    {
+      "name": "Team Rocket's Mimikyu",
+      "set": "Destined Rivals",
+      "img": "https://den-cards.pokellector.com/412/Team-Rockets-Mimikyu.DRI.87.56857.png",
+      "rarity": "Uncommon",
+      "cardNum": "87/182"
+    },
+    {
+      "name": "Team Rocket's Dottler",
+      "set": "Destined Rivals",
+      "img": "https://den-cards.pokellector.com/412/Team-Rockets-Dottler.DRI.88.57351.png",
+      "rarity": "Common",
+      "cardNum": "88/182"
+    },
+    {
+      "name": "Team Rocket's Orbeetle",
+      "set": "Destined Rivals",
+      "img": "https://den-cards.pokellector.com/412/Team-Rockets-Orbeetle.DRI.89.57352.png",
+      "rarity": "Uncommon",
+      "cardNum": "89/182"
+    },
+    {
+      "name": "Mankey",
+      "set": "Destined Rivals",
+      "img": "https://den-cards.pokellector.com/412/Mankey.DRI.90.57353.png",
+      "rarity": "Common",
+      "cardNum": "90/182"
+    },
+    {
+      "name": "Primeape",
+      "set": "Destined Rivals",
+      "img": "https://den-cards.pokellector.com/412/Primeape.DRI.91.57354.png",
+      "rarity": "Common",
+      "cardNum": "91/182"
+    },
+    {
+      "name": "Annihilape",
+      "set": "Destined Rivals",
+      "img": "https://den-cards.pokellector.com/412/Annihilape.DRI.92.57355.png",
+      "rarity": "Rare",
+      "cardNum": "92/182"
+    },
+    {
+      "name": "Ethan's Sudowoodo",
+      "set": "Destined Rivals",
+      "img": "https://den-cards.pokellector.com/412/Ethans-Sudowoodo.DRI.93.57356.png",
+      "rarity": "Common",
+      "cardNum": "93/182"
+    },
+    {
+      "name": "Team Rocket's Larvitar",
+      "set": "Destined Rivals",
+      "img": "https://den-cards.pokellector.com/412/Team-Rockets-Larvitar.DRI.94.57357.png",
+      "rarity": "Common",
+      "cardNum": "94/182"
+    },
+    {
+      "name": "Team Rocket's Pupitar",
+      "set": "Destined Rivals",
+      "img": "https://den-cards.pokellector.com/412/Team-Rockets-Pupitar.DRI.95.57358.png",
+      "rarity": "Common",
+      "cardNum": "95/182"
+    },
+    {
+      "name": "Team Rocket's Tyranitar",
+      "set": "Destined Rivals",
+      "img": "https://den-cards.pokellector.com/412/Team-Rockets-Tyranitar.DRI.96.56858.png",
+      "rarity": "Rare",
+      "cardNum": "96/182"
+    },
+    {
+      "name": "Nosepass",
+      "set": "Destined Rivals",
+      "img": "https://den-cards.pokellector.com/412/Nosepass.DRI.97.57359.png",
+      "rarity": "Common",
+      "cardNum": "97/182"
+    },
+    {
+      "name": "Probopass",
+      "set": "Destined Rivals",
+      "img": "https://den-cards.pokellector.com/412/Probopass.DRI.98.57360.png",
+      "rarity": "Uncommon",
+      "cardNum": "98/182"
+    },
+    {
+      "name": "Meditite",
+      "set": "Destined Rivals",
+      "img": "https://den-cards.pokellector.com/412/Meditite.DRI.99.57361.png",
+      "rarity": "Common",
+      "cardNum": "99/182"
+    },
+    {
+      "name": "Medicham",
+      "set": "Destined Rivals",
+      "img": "https://den-cards.pokellector.com/412/Medicham.DRI.100.57362.png",
+      "rarity": "Uncommon",
+      "cardNum": "100/182"
+    },
+    {
+      "name": "Regirock ex",
+      "set": "Destined Rivals",
+      "img": "https://den-cards.pokellector.com/412/Regirock-ex.DRI.101.57363.png",
+      "rarity": "Double Rare",
+      "cardNum": "101/182"
+    },
+    {
+      "name": "Cynthia's Gible",
+      "set": "Destined Rivals",
+      "img": "https://den-cards.pokellector.com/412/Cynthias-Gible.DRI.102.57364.png",
+      "rarity": "Common",
+      "cardNum": "102/182"
+    },
+    {
+      "name": "Cynthia's Gabite",
+      "set": "Destined Rivals",
+      "img": "https://den-cards.pokellector.com/412/Cynthias-Gabite.DRI.103.57365.png",
+      "rarity": "Common",
+      "cardNum": "103/182"
+    },
+    {
+      "name": "Cynthia's Garchomp ex",
+      "set": "Destined Rivals",
+      "img": "https://den-cards.pokellector.com/412/Cynthias-Garchomp-ex.DRI.104.57366.png",
+      "rarity": "Double Rare",
+      "cardNum": "104/182"
+    },
+    {
+      "name": "Hippopotas",
+      "set": "Destined Rivals",
+      "img": "https://den-cards.pokellector.com/412/Hippopotas.DRI.105.57367.png",
+      "rarity": "Common",
+      "cardNum": "105/182"
+    },
+    {
+      "name": "Hippowdon",
+      "set": "Destined Rivals",
+      "img": "https://den-cards.pokellector.com/412/Hippowdon.DRI.106.57368.png",
+      "rarity": "Uncommon",
+      "cardNum": "106/182"
+    },
+    {
+      "name": "Mudbray",
+      "set": "Destined Rivals",
+      "img": "https://den-cards.pokellector.com/412/Mudbray.DRI.107.57369.png",
+      "rarity": "Common",
+      "cardNum": "107/182"
+    },
+    {
+      "name": "Mudsdale",
+      "set": "Destined Rivals",
+      "img": "https://den-cards.pokellector.com/412/Mudsdale.DRI.108.57370.png",
+      "rarity": "Uncommon",
+      "cardNum": "108/182"
+    },
+    {
+      "name": "Arven's Toedscool",
+      "set": "Destined Rivals",
+      "img": "https://den-cards.pokellector.com/412/Arvens-Toedscool.DRI.109.57371.png",
+      "rarity": "Common",
+      "cardNum": "109/182"
+    },
+    {
+      "name": "Arven's Toedscruel",
+      "set": "Destined Rivals",
+      "img": "https://den-cards.pokellector.com/412/Arvens-Toedscruel.DRI.110.57372.png",
+      "rarity": "Uncommon",
+      "cardNum": "110/182"
+    },
+    {
+      "name": "Cornerstone Mask Ogerpon",
+      "set": "Destined Rivals",
+      "img": "https://den-cards.pokellector.com/412/Cornerstone-Mask-Ogerpon.DRI.111.57373.png",
+      "rarity": "Uncommon",
+      "cardNum": "111/182"
+    },
+    {
+      "name": "Team Rocket's Ekans",
+      "set": "Destined Rivals",
+      "img": "https://den-cards.pokellector.com/412/Team-Rockets-Ekans.DRI.112.57374.png",
+      "rarity": "Common",
+      "cardNum": "112/182"
+    },
+    {
+      "name": "Team Rocket's Arbok",
+      "set": "Destined Rivals",
+      "img": "https://den-cards.pokellector.com/412/Team-Rockets-Arbok.DRI.113.57375.png",
+      "rarity": "Uncommon",
+      "cardNum": "113/182"
+    },
+    {
+      "name": "Team Rocket's Nidoran♀",
+      "set": "Destined Rivals",
+      "img": "https://den-cards.pokellector.com/412/Team-Rockets-Nidoran.DRI.114.57376.png",
+      "rarity": "Common",
+      "cardNum": "114/182"
+    },
+    {
+      "name": "Team Rocket's Nidorina",
+      "set": "Destined Rivals",
+      "img": "https://den-cards.pokellector.com/412/Team-Rockets-Nidorina.DRI.115.57377.png",
+      "rarity": "Common",
+      "cardNum": "115/182"
+    },
+    {
+      "name": "Team Rocket's Nidoqueen",
+      "set": "Destined Rivals",
+      "img": "https://den-cards.pokellector.com/412/Team-Rockets-Nidoqueen.DRI.116.57378.png",
+      "rarity": "Uncommon",
+      "cardNum": "116/182"
+    },
+    {
+      "name": "Team Rocket's Nidoran♂",
+      "set": "Destined Rivals",
+      "img": "https://den-cards.pokellector.com/412/Team-Rockets-Nidoran.DRI.117.57379.png",
+      "rarity": "Common",
+      "cardNum": "117/182"
+    },
+    {
+      "name": "Team Rocket's Nidorino",
+      "set": "Destined Rivals",
+      "img": "https://den-cards.pokellector.com/412/Team-Rockets-Nidorino.DRI.118.57380.png",
+      "rarity": "Common",
+      "cardNum": "118/182"
+    },
+    {
+      "name": "Team Rocket's Nidoking ex",
+      "set": "Destined Rivals",
+      "img": "https://den-cards.pokellector.com/412/Team-Rockets-Nidoking-ex.DRI.119.57381.png",
+      "rarity": "Double Rare",
+      "cardNum": "119/182"
+    },
+    {
+      "name": "Team Rocket's Zubat",
+      "set": "Destined Rivals",
+      "img": "https://den-cards.pokellector.com/412/Team-Rockets-Zubat.DRI.120.57382.png",
+      "rarity": "Common",
+      "cardNum": "120/182"
+    },
+    {
+      "name": "Team Rocket's Golbat",
+      "set": "Destined Rivals",
+      "img": "https://den-cards.pokellector.com/412/Team-Rockets-Golbat.DRI.121.57383.png",
+      "rarity": "Uncommon",
+      "cardNum": "121/182"
+    },
+    {
+      "name": "Team Rocket's Crobat ex",
+      "set": "Destined Rivals",
+      "img": "https://den-cards.pokellector.com/412/Team-Rockets-Crobat-ex.DRI.122.57384.png",
+      "rarity": "Double Rare",
+      "cardNum": "122/182"
+    },
+    {
+      "name": "Team Rocket's Grimer",
+      "set": "Destined Rivals",
+      "img": "https://den-cards.pokellector.com/412/Team-Rockets-Grimer.DRI.123.57385.png",
+      "rarity": "Common",
+      "cardNum": "123/182"
+    },
+    {
+      "name": "Team Rocket's Muk",
+      "set": "Destined Rivals",
+      "img": "https://den-cards.pokellector.com/412/Team-Rockets-Muk.DRI.124.57386.png",
+      "rarity": "Uncommon",
+      "cardNum": "124/182"
+    },
+    {
+      "name": "Team Rocket's Koffing",
+      "set": "Destined Rivals",
+      "img": "https://den-cards.pokellector.com/412/Team-Rockets-Koffing.DRI.125.57387.png",
+      "rarity": "Common",
+      "cardNum": "125/182"
+    },
+    {
+      "name": "Team Rocket's Weezing",
+      "set": "Destined Rivals",
+      "img": "https://den-cards.pokellector.com/412/Team-Rockets-Weezing.DRI.126.57388.png",
+      "rarity": "Uncommon",
+      "cardNum": "126/182"
+    },
+    {
+      "name": "Team Rocket's Murkrow",
+      "set": "Destined Rivals",
+      "img": "https://den-cards.pokellector.com/412/Team-Rockets-Murkrow.DRI.127.57389.png",
+      "rarity": "Uncommon",
+      "cardNum": "127/182"
+    },
+    {
+      "name": "Team Rocket's Sneasel",
+      "set": "Destined Rivals",
+      "img": "https://den-cards.pokellector.com/412/Team-Rockets-Sneasel.DRI.128.57390.png",
+      "rarity": "Rare",
+      "cardNum": "128/182"
+    },
+    {
+      "name": "Cynthia's Spiritomb",
+      "set": "Destined Rivals",
+      "img": "https://den-cards.pokellector.com/412/Cynthias-Spiritomb.DRI.129.57391.png",
+      "rarity": "Uncommon",
+      "cardNum": "129/182"
+    },
+    {
+      "name": "Marnie's Purrloin",
+      "set": "Destined Rivals",
+      "img": "https://den-cards.pokellector.com/412/Marnies-Purrloin.DRI.130.57392.png",
+      "rarity": "Common",
+      "cardNum": "130/182"
+    },
+    {
+      "name": "Marnie's Liepard",
+      "set": "Destined Rivals",
+      "img": "https://den-cards.pokellector.com/412/Marnies-Liepard.DRI.131.57393.png",
+      "rarity": "Uncommon",
+      "cardNum": "131/182"
+    },
+    {
+      "name": "Marnie's Scraggy",
+      "set": "Destined Rivals",
+      "img": "https://den-cards.pokellector.com/412/Marnies-Scraggy.DRI.132.57394.png",
+      "rarity": "Common",
+      "cardNum": "132/182"
+    },
+    {
+      "name": "Marnie's Scrafty",
+      "set": "Destined Rivals",
+      "img": "https://den-cards.pokellector.com/412/Marnies-Scrafty.DRI.133.57395.png",
+      "rarity": "Uncommon",
+      "cardNum": "133/182"
+    },
+    {
+      "name": "Marnie's Impidimp",
+      "set": "Destined Rivals",
+      "img": "https://den-cards.pokellector.com/412/Marnies-Impidimp.DRI.134.57396.png",
+      "rarity": "Common",
+      "cardNum": "134/182"
+    },
+    {
+      "name": "Marnie's Morgrem",
+      "set": "Destined Rivals",
+      "img": "https://den-cards.pokellector.com/412/Marnies-Morgrem.DRI.135.57397.png",
+      "rarity": "Uncommon",
+      "cardNum": "135/182"
+    },
+    {
+      "name": "Marnie's Grimmsnarl ex",
+      "set": "Destined Rivals",
+      "img": "https://den-cards.pokellector.com/412/Marnies-Grimmsnarl-ex.DRI.136.57398.png",
+      "rarity": "Double Rare",
+      "cardNum": "136/182"
+    },
+    {
+      "name": "Marnie's Morpeko",
+      "set": "Destined Rivals",
+      "img": "https://den-cards.pokellector.com/412/Marnies-Morpeko.DRI.137.57399.png",
+      "rarity": "Common",
+      "cardNum": "137/182"
+    },
+    {
+      "name": "Arven's Maschiff",
+      "set": "Destined Rivals",
+      "img": "https://den-cards.pokellector.com/412/Arvens-Maschiff.DRI.138.57400.png",
+      "rarity": "Common",
+      "cardNum": "138/182"
+    },
+    {
+      "name": "Arven's Mabosstiff ex",
+      "set": "Destined Rivals",
+      "img": "https://den-cards.pokellector.com/412/Arvens-Mabosstiff-ex.DRI.139.57401.png",
+      "rarity": "Double Rare",
+      "cardNum": "139/182"
+    },
+    {
+      "name": "Forretress",
+      "set": "Destined Rivals",
+      "img": "https://den-cards.pokellector.com/412/Forretress.DRI.140.57402.png",
+      "rarity": "Uncommon",
+      "cardNum": "140/182"
+    },
+    {
+      "name": "Skarmory",
+      "set": "Destined Rivals",
+      "img": "https://den-cards.pokellector.com/412/Skarmory.DRI.141.57403.png",
+      "rarity": "Common",
+      "cardNum": "141/182"
+    },
+    {
+      "name": "Steven's Skarmory",
+      "set": "Destined Rivals",
+      "img": "https://den-cards.pokellector.com/412/Stevens-Skarmory.DRI.142.57404.png",
+      "rarity": "Common",
+      "cardNum": "142/182"
+    },
+    {
+      "name": "Steven's Beldum",
+      "set": "Destined Rivals",
+      "img": "https://den-cards.pokellector.com/412/Stevens-Beldum.DRI.143.57405.png",
+      "rarity": "Common",
+      "cardNum": "143/182"
+    },
+    {
+      "name": "Steven's Metang",
+      "set": "Destined Rivals",
+      "img": "https://den-cards.pokellector.com/412/Stevens-Metang.DRI.144.57406.png",
+      "rarity": "Uncommon",
+      "cardNum": "144/182"
+    },
+    {
+      "name": "Steven's Metagross ex",
+      "set": "Destined Rivals",
+      "img": "https://den-cards.pokellector.com/412/Stevens-Metagross-ex.DRI.145.57407.png",
+      "rarity": "Double Rare",
+      "cardNum": "145/182"
+    },
+    {
+      "name": "Zamazenta",
+      "set": "Destined Rivals",
+      "img": "https://den-cards.pokellector.com/412/Zamazenta.DRI.146.57408.png",
+      "rarity": "Rare",
+      "cardNum": "146/182"
+    },
+    {
+      "name": "Team Rocket's Rattata",
+      "set": "Destined Rivals",
+      "img": "https://den-cards.pokellector.com/412/Team-Rockets-Rattata.DRI.147.57409.png",
+      "rarity": "Common",
+      "cardNum": "147/182"
+    },
+    {
+      "name": "Team Rocket's Raticate",
+      "set": "Destined Rivals",
+      "img": "https://den-cards.pokellector.com/412/Team-Rockets-Raticate.DRI.148.57410.png",
+      "rarity": "Common",
+      "cardNum": "148/182"
+    },
+    {
+      "name": "Team Rocket's Meowth",
+      "set": "Destined Rivals",
+      "img": "https://den-cards.pokellector.com/412/Team-Rockets-Meowth.DRI.149.57411.png",
+      "rarity": "Common",
+      "cardNum": "149/182"
+    },
+    {
+      "name": "Team Rocket's Persian ex",
+      "set": "Destined Rivals",
+      "img": "https://den-cards.pokellector.com/412/Team-Rockets-Persian-ex.DRI.150.57412.png",
+      "rarity": "Double Rare",
+      "cardNum": "150/182"
+    },
+    {
+      "name": "Kangaskhan",
+      "set": "Destined Rivals",
+      "img": "https://den-cards.pokellector.com/412/Kangaskhan.DRI.151.57413.png",
+      "rarity": "Common",
+      "cardNum": "151/182"
+    },
+    {
+      "name": "Tauros",
+      "set": "Destined Rivals",
+      "img": "https://den-cards.pokellector.com/412/Tauros.DRI.152.57414.png",
+      "rarity": "Common",
+      "cardNum": "152/182"
+    },
+    {
+      "name": "Team Rocket's Porygon",
+      "set": "Destined Rivals",
+      "img": "https://den-cards.pokellector.com/412/Team-Rockets-Porygon.DRI.153.57415.png",
+      "rarity": "Common",
+      "cardNum": "153/182"
+    },
+    {
+      "name": "Team Rocket's Porygon2",
+      "set": "Destined Rivals",
+      "img": "https://den-cards.pokellector.com/412/Team-Rockets-Porygon2.DRI.154.57416.png",
+      "rarity": "Common",
+      "cardNum": "154/182"
+    },
+    {
+      "name": "Team Rocket's Porygon-Z",
+      "set": "Destined Rivals",
+      "img": "https://den-cards.pokellector.com/412/Team-Rockets-Porygon-Z.DRI.155.57417.png",
+      "rarity": "Uncommon",
+      "cardNum": "155/182"
+    },
+    {
+      "name": "Taillow",
+      "set": "Destined Rivals",
+      "img": "https://den-cards.pokellector.com/412/Taillow.DRI.156.57418.png",
+      "rarity": "Common",
+      "cardNum": "156/182"
+    },
+    {
+      "name": "Swellow",
+      "set": "Destined Rivals",
+      "img": "https://den-cards.pokellector.com/412/Swellow.DRI.157.57419.png",
+      "rarity": "Common",
+      "cardNum": "157/182"
+    },
+    {
+      "name": "Arven's Skwovet",
+      "set": "Destined Rivals",
+      "img": "https://den-cards.pokellector.com/412/Arvens-Skwovet.DRI.158.57420.png",
+      "rarity": "Common",
+      "cardNum": "158/182"
+    },
+    {
+      "name": "Arven's Greedent",
+      "set": "Destined Rivals",
+      "img": "https://den-cards.pokellector.com/412/Arvens-Greedent.DRI.159.57421.png",
+      "rarity": "Rare",
+      "cardNum": "159/182"
+    },
+    {
+      "name": "Squawkabilly",
+      "set": "Destined Rivals",
+      "img": "https://den-cards.pokellector.com/412/Squawkabilly.DRI.160.57422.png",
+      "rarity": "Common",
+      "cardNum": "160/182"
+    },
+    {
+      "name": "Arven's Sandwich",
+      "set": "Destined Rivals",
+      "img": "https://den-cards.pokellector.com/412/Arvens-Sandwich.DRI.161.57423.png",
+      "rarity": "Uncommon",
+      "cardNum": "161/182"
+    },
+    {
+      "name": "Cynthia's Power Weight",
+      "set": "Destined Rivals",
+      "img": "https://den-cards.pokellector.com/412/Cynthias-Power-Weight.DRI.162.57424.png",
+      "rarity": "Uncommon",
+      "cardNum": "162/182"
+    },
+    {
+      "name": "Emcee's Hype",
+      "set": "Destined Rivals",
+      "img": "https://den-cards.pokellector.com/412/Emcees-Hype.DRI.163.57425.png",
+      "rarity": "Common",
+      "cardNum": "163/182"
+    },
+    {
+      "name": "Energy Recycler",
+      "set": "Destined Rivals",
+      "img": "https://den-cards.pokellector.com/412/Energy-Recycler.DRI.164.57426.png",
+      "rarity": "Uncommon",
+      "cardNum": "164/182"
+    },
+    {
+      "name": "Ethan's Adventure",
+      "set": "Destined Rivals",
+      "img": "https://den-cards.pokellector.com/412/Ethans-Adventure.DRI.165.57427.png",
+      "rarity": "Uncommon",
+      "cardNum": "165/182"
+    },
+    {
+      "name": "Granite Cave",
+      "set": "Destined Rivals",
+      "img": "https://den-cards.pokellector.com/412/Granite-Cave.DRI.166.57428.png",
+      "rarity": "Uncommon",
+      "cardNum": "166/182"
+    },
+    {
+      "name": "Judge",
+      "set": "Destined Rivals",
+      "img": "https://den-cards.pokellector.com/412/Judge.DRI.167.57429.png",
+      "rarity": "Uncommon",
+      "cardNum": "167/182"
+    },
+    {
+      "name": "Sacred Ash",
+      "set": "Destined Rivals",
+      "img": "https://den-cards.pokellector.com/412/Sacred-Ash.DRI.168.57430.png",
+      "rarity": "Uncommon",
+      "cardNum": "168/182"
+    },
+    {
+      "name": "Spikemuth Gym",
+      "set": "Destined Rivals",
+      "img": "https://den-cards.pokellector.com/412/Spikemuth-Gym.DRI.169.57431.png",
+      "rarity": "Uncommon",
+      "cardNum": "169/182"
+    },
+    {
+      "name": "Team Rocket's Archer",
+      "set": "Destined Rivals",
+      "img": "https://den-cards.pokellector.com/412/Team-Rockets-Archer.DRI.170.57432.png",
+      "rarity": "Uncommon",
+      "cardNum": "170/182"
+    },
+    {
+      "name": "Team Rocket's Ariana",
+      "set": "Destined Rivals",
+      "img": "https://den-cards.pokellector.com/412/Team-Rockets-Ariana.DRI.171.57433.png",
+      "rarity": "Uncommon",
+      "cardNum": "171/182"
+    },
+    {
+      "name": "Team Rocket's Bother-Bot",
+      "set": "Destined Rivals",
+      "img": "https://den-cards.pokellector.com/412/Team-Rockets-Bother-Bot.DRI.172.57434.png",
+      "rarity": "Uncommon",
+      "cardNum": "172/182"
+    },
+    {
+      "name": "Team Rocket's Factory",
+      "set": "Destined Rivals",
+      "img": "https://den-cards.pokellector.com/412/Team-Rockets-Factory.DRI.173.57435.png",
+      "rarity": "Uncommon",
+      "cardNum": "173/182"
+    },
+    {
+      "name": "Team Rocket's Giovanni",
+      "set": "Destined Rivals",
+      "img": "https://den-cards.pokellector.com/412/Team-Rockets-Giovanni.DRI.174.57436.png",
+      "rarity": "Uncommon",
+      "cardNum": "174/182"
+    },
+    {
+      "name": "Team Rocket's Great Ball",
+      "set": "Destined Rivals",
+      "img": "https://den-cards.pokellector.com/412/Team-Rockets-Great-Ball.DRI.175.57437.png",
+      "rarity": "Uncommon",
+      "cardNum": "175/182"
+    },
+    {
+      "name": "Team Rocket's Petrel",
+      "set": "Destined Rivals",
+      "img": "https://den-cards.pokellector.com/412/Team-Rockets-Petrel.DRI.176.57438.png",
+      "rarity": "Uncommon",
+      "cardNum": "176/182"
+    },
+    {
+      "name": "Team Rocket's Proton",
+      "set": "Destined Rivals",
+      "img": "https://den-cards.pokellector.com/412/Team-Rockets-Proton.DRI.177.57439.png",
+      "rarity": "Uncommon",
+      "cardNum": "177/182"
+    },
+    {
+      "name": "Team Rocket's Transceiver",
+      "set": "Destined Rivals",
+      "img": "https://den-cards.pokellector.com/412/Team-Rockets-Transceiver.DRI.178.57440.png",
+      "rarity": "Uncommon",
+      "cardNum": "178/182"
+    },
+    {
+      "name": "Team Rocket's Venture Bomb",
+      "set": "Destined Rivals",
+      "img": "https://den-cards.pokellector.com/412/Team-Rockets-Venture-Bomb.DRI.179.57441.png",
+      "rarity": "Uncommon",
+      "cardNum": "179/182"
+    },
+    {
+      "name": "Team Rocket's Watchtower",
+      "set": "Destined Rivals",
+      "img": "https://den-cards.pokellector.com/412/Team-Rockets-Watchtower.DRI.180.57442.png",
+      "rarity": "Uncommon",
+      "cardNum": "180/182"
+    },
+    {
+      "name": "TM Machine",
+      "set": "Destined Rivals",
+      "img": "https://den-cards.pokellector.com/412/TM-Machine.DRI.181.57443.png",
+      "rarity": "Uncommon",
+      "cardNum": "181/182"
+    },
+    {
+      "name": "Team Rocket's Energy",
+      "set": "Destined Rivals",
+      "img": "https://den-cards.pokellector.com/412/Team-Rockets-Energy.DRI.182.57444.png",
+      "rarity": "Uncommon",
+      "cardNum": "182/182"
+    },
+    {
+      "name": "Yanma",
+      "set": "Destined Rivals",
+      "img": "https://den-cards.pokellector.com/412/Yanma.DRI.183.57445.png",
+      "rarity": "Illustration Rare",
+      "cardNum": "183/182"
+    },
+    {
+      "name": "Cynthia's Roserade",
+      "set": "Destined Rivals",
+      "img": "https://den-cards.pokellector.com/412/Cynthias-Roserade.DRI.184.57446.png",
+      "rarity": "Illustration Rare",
+      "cardNum": "184/182"
+    },
+    {
+      "name": "Shaymin",
+      "set": "Destined Rivals",
+      "img": "https://den-cards.pokellector.com/412/Shaymin.DRI.185.57447.png",
+      "rarity": "Illustration Rare",
+      "cardNum": "185/182"
+    },
+    {
+      "name": "Crustle",
+      "set": "Destined Rivals",
+      "img": "https://den-cards.pokellector.com/412/Crustle.DRI.186.57448.png",
+      "rarity": "Illustration Rare",
+      "cardNum": "186/182"
+    },
+    {
+      "name": "Team Rocket's Spidops",
+      "set": "Destined Rivals",
+      "img": "https://den-cards.pokellector.com/412/Team-Rockets-Spidops.DRI.187.57449.png",
+      "rarity": "Illustration Rare",
+      "cardNum": "187/182"
+    },
+    {
+      "name": "Hydrapple",
+      "set": "Destined Rivals",
+      "img": "https://den-cards.pokellector.com/412/Hydrapple.DRI.188.57450.png",
+      "rarity": "Illustration Rare",
+      "cardNum": "188/182"
+    },
+    {
+      "name": "Rapidash",
+      "set": "Destined Rivals",
+      "img": "https://den-cards.pokellector.com/412/Rapidash.DRI.189.57451.png",
+      "rarity": "Illustration Rare",
+      "cardNum": "189/182"
+    },
+    {
+      "name": "Ethan's Typhlosion",
+      "set": "Destined Rivals",
+      "img": "https://den-cards.pokellector.com/412/Ethans-Typhlosion.DRI.190.57452.png",
+      "rarity": "Illustration Rare",
+      "cardNum": "190/182"
+    },
+    {
+      "name": "Team Rocket's Houndoom",
+      "set": "Destined Rivals",
+      "img": "https://den-cards.pokellector.com/412/Team-Rockets-Houndoom.DRI.191.57453.png",
+      "rarity": "Illustration Rare",
+      "cardNum": "191/182"
+    },
+    {
+      "name": "Blaziken",
+      "set": "Destined Rivals",
+      "img": "https://den-cards.pokellector.com/412/Blaziken.DRI.192.57454.png",
+      "rarity": "Illustration Rare",
+      "cardNum": "192/182"
+    },
+    {
+      "name": "Misty's Psyduck",
+      "set": "Destined Rivals",
+      "img": "https://den-cards.pokellector.com/412/Mistys-Psyduck.DRI.193.57235.png",
+      "rarity": "Illustration Rare",
+      "cardNum": "193/182"
+    },
+    {
+      "name": "Misty's Lapras",
+      "set": "Destined Rivals",
+      "img": "https://den-cards.pokellector.com/412/Mistys-Lapras.DRI.194.57455.png",
+      "rarity": "Illustration Rare",
+      "cardNum": "194/182"
+    },
+    {
+      "name": "Clamperl",
+      "set": "Destined Rivals",
+      "img": "https://den-cards.pokellector.com/412/Clamperl.DRI.195.57456.png",
+      "rarity": "Illustration Rare",
+      "cardNum": "195/182"
+    },
+    {
+      "name": "Electrike",
+      "set": "Destined Rivals",
+      "img": "https://den-cards.pokellector.com/412/Electrike.DRI.196.57457.png",
+      "rarity": "Illustration Rare",
+      "cardNum": "196/182"
+    },
+    {
+      "name": "Rotom",
+      "set": "Destined Rivals",
+      "img": "https://den-cards.pokellector.com/412/Rotom.DRI.197.57458.png",
+      "rarity": "Illustration Rare",
+      "cardNum": "197/182"
+    },
+    {
+      "name": "Team Rocket's Orbeetle",
+      "set": "Destined Rivals",
+      "img": "https://den-cards.pokellector.com/412/Team-Rockets-Orbeetle.DRI.198.57253.png",
+      "rarity": "Illustration Rare",
+      "cardNum": "198/182"
+    },
+    {
+      "name": "Team Rocket's Weezing",
+      "set": "Destined Rivals",
+      "img": "https://den-cards.pokellector.com/412/Team-Rockets-Weezing.DRI.199.57459.png",
+      "rarity": "Illustration Rare",
+      "cardNum": "199/182"
+    },
+    {
+      "name": "Team Rocket's Murkrow",
+      "set": "Destined Rivals",
+      "img": "https://den-cards.pokellector.com/412/Team-Rockets-Murkrow.DRI.200.57460.png",
+      "rarity": "Illustration Rare",
+      "cardNum": "200/182"
+    },
+    {
+      "name": "Zamazenta",
+      "set": "Destined Rivals",
+      "img": "https://den-cards.pokellector.com/412/Zamazenta.DRI.201.57461.png",
+      "rarity": "Illustration Rare",
+      "cardNum": "201/182"
+    },
+    {
+      "name": "Team Rocket's Raticate",
+      "set": "Destined Rivals",
+      "img": "https://den-cards.pokellector.com/412/Team-Rockets-Raticate.DRI.202.57462.png",
+      "rarity": "Illustration Rare",
+      "cardNum": "202/182"
+    },
+    {
+      "name": "Team Rocket's Meowth",
+      "set": "Destined Rivals",
+      "img": "https://den-cards.pokellector.com/412/Team-Rockets-Meowth.DRI.203.57242.png",
+      "rarity": "Illustration Rare",
+      "cardNum": "203/182"
+    },
+    {
+      "name": "Kangaskhan",
+      "set": "Destined Rivals",
+      "img": "https://den-cards.pokellector.com/412/Kangaskhan.DRI.204.56864.png",
+      "rarity": "Illustration Rare",
+      "cardNum": "204/182"
+    },
+    {
+      "name": "Arven's Greedent",
+      "set": "Destined Rivals",
+      "img": "https://den-cards.pokellector.com/412/Arvens-Greedent.DRI.205.57463.png",
+      "rarity": "Illustration Rare",
+      "cardNum": "205/182"
+    },
+    {
+      "name": "Yanmega ex",
+      "set": "Destined Rivals",
+      "img": "https://den-cards.pokellector.com/412/Yanmega-ex.DRI.206.57464.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "206/182"
+    },
+    {
+      "name": "Arboliva ex",
+      "set": "Destined Rivals",
+      "img": "https://den-cards.pokellector.com/412/Arboliva-ex.DRI.207.57465.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "207/182"
+    },
+    {
+      "name": "Team Rocket's Moltres ex",
+      "set": "Destined Rivals",
+      "img": "https://den-cards.pokellector.com/412/Team-Rockets-Moltres-ex.DRI.208.57466.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "208/182"
+    },
+    {
+      "name": "Ethan's Ho-Oh ex",
+      "set": "Destined Rivals",
+      "img": "https://den-cards.pokellector.com/412/Ethans-Ho-Oh-ex.DRI.209.57233.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "209/182"
+    },
+    {
+      "name": "Cetitan ex",
+      "set": "Destined Rivals",
+      "img": "https://den-cards.pokellector.com/412/Cetitan-ex.DRI.210.57467.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "210/182"
+    },
+    {
+      "name": "Dondozo ex",
+      "set": "Destined Rivals",
+      "img": "https://den-cards.pokellector.com/412/Dondozo-ex.DRI.211.57468.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "211/182"
+    },
+    {
+      "name": "Electivire ex",
+      "set": "Destined Rivals",
+      "img": "https://den-cards.pokellector.com/412/Electivire-ex.DRI.212.57469.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "212/182"
+    },
+    {
+      "name": "Team Rocket's Mewtwo ex",
+      "set": "Destined Rivals",
+      "img": "https://den-cards.pokellector.com/412/Team-Rockets-Mewtwo-ex.DRI.213.57470.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "213/182"
+    },
+    {
+      "name": "Regirock ex",
+      "set": "Destined Rivals",
+      "img": "https://den-cards.pokellector.com/412/Regirock-ex.DRI.214.57471.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "214/182"
+    },
+    {
+      "name": "Cynthia's Garchomp ex",
+      "set": "Destined Rivals",
+      "img": "https://den-cards.pokellector.com/412/Cynthias-Garchomp-ex.DRI.215.57472.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "215/182"
+    },
+    {
+      "name": "Team Rocket's Nidoking ex",
+      "set": "Destined Rivals",
+      "img": "https://den-cards.pokellector.com/412/Team-Rockets-Nidoking-ex.DRI.216.57473.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "216/182"
+    },
+    {
+      "name": "Team Rocket's Crobat ex",
+      "set": "Destined Rivals",
+      "img": "https://den-cards.pokellector.com/412/Team-Rockets-Crobat-ex.DRI.217.57474.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "217/182"
+    },
+    {
+      "name": "Arven's Mabosstiff ex",
+      "set": "Destined Rivals",
+      "img": "https://den-cards.pokellector.com/412/Arvens-Mabosstiff-ex.DRI.218.57475.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "218/182"
+    },
+    {
+      "name": "Team Rocket's Persian ex",
+      "set": "Destined Rivals",
+      "img": "https://den-cards.pokellector.com/412/Team-Rockets-Persian-ex.DRI.219.57476.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "219/182"
+    },
+    {
+      "name": "Emcee's Hype",
+      "set": "Destined Rivals",
+      "img": "https://den-cards.pokellector.com/412/Emcees-Hype.DRI.220.57477.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "220/182"
+    },
+    {
+      "name": "Ethan's Adventure",
+      "set": "Destined Rivals",
+      "img": "https://den-cards.pokellector.com/412/Ethans-Adventure.DRI.221.57478.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "221/182"
+    },
+    {
+      "name": "Judge",
+      "set": "Destined Rivals",
+      "img": "https://den-cards.pokellector.com/412/Judge.DRI.222.57479.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "222/182"
+    },
+    {
+      "name": "Team Rocket's Archer",
+      "set": "Destined Rivals",
+      "img": "https://den-cards.pokellector.com/412/Team-Rockets-Archer.DRI.223.57480.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "223/182"
+    },
+    {
+      "name": "Team Rocket's Ariana",
+      "set": "Destined Rivals",
+      "img": "https://den-cards.pokellector.com/412/Team-Rockets-Ariana.DRI.224.57481.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "224/182"
+    },
+    {
+      "name": "Team Rocket's Giovanni",
+      "set": "Destined Rivals",
+      "img": "https://den-cards.pokellector.com/412/Team-Rockets-Giovanni.DRI.225.57482.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "225/182"
+    },
+    {
+      "name": "Team Rocket's Petrel",
+      "set": "Destined Rivals",
+      "img": "https://den-cards.pokellector.com/412/Team-Rockets-Petrel.DRI.226.57483.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "226/182"
+    },
+    {
+      "name": "Team Rocket's Proton",
+      "set": "Destined Rivals",
+      "img": "https://den-cards.pokellector.com/412/Team-Rockets-Proton.DRI.227.57484.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "227/182"
+    },
+    {
+      "name": "Yanmega ex",
+      "set": "Destined Rivals",
+      "img": "https://den-cards.pokellector.com/412/Yanmega-ex.DRI.228.57485.png",
+      "rarity": "Special Illustration Rare",
+      "cardNum": "228/182"
+    },
+    {
+      "name": "Team Rocket's Moltres ex",
+      "set": "Destined Rivals",
+      "img": "https://den-cards.pokellector.com/412/Team-Rockets-Moltres-ex.DRI.229.57486.png",
+      "rarity": "Special Illustration Rare",
+      "cardNum": "229/182"
+    },
+    {
+      "name": "Ethan's Ho-Oh ex",
+      "set": "Destined Rivals",
+      "img": "https://den-cards.pokellector.com/412/Ethans-Ho-Oh-ex.DRI.230.57487.png",
+      "rarity": "Special Illustration Rare",
+      "cardNum": "230/182"
+    },
+    {
+      "name": "Team Rocket's Mewtwo ex",
+      "set": "Destined Rivals",
+      "img": "https://den-cards.pokellector.com/412/Team-Rockets-Mewtwo-ex.DRI.231.57254.png",
+      "rarity": "Illustration Rare",
+      "cardNum": "231/182"
+    },
+    {
+      "name": "Cynthia's Garchomp ex",
+      "set": "Destined Rivals",
+      "img": "https://den-cards.pokellector.com/412/Cynthias-Garchomp-ex.DRI.232.57234.png",
+      "rarity": "Special Illustration Rare",
+      "cardNum": "232/182"
+    },
+    {
+      "name": "Team Rocket's Nidoking ex",
+      "set": "Destined Rivals",
+      "img": "https://den-cards.pokellector.com/412/Team-Rockets-Nidoking-ex.DRI.233.57488.png",
+      "rarity": "Special Illustration Rare",
+      "cardNum": "233/182"
+    },
+    {
+      "name": "Team Rocket's Crobat ex",
+      "set": "Destined Rivals",
+      "img": "https://den-cards.pokellector.com/412/Team-Rockets-Crobat-ex.DRI.234.57243.png",
+      "rarity": "Special Illustration Rare",
+      "cardNum": "234/182"
+    },
+    {
+      "name": "Arven's Mabosstiff ex",
+      "set": "Destined Rivals",
+      "img": "https://den-cards.pokellector.com/412/Arvens-Mabosstiff-ex.DRI.235.57489.png",
+      "rarity": "Special Illustration Rare",
+      "cardNum": "235/182"
+    },
+    {
+      "name": "Ethan's Adventure",
+      "set": "Destined Rivals",
+      "img": "https://den-cards.pokellector.com/412/Ethans-Adventure.DRI.236.57490.png",
+      "rarity": "Special Illustration Rare",
+      "cardNum": "236/182"
+    },
+    {
+      "name": "Team Rocket's Ariana",
+      "set": "Destined Rivals",
+      "img": "https://den-cards.pokellector.com/412/Team-Rockets-Ariana.DRI.237.57491.png",
+      "rarity": "Special Illustration Rare",
+      "cardNum": "237/182"
+    },
+    {
+      "name": "Team Rocket's Giovanni",
+      "set": "Destined Rivals",
+      "img": "https://den-cards.pokellector.com/412/Team-Rockets-Giovanni.DRI.238.57492.png",
+      "rarity": "Special Illustration Rare",
+      "cardNum": "238/182"
+    },
+    {
+      "name": "Ethan's Ho-Oh ex",
+      "set": "Destined Rivals",
+      "img": "https://den-cards.pokellector.com/412/Ethans-Ho-Oh-ex.DRI.239.57493.png",
+      "rarity": "Hyper Rare",
+      "cardNum": "239/182"
+    },
+    {
+      "name": "Team Rocket's Mewtwo ex",
+      "set": "Destined Rivals",
+      "img": "https://den-cards.pokellector.com/412/Team-Rockets-Mewtwo-ex.DRI.240.57494.png",
+      "rarity": "Hyper Rare",
+      "cardNum": "240/182"
+    },
+    {
+      "name": "Cynthia's Garchomp ex",
+      "set": "Destined Rivals",
+      "img": "https://den-cards.pokellector.com/412/Cynthias-Garchomp-ex.DRI.241.57495.png",
+      "rarity": "Hyper Rare",
+      "cardNum": "241/182"
+    },
+    {
+      "name": "Team Rocket's Crobat ex",
+      "set": "Destined Rivals",
+      "img": "https://den-cards.pokellector.com/412/Team-Rockets-Crobat-ex.DRI.242.57496.png",
+      "rarity": "Hyper Rare",
+      "cardNum": "242/182"
+    },
+    {
+      "name": "Jamming Tower",
+      "set": "Destined Rivals",
+      "img": "https://den-cards.pokellector.com/412/Jamming-Tower.DRI.243.57497.png",
+      "rarity": "Hyper Rare",
+      "cardNum": "243/182"
+    },
+    {
+      "name": "Levincia",
+      "set": "Destined Rivals",
+      "img": "https://den-cards.pokellector.com/412/Levincia.DRI.244.57498.png",
+      "rarity": "Hyper Rare",
+      "cardNum": "244/182"
+    }
+  ]
+}

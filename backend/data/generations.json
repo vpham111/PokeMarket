@@ -1,0 +1,810 @@
+{
+  "setName": "Generations",
+  "cards": [
+    {
+      "name": "Venusaur EX",
+      "set": "Generations",
+      "img": "https://den-cards.pokellector.com/187/Venusaur-EX.GEN.1.png",
+      "rarity": "Rare",
+      "cardNum": "1/83"
+    },
+    {
+      "name": "M Venusaur EX",
+      "set": "Generations",
+      "img": "https://den-cards.pokellector.com/187/M-Venusaur-EX.GEN.2.png",
+      "rarity": "Rare",
+      "cardNum": "2/83"
+    },
+    {
+      "name": "Caterpie",
+      "set": "Generations",
+      "img": "https://den-cards.pokellector.com/187/Caterpie.GEN.3.png",
+      "rarity": "Common",
+      "cardNum": "3/83"
+    },
+    {
+      "name": "Metapod",
+      "set": "Generations",
+      "img": "https://den-cards.pokellector.com/187/Metapod.GEN.4.png",
+      "rarity": "Uncommon",
+      "cardNum": "4/83"
+    },
+    {
+      "name": "Butterfree",
+      "set": "Generations",
+      "img": "https://den-cards.pokellector.com/187/Butterfree.GEN.5.png",
+      "rarity": "Rare",
+      "cardNum": "5/83"
+    },
+    {
+      "name": "Paras",
+      "set": "Generations",
+      "img": "https://den-cards.pokellector.com/187/Paras.GEN.6.png",
+      "rarity": "Common",
+      "cardNum": "6/83"
+    },
+    {
+      "name": "Parasect",
+      "set": "Generations",
+      "img": "https://den-cards.pokellector.com/187/Parasect.GEN.7.png",
+      "rarity": "Rare",
+      "cardNum": "7/83"
+    },
+    {
+      "name": "Tangela",
+      "set": "Generations",
+      "img": "https://den-cards.pokellector.com/187/Tangela.GEN.8.png",
+      "rarity": "Common",
+      "cardNum": "8/83"
+    },
+    {
+      "name": "Pinsir",
+      "set": "Generations",
+      "img": "https://den-cards.pokellector.com/187/Pinsir.GEN.9.png",
+      "rarity": "Rare",
+      "cardNum": "9/83"
+    },
+    {
+      "name": "Leafeon EX",
+      "set": "Generations",
+      "img": "https://den-cards.pokellector.com/187/Leafeon-EX.GEN.10.png",
+      "rarity": "Rare",
+      "cardNum": "10/83"
+    },
+    {
+      "name": "Charizard EX",
+      "set": "Generations",
+      "img": "https://den-cards.pokellector.com/187/Charizard-EX.GEN.11.png",
+      "rarity": "Rare",
+      "cardNum": "11/83"
+    },
+    {
+      "name": "M Charizard EX",
+      "set": "Generations",
+      "img": "https://den-cards.pokellector.com/187/M-Charizard-EX.GEN.12.png",
+      "rarity": "Rare",
+      "cardNum": "12/83"
+    },
+    {
+      "name": "Ninetales EX",
+      "set": "Generations",
+      "img": "https://den-cards.pokellector.com/187/Ninetales-EX.GEN.13.png",
+      "rarity": "Rare",
+      "cardNum": "13/83"
+    },
+    {
+      "name": "Ponyta",
+      "set": "Generations",
+      "img": "https://den-cards.pokellector.com/187/Ponyta.GEN.14.png",
+      "rarity": "Common",
+      "cardNum": "14/83"
+    },
+    {
+      "name": "Rapidash",
+      "set": "Generations",
+      "img": "https://den-cards.pokellector.com/187/Rapidash.GEN.15.png",
+      "rarity": "Rare",
+      "cardNum": "15/83"
+    },
+    {
+      "name": "Magmar",
+      "set": "Generations",
+      "img": "https://den-cards.pokellector.com/187/Magmar.GEN.16.png",
+      "rarity": "Common",
+      "cardNum": "16/83"
+    },
+    {
+      "name": "Blastoise EX",
+      "set": "Generations",
+      "img": "https://den-cards.pokellector.com/187/Blastoise-EX.GEN.17.png",
+      "rarity": "Rare",
+      "cardNum": "17/83"
+    },
+    {
+      "name": "M Blastoise EX",
+      "set": "Generations",
+      "img": "https://den-cards.pokellector.com/187/M-Blastoise-EX.GEN.18.png",
+      "rarity": "Rare",
+      "cardNum": "18/83"
+    },
+    {
+      "name": "Shellder",
+      "set": "Generations",
+      "img": "https://den-cards.pokellector.com/187/Shellder.GEN.19.png",
+      "rarity": "Common",
+      "cardNum": "19/83"
+    },
+    {
+      "name": "Cloyster",
+      "set": "Generations",
+      "img": "https://den-cards.pokellector.com/187/Cloyster.GEN.20.png",
+      "rarity": "Uncommon",
+      "cardNum": "20/83"
+    },
+    {
+      "name": "Krabby",
+      "set": "Generations",
+      "img": "https://den-cards.pokellector.com/187/Krabby.GEN.21.png",
+      "rarity": "Common",
+      "cardNum": "21/83"
+    },
+    {
+      "name": "Magikarp",
+      "set": "Generations",
+      "img": "https://den-cards.pokellector.com/187/Magikarp.GEN.22.png",
+      "rarity": "Common",
+      "cardNum": "22/83"
+    },
+    {
+      "name": "Gyarados",
+      "set": "Generations",
+      "img": "https://den-cards.pokellector.com/187/Gyarados.GEN.23.png",
+      "rarity": "Rare",
+      "cardNum": "23/83"
+    },
+    {
+      "name": "Vaporeon EX",
+      "set": "Generations",
+      "img": "https://den-cards.pokellector.com/187/Vaporeon-EX.GEN.24.png",
+      "rarity": "Rare",
+      "cardNum": "24/83"
+    },
+    {
+      "name": "Articuno",
+      "set": "Generations",
+      "img": "https://den-cards.pokellector.com/187/Articuno.GEN.25.png",
+      "rarity": "Rare",
+      "cardNum": "25/83"
+    },
+    {
+      "name": "Pikachu",
+      "set": "Generations",
+      "img": "https://den-cards.pokellector.com/187/Pikachu.GEN.26.png",
+      "rarity": "Common",
+      "cardNum": "26/83"
+    },
+    {
+      "name": "Raichu",
+      "set": "Generations",
+      "img": "https://den-cards.pokellector.com/187/Raichu.GEN.27.png",
+      "rarity": "Rare",
+      "cardNum": "27/83"
+    },
+    {
+      "name": "Jolteon EX",
+      "set": "Generations",
+      "img": "https://den-cards.pokellector.com/187/Jolteon-EX.GEN.28.12166.png",
+      "rarity": "Rare",
+      "cardNum": "28/83"
+    },
+    {
+      "name": "Zapdos",
+      "set": "Generations",
+      "img": "https://den-cards.pokellector.com/187/Zapdos.GEN.29.png",
+      "rarity": "Rare",
+      "cardNum": "29/83"
+    },
+    {
+      "name": "Zubat",
+      "set": "Generations",
+      "img": "https://den-cards.pokellector.com/187/Zubat.GEN.30.png",
+      "rarity": "Common",
+      "cardNum": "30/83"
+    },
+    {
+      "name": "Golbat",
+      "set": "Generations",
+      "img": "https://den-cards.pokellector.com/187/Golbat.GEN.31.png",
+      "rarity": "Uncommon",
+      "cardNum": "31/83"
+    },
+    {
+      "name": "Slowpoke",
+      "set": "Generations",
+      "img": "https://den-cards.pokellector.com/187/Slowpoke.GEN.32.png",
+      "rarity": "Common",
+      "cardNum": "32/83"
+    },
+    {
+      "name": "Gastly",
+      "set": "Generations",
+      "img": "https://den-cards.pokellector.com/187/Gastly.GEN.33.png",
+      "rarity": "Common",
+      "cardNum": "33/83"
+    },
+    {
+      "name": "Haunter",
+      "set": "Generations",
+      "img": "https://den-cards.pokellector.com/187/Haunter.GEN.34.png",
+      "rarity": "Uncommon",
+      "cardNum": "34/83"
+    },
+    {
+      "name": "Gengar",
+      "set": "Generations",
+      "img": "https://den-cards.pokellector.com/187/Gengar.GEN.36.png",
+      "rarity": "Rare",
+      "cardNum": "35/83"
+    },
+    {
+      "name": "Jynx",
+      "set": "Generations",
+      "img": "https://den-cards.pokellector.com/187/Jynx.GEN.36.png",
+      "rarity": "Rare",
+      "cardNum": "36/83"
+    },
+    {
+      "name": "Meowstic EX",
+      "set": "Generations",
+      "img": "https://den-cards.pokellector.com/187/Meowstic-EX.GEN.37.png",
+      "rarity": "Rare",
+      "cardNum": "37/83"
+    },
+    {
+      "name": "Diglett",
+      "set": "Generations",
+      "img": "https://den-cards.pokellector.com/187/Diglett.GEN.38.png",
+      "rarity": "Common",
+      "cardNum": "38/83"
+    },
+    {
+      "name": "Dugtrio",
+      "set": "Generations",
+      "img": "https://den-cards.pokellector.com/187/Dugtrio.GEN.39.png",
+      "rarity": "Rare",
+      "cardNum": "39/83"
+    },
+    {
+      "name": "Machop",
+      "set": "Generations",
+      "img": "https://den-cards.pokellector.com/187/Machop.GEN.40.png",
+      "rarity": "Common",
+      "cardNum": "40/83"
+    },
+    {
+      "name": "Machoke",
+      "set": "Generations",
+      "img": "https://den-cards.pokellector.com/187/Machoke.GEN.41.12264.png",
+      "rarity": "Uncommon",
+      "cardNum": "41/83"
+    },
+    {
+      "name": "Machamp",
+      "set": "Generations",
+      "img": "https://den-cards.pokellector.com/187/Machamp.GEN.42.png",
+      "rarity": "Rare",
+      "cardNum": "42/83"
+    },
+    {
+      "name": "Geodude",
+      "set": "Generations",
+      "img": "https://den-cards.pokellector.com/187/Geodude.GEN.43.png",
+      "rarity": "Common",
+      "cardNum": "43/83"
+    },
+    {
+      "name": "Graveler",
+      "set": "Generations",
+      "img": "https://den-cards.pokellector.com/187/Graveler.GEN.44.png",
+      "rarity": "Uncommon",
+      "cardNum": "44/83"
+    },
+    {
+      "name": "Golem",
+      "set": "Generations",
+      "img": "https://den-cards.pokellector.com/187/Golem.GEN.45.png",
+      "rarity": "Rare",
+      "cardNum": "45/83"
+    },
+    {
+      "name": "Golem EX",
+      "set": "Generations",
+      "img": "https://den-cards.pokellector.com/187/Golem-EX.GEN.46.png",
+      "rarity": "Rare",
+      "cardNum": "46/83"
+    },
+    {
+      "name": "Hitmonlee",
+      "set": "Generations",
+      "img": "https://den-cards.pokellector.com/187/Hitmonlee.GEN.47.png",
+      "rarity": "Rare",
+      "cardNum": "47/83"
+    },
+    {
+      "name": "Hitmonchan",
+      "set": "Generations",
+      "img": "https://den-cards.pokellector.com/187/Hitmonchan.GEN.48.png",
+      "rarity": "Rare",
+      "cardNum": "48/83"
+    },
+    {
+      "name": "Rhyhorn",
+      "set": "Generations",
+      "img": "https://den-cards.pokellector.com/187/Rhyhorn.GEN.49.png",
+      "rarity": "Common",
+      "cardNum": "49/83"
+    },
+    {
+      "name": "Clefairy",
+      "set": "Generations",
+      "img": "https://den-cards.pokellector.com/187/Clefairy.GEN.50.png",
+      "rarity": "Common",
+      "cardNum": "50/83"
+    },
+    {
+      "name": "Clefable",
+      "set": "Generations",
+      "img": "https://den-cards.pokellector.com/187/Clefable.GEN.51.png",
+      "rarity": "Uncommon",
+      "cardNum": "51/83"
+    },
+    {
+      "name": "Mr. Mime",
+      "set": "Generations",
+      "img": "https://den-cards.pokellector.com/187/Mr-Mime.GEN.52.png",
+      "rarity": "Uncommon",
+      "cardNum": "52/83"
+    },
+    {
+      "name": "Meowth",
+      "set": "Generations",
+      "img": "https://den-cards.pokellector.com/187/Meowth.GEN.53.12267.png",
+      "rarity": "Common",
+      "cardNum": "53/83"
+    },
+    {
+      "name": "Persian",
+      "set": "Generations",
+      "img": "https://den-cards.pokellector.com/187/Persian.GEN.54.png",
+      "rarity": "Uncommon",
+      "cardNum": "54/83"
+    },
+    {
+      "name": "Doduo",
+      "set": "Generations",
+      "img": "https://den-cards.pokellector.com/187/Doduo.GEN.55.png",
+      "rarity": "Common",
+      "cardNum": "55/83"
+    },
+    {
+      "name": "Dodrio",
+      "set": "Generations",
+      "img": "https://den-cards.pokellector.com/187/Dodrio.GEN.56.png",
+      "rarity": "Rare",
+      "cardNum": "56/83"
+    },
+    {
+      "name": "Tauros",
+      "set": "Generations",
+      "img": "https://den-cards.pokellector.com/187/Tauros.GEN.57.png",
+      "rarity": "Rare",
+      "cardNum": "57/83"
+    },
+    {
+      "name": "Snorlax",
+      "set": "Generations",
+      "img": "https://den-cards.pokellector.com/187/Snorlax.GEN.58.png",
+      "rarity": "Rare",
+      "cardNum": "58/83"
+    },
+    {
+      "name": "Clemont",
+      "set": "Generations",
+      "img": "https://den-cards.pokellector.com/187/Clemont.GEN.59.png",
+      "rarity": "Uncommon",
+      "cardNum": "59/83"
+    },
+    {
+      "name": "Crushing Hammer",
+      "set": "Generations",
+      "img": "https://den-cards.pokellector.com/187/Crushing-Hammer.GEN.60.png",
+      "rarity": "Uncommon",
+      "cardNum": "60/83"
+    },
+    {
+      "name": "Energy Switch",
+      "set": "Generations",
+      "img": "https://den-cards.pokellector.com/187/Energy-Switch.GEN.61.png",
+      "rarity": "Uncommon",
+      "cardNum": "61/83"
+    },
+    {
+      "name": "Evosoda",
+      "set": "Generations",
+      "img": "https://den-cards.pokellector.com/187/Evosoda.GEN.62.png",
+      "rarity": "Uncommon",
+      "cardNum": "62/83"
+    },
+    {
+      "name": "Imakuni?",
+      "set": "Generations",
+      "img": "https://den-cards.pokellector.com/187/Imakuni.GEN.63.png",
+      "rarity": "Uncommon",
+      "cardNum": "63/83"
+    },
+    {
+      "name": "Maintenance",
+      "set": "Generations",
+      "img": "https://den-cards.pokellector.com/187/Maintenance.GEN.64.png",
+      "rarity": "Uncommon",
+      "cardNum": "64/83"
+    },
+    {
+      "name": "Max Revive",
+      "set": "Generations",
+      "img": "https://den-cards.pokellector.com/187/Max-Revive.GEN.65.png",
+      "rarity": "Uncommon",
+      "cardNum": "65/83"
+    },
+    {
+      "name": "Olympia",
+      "set": "Generations",
+      "img": "https://den-cards.pokellector.com/187/Olympia.GEN.66.png",
+      "rarity": "Uncommon",
+      "cardNum": "66/83"
+    },
+    {
+      "name": "Poke ball",
+      "set": "Generations",
+      "img": "https://den-cards.pokellector.com/187/Pokeball.GEN.67.png",
+      "rarity": "Common",
+      "cardNum": "67/83"
+    },
+    {
+      "name": "Pokemon Center Lady",
+      "set": "Generations",
+      "img": "https://den-cards.pokellector.com/187/Pokemon-Center-Lady.GEN.68.png",
+      "rarity": "Uncommon",
+      "cardNum": "68/83"
+    },
+    {
+      "name": "Pokemon Fan Club",
+      "set": "Generations",
+      "img": "https://den-cards.pokellector.com/187/Pokemon-Fan-Club.GEN.69.png",
+      "rarity": "Uncommon",
+      "cardNum": "69/83"
+    },
+    {
+      "name": "Revitalizer",
+      "set": "Generations",
+      "img": "https://den-cards.pokellector.com/187/Revitalizer.GEN.70.png",
+      "rarity": "Uncommon",
+      "cardNum": "70/83"
+    },
+    {
+      "name": "Red Card",
+      "set": "Generations",
+      "img": "https://den-cards.pokellector.com/187/Red-Card.GEN.71.png",
+      "rarity": "Uncommon",
+      "cardNum": "71/83"
+    },
+    {
+      "name": "Shauna",
+      "set": "Generations",
+      "img": "https://den-cards.pokellector.com/187/Shauna.GEN.72.png",
+      "rarity": "Uncommon",
+      "cardNum": "72/83"
+    },
+    {
+      "name": "Team Flare Grunt",
+      "set": "Generations",
+      "img": "https://den-cards.pokellector.com/187/Team-Flare-Grunt.GEN.73.png",
+      "rarity": "Uncommon",
+      "cardNum": "73/83"
+    },
+    {
+      "name": "Double Colorless Energy",
+      "set": "Generations",
+      "img": "https://den-cards.pokellector.com/187/Double-Colorless-Energy.GEN.74.png",
+      "rarity": "Uncommon",
+      "cardNum": "74/83"
+    },
+    {
+      "name": "Grass Energy",
+      "set": "Generations",
+      "img": "https://den-cards.pokellector.com/187/Grass-Energy.GEN.75.png",
+      "rarity": "Common",
+      "cardNum": "75/83"
+    },
+    {
+      "name": "Fire Energy",
+      "set": "Generations",
+      "img": "https://den-cards.pokellector.com/187/Fire-Energy.GEN.76.png",
+      "rarity": "Common",
+      "cardNum": "76/83"
+    },
+    {
+      "name": "Water Energy",
+      "set": "Generations",
+      "img": "https://den-cards.pokellector.com/187/Water-Energy.GEN.77.png",
+      "rarity": "Common",
+      "cardNum": "77/83"
+    },
+    {
+      "name": "Electric Energy",
+      "set": "Generations",
+      "img": "https://den-cards.pokellector.com/187/Electric-Energy.GEN.78.png",
+      "rarity": "Common",
+      "cardNum": "78/83"
+    },
+    {
+      "name": "Psychic Energy",
+      "set": "Generations",
+      "img": "https://den-cards.pokellector.com/187/Psychic-Energy.GEN.79.png",
+      "rarity": "Common",
+      "cardNum": "79/83"
+    },
+    {
+      "name": "Fighting Energy",
+      "set": "Generations",
+      "img": "https://den-cards.pokellector.com/187/Fighting-Energy.GEN.80.png",
+      "rarity": "Common",
+      "cardNum": "80/83"
+    },
+    {
+      "name": "Dark Energy",
+      "set": "Generations",
+      "img": "https://den-cards.pokellector.com/187/Dark-Energy.GEN.81.png",
+      "rarity": "Common",
+      "cardNum": "81/83"
+    },
+    {
+      "name": "Steel Energy",
+      "set": "Generations",
+      "img": "https://den-cards.pokellector.com/187/Steel-Energy.GEN.82.png",
+      "rarity": "Common",
+      "cardNum": "82/83"
+    },
+    {
+      "name": "Fairy Energy",
+      "set": "Generations",
+      "img": "https://den-cards.pokellector.com/187/Fairy-Energy.GEN.83.png",
+      "rarity": "Common",
+      "cardNum": "83/83"
+    },
+    {
+      "name": "Chikorita",
+      "set": "Generations",
+      "img": "https://den-cards.pokellector.com/187/Chikorita.GEN.RC1.png",
+      "rarity": "Common",
+      "cardNum": "RC1"
+    },
+    {
+      "name": "Shroomish",
+      "set": "Generations",
+      "img": "https://den-cards.pokellector.com/187/Shroomish.GEN.RC2.png",
+      "rarity": "Common",
+      "cardNum": "RC2"
+    },
+    {
+      "name": "Charmander",
+      "set": "Generations",
+      "img": "https://den-cards.pokellector.com/187/Charmander.GEN.RC3.png",
+      "rarity": "Common",
+      "cardNum": "RC3"
+    },
+    {
+      "name": "Charmeleon",
+      "set": "Generations",
+      "img": "https://den-cards.pokellector.com/187/Charmeleon.GEN.RC4.png",
+      "rarity": "Common",
+      "cardNum": "RC4"
+    },
+    {
+      "name": "Charizard",
+      "set": "Generations",
+      "img": "https://den-cards.pokellector.com/187/Charizard.GEN.RC5.png",
+      "rarity": "Uncommon",
+      "cardNum": "RC5"
+    },
+    {
+      "name": "Flareon EX",
+      "set": "Generations",
+      "img": "https://den-cards.pokellector.com/187/Flareon-EX.GEN.RC6.png",
+      "rarity": "Rare",
+      "cardNum": "RC6"
+    },
+    {
+      "name": "Snorunt",
+      "set": "Generations",
+      "img": "https://den-cards.pokellector.com/187/Snorunt.GEN.RC7.png",
+      "rarity": "Common",
+      "cardNum": "RC7"
+    },
+    {
+      "name": "Froslass",
+      "set": "Generations",
+      "img": "https://den-cards.pokellector.com/187/Froslass.GEN.RC8.png",
+      "rarity": "Uncommon",
+      "cardNum": "RC8"
+    },
+    {
+      "name": "Raichu",
+      "set": "Generations",
+      "img": "https://den-cards.pokellector.com/187/Raichu.GEN.RC9.png",
+      "rarity": "Common",
+      "cardNum": "RC9"
+    },
+    {
+      "name": "Dedenne",
+      "set": "Generations",
+      "img": "https://den-cards.pokellector.com/187/Dedenne.GEN.RC10.png",
+      "rarity": "Uncommon",
+      "cardNum": "RC10"
+    },
+    {
+      "name": "Wobbuffet",
+      "set": "Generations",
+      "img": "https://den-cards.pokellector.com/187/Wobbuffet.GEN.RC11.png",
+      "rarity": "Common",
+      "cardNum": "RC11"
+    },
+    {
+      "name": "Gulpin",
+      "set": "Generations",
+      "img": "https://den-cards.pokellector.com/187/Gulpin.GEN.RC12.png",
+      "rarity": "Common",
+      "cardNum": "RC12"
+    },
+    {
+      "name": "Jirachi",
+      "set": "Generations",
+      "img": "https://den-cards.pokellector.com/187/Jirachi.GEN.RC13.png",
+      "rarity": "Uncommon",
+      "cardNum": "RC13"
+    },
+    {
+      "name": "Espurr",
+      "set": "Generations",
+      "img": "https://den-cards.pokellector.com/187/Espurr.GEN.RC14.png",
+      "rarity": "Common",
+      "cardNum": "RC14"
+    },
+    {
+      "name": "Meowstic",
+      "set": "Generations",
+      "img": "https://den-cards.pokellector.com/187/Meowstic.GEN.RC15.png",
+      "rarity": "Uncommon",
+      "cardNum": "RC15"
+    },
+    {
+      "name": "Yveltal",
+      "set": "Generations",
+      "img": "https://den-cards.pokellector.com/187/Yveltal.GEN.RC16.png",
+      "rarity": "Uncommon",
+      "cardNum": "RC16"
+    },
+    {
+      "name": "Flabebe",
+      "set": "Generations",
+      "img": "https://den-cards.pokellector.com/187/Flabebe.GEN.RC17.png",
+      "rarity": "Common",
+      "cardNum": "RC17"
+    },
+    {
+      "name": "Floette",
+      "set": "Generations",
+      "img": "https://den-cards.pokellector.com/187/Floette.GEN.RC18.png",
+      "rarity": "Uncommon",
+      "cardNum": "RC18"
+    },
+    {
+      "name": "Swirlix",
+      "set": "Generations",
+      "img": "https://den-cards.pokellector.com/187/Swirlix.GEN.RC19.png",
+      "rarity": "Uncommon",
+      "cardNum": "RC19"
+    },
+    {
+      "name": "Slurpuff",
+      "set": "Generations",
+      "img": "https://den-cards.pokellector.com/187/Slurpuff.GEN.RC20.png",
+      "rarity": "Uncommon",
+      "cardNum": "RC20"
+    },
+    {
+      "name": "Sylveon EX",
+      "set": "Generations",
+      "img": "https://den-cards.pokellector.com/187/Sylveon-EX.GEN.RC21.png",
+      "rarity": "Rare",
+      "cardNum": "RC21"
+    },
+    {
+      "name": "Diancie",
+      "set": "Generations",
+      "img": "https://den-cards.pokellector.com/187/Diancie.GEN.RC22.png",
+      "rarity": "Uncommon",
+      "cardNum": "RC22"
+    },
+    {
+      "name": "Swablu",
+      "set": "Generations",
+      "img": "https://den-cards.pokellector.com/187/Swablu.GEN.RC23.png",
+      "rarity": "Common",
+      "cardNum": "RC23"
+    },
+    {
+      "name": "Altaria",
+      "set": "Generations",
+      "img": "https://den-cards.pokellector.com/187/Altaria.GEN.RC24.png",
+      "rarity": "Uncommon",
+      "cardNum": "RC24"
+    },
+    {
+      "name": "Fletchling",
+      "set": "Generations",
+      "img": "https://den-cards.pokellector.com/187/Fletchling.GEN.RC25.png",
+      "rarity": "Common",
+      "cardNum": "RC25"
+    },
+    {
+      "name": "Floral Crown",
+      "set": "Generations",
+      "img": "https://den-cards.pokellector.com/187/Floral-Crown.GEN.RC26.png",
+      "rarity": "Common",
+      "cardNum": "RC26"
+    },
+    {
+      "name": "Wally",
+      "set": "Generations",
+      "img": "https://den-cards.pokellector.com/187/Wally.GEN.RC27.png",
+      "rarity": "Uncommon",
+      "cardNum": "RC27"
+    },
+    {
+      "name": "Flareon EX",
+      "set": "Generations",
+      "img": "https://den-cards.pokellector.com/187/Flareon-EX.GEN.RC28.png",
+      "rarity": "Rare",
+      "cardNum": "RC28"
+    },
+    {
+      "name": "Pikachu",
+      "set": "Generations",
+      "img": "https://den-cards.pokellector.com/187/Pikachu.GEN.RC29.png",
+      "rarity": "Rare",
+      "cardNum": "RC29"
+    },
+    {
+      "name": "Gardevoir EX",
+      "set": "Generations",
+      "img": "https://den-cards.pokellector.com/187/Gardevoir-EX.GEN.RC30.png",
+      "rarity": "Rare",
+      "cardNum": "RC30"
+    },
+    {
+      "name": "M Gardevoir EX",
+      "set": "Generations",
+      "img": "https://den-cards.pokellector.com/187/M-Gardevoir-EX.GEN.RC31.png",
+      "rarity": "Rare",
+      "cardNum": "RC31"
+    },
+    {
+      "name": "Sylveon EX",
+      "set": "Generations",
+      "img": "https://den-cards.pokellector.com/187/Sylveon-EX.GEN.RC32.png",
+      "rarity": "Rare",
+      "cardNum": "RC32"
+    }
+  ]
+}

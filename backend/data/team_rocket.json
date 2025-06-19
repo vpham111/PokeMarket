@@ -1,0 +1,586 @@
+{
+  "setName": "Team Rocket",
+  "cards": [
+    {
+      "name": "Dark Alakazam",
+      "set": "Team Rocket",
+      "img": "https://den-cards.pokellector.com/123/Dark-Alakazam.TR.1.png",
+      "rarity": "Rare",
+      "cardNum": "1/82"
+    },
+    {
+      "name": "Dark Arbok",
+      "set": "Team Rocket",
+      "img": "https://den-cards.pokellector.com/123/Dark-Arbok.TR.2.png",
+      "rarity": "Rare",
+      "cardNum": "2/82"
+    },
+    {
+      "name": "Dark Blastoise",
+      "set": "Team Rocket",
+      "img": "https://den-cards.pokellector.com/123/Dark-Blastoise.TR.3.png",
+      "rarity": "Rare",
+      "cardNum": "3/82"
+    },
+    {
+      "name": "Dark Charizard",
+      "set": "Team Rocket",
+      "img": "https://den-cards.pokellector.com/123/Dark-Charizard.TR.4.png",
+      "rarity": "Rare",
+      "cardNum": "4/82"
+    },
+    {
+      "name": "Dark Dragonite",
+      "set": "Team Rocket",
+      "img": "https://den-cards.pokellector.com/123/Dark-Dragonite.TR.5.png",
+      "rarity": "Rare",
+      "cardNum": "5/82"
+    },
+    {
+      "name": "Dark Dugtrio",
+      "set": "Team Rocket",
+      "img": "https://den-cards.pokellector.com/123/Dark-Dugtrio.TR.6.png",
+      "rarity": "Rare",
+      "cardNum": "6/82"
+    },
+    {
+      "name": "Dark Golbat",
+      "set": "Team Rocket",
+      "img": "https://den-cards.pokellector.com/123/Dark-Golbat.TR.7.png",
+      "rarity": "Rare",
+      "cardNum": "7/82"
+    },
+    {
+      "name": "Dark Gyarados",
+      "set": "Team Rocket",
+      "img": "https://den-cards.pokellector.com/123/Dark-Gyarados.TR.8.png",
+      "rarity": "Rare",
+      "cardNum": "8/82"
+    },
+    {
+      "name": "Dark Hypno",
+      "set": "Team Rocket",
+      "img": "https://den-cards.pokellector.com/123/Dark-Hypno.TR.9.png",
+      "rarity": "Rare",
+      "cardNum": "9/82"
+    },
+    {
+      "name": "Dark Machamp",
+      "set": "Team Rocket",
+      "img": "https://den-cards.pokellector.com/123/Dark-Machamp.TR.10.png",
+      "rarity": "Rare",
+      "cardNum": "10/82"
+    },
+    {
+      "name": "Dark Magneton",
+      "set": "Team Rocket",
+      "img": "https://den-cards.pokellector.com/123/Dark-Magneton.TR.11.png",
+      "rarity": "Rare",
+      "cardNum": "11/82"
+    },
+    {
+      "name": "Dark Slowbro",
+      "set": "Team Rocket",
+      "img": "https://den-cards.pokellector.com/123/Dark-Slowbro.TR.12.png",
+      "rarity": "Rare",
+      "cardNum": "12/82"
+    },
+    {
+      "name": "Dark Vileplume",
+      "set": "Team Rocket",
+      "img": "https://den-cards.pokellector.com/123/Dark-Vileplume.TR.13.png",
+      "rarity": "Rare",
+      "cardNum": "13/82"
+    },
+    {
+      "name": "Dark Weezing",
+      "set": "Team Rocket",
+      "img": "https://den-cards.pokellector.com/123/Dark-Weezing.TR.14.png",
+      "rarity": "Rare",
+      "cardNum": "14/82"
+    },
+    {
+      "name": "Here Comes Team Rocket",
+      "set": "Team Rocket",
+      "img": "https://den-cards.pokellector.com/123/Here-Comes-Team-Rocket.TR.15.png",
+      "rarity": "Rare",
+      "cardNum": "15/82"
+    },
+    {
+      "name": "Rocket's Sneak Attack",
+      "set": "Team Rocket",
+      "img": "https://den-cards.pokellector.com/123/Rockets-Sneak-Attack.TR.16.png",
+      "rarity": "Rare",
+      "cardNum": "16/82"
+    },
+    {
+      "name": "Rainbow Energy",
+      "set": "Team Rocket",
+      "img": "https://den-cards.pokellector.com/123/Rainbow-Energy.TR.17.png",
+      "rarity": "Rare",
+      "cardNum": "17/82"
+    },
+    {
+      "name": "Dark Alakazam",
+      "set": "Team Rocket",
+      "img": "https://den-cards.pokellector.com/123/Dark-Alakazam.TR.18.png",
+      "rarity": "Rare",
+      "cardNum": "18/82"
+    },
+    {
+      "name": "Dark Arbok",
+      "set": "Team Rocket",
+      "img": "https://den-cards.pokellector.com/123/Dark-Arbok.TR.19.png",
+      "rarity": "Rare",
+      "cardNum": "19/82"
+    },
+    {
+      "name": "Dark Blastoise",
+      "set": "Team Rocket",
+      "img": "https://den-cards.pokellector.com/123/Dark-Blastoise.TR.20.png",
+      "rarity": "Rare",
+      "cardNum": "20/82"
+    },
+    {
+      "name": "Dark Charizard",
+      "set": "Team Rocket",
+      "img": "https://den-cards.pokellector.com/123/Dark-Charizard.TR.21.png",
+      "rarity": "Rare",
+      "cardNum": "21/82"
+    },
+    {
+      "name": "Dark Dragonite",
+      "set": "Team Rocket",
+      "img": "https://den-cards.pokellector.com/123/Dark-Dragonite.TR.22.png",
+      "rarity": "Rare",
+      "cardNum": "22/82"
+    },
+    {
+      "name": "Dark Dugtrio",
+      "set": "Team Rocket",
+      "img": "https://den-cards.pokellector.com/123/Dark-Dugtrio.TR.23.png",
+      "rarity": "Rare",
+      "cardNum": "23/82"
+    },
+    {
+      "name": "Dark Golbat",
+      "set": "Team Rocket",
+      "img": "https://den-cards.pokellector.com/123/Dark-Golbat.TR.24.png",
+      "rarity": "Rare",
+      "cardNum": "24/82"
+    },
+    {
+      "name": "Dark Gyarados",
+      "set": "Team Rocket",
+      "img": "https://den-cards.pokellector.com/123/Dark-Gyarados.TR.25.png",
+      "rarity": "Rare",
+      "cardNum": "25/82"
+    },
+    {
+      "name": "Dark Hypno",
+      "set": "Team Rocket",
+      "img": "https://den-cards.pokellector.com/123/Dark-Hypno.TR.26.png",
+      "rarity": "Rare",
+      "cardNum": "26/82"
+    },
+    {
+      "name": "Dark Machamp",
+      "set": "Team Rocket",
+      "img": "https://den-cards.pokellector.com/123/Dark-Machamp.TR.27.png",
+      "rarity": "Rare",
+      "cardNum": "27/82"
+    },
+    {
+      "name": "Dark Magneton",
+      "set": "Team Rocket",
+      "img": "https://den-cards.pokellector.com/123/Dark-Magneton.TR.28.png",
+      "rarity": "Rare",
+      "cardNum": "28/82"
+    },
+    {
+      "name": "Dark Slowbro",
+      "set": "Team Rocket",
+      "img": "https://den-cards.pokellector.com/123/Dark-Slowbro.TR.29.png",
+      "rarity": "Rare",
+      "cardNum": "29/82"
+    },
+    {
+      "name": "Dark Vileplume",
+      "set": "Team Rocket",
+      "img": "https://den-cards.pokellector.com/123/Dark-Vileplume.TR.30.png",
+      "rarity": "Rare",
+      "cardNum": "30/82"
+    },
+    {
+      "name": "Dark Weezing",
+      "set": "Team Rocket",
+      "img": "https://den-cards.pokellector.com/123/Dark-Weezing.TR.31.png",
+      "rarity": "Rare",
+      "cardNum": "31/82"
+    },
+    {
+      "name": "Dark Charmeleon",
+      "set": "Team Rocket",
+      "img": "https://den-cards.pokellector.com/123/Dark-Charmeleon.TR.32.png",
+      "rarity": "Uncommon",
+      "cardNum": "32/82"
+    },
+    {
+      "name": "Dark Dragonair",
+      "set": "Team Rocket",
+      "img": "https://den-cards.pokellector.com/123/Dark-Dragonair.TR.33.png",
+      "rarity": "Uncommon",
+      "cardNum": "33/82"
+    },
+    {
+      "name": "Dark Electrode",
+      "set": "Team Rocket",
+      "img": "https://den-cards.pokellector.com/123/Dark-Electrode.TR.34.png",
+      "rarity": "Uncommon",
+      "cardNum": "34/82"
+    },
+    {
+      "name": "Dark Flareon",
+      "set": "Team Rocket",
+      "img": "https://den-cards.pokellector.com/123/Dark-Flareon.TR.35.png",
+      "rarity": "Uncommon",
+      "cardNum": "35/82"
+    },
+    {
+      "name": "Dark Gloom",
+      "set": "Team Rocket",
+      "img": "https://den-cards.pokellector.com/123/Dark-Gloom.TR.36.png",
+      "rarity": "Uncommon",
+      "cardNum": "36/82"
+    },
+    {
+      "name": "Dark Golduck",
+      "set": "Team Rocket",
+      "img": "https://den-cards.pokellector.com/123/Dark-Golduck.TR.37.png",
+      "rarity": "Uncommon",
+      "cardNum": "37/82"
+    },
+    {
+      "name": "Dark Jolteon",
+      "set": "Team Rocket",
+      "img": "https://den-cards.pokellector.com/123/Dark-Jolteon.TR.38.png",
+      "rarity": "Uncommon",
+      "cardNum": "38/82"
+    },
+    {
+      "name": "Dark Kadabra",
+      "set": "Team Rocket",
+      "img": "https://den-cards.pokellector.com/123/Dark-Kadabra.TR.39.png",
+      "rarity": "Uncommon",
+      "cardNum": "39/82"
+    },
+    {
+      "name": "Dark Machoke",
+      "set": "Team Rocket",
+      "img": "https://den-cards.pokellector.com/123/Dark-Machoke.TR.40.png",
+      "rarity": "Uncommon",
+      "cardNum": "40/82"
+    },
+    {
+      "name": "Dark Muk",
+      "set": "Team Rocket",
+      "img": "https://den-cards.pokellector.com/123/Dark-Muk.TR.41.png",
+      "rarity": "Uncommon",
+      "cardNum": "41/82"
+    },
+    {
+      "name": "Dark Persian",
+      "set": "Team Rocket",
+      "img": "https://den-cards.pokellector.com/123/Dark-Persian.TR.42.png",
+      "rarity": "Uncommon",
+      "cardNum": "42/82"
+    },
+    {
+      "name": "Dark Primeape",
+      "set": "Team Rocket",
+      "img": "https://den-cards.pokellector.com/123/Dark-Primeape.TR.43.png",
+      "rarity": "Uncommon",
+      "cardNum": "43/82"
+    },
+    {
+      "name": "Dark Rapidash",
+      "set": "Team Rocket",
+      "img": "https://den-cards.pokellector.com/123/Dark-Rapidash.TR.44.png",
+      "rarity": "Uncommon",
+      "cardNum": "44/82"
+    },
+    {
+      "name": "Dark Vaporeon",
+      "set": "Team Rocket",
+      "img": "https://den-cards.pokellector.com/123/Dark-Vaporeon.TR.45.png",
+      "rarity": "Uncommon",
+      "cardNum": "45/82"
+    },
+    {
+      "name": "Dark Wartortle",
+      "set": "Team Rocket",
+      "img": "https://den-cards.pokellector.com/123/Dark-Wartortle.TR.46.png",
+      "rarity": "Uncommon",
+      "cardNum": "46/82"
+    },
+    {
+      "name": "Magikarp",
+      "set": "Team Rocket",
+      "img": "https://den-cards.pokellector.com/123/Magikarp.TR.47.png",
+      "rarity": "Uncommon",
+      "cardNum": "47/82"
+    },
+    {
+      "name": "Porygon",
+      "set": "Team Rocket",
+      "img": "https://den-cards.pokellector.com/123/Porygon.TR.48.png",
+      "rarity": "Uncommon",
+      "cardNum": "48/82"
+    },
+    {
+      "name": "Abra",
+      "set": "Team Rocket",
+      "img": "https://den-cards.pokellector.com/123/Abra.TR.49.png",
+      "rarity": "Common",
+      "cardNum": "49/82"
+    },
+    {
+      "name": "Charmander",
+      "set": "Team Rocket",
+      "img": "https://den-cards.pokellector.com/123/Charmander.TR.50.png",
+      "rarity": "Common",
+      "cardNum": "50/82"
+    },
+    {
+      "name": "Dark Raticate",
+      "set": "Team Rocket",
+      "img": "https://den-cards.pokellector.com/123/Dark-Raticate.TR.51.png",
+      "rarity": "Common",
+      "cardNum": "51/82"
+    },
+    {
+      "name": "Diglett",
+      "set": "Team Rocket",
+      "img": "https://den-cards.pokellector.com/123/Diglett.TR.52.png",
+      "rarity": "Common",
+      "cardNum": "52/82"
+    },
+    {
+      "name": "Dratini",
+      "set": "Team Rocket",
+      "img": "https://den-cards.pokellector.com/123/Dratini.TR.53.png",
+      "rarity": "Common",
+      "cardNum": "53/82"
+    },
+    {
+      "name": "Drowzee",
+      "set": "Team Rocket",
+      "img": "https://den-cards.pokellector.com/123/Drowzee.TR.54.png",
+      "rarity": "Common",
+      "cardNum": "54/82"
+    },
+    {
+      "name": "Eevee",
+      "set": "Team Rocket",
+      "img": "https://den-cards.pokellector.com/123/Eevee.TR.55.png",
+      "rarity": "Common",
+      "cardNum": "55/82"
+    },
+    {
+      "name": "Ekans",
+      "set": "Team Rocket",
+      "img": "https://den-cards.pokellector.com/123/Ekans.TR.56.png",
+      "rarity": "Common",
+      "cardNum": "56/82"
+    },
+    {
+      "name": "Grimer",
+      "set": "Team Rocket",
+      "img": "https://den-cards.pokellector.com/123/Grimer.TR.57.png",
+      "rarity": "Common",
+      "cardNum": "57/82"
+    },
+    {
+      "name": "Koffing",
+      "set": "Team Rocket",
+      "img": "https://den-cards.pokellector.com/123/Koffing.TR.58.png",
+      "rarity": "Common",
+      "cardNum": "58/82"
+    },
+    {
+      "name": "Machop",
+      "set": "Team Rocket",
+      "img": "https://den-cards.pokellector.com/123/Machop.TR.59.png",
+      "rarity": "Common",
+      "cardNum": "59/82"
+    },
+    {
+      "name": "Magnemite",
+      "set": "Team Rocket",
+      "img": "https://den-cards.pokellector.com/123/Magnemite.TR.60.png",
+      "rarity": "Common",
+      "cardNum": "60/82"
+    },
+    {
+      "name": "Mankey",
+      "set": "Team Rocket",
+      "img": "https://den-cards.pokellector.com/123/Mankey.TR.61.png",
+      "rarity": "Common",
+      "cardNum": "61/82"
+    },
+    {
+      "name": "Meowth",
+      "set": "Team Rocket",
+      "img": "https://den-cards.pokellector.com/123/Meowth.TR.62.png",
+      "rarity": "Common",
+      "cardNum": "62/82"
+    },
+    {
+      "name": "Oddish",
+      "set": "Team Rocket",
+      "img": "https://den-cards.pokellector.com/123/Oddish.TR.63.png",
+      "rarity": "Common",
+      "cardNum": "63/82"
+    },
+    {
+      "name": "Ponyta",
+      "set": "Team Rocket",
+      "img": "https://den-cards.pokellector.com/123/Ponyta.TR.64.png",
+      "rarity": "Common",
+      "cardNum": "64/82"
+    },
+    {
+      "name": "Psyduck",
+      "set": "Team Rocket",
+      "img": "https://den-cards.pokellector.com/123/Psyduck.TR.65.png",
+      "rarity": "Common",
+      "cardNum": "65/82"
+    },
+    {
+      "name": "Rattata",
+      "set": "Team Rocket",
+      "img": "https://den-cards.pokellector.com/123/Rattata.TR.66.png",
+      "rarity": "Common",
+      "cardNum": "66/82"
+    },
+    {
+      "name": "Slowpoke",
+      "set": "Team Rocket",
+      "img": "https://den-cards.pokellector.com/123/Slowpoke.TR.67.png",
+      "rarity": "Common",
+      "cardNum": "67/82"
+    },
+    {
+      "name": "Squirtle",
+      "set": "Team Rocket",
+      "img": "https://den-cards.pokellector.com/123/Squirtle.TR.68.png",
+      "rarity": "Common",
+      "cardNum": "68/82"
+    },
+    {
+      "name": "Voltorb",
+      "set": "Team Rocket",
+      "img": "https://den-cards.pokellector.com/123/Voltorb.TR.69.png",
+      "rarity": "Common",
+      "cardNum": "69/82"
+    },
+    {
+      "name": "Zubat",
+      "set": "Team Rocket",
+      "img": "https://den-cards.pokellector.com/123/Zubat.TR.70.png",
+      "rarity": "Common",
+      "cardNum": "70/82"
+    },
+    {
+      "name": "Here Comes Team Rocket",
+      "set": "Team Rocket",
+      "img": "https://den-cards.pokellector.com/123/Here-Comes-Team-Rocket.TR.71.png",
+      "rarity": "Rare",
+      "cardNum": "71/82"
+    },
+    {
+      "name": "Rocket's Sneak Attack",
+      "set": "Team Rocket",
+      "img": "https://den-cards.pokellector.com/123/Rockets-Sneak-Attack.TR.72.png",
+      "rarity": "Rare",
+      "cardNum": "72/82"
+    },
+    {
+      "name": "The Boss's Way",
+      "set": "Team Rocket",
+      "img": "https://den-cards.pokellector.com/123/The-Bosss-Way.TR.73.png",
+      "rarity": "Uncommon",
+      "cardNum": "73/82"
+    },
+    {
+      "name": "Challenge!",
+      "set": "Team Rocket",
+      "img": "https://den-cards.pokellector.com/123/Challenge.TR.74.png",
+      "rarity": "Uncommon",
+      "cardNum": "74/82"
+    },
+    {
+      "name": "Digger",
+      "set": "Team Rocket",
+      "img": "https://den-cards.pokellector.com/123/Digger.TR.75.png",
+      "rarity": "Uncommon",
+      "cardNum": "75/82"
+    },
+    {
+      "name": "Imposter Oak's Revenge",
+      "set": "Team Rocket",
+      "img": "https://den-cards.pokellector.com/123/Imposter-Oaks-Revenge.TR.76.png",
+      "rarity": "Uncommon",
+      "cardNum": "76/82"
+    },
+    {
+      "name": "Nightly Garbage Run",
+      "set": "Team Rocket",
+      "img": "https://den-cards.pokellector.com/123/Nightly-Garbage-Run.TR.77.png",
+      "rarity": "Uncommon",
+      "cardNum": "77/82"
+    },
+    {
+      "name": "Goop Gas Attack",
+      "set": "Team Rocket",
+      "img": "https://den-cards.pokellector.com/123/Goop-Gas-Attack.TR.78.png",
+      "rarity": "Common",
+      "cardNum": "78/82"
+    },
+    {
+      "name": "Sleep!",
+      "set": "Team Rocket",
+      "img": "https://den-cards.pokellector.com/123/Sleep.TR.79.png",
+      "rarity": "Common",
+      "cardNum": "79/82"
+    },
+    {
+      "name": "Rainbow Energy",
+      "set": "Team Rocket",
+      "img": "https://www.pokellector.com/images/card-placeholder.png",
+      "rarity": "Rare",
+      "cardNum": "80/82"
+    },
+    {
+      "name": "Full Heal Energy",
+      "set": "Team Rocket",
+      "img": "https://den-cards.pokellector.com/123/Full-Heal-Energy.TR.81.png",
+      "rarity": "Uncommon",
+      "cardNum": "81/82"
+    },
+    {
+      "name": "Potion Energy",
+      "set": "Team Rocket",
+      "img": "https://den-cards.pokellector.com/123/Potion-Energy.TR.82.png",
+      "rarity": "Uncommon",
+      "cardNum": "82/82"
+    },
+    {
+      "name": "Dark Raichu",
+      "set": "Team Rocket",
+      "img": "https://den-cards.pokellector.com/123/Dark-Raichu.TR.83.png",
+      "rarity": "Secret Rare",
+      "cardNum": "83/82"
+    }
+  ]
+}

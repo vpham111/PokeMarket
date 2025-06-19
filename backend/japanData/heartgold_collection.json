@@ -1,0 +1,558 @@
+{
+  "setName": "HeartGold Collection",
+  "cards": [
+    {
+      "name": "Weedle",
+      "set": "HeartGold Collection",
+      "img": "https://den-cards.pokellector.com/247/Weedle.L1.1.21729.png",
+      "rarity": "Common",
+      "cardNum": "1/70"
+    },
+    {
+      "name": "Kakuna",
+      "set": "HeartGold Collection",
+      "img": "https://den-cards.pokellector.com/247/Kakuna.L1.2.21730.png",
+      "rarity": "Uncommon",
+      "cardNum": "2/70"
+    },
+    {
+      "name": "Beedrill",
+      "set": "HeartGold Collection",
+      "img": "https://den-cards.pokellector.com/247/Beedrill.L1.3.21731.png",
+      "rarity": "Rare",
+      "cardNum": "3/70"
+    },
+    {
+      "name": "Spinarak",
+      "set": "HeartGold Collection",
+      "img": "https://den-cards.pokellector.com/247/Spinarak.L1.4.21732.png",
+      "rarity": "Common",
+      "cardNum": "4/70"
+    },
+    {
+      "name": "Ariados",
+      "set": "HeartGold Collection",
+      "img": "https://den-cards.pokellector.com/247/Ariados.L1.5.21733.png",
+      "rarity": "Rare",
+      "cardNum": "5/70"
+    },
+    {
+      "name": "Hoppip",
+      "set": "HeartGold Collection",
+      "img": "https://den-cards.pokellector.com/247/Hoppip.L1.6.21734.png",
+      "rarity": "Common",
+      "cardNum": "6/70"
+    },
+    {
+      "name": "Skiploom",
+      "set": "HeartGold Collection",
+      "img": "https://den-cards.pokellector.com/247/Skiploom.L1.7.21735.png",
+      "rarity": "Common",
+      "cardNum": "7/70"
+    },
+    {
+      "name": "Jumpluff",
+      "set": "HeartGold Collection",
+      "img": "https://den-cards.pokellector.com/247/Jumpluff.L1.8.21736.png",
+      "rarity": "Rare",
+      "cardNum": "8/70"
+    },
+    {
+      "name": "Sunkern",
+      "set": "HeartGold Collection",
+      "img": "https://den-cards.pokellector.com/247/Sunkern.L1.9.21737.png",
+      "rarity": "Common",
+      "cardNum": "9/70"
+    },
+    {
+      "name": "Sunflora",
+      "set": "HeartGold Collection",
+      "img": "https://den-cards.pokellector.com/247/Sunflora.L1.10.21738.png",
+      "rarity": "Rare",
+      "cardNum": "10/70"
+    },
+    {
+      "name": "Shuckle",
+      "set": "HeartGold Collection",
+      "img": "https://den-cards.pokellector.com/247/Shuckle.L1.11.21739.png",
+      "rarity": "Rare",
+      "cardNum": "11/70"
+    },
+    {
+      "name": "Heracross",
+      "set": "HeartGold Collection",
+      "img": "https://den-cards.pokellector.com/247/Heracross.L1.12.21740.png",
+      "rarity": "Uncommon",
+      "cardNum": "12/70"
+    },
+    {
+      "name": "Growlithe",
+      "set": "HeartGold Collection",
+      "img": "https://den-cards.pokellector.com/247/Growlithe.L1.13.21741.png",
+      "rarity": "Common",
+      "cardNum": "13/70"
+    },
+    {
+      "name": "Arcanine",
+      "set": "HeartGold Collection",
+      "img": "https://den-cards.pokellector.com/247/Arcanine.L1.14.21742.png",
+      "rarity": "Rare",
+      "cardNum": "14/70"
+    },
+    {
+      "name": "Ho-Oh LEGEND",
+      "set": "HeartGold Collection",
+      "img": "https://den-cards.pokellector.com/247/Ho-Oh-LEGEND.L1.15.21743.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "15/70"
+    },
+    {
+      "name": "Ho-Oh LEGEND",
+      "set": "HeartGold Collection",
+      "img": "https://den-cards.pokellector.com/247/Ho-Oh-LEGEND.L1.16.21744.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "16/70"
+    },
+    {
+      "name": "Slowpoke",
+      "set": "HeartGold Collection",
+      "img": "https://den-cards.pokellector.com/247/Slowpoke.L1.17.21745.png",
+      "rarity": "Common",
+      "cardNum": "17/70"
+    },
+    {
+      "name": "Slowbro",
+      "set": "HeartGold Collection",
+      "img": "https://den-cards.pokellector.com/247/Slowbro.L1.18.21746.png",
+      "rarity": "Rare",
+      "cardNum": "18/70"
+    },
+    {
+      "name": "Staryu",
+      "set": "HeartGold Collection",
+      "img": "https://den-cards.pokellector.com/247/Staryu.L1.19.21747.png",
+      "rarity": "Common",
+      "cardNum": "19/70"
+    },
+    {
+      "name": "Starmie",
+      "set": "HeartGold Collection",
+      "img": "https://den-cards.pokellector.com/247/Starmie.L1.20.21748.png",
+      "rarity": "Rare",
+      "cardNum": "20/70"
+    },
+    {
+      "name": "Lapras",
+      "set": "HeartGold Collection",
+      "img": "https://den-cards.pokellector.com/247/Lapras.L1.21.21749.png",
+      "rarity": "Rare",
+      "cardNum": "21/70"
+    },
+    {
+      "name": "Totodile",
+      "set": "HeartGold Collection",
+      "img": "https://den-cards.pokellector.com/247/Totodile.L1.22.21750.png",
+      "rarity": "Common",
+      "cardNum": "22/70"
+    },
+    {
+      "name": "Croconaw",
+      "set": "HeartGold Collection",
+      "img": "https://den-cards.pokellector.com/247/Croconaw.L1.23.21751.png",
+      "rarity": "Common",
+      "cardNum": "23/70"
+    },
+    {
+      "name": "Feraligatr",
+      "set": "HeartGold Collection",
+      "img": "https://den-cards.pokellector.com/247/Feraligatr.L1.24.21752.png",
+      "rarity": "Uncommon",
+      "cardNum": "24/70"
+    },
+    {
+      "name": "Feraligatr",
+      "set": "HeartGold Collection",
+      "img": "https://den-cards.pokellector.com/247/Feraligatr.L1.25.21753.png",
+      "rarity": "Common",
+      "cardNum": "25/70"
+    },
+    {
+      "name": "Qwilfish",
+      "set": "HeartGold Collection",
+      "img": "https://den-cards.pokellector.com/247/Qwilfish.L1.26.21754.png",
+      "rarity": "Uncommon",
+      "cardNum": "26/70"
+    },
+    {
+      "name": "Corsola",
+      "set": "HeartGold Collection",
+      "img": "https://den-cards.pokellector.com/247/Corsola.L1.27.21755.png",
+      "rarity": "Uncommon",
+      "cardNum": "27/70"
+    },
+    {
+      "name": "Remoraid",
+      "set": "HeartGold Collection",
+      "img": "https://den-cards.pokellector.com/247/Remoraid.L1.28.21756.png",
+      "rarity": "Common",
+      "cardNum": "28/70"
+    },
+    {
+      "name": "Octillery",
+      "set": "HeartGold Collection",
+      "img": "https://den-cards.pokellector.com/247/Octillery.L1.29.21757.png",
+      "rarity": "Rare",
+      "cardNum": "29/70"
+    },
+    {
+      "name": "Mantine",
+      "set": "HeartGold Collection",
+      "img": "https://den-cards.pokellector.com/247/Mantine.L1.30.21758.png",
+      "rarity": "Uncommon",
+      "cardNum": "30/70"
+    },
+    {
+      "name": "Mareep",
+      "set": "HeartGold Collection",
+      "img": "https://den-cards.pokellector.com/247/Mareep.L1.31.21759.png",
+      "rarity": "Common",
+      "cardNum": "31/70"
+    },
+    {
+      "name": "Flaaffy",
+      "set": "HeartGold Collection",
+      "img": "https://den-cards.pokellector.com/247/Flaaffy.L1.32.21760.png",
+      "rarity": "Common",
+      "cardNum": "32/70"
+    },
+    {
+      "name": "Ampharos",
+      "set": "HeartGold Collection",
+      "img": "https://den-cards.pokellector.com/247/Ampharos.L1.33.21761.png",
+      "rarity": "Uncommon",
+      "cardNum": "33/70"
+    },
+    {
+      "name": "Ampharos",
+      "set": "HeartGold Collection",
+      "img": "https://den-cards.pokellector.com/247/Ampharos.L1.34.21762.png",
+      "rarity": "Common",
+      "cardNum": "34/70"
+    },
+    {
+      "name": "Koffing",
+      "set": "HeartGold Collection",
+      "img": "https://den-cards.pokellector.com/247/Koffing.L1.35.21763.png",
+      "rarity": "Common",
+      "cardNum": "35/70"
+    },
+    {
+      "name": "Weezing",
+      "set": "HeartGold Collection",
+      "img": "https://den-cards.pokellector.com/247/Weezing.L1.36.21764.png",
+      "rarity": "Rare",
+      "cardNum": "36/70"
+    },
+    {
+      "name": "Smoochum",
+      "set": "HeartGold Collection",
+      "img": "https://den-cards.pokellector.com/247/Smoochum.L1.37.21765.png",
+      "rarity": "Rare",
+      "cardNum": "37/70"
+    },
+    {
+      "name": "Jynx",
+      "set": "HeartGold Collection",
+      "img": "https://den-cards.pokellector.com/247/Jynx.L1.38.21766.png",
+      "rarity": "Common",
+      "cardNum": "38/70"
+    },
+    {
+      "name": "Slowking",
+      "set": "HeartGold Collection",
+      "img": "https://den-cards.pokellector.com/247/Slowking.L1.39.21767.png",
+      "rarity": "Rare",
+      "cardNum": "39/70"
+    },
+    {
+      "name": "Unown",
+      "set": "HeartGold Collection",
+      "img": "https://den-cards.pokellector.com/247/Unown.L1.40.21768.png",
+      "rarity": "Uncommon",
+      "cardNum": "40/70"
+    },
+    {
+      "name": "Wobbuffet",
+      "set": "HeartGold Collection",
+      "img": "https://den-cards.pokellector.com/247/Wobbuffet.L1.41.21769.png",
+      "rarity": "Rare",
+      "cardNum": "41/70"
+    },
+    {
+      "name": "Mankey",
+      "set": "HeartGold Collection",
+      "img": "https://den-cards.pokellector.com/247/Mankey.L1.42.21770.png",
+      "rarity": "Common",
+      "cardNum": "42/70"
+    },
+    {
+      "name": "Primeape",
+      "set": "HeartGold Collection",
+      "img": "https://den-cards.pokellector.com/247/Primeape.L1.43.21771.png",
+      "rarity": "Rare",
+      "cardNum": "43/70"
+    },
+    {
+      "name": "Phanpy",
+      "set": "HeartGold Collection",
+      "img": "https://den-cards.pokellector.com/247/Phanpy.L1.44.21772.png",
+      "rarity": "Common",
+      "cardNum": "44/70"
+    },
+    {
+      "name": "Donphan",
+      "set": "HeartGold Collection",
+      "img": "https://den-cards.pokellector.com/247/Donphan.L1.45.21773.png",
+      "rarity": "Uncommon",
+      "cardNum": "45/70"
+    },
+    {
+      "name": "Donphan",
+      "set": "HeartGold Collection",
+      "img": "https://den-cards.pokellector.com/247/Donphan.L1.46.21774.png",
+      "rarity": "Common",
+      "cardNum": "46/70"
+    },
+    {
+      "name": "Spearow",
+      "set": "HeartGold Collection",
+      "img": "https://den-cards.pokellector.com/247/Spearow.L1.47.21775.png",
+      "rarity": "Common",
+      "cardNum": "47/70"
+    },
+    {
+      "name": "Fearow",
+      "set": "HeartGold Collection",
+      "img": "https://den-cards.pokellector.com/247/Fearow.L1.48.21776.png",
+      "rarity": "Rare",
+      "cardNum": "48/70"
+    },
+    {
+      "name": "Cleffa",
+      "set": "HeartGold Collection",
+      "img": "https://den-cards.pokellector.com/247/Cleffa.L1.49.21777.png",
+      "rarity": "Rare",
+      "cardNum": "49/70"
+    },
+    {
+      "name": "Clefairy",
+      "set": "HeartGold Collection",
+      "img": "https://den-cards.pokellector.com/247/Clefairy.L1.50.21778.png",
+      "rarity": "Common",
+      "cardNum": "50/70"
+    },
+    {
+      "name": "Clefable",
+      "set": "HeartGold Collection",
+      "img": "https://den-cards.pokellector.com/247/Clefable.L1.51.21779.png",
+      "rarity": "Rare",
+      "cardNum": "51/70"
+    },
+    {
+      "name": "Chansey",
+      "set": "HeartGold Collection",
+      "img": "https://den-cards.pokellector.com/247/Chansey.L1.52.21780.png",
+      "rarity": "Common",
+      "cardNum": "52/70"
+    },
+    {
+      "name": "Blissey",
+      "set": "HeartGold Collection",
+      "img": "https://den-cards.pokellector.com/247/Blissey.L1.53.21781.png",
+      "rarity": "Uncommon",
+      "cardNum": "53/70"
+    },
+    {
+      "name": "Blissey",
+      "set": "HeartGold Collection",
+      "img": "https://den-cards.pokellector.com/247/Blissey.L1.54.21782.png",
+      "rarity": "Common",
+      "cardNum": "54/70"
+    },
+    {
+      "name": "Tauros",
+      "set": "HeartGold Collection",
+      "img": "https://den-cards.pokellector.com/247/Tauros.L1.55.21783.png",
+      "rarity": "Uncommon",
+      "cardNum": "55/70"
+    },
+    {
+      "name": "Sentret",
+      "set": "HeartGold Collection",
+      "img": "https://den-cards.pokellector.com/247/Sentret.L1.56.21784.png",
+      "rarity": "Common",
+      "cardNum": "56/70"
+    },
+    {
+      "name": "Furret",
+      "set": "HeartGold Collection",
+      "img": "https://den-cards.pokellector.com/247/Furret.L1.57.21785.png",
+      "rarity": "Rare",
+      "cardNum": "57/70"
+    },
+    {
+      "name": "Hoothoot",
+      "set": "HeartGold Collection",
+      "img": "https://den-cards.pokellector.com/247/Hoothoot.L1.58.21786.png",
+      "rarity": "Common",
+      "cardNum": "58/70"
+    },
+    {
+      "name": "Noctowl",
+      "set": "HeartGold Collection",
+      "img": "https://den-cards.pokellector.com/247/Noctowl.L1.59.21787.png",
+      "rarity": "Rare",
+      "cardNum": "59/70"
+    },
+    {
+      "name": "Girafarig",
+      "set": "HeartGold Collection",
+      "img": "https://den-cards.pokellector.com/247/Girafarig.L1.60.21788.png",
+      "rarity": "Common",
+      "cardNum": "60/70"
+    },
+    {
+      "name": "Dunsparce",
+      "set": "HeartGold Collection",
+      "img": "https://den-cards.pokellector.com/247/Dunsparce.L1.61.21789.png",
+      "rarity": "Uncommon",
+      "cardNum": "61/70"
+    },
+    {
+      "name": "Stantler",
+      "set": "HeartGold Collection",
+      "img": "https://den-cards.pokellector.com/247/Stantler.L1.62.21790.png",
+      "rarity": "Common",
+      "cardNum": "62/70"
+    },
+    {
+      "name": "Energy Switch",
+      "set": "HeartGold Collection",
+      "img": "https://den-cards.pokellector.com/247/Energy-Switch.L1.63.21791.png",
+      "rarity": "Uncommon",
+      "cardNum": "63/70"
+    },
+    {
+      "name": "Switch",
+      "set": "HeartGold Collection",
+      "img": "https://den-cards.pokellector.com/247/Switch.L1.64.21792.png",
+      "rarity": "Uncommon",
+      "cardNum": "64/70"
+    },
+    {
+      "name": "Pokémon Reversal",
+      "set": "HeartGold Collection",
+      "img": "https://den-cards.pokellector.com/247/Pokmon-Reversal.L1.65.21866.png",
+      "rarity": "Uncommon",
+      "cardNum": "65/70"
+    },
+    {
+      "name": "Poké Ball",
+      "set": "HeartGold Collection",
+      "img": "https://den-cards.pokellector.com/247/Pok-Ball.L1.66.21867.png",
+      "rarity": "Uncommon",
+      "cardNum": "66/70"
+    },
+    {
+      "name": "Professor Elm's Training Method",
+      "set": "HeartGold Collection",
+      "img": "https://den-cards.pokellector.com/247/Professor-Elms-Training-Method.L1.67.21793.png",
+      "rarity": "Uncommon",
+      "cardNum": "67/70"
+    },
+    {
+      "name": "Professor Oak's New Theory",
+      "set": "HeartGold Collection",
+      "img": "https://den-cards.pokellector.com/247/Professor-Oaks-New-Theory.L1.68.21794.png",
+      "rarity": "Uncommon",
+      "cardNum": "68/70"
+    },
+    {
+      "name": "Bill",
+      "set": "HeartGold Collection",
+      "img": "https://den-cards.pokellector.com/247/Bill.L1.69.21795.png",
+      "rarity": "Uncommon",
+      "cardNum": "69/70"
+    },
+    {
+      "name": "Double Colorless Energy",
+      "set": "HeartGold Collection",
+      "img": "https://den-cards.pokellector.com/247/Double-Colorless-Energy.L1.70.21796.png",
+      "rarity": "Uncommon",
+      "cardNum": "70/70"
+    },
+    {
+      "name": "Alph Lithograph",
+      "set": "HeartGold Collection",
+      "img": "https://www.pokellector.com/images/card-placeholder.png",
+      "rarity": "Secret Rare",
+      "cardNum": "71/70"
+    },
+    {
+      "name": "Dark Energy",
+      "set": "HeartGold Collection",
+      "img": "https://den-cards.pokellector.com/247/Dark-Energy.L1.0.21877.png",
+      "rarity": "Common",
+      "cardNum": ""
+    },
+    {
+      "name": "Fighting Energy",
+      "set": "HeartGold Collection",
+      "img": "https://den-cards.pokellector.com/247/Fighting-Energy.L1.0.21876.png",
+      "rarity": "Common",
+      "cardNum": ""
+    },
+    {
+      "name": "Psychic Energy",
+      "set": "HeartGold Collection",
+      "img": "https://den-cards.pokellector.com/247/Psychic-Energy.L1.0.21875.png",
+      "rarity": "Common",
+      "cardNum": ""
+    },
+    {
+      "name": "Electric Energy",
+      "set": "HeartGold Collection",
+      "img": "https://den-cards.pokellector.com/247/Electric-Energy.L1.0.21874.png",
+      "rarity": "Common",
+      "cardNum": ""
+    },
+    {
+      "name": "Water Energy",
+      "set": "HeartGold Collection",
+      "img": "https://den-cards.pokellector.com/247/Water-Energy.L1.0.21873.png",
+      "rarity": "Common",
+      "cardNum": ""
+    },
+    {
+      "name": "Fire Energy",
+      "set": "HeartGold Collection",
+      "img": "https://den-cards.pokellector.com/247/Fire-Energy.L1.0.21872.png",
+      "rarity": "Common",
+      "cardNum": ""
+    },
+    {
+      "name": "Grass Energy",
+      "set": "HeartGold Collection",
+      "img": "https://den-cards.pokellector.com/247/Grass-Energy.L1.0.21871.png",
+      "rarity": "Common",
+      "cardNum": ""
+    },
+    {
+      "name": "Steel Energy",
+      "set": "HeartGold Collection",
+      "img": "https://den-cards.pokellector.com/247/Metal-Energy.L1.0.21878.png",
+      "rarity": "Common",
+      "cardNum": ""
+    }
+  ]
+}

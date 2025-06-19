@@ -1,0 +1,1279 @@
+{
+  "setName": "Aquapolis",
+  "cards": [
+    {
+      "name": "Ampharos",
+      "set": "Aquapolis",
+      "img": "https://den-cards.pokellector.com/110/Ampharos.AQ.1.png",
+      "rarity": "Rare",
+      "cardNum": "1/147"
+    },
+    {
+      "name": "Arcanine",
+      "set": "Aquapolis",
+      "img": "https://den-cards.pokellector.com/110/Arcanine.AQ.2.png",
+      "rarity": "Rare",
+      "cardNum": "2/147"
+    },
+    {
+      "name": "Ariados",
+      "set": "Aquapolis",
+      "img": "https://den-cards.pokellector.com/110/Ariados.AQ.3.6749.png",
+      "rarity": "Rare",
+      "cardNum": "3/147"
+    },
+    {
+      "name": "Azumarill",
+      "set": "Aquapolis",
+      "img": "https://den-cards.pokellector.com/110/Azumarill.AQ.4.6750.png",
+      "rarity": "Rare",
+      "cardNum": "4/147"
+    },
+    {
+      "name": "Bellossom",
+      "set": "Aquapolis",
+      "img": "https://den-cards.pokellector.com/110/Bellossom.AQ.5.6751.png",
+      "rarity": "Rare",
+      "cardNum": "5/147"
+    },
+    {
+      "name": "Blissey",
+      "set": "Aquapolis",
+      "img": "https://den-cards.pokellector.com/110/Blissey.AQ.6.png",
+      "rarity": "Rare",
+      "cardNum": "6/147"
+    },
+    {
+      "name": "Donphan",
+      "set": "Aquapolis",
+      "img": "https://den-cards.pokellector.com/110/Donphan.AQ.7.6753.png",
+      "rarity": "Rare",
+      "cardNum": "7/147"
+    },
+    {
+      "name": "Electrode",
+      "set": "Aquapolis",
+      "img": "https://den-cards.pokellector.com/110/Electrode.AQ.8.6754.png",
+      "rarity": "Rare",
+      "cardNum": "8/147"
+    },
+    {
+      "name": "Elekid",
+      "set": "Aquapolis",
+      "img": "https://den-cards.pokellector.com/110/Elekid.AQ.9.6755.png",
+      "rarity": "Rare",
+      "cardNum": "9/147"
+    },
+    {
+      "name": "Entei",
+      "set": "Aquapolis",
+      "img": "https://den-cards.pokellector.com/110/Entei.AQ.10.6756.png",
+      "rarity": "Rare",
+      "cardNum": "10/147"
+    },
+    {
+      "name": "Espeon",
+      "set": "Aquapolis",
+      "img": "https://den-cards.pokellector.com/110/Espeon.AQ.11.6757.png",
+      "rarity": "Rare",
+      "cardNum": "11/147"
+    },
+    {
+      "name": "Exeggutor",
+      "set": "Aquapolis",
+      "img": "https://den-cards.pokellector.com/110/Exeggutor.AQ.12.png",
+      "rarity": "Rare",
+      "cardNum": "12/147"
+    },
+    {
+      "name": "Exeggutor",
+      "set": "Aquapolis",
+      "img": "https://den-cards.pokellector.com/110/Exeggutor.AQ.13.6759.png",
+      "rarity": "Rare",
+      "cardNum": "13/147"
+    },
+    {
+      "name": "Houndoom",
+      "set": "Aquapolis",
+      "img": "https://den-cards.pokellector.com/110/Houndoom.AQ.14.png",
+      "rarity": "Rare",
+      "cardNum": "14/147"
+    },
+    {
+      "name": "Houndoom",
+      "set": "Aquapolis",
+      "img": "https://den-cards.pokellector.com/110/Houndoom.AQ.15.png",
+      "rarity": "Rare",
+      "cardNum": "15/147"
+    },
+    {
+      "name": "Hypno",
+      "set": "Aquapolis",
+      "img": "https://den-cards.pokellector.com/110/Hypno.AQ.16.6762.png",
+      "rarity": "Rare",
+      "cardNum": "16/147"
+    },
+    {
+      "name": "Jumpluff",
+      "set": "Aquapolis",
+      "img": "https://den-cards.pokellector.com/110/Jumpluff.AQ.17.6763.png",
+      "rarity": "Rare",
+      "cardNum": "17/147"
+    },
+    {
+      "name": "Jynx",
+      "set": "Aquapolis",
+      "img": "https://den-cards.pokellector.com/110/Jynx.AQ.18.6764.png",
+      "rarity": "Rare",
+      "cardNum": "18/147"
+    },
+    {
+      "name": "Kingdra",
+      "set": "Aquapolis",
+      "img": "https://den-cards.pokellector.com/110/Kingdra.AQ.19.png",
+      "rarity": "Rare",
+      "cardNum": "19/147"
+    },
+    {
+      "name": "Lanturn",
+      "set": "Aquapolis",
+      "img": "https://den-cards.pokellector.com/110/Lanturn.AQ.20.6766.png",
+      "rarity": "Rare",
+      "cardNum": "20/147"
+    },
+    {
+      "name": "Lanturn",
+      "set": "Aquapolis",
+      "img": "https://den-cards.pokellector.com/110/Lanturn.AQ.21.6767.png",
+      "rarity": "Rare",
+      "cardNum": "21/147"
+    },
+    {
+      "name": "Magneton",
+      "set": "Aquapolis",
+      "img": "https://den-cards.pokellector.com/110/Magneton.AQ.22.6768.png",
+      "rarity": "Rare",
+      "cardNum": "22/147"
+    },
+    {
+      "name": "Muk",
+      "set": "Aquapolis",
+      "img": "https://den-cards.pokellector.com/110/Muk.AQ.23.png",
+      "rarity": "Rare",
+      "cardNum": "23/147"
+    },
+    {
+      "name": "Nidoking",
+      "set": "Aquapolis",
+      "img": "https://den-cards.pokellector.com/110/Nidoking.AQ.24.6770.png",
+      "rarity": "Rare",
+      "cardNum": "24/147"
+    },
+    {
+      "name": "Ninetales",
+      "set": "Aquapolis",
+      "img": "https://den-cards.pokellector.com/110/Ninetales.AQ.25.6771.png",
+      "rarity": "Rare",
+      "cardNum": "25/147"
+    },
+    {
+      "name": "Octillery",
+      "set": "Aquapolis",
+      "img": "https://den-cards.pokellector.com/110/Octillery.AQ.26.6772.png",
+      "rarity": "Rare",
+      "cardNum": "26/147"
+    },
+    {
+      "name": "Parasect",
+      "set": "Aquapolis",
+      "img": "https://den-cards.pokellector.com/110/Parasect.AQ.27.6773.png",
+      "rarity": "Rare",
+      "cardNum": "27/147"
+    },
+    {
+      "name": "Porygon2",
+      "set": "Aquapolis",
+      "img": "https://den-cards.pokellector.com/110/Porygon2.AQ.28.png",
+      "rarity": "Rare",
+      "cardNum": "28/147"
+    },
+    {
+      "name": "Primeape",
+      "set": "Aquapolis",
+      "img": "https://den-cards.pokellector.com/110/Primeape.AQ.29.png",
+      "rarity": "Rare",
+      "cardNum": "29/147"
+    },
+    {
+      "name": "Quagsire",
+      "set": "Aquapolis",
+      "img": "https://den-cards.pokellector.com/110/Quagsire.AQ.30.6776.png",
+      "rarity": "Rare",
+      "cardNum": "30/147"
+    },
+    {
+      "name": "Rapidash",
+      "set": "Aquapolis",
+      "img": "https://den-cards.pokellector.com/110/Rapidash.AQ.31.6777.png",
+      "rarity": "Rare",
+      "cardNum": "31/147"
+    },
+    {
+      "name": "Scizor",
+      "set": "Aquapolis",
+      "img": "https://den-cards.pokellector.com/110/Scizor.AQ.32.6778.png",
+      "rarity": "Rare",
+      "cardNum": "32/147"
+    },
+    {
+      "name": "Slowbro",
+      "set": "Aquapolis",
+      "img": "https://den-cards.pokellector.com/110/Slowbro.AQ.33.6779.png",
+      "rarity": "Rare",
+      "cardNum": "33/147"
+    },
+    {
+      "name": "Slowking",
+      "set": "Aquapolis",
+      "img": "https://den-cards.pokellector.com/110/Slowking.AQ.34.png",
+      "rarity": "Rare",
+      "cardNum": "34/147"
+    },
+    {
+      "name": "Steelix",
+      "set": "Aquapolis",
+      "img": "https://den-cards.pokellector.com/110/Steelix.AQ.35.6781.png",
+      "rarity": "Rare",
+      "cardNum": "35/147"
+    },
+    {
+      "name": "Sudowoodo",
+      "set": "Aquapolis",
+      "img": "https://den-cards.pokellector.com/110/Sudowoodo.AQ.36.6782.png",
+      "rarity": "Rare",
+      "cardNum": "36/147"
+    },
+    {
+      "name": "Suicune",
+      "set": "Aquapolis",
+      "img": "https://den-cards.pokellector.com/110/Suicune.AQ.37.6783.png",
+      "rarity": "Rare",
+      "cardNum": "37/147"
+    },
+    {
+      "name": "Tentacruel",
+      "set": "Aquapolis",
+      "img": "https://den-cards.pokellector.com/110/Tentacruel.AQ.38.6784.png",
+      "rarity": "Rare",
+      "cardNum": "38/147"
+    },
+    {
+      "name": "Togetic",
+      "set": "Aquapolis",
+      "img": "https://den-cards.pokellector.com/110/Togetic.AQ.39.6785.png",
+      "rarity": "Rare",
+      "cardNum": "39/147"
+    },
+    {
+      "name": "Tyranitar",
+      "set": "Aquapolis",
+      "img": "https://den-cards.pokellector.com/110/Tyranitar.AQ.40.png",
+      "rarity": "Rare",
+      "cardNum": "40/147"
+    },
+    {
+      "name": "Umbreon",
+      "set": "Aquapolis",
+      "img": "https://den-cards.pokellector.com/110/Umbreon.AQ.41.6787.png",
+      "rarity": "Rare",
+      "cardNum": "41/147"
+    },
+    {
+      "name": "Victreebel",
+      "set": "Aquapolis",
+      "img": "https://den-cards.pokellector.com/110/Victreebel.AQ.42.6788.png",
+      "rarity": "Rare",
+      "cardNum": "42/147"
+    },
+    {
+      "name": "Vileplume",
+      "set": "Aquapolis",
+      "img": "https://den-cards.pokellector.com/110/Vileplume.AQ.43.6789.png",
+      "rarity": "Rare",
+      "cardNum": "43/147"
+    },
+    {
+      "name": "Zapdos",
+      "set": "Aquapolis",
+      "img": "https://den-cards.pokellector.com/110/Zapdos.AQ.44.6790.png",
+      "rarity": "Rare",
+      "cardNum": "44/147"
+    },
+    {
+      "name": "Bellsprout",
+      "set": "Aquapolis",
+      "img": "https://den-cards.pokellector.com/110/Bellsprout.AQ.45.6791.png",
+      "rarity": "Uncommon",
+      "cardNum": "45/147"
+    },
+    {
+      "name": "Dodrio",
+      "set": "Aquapolis",
+      "img": "https://den-cards.pokellector.com/110/Dodrio.AQ.46.6792.png",
+      "rarity": "Uncommon",
+      "cardNum": "46/147"
+    },
+    {
+      "name": "Flaaffy",
+      "set": "Aquapolis",
+      "img": "https://den-cards.pokellector.com/110/Flaaffy.AQ.47.6793.png",
+      "rarity": "Uncommon",
+      "cardNum": "47/147"
+    },
+    {
+      "name": "Furret",
+      "set": "Aquapolis",
+      "img": "https://den-cards.pokellector.com/110/Furret.AQ.48.6794.png",
+      "rarity": "Uncommon",
+      "cardNum": "48/147"
+    },
+    {
+      "name": "Gloom",
+      "set": "Aquapolis",
+      "img": "https://den-cards.pokellector.com/110/Gloom.AQ.49.6795.png",
+      "rarity": "Uncommon",
+      "cardNum": "49/147"
+    },
+    {
+      "name": "Golduck",
+      "set": "Aquapolis",
+      "img": "https://den-cards.pokellector.com/110/Golduck.AQ.50.6796.png",
+      "rarity": "Uncommon",
+      "cardNum": "50/147"
+    },
+    {
+      "name": "Growlithe",
+      "set": "Aquapolis",
+      "img": "https://den-cards.pokellector.com/110/Growlithe.AQ.51.6797.png",
+      "rarity": "Uncommon",
+      "cardNum": "51/147"
+    },
+    {
+      "name": "Magnemite",
+      "set": "Aquapolis",
+      "img": "https://den-cards.pokellector.com/110/Magnemite.AQ.52.6798.png",
+      "rarity": "Uncommon",
+      "cardNum": "52/147"
+    },
+    {
+      "name": "Marill",
+      "set": "Aquapolis",
+      "img": "https://den-cards.pokellector.com/110/Marill.AQ.53.6799.png",
+      "rarity": "Uncommon",
+      "cardNum": "53/147"
+    },
+    {
+      "name": "Marowak",
+      "set": "Aquapolis",
+      "img": "https://den-cards.pokellector.com/110/Marowak.AQ.54.png",
+      "rarity": "Uncommon",
+      "cardNum": "54/147"
+    },
+    {
+      "name": "Nidorino",
+      "set": "Aquapolis",
+      "img": "https://den-cards.pokellector.com/110/Nidorino.AQ.55.png",
+      "rarity": "Uncommon",
+      "cardNum": "55/147"
+    },
+    {
+      "name": "Pupitar",
+      "set": "Aquapolis",
+      "img": "https://den-cards.pokellector.com/110/Pupitar.AQ.56.6802.png",
+      "rarity": "Uncommon",
+      "cardNum": "56/147"
+    },
+    {
+      "name": "Scyther",
+      "set": "Aquapolis",
+      "img": "https://den-cards.pokellector.com/110/Scyther.AQ.57.6803.png",
+      "rarity": "Uncommon",
+      "cardNum": "57/147"
+    },
+    {
+      "name": "Seadra",
+      "set": "Aquapolis",
+      "img": "https://den-cards.pokellector.com/110/Seadra.AQ.58.6804.png",
+      "rarity": "Uncommon",
+      "cardNum": "58/147"
+    },
+    {
+      "name": "Seaking",
+      "set": "Aquapolis",
+      "img": "https://den-cards.pokellector.com/110/Seaking.AQ.59.6805.png",
+      "rarity": "Uncommon",
+      "cardNum": "59/147"
+    },
+    {
+      "name": "Skiploom",
+      "set": "Aquapolis",
+      "img": "https://den-cards.pokellector.com/110/Skiploom.AQ.60.6806.png",
+      "rarity": "Uncommon",
+      "cardNum": "60/147"
+    },
+    {
+      "name": "Smoochum",
+      "set": "Aquapolis",
+      "img": "https://den-cards.pokellector.com/110/Smoochum.AQ.61.6807.png",
+      "rarity": "Uncommon",
+      "cardNum": "61/147"
+    },
+    {
+      "name": "Spinarak",
+      "set": "Aquapolis",
+      "img": "https://den-cards.pokellector.com/110/Spinarak.AQ.62.6808.png",
+      "rarity": "Uncommon",
+      "cardNum": "62/147"
+    },
+    {
+      "name": "Tyrogue",
+      "set": "Aquapolis",
+      "img": "https://den-cards.pokellector.com/110/Tyrogue.AQ.63.6809.png",
+      "rarity": "Uncommon",
+      "cardNum": "63/147"
+    },
+    {
+      "name": "Voltorb",
+      "set": "Aquapolis",
+      "img": "https://den-cards.pokellector.com/110/Voltorb.AQ.64.6810.png",
+      "rarity": "Uncommon",
+      "cardNum": "64/147"
+    },
+    {
+      "name": "Weepinbell",
+      "set": "Aquapolis",
+      "img": "https://den-cards.pokellector.com/110/Weepinbell.AQ.65.6811.png",
+      "rarity": "Uncommon",
+      "cardNum": "65/147"
+    },
+    {
+      "name": "Wooper",
+      "set": "Aquapolis",
+      "img": "https://den-cards.pokellector.com/110/Wooper.AQ.66.6812.png",
+      "rarity": "Uncommon",
+      "cardNum": "66/147"
+    },
+    {
+      "name": "Aipom",
+      "set": "Aquapolis",
+      "img": "https://den-cards.pokellector.com/110/Aipom.AQ.67.6813.png",
+      "rarity": "Common",
+      "cardNum": "67/147"
+    },
+    {
+      "name": "Bellsprout",
+      "set": "Aquapolis",
+      "img": "https://den-cards.pokellector.com/110/Bellsprout.AQ.68.6814.png",
+      "rarity": "Common",
+      "cardNum": "68/147"
+    },
+    {
+      "name": "Chansey",
+      "set": "Aquapolis",
+      "img": "https://den-cards.pokellector.com/110/Chansey.AQ.69.png",
+      "rarity": "Common",
+      "cardNum": "69/147"
+    },
+    {
+      "name": "Chinchou",
+      "set": "Aquapolis",
+      "img": "https://den-cards.pokellector.com/110/Chinchou.AQ.70.6816.png",
+      "rarity": "Common",
+      "cardNum": "70/147"
+    },
+    {
+      "name": "Chinchou",
+      "set": "Aquapolis",
+      "img": "https://den-cards.pokellector.com/110/Chinchou.AQ.71.6817.png",
+      "rarity": "Common",
+      "cardNum": "71/147"
+    },
+    {
+      "name": "Cubone",
+      "set": "Aquapolis",
+      "img": "https://den-cards.pokellector.com/110/Cubone.AQ.72.png",
+      "rarity": "Common",
+      "cardNum": "72/147"
+    },
+    {
+      "name": "Doduo",
+      "set": "Aquapolis",
+      "img": "https://den-cards.pokellector.com/110/Doduo.AQ.73.6819.png",
+      "rarity": "Common",
+      "cardNum": "73/147"
+    },
+    {
+      "name": "Drowzee",
+      "set": "Aquapolis",
+      "img": "https://den-cards.pokellector.com/110/Drowzee.AQ.74.png",
+      "rarity": "Common",
+      "cardNum": "74/147"
+    },
+    {
+      "name": "Eevee",
+      "set": "Aquapolis",
+      "img": "https://den-cards.pokellector.com/110/Eevee.AQ.75.6821.png",
+      "rarity": "Common",
+      "cardNum": "75/147"
+    },
+    {
+      "name": "Exeggcute",
+      "set": "Aquapolis",
+      "img": "https://den-cards.pokellector.com/110/Exeggcute.AQ.76.png",
+      "rarity": "Common",
+      "cardNum": "76/147"
+    },
+    {
+      "name": "Exeggcute",
+      "set": "Aquapolis",
+      "img": "https://den-cards.pokellector.com/110/Exeggcute.AQ.77.6823.png",
+      "rarity": "Common",
+      "cardNum": "77/147"
+    },
+    {
+      "name": "Goldeen",
+      "set": "Aquapolis",
+      "img": "https://den-cards.pokellector.com/110/Goldeen.AQ.78.6824.png",
+      "rarity": "Common",
+      "cardNum": "78/147"
+    },
+    {
+      "name": "Grimer",
+      "set": "Aquapolis",
+      "img": "https://den-cards.pokellector.com/110/Grimer.AQ.79.png",
+      "rarity": "Common",
+      "cardNum": "79/147"
+    },
+    {
+      "name": "Growlithe",
+      "set": "Aquapolis",
+      "img": "https://den-cards.pokellector.com/110/Growlithe.AQ.80.6826.png",
+      "rarity": "Common",
+      "cardNum": "80/147"
+    },
+    {
+      "name": "Hitmonchan",
+      "set": "Aquapolis",
+      "img": "https://den-cards.pokellector.com/110/Hitmonchan.AQ.81.6827.png",
+      "rarity": "Common",
+      "cardNum": "81/147"
+    },
+    {
+      "name": "Hitmontop",
+      "set": "Aquapolis",
+      "img": "https://den-cards.pokellector.com/110/Hitmontop.AQ.82.6828.png",
+      "rarity": "Common",
+      "cardNum": "82/147"
+    },
+    {
+      "name": "Hoppip",
+      "set": "Aquapolis",
+      "img": "https://den-cards.pokellector.com/110/Hoppip.AQ.83.6829.png",
+      "rarity": "Common",
+      "cardNum": "83/147"
+    },
+    {
+      "name": "Horsea",
+      "set": "Aquapolis",
+      "img": "https://den-cards.pokellector.com/110/Horsea.AQ.84.png",
+      "rarity": "Common",
+      "cardNum": "84/147"
+    },
+    {
+      "name": "Horsea",
+      "set": "Aquapolis",
+      "img": "https://den-cards.pokellector.com/110/Horsea.AQ.85.6831.png",
+      "rarity": "Common",
+      "cardNum": "85/147"
+    },
+    {
+      "name": "Houndour",
+      "set": "Aquapolis",
+      "img": "https://den-cards.pokellector.com/110/Houndour.AQ.86.png",
+      "rarity": "Common",
+      "cardNum": "86/147"
+    },
+    {
+      "name": "Houndour",
+      "set": "Aquapolis",
+      "img": "https://den-cards.pokellector.com/110/Houndour.AQ.87.6833.png",
+      "rarity": "Common",
+      "cardNum": "87/147"
+    },
+    {
+      "name": "Kangaskhan",
+      "set": "Aquapolis",
+      "img": "https://den-cards.pokellector.com/110/Kangaskhan.AQ.88.6834.png",
+      "rarity": "Common",
+      "cardNum": "88/147"
+    },
+    {
+      "name": "Larvitar",
+      "set": "Aquapolis",
+      "img": "https://den-cards.pokellector.com/110/Larvitar.AQ.89.6835.png",
+      "rarity": "Common",
+      "cardNum": "89/147"
+    },
+    {
+      "name": "Lickitung",
+      "set": "Aquapolis",
+      "img": "https://den-cards.pokellector.com/110/Lickitung.AQ.90.6836.png",
+      "rarity": "Common",
+      "cardNum": "90/147"
+    },
+    {
+      "name": "Magnemite",
+      "set": "Aquapolis",
+      "img": "https://den-cards.pokellector.com/110/Magnemite.AQ.91.png",
+      "rarity": "Common",
+      "cardNum": "91/147"
+    },
+    {
+      "name": "Mankey",
+      "set": "Aquapolis",
+      "img": "https://den-cards.pokellector.com/110/Mankey.AQ.92.6838.png",
+      "rarity": "Common",
+      "cardNum": "92/147"
+    },
+    {
+      "name": "Mareep",
+      "set": "Aquapolis",
+      "img": "https://den-cards.pokellector.com/110/Mareep.AQ.93.png",
+      "rarity": "Common",
+      "cardNum": "93/147"
+    },
+    {
+      "name": "Miltank",
+      "set": "Aquapolis",
+      "img": "https://den-cards.pokellector.com/110/Miltank.AQ.94.6840.png",
+      "rarity": "Common",
+      "cardNum": "94/147"
+    },
+    {
+      "name": "Mr. Mime",
+      "set": "Aquapolis",
+      "img": "https://den-cards.pokellector.com/110/Mr-Mime.AQ.95.png",
+      "rarity": "Common",
+      "cardNum": "95/147"
+    },
+    {
+      "name": "Nidoran (m)",
+      "set": "Aquapolis",
+      "img": "https://den-cards.pokellector.com/110/Nidoran-m.AQ.96.png",
+      "rarity": "Common",
+      "cardNum": "96/147"
+    },
+    {
+      "name": "Oddish",
+      "set": "Aquapolis",
+      "img": "https://den-cards.pokellector.com/110/Oddish.AQ.97.6843.png",
+      "rarity": "Common",
+      "cardNum": "97/147"
+    },
+    {
+      "name": "Onix",
+      "set": "Aquapolis",
+      "img": "https://den-cards.pokellector.com/110/Onix.AQ.98.png",
+      "rarity": "Common",
+      "cardNum": "98/147"
+    },
+    {
+      "name": "Paras",
+      "set": "Aquapolis",
+      "img": "https://den-cards.pokellector.com/110/Paras.AQ.99.6845.png",
+      "rarity": "Common",
+      "cardNum": "99/147"
+    },
+    {
+      "name": "Phanpy",
+      "set": "Aquapolis",
+      "img": "https://den-cards.pokellector.com/110/Phanpy.AQ.100.6846.png",
+      "rarity": "Common",
+      "cardNum": "100/147"
+    },
+    {
+      "name": "Pinsir",
+      "set": "Aquapolis",
+      "img": "https://den-cards.pokellector.com/110/Pinsir.AQ.101.6847.png",
+      "rarity": "Common",
+      "cardNum": "101/147"
+    },
+    {
+      "name": "Ponyta",
+      "set": "Aquapolis",
+      "img": "https://den-cards.pokellector.com/110/Ponyta.AQ.102.6848.png",
+      "rarity": "Common",
+      "cardNum": "102/147"
+    },
+    {
+      "name": "Porygon",
+      "set": "Aquapolis",
+      "img": "https://den-cards.pokellector.com/110/Porygon.AQ.103.6849.png",
+      "rarity": "Common",
+      "cardNum": "103/147"
+    },
+    {
+      "name": "Psyduck",
+      "set": "Aquapolis",
+      "img": "https://den-cards.pokellector.com/110/Psyduck.AQ.104.6850.png",
+      "rarity": "Common",
+      "cardNum": "104/147"
+    },
+    {
+      "name": "Remoraid",
+      "set": "Aquapolis",
+      "img": "https://den-cards.pokellector.com/110/Remoraid.AQ.105.png",
+      "rarity": "Common",
+      "cardNum": "105/147"
+    },
+    {
+      "name": "Scyther",
+      "set": "Aquapolis",
+      "img": "https://den-cards.pokellector.com/110/Scyther.AQ.106.6852.png",
+      "rarity": "Common",
+      "cardNum": "106/147"
+    },
+    {
+      "name": "Sentret",
+      "set": "Aquapolis",
+      "img": "https://den-cards.pokellector.com/110/Sentret.AQ.107.6853.png",
+      "rarity": "Common",
+      "cardNum": "107/147"
+    },
+    {
+      "name": "Slowpoke",
+      "set": "Aquapolis",
+      "img": "https://den-cards.pokellector.com/110/Slowpoke.AQ.108.6854.png",
+      "rarity": "Common",
+      "cardNum": "108/147"
+    },
+    {
+      "name": "Smeargle",
+      "set": "Aquapolis",
+      "img": "https://den-cards.pokellector.com/110/Smeargle.AQ.109.6855.png",
+      "rarity": "Common",
+      "cardNum": "109/147"
+    },
+    {
+      "name": "Sneasel",
+      "set": "Aquapolis",
+      "img": "https://den-cards.pokellector.com/110/Sneasel.AQ.110.png",
+      "rarity": "Common",
+      "cardNum": "110/147"
+    },
+    {
+      "name": "Spinarak",
+      "set": "Aquapolis",
+      "img": "https://den-cards.pokellector.com/110/Spinarak.AQ.111.png",
+      "rarity": "Common",
+      "cardNum": "111/147"
+    },
+    {
+      "name": "Tangela",
+      "set": "Aquapolis",
+      "img": "https://den-cards.pokellector.com/110/Tangela.AQ.112.6858.png",
+      "rarity": "Common",
+      "cardNum": "112/147"
+    },
+    {
+      "name": "Tentacool",
+      "set": "Aquapolis",
+      "img": "https://den-cards.pokellector.com/110/Tentacool.AQ.113.6859.png",
+      "rarity": "Common",
+      "cardNum": "113/147"
+    },
+    {
+      "name": "Togepi",
+      "set": "Aquapolis",
+      "img": "https://den-cards.pokellector.com/110/Togepi.AQ.114.6860.png",
+      "rarity": "Common",
+      "cardNum": "114/147"
+    },
+    {
+      "name": "Voltorb",
+      "set": "Aquapolis",
+      "img": "https://den-cards.pokellector.com/110/Voltorb.AQ.115.6861.png",
+      "rarity": "Common",
+      "cardNum": "115/147"
+    },
+    {
+      "name": "Vulpix",
+      "set": "Aquapolis",
+      "img": "https://den-cards.pokellector.com/110/Vulpix.AQ.116.png",
+      "rarity": "Common",
+      "cardNum": "116/147"
+    },
+    {
+      "name": "Wooper",
+      "set": "Aquapolis",
+      "img": "https://den-cards.pokellector.com/110/Wooper.AQ.117.6863.png",
+      "rarity": "Common",
+      "cardNum": "117/147"
+    },
+    {
+      "name": "Apricorn Forest",
+      "set": "Aquapolis",
+      "img": "https://den-cards.pokellector.com/110/Apricorn-Forest.AQ.118.6864.png",
+      "rarity": "Rare",
+      "cardNum": "118/147"
+    },
+    {
+      "name": "Darkness Cube 01",
+      "set": "Aquapolis",
+      "img": "https://den-cards.pokellector.com/110/Darkness-Cube-01.AQ.119.png",
+      "rarity": "Uncommon",
+      "cardNum": "119/147"
+    },
+    {
+      "name": "Energy Switch",
+      "set": "Aquapolis",
+      "img": "https://den-cards.pokellector.com/110/Energy-Switch.AQ.120.6866.png",
+      "rarity": "Uncommon",
+      "cardNum": "120/147"
+    },
+    {
+      "name": "Fighting Cube 01",
+      "set": "Aquapolis",
+      "img": "https://den-cards.pokellector.com/110/Fighting-Cube-01.AQ.121.png",
+      "rarity": "Uncommon",
+      "cardNum": "121/147"
+    },
+    {
+      "name": "Fire Cube 01",
+      "set": "Aquapolis",
+      "img": "https://den-cards.pokellector.com/110/Fire-Cube-01.AQ.122.png",
+      "rarity": "Uncommon",
+      "cardNum": "122/147"
+    },
+    {
+      "name": "Forest Guardian",
+      "set": "Aquapolis",
+      "img": "https://den-cards.pokellector.com/110/Forest-Guardian.AQ.123.png",
+      "rarity": "Uncommon",
+      "cardNum": "123/147"
+    },
+    {
+      "name": "Grass Cube 01",
+      "set": "Aquapolis",
+      "img": "https://den-cards.pokellector.com/110/Grass-Cube-01.AQ.124.png",
+      "rarity": "Uncommon",
+      "cardNum": "124/147"
+    },
+    {
+      "name": "Healing Berry",
+      "set": "Aquapolis",
+      "img": "https://den-cards.pokellector.com/110/Healing-Berry.AQ.125.6871.png",
+      "rarity": "Uncommon",
+      "cardNum": "125/147"
+    },
+    {
+      "name": "Juggler",
+      "set": "Aquapolis",
+      "img": "https://den-cards.pokellector.com/110/Juggler.AQ.126.6872.png",
+      "rarity": "Uncommon",
+      "cardNum": "126/147"
+    },
+    {
+      "name": "Lightning Cube 01",
+      "set": "Aquapolis",
+      "img": "https://den-cards.pokellector.com/110/Lightning-Cube-01.AQ.127.png",
+      "rarity": "Uncommon",
+      "cardNum": "127/147"
+    },
+    {
+      "name": "Memory Berry",
+      "set": "Aquapolis",
+      "img": "https://den-cards.pokellector.com/110/Memory-Berry.AQ.128.6874.png",
+      "rarity": "Uncommon",
+      "cardNum": "128/147"
+    },
+    {
+      "name": "Metal Cube 01",
+      "set": "Aquapolis",
+      "img": "https://den-cards.pokellector.com/110/Metal-Cube-01.AQ.129.png",
+      "rarity": "Uncommon",
+      "cardNum": "129/147"
+    },
+    {
+      "name": "Pokemon Fan Club",
+      "set": "Aquapolis",
+      "img": "https://den-cards.pokellector.com/110/Pokemon-Fan-Club.AQ.130.png",
+      "rarity": "Uncommon",
+      "cardNum": "130/147"
+    },
+    {
+      "name": "Pokemon Park",
+      "set": "Aquapolis",
+      "img": "https://den-cards.pokellector.com/110/Pokemon-Park.AQ.131.6877.png",
+      "rarity": "Uncommon",
+      "cardNum": "131/147"
+    },
+    {
+      "name": "Psychic Cube 01",
+      "set": "Aquapolis",
+      "img": "https://den-cards.pokellector.com/110/Psychic-Cube-01.AQ.132.png",
+      "rarity": "Uncommon",
+      "cardNum": "132/147"
+    },
+    {
+      "name": "Seer",
+      "set": "Aquapolis",
+      "img": "https://den-cards.pokellector.com/110/Seer.AQ.133.png",
+      "rarity": "Uncommon",
+      "cardNum": "133/147"
+    },
+    {
+      "name": "Super Energy Removal 2",
+      "set": "Aquapolis",
+      "img": "https://den-cards.pokellector.com/110/Super-Energy-Removal-2.AQ.134.png",
+      "rarity": "Uncommon",
+      "cardNum": "134/147"
+    },
+    {
+      "name": "Time Shard",
+      "set": "Aquapolis",
+      "img": "https://den-cards.pokellector.com/110/Time-Shard.AQ.135.6881.png",
+      "rarity": "Uncommon",
+      "cardNum": "135/147"
+    },
+    {
+      "name": "Town Volunteers",
+      "set": "Aquapolis",
+      "img": "https://den-cards.pokellector.com/110/Town-Volunteers.AQ.136.png",
+      "rarity": "Uncommon",
+      "cardNum": "136/147"
+    },
+    {
+      "name": "Traveling Salesman",
+      "set": "Aquapolis",
+      "img": "https://den-cards.pokellector.com/110/Traveling-Salesman.AQ.137.png",
+      "rarity": "Uncommon",
+      "cardNum": "137/147"
+    },
+    {
+      "name": "Undersea Ruins",
+      "set": "Aquapolis",
+      "img": "https://den-cards.pokellector.com/110/Undersea-Ruins.AQ.138.6884.png",
+      "rarity": "Uncommon",
+      "cardNum": "138/147"
+    },
+    {
+      "name": "Power Plant",
+      "set": "Aquapolis",
+      "img": "https://den-cards.pokellector.com/110/Power-Plant.AQ.139.png",
+      "rarity": "Uncommon",
+      "cardNum": "139/147"
+    },
+    {
+      "name": "Water Cube 01",
+      "set": "Aquapolis",
+      "img": "https://den-cards.pokellector.com/110/Water-Cube-01.AQ.140.png",
+      "rarity": "Uncommon",
+      "cardNum": "140/147"
+    },
+    {
+      "name": "Weakness Guard",
+      "set": "Aquapolis",
+      "img": "https://den-cards.pokellector.com/110/Weakness-Guard.AQ.141.6887.png",
+      "rarity": "Uncommon",
+      "cardNum": "141/147"
+    },
+    {
+      "name": "Darkness Energy",
+      "set": "Aquapolis",
+      "img": "https://den-cards.pokellector.com/110/Darkness-Energy.AQ.142.png",
+      "rarity": "Rare",
+      "cardNum": "142/147"
+    },
+    {
+      "name": "Metal Energy",
+      "set": "Aquapolis",
+      "img": "https://den-cards.pokellector.com/110/Metal-Energy.AQ.143.6889.png",
+      "rarity": "Rare",
+      "cardNum": "143/147"
+    },
+    {
+      "name": "Rainbow Energy",
+      "set": "Aquapolis",
+      "img": "https://den-cards.pokellector.com/110/Rainbow-Energy.AQ.144.6890.png",
+      "rarity": "Rare",
+      "cardNum": "144/147"
+    },
+    {
+      "name": "Boost Energy",
+      "set": "Aquapolis",
+      "img": "https://den-cards.pokellector.com/110/Boost-Energy.AQ.145.6891.png",
+      "rarity": "Uncommon",
+      "cardNum": "145/147"
+    },
+    {
+      "name": "Crystal Energy",
+      "set": "Aquapolis",
+      "img": "https://den-cards.pokellector.com/110/Crystal-Energy.AQ.146.6892.png",
+      "rarity": "Uncommon",
+      "cardNum": "146/147"
+    },
+    {
+      "name": "Warp Energy",
+      "set": "Aquapolis",
+      "img": "https://den-cards.pokellector.com/110/Warp-Energy.AQ.147.6893.png",
+      "rarity": "Uncommon",
+      "cardNum": "147/147"
+    },
+    {
+      "name": "Kingdra",
+      "set": "Aquapolis",
+      "img": "https://den-cards.pokellector.com/110/Kingdra.AQ.148.6894.png",
+      "rarity": "Secret Rare",
+      "cardNum": "148/147"
+    },
+    {
+      "name": "Lugia",
+      "set": "Aquapolis",
+      "img": "https://den-cards.pokellector.com/110/Lugia.AQ.149.png",
+      "rarity": "Secret Rare",
+      "cardNum": "149/147"
+    },
+    {
+      "name": "Nidoking",
+      "set": "Aquapolis",
+      "img": "https://den-cards.pokellector.com/110/Nidoking.AQ.150.png",
+      "rarity": "Secret Rare",
+      "cardNum": "150/147"
+    },
+    {
+      "name": "Ampharos",
+      "set": "Aquapolis",
+      "img": "https://www.pokellector.com/images/card-placeholder.png",
+      "rarity": "Rare",
+      "cardNum": "H1"
+    },
+    {
+      "name": "Arcanine",
+      "set": "Aquapolis",
+      "img": "https://www.pokellector.com/images/card-placeholder.png",
+      "rarity": "Rare",
+      "cardNum": "H2"
+    },
+    {
+      "name": "Ariados",
+      "set": "Aquapolis",
+      "img": "https://www.pokellector.com/images/card-placeholder.png",
+      "rarity": "Rare",
+      "cardNum": "H3"
+    },
+    {
+      "name": "Azumarill",
+      "set": "Aquapolis",
+      "img": "https://www.pokellector.com/images/card-placeholder.png",
+      "rarity": "Rare",
+      "cardNum": "H4"
+    },
+    {
+      "name": "Bellossom",
+      "set": "Aquapolis",
+      "img": "https://www.pokellector.com/images/card-placeholder.png",
+      "rarity": "Rare",
+      "cardNum": "H5"
+    },
+    {
+      "name": "Blissey",
+      "set": "Aquapolis",
+      "img": "https://den-cards.pokellector.com/110/Blissey.AQ.6.png",
+      "rarity": "Rare",
+      "cardNum": "H6"
+    },
+    {
+      "name": "Electrode",
+      "set": "Aquapolis",
+      "img": "https://www.pokellector.com/images/card-placeholder.png",
+      "rarity": "Rare",
+      "cardNum": "H7"
+    },
+    {
+      "name": "Entei",
+      "set": "Aquapolis",
+      "img": "https://den-cards.pokellector.com/110/Entei.AQ.8.png",
+      "rarity": "Rare",
+      "cardNum": "H8"
+    },
+    {
+      "name": "Espeon",
+      "set": "Aquapolis",
+      "img": "https://www.pokellector.com/images/card-placeholder.png",
+      "rarity": "Rare",
+      "cardNum": "H9"
+    },
+    {
+      "name": "Exeggutor",
+      "set": "Aquapolis",
+      "img": "https://www.pokellector.com/images/card-placeholder.png",
+      "rarity": "Rare",
+      "cardNum": "H10"
+    },
+    {
+      "name": "Houndoom",
+      "set": "Aquapolis",
+      "img": "https://www.pokellector.com/images/card-placeholder.png",
+      "rarity": "Rare",
+      "cardNum": "H11"
+    },
+    {
+      "name": "Hypno",
+      "set": "Aquapolis",
+      "img": "https://www.pokellector.com/images/card-placeholder.png",
+      "rarity": "Rare",
+      "cardNum": "H12"
+    },
+    {
+      "name": "Jumpluff",
+      "set": "Aquapolis",
+      "img": "https://www.pokellector.com/images/card-placeholder.png",
+      "rarity": "Rare",
+      "cardNum": "H13"
+    },
+    {
+      "name": "Kingdra",
+      "set": "Aquapolis",
+      "img": "https://www.pokellector.com/images/card-placeholder.png",
+      "rarity": "Rare",
+      "cardNum": "H14"
+    },
+    {
+      "name": "Lanturn",
+      "set": "Aquapolis",
+      "img": "https://www.pokellector.com/images/card-placeholder.png",
+      "rarity": "Rare",
+      "cardNum": "H15"
+    },
+    {
+      "name": "Magneton",
+      "set": "Aquapolis",
+      "img": "https://www.pokellector.com/images/card-placeholder.png",
+      "rarity": "Rare",
+      "cardNum": "H16"
+    },
+    {
+      "name": "Muk",
+      "set": "Aquapolis",
+      "img": "https://www.pokellector.com/images/card-placeholder.png",
+      "rarity": "Rare",
+      "cardNum": "H17"
+    },
+    {
+      "name": "Nidoking",
+      "set": "Aquapolis",
+      "img": "https://www.pokellector.com/images/card-placeholder.png",
+      "rarity": "Rare",
+      "cardNum": "H18"
+    },
+    {
+      "name": "Ninetales",
+      "set": "Aquapolis",
+      "img": "https://www.pokellector.com/images/card-placeholder.png",
+      "rarity": "Rare",
+      "cardNum": "H19"
+    },
+    {
+      "name": "Octillery",
+      "set": "Aquapolis",
+      "img": "https://www.pokellector.com/images/card-placeholder.png",
+      "rarity": "Rare",
+      "cardNum": "H20"
+    },
+    {
+      "name": "Scizor",
+      "set": "Aquapolis",
+      "img": "https://den-cards.pokellector.com/110/Scizor.AQ.H21.6735.png",
+      "rarity": "Rare",
+      "cardNum": "H21"
+    },
+    {
+      "name": "Slowking",
+      "set": "Aquapolis",
+      "img": "https://www.pokellector.com/images/card-placeholder.png",
+      "rarity": "Rare",
+      "cardNum": "H22"
+    },
+    {
+      "name": "Steelix",
+      "set": "Aquapolis",
+      "img": "https://www.pokellector.com/images/card-placeholder.png",
+      "rarity": "Rare",
+      "cardNum": "H23"
+    },
+    {
+      "name": "Sudowoodo",
+      "set": "Aquapolis",
+      "img": "https://den-cards.pokellector.com/110/Sudowoodo.AQ.H24.6738.png",
+      "rarity": "Rare",
+      "cardNum": "H24"
+    },
+    {
+      "name": "Suicune",
+      "set": "Aquapolis",
+      "img": "https://www.pokellector.com/images/card-placeholder.png",
+      "rarity": "Rare",
+      "cardNum": "H25"
+    },
+    {
+      "name": "Tentacruel",
+      "set": "Aquapolis",
+      "img": "https://www.pokellector.com/images/card-placeholder.png",
+      "rarity": "Rare",
+      "cardNum": "H26"
+    },
+    {
+      "name": "Togetic",
+      "set": "Aquapolis",
+      "img": "https://www.pokellector.com/images/card-placeholder.png",
+      "rarity": "Rare",
+      "cardNum": "H27"
+    },
+    {
+      "name": "Tyranitar",
+      "set": "Aquapolis",
+      "img": "https://www.pokellector.com/images/card-placeholder.png",
+      "rarity": "Rare",
+      "cardNum": "H28"
+    },
+    {
+      "name": "Umbreon",
+      "set": "Aquapolis",
+      "img": "https://www.pokellector.com/images/card-placeholder.png",
+      "rarity": "Rare",
+      "cardNum": "H29"
+    },
+    {
+      "name": "Victreebel",
+      "set": "Aquapolis",
+      "img": "https://www.pokellector.com/images/card-placeholder.png",
+      "rarity": "Rare",
+      "cardNum": "H30"
+    },
+    {
+      "name": "Vileplume",
+      "set": "Aquapolis",
+      "img": "https://den-cards.pokellector.com/110/Vileplume.AQ.31.png",
+      "rarity": "Rare",
+      "cardNum": "H31"
+    },
+    {
+      "name": "Zapdos",
+      "set": "Aquapolis",
+      "img": "https://www.pokellector.com/images/card-placeholder.png",
+      "rarity": "Rare",
+      "cardNum": "H32"
+    }
+  ]
+}

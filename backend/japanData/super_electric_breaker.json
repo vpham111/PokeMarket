@@ -1,0 +1,971 @@
+{
+  "setName": "Super Electric Breaker",
+  "cards": [
+    {
+      "name": "Exeggcute",
+      "set": "Super Electric Breaker",
+      "img": "https://den-cards.pokellector.com/405/Exeggcute.SV8.1.54527.png",
+      "rarity": "Common",
+      "cardNum": "1/106"
+    },
+    {
+      "name": "Exeggutor",
+      "set": "Super Electric Breaker",
+      "img": "https://den-cards.pokellector.com/405/Exeggutor.SV8.2.54528.png",
+      "rarity": "Uncommon",
+      "cardNum": "2/106"
+    },
+    {
+      "name": "Durant ex",
+      "set": "Super Electric Breaker",
+      "img": "https://den-cards.pokellector.com/405/Durant-ex.SV8.3.54529.png",
+      "rarity": "Double Rare",
+      "cardNum": "3/106"
+    },
+    {
+      "name": "Scatterbug",
+      "set": "Super Electric Breaker",
+      "img": "https://den-cards.pokellector.com/405/Scatterbug.SV8.4.54497.png",
+      "rarity": "Common",
+      "cardNum": "4/106"
+    },
+    {
+      "name": "Spewpa",
+      "set": "Super Electric Breaker",
+      "img": "https://den-cards.pokellector.com/405/Spewpa.SV8.5.54498.png",
+      "rarity": "Common",
+      "cardNum": "5/106"
+    },
+    {
+      "name": "Vivillon",
+      "set": "Super Electric Breaker",
+      "img": "https://den-cards.pokellector.com/405/Vivillon.SV8.6.54499.png",
+      "rarity": "Uncommon",
+      "cardNum": "6/106"
+    },
+    {
+      "name": "Capsakid",
+      "set": "Super Electric Breaker",
+      "img": "https://den-cards.pokellector.com/405/Capsakid.SV8.7.54530.png",
+      "rarity": "Common",
+      "cardNum": "7/106"
+    },
+    {
+      "name": "Rellor",
+      "set": "Super Electric Breaker",
+      "img": "https://den-cards.pokellector.com/405/Rellor.SV8.8.54531.png",
+      "rarity": "Common",
+      "cardNum": "8/106"
+    },
+    {
+      "name": "Rabsca",
+      "set": "Super Electric Breaker",
+      "img": "https://den-cards.pokellector.com/405/Rabsca.SV8.9.54532.png",
+      "rarity": "Rare",
+      "cardNum": "9/106"
+    },
+    {
+      "name": "Wo-Chien",
+      "set": "Super Electric Breaker",
+      "img": "https://den-cards.pokellector.com/405/Wo-Chien.SV8.10.54533.png",
+      "rarity": "Uncommon",
+      "cardNum": "10/106"
+    },
+    {
+      "name": "Paldean Tauros",
+      "set": "Super Electric Breaker",
+      "img": "https://den-cards.pokellector.com/405/Paldean-Tauros.SV8.11.54534.png",
+      "rarity": "Uncommon",
+      "cardNum": "11/106"
+    },
+    {
+      "name": "Victini",
+      "set": "Super Electric Breaker",
+      "img": "https://den-cards.pokellector.com/405/Victini.SV8.12.54535.png",
+      "rarity": "Uncommon",
+      "cardNum": "12/106"
+    },
+    {
+      "name": "Larvesta",
+      "set": "Super Electric Breaker",
+      "img": "https://den-cards.pokellector.com/405/Larvesta.SV8.13.54536.png",
+      "rarity": "Common",
+      "cardNum": "13/106"
+    },
+    {
+      "name": "Volcarona",
+      "set": "Super Electric Breaker",
+      "img": "https://den-cards.pokellector.com/405/Volcarona.SV8.14.54537.png",
+      "rarity": "Common",
+      "cardNum": "14/106"
+    },
+    {
+      "name": "Sizzlipede",
+      "set": "Super Electric Breaker",
+      "img": "https://den-cards.pokellector.com/405/Sizzlipede.SV8.15.54538.png",
+      "rarity": "Common",
+      "cardNum": "15/106"
+    },
+    {
+      "name": "Centiskorch",
+      "set": "Super Electric Breaker",
+      "img": "https://den-cards.pokellector.com/405/Centiskorch.SV8.16.54539.png",
+      "rarity": "Common",
+      "cardNum": "16/106"
+    },
+    {
+      "name": "Fuecoco",
+      "set": "Super Electric Breaker",
+      "img": "https://den-cards.pokellector.com/405/Fuecoco.SV8.17.54488.png",
+      "rarity": "Common",
+      "cardNum": "17/106"
+    },
+    {
+      "name": "Crocalor",
+      "set": "Super Electric Breaker",
+      "img": "https://den-cards.pokellector.com/405/Crocalor.SV8.18.54489.png",
+      "rarity": "Common",
+      "cardNum": "18/106"
+    },
+    {
+      "name": "Skeledirge",
+      "set": "Super Electric Breaker",
+      "img": "https://den-cards.pokellector.com/405/Skeledirge.SV8.19.54490.png",
+      "rarity": "Rare",
+      "cardNum": "19/106"
+    },
+    {
+      "name": "Charcadet",
+      "set": "Super Electric Breaker",
+      "img": "https://den-cards.pokellector.com/405/Charcadet.SV8.20.54540.png",
+      "rarity": "Common",
+      "cardNum": "20/106"
+    },
+    {
+      "name": "Armarouge",
+      "set": "Super Electric Breaker",
+      "img": "https://den-cards.pokellector.com/405/Armarouge.SV8.21.54541.png",
+      "rarity": "Uncommon",
+      "cardNum": "21/106"
+    },
+    {
+      "name": "Ceruledge",
+      "set": "Super Electric Breaker",
+      "img": "https://den-cards.pokellector.com/405/Ceruledge.SV8.22.54542.png",
+      "rarity": "Uncommon",
+      "cardNum": "22/106"
+    },
+    {
+      "name": "Scovillain ex",
+      "set": "Super Electric Breaker",
+      "img": "https://den-cards.pokellector.com/405/Scovillain-ex.SV8.23.54543.png",
+      "rarity": "Double Rare",
+      "cardNum": "23/106"
+    },
+    {
+      "name": "Paldean Tauros",
+      "set": "Super Electric Breaker",
+      "img": "https://den-cards.pokellector.com/405/Paldean-Tauros.SV8.24.54544.png",
+      "rarity": "Uncommon",
+      "cardNum": "24/106"
+    },
+    {
+      "name": "Feebas",
+      "set": "Super Electric Breaker",
+      "img": "https://den-cards.pokellector.com/405/Feebas.SV8.25.54545.png",
+      "rarity": "Common",
+      "cardNum": "25/106"
+    },
+    {
+      "name": "Miolotic ex",
+      "set": "Super Electric Breaker",
+      "img": "https://den-cards.pokellector.com/405/Miolotic-ex.SV8.26.54472.png",
+      "rarity": "Double Rare",
+      "cardNum": "26/106"
+    },
+    {
+      "name": "Spheal",
+      "set": "Super Electric Breaker",
+      "img": "https://den-cards.pokellector.com/405/Spheal.SV8.27.54546.png",
+      "rarity": "Common",
+      "cardNum": "27/106"
+    },
+    {
+      "name": "Sealeo",
+      "set": "Super Electric Breaker",
+      "img": "https://den-cards.pokellector.com/405/Sealeo.SV8.28.54547.png",
+      "rarity": "Common",
+      "cardNum": "28/106"
+    },
+    {
+      "name": "Walrein",
+      "set": "Super Electric Breaker",
+      "img": "https://den-cards.pokellector.com/405/Walrein.SV8.29.54548.png",
+      "rarity": "Uncommon",
+      "cardNum": "29/106"
+    },
+    {
+      "name": "Shellos",
+      "set": "Super Electric Breaker",
+      "img": "https://den-cards.pokellector.com/405/Shellos.SV8.30.54517.png",
+      "rarity": "Common",
+      "cardNum": "30/106"
+    },
+    {
+      "name": "Iron Bundle",
+      "set": "Super Electric Breaker",
+      "img": "https://den-cards.pokellector.com/405/Iron-Bundle.SV8.31.54487.png",
+      "rarity": "Uncommon",
+      "cardNum": "31/106"
+    },
+    {
+      "name": "Chien-Pao",
+      "set": "Super Electric Breaker",
+      "img": "https://den-cards.pokellector.com/405/Chien-Pao.SV8.32.54512.png",
+      "rarity": "Rare",
+      "cardNum": "32/106"
+    },
+    {
+      "name": "Pikachu ex",
+      "set": "Super Electric Breaker",
+      "img": "https://den-cards.pokellector.com/405/Pikachu-ex.SV8.33.54461.png",
+      "rarity": "Double Rare",
+      "cardNum": "33/106"
+    },
+    {
+      "name": "Magnemite",
+      "set": "Super Electric Breaker",
+      "img": "https://den-cards.pokellector.com/405/Magnemite.SV8.34.54549.png",
+      "rarity": "Common",
+      "cardNum": "34/106"
+    },
+    {
+      "name": "Magneton",
+      "set": "Super Electric Breaker",
+      "img": "https://den-cards.pokellector.com/405/Magneton.SV8.35.54462.png",
+      "rarity": "Uncommon",
+      "cardNum": "35/106"
+    },
+    {
+      "name": "Magnezone",
+      "set": "Super Electric Breaker",
+      "img": "https://den-cards.pokellector.com/405/Magneton.SV8.36.54468.png",
+      "rarity": "Uncommon",
+      "cardNum": "36/106"
+    },
+    {
+      "name": "Rotom",
+      "set": "Super Electric Breaker",
+      "img": "https://den-cards.pokellector.com/405/Rotom.SV8.37.54550.png",
+      "rarity": "Common",
+      "cardNum": "37/106"
+    },
+    {
+      "name": "Blitzle",
+      "set": "Super Electric Breaker",
+      "img": "https://den-cards.pokellector.com/405/Blitzle.SV8.38.54551.png",
+      "rarity": "Common",
+      "cardNum": "38/106"
+    },
+    {
+      "name": "Zebstrika",
+      "set": "Super Electric Breaker",
+      "img": "https://den-cards.pokellector.com/405/Zebstrika.SV8.39.54552.png",
+      "rarity": "Common",
+      "cardNum": "39/106"
+    },
+    {
+      "name": "Stunfisk",
+      "set": "Super Electric Breaker",
+      "img": "https://den-cards.pokellector.com/405/Stunfisk.SV8.40.54553.png",
+      "rarity": "Common",
+      "cardNum": "40/106"
+    },
+    {
+      "name": "Tapu Koko",
+      "set": "Super Electric Breaker",
+      "img": "https://den-cards.pokellector.com/405/Tapu-Koko.SV8.41.54473.png",
+      "rarity": "Rare",
+      "cardNum": "41/106"
+    },
+    {
+      "name": "Wattrel",
+      "set": "Super Electric Breaker",
+      "img": "https://den-cards.pokellector.com/405/Wattrel.SV8.42.54554.png",
+      "rarity": "Common",
+      "cardNum": "42/106"
+    },
+    {
+      "name": "Kilowattrel",
+      "set": "Super Electric Breaker",
+      "img": "https://den-cards.pokellector.com/405/Kilowattrel.SV8.43.54555.png",
+      "rarity": "Uncommon",
+      "cardNum": "43/106"
+    },
+    {
+      "name": "Miraidon",
+      "set": "Super Electric Breaker",
+      "img": "https://den-cards.pokellector.com/405/Miraidon.SV8.44.54496.png",
+      "rarity": "Uncommon",
+      "cardNum": "44/106"
+    },
+    {
+      "name": "Togepi",
+      "set": "Super Electric Breaker",
+      "img": "https://den-cards.pokellector.com/405/Togepi.SV8.45.54482.png",
+      "rarity": "Common",
+      "cardNum": "45/106"
+    },
+    {
+      "name": "Togetic",
+      "set": "Super Electric Breaker",
+      "img": "https://den-cards.pokellector.com/405/Togetic.SV8.46.54483.png",
+      "rarity": "Common",
+      "cardNum": "46/106"
+    },
+    {
+      "name": "Togetic",
+      "set": "Super Electric Breaker",
+      "img": "https://den-cards.pokellector.com/405/Togetic.SV8.47.54469.png",
+      "rarity": "Rare",
+      "cardNum": "47/106"
+    },
+    {
+      "name": "Uxie",
+      "set": "Super Electric Breaker",
+      "img": "https://den-cards.pokellector.com/405/Uxie.SV8.48.54556.png",
+      "rarity": "Common",
+      "cardNum": "48/106"
+    },
+    {
+      "name": "Mesprit",
+      "set": "Super Electric Breaker",
+      "img": "https://den-cards.pokellector.com/405/Mesprit.SV8.49.54557.png",
+      "rarity": "Common",
+      "cardNum": "49/106"
+    },
+    {
+      "name": "Azelf",
+      "set": "Super Electric Breaker",
+      "img": "https://den-cards.pokellector.com/405/Azelf.SV8.50.54558.png",
+      "rarity": "Common",
+      "cardNum": "50/106"
+    },
+    {
+      "name": "Yamask",
+      "set": "Super Electric Breaker",
+      "img": "https://den-cards.pokellector.com/405/Yamask.SV8.51.54515.png",
+      "rarity": "Common",
+      "cardNum": "51/106"
+    },
+    {
+      "name": "Cofagrigus",
+      "set": "Super Electric Breaker",
+      "img": "https://den-cards.pokellector.com/405/Cofagrigus.SV8.52.54516.png",
+      "rarity": "Rare",
+      "cardNum": "52/106"
+    },
+    {
+      "name": "Espurr",
+      "set": "Super Electric Breaker",
+      "img": "https://den-cards.pokellector.com/405/Espurr.SV8.53.54508.png",
+      "rarity": "Common",
+      "cardNum": "53/106"
+    },
+    {
+      "name": "Meowstic",
+      "set": "Super Electric Breaker",
+      "img": "https://den-cards.pokellector.com/405/Meowstic.SV8.54.54509.png",
+      "rarity": "Uncommon",
+      "cardNum": "54/106"
+    },
+    {
+      "name": "Dedenne",
+      "set": "Super Electric Breaker",
+      "img": "https://den-cards.pokellector.com/405/Dedenne.SV8.55.54559.png",
+      "rarity": "Common",
+      "cardNum": "55/106"
+    },
+    {
+      "name": "Sandygast",
+      "set": "Super Electric Breaker",
+      "img": "https://den-cards.pokellector.com/405/Sandygast.SV8.56.54493.png",
+      "rarity": "Common",
+      "cardNum": "56/106"
+    },
+    {
+      "name": "Palossand ex",
+      "set": "Super Electric Breaker",
+      "img": "https://den-cards.pokellector.com/405/Palossand-ex.SV8.57.54494.png",
+      "rarity": "Double Rare",
+      "cardNum": "57/106"
+    },
+    {
+      "name": "Indeedee",
+      "set": "Super Electric Breaker",
+      "img": "https://den-cards.pokellector.com/405/Indeedee.SV8.58.54560.png",
+      "rarity": "Uncommon",
+      "cardNum": "58/106"
+    },
+    {
+      "name": "Flutter Mane",
+      "set": "Super Electric Breaker",
+      "img": "https://den-cards.pokellector.com/405/Flutter-Mane.SV8.59.54486.png",
+      "rarity": "Uncommon",
+      "cardNum": "59/106"
+    },
+    {
+      "name": "Mankey",
+      "set": "Super Electric Breaker",
+      "img": "https://den-cards.pokellector.com/405/Mankey.SV8.60.54561.png",
+      "rarity": "Common",
+      "cardNum": "60/106"
+    },
+    {
+      "name": "Primeape",
+      "set": "Super Electric Breaker",
+      "img": "https://den-cards.pokellector.com/405/Primeape.SV8.61.54562.png",
+      "rarity": "Common",
+      "cardNum": "61/106"
+    },
+    {
+      "name": "Annihilape",
+      "set": "Super Electric Breaker",
+      "img": "https://den-cards.pokellector.com/405/Annihilape.SV8.62.54563.png",
+      "rarity": "Uncommon",
+      "cardNum": "62/106"
+    },
+    {
+      "name": "Paldean Tauros",
+      "set": "Super Electric Breaker",
+      "img": "https://den-cards.pokellector.com/405/Paldean-Tauros.SV8.63.54564.png",
+      "rarity": "Uncommon",
+      "cardNum": "63/106"
+    },
+    {
+      "name": "Phanpy",
+      "set": "Super Electric Breaker",
+      "img": "https://den-cards.pokellector.com/405/Phanpy.SV8.64.54565.png",
+      "rarity": "Common",
+      "cardNum": "64/106"
+    },
+    {
+      "name": "Donphan",
+      "set": "Super Electric Breaker",
+      "img": "https://den-cards.pokellector.com/405/Donphan.SV8.65.54566.png",
+      "rarity": "Common",
+      "cardNum": "65/106"
+    },
+    {
+      "name": "Gastrodon",
+      "set": "Super Electric Breaker",
+      "img": "https://den-cards.pokellector.com/405/Gastrodon.SV8.66.54518.png",
+      "rarity": "Rare",
+      "cardNum": "66/106"
+    },
+    {
+      "name": "Glimmet",
+      "set": "Super Electric Breaker",
+      "img": "https://den-cards.pokellector.com/405/Glimmet.SV8.67.54567.png",
+      "rarity": "Common",
+      "cardNum": "67/106"
+    },
+    {
+      "name": "Glimmora",
+      "set": "Super Electric Breaker",
+      "img": "https://den-cards.pokellector.com/405/Glimmora.SV8.68.54568.png",
+      "rarity": "Common",
+      "cardNum": "68/106"
+    },
+    {
+      "name": "Koraidon",
+      "set": "Super Electric Breaker",
+      "img": "https://den-cards.pokellector.com/405/Koraidon.SV8.69.54495.png",
+      "rarity": "Uncommon",
+      "cardNum": "69/106"
+    },
+    {
+      "name": "Deino",
+      "set": "Super Electric Breaker",
+      "img": "https://den-cards.pokellector.com/405/Deino.SV8.70.54481.png",
+      "rarity": "Common",
+      "cardNum": "70/106"
+    },
+    {
+      "name": "Zweilous",
+      "set": "Super Electric Breaker",
+      "img": "https://den-cards.pokellector.com/405/Zweilous.SV8.71.54480.png",
+      "rarity": "Common",
+      "cardNum": "71/106"
+    },
+    {
+      "name": "Hydreigon ex",
+      "set": "Super Electric Breaker",
+      "img": "https://den-cards.pokellector.com/405/Hydreigon-ex.SV8.72.54465.png",
+      "rarity": "Double Rare",
+      "cardNum": "72/106"
+    },
+    {
+      "name": "Shroodle",
+      "set": "Super Electric Breaker",
+      "img": "https://den-cards.pokellector.com/405/Shroodle.SV8.73.54569.png",
+      "rarity": "Common",
+      "cardNum": "73/106"
+    },
+    {
+      "name": "Grafaiai",
+      "set": "Super Electric Breaker",
+      "img": "https://den-cards.pokellector.com/405/Grafaiai.SV8.74.54570.png",
+      "rarity": "Uncommon",
+      "cardNum": "74/106"
+    },
+    {
+      "name": "Pecharunt",
+      "set": "Super Electric Breaker",
+      "img": "https://den-cards.pokellector.com/405/Pecharunt.SV8.75.54491.png",
+      "rarity": "Uncommon",
+      "cardNum": "75/106"
+    },
+    {
+      "name": "Alolan Diglett",
+      "set": "Super Electric Breaker",
+      "img": "https://den-cards.pokellector.com/405/Alolan-Diglett.SV8.76.54571.png",
+      "rarity": "Common",
+      "cardNum": "76/106"
+    },
+    {
+      "name": "Noctowl",
+      "set": "Super Electric Breaker",
+      "img": "https://den-cards.pokellector.com/405/Noctowl.SV8.77.54464.png",
+      "rarity": "Rare",
+      "cardNum": "77/106"
+    },
+    {
+      "name": "Bronzor",
+      "set": "Super Electric Breaker",
+      "img": "https://den-cards.pokellector.com/405/Bronzor.SV8.78.54572.png",
+      "rarity": "Common",
+      "cardNum": "78/106"
+    },
+    {
+      "name": "Bronzong",
+      "set": "Super Electric Breaker",
+      "img": "https://den-cards.pokellector.com/405/Bronzong.SV8.79.54573.png",
+      "rarity": "Common",
+      "cardNum": "79/106"
+    },
+    {
+      "name": "Eternatus",
+      "set": "Super Electric Breaker",
+      "img": "https://den-cards.pokellector.com/405/Eternatus.SV8.80.54492.png",
+      "rarity": "Rare",
+      "cardNum": "80/106"
+    },
+    {
+      "name": "Tatsugiri ex",
+      "set": "Super Electric Breaker",
+      "img": "https://den-cards.pokellector.com/405/Tatsugiri-ex.SV8.81.54466.png",
+      "rarity": "Double Rare",
+      "cardNum": "81/106"
+    },
+    {
+      "name": "Slakoth",
+      "set": "Super Electric Breaker",
+      "img": "https://den-cards.pokellector.com/405/Slakoth.SV8.82.54484.png",
+      "rarity": "Common",
+      "cardNum": "82/106"
+    },
+    {
+      "name": "Vigoroth",
+      "set": "Super Electric Breaker",
+      "img": "https://den-cards.pokellector.com/405/Vigoroth.SV8.83.54485.png",
+      "rarity": "Common",
+      "cardNum": "83/106"
+    },
+    {
+      "name": "Slaking",
+      "set": "Super Electric Breaker",
+      "img": "https://den-cards.pokellector.com/405/Slaking.SV8.84.54467.png",
+      "rarity": "Double Rare",
+      "cardNum": "84/106"
+    },
+    {
+      "name": "Zangoose",
+      "set": "Super Electric Breaker",
+      "img": "https://den-cards.pokellector.com/405/Zangoose.SV8.85.54574.png",
+      "rarity": "Common",
+      "cardNum": "85/106"
+    },
+    {
+      "name": "Kecleon",
+      "set": "Super Electric Breaker",
+      "img": "https://den-cards.pokellector.com/405/Kecleon.SV8.86.54575.png",
+      "rarity": "Common",
+      "cardNum": "86/106"
+    },
+    {
+      "name": "Bouffalant",
+      "set": "Super Electric Breaker",
+      "img": "https://den-cards.pokellector.com/405/Bouffalant.SV8.87.54576.png",
+      "rarity": "Common",
+      "cardNum": "87/106"
+    },
+    {
+      "name": "Helioptile",
+      "set": "Super Electric Breaker",
+      "img": "https://den-cards.pokellector.com/405/Helioptile.SV8.88.54577.png",
+      "rarity": "Common",
+      "cardNum": "88/106"
+    },
+    {
+      "name": "Heliolisk",
+      "set": "Super Electric Breaker",
+      "img": "https://den-cards.pokellector.com/405/Heliolisk.SV8.89.54578.png",
+      "rarity": "Common",
+      "cardNum": "89/106"
+    },
+    {
+      "name": "Oranguru",
+      "set": "Super Electric Breaker",
+      "img": "https://den-cards.pokellector.com/405/Oranguru.SV8.90.54579.png",
+      "rarity": "Common",
+      "cardNum": "90/106"
+    },
+    {
+      "name": "Tandemaus",
+      "set": "Super Electric Breaker",
+      "img": "https://den-cards.pokellector.com/405/Tandemaus.SV8.91.54513.png",
+      "rarity": "Common",
+      "cardNum": "91/106"
+    },
+    {
+      "name": "Maushold",
+      "set": "Super Electric Breaker",
+      "img": "https://den-cards.pokellector.com/405/Maushold.SV8.92.54514.png",
+      "rarity": "Uncommon",
+      "cardNum": "92/106"
+    },
+    {
+      "name": "Terapagos",
+      "set": "Super Electric Breaker",
+      "img": "https://den-cards.pokellector.com/405/Terapagos.SV8.93.54463.png",
+      "rarity": "Rare",
+      "cardNum": "93/106"
+    },
+    {
+      "name": "Deduction Set",
+      "set": "Super Electric Breaker",
+      "img": "https://den-cards.pokellector.com/405/Deduction-Set.SV8.94.54580.png",
+      "rarity": "Uncommon",
+      "cardNum": "94/106"
+    },
+    {
+      "name": "Scramble Switch",
+      "set": "Super Electric Breaker",
+      "img": "https://den-cards.pokellector.com/405/Scramble-Switch.SV8.95.54581.png",
+      "rarity": "Ace Spec",
+      "cardNum": "95/106"
+    },
+    {
+      "name": "Fluffy Cat Toy",
+      "set": "Super Electric Breaker",
+      "img": "https://den-cards.pokellector.com/405/Fluffy-Cat-Toy.SV8.96.54507.png",
+      "rarity": "Uncommon",
+      "cardNum": "96/106"
+    },
+    {
+      "name": "Miraculous Intercom",
+      "set": "Super Electric Breaker",
+      "img": "https://den-cards.pokellector.com/405/Miraculous-Intercom.SV8.97.54475.png",
+      "rarity": "Ace Spec",
+      "cardNum": "97/106"
+    },
+    {
+      "name": "Amulet of Hope",
+      "set": "Super Electric Breaker",
+      "img": "https://den-cards.pokellector.com/405/Amulet-of-Hope.SV8.98.54510.png",
+      "rarity": "Ace Spec",
+      "cardNum": "98/106"
+    },
+    {
+      "name": "Colbur Berry",
+      "set": "Super Electric Breaker",
+      "img": "https://den-cards.pokellector.com/405/Colbur-Berry.SV8.99.54471.png",
+      "rarity": "Uncommon",
+      "cardNum": "99/106"
+    },
+    {
+      "name": "Babiri Berry",
+      "set": "Super Electric Breaker",
+      "img": "https://den-cards.pokellector.com/405/Babiri-Berry.SV8.100.54582.png",
+      "rarity": "Uncommon",
+      "cardNum": "100/106"
+    },
+    {
+      "name": "Technical Machine Fluorite",
+      "set": "Super Electric Breaker",
+      "img": "https://den-cards.pokellector.com/405/Technical-Machine-Fluorite.SV8.101.54478.png",
+      "rarity": "Uncommon",
+      "cardNum": "101/106"
+    },
+    {
+      "name": "Cyrano",
+      "set": "Super Electric Breaker",
+      "img": "https://den-cards.pokellector.com/405/Cyrano.SV8.102.54479.png",
+      "rarity": "Uncommon",
+      "cardNum": "102/106"
+    },
+    {
+      "name": "Clemont's Wit",
+      "set": "Super Electric Breaker",
+      "img": "https://den-cards.pokellector.com/405/Clemonts-Wit.SV8.103.54583.png",
+      "rarity": "Uncommon",
+      "cardNum": "103/106"
+    },
+    {
+      "name": "Jazmine's Gaze",
+      "set": "Super Electric Breaker",
+      "img": "https://den-cards.pokellector.com/405/Jazmines-Gaze.SV8.104.54470.png",
+      "rarity": "Uncommon",
+      "cardNum": "104/106"
+    },
+    {
+      "name": "Exciting Stadium",
+      "set": "Super Electric Breaker",
+      "img": "https://den-cards.pokellector.com/405/Exciting-Stadium.SV8.105.54476.png",
+      "rarity": "Uncommon",
+      "cardNum": "105/106"
+    },
+    {
+      "name": "Gravity Mountain",
+      "set": "Super Electric Breaker",
+      "img": "https://den-cards.pokellector.com/405/Gravity-Mountain.SV8.106.54477.png",
+      "rarity": "Uncommon",
+      "cardNum": "106/106"
+    },
+    {
+      "name": "Vivillon",
+      "set": "Super Electric Breaker",
+      "img": "https://den-cards.pokellector.com/405/Vivillon.SV8.107.54500.png",
+      "rarity": "Art Rare",
+      "cardNum": "107/106"
+    },
+    {
+      "name": "Larvesta",
+      "set": "Super Electric Breaker",
+      "img": "https://den-cards.pokellector.com/405/Larvesta.SV8.108.54608.png",
+      "rarity": "Art Rare",
+      "cardNum": "108/106"
+    },
+    {
+      "name": "Ceruledge",
+      "set": "Super Electric Breaker",
+      "img": "https://den-cards.pokellector.com/405/Ceruledge.SV8.109.54521.png",
+      "rarity": "Art Rare",
+      "cardNum": "109/106"
+    },
+    {
+      "name": "Feebas",
+      "set": "Super Electric Breaker",
+      "img": "https://den-cards.pokellector.com/405/Feebas.SV8.110.54501.png",
+      "rarity": "Art Rare",
+      "cardNum": "110/106"
+    },
+    {
+      "name": "Spheal",
+      "set": "Super Electric Breaker",
+      "img": "https://den-cards.pokellector.com/405/Spheal.SV8.111.54522.png",
+      "rarity": "Art Rare",
+      "cardNum": "111/106"
+    },
+    {
+      "name": "Magneton",
+      "set": "Super Electric Breaker",
+      "img": "https://den-cards.pokellector.com/405/Magneton.SV8.112.54609.png",
+      "rarity": "Art Rare",
+      "cardNum": "112/106"
+    },
+    {
+      "name": "Stunfisk",
+      "set": "Super Electric Breaker",
+      "img": "https://den-cards.pokellector.com/405/Stunfisk.SV8.113.54610.png",
+      "rarity": "Art Rare",
+      "cardNum": "113/106"
+    },
+    {
+      "name": "Mesprit",
+      "set": "Super Electric Breaker",
+      "img": "https://den-cards.pokellector.com/405/Mesprit.SV8.114.54502.png",
+      "rarity": "Art Rare",
+      "cardNum": "114/106"
+    },
+    {
+      "name": "Phanpy",
+      "set": "Super Electric Breaker",
+      "img": "https://den-cards.pokellector.com/405/Phanpy.SV8.115.54524.png",
+      "rarity": "Art Rare",
+      "cardNum": "115/106"
+    },
+    {
+      "name": "Alolan Dugtrio",
+      "set": "Super Electric Breaker",
+      "img": "https://den-cards.pokellector.com/405/Alolan-Dugtrio.SV8.116.54611.png",
+      "rarity": "Art Rare",
+      "cardNum": "116/106"
+    },
+    {
+      "name": "Slakoth",
+      "set": "Super Electric Breaker",
+      "img": "https://den-cards.pokellector.com/405/Slakoth.SV8.117.54612.png",
+      "rarity": "Art Rare",
+      "cardNum": "117/106"
+    },
+    {
+      "name": "Kecleon",
+      "set": "Super Electric Breaker",
+      "img": "https://den-cards.pokellector.com/405/Kecleon.SV8.118.54523.png",
+      "rarity": "Art Rare",
+      "cardNum": "118/106"
+    },
+    {
+      "name": "Durant ex",
+      "set": "Super Electric Breaker",
+      "img": "https://den-cards.pokellector.com/405/Durant-ex.SV8.119.54613.png",
+      "rarity": "Super Rare",
+      "cardNum": "119/106"
+    },
+    {
+      "name": "Scovillain ex",
+      "set": "Super Electric Breaker",
+      "img": "https://den-cards.pokellector.com/405/Scovillain-ex.SV8.120.54614.png",
+      "rarity": "Super Rare",
+      "cardNum": "120/106"
+    },
+    {
+      "name": "Milotic ex",
+      "set": "Super Electric Breaker",
+      "img": "https://den-cards.pokellector.com/405/Milotic-ex.SV8.121.54615.png",
+      "rarity": "Super Rare",
+      "cardNum": "121/106"
+    },
+    {
+      "name": "Pikachu ex",
+      "set": "Super Electric Breaker",
+      "img": "https://den-cards.pokellector.com/405/Pikachu-ex.SV8.122.54474.png",
+      "rarity": "Super Rare",
+      "cardNum": "122/106"
+    },
+    {
+      "name": "Palossand ex",
+      "set": "Super Electric Breaker",
+      "img": "https://den-cards.pokellector.com/405/Palossand-ex.SV8.123.54592.png",
+      "rarity": "Super Rare",
+      "cardNum": "123/106"
+    },
+    {
+      "name": "Hydreigon ex",
+      "set": "Super Electric Breaker",
+      "img": "https://den-cards.pokellector.com/405/Hydreigon-ex.SV8.124.54616.png",
+      "rarity": "Super Rare",
+      "cardNum": "124/106"
+    },
+    {
+      "name": "Tatsugiri ex",
+      "set": "Super Electric Breaker",
+      "img": "https://den-cards.pokellector.com/405/Tatsugiri-ex.SV8.125.54617.png",
+      "rarity": "Super Rare",
+      "cardNum": "125/106"
+    },
+    {
+      "name": "Slaking ex",
+      "set": "Super Electric Breaker",
+      "img": "https://den-cards.pokellector.com/405/Slaking-ex.SV8.126.54618.png",
+      "rarity": "Super Rare",
+      "cardNum": "126/106"
+    },
+    {
+      "name": "Cyrano",
+      "set": "Super Electric Breaker",
+      "img": "https://den-cards.pokellector.com/405/Cyrano.SV8.127.54526.png",
+      "rarity": "Super Rare",
+      "cardNum": "127/106"
+    },
+    {
+      "name": "Clemont's Quick Wit",
+      "set": "Super Electric Breaker",
+      "img": "https://den-cards.pokellector.com/405/Clemonts-Quick-Wit.SV8.128.54619.png",
+      "rarity": "Super Rare",
+      "cardNum": "128/106"
+    },
+    {
+      "name": "Jasmine's Gaze",
+      "set": "Super Electric Breaker",
+      "img": "https://den-cards.pokellector.com/405/Jasmines-Gaze.SV8.129.54525.png",
+      "rarity": "Super Rare",
+      "cardNum": "129/106"
+    },
+    {
+      "name": "Durant ex",
+      "set": "Super Electric Breaker",
+      "img": "https://den-cards.pokellector.com/405/Durant-ex.SV8.130.54620.png",
+      "rarity": "Special Art Rare",
+      "cardNum": "130/106"
+    },
+    {
+      "name": "Milotic ex",
+      "set": "Super Electric Breaker",
+      "img": "https://den-cards.pokellector.com/405/Milotic-ex.SV8.131.54503.png",
+      "rarity": "Special Art Rare",
+      "cardNum": "131/106"
+    },
+    {
+      "name": "Pikachu ex",
+      "set": "Super Electric Breaker",
+      "img": "https://den-cards.pokellector.com/405/Pikachu-ex.SV8.132.54504.png",
+      "rarity": "Special Art Rare",
+      "cardNum": "132/106"
+    },
+    {
+      "name": "Hydreigon ex",
+      "set": "Super Electric Breaker",
+      "img": "https://den-cards.pokellector.com/405/Hydreigon-ex.SV8.133.54511.png",
+      "rarity": "Special Art Rare",
+      "cardNum": "133/106"
+    },
+    {
+      "name": "Clemont's Quick Wit",
+      "set": "Super Electric Breaker",
+      "img": "https://den-cards.pokellector.com/405/Clemonts-Quick-Wit.SV8.134.54621.png",
+      "rarity": "Special Art Rare",
+      "cardNum": "134/106"
+    },
+    {
+      "name": "Jasmine's Gaze",
+      "set": "Super Electric Breaker",
+      "img": "https://den-cards.pokellector.com/405/Jasmines-Gaze.SV8.135.54593.png",
+      "rarity": "Special Art Rare",
+      "cardNum": "135/106"
+    },
+    {
+      "name": "Pikachu ex",
+      "set": "Super Electric Breaker",
+      "img": "https://den-cards.pokellector.com/405/Pikachu-ex.SV8.136.54622.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "136/106"
+    },
+    {
+      "name": "Night Stretcher",
+      "set": "Super Electric Breaker",
+      "img": "https://den-cards.pokellector.com/405/Night-Stretcher.SV8.137.54623.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "137/106"
+    },
+    {
+      "name": "Gravity Mountain",
+      "set": "Super Electric Breaker",
+      "img": "https://den-cards.pokellector.com/405/Gravity-Mountain.SV8.138.54624.png",
+      "rarity": "Ultra Rare",
+      "cardNum": "138/106"
+    }
+  ]
+}

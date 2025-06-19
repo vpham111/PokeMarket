@@ -1,0 +1,768 @@
+{
+  "setName": "EX Ruby & Sapphire",
+  "cards": [
+    {
+      "name": "Aggron",
+      "set": "EX Ruby & Sapphire",
+      "img": "https://den-cards.pokellector.com/49/Aggron.RS.1.png",
+      "rarity": "Rare",
+      "cardNum": "1/109"
+    },
+    {
+      "name": "Beautifly",
+      "set": "EX Ruby & Sapphire",
+      "img": "https://den-cards.pokellector.com/49/Beautifly.RS.2.png",
+      "rarity": "Rare",
+      "cardNum": "2/109"
+    },
+    {
+      "name": "Blaziken",
+      "set": "EX Ruby & Sapphire",
+      "img": "https://den-cards.pokellector.com/49/Blaziken.RS.3.png",
+      "rarity": "Rare",
+      "cardNum": "3/109"
+    },
+    {
+      "name": "Camerupt",
+      "set": "EX Ruby & Sapphire",
+      "img": "https://den-cards.pokellector.com/49/Camerupt.RS.4.png",
+      "rarity": "Rare",
+      "cardNum": "4/109"
+    },
+    {
+      "name": "Delcatty",
+      "set": "EX Ruby & Sapphire",
+      "img": "https://den-cards.pokellector.com/49/Delcatty.RS.5.png",
+      "rarity": "Rare",
+      "cardNum": "5/109"
+    },
+    {
+      "name": "Dustox",
+      "set": "EX Ruby & Sapphire",
+      "img": "https://den-cards.pokellector.com/49/Dustox.RS.6.png",
+      "rarity": "Rare",
+      "cardNum": "6/109"
+    },
+    {
+      "name": "Gardevoir",
+      "set": "EX Ruby & Sapphire",
+      "img": "https://den-cards.pokellector.com/49/Gardevoir.RS.7.png",
+      "rarity": "Rare",
+      "cardNum": "7/109"
+    },
+    {
+      "name": "Hariyama",
+      "set": "EX Ruby & Sapphire",
+      "img": "https://den-cards.pokellector.com/49/Hariyama.RS.8.png",
+      "rarity": "Rare",
+      "cardNum": "8/109"
+    },
+    {
+      "name": "Manectric",
+      "set": "EX Ruby & Sapphire",
+      "img": "https://den-cards.pokellector.com/49/Manectric.RS.9.png",
+      "rarity": "Rare",
+      "cardNum": "9/109"
+    },
+    {
+      "name": "Mightyena",
+      "set": "EX Ruby & Sapphire",
+      "img": "https://den-cards.pokellector.com/49/Mightyena.RS.10.png",
+      "rarity": "Rare",
+      "cardNum": "10/109"
+    },
+    {
+      "name": "Sceptile",
+      "set": "EX Ruby & Sapphire",
+      "img": "https://den-cards.pokellector.com/49/Sceptile.RS.11.png",
+      "rarity": "Rare",
+      "cardNum": "11/109"
+    },
+    {
+      "name": "Slaking",
+      "set": "EX Ruby & Sapphire",
+      "img": "https://den-cards.pokellector.com/49/Slaking.RS.12.png",
+      "rarity": "Rare",
+      "cardNum": "12/109"
+    },
+    {
+      "name": "Swampert",
+      "set": "EX Ruby & Sapphire",
+      "img": "https://den-cards.pokellector.com/49/Swampert.RS.13.png",
+      "rarity": "Rare",
+      "cardNum": "13/109"
+    },
+    {
+      "name": "Wailord",
+      "set": "EX Ruby & Sapphire",
+      "img": "https://den-cards.pokellector.com/49/Wailord.RS.14.png",
+      "rarity": "Rare",
+      "cardNum": "14/109"
+    },
+    {
+      "name": "Blaziken",
+      "set": "EX Ruby & Sapphire",
+      "img": "https://den-cards.pokellector.com/49/Blaziken.RS.15.png",
+      "rarity": "Rare",
+      "cardNum": "15/109"
+    },
+    {
+      "name": "Breloom",
+      "set": "EX Ruby & Sapphire",
+      "img": "https://den-cards.pokellector.com/49/Breloom.RS.16.png",
+      "rarity": "Rare",
+      "cardNum": "16/109"
+    },
+    {
+      "name": "Donphan",
+      "set": "EX Ruby & Sapphire",
+      "img": "https://den-cards.pokellector.com/49/Donphan.RS.17.png",
+      "rarity": "Rare",
+      "cardNum": "17/109"
+    },
+    {
+      "name": "Nosepass",
+      "set": "EX Ruby & Sapphire",
+      "img": "https://den-cards.pokellector.com/49/Nosepass.RS.18.png",
+      "rarity": "Rare",
+      "cardNum": "18/109"
+    },
+    {
+      "name": "Pelipper",
+      "set": "EX Ruby & Sapphire",
+      "img": "https://den-cards.pokellector.com/49/Pelipper.RS.19.png",
+      "rarity": "Rare",
+      "cardNum": "19/109"
+    },
+    {
+      "name": "Sceptile",
+      "set": "EX Ruby & Sapphire",
+      "img": "https://den-cards.pokellector.com/49/Sceptile.RS.20.png",
+      "rarity": "Rare",
+      "cardNum": "20/109"
+    },
+    {
+      "name": "Seaking",
+      "set": "EX Ruby & Sapphire",
+      "img": "https://den-cards.pokellector.com/49/Seaking.RS.21.png",
+      "rarity": "Rare",
+      "cardNum": "21/109"
+    },
+    {
+      "name": "Sharpedo",
+      "set": "EX Ruby & Sapphire",
+      "img": "https://den-cards.pokellector.com/49/Sharpedo.RS.22.png",
+      "rarity": "Rare",
+      "cardNum": "22/109"
+    },
+    {
+      "name": "Swampert",
+      "set": "EX Ruby & Sapphire",
+      "img": "https://den-cards.pokellector.com/49/Swampert.RS.23.png",
+      "rarity": "Rare",
+      "cardNum": "23/109"
+    },
+    {
+      "name": "Weezing",
+      "set": "EX Ruby & Sapphire",
+      "img": "https://den-cards.pokellector.com/49/Weezing.RS.24.png",
+      "rarity": "Rare",
+      "cardNum": "24/109"
+    },
+    {
+      "name": "Aron",
+      "set": "EX Ruby & Sapphire",
+      "img": "https://den-cards.pokellector.com/49/Aron.RS.25.png",
+      "rarity": "Uncommon",
+      "cardNum": "25/109"
+    },
+    {
+      "name": "Cascoon",
+      "set": "EX Ruby & Sapphire",
+      "img": "https://den-cards.pokellector.com/49/Cascoon.RS.26.png",
+      "rarity": "Uncommon",
+      "cardNum": "26/109"
+    },
+    {
+      "name": "Combusken",
+      "set": "EX Ruby & Sapphire",
+      "img": "https://den-cards.pokellector.com/49/Combusken.RS.27.png",
+      "rarity": "Uncommon",
+      "cardNum": "27/109"
+    },
+    {
+      "name": "Combusken",
+      "set": "EX Ruby & Sapphire",
+      "img": "https://den-cards.pokellector.com/49/Combusken.RS.28.png",
+      "rarity": "Uncommon",
+      "cardNum": "28/109"
+    },
+    {
+      "name": "Delcatty",
+      "set": "EX Ruby & Sapphire",
+      "img": "https://den-cards.pokellector.com/49/Delcatty.RS.29.png",
+      "rarity": "Uncommon",
+      "cardNum": "29/109"
+    },
+    {
+      "name": "Electrike",
+      "set": "EX Ruby & Sapphire",
+      "img": "https://den-cards.pokellector.com/49/Electrike.RS.30.png",
+      "rarity": "Uncommon",
+      "cardNum": "30/109"
+    },
+    {
+      "name": "Grovyle",
+      "set": "EX Ruby & Sapphire",
+      "img": "https://den-cards.pokellector.com/49/Grovyle.RS.31.png",
+      "rarity": "Uncommon",
+      "cardNum": "31/109"
+    },
+    {
+      "name": "Grovyle",
+      "set": "EX Ruby & Sapphire",
+      "img": "https://den-cards.pokellector.com/49/Grovyle.RS.32.png",
+      "rarity": "Uncommon",
+      "cardNum": "32/109"
+    },
+    {
+      "name": "Hariyama",
+      "set": "EX Ruby & Sapphire",
+      "img": "https://den-cards.pokellector.com/49/Hariyama.RS.33.png",
+      "rarity": "Uncommon",
+      "cardNum": "33/109"
+    },
+    {
+      "name": "Kirlia",
+      "set": "EX Ruby & Sapphire",
+      "img": "https://den-cards.pokellector.com/49/Kirlia.RS.34.png",
+      "rarity": "Uncommon",
+      "cardNum": "34/109"
+    },
+    {
+      "name": "Kirlia",
+      "set": "EX Ruby & Sapphire",
+      "img": "https://den-cards.pokellector.com/49/Kirlia.RS.35.png",
+      "rarity": "Uncommon",
+      "cardNum": "35/109"
+    },
+    {
+      "name": "Lairon",
+      "set": "EX Ruby & Sapphire",
+      "img": "https://den-cards.pokellector.com/49/Lairon.RS.36.png",
+      "rarity": "Uncommon",
+      "cardNum": "36/109"
+    },
+    {
+      "name": "Lairon",
+      "set": "EX Ruby & Sapphire",
+      "img": "https://den-cards.pokellector.com/49/Lairon.RS.37.png",
+      "rarity": "Uncommon",
+      "cardNum": "37/109"
+    },
+    {
+      "name": "Linoone",
+      "set": "EX Ruby & Sapphire",
+      "img": "https://den-cards.pokellector.com/49/Linoone.RS.38.png",
+      "rarity": "Uncommon",
+      "cardNum": "38/109"
+    },
+    {
+      "name": "Manectric",
+      "set": "EX Ruby & Sapphire",
+      "img": "https://den-cards.pokellector.com/49/Manectric.RS.39.png",
+      "rarity": "Uncommon",
+      "cardNum": "39/109"
+    },
+    {
+      "name": "Marshtomp",
+      "set": "EX Ruby & Sapphire",
+      "img": "https://den-cards.pokellector.com/49/Marshtomp.RS.40.png",
+      "rarity": "Uncommon",
+      "cardNum": "40/109"
+    },
+    {
+      "name": "Marshtomp",
+      "set": "EX Ruby & Sapphire",
+      "img": "https://den-cards.pokellector.com/49/Marshtomp.RS.41.png",
+      "rarity": "Uncommon",
+      "cardNum": "41/109"
+    },
+    {
+      "name": "Mightyena",
+      "set": "EX Ruby & Sapphire",
+      "img": "https://den-cards.pokellector.com/49/Mightyena.RS.42.png",
+      "rarity": "Uncommon",
+      "cardNum": "42/109"
+    },
+    {
+      "name": "Silcoon",
+      "set": "EX Ruby & Sapphire",
+      "img": "https://den-cards.pokellector.com/49/Silcoon.RS.43.png",
+      "rarity": "Uncommon",
+      "cardNum": "43/109"
+    },
+    {
+      "name": "Skitty",
+      "set": "EX Ruby & Sapphire",
+      "img": "https://den-cards.pokellector.com/49/Skitty.RS.44.png",
+      "rarity": "Uncommon",
+      "cardNum": "44/109"
+    },
+    {
+      "name": "Slakoth",
+      "set": "EX Ruby & Sapphire",
+      "img": "https://den-cards.pokellector.com/49/Slakoth.RS.45.png",
+      "rarity": "Uncommon",
+      "cardNum": "45/109"
+    },
+    {
+      "name": "Swellow",
+      "set": "EX Ruby & Sapphire",
+      "img": "https://den-cards.pokellector.com/49/Swellow.RS.46.png",
+      "rarity": "Uncommon",
+      "cardNum": "46/109"
+    },
+    {
+      "name": "Vigoroth",
+      "set": "EX Ruby & Sapphire",
+      "img": "https://den-cards.pokellector.com/49/Vigoroth.RS.47.png",
+      "rarity": "Uncommon",
+      "cardNum": "47/109"
+    },
+    {
+      "name": "Wailmer",
+      "set": "EX Ruby & Sapphire",
+      "img": "https://den-cards.pokellector.com/49/Wailmer.RS.48.png",
+      "rarity": "Uncommon",
+      "cardNum": "48/109"
+    },
+    {
+      "name": "Aron",
+      "set": "EX Ruby & Sapphire",
+      "img": "https://den-cards.pokellector.com/49/Aron.RS.49.png",
+      "rarity": "Common",
+      "cardNum": "49/109"
+    },
+    {
+      "name": "Aron",
+      "set": "EX Ruby & Sapphire",
+      "img": "https://den-cards.pokellector.com/49/Aron.RS.50.png",
+      "rarity": "Common",
+      "cardNum": "50/109"
+    },
+    {
+      "name": "Carvanha",
+      "set": "EX Ruby & Sapphire",
+      "img": "https://den-cards.pokellector.com/49/Carvanha.RS.51.png",
+      "rarity": "Common",
+      "cardNum": "51/109"
+    },
+    {
+      "name": "Electrike",
+      "set": "EX Ruby & Sapphire",
+      "img": "https://den-cards.pokellector.com/49/Electrike.RS.52.png",
+      "rarity": "Common",
+      "cardNum": "52/109"
+    },
+    {
+      "name": "Electrike",
+      "set": "EX Ruby & Sapphire",
+      "img": "https://den-cards.pokellector.com/49/Electrike.RS.53.png",
+      "rarity": "Common",
+      "cardNum": "53/109"
+    },
+    {
+      "name": "Koffing",
+      "set": "EX Ruby & Sapphire",
+      "img": "https://den-cards.pokellector.com/49/Koffing.RS.54.png",
+      "rarity": "Common",
+      "cardNum": "54/109"
+    },
+    {
+      "name": "Goldeen",
+      "set": "EX Ruby & Sapphire",
+      "img": "https://den-cards.pokellector.com/49/Goldeen.RS.55.png",
+      "rarity": "Common",
+      "cardNum": "55/109"
+    },
+    {
+      "name": "Makuhita",
+      "set": "EX Ruby & Sapphire",
+      "img": "https://den-cards.pokellector.com/49/Makuhita.RS.56.png",
+      "rarity": "Common",
+      "cardNum": "56/109"
+    },
+    {
+      "name": "Makuhita",
+      "set": "EX Ruby & Sapphire",
+      "img": "https://den-cards.pokellector.com/49/Makuhita.RS.57.png",
+      "rarity": "Common",
+      "cardNum": "57/109"
+    },
+    {
+      "name": "Makuhita",
+      "set": "EX Ruby & Sapphire",
+      "img": "https://den-cards.pokellector.com/49/Makuhita.RS.58.png",
+      "rarity": "Common",
+      "cardNum": "58/109"
+    },
+    {
+      "name": "Mudkip",
+      "set": "EX Ruby & Sapphire",
+      "img": "https://den-cards.pokellector.com/49/Mudkip.RS.59.png",
+      "rarity": "Common",
+      "cardNum": "59/109"
+    },
+    {
+      "name": "Mudkip",
+      "set": "EX Ruby & Sapphire",
+      "img": "https://den-cards.pokellector.com/49/Mudkip.RS.60.png",
+      "rarity": "Common",
+      "cardNum": "60/109"
+    },
+    {
+      "name": "Numel",
+      "set": "EX Ruby & Sapphire",
+      "img": "https://den-cards.pokellector.com/49/Numel.RS.61.png",
+      "rarity": "Common",
+      "cardNum": "61/109"
+    },
+    {
+      "name": "Phanpy",
+      "set": "EX Ruby & Sapphire",
+      "img": "https://den-cards.pokellector.com/49/Phanpy.RS.62.png",
+      "rarity": "Common",
+      "cardNum": "62/109"
+    },
+    {
+      "name": "Poochyena",
+      "set": "EX Ruby & Sapphire",
+      "img": "https://den-cards.pokellector.com/49/Poochyena.RS.63.png",
+      "rarity": "Common",
+      "cardNum": "63/109"
+    },
+    {
+      "name": "Poochyena",
+      "set": "EX Ruby & Sapphire",
+      "img": "https://den-cards.pokellector.com/49/Poochyena.RS.64.png",
+      "rarity": "Common",
+      "cardNum": "64/109"
+    },
+    {
+      "name": "Poochyena",
+      "set": "EX Ruby & Sapphire",
+      "img": "https://den-cards.pokellector.com/49/Poochyena.RS.65.png",
+      "rarity": "Common",
+      "cardNum": "65/109"
+    },
+    {
+      "name": "Ralts",
+      "set": "EX Ruby & Sapphire",
+      "img": "https://den-cards.pokellector.com/49/Ralts.RS.66.png",
+      "rarity": "Common",
+      "cardNum": "66/109"
+    },
+    {
+      "name": "Ralts",
+      "set": "EX Ruby & Sapphire",
+      "img": "https://den-cards.pokellector.com/49/Ralts.RS.67.png",
+      "rarity": "Common",
+      "cardNum": "67/109"
+    },
+    {
+      "name": "Ralts",
+      "set": "EX Ruby & Sapphire",
+      "img": "https://den-cards.pokellector.com/49/Ralts.RS.68.png",
+      "rarity": "Common",
+      "cardNum": "68/109"
+    },
+    {
+      "name": "Shroomish",
+      "set": "EX Ruby & Sapphire",
+      "img": "https://den-cards.pokellector.com/49/Shroomish.RS.69.png",
+      "rarity": "Common",
+      "cardNum": "69/109"
+    },
+    {
+      "name": "Skitty",
+      "set": "EX Ruby & Sapphire",
+      "img": "https://den-cards.pokellector.com/49/Skitty.RS.70.png",
+      "rarity": "Common",
+      "cardNum": "70/109"
+    },
+    {
+      "name": "Skitty",
+      "set": "EX Ruby & Sapphire",
+      "img": "https://den-cards.pokellector.com/49/Skitty.RS.71.png",
+      "rarity": "Common",
+      "cardNum": "71/109"
+    },
+    {
+      "name": "Taillow",
+      "set": "EX Ruby & Sapphire",
+      "img": "https://den-cards.pokellector.com/49/Taillow.RS.72.png",
+      "rarity": "Common",
+      "cardNum": "72/109"
+    },
+    {
+      "name": "Torchic",
+      "set": "EX Ruby & Sapphire",
+      "img": "https://den-cards.pokellector.com/49/Torchic.RS.73.png",
+      "rarity": "Common",
+      "cardNum": "73/109"
+    },
+    {
+      "name": "Torchic",
+      "set": "EX Ruby & Sapphire",
+      "img": "https://den-cards.pokellector.com/49/Torchic.RS.74.png",
+      "rarity": "Common",
+      "cardNum": "74/109"
+    },
+    {
+      "name": "Treecko",
+      "set": "EX Ruby & Sapphire",
+      "img": "https://den-cards.pokellector.com/49/Treecko.RS.75.png",
+      "rarity": "Common",
+      "cardNum": "75/109"
+    },
+    {
+      "name": "Treecko",
+      "set": "EX Ruby & Sapphire",
+      "img": "https://den-cards.pokellector.com/49/Treecko.RS.76.png",
+      "rarity": "Common",
+      "cardNum": "76/109"
+    },
+    {
+      "name": "Wingull",
+      "set": "EX Ruby & Sapphire",
+      "img": "https://den-cards.pokellector.com/49/Wingull.RS.77.png",
+      "rarity": "Common",
+      "cardNum": "77/109"
+    },
+    {
+      "name": "Wurmple",
+      "set": "EX Ruby & Sapphire",
+      "img": "https://den-cards.pokellector.com/49/Wurmple.RS.78.png",
+      "rarity": "Common",
+      "cardNum": "78/109"
+    },
+    {
+      "name": "Zigzagoon",
+      "set": "EX Ruby & Sapphire",
+      "img": "https://den-cards.pokellector.com/49/Zigzagoon.RS.79.png",
+      "rarity": "Common",
+      "cardNum": "79/109"
+    },
+    {
+      "name": "Energy Removal 2",
+      "set": "EX Ruby & Sapphire",
+      "img": "https://den-cards.pokellector.com/49/Energy-Removal-2.RS.80.png",
+      "rarity": "Uncommon",
+      "cardNum": "80/109"
+    },
+    {
+      "name": "Energy Restore",
+      "set": "EX Ruby & Sapphire",
+      "img": "https://den-cards.pokellector.com/49/Energy-Restore.RS.81.png",
+      "rarity": "Uncommon",
+      "cardNum": "81/109"
+    },
+    {
+      "name": "Energy Switch",
+      "set": "EX Ruby & Sapphire",
+      "img": "https://den-cards.pokellector.com/49/Energy-Switch.RS.82.png",
+      "rarity": "Uncommon",
+      "cardNum": "82/109"
+    },
+    {
+      "name": "Lady Outing",
+      "set": "EX Ruby & Sapphire",
+      "img": "https://den-cards.pokellector.com/49/Lady-Outing.RS.83.png",
+      "rarity": "Uncommon",
+      "cardNum": "83/109"
+    },
+    {
+      "name": "Lum Berry",
+      "set": "EX Ruby & Sapphire",
+      "img": "https://den-cards.pokellector.com/49/Lum-Berry.RS.84.png",
+      "rarity": "Uncommon",
+      "cardNum": "84/109"
+    },
+    {
+      "name": "Oran Berry",
+      "set": "EX Ruby & Sapphire",
+      "img": "https://den-cards.pokellector.com/49/Oran-Berry.RS.85.png",
+      "rarity": "Uncommon",
+      "cardNum": "85/109"
+    },
+    {
+      "name": "Poke Ball",
+      "set": "EX Ruby & Sapphire",
+      "img": "https://den-cards.pokellector.com/49/Poke-Ball.RS.86.png",
+      "rarity": "Uncommon",
+      "cardNum": "86/109"
+    },
+    {
+      "name": "Pokemon Reversal",
+      "set": "EX Ruby & Sapphire",
+      "img": "https://den-cards.pokellector.com/49/Pokemon-Reversal.RS.87.png",
+      "rarity": "Uncommon",
+      "cardNum": "87/109"
+    },
+    {
+      "name": "Pokenav",
+      "set": "EX Ruby & Sapphire",
+      "img": "https://den-cards.pokellector.com/49/Pokenav.RS.88.png",
+      "rarity": "Uncommon",
+      "cardNum": "88/109"
+    },
+    {
+      "name": "Professor Birch",
+      "set": "EX Ruby & Sapphire",
+      "img": "https://den-cards.pokellector.com/49/Professor-Birch.RS.89.png",
+      "rarity": "Uncommon",
+      "cardNum": "89/109"
+    },
+    {
+      "name": "Energy Search",
+      "set": "EX Ruby & Sapphire",
+      "img": "https://den-cards.pokellector.com/49/Energy-Search.RS.90.png",
+      "rarity": "Common",
+      "cardNum": "90/109"
+    },
+    {
+      "name": "Potion",
+      "set": "EX Ruby & Sapphire",
+      "img": "https://den-cards.pokellector.com/49/Potion.RS.91.png",
+      "rarity": "Common",
+      "cardNum": "91/109"
+    },
+    {
+      "name": "Switch",
+      "set": "EX Ruby & Sapphire",
+      "img": "https://den-cards.pokellector.com/49/Switch.RS.92.png",
+      "rarity": "Common",
+      "cardNum": "92/109"
+    },
+    {
+      "name": "Darkness Energy",
+      "set": "EX Ruby & Sapphire",
+      "img": "https://den-cards.pokellector.com/49/Darkness-Energy.RS.93.png",
+      "rarity": "Rare",
+      "cardNum": "93/109"
+    },
+    {
+      "name": "Metal Energy",
+      "set": "EX Ruby & Sapphire",
+      "img": "https://den-cards.pokellector.com/49/Metal-Energy.RS.94.png",
+      "rarity": "Rare",
+      "cardNum": "94/109"
+    },
+    {
+      "name": "Rainbow Energy",
+      "set": "EX Ruby & Sapphire",
+      "img": "https://den-cards.pokellector.com/49/Rainbow-Energy.RS.95.png",
+      "rarity": "Rare",
+      "cardNum": "95/109"
+    },
+    {
+      "name": "Chansey EX",
+      "set": "EX Ruby & Sapphire",
+      "img": "https://den-cards.pokellector.com/49/Chansey-EX.RS.96.png",
+      "rarity": "Rare",
+      "cardNum": "96/109"
+    },
+    {
+      "name": "Electabuzz EX",
+      "set": "EX Ruby & Sapphire",
+      "img": "https://den-cards.pokellector.com/49/Electabuzz-EX.RS.97.png",
+      "rarity": "Rare",
+      "cardNum": "97/109"
+    },
+    {
+      "name": "Hitmonchan EX",
+      "set": "EX Ruby & Sapphire",
+      "img": "https://den-cards.pokellector.com/49/Hitmonchan-EX.RS.98.png",
+      "rarity": "Rare",
+      "cardNum": "98/109"
+    },
+    {
+      "name": "Lapras EX",
+      "set": "EX Ruby & Sapphire",
+      "img": "https://den-cards.pokellector.com/49/Lapras-EX.RS.99.png",
+      "rarity": "Rare",
+      "cardNum": "99/109"
+    },
+    {
+      "name": "Magmar EX",
+      "set": "EX Ruby & Sapphire",
+      "img": "https://den-cards.pokellector.com/49/Magmar-EX.RS.100.png",
+      "rarity": "Rare",
+      "cardNum": "100/109"
+    },
+    {
+      "name": "Mewtwo EX",
+      "set": "EX Ruby & Sapphire",
+      "img": "https://den-cards.pokellector.com/49/Mewtwo-EX.RS.101.png",
+      "rarity": "Rare",
+      "cardNum": "101/109"
+    },
+    {
+      "name": "Scyther EX",
+      "set": "EX Ruby & Sapphire",
+      "img": "https://den-cards.pokellector.com/49/Scyther-EX.RS.102.png",
+      "rarity": "Rare",
+      "cardNum": "102/109"
+    },
+    {
+      "name": "Sneasel EX",
+      "set": "EX Ruby & Sapphire",
+      "img": "https://den-cards.pokellector.com/49/Sneasel-EX.RS.103.png",
+      "rarity": "Rare",
+      "cardNum": "103/109"
+    },
+    {
+      "name": "Grass Energy",
+      "set": "EX Ruby & Sapphire",
+      "img": "https://den-cards.pokellector.com/49/Grass-Energy.RS.104.png",
+      "rarity": "Common",
+      "cardNum": "104/109"
+    },
+    {
+      "name": "Fighting Energy",
+      "set": "EX Ruby & Sapphire",
+      "img": "https://den-cards.pokellector.com/49/Fighting-Energy.RS.105.png",
+      "rarity": "Common",
+      "cardNum": "105/109"
+    },
+    {
+      "name": "Water Energy",
+      "set": "EX Ruby & Sapphire",
+      "img": "https://den-cards.pokellector.com/49/Water-Energy.RS.106.png",
+      "rarity": "Common",
+      "cardNum": "106/109"
+    },
+    {
+      "name": "Psychic Energy",
+      "set": "EX Ruby & Sapphire",
+      "img": "https://den-cards.pokellector.com/49/Psychic-Energy.RS.107.png",
+      "rarity": "Common",
+      "cardNum": "107/109"
+    },
+    {
+      "name": "Fire Energy",
+      "set": "EX Ruby & Sapphire",
+      "img": "https://den-cards.pokellector.com/49/Fire-Energy.RS.108.png",
+      "rarity": "Common",
+      "cardNum": "108/109"
+    },
+    {
+      "name": "Lightning Energy",
+      "set": "EX Ruby & Sapphire",
+      "img": "https://den-cards.pokellector.com/49/Lightning-Energy.RS.109.png",
+      "rarity": "Common",
+      "cardNum": "109/109"
+    }
+  ]
+}

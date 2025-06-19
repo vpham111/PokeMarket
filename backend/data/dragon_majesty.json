@@ -1,0 +1,551 @@
+{
+  "setName": "Dragon Majesty",
+  "cards": [
+    {
+      "name": "Charmander",
+      "set": "Dragon Majesty",
+      "img": "https://den-cards.pokellector.com/257/Charmander.DRM.1.23541.png",
+      "rarity": "Common",
+      "cardNum": "1/70"
+    },
+    {
+      "name": "Charmeleon",
+      "set": "Dragon Majesty",
+      "img": "https://den-cards.pokellector.com/257/Charmeleon.DRM.2.23542.png",
+      "rarity": "Uncommon",
+      "cardNum": "2/70"
+    },
+    {
+      "name": "Charizard",
+      "set": "Dragon Majesty",
+      "img": "https://den-cards.pokellector.com/257/Charizard.DRM.3.22610.png",
+      "rarity": "Rare",
+      "cardNum": "3/70"
+    },
+    {
+      "name": "Torchic",
+      "set": "Dragon Majesty",
+      "img": "https://den-cards.pokellector.com/257/Torchic.DRM.4.23543.png",
+      "rarity": "Common",
+      "cardNum": "4/70"
+    },
+    {
+      "name": "Combusken",
+      "set": "Dragon Majesty",
+      "img": "https://den-cards.pokellector.com/257/Combusken.DRM.5.23544.png",
+      "rarity": "Uncommon",
+      "cardNum": "5/70"
+    },
+    {
+      "name": "Blaziken",
+      "set": "Dragon Majesty",
+      "img": "https://den-cards.pokellector.com/257/Blaziken.DRM.6.23545.png",
+      "rarity": "Rare",
+      "cardNum": "6/70"
+    },
+    {
+      "name": "Victini Prism Star",
+      "set": "Dragon Majesty",
+      "img": "https://den-cards.pokellector.com/257/Victini-Prism-Star.DRM.7.23546.png",
+      "rarity": "Prism Star",
+      "cardNum": "7/70"
+    },
+    {
+      "name": "Darumaka",
+      "set": "Dragon Majesty",
+      "img": "https://den-cards.pokellector.com/257/Darumaka.DRM.8.23547.png",
+      "rarity": "Common",
+      "cardNum": "8/70"
+    },
+    {
+      "name": "Darmanitan",
+      "set": "Dragon Majesty",
+      "img": "https://den-cards.pokellector.com/257/Darmanitan.DRM.9.23548.png",
+      "rarity": "Uncommon",
+      "cardNum": "9/70"
+    },
+    {
+      "name": "Heatmor",
+      "set": "Dragon Majesty",
+      "img": "https://den-cards.pokellector.com/257/Heatmor.DRM.10.23549.png",
+      "rarity": "Common",
+      "cardNum": "10/70"
+    },
+    {
+      "name": "Reshiram GX",
+      "set": "Dragon Majesty",
+      "img": "https://den-cards.pokellector.com/257/Reshiram-GX.DRM.11.23189.png",
+      "rarity": "Rare",
+      "cardNum": "11/70"
+    },
+    {
+      "name": "Litten",
+      "set": "Dragon Majesty",
+      "img": "https://den-cards.pokellector.com/257/Litten.DRM.12.23550.png",
+      "rarity": "Common",
+      "cardNum": "12/70"
+    },
+    {
+      "name": "Salandit",
+      "set": "Dragon Majesty",
+      "img": "https://den-cards.pokellector.com/257/Salandit.DRM.13.23551.png",
+      "rarity": "Common",
+      "cardNum": "13/70"
+    },
+    {
+      "name": "Salazzle",
+      "set": "Dragon Majesty",
+      "img": "https://den-cards.pokellector.com/257/Salazzle.DRM.14.23552.png",
+      "rarity": "Uncommon",
+      "cardNum": "14/70"
+    },
+    {
+      "name": "Horsea",
+      "set": "Dragon Majesty",
+      "img": "https://den-cards.pokellector.com/257/Horsea.DRM.15.23553.png",
+      "rarity": "Common",
+      "cardNum": "15/70"
+    },
+    {
+      "name": "Horsea",
+      "set": "Dragon Majesty",
+      "img": "https://den-cards.pokellector.com/257/Horsea.DRM.16.23554.png",
+      "rarity": "Common",
+      "cardNum": "16/70"
+    },
+    {
+      "name": "Seadra",
+      "set": "Dragon Majesty",
+      "img": "https://den-cards.pokellector.com/257/Seadra.DRM.17.23555.png",
+      "rarity": "Uncommon",
+      "cardNum": "17/70"
+    },
+    {
+      "name": "Kingdra GX",
+      "set": "Dragon Majesty",
+      "img": "https://den-cards.pokellector.com/257/Kingdra-GX.DRM.18.23556.png",
+      "rarity": "Rare",
+      "cardNum": "18/70"
+    },
+    {
+      "name": "Magikarp",
+      "set": "Dragon Majesty",
+      "img": "https://den-cards.pokellector.com/257/Magikarp.DRM.19.23557.png",
+      "rarity": "Common",
+      "cardNum": "19/70"
+    },
+    {
+      "name": "Gyarados",
+      "set": "Dragon Majesty",
+      "img": "https://den-cards.pokellector.com/257/Gyarados.DRM.20.23558.png",
+      "rarity": "Rare",
+      "cardNum": "20/70"
+    },
+    {
+      "name": "Lapras",
+      "set": "Dragon Majesty",
+      "img": "https://den-cards.pokellector.com/257/Lapras.DRM.21.23559.png",
+      "rarity": "Uncommon",
+      "cardNum": "21/70"
+    },
+    {
+      "name": "Totodile",
+      "set": "Dragon Majesty",
+      "img": "https://den-cards.pokellector.com/257/Totodile.DRM.22.23560.png",
+      "rarity": "Common",
+      "cardNum": "22/70"
+    },
+    {
+      "name": "Croconaw",
+      "set": "Dragon Majesty",
+      "img": "https://den-cards.pokellector.com/257/Croconaw.DRM.23.23561.png",
+      "rarity": "Common",
+      "cardNum": "23/70"
+    },
+    {
+      "name": "Feraligatr",
+      "set": "Dragon Majesty",
+      "img": "https://den-cards.pokellector.com/257/Feraligatr.DRM.24.23190.png",
+      "rarity": "Rare",
+      "cardNum": "24/70"
+    },
+    {
+      "name": "Wooper",
+      "set": "Dragon Majesty",
+      "img": "https://den-cards.pokellector.com/257/Wooper.DRM.25.23562.png",
+      "rarity": "Common",
+      "cardNum": "25/70"
+    },
+    {
+      "name": "Quagsire",
+      "set": "Dragon Majesty",
+      "img": "https://den-cards.pokellector.com/257/Quagsire.DRM.26.23191.png",
+      "rarity": "Uncommon",
+      "cardNum": "26/70"
+    },
+    {
+      "name": "Corsola",
+      "set": "Dragon Majesty",
+      "img": "https://den-cards.pokellector.com/257/Corsola.DRM.27.23563.png",
+      "rarity": "Common",
+      "cardNum": "27/70"
+    },
+    {
+      "name": "Feebas",
+      "set": "Dragon Majesty",
+      "img": "https://den-cards.pokellector.com/257/Feebas.DRM.28.23564.png",
+      "rarity": "Common",
+      "cardNum": "28/70"
+    },
+    {
+      "name": "Milotic",
+      "set": "Dragon Majesty",
+      "img": "https://den-cards.pokellector.com/257/Milotic.DRM.29.23565.png",
+      "rarity": "Common",
+      "cardNum": "29/70"
+    },
+    {
+      "name": "Phione",
+      "set": "Dragon Majesty",
+      "img": "https://den-cards.pokellector.com/257/Phione.DRM.30.23586.png",
+      "rarity": "Common",
+      "cardNum": "30/70"
+    },
+    {
+      "name": "Wishiwashi",
+      "set": "Dragon Majesty",
+      "img": "https://den-cards.pokellector.com/257/Wishiwashi.DRM.31.23587.png",
+      "rarity": "Common",
+      "cardNum": "31/70"
+    },
+    {
+      "name": "Trapinch",
+      "set": "Dragon Majesty",
+      "img": "https://den-cards.pokellector.com/257/Trapinch.DRM.32.23566.png",
+      "rarity": "Common",
+      "cardNum": "32/70"
+    },
+    {
+      "name": "Hydreigon",
+      "set": "Dragon Majesty",
+      "img": "https://den-cards.pokellector.com/257/Hydreigon.DRM.33.23567.png",
+      "rarity": "Rare",
+      "cardNum": "33/70"
+    },
+    {
+      "name": "Dratini",
+      "set": "Dragon Majesty",
+      "img": "https://den-cards.pokellector.com/257/Dratini.DRM.34.23568.png",
+      "rarity": "Common",
+      "cardNum": "34/70"
+    },
+    {
+      "name": "Dratini",
+      "set": "Dragon Majesty",
+      "img": "https://den-cards.pokellector.com/257/Dratini.DRM.35.23569.png",
+      "rarity": "Common",
+      "cardNum": "35/70"
+    },
+    {
+      "name": "Dragonair",
+      "set": "Dragon Majesty",
+      "img": "https://den-cards.pokellector.com/257/Dragonair.DRM.36.23570.png",
+      "rarity": "Uncommon",
+      "cardNum": "36/70"
+    },
+    {
+      "name": "Dragonite GX",
+      "set": "Dragon Majesty",
+      "img": "https://den-cards.pokellector.com/257/Dragonite-GX.DRM.37.22611.png",
+      "rarity": "Rare",
+      "cardNum": "37/70"
+    },
+    {
+      "name": "Vibrava",
+      "set": "Dragon Majesty",
+      "img": "https://den-cards.pokellector.com/257/Vibrava.DRM.38.23571.png",
+      "rarity": "Common",
+      "cardNum": "38/70"
+    },
+    {
+      "name": "Flygon",
+      "set": "Dragon Majesty",
+      "img": "https://den-cards.pokellector.com/257/Flygon.DRM.39.23149.png",
+      "rarity": "Uncommon",
+      "cardNum": "39/70"
+    },
+    {
+      "name": "Altaria",
+      "set": "Dragon Majesty",
+      "img": "https://den-cards.pokellector.com/257/Altaria.DRM.40.23572.png",
+      "rarity": "Rare",
+      "cardNum": "40/70"
+    },
+    {
+      "name": "Altaria GX",
+      "set": "Dragon Majesty",
+      "img": "https://den-cards.pokellector.com/257/Altaria-GX.DRM.41.23192.png",
+      "rarity": "Rare",
+      "cardNum": "41/70"
+    },
+    {
+      "name": "Bagon",
+      "set": "Dragon Majesty",
+      "img": "https://den-cards.pokellector.com/257/Bagon.DRM.42.23573.png",
+      "rarity": "Common",
+      "cardNum": "42/70"
+    },
+    {
+      "name": "Shelgon",
+      "set": "Dragon Majesty",
+      "img": "https://den-cards.pokellector.com/257/Shelgon.DRM.43.23574.png",
+      "rarity": "Uncommon",
+      "cardNum": "43/70"
+    },
+    {
+      "name": "Salamence GX",
+      "set": "Dragon Majesty",
+      "img": "https://den-cards.pokellector.com/257/Salamence-GX.DRM.44.23575.png",
+      "rarity": "Rare",
+      "cardNum": "44/70"
+    },
+    {
+      "name": "Druddigon",
+      "set": "Dragon Majesty",
+      "img": "https://den-cards.pokellector.com/257/Druddigon.DRM.45.23588.png",
+      "rarity": "Uncommon",
+      "cardNum": "45/70"
+    },
+    {
+      "name": "Zekrom",
+      "set": "Dragon Majesty",
+      "img": "https://den-cards.pokellector.com/257/Zekrom.DRM.46.23148.png",
+      "rarity": "Rare",
+      "cardNum": "46/70"
+    },
+    {
+      "name": "Kyurem",
+      "set": "Dragon Majesty",
+      "img": "https://den-cards.pokellector.com/257/Kyurem.DRM.47.23193.png",
+      "rarity": "Rare",
+      "cardNum": "47/70"
+    },
+    {
+      "name": "White Kyurem GX",
+      "set": "Dragon Majesty",
+      "img": "https://den-cards.pokellector.com/257/White-Kyurem-GX.DRM.48.23576.png",
+      "rarity": "Rare",
+      "cardNum": "48/70"
+    },
+    {
+      "name": "Zygarde",
+      "set": "Dragon Majesty",
+      "img": "https://den-cards.pokellector.com/257/Zygarde.DRM.49.23577.png",
+      "rarity": "Uncommon",
+      "cardNum": "49/70"
+    },
+    {
+      "name": "Turtonator",
+      "set": "Dragon Majesty",
+      "img": "https://den-cards.pokellector.com/257/Turtonator.DRM.50.23194.png",
+      "rarity": "Uncommon",
+      "cardNum": "50/70"
+    },
+    {
+      "name": "Drampa",
+      "set": "Dragon Majesty",
+      "img": "https://den-cards.pokellector.com/257/Drampa.DRM.51.23578.png",
+      "rarity": "Uncommon",
+      "cardNum": "51/70"
+    },
+    {
+      "name": "Jangmo-o",
+      "set": "Dragon Majesty",
+      "img": "https://den-cards.pokellector.com/257/Jangmo-o.DRM.52.23579.png",
+      "rarity": "Common",
+      "cardNum": "52/70"
+    },
+    {
+      "name": "Hakamo-o",
+      "set": "Dragon Majesty",
+      "img": "https://den-cards.pokellector.com/257/Hakamo-o.DRM.53.23580.png",
+      "rarity": "Common",
+      "cardNum": "53/70"
+    },
+    {
+      "name": "Kommo-o",
+      "set": "Dragon Majesty",
+      "img": "https://den-cards.pokellector.com/257/Kommo-o.DRM.54.23581.png",
+      "rarity": "Rare",
+      "cardNum": "54/70"
+    },
+    {
+      "name": "Kangaskhan",
+      "set": "Dragon Majesty",
+      "img": "https://den-cards.pokellector.com/257/Kangaskhan.DRM.55.23582.png",
+      "rarity": "Common",
+      "cardNum": "55/70"
+    },
+    {
+      "name": "Swablu",
+      "set": "Dragon Majesty",
+      "img": "https://den-cards.pokellector.com/257/Swablu.DRM.56.23583.png",
+      "rarity": "Common",
+      "cardNum": "56/70"
+    },
+    {
+      "name": "Swablu",
+      "set": "Dragon Majesty",
+      "img": "https://den-cards.pokellector.com/257/Swablu.DRM.57.23591.png",
+      "rarity": "Common",
+      "cardNum": "57/70"
+    },
+    {
+      "name": "Blaine's Last Stand",
+      "set": "Dragon Majesty",
+      "img": "https://den-cards.pokellector.com/257/Blaines-Last-Stand.DRM.58.23589.png",
+      "rarity": "Rare",
+      "cardNum": "58/70"
+    },
+    {
+      "name": "Dragon Talon",
+      "set": "Dragon Majesty",
+      "img": "https://den-cards.pokellector.com/257/Dragon-Talon.DRM.59.23590.png",
+      "rarity": "Uncommon",
+      "cardNum": "59/70"
+    },
+    {
+      "name": "Fiery Flint",
+      "set": "Dragon Majesty",
+      "img": "https://den-cards.pokellector.com/257/Fiery-Flint.DRM.60.23195.png",
+      "rarity": "Uncommon",
+      "cardNum": "60/70"
+    },
+    {
+      "name": "Lance Prism Star",
+      "set": "Dragon Majesty",
+      "img": "https://den-cards.pokellector.com/257/Lance-Prism-Star.DRM.61.23584.png",
+      "rarity": "Prism Star",
+      "cardNum": "61/70"
+    },
+    {
+      "name": "Switch Raft",
+      "set": "Dragon Majesty",
+      "img": "https://den-cards.pokellector.com/257/Switch-Raft.DRM.62.23585.png",
+      "rarity": "Uncommon",
+      "cardNum": "62/70"
+    },
+    {
+      "name": "Wela Volcano Park",
+      "set": "Dragon Majesty",
+      "img": "https://den-cards.pokellector.com/257/Wela-Volcano-Park.DRM.63.23196.png",
+      "rarity": "Uncommon",
+      "cardNum": "63/70"
+    },
+    {
+      "name": "Zinnia",
+      "set": "Dragon Majesty",
+      "img": "https://den-cards.pokellector.com/257/Zinnia.DRM.64.23197.png",
+      "rarity": "Uncommon",
+      "cardNum": "64/70"
+    },
+    {
+      "name": "Reshiram GX",
+      "set": "Dragon Majesty",
+      "img": "https://den-cards.pokellector.com/257/Reshiram-GX.DRM.65.23592.png",
+      "rarity": "Rare",
+      "cardNum": "65/70"
+    },
+    {
+      "name": "Kingdra GX",
+      "set": "Dragon Majesty",
+      "img": "https://den-cards.pokellector.com/257/Kingdra-GX.DRM.66.23593.png",
+      "rarity": "Rare",
+      "cardNum": "66/70"
+    },
+    {
+      "name": "Dragonite GX",
+      "set": "Dragon Majesty",
+      "img": "https://den-cards.pokellector.com/257/Dragonite-GX.DRM.67.23594.png",
+      "rarity": "Rare",
+      "cardNum": "67/70"
+    },
+    {
+      "name": "Altaria GX",
+      "set": "Dragon Majesty",
+      "img": "https://den-cards.pokellector.com/257/Altaria-GX.DRM.68.23595.png",
+      "rarity": "Rare",
+      "cardNum": "68/70"
+    },
+    {
+      "name": "Blaine’s Last Stand",
+      "set": "Dragon Majesty",
+      "img": "https://den-cards.pokellector.com/257/Blaines-Last-Stand.DRM.69.23596.png",
+      "rarity": "Rare",
+      "cardNum": "69/70"
+    },
+    {
+      "name": "Zinnia",
+      "set": "Dragon Majesty",
+      "img": "https://den-cards.pokellector.com/257/Zinnia.DRM.70.23597.png",
+      "rarity": "Rare",
+      "cardNum": "70/70"
+    },
+    {
+      "name": "Reshiram GX",
+      "set": "Dragon Majesty",
+      "img": "https://den-cards.pokellector.com/257/Reshiram-GX.DRM.71.23598.png",
+      "rarity": "Secret Rare",
+      "cardNum": "71/70"
+    },
+    {
+      "name": "Altaria GX",
+      "set": "Dragon Majesty",
+      "img": "https://den-cards.pokellector.com/257/Altaria-GX.DRM.72.23599.png",
+      "rarity": "Secret Rare",
+      "cardNum": "72/70"
+    },
+    {
+      "name": "Salamence GX",
+      "set": "Dragon Majesty",
+      "img": "https://den-cards.pokellector.com/257/Salamence-GX.DRM.73.23600.png",
+      "rarity": "Secret Rare",
+      "cardNum": "73/70"
+    },
+    {
+      "name": "White Kyurem GX",
+      "set": "Dragon Majesty",
+      "img": "https://den-cards.pokellector.com/257/White-Kyurem-GX.DRM.74.23601.png",
+      "rarity": "Secret Rare",
+      "cardNum": "74/70"
+    },
+    {
+      "name": "Dragon Talon",
+      "set": "Dragon Majesty",
+      "img": "https://den-cards.pokellector.com/257/Dragon-Talon.DRM.75.23602.png",
+      "rarity": "Secret Rare",
+      "cardNum": "75/70"
+    },
+    {
+      "name": "Fiery Flint",
+      "set": "Dragon Majesty",
+      "img": "https://den-cards.pokellector.com/257/Fiery-Flint.DRM.76.23603.png",
+      "rarity": "Secret Rare",
+      "cardNum": "76/70"
+    },
+    {
+      "name": "Switch Raft",
+      "set": "Dragon Majesty",
+      "img": "https://den-cards.pokellector.com/257/Switch-Raft.DRM.77.23604.png",
+      "rarity": "Secret Rare",
+      "cardNum": "77/70"
+    },
+    {
+      "name": "Ultra Necrozma GX",
+      "set": "Dragon Majesty",
+      "img": "https://den-cards.pokellector.com/257/Ultra-Necrozma-GX.DRM.78.23437.png",
+      "rarity": "Secret Rare",
+      "cardNum": "78/70"
+    }
+  ]
+}
