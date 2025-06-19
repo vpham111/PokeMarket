@@ -9,11 +9,13 @@ import org.springframework.security.config.annotation.web.configuration.EnableWe
 import org.springframework.security.crypto.bcrypt.BCryptPasswordEncoder;
 import org.springframework.security.crypto.password.PasswordEncoder;
 import org.springframework.security.web.SecurityFilterChain;
+import org.springframework.security.web.authentication.UsernamePasswordAuthenticationFilter;
 import org.springframework.security.web.util.matcher.AntPathRequestMatcher;
 import org.springframework.security.authentication.AuthenticationManager;
 import org.springframework.security.config.http.SessionCreationPolicy; // ADD THIS
 import org.springframework.http.HttpMethod; // ADD THIS
 
+import com.pokemarket.security.JwtAuthenticationFilter;
 import com.pokemarket.service.CustomUserDetailsService;
 
 @Configuration
@@ -22,6 +24,9 @@ public class SecurityConfig {
 
  @Autowired
  CustomUserDetailsService customUserDetailsService;
+
+ @Autowired
+private JwtAuthenticationFilter jwtAuthenticationFilter;
 
  @Bean
  public static PasswordEncoder passwordEncoder() {
@@ -40,7 +45,8 @@ public class SecurityConfig {
                         .requestMatchers("/api/login", "/api/register").permitAll()
                         .requestMatchers("/api/**").authenticated() // Now this will work properly
                         .anyRequest().permitAll()
-                );
+                )
+                .addFilterBefore(jwtAuthenticationFilter, UsernamePasswordAuthenticationFilter.class);
 
         return http.build();
     }
@@ -51,6 +57,7 @@ public class SecurityConfig {
         configuration.setAllowedMethods(java.util.List.of("GET", "POST", "PUT", "DELETE", "OPTIONS"));
         configuration.setAllowCredentials(true);
         configuration.setAllowedHeaders(java.util.List.of("*"));
+        configuration.setExposedHeaders(java.util.List.of("Set-Cookie"));
 
         var source = new org.springframework.web.cors.UrlBasedCorsConfigurationSource();
         source.registerCorsConfiguration("/**", configuration);
