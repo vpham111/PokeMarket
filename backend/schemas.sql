@@ -46,3 +46,11 @@ CREATE TABLE Transaction (
     status transactionStatus DEFAULT 'Pending',
     purchase_date TIMESTAMP DEFAULT now()
 );
+
+CREATE TABLE password_reset_token (
+    id UUID PRIMARY KEY DEFAULT uuid_generate_v4(),
+    token VARCHAR(255),
+    user_id UUID NOT NULL REFERENCES Users(id),
+    expiry_date TIMESTAMP,
+    CONSTRAINT ukf90ivichjaokvmovxpnlm5nin UNIQUE (user_id)
+);

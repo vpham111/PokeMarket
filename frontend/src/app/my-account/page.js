@@ -110,7 +110,7 @@ export default function Page() {
                             Email: {email}
                         </p>
                         <p>
-                            <span onClick={() => setPassword("new-password")} style={{ cursor: "pointer", color: "blue" }}>
+                            <span onClick={() => router.push("/forgot-password")} style={{ cursor: "pointer", color: "blue" }}>
                                 Change Password
                             </span>
                         </p>
