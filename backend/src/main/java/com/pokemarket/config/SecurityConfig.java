@@ -42,7 +42,7 @@ private JwtAuthenticationFilter jwtAuthenticationFilter;
                 )
                 .authorizeHttpRequests(requests -> requests
                         .requestMatchers(HttpMethod.OPTIONS, "/**").permitAll()
-                        .requestMatchers("/api/login", "/api/register").permitAll()
+                        .requestMatchers("/api/login", "/api/register", "/api/forgot-password").permitAll()
                         .requestMatchers("/api/**").authenticated() // Now this will work properly
                         .anyRequest().permitAll()
                 )
