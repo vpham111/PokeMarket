@@ -13,9 +13,9 @@ public interface CardRepository extends JpaRepository<Card, UUID> {
     @Query(value = """
             SELECT DISTINCT ON (id) *
         FROM (
-            SELECT *, ts_rank(to_tsvector('english', name), to_tsquery('english', :keyword || ':*')) AS rank
+            SELECT *, ts_rank(to_tsvector('english', name), to_tsquery('english', replace(:keyword, ' ', ' & ') || ':*')) AS rank
             FROM card
-            WHERE to_tsvector('english', name) @@ to_tsquery('english', :keyword || ':*')
+            WHERE to_tsvector('english', name) @@ to_tsquery('english', replace(:keyword, ' ', ' & ') || ':*')
            \s
             UNION ALL
            \s
@@ -30,9 +30,9 @@ public interface CardRepository extends JpaRepository<Card, UUID> {
     @Query(value = """
             SELECT DISTINCT ON (id) *
                 FROM (
-                    SELECT *, ts_rank(to_tsvector('english', name), to_tsquery('english', :keyword || ':*')) AS rank
+                    SELECT *, ts_rank(to_tsvector('english', name), to_tsquery('english', replace(:keyword, ' ', ' & ') || ':*')) AS rank
                     FROM card
-                    WHERE to_tsvector('english', name) @@ to_tsquery('english', :keyword || ':*')
+                    WHERE to_tsvector('english', name) @@ to_tsquery('english', replace(:keyword, ' ', ' & ') || ':*')
                    \s
                     UNION ALL
                    \s

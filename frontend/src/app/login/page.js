@@ -19,7 +19,7 @@ export default function Page() {
         //console.log(email + " " + password)
         let data = {}
         if (login) {
-             data = await doLogin(email, password)
+            data = await doLogin(email, password)
         }
         else {
             data = await doRegister(firstName, lastName, email, password)
@@ -80,13 +80,7 @@ export default function Page() {
                     )}
 
                     <p style={{color: "black"}}>
-                        <span onClick={() => router.push("/forgot-password")} style={{color: "blue", cursor: "pointer"}}>
-                            Forgot Password?
-                        </span>
-                    </p>
-
-                    <p style={{color: "black"}}>
-                        Not a Member?{" "} 
+                        Not a Member?{" "}
                         <span onClick={changeMode} style={{color: "blue", cursor: "pointer"}}>
                             Join Now
                         </span>

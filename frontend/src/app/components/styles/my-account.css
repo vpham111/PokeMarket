@@ -22,12 +22,12 @@
 
 .tool-bar {
   display: flex;
-  flex-direction: column;  
-  border: 1px solid #ccc; 
+  flex-direction: column;
+  border: 1px solid #ccc;
   padding: 1rem;
-  width: 200px;            
-  gap: 1rem;               
-  background-color: #f9f9f9; 
+  width: 200px;
+  gap: 1rem;
+  background-color: #f9f9f9;
 }
 
 .tool-bar span {
@@ -38,7 +38,7 @@
 }
 
 .tool-bar span:hover {
-    background-color: #0070f3;
+  background-color: #0070f3;
 }
 
 
@@ -52,16 +52,16 @@
 }
 
 .content-inner .box + .box {
-  margin-top: 2rem; 
-  
+  margin-top: 2rem;
+
 }
 
 .content-inner h3 {
-  margin-bottom: 1rem; 
+  margin-bottom: 1rem;
 }
 
 .content-inner p {
-  margin-bottom: 1rem; 
+  margin-bottom: 1rem;
 }
 
 .content-inner p span {
@@ -70,7 +70,7 @@
 }
 
 .content-inner p span:hover {
-    color: #274261;
+  color: #274261;
 }
 
 .box {
@@ -109,7 +109,5 @@
 }
 
 .button:hover {
-    background-color: #274261;
+  background-color: #274261;
 }
-
-

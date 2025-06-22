@@ -73,7 +73,7 @@ export default function FullSearch() {
 
 
     return (
-        <>
+        <div style={{marginTop: "1rem"}}>
 
             <form onSubmit={handleSubmit} className="search-wrapper">
                 <div className="search-box">
@@ -130,6 +130,6 @@ export default function FullSearch() {
                 )}
             </form>
 
-        </>
+        </div>
     )
 }
