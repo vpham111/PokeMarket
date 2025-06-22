@@ -1,13 +1,14 @@
 package com.pokemarket.controller;
 
 import java.security.Principal;
-import java.util.Calendar;
-import java.util.HashMap;
-import java.util.Locale;
-import java.util.Map;
-import java.util.UUID;
-import java.util.Date;
+import java.util.*;
+import java.util.stream.Collectors;
+import java.util.stream.Stream;
 
+import com.pokemarket.model.Card;
+import com.pokemarket.model.Set;
+import com.pokemarket.repository.CardRepository;
+import com.pokemarket.repository.SetRepository;
 import jakarta.servlet.http.HttpServletRequest;
 import jakarta.servlet.http.HttpServletResponse;
 import jakarta.servlet.http.HttpSession;
@@ -66,6 +67,12 @@ public class UserController {
 
  @Autowired
  private PasswordTokenRepository passwordTokenRepository;
+
+ @Autowired
+ private CardRepository cardRepository;
+
+ @Autowired
+ private SetRepository setRepository;
 
  @GetMapping("/home")
  public ResponseEntity<?> home(Principal principal) {
@@ -292,6 +299,31 @@ public ResponseEntity<?> resetUserPassword(@RequestBody Map<String, String> payl
     ));
 }
 
+@GetMapping("/search")
+public ResponseEntity<?> search(@RequestParam String query, @RequestParam String type, HttpServletRequest request) {
+    if (type.equals("autocomplete")) {
+        List<Card> cardsList = cardRepository.searchByNameFullTextAuto(query);
+        List<Set> setsList = setRepository.searchByNameFullTextAuto(query);
+
+        List<Object> combinedList = Stream.concat(cardsList.stream(), setsList.stream())
+                .collect(Collectors.toList());
+        return ResponseEntity.ok(Map.of(
+                "status", "success",
+                "results", combinedList
+        ));
+    }
+    else {
+        List<Card> cardsList = cardRepository.searchByNameFullText(query);
+        List<Set> setsList = setRepository.searchByNameFullText(query);
+
+        List<Object> combinedList = Stream.concat(cardsList.stream(), setsList.stream())
+                .collect(Collectors.toList());
+        return ResponseEntity.ok(Map.of(
+                "status", "success",
+                "results", combinedList
+        ));
+    }
+}
 
 private String getAppUrl(HttpServletRequest request) {
     return request.getScheme() + "://" +

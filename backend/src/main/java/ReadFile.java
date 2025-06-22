@@ -21,7 +21,7 @@ class Card {
 
 public class ReadFile {
     public static void main(String[] args) throws ClassNotFoundException, SQLException, FileNotFoundException {
-        String path = "E:\\cs122b\\PokeMarket\\backend\\data";
+        String path = "E:\\cs122b\\PokeMarket\\backend\\japanData";
         File file = new File(path);
         File[] files = file.listFiles();
 
@@ -42,7 +42,7 @@ public class ReadFile {
                             String sql = "INSERT INTO Set (name, language) VALUES (?, ?) RETURNING id";
                             PreparedStatement pstmt = conn.prepareStatement(sql);
                             pstmt.setString(1, setName);
-                            pstmt.setString(2, "English");
+                            pstmt.setString(2, "Japanese");
                             ResultSet rs = pstmt.executeQuery();
 
                             if (rs.next()) {
@@ -54,13 +54,13 @@ public class ReadFile {
                             jsonReader.beginArray();
                             while (jsonReader.hasNext()) {
                                 Card card = gson.fromJson(jsonReader, Card.class);
-                                String insertCardSQL = "INSERT INTO Card (name, setId, rarity, card_number, language) VALUES (?, ?, ?, ?, ?)";
+                                String insertCardSQL = "INSERT INTO Card (name, set_id, rarity, card_number, language) VALUES (?, ?, ?, ?, ?)";
                                 PreparedStatement psCard = conn.prepareStatement(insertCardSQL);
                                 psCard.setString(1, card.name);
                                 psCard.setObject(2, setId);
                                 psCard.setString(3, card.rarity);
                                 psCard.setString(4, card.cardNum);
-                                psCard.setString(5, "English");
+                                psCard.setString(5, "Japanese");
                                 psCard.executeUpdate();
                                 System.out.println("Inserted card: " + card.name);
                             }

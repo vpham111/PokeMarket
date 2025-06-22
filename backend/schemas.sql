@@ -9,7 +9,7 @@ CREATE TABLE Set (
 CREATE TABLE Card (
     id UUID PRIMARY KEY DEFAULT uuid_generate_v4(),
     name VARCHAR(100),
-    setId UUID REFERENCES Set(id),
+    set_id UUID REFERENCES Set(id),
     rarity VARCHAR (50),
     card_number VARCHAR(20),
     language VARCHAR(15)
@@ -28,8 +28,8 @@ CREATE TABLE Users (
 CREATE TYPE listingStatus AS ENUM ('Active', 'Sold');
 CREATE TABLE Listings (
     id UUID PRIMARY KEY DEFAULT uuid_generate_v4(),
-    cardId UUID references Card(id),
-    sellerId UUID references Users(id),
+    card_id UUID references Card(id),
+    seller_id UUID references Users(id),
     price DECIMAL(10, 2) NOT NULL ,
     quantity INT CHECK (quantity > 0),
     created_at timestamp,
@@ -39,8 +39,8 @@ CREATE TABLE Listings (
 CREATE TYPE transactionStatus AS ENUM ('Pending', 'Completed', 'Cancelled');
 CREATE TABLE Transaction (
     id UUID PRIMARY KEY DEFAULT uuid_generate_v4(),
-    buyerId UUID references Users(id),
-    listingId UUID references Listings(id),
+    buyer_id UUID references Users(id),
+    listing_id UUID references Listings(id),
     sale_price DECIMAL(10, 2) NOT NULL ,
     quantity INT CHECK (quantity > 0),
     status transactionStatus DEFAULT 'Pending',
@@ -54,3 +54,14 @@ CREATE TABLE password_reset_token (
     expiry_date TIMESTAMP,
     CONSTRAINT ukf90ivichjaokvmovxpnlm5nin UNIQUE (user_id)
 );
+
+CREATE INDEX idx_card_name_gin
+ON card
+USING GIN (to_tsvector('english', name));
+
+CREATE INDEX idx_set_name_gin
+ON set
+USING GIN (to_tsvector('english', name));
+
+CREATE INDEX idx_card_name_btree ON card(name);
+CREATE INDEX idx_card_set_btree ON set(name);
