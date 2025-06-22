@@ -4,7 +4,8 @@ import {useState} from "react";
 import {useRouter} from "next/navigation";
 
 export default function Page() {
-    const [email, setEmail] = useState("")
+    const [email, setEmail] = useState("");
+    const [success, setSuccess] = useState("");
     const [error, setError] = useState("");
     const router = useRouter();
 
@@ -22,7 +23,7 @@ export default function Page() {
         const data = await response.json();
 
         if (response.ok) {
-            router.push('/');
+            setSuccess("Check your email for the reset link.");
         } else if (response.status === 404) {
             setError("Email Does Not Exist");
         } else {
@@ -52,6 +53,12 @@ export default function Page() {
                             </button>
                         </div>
                     </form>
+
+                    {success && (
+                        <div className="success-message" style={{color: "green", marginTop: "10px"}}>
+                            {success}
+                        </div>
+                    )}
 
                     {error && (
                         <div className="error-message" style={{color: "red", marginTop: "10px"}}>
