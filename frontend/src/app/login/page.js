@@ -80,6 +80,12 @@ export default function Page() {
                     )}
 
                     <p style={{color: "black"}}>
+                        <span onClick= {router.push("/forgot-password")} style={{color: "blue", cursor: "pointer"}}>
+                            Forgot Password?
+                        </span>
+                    </p>
+
+                    <p style={{color: "black"}}>
                         Not a Member?{" "}
                         <span onClick={changeMode} style={{color: "blue", cursor: "pointer"}}>
                             Join Now

@@ -11,7 +11,7 @@ export default function Home() {
     <>
       <Navbar />
       <div style={{alignItems: "center"}}>
-          <FullSearch />
+        <FullSearch />
         <TopMovers />
         <FeatureBoard />
       </div>

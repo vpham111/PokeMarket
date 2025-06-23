@@ -15,7 +15,6 @@ import jakarta.servlet.http.HttpSession;
 import jakarta.servlet.http.Cookie;
 
 import org.springframework.beans.factory.annotation.Autowired;
-import org.springframework.context.MessageSource;
 import org.springframework.core.env.Environment;
 import org.springframework.http.ResponseEntity;
 import org.springframework.security.authentication.AnonymousAuthenticationToken;
@@ -37,6 +36,7 @@ import com.pokemarket.model.User;
 import com.pokemarket.service.UserService;
 import com.pokemarket.util.JwtUtil;
 import com.pokemarket.dto.UserDto;
+import com.pokemarket.dto.CardDto;
 import com.pokemarket.repository.PasswordTokenRepository;
 
 @RestController
@@ -58,9 +58,6 @@ public class UserController {
 
  @Autowired
  private JavaMailSender mailSender;
-
- @Autowired
- private MessageSource messages;
 
  @Autowired
  private Environment env;

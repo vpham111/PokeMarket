@@ -1,9 +1,9 @@
 .header-box {
     background-color: red;
-    display: block;        /* Makes the link fill the container */
-    width: 100%;          /* Ensures full width */
-    height: 100%;         /* Ensures full height */
-    text-align: center;   /* Centers the text */
+    display: block;        
+    width: 100%;          
+    height: 100%;         
+    text-align: center;   
     padding: 0.2rem 0.5rem;
 }
 
