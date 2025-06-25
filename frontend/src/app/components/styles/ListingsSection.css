@@ -1,0 +1,79 @@
+.listingInput {
+    flex: 1;
+    padding: 10px;
+    font-size: 12px;
+    border: 1px solid #ccc;
+    border-radius: 4px 0 0 4px;
+    outline: none;
+    position: relative;
+    width: 200px;
+    margin: 0 auto;
+}
+
+.createListingButton {
+    padding: 10px;
+    border-radius: 10px;
+    margin-top: 15px;
+    margin-bottom: 15px;
+    border: none;
+    color: white;
+    cursor: pointer;
+    background-color: #4CAF50;
+    font-size: 16px;
+}
+
+.listings-section {
+    padding: 1rem;
+    background-color: #f9f9f9;
+    border-radius: 8px;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+    max-width: 600px;
+    margin: 0 auto;
+}
+
+.listings-list {
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+}
+
+.listing-card {
+    background: #fff;
+    padding: 1rem;
+    margin-bottom: 0.75rem;
+    border-radius: 6px;
+    border: 1px solid #ddd;
+}
+
+.listing-attribute {
+    margin-bottom: 0.25rem;
+}
+
+.listing-attribute:last-child {
+    margin-bottom: 0;
+}
+
+.listings-empty {
+    text-align: center;
+    color: #666;
+}
+
+.listing-filters {
+    margin-bottom: 1rem;
+    text-align: center;
+}
+
+.filter-button {
+    padding: 0.5rem 1rem;
+    margin: 0 0.5rem;
+    border: 1px solid #ccc;
+    background-color: #eee;
+    border-radius: 4px;
+    cursor: pointer;
+}
+
+.filter-button.active {
+    background-color: #5e5df0;
+    color: white;
+    border-color: #5e5df0;
+}

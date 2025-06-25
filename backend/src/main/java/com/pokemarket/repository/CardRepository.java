@@ -44,4 +44,12 @@ public interface CardRepository extends JpaRepository<Card, UUID> {
                 LIMIT 15
         """, nativeQuery = true)
     List<Card> searchByNameFullTextAuto(@Param("keyword") String keyword);
+
+    @Query(value= """
+    SELECT c.name, c.rarity, c.card_number, c.language, s.name
+    FROM Card c
+    JOIN Set s ON c.set_id = s.id
+    WHERE c.id = :id
+""", nativeQuery = true)
+    Object getCardByID(UUID id);
 }

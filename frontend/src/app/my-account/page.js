@@ -104,7 +104,7 @@ export default function Page() {
                 <div className="main">
                     <div className="content-inner">
                         <h3 style={{ color: "black" }}>
-                            Welcome Back, {firstName && lastName ? `${firstName} ${lastName}` : firstName || email}
+                            Welcome Back, {firstName && lastName ? `${firstName} ${lastName}` : firstName }
                         </h3>
                         <p style={{ color: "black" }}>
                             Email: {email}

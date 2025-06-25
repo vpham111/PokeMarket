@@ -30,6 +30,12 @@
 
 .buttons {
     margin-left: auto;
+    display: flex;
+    align-items: center;
+}
+.moreButtons {
+    display: flex;
+    align-items: center;
 }
 .logo {
     margin-left: 1rem;
