@@ -1,9 +1,9 @@
 "use client"
 import styles from "../components/styles/Login.css"
 import { useSearchParams, useRouter } from "next/navigation";
-import { useState } from "react";
+import { useState, Suspense } from "react";
 
-export default function ResetPasswordPage() {
+function ResetPasswordForm() {
     const searchParams = useSearchParams();
     const router = useRouter();
     const token = searchParams.get("token");
@@ -75,5 +75,19 @@ export default function ResetPasswordPage() {
                 {message && <div style={{ color: "green" }}>{message}</div>}
             </div>
         </div>
+    );
+}
+
+export default function ResetPasswordPage() {
+    return (
+        <Suspense fallback={
+            <div className="loginPage">
+                <div className="loginMain">
+                    <h3 style={{ color: "black" }}>Loading...</h3>
+                </div>
+            </div>
+        }>
+            <ResetPasswordForm />
+        </Suspense>
     );
 }

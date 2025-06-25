@@ -1,0 +1,60 @@
+
+.content-inner {
+    display: flex;
+    flex-direction: row;
+    gap: 16px;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap; 
+}
+
+.button-wrapper {
+  display: flex;
+  justify-content: center;
+  margin-top: 1.5rem;
+  
+}
+
+.button {
+  background-color: #5E5DF0;
+  color: white;
+  border: none;
+  padding: 0.75rem 1.5rem;
+  border-radius: 4px;
+  cursor: pointer;
+  font-size: 1rem;
+  text-align: center;
+  width: auto;
+  display: flex;
+  align-items: center;
+  gap: 8px;
+}
+
+.button:hover {
+  background-color: #274261;
+}
+
+.dropdown {
+  background: cadetblue;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.15);
+  min-width: 180px;
+  position: absolute;
+  top: 100%;
+  left: 0;
+  margin-top: 4px;
+  z-index: 1000;
+  white-space: nowrap;
+}
+
+.dropdown-item {
+  padding: 10px 16px;
+  cursor: pointer;
+}
+
+.dropdown-item:hover {
+  background-color: #274261;
+}
+
+
