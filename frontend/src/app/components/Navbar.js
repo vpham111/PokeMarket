@@ -78,17 +78,25 @@ export default function Navbar() {
         router.push("/my-account")
     }
 
+    const goToSell = (e) => {
+        e.preventDefault()
+        router.push("/sell")
+    }
+
     return (
         <nav className="navBar">
             <div className="logo">
                 <h1>
-                    <span onClick={goToHome} style={{ cursor: "pointer"}}>LOGO</span>
+                    <span onClick={goToHome} style={{cursor: "pointer"}}>LOGO</span>
                 </h1>
             </div>
             <div className="buttons">
                 <button className="navButton" onClick={goToAccount}>My Account</button>
                 {isLoggedIn ? (
-                    <button className="navButton" onClick={handleLogout}>Log Out</button>
+                    <div className="moreButtons">
+                        <button className="navButton" onClick={goToSell}>Sell</button>
+                        <button className="navButton" onClick={handleLogout}>Log Out</button>
+                    </div>
                 ) : (
                     <button className="navButton" onClick={goToLogin}>Log In</button>
                 )}
