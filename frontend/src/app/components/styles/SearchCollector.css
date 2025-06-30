@@ -31,7 +31,7 @@
 .box {
   color: black;
   background-color: cadetblue;
-  padding: 1.5rem;
+  padding: 2rem;
   border: 1px solid #ddd;
   border-radius: 0 0 8px 8px;
   box-shadow: 0 2px 6px rgba(0, 0, 0, 0.05);
@@ -56,21 +56,23 @@
   display: grid;
   grid-template-columns: repeat(4, 1fr);
   gap: 20px;
-  padding: 20px;
+  padding: 10px;
 }
 
 .saved-item {
   display: flex;
-  flex-direction: column;
+  flex-direction: row;
   background-color: #e0e0e0;
   color: black;
-  padding: 15px;
+  padding: 25px;
   border-radius: 4px;
   text-align: center;
+  align-items: center;
+  justify-content: center;
 }
 
 .card-placeholder {
-  width: 100%;
+  width: 120px;
   height: 120px;
   background-color: #5E5DF0;
   color: white;
@@ -79,45 +81,29 @@
   justify-content: center;
   font-size: 12px;
   margin-bottom: 10px;
+  border-radius: 50%;
 }
 
 .item-details {
-  flex: 1;
+  flex: 5;
 }
 
 .item-details h3 {
   margin: 0 0 8px 0;
   font-size: 24px;
+  margin-bottom: 20px;
 }
 
 .item-price {
-  margin: 0 0 10px 0;
-  font-size: 14px;
-  margin-right: 20px;
-  justify-content: center;
-  align-items: center;
-
+    margin: 0 0 10px 0;
+    font-size: 14px;
 }
 
-.item-controls {
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  gap: 10px;
-}
 
-.price-and-listings {
+.value-and-price {
     display: flex;
-    justify-content: center;
+    justify-content: space-between;
+    align-items: center;
+    gap: 10px;
 }
 
-
-.remove-btn, .save-later-btn, .add-btn {
-  padding: 4px 8px;
-  font-size: 12px;
-  border: 1px solid #ccc;
-  background-color: #5E5DF0;
-  color: white;
-  cursor: pointer;
-  border-radius: 4px;
-}

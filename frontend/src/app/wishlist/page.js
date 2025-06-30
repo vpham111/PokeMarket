@@ -10,10 +10,10 @@ export default function Page() {
 
   // Placeholder
     const wishlistItems = [
-      { id: 1, name: "Card Details", price: 25.99, image: "/card-placeholder.jpg" },
-      { id: 2, name: "Card Details", price: 15.99, image: "/card-placeholder.jpg" },
-      { id: 3, name: "Card Details", price: 15.99, image: "/card-placeholder.jpg" },
-      { id: 4, name: "Card Details", price: 15.99, image: "/card-placeholder.jpg" }
+      { id: 1, name: "Card Details", price: 25.99, listings: 3, image: "/card-placeholder.jpg" },
+      { id: 2, name: "Card Details", price: 15.99, listings: 3, image: "/card-placeholder.jpg" },
+      { id: 3, name: "Card Details", price: 15.99, listings: 3, image: "/card-placeholder.jpg" },
+      { id: 4, name: "Card Details", price: 15.99, listings: 3, image: "/card-placeholder.jpg" }
 
     ];
 
@@ -40,11 +40,11 @@ export default function Page() {
                 </div>
                 <div className="item-details">
                   <h3>Card Details</h3>
-                  <p className="item-price">Price: ${item.price}</p>
+                  <div className="price-and-listings">
+                    <p className="item-price">Price: ${item.price}</p>
+                    <label className="item-price">Number of listings: {item.listings}</label>
+                  </div>
                   <div className="item-controls">
-                    <div className="num-of-listings">
-                      <label>Number of listings: </label>
-                    </div>
                     <button className="add-btn" disabled>Add</button>
                     <button className="remove-btn" disabled>Remove</button>
                   </div>

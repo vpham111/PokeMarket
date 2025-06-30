@@ -1,6 +1,6 @@
 "use client";
 
-import "../components/styles/my-account.css";
+import "../components/styles/MyAccount.css";
 import { useState, useEffect } from "react";
 import { useRouter } from "next/navigation";
 import Navbar from "@/app/components/Navbar";
