@@ -121,6 +121,7 @@
 
 .saved-items {
   padding: 20px;
+  color: black;
 }
 
 .saved-item {
@@ -179,5 +180,5 @@
   grid-column: 1 / -1;
   text-align: center;
   padding: 40px;
-  color: #ccc;
+  color: black;
 }

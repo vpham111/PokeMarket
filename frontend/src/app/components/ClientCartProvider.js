@@ -11,7 +11,7 @@ export default function ClientCartProvider({ children }) {
       successUrl={`${process.env.NEXT_PUBLIC_URL || 'http://localhost:3000'}/success`}
       cancelUrl={`${process.env.NEXT_PUBLIC_URL || 'http://localhost:3000'}/`}
       currency="USD"
-      shouldPersist={false} 
+      shouldPersist={true} 
       loading={<div>Loading cart...</div>}
     >
       {children}
