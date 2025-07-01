@@ -2,10 +2,13 @@
 import { useState, useEffect } from "react";
 import styles from "./styles/NavBar.css"
 import {useRouter} from "next/navigation";
+import { useShoppingCart } from "use-shopping-cart";
+
 
 export default function Navbar() {
     const router = useRouter()
     const [isLoggedIn, setIsLoggedIn] = useState(false);
+    const { cartCount } = useShoppingCart();
 
     useEffect(() => {
         const checkAuthStatus = async () => {
@@ -100,7 +103,7 @@ export default function Navbar() {
                 ) : (
                     <button className="navButton" onClick={goToLogin}>Log In</button>
                 )}
-                <button className="navButton" onClick={goToCart}>Cart</button>
+                <button className="navButton" onClick={goToCart}>🛒 {cartCount}</button>
             </div>
         </nav>
     )

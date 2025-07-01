@@ -1,12 +1,30 @@
 "use client";
 
-import "../components/styles/wishlist.css";
+import "../components/styles/BuyCards.css";
 import { useState, useEffect } from "react";
 import Navbar from "@/app/components/Navbar";
 import FullSearch from "@/app/components/FullSearch";
 import FilterSort from "@/app/components/FilterSort";
+import { useShoppingCart } from "use-shopping-cart";
+
 
 export default function Page() {
+    
+    const { addItem } = useShoppingCart();
+    const [toastMessage, setToastMessage] = useState("");
+
+    const addToCart = (item) => {
+        addItem({
+            name: item.name,
+            id: item.id.toString(),
+            price: Math.round(item.price * 100), 
+            currency: "USD",
+            image: item.image,
+        });
+
+        setToastMessage("Item successfully added to cart!");
+        setTimeout(() => setToastMessage(""), 2000);
+    };
 
   // Placeholder
     const wishlistItems = [
@@ -26,9 +44,14 @@ export default function Page() {
       <Navbar/>
       <FullSearch/>
       <FilterSort/>
+      {toastMessage && (
+        <div className="toast-message">
+            {toastMessage}
+        </div>
+    )}
     <div className="layout">
         <div className="section-header">
-          <span className="summary-text">Wishlist</span>
+          <span className="summary-text">Buy Cards</span>
         </div>
 
         <div className="box">      
@@ -46,7 +69,8 @@ export default function Page() {
                   </div>
                   <div className="item-controls">
                     <button className="add-btn" onClick={() => addToCart(item)}>Add to Cart</button>
-                    <button className="add-btn" disabled>Remove</button>
+                    <button className="add-btn" disabled>Add to Wishlist</button>
+                    <button className="add-btn" disabled>Add to Collection</button>
                   </div>
                 </div>
               </div>
