@@ -3,8 +3,10 @@
 import "../components/styles/FilterSort.css";
 import { useState, useEffect } from "react";
 
-export default function FilterSort() {
+export default function FilterSort({ onSortChange, onFilterChange }) {
     const [activeDropdown, setActiveDropdown] = useState(null);
+    const [filterOption, setFilterOption] = useState(null);
+    const [sortOption, setSortOption] = useState(null);
 
     useEffect(() => {
         const handleClickOutside = (event) => {
@@ -31,7 +33,28 @@ export default function FilterSort() {
     };
 
     const handleFilterSelect = (filterType, value) => {
-        console.log(`Selected ${filterType}:`, value);
+        if (filterType === "sort") {
+            onSortChange(value);           
+        } else {
+            onFilterChange(filterType, value); 
+        }
+        setActiveDropdown(null);
+    };
+
+    const handleFilterChange = (type, value) => {
+        const newFilter = type === null ? null : { type, value };
+        setFilterOption(newFilter);
+        onFilterSortChange?.({ filter: newFilter, sort: sortOption });
+    };
+
+    const handleSortChange = (value) => {
+        setSortOption(value);
+        onFilterSortChange?.({ filter: filterOption, sort: value });
+    };
+
+    const resetFilters = () => {
+        onFilterChange(null, null);  
+        onSortChange(null);          
         setActiveDropdown(null);
     };
 
@@ -129,6 +152,9 @@ export default function FilterSort() {
                                         <div className="dropdown-item" onClick={() => handleFilterSelect('sort', 'name-az')}>
                                             Name: A to Z
                                         </div>
+                                        <div className="dropdown-item" onClick={() => handleFilterSelect('sort', 'name-za')}>
+                                            Name: Z to to A
+                                        </div>
                                         <div className="dropdown-item" onClick={() => handleFilterSelect('sort', 'newest')}>
                                             Newest First
                                         </div>
@@ -138,6 +164,10 @@ export default function FilterSort() {
                                     </div>
                                 )}
                             </div>
+                            
+                        </div>
+                        <div className="button-wrapper">
+                            <button className="button" onClick={resetFilters}>Reset Filters</button>
                         </div>
                     </div>
         </>
